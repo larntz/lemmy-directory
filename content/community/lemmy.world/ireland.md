@@ -3,7 +3,7 @@ title: "Ireland"
 name: "ireland"
 description: "An Irish community in the fediverse"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ireland"
@@ -54,4 +54,4 @@ An Irish community in the fediverse
 |----------------------|---|
 | Published            | 2023-06-12 20:36:27 |
 | Updated              | 2023-06-12 20:41:03 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

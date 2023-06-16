@@ -3,7 +3,7 @@ title: "BYU Cougars"
 name: "byucougars"
 description: "A community to discuss Brigham-Young Cougars athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/byucougars"
@@ -54,4 +54,4 @@ A community to discuss Brigham-Young Cougars athletics.<br><br>**Looking for Mod
 |----------------------|---|
 | Published            | 2023-06-14 23:56:37 |
 | Updated              | 2023-06-15 23:12:07 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

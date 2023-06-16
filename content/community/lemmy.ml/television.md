@@ -3,19 +3,19 @@ title: "Television"
 name: "television"
 description: "Discussion on clips, shows, etc. from television/movies. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/television"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 369
-posts: 22
-comments: 29
-weight: 22
-dau: 1
-wau: 9
-mau: 15
+subscribers: 380
+posts: 24
+comments: 30
+weight: 24
+dau: 5
+wau: 15
+mau: 22
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion on clips, shows, etc. from television/movies.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 369 |
-| Posts                | 22  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 15  |
+| Subscribers          | 380 |
+| Posts                | 24  |
+| Comments             | 30  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion on clips, shows, etc. from television/movies.
 |----------------------|---|
 | Published            | 2021-01-12 21:17:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

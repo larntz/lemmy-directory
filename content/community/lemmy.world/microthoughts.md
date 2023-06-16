@@ -3,19 +3,19 @@ title: "microthoughts"
 name: "microthoughts"
 description: "basically twitter -- post little microblogs, microthoughts about your day or life or the culture"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/microthoughts"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 215
+subscribers: 233
 posts: 11
-comments: 63
+comments: 65
 weight: 11
-dau: 17
-wau: 30
-mau: 30
+dau: 11
+wau: 51
+mau: 51
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ basically twitter -- post little microblogs, microthoughts about your day or lif
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 215 |
+| Subscribers          | 233 |
 | Posts                | 11  |
-| Comments             | 63  |
-| Daily Active Users   | 17  |
-| Weekly Active Users  | 30  |
-| Monthly Active Users | 30  |
+| Comments             | 65  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 51  |
+| Monthly Active Users | 51  |
 
 <br>
 
@@ -54,4 +54,4 @@ basically twitter -- post little microblogs, microthoughts about your day or lif
 |----------------------|---|
 | Published            | 2023-06-13 16:34:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

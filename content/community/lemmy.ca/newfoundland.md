@@ -3,13 +3,13 @@ title: "newfoundland"
 name: "newfoundland"
 description: "newfoundland chat rooms:https://discord.gg/gEWcR7w4TWhttps://matrix.to/#/#lobby:nfld.ukhttps://t.me/nflduk"
 type: community
-date: "2023-06-15 17:37:28"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/newfoundland"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 21
 posts: 4
 comments: 7
 weight: 4
@@ -41,7 +41,7 @@ newfoundland chat rooms:<br><br>https://discord.gg/gEWcR7w4TW<br><br>https://mat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 21 |
 | Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ newfoundland chat rooms:<br><br>https://discord.gg/gEWcR7w4TW<br><br>https://mat
 |----------------------|---|
 | Published            | 2022-04-17 08:04:54 |
 | Updated              | 2023-06-12 16:47:19 |
-| Last Scraped         | 2023-06-15 17:37:28 |
+| Last Scraped         | 2023-06-16 22:56:35 |

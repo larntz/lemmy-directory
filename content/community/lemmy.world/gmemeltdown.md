@@ -3,7 +3,7 @@ title: "GME Meltdown"
 name: "gmemeltdown"
 description: "Well… you know how it goes. Now we don’t have the rules of Reddit so we are more free to post what we want"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gmemeltdown"
@@ -14,8 +14,8 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Well… you know how it goes. Now we don’t have the rules of Reddit so we are 
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Well… you know how it goes. Now we don’t have the rules of Reddit so we are 
 |----------------------|---|
 | Published            | 2023-06-12 00:47:36 |
 | Updated              | 2023-06-14 03:31:25 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

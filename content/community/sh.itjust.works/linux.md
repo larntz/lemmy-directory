@@ -3,15 +3,15 @@ title: "Linux"
 name: "linux"
 description: "Shit, just linux."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/linux"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 451
+subscribers: 482
 posts: 3
-comments: 47
+comments: 54
 weight: 3
 dau: 5
 wau: 16
@@ -41,9 +41,9 @@ Shit, just linux.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 451 |
+| Subscribers          | 482 |
 | Posts                | 3  |
-| Comments             | 47  |
+| Comments             | 54  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 16  |
 | Monthly Active Users | 16  |
@@ -54,4 +54,4 @@ Shit, just linux.
 |----------------------|---|
 | Published            | 2023-06-11 03:35:28 |
 | Updated              | 2023-06-14 00:52:16 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

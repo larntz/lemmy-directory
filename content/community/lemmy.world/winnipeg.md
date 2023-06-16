@@ -3,7 +3,7 @@ title: "winnipeg"
 name: "winnipeg"
 description: "Made from what's real :) Home to all things Winnipeg, including news, memes, discussion, etc. Be nice and stay cool!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/winnipeg"
@@ -54,4 +54,4 @@ Made from what's real :) Home to all things Winnipeg, including news, memes, dis
 |----------------------|---|
 | Published            | 2023-06-13 01:12:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:18 |

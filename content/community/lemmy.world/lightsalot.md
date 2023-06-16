@@ -3,7 +3,7 @@ title: "Lights"
 name: "lightsalot"
 description: "A Lemmy community for the musician Lights."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lightsalot"
@@ -54,4 +54,4 @@ A Lemmy community for the musician Lights.
 |----------------------|---|
 | Published            | 2023-06-10 02:14:08 |
 | Updated              | 2023-06-10 02:43:55 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

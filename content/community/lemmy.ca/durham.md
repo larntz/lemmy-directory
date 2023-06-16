@@ -3,16 +3,16 @@ title: "Region of Durham"
 name: "durham"
 description: "Community for Durham region-related news/discussion."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/durham"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 6
-comments: 7
-weight: 6
+subscribers: 15
+posts: 8
+comments: 8
+weight: 8
 dau: 1
 wau: 2
 mau: 4
@@ -41,9 +41,9 @@ Community for Durham region-related news/discussion.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 6  |
-| Comments             | 7  |
+| Subscribers          | 15 |
+| Posts                | 8  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Community for Durham region-related news/discussion.
 |----------------------|---|
 | Published            | 2023-06-06 17:22:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

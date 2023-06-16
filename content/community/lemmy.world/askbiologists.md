@@ -3,13 +3,13 @@ title: "Ask Biologists 🙋👨‍🔬 🧬"
 name: "askbiologists"
 description: "Ask anything about all fields of biology.  🧪🧬🔬We value quality over quantity.---------**Rules:**- Be kind, friendly and patient.- No shitposting or other low-effort content.- If possible, add sources.- If possible, do some research and do not just guess.- No spam.- No ads.- No NSFW, gore, hate speech, violence, insults or trolling.- No memes.- Be as professional as you can, where appropriate.------You may also like: - [!biology@mander.xyz](/c/biology@mander.xyz)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askbiologists"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 72
+subscribers: 83
 posts: 3
 comments: 21
 weight: 3
@@ -41,7 +41,7 @@ Ask anything about all fields of biology.  🧪🧬🔬<br><br>We value quality 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
+| Subscribers          | 83 |
 | Posts                | 3  |
 | Comments             | 21  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Ask anything about all fields of biology.  🧪🧬🔬<br><br>We value quality 
 |----------------------|---|
 | Published            | 2023-06-14 01:40:44 |
 | Updated              | 2023-06-14 19:28:04 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

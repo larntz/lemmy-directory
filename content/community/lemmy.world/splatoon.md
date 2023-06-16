@@ -3,19 +3,19 @@ title: "Splatoon"
 name: "splatoon"
 description: "## AboutA community for all things Splatoon!---## Useful Links[Server Status](http://www.nintendo.com/consumer/network/en_na/network_status.jsp)[Inkpedia](https://splatoonwiki.org/wiki/)[Event Calendar](https://sendou.ink/calendar)---## TagsFeel free to add any of these to help identify your post!##### Topics & Formats> [[Image](# Pics, screenshots, the works.)][[Discussion](# Topical talks)][[Fan Art](# Fan-made creations)][[Stategy](# Tips & pointers)][[Salmon Run](# Work-related)][[Meme](# Meme)][[Video](# Long-form media )][[Clip](# Short-form media & highlights)][[News](# Events & other updates)]##### Misc.> [[Spoiler](# Spoiler Content)][[OC](# Original Content)]---## Other Communities[/m/Splatoon@kbin.social](https://kbin.social/m/splatoon)\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000(direct link since kbin's having some issues with linking from other instances, atm)[/r/Splatoon Discord](https://discord.gg/rsplatoon)[Squidboards](https://squidboards.com/)[/c/Nintendo](/c/nintendo@lemmy.world)[/c/Nintendo@lemmy.ml](/c/nintendo@lemmy.ml)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/splatoon"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 113
-posts: 18
-comments: 39
-weight: 18
-dau: 3
-wau: 11
-mau: 11
+subscribers: 122
+posts: 20
+comments: 40
+weight: 20
+dau: 7
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
-| Posts                | 18  |
-| Comments             | 39  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Subscribers          | 122 |
+| Posts                | 20  |
+| Comments             | 40  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 13:06:34 |
 | Updated              | 2023-06-15 11:43:20 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

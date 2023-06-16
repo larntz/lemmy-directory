@@ -3,7 +3,7 @@ title: "AteistTurk"
 name: "ateistturk"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ateistturk"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 06:49:09 |
 | Updated              | 2023-06-15 06:50:33 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

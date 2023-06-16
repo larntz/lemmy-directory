@@ -3,19 +3,19 @@ title: "esp"
 name: "esp"
 description: "Para todos los temas en español"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/esp"
 host: eslemmy.es
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 22
-comments: 20
-weight: 22
-dau: 5
-wau: 5
-mau: 5
+subscribers: 49
+posts: 26
+comments: 21
+weight: 26
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "eslemmy_es"
 tags: 
@@ -41,12 +41,12 @@ Para todos los temas en español
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 22  |
-| Comments             | 20  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 49 |
+| Posts                | 26  |
+| Comments             | 21  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Para todos los temas en español
 |----------------------|---|
 | Published            | 2023-06-08 07:25:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

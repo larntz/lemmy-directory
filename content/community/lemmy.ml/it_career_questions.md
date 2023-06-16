@@ -3,7 +3,7 @@ title: "IT Career Questions"
 name: "it_career_questions"
 description: "IT Career specific questions could be posted here more will be noted  [here](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/it_career_questions"
@@ -54,4 +54,4 @@ IT Career specific questions could be posted here more will be noted  [here](htt
 |----------------------|---|
 | Published            | 2023-05-09 16:47:26 |
 | Updated              | 2023-05-09 16:48:05 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

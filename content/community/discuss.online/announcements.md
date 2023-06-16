@@ -3,15 +3,15 @@ title: "Announcements"
 name: "announcements"
 description: "Community updates and announcements.Admins will post any updates here so be sure to follow!Important updates will be pinned to the local feed."
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/announcements"
 host: discuss.online
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 5
-comments: 11
+comments: 13
 weight: 5
 dau: 4
 wau: 5
@@ -41,9 +41,9 @@ Community updates and announcements.<br><br>Admins will post any updates here so
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 5  |
-| Comments             | 11  |
+| Comments             | 13  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -53,5 +53,5 @@ Community updates and announcements.<br><br>Admins will post any updates here so
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-09 04:02:55 |
-| Updated              | 2023-06-14 22:39:59 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Updated              | 2023-06-16 17:55:09 |
+| Last Scraped         | 2023-06-16 22:56:12 |

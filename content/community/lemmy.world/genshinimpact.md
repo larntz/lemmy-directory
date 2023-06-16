@@ -3,7 +3,7 @@ title: "Genshin Impact"
 name: "genshinimpact"
 description: "This is the official community for Genshin Impact (原神), the latest open-world action RPG from HoYoverse. The game features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline & characters, co-op game mode, soothing soundtrack, and much more for you to explore!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/genshinimpact"
@@ -54,4 +54,4 @@ This is the official community for Genshin Impact (原神), the latest open-worl
 |----------------------|---|
 | Published            | 2023-06-14 00:02:10 |
 | Updated              | 2023-06-14 00:04:21 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,18 +3,18 @@ title: "OldWeb"
 name: "oldweb"
 description: "A community for anyone who misses the old web. Inspired by a post I made asking for examples of websites with an old school vibe. This community can be used to post links to old style websites, directories of websites, etc. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oldweb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 325
+subscribers: 332
 posts: 21
 comments: 37
 weight: 21
 dau: 1
-wau: 12
+wau: 7
 mau: 21
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A community for anyone who misses the old web. Inspired by a post I made asking 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 325 |
+| Subscribers          | 332 |
 | Posts                | 21  |
 | Comments             | 37  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 21  |
 
 <br>
@@ -54,4 +54,4 @@ A community for anyone who misses the old web. Inspired by a post I made asking 
 |----------------------|---|
 | Published            | 2023-06-05 10:54:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

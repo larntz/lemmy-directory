@@ -3,19 +3,19 @@ title: "Selenium Web Browser Automation"
 name: "selenium"
 description: "Users forum for selenium browser testing. Do not advertise here."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/selenium"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
-comments: 0
+comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Users forum for selenium browser testing. Do not advertise here.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 15:42:40 |
-| Updated              | 2023-06-15 15:43:35 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Updated              | 2023-06-16 14:08:00 |
+| Last Scraped         | 2023-06-16 22:57:13 |

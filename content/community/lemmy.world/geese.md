@@ -3,19 +3,19 @@ title: "Geese"
 name: "geese"
 description: "Feathered friends!Rules:1. Be excellent to each other2. Don't be the reason I need to add more rules"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geese"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 13
-posts: 2
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 2
-mau: 2
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ Feathered friends!<br><br>Rules:<br>1. Be excellent to each other<br>2. Don't be
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 13 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Feathered friends!<br><br>Rules:<br>1. Be excellent to each other<br>2. Don't be
 |----------------------|---|
 | Published            | 2023-06-11 14:03:34 |
 | Updated              | 2023-06-11 14:23:54 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:18 |

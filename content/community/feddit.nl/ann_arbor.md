@@ -3,16 +3,16 @@ title: "Ann Arbor Community 🌳"
 name: "ann_arbor"
 description: "A Lemmy community for people who live in, live around, or just generally love Ann Arbor, Michigan. "
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/ann_arbor"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 2
+posts: 4
 comments: 1
-weight: 2
+weight: 4
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ A Lemmy community for people who live in, live around, or just generally love An
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 2  |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A Lemmy community for people who live in, live around, or just generally love An
 |----------------------|---|
 | Published            | 2023-06-15 04:26:11 |
 | Updated              | 2023-06-15 05:45:12 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

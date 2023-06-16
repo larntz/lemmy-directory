@@ -3,13 +3,13 @@ title: "AI Infosec"
 name: "ai_infosec"
 description: "Infosec news and articles related to AI."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ai_infosec"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 174
+subscribers: 181
 posts: 13
 comments: 12
 weight: 13
@@ -41,7 +41,7 @@ Infosec news and articles related to AI.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 174 |
+| Subscribers          | 181 |
 | Posts                | 13  |
 | Comments             | 12  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Infosec news and articles related to AI.<br><br>
 |----------------------|---|
 | Published            | 2023-06-10 20:48:19 |
 | Updated              | 2023-06-10 21:18:05 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

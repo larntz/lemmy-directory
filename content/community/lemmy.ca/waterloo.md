@@ -3,13 +3,13 @@ title: "Waterloo"
 name: "waterloo"
 description: "Discussing the Waterloo Region"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/waterloo"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 84
+subscribers: 85
 posts: 26
 comments: 10
 weight: 26
@@ -41,7 +41,7 @@ Discussing the Waterloo Region
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
+| Subscribers          | 85 |
 | Posts                | 26  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Discussing the Waterloo Region
 |----------------------|---|
 | Published            | 2023-06-01 14:00:07 |
 | Updated              | 2023-06-02 12:40:22 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

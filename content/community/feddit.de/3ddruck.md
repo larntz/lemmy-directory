@@ -3,15 +3,15 @@ title: "3D Druck"
 name: "3ddruck"
 description: "Deutschsprachige 3D Druck Community"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/3ddruck"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 163
+subscribers: 169
 posts: 9
-comments: 76
+comments: 79
 weight: 9
 dau: 3
 wau: 34
@@ -41,9 +41,9 @@ Deutschsprachige 3D Druck Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 163 |
+| Subscribers          | 169 |
 | Posts                | 9  |
-| Comments             | 76  |
+| Comments             | 79  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 34  |
 | Monthly Active Users | 34  |
@@ -54,4 +54,4 @@ Deutschsprachige 3D Druck Community
 |----------------------|---|
 | Published            | 2022-01-04 12:25:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

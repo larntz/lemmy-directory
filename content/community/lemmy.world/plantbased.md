@@ -3,7 +3,7 @@ title: "plantbased"
 name: "plantbased"
 description: "A community for those who try to eat less animals and their products without hostility."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plantbased"
@@ -54,4 +54,4 @@ A community for those who try to eat less animals and their products without hos
 |----------------------|---|
 | Published            | 2023-06-16 01:37:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

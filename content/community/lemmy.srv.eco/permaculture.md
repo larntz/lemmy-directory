@@ -3,7 +3,7 @@ title: "🌲 Permaculture"
 name: "permaculture"
 description: "**Other communities:**[/r/permaculture](https://reddit.com/r/permaculture)"
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/permaculture"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 12:49:54 |
 | Updated              | 2023-06-15 22:16:36 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:29 |

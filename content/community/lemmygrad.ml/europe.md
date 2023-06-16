@@ -3,16 +3,16 @@ title: "Europe"
 name: "europe"
 description: "Anything about Europe. You can post in any European language."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/europe"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
 subscribers: 106
-posts: 57
+posts: 58
 comments: 82
-weight: 57
+weight: 58
 dau: 1
 wau: 1
 mau: 4
@@ -42,7 +42,7 @@ Anything about Europe. You can post in any European language.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 106 |
-| Posts                | 57  |
+| Posts                | 58  |
 | Comments             | 82  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Anything about Europe. You can post in any European language.
 |----------------------|---|
 | Published            | 2020-07-13 00:01:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

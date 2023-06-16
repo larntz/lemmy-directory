@@ -3,13 +3,13 @@ title: "Marvel Memes"
 name: "marvelmemes"
 description: "For all the best Marvel memes!"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvelmemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 46
 posts: 9
 comments: 2
 weight: 9
@@ -41,7 +41,7 @@ For all the best Marvel memes!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 46 |
 | Posts                | 9  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For all the best Marvel memes!
 |----------------------|---|
 | Published            | 2021-12-15 08:24:41 |
 | Updated              | 2021-12-15 20:24:23 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:45 |

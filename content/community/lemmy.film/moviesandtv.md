@@ -3,16 +3,16 @@ title: "Movies and TV Shows"
 name: "moviesandtv"
 description: "General discussion about movies and TV shows. ---**Spoilers are strictly forbidden in post titles.** >Posts soliciting spoilers (endings, plot elements, twists, etc.) should contain `[spoilers]` in their title. Comments in these posts do not need to be hidden in [spoiler MarkDown](https://join-lemmy.org/docs/en/users/02-media.html) if they pertain to the title's subject matter.Otherwise, spoilers but must be contained in [MarkDown](https://join-lemmy.org/docs/en/users/02-media.html) as follows:```::: your spoiler warningthe crazy movie ending that no one saw coming!:::```Your mods are here to help if you need any clarification!---**Subcommunities:**The Bear (FX) - [!thebear@lemmy.film](/c/thebear @lemmy.film)---**Related communities:**[!entertainment@beehaw.org](/c/entertainment@beehaw.org)[!moviesuggestions@lemmy.world](/c/moviesuggestions@lemmy.world)"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/moviesandtv"
 host: lemmy.film
 lastmod: "{[ .Updated }}"
-subscribers: 1724
-posts: 56
-comments: 273
-weight: 56
+subscribers: 1811
+posts: 63
+comments: 301
+weight: 63
 dau: 50
 wau: 87
 mau: 87
@@ -41,9 +41,9 @@ General discussion about movies and TV shows. <br><br>---<br><br>**Spoilers are 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1724 |
-| Posts                | 56  |
-| Comments             | 273  |
+| Subscribers          | 1811 |
+| Posts                | 63  |
+| Comments             | 301  |
 | Daily Active Users   | 50  |
 | Weekly Active Users  | 87  |
 | Monthly Active Users | 87  |
@@ -54,4 +54,4 @@ General discussion about movies and TV shows. <br><br>---<br><br>**Spoilers are 
 |----------------------|---|
 | Published            | 2023-06-07 00:12:06 |
 | Updated              | 2023-06-13 23:29:41 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

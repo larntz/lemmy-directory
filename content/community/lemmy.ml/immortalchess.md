@@ -3,7 +3,7 @@ title: "Immortal Chess"
 name: "immortalchess"
 description: "This is a group which aggregates, posts, and comments on chess-related resources."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/immortalchess"
@@ -54,4 +54,4 @@ This is a group which aggregates, posts, and comments on chess-related resources
 |----------------------|---|
 | Published            | 2023-02-15 18:50:18 |
 | Updated              | 2023-03-04 01:33:39 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:23 |

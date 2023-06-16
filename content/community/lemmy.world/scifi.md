@@ -1,15 +1,15 @@
 ---
 title: "sci fi" 
 name: "scifi"
-description: "Description not available."
+description: "Enter the Realm of Imagination: Exploring the Wonders of Science Fiction and Beyond"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scifi"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Enter the Realm of Imagination: Exploring the Wonders of Science Fiction and Beyond
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 12:50:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Updated              | 2023-06-16 11:39:27 |
+| Last Scraped         | 2023-06-16 22:57:16 |

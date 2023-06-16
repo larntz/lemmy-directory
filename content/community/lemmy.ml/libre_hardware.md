@@ -3,13 +3,13 @@ title: "Libre Hardware"
 name: "libre_hardware"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libre_hardware"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 846
+subscribers: 850
 posts: 59
 comments: 16
 weight: 59
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 846 |
+| Subscribers          | 850 |
 | Posts                | 59  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-14 01:49:06 |
 | Updated              | 2022-03-08 20:13:55 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

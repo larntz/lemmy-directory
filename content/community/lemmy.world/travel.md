@@ -3,13 +3,13 @@ title: "Travel"
 name: "travel"
 description: "travel"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/travel"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 50
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ travel
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 50 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ travel
 |----------------------|---|
 | Published            | 2023-06-11 01:58:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

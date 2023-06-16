@@ -3,19 +3,19 @@ title: "Doggy Style"
 name: "doggystyle"
 description: "A community about the doggy style sex position._____________________________________________________**Rules****1.Must be doggy style position**~~**2.No sub flooding**~~**3.No Upvote bait titles.*** Titles that are baiting and spammy are not allowed.* Do not solicit upvotes, comments, PMs, subscriptions, trades or follows.**4.No spam or blatant self promotion*** This sub is about sharing what we like and not promoting your content to gain money.**5.No massive watermarks allowed*** No massive watermarks with domains, snapchat, kik, instagram, onlyfans, porhub username. * You may add a small watermark**6.No Underage Content*** No underage content. All people depicted must be over 18 yo. * **Posting underage content will get you banned****7.Nonconstructive comments will be removed*** Nonconstructive comments will be removed - We're here to look at nice pictures. We don't care if you think someone doesn't meet your personal standard of beauty or whatever else. If you criticize users about their looks or body, expect to be banned.**8.Zero tolerance for trolls*** There is zero tolerance for trolls, assholes, unsolicited bots, deliberately off-topic content, or novelty accounts. If you are any of these, and act as such, or encourage any of the above or any other violations, you will be banned._____________________________________________________**Resources:*** [The Porn Map](https://thepornmap.com/list/anal-porn-sites/)"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/doggystyle"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 62
-posts: 0
+subscribers: 74
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A community about the doggy style sex position.<br><br>_________________________
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
-| Posts                | 0  |
+| Subscribers          | 74 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -56,4 +56,4 @@ A community about the doggy style sex position.<br><br>_________________________
 |----------------------|---|
 | Published            | 2023-06-14 05:18:13 |
 | Updated              | 2023-06-14 06:26:55 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,7 +3,7 @@ title: "Models"
 name: "models"
 description: "Discussion of models, thier use, setup and options. Please include models used with your outputs, workflows optional."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/models"
@@ -54,4 +54,4 @@ Discussion of models, thier use, setup and options. <br><br>Please include model
 |----------------------|---|
 | Published            | 2023-06-11 05:27:05 |
 | Updated              | 2023-06-14 03:02:59 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

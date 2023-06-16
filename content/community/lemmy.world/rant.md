@@ -3,13 +3,13 @@ title: "/c/rant has been merged with /c/vent"
 name: "rant"
 description: "/c/rant has been merged with /c/vent"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rant"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 21:42:07 |
 | Updated              | 2023-06-10 19:50:42 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

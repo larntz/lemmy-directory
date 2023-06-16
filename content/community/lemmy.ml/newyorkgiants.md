@@ -3,16 +3,16 @@ title: "New York Football Giants"
 name: "newyorkgiants"
 description: "Welcome to the New York Football Giants community on Lemmy! If you bleed big blue, you're in the right place."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newyorkgiants"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 1
+subscribers: 15
+posts: 2
 comments: 1
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Welcome to the New York Football Giants community on Lemmy! If you bleed big blu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
+| Subscribers          | 15 |
+| Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Welcome to the New York Football Giants community on Lemmy! If you bleed big blu
 |----------------------|---|
 | Published            | 2023-06-03 05:10:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

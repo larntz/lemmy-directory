@@ -3,7 +3,7 @@ title: "Systems Administration (Linux)"
 name: "sysadmin_linux"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:00"
+date: "2023-06-16 22:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/sysadmin_linux"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 23:31:07 |
 | Updated              | 2023-06-06 05:41:44 |
-| Last Scraped         | 2023-06-16 11:06:00 |
+| Last Scraped         | 2023-06-16 22:55:56 |

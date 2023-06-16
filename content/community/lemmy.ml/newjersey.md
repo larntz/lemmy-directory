@@ -3,7 +3,7 @@ title: "New Jersey"
 name: "newjersey"
 description: "A place to share news, links, photos, discussions, recipes, pet photos, breakfast food, correspondence, love letters, and advice about the great state of New Jersey."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newjersey"
@@ -54,4 +54,4 @@ A place to share news, links, photos, discussions, recipes, pet photos, breakfas
 |----------------------|---|
 | Published            | 2023-06-10 20:13:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

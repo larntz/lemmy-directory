@@ -3,13 +3,13 @@ title: "Manga"
 name: "manga"
 description: "Tópico voltado a discussões sobre manga"
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/manga"
 host: sub.rdls.dev
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Tópico voltado a discussões sobre manga
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Tópico voltado a discussões sobre manga
 |----------------------|---|
 | Published            | 2023-06-14 04:24:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

@@ -3,7 +3,7 @@ title: "Audioliburuak"
 name: "audioliburuak"
 description: "Euskal Herrian ez dago oso zabalduta (oraindik) audioliburuak entzutea, baina beste hizkuntza batzuetan oso ohikoa da eta gauza eder-ederrak daude! Komunitate honek balio dezake audio gomendagarriak partekatzeko, proiektu berriak sortzeko..."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/audioliburuak"
@@ -54,4 +54,4 @@ Euskal Herrian ez dago oso zabalduta (oraindik) audioliburuak entzutea, baina be
 |----------------------|---|
 | Published            | 2020-12-03 21:42:28 |
 | Updated              | 2021-02-07 15:09:41 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

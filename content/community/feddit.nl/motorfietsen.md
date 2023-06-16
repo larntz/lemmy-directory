@@ -3,15 +3,15 @@ title: "Motorfietsen"
 name: "motorfietsen"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/motorfietsen"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 5
-comments: 23
+comments: 25
 weight: 5
 dau: 1
 wau: 10
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 5  |
-| Comments             | 23  |
+| Comments             | 25  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 10  |
 | Monthly Active Users | 10  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 13:47:52 |
 | Updated              | 2023-06-11 18:36:44 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

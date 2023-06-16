@@ -3,13 +3,13 @@ title: "Platformer Games"
 name: "platformer_games"
 description: "A community dedicated to platformer games, both 2d and 3d. From your Marios and Sonics all the way to your Shovel Knights and Celestes.Rules:* No discussions of piracy or other illegal stuffs.* No breaking sh.itjust.works instance rules."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/platformer_games"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ A community dedicated to platformer games, both 2d and 3d. From your Marios and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community dedicated to platformer games, both 2d and 3d. From your Marios and 
 |----------------------|---|
 | Published            | 2023-06-12 17:03:00 |
 | Updated              | 2023-06-12 17:32:14 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "Anti Facebook"
 name: "antifacebook"
 description: "The title says it all.Posts which are not related to Facebook will be removed."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antifacebook"
@@ -54,4 +54,4 @@ The title says it all.<br><br>Posts which are not related to Facebook will be re
 |----------------------|---|
 | Published            | 2021-10-21 06:48:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:23 |

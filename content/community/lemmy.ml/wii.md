@@ -3,7 +3,7 @@ title: "Wii"
 name: "wii"
 description: "A sublemmy dedicated to all things Wii. Share your favorite mods, how to videos or just ask for help. Its all welcome here."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wii"
@@ -54,4 +54,4 @@ A sublemmy dedicated to all things Wii. Share your favorite mods, how to videos 
 |----------------------|---|
 | Published            | 2021-12-14 10:13:39 |
 | Updated              | 2021-12-16 02:51:33 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:34 |

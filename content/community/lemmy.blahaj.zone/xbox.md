@@ -3,19 +3,19 @@ title: "Xbox "
 name: "xbox"
 description: "Any news/discussions related to Xbox consoles environment"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/xbox"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 38
+subscribers: 33
+posts: 41
 comments: 9
-weight: 38
-dau: 1
-wau: 6
-mau: 6
+weight: 41
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ Any news/discussions related to Xbox consoles environment
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 38  |
+| Subscribers          | 33 |
+| Posts                | 41  |
 | Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Any news/discussions related to Xbox consoles environment
 |----------------------|---|
 | Published            | 2023-06-09 16:15:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

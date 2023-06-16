@@ -3,7 +3,7 @@ title: "General Lemmy.Cafe"
 name: "general"
 description: "General site"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/general"
@@ -11,7 +11,7 @@ host: lemmy.cafe
 lastmod: "{[ .Updated }}"
 subscribers: 16
 posts: 7
-comments: 4
+comments: 5
 weight: 7
 dau: 2
 wau: 3
@@ -43,7 +43,7 @@ General site
 |----------------------|---|
 | Subscribers          | 16 |
 | Posts                | 7  |
-| Comments             | 4  |
+| Comments             | 5  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ General site
 |----------------------|---|
 | Published            | 2023-06-10 20:17:04 |
 | Updated              | 2023-06-10 20:35:47 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

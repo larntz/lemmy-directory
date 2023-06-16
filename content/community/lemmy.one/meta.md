@@ -3,19 +3,19 @@ title: "Meta (lemmy.one)"
 name: "meta"
 description: "A place to discuss or ask anything about lemmy.one's instance or moderation.For discussion about Lemmy (the software) itself, visit [!lemmy@lemmy.ml](https://lemmy.one/c/lemmy@lemmy.ml)"
 type: community
-date: "2023-06-16 11:05:54"
+date: "2023-06-16 22:55:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.one/c/meta"
 host: lemmy.one
 lastmod: "{[ .Updated }}"
-subscribers: 267
-posts: 24
-comments: 162
-weight: 24
-dau: 22
-wau: 66
-mau: 111
+subscribers: 279
+posts: 25
+comments: 178
+weight: 25
+dau: 21
+wau: 74
+mau: 118
 instances:
 - "lemmy_one"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss or ask anything about lemmy.one's instance or moderation.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 267 |
-| Posts                | 24  |
-| Comments             | 162  |
-| Daily Active Users   | 22  |
-| Weekly Active Users  | 66  |
-| Monthly Active Users | 111  |
+| Subscribers          | 279 |
+| Posts                | 25  |
+| Comments             | 178  |
+| Daily Active Users   | 21  |
+| Weekly Active Users  | 74  |
+| Monthly Active Users | 118  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss or ask anything about lemmy.one's instance or moderation.<br>
 |----------------------|---|
 | Published            | 2023-06-01 00:50:49 |
 | Updated              | 2023-06-06 04:05:28 |
-| Last Scraped         | 2023-06-16 11:05:54 |
+| Last Scraped         | 2023-06-16 22:55:49 |

@@ -3,19 +3,19 @@ title: "Metal Memes"
 name: "metalmemes"
 description: "Memes.  For metal music."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalmemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 169
+subscribers: 181
 posts: 11
-comments: 10
+comments: 12
 weight: 11
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Memes.  For metal music.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 169 |
+| Subscribers          | 181 |
 | Posts                | 11  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 12  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Memes.  For metal music.
 |----------------------|---|
 | Published            | 2023-06-11 02:38:55 |
 | Updated              | 2023-06-11 02:41:26 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:14 |

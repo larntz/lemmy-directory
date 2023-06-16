@@ -3,19 +3,19 @@ title: "BBQ 🍗"
 name: "bbq"
 description: "Welcome to **/c/BBQ**, your prime destination for all things related to the glorious world of barbecuing. This vibrant community is comprised of barbecue enthusiasts, from novices embarking on their first smoking session to seasoned pitmasters who have perfected their secret sauce recipes over many decades. Here, you'll discover discussions that span a myriad of topics: smoking techniques, grill maintenance, wood chip varieties, spice rub concoctions, and a whole lot more. Don't be surprised if you get lost in lively debates on whether Texas or Carolina style reigns supreme or if you find yourself delving into the mouthwatering world of internationally inspired barbecues!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bbq"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 2
+subscribers: 66
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to **/c/BBQ**, your prime destination for all things related to the glor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 2  |
+| Subscribers          | 66 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to **/c/BBQ**, your prime destination for all things related to the glor
 |----------------------|---|
 | Published            | 2023-06-11 15:48:59 |
 | Updated              | 2023-06-11 16:40:27 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

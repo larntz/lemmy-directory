@@ -3,13 +3,13 @@ title: "Questions about Lemmy"
 name: "questions"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/questions"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 165
+subscribers: 164
 posts: 36
 comments: 100
 weight: 36
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 165 |
+| Subscribers          | 164 |
 | Posts                | 36  |
 | Comments             | 100  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-09-04 22:32:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

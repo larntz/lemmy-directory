@@ -3,18 +3,18 @@ title: "Pawb.Social Announcements"
 name: "pawbsocial_announcements"
 description: "Official announcements from the admin team of Pawb.Social"
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/pawbsocial_announcements"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 133
-posts: 5
+subscribers: 137
+posts: 6
 comments: 39
-weight: 5
+weight: 6
 dau: 1
-wau: 13
+wau: 11
 mau: 30
 instances:
 - "pawb_social"
@@ -41,11 +41,11 @@ Official announcements from the admin team of Pawb.Social
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 133 |
-| Posts                | 5  |
+| Subscribers          | 137 |
+| Posts                | 6  |
 | Comments             | 39  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
+| Weekly Active Users  | 11  |
 | Monthly Active Users | 30  |
 
 <br>
@@ -54,4 +54,4 @@ Official announcements from the admin team of Pawb.Social
 |----------------------|---|
 | Published            | 2023-06-02 23:36:13 |
 | Updated              | 2023-06-03 04:27:25 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

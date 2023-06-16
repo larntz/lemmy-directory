@@ -3,13 +3,13 @@ title: "Programming Humor"
 name: "programminghumor"
 description: "Programming Humor"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programminghumor"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 51
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Programming Humor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 51 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Programming Humor
 |----------------------|---|
 | Published            | 2023-06-14 19:20:04 |
 | Updated              | 2023-06-14 19:23:12 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

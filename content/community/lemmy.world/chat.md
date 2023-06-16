@@ -3,7 +3,7 @@ title: "chat"
 name: "chat"
 description: "A place for some chatting without having to restrict to certain topics.Be kind to each other! This is supposed to be a wholesome place."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chat"
@@ -54,4 +54,4 @@ A place for some chatting without having to restrict to certain topics.<br><br>B
 |----------------------|---|
 | Published            | 2023-06-16 08:14:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

@@ -3,19 +3,19 @@ title: "BlueJackets"
 name: "bluejackets"
 description: "Lemmy Community for *your* Columbus Bluejackets!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bluejackets"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 3
-comments: 1
-weight: 3
+subscribers: 9
+posts: 4
+comments: 2
+weight: 4
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy Community for *your* Columbus Bluejackets!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 3  |
-| Comments             | 1  |
+| Subscribers          | 9 |
+| Posts                | 4  |
+| Comments             | 2  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy Community for *your* Columbus Bluejackets!
 |----------------------|---|
 | Published            | 2023-06-13 17:57:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

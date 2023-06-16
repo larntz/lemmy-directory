@@ -3,7 +3,7 @@ title: "Heroes of the Storm"
 name: "hots"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hots"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-28 17:04:32 |
 | Updated              | 2021-01-28 20:00:48 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

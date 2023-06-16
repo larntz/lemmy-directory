@@ -3,13 +3,13 @@ title: "hackthebox"
 name: "hackthebox"
 description: "Discussion about hackthebox.eu machines! CTF, Hacking, Security, Learning, Advanzing, hacker ethics, hacker cultureMatrix channel: #hackthebox:hispagatos.org"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackthebox"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 290
+subscribers: 291
 posts: 26
 comments: 5
 weight: 26
@@ -41,7 +41,7 @@ Discussion about hackthebox.eu machines! CTF, Hacking, Security, Learning, Advan
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 290 |
+| Subscribers          | 291 |
 | Posts                | 26  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion about hackthebox.eu machines! CTF, Hacking, Security, Learning, Advan
 |----------------------|---|
 | Published            | 2020-06-11 18:16:22 |
 | Updated              | 2021-06-18 00:57:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

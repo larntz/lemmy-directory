@@ -3,19 +3,19 @@ title: "Band Names"
 name: "bandnames"
 description: "Band Names, Band Names, Band Names"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bandnames"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
-posts: 25
+subscribers: 59
+posts: 27
 comments: 4
-weight: 25
-dau: 2
-wau: 7
-mau: 7
+weight: 27
+dau: 4
+wau: 9
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Band Names, Band Names, Band Names
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 25  |
+| Subscribers          | 59 |
+| Posts                | 27  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Band Names, Band Names, Band Names
 |----------------------|---|
 | Published            | 2023-06-08 21:53:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

@@ -3,13 +3,13 @@ title: "Star Wars Legion"
 name: "swlegion"
 description: "For discussion of the Star Wars Legion miniatures game."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swlegion"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ For discussion of the Star Wars Legion miniatures game.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For discussion of the Star Wars Legion miniatures game.
 |----------------------|---|
 | Published            | 2023-06-14 14:19:58 |
 | Updated              | 2023-06-14 14:20:42 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

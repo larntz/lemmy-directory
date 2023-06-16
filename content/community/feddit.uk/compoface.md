@@ -3,13 +3,13 @@ title: "Compoface"
 name: "compoface"
 description: "Backup site for r/Compoface"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/compoface"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 31
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ Backup site for r/Compoface
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 31 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Backup site for r/Compoface
 |----------------------|---|
 | Published            | 2023-06-12 13:20:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

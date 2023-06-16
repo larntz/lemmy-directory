@@ -3,7 +3,7 @@ title: "ChimeraOS"
 name: "chimeraos"
 description: "A community for gaming on ChimeraOS."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chimeraos"
@@ -54,4 +54,4 @@ A community for gaming on ChimeraOS.
 |----------------------|---|
 | Published            | 2023-06-10 02:58:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,13 +3,13 @@ title: "Stargrave"
 name: "stargrave"
 description: "A community dedicated to Stargrave, a science-fiction skirmish wargame by Joseph A. McCullough."
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/stargrave"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to Stargrave, a science-fiction skirmish wargame by Joseph
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ A community dedicated to Stargrave, a science-fiction skirmish wargame by Joseph
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 06:02:54 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Updated              | 2023-06-16 22:32:11 |
+| Last Scraped         | 2023-06-16 22:56:31 |

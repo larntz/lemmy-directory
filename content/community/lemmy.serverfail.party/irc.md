@@ -3,7 +3,7 @@ title: "IRC"
 name: "irc"
 description: "It's a dying breed of us who use it"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/irc"
@@ -54,4 +54,4 @@ It's a dying breed of us who use it
 |----------------------|---|
 | Published            | 2023-06-12 15:24:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

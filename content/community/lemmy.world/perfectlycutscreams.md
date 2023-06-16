@@ -3,13 +3,13 @@ title: "Perfectly Cut Screams"
 name: "perfectlycutscreams"
 description: "Videos where it's edited to end right when there is a scream."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/perfectlycutscreams"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Videos where it's edited to end right when there is a scream.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Videos where it's edited to end right when there is a scream.
 |----------------------|---|
 | Published            | 2023-06-14 18:59:48 |
 | Updated              | 2023-06-14 19:18:35 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

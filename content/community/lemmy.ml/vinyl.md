@@ -3,13 +3,13 @@ title: "Vinyl"
 name: "vinyl"
 description: "Vinyl is all about Vinyl Records. Share what you bought or what you're playing. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vinyl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Vinyl is all about Vinyl Records. Share what you bought or what you're playing.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Vinyl is all about Vinyl Records. Share what you bought or what you're playing.
 |----------------------|---|
 | Published            | 2023-06-08 22:41:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

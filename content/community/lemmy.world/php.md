@@ -3,19 +3,19 @@ title: "PHP"
 name: "php"
 description: "&lt;?namespace lemmyphp;/* Welcome to the PHP community on Lemmy#Rules:1:  Soon(TM)#Helpful stuff: [PHP Documentation](https://www.php.net/docs.php) [Composer](https://getcomposer.org/doc/00-intro.md)[PHP Standards](https://www.php-fig.org/psr/) #Common frameworks: [Symfony](https://symfony.com/doc/current/getting_started/index.html) [Larvel](https://laravel.com/docs/) */echo  Welcome;"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/php"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 69
 posts: 4
-comments: 7
+comments: 8
 weight: 4
-dau: 4
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 69 |
 | Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 09:05:59 |
 | Updated              | 2023-06-12 11:14:21 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

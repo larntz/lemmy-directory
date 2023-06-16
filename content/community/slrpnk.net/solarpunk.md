@@ -3,19 +3,19 @@ title: "Solarpunk"
 name: "solarpunk"
 description: "The space to discuss Solarpunk itself and Solarpunk related stuff that doesn't fit elsewhere."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/solarpunk"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 645
-posts: 62
-comments: 70
-weight: 62
-dau: 3
-wau: 12
-mau: 22
+subscribers: 670
+posts: 63
+comments: 73
+weight: 63
+dau: 5
+wau: 15
+mau: 25
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ The space to discuss Solarpunk itself and Solarpunk related stuff that doesn't f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 645 |
-| Posts                | 62  |
-| Comments             | 70  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 22  |
+| Subscribers          | 670 |
+| Posts                | 63  |
+| Comments             | 73  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ The space to discuss Solarpunk itself and Solarpunk related stuff that doesn't f
 |----------------------|---|
 | Published            | 2022-03-23 09:42:39 |
 | Updated              | 2022-12-13 21:18:04 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

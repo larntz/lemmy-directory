@@ -3,13 +3,13 @@ title: "Europe Privacy"
 name: "europrivacy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europrivacy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 48
 comments: 0
 weight: 48
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 48  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-18 14:45:57 |
 | Updated              | 2021-06-21 16:55:22 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

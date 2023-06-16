@@ -3,13 +3,13 @@ title: "Quantum Computing"
 name: "qubits"
 description: "Discussions about quantum computers"
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/qubits"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 108
+subscribers: 120
 posts: 9
 comments: 11
 weight: 9
@@ -41,7 +41,7 @@ Discussions about quantum computers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 108 |
+| Subscribers          | 120 |
 | Posts                | 9  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions about quantum computers
 |----------------------|---|
 | Published            | 2022-03-21 07:50:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -3,17 +3,17 @@ title: "Vegan"
 name: "vegan"
 description: "For all the vegans out there!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/vegan"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 45
 posts: 4
 comments: 3
 weight: 4
-dau: 3
+dau: 2
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ For all the vegans out there!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 45 |
 | Posts                | 4  |
 | Comments             | 3  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ For all the vegans out there!
 |----------------------|---|
 | Published            | 2023-04-24 03:04:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

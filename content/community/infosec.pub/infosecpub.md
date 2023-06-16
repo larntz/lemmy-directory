@@ -3,16 +3,16 @@ title: "Discussions related to Infosec.pub"
 name: "infosecpub"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/infosecpub"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 224
-posts: 16
-comments: 91
-weight: 16
+subscribers: 239
+posts: 17
+comments: 93
+weight: 17
 dau: 25
 wau: 47
 mau: 47
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 224 |
-| Posts                | 16  |
-| Comments             | 91  |
+| Subscribers          | 239 |
+| Posts                | 17  |
+| Comments             | 93  |
 | Daily Active Users   | 25  |
 | Weekly Active Users  | 47  |
 | Monthly Active Users | 47  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-07 23:11:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

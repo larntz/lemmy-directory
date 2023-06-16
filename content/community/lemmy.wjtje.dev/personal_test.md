@@ -3,7 +3,7 @@ title: "Personal Test"
 name: "personal_test"
 description: "This community is to test how Mastodon and Lemmy interact"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wjtje.dev/c/personal_test"
@@ -54,4 +54,4 @@ This community is to test how Mastodon and Lemmy interact
 |----------------------|---|
 | Published            | 2023-06-12 20:15:58 |
 | Updated              | 2023-06-12 20:18:04 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

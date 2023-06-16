@@ -3,15 +3,15 @@ title: "Free eBooks"
 name: "freeebooks"
 description: "Links to free eBooks in any format. **All books must be 100% free.** This means no free with paid subscription books."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/freeebooks"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 6
-comments: 0
+comments: 1
 weight: 6
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ Links to free eBooks in any format. <br><br>**All books must be 100% free.** Thi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 6  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Links to free eBooks in any format. <br><br>**All books must be 100% free.** Thi
 |----------------------|---|
 | Published            | 2023-06-15 06:14:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

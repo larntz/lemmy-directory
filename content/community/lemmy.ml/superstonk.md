@@ -3,19 +3,19 @@ title: "Superstonk"
 name: "superstonk"
 description: "Reddit was down... So I made a Superstonk alternative in Lemmy."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/superstonk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 142
-posts: 12
-comments: 47
-weight: 12
-dau: 5
-wau: 9
-mau: 9
+subscribers: 153
+posts: 13
+comments: 54
+weight: 13
+dau: 6
+wau: 16
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Reddit was down... So I made a Superstonk alternative in Lemmy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 142 |
-| Posts                | 12  |
-| Comments             | 47  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 153 |
+| Posts                | 13  |
+| Comments             | 54  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Reddit was down... So I made a Superstonk alternative in Lemmy.
 |----------------------|---|
 | Published            | 2021-08-12 03:30:27 |
 | Updated              | 2021-08-12 03:37:41 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:23 |

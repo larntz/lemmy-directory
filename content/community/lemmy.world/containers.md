@@ -3,19 +3,19 @@ title: "Container platforms (docker, lxc, podman)"
 name: "containers"
 description: "A place to discuss everything related to Container platforms and runtimes. Docker, LXC, Podman, OpenShift, OCI, and more."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/containers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 42
 posts: 3
-comments: 0
+comments: 1
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss everything related to Container platforms and runtimes. Docke
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 42 |
 | Posts                | 3  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss everything related to Container platforms and runtimes. Docke
 |----------------------|---|
 | Published            | 2023-06-12 20:23:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,13 +3,13 @@ title: "a e s t h e t i c"
 name: "labourwave"
 description: "m u s i c o f t h e p r o l e s"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/labourwave"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 414
+subscribers: 413
 posts: 16
 comments: 8
 weight: 16
@@ -41,7 +41,7 @@ m u s i c o f t h e p r o l e s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 414 |
+| Subscribers          | 413 |
 | Posts                | 16  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ m u s i c o f t h e p r o l e s
 |----------------------|---|
 | Published            | 2019-08-25 20:00:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

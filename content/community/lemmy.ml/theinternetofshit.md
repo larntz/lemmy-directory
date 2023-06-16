@@ -3,13 +3,13 @@ title: "The Internet of Shit"
 name: "theinternetofshit"
 description: "This sub is dedicated to IoT security / hacking"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theinternetofshit"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This sub is dedicated to IoT security / hacking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This sub is dedicated to IoT security / hacking
 |----------------------|---|
 | Published            | 2023-06-11 04:27:49 |
 | Updated              | 2023-06-11 04:28:35 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

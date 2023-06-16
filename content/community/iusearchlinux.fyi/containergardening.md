@@ -3,17 +3,17 @@ title: "Container Gardening"
 name: "containergardening"
 description: "Alternative to r/containergardening.Here you can discuss container plants, growing them, seek advice, etc..."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/containergardening"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 2
-comments: 12
-weight: 2
-dau: 3
+subscribers: 22
+posts: 3
+comments: 15
+weight: 3
+dau: 2
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Alternative to r/containergardening.<br><br>Here you can discuss container plant
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 2  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
+| Subscribers          | 22 |
+| Posts                | 3  |
+| Comments             | 15  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Alternative to r/containergardening.<br><br>Here you can discuss container plant
 |----------------------|---|
 | Published            | 2023-06-13 05:35:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

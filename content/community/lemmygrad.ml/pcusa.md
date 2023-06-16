@@ -3,7 +3,7 @@ title: "Party of Communists USA"
 name: "pcusa"
 description: "Unofficial Lemmygrad branch of The Party of Communists USA. ML, Anti-Revisionist Party recognized by over 45 Parties world-wide as the American Vanguard.[Join Here.](partyofcommunistsusa.org)"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pcusa"
@@ -54,4 +54,4 @@ Unofficial Lemmygrad branch of The Party of Communists USA. ML, Anti-Revisionist
 |----------------------|---|
 | Published            | 2022-05-22 21:53:08 |
 | Updated              | 2022-05-23 03:28:26 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

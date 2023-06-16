@@ -3,7 +3,7 @@ title: "Teklore"
 name: "teklore"
 description: "A place for the lesser known history of technology and computing."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teklore"
@@ -54,4 +54,4 @@ A place for the lesser known history of technology and computing.
 |----------------------|---|
 | Published            | 2021-02-26 11:26:23 |
 | Updated              | 2021-02-26 11:32:26 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:41 |

@@ -3,16 +3,16 @@ title: "Nutrition"
 name: "nutrition"
 description: "Research, stories, facts, and questions about nutrition"
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nutrition"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 70
-posts: 12
+subscribers: 79
+posts: 14
 comments: 10
-weight: 12
+weight: 14
 dau: 2
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Research, stories, facts, and questions about nutrition
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 12  |
+| Subscribers          | 79 |
+| Posts                | 14  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Research, stories, facts, and questions about nutrition
 |----------------------|---|
 | Published            | 2022-05-20 08:21:00 |
 | Updated              | 2022-05-27 11:35:48 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

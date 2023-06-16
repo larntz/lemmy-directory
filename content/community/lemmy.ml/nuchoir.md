@@ -3,7 +3,7 @@ title: "nuchoir"
 name: "nuchoir"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nuchoir"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-15 14:17:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

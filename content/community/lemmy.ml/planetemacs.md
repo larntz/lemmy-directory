@@ -3,13 +3,13 @@ title: "Planet Emacs: Emacs News, Packages, Articles, Videos & more"
 name: "planetemacs"
 description: "**Emacs News, Packages, Articles, Videos, Events & more** This is a sister community of 1. [/c/emacs](https://lemmy.ml/c/emacs)2. [/c/orgmode](https://lemmy.ml/c/orgmode)3. [/c/spacemacs](https://lemmy.ml/c/spacemacs) 4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/planetemacs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 74
 posts: 8
 comments: 0
 weight: 8
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 74 |
 | Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-13 04:20:46 |
 | Updated              | 2021-04-13 04:36:30 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

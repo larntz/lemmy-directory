@@ -3,19 +3,19 @@ title: "ErgoMechKeyboards"
 name: "ergomechkeyboards"
 description: "**What it this about**    Ergonomic, split and other weird keyboards    **Split keyboard compare tool** https://jhelvy.shinyapps.io/splitkbcompare/**Compare keycap profiles**Looking for another set of keycaps - check this site to compare the different keycap profiles https://www.keycaps.info/**Keymap database**    A database with all kinds of keymap layouts - some of them fits ergo keyboards - get inspiredhttps://keymapdb.com/    "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ergomechkeyboards"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 675
-posts: 37
-comments: 205
-weight: 37
-dau: 21
-wau: 41
-mau: 41
+subscribers: 798
+posts: 43
+comments: 250
+weight: 43
+dau: 54
+wau: 98
+mau: 99
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 675 |
-| Posts                | 37  |
-| Comments             | 205  |
-| Daily Active Users   | 21  |
-| Weekly Active Users  | 41  |
-| Monthly Active Users | 41  |
+| Subscribers          | 798 |
+| Posts                | 43  |
+| Comments             | 250  |
+| Daily Active Users   | 54  |
+| Weekly Active Users  | 98  |
+| Monthly Active Users | 99  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 21:12:12 |
 | Updated              | 2023-06-16 09:47:47 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,19 +3,19 @@ title: "Melbourne"
 name: "melbourne"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/melbourne"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 345
-posts: 22
-comments: 1651
-weight: 22
-dau: 69
-wau: 132
-mau: 133
+subscribers: 359
+posts: 24
+comments: 1854
+weight: 24
+dau: 67
+wau: 135
+mau: 136
 instances:
 - "aussie_zone"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 345 |
-| Posts                | 22  |
-| Comments             | 1651  |
-| Daily Active Users   | 69  |
-| Weekly Active Users  | 132  |
-| Monthly Active Users | 133  |
+| Subscribers          | 359 |
+| Posts                | 24  |
+| Comments             | 1854  |
+| Daily Active Users   | 67  |
+| Weekly Active Users  | 135  |
+| Monthly Active Users | 136  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 00:08:10 |
 | Updated              | 2023-06-14 22:41:03 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,13 +3,13 @@ title: "RTLSDR"
 name: "rtlsdr"
 description: "A subreddit for the low-cost software defined radio (SDR) community. While originally dedicated to the [RTL2832U USB rtl-sdr project, relevant content related to general SDR, RF, and similar projects are also welcomed.Related communities: - [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)- [c/cprogramming](https://lemmy.ml/c/cprogramming)- [c/raspberry_pi](https://lemmy.ml/c/raspberry_pi)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rtlsdr"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ A subreddit for the low-cost software defined radio (SDR) community. While origi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A subreddit for the low-cost software defined radio (SDR) community. While origi
 |----------------------|---|
 | Published            | 2023-06-06 20:07:21 |
 | Updated              | 2023-06-09 14:49:14 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:20 |

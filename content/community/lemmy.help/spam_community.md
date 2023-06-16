@@ -3,7 +3,7 @@ title: "Spam Community"
 name: "spam_community"
 description: "Join this community for testing and spamming purposes."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.help/c/spam_community"
@@ -54,4 +54,4 @@ Join this community for testing and spamming purposes.
 |----------------------|---|
 | Published            | 2023-06-12 13:56:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,19 +3,19 @@ title: "New England"
 name: "newengland"
 description: "A community to post and discuss the northeastern region of the USA known as New England."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newengland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 4
+subscribers: 18
+posts: 5
 comments: 7
-weight: 4
-dau: 0
-wau: 0
-mau: 0
+weight: 5
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to post and discuss the northeastern region of the USA known as New 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 4  |
+| Subscribers          | 18 |
+| Posts                | 5  |
 | Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to post and discuss the northeastern region of the USA known as New 
 |----------------------|---|
 | Published            | 2023-06-15 16:17:31 |
 | Updated              | 2023-06-15 16:18:37 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

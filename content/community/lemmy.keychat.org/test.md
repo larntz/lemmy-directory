@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "for testing"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.keychat.org/c/test"
@@ -54,4 +54,4 @@ for testing
 |----------------------|---|
 | Published            | 2023-06-11 17:42:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

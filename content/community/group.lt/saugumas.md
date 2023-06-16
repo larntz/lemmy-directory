@@ -3,7 +3,7 @@ title: "(safe)Unsecure"
 name: "saugumas"
 description: "(un)Security"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/saugumas"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-12-05 09:53:45 |
 | Updated              | 2022-05-19 17:39:02 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

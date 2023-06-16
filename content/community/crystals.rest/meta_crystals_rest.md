@@ -1,15 +1,15 @@
 ---
 title: "crystals.rest [meta]" 
 name: "meta_crystals_rest"
-description: "The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!"
+description: "The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/meta_crystals_rest"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 2
 comments: 2
 weight: 2
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!
+The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
 </blockquote>
 
 
@@ -41,7 +41,7 @@ The meta community to talk about crystals.rest! If you have any questions, ideas
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ The meta community to talk about crystals.rest! If you have any questions, ideas
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 20:03:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 17:12:40 |
+| Last Scraped         | 2023-06-16 22:56:19 |

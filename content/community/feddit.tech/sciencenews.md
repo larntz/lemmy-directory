@@ -3,7 +3,7 @@ title: "Science News"
 name: "sciencenews"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/sciencenews"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 22:12:20 |
 | Updated              | 2023-06-14 23:01:40 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

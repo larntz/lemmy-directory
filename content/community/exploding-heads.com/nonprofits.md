@@ -3,7 +3,7 @@ title: "Non-Profits - who profits?"
 name: "nonprofits"
 description: "A lot of people seem to make an awful lot of money out of non-profits and get gold plated perks to boot."
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/nonprofits"
@@ -54,4 +54,4 @@ A lot of people seem to make an awful lot of money out of non-profits and get go
 |----------------------|---|
 | Published            | 2022-03-12 17:33:09 |
 | Updated              | 2022-03-13 00:53:25 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-16 22:56:37 |

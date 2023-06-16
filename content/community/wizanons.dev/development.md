@@ -3,7 +3,7 @@ title: "Development"
 name: "development"
 description: "Any development work! Show off your magic skills!"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/development"
@@ -54,4 +54,4 @@ Any development work! Show off your magic skills!
 |----------------------|---|
 | Published            | 2023-06-11 19:32:58 |
 | Updated              | 2023-06-11 21:14:31 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

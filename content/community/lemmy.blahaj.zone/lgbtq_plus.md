@@ -3,17 +3,17 @@ title: "LGBTQ+"
 name: "lgbtq_plus"
 description: ""
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lgbtq_plus"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 322
+subscribers: 344
 posts: 12
 comments: 59
 weight: 12
-dau: 2
+dau: 1
 wau: 37
 mau: 37
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 322 |
+| Subscribers          | 344 |
 | Posts                | 12  |
 | Comments             | 59  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 37  |
 | Monthly Active Users | 37  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 11:13:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

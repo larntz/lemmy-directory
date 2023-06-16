@@ -3,7 +3,7 @@ title: "Babushka Dogs"
 name: "babushka_dogs"
 description: "A Lemmy sub for pictures and videos of cute babushka dogs!"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/babushka_dogs"
@@ -54,4 +54,4 @@ A Lemmy sub for pictures and videos of cute babushka dogs!
 |----------------------|---|
 | Published            | 2023-06-13 19:33:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

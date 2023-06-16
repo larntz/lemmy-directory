@@ -3,13 +3,13 @@ title: "Guix and GuixSD"
 name: "guix"
 description: "Community for all Guix and GuixSD users"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/guix"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for all Guix and GuixSD users
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for all Guix and GuixSD users
 |----------------------|---|
 | Published            | 2023-06-13 00:12:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

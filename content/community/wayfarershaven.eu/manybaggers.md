@@ -3,7 +3,7 @@ title: "Many Baggers"
 name: "manybaggers"
 description: "For those who love to travel and don't limit themselves to just one bag. Inspiration: [/r/manybaggers](https://www.reddit.com/r/ManyBaggers/)See also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)Photo credit: [Arthur Edelmans](https://unsplash.com/photos/u9QuzlImpzA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/manybaggers"
@@ -54,4 +54,4 @@ For those who love to travel and don't limit themselves to just one bag. <br><br
 |----------------------|---|
 | Published            | 2023-06-11 17:30:05 |
 | Updated              | 2023-06-12 09:36:40 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:15 |

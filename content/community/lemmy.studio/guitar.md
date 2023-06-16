@@ -3,18 +3,18 @@ title: "Guitars and more"
 name: "guitar"
 description: "Community devoted to the exchange of guitar related information."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/guitar"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 74
 posts: 1
 comments: 14
 weight: 1
 dau: 1
-wau: 6
+wau: 4
 mau: 6
 instances:
 - "lemmy_studio"
@@ -41,11 +41,11 @@ Community devoted to the exchange of guitar related information.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 74 |
 | Posts                | 1  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ Community devoted to the exchange of guitar related information.
 |----------------------|---|
 | Published            | 2023-06-09 03:49:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:58 |

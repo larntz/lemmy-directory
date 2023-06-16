@@ -3,7 +3,7 @@ title: "Science"
 name: "science"
 description: "Science and research topics.Research which is primarily political or low-quality discouraged."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/science"
@@ -13,7 +13,7 @@ subscribers: 47
 posts: 5
 comments: 8
 weight: 5
-dau: 2
+dau: 1
 wau: 4
 mau: 6
 instances:
@@ -44,7 +44,7 @@ Science and research topics.<br><br>Research which is primarily political or low
 | Subscribers          | 47 |
 | Posts                | 5  |
 | Comments             | 8  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ Science and research topics.<br><br>Research which is primarily political or low
 |----------------------|---|
 | Published            | 2023-06-07 15:23:23 |
 | Updated              | 2023-06-13 21:57:44 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

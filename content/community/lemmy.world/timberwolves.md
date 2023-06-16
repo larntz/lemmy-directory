@@ -3,19 +3,19 @@ title: "Minnesota Timberwolves"
 name: "timberwolves"
 description: "Home of discussion for the NBA's Minnesota Timberwolves"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/timberwolves"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 7
+subscribers: 7
+posts: 12
 comments: 0
-weight: 7
-dau: 0
-wau: 0
-mau: 0
+weight: 12
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Home of discussion for the NBA's Minnesota Timberwolves
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 7  |
+| Subscribers          | 7 |
+| Posts                | 12  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 07:56:10 |
-| Updated              | 2023-06-16 08:03:56 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Updated              | 2023-06-16 14:19:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

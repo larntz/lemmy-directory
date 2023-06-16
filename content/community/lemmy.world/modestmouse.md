@@ -3,7 +3,7 @@ title: "Modest Mouse"
 name: "modestmouse"
 description: "All things about the band Modest Mouse of Issaquah, Washington"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modestmouse"
@@ -54,4 +54,4 @@ All things about the band Modest Mouse of Issaquah, Washington
 |----------------------|---|
 | Published            | 2023-06-10 17:11:24 |
 | Updated              | 2023-06-10 17:13:35 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

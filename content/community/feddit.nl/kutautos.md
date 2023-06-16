@@ -3,7 +3,7 @@ title: "kutauto’s"
 name: "kutautos"
 description: "Een gemeenschap waar klimaatalarmisten en verzuurde fietsers klagen over hoe kut auto's en de olie-industrie zijn."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/kutautos"
@@ -54,4 +54,4 @@ Een gemeenschap waar klimaatalarmisten en verzuurde fietsers klagen over hoe kut
 |----------------------|---|
 | Published            | 2023-06-10 07:30:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

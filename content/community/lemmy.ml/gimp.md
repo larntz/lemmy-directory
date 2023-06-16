@@ -3,7 +3,7 @@ title: "gimp"
 name: "gimp"
 description: "Unofficial group for the free and opensource photomanipulation program called GIMP.https://www.gimp.org/"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gimp"
@@ -54,4 +54,4 @@ Unofficial group for the free and opensource photomanipulation program called GI
 |----------------------|---|
 | Published            | 2021-05-15 21:51:16 |
 | Updated              | 2021-05-15 21:52:02 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

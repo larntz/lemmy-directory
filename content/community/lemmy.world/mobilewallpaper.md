@@ -3,19 +3,19 @@ title: "Mobile Wallpaper"
 name: "mobilewallpaper"
 description: "**Description**This is a community for sharing mobile wallpapers. Please post most accessible link for download. Websites link Pinterest require an account and login for access, so would not be ideal. Post from image hosting sites to not overload the hosting space of the lemmy.world servers. Such as:https://postimages.org/https://imgbox.comhttps://imgur.comhttps://pixelfed.social/https://www.dropbox.com/basic**Rules**- 1) Must include artist/source. The artist created the thing and should get the credit for their effort. You can use a [Google Image](https://images.google.com/) search to find the artist. If the artist is not found, put “Source unknown” in the text. - 2) Do not post NSFW content. - 3) Include the resolution in title, the [OLED] tag for true black backgrounds, and [AI] for AI-generated images. - 4) Images must be in portrait orientation or high definition enough to be zoomed and still be used as a mobile wallpaper. *(Credits: Banner from [Louis Coyle](https://dribbble.com/shots/12078823-The-Valley), icon from [Anggara](https://www.flaticon.com/free-icons/gallery))*"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mobilewallpaper"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 507
+subscribers: 540
 posts: 36
-comments: 19
+comments: 21
 weight: 36
-dau: 7
-wau: 20
-mau: 20
+dau: 1
+wau: 18
+mau: 21
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 507 |
+| Subscribers          | 540 |
 | Posts                | 36  |
-| Comments             | 19  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Comments             | 21  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-08 19:08:16 |
 | Updated              | 2023-06-15 03:54:55 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,15 +3,15 @@ title: "Cloud Security"
 name: "cloudsecurity"
 description: "Preventing storms.![](https://infosec.pub/pictrs/image/c750e9b9-37de-4f70-b39a-462190637190.png)## Rules1.  Be excellent to each other!2.  Use the article title as the submission title. Do not editorialize the title or add your own commentary to the article title.3.  **No vendor spam. Zero tolerance for content marketing.** "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/cloudsecurity"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 79
 posts: 10
-comments: 6
+comments: 7
 weight: 10
 dau: 2
 wau: 3
@@ -41,9 +41,9 @@ Preventing storms.<br><br>![](https://infosec.pub/pictrs/image/c750e9b9-37de-4f7
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 79 |
 | Posts                | 10  |
-| Comments             | 6  |
+| Comments             | 7  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Preventing storms.<br><br>![](https://infosec.pub/pictrs/image/c750e9b9-37de-4f7
 |----------------------|---|
 | Published            | 2023-06-13 08:48:04 |
 | Updated              | 2023-06-16 06:48:34 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

@@ -3,7 +3,7 @@ title: "Videojogos"
 name: "videojogos"
 description: "Comunidade dedicada a videojogos e gaming."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/videojogos"
@@ -13,9 +13,9 @@ subscribers: 30
 posts: 5
 comments: 11
 weight: 5
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_pt"
 tags: 
@@ -44,9 +44,9 @@ Comunidade dedicada a videojogos e gaming.
 | Subscribers          | 30 |
 | Posts                | 5  |
 | Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidade dedicada a videojogos e gaming.
 |----------------------|---|
 | Published            | 2021-09-10 19:53:38 |
 | Updated              | 2021-09-13 11:27:14 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

@@ -3,7 +3,7 @@ title: "TESCREAL"
 name: "tescreal"
 description: "TESCREAL is an acronym for Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tescreal"
@@ -54,4 +54,4 @@ TESCREAL is an acronym for Transhumanism, Extropianism, Singularitarianism, Cosm
 |----------------------|---|
 | Published            | 2023-05-31 12:55:04 |
 | Updated              | 2023-05-31 13:06:12 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

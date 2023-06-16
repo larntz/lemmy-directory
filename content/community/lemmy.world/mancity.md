@@ -3,7 +3,7 @@ title: "Manchester City FC"
 name: "mancity"
 description: "For fans of Manchester City Football Club. Come hang out and discuss all things City. "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mancity"
@@ -54,4 +54,4 @@ For fans of Manchester City Football Club. Come hang out and discuss all things 
 |----------------------|---|
 | Published            | 2023-06-12 08:09:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

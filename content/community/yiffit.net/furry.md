@@ -3,17 +3,17 @@ title: "Furry (Safe For Work)"
 name: "furry"
 description: "Community dedicated to SFW furry artwork- All content must be Safe for Work. Neither explicit nor questionable content is allowed in this community.- All titles for non-original artwork must include attribution- If you post from a lemmy instance, please include a link to the artist's profile, gallery or social media in the body of the post.- Don't post artwork from artists in the DNP list"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/furry"
 host: yiffit.net
 lastmod: "{[ .Updated }}"
-subscribers: 171
-posts: 33
-comments: 24
-weight: 33
-dau: 6
+subscribers: 181
+posts: 35
+comments: 25
+weight: 35
+dau: 3
 wau: 14
 mau: 15
 instances:
@@ -41,10 +41,10 @@ Community dedicated to SFW furry artwork<br>- All content must be Safe for Work.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 171 |
-| Posts                | 33  |
-| Comments             | 24  |
-| Daily Active Users   | 6  |
+| Subscribers          | 181 |
+| Posts                | 35  |
+| Comments             | 25  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 15  |
 
@@ -54,4 +54,4 @@ Community dedicated to SFW furry artwork<br>- All content must be Safe for Work.
 |----------------------|---|
 | Published            | 2023-06-08 13:51:39 |
 | Updated              | 2023-06-15 17:28:57 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:10 |

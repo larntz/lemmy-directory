@@ -3,7 +3,7 @@ title: "noita"
 name: "noita"
 description: "post your skill issues"
 type: community
-date: "2023-06-15 17:37:06"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/noita"
@@ -54,4 +54,4 @@ post your skill issues
 |----------------------|---|
 | Published            | 2023-06-14 20:30:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:06 |
+| Last Scraped         | 2023-06-16 22:56:13 |

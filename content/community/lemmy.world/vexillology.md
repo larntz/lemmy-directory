@@ -3,19 +3,19 @@ title: "Vexillology"
 name: "vexillology"
 description: "A community dedicated to flags and discussion about flags.Other communities:- Vexillologyjerk [/c/vexillologyjerk@lemmy.antemeridiem.xyz](/c/vexillologyjerk@lemmy.antemeridiem.xyz)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vexillology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 244
-posts: 16
+subscribers: 258
+posts: 17
 comments: 55
-weight: 16
-dau: 7
-wau: 14
-mau: 14
+weight: 17
+dau: 2
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to flags and discussion about flags.<br><br>Other communit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 244 |
-| Posts                | 16  |
+| Subscribers          | 258 |
+| Posts                | 17  |
 | Comments             | 55  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to flags and discussion about flags.<br><br>Other communit
 |----------------------|---|
 | Published            | 2023-06-11 09:24:39 |
 | Updated              | 2023-06-11 13:22:45 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

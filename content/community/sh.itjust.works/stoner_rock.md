@@ -3,16 +3,16 @@ title: "stoner_rock"
 name: "stoner_rock"
 description: "A place for stoner, doom, heavy blues, psych and just good rock n roll."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/stoner_rock"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 60
-posts: 11
-comments: 12
-weight: 11
+subscribers: 69
+posts: 12
+comments: 17
+weight: 12
 dau: 3
 wau: 4
 mau: 4
@@ -41,9 +41,9 @@ A place for stoner, doom, heavy blues, psych and just good rock n roll.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 11  |
-| Comments             | 12  |
+| Subscribers          | 69 |
+| Posts                | 12  |
+| Comments             | 17  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ A place for stoner, doom, heavy blues, psych and just good rock n roll.
 |----------------------|---|
 | Published            | 2023-06-11 18:59:43 |
 | Updated              | 2023-06-14 19:49:46 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

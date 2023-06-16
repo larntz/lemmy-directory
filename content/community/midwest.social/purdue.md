@@ -3,16 +3,16 @@ title: "Purdue"
 name: "purdue"
 description: "A community for alums and current students to hang out, discuss current events, see Purdue news and meet new people!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/purdue"
 host: midwest.social
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 3
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ A community for alums and current students to hang out, discuss current events, 
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ A community for alums and current students to hang out, discuss current events, 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 20:02:21 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Updated              | 2023-06-16 20:15:47 |
+| Last Scraped         | 2023-06-16 22:56:28 |

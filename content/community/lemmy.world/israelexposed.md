@@ -3,7 +3,7 @@ title: "israel exposed"
 name: "israelexposed"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/israelexposed"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 12:19:22 |
 | Updated              | 2023-06-11 12:21:12 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

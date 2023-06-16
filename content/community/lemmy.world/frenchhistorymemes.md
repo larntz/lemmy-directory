@@ -3,19 +3,19 @@ title: "French History Memes"
 name: "frenchhistorymemes"
 description: "Des mêmes sur l’histoire de France, de l’antiquité au XXIe siècle ! — Memes all about France's history. From Pre-Rome to the 21st century ! (En français et en anglais)."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frenchhistorymemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 6
 comments: 1
 weight: 6
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Des mêmes sur l’histoire de France, de l’antiquité au XXIe siècle ! — M
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 6  |
 | Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Des mêmes sur l’histoire de France, de l’antiquité au XXIe siècle ! — M
 |----------------------|---|
 | Published            | 2023-06-12 18:39:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

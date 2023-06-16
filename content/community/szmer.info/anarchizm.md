@@ -3,17 +3,17 @@ title: "Anarchizm - Pod brukiem jest plaża!"
 name: "anarchizm"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/anarchizm"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 105
+subscribers: 106
 posts: 130
 comments: 201
 weight: 130
-dau: 2
+dau: 1
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 105 |
+| Subscribers          | 106 |
 | Posts                | 130  |
 | Comments             | 201  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-27 21:05:51 |
 | Updated              | 2021-06-20 15:46:04 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

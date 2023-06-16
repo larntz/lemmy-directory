@@ -3,19 +3,19 @@ title: "Seattle"
 name: "seattle"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seattle"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 114
-posts: 10
+subscribers: 125
+posts: 11
 comments: 26
-weight: 10
+weight: 11
 dau: 4
-wau: 11
-mau: 11
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
-| Posts                | 10  |
+| Subscribers          | 125 |
+| Posts                | 11  |
 | Comments             | 26  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 22:19:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

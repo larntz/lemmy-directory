@@ -3,19 +3,19 @@ title: "Risa"
 name: "risa"
 description: "**Star Trek memes and shitposts**Come on'n get your jamaharon on! There are no real rules—just don't break the weather control network."
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://startrek.website/c/risa"
 host: startrek.website
 lastmod: "{[ .Updated }}"
-subscribers: 595
-posts: 28
-comments: 49
-weight: 28
-dau: 9
-wau: 44
-mau: 44
+subscribers: 678
+posts: 31
+comments: 54
+weight: 31
+dau: 13
+wau: 50
+mau: 50
 instances:
 - "startrek_website"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 595 |
-| Posts                | 28  |
-| Comments             | 49  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 44  |
-| Monthly Active Users | 44  |
+| Subscribers          | 678 |
+| Posts                | 31  |
+| Comments             | 54  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 50  |
+| Monthly Active Users | 50  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 12:58:53 |
 | Updated              | 2023-06-12 23:28:22 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

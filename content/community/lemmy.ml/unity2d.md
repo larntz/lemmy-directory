@@ -3,7 +3,7 @@ title: "Unity 2D"
 name: "unity2d"
 description: "A community for news, tutorials, feedback, resources, and conversations related to **2D** or **2.5D** game development using the **Unity** game engine."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unity2d"
@@ -54,4 +54,4 @@ A community for news, tutorials, feedback, resources, and conversations related 
 |----------------------|---|
 | Published            | 2023-06-02 16:59:05 |
 | Updated              | 2023-06-02 17:02:41 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:23 |

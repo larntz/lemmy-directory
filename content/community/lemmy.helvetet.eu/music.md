@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/music"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-03-28 14:10:58 |
 | Updated              | 2023-03-28 14:12:39 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "Comradely Rants"
 name: "comradelyrants"
 description: "A place to rant between comrades, about anything and everything that's bringing you down, and talk about them with other comrades.The idea is to be a response to lib offmychest spaces, like swoletariat is a response to lib fitness spaces.Rules:Comments:- This is a supportive community. Only good vibes allowed in comments.- Please don't give advice unless OP asks for advicePosts:- Don't use bigoted language even against the people you rant about- Please mark Content Warnings if needed in the title- Make it clear if you would like advice or not"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/comradelyrants"
@@ -54,4 +54,4 @@ A place to rant between comrades, about anything and everything that's bringing 
 |----------------------|---|
 | Published            | 2020-07-15 09:17:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,7 +3,7 @@ title: "announcements"
 name: "announcements"
 description: "Community for announcements regarding the Frozen Lemmy instance."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.frozeninferno.xyz/c/announcements"
@@ -54,4 +54,4 @@ Community for announcements regarding the Frozen Lemmy instance.
 |----------------------|---|
 | Published            | 2023-06-10 19:58:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

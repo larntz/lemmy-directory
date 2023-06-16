@@ -3,7 +3,7 @@ title: "Fake Quotes"
 name: "fake_quotes"
 description: "For quotes attributed to a real person, but with fake text from satire news, your imagination, AI, etc"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fake_quotes"
@@ -54,4 +54,4 @@ For quotes attributed to a real person, but with fake text from satire news, you
 |----------------------|---|
 | Published            | 2022-01-28 23:45:59 |
 | Updated              | 2022-01-29 17:13:25 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

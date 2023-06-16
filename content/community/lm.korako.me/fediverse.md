@@ -3,7 +3,7 @@ title: "Fediverse (JP)"
 name: "fediverse"
 description: "Fediに関する情報。日本語向け。"
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/fediverse"
@@ -54,4 +54,4 @@ Fediに関する情報。<br>日本語向け。
 |----------------------|---|
 | Published            | 2021-02-16 15:44:24 |
 | Updated              | 2023-06-14 00:47:10 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

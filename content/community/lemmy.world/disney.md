@@ -3,19 +3,19 @@ title: "Disney"
 name: "disney"
 description: "**Everything Disney Related!**```Resort AbbreviationsDCA - Disney California AdventureDCL - Disney Cruise LineDL - DisneylandDLP - Disneyland ParisHKDL - Hong Kong DisneylandSDL - Shanghai DisneylandTDL - Tokyo DisneylandTDS - Tokyo DisneySeaWDSP - Walt Disney Studios ParisWDW - Walt Disney WorldWDW Park AbbreviationsAK - Animal KingdomEP - EPCOTHS - Hollywood Studios (formerly MGM)MK - Magic Kingdom```(Courtesy of [@ilovepudding](https://lemmy.world/u/ilovepudding))"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/disney"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 70
-posts: 11
+subscribers: 76
+posts: 12
 comments: 33
-weight: 11
-dau: 5
-wau: 8
-mau: 8
+weight: 12
+dau: 3
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 11  |
+| Subscribers          | 76 |
+| Posts                | 12  |
 | Comments             | 33  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 15:40:10 |
 | Updated              | 2023-06-15 00:23:41 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

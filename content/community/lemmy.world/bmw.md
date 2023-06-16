@@ -3,19 +3,19 @@ title: "BMW"
 name: "bmw"
 description: "Automotive community for BMW"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bmw"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 5
-comments: 4
+comments: 8
 weight: 5
 dau: 2
-wau: 2
-mau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Automotive community for BMW
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 5  |
-| Comments             | 4  |
+| Comments             | 8  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Automotive community for BMW
 |----------------------|---|
 | Published            | 2023-06-14 15:51:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

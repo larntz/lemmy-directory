@@ -3,17 +3,17 @@ title: "Reaper"
 name: "reaper"
 description: "Anything relevant to Reaper. http://reaper.fm/index.php"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/reaper"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 4
 comments: 5
 weight: 4
-dau: 5
+dau: 4
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ Anything relevant to Reaper.<br> <br>http://reaper.fm/index.php
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 4  |
 | Comments             | 5  |
-| Daily Active Users   | 5  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ Anything relevant to Reaper.<br> <br>http://reaper.fm/index.php
 |----------------------|---|
 | Published            | 2023-06-14 05:40:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:58 |

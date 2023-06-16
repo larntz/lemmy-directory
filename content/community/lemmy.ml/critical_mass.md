@@ -3,7 +3,7 @@ title: "Critical Mass"
 name: "critical_mass"
 description: "This is one of the most unique communities of the world.As free software enthusiasts and federated software preferers, there are many technologies out there which provide substitute for freedom harming technologies.The purpose of this community is to create accounts on technologies better than existing ones (maybe but not necessarily ideal) and create some minimal content for creating critical mass!You, my dear user, would essentially be becoming the reason that a technology gets used by most of the world!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/critical_mass"
@@ -54,4 +54,4 @@ This is one of the most unique communities of the world.<br><br>As free software
 |----------------------|---|
 | Published            | 2022-01-02 16:43:17 |
 | Updated              | 2022-01-18 05:12:13 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

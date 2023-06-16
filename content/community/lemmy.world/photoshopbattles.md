@@ -3,13 +3,13 @@ title: "Photoshop Battles"
 name: "photoshopbattles"
 description: "Unleash Your Creativity in an Epic Digital Showdown!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/photoshopbattles"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 82
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ Unleash Your Creativity in an Epic Digital Showdown!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 82 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Unleash Your Creativity in an Epic Digital Showdown!
 |----------------------|---|
 | Published            | 2023-06-12 09:18:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

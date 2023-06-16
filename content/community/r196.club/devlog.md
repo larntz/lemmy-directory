@@ -3,7 +3,7 @@ title: "Lemmy Devlog"
 name: "devlog"
 description: "My devlog for hacking on lemmy"
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://r196.club/c/devlog"
@@ -54,4 +54,4 @@ My devlog for hacking on lemmy
 |----------------------|---|
 | Published            | 2023-06-15 04:00:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

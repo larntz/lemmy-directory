@@ -3,7 +3,7 @@ title: "ListeningTo"
 name: "listeningto"
 description: "Share and Discover Music: Let everyone know what you're listening to!Any genre, any era!"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/listeningto"
@@ -13,9 +13,9 @@ subscribers: 5
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ Share and Discover Music: Let everyone know what you're listening to!<br><br>Any
 | Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Share and Discover Music: Let everyone know what you're listening to!<br><br>Any
 |----------------------|---|
 | Published            | 2023-06-15 06:37:11 |
 | Updated              | 2023-06-15 23:30:12 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

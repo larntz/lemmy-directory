@@ -3,7 +3,7 @@ title: "How To"
 name: "howto"
 description: "How to {anything you would need help with}. An ask and tell kind of place. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/howto"
@@ -54,4 +54,4 @@ How to {anything you would need help with}. <br>An ask and tell kind of place.
 |----------------------|---|
 | Published            | 2020-10-29 07:49:37 |
 | Updated              | 2021-11-28 05:36:27 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

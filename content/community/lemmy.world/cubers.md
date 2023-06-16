@@ -3,19 +3,19 @@ title: "cubers"
 name: "cubers"
 description: "Community for all things speedcubing or twisty puzzle related. Cubers and non-cubers are welcome!**Rules**1. Be kind to others1. No NSFW posts (family friendly community)1. Zero tolerance policy for any kind of harassment**Useful links**- [World Cube Association](https://www.worldcubeassociation.org/)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cubers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 4
 comments: 9
 weight: 4
 dau: 4
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for all things speedcubing or twisty puzzle related. Cubers and non-cu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 4  |
 | Comments             | 9  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for all things speedcubing or twisty puzzle related. Cubers and non-cu
 |----------------------|---|
 | Published            | 2023-06-14 10:53:25 |
 | Updated              | 2023-06-14 11:10:46 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

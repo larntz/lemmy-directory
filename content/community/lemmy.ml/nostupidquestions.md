@@ -3,7 +3,7 @@ title: "No Stupid Questions"
 name: "nostupidquestions"
 description: "There are no stupid questions. Follow site rules. Don't be a fascist."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nostupidquestions"
@@ -54,4 +54,4 @@ There are no stupid questions. <br><br>Follow site rules. <br><br>Don't be a fas
 |----------------------|---|
 | Published            | 2020-07-19 10:58:27 |
 | Updated              | 2020-07-20 14:56:39 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

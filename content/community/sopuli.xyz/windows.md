@@ -3,7 +3,7 @@ title: "Windows"
 name: "windows"
 description: "For all things Windows."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/windows"
@@ -54,4 +54,4 @@ For all things Windows.
 |----------------------|---|
 | Published            | 2021-03-04 09:18:04 |
 | Updated              | 2021-12-06 15:49:09 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

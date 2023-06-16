@@ -3,16 +3,16 @@ title: "Technologie"
 name: "technologie"
 description: "Pro všechny nadšence do technologií"
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/technologie"
 host: le.mnau.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 3
+subscribers: 2
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Pro všechny nadšence do technologií
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
+| Subscribers          | 2 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ Pro všechny nadšence do technologií
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 19:28:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Updated              | 2023-06-16 17:33:33 |
+| Last Scraped         | 2023-06-16 22:56:30 |

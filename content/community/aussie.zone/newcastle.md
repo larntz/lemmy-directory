@@ -3,19 +3,19 @@ title: "Newcastle "
 name: "newcastle"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/newcastle"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
 subscribers: 21
-posts: 5
-comments: 22
-weight: 5
-dau: 2
-wau: 6
-mau: 6
+posts: 6
+comments: 23
+weight: 6
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "aussie_zone"
 tags: 
@@ -42,11 +42,11 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 21 |
-| Posts                | 5  |
-| Comments             | 22  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Posts                | 6  |
+| Comments             | 23  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 08:20:26 |
 | Updated              | 2023-06-11 08:22:01 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,19 +3,19 @@ title: "Fedora Linux"
 name: "fedora"
 description: "All about Fedora Linux"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fedora"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 535
+subscribers: 550
 posts: 48
 comments: 25
 weight: 48
 dau: 6
-wau: 8
-mau: 9
+wau: 9
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All about Fedora Linux
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 535 |
+| Subscribers          | 550 |
 | Posts                | 48  |
 | Comments             | 25  |
 | Daily Active Users   | 6  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ All about Fedora Linux
 |----------------------|---|
 | Published            | 2019-06-05 19:08:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

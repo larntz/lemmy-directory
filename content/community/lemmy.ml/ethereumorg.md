@@ -3,7 +3,7 @@ title: "Ethereum"
 name: "ethereumorg"
 description: "Next-generation platform for decentralised applications. [ethereum.org](https://ethereum.org)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ethereumorg"
@@ -54,4 +54,4 @@ Next-generation platform for decentralised applications. [ethereum.org](https://
 |----------------------|---|
 | Published            | 2021-04-05 19:24:21 |
 | Updated              | 2021-04-05 19:26:40 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

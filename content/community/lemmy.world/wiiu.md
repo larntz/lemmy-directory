@@ -3,13 +3,13 @@ title: "Wii U"
 name: "wiiu"
 description: "a community for all fans of the Wii U console!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wiiu"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 23
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ a community for all fans of the Wii U console!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 23 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ a community for all fans of the Wii U console!
 |----------------------|---|
 | Published            | 2023-06-12 00:47:13 |
 | Updated              | 2023-06-12 00:53:42 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

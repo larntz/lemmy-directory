@@ -3,7 +3,7 @@ title: "Sociology"
 name: "sociology"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/sociology"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 22:38:51 |
 | Updated              | 2023-06-14 23:04:42 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

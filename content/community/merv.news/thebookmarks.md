@@ -3,7 +3,7 @@ title: "The Bookmarks"
 name: "thebookmarks"
 description: "# Inspiring things you wish to share or come back to."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thebookmarks"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-01 17:37:28 |
 | Updated              | 2022-10-06 15:36:53 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

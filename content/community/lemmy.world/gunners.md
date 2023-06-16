@@ -3,19 +3,19 @@ title: "Gunners"
 name: "gunners"
 description: "Phoenix community for /r/gunners"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gunners"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 419
-posts: 77
-comments: 654
-weight: 77
-dau: 45
-wau: 105
-mau: 105
+subscribers: 424
+posts: 85
+comments: 700
+weight: 85
+dau: 29
+wau: 113
+mau: 113
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Phoenix community for /r/gunners
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 419 |
-| Posts                | 77  |
-| Comments             | 654  |
-| Daily Active Users   | 45  |
-| Weekly Active Users  | 105  |
-| Monthly Active Users | 105  |
+| Subscribers          | 424 |
+| Posts                | 85  |
+| Comments             | 700  |
+| Daily Active Users   | 29  |
+| Weekly Active Users  | 113  |
+| Monthly Active Users | 113  |
 
 <br>
 
@@ -54,4 +54,4 @@ Phoenix community for /r/gunners
 |----------------------|---|
 | Published            | 2023-06-10 14:14:28 |
 | Updated              | 2023-06-13 08:30:29 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

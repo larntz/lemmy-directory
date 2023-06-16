@@ -3,7 +3,7 @@ title: "Rational Thought"
 name: "rationalthought"
 description: "Thinking rationallyrules:1. Do not be irrational"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rationalthought"
@@ -54,4 +54,4 @@ Thinking rationally<br><br>rules:<br>1. Do not be irrational
 |----------------------|---|
 | Published            | 2020-06-30 07:19:26 |
 | Updated              | 2020-06-30 07:24:21 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

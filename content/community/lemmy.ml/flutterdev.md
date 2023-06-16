@@ -3,7 +3,7 @@ title: "Flutter Development"
 name: "flutterdev"
 description: "A community to discuss Google's UI framework."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flutterdev"
@@ -54,4 +54,4 @@ A community to discuss Google's UI framework.
 |----------------------|---|
 | Published            | 2023-06-09 21:29:54 |
 | Updated              | 2023-06-09 21:30:08 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

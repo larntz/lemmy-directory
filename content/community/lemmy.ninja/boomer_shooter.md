@@ -3,7 +3,7 @@ title: "boomer_shooter"
 name: "boomer_shooter"
 description: "A home for all the awesome boomer-shooters and retroFPS games that exist in the unknown Fediverse!RulesNo bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. Be respectful, especially when disagreeing. Everyone should feel welcome here.No porn.No Ads / Spamming."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/boomer_shooter"
@@ -54,4 +54,4 @@ A home for all the awesome boomer-shooters and retroFPS games that exist in the 
 |----------------------|---|
 | Published            | 2023-06-13 16:40:27 |
 | Updated              | 2023-06-15 04:41:07 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

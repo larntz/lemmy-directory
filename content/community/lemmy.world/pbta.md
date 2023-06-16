@@ -3,7 +3,7 @@ title: "PbtA: For all PbtA games and spinoffs"
 name: "pbta"
 description: "This community is for core PbtA games, but also spinoffs like Forged in the Dark games, Ironsworn, etc."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pbta"
@@ -54,4 +54,4 @@ This community is for core PbtA games, but also spinoffs like Forged in the Dark
 |----------------------|---|
 | Published            | 2023-06-15 23:00:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

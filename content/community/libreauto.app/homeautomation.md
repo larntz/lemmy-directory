@@ -3,7 +3,7 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Discussion about general home automation ideas and projects."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/homeautomation"
@@ -54,4 +54,4 @@ Discussion about general home automation ideas and projects.
 |----------------------|---|
 | Published            | 2023-06-12 23:02:35 |
 | Updated              | 2023-06-12 23:08:44 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

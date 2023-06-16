@@ -3,7 +3,7 @@ title: "Y2K Aesthetics"
 name: "y2k"
 description: "Community dedicated to the Y2K aesthetic.[What is the Y2K aesthetic?](https://aesthetics.fandom.com/wiki/Y2K)Check also [!frutiger_aero@sopuli.xyz](https://sopuli.xyz/c/frutiger_aero) for the [Frutiger Aero aesthetic](https://aesthetics.fandom.com/wiki/Frutiger_Aero)"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/y2k"
@@ -54,4 +54,4 @@ Community dedicated to the Y2K aesthetic.<br><br>[What is the Y2K aesthetic?](ht
 |----------------------|---|
 | Published            | 2021-02-15 16:05:23 |
 | Updated              | 2023-06-12 09:33:35 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

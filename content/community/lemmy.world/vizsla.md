@@ -3,7 +3,7 @@ title: "vizsla"
 name: "vizsla"
 description: "A place for anything Vizsla."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vizsla"
@@ -54,4 +54,4 @@ A place for anything Vizsla.
 |----------------------|---|
 | Published            | 2023-06-13 18:36:00 |
 | Updated              | 2023-06-13 18:48:16 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,7 +3,7 @@ title: "Wellington"
 name: "wellington"
 description: "#Welcome to Wellington, NZ!Whether you're living here, moving here or are just curious, feel free to browse around and ask questions. "
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wellington"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-02 07:12:42 |
 | Updated              | 2023-06-02 07:19:09 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:30 |

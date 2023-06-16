@@ -3,19 +3,19 @@ title: "Ultrawide Wallpapers"
 name: "ultrawide_wallpapers"
 description: "A community to find and share amazing ultrawide wallpapers."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultrawide_wallpapers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 269
+subscribers: 291
 posts: 42
-comments: 15
+comments: 16
 weight: 42
 dau: 1
-wau: 14
-mau: 14
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to find and share amazing ultrawide wallpapers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 269 |
+| Subscribers          | 291 |
 | Posts                | 42  |
-| Comments             | 15  |
+| Comments             | 16  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to find and share amazing ultrawide wallpapers.
 |----------------------|---|
 | Published            | 2023-06-12 18:12:35 |
 | Updated              | 2023-06-13 01:25:56 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

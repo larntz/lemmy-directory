@@ -3,19 +3,19 @@ title: "Hot Peppers"
 name: "hotpeppers"
 description: "Like r/hotpeppers but on Lemmy.Share your peppers, recipes, questions, advice, opinions, etc."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hotpeppers"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 36
 posts: 4
-comments: 13
+comments: 16
 weight: 4
-dau: 9
-wau: 9
-mau: 9
+dau: 10
+wau: 13
+mau: 13
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Like r/hotpeppers but on Lemmy.<br>Share your peppers, recipes, questions, advic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 36 |
 | Posts                | 4  |
-| Comments             | 13  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 16  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Like r/hotpeppers but on Lemmy.<br>Share your peppers, recipes, questions, advic
 |----------------------|---|
 | Published            | 2023-06-15 19:04:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

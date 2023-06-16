@@ -3,18 +3,18 @@ title: "My Little Pony"
 name: "my_little_pony"
 description: "A lemmy community about the TV show My Little Pony: Friendship is MagicRules- 1 Posts must be about MLP or the fandom- 2 Everything must be safe for work- 3 No politics (either in posts or comments)- 4 Follow site rules"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/my_little_pony"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 5
 comments: 10
 weight: 5
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A lemmy community about the TV show My Little Pony: Friendship is Magic<br><br>R
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 5  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A lemmy community about the TV show My Little Pony: Friendship is Magic<br><br>R
 |----------------------|---|
 | Published            | 2020-07-28 19:46:59 |
 | Updated              | 2021-03-26 20:58:53 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:41 |

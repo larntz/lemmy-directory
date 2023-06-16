@@ -3,13 +3,13 @@ title: "Infosec"
 name: "infosec"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/infosec"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 60
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 60 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:09:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

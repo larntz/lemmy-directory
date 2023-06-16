@@ -3,7 +3,7 @@ title: "Dudeski"
 name: "dudeski"
 description: "Post whatever you like. It can be memes, politics, life story, or more!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dudeski"
@@ -54,4 +54,4 @@ Post whatever you like. It can be memes, politics, life story, or more!
 |----------------------|---|
 | Published            | 2023-06-03 05:38:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

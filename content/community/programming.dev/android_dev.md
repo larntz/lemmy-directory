@@ -3,13 +3,13 @@ title: "Android Development"
 name: "android_dev"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android_dev"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 44
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 44 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 10:20:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

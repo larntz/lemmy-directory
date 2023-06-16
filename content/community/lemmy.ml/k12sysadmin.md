@@ -3,13 +3,13 @@ title: "k12sysadmin"
 name: "k12sysadmin"
 description: "This is meant to be a public education focused IT support community."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/k12sysadmin"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is meant to be a public education focused IT support community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is meant to be a public education focused IT support community.
 |----------------------|---|
 | Published            | 2023-06-14 14:11:31 |
 | Updated              | 2023-06-14 14:12:41 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

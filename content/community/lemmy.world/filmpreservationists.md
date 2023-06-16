@@ -3,7 +3,7 @@ title: "Film Preservationists"
 name: "filmpreservationists"
 description: "A Hub for Film History and Preservation"
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/filmpreservationists"
@@ -54,4 +54,4 @@ A Hub for Film History and Preservation
 |----------------------|---|
 | Published            | 2023-06-09 23:10:13 |
 | Updated              | 2023-06-09 23:10:49 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:18 |

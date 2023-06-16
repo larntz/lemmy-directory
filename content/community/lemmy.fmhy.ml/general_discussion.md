@@ -3,19 +3,19 @@ title: "General Discussion"
 name: "general_discussion"
 description: "Want something to discuss? Post it hereFollow instance rules, be decent human being..."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/general_discussion"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 774
-posts: 31
-comments: 354
-weight: 31
-dau: 71
-wau: 191
-mau: 191
+subscribers: 843
+posts: 34
+comments: 391
+weight: 34
+dau: 44
+wau: 202
+mau: 204
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -41,12 +41,12 @@ Want something to discuss? Post it here<br><br>Follow instance rules, be decent 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 774 |
-| Posts                | 31  |
-| Comments             | 354  |
-| Daily Active Users   | 71  |
-| Weekly Active Users  | 191  |
-| Monthly Active Users | 191  |
+| Subscribers          | 843 |
+| Posts                | 34  |
+| Comments             | 391  |
+| Daily Active Users   | 44  |
+| Weekly Active Users  | 202  |
+| Monthly Active Users | 204  |
 
 <br>
 
@@ -54,4 +54,4 @@ Want something to discuss? Post it here<br><br>Follow instance rules, be decent 
 |----------------------|---|
 | Published            | 2023-06-09 12:38:10 |
 | Updated              | 2023-06-11 23:00:19 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

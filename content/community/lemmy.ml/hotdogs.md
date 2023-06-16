@@ -3,7 +3,7 @@ title: "hotdogs"
 name: "hotdogs"
 description: "(and sausages)"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hotdogs"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-10-25 05:03:52 |
 | Updated              | 2021-06-08 23:27:52 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

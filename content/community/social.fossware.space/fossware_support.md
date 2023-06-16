@@ -3,7 +3,7 @@ title: "Support"
 name: "fossware_support"
 description: "Any help and support request regarding FOSSware go here!"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/fossware_support"
@@ -54,4 +54,4 @@ Any help and support request regarding FOSSware go here!
 |----------------------|---|
 | Published            | 2023-06-12 16:58:41 |
 | Updated              | 2023-06-16 05:43:20 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

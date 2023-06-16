@@ -3,19 +3,19 @@ title: "Legends of Runeterra"
 name: "legendsofruneterra"
 description: "Set in the League of Legends universe, Legends of Runeterra is the strategy card game created by Riot Games where skill, creativity, and cleverness determine your success."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/legendsofruneterra"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 20
-posts: 4
-comments: 7
-weight: 4
-dau: 4
-wau: 4
-mau: 4
+posts: 5
+comments: 9
+weight: 5
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ Set in the League of Legends universe, Legends of Runeterra is the strategy card
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 20 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Posts                | 5  |
+| Comments             | 9  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Set in the League of Legends universe, Legends of Runeterra is the strategy card
 |----------------------|---|
 | Published            | 2023-06-10 23:07:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

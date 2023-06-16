@@ -3,7 +3,7 @@ title: "Punjab"
 name: "punjab"
 description: "A community for people of Punjab, regardless of which state claims their land"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/punjab"
@@ -54,4 +54,4 @@ A community for people of Punjab, regardless of which state claims their land
 |----------------------|---|
 | Published            | 2021-05-22 09:04:38 |
 | Updated              | 2021-05-23 14:27:32 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

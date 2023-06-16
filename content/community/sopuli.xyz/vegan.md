@@ -3,13 +3,13 @@ title: "Vegan"
 name: "vegan"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/vegan"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 42
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 42 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-21 19:28:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,13 +3,13 @@ title: "CGP Grey"
 name: "cgpgrey"
 description: "Discussion about popular YouTuber CGP Grey happens here"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cgpgrey"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Discussion about popular YouTuber CGP Grey happens here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion about popular YouTuber CGP Grey happens here
 |----------------------|---|
 | Published            | 2023-06-04 14:54:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

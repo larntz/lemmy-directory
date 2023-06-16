@@ -1,21 +1,21 @@
 ---
 title: "Old School Rennaissance Role Playing Games" 
 name: "osr"
-description: "A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.Just remember:Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes."
+description: "A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.Just remember:Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes.There is also OSR love on other instances:[!osr@lemm.ee](https://lemm.ee/c/osr) "
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osr"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 49
-posts: 13
-comments: 5
-weight: 13
+subscribers: 58
+posts: 14
+comments: 6
+weight: 14
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.<br><br>Just remember:<br><br>Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes.
+A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.<br><br>Just remember:<br><br>Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes.<br><br>There is also OSR love on other instances:<br><br>[!osr@lemm.ee](https://lemm.ee/c/osr) 
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A home for all your old school RPG discussions: Gameplay, games, systems, advent
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 13  |
-| Comments             | 5  |
+| Subscribers          | 58 |
+| Posts                | 14  |
+| Comments             | 6  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-04-24 10:05:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Updated              | 2023-06-16 15:16:20 |
+| Last Scraped         | 2023-06-16 22:57:19 |

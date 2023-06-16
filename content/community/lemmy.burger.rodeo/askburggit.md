@@ -3,19 +3,19 @@ title: "Ask Burggit!"
 name: "askburggit"
 description: "### Ask Burggit!Ever had a question you wanted to ask? Get an opinion on something?Well, here's the place to do it! Ask the community pretty much anything.##### Rules:- **Follow the rules of Burggit.moe**- Not intended for tech support or questions for Burggit staff."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/askburggit"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 5
-comments: 93
+comments: 95
 weight: 5
-dau: 5
-wau: 37
-mau: 37
+dau: 6
+wau: 38
+mau: 38
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 5  |
-| Comments             | 93  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 37  |
-| Monthly Active Users | 37  |
+| Comments             | 95  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 38  |
+| Monthly Active Users | 38  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 03:56:18 |
 | Updated              | 2023-06-12 04:56:41 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

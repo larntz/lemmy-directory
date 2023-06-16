@@ -3,16 +3,16 @@ title: "C Sharp"
 name: "csharp"
 description: "A community about the C# programming language**Getting started**- [C# @ Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))- [A Tour of the C# Language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)- [Learn C#](https://dotnet.microsoft.com/en-us/learn/csharp)**Useful resources**- [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)- [C# Language Reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)- [C# Programming Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)- [.NET Framework Reference Source Code](https://referencesource.microsoft.com/)**IDEs and code editors**- [Visual Studio](https://visualstudio.microsoft.com/vs/) (Windows/Mac)- [Rider](https://www.jetbrains.com/rider/) (Windows/Mac/Linux)- [Visual Studio Code](https://code.visualstudio.com) (Windows/Mac/Linux)**Tools**- Decompilers: [ILSpy](https://github.com/icsharpcode/ILSpy), [dotPeek](https://www.jetbrains.com/decompiler/)- Scratchpad: [LINQPad](https://www.linqpad.net/)- Online playground and IL viewer: [SharpLab](https://sharplab.io/)**Rules**- Rule 1: Follow Lemmy rules- Rule 2: Be excellent to each other, no hostility towards users for any reason- Rule 3: No spam of tools/companies/advertisements**Related communities**- [c/dotnet](https://programming.dev/c/dotnet)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/csharp"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 158
-posts: 5
-comments: 11
-weight: 5
+subscribers: 175
+posts: 6
+comments: 12
+weight: 6
 dau: 7
 wau: 13
 mau: 13
@@ -41,9 +41,9 @@ A community about the C# programming language<br><br>**Getting started**<br>- [C
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 158 |
-| Posts                | 5  |
-| Comments             | 11  |
+| Subscribers          | 175 |
+| Posts                | 6  |
+| Comments             | 12  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
@@ -54,4 +54,4 @@ A community about the C# programming language<br><br>**Getting started**<br>- [C
 |----------------------|---|
 | Published            | 2023-06-13 06:27:49 |
 | Updated              | 2023-06-15 17:57:10 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

@@ -3,7 +3,7 @@ title: "PSVR"
 name: "psvr"
 description: "PlayStation VR / VR2"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psvr"
@@ -54,4 +54,4 @@ PlayStation VR / VR2
 |----------------------|---|
 | Published            | 2023-06-13 06:39:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

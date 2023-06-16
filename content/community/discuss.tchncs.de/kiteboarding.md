@@ -3,7 +3,7 @@ title: "Kiteboarding"
 name: "kiteboarding"
 description: "A community for kitesurfing, kitelandboarding, kitefoiling, wingsurfing, wingfoiling, windsurfing, etc."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kiteboarding"
@@ -14,8 +14,8 @@ posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -45,8 +45,8 @@ A community for kitesurfing, kitelandboarding, kitefoiling, wingsurfing, wingfoi
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for kitesurfing, kitelandboarding, kitefoiling, wingsurfing, wingfoi
 |----------------------|---|
 | Published            | 2023-06-12 10:44:43 |
 | Updated              | 2023-06-13 22:23:07 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

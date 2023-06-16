@@ -3,13 +3,13 @@ title: "Uplifting News"
 name: "upliftingnews"
 description: "A place to read and share positive and uplifting, feel good news stories.Originally  [r/UpliftingNews](https://old.reddit.com/r/UpliftingNews/)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/upliftingnews"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 240
+subscribers: 256
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A place to read and share positive and uplifting, feel good news stories.<br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 240 |
+| Subscribers          | 256 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to read and share positive and uplifting, feel good news stories.<br><br
 |----------------------|---|
 | Published            | 2023-06-11 02:40:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

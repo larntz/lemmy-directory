@@ -3,13 +3,13 @@ title: "Club De Lectura Chile"
 name: "clubdelectura"
 description: "Club de lectura nacido en r/chile, pero ahora en el fediverse. Actualmente, también espacio para la discusión y difusión de todo tipo de contenido relacionado a la literatura."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/clubdelectura"
 host: feddit.cl
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Club de lectura nacido en r/chile, pero ahora en el fediverse. Actualmente, tamb
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Club de lectura nacido en r/chile, pero ahora en el fediverse. Actualmente, tamb
 |----------------------|---|
 | Published            | 2023-06-11 22:04:53 |
 | Updated              | 2023-06-12 18:50:05 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

@@ -3,7 +3,7 @@ title: "Transport públic"
 name: "tpub"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/tpub"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-17 15:35:33 |
 | Updated              | 2022-08-06 18:46:19 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

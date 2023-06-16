@@ -3,7 +3,7 @@ title: "r/GenZedong Educational Archive"
 name: "genzedongea"
 description: "This is a community for all the educational posts from r/GenZedong. This community is made because archiving content on a quarantined subreddit is difficult and because r/GenZedong is not educational and so archiving everything would be an overkill"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongea"
@@ -54,4 +54,4 @@ This is a community for all the educational posts from r/GenZedong. This communi
 |----------------------|---|
 | Published            | 2022-04-04 20:31:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

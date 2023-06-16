@@ -3,7 +3,7 @@ title: "tasker"
 name: "tasker"
 description: "Potential /r/tasker backup."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tasker"
@@ -54,4 +54,4 @@ Potential /r/tasker backup.
 |----------------------|---|
 | Published            | 2022-03-20 01:08:09 |
 | Updated              | 2023-06-09 08:19:03 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

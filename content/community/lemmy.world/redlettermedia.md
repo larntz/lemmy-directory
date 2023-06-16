@@ -3,19 +3,19 @@ title: "Red Letter Media"
 name: "redlettermedia"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/redlettermedia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 207
-posts: 9
-comments: 29
-weight: 9
-dau: 1
-wau: 15
-mau: 15
+subscribers: 226
+posts: 10
+comments: 32
+weight: 10
+dau: 4
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 207 |
-| Posts                | 9  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 226 |
+| Posts                | 10  |
+| Comments             | 32  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 14:28:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

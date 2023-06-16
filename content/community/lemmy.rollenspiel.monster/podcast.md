@@ -3,7 +3,7 @@ title: "Podcast"
 name: "podcast"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/podcast"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-10-09 09:36:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "Chess for Beginners"
 name: "chessbeginners"
 description: "Welcome to !chessbeginners! -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chessbeginners"
@@ -54,4 +54,4 @@ Welcome to !chessbeginners! <br>-<br>This community is subject to the rules defi
 |----------------------|---|
 | Published            | 2023-06-12 01:29:26 |
 | Updated              | 2023-06-12 07:21:49 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:16 |

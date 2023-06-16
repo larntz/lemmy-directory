@@ -3,19 +3,19 @@ title: "Stephen King"
 name: "stephenking"
 description: "A community for fans of the King of Horror, **Stephen King**. Rules: -All posts must be related to Stephen King.-No spamming-That's it for now I'll probably add more as the community grows"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stephenking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 32
 posts: 3
 comments: 5
 weight: 3
 dau: 3
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for fans of the King of Horror, **Stephen King**. <br><br>Rules: <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 32 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for fans of the King of Horror, **Stephen King**. <br><br>Rules: <br
 |----------------------|---|
 | Published            | 2023-06-14 14:14:45 |
 | Updated              | 2023-06-15 02:53:14 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

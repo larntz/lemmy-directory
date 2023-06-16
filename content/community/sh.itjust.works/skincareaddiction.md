@@ -3,13 +3,13 @@ title: "SkincareAddiction"
 name: "skincareaddiction"
 description: "A lemmy community for skincare enthusiasts."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/skincareaddiction"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A lemmy community for skincare enthusiasts.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A lemmy community for skincare enthusiasts.
 |----------------------|---|
 | Published            | 2023-06-14 16:44:16 |
 | Updated              | 2023-06-15 05:30:01 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

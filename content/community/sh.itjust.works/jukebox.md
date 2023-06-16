@@ -3,13 +3,13 @@ title: "Juke Box - share music"
 name: "jukebox"
 description: "Juke Box - share the music you are listening to"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/jukebox"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 81
+subscribers: 83
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ Juke Box - share the music you are listening to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 81 |
+| Subscribers          | 83 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Juke Box - share the music you are listening to
 |----------------------|---|
 | Published            | 2023-06-08 11:04:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

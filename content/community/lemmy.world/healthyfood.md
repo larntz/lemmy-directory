@@ -3,13 +3,13 @@ title: "Healthy Food"
 name: "healthyfood"
 description: "Community for healthy eating"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/healthyfood"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 121
+subscribers: 125
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ Community for healthy eating
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 121 |
+| Subscribers          | 125 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for healthy eating
 |----------------------|---|
 | Published            | 2023-06-12 05:49:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

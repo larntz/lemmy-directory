@@ -3,13 +3,13 @@ title: "Language Learning"
 name: "languagelearning"
 description: "#Welcome to Language Learning!Language Learning is a community dedicated to exploring new languages and sharing resources!Here, you can discuss:- Language learning resources- Your journey in language learning- Advice about language learning"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/languagelearning"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 07:21:46 |
 | Updated              | 2023-06-15 07:51:57 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

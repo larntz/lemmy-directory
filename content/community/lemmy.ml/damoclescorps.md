@@ -3,7 +3,7 @@ title: "damoclescorps"
 name: "damoclescorps"
 description: "The Damocles Corps maintains peace on Earth through robot dogs and orbital bombardment. It's pretty harsh but it works."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/damoclescorps"
@@ -54,4 +54,4 @@ The Damocles Corps maintains peace on Earth through robot dogs and orbital bomba
 |----------------------|---|
 | Published            | 2023-06-05 20:03:11 |
 | Updated              | 2023-06-05 20:04:25 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:35 |

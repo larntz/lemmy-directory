@@ -3,19 +3,19 @@ title: "Supernatural, UFO's & Disclosure"
 name: "paranormal"
 description: "Paranormal provides a platform for its community to discuss and share news, evidence, thoughts, material and also personal paranormal experiences. Honourable mention ==> The Grande Dame of Consciousness: Dr. Rauni-Leena Luukanen-Kilde. THERE IS NO DEATH."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paranormal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 200
+subscribers: 207
 posts: 11
-comments: 6
+comments: 7
 weight: 11
-dau: 1
-wau: 4
-mau: 6
+dau: 2
+wau: 5
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Paranormal provides a platform for its community to discuss and share news, evid
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 200 |
+| Subscribers          | 207 |
 | Posts                | 11  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
+| Comments             | 7  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Paranormal provides a platform for its community to discuss and share news, evid
 |----------------------|---|
 | Published            | 2020-04-19 15:29:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

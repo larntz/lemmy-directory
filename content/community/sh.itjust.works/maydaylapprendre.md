@@ -3,15 +3,15 @@ title: "French help svp"
 name: "maydaylapprendre"
 description: "Une communauté pour people who are trying to improve leur français"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/maydaylapprendre"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 2
-comments: 11
+comments: 13
 weight: 2
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ Une communauté pour people who are trying to improve leur français
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 2  |
-| Comments             | 11  |
+| Comments             | 13  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Une communauté pour people who are trying to improve leur français
 |----------------------|---|
 | Published            | 2023-06-13 17:32:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

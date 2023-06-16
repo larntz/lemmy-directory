@@ -3,13 +3,13 @@ title: "Facesitting "
 name: "facesitting"
 description: "An alternative to r/facesitting. Posts must contain facesitting. Do not break any sitewide rules. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/facesitting"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 49
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ An alternative to r/facesitting. Posts must contain facesitting. Do not break an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 49 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ An alternative to r/facesitting. Posts must contain facesitting. Do not break an
 |----------------------|---|
 | Published            | 2023-06-14 13:53:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,7 +3,7 @@ title: "Arcane"
 name: "arcane"
 description: "The community for Arcane, an animated series created by Riot Games portraying the origins of two iconic League champions, set in the utopian Piltover and the oppressed underground of Zaun."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arcane"
@@ -54,4 +54,4 @@ The community for Arcane, an animated series created by Riot Games portraying th
 |----------------------|---|
 | Published            | 2023-06-13 23:34:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -1,18 +1,18 @@
 ---
 title: "Poetry" 
 name: "poetry"
-description: "A community for discussion and sharing of poetry.I'll populate this sidebar with more pizzazz as I'm able, but for now let's get this train rolling.- Please be sure to credit all authors- Original work ought to be welcome! I have a hard time imagining an inundation that would require something like Original content Thursdays- Poetry [memes? ](https://i.imgur.com/aPttqJM.gif)- /r/Poetry chose to allow image submissions so that a poem's formatting can be preserved. We can do the same."
+description: "A community for discussion and sharing of poetry.I'll populate this sidebar with more pizzazz as I'm able, but for now let's get this train rolling.- Please be sure to credit all authors- English only? *Non!*- It would be [dope as fuck](https://imgur.com/a/PJGOhbi) if non-English submissions were accompanied by an English translation, though.- Original work enthusiastically welcome! Go ham---I have a hard time imagining an inundation that would require something like OC Thursdays- /r/Poetry chose to allow image submissions so that a poem's formatting can be preserved. We can do the same.- Poetry [memes? ](https://i.imgur.com/aPttqJM.gif)- Spitballing here, but let's try titling memes meme for clarity of scrolling. "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/poetry"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 20
-comments: 8
-weight: 20
+subscribers: 12
+posts: 28
+comments: 10
+weight: 28
 dau: 0
 wau: 0
 mau: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community for discussion and sharing of poetry.<br><br>I'll populate this sidebar with more pizzazz as I'm able, but for now let's get this train rolling.<br><br>- Please be sure to credit all authors<br>- Original work ought to be welcome! I have a hard time imagining an inundation that would require something like Original content Thursdays<br>- Poetry [memes? ](https://i.imgur.com/aPttqJM.gif)<br>- /r/Poetry chose to allow image submissions so that a poem's formatting can be preserved. We can do the same.
+A community for discussion and sharing of poetry.<br><br><br><br>I'll populate this sidebar with more pizzazz as I'm able, but for now let's get this train rolling.<br><br>- Please be sure to credit all authors<br>- English only? *Non!*<br>- It would be [dope as fuck](https://imgur.com/a/PJGOhbi) if non-English submissions were accompanied by an English translation, though.<br>- Original work enthusiastically welcome! Go ham---I have a hard time imagining an inundation that would require something like OC Thursdays<br>- /r/Poetry chose to allow image submissions so that a poem's formatting can be preserved. We can do the same.<br>- Poetry [memes? ](https://i.imgur.com/aPttqJM.gif)<br>- Spitballing here, but let's try titling memes meme for clarity of scrolling. 
 </blockquote>
 
 
@@ -41,9 +41,9 @@ A community for discussion and sharing of poetry.<br><br>I'll populate this side
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 20  |
-| Comments             | 8  |
+| Subscribers          | 12 |
+| Posts                | 28  |
+| Comments             | 10  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -53,5 +53,5 @@ A community for discussion and sharing of poetry.<br><br>I'll populate this side
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 00:46:32 |
-| Updated              | 2023-06-15 22:47:56 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Updated              | 2023-06-16 17:41:27 |
+| Last Scraped         | 2023-06-16 22:56:05 |

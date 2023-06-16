@@ -3,15 +3,15 @@ title: "c/DachZwo - Zwotes Deutsches Feddit!"
 name: "dachzwo"
 description: "Für eine deutschsprachige Community in der wir gut und gerne leben!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dachzwo"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 33
 posts: 9
-comments: 12
+comments: 14
 weight: 9
 dau: 6
 wau: 7
@@ -41,9 +41,9 @@ Für eine deutschsprachige Community in der wir gut und gerne leben!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 33 |
 | Posts                | 9  |
-| Comments             | 12  |
+| Comments             | 14  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ Für eine deutschsprachige Community in der wir gut und gerne leben!
 |----------------------|---|
 | Published            | 2023-06-14 16:14:53 |
 | Updated              | 2023-06-15 18:05:08 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

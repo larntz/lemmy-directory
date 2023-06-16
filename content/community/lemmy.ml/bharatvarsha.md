@@ -3,7 +3,7 @@ title: "Bharatvarsha"
 name: "bharatvarsha"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bharatvarsha"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-25 13:26:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

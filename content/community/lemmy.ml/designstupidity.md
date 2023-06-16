@@ -3,7 +3,7 @@ title: "Crappy Designs from youtube and more."
 name: "designstupidity"
 description: "The place wherefunny and crappy design fails in real life and youtube live."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/designstupidity"
@@ -54,4 +54,4 @@ The place where<br>funny and crappy design fails in real life and youtube live.
 |----------------------|---|
 | Published            | 2021-01-31 21:01:10 |
 | Updated              | 2021-01-31 21:01:28 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

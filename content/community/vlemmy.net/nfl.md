@@ -3,13 +3,13 @@ title: "NFL"
 name: "nfl"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/nfl"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 16:12:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

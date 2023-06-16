@@ -3,19 +3,19 @@ title: "Star Citizen"
 name: "starcitizen"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starcitizen"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 180
-posts: 27
-comments: 64
-weight: 27
-dau: 9
-wau: 20
-mau: 20
+subscribers: 225
+posts: 37
+comments: 116
+weight: 37
+dau: 15
+wau: 30
+mau: 30
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 180 |
-| Posts                | 27  |
-| Comments             | 64  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 225 |
+| Posts                | 37  |
+| Comments             | 116  |
+| Daily Active Users   | 15  |
+| Weekly Active Users  | 30  |
+| Monthly Active Users | 30  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-11-30 15:09:07 |
 | Updated              | 2023-06-09 17:32:33 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

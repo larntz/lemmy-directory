@@ -3,7 +3,7 @@ title: "OLED iWallpapers"
 name: "olediwallpapers"
 description: "Community for post OLED friendly background for mobile devices.If you have the source make sure to post that.Please use an image hosting website like the one below (others work too):https://postimages.org/Rules:1. Wallpapers must be OLED friendly2. Wallpapers must be side appropriate for smart phones3. No spamming4. Don't be a dick "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/olediwallpapers"
@@ -54,4 +54,4 @@ Community for post OLED friendly background for mobile devices.<br><br>If you ha
 |----------------------|---|
 | Published            | 2023-06-13 01:00:32 |
 | Updated              | 2023-06-13 01:15:32 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

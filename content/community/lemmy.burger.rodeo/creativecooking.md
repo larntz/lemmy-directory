@@ -3,7 +3,7 @@ title: "Creative Cooking"
 name: "creativecooking"
 description: "A place to post videos, pictures, recipes or other things relating to creative cooking.Did you have a limited number of items in your fridge and wanted to see what you could do with them?Did you just want to experiment with an interesting idea you had?Or did you perhaps want to try cooking on a severely crippled budget?Regardless of the reason, that's what this community is for! Fun recipes/experiments involving food!**Meant for genuine posts, meme posts will be removed.**"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/creativecooking"
@@ -54,4 +54,4 @@ A place to post videos, pictures, recipes or other things relating to creative c
 |----------------------|---|
 | Published            | 2023-06-05 02:23:16 |
 | Updated              | 2023-06-09 21:37:55 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

@@ -3,7 +3,7 @@ title: "Banjo Kazooie"
 name: "banjokazooie"
 description: "A community for fans of the Banjo Kazooie series of games."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/banjokazooie"
@@ -54,4 +54,4 @@ A community for fans of the Banjo Kazooie series of games.
 |----------------------|---|
 | Published            | 2023-06-07 02:46:19 |
 | Updated              | 2023-06-07 15:53:11 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

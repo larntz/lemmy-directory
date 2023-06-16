@@ -3,7 +3,7 @@ title: "arttuc"
 name: "arttuc"
 description: "arttuc"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arttuc"
@@ -54,4 +54,4 @@ arttuc
 |----------------------|---|
 | Published            | 2021-09-28 21:30:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,7 +3,7 @@ title: "Aotearoa New Zealand"
 name: "newzealand"
 description: "Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, local resources & events, all around the motu!- Please ensure submissions are directly related to Aotearoa NZ- Te Reo welcome & encouraged!"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newzealand"
@@ -54,4 +54,4 @@ Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, l
 |----------------------|---|
 | Published            | 2020-06-28 05:17:18 |
 | Updated              | 2021-03-24 23:11:30 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

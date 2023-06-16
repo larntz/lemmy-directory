@@ -3,13 +3,13 @@ title: "Rust Jerk"
 name: "rustjerk"
 description: "Rust programming language but with more **crab**HQ of Go and C++ haters"
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/rustjerk"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 31
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Rust programming language but with more **crab**<br><br>HQ of Go and C++ haters
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 31 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Rust programming language but with more **crab**<br><br>HQ of Go and C++ haters
 |----------------------|---|
 | Published            | 2023-06-10 16:51:56 |
 | Updated              | 2023-06-14 22:34:09 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

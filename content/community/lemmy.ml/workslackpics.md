@@ -3,7 +3,7 @@ title: "Slack Pics"
 name: "workslackpics"
 description: "Something funny happen on Slack at work? Want to post some leaks and get fired? This is the place to be~!📜 Rules:📫 Post original content!🏡 Do not dox anyone!😼 Have fun!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/workslackpics"
@@ -54,4 +54,4 @@ Something funny happen on Slack at work? Want to post some leaks and get fired? 
 |----------------------|---|
 | Published            | 2022-04-18 17:37:12 |
 | Updated              | 2022-08-05 14:21:52 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

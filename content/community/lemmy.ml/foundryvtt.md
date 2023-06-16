@@ -1,9 +1,9 @@
 ---
 title: "FoundryVTT" 
 name: "foundryvtt"
-description: "Reddit mods message to become a mod"
+description: "**An alternative to the [r/FoundryVTT](https://www.reddit.com/r/FoundryVTT/) subreddit.**-------------------------------------------Discussion about the virtual tabletop Foundry. This is an UNOFFICIAL, authorized, Fan-operated community.For Official Foundry support, join the [Discord server](https://discord.gg/foundryvtt).**Other FoundryVTT Sites:*** [Official Site](https://foundryvtt.com/)* [FoundryHub](https://www.foundryvtt-hub.com/)* [Foundry Community Wiki](https://foundryvtt.wiki/en/home)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foundryvtt"
@@ -11,7 +11,7 @@ host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 13
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
 wau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Reddit mods message to become a mod
+**An alternative to the [r/FoundryVTT](https://www.reddit.com/r/FoundryVTT/) subreddit.**<br>-------------------------------------------<br>Discussion about the virtual tabletop Foundry. This is an UNOFFICIAL, authorized, Fan-operated community.<br><br>For Official Foundry support, join the [Discord server](https://discord.gg/foundryvtt).<br><br>**Other FoundryVTT Sites:**<br>* [Official Site](https://foundryvtt.com/)<br>* [FoundryHub](https://www.foundryvtt-hub.com/)<br>* [Foundry Community Wiki](https://foundryvtt.wiki/en/home)
 </blockquote>
 
 
@@ -43,7 +43,7 @@ Reddit mods message to become a mod
 |----------------------|---|
 | Subscribers          | 13 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -53,5 +53,5 @@ Reddit mods message to become a mod
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-09 10:55:29 |
-| Updated              | 2023-06-09 11:01:19 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Updated              | 2023-06-16 17:45:06 |
+| Last Scraped         | 2023-06-16 22:57:19 |

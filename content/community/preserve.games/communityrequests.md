@@ -3,19 +3,19 @@ title: "Community Requests"
 name: "communityrequests"
 description: "Want to start your own community here? Send in a request!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/communityrequests"
 host: preserve.games
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 2
 comments: 2
-weight: 1
+weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "preserve_games"
 tags: 
@@ -42,11 +42,11 @@ Want to start your own community here? Send in a request!
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Want to start your own community here? Send in a request!
 |----------------------|---|
 | Published            | 2023-06-13 00:37:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:32 |

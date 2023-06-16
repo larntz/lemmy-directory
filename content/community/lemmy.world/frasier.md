@@ -3,19 +3,19 @@ title: "Frasier"
 name: "frasier"
 description: "Frasier memes, news, random thoughts, etc. We're listening."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frasier"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 39
-posts: 24
-comments: 29
-weight: 24
-dau: 2
-wau: 4
-mau: 4
+subscribers: 41
+posts: 25
+comments: 35
+weight: 25
+dau: 11
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Frasier memes, news, random thoughts, etc. We're listening.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 24  |
-| Comments             | 29  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 41 |
+| Posts                | 25  |
+| Comments             | 35  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Frasier memes, news, random thoughts, etc. We're listening.
 |----------------------|---|
 | Published            | 2023-06-13 14:45:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

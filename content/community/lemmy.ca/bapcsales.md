@@ -3,13 +3,13 @@ title: "Canadian sales for computer hardware"
 name: "bapcsales"
 description: "Canadian sale subreddit for your PC needs. Deals on monitors, cables, processors, video cards, fans, cooling, cases, accessories, anything for a PC build."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bapcsales"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 51
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Canadian sale subreddit for your PC needs. Deals on monitors, cables, processors
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 51 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Canadian sale subreddit for your PC needs. Deals on monitors, cables, processors
 |----------------------|---|
 | Published            | 2023-06-09 13:52:18 |
 | Updated              | 2023-06-09 13:52:55 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,13 +3,13 @@ title: "Gif Recipes"
 name: "gifrecipes"
 description: "Place to share and discuss recipes in gif form. A nice easy to follow format.Rules1. Posts must contain a gif of a recipe or a link to a gif.2. Include a breakdown of the receipt (link to a breakdown also works)3. Include source4. No spam, and don't be a dick!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gifrecipes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 231
+subscribers: 241
 posts: 12
 comments: 21
 weight: 12
@@ -41,7 +41,7 @@ Place to share and discuss recipes in gif form. A nice easy to follow format.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 231 |
+| Subscribers          | 241 |
 | Posts                | 12  |
 | Comments             | 21  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Place to share and discuss recipes in gif form. A nice easy to follow format.<br
 |----------------------|---|
 | Published            | 2023-06-11 13:15:12 |
 | Updated              | 2023-06-11 13:18:29 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

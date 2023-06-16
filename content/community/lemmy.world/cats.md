@@ -3,19 +3,19 @@ title: "cats"
 name: "cats"
 description: "**Rules:**1. Posts/media about cats2. Be nice3. Do not not be nice4. Do not make us make new unnecessary rules"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cats"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 149
-posts: 8
+subscribers: 163
+posts: 10
 comments: 5
-weight: 8
-dau: 1
-wau: 7
-mau: 7
+weight: 10
+dau: 2
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 149 |
-| Posts                | 8  |
+| Subscribers          | 163 |
+| Posts                | 10  |
 | Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 17:48:38 |
 | Updated              | 2023-06-13 08:22:52 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

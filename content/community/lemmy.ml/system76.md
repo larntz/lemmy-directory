@@ -3,13 +3,13 @@ title: "System76"
 name: "system76"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/system76"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 181
+subscribers: 182
 posts: 5
 comments: 8
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 181 |
+| Subscribers          | 182 |
 | Posts                | 5  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-03-16 18:15:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

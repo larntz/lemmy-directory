@@ -3,13 +3,13 @@ title: "Jazzguitar"
 name: "jazzguitar"
 description: "everything jazzguitar"
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jazzguitar"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ everything jazzguitar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ everything jazzguitar
 |----------------------|---|
 | Published            | 2023-06-09 17:29:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

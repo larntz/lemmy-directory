@@ -3,13 +3,13 @@ title: "trees"
 name: "trees"
 description: "The go-to community for anything and everything cannabis."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/trees"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 318
+subscribers: 334
 posts: 9
 comments: 45
 weight: 9
@@ -41,7 +41,7 @@ The go-to community for anything and everything cannabis.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 318 |
+| Subscribers          | 334 |
 | Posts                | 9  |
 | Comments             | 45  |
 | Daily Active Users   | 22  |
@@ -54,4 +54,4 @@ The go-to community for anything and everything cannabis.
 |----------------------|---|
 | Published            | 2023-06-10 02:44:17 |
 | Updated              | 2023-06-10 03:05:36 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

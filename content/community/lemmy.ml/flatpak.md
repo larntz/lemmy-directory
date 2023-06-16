@@ -3,13 +3,13 @@ title: "Flatpak"
 name: "flatpak"
 description: "Join our [Matrix](#flatpak:matrix.org) room!"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flatpak"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 102
+subscribers: 106
 posts: 8
 comments: 12
 weight: 8
@@ -41,7 +41,7 @@ Join our [Matrix](#flatpak:matrix.org) room!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 102 |
+| Subscribers          | 106 |
 | Posts                | 8  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Join our [Matrix](#flatpak:matrix.org) room!
 |----------------------|---|
 | Published            | 2021-01-29 18:59:37 |
 | Updated              | 2021-01-29 19:02:43 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

@@ -3,19 +3,19 @@ title: "Windows Support"
 name: "windows_help"
 description: "oh my god i had NO IDEA windows could break!!(not actual tech support, just linux shitposting lol)(no hate to Windows users though, Windows is a perfectly valid choice for many people <3)"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/windows_help"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 4
-comments: 8
-weight: 4
-dau: 2
-wau: 2
-mau: 2
+subscribers: 13
+posts: 7
+comments: 18
+weight: 7
+dau: 9
+wau: 9
+mau: 9
 instances:
 - "iusearchlinux_fyi"
 tags: 
@@ -41,12 +41,12 @@ oh my god i had NO IDEA windows could break!!<br><br>(not actual tech support, j
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 13 |
+| Posts                | 7  |
+| Comments             | 18  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ oh my god i had NO IDEA windows could break!!<br><br>(not actual tech support, j
 |----------------------|---|
 | Published            | 2023-06-16 04:32:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

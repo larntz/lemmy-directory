@@ -3,16 +3,16 @@ title: "Hockey"
 name: "hockey"
 description: "**Rules**-   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. -   Be respectful, especially when disagreeing. Everyone should feel welcome here.-   No porn.-   No Ads / Spamming.**List of Team-Specific Communities:**-    Anaheim Ducks-    Arizona Coyotes-    [Boston Bruins](/c/bostonbruins@lemmy.fyi)-    Buffalo Sabres-    [Calgary Flames](/c/calgary_flames@lemmy.ca)-    [Carolina Hurricanes](/c/anes@lemm.ee)-    [Chicago Blackhawks](/c/blackhawks@lemmy.world)-    [Colorado Avalanche](/c/coloradoavalanche@lemmy.ml)-    [Columbus Blue Jackets](/c/bluejackets@lemmy.world)-    Dallas Stars-    [Detroit Red Wings](/c/detroitredwings@midwest.social)-    [Edmonton Oilers](/c/edmontonoilers@lemmy.ca)-    Florida Panthers-    Los Angeles Kings-    [Minnesota Wild](/c/wildhockey@lemmy.world)-    [Montreal Canadiens](/c/habs@lemmy.world)-    Nashville Predators-    [New Jersey Devils](/c/devils@lemmy.world)-    New York Islanders-    New York Rangers-    [Ottawa Senators](/c/ottawasenators@lemmy.ca)-    [Philadelphia Flyers](/c/flyers@midwest.social)-    Pittsburgh Penguins-    [San Jose Sharks](/c/sanjosesharks@fanaticus.social)-    [Seattle Kraken](/c/seattlekraken@lemmy.world)-    St Louis Blues-    [Tampa Bay Lightning](/c/tampabaylightning@lemmy.world)-    [Toronto Maple Leafs](/c/leaf_nation@lemmy.ca)-    [Vancouver Canucks](/c/canucks@lemmy.ca)-    Vegas Golden Knights-    Washington Capitals-    [Winnipeg Jets](/c/winnipegjets@lemmy.world)"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hockey"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 766
-posts: 70
-comments: 652
-weight: 70
+subscribers: 799
+posts: 74
+comments: 661
+weight: 74
 dau: 28
 wau: 127
 mau: 128
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 766 |
-| Posts                | 70  |
-| Comments             | 652  |
+| Subscribers          | 799 |
+| Posts                | 74  |
+| Comments             | 661  |
 | Daily Active Users   | 28  |
 | Weekly Active Users  | 127  |
 | Monthly Active Users | 128  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-18 14:06:47 |
 | Updated              | 2023-06-15 17:44:28 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:34 |

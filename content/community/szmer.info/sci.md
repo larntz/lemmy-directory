@@ -3,13 +3,13 @@ title: "nauka, badania, szkolnictwo wyższe"
 name: "sci"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sci"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 100
+subscribers: 101
 posts: 152
 comments: 96
 weight: 152
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 100 |
+| Subscribers          | 101 |
 | Posts                | 152  |
 | Comments             | 96  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-27 18:06:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

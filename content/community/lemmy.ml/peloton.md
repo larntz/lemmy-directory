@@ -3,7 +3,7 @@ title: "Peloton - World Tour Road Cycling News, Results and Discussion"
 name: "peloton"
 description: "For refugees from /r/peloton/ (Reddit mods please get in touch)"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peloton"
@@ -54,4 +54,4 @@ For refugees from /r/peloton/ (Reddit mods please get in touch)
 |----------------------|---|
 | Published            | 2023-06-11 21:44:07 |
 | Updated              | 2023-06-11 22:27:27 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

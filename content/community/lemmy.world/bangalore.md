@@ -3,7 +3,7 @@ title: "Namma Bengaluru / Our Bangalore"
 name: "bangalore"
 description: "A place to discuss and share about all things in Namma Bengaluru."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bangalore"
@@ -54,4 +54,4 @@ A place to discuss and share about all things in Namma Bengaluru.
 |----------------------|---|
 | Published            | 2023-06-14 09:51:58 |
 | Updated              | 2023-06-14 10:02:31 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

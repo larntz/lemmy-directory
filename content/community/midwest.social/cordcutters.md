@@ -3,7 +3,7 @@ title: "Cord Cutters"
 name: "cordcutters"
 description: "Say Goodbye to Your Cable TV Provider!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cordcutters"
@@ -14,7 +14,7 @@ posts: 1
 comments: 12
 weight: 1
 dau: 1
-wau: 8
+wau: 7
 mau: 8
 instances:
 - "midwest_social"
@@ -45,7 +45,7 @@ Say Goodbye to Your Cable TV Provider!
 | Posts                | 1  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 8  |
 
 <br>
@@ -54,4 +54,4 @@ Say Goodbye to Your Cable TV Provider!
 |----------------------|---|
 | Published            | 2023-06-08 19:07:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

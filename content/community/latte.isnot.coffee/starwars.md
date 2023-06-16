@@ -3,13 +3,13 @@ title: "StarWars"
 name: "starwars"
 description: "Welcome to Star Wars, Lemmy. Everything Star Wars related is welcomed. Memes are allowed, discussions, arguments. Please keep everything sithvil. May The Force Be With you"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/starwars"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to Star Wars, Lemmy. Everything Star Wars related is welcomed. Memes are
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to Star Wars, Lemmy. Everything Star Wars related is welcomed. Memes are
 |----------------------|---|
 | Published            | 2023-06-16 01:16:06 |
 | Updated              | 2023-06-16 01:21:34 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

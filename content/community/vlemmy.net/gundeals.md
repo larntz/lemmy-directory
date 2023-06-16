@@ -3,13 +3,13 @@ title: "GunDeals"
 name: "gundeals"
 description: "A place to share and discuss sales related to shooting sports."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/gundeals"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to share and discuss sales related to shooting sports.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share and discuss sales related to shooting sports.
 |----------------------|---|
 | Published            | 2023-06-11 22:18:19 |
 | Updated              | 2023-06-11 22:20:32 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

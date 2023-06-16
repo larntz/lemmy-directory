@@ -3,19 +3,19 @@ title: "Fuck Cars"
 name: "fuckcars"
 description: "An place to discuss problems of car centric infrastructure or how it hurts us all. Let's explore the bad world of Cars!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fuckcars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 394
+subscribers: 423
 posts: 10
 comments: 28
 weight: 10
-dau: 4
-wau: 22
-mau: 22
+dau: 1
+wau: 24
+mau: 24
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ An place to discuss problems of car centric infrastructure or how it hurts us al
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 394 |
+| Subscribers          | 423 |
 | Posts                | 10  |
 | Comments             | 28  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 24  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ An place to discuss problems of car centric infrastructure or how it hurts us al
 |----------------------|---|
 | Published            | 2023-06-12 01:33:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

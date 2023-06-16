@@ -3,13 +3,13 @@ title: "Kazakhstan"
 name: "kazakhstan"
 description: ""
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kazakhstan"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-12 08:45:03 |
 | Updated              | 2022-05-19 00:41:58 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

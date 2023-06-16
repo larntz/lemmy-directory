@@ -3,7 +3,7 @@ title: "Comptia"
 name: "comptia"
 description: "A place to discuss the CompTIA exams, not an official CompTIA lemmy and not associated with CompTIA.  official-[matrix](https://matrix.to/#/#comptia:matrix.org)Unofficial not controlled by me / us:-[reddit discord server](https://discord.com/invite/GDVMgtP)-Professor messer [discord ](https://discord.com/invite/dtf4uQPDZq) server[more info on what's going on here](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/comptia"
@@ -54,4 +54,4 @@ A place to discuss the CompTIA exams, not an official CompTIA lemmy and not asso
 |----------------------|---|
 | Published            | 2023-05-07 08:02:30 |
 | Updated              | 2023-05-09 17:07:42 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

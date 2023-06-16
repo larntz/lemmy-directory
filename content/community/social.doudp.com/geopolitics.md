@@ -3,13 +3,13 @@ title: "Geopolitics"
 name: "geopolitics"
 description: "Geopolitics and the analysis of what events."
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/geopolitics"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Geopolitics and the analysis of what events.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Geopolitics and the analysis of what events.
 |----------------------|---|
 | Published            | 2023-06-14 09:06:55 |
 | Updated              | 2023-06-15 07:04:34 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

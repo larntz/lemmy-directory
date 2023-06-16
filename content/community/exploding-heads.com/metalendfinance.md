@@ -3,7 +3,7 @@ title: "Crypto - Metalend Finance"
 name: "metalendfinance"
 description: "The future of Defi and the confluence with metaverses cannot be built by USD stablecoins alone, people need access to their local currencies to live life.  A decentralized lending marketing protocol that support wide range of stablecoins is necessary. Metalend is lending markets protocol for everyone in their local currencies."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/metalendfinance"
@@ -54,4 +54,4 @@ The future of Defi and the confluence with metaverses cannot be built by USD sta
 |----------------------|---|
 | Published            | 2022-07-09 00:44:21 |
 | Updated              | 2022-07-09 00:55:07 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:37 |

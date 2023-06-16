@@ -3,15 +3,15 @@ title: "Ask Me Anything"
 name: "askmeanything"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/askmeanything"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 86
 posts: 3
-comments: 42
+comments: 47
 weight: 3
 dau: 5
 wau: 5
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 86 |
 | Posts                | 3  |
-| Comments             | 42  |
+| Comments             | 47  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 21:10:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

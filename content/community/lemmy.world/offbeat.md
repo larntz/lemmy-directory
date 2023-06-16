@@ -3,13 +3,13 @@ title: "offbeat"
 name: "offbeat"
 description: "Funny, weird, sad, strange or quirky news that's just offbeat."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/offbeat"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Funny, weird, sad, strange or quirky news that's just offbeat.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Funny, weird, sad, strange or quirky news that's just offbeat.<br>
 |----------------------|---|
 | Published            | 2023-06-12 06:13:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

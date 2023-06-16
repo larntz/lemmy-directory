@@ -3,7 +3,7 @@ title: "Magic"
 name: "magic"
 description: "Magic, Mysticism, and Psychedelics!Psychonauts welcome!"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/magic"
@@ -54,4 +54,4 @@ Magic, Mysticism, and Psychedelics!<br><br>Psychonauts welcome!
 |----------------------|---|
 | Published            | 2023-06-11 21:06:15 |
 | Updated              | 2023-06-13 03:37:39 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

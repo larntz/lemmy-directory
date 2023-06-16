@@ -3,19 +3,19 @@ title: "VanLife"
 name: "vanlife"
 description: "This is your friendly vanlife neighborhood. Talk about everything vanlife from tech to shitdump. The rule? Be nice and friendly. Everyone’s welcome. The Hippie and the Hipster. The Vanagon driver, the Sprinter dweller. No matter where you from. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vanlife"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 46
 posts: 6
-comments: 5
+comments: 6
 weight: 6
-dau: 1
-wau: 2
-mau: 2
+dau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This is your friendly vanlife neighborhood. Talk about everything vanlife from t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 46 |
 | Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 6  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is your friendly vanlife neighborhood. Talk about everything vanlife from t
 |----------------------|---|
 | Published            | 2023-06-12 06:19:11 |
 | Updated              | 2023-06-13 12:06:11 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

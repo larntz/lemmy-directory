@@ -3,7 +3,7 @@ title: "Lernen"
 name: "lernen"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lernen"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 14:57:18 |
 | Updated              | 2023-06-13 15:01:16 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

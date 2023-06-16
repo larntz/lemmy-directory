@@ -3,7 +3,7 @@ title: "Antenna Pod"
 name: "antennapod"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antennapod"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-14 07:10:54 |
 | Updated              | 2021-12-18 00:34:29 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

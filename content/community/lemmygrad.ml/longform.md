@@ -3,13 +3,13 @@ title: "Longform"
 name: "longform"
 description: "A place for long-form journalism and editorials which provide an in-depth analysis of the subject."
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/longform"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 6
 comments: 14
 weight: 6
@@ -41,7 +41,7 @@ A place for long-form journalism and editorials which provide an in-depth analys
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 6  |
 | Comments             | 14  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for long-form journalism and editorials which provide an in-depth analys
 |----------------------|---|
 | Published            | 2020-10-15 06:30:29 |
 | Updated              | 2020-10-15 09:07:18 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

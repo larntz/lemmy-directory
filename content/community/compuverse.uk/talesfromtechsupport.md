@@ -3,13 +3,13 @@ title: "Tales from Tech Support"
 name: "talesfromtechsupport"
 description: "The forum to post and discuss your favourite stories from tech support!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/talesfromtechsupport"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 141
+subscribers: 150
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The forum to post and discuss your favourite stories from tech support!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 141 |
+| Subscribers          | 150 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The forum to post and discuss your favourite stories from tech support!
 |----------------------|---|
 | Published            | 2023-06-08 20:18:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

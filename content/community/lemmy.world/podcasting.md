@@ -3,19 +3,19 @@ title: "Podcasting"
 name: "podcasting"
 description: "A place for **Podcasters** and **fans of podcasts** to share their knowledge and their shows. Please don't spam!"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/podcasting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 80
 posts: 3
 comments: 11
 weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for **Podcasters** and **fans of podcasts** to share their knowledge and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 80 |
 | Posts                | 3  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for **Podcasters** and **fans of podcasts** to share their knowledge and
 |----------------------|---|
 | Published            | 2023-06-08 21:00:44 |
 | Updated              | 2023-06-08 23:38:02 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,13 +3,13 @@ title: "Schweiz"
 name: "schweiz"
 description: "A community dedicated to photographs of Switzerland. Whether it's cities, mountains, the Patrouille Suisse, forests, Fasnacht, landscapes, 1st of August fireworks, rivers, glaciers, Roger Federer or villages, anything Switzerland is allowed."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/schweiz"
 host: feddit.ch
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 44
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ A community dedicated to photographs of Switzerland. Whether it's cities, mounta
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 44 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community dedicated to photographs of Switzerland. Whether it's cities, mounta
 |----------------------|---|
 | Published            | 2023-06-11 18:56:45 |
 | Updated              | 2023-06-13 15:15:27 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

@@ -3,7 +3,7 @@ title: "Lemmy Instance Admin | Mod Notes"
 name: "instancenotes"
 description: "Notes from mods and admins on setting up and running Fediverse App Instances from Lemmy to Mastadon to Matrix and More. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/instancenotes"
@@ -54,4 +54,4 @@ Notes from mods and admins on setting up and running Fediverse App Instances fro
 |----------------------|---|
 | Published            | 2023-06-13 01:23:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

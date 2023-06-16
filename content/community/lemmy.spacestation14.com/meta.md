@@ -3,19 +3,19 @@ title: "Instance Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.spacestation14.com/c/meta"
 host: lemmy.spacestation14.com
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 1
+posts: 2
 comments: 2
-weight: 1
+weight: 2
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_spacestation14_com"
 tags: 
@@ -42,11 +42,11 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 17:33:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

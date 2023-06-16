@@ -3,7 +3,7 @@ title: "Milwaukee Bucks"
 name: "bucks"
 description: "Welcome to the home of the 2021 NBA champions the Milwaukee Bucks"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bucks"
@@ -54,4 +54,4 @@ Welcome to the home of the 2021 NBA champions the Milwaukee Bucks
 |----------------------|---|
 | Published            | 2023-06-13 02:44:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

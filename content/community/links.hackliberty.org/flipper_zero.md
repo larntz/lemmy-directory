@@ -3,7 +3,7 @@ title: "Flipper Zero"
 name: "flipper_zero"
 description: "Flipper Zero is a portable Tamagotchi-like multi-functional device developed for interaction with access control systems. The device is able to read, copy, and emulate radio-frequency (RFID) tags, radio remotes, iButton, and digital access keys, along with a GPIO interface.#### Rules1. Don't do unto others what you don't want done unto you.2. No Porn, Gore, or NSFW content. **Instant Ban.**3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**4. Stay on topic in a community. Please reach out to an admin to create a new community."
 type: community
-date: "2023-06-16 11:06:13"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://links.hackliberty.org/c/flipper_zero"
@@ -54,4 +54,4 @@ Flipper Zero is a portable Tamagotchi-like multi-functional device developed for
 |----------------------|---|
 | Published            | 2023-02-26 05:22:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:13 |
+| Last Scraped         | 2023-06-16 22:56:10 |

@@ -3,7 +3,7 @@ title: "Firearms"
 name: "firearms"
 description: "A replacement for r/firearms. From the subreddit - Discuss firearms, politics, 2nd amendment news. We value freedom of speech as much as we do the right to keep and bear arms. Posts must be somewhat related to firearms. I removed the ~~must comply with Global Reddit Rules~~, because we don't take nicely to totalitarianism here."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firearms"
@@ -54,4 +54,4 @@ A replacement for r/firearms. From the subreddit - Discuss firearms, politics, 2
 |----------------------|---|
 | Published            | 2023-06-10 05:36:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

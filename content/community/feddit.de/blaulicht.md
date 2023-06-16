@@ -3,16 +3,16 @@ title: "Blaulicht"
 name: "blaulicht"
 description: "Die Blaulicht-Community im Fediverse. Egal ob Feuerwehr, Polizei, THW, Rettungsdienst oder eine andere HiOrg, hier ist jeder Willkommen!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/blaulicht"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 2
-comments: 6
-weight: 2
+subscribers: 31
+posts: 3
+comments: 7
+weight: 3
 dau: 3
 wau: 3
 mau: 3
@@ -41,9 +41,9 @@ Die Blaulicht-Community im Fediverse. <br>Egal ob Feuerwehr, Polizei, THW, Rettu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 2  |
-| Comments             | 6  |
+| Subscribers          | 31 |
+| Posts                | 3  |
+| Comments             | 7  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Die Blaulicht-Community im Fediverse. <br>Egal ob Feuerwehr, Polizei, THW, Rettu
 |----------------------|---|
 | Published            | 2023-06-14 06:53:00 |
 | Updated              | 2023-06-14 06:54:35 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

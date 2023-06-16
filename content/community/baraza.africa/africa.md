@@ -3,7 +3,7 @@ title: "Africa "
 name: "africa"
 description: "A space to discuss general stuff relating to Africa. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:26"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/africa"
@@ -54,4 +54,4 @@ A space to discuss general stuff relating to Africa.
 |----------------------|---|
 | Published            | 2020-10-30 21:10:17 |
 | Updated              | 2021-11-28 05:07:05 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:26 |

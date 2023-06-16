@@ -3,13 +3,13 @@ title: "gekte"
 name: "gekte"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gekte"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 12:03:10 |
 | Updated              | 2023-06-14 12:03:23 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

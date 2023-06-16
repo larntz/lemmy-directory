@@ -3,7 +3,7 @@ title: "Zig"
 name: "zig"
 description: "The Zig programming language"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zig"
@@ -54,4 +54,4 @@ The Zig programming language
 |----------------------|---|
 | Published            | 2021-02-26 13:38:11 |
 | Updated              | 2021-02-26 13:40:26 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:27 |

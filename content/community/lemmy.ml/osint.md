@@ -3,7 +3,7 @@ title: "OSINT"
 name: "osint"
 description: "Open Source Intelligence"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osint"
@@ -54,4 +54,4 @@ Open Source Intelligence
 |----------------------|---|
 | Published            | 2022-01-13 18:49:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:46 |

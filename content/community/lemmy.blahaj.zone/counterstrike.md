@@ -3,7 +3,7 @@ title: "Counter-Strike"
 name: "counterstrike"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/counterstrike"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 23:05:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

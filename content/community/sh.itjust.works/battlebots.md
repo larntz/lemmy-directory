@@ -3,16 +3,16 @@ title: "Battlebots"
 name: "battlebots"
 description: "It's Robot Fightin' Time!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/battlebots"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 44
-posts: 26
-comments: 17
-weight: 26
+subscribers: 46
+posts: 27
+comments: 21
+weight: 27
 dau: 2
 wau: 2
 mau: 2
@@ -41,9 +41,9 @@ It's Robot Fightin' Time!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 26  |
-| Comments             | 17  |
+| Subscribers          | 46 |
+| Posts                | 27  |
+| Comments             | 21  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ It's Robot Fightin' Time!
 |----------------------|---|
 | Published            | 2023-06-12 14:48:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

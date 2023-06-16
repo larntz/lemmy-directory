@@ -3,7 +3,7 @@ title: "Hockey Goalies"
 name: "hockeygoalies"
 description: "A community made for hockey goalies. Discussions on pads, technique and others are welcome.e"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hockeygoalies"
@@ -54,4 +54,4 @@ A community made for hockey goalies. Discussions on pads, technique and others a
 |----------------------|---|
 | Published            | 2023-06-09 20:46:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,7 +3,7 @@ title: "The Arena"
 name: "challenge"
 description: "Bring your jailbreaks and you anti jailbreaks your myths and your mythbusters, push the edges of AI adversarial with a friend. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/challenge"
@@ -54,4 +54,4 @@ Bring your jailbreaks and you anti jailbreaks your myths and your mythbusters, p
 |----------------------|---|
 | Published            | 2023-06-14 00:37:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

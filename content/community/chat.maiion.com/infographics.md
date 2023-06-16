@@ -3,7 +3,7 @@ title: "c/Infographics"
 name: "infographics"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/infographics"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 05:58:46 |
 | Updated              | 2023-06-16 04:01:27 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

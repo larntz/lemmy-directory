@@ -3,19 +3,19 @@ title: "Stop Drinking"
 name: "stopdrinking"
 description: "A lemmy.world community for all those who want to talk about stopping drinking alcohol. I can't be arsed to actually moderate this, so please be nice. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stopdrinking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 71
-posts: 9
-comments: 88
-weight: 9
-dau: 14
-wau: 15
-mau: 15
+subscribers: 80
+posts: 11
+comments: 96
+weight: 11
+dau: 9
+wau: 22
+mau: 22
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A lemmy.world community for all those who want to talk about stopping drinking a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 9  |
-| Comments             | 88  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 80 |
+| Posts                | 11  |
+| Comments             | 96  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 22  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ A lemmy.world community for all those who want to talk about stopping drinking a
 |----------------------|---|
 | Published            | 2023-06-13 01:14:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

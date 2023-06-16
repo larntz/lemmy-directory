@@ -3,7 +3,7 @@ title: "Beavis and Butt-Head"
 name: "beavisandbutthead"
 description: "Everything related to Buford and Bernardo. Huh huh huh...this is gonna be cool. "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beavisandbutthead"
@@ -54,4 +54,4 @@ Everything related to Buford and Bernardo. Huh huh huh...this is gonna be cool.
 |----------------------|---|
 | Published            | 2023-06-11 12:36:18 |
 | Updated              | 2023-06-11 12:49:27 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

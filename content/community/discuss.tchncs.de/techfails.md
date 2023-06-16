@@ -3,13 +3,13 @@ title: "Tech Fails"
 name: "techfails"
 description: "## Oof&nbsp;mangled devices  corporate bungling  tech support horror stories  software gore  tech TIFUs  iiiiiiitttttttttttt  planning meeting defenestration  crushed cto dreams   \u00a0 \u00a0 \u00a0 …and the like.&nbsp;"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/techfails"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 66
 posts: 4
 comments: 11
 weight: 4
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 66 |
 | Posts                | 4  |
 | Comments             | 11  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 16:52:06 |
 | Updated              | 2023-06-13 23:42:01 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

@@ -3,19 +3,19 @@ title: "The Fable Historian"
 name: "thefablehistorian"
 description: "A Lemmy community for the YouTuber The Fable Historianhttps://www.youtube.com/@TheFableHistorian/"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thefablehistorian"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 2
+posts: 3
 comments: 3
-weight: 2
+weight: 3
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -42,11 +42,11 @@ A Lemmy community for the YouTuber The Fable Historian<br><br>https://www.youtub
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A Lemmy community for the YouTuber The Fable Historian<br><br>https://www.youtub
 |----------------------|---|
 | Published            | 2023-06-12 16:11:52 |
 | Updated              | 2023-06-12 16:16:04 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

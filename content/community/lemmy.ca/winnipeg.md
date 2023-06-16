@@ -3,16 +3,16 @@ title: "Winnipeg"
 name: "winnipeg"
 description: "Welcome to the Winnipeg Community here on Lemmy.ca!"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/winnipeg"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 79
-posts: 21
-comments: 46
-weight: 21
+subscribers: 84
+posts: 23
+comments: 49
+weight: 23
 dau: 4
 wau: 15
 mau: 15
@@ -41,9 +41,9 @@ Welcome to the Winnipeg Community here on Lemmy.ca!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 21  |
-| Comments             | 46  |
+| Subscribers          | 84 |
+| Posts                | 23  |
+| Comments             | 49  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 15  |
 | Monthly Active Users | 15  |
@@ -54,4 +54,4 @@ Welcome to the Winnipeg Community here on Lemmy.ca!
 |----------------------|---|
 | Published            | 2021-01-23 02:18:39 |
 | Updated              | 2023-06-12 23:13:59 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

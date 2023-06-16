@@ -1,9 +1,9 @@
 ---
 title: "Uplifting" 
 name: "uplifting"
-description: "Description not available."
+description: "Uplifting: Inspiring Stories, Positive Vibes, and Joyful Moments to Brighten Your Day"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uplifting"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Uplifting: Inspiring Stories, Positive Vibes, and Joyful Moments to Brighten Your Day
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 12:49:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Updated              | 2023-06-16 11:37:19 |
+| Last Scraped         | 2023-06-16 22:57:14 |

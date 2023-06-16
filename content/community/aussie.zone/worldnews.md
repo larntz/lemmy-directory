@@ -3,13 +3,13 @@ title: "World News"
 name: "worldnews"
 description: "News from outside of Australia"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/worldnews"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 111
+subscribers: 116
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ News from outside of Australia
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 111 |
+| Subscribers          | 116 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ News from outside of Australia
 |----------------------|---|
 | Published            | 2023-06-10 05:20:58 |
 | Updated              | 2023-06-12 10:45:20 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

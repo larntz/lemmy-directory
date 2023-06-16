@@ -3,7 +3,7 @@ title: "Setúbal"
 name: "setubal"
 description: "Uma comunidade dedicada à região de Setúbal."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/setubal"
@@ -54,4 +54,4 @@ Uma comunidade dedicada à região de Setúbal.
 |----------------------|---|
 | Published            | 2023-06-13 08:04:10 |
 | Updated              | 2023-06-16 10:53:40 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

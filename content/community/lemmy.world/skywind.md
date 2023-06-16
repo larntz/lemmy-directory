@@ -3,13 +3,13 @@ title: "Skywind"
 name: "skywind"
 description: "A total conversion mod project, re-imagining Morrowind in the Skyrim engine."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skywind"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 74
+subscribers: 81
 posts: 2
 comments: 8
 weight: 2
@@ -41,7 +41,7 @@ A total conversion mod project, re-imagining Morrowind in the Skyrim engine.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
+| Subscribers          | 81 |
 | Posts                | 2  |
 | Comments             | 8  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ A total conversion mod project, re-imagining Morrowind in the Skyrim engine.
 |----------------------|---|
 | Published            | 2023-06-14 08:23:03 |
 | Updated              | 2023-06-14 08:29:16 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

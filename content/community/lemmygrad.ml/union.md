@@ -3,7 +3,7 @@ title: "Labor Unions"
 name: "union"
 description: "Discuss labor unions, how to organize them, where to find them, and so on and so forth."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/union"
@@ -54,4 +54,4 @@ Discuss labor unions, how to organize them, where to find them, and so on and so
 |----------------------|---|
 | Published            | 2020-08-12 13:01:05 |
 | Updated              | 2021-06-29 18:32:44 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

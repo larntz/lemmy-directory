@@ -3,7 +3,7 @@ title: "Washington, DC"
 name: "washingtondc"
 description: "A community for locals of the DC Metro area"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/washingtondc"
@@ -54,4 +54,4 @@ A community for locals of the DC Metro area
 |----------------------|---|
 | Published            | 2023-06-07 23:36:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

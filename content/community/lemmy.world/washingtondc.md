@@ -3,19 +3,19 @@ title: "District of Columbia"
 name: "washingtondc"
 description: "Community for discussion of goings on and news related to Washington DC. Please follow this instances rules and limit self promo: https://mastodon.world/about"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washingtondc"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 51
 posts: 7
 comments: 10
 weight: 7
-dau: 2
-wau: 6
-mau: 6
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for discussion of goings on and news related to Washington DC. Please 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 51 |
 | Posts                | 7  |
 | Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for discussion of goings on and news related to Washington DC. Please 
 |----------------------|---|
 | Published            | 2023-06-12 04:46:23 |
 | Updated              | 2023-06-12 04:54:01 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "AndroidThemes"
 name: "androidthemes"
 description: "A place for your Android themes Community Rules:1. Android themes only,2. No reposting we want original themes,3.  Please try give links to wallpapers, icon packs, etc or where you got them from,"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidthemes"
@@ -54,4 +54,4 @@ A place for your Android themes <br><br>Community Rules:<br><br>1. Android theme
 |----------------------|---|
 | Published            | 2021-03-12 17:30:25 |
 | Updated              | 2021-04-19 16:35:12 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

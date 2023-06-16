@@ -3,19 +3,19 @@ title: "Fedi Tips"
 name: "fediverse"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/fediverse"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 21
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "dataterm_digital"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 21 |
+| Posts                | 1  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 08:53:22 |
 | Updated              | 2023-06-12 09:20:14 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

@@ -3,7 +3,7 @@ title: "dev"
 name: "dev"
 description: "A place for general discussion about software and software development."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/dev"
@@ -54,4 +54,4 @@ A place for general discussion about software and software development.
 |----------------------|---|
 | Published            | 2023-06-05 08:49:59 |
 | Updated              | 2023-06-05 09:27:45 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

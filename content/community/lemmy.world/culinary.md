@@ -1,21 +1,21 @@
 ---
 title: "Culinary Creations" 
 name: "culinary"
-description: "A community that appreciates food and the processes used to prepare it."
+description: "A community that appreciates food and the processes used to prepare it.**More Food****Guidlines**- Stay on topic; content must be food related- Be nice"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/culinary"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 242
-posts: 7
-comments: 21
-weight: 7
-dau: 2
-wau: 5
-mau: 8
+subscribers: 255
+posts: 11
+comments: 26
+weight: 11
+dau: 6
+wau: 9
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community that appreciates food and the processes used to prepare it.
+A community that appreciates food and the processes used to prepare it.<br><br>**More Food**<br><br>**Guidlines**<br>- Stay on topic; content must be food related<br>- Be nice
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A community that appreciates food and the processes used to prepare it.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 242 |
-| Posts                | 7  |
-| Comments             | 21  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 8  |
+| Subscribers          | 255 |
+| Posts                | 11  |
+| Comments             | 26  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 13  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-03 16:37:00 |
-| Updated              | 2023-06-08 17:05:46 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Updated              | 2023-06-16 16:32:47 |
+| Last Scraped         | 2023-06-16 22:57:18 |

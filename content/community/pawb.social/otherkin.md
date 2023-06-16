@@ -3,17 +3,17 @@ title: "Otherkin"
 name: "otherkin"
 description: "A place for otherkin, therian, and alterhuman individuals. Feel free to join!Please be kind to each other!"
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/otherkin"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 12
 posts: 3
-comments: 3
+comments: 5
 weight: 3
-dau: 3
+dau: 2
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ A place for otherkin, therian, and alterhuman individuals. Feel free to join!<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 12 |
 | Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ A place for otherkin, therian, and alterhuman individuals. Feel free to join!<br
 |----------------------|---|
 | Published            | 2023-06-14 23:18:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

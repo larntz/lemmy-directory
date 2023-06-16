@@ -3,19 +3,19 @@ title: "CablePorn"
 name: "cableporn"
 description: "Upload all your pics of amazing wiring jobs, AV racks, switches, pipe runs, if its satisfying it belongs here."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cableporn"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 6
+subscribers: 50
+posts: 7
 comments: 1
-weight: 6
+weight: 7
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Upload all your pics of amazing wiring jobs, AV racks, switches, pipe runs, if i
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 6  |
+| Subscribers          | 50 |
+| Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Upload all your pics of amazing wiring jobs, AV racks, switches, pipe runs, if i
 |----------------------|---|
 | Published            | 2023-06-13 16:04:43 |
 | Updated              | 2023-06-13 16:05:41 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

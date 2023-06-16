@@ -3,7 +3,7 @@ title: "The Radio"
 name: "theradio"
 description: "Post podcasts that you recommend, here.Come here when you need audio recordings to listen to. Please make your titles long and clear."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/theradio"
@@ -54,4 +54,4 @@ Post podcasts that you recommend, here.<br><br>Come here when you need audio rec
 |----------------------|---|
 | Published            | 2022-10-29 04:33:30 |
 | Updated              | 2022-10-29 04:34:54 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

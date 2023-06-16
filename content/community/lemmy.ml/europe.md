@@ -3,19 +3,19 @@ title: "Europe"
 name: "europe"
 description: "Europa"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1887
+subscribers: 1918
 posts: 830
-comments: 1516
+comments: 1517
 weight: 830
 dau: 11
-wau: 33
-mau: 60
+wau: 36
+mau: 68
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Europa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1887 |
+| Subscribers          | 1918 |
 | Posts                | 830  |
-| Comments             | 1516  |
+| Comments             | 1517  |
 | Daily Active Users   | 11  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 60  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 68  |
 
 <br>
 
@@ -54,4 +54,4 @@ Europa
 |----------------------|---|
 | Published            | 2019-10-17 21:39:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,13 +3,13 @@ title: "Tool"
 name: "toolband"
 description: "Discussion on all things related to the band Tool"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/toolband"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Discussion on all things related to the band Tool
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussion on all things related to the band Tool
 |----------------------|---|
 | Published            | 2023-06-16 08:05:54 |
 | Updated              | 2023-06-16 10:36:23 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

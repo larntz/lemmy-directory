@@ -3,17 +3,17 @@ title: "Clips & Showcase"
 name: "clips"
 description: "You're welcome to show off. Anything from your new album to late-night noodling."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/clips"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 4
 comments: 6
 weight: 4
-dau: 4
+dau: 2
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ You're welcome to show off. Anything from your new album to late-night noodling.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 4  |
 | Comments             | 6  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ You're welcome to show off. Anything from your new album to late-night noodling.
 |----------------------|---|
 | Published            | 2023-06-12 20:37:59 |
 | Updated              | 2023-06-13 06:08:06 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

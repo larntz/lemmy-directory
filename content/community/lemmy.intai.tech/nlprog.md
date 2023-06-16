@@ -3,16 +3,16 @@ title: "Natural Language Programming | Prompting"
 name: "nlprog"
 description: "Prompting and Practices"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/nlprog"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
 subscribers: 8
-posts: 24
+posts: 25
 comments: 3
-weight: 24
+weight: 25
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ Prompting and Practices
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 8 |
-| Posts                | 24  |
+| Posts                | 25  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Prompting and Practices
 |----------------------|---|
 | Published            | 2023-06-11 04:50:04 |
 | Updated              | 2023-06-13 01:38:52 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

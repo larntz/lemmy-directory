@@ -3,19 +3,19 @@ title: "The legend of Zelda: Tears of the kingdom"
 name: "totk"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/totk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 269
+subscribers: 289
 posts: 5
 comments: 15
 weight: 5
 dau: 6
-wau: 13
-mau: 13
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 269 |
+| Subscribers          | 289 |
 | Posts                | 5  |
 | Comments             | 15  |
 | Daily Active Users   | 6  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 12:10:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

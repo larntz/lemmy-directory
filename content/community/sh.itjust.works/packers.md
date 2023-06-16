@@ -3,16 +3,16 @@ title: "Green Bay Packers"
 name: "packers"
 description: "A space for Packer boosterism"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/packers"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 7
+subscribers: 76
+posts: 8
 comments: 20
-weight: 7
+weight: 8
 dau: 4
 wau: 6
 mau: 6
@@ -41,8 +41,8 @@ A space for Packer boosterism
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 7  |
+| Subscribers          | 76 |
+| Posts                | 8  |
 | Comments             | 20  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 6  |
@@ -54,4 +54,4 @@ A space for Packer boosterism
 |----------------------|---|
 | Published            | 2023-06-11 19:41:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "Amoled Backgrounds"
 name: "amoledbackgrounds"
 description: "Welcome to Amoled Backgrounds, where #000000 meets with aesthetics. "
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amoledbackgrounds"
@@ -54,4 +54,4 @@ Welcome to Amoled Backgrounds, where #000000 meets with aesthetics.
 |----------------------|---|
 | Published            | 2021-04-11 18:23:56 |
 | Updated              | 2021-04-17 19:01:36 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:46 |

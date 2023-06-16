@@ -3,19 +3,19 @@ title: "Brighton"
 name: "brighton"
 description: "Welcome Brightonians and visitors alike!No abuse, no doxxing, no spam."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/brighton"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 1
-comments: 2
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+subscribers: 11
+posts: 2
+comments: 3
+weight: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Welcome Brightonians and visitors alike!<br><br>No abuse, no doxxing, no spam.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 11 |
+| Posts                | 2  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome Brightonians and visitors alike!<br><br>No abuse, no doxxing, no spam.
 |----------------------|---|
 | Published            | 2023-06-12 14:39:08 |
 | Updated              | 2023-06-12 17:06:34 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

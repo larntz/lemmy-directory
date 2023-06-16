@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Where the mods show stuff"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/announcements"
@@ -54,4 +54,4 @@ Where the mods show stuff
 |----------------------|---|
 | Published            | 2023-06-09 04:16:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

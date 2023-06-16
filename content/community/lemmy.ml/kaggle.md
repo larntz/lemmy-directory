@@ -3,7 +3,7 @@ title: "kaggle"
 name: "kaggle"
 description: "Kaggle and machine learning competitions"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kaggle"
@@ -54,4 +54,4 @@ Kaggle and machine learning competitions
 |----------------------|---|
 | Published            | 2021-02-02 14:13:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

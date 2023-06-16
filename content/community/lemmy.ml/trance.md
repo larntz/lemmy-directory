@@ -3,7 +3,7 @@ title: "Trance"
 name: "trance"
 description: "The home of Trance music."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trance"
@@ -54,4 +54,4 @@ The home of Trance music.
 |----------------------|---|
 | Published            | 2021-05-13 01:46:21 |
 | Updated              | 2021-05-15 20:59:54 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

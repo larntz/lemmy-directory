@@ -3,7 +3,7 @@ title: "Lemmy.eus galdetu"
 name: "lemmyeus_galdetu"
 description: "Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/lemmyeus_galdetu"
@@ -11,11 +11,11 @@ host: lemmy.eus
 lastmod: "{[ .Updated }}"
 subscribers: 13
 posts: 5
-comments: 15
+comments: 18
 weight: 5
-dau: 2
-wau: 5
-mau: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_eus"
 tags: 
@@ -43,10 +43,10 @@ Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu.
 |----------------------|---|
 | Subscribers          | 13 |
 | Posts                | 5  |
-| Comments             | 15  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 18  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu.
 |----------------------|---|
 | Published            | 2021-01-15 17:17:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

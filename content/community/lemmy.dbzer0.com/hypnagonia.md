@@ -3,7 +3,7 @@ title: "Hypnagonia"
 name: "hypnagonia"
 description: "[Hypnagonia](https://dbzer0.itch.io/hypnagonia) is Free/Libre FOSS Game about Dreams and Nightmares. Made in Godot. Spire-Like"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/hypnagonia"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 20:47:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

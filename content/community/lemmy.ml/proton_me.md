@@ -3,7 +3,7 @@ title: "Proton"
 name: "proton_me"
 description: "Proton new family"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/proton_me"
@@ -54,4 +54,4 @@ Proton new family
 |----------------------|---|
 | Published            | 2022-04-29 06:19:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

@@ -3,13 +3,13 @@ title: "Gay"
 name: "gay"
 description: "The gayest place on the Lemmyverse."
 type: community
-date: "2023-06-16 11:06:07"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cock.social/c/gay"
 host: lemmy.cock.social
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The gayest place on the Lemmyverse.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 21 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The gayest place on the Lemmyverse.
 |----------------------|---|
 | Published            | 2023-06-07 19:49:37 |
 | Updated              | 2023-06-07 19:49:45 |
-| Last Scraped         | 2023-06-16 11:06:07 |
+| Last Scraped         | 2023-06-16 22:56:08 |

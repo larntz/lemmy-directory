@@ -3,13 +3,13 @@ title: "fixing"
 name: "fixing"
 description: "Celebrating/talking about repairing stuff, the right to repair stuff, and the intersection of tech and solarpunk ideals.What does it mean to use what we have, including technology, to try to build a better, more environmentally just world?"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/fixing"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 93
+subscribers: 95
 posts: 5
 comments: 8
 weight: 5
@@ -41,7 +41,7 @@ Celebrating/talking about repairing stuff, the right to repair stuff, and the in
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 93 |
+| Subscribers          | 95 |
 | Posts                | 5  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Celebrating/talking about repairing stuff, the right to repair stuff, and the in
 |----------------------|---|
 | Published            | 2022-03-23 12:23:45 |
 | Updated              | 2023-06-11 02:07:48 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

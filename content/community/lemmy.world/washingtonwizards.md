@@ -3,16 +3,16 @@ title: "Washington Wizards"
 name: "washingtonwizards"
 description: "Rules (under construction)1 -  Treat others as you'd like to be treated2 - preface article links with the author's last name in square brackets, like [Robbins] ...3 - Do not editorialize article titles or tweets/toots.  Copy the article title or tweet/toot exactly as the author wrote it."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washingtonwizards"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 9
+subscribers: 17
+posts: 10
 comments: 9
-weight: 9
+weight: 10
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Rules (under construction)<br><br>1 -  Treat others as you'd like to be treated<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 9  |
+| Subscribers          | 17 |
+| Posts                | 10  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Rules (under construction)<br><br>1 -  Treat others as you'd like to be treated<
 |----------------------|---|
 | Published            | 2023-06-10 18:59:09 |
 | Updated              | 2023-06-10 22:57:46 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

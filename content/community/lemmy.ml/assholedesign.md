@@ -3,18 +3,18 @@ title: "Asshole Design"
 name: "assholedesign"
 description: "Nothing comes before profit -- especially not the consumer."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/assholedesign"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 370
+subscribers: 374
 posts: 18
 comments: 20
 weight: 18
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Nothing comes before profit -- especially not the consumer.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 370 |
+| Subscribers          | 374 |
 | Posts                | 18  |
 | Comments             | 20  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Nothing comes before profit -- especially not the consumer.
 |----------------------|---|
 | Published            | 2020-05-01 13:00:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

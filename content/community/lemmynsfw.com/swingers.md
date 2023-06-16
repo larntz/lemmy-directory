@@ -3,19 +3,19 @@ title: "swingers"
 name: "swingers"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/swingers"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 0
+subscribers: 28
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 0  |
+| Subscribers          | 28 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 16:13:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

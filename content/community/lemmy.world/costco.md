@@ -3,13 +3,13 @@ title: "Costco"
 name: "costco"
 description: "For fans of Costco"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/costco"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 577
+subscribers: 633
 posts: 5
 comments: 53
 weight: 5
@@ -41,7 +41,7 @@ For fans of Costco
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 577 |
+| Subscribers          | 633 |
 | Posts                | 5  |
 | Comments             | 53  |
 | Daily Active Users   | 12  |
@@ -54,4 +54,4 @@ For fans of Costco
 |----------------------|---|
 | Published            | 2023-06-12 18:13:38 |
 | Updated              | 2023-06-13 03:00:51 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

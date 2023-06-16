@@ -3,13 +3,13 @@ title: "Crust Club"
 name: "garagerock"
 description: "Dedicated to the ever expanding Garage Rock genre. From The Sonics to Oblivians, Seeds to Thee Oh Sees, freaks and geeks dig the now sound. Adjacent sub-genres are welcome as well. Such as Garage Punk, Surf Punk, etc.Crust Club refers to the singles club offered by the influential USA based label Estrus Records."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/garagerock"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Dedicated to the ever expanding Garage Rock genre. From The Sonics to Oblivians,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dedicated to the ever expanding Garage Rock genre. From The Sonics to Oblivians,
 |----------------------|---|
 | Published            | 2023-06-14 06:56:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

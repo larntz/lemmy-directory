@@ -3,7 +3,7 @@ title: "India News"
 name: "indianews"
 description: "News Related to India"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/indianews"
@@ -54,4 +54,4 @@ News Related to India
 |----------------------|---|
 | Published            | 2023-06-14 06:49:48 |
 | Updated              | 2023-06-15 07:22:52 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

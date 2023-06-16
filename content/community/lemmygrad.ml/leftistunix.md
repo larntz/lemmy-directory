@@ -3,19 +3,19 @@ title: "Linux for Leftists"
 name: "leftistunix"
 description: "A Community for all leftists wanting to join and being part of a community that talks about Linux, Unix and the Open-Source Community"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftistunix"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 412
+subscribers: 413
 posts: 62
-comments: 654
+comments: 646
 weight: 62
-dau: 22
-wau: 26
-mau: 39
+dau: 10
+wau: 27
+mau: 40
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ A Community for all leftists wanting to join and being part of a community that 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 412 |
+| Subscribers          | 413 |
 | Posts                | 62  |
-| Comments             | 654  |
-| Daily Active Users   | 22  |
-| Weekly Active Users  | 26  |
-| Monthly Active Users | 39  |
+| Comments             | 646  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -54,4 +54,4 @@ A Community for all leftists wanting to join and being part of a community that 
 |----------------------|---|
 | Published            | 2021-04-14 06:10:46 |
 | Updated              | 2022-03-06 00:07:24 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,19 +3,19 @@ title: "MotoGP"
 name: "motogp"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motogp"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 49
-posts: 7
+subscribers: 50
+posts: 8
 comments: 9
-weight: 7
-dau: 2
-wau: 5
-mau: 5
+weight: 8
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 7  |
+| Subscribers          | 50 |
+| Posts                | 8  |
 | Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 00:57:34 |
 | Updated              | 2023-06-12 17:15:42 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

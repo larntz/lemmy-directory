@@ -3,7 +3,7 @@ title: "Starlink Fedi Community"
 name: "starlink"
 description: "# Links- [Starlink](https://starlink.com)- [Satellitemap](https://satellitemap.space)- [StarlinkTrack](https://starlinktrack.com/)"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://innernet.link/c/starlink"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 18:26:58 |
 | Updated              | 2023-06-11 01:33:31 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

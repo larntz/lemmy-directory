@@ -3,17 +3,17 @@ title: "PLASTT"
 name: "plastt"
 description: "**P**ussy, **L**egs, **A**ss, **S**mile, **T**its and **T**oes ... all in a single photo or video :)##### Community Rules- 18+ only; should be obvious but needs to be reminded to some.- All posts must be **PLASTT** posts.- Please post a direct link to photo / video whenever possible.- The best posts are self posts (`OC`). You are encouraged to also use `[M]`, `[F]` etc. to specify your gender.- If you are posting someone else's content, you **MUST** clearly specify `not OC`. You are also strongly encouraged to post the model's ID or links, if you happen to know those.removed.----##### Self Promotion- Only allowed for `OC` posts. You may promote your own Fansly / OnlyFans / ManyVids / Pornhub etc. **only on** your own posts. Please post channel links in the comments only, not as posts.- No direct links to paid content is not allowed, and **will** result in a ban.----##### Bannable Offenses- Posting anything illegal (includes but is not limited to underage content)- Disrespecting mods or other members of the community"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/plastt"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 101
-posts: 6
+subscribers: 116
+posts: 8
 comments: 1
-weight: 6
-dau: 2
+weight: 8
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -43,10 +43,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 101 |
-| Posts                | 6  |
+| Subscribers          | 116 |
+| Posts                | 8  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 07:02:22 |
 | Updated              | 2023-06-15 04:57:49 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

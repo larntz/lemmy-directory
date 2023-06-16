@@ -3,7 +3,7 @@ title: "RustGame"
 name: "rustgame"
 description: "A community dedicated to Facepunch's Rust game"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rustgame"
@@ -54,4 +54,4 @@ A community dedicated to Facepunch's Rust game
 |----------------------|---|
 | Published            | 2023-06-12 06:53:11 |
 | Updated              | 2023-06-12 12:48:57 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

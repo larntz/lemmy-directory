@@ -3,7 +3,7 @@ title: "funny"
 name: "funny"
 description: "lol"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/funny"
@@ -54,4 +54,4 @@ lol
 |----------------------|---|
 | Published            | 2023-06-14 05:04:12 |
 | Updated              | 2023-06-14 05:09:11 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

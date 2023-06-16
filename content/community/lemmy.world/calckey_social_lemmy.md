@@ -3,13 +3,13 @@ title: "calckey.social->lemmy.world"
 name: "calckey_social_lemmy"
 description: "![](https://lemmy.world/pictrs/image/1ca4a97f-9f70-46bf-8c3a-9c7eb7eabe2d.png)"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/calckey_social_lemmy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 9
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-02 07:02:29 |
 | Updated              | 2023-06-02 07:04:02 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

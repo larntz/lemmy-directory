@@ -3,19 +3,19 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Home Automation, smart home, and related topics."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeautomation"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 234
+subscribers: 237
 posts: 4
 comments: 13
 weight: 4
 dau: 1
 wau: 8
-mau: 8
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Home Automation, smart home, and related topics.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 234 |
+| Subscribers          | 237 |
 | Posts                | 4  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Home Automation, smart home, and related topics.
 |----------------------|---|
 | Published            | 2023-06-08 21:07:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

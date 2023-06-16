@@ -3,7 +3,7 @@ title: "Vault Hunters"
 name: "vaulthunters"
 description: "Welcome to the Vault Hunters Minecraft ~~subreddit~~ Lemmy Community! Here we discuss, share fan art, and everything related to the popular video game. From veteran players to newcomers, this community is a great place to learn and connect. Share your strategies, tips, and favorite moments with fellow fans. We also encourage members to post news, rumors, and updates related to the game. Join us to explore the game's challenges, mechanic's, lore and environments and share our love for this thrilling game."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vaulthunters"
@@ -54,4 +54,4 @@ Welcome to the Vault Hunters Minecraft ~~subreddit~~ Lemmy Community! Here we di
 |----------------------|---|
 | Published            | 2023-06-11 01:00:29 |
 | Updated              | 2023-06-11 03:05:41 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

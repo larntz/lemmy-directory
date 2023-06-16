@@ -3,15 +3,15 @@ title: "Finland"
 name: "finland"
 description: "English-language discussions and news relating to Finland and the Finnish culture.---------The Finnish community for natives and proficient users of the language ----> [!suomi@sopuli.xyz](https://sopuli.xyz/c/suomi) "
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/finland"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 243
+subscribers: 250
 posts: 81
-comments: 75
+comments: 77
 weight: 81
 dau: 3
 wau: 9
@@ -41,9 +41,9 @@ English-language discussions and news relating to Finland and the Finnish cultur
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 243 |
+| Subscribers          | 250 |
 | Posts                | 81  |
-| Comments             | 75  |
+| Comments             | 77  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ English-language discussions and news relating to Finland and the Finnish cultur
 |----------------------|---|
 | Published            | 2021-02-04 10:50:06 |
 | Updated              | 2023-03-14 10:27:43 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

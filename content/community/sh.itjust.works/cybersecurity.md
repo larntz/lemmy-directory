@@ -3,16 +3,16 @@ title: "Cybersecurity"
 name: "cybersecurity"
 description: "c/cybersecurity is a community centered on the cybersecurity and information security profession. You can come here to discuss news, post something interesting, or just chat with others.**THE RULES****Instance Rules**- Be respectful. Everyone should feel welcome here.- No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.- No Ads / Spamming.- No pornography.**Community Rules** - Idk, keep it semi-professional?- Nothing illegal. We're all ethical here.- Rules will be added/redefined as necessary.If you ask someone to hack your friends socials you're just going to get banned so don't do that."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cybersecurity"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 939
-posts: 36
-comments: 48
-weight: 36
+subscribers: 980
+posts: 38
+comments: 54
+weight: 38
 dau: 7
 wau: 17
 mau: 17
@@ -41,9 +41,9 @@ c/cybersecurity is a community centered on the cybersecurity and information sec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 939 |
-| Posts                | 36  |
-| Comments             | 48  |
+| Subscribers          | 980 |
+| Posts                | 38  |
+| Comments             | 54  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 17  |
 | Monthly Active Users | 17  |
@@ -54,4 +54,4 @@ c/cybersecurity is a community centered on the cybersecurity and information sec
 |----------------------|---|
 | Published            | 2023-06-08 20:38:31 |
 | Updated              | 2023-06-10 06:13:45 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "A community for all content Cyberpunk (be it the genre or the game)"
 name: "yberpunk"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yberpunk"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-30 11:37:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

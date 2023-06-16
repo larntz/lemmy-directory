@@ -3,7 +3,7 @@ title: "sport"
 name: "sport"
 description: "O sporcie."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sport"
@@ -54,4 +54,4 @@ O sporcie.
 |----------------------|---|
 | Published            | 2021-06-13 13:10:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,13 +3,13 @@ title: "Turku"
 name: "turku"
 description: "Täl ja tois pual jokke"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/turku"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Täl ja tois pual jokke
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 13 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Täl ja tois pual jokke
 |----------------------|---|
 | Published            | 2023-06-15 07:23:32 |
 | Updated              | 2023-06-15 07:25:58 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

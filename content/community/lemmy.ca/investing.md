@@ -3,16 +3,16 @@ title: "Canadian Investing"
 name: "investing"
 description: "Investing from a Canadian perspective. In addition to basic civility, no posts that blatantly pump some stock, especially one with a low market cap."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/investing"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 1
-comments: 0
-weight: 1
+posts: 2
+comments: 1
+weight: 2
 dau: 0
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Investing from a Canadian perspective. In addition to basic civility, no posts t
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Posts                | 2  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Investing from a Canadian perspective. In addition to basic civility, no posts t
 |----------------------|---|
 | Published            | 2023-06-14 02:37:08 |
 | Updated              | 2023-06-14 23:08:27 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

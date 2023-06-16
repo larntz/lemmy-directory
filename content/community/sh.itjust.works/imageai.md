@@ -3,16 +3,16 @@ title: "AI Generated Images"
 name: "imageai"
 description: "Community for AI image generation. Any models are allowed. **Creativity is valuable!** It is recommended to post the model used for reference, but not a rule.**No explicit violence, gore, or nudity.**This is **not a NSFW community** although exceptions are accepted. Any NSFW posts must be marked as NSFW and may be removed at any moderator's discretion. Please refer to https://lemmynsfw.com/ for any NSFW imagery.**No misconduct**: Harassment, Abuse or assault, Bullying, Illegal activity, Discrimination, Racism, Trolling.**Follow all sh.itjust.works rules.**"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/imageai"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1524
-posts: 95
-comments: 356
-weight: 95
+subscribers: 1606
+posts: 102
+comments: 371
+weight: 102
 dau: 50
 wau: 73
 mau: 73
@@ -41,9 +41,9 @@ Community for AI image generation. Any models are allowed. **Creativity is valua
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1524 |
-| Posts                | 95  |
-| Comments             | 356  |
+| Subscribers          | 1606 |
+| Posts                | 102  |
+| Comments             | 371  |
 | Daily Active Users   | 50  |
 | Weekly Active Users  | 73  |
 | Monthly Active Users | 73  |
@@ -54,4 +54,4 @@ Community for AI image generation. Any models are allowed. **Creativity is valua
 |----------------------|---|
 | Published            | 2023-06-07 19:39:36 |
 | Updated              | 2023-06-13 23:58:02 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

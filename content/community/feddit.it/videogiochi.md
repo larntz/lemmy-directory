@@ -3,7 +3,7 @@ title: "Videogiochi"
 name: "videogiochi"
 description: "Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme. "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/videogiochi"
@@ -54,4 +54,4 @@ Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme.
 |----------------------|---|
 | Published            | 2022-05-17 21:25:35 |
 | Updated              | 2022-05-19 08:14:22 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

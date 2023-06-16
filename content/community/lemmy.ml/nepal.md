@@ -3,7 +3,7 @@ title: "Nepal"
 name: "nepal"
 description: "A Nepali community in the Fediverse. "
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nepal"
@@ -54,4 +54,4 @@ A Nepali community in the Fediverse.
 |----------------------|---|
 | Published            | 2020-06-01 23:26:22 |
 | Updated              | 2023-06-09 12:51:41 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

@@ -3,7 +3,7 @@ title: "DiWHY"
 name: "diwhy"
 description: "DIY lifehacks that dont make sense to create."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diwhy"
@@ -54,4 +54,4 @@ DIY lifehacks that dont make sense to create.
 |----------------------|---|
 | Published            | 2021-12-15 01:34:00 |
 | Updated              | 2021-12-15 21:32:03 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

@@ -3,7 +3,7 @@ title: "Original Xbox"
 name: "originalxbox"
 description: "There's an Xbox 360 and an Xbox One, but first there was just Xbox. The original Xbox. That's what this sub is for.**Rules:**  1. Post content related to the original Xbox console. Do not post content related to Xbox 360 or Xbox One.  2. No direct links to pirated content. Discussion about piracy and backups is fine. 3. Don't be a dick. Adhere to reddiquette and site-wide rules.  4. No spam. No more than 10 percent of your posts may be self-promotion."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/originalxbox"
@@ -54,4 +54,4 @@ There's an Xbox 360 and an Xbox One, but first there was just Xbox. The original
 |----------------------|---|
 | Published            | 2023-06-10 19:13:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

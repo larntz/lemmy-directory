@@ -3,19 +3,19 @@ title: "Fallout"
 name: "fallout"
 description: "All things about Fallout franchise."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fallout"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 93
 posts: 3
 comments: 18
 weight: 3
-dau: 4
-wau: 4
-mau: 4
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ All things about Fallout franchise.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 93 |
 | Posts                | 3  |
 | Comments             | 18  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 09:04:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Updated              | 2023-06-16 11:25:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

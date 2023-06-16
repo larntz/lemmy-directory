@@ -3,19 +3,19 @@ title: "Colorado"
 name: "colorado"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://centennialstate.social/c/colorado"
 host: centennialstate.social
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 13
 posts: 2
-comments: 2
+comments: 5
 weight: 2
-dau: 4
-wau: 4
-mau: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "centennialstate_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 13 |
 | Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 16:16:52 |
 | Updated              | 2023-06-15 16:52:59 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

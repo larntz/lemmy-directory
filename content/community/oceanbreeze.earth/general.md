@@ -3,7 +3,7 @@ title: "general"
 name: "general"
 description: "anything goes"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/general"
@@ -54,4 +54,4 @@ anything goes
 |----------------------|---|
 | Published            | 2023-06-09 21:55:39 |
 | Updated              | 2023-06-09 21:55:54 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

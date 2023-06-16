@@ -3,13 +3,13 @@ title: "The Suggestions"
 name: "thesuggestions"
 description: "Suggest changes or additions to merv.news"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thesuggestions"
 host: merv.news
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Suggest changes or additions to merv.news
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Suggest changes or additions to merv.news
 |----------------------|---|
 | Published            | 2022-10-01 18:17:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

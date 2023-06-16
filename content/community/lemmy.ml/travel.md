@@ -3,13 +3,13 @@ title: "Travel"
 name: "travel"
 description: "Your pictures, questions and stories about exploring the world.---"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/travel"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 142
+subscribers: 143
 posts: 34
 comments: 5
 weight: 34
@@ -41,7 +41,7 @@ Your pictures, questions and stories about exploring the world.<br><br>---
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 142 |
+| Subscribers          | 143 |
 | Posts                | 34  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Your pictures, questions and stories about exploring the world.<br><br>---
 |----------------------|---|
 | Published            | 2019-05-02 16:28:39 |
 | Updated              | 2021-01-27 17:32:03 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:39 |

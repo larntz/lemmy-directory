@@ -3,7 +3,7 @@ title: "Perth"
 name: "perth"
 description: "The fine people of Perth, Western Australia - Room is for perthchat.org and other Perth/Australia related discussion.Join one of our bridged chatrooms (see perthchat.org for full list):[Matrix/element](https://matrix.to/#/#general:perthchat.org)[discord](https://discord.gg/Qth5vG3)[Telegram](https://t.me/perthchat_perth)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/perth"
@@ -54,4 +54,4 @@ The fine people of Perth, Western Australia - Room is for perthchat.org and othe
 |----------------------|---|
 | Published            | 2022-01-01 06:51:21 |
 | Updated              | 2022-01-01 06:52:58 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

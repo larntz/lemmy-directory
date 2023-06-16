@@ -1,15 +1,15 @@
 ---
 title: "Comic Books" 
 name: "comicbooks"
-description: "Open discussion on comic books"
+description: "A lemmy community for fans of comic books, graphic novels, and digital comics. Reddit refugees welcome!"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/comicbooks"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Open discussion on comic books
+A lemmy community for fans of comic books, graphic novels, and digital comics. Reddit refugees welcome!
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Open discussion on comic books
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Open discussion on comic books
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 13:35:01 |
-| Updated              | 2023-06-13 13:37:33 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Updated              | 2023-06-16 13:50:58 |
+| Last Scraped         | 2023-06-16 22:56:34 |

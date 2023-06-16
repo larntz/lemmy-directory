@@ -3,7 +3,7 @@ title: "Mac Gaming"
 name: "macgaming"
 description: "A community dedicated to all things gaming on Apple's Mac Computers."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/macgaming"
@@ -54,4 +54,4 @@ A community dedicated to all things gaming on Apple's Mac Computers.
 |----------------------|---|
 | Published            | 2023-06-11 09:15:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

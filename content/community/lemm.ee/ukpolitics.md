@@ -3,19 +3,19 @@ title: "UK Politics"
 name: "ukpolitics"
 description: "A place for discussion of UK political news and affairs."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/ukpolitics"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 150
-posts: 35
-comments: 224
-weight: 35
-dau: 16
-wau: 43
-mau: 43
+subscribers: 162
+posts: 36
+comments: 236
+weight: 36
+dau: 12
+wau: 44
+mau: 44
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ A place for discussion of UK political news and affairs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
-| Posts                | 35  |
-| Comments             | 224  |
-| Daily Active Users   | 16  |
-| Weekly Active Users  | 43  |
-| Monthly Active Users | 43  |
+| Subscribers          | 162 |
+| Posts                | 36  |
+| Comments             | 236  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 44  |
+| Monthly Active Users | 44  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for discussion of UK political news and affairs.
 |----------------------|---|
 | Published            | 2023-06-09 21:59:49 |
 | Updated              | 2023-06-14 12:50:20 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

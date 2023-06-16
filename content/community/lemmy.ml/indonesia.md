@@ -3,19 +3,19 @@ title: "Indonesia"
 name: "indonesia"
 description: "The Indonesian People"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indonesia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 37
-posts: 8
-comments: 1
-weight: 8
-dau: 1
-wau: 2
-mau: 2
+posts: 10
+comments: 4
+weight: 10
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -42,11 +42,11 @@ The Indonesian People
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 37 |
-| Posts                | 8  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Posts                | 10  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Indonesian People
 |----------------------|---|
 | Published            | 2020-07-26 12:07:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

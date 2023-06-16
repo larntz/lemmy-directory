@@ -3,13 +3,13 @@ title: "synthdiy"
 name: "synthdiy"
 description: "Building, modifying and repairing synthesizers."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/synthdiy"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Building, modifying and repairing synthesizers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Building, modifying and repairing synthesizers.
 |----------------------|---|
 | Published            | 2023-06-16 10:26:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

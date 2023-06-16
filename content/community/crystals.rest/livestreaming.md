@@ -1,15 +1,15 @@
 ---
 title: "livestreaming" 
 name: "livestreaming"
-description: "A community about everything livestreaming! Questions, advice, warnings, news, and maybe *a sprinkle* of self-promotion.All are welcome of any platform, regardless of FOSS or not.#####  **Open Source Streaming Site Software**- [Peertube](https://joinpeertube.org/)- [Owncast](https://owncast.online/)##### **Open Source Broadcasting Software**- [Open Broadcaster Software](https://obsproject.com/)### Rules- Be respectful, and do not harshly judge other's preferences or ideologies for streaming. You can still disagree, but be civil about it.- No hate speech, bigotry, etc- Self-promotions -> [/c/selfpromotion](/c/selfpromotion)- No direct links to NSFW content, but it is allowed to talk about the accounts in general. Yes, this means talking about sex worker streams is acceptable.- No drama unless related to streaming as a whole. ![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png)- Memes are allowed.![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png) *Two streamers getting into a personal beef with each other is not related to the platform of streaming as a whole. A ban or terrible action of a streamer might be related, if for example, it set a possibly bad precedent for that platform as a whole, or would cause worrying moderation attitudes.*"
+description: "A community about everything livestreaming! Questions, advice, warnings, news, and maybe a sprinkle of self-promotion.All are welcome of any platform, regardless of FOSS or not.#####  **Open Source Streaming Site Software**- [Peertube](https://joinpeertube.org/)- [Owncast](https://owncast.online/)##### **Open Source Broadcasting Software**- [Open Broadcaster Software](https://obsproject.com/)### Rules![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) Be respectful, and do not harshly judge other's preferences or ideologies for streaming. You can still disagree, but be civil about it.![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) No hate speech, bigotry, etc![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) There is a community for selfpromotion -> [/c/selfpromotion](/c/selfpromotion), however you can link to your own content if it's relevant or if you're discussing it directly.![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png)No direct links to NSFW content, but it is allowed to talk about the accounts in general. Yes, this means talking about sex worker streams is acceptable.![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) No drama unless related to streaming as a whole. ![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png)![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) Memes are allowed.![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png) *Two streamers getting into a personal beef with each other is not related to the platform of streaming as a whole. A ban or terrible action of a streamer might be related, if for example, it set a possibly bad precedent for that platform as a whole, or would cause worrying moderation attitudes.*"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/livestreaming"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community about everything livestreaming! Questions, advice, warnings, news, and maybe *a sprinkle* of self-promotion.<br><br>All are welcome of any platform, regardless of FOSS or not.<br><br>#####  **Open Source Streaming Site Software**<br>- [Peertube](https://joinpeertube.org/)<br>- [Owncast](https://owncast.online/)<br><br>##### **Open Source Broadcasting Software**<br>- [Open Broadcaster Software](https://obsproject.com/)<br><br>### Rules<br>- Be respectful, and do not harshly judge other's preferences or ideologies for streaming. You can still disagree, but be civil about it.<br>- No hate speech, bigotry, etc<br>- Self-promotions -> [/c/selfpromotion](/c/selfpromotion)<br>- No direct links to NSFW content, but it is allowed to talk about the accounts in general. Yes, this means talking about sex worker streams is acceptable.<br>- No drama unless related to streaming as a whole. ![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png)<br>- Memes are allowed.<br><br>![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png) *Two streamers getting into a personal beef with each other is not related to the platform of streaming as a whole. A ban or terrible action of a streamer might be related, if for example, it set a possibly bad precedent for that platform as a whole, or would cause worrying moderation attitudes.*
+A community about everything livestreaming! Questions, advice, warnings, news, and maybe a sprinkle of self-promotion.<br><br>All are welcome of any platform, regardless of FOSS or not.<br><br>#####  **Open Source Streaming Site Software**<br>- [Peertube](https://joinpeertube.org/)<br>- [Owncast](https://owncast.online/)<br><br>##### **Open Source Broadcasting Software**<br>- [Open Broadcaster Software](https://obsproject.com/)<br><br>### Rules<br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) Be respectful, and do not harshly judge other's preferences or ideologies for streaming. You can still disagree, but be civil about it.<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) No hate speech, bigotry, etc<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) There is a community for selfpromotion -> [/c/selfpromotion](/c/selfpromotion), however you can link to your own content if it's relevant or if you're discussing it directly.<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png)No direct links to NSFW content, but it is allowed to talk about the accounts in general. Yes, this means talking about sex worker streams is acceptable.<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) No drama unless related to streaming as a whole. ![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png)<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) Memes are allowed.<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**<br><br>![star_gold](https://misnina.neocities.org/emotes/star_gold_1x.png) *Two streamers getting into a personal beef with each other is not related to the platform of streaming as a whole. A ban or terrible action of a streamer might be related, if for example, it set a possibly bad precedent for that platform as a whole, or would cause worrying moderation attitudes.*
 </blockquote>
 
 
@@ -41,7 +41,7 @@ A community about everything livestreaming! Questions, advice, warnings, news, a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ A community about everything livestreaming! Questions, advice, warnings, news, a
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 09:54:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 17:16:19 |
+| Last Scraped         | 2023-06-16 22:56:19 |

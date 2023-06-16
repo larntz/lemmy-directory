@@ -3,13 +3,13 @@ title: "things that are mildlyinteresting"
 name: "mildlyinteresting"
 description: "post things that are mildly interesting "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mildlyinteresting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 157
+subscribers: 158
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ post things that are mildly interesting
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 157 |
+| Subscribers          | 158 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ post things that are mildly interesting
 |----------------------|---|
 | Published            | 2021-06-27 21:29:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

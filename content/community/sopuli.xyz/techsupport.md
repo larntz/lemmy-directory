@@ -3,13 +3,13 @@ title: "techsupport"
 name: "techsupport"
 description: "**Having tech problems?**Ask other users, and try to help others with their problems as well. **Guidelines**Please include your system specs, such as Windows/Linux/Mac version/build, model numbers, troubleshooting steps, symptoms, etc. "
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/techsupport"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 20
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 07:09:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,19 +3,19 @@ title: "Green Energy"
 name: "energy"
 description: "everything about energy production"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/energy"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 300
-posts: 51
-comments: 78
-weight: 51
-dau: 6
-wau: 21
-mau: 23
+subscribers: 315
+posts: 52
+comments: 92
+weight: 52
+dau: 13
+wau: 30
+mau: 32
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ everything about energy production
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 300 |
-| Posts                | 51  |
-| Comments             | 78  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 23  |
+| Subscribers          | 315 |
+| Posts                | 52  |
+| Comments             | 92  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 30  |
+| Monthly Active Users | 32  |
 
 <br>
 
@@ -54,4 +54,4 @@ everything about energy production
 |----------------------|---|
 | Published            | 2022-04-15 16:45:36 |
 | Updated              | 2022-09-20 17:02:20 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

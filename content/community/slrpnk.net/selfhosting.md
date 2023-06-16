@@ -3,18 +3,18 @@ title: "Self-hosting"
 name: "selfhosting"
 description: "Hosting your own services. Preferably at home and on low-power or shared hardware.Also check out: - [Homebrewserver.club](https://homebrewserver.club/)- [XMPP chat](xmpp:hbsc@muc.lurk.org?join)- [/m/selfhosted on Kbin](https://kbin.social/m/selfhosted)"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/selfhosting"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 911
-posts: 65
+subscribers: 940
+posts: 66
 comments: 160
-weight: 65
-dau: 5
-wau: 31
+weight: 66
+dau: 4
+wau: 30
 mau: 42
 instances:
 - "slrpnk_net"
@@ -41,11 +41,11 @@ Hosting your own services. Preferably at home and on low-power or shared hardwar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 911 |
-| Posts                | 65  |
+| Subscribers          | 940 |
+| Posts                | 66  |
 | Comments             | 160  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 31  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 30  |
 | Monthly Active Users | 42  |
 
 <br>
@@ -54,4 +54,4 @@ Hosting your own services. Preferably at home and on low-power or shared hardwar
 |----------------------|---|
 | Published            | 2022-03-24 22:36:05 |
 | Updated              | 2023-06-12 09:47:12 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

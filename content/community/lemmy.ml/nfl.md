@@ -3,19 +3,19 @@ title: "nfl"
 name: "nfl"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nfl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 502
-posts: 29
-comments: 144
-weight: 29
-dau: 6
-wau: 63
-mau: 83
+subscribers: 563
+posts: 31
+comments: 152
+weight: 31
+dau: 9
+wau: 66
+mau: 91
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 502 |
-| Posts                | 29  |
-| Comments             | 144  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 63  |
-| Monthly Active Users | 83  |
+| Subscribers          | 563 |
+| Posts                | 31  |
+| Comments             | 152  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 66  |
+| Monthly Active Users | 91  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-12 15:30:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:31 |

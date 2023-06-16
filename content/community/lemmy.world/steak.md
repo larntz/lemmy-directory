@@ -3,7 +3,7 @@ title: "steak"
 name: "steak"
 description: "you can post steak that you grilled/cooked here."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steak"
@@ -54,4 +54,4 @@ you can post steak that you grilled/cooked here.
 |----------------------|---|
 | Published            | 2023-06-14 14:13:59 |
 | Updated              | 2023-06-14 14:18:37 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

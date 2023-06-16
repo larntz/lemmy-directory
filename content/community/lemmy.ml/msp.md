@@ -3,7 +3,7 @@ title: "MSP"
 name: "msp"
 description: "Community for IT Managed Services Providers"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msp"
@@ -54,4 +54,4 @@ Community for IT Managed Services Providers
 |----------------------|---|
 | Published            | 2023-06-05 10:27:40 |
 | Updated              | 2023-06-05 10:28:48 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

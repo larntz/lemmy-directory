@@ -3,7 +3,7 @@ title: "Adorable Spiders"
 name: "adorablespiders"
 description: "Welcome to Adorable Spiders!We’re a small community for sharing really cute spiders!📜 : Rules:📫  No reposts🕷 Spiders must be cute!😸 Have fun"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adorablespiders"
@@ -14,8 +14,8 @@ posts: 9
 comments: 5
 weight: 9
 dau: 1
-wau: 1
-mau: 2
+wau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ Welcome to Adorable Spiders!<br><br>We’re a small community for sharing really
 | Posts                | 9  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to Adorable Spiders!<br><br>We’re a small community for sharing really
 |----------------------|---|
 | Published            | 2021-09-20 18:06:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:21 |

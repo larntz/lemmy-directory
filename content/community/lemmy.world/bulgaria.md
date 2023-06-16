@@ -3,7 +3,7 @@ title: "Bulgaria"
 name: "bulgaria"
 description: "A community for Bulgarians and everyone else."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bulgaria"
@@ -54,4 +54,4 @@ A community for Bulgarians and everyone else.
 |----------------------|---|
 | Published            | 2023-06-12 12:15:52 |
 | Updated              | 2023-06-12 12:22:23 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:18 |

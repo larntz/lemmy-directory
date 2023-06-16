@@ -3,13 +3,13 @@ title: "Beleggen"
 name: "beleggen"
 description: "Een community voor alle topics over beleggen, aandelen, opties, obligaties, brokers, etc."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/beleggen"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 41
 posts: 3
 comments: 29
 weight: 3
@@ -41,7 +41,7 @@ Een community voor alle topics over beleggen, aandelen, opties, obligaties, brok
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 41 |
 | Posts                | 3  |
 | Comments             | 29  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ Een community voor alle topics over beleggen, aandelen, opties, obligaties, brok
 |----------------------|---|
 | Published            | 2023-06-11 20:55:13 |
 | Updated              | 2023-06-12 10:03:16 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

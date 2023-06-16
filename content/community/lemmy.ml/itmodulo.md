@@ -3,7 +3,7 @@ title: "ITmodulo: news, Q&A"
 name: "itmodulo"
 description: "[ITmodulo](https://itmodulo.eu) official Lemmy channel. "
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/itmodulo"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-04-21 22:31:51 |
 | Updated              | 2022-09-30 00:13:44 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

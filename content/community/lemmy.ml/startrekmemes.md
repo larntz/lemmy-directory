@@ -3,13 +3,13 @@ title: "StarTrekMemes: Meme-ory Alpha"
 name: "startrekmemes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/startrekmemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 56
 posts: 4
 comments: 2
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 56 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-03-23 20:43:00 |
 | Updated              | 2021-03-24 02:08:53 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:32 |

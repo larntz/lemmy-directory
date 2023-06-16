@@ -3,7 +3,7 @@ title: "Computer Networks"
 name: "networks"
 description: "For all your network topics.  Problem with your home router or with your managed switch at work, or do you just have some interresting firewall to show?For more expert topics you can find some more precise communities, or start one yourself :)"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/networks"
@@ -54,4 +54,4 @@ For all your network topics.  Problem with your home router or with your managed
 |----------------------|---|
 | Published            | 2023-06-14 22:10:38 |
 | Updated              | 2023-06-14 22:51:02 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

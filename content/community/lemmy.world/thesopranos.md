@@ -3,7 +3,7 @@ title: "The Sopranos"
 name: "thesopranos"
 description: "A Lemmy version of reddit's r/TheSopranos"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesopranos"
@@ -54,4 +54,4 @@ A Lemmy version of reddit's r/TheSopranos
 |----------------------|---|
 | Published            | 2023-06-14 16:44:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:14 |

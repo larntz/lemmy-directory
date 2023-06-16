@@ -3,7 +3,7 @@ title: "Official India community on Lemmy"
 name: "india"
 description: "General Discussion for topics related to India"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/india"
@@ -54,4 +54,4 @@ General Discussion for topics related to India
 |----------------------|---|
 | Published            | 2023-06-14 05:34:45 |
 | Updated              | 2023-06-14 06:11:40 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

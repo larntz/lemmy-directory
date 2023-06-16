@@ -3,19 +3,19 @@ title: "Blurry Photos"
 name: "blurryphotos"
 description: "A community for blurry photos. Nothing sharp here.  Photo could have originally been blurry, or post-processed. No NSFW posts."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blurryphotos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 15
+subscribers: 14
+posts: 16
 comments: 6
-weight: 15
-dau: 2
-wau: 2
-mau: 2
+weight: 16
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for blurry photos. Nothing sharp here.  Photo could have originally 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 15  |
+| Subscribers          | 14 |
+| Posts                | 16  |
 | Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for blurry photos. Nothing sharp here.  Photo could have originally 
 |----------------------|---|
 | Published            | 2023-06-14 03:11:58 |
 | Updated              | 2023-06-15 03:06:39 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

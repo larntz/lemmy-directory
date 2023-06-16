@@ -3,7 +3,7 @@ title: "Homegrown Networks"
 name: "homegrownnetworks"
 description: "Building locally owned open communications infrastructure"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homegrownnetworks"
@@ -54,4 +54,4 @@ Building locally owned open communications infrastructure
 |----------------------|---|
 | Published            | 2020-01-30 22:26:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

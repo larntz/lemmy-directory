@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "A community to discuss CompuVerse itself!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/meta"
@@ -54,4 +54,4 @@ A community to discuss CompuVerse itself!
 |----------------------|---|
 | Published            | 2023-06-08 13:23:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

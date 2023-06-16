@@ -1,15 +1,15 @@
 ---
 title: "lowpoly" 
 name: "lowpoly"
-description: "Description not available."
+description: "The place to talk about and show off lowpoly works! Discussions about the general spirt of lowpoly, the technical challenges, tips & tricks, and of course showing off work!##### **Rules**![green crystal](https://misnina.neocities.org/emotes/cry_green_1x.png) There is no hard cutoff for lowpoly here, just keep the spirit of it in mind.![green crystal](https://misnina.neocities.org/emotes/cry_green_1x.png) You may not directly link to NSFW things, but can link to the creator's page and tell where to go.![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**##### **Recommended Tags**[OC] [Non-OC] [Tutorial] [Resources] [Question]"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/lowpoly"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+The place to talk about and show off lowpoly works! Discussions about the general spirt of lowpoly, the technical challenges, tips & tricks, and of course showing off work!<br><br>##### **Rules**<br>![green crystal](https://misnina.neocities.org/emotes/cry_green_1x.png) There is no hard cutoff for lowpoly here, just keep the spirit of it in mind.<br><br>![green crystal](https://misnina.neocities.org/emotes/cry_green_1x.png) You may not directly link to NSFW things, but can link to the creator's page and tell where to go.<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**<br><br>##### **Recommended Tags**<br>[OC] [Non-OC] [Tutorial] [Resources] [Question]
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:16:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 17:36:08 |
+| Last Scraped         | 2023-06-16 22:56:19 |

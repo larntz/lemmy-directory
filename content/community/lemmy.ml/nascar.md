@@ -3,7 +3,7 @@ title: "NASCAR "
 name: "nascar"
 description: "A place for those of us to talk about the greatest of ALL motorsports: NASCAR "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nascar"
@@ -54,4 +54,4 @@ A place for those of us to talk about the greatest of ALL motorsports: NASCAR
 |----------------------|---|
 | Published            | 2021-01-25 18:51:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

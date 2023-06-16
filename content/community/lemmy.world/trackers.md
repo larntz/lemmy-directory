@@ -3,19 +3,19 @@ title: "Trackers"
 name: "trackers"
 description: "All things to discuss private trackers and more."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trackers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 51
 posts: 1
 comments: 4
 weight: 1
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ All things to discuss private trackers and more.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 51 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ All things to discuss private trackers and more.
 |----------------------|---|
 | Published            | 2023-06-13 03:38:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

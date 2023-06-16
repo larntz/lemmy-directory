@@ -3,7 +3,7 @@ title: "Pro Wrestling"
 name: "pro_wrestling"
 description: "All things Pro Wrestling.  "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pro_wrestling"
@@ -54,4 +54,4 @@ All things Pro Wrestling. <br>
 |----------------------|---|
 | Published            | 2023-06-02 11:00:43 |
 | Updated              | 2023-06-02 11:18:54 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

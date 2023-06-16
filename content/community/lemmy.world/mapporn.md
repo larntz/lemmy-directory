@@ -3,19 +3,19 @@ title: "MapPorn"
 name: "mapporn"
 description: "Discover Cartographic Marvels and Navigate New Worlds!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mapporn"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 264
+subscribers: 283
 posts: 8
 comments: 13
 weight: 8
 dau: 1
-wau: 8
-mau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discover Cartographic Marvels and Navigate New Worlds!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 264 |
+| Subscribers          | 283 |
 | Posts                | 8  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discover Cartographic Marvels and Navigate New Worlds!
 |----------------------|---|
 | Published            | 2023-06-12 09:56:14 |
 | Updated              | 2023-06-12 11:57:40 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

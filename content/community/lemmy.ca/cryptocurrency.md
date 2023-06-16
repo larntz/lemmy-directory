@@ -3,16 +3,16 @@ title: "cryptocurrency"
 name: "cryptocurrency"
 description: "No posts by bots allowed - prove you're not a bot by having a post history"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cryptocurrency"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
 subscribers: 14
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ No posts by bots allowed - prove you're not a bot by having a post history
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 14 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ No posts by bots allowed - prove you're not a bot by having a post history
 |----------------------|---|
 | Published            | 2022-09-02 10:16:06 |
 | Updated              | 2022-09-02 10:16:51 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

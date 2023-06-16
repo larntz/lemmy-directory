@@ -3,7 +3,7 @@ title: "Gentoo Linux"
 name: "gentoo"
 description: "The Gentoo Linux community for discussions, tips and tricks, and general kernel compiling"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/gentoo"
@@ -54,4 +54,4 @@ The Gentoo Linux community for discussions, tips and tricks, and general kernel 
 |----------------------|---|
 | Published            | 2023-06-15 09:51:25 |
 | Updated              | 2023-06-15 21:41:56 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

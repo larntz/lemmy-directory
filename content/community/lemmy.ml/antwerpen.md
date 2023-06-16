@@ -3,7 +3,7 @@ title: "Antwerpen"
 name: "antwerpen"
 description: "A community about the city of Antwerpen, Belgium"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antwerpen"
@@ -54,4 +54,4 @@ A community about the city of Antwerpen, Belgium
 |----------------------|---|
 | Published            | 2023-05-31 22:02:59 |
 | Updated              | 2023-05-31 22:04:39 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

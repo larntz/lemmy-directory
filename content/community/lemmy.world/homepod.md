@@ -3,7 +3,7 @@ title: "HomePod"
 name: "homepod"
 description: "The home for all things HomePod on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homepod"
@@ -13,9 +13,9 @@ subscribers: 3
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ The home for all things HomePod on LW.<br><br>**Rules:**<br><br>- No NSFW Conten
 | Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ The home for all things HomePod on LW.<br><br>**Rules:**<br><br>- No NSFW Conten
 |----------------------|---|
 | Published            | 2023-06-16 02:28:33 |
 | Updated              | 2023-06-16 02:35:40 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:12 |

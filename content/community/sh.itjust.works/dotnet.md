@@ -3,13 +3,13 @@ title: "C# .NET"
 name: "dotnet"
 description: "C# and .NET discussion"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/dotnet"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ C# and .NET discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ C# and .NET discussion
 |----------------------|---|
 | Published            | 2023-06-12 20:47:44 |
 | Updated              | 2023-06-12 20:50:14 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

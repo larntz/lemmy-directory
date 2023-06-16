@@ -3,7 +3,7 @@ title: "ShittyGameDetails"
 name: "shittygamedetails"
 description: "From the creator of r/ShittyGameDetails. Discover a place where you can explore and appreciate the intricacies of your favorite games with breathtaking attention to detail."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittygamedetails"
@@ -54,4 +54,4 @@ From the creator of r/ShittyGameDetails. Discover a place where you can explore 
 |----------------------|---|
 | Published            | 2023-06-13 15:07:49 |
 | Updated              | 2023-06-13 16:15:17 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

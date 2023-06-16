@@ -3,7 +3,7 @@ title: "MelonSense"
 name: "melonsense"
 description: "Welcome to melonsense**RULES___**1: No Cursing2: No Hate Speech/Racisim Be nice3: Be True to you no filters4: have funalso you dont have to but please join my matrix element room https://matrix.to/#/#M3elonSens3:matrix.org"
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/melonsense"
@@ -54,4 +54,4 @@ Welcome to melonsense<br><br>**RULES___**<br><br>1: No Cursing<br><br>2: No Hate
 |----------------------|---|
 | Published            | 2021-08-23 01:26:18 |
 | Updated              | 2021-08-23 16:55:17 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:22 |

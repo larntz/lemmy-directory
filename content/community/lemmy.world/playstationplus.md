@@ -3,13 +3,13 @@ title: "PlayStation Plus"
 name: "playstationplus"
 description: "Hoping to recreate the PS+ community on Lemmy. I'm hoping this can be a fun place to discuss upcoming PS+ titles or highlight other deals that may interest PS+ subscribers. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/playstationplus"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Hoping to recreate the PS+ community on Lemmy. I'm hoping this can be a fun plac
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hoping to recreate the PS+ community on Lemmy. I'm hoping this can be a fun plac
 |----------------------|---|
 | Published            | 2023-06-14 03:19:46 |
 | Updated              | 2023-06-14 03:22:42 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

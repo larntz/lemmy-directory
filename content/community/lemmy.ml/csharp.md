@@ -3,15 +3,15 @@ title: "C# (CSharp)"
 name: "csharp"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/csharp"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 148
+subscribers: 151
 posts: 25
-comments: 11
+comments: 12
 weight: 25
 dau: 2
 wau: 4
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 148 |
+| Subscribers          | 151 |
 | Posts                | 25  |
-| Comments             | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-08-19 09:28:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

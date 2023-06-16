@@ -3,7 +3,7 @@ title: "CBRadio"
 name: "cbradio"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/cbradio"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 12:45:13 |
 | Updated              | 2023-06-15 12:54:23 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

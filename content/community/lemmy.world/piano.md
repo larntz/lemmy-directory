@@ -3,19 +3,19 @@ title: "Piano And Keyboards"
 name: "piano"
 description: "Post your piano/keys stuff here. Ripping some Chopin, Beethoven, Bartok, or whoever? Love it. Just got a new Hammond and rotary speaker and want to show it off? Can't get enough of it. Got a band with a really awesome keyboardist, and want to show them off? Gimme it. Stuck in the orchestra pit with nothing to do for three hours waiting for your one moment of celesta glory on The Magic Flute? I feel your pain. Just discovered Oscar Peterson and want to share your astonishment? Fam, same. Learning piano and got noob questions? I'm here for it. Got an original DX7 and want to show us all how to program new voices? I've actually never figured that out, can you teach me too?Rules:1. Don't be a jerk. 2. Self-promotion is encouraged, but try to also post stuff that isn't you.3. Be cool about giving and receiving feedback. When in doubt, see r1.4. Having fun is mandatory."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/piano"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Post your piano/keys stuff here. Ripping some Chopin, Beethoven, Bartok, or whoe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post your piano/keys stuff here. Ripping some Chopin, Beethoven, Bartok, or whoe
 |----------------------|---|
 | Published            | 2023-06-12 02:00:24 |
 | Updated              | 2023-06-14 22:56:54 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

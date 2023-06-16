@@ -3,7 +3,7 @@ title: "GangWeed"
 name: "gangweed"
 description: "We live in a society.Slonk gang weed every day.Trans rights are human rights.Bottom text."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gangweed"
@@ -54,4 +54,4 @@ We live in a society.<br><br>Slonk gang weed every day.<br><br>Trans rights are 
 |----------------------|---|
 | Published            | 2023-06-13 03:58:33 |
 | Updated              | 2023-06-13 04:00:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:18 |

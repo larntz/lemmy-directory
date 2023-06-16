@@ -3,7 +3,7 @@ title: "Nepal"
 name: "nepal"
 description: "All About Nepal"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nepal"
@@ -54,4 +54,4 @@ All About Nepal
 |----------------------|---|
 | Published            | 2023-06-12 11:58:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

@@ -3,13 +3,13 @@ title: "The Swift Programming Language"
 name: "swift"
 description: "Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.https://swift.org/"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swift"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 49
+subscribers: 50
 posts: 4
 comments: 2
 weight: 4
@@ -41,7 +41,7 @@ Swift is a general-purpose programming language built using a modern approach to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
+| Subscribers          | 50 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Swift is a general-purpose programming language built using a modern approach to
 |----------------------|---|
 | Published            | 2020-05-24 00:22:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

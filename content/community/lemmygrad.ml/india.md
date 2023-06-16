@@ -3,7 +3,7 @@ title: "India: Lal Salaam"
 name: "india"
 description: "A community for news and discussion regarding in India."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/india"
@@ -54,4 +54,4 @@ A community for news and discussion regarding in India.
 |----------------------|---|
 | Published            | 2020-07-06 06:53:05 |
 | Updated              | 2020-07-06 06:53:44 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

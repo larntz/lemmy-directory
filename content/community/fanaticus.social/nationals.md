@@ -3,7 +3,7 @@ title: "Nationals"
 name: "nationals"
 description: "Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nationals"
@@ -54,4 +54,4 @@ Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)<br><br># Looking
 |----------------------|---|
 | Published            | 2023-06-09 17:21:28 |
 | Updated              | 2023-06-12 18:45:11 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

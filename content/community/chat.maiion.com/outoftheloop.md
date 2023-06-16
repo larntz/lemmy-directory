@@ -3,13 +3,13 @@ title: "c/OutOfTheLoop"
 name: "outoftheloop"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/outoftheloop"
 host: chat.maiion.com
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 06:04:47 |
 | Updated              | 2023-06-16 04:21:30 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

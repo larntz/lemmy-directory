@@ -3,7 +3,7 @@ title: "Trees "
 name: "trees"
 description: "A Marijuana lounge for r/trees refugees "
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/trees"
@@ -54,4 +54,4 @@ A Marijuana lounge for r/trees refugees
 |----------------------|---|
 | Published            | 2023-06-12 22:41:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

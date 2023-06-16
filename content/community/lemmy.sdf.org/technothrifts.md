@@ -3,7 +3,7 @@ title: "TechnoThrifts"
 name: "technothrifts"
 description: "A place to share your DOS dumpster dives. Your giga-garage sale finds. Your recycling center reboots. Your..# TechnoThrifts"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/technothrifts"
@@ -54,4 +54,4 @@ A place to share your DOS dumpster dives. Your giga-garage sale finds. Your recy
 |----------------------|---|
 | Published            | 2023-06-16 02:14:11 |
 | Updated              | 2023-06-16 02:30:19 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

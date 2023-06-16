@@ -3,16 +3,16 @@ title: "Ultimate Fighting Championship"
 name: "ufc"
 description: "A place for talking about the UFC- Looking for Mods!- Post any fight outcome content proceeding with SPOILER:- No racism, homophobia, hate speech, etc."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ufc"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
 subscribers: 11
-posts: 15
+posts: 16
 comments: 0
-weight: 15
+weight: 16
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ A place for talking about the UFC<br>- Looking for Mods!<br>- Post any fight out
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 11 |
-| Posts                | 15  |
+| Posts                | 16  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A place for talking about the UFC<br>- Looking for Mods!<br>- Post any fight out
 |----------------------|---|
 | Published            | 2023-06-13 02:40:49 |
 | Updated              | 2023-06-13 02:47:55 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

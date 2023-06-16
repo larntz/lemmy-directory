@@ -3,19 +3,19 @@ title: "Porn"
 name: "porn"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/porn"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 1429
-posts: 37
-comments: 73
-weight: 37
-dau: 14
-wau: 36
-mau: 36
+subscribers: 1503
+posts: 41
+comments: 75
+weight: 41
+dau: 11
+wau: 40
+mau: 40
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1429 |
-| Posts                | 37  |
-| Comments             | 73  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 36  |
-| Monthly Active Users | 36  |
+| Subscribers          | 1503 |
+| Posts                | 41  |
+| Comments             | 75  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 22:58:45 |
 | Updated              | 2023-06-10 23:08:11 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

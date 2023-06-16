@@ -3,13 +3,13 @@ title: "Buddhism"
 name: "buddhism"
 description: "A communist for Buddhism"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buddhism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 75
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ A communist for Buddhism
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 75 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A communist for Buddhism
 |----------------------|---|
 | Published            | 2023-06-11 01:51:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

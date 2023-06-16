@@ -3,19 +3,19 @@ title: "Monster Hunter"
 name: "monsterhunter"
 description: "The Go-to SubLemmy for Monster Hunter games by Capcom"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/monsterhunter"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 82
 posts: 10
 comments: 25
 weight: 10
-dau: 5
-wau: 11
-mau: 12
+dau: 2
+wau: 13
+mau: 15
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The Go-to SubLemmy for Monster Hunter games by Capcom
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 82 |
 | Posts                | 10  |
 | Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 12  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Go-to SubLemmy for Monster Hunter games by Capcom
 |----------------------|---|
 | Published            | 2023-06-07 20:48:31 |
 | Updated              | 2023-06-07 21:38:40 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

@@ -3,13 +3,13 @@ title: "Animal Crossing"
 name: "animalcrossing"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animalcrossing"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 23
 posts: 5
 comments: 5
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 23 |
 | Posts                | 5  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 11:04:17 |
 | Updated              | 2021-02-15 01:35:38 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:34 |

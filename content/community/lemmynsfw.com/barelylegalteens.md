@@ -3,13 +3,13 @@ title: "Barely Legal Teens"
 name: "barelylegalteens"
 description: "Alternative to r/barelylegalteens. Posts must feature barely legal teens. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/barelylegalteens"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 172
+subscribers: 195
 posts: 12
 comments: 0
 weight: 12
@@ -43,7 +43,7 @@ Alternative to r/barelylegalteens. Posts must feature barely legal teens. Do not
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 172 |
+| Subscribers          | 195 |
 | Posts                | 12  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Alternative to r/barelylegalteens. Posts must feature barely legal teens. Do not
 |----------------------|---|
 | Published            | 2023-06-14 10:45:26 |
 | Updated              | 2023-06-15 00:18:03 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

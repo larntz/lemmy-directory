@@ -3,15 +3,15 @@ title: "The Bitcoin Lightning Network"
 name: "lightningnetwork"
 description: "A place for open discussion and dialogue on the Bitcoin Lightning Network."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lightningnetwork"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 6
-comments: 0
+comments: 1
 weight: 6
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ A place for open discussion and dialogue on the Bitcoin Lightning Network.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 6  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A place for open discussion and dialogue on the Bitcoin Lightning Network.
 |----------------------|---|
 | Published            | 2020-07-07 19:11:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

@@ -3,7 +3,7 @@ title: "/c/Truckers - the professional driver's breakroom."
 name: "truckers"
 description: "A community for all that drive as a career.Rules:1. Don’t come here to complain about some common trucker behaviour. We probably hate it as much as you.2. Be respectful."
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/truckers"
@@ -54,4 +54,4 @@ A community for all that drive as a career.<br><br>Rules:<br><br>1. Don’t come
 |----------------------|---|
 | Published            | 2023-06-14 23:25:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

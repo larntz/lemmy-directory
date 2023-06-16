@@ -3,19 +3,19 @@ title: "Sysadmin"
 name: "sysadmin"
 description: "A community dedicated to the profession of IT Systems Administration"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/sysadmin"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 178
+subscribers: 195
 posts: 2
-comments: 27
+comments: 28
 weight: 2
-dau: 5
-wau: 18
-mau: 18
+dau: 2
+wau: 19
+mau: 19
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to the profession of IT Systems Administration
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 178 |
+| Subscribers          | 195 |
 | Posts                | 2  |
-| Comments             | 27  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 18  |
+| Comments             | 28  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to the profession of IT Systems Administration
 |----------------------|---|
 | Published            | 2023-06-10 08:29:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

@@ -3,15 +3,15 @@ title: "Aquariums"
 name: "aquariums"
 description: "The fediverse needs a place for aquarists! Saltwater, freshwater, breeders, fishless aquascapes, ponds, puddles, and bathtubs. If it's full of water and you're proud of it, we'd love to see it. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/aquariums"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 63
 posts: 3
-comments: 16
+comments: 17
 weight: 3
 dau: 3
 wau: 7
@@ -41,9 +41,9 @@ The fediverse needs a place for aquarists! Saltwater, freshwater, breeders, fish
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 63 |
 | Posts                | 3  |
-| Comments             | 16  |
+| Comments             | 17  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 10  |
@@ -53,5 +53,5 @@ The fediverse needs a place for aquarists! Saltwater, freshwater, breeders, fish
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-03 17:11:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Updated              | 2023-06-16 19:31:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

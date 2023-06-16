@@ -3,7 +3,7 @@ title: "Live Music"
 name: "livemusic"
 description: "Share your favourite live performances. "
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/livemusic"
@@ -54,4 +54,4 @@ Share your favourite live performances.
 |----------------------|---|
 | Published            | 2023-06-15 07:22:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

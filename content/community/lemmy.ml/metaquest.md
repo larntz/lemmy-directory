@@ -3,13 +3,13 @@ title: "Meta Quest"
 name: "metaquest"
 description: "Welcome!Welcome to /c/MetaQuest the place to discuss the Meta/Oculus Quest, Quest 2, Quest 3 and Quest Prro"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metaquest"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Welcome!<br><br>Welcome to /c/MetaQuest the place to discuss the Meta/Oculus Que
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome!<br><br>Welcome to /c/MetaQuest the place to discuss the Meta/Oculus Que
 |----------------------|---|
 | Published            | 2023-06-05 12:24:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

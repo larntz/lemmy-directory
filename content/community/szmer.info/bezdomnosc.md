@@ -3,7 +3,7 @@ title: "kryzys bezdomności"
 name: "bezdomnosc"
 description: "informacje o programach, newsy ze świata, takie inne rzeczy też można "
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/bezdomnosc"
@@ -54,4 +54,4 @@ informacje o programach, newsy ze świata, takie inne rzeczy też można
 |----------------------|---|
 | Published            | 2020-10-13 15:58:37 |
 | Updated              | 2021-03-11 17:27:01 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -1,21 +1,21 @@
 ---
 title: "Neurodivergence" 
 name: "neurodivergence"
-description: "All things neurodivergent and relating to the broader neurodivergent community (and *communities*). See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [LGBTQ+](https://beehaw.org/c/lgbtq_plus), [Disability](https://beehaw.org/c/disability), and [POC](https://beehaw.org/c/poc)---Other federated communities:[Autism@lemmy.world](https://beehaw.org/c/autism@lemmy.world)---This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)."
+description: "All things neurodivergent and relating to the broader neurodivergent community (and *communities*). See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [LGBTQ+](https://beehaw.org/c/lgbtq_plus), [Disability](https://beehaw.org/c/disability), and [POC](https://beehaw.org/c/poc)---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/neurodivergence"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 1436
-posts: 31
-comments: 359
-weight: 31
-dau: 11
-wau: 115
-mau: 148
+subscribers: 1489
+posts: 35
+comments: 387
+weight: 35
+dau: 12
+wau: 106
+mau: 149
 instances:
 - "beehaw_org"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-All things neurodivergent and relating to the broader neurodivergent community (and *communities*). <br><br>See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [LGBTQ+](https://beehaw.org/c/lgbtq_plus), [Disability](https://beehaw.org/c/disability), and [POC](https://beehaw.org/c/poc)<br><br>---<br><br>Other federated communities:<br><br>[Autism@lemmy.world](https://beehaw.org/c/autism@lemmy.world)<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+All things neurodivergent and relating to the broader neurodivergent community (and *communities*). <br><br>See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [LGBTQ+](https://beehaw.org/c/lgbtq_plus), [Disability](https://beehaw.org/c/disability), and [POC](https://beehaw.org/c/poc)<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 </blockquote>
 
 
@@ -41,17 +41,17 @@ All things neurodivergent and relating to the broader neurodivergent community (
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1436 |
-| Posts                | 31  |
-| Comments             | 359  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 115  |
-| Monthly Active Users | 148  |
+| Subscribers          | 1489 |
+| Posts                | 35  |
+| Comments             | 387  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 106  |
+| Monthly Active Users | 149  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-06 23:14:26 |
-| Updated              | 2023-06-13 22:50:12 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Updated              | 2023-06-16 19:35:57 |
+| Last Scraped         | 2023-06-16 22:56:27 |

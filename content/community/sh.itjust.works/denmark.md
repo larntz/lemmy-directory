@@ -3,13 +3,13 @@ title: "Denmark - Community for danes and people interested in danish culture"
 name: "denmark"
 description: "Et ny start på et nyt og bedre dansk fælleskab"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/denmark"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Et ny start på et nyt og bedre dansk fælleskab
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Et ny start på et nyt og bedre dansk fælleskab
 |----------------------|---|
 | Published            | 2023-06-12 11:49:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

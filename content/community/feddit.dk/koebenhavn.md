@@ -3,13 +3,13 @@ title: "København"
 name: "koebenhavn"
 description: "For indhold relateret til Danmarks hovedstad."
 type: community
-date: "2023-06-16 11:05:52"
+date: "2023-06-16 22:55:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/koebenhavn"
 host: feddit.dk
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 58
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ For indhold relateret til Danmarks hovedstad.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 58 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For indhold relateret til Danmarks hovedstad.
 |----------------------|---|
 | Published            | 2023-04-29 00:24:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:52 |
+| Last Scraped         | 2023-06-16 22:55:47 |

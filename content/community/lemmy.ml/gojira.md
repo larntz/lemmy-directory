@@ -3,13 +3,13 @@ title: "Gojira ゴジラ"
 name: "gojira"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gojira"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-08-31 16:02:06 |
 | Updated              | 2021-08-31 16:08:30 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

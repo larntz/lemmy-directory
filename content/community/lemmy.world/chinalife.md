@@ -3,7 +3,7 @@ title: "China Life"
 name: "chinalife"
 description: "A community of people living or planning to live in China. Discuss about everyday life, leisure, travelling, etc. Be respectful of other users ,and Chinese people and culture."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chinalife"
@@ -54,4 +54,4 @@ A community of people living or planning to live in China. Discuss about everyda
 |----------------------|---|
 | Published            | 2023-06-12 02:30:54 |
 | Updated              | 2023-06-12 02:38:23 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

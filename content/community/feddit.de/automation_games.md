@@ -3,19 +3,19 @@ title: "Automation and Factory Builder Games"
 name: "automation_games"
 description: "A place to talk and share content about automation and factory builder games. ::: spoiler icon attributionFactory icons created by vectorsmarket15 - Flaticonhttps://www.flaticon.com/free-icons/factory:::"
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/automation_games"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 213
-posts: 17
-comments: 21
-weight: 17
-dau: 4
-wau: 22
-mau: 22
+subscribers: 250
+posts: 20
+comments: 28
+weight: 20
+dau: 5
+wau: 25
+mau: 25
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ A place to talk and share content about automation and factory builder games. <b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 213 |
-| Posts                | 17  |
-| Comments             | 21  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
+| Subscribers          | 250 |
+| Posts                | 20  |
+| Comments             | 28  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to talk and share content about automation and factory builder games. <b
 |----------------------|---|
 | Published            | 2023-06-06 00:17:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-16 22:56:38 |

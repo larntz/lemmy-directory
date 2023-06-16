@@ -3,19 +3,19 @@ title: "Gaming"
 name: "gaming"
 description: "Lemmy.zip Gaming"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/gaming"
 host: lemmy.zip
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 69
 posts: 3
-comments: 21
+comments: 22
 weight: 3
 dau: 2
-wau: 21
-mau: 21
+wau: 22
+mau: 22
 instances:
 - "lemmy_zip"
 tags: 
@@ -41,12 +41,12 @@ Lemmy.zip Gaming
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 69 |
 | Posts                | 3  |
-| Comments             | 21  |
+| Comments             | 22  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Weekly Active Users  | 22  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy.zip Gaming
 |----------------------|---|
 | Published            | 2023-06-10 11:17:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:13 |

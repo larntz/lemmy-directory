@@ -3,7 +3,7 @@ title: "forsen"
 name: "forsen"
 description: "forsen."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forsen"
@@ -14,8 +14,8 @@ posts: 2
 comments: 2
 weight: 2
 dau: 0
-wau: 0
-mau: 0
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ forsen.
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ forsen.
 |----------------------|---|
 | Published            | 2023-06-10 12:12:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

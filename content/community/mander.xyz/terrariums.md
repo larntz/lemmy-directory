@@ -3,13 +3,13 @@ title: "Terrariums"
 name: "terrariums"
 description: ""
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/terrariums"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 31
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 31 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-09-08 19:41:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

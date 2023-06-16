@@ -3,15 +3,15 @@ title: "flightsim"
 name: "flightsim"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/flightsim"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 126
+subscribers: 133
 posts: 18
-comments: 52
+comments: 53
 weight: 18
 dau: 5
 wau: 21
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 126 |
+| Subscribers          | 133 |
 | Posts                | 18  |
-| Comments             | 52  |
+| Comments             | 53  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 21  |
 | Monthly Active Users | 22  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 09:08:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

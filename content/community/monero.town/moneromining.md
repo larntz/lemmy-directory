@@ -3,19 +3,19 @@ title: "moneromining"
 name: "moneromining"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/moneromining"
 host: monero.town
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 3
-comments: 9
+comments: 14
 weight: 3
-dau: 5
-wau: 5
-mau: 5
+dau: 4
+wau: 7
+mau: 7
 instances:
 - "monero_town"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 3  |
-| Comments             | 9  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 14  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 15:12:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

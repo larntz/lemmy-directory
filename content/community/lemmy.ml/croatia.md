@@ -3,13 +3,13 @@ title: "Croatia / Hrvatska"
 name: "croatia"
 description: "The largest Croatia community on the fediverse! Feel free to post in English or Croatian!Pravila: https://r.nf/r/croatia/wiki/subreddit_rules (red*it kopija)Rules: https://r.nf/r/croatia/wiki/subreddit_rules#wiki_english_version (red*it copy)"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/croatia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The largest Croatia community on the fediverse! Feel free to post in English or 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The largest Croatia community on the fediverse! Feel free to post in English or 
 |----------------------|---|
 | Published            | 2020-06-07 13:24:55 |
 | Updated              | 2023-06-11 20:40:53 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

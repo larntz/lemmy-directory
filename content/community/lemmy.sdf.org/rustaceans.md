@@ -3,13 +3,13 @@ title: "Rust users discussions"
 name: "rustaceans"
 description: "For those of us that use this fairly new fast and memory-safe multi-platform language"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/rustaceans"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For those of us that use this fairly new fast and memory-safe multi-platform lan
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For those of us that use this fairly new fast and memory-safe multi-platform lan
 |----------------------|---|
 | Published            | 2023-06-12 15:16:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

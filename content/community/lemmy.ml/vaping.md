@@ -3,7 +3,7 @@ title: "Vaping"
 name: "vaping"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vaping"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-29 08:51:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

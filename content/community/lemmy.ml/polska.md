@@ -3,13 +3,13 @@ title: "Polska"
 name: "polska"
 description: "Inne polskie społeczności:  - [c/nowiny](https://dev.lemmy.ml/c/nowiny)Regiony:  - [c/lodz](https://dev.lemmy.ml/c/lodz)"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polska"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 21
 posts: 50
 comments: 0
 weight: 50
@@ -41,7 +41,7 @@ Inne polskie społeczności:  <br>- [c/nowiny](https://dev.lemmy.ml/c/nowiny)<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 21 |
 | Posts                | 50  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Inne polskie społeczności:  <br>- [c/nowiny](https://dev.lemmy.ml/c/nowiny)<br
 |----------------------|---|
 | Published            | 2020-02-22 16:21:39 |
 | Updated              | 2021-02-14 09:44:58 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

@@ -3,19 +3,19 @@ title: "Fanfiction: Writings about existing franchises"
 name: "fanfiction"
 description: "This is a community for fanfiction of all varieties.Common Fanfiction Sites:https://fanfiction.net/https://archiveofourown.org/    Rules:Don't harass others.  Attempt to be polite.  Mark your post as NSFW if it includes NSFW material. "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fanfiction"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 40
 posts: 5
 comments: 1
 weight: 5
 dau: 1
 wau: 2
-mau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a community for fanfiction of all varieties.<br>Common Fanfiction Sites:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 40 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a community for fanfiction of all varieties.<br>Common Fanfiction Sites:
 |----------------------|---|
 | Published            | 2020-07-09 18:15:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

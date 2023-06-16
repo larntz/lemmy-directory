@@ -3,16 +3,16 @@ title: "Ukraine"
 name: "ukraine"
 description: "News and discussion related to Ukraine"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ukraine"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 650
-posts: 128
-comments: 130
-weight: 128
+subscribers: 721
+posts: 138
+comments: 156
+weight: 138
 dau: 23
 wau: 42
 mau: 46
@@ -41,9 +41,9 @@ News and discussion related to Ukraine
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 650 |
-| Posts                | 128  |
-| Comments             | 130  |
+| Subscribers          | 721 |
+| Posts                | 138  |
+| Comments             | 156  |
 | Daily Active Users   | 23  |
 | Weekly Active Users  | 42  |
 | Monthly Active Users | 46  |
@@ -54,4 +54,4 @@ News and discussion related to Ukraine
 |----------------------|---|
 | Published            | 2022-08-21 16:04:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,7 +3,7 @@ title: "Writing"
 name: "writing"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/writing"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-12-04 01:07:53 |
 | Updated              | 2020-12-04 01:07:59 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:30 |

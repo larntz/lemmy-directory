@@ -3,13 +3,13 @@ title: "Cloud Gaming & Game Streaming"
 name: "cloudgaming"
 description: "All topics related to Game Streaming are welcome including Stadia, GeForce NOW, Steam Link and so on."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cloudgaming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 31
 posts: 5
 comments: 9
 weight: 5
@@ -41,7 +41,7 @@ All topics related to Game Streaming are welcome including Stadia, GeForce NOW, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 31 |
 | Posts                | 5  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All topics related to Game Streaming are welcome including Stadia, GeForce NOW, 
 |----------------------|---|
 | Published            | 2021-05-26 12:19:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

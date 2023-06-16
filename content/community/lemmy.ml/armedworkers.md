@@ -3,7 +3,7 @@ title: "Armed Workers"
 name: "armedworkers"
 description: "Working Class Self Defense"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/armedworkers"
@@ -54,4 +54,4 @@ Working Class Self Defense<br>
 |----------------------|---|
 | Published            | 2021-09-13 01:32:46 |
 | Updated              | 2022-08-27 03:00:56 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

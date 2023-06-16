@@ -1,9 +1,9 @@
 ---
-title: "inspiring" 
+title: "Inspiring" 
 name: "inspiring"
-description: "Description not available."
+description: "Discovering Stories, Ideas, and Moments That Ignite Your Passion"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/inspiring"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/inspiring on lemmy.world
+# /c/Inspiring on lemmy.world
 
 [[home](/)]
 [[/c/inspiring 🌎](https://lemmy.world/c/inspiring)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Discovering Stories, Ideas, and Moments That Ignite Your Passion
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 12:51:04 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Updated              | 2023-06-16 11:40:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

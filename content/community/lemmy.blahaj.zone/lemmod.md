@@ -3,7 +3,7 @@ title: "lemmod"
 name: "lemmod"
 description: "Testing area / potential discussion/support forum for [@lemmod@lemmy.blahaj.zone](https://lemmy.blahaj.zone/u/lemmod) "
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lemmod"
@@ -54,4 +54,4 @@ Testing area / potential discussion/support forum for [@lemmod@lemmy.blahaj.zone
 |----------------------|---|
 | Published            | 2023-06-12 19:56:29 |
 | Updated              | 2023-06-12 22:41:46 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

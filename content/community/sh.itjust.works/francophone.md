@@ -3,13 +3,13 @@ title: "Francophone"
 name: "francophone"
 description: "All instance rules apply :-    Be respectful-    No bigotry-    No Ads or Spamming-    No pornographyEnglish allowed, but try to speak French, no one will judge you."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/francophone"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 119
 posts: 4
 comments: 44
 weight: 4
@@ -41,7 +41,7 @@ All instance rules apply :<br>-    Be respectful<br>-    No bigotry<br>-    No A
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 119 |
 | Posts                | 4  |
 | Comments             | 44  |
 | Daily Active Users   | 7  |
@@ -54,4 +54,4 @@ All instance rules apply :<br>-    Be respectful<br>-    No bigotry<br>-    No A
 |----------------------|---|
 | Published            | 2023-06-13 08:15:50 |
 | Updated              | 2023-06-13 08:56:31 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

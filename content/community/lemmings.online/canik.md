@@ -3,7 +3,7 @@ title: "Canik"
 name: "canik"
 description: "Everything Canik firearms related"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/canik"
@@ -54,4 +54,4 @@ Everything Canik firearms related
 |----------------------|---|
 | Published            | 2023-06-14 18:36:11 |
 | Updated              | 2023-06-14 18:37:37 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

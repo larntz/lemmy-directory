@@ -3,19 +3,19 @@ title: "3Dporn"
 name: "3dporn"
 description: "All porn 3D.**Rules:**- follow instance-wide rules- be nice- keep content on topic - no real photos/videos, only art- source the content"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/3dporn"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 48
-posts: 10
+subscribers: 68
+posts: 11
 comments: 0
-weight: 10
-dau: 2
-wau: 2
-mau: 2
+weight: 11
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ All porn 3D.<br><br>**Rules:**<br><br>- follow instance-wide rules<br>- be nice<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 10  |
+| Subscribers          | 68 |
+| Posts                | 11  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ All porn 3D.<br><br>**Rules:**<br><br>- follow instance-wide rules<br>- be nice<
 |----------------------|---|
 | Published            | 2023-06-14 10:39:19 |
 | Updated              | 2023-06-14 11:35:25 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

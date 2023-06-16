@@ -3,7 +3,7 @@ title: "Satisfactory"
 name: "satisfactory"
 description: "The game, Satisfactory.  Mine, and many others, addiction. If you want to be a mod of this community, please let me know. "
 type: community
-date: "2023-06-16 11:06:07"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy2.addictmud.org/c/satisfactory"
@@ -54,4 +54,4 @@ The game, Satisfactory.  Mine, and many others, addiction. <br><br>If you want t
 |----------------------|---|
 | Published            | 2023-06-10 01:55:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:07 |
+| Last Scraped         | 2023-06-16 22:56:09 |

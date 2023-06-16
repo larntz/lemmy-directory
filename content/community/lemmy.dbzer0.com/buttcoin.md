@@ -1,19 +1,19 @@
 ---
 title: "Buttcoin" 
 name: "buttcoin"
-description: "failover for [Buttcoin](https://www.reddit.com/r/Buttcoin)This is a community making fun of cryptocurrencies and blockchain, NFT and related technologies."
+description: "This community was initially created as a failover for [Buttcoin](https://www.reddit.com/r/Buttcoin). However the mods created instead a kbin instance which you can [find here](/c/Buttcoin@kbin.social)As such, I'm disabling this community in order to provide a centralized location."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/buttcoin"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
 subscribers: 19
-posts: 3
-comments: 3
-weight: 3
-dau: 4
+posts: 4
+comments: 7
+weight: 4
+dau: 3
 wau: 4
 mau: 4
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-failover for [Buttcoin](https://www.reddit.com/r/Buttcoin)<br><br>This is a community making fun of cryptocurrencies and blockchain, NFT and related technologies.
+This community was initially created as a failover for [Buttcoin](https://www.reddit.com/r/Buttcoin). However the mods created instead a kbin instance which you can [find here](/c/Buttcoin@kbin.social)<br><br>As such, I'm disabling this community in order to provide a centralized location.
 </blockquote>
 
 
@@ -42,9 +42,9 @@ failover for [Buttcoin](https://www.reddit.com/r/Buttcoin)<br><br>This is a comm
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 19 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 4  |
+| Posts                | 4  |
+| Comments             | 7  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -53,5 +53,5 @@ failover for [Buttcoin](https://www.reddit.com/r/Buttcoin)<br><br>This is a comm
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 01:55:02 |
-| Updated              | 2023-06-15 12:57:57 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Updated              | 2023-06-16 15:27:26 |
+| Last Scraped         | 2023-06-16 22:56:14 |

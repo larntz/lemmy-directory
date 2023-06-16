@@ -3,19 +3,19 @@ title: "Spiderman"
 name: "spiderverse"
 description: "A sub dedicated to Spiderman!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spiderverse"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 20
 posts: 3
 comments: 10
 weight: 3
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A sub dedicated to Spiderman!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 20 |
 | Posts                | 3  |
 | Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A sub dedicated to Spiderman!
 |----------------------|---|
 | Published            | 2023-06-12 21:44:58 |
 | Updated              | 2023-06-16 03:01:51 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

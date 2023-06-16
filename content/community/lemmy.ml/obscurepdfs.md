@@ -3,7 +3,7 @@ title: "Esoteric Essays"
 name: "obscurepdfs"
 description: "Obscure Academic EssaysRules: Only post direct links to long essays about esoteric topics written with academic rigor"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/obscurepdfs"
@@ -13,9 +13,9 @@ subscribers: 1
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ Obscure Academic Essays<br><br>Rules: <br><br>Only post direct links to long ess
 | Subscribers          | 1 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Obscure Academic Essays<br><br>Rules: <br><br>Only post direct links to long ess
 |----------------------|---|
 | Published            | 2023-06-14 21:10:07 |
 | Updated              | 2023-06-14 21:18:44 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

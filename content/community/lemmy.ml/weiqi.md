@@ -3,7 +3,7 @@ title: "Go/Weiqi/Baduk"
 name: "weiqi"
 description: "Go, as it's commonly known in English and Japanese, is an ancient board game of strategy common all over the world.https://senseis.xmp.net/https://www.gokgs.com/https://www.online-go.com/[#weiqi:matrix.org](https://matrix.to/#/!TWgKkdSurDRgwswsEl:matrix.org?via=matrix.org)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weiqi"
@@ -54,4 +54,4 @@ Go, as it's commonly known in English and Japanese, is an ancient board game of 
 |----------------------|---|
 | Published            | 2021-02-27 22:48:00 |
 | Updated              | 2021-03-12 03:23:04 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

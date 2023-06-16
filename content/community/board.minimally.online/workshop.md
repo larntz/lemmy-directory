@@ -3,7 +3,7 @@ title: "Workshop"
 name: "workshop"
 description: "Share what you're hacking, building, designing..."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/workshop"
@@ -54,4 +54,4 @@ Share what you're hacking, building, designing...
 |----------------------|---|
 | Published            | 2023-06-11 04:44:39 |
 | Updated              | 2023-06-11 05:04:34 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

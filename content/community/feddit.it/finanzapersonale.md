@@ -3,19 +3,19 @@ title: "Finanza personale"
 name: "finanzapersonale"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/finanzapersonale"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 41
 posts: 3
-comments: 10
+comments: 17
 weight: 3
-dau: 3
-wau: 3
-mau: 3
+dau: 12
+wau: 14
+mau: 14
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 41 |
 | Posts                | 3  |
-| Comments             | 10  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 17  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 12:09:39 |
 | Updated              | 2023-06-16 09:57:30 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

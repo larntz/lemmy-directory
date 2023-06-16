@@ -3,13 +3,13 @@ title: "/c/showerthoughts"
 name: "showerthoughts"
 description: "A community for sharing those miniature epiphanies you have that highlight the oddities within the familiar."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/showerthoughts"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 397
+subscribers: 400
 posts: 22
 comments: 76
 weight: 22
@@ -41,7 +41,7 @@ A community for sharing those miniature epiphanies you have that highlight the o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 397 |
+| Subscribers          | 400 |
 | Posts                | 22  |
 | Comments             | 76  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for sharing those miniature epiphanies you have that highlight the o
 |----------------------|---|
 | Published            | 2020-02-18 01:20:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:29 |

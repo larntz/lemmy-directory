@@ -3,16 +3,16 @@ title: "Austria"
 name: "austria"
 description: "Alles über Österreich"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/austria"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 226
-posts: 34
-comments: 167
-weight: 34
+subscribers: 244
+posts: 38
+comments: 176
+weight: 38
 dau: 26
 wau: 61
 mau: 64
@@ -41,9 +41,9 @@ Alles über Österreich
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 226 |
-| Posts                | 34  |
-| Comments             | 167  |
+| Subscribers          | 244 |
+| Posts                | 38  |
+| Comments             | 176  |
 | Daily Active Users   | 26  |
 | Weekly Active Users  | 61  |
 | Monthly Active Users | 64  |
@@ -54,4 +54,4 @@ Alles über Österreich
 |----------------------|---|
 | Published            | 2023-06-01 20:41:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

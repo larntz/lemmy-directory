@@ -3,7 +3,7 @@ title: "LLM"
 name: "llm"
 description: "A large language model (LLM) is a language model consisting of a neural network with many parameters (typically billions of weights or more), trained on large quantities of unlabeled text using self-supervised learning or semi-supervised learning. LLMs emerged around 2018 and perform well at a wide variety of tasks."
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jtmn.dev/c/llm"
@@ -54,4 +54,4 @@ A large language model (LLM) is a language model consisting of a neural network 
 |----------------------|---|
 | Published            | 2023-06-13 09:37:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

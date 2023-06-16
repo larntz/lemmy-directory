@@ -3,17 +3,17 @@ title: "Biomedical Science"
 name: "biomed"
 description: "A community for education on biological science."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/biomed"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 5
 posts: 1
 comments: 9
 weight: 1
-dau: 5
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ A community for education on biological science.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 9  |
-| Daily Active Users   | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ A community for education on biological science.
 |----------------------|---|
 | Published            | 2023-06-15 16:49:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:07 |

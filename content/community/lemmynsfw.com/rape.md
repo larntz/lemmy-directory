@@ -3,13 +3,13 @@ title: "Rape"
 name: "rape"
 description: "Alternative to r/rapefantasy and related subs. Posts must feature fantasy rape content. No actual rape is allowed, obviously. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/rape"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 25
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Alternative to r/rapefantasy and related subs. Posts must feature fantasy rape c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 25 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Alternative to r/rapefantasy and related subs. Posts must feature fantasy rape c
 |----------------------|---|
 | Published            | 2023-06-15 04:22:15 |
 | Updated              | 2023-06-15 04:24:32 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

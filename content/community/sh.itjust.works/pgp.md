@@ -3,13 +3,13 @@ title: "PGP Practice"
 name: "pgp"
 description: "A community for practicing and/or discussing PGP (or GPG) encryption. "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/pgp"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for practicing and/or discussing PGP (or GPG) encryption.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for practicing and/or discussing PGP (or GPG) encryption.
 |----------------------|---|
 | Published            | 2023-06-16 03:13:49 |
 | Updated              | 2023-06-16 03:40:54 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

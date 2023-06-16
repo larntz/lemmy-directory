@@ -3,7 +3,7 @@ title: "Aotearoa"
 name: "aotearoa"
 description: "An alternative c/NewZealand One rule:- Don't be a dick"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/aotearoa"
@@ -54,4 +54,4 @@ An alternative c/NewZealand <br><br>One rule:<br><br>- Don't be a dick
 |----------------------|---|
 | Published            | 2023-06-09 00:37:57 |
 | Updated              | 2023-06-13 08:08:05 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:11 |

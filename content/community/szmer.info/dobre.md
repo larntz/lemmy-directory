@@ -3,7 +3,7 @@ title: "Dobre wiadomości"
 name: "dobre"
 description: "Społeczność wyłącznie na dobre wiadomości. Miejsce dla osób potrzebujących chwili odpoczynku albo po prostu niedołującej przestrzeni.(błagam, niech ktoś przejmie ode mnie moderację, ja tu nie wyrobię / @harc) "
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/dobre"
@@ -54,4 +54,4 @@ Społeczność wyłącznie na dobre wiadomości. Miejsce dla osób potrzebujący
 |----------------------|---|
 | Published            | 2021-10-19 14:50:16 |
 | Updated              | 2022-06-30 11:49:42 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

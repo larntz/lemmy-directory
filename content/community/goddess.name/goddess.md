@@ -3,13 +3,13 @@ title: "Goddess"
 name: "goddess"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/goddess"
 host: goddess.name
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 16:21:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

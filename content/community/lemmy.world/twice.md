@@ -3,7 +3,7 @@ title: "Twice"
 name: "twice"
 description: "A community dedicated to JYPE's TWICE.**Rules**:1. Follow netiquette2. Posts should be related to Twice3. No piracy4. No flaming, trolling, or name-calling"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/twice"
@@ -13,7 +13,7 @@ subscribers: 7
 posts: 2
 comments: 0
 weight: 2
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -44,7 +44,7 @@ A community dedicated to JYPE's TWICE.<br><br>**Rules**:<br>1. Follow netiquette
 | Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ A community dedicated to JYPE's TWICE.<br><br>**Rules**:<br>1. Follow netiquette
 |----------------------|---|
 | Published            | 2023-06-11 18:28:34 |
 | Updated              | 2023-06-13 07:56:04 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

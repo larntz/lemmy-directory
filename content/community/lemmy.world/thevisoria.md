@@ -3,19 +3,19 @@ title: "thevisoria"
 name: "thevisoria"
 description: "***c/Philippines Official Buy & Sell Community***![Image](https://i.imgur.com/x8esl3v.png)#  Rules1. Follow [Code of Conduct](https://mastodon.world/about)2. Nothing illegal3. Don't SPAM or re-post4. Be descriptive5. List the price when selling6. Don't troll other people's ads7. No doxing8. Deal at your own risk"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thevisoria"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-16 06:11:45 |
 | Updated              | 2023-06-16 10:28:11 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

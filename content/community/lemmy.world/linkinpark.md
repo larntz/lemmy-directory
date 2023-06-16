@@ -3,19 +3,19 @@ title: "Linkin Park"
 name: "linkinpark"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linkinpark"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+subscribers: 6
+posts: 4
+comments: 1
+weight: 4
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 6 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 04:14:45 |
 | Updated              | 2023-06-16 04:17:05 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

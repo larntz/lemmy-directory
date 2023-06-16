@@ -3,13 +3,13 @@ title: "What Should I Buy"
 name: "whatshouldibuy"
 description: "Community for asking advice on purchases."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/whatshouldibuy"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Community for asking advice on purchases.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community for asking advice on purchases.
 |----------------------|---|
 | Published            | 2023-06-11 13:03:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

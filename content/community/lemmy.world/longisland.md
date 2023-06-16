@@ -3,13 +3,13 @@ title: "Long Island"
 name: "longisland"
 description: "Community for current, former, and future Long Island residents to gather."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/longisland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ Community for current, former, and future Long Island residents to gather.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Community for current, former, and future Long Island residents to gather.
 |----------------------|---|
 | Published            | 2023-06-12 17:30:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,7 +3,7 @@ title: "FPGA"
 name: "fpga"
 description: "A community for programmable hardware, including topics such as: * FPGA * CPLD * Verilog * VHDLRelated communities: - [c/ece](https://lemmy.ml/c/ece)- [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)- [c/cprogramming](https://lemmy.ml/c/cprogramming)- [c/raspberry_pi](https://lemmy.ml/c/raspberry_pi)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fpga"
@@ -54,4 +54,4 @@ A community for programmable hardware, including topics such as: * FPGA * CPLD *
 |----------------------|---|
 | Published            | 2023-06-06 20:01:17 |
 | Updated              | 2023-06-09 14:48:35 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:26 |

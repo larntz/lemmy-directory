@@ -3,15 +3,15 @@ title: "ErgoMechKeyboards"
 name: "ergomechkeyboards"
 description: "A community in the same spirit of r/ErgoMechKeyboards/"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lm.paradisus.day/c/ergomechkeyboards"
 host: lm.paradisus.day
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 25
 posts: 1
-comments: 3
+comments: 4
 weight: 1
 dau: 1
 wau: 3
@@ -41,9 +41,9 @@ A community in the same spirit of r/ErgoMechKeyboards/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 25 |
 | Posts                | 1  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ A community in the same spirit of r/ErgoMechKeyboards/
 |----------------------|---|
 | Published            | 2023-06-11 22:42:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

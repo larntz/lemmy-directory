@@ -3,13 +3,13 @@ title: "Astronomy"
 name: "astronomy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/astronomy"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 303
+subscribers: 318
 posts: 13
 comments: 20
 weight: 13
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 303 |
+| Subscribers          | 318 |
 | Posts                | 13  |
 | Comments             | 20  |
 | Daily Active Users   | 9  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-27 08:03:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

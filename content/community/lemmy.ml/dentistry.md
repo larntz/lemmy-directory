@@ -3,7 +3,7 @@ title: "Dentistry"
 name: "dentistry"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dentistry"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 23:37:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

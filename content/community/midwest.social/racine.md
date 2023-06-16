@@ -3,7 +3,7 @@ title: "Racine"
 name: "racine"
 description: "A place to gather and discuss everything about Racine, Wisconsin!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racine"
@@ -54,4 +54,4 @@ A place to gather and discuss everything about Racine, Wisconsin!
 |----------------------|---|
 | Published            | 2023-06-14 04:51:44 |
 | Updated              | 2023-06-14 04:53:30 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

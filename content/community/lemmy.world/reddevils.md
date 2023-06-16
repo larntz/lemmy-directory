@@ -3,19 +3,19 @@ title: "Red Devils"
 name: "reddevils"
 description: "All things Manchester United. New to the community? Come say hi in the [Welcome thread.](https://lemmy.world/post/47358)Got any suggestions on how we can improve and grow as a community? [Let us know!](https://lemmy.world/post/56208)Basic rules:1. Fuck the Glazers2. Be civil to each other3. No non-Manchester United/football content. Non-United content is allowed if it affects United in some way. Otherwise, use the Weekly Discussion Thread4. Fuck the Glazers5. Posting news from other social media sites is allowed, but stick to reliable sources (may implement a tier system in future)6. Keep it legal - no streams please :)7. Have fun!8. Fuck the Glazers"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddevils"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 120
-posts: 36
-comments: 198
-weight: 36
-dau: 13
-wau: 22
-mau: 22
+subscribers: 130
+posts: 41
+comments: 211
+weight: 41
+dau: 14
+wau: 33
+mau: 33
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ All things Manchester United. <br><br>New to the community? Come say hi in the [
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 120 |
-| Posts                | 36  |
-| Comments             | 198  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
+| Subscribers          | 130 |
+| Posts                | 41  |
+| Comments             | 211  |
+| Daily Active Users   | 14  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ All things Manchester United. <br><br>New to the community? Come say hi in the [
 |----------------------|---|
 | Published            | 2023-06-10 23:04:16 |
 | Updated              | 2023-06-15 08:41:19 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

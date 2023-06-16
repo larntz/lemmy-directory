@@ -3,15 +3,15 @@ title: "Reddthat Support"
 name: "reddthatsupport"
 description: "# Reddthat Community Support Forum**Before posting, have you read the rules?**- [Reddthat Rules](https://reddthat.com/post/9701)###  Introductory Required Reading- [Starting Guide](https://reddthat.com/post/5827)- [Following Communities](https://join-lemmy.org/docs/en/users/01-getting-started.html#following-communities)- [Start Posting](https://join-lemmy.org/docs/en/users/01-getting-started.html#start-posting)- [Text & Image formats](https://join-lemmy.org/docs/en/users/02-media.html)- [How posts are Federated](https://reddthat.com/post/35325)---You are ready to start your adventure on Reddthat but are still unsure? That's fine! You've come to the right place.- Ideas? Post-em- Issues? Post-em- Queries? Post-em- Ideas to help Reddthat? Post-em---### Alternative Support Forums- [lemmy_support@lemmy.ml](https://reddthat.com/c/lemmy_support@lemmy.ml)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/reddthatsupport"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 34
 posts: 11
-comments: 63
+comments: 64
 weight: 11
 dau: 4
 wau: 20
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 34 |
 | Posts                | 11  |
-| Comments             | 63  |
+| Comments             | 64  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 20  |
 | Monthly Active Users | 20  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 23:20:01 |
 | Updated              | 2023-06-15 09:21:45 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

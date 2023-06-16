@@ -3,19 +3,19 @@ title: "Vegan Circlejerk"
 name: "vegancirclejerk"
 description: "Welcome to /c/vegancirclejerk, a community for militant leftist vegans. ##### Rules - Only ethical vegans allowed - No omni apologism - No speciesism Shitposting is welcome. "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vegancirclejerk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 296
-posts: 74
-comments: 196
-weight: 74
+subscribers: 299
+posts: 75
+comments: 199
+weight: 75
 dau: 5
-wau: 10
-mau: 14
+wau: 11
+mau: 15
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Welcome to /c/vegancirclejerk, a community for militant leftist vegans. <br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 296 |
-| Posts                | 74  |
-| Comments             | 196  |
+| Subscribers          | 299 |
+| Posts                | 75  |
+| Comments             | 199  |
 | Daily Active Users   | 5  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to /c/vegancirclejerk, a community for militant leftist vegans. <br><br>
 |----------------------|---|
 | Published            | 2020-06-30 14:46:26 |
 | Updated              | 2021-02-16 01:38:20 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

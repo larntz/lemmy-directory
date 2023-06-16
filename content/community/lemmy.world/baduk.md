@@ -3,19 +3,19 @@ title: "Go/Igo/Baduk/Weiqi"
 name: "baduk"
 description: "A community for Baduk fans to discuss the game, its strategies, and professional play. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baduk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
-comments: 2
+comments: 3
 weight: 1
-dau: 1
-wau: 1
-mau: 1
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for Baduk fans to discuss the game, its strategies, and professional
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Comments             | 3  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for Baduk fans to discuss the game, its strategies, and professional
 |----------------------|---|
 | Published            | 2023-06-14 04:58:19 |
 | Updated              | 2023-06-15 17:07:26 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,13 +3,13 @@ title: "Armchair Leftists"
 name: "armchairsocialist"
 description: "We're like c/socialism, but while lemmy is largely closeted armchair socialists, we're overt armchair socialists. Downvote anything that will actually help achieve socialism like direct action, meet ups, protests etc. Upvote content that will do bugger all. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/armchairsocialist"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 40
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ We're like c/socialism, but while lemmy is largely closeted armchair socialists,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 40 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ We're like c/socialism, but while lemmy is largely closeted armchair socialists,
 |----------------------|---|
 | Published            | 2022-05-19 16:53:48 |
 | Updated              | 2022-08-19 16:57:09 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

@@ -3,16 +3,16 @@ title: "Programming"
 name: "programming"
 description: "A general purpose programming community for English speakers"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/programming"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 2189
-posts: 39
-comments: 253
-weight: 39
+subscribers: 2402
+posts: 41
+comments: 295
+weight: 41
 dau: 44
 wau: 126
 mau: 128
@@ -41,9 +41,9 @@ A general purpose programming community for English speakers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2189 |
-| Posts                | 39  |
-| Comments             | 253  |
+| Subscribers          | 2402 |
+| Posts                | 41  |
+| Comments             | 295  |
 | Daily Active Users   | 44  |
 | Weekly Active Users  | 126  |
 | Monthly Active Users | 128  |
@@ -54,4 +54,4 @@ A general purpose programming community for English speakers
 |----------------------|---|
 | Published            | 2023-06-06 06:54:33 |
 | Updated              | 2023-06-13 00:46:20 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

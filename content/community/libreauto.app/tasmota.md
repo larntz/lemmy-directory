@@ -3,7 +3,7 @@ title: "Tasmota"
 name: "tasmota"
 description: "This is a community for talking about all thing [Tasmota](tasmota.github.io). Tasmote is a Free and Open source custom firmware for esp type micro controllers "
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/tasmota"
@@ -54,4 +54,4 @@ This is a community for talking about all thing [Tasmota](tasmota.github.io). Ta
 |----------------------|---|
 | Published            | 2023-06-12 19:38:01 |
 | Updated              | 2023-06-12 19:41:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

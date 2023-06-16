@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.scam-mail.me/c/test"
@@ -14,7 +14,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_scam-mail_me"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 21:10:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:09 |

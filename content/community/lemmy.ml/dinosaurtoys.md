@@ -3,7 +3,7 @@ title: "Dinosaur Toys!"
 name: "dinosaurtoys"
 description: "All about Toys of dinosaurs, usually from dinosaur era but includes fake dinosaurs such as from the Jurassic Park franchise."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinosaurtoys"
@@ -54,4 +54,4 @@ All about Toys of dinosaurs, usually from dinosaur era but includes fake dinosau
 |----------------------|---|
 | Published            | 2021-03-24 21:05:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

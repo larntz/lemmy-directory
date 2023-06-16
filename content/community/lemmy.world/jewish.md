@@ -3,7 +3,7 @@ title: "Jewish"
 name: "jewish"
 description: "All things Jewish"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jewish"
@@ -54,4 +54,4 @@ All things Jewish
 |----------------------|---|
 | Published            | 2023-06-16 07:41:30 |
 | Updated              | 2023-06-16 07:41:51 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

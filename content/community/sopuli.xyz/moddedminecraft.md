@@ -3,15 +3,15 @@ title: "Modded Minecraft"
 name: "moddedminecraft"
 description: "The Blocky, Modded Side of LemmyRules:-Play nicely with others here-Discussion should be at least somewhat related to modded Minecraft and all that entails-Self-promotion is allowed within reason. Don't go overboard!"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/moddedminecraft"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 209
+subscribers: 219
 posts: 11
-comments: 66
+comments: 68
 weight: 11
 dau: 8
 wau: 24
@@ -41,9 +41,9 @@ The Blocky, Modded Side of Lemmy<br><br>Rules:<br>-Play nicely with others here<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 209 |
+| Subscribers          | 219 |
 | Posts                | 11  |
-| Comments             | 66  |
+| Comments             | 68  |
 | Daily Active Users   | 8  |
 | Weekly Active Users  | 24  |
 | Monthly Active Users | 24  |
@@ -54,4 +54,4 @@ The Blocky, Modded Side of Lemmy<br><br>Rules:<br>-Play nicely with others here<
 |----------------------|---|
 | Published            | 2023-06-07 23:19:21 |
 | Updated              | 2023-06-09 11:10:36 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,13 +3,13 @@ title: "Children of the Fence"
 name: "the_fence"
 description: "A community for fans of the rock band Coheed and Cambria"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/the_fence"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A community for fans of the rock band Coheed and Cambria
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for fans of the rock band Coheed and Cambria
 |----------------------|---|
 | Published            | 2023-06-11 22:31:15 |
 | Updated              | 2023-06-11 22:34:17 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

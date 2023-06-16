@@ -3,7 +3,7 @@ title: "Motor City Kitties"
 name: "motorcitykitties"
 description: "Detroit TIgers communityCloned from [r/MotorCityKitties](https://old.reddit.com/r/MotorCityKitties)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/motorcitykitties"
@@ -54,4 +54,4 @@ Detroit TIgers community<br><br>Cloned from [r/MotorCityKitties](https://old.red
 |----------------------|---|
 | Published            | 2023-06-09 17:08:33 |
 | Updated              | 2023-06-12 16:51:22 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

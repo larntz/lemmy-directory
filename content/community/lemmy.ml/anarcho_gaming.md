@@ -3,7 +3,7 @@ title: "Anarcho Gaming"
 name: "anarcho_gaming"
 description: "A community founded to provide a non-toxic gaming experience. No place for racism/statism/ableism. LGBTQIA* friendly. Safe space."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarcho_gaming"
@@ -54,4 +54,4 @@ A community founded to provide a non-toxic gaming experience. No place for racis
 |----------------------|---|
 | Published            | 2020-12-20 10:20:15 |
 | Updated              | 2021-01-10 00:40:53 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,7 +3,7 @@ title: "phones"
 name: "phones"
 description: "Discussion on telephony, telegraphy and switching equipment"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/phones"
@@ -54,4 +54,4 @@ Discussion on telephony, telegraphy and switching equipment
 |----------------------|---|
 | Published            | 2023-06-10 18:59:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

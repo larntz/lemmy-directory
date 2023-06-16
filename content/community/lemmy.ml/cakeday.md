@@ -3,7 +3,7 @@ title: "Happy Cake Day"
 name: "cakeday"
 description: "Really every day should be cake day.All cake related things are welcome here, but particularly cake-day shout outs."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cakeday"
@@ -54,4 +54,4 @@ Really every day should be cake day.<br><br>All cake related things are welcome 
 |----------------------|---|
 | Published            | 2022-04-18 00:23:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

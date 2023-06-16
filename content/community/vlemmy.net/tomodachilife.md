@@ -3,7 +3,7 @@ title: "Tomodachi Life"
 name: "tomodachilife"
 description: "A community for everything related to the popular Nintendo 3DS game Tomodachi Life."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/tomodachilife"
@@ -54,4 +54,4 @@ A community for everything related to the popular Nintendo 3DS game Tomodachi Li
 |----------------------|---|
 | Published            | 2023-06-14 23:40:12 |
 | Updated              | 2023-06-14 23:41:20 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

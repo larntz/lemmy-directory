@@ -3,13 +3,13 @@ title: "lemmy.ca Announcements"
 name: "announcements"
 description: "Announcements relating to this site."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/announcements"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 193
+subscribers: 200
 posts: 8
 comments: 9
 weight: 8
@@ -41,7 +41,7 @@ Announcements relating to this site.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 193 |
+| Subscribers          | 200 |
 | Posts                | 8  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Announcements relating to this site.
 |----------------------|---|
 | Published            | 2020-12-13 19:07:45 |
 | Updated              | 2022-05-27 16:11:38 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

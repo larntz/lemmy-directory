@@ -3,7 +3,7 @@ title: "Auburn Tigers"
 name: "auburntigers"
 description: "A community to discuss Auburn Tigers athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/auburntigers"
@@ -54,4 +54,4 @@ A community to discuss Auburn Tigers athletics.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 23:39:18 |
 | Updated              | 2023-06-15 00:19:31 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

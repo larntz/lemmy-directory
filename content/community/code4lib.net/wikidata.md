@@ -3,7 +3,7 @@ title: "Wikidata & GLAM"
 name: "wikidata"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://code4lib.net/c/wikidata"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-02-06 13:36:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

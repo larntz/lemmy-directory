@@ -3,7 +3,7 @@ title: "Hinduism"
 name: "hinduism"
 description: "General discussion on topics of Hinduism"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/hinduism"
@@ -54,4 +54,4 @@ General discussion on topics of Hinduism
 |----------------------|---|
 | Published            | 2023-06-14 05:40:48 |
 | Updated              | 2023-06-15 06:55:55 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

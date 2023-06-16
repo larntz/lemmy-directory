@@ -3,13 +3,13 @@ title: "Ryujinx and Yuzu"
 name: "ryujinx_and_yuzu"
 description: "A Community for discussing things around Ryujinx and Yuzu"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/ryujinx_and_yuzu"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 49
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A Community for discussing things around Ryujinx and Yuzu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 49 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A Community for discussing things around Ryujinx and Yuzu
 |----------------------|---|
 | Published            | 2023-06-11 06:47:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

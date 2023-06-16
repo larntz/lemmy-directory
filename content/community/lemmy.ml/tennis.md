@@ -3,13 +3,13 @@ title: "tennis"
 name: "tennis"
 description: "Tennis News & Discussion"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tennis"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Tennis News & Discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tennis News & Discussion
 |----------------------|---|
 | Published            | 2021-01-19 16:43:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:41 |

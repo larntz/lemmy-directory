@@ -3,13 +3,13 @@ title: "San Diego"
 name: "sandiego"
 description: "America's Finest City on the fediverse!Rules:1) Be nice2) Have fun"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sandiego"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 43
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ America's Finest City on the fediverse!<br><br>Rules:<br>1) Be nice<br>2) Have f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 43 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ America's Finest City on the fediverse!<br><br>Rules:<br>1) Be nice<br>2) Have f
 |----------------------|---|
 | Published            | 2023-06-11 16:31:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

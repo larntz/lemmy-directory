@@ -3,7 +3,7 @@ title: "Daytrading"
 name: "daytrading"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/daytrading"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 00:24:41 |
 | Updated              | 2023-06-15 04:10:14 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,13 +3,13 @@ title: "programming"
 name: "programming"
 description: "A community for programmers, data scientists, software engineers, web developers, cryptographers, hackers, and much more."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/programming"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 49
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ A community for programmers, data scientists, software engineers, web developers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 49 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ A community for programmers, data scientists, software engineers, web developers
 |----------------------|---|
 | Published            | 2023-06-12 21:12:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

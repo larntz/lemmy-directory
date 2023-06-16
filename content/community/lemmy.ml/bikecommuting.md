@@ -3,19 +3,19 @@ title: "Bike Commuting"
 name: "bikecommuting"
 description: "A place on the fediverse to share and discuss about commuting by bicycle"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bikecommuting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 430
+subscribers: 451
 posts: 20
-comments: 83
+comments: 85
 weight: 20
-dau: 5
-wau: 30
-mau: 34
+dau: 8
+wau: 39
+mau: 45
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place on the fediverse to share and discuss about commuting by bicycle
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 430 |
+| Subscribers          | 451 |
 | Posts                | 20  |
-| Comments             | 83  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 30  |
-| Monthly Active Users | 34  |
+| Comments             | 85  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 39  |
+| Monthly Active Users | 45  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place on the fediverse to share and discuss about commuting by bicycle
 |----------------------|---|
 | Published            | 2023-06-04 22:14:16 |
 | Updated              | 2023-06-06 17:49:09 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

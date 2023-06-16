@@ -3,13 +3,13 @@ title: "KidsBeingSmart"
 name: "kidsbeingsmart"
 description: "Sometimes, kids are really, really smart. Think of /r/kidsarefuckingsmart with a friendly name"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kidsbeingsmart"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 5
 comments: 4
 weight: 5
@@ -41,7 +41,7 @@ Sometimes, kids are really, really smart. Think of /r/kidsarefuckingsmart with a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Sometimes, kids are really, really smart. Think of /r/kidsarefuckingsmart with a
 |----------------------|---|
 | Published            | 2023-06-12 17:48:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,13 +3,13 @@ title: "Manchester"
 name: "manchester"
 description: "The community for Manchester, UK.One of the driest places on the planet -- Professor Brian Cox"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/manchester"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The community for Manchester, UK.<br><br>One of the driest places on the planet 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The community for Manchester, UK.<br><br>One of the driest places on the planet 
 |----------------------|---|
 | Published            | 2023-06-12 23:42:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,7 +3,7 @@ title: "Magick"
 name: "magick"
 description: "Magick in all forms"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/magick"
@@ -54,4 +54,4 @@ Magick in all forms
 |----------------------|---|
 | Published            | 2022-04-24 18:55:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/main"
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2022-11-06 19:31:35 |
 | Updated              | 2023-04-27 05:35:31 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

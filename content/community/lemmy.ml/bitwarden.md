@@ -3,19 +3,19 @@ title: "Bitwarden - The unofficial Bitwarden community"
 name: "bitwarden"
 description: "Please do note that this an **unofficial** community.Bitwarden - Open source password managerBitwarden is an open source password management platform for individuals, teams, and business organizations.- https://reddit.com/r/bitwarden- https://bitwarden.com- https://bitwarden.com/help/- https://community.bitwarden.com- https://vault.bitwarden.com- https://github.com/bitwarden"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bitwarden"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 232
+subscribers: 251
 posts: 53
-comments: 20
+comments: 21
 weight: 53
-dau: 1
-wau: 3
-mau: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Please do note that this an **unofficial** community.<br><br>Bitwarden - Open so
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 232 |
+| Subscribers          | 251 |
 | Posts                | 53  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 21  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Please do note that this an **unofficial** community.<br><br>Bitwarden - Open so
 |----------------------|---|
 | Published            | 2021-03-25 10:57:48 |
 | Updated              | 2021-06-22 13:35:22 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

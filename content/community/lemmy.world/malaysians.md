@@ -3,7 +3,7 @@ title: "Casual Malaysia"
 name: "malaysians"
 description: "An unofficial alternative to [reddit.com/r/malaysians](/r/Malaysians). A friendly place to chat about anything related to Malaysia/Malaysians. Just don't be a dick!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malaysians"
@@ -54,4 +54,4 @@ An unofficial alternative to [reddit.com/r/malaysians](/r/Malaysians). <br><br>A
 |----------------------|---|
 | Published            | 2023-06-11 18:32:21 |
 | Updated              | 2023-06-11 18:40:09 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

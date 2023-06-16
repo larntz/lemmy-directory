@@ -3,13 +3,13 @@ title: "ZX Spectrum"
 name: "zxspectrum"
 description: "Celebrating Sir Clive Sinclair's amazing machines and the impact they had in our lives."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zxspectrum"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Celebrating Sir Clive Sinclair's amazing machines and the impact they had in our
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Celebrating Sir Clive Sinclair's amazing machines and the impact they had in our
 |----------------------|---|
 | Published            | 2023-06-13 14:07:21 |
 | Updated              | 2023-06-13 14:08:48 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

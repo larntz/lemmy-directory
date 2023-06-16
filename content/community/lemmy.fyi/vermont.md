@@ -3,13 +3,13 @@ title: "vermont"
 name: "vermont"
 description: "Community focused on the state of Vermont.Shitposting and memes welcome!**Rules**- Don't be a dick"
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/vermont"
 host: lemmy.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community focused on the state of Vermont.<br><br>Shitposting and memes welcome!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community focused on the state of Vermont.<br><br>Shitposting and memes welcome!
 |----------------------|---|
 | Published            | 2023-06-12 17:46:45 |
 | Updated              | 2023-06-14 04:33:52 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:20 |

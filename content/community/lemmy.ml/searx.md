@@ -3,7 +3,7 @@ title: "Searx - Self-hosted meta search engine "
 name: "searx"
 description: "Searx - Self-hosted meta search enginePlease use English. "
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/searx"
@@ -54,4 +54,4 @@ Searx - Self-hosted meta search engine<br><br>Please use English.
 |----------------------|---|
 | Published            | 2020-06-30 20:17:56 |
 | Updated              | 2022-11-20 16:58:17 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,7 +3,7 @@ title: "RSS Recommendations"
 name: "rss_recommendations"
 description: "Share your RSS feed recommendations here!When posting, please try to use the below format:RSS Topic - e.g Linux, PrivacyRSS Feed or Site NameRSS Feed Link (can also be added to the Lemmy url link)RSS Format - e.g Atom10, RSS20"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rss_recommendations"
@@ -54,4 +54,4 @@ Share your RSS feed recommendations here!<br><br>When posting, please try to use
 |----------------------|---|
 | Published            | 2021-02-27 20:50:12 |
 | Updated              | 2021-02-27 21:22:36 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

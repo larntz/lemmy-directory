@@ -3,13 +3,13 @@ title: "Scams"
 name: "scams"
 description: "Discuss scams"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scams"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 41
 posts: 9
 comments: 9
 weight: 9
@@ -41,7 +41,7 @@ Discuss scams
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 41 |
 | Posts                | 9  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discuss scams
 |----------------------|---|
 | Published            | 2021-10-08 07:35:10 |
 | Updated              | 2023-01-27 13:16:47 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

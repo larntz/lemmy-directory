@@ -3,7 +3,7 @@ title: "Charlotte 49ers"
 name: "charlotte49ers"
 description: "A community to discuss Charlotte 49ers athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/charlotte49ers"
@@ -54,4 +54,4 @@ A community to discuss Charlotte 49ers athletics.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-15 00:01:41 |
 | Updated              | 2023-06-15 00:14:10 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

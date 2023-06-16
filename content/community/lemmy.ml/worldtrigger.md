@@ -3,7 +3,7 @@ title: "World trigger"
 name: "worldtrigger"
 description: "this group is about Japanese manga/anime/opera World trigger"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/worldtrigger"
@@ -54,4 +54,4 @@ this group is about Japanese manga/anime/opera World trigger
 |----------------------|---|
 | Published            | 2023-04-08 17:13:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

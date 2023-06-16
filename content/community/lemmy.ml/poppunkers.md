@@ -3,17 +3,17 @@ title: "Pop Punkers"
 name: "poppunkers"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/poppunkers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 22
-comments: 3
-weight: 22
-dau: 2
+subscribers: 18
+posts: 24
+comments: 5
+weight: 24
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 22  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
+| Subscribers          | 18 |
+| Posts                | 24  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 07:36:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

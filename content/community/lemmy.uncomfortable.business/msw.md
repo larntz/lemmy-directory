@@ -3,7 +3,7 @@ title: "Murder She Wrote"
 name: "msw"
 description: "Everyone's favorite serial-killer senior citizen."
 type: community
-date: "2023-06-15 17:37:05"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/msw"
@@ -54,4 +54,4 @@ Everyone's favorite serial-killer senior citizen.
 |----------------------|---|
 | Published            | 2023-06-13 00:22:32 |
 | Updated              | 2023-06-13 00:28:18 |
-| Last Scraped         | 2023-06-15 17:37:05 |
+| Last Scraped         | 2023-06-16 22:56:11 |

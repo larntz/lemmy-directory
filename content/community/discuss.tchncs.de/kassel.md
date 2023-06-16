@@ -3,7 +3,7 @@ title: "Kassel"
 name: "kassel"
 description: "Die Community zu Kassel und Umgebung. "
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kassel"
@@ -54,4 +54,4 @@ Die Community zu Kassel und Umgebung.
 |----------------------|---|
 | Published            | 2023-06-13 09:48:21 |
 | Updated              | 2023-06-13 10:50:23 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

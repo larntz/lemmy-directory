@@ -3,7 +3,7 @@ title: "Monerochan"
 name: "monerochan"
 description: "A community dedicated to sharing artwork of sweet lady monero chan.Please consider donating! Visit monerochan.art for more information."
 type: community
-date: "2023-06-16 11:05:55"
+date: "2023-06-16 22:55:51"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/monerochan"
@@ -54,4 +54,4 @@ A community dedicated to sharing artwork of sweet lady monero chan.<br><br>Pleas
 |----------------------|---|
 | Published            | 2023-02-17 00:41:10 |
 | Updated              | 2023-02-17 15:56:36 |
-| Last Scraped         | 2023-06-16 11:05:55 |
+| Last Scraped         | 2023-06-16 22:55:51 |

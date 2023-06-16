@@ -3,13 +3,13 @@ title: "Yuzu - Nintendo Switch Emulation"
 name: "yuzu"
 description: "A place for discussion of the Yuzu Switch Emulator.Discuss best Yuzu settings for various PC setups and devices, your favorite mods, or just hang out for updates on Yuzu.There are other communities dedicated to Piracy, so please refrain from discussing/linking directly to pirated content here. "
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yuzu"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 89
+subscribers: 97
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A place for discussion of the Yuzu Switch Emulator.<br><br>Discuss best Yuzu set
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 89 |
+| Subscribers          | 97 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for discussion of the Yuzu Switch Emulator.<br><br>Discuss best Yuzu set
 |----------------------|---|
 | Published            | 2023-06-10 21:52:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

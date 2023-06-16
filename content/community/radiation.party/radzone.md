@@ -3,7 +3,7 @@ title: "Radiation Zone"
 name: "radzone"
 description: "Welcome to the rad zone."
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://radiation.party/c/radzone"
@@ -54,4 +54,4 @@ Welcome to the rad zone.
 |----------------------|---|
 | Published            | 2023-06-06 18:28:37 |
 | Updated              | 2023-06-06 18:52:56 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

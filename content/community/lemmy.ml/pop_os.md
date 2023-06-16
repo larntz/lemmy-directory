@@ -3,18 +3,18 @@ title: "Pop!_OS"
 name: "pop_os"
 description: "PopOS"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pop_os"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 125
 posts: 14
 comments: 29
 weight: 14
 dau: 1
-wau: 8
+wau: 7
 mau: 8
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ PopOS
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 125 |
 | Posts                | 14  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 8  |
 
 <br>
@@ -54,4 +54,4 @@ PopOS
 |----------------------|---|
 | Published            | 2020-06-29 19:00:37 |
 | Updated              | 2021-03-15 17:23:21 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,7 +3,7 @@ title: "Bitcoin - Magic Internet Money"
 name: "btc"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/btc"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 08:36:04 |
 | Updated              | 2023-06-16 08:57:41 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

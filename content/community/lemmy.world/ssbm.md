@@ -3,19 +3,19 @@ title: "SSBM"
 name: "ssbm"
 description: "A place for 0-2ers to complain about ~~fox~~ falco"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ssbm"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 34
 posts: 7
 comments: 7
 weight: 7
 dau: 1
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for 0-2ers to complain about ~~fox~~ falco
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 34 |
 | Posts                | 7  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for 0-2ers to complain about ~~fox~~ falco
 |----------------------|---|
 | Published            | 2023-06-10 05:09:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

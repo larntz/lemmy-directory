@@ -3,7 +3,7 @@ title: "Hashemite Kingdom of Jordan"
 name: "jordan"
 description: "A community for everything related to the Hashemite Kingdom of Jordan."
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fun/c/jordan"
@@ -54,4 +54,4 @@ A community for everything related to the Hashemite Kingdom of Jordan.
 |----------------------|---|
 | Published            | 2023-06-03 02:18:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

@@ -3,7 +3,7 @@ title: "Xi Is Finished"
 name: "xiisfinished"
 description: "epic moments where Xi is friccin cancelled Rules:1: no spam. avoid posting the same thing more than once2: no sectarianism. although this subcom is pro-china, marxists of all tendencies are welcome.3: no oppressive language. this includes racism, sinophobia, homophobia, ableism, etc.4: no non-marxists or reactionaries. plain and simple"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/xiisfinished"
@@ -54,4 +54,4 @@ epic moments where Xi is friccin cancelled <br><br>Rules:<br><br>1: no spam. avo
 |----------------------|---|
 | Published            | 2020-07-10 20:18:04 |
 | Updated              | 2020-07-12 18:47:22 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

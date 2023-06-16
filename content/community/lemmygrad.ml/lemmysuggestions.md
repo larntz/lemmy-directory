@@ -3,7 +3,7 @@ title: "suggestions for lemmy"
 name: "lemmysuggestions"
 description: "have a good idea for our website? post here to suggest"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmysuggestions"
@@ -54,4 +54,4 @@ have a good idea for our website? post here to suggest
 |----------------------|---|
 | Published            | 2019-08-25 19:47:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

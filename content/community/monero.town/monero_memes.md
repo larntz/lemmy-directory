@@ -3,19 +3,19 @@ title: "Monero Memes"
 name: "monero_memes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monero_memes"
 host: monero.town
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 7
-comments: 16
+comments: 20
 weight: 7
-dau: 2
-wau: 2
-mau: 2
+dau: 5
+wau: 6
+mau: 6
 instances:
 - "monero_town"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 7  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 20  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 01:01:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

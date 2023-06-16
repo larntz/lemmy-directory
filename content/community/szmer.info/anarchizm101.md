@@ -3,7 +3,7 @@ title: "Pytania Dotyczące Anarchizmu"
 name: "anarchizm101"
 description: "Community służąca do pisania pytań dot. anarchizmu/anarchii w teorii, praktyce, czy też dot. historii anarchizmu/ugrupowań"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/anarchizm101"
@@ -54,4 +54,4 @@ Community służąca do pisania pytań dot. anarchizmu/anarchii w teorii, prakty
 |----------------------|---|
 | Published            | 2021-11-12 13:45:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

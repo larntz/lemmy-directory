@@ -3,13 +3,13 @@ title: "poor"
 name: "poor"
 description: "Anything about being poor, poverty or otherwise.Also check out:- lemmy.ml/c/finance- [Share referral codes](https://lemmy.ca/c/referrals)"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/poor"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 58
 posts: 40
 comments: 30
 weight: 40
@@ -41,7 +41,7 @@ Anything about being poor, poverty or otherwise.<br><br>Also check out:<br><br>-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 58 |
 | Posts                | 40  |
 | Comments             | 30  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Anything about being poor, poverty or otherwise.<br><br>Also check out:<br><br>-
 |----------------------|---|
 | Published            | 2022-05-29 07:01:42 |
 | Updated              | 2023-01-27 13:40:18 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

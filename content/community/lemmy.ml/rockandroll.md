@@ -3,7 +3,7 @@ title: "Long Live Rock and Roll"
 name: "rockandroll"
 description: "Community to discuss and share things related to Rock and Roll!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rockandroll"
@@ -54,4 +54,4 @@ Community to discuss and share things related to Rock and Roll!
 |----------------------|---|
 | Published            | 2021-01-26 08:06:12 |
 | Updated              | 2021-01-26 08:10:35 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

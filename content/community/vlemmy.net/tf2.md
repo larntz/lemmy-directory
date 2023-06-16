@@ -3,13 +3,13 @@ title: "Team Fortress 2"
 name: "tf2"
 description: "Community for TF2 players, general discussions of the game, and community server meetups.RULES:1. No racism, sexism, transphobia, homophobia, etc. of any kind.2. No harassment or doxxing.3. No spam.4. No porn."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/tf2"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Community for TF2 players, general discussions of the game, and community server
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 18 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for TF2 players, general discussions of the game, and community server
 |----------------------|---|
 | Published            | 2023-06-12 16:59:55 |
 | Updated              | 2023-06-12 17:02:52 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,7 +3,7 @@ title: "Wreck Hall"
 name: "wreckhall"
 description: "BBS Discussion"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cmstactical.net/c/wreckhall"
@@ -54,4 +54,4 @@ BBS Discussion
 |----------------------|---|
 | Published            | 2023-06-12 13:37:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

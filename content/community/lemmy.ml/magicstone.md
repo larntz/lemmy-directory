@@ -3,7 +3,7 @@ title: "Magic Stone"
 name: "magicstone"
 description: "We're creating magic through evolution of the fediverse!Github: https://github.com/magicstone-devWebsite: https://magicstone.dev"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/magicstone"
@@ -54,4 +54,4 @@ We're creating magic through evolution of the fediverse!<br><br>Github: https://
 |----------------------|---|
 | Published            | 2021-10-22 21:56:52 |
 | Updated              | 2021-11-18 07:18:24 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

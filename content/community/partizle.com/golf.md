@@ -3,7 +3,7 @@ title: "Golf"
 name: "golf"
 description: "A place to discuss golf, I guess?"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/golf"
@@ -14,7 +14,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "partizle_com"
@@ -45,7 +45,7 @@ A place to discuss golf, I guess?
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place to discuss golf, I guess?
 |----------------------|---|
 | Published            | 2023-06-09 19:16:10 |
 | Updated              | 2023-06-14 20:45:10 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

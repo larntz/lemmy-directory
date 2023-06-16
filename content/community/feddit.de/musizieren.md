@@ -3,15 +3,15 @@ title: "Musizieren"
 name: "musizieren"
 description: "Hier dreht sich alles rund ums Musizieren: Egal ob Klavier, Gitarre, Synthesizer, DAW, DJing, oder singen in der Dusche.Dies soll ein Platz für Fragen, Feedback, Tipps & Tricks, aber auch einfach für den lockeren Austausch sein.Ihr könnt natürlich auch gerne eigene Songs / Produktionen reinstellen, aber bitte in handelsüblichen Mengen. P.S.: Ich hab nichts mit dem Subreddit r/MusizierenDE zu tun."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musizieren"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 45
 posts: 3
-comments: 47
+comments: 48
 weight: 3
 dau: 1
 wau: 17
@@ -41,9 +41,9 @@ Hier dreht sich alles rund ums Musizieren: Egal ob Klavier, Gitarre, Synthesizer
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 45 |
 | Posts                | 3  |
-| Comments             | 47  |
+| Comments             | 48  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 17  |
 | Monthly Active Users | 17  |
@@ -54,4 +54,4 @@ Hier dreht sich alles rund ums Musizieren: Egal ob Klavier, Gitarre, Synthesizer
 |----------------------|---|
 | Published            | 2023-06-11 22:26:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

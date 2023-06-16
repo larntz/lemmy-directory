@@ -3,7 +3,7 @@ title: "Acadie"
 name: "acadie"
 description: "Une communauté pour n'importe quoi Acadie-related!Une communauté pour tout ce qui a trait à l'Acadie !A community for everything Acadia-related!Links pis comments en français, anglais, chiac et acadien sont bienvenue!Liens et commentaires en français, anglais, chiac et acadien sont la bienvenue !Links and comments in French, English, Chiac, and Acadian are welcome!"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/acadie"
@@ -54,4 +54,4 @@ Une communauté pour n'importe quoi Acadie-related!<br><br>Une communauté pour 
 |----------------------|---|
 | Published            | 2023-06-08 23:01:56 |
 | Updated              | 2023-06-08 23:28:59 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

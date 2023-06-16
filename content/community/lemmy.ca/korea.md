@@ -3,13 +3,13 @@ title: "Korea"
 name: "korea"
 description: "Discussing everything about South Korea"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/korea"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 8
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Discussing everything about South Korea
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 8 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Discussing everything about South Korea
 |----------------------|---|
 | Published            | 2023-06-13 03:31:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

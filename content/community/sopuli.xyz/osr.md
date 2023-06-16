@@ -3,13 +3,13 @@ title: "Old School Renaissance"
 name: "osr"
 description: "A community for fans of the earliest TTRPGs and their retroclones."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/osr"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for fans of the earliest TTRPGs and their retroclones.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for fans of the earliest TTRPGs and their retroclones.
 |----------------------|---|
 | Published            | 2023-06-12 19:31:41 |
 | Updated              | 2023-06-12 19:56:18 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

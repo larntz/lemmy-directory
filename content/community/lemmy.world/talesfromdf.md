@@ -3,7 +3,7 @@ title: "Tales From DF"
 name: "talesfromdf"
 description: "Stories of all the Interesting people you run into in the FFXIV Duty Finder"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/talesfromdf"
@@ -54,4 +54,4 @@ Stories of all the Interesting people you run into in the FFXIV Duty Finder
 |----------------------|---|
 | Published            | 2023-06-16 03:56:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

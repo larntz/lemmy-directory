@@ -3,17 +3,17 @@ title: "Shitpost"
 name: "shitpost"
 description: "The toiler where all our shit goes"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/shitpost"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 94
+subscribers: 114
 posts: 6
 comments: 14
 weight: 6
-dau: 2
+dau: 1
 wau: 13
 mau: 13
 instances:
@@ -41,10 +41,10 @@ The toiler where all our shit goes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
+| Subscribers          | 114 |
 | Posts                | 6  |
 | Comments             | 14  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
 
@@ -54,4 +54,4 @@ The toiler where all our shit goes
 |----------------------|---|
 | Published            | 2023-06-13 14:51:10 |
 | Updated              | 2023-06-13 15:26:13 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

@@ -3,13 +3,13 @@ title: "Albany NY"
 name: "albany"
 description: "a community dedicated to Albany NY"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/albany"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 3
 comments: 6
 weight: 3
@@ -41,7 +41,7 @@ a community dedicated to Albany NY
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 3  |
 | Comments             | 6  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ a community dedicated to Albany NY
 |----------------------|---|
 | Published            | 2023-06-12 20:00:00 |
 | Updated              | 2023-06-12 20:06:48 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

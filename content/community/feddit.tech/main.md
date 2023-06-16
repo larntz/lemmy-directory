@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "Welcome welcome welcom to this technology focused Lemmy"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/main"
@@ -54,4 +54,4 @@ Welcome welcome welcom to this technology focused Lemmy
 |----------------------|---|
 | Published            | 2023-06-14 22:08:18 |
 | Updated              | 2023-06-15 08:19:02 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

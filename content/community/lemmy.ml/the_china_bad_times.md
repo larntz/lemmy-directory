@@ -3,7 +3,7 @@ title: "The China Bad Times"
 name: "the_china_bad_times"
 description: "The China Bad Times, but in Lemmy!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/the_china_bad_times"
@@ -54,4 +54,4 @@ The China Bad Times, but in Lemmy!
 |----------------------|---|
 | Published            | 2022-08-30 21:49:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,19 +3,19 @@ title: "French"
 name: "french"
 description: "L'espace pour apprendre et enseigner le français. The place to learn and teach the French language."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/french"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 32
 posts: 3
-comments: 1
+comments: 4
 weight: 3
-dau: 3
-wau: 3
-mau: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ L'espace pour apprendre et enseigner le français. The place to learn and teach 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 32 |
 | Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ L'espace pour apprendre et enseigner le français. The place to learn and teach 
 |----------------------|---|
 | Published            | 2023-06-12 03:56:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

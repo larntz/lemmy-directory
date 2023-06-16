@@ -3,13 +3,13 @@ title: "Julia Community"
 name: "julia_community"
 description: "Julia community is a community on Lemmy to discuss Julia programming and articles, tips, etc"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/julia_community"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 7
 comments: 2
 weight: 7
@@ -41,7 +41,7 @@ Julia community is a community on Lemmy to discuss Julia programming and article
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 7  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Julia community is a community on Lemmy to discuss Julia programming and article
 |----------------------|---|
 | Published            | 2023-06-12 01:22:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

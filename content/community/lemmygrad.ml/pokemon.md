@@ -3,13 +3,13 @@ title: "Pokémon"
 name: "pokemon"
 description: "Pokémon community on Lemmygrad"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pokemon"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 73
 comments: 102
 weight: 73
@@ -41,7 +41,7 @@ Pokémon community on Lemmygrad
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 73  |
 | Comments             | 102  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Pokémon community on Lemmygrad
 |----------------------|---|
 | Published            | 2022-09-05 23:22:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,7 +3,7 @@ title: "No Glove, No Love - Tuesdays"
 name: "noglove2023"
 description: "A space for NGNL players to organize, discuss games, check if players on other teams can fill in, etc."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/noglove2023"
@@ -54,4 +54,4 @@ A space for NGNL players to organize, discuss games, check if players on other t
 |----------------------|---|
 | Published            | 2023-05-26 01:48:28 |
 | Updated              | 2023-05-26 01:49:07 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

@@ -3,19 +3,19 @@ title: "Dwarf Fortress"
 name: "dwarffortress"
 description: "All things related to Dwarf Fortress.- [Bay12Games](http://www.bay12games.com/dwarves/)- [Steam Page](https://store.steampowered.com/app/975370/Dwarf_Fortress/)STRIKE THE EARTH! "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dwarffortress"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 173
+subscribers: 183
 posts: 9
-comments: 22
+comments: 23
 weight: 9
-dau: 4
-wau: 15
-mau: 15
+dau: 5
+wau: 19
+mau: 20
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All things related to Dwarf Fortress.<br><br>- [Bay12Games](http://www.bay12game
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 173 |
+| Subscribers          | 183 |
 | Posts                | 9  |
-| Comments             | 22  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Comments             | 23  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ All things related to Dwarf Fortress.<br><br>- [Bay12Games](http://www.bay12game
 |----------------------|---|
 | Published            | 2023-06-02 15:23:30 |
 | Updated              | 2023-06-02 15:27:14 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

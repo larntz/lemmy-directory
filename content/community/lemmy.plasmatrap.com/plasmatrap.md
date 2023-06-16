@@ -3,7 +3,7 @@ title: "PlasmaTrap"
 name: "plasmatrap"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.plasmatrap.com/c/plasmatrap"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 23:06:12 |
 | Updated              | 2023-06-10 23:07:05 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

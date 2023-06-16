@@ -3,7 +3,7 @@ title: "Simulated"
 name: "simulated"
 description: "Computer simulated animations.Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/simulated"
@@ -54,4 +54,4 @@ Computer simulated animations.<br><br>Rules:<br>- No NSFW content.<br>- No hate 
 |----------------------|---|
 | Published            | 2023-06-15 12:11:03 |
 | Updated              | 2023-06-15 13:51:25 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

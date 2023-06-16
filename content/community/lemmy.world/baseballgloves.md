@@ -3,7 +3,7 @@ title: "Baseball gloves"
 name: "baseballgloves"
 description: "A place for baseball glove appreciation"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baseballgloves"
@@ -54,4 +54,4 @@ A place for baseball glove appreciation
 |----------------------|---|
 | Published            | 2023-06-14 08:37:25 |
 | Updated              | 2023-06-14 08:50:21 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

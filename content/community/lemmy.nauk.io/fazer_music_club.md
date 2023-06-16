@@ -3,16 +3,16 @@ title: "Fazer Music Club"
 name: "fazer_music_club"
 description: "Music link aggregator"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nauk.io/c/fazer_music_club"
 host: lemmy.nauk.io
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 95
+posts: 96
 comments: 0
-weight: 95
+weight: 96
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Music link aggregator
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 95  |
+| Posts                | 96  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Music link aggregator
 |----------------------|---|
 | Published            | 2023-06-10 10:25:36 |
 | Updated              | 2023-06-10 19:27:50 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:13 |

@@ -3,7 +3,7 @@ title: "Jezus LEEFT. Nederlandse getuigenissen 🙌"
 name: "selfie_getuigenissen"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/selfie_getuigenissen"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-11 10:13:35 |
 | Updated              | 2023-06-14 07:39:40 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

@@ -3,13 +3,13 @@ title: "macOS Apps"
 name: "macapps"
 description: "A place to discuss your favorite apps, find amazing new ones, get help or promote something you've created.>We truly live in an age of wonders."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macapps"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss your favorite apps, find amazing new ones, get help or promot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss your favorite apps, find amazing new ones, get help or promot
 |----------------------|---|
 | Published            | 2023-06-14 17:36:54 |
 | Updated              | 2023-06-14 23:59:18 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

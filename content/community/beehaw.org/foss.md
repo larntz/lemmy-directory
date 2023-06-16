@@ -3,19 +3,19 @@ title: "Free and Open Source Software"
 name: "foss"
 description: "If it's free and open source and it's also software, it can be discussed here. Subcommunity of [Technology](https://beehaw.org/c/technology).---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/foss"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 7489
-posts: 145
-comments: 1334
-weight: 145
-dau: 70
-wau: 587
-mau: 669
+subscribers: 7767
+posts: 152
+comments: 1501
+weight: 152
+dau: 115
+wau: 634
+mau: 732
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ If it's free and open source and it's also software, it can be discussed here. S
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7489 |
-| Posts                | 145  |
-| Comments             | 1334  |
-| Daily Active Users   | 70  |
-| Weekly Active Users  | 587  |
-| Monthly Active Users | 669  |
+| Subscribers          | 7767 |
+| Posts                | 152  |
+| Comments             | 1501  |
+| Daily Active Users   | 115  |
+| Weekly Active Users  | 634  |
+| Monthly Active Users | 732  |
 
 <br>
 
@@ -54,4 +54,4 @@ If it's free and open source and it's also software, it can be discussed here. S
 |----------------------|---|
 | Published            | 2022-09-02 16:49:00 |
 | Updated              | 2023-06-15 17:26:25 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

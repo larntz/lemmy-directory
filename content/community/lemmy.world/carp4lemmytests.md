@@ -3,7 +3,7 @@ title: "carp4lemmytests"
 name: "carp4lemmytests"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carp4lemmytests"
@@ -14,8 +14,8 @@ posts: 3
 comments: 1
 weight: 3
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Description not available.
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 13:23:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

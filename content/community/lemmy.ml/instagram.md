@@ -3,7 +3,7 @@ title: "Instagram"
 name: "instagram"
 description: "Discussions related to Instagram- https://instagram.com"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/instagram"
@@ -54,4 +54,4 @@ Discussions related to Instagram<br><br>- https://instagram.com
 |----------------------|---|
 | Published            | 2020-06-28 23:30:24 |
 | Updated              | 2023-06-10 01:22:36 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

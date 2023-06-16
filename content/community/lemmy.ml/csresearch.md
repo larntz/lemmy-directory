@@ -3,7 +3,7 @@ title: "Computer Science Research"
 name: "csresearch"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/csresearch"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-20 00:47:34 |
 | Updated              | 2022-12-20 00:53:36 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

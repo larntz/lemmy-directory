@@ -3,13 +3,13 @@ title: "Verified"
 name: "verified"
 description: "**Users that have ALREADY provided verification photos*****# How to verify your account: ` `### Firstly, post at least one color picture to [/c/verify](https://lemmynsfw.com/c/verify) or an Uploaded gallery which includes:1. Full visibility of the forward profile your body between your neck and knees. NUDITY IS NOT NEEDED.2. Adequate visibility to identify your gender3. You holding a handwritten paper sign which shows:     * Your exact Lemmy username and server /u/example@lemmynsfw.com    * A mention of the /c/verify community or the community you're verifying for    * Today’s date (matching the date you submit the picture to Reddit). Please spell out the month: January 7th 2023 or Jan 7th 2023, not 1/7/2023 (US) or 7/1/2023 (non-US)The pictures DO NOT NEED to contain full or partial visibility of:    Your face    Nudity    Identifying features such as tattoo’s or birthmarks    Identifying features in the background"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/verified"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 72
+subscribers: 75
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
+| Subscribers          | 75 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 22:55:12 |
 | Updated              | 2023-06-13 00:35:49 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

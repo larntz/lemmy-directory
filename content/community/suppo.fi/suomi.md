@@ -3,7 +3,7 @@ title: "testi"
 name: "suomi"
 description: "![](https://suppo.fi/pictrs/image/db305296-4ccf-4325-8f22-e917afdae2d8.png)  Testiyhteisö. Suppo.fi suosittelee Sopulin suomikanavaa.Pikalinkit:- Suomi: [!suomi@sopuli.xyz](/c/suomi@sopuli.xyz)- Sauna: [!sauna@suppo.fi](/c/sauna@suppo.fi) "
 type: community
-date: "2023-06-16 11:06:02"
+date: "2023-06-16 22:56:00"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/suomi"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-05 23:03:28 |
 | Updated              | 2023-06-08 19:37:14 |
-| Last Scraped         | 2023-06-16 11:06:02 |
+| Last Scraped         | 2023-06-16 22:56:00 |

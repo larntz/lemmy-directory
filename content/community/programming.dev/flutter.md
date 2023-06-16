@@ -3,13 +3,13 @@ title: "Flutter"
 name: "flutter"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/flutter"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 46
 posts: 2
 comments: 5
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 46 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 02:25:05 |
 | Updated              | 2023-06-13 04:33:50 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

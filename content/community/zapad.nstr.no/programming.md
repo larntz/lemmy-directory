@@ -3,7 +3,7 @@ title: "programming"
 name: "programming"
 description: "General links and discussions about the art and craft of programming"
 type: community
-date: "2023-06-16 11:06:33"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/programming"
@@ -54,4 +54,4 @@ General links and discussions about the art and craft of programming
 |----------------------|---|
 | Published            | 2023-06-12 22:07:33 |
 | Updated              | 2023-06-15 16:59:27 |
-| Last Scraped         | 2023-06-16 11:06:33 |
+| Last Scraped         | 2023-06-16 22:56:31 |

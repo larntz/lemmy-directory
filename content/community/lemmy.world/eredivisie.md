@@ -3,16 +3,16 @@ title: "Eredivisie"
 name: "eredivisie"
 description: "A place for news and discussion of The Eredivisie, Eerste Divisive, and the rest of the Dutch football system.**Rules:**1. Submissions may be in Dutch or English (or a summary translation included in the comments)2. All headlines must be posted in English2. Comments may be in Dutch or English3. Don't be a dick4. Any posted tweets/toots must include the author's name/username in the title.5. Watch this space for further developments"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eredivisie"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 8
+posts: 9
 comments: 0
-weight: 8
+weight: 9
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ A place for news and discussion of The Eredivisie, Eerste Divisive, and the rest
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 8  |
+| Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A place for news and discussion of The Eredivisie, Eerste Divisive, and the rest
 |----------------------|---|
 | Published            | 2023-06-12 00:07:35 |
 | Updated              | 2023-06-12 12:56:23 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

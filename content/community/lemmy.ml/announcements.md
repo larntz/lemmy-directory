@@ -3,19 +3,19 @@ title: "Announcements"
 name: "announcements"
 description: "Lemmy Announcements---Feel free to announce new communities here.Other than that, this is *reserved for admin use only*."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/announcements"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19161
+subscribers: 19189
 posts: 374
-comments: 3061
+comments: 3059
 weight: 374
-dau: 1
-wau: 19
-mau: 22
+dau: 2
+wau: 21
+mau: 25
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Lemmy Announcements<br><br>---<br><br>Feel free to announce new communities here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19161 |
+| Subscribers          | 19189 |
 | Posts                | 374  |
-| Comments             | 3061  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 22  |
+| Comments             | 3059  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy Announcements<br><br>---<br><br>Feel free to announce new communities here
 |----------------------|---|
 | Published            | 2019-06-02 16:43:50 |
 | Updated              | 2023-02-22 17:09:17 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

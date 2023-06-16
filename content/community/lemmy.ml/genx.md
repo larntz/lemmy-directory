@@ -3,7 +3,7 @@ title: "Generation X"
 name: "genx"
 description: "Generation X:  those born between ~1965 and ~1980 -- the forgotten generation. Most members of Generation X are the children of the Silent Generation and early Boomers and the parents of Millenials and Gen Z. Whatever."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/genx"
@@ -14,8 +14,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ Generation X:  those born between ~1965 and ~1980 -- the forgotten generation. M
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Generation X:  those born between ~1965 and ~1980 -- the forgotten generation. M
 |----------------------|---|
 | Published            | 2023-06-15 13:18:07 |
 | Updated              | 2023-06-15 13:46:55 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

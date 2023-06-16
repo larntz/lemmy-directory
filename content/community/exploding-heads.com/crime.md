@@ -3,13 +3,13 @@ title: "Crime"
 name: "crime"
 description: "Discussions about crime news stories and topics related to this"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/crime"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 222
 comments: 103
 weight: 222
@@ -41,7 +41,7 @@ Discussions about crime news stories and topics related to this
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 222  |
 | Comments             | 103  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ Discussions about crime news stories and topics related to this
 |----------------------|---|
 | Published            | 2023-02-02 03:45:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

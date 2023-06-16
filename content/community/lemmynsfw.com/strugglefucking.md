@@ -3,13 +3,13 @@ title: "Struggle Fucking"
 name: "strugglefucking"
 description: "Resurrected r/strugglefucking. Posts should all involve struggling, rough porn. Do not post anything against site wide rules. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/strugglefucking"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 57
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Resurrected r/strugglefucking. Posts should all involve struggling, rough porn. 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 57 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Resurrected r/strugglefucking. Posts should all involve struggling, rough porn. 
 |----------------------|---|
 | Published            | 2023-06-14 13:48:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,7 +3,7 @@ title: "Build a PC Sales"
 name: "buildapcsales"
 description: "Sales on PC/Server components"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jerick.xyz/c/buildapcsales"
@@ -54,4 +54,4 @@ Sales on PC/Server components
 |----------------------|---|
 | Published            | 2023-06-12 03:55:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:10 |

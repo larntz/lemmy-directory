@@ -3,7 +3,7 @@ title: "NBA Memes"
 name: "nbamemes"
 description: "A safe space for in-depth discussions of high quality, manually curated, artisanal NBA memes"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nbamemes"
@@ -54,4 +54,4 @@ A safe space for in-depth discussions of high quality, manually curated, artisan
 |----------------------|---|
 | Published            | 2023-06-15 05:30:51 |
 | Updated              | 2023-06-15 15:56:17 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -3,13 +3,13 @@ title: "Nine Inch Nails"
 name: "nin"
 description: "All things Nine Inch Nails"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nin"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 36
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ All things Nine Inch Nails
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ All things Nine Inch Nails
 |----------------------|---|
 | Published            | 2023-06-11 06:08:27 |
 | Updated              | 2023-06-12 21:55:17 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

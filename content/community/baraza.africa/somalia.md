@@ -3,7 +3,7 @@ title: "Somalia"
 name: "somalia"
 description: "> A space to share and discuss Somalia news and issues. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/somalia"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-12 16:20:04 |
 | Updated              | 2021-11-28 02:01:17 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

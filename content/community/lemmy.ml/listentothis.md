@@ -3,13 +3,13 @@ title: "ListenToThis"
 name: "listentothis"
 description: "Listentothis is the place to discover new and overlooked music. All submissions link directly to music streams. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/listentothis"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Listentothis is the place to discover new and overlooked music. All submissions 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Listentothis is the place to discover new and overlooked music. All submissions 
 |----------------------|---|
 | Published            | 2023-06-11 03:58:07 |
 | Updated              | 2023-06-11 04:14:32 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

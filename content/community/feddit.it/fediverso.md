@@ -3,19 +3,19 @@ title: "Che succede nel Fediverso?"
 name: "fediverso"
 description: "Questo canale è dedicato a notizie e aggiornamenti sul fediverso e alla comunicazione di iniziative ed eventi che adottano il fediverso come strumento di diffusione sociale.https://poliverso.org/profile/notizieNB: gli utenti si assumono la responsabilità di ciò che scrivono; sono comunque vietati gli off topic, il linguaggio aggressivo e i contenuti illegali e pornografici.   "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fediverso"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 332
+subscribers: 335
 posts: 198
-comments: 603
+comments: 604
 weight: 198
 dau: 3
-wau: 25
-mau: 59
+wau: 21
+mau: 58
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Questo canale è dedicato a notizie e aggiornamenti sul fediverso e alla comunic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 332 |
+| Subscribers          | 335 |
 | Posts                | 198  |
-| Comments             | 603  |
+| Comments             | 604  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 59  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 58  |
 
 <br>
 
@@ -54,4 +54,4 @@ Questo canale è dedicato a notizie e aggiornamenti sul fediverso e alla comunic
 |----------------------|---|
 | Published            | 2022-05-05 08:36:43 |
 | Updated              | 2022-05-24 11:18:18 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

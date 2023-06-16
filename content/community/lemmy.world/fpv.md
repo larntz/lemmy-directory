@@ -3,13 +3,13 @@ title: "FPV"
 name: "fpv"
 description: "A place to discuss all things FPV (first person view).  Drones, wings, rc cars, whatever floats your boat. Rules: 1. No spam 2. Keep it civil"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fpv"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss all things FPV (first person view).  Drones, wings, rc cars, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss all things FPV (first person view).  Drones, wings, rc cars, 
 |----------------------|---|
 | Published            | 2023-06-10 02:29:47 |
 | Updated              | 2023-06-10 02:31:15 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

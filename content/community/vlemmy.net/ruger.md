@@ -3,7 +3,7 @@ title: "Ruger"
 name: "ruger"
 description: "Everything to do with Ruger firearms"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/ruger"
@@ -54,4 +54,4 @@ Everything to do with Ruger firearms
 |----------------------|---|
 | Published            | 2023-06-13 01:25:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

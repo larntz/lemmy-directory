@@ -3,7 +3,7 @@ title: "Quickbase"
 name: "quickbase"
 description: "For discussion of the low code platform Quickbase"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quickbase"
@@ -54,4 +54,4 @@ For discussion of the low code platform Quickbase
 |----------------------|---|
 | Published            | 2023-06-11 17:51:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

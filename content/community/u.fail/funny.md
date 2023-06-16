@@ -3,17 +3,17 @@ title: "Funny"
 name: "funny"
 description: "For Funny Memes and such. "
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://u.fail/c/funny"
 host: u.fail
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 2
+subscribers: 23
+posts: 3
 comments: 1
-weight: 2
-dau: 3
+weight: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ For Funny Memes and such.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 2  |
+| Subscribers          | 23 |
+| Posts                | 3  |
 | Comments             | 1  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ For Funny Memes and such.
 |----------------------|---|
 | Published            | 2023-06-14 17:02:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

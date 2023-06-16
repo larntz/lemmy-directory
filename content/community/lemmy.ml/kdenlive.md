@@ -3,7 +3,7 @@ title: "Kdenlive"
 name: "kdenlive"
 description: "A place to chat about [Kdenlive](https://kdenlive.org/en/).Share your videos and ask questions."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kdenlive"
@@ -54,4 +54,4 @@ A place to chat about [Kdenlive](https://kdenlive.org/en/).<br><br>Share your vi
 |----------------------|---|
 | Published            | 2020-12-03 20:22:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:38 |

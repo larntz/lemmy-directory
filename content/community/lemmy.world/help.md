@@ -3,7 +3,7 @@ title: "Help"
 name: "help"
 description: "Need help with your user experience? Ask away!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/help"
@@ -54,4 +54,4 @@ Need help with your user experience? Ask away!
 |----------------------|---|
 | Published            | 2023-06-12 06:44:16 |
 | Updated              | 2023-06-12 06:44:28 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

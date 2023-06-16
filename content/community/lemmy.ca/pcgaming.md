@@ -3,16 +3,16 @@ title: "PC Gaming"
 name: "pcgaming"
 description: "For PC gaming news and discussion.[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)***Rules:***0. Be Respectful.1. No Spam or Porn.2. No Advertising.3. No Memes.4. No Tech Support.5. No questions about buying/building computers.6. No game suggestions, friend requests, surveys, or begging.7. No Let's Plays, streams, highlight reels/montages, random videos or shorts.8. No off-topic posts/comments.9. Use the original source, no clickbait titles, no duplicates. (Submissions should be from the original source if possible, unless from paywalled or non-english sources.If the title is clickbait or lacks context you may **lightly** edit the title.) "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pcgaming"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 1614
-posts: 63
-comments: 121
-weight: 63
+subscribers: 1714
+posts: 65
+comments: 126
+weight: 65
 dau: 18
 wau: 84
 mau: 84
@@ -41,9 +41,9 @@ For PC gaming news and discussion.<br>[PCGamingWiki](https://www.pcgamingwiki.co
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1614 |
-| Posts                | 63  |
-| Comments             | 121  |
+| Subscribers          | 1714 |
+| Posts                | 65  |
+| Comments             | 126  |
 | Daily Active Users   | 18  |
 | Weekly Active Users  | 84  |
 | Monthly Active Users | 84  |
@@ -54,4 +54,4 @@ For PC gaming news and discussion.<br>[PCGamingWiki](https://www.pcgamingwiki.co
 |----------------------|---|
 | Published            | 2023-06-09 12:59:02 |
 | Updated              | 2023-06-12 19:43:56 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

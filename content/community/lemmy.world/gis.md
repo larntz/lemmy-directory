@@ -3,13 +3,13 @@ title: "Geographic Information Systems"
 name: "gis"
 description: "All things GIS (Geographic Information Systems) -- QGIS, ESRI, and more."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ All things GIS (Geographic Information Systems) -- QGIS, ESRI, and more.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things GIS (Geographic Information Systems) -- QGIS, ESRI, and more.
 |----------------------|---|
 | Published            | 2023-06-12 01:39:26 |
 | Updated              | 2023-06-12 01:59:36 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,17 +3,17 @@ title: "Pottery"
 name: "pottery"
 description: "This is a place for potters and pottery lovers to share their art and be a community. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pottery"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 4
+subscribers: 44
+posts: 5
 comments: 8
-weight: 4
-dau: 4
+weight: 5
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ This is a place for potters and pottery lovers to share their art and be a commu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 4  |
+| Subscribers          | 44 |
+| Posts                | 5  |
 | Comments             | 8  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -53,5 +53,5 @@ This is a place for potters and pottery lovers to share their art and be a commu
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 17:04:54 |
-| Updated              | 2023-06-12 17:26:53 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Updated              | 2023-06-16 17:51:56 |
+| Last Scraped         | 2023-06-16 22:57:14 |

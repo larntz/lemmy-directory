@@ -3,7 +3,7 @@ title: "prey"
 name: "prey"
 description: "For fans of the 2017 game made by Arkane studios "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prey"
@@ -54,4 +54,4 @@ For fans of the 2017 game made by Arkane studios
 |----------------------|---|
 | Published            | 2023-06-13 03:02:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

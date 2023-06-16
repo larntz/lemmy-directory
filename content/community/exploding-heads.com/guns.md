@@ -3,13 +3,13 @@ title: "Guns - The good, the bad and the ugly"
 name: "guns"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/guns"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 171
 comments: 1
 weight: 171
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 171  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-26 00:52:27 |
 | Updated              | 2022-05-27 16:07:13 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-16 22:56:37 |

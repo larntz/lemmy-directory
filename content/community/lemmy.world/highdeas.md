@@ -3,13 +3,13 @@ title: "Highdeas"
 name: "highdeas"
 description: "A place to share any ideas you have while high!This is a weed sub, be nice."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/highdeas"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 25
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ A place to share any ideas you have while high!<br><br>This is a weed sub, be ni
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 25 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to share any ideas you have while high!<br><br>This is a weed sub, be ni
 |----------------------|---|
 | Published            | 2023-06-14 04:14:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

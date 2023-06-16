@@ -3,7 +3,7 @@ title: "Law"
 name: "law"
 description: "For discussion of the legal field and legal news###### Rules1. No editorialized titles2. Discussion of specific cases must either link to the opinion itself or an article containing a link to the opinion.3. Articles cannot be primarily concerning politics. Obviously laws themselves are written by politicians, and many legal cases have political effects, but posts must be focused on the laws themselves."
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/law"
@@ -54,4 +54,4 @@ For discussion of the legal field and legal news<br><br>###### Rules<br><br>1. N
 |----------------------|---|
 | Published            | 2023-06-06 15:34:19 |
 | Updated              | 2023-06-13 14:58:09 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

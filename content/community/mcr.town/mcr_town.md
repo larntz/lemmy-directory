@@ -3,7 +3,7 @@ title: "mcr.town"
 name: "mcr_town"
 description: "Meta discussion about this site"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://mcr.town/c/mcr_town"
@@ -54,4 +54,4 @@ Meta discussion about this site
 |----------------------|---|
 | Published            | 2023-06-14 12:37:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

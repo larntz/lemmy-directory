@@ -3,19 +3,19 @@ title: "Polska"
 name: "polska"
 description: "Bo Polacy lubią mieć swoje gniazdo.Tematyka dowolna, w języku polskim."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/polska"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 57
 posts: 8
 comments: 10
 weight: 8
 dau: 1
-wau: 8
-mau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Bo Polacy lubią mieć swoje gniazdo.<br><br>Tematyka dowolna, w języku polskim
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 57 |
 | Posts                | 8  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Bo Polacy lubią mieć swoje gniazdo.<br><br>Tematyka dowolna, w języku polskim
 |----------------------|---|
 | Published            | 2023-06-10 16:30:55 |
 | Updated              | 2023-06-11 20:10:14 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

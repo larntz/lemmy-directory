@@ -3,7 +3,7 @@ title: "Poznań"
 name: "poznan"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/poznan"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-10-23 08:41:29 |
 | Updated              | 2021-03-19 15:14:08 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,7 +3,7 @@ title: "CVS"
 name: "cvs"
 description: "Unofficial sublemming or lemmy or community abut CVS and CVS workers, more info  [here.](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cvs"
@@ -54,4 +54,4 @@ Unofficial sublemming or lemmy or community abut CVS and CVS workers, more info 
 |----------------------|---|
 | Published            | 2023-05-09 16:20:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

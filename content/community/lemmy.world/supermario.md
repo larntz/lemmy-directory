@@ -3,13 +3,13 @@ title: "Super Mario"
 name: "supermario"
 description: "Welcome-a to Super Mario's community on Lemmy! The ideal place to discuss old and upcoming Mario games, speedruns, media, movies and other Mario-related items. **Rules:**- Be respectful.- Content must be related to the Super Mario franchise.- No piracy of copyrighted material.- While discussions of collectibles and general objects is allowed, please contact moderators before making posts about buying or selling stuff. Enjoy! "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/supermario"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Welcome-a to Super Mario's community on Lemmy! The ideal place to discuss old an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome-a to Super Mario's community on Lemmy! The ideal place to discuss old an
 |----------------------|---|
 | Published            | 2023-06-12 15:37:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

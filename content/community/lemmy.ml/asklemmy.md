@@ -3,19 +3,19 @@ title: "asklemmy"
 name: "asklemmy"
 description: "A loosely moderated place to ask open ended questionsIf your post is1. Open ended 2. Not offensive (At this point, I do not have the bandwidth to moderate partisan political discussions)3. **Not regarding lemmy support** ([!lemmy_support@lemmy.ml](https://lemmy.ml/c/lemmy_support) )4. not ad nauseam inducing (please make sure its a question that would be new to most members)5. [An actual topic of discussion](https://lemmy.ml/post/1239589)it’s welcome here!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/asklemmy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14719
-posts: 1612
-comments: 27614
-weight: 1612
-dau: 814
-wau: 4084
-mau: 4637
+subscribers: 15065
+posts: 1622
+comments: 28066
+weight: 1622
+dau: 746
+wau: 4261
+mau: 5278
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A loosely moderated place to ask open ended questions<br><br>If your post is<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14719 |
-| Posts                | 1612  |
-| Comments             | 27614  |
-| Daily Active Users   | 814  |
-| Weekly Active Users  | 4084  |
-| Monthly Active Users | 4637  |
+| Subscribers          | 15065 |
+| Posts                | 1622  |
+| Comments             | 28066  |
+| Daily Active Users   | 746  |
+| Weekly Active Users  | 4261  |
+| Monthly Active Users | 5278  |
 
 <br>
 
@@ -54,4 +54,4 @@ A loosely moderated place to ask open ended questions<br><br>If your post is<br>
 |----------------------|---|
 | Published            | 2019-04-25 04:58:33 |
 | Updated              | 2023-06-14 00:05:37 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:27 |

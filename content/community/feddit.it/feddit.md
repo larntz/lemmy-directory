@@ -3,19 +3,19 @@ title: "Supporto feddit.it e accoglienza Redditors "
 name: "feddit"
 description: "# Comunità di supporto agli utenti e ai moderatori## *NB: abbiamo attivato su questa comunità un centro di accoglienza, smistamento e primo soccorso per i migranti di Reddit!* 😁Lemmy, funzionalità e integrazione con altre piattaforme "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/feddit"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 176
+subscribers: 177
 posts: 36
-comments: 319
+comments: 327
 weight: 36
-dau: 11
-wau: 51
-mau: 58
+dau: 17
+wau: 56
+mau: 64
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 176 |
+| Subscribers          | 177 |
 | Posts                | 36  |
-| Comments             | 319  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 51  |
-| Monthly Active Users | 58  |
+| Comments             | 327  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 56  |
+| Monthly Active Users | 64  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-05-05 09:35:57 |
 | Updated              | 2023-06-11 15:20:06 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

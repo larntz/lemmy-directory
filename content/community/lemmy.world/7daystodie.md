@@ -3,7 +3,7 @@ title: "7daystodie"
 name: "7daystodie"
 description: "community for discussion of everyone's favorite survival game, 7 days to die"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/7daystodie"
@@ -54,4 +54,4 @@ community for discussion of everyone's favorite survival game, 7 days to die
 |----------------------|---|
 | Published            | 2023-06-12 18:24:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Test Community"
 name: "test"
 description: "This is just a test community."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lmmy.io/c/test"
@@ -54,4 +54,4 @@ This is just a test community.
 |----------------------|---|
 | Published            | 2023-06-10 03:26:31 |
 | Updated              | 2023-06-10 10:29:30 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,17 +3,17 @@ title: "Notícias"
 name: "noticias"
 description: "Local para partilhar notícias generalistas."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/noticias"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 74
+subscribers: 76
 posts: 44
-comments: 48
+comments: 49
 weight: 44
-dau: 4
+dau: 3
 wau: 12
 mau: 14
 instances:
@@ -41,10 +41,10 @@ Local para partilhar notícias generalistas.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
+| Subscribers          | 76 |
 | Posts                | 44  |
-| Comments             | 48  |
-| Daily Active Users   | 4  |
+| Comments             | 49  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 14  |
 
@@ -54,4 +54,4 @@ Local para partilhar notícias generalistas.
 |----------------------|---|
 | Published            | 2021-09-10 19:51:53 |
 | Updated              | 2021-09-13 12:09:28 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

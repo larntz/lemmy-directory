@@ -3,13 +3,13 @@ title: "Futurology"
 name: "futurology"
 description: "Futurology, a community devoted to the field of Future(s) Studies and speculation about the development of humanity, technology, and civilization."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/futurology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 120
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Futurology, a community devoted to the field of Future(s) Studies and speculatio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 120 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Futurology, a community devoted to the field of Future(s) Studies and speculatio
 |----------------------|---|
 | Published            | 2023-06-11 10:53:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

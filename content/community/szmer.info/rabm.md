@@ -3,7 +3,7 @@ title: "RABM"
 name: "rabm"
 description: "Przestrzeń poświęcona antyfaszystowskim, anarchistycznym i lewicowym nurtom ekstremalnej muzyki. Głównie Red & Anarchist Black Metal, ale także gatunki pokrewne (Crust, HC, Noise, Folk)**Zachęcam do wrzucania przede wsystkim odnośników do [Bandcampu](https://www.bandcamp.com), który, w przeciwieństwie do YT i platform strumieniowych, zapewnia uczciwy dochód artystom**Logo: (c) [Hagiophobic](https://hagiophobic.bigcartel.com/product/rabm-download) (kopia grafiki zakupiona od twórcy na potrzeby grupy)"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/rabm"
@@ -54,4 +54,4 @@ Przestrzeń poświęcona antyfaszystowskim, anarchistycznym i lewicowym nurtom e
 |----------------------|---|
 | Published            | 2021-05-20 09:20:24 |
 | Updated              | 2021-05-20 09:23:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

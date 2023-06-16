@@ -3,7 +3,7 @@ title: "RC Airplanes"
 name: "rc_planes"
 description: "Building, flying, and the inevitable repairing of powered and unpowered winged RC airplanes.Icon credit: [Quadcopter icons created by bsd - Flaticon](https://www.flaticon.com/free-icons/quadcopter)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rc_planes"
@@ -54,4 +54,4 @@ Building, flying, and the inevitable repairing of powered and unpowered winged R
 |----------------------|---|
 | Published            | 2023-06-12 12:54:26 |
 | Updated              | 2023-06-12 13:33:23 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

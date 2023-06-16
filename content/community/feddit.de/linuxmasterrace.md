@@ -3,15 +3,15 @@ title: "linuxmasterrace"
 name: "linuxmasterrace"
 description: "A community for Linux enthusiasts.May your htop stats be low and your beard grow longWelcome to [!linuxmasterrace@feddit.de](https://feddit.de/c/linuxmasterrace) former r/linuxmasterrace members and existing Lemmyverse citizens: Feel free to join the newly created [!linuxmasterrace@feddit.de](https://feddit.de/c/linuxmasterrace) community.Let’s make the full transition to the decentralized Fediverse!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/linuxmasterrace"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 278
+subscribers: 303
 posts: 6
-comments: 11
+comments: 12
 weight: 6
 dau: 6
 wau: 12
@@ -41,9 +41,9 @@ A community for Linux enthusiasts.<br><br>May your htop stats be low and your be
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 278 |
+| Subscribers          | 303 |
 | Posts                | 6  |
-| Comments             | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
@@ -54,4 +54,4 @@ A community for Linux enthusiasts.<br><br>May your htop stats be low and your be
 |----------------------|---|
 | Published            | 2023-06-14 13:12:05 |
 | Updated              | 2023-06-14 15:42:49 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

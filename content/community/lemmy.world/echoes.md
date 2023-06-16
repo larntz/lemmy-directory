@@ -3,13 +3,13 @@ title: "EVE Echoes"
 name: "echoes"
 description: "The Echoes community on Lemmy.world! Reddit refugees welcome. Don’t be a dick. Fights will be settled by rap battle or on grid."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/echoes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 11
 comments: 1
 weight: 11
@@ -41,7 +41,7 @@ The Echoes community on Lemmy.world! Reddit refugees welcome. Don’t be a dick.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 11  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The Echoes community on Lemmy.world! Reddit refugees welcome. Don’t be a dick.
 |----------------------|---|
 | Published            | 2023-06-09 14:58:46 |
 | Updated              | 2023-06-10 21:48:32 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

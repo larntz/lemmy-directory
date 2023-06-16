@@ -3,16 +3,16 @@ title: "Vegan Recipes"
 name: "veganrecipes"
 description: "Collection of vegan recipes"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/veganrecipes"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 24
-comments: 12
-weight: 24
+subscribers: 35
+posts: 25
+comments: 13
+weight: 25
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ Collection of vegan recipes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 24  |
-| Comments             | 12  |
+| Subscribers          | 35 |
+| Posts                | 25  |
+| Comments             | 13  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Collection of vegan recipes
 |----------------------|---|
 | Published            | 2023-06-14 00:22:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,19 +3,19 @@ title: "maitatzeko territorio librea"
 name: "zirri"
 description: " *Arranoak bortüetan /gora dabiltza hegaletan /ni ere beste ordüz /andereki kanberetan...*Euzkadin gutxi jotzen dela dioen topikoaz harantzago, Euskal Herrian larrutan, lehen bezala orain, asko eta osasuntsuki egiten da. Beste kontu bat da, hortaz hitz egiten den edo ez. Komunitate honetan, ongi etorriak dira sexu joera eta maitatzeko era guztietako lagunak. Esperientziak partekatzeko leku seguru bat eraiki nahiko genuke (pribatutasuna mantendu nahi duena errespetatuz). Zuen ekarpenak ongi etorriak dira!"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/zirri"
 host: lemmy.eus
 lastmod: "{[ .Updated }}"
 subscribers: 12
-posts: 25
-comments: 61
-weight: 25
-dau: 1
-wau: 1
-mau: 1
+posts: 26
+comments: 62
+weight: 26
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_eus"
 tags: 
@@ -42,11 +42,11 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 12 |
-| Posts                | 25  |
-| Comments             | 61  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Posts                | 26  |
+| Comments             | 62  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-09 11:06:23 |
 | Updated              | 2021-01-10 21:33:15 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

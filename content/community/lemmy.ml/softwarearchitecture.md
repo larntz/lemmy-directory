@@ -3,7 +3,7 @@ title: "Software Architecture"
 name: "softwarearchitecture"
 description: "Software architecture documents the shared understanding of a software system."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/softwarearchitecture"
@@ -54,4 +54,4 @@ Software architecture documents the shared understanding of a software system.
 |----------------------|---|
 | Published            | 2021-03-04 22:23:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

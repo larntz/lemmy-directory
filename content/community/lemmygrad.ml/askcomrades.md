@@ -3,13 +3,13 @@ title: "Ask Comrades"
 name: "askcomrades"
 description: "Open-ended questions community for Lemmygrad."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/askcomrades"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 146
+subscribers: 145
 posts: 22
 comments: 59
 weight: 22
@@ -41,7 +41,7 @@ Open-ended questions community for Lemmygrad.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 146 |
+| Subscribers          | 145 |
 | Posts                | 22  |
 | Comments             | 59  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Open-ended questions community for Lemmygrad.
 |----------------------|---|
 | Published            | 2020-08-26 18:08:10 |
 | Updated              | 2021-06-26 00:56:39 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

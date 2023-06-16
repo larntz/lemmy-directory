@@ -3,19 +3,19 @@ title: "hiphopheads "
 name: "hiphopheads"
 description: "Welcome to !hiphopheads! If you want this community established and well maintained, then creating activity is how you let us know!-This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hiphopheads"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+subscribers: 17
+posts: 2
+comments: 1
+weight: 2
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to !hiphopheads! <br><br>If you want this community established and well
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 17 |
+| Posts                | 2  |
+| Comments             | 1  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to !hiphopheads! <br><br>If you want this community established and well
 |----------------------|---|
 | Published            | 2023-06-12 01:50:55 |
 | Updated              | 2023-06-15 23:26:23 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

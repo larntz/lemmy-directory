@@ -3,13 +3,13 @@ title: "Ask Women"
 name: "askwomen"
 description: "Jokes on you, everyone on lemmy are males :(. But hopefully that changes eventually! Crosspost questions for females from there to here!Ask any question and ideally only females answer the question. Males can answer too, but ideally you state that you’re not a female.Related:- lemmy.ca/c/askmen- [ask transgender/non-binary](https://lemmy.ml/c/transgender)"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/askwomen"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 141
+subscribers: 147
 posts: 1
 comments: 5
 weight: 1
@@ -41,7 +41,7 @@ Jokes on you, everyone on lemmy are males :(. But hopefully that changes eventua
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 141 |
+| Subscribers          | 147 |
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Jokes on you, everyone on lemmy are males :(. But hopefully that changes eventua
 |----------------------|---|
 | Published            | 2022-05-29 10:30:40 |
 | Updated              | 2022-05-29 10:34:29 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

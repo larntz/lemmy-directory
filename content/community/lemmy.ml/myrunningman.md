@@ -3,7 +3,7 @@ title: "MyRunningMan.com"
 name: "myrunningman"
 description: "Our Site: https://www.myrunningman.com[Twitter](https://twitter.com/myrunningmancom) | [Mastodon](https://mastodon.social/@myrunningman) | [Discord](https://discord.gg/gjzuy8TQ) | [Reddit](https://old.reddit.com/r/MyRunningMan/)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/myrunningman"
@@ -54,4 +54,4 @@ Our Site: https://www.myrunningman.com<br><br>[Twitter](https://twitter.com/myru
 |----------------------|---|
 | Published            | 2021-02-25 20:53:06 |
 | Updated              | 2023-06-10 02:56:20 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

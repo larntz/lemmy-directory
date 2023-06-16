@@ -3,16 +3,16 @@ title: "Manitoba"
 name: "manitoba"
 description: "This is a placeholder. If you would like to run this community, please let me know! I'm happy to help out in the meantimeImage credits:* https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/manitoba.html"
 type: community
-date: "2023-06-15 17:37:28"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/manitoba"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 1
-comments: 4
-weight: 1
+subscribers: 22
+posts: 2
+comments: 5
+weight: 2
 dau: 3
 wau: 3
 mau: 3
@@ -41,9 +41,9 @@ This is a placeholder. If you would like to run this community, please let me kn
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 4  |
+| Subscribers          | 22 |
+| Posts                | 2  |
+| Comments             | 5  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ This is a placeholder. If you would like to run this community, please let me kn
 |----------------------|---|
 | Published            | 2023-06-12 05:03:12 |
 | Updated              | 2023-06-12 05:13:33 |
-| Last Scraped         | 2023-06-15 17:37:28 |
+| Last Scraped         | 2023-06-16 22:56:34 |

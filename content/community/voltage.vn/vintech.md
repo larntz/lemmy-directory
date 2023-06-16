@@ -3,7 +3,7 @@ title: "vintech"
 name: "vintech"
 description: "This is a place for people residing in Vietnam to discuss technology -- because sometimes the local optimum for a problem is a little bit different here.No ads, political content, NSFW, and so on. Be helpful, kind, and patient."
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://voltage.vn/c/vintech"
@@ -54,4 +54,4 @@ This is a place for people residing in Vietnam to discuss technology -- because 
 |----------------------|---|
 | Published            | 2023-06-14 09:14:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:23 |

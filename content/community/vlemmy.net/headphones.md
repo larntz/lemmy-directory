@@ -3,15 +3,15 @@ title: "Headphones"
 name: "headphones"
 description: "A place to talk about all types of headphones/IEM's from consumer ANC to open-back audiophile. "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/headphones"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 14
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ A place to talk about all types of headphones/IEM's from consumer ANC to open-ba
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 14 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ A place to talk about all types of headphones/IEM's from consumer ANC to open-ba
 |----------------------|---|
 | Published            | 2023-06-15 21:27:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

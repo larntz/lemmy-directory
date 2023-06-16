@@ -3,13 +3,13 @@ title: "Keep My View"
 name: "keepmyview"
 description: "A place to post an opinion you accept may be correct, in an effort to explain your perspective on the issue. Enter with a mindset for conversation, not debate. Visit [!changemyview](https://lemmy.ml/c/changemyview) for the opposite version."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/keepmyview"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 0
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to post an opinion you accept may be correct, in an effort to explain yo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 0 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to post an opinion you accept may be correct, in an effort to explain yo
 |----------------------|---|
 | Published            | 2023-06-09 13:45:32 |
 | Updated              | 2023-06-09 14:41:46 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

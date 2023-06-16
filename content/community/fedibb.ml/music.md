@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:51"
+date: "2023-06-16 22:55:46"
 draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/music"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-11-04 12:16:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:51 |
+| Last Scraped         | 2023-06-16 22:55:46 |

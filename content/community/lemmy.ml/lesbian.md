@@ -3,19 +3,19 @@ title: "Lesbian"
 name: "lesbian"
 description: "The community for all lesbians, but also allies! Other members of the community are also allowed, but the main subject is lesbianism and all the subjects touching it"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lesbian"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 75
 posts: 4
 comments: 5
 weight: 4
 dau: 1
-wau: 7
-mau: 8
+wau: 9
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The community for all lesbians, but also allies! Other members of the community 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 75 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ The community for all lesbians, but also allies! Other members of the community 
 |----------------------|---|
 | Published            | 2023-06-02 19:13:16 |
 | Updated              | 2023-06-10 11:07:01 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

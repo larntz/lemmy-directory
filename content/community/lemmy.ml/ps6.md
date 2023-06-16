@@ -3,7 +3,7 @@ title: "PS6"
 name: "ps6"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps6"
@@ -14,8 +14,8 @@ posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,13 +45,13 @@ Description not available.
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 16:44:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Updated              | 2023-06-16 13:01:18 |
+| Last Scraped         | 2023-06-16 22:57:18 |

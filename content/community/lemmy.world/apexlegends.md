@@ -3,19 +3,19 @@ title: "Apex Legends"
 name: "apexlegends"
 description: "The official Lemmy Community for Apex Legends!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apexlegends"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 77
-posts: 6
-comments: 19
-weight: 6
+subscribers: 82
+posts: 8
+comments: 22
+weight: 8
 dau: 4
-wau: 11
-mau: 11
+wau: 17
+mau: 17
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The official Lemmy Community for Apex Legends!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 6  |
-| Comments             | 19  |
+| Subscribers          | 82 |
+| Posts                | 8  |
+| Comments             | 22  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ The official Lemmy Community for Apex Legends!
 |----------------------|---|
 | Published            | 2023-06-10 22:28:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

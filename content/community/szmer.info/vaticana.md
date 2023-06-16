@@ -3,16 +3,16 @@ title: "Religia ∘ Antyklerykalizm"
 name: "vaticana"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/vaticana"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 155
-posts: 731
+posts: 732
 comments: 413
-weight: 731
+weight: 732
 dau: 4
 wau: 15
 mau: 16
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 155 |
-| Posts                | 731  |
+| Posts                | 732  |
 | Comments             | 413  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 15  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-27 17:39:04 |
 | Updated              | 2021-02-16 07:15:43 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

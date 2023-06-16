@@ -3,7 +3,7 @@ title: "Deprecated, merged with !NixOS"
 name: "nix"
 description: "Use https://lemmy.ml/c/nixos instead."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nix"
@@ -54,4 +54,4 @@ Use https://lemmy.ml/c/nixos instead.
 |----------------------|---|
 | Published            | 2020-07-10 15:48:52 |
 | Updated              | 2023-06-11 21:41:04 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

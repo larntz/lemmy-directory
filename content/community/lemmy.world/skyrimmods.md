@@ -3,19 +3,19 @@ title: "Skyrim Mods"
 name: "skyrimmods"
 description: "![Skyrim Mods](https://lemmy.world/pictrs/image/d6b106d7-8c94-434e-82cd-1d0d32921b42.png)This is a place to talk all about Skyrim Mods!Rules:1 | Keep discussions centered around Skyrim modding.2 | Keep discussions civil and friendly!  - We strive to keep a safe and nice community!3 | Tag NSFW content as such - There are tons of NSFW Mods, but some people browse at work or around family and friends, they don't want to see your Khajiit titty mod!4 | Memes are allowed on Thursdays, just keep them focused on Skyrim Modding- Sometimes we just need a break from dealing with our mod lists!5 | English Only- Other languages makes it harder to moderate."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skyrimmods"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 617
+subscribers: 657
 posts: 22
-comments: 128
+comments: 140
 weight: 22
-dau: 21
-wau: 51
-mau: 51
+dau: 12
+wau: 64
+mau: 64
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 617 |
+| Subscribers          | 657 |
 | Posts                | 22  |
-| Comments             | 128  |
-| Daily Active Users   | 21  |
-| Weekly Active Users  | 51  |
-| Monthly Active Users | 51  |
+| Comments             | 140  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 64  |
+| Monthly Active Users | 64  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 03:28:00 |
 | Updated              | 2023-06-12 11:49:29 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

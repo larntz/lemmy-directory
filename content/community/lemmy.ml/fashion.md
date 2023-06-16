@@ -3,13 +3,13 @@ title: "Fashion"
 name: "fashion"
 description: "A community for fashionistas, influences, models and photographers to express.Telegram Channel:https://t.me/fashionstate"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fashion"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 38
 posts: 6
 comments: 11
 weight: 6
@@ -41,7 +41,7 @@ A community for fashionistas, influences, models and photographers to express.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 38 |
 | Posts                | 6  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for fashionistas, influences, models and photographers to express.<b
 |----------------------|---|
 | Published            | 2021-12-28 11:06:34 |
 | Updated              | 2022-01-06 05:11:28 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

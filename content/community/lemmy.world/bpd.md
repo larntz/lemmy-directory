@@ -3,19 +3,19 @@ title: "BPD"
 name: "bpd"
 description: "Welcome! This is an inclusive and positive community to share your experiences with BPD. Most types of content is welcome, including memes, rants, questions, and general chat. *This community is not intended for those looking to complain about loved ones w/bpd. This is a safe space, please be respectful. **Not associated with r/BPD. "
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bpd"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 3
+posts: 4
 comments: 0
-weight: 3
-dau: 0
-wau: 0
-mau: 0
+weight: 4
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ Welcome! This is an inclusive and positive community to share your experiences w
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome! This is an inclusive and positive community to share your experiences w
 |----------------------|---|
 | Published            | 2023-06-15 16:02:39 |
 | Updated              | 2023-06-15 17:49:13 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

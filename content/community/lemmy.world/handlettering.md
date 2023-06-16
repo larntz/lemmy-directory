@@ -3,13 +3,13 @@ title: "Hand Lettering"
 name: "handlettering"
 description: "For all the lettering addicts (or potential lettering addicts) who like to look at and create pretty words by hand. Come share your work and give feedback (if requested!)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/handlettering"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 4
 comments: 4
 weight: 4
@@ -41,7 +41,7 @@ For all the lettering addicts (or potential lettering addicts) who like to look 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For all the lettering addicts (or potential lettering addicts) who like to look 
 |----------------------|---|
 | Published            | 2023-06-12 12:42:57 |
 | Updated              | 2023-06-12 12:45:42 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

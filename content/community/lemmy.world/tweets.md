@@ -3,13 +3,13 @@ title: "Black and White People Tweeting Stuff."
 name: "tweets"
 description: "Not White or Black, but ALL People Tweeting Stuff."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tweets"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Not White or Black, but ALL People Tweeting Stuff.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Not White or Black, but ALL People Tweeting Stuff.
 |----------------------|---|
 | Published            | 2023-06-11 12:34:09 |
 | Updated              | 2023-06-11 12:56:06 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

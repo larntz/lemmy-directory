@@ -3,7 +3,7 @@ title: "italy"
 name: "italy"
 description: "Lemmy Italy - Italia Welcome everyone! This is a place to post and discuss anything related to Italy. We also speak English!"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/italy"
@@ -54,4 +54,4 @@ Lemmy Italy - Italia Welcome everyone! This is a place to post and discuss anyth
 |----------------------|---|
 | Published            | 2023-06-14 14:52:38 |
 | Updated              | 2023-06-14 14:53:36 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

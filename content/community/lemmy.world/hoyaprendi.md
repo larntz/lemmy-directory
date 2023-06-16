@@ -3,19 +3,19 @@ title: "Hoy aprendí"
 name: "hoyaprendi"
 description: "Como **TodayIlearned**, pero en español. Comparte curiosidades que hayas aprendido en la red.Comienza los envíos con **HA que...**Compartid enlaces directamente. No se pueden compartir al mismo tiempo imágenes y enlaces."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hoyaprendi"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 8
-comments: 1
-weight: 8
-dau: 1
-wau: 1
-mau: 1
+subscribers: 7
+posts: 11
+comments: 4
+weight: 11
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Como **TodayIlearned**, pero en español. Comparte curiosidades que hayas aprend
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 8  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 7 |
+| Posts                | 11  |
+| Comments             | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Como **TodayIlearned**, pero en español. Comparte curiosidades que hayas aprend
 |----------------------|---|
 | Published            | 2023-06-14 00:46:43 |
 | Updated              | 2023-06-15 22:36:49 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,19 +3,19 @@ title: "Tech Talk - NSFW"
 name: "techtalknsfw"
 description: "A place to discuss software and hardware related to NSFW content in a judgement free zone."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/techtalknsfw"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 58
-posts: 1
-comments: 11
-weight: 1
-dau: 7
-wau: 7
-mau: 7
+subscribers: 81
+posts: 2
+comments: 17
+weight: 2
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A place to discuss software and hardware related to NSFW content in a judgement 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
-| Posts                | 1  |
-| Comments             | 11  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 81 |
+| Posts                | 2  |
+| Comments             | 17  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -56,4 +56,4 @@ A place to discuss software and hardware related to NSFW content in a judgement 
 |----------------------|---|
 | Published            | 2023-06-15 02:22:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

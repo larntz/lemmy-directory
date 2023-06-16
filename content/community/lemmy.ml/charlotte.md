@@ -3,17 +3,17 @@ title: "Charlotte"
 name: "charlotte"
 description: "Community for people who live in the Queen City! 🌃"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/charlotte"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 1
+subscribers: 11
+posts: 2
 comments: 4
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ Community for people who live in the Queen City! 🌃
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
+| Subscribers          | 11 |
+| Posts                | 2  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ Community for people who live in the Queen City! 🌃
 |----------------------|---|
 | Published            | 2023-06-10 17:30:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

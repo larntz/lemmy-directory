@@ -3,7 +3,7 @@ title: "Maplestory"
 name: "maplestory"
 description: "The old 2D maple game we all love to hate [GMS](https://maplestory.nexon.net) |[KMS](https://orangemushroom.net/)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maplestory"
@@ -54,4 +54,4 @@ The old 2D maple game we all love to hate<br><br> [GMS](https://maplestory.nexon
 |----------------------|---|
 | Published            | 2023-06-10 22:51:52 |
 | Updated              | 2023-06-11 02:53:14 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

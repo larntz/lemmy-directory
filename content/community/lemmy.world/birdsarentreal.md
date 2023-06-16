@@ -3,13 +3,13 @@ title: "Birds aren’t real"
 name: "birdsarentreal"
 description: "They used to be. Until the U.S. Government replaced them with drone replicas designed to spy on the American public.Founded in 1976."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/birdsarentreal"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 24
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ They used to be. Until the U.S. Government replaced them with drone replicas des
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 24 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ They used to be. Until the U.S. Government replaced them with drone replicas des
 |----------------------|---|
 | Published            | 2023-06-14 16:55:41 |
 | Updated              | 2023-06-14 18:02:46 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

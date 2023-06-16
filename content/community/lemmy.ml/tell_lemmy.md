@@ -3,7 +3,7 @@ title: "Got something to say? Tell Lemmy."
 name: "tell_lemmy"
 description: "This is a place to post things you want to say to the lemmy/ fediverse. They could be personal accomplishments, something you need to get off your chest, and idea you had, whatever. "
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tell_lemmy"
@@ -54,4 +54,4 @@ This is a place to post things you want to say to the lemmy/ fediverse. They cou
 |----------------------|---|
 | Published            | 2023-06-12 03:12:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

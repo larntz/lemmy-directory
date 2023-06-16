@@ -3,13 +3,13 @@ title: "xkcd"
 name: "xkcd"
 description: "Community to talk about XKCD comics"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xkcd"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 72
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Community to talk about XKCD comics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 72 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community to talk about XKCD comics
 |----------------------|---|
 | Published            | 2020-12-12 10:04:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:28 |

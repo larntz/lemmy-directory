@@ -3,19 +3,19 @@ title: "main"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/main"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 663
-posts: 98
-comments: 559
-weight: 98
-dau: 30
-wau: 136
-mau: 200
+subscribers: 699
+posts: 100
+comments: 629
+weight: 100
+dau: 26
+wau: 131
+mau: 218
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ The Default Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 663 |
-| Posts                | 98  |
-| Comments             | 559  |
-| Daily Active Users   | 30  |
-| Weekly Active Users  | 136  |
-| Monthly Active Users | 200  |
+| Subscribers          | 699 |
+| Posts                | 100  |
+| Comments             | 629  |
+| Daily Active Users   | 26  |
+| Weekly Active Users  | 131  |
+| Monthly Active Users | 218  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2021-08-04 23:06:11 |
 | Updated              | 2021-08-06 14:50:23 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

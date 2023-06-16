@@ -3,7 +3,7 @@ title: "New Zealand"
 name: "newzealand"
 description: "A community for New Zealanders to hangout"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newzealand"
@@ -54,4 +54,4 @@ A community for New Zealanders to hangout
 |----------------------|---|
 | Published            | 2023-06-12 22:21:01 |
 | Updated              | 2023-06-12 22:22:55 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Funny: no such file or directory"
 name: "linuxmemes"
 description: "Memes about Linux and other open source projects"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxmemes"
@@ -14,7 +14,7 @@ posts: 27
 comments: 10
 weight: 27
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ Memes about Linux and other open source projects
 | Posts                | 27  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Memes about Linux and other open source projects
 |----------------------|---|
 | Published            | 2020-06-28 17:09:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:45 |

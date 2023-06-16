@@ -3,13 +3,13 @@ title: "KonoSuba!"
 name: "konosuba"
 description: "A community dedicated to Kono Subarashii Sekai Ni Shukufuku Wo! lovers, either from manga, anime or light novel, everyone is welcome!Rules:- No intolerance- No homophobia- No racism- No porn- No hentai (only draw lewds)- No harassmentif someone breaks any of these, report it as soon as possible."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/konosuba"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 6
 comments: 3
 weight: 6
@@ -41,7 +41,7 @@ A community dedicated to Kono Subarashii Sekai Ni Shukufuku Wo! lovers, either f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 6  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community dedicated to Kono Subarashii Sekai Ni Shukufuku Wo! lovers, either f
 |----------------------|---|
 | Published            | 2021-02-24 20:40:18 |
 | Updated              | 2022-04-19 04:09:39 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

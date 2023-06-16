@@ -3,15 +3,15 @@ title: "Germany"
 name: "germany"
 description: "The place to talk/ask about stuff in Germany in English."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germany"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 223
+subscribers: 239
 posts: 3
-comments: 28
+comments: 31
 weight: 3
 dau: 4
 wau: 18
@@ -41,9 +41,9 @@ The place to talk/ask about stuff in Germany in English.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
+| Subscribers          | 239 |
 | Posts                | 3  |
-| Comments             | 28  |
+| Comments             | 31  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 18  |
 | Monthly Active Users | 18  |
@@ -54,4 +54,4 @@ The place to talk/ask about stuff in Germany in English.
 |----------------------|---|
 | Published            | 2023-06-09 08:40:39 |
 | Updated              | 2023-06-09 08:48:58 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

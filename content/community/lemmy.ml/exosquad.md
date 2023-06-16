@@ -3,7 +3,7 @@ title: "ExoSquad"
 name: "exosquad"
 description: "The sublemmy for fans of the American anime known as ExoSquad. Frame up, Trooper, and get into the action!**Rules**- BE NICE and have fun- No advertising or self-promotion- Credit the artist(s) of fan art when possible- No foul language"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exosquad"
@@ -54,4 +54,4 @@ The sublemmy for fans of the American anime known as ExoSquad. Frame up, Trooper
 |----------------------|---|
 | Published            | 2023-06-07 02:09:06 |
 | Updated              | 2023-06-11 03:43:28 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

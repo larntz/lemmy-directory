@@ -3,13 +3,13 @@ title: "Neovim"
 name: "neovim"
 description: "Everything Neovim. Configs. Questions. Tips. Announcements. Rices."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/neovim"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Everything Neovim. Configs. Questions. Tips. Announcements. Rices.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything Neovim. Configs. Questions. Tips. Announcements. Rices.
 |----------------------|---|
 | Published            | 2023-06-03 16:56:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

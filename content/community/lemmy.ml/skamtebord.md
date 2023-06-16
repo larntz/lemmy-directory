@@ -3,13 +3,13 @@ title: "Skamtebord"
 name: "skamtebord"
 description: "When the source of humor is derived from one word or phrase"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skamtebord"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ When the source of humor is derived from one word or phrase
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ When the source of humor is derived from one word or phrase
 |----------------------|---|
 | Published            | 2021-03-24 05:19:32 |
 | Updated              | 2021-07-24 19:51:12 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:40 |

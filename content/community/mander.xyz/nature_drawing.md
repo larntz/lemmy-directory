@@ -3,15 +3,15 @@ title: "Nature Drawing"
 name: "nature_drawing"
 description: "Hello! Here you can share your drawings of nature.I recommend you to include a tag of the medium at the beginning of the color. For example, [Watercolor] or [Oil painting], and mention your source of inspiration!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nature_drawing"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 11
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ Hello! Here you can share your drawings of nature.<br><br>I recommend you to inc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 11 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Hello! Here you can share your drawings of nature.<br><br>I recommend you to inc
 |----------------------|---|
 | Published            | 2023-06-15 18:53:32 |
 | Updated              | 2023-06-15 21:46:45 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

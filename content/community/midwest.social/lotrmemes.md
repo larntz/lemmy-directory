@@ -3,19 +3,19 @@ title: "Lord of the memes"
 name: "lotrmemes"
 description: "The Lord of the rings memes communitiy on Lemmy. Share memes about Lord of the rings and be respectful.  "
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/lotrmemes"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 624
-posts: 14
-comments: 40
-weight: 14
-dau: 6
-wau: 18
-mau: 27
+subscribers: 682
+posts: 17
+comments: 46
+weight: 17
+dau: 5
+wau: 23
+mau: 32
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ The Lord of the rings memes communitiy on Lemmy. Share memes about Lord of the r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 624 |
-| Posts                | 14  |
-| Comments             | 40  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 27  |
+| Subscribers          | 682 |
+| Posts                | 17  |
+| Comments             | 46  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 32  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Lord of the rings memes communitiy on Lemmy. Share memes about Lord of the r
 |----------------------|---|
 | Published            | 2023-06-03 16:20:25 |
 | Updated              | 2023-06-15 02:14:26 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

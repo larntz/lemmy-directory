@@ -3,7 +3,7 @@ title: "Gin"
 name: "gin"
 description: "Discussion about that lovely distilled alcoholic drink"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gin"
@@ -54,4 +54,4 @@ Discussion about that lovely distilled alcoholic drink
 |----------------------|---|
 | Published            | 2020-07-04 15:10:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

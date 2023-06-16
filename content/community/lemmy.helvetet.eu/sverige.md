@@ -3,15 +3,15 @@ title: "Sverige"
 name: "sverige"
 description: "En svensk gemenskap"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/sverige"
 host: lemmy.helvetet.eu
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 102
 posts: 17
-comments: 24
+comments: 25
 weight: 17
 dau: 1
 wau: 10
@@ -41,9 +41,9 @@ En svensk gemenskap
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 102 |
 | Posts                | 17  |
-| Comments             | 24  |
+| Comments             | 25  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 10  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ En svensk gemenskap
 |----------------------|---|
 | Published            | 2023-04-01 17:22:20 |
 | Updated              | 2023-04-01 17:23:23 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

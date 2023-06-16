@@ -3,7 +3,7 @@ title: "亡と日ヨ尺尸凵几片  .  勹ヨ己卞  .  卞ヨ尺丹乙"
 name: "dailycyberpunk"
 description: "NO FUTURE IS NOW. Korporacje rządzą światem, technologia służy utrzymaniu nierówności, dystopia się rozkręca. Społeczność do dokumentowania rozwoju systemu realnego cyberpanka, oraz wrzutek w estetyce."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/dailycyberpunk"
@@ -54,4 +54,4 @@ NO FUTURE IS NOW. Korporacje rządzą światem, technologia służy utrzymaniu n
 |----------------------|---|
 | Published            | 2020-08-11 18:11:24 |
 | Updated              | 2021-04-27 19:54:05 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

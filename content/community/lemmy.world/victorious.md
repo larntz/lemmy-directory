@@ -3,7 +3,7 @@ title: "Victorious"
 name: "victorious"
 description: "About the Nickelodeon sitcom VICTORiOUS!"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/victorious"
@@ -54,4 +54,4 @@ About the Nickelodeon sitcom VICTORiOUS!
 |----------------------|---|
 | Published            | 2023-06-12 15:35:41 |
 | Updated              | 2023-06-12 15:58:14 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

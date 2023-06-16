@@ -3,13 +3,13 @@ title: "Kubernetes : All you need to know."
 name: "kubernetes"
 description: "Kubernetes Community Resources to learn and grow."
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/kubernetes"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Kubernetes Community Resources to learn and grow.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Kubernetes Community Resources to learn and grow.
 |----------------------|---|
 | Published            | 2023-06-14 10:57:35 |
 | Updated              | 2023-06-14 10:58:16 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

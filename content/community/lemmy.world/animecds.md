@@ -3,7 +3,7 @@ title: "AnimeCDs"
 name: "animecds"
 description: "For All things Anime CDs. "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animecds"
@@ -54,4 +54,4 @@ For All things Anime CDs.
 |----------------------|---|
 | Published            | 2023-06-11 18:07:53 |
 | Updated              | 2023-06-11 18:08:29 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

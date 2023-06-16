@@ -3,7 +3,7 @@ title: "LemmyConfusion"
 name: "lemmyconfusion"
 description: "A collection of weird behavior of the site from the point of view of a new user"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/lemmyconfusion"
@@ -54,4 +54,4 @@ A collection of weird behavior of the site from the point of view of a new user
 |----------------------|---|
 | Published            | 2023-06-12 19:07:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

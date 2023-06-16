@@ -3,13 +3,13 @@ title: "Boardgames"
 name: "boardgames"
 description: "A place for boardgamers to hang out and chat about cardboard. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/boardgames"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for boardgamers to hang out and chat about cardboard.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 19 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for boardgamers to hang out and chat about cardboard.
 |----------------------|---|
 | Published            | 2023-06-12 23:34:05 |
 | Updated              | 2023-06-12 23:43:11 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

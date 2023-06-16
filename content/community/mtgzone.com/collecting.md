@@ -3,7 +3,7 @@ title: "Collecting"
 name: "collecting"
 description: "**Community for Magic collectors!**If you love the collectible side of Magic: the Gathering this community is for you!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/collecting"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 01:15:21 |
 | Updated              | 2023-06-15 19:42:12 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

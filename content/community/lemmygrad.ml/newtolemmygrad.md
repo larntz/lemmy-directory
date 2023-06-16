@@ -3,13 +3,13 @@ title: "New to Lemmy"
 name: "newtolemmygrad"
 description: "A Community for people new to LemmyGrad"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/newtolemmygrad"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 98
+subscribers: 99
 posts: 8
 comments: 11
 weight: 8
@@ -41,7 +41,7 @@ A Community for people new to LemmyGrad
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 98 |
+| Subscribers          | 99 |
 | Posts                | 8  |
 | Comments             | 11  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A Community for people new to LemmyGrad
 |----------------------|---|
 | Published            | 2022-03-15 04:57:59 |
 | Updated              | 2022-03-15 05:02:01 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:07 |

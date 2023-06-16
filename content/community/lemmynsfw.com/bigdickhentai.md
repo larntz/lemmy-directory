@@ -1,19 +1,19 @@
 ---
 title: "Big Dick Hentai" 
 name: "bigdickhentai"
-description: "For hentai containing big dicks.Please follow instance rules.If possible, include the (artist) and [title/franchise] in the post title."
+description: "For hentai focused on big dicks.Please follow instance rules.If possible, include the (artist) and [title/franchise] in the post title.Message me if you're interested in being a mod. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bigdickhentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 50
-posts: 27
+subscribers: 68
+posts: 35
 comments: 3
-weight: 27
-dau: 3
+weight: 35
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-For hentai containing big dicks.<br><br>Please follow instance rules.<br><br>If possible, include the (artist) and [title/franchise] in the post title.
+For hentai focused on big dicks.<br><br>Please follow instance rules.<br><br>If possible, include the (artist) and [title/franchise] in the post title.<br><br>Message me if you're interested in being a mod. 
 </blockquote>
 
 
@@ -43,10 +43,10 @@ For hentai containing big dicks.<br><br>Please follow instance rules.<br><br>If 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 27  |
+| Subscribers          | 68 |
+| Posts                | 35  |
 | Comments             | 3  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -55,5 +55,5 @@ For hentai containing big dicks.<br><br>Please follow instance rules.<br><br>If 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 09:23:05 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Updated              | 2023-06-16 22:05:58 |
+| Last Scraped         | 2023-06-16 22:56:41 |

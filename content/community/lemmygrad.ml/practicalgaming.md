@@ -3,13 +3,13 @@ title: "Practical Gaming"
 name: "practicalgaming"
 description: "A place dedicated for practical tips like what NOT to get for a gaming setup."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/practicalgaming"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 8
 comments: 92
 weight: 8
@@ -41,7 +41,7 @@ A place dedicated for practical tips like what NOT to get for a gaming setup.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 8  |
 | Comments             | 92  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ A place dedicated for practical tips like what NOT to get for a gaming setup.
 |----------------------|---|
 | Published            | 2023-03-16 09:45:57 |
 | Updated              | 2023-03-16 09:47:23 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

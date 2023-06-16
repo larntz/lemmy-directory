@@ -3,16 +3,16 @@ title: "The Dark Tower"
 name: "dark_tower"
 description: "Discussion of all things that serve the beam."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/dark_tower"
 host: ka.tet42.org
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 2
+subscribers: 15
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Discussion of all things that serve the beam.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
+| Subscribers          | 15 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Discussion of all things that serve the beam.
 |----------------------|---|
 | Published            | 2023-06-11 15:39:32 |
 | Updated              | 2023-06-12 14:55:14 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

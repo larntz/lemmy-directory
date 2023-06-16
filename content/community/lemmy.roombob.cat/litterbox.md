@@ -3,7 +3,7 @@ title: "LitterBox"
 name: "litterbox"
 description: "anything to do with lemmy.roombob.cat"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.roombob.cat/c/litterbox"
@@ -54,4 +54,4 @@ anything to do with lemmy.roombob.cat
 |----------------------|---|
 | Published            | 2023-06-12 03:32:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

@@ -3,7 +3,7 @@ title: "🇺 🇳 🇮 🇨 🇴 🇩 🇪"
 name: "unicode"
 description: "for all things unicode"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unicode"
@@ -54,4 +54,4 @@ for all things unicode
 |----------------------|---|
 | Published            | 2023-04-13 12:35:53 |
 | Updated              | 2023-04-13 13:59:45 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

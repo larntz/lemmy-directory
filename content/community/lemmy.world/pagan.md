@@ -3,7 +3,7 @@ title: "Contemporary Paganism"
 name: "pagan"
 description: "A space to share and talk about theistic paganism. -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pagan"
@@ -54,4 +54,4 @@ A space to share and talk about theistic paganism. <br>-<br>This community is su
 |----------------------|---|
 | Published            | 2023-06-12 04:32:10 |
 | Updated              | 2023-06-12 07:23:25 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

@@ -3,7 +3,7 @@ title: "Blog"
 name: "blog"
 description: "Comunicados do adm"
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/blog"
@@ -54,4 +54,4 @@ Comunicados do adm
 |----------------------|---|
 | Published            | 2023-06-14 04:03:09 |
 | Updated              | 2023-06-14 15:08:00 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

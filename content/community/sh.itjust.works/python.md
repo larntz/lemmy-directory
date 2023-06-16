@@ -3,15 +3,15 @@ title: "Python"
 name: "python"
 description: "A community for talking about the Python programming language."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/python"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 643
+subscribers: 691
 posts: 5
-comments: 73
+comments: 80
 weight: 5
 dau: 5
 wau: 10
@@ -41,9 +41,9 @@ A community for talking about the Python programming language.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 643 |
+| Subscribers          | 691 |
 | Posts                | 5  |
-| Comments             | 73  |
+| Comments             | 80  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 10  |
 | Monthly Active Users | 10  |
@@ -54,4 +54,4 @@ A community for talking about the Python programming language.
 |----------------------|---|
 | Published            | 2023-06-08 23:09:46 |
 | Updated              | 2023-06-08 23:14:03 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "General 3D Discussion"
 name: "3d_general_talk"
 description: "**A community to discuss about everything related to 3D**    ---Other 3D related communities:  - [!3dprinting@lemmy.ml](https://lemmy.ml/c/3dprinting)  - [!blender@lemmy.ml](https://lemmy.ml/c/blender)  "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3d_general_talk"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-19 15:47:39 |
 | Updated              | 2021-02-19 17:53:09 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

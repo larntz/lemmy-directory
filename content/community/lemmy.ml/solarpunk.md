@@ -3,13 +3,13 @@ title: "Solar Punk"
 name: "solarpunk"
 description: "Move quietly and plant things :)Solar Punk memes, writing, idealism, and urbanism. Utopians welcome.Solarpunk imagines a world in which today’s existential threat - the climate crisis - is being approached with camaraderie and adaptive ingenuity.[What is Solarpunk?](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/)[A SolarPunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/) [Slrpnk.net Lemmy instance](https://slrpnk.net/) [Solarpunks.net](https://solarpunks.net/) [Sunbeam City Wiki](https://wiki.sunbeam.city/) "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/solarpunk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 680
+subscribers: 683
 posts: 55
 comments: 60
 weight: 55
@@ -41,7 +41,7 @@ Move quietly and plant things :)<br><br>Solar Punk memes, writing, idealism, and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 680 |
+| Subscribers          | 683 |
 | Posts                | 55  |
 | Comments             | 60  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Move quietly and plant things :)<br><br>Solar Punk memes, writing, idealism, and
 |----------------------|---|
 | Published            | 2020-02-07 02:30:47 |
 | Updated              | 2022-03-30 18:26:21 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

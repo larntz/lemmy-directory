@@ -3,19 +3,19 @@ title: "bdsm_discussions"
 name: "bdsm_discussions"
 description: "A subreddit for general discussions about BDSM, safety, practices and relationship!"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bdsm_discussions"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 86
-posts: 1
+subscribers: 96
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A subreddit for general discussions about BDSM, safety, practices and relationsh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 1  |
+| Subscribers          | 96 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ A subreddit for general discussions about BDSM, safety, practices and relationsh
 |----------------------|---|
 | Published            | 2023-06-12 14:44:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

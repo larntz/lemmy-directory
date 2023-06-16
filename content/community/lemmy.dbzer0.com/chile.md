@@ -3,7 +3,7 @@ title: "Chile"
 name: "chile"
 description: "Div/0 para discutir todo lo relacionado a nuestro amado ChilitoReglas: - No contenido ilegal.- Usar sentido común."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/chile"
@@ -54,4 +54,4 @@ Div/0 para discutir todo lo relacionado a nuestro amado Chilito<br><br>Reglas: <
 |----------------------|---|
 | Published            | 2023-06-14 15:04:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

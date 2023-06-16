@@ -3,7 +3,7 @@ title: "The PNW's Lemmy"
 name: "seattle"
 description: "The PNW's Lemmy"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/seattle"
@@ -54,4 +54,4 @@ The PNW's Lemmy
 |----------------------|---|
 | Published            | 2019-09-01 21:43:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

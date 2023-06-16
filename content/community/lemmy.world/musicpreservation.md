@@ -3,7 +3,7 @@ title: "Music Preservationists"
 name: "musicpreservation"
 description: "A hub for audio preservation and history"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/musicpreservation"
@@ -54,4 +54,4 @@ A hub for audio preservation and history
 |----------------------|---|
 | Published            | 2023-06-10 21:21:26 |
 | Updated              | 2023-06-10 21:21:39 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

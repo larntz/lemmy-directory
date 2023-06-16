@@ -3,17 +3,17 @@ title: "Dunder Mifflin"
 name: "dundermifflin"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dundermifflin"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 80
-posts: 4
+subscribers: 87
+posts: 6
 comments: 8
-weight: 4
-dau: 2
+weight: 6
+dau: 1
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 4  |
+| Subscribers          | 87 |
+| Posts                | 6  |
 | Comments             | 8  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-15 00:02:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:21 |

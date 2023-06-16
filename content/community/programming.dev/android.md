@@ -3,13 +3,13 @@ title: "Android"
 name: "android"
 description: "Android news for android developers. Everything that happens in android world.  For Android development specific topics please see [/c/android_dev](https://programming.dev/c/android_dev)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 21
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Android news for android developers. Everything that happens in android world.  
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 21 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Android news for android developers. Everything that happens in android world.  
 |----------------------|---|
 | Published            | 2023-06-14 09:50:25 |
 | Updated              | 2023-06-15 04:37:12 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

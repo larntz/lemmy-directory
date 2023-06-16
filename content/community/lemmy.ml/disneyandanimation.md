@@ -3,7 +3,7 @@ title: "Disney & Animation"
 name: "disneyandanimation"
 description: "For all your childhood-favorite animated movies and shows!"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/disneyandanimation"
@@ -54,4 +54,4 @@ For all your childhood-favorite animated movies and shows!
 |----------------------|---|
 | Published            | 2021-02-15 02:44:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:46 |

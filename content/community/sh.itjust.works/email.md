@@ -3,7 +3,7 @@ title: "emaildiscussions"
 name: "email"
 description: "**A place where you can discuss and share your love towards email. Enjoy your stay!***Reminder:  Please do not use swearing or profanity on these forums.*The other [forum rules](https://sh.itjust.works/post/78218) apply too, so be sure to read them before posting! Thank you."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/email"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 02:32:50 |
 | Updated              | 2023-06-14 07:24:47 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

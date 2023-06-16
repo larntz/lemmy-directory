@@ -3,7 +3,7 @@ title: "Tele-visioni (Cinema & Serie TV)"
 name: "cinema_serietv"
 description: "Benvenutə!Tele-visioni è la comunità di Feddit dove si può parlare di cinema, televisione, animazione e tutto quello che c'è nel mezzo, basta che sia su uno schermo.È possibile condividere recensioni, notizie, consigli, organizzare club cinefili... Siamo per il laissez-faire.Qualche piccolo accorgimento:⚠ Se volete condividere metodi illegali per vedere materiale di qualsiasi tipo, fatelo in privato.⚠ Se volete scrivere una recensione, fate attenzione a inserire gli spoiler per evitare di rovinare il divertimento a tutti gli altri.⚠ Nessuna forma di discriminazione sarà tollerata.⚠ In aggiunta a queste regole, agite sempre in concordanza con la [guida all'utilizzo di Feddit](https://feddit.it/post/6).Buona visione!"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/cinema_serietv"
@@ -14,7 +14,7 @@ posts: 41
 comments: 80
 weight: 41
 dau: 1
-wau: 9
+wau: 7
 mau: 9
 instances:
 - "feddit_it"
@@ -45,7 +45,7 @@ Benvenutə!<br>Tele-visioni è la comunità di Feddit dove si può parlare di ci
 | Posts                | 41  |
 | Comments             | 80  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 9  |
 
 <br>
@@ -54,4 +54,4 @@ Benvenutə!<br>Tele-visioni è la comunità di Feddit dove si può parlare di ci
 |----------------------|---|
 | Published            | 2022-05-26 07:53:06 |
 | Updated              | 2022-05-26 08:13:17 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

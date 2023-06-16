@@ -3,13 +3,13 @@ title: "Braindead Memes"
 name: "braindeadmemes"
 description: "Memes that actively make you stupider"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/braindeadmemes"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 179
+subscribers: 183
 posts: 7
 comments: 6
 weight: 7
@@ -41,7 +41,7 @@ Memes that actively make you stupider
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 179 |
+| Subscribers          | 183 |
 | Posts                | 7  |
 | Comments             | 6  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ Memes that actively make you stupider
 |----------------------|---|
 | Published            | 2023-06-09 12:00:12 |
 | Updated              | 2023-06-09 15:11:31 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

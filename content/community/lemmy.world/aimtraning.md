@@ -3,13 +3,13 @@ title: "Aim Training"
 name: "aimtraning"
 description: "A community for aim training enjoyers.Rules:1. No memes allowed.2. Act like a normal human"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aimtraning"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A community for aim training enjoyers.<br><br>Rules:<br>1. No memes allowed.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for aim training enjoyers.<br><br>Rules:<br>1. No memes allowed.<br>
 |----------------------|---|
 | Published            | 2023-06-13 23:05:00 |
 | Updated              | 2023-06-15 03:16:10 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

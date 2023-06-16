@@ -3,7 +3,7 @@ title: "Conures"
 name: "conures"
 description: "A community for sharing photos, stories and discussing the care and behavior of our beloved conures. All conure parents welcome from Green-Cheek to Nanday."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/conures"
@@ -54,4 +54,4 @@ A community for sharing photos, stories and discussing the care and behavior of 
 |----------------------|---|
 | Published            | 2023-06-11 08:11:10 |
 | Updated              | 2023-06-11 08:28:05 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

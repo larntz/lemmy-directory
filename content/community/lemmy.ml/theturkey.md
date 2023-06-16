@@ -3,7 +3,7 @@ title: "Turkey - Türkiye"
 name: "theturkey"
 description: "Türkiye ile ilgili paylaşım yapılabilecek topluluk.Kurallar:1) Topluluk amacına sadık kal.2) Kaba olma! Nazik ol!3) Önyargılı olma!Sharing community that can be done about Turkey. Rules: 1) Stick to the community cause. 2) Don't be rude!  Be kind! 3) Don't be prejudiced!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theturkey"
@@ -54,4 +54,4 @@ Türkiye ile ilgili paylaşım yapılabilecek topluluk.<br><br>Kurallar:<br>1) T
 |----------------------|---|
 | Published            | 2021-04-16 19:07:27 |
 | Updated              | 2021-11-29 09:26:47 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

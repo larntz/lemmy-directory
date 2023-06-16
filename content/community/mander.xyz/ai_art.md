@@ -3,13 +3,13 @@ title: "AI Art"
 name: "ai_art"
 description: "Place to post images generated using AI tools"
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/ai_art"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 38
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Place to post images generated using AI tools
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 38 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Place to post images generated using AI tools
 |----------------------|---|
 | Published            | 2022-10-03 16:42:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

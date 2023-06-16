@@ -3,19 +3,19 @@ title: "nixos"
 name: "nixos"
 description: "All about NixOS - https://nixos.org/"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nixos"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 252
-posts: 21
-comments: 28
-weight: 21
-dau: 2
-wau: 12
-mau: 16
+subscribers: 265
+posts: 22
+comments: 31
+weight: 22
+dau: 1
+wau: 15
+mau: 19
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All about NixOS - https://nixos.org/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 252 |
-| Posts                | 21  |
-| Comments             | 28  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 16  |
+| Subscribers          | 265 |
+| Posts                | 22  |
+| Comments             | 31  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ All about NixOS - https://nixos.org/
 |----------------------|---|
 | Published            | 2020-06-24 12:22:08 |
 | Updated              | 2020-08-02 17:18:16 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:22 |

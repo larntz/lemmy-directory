@@ -3,7 +3,7 @@ title: "webdev"
 name: "webdev"
 description: "News and discussion specifically relating to web development"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/webdev"
@@ -54,4 +54,4 @@ News and discussion specifically relating to web development
 |----------------------|---|
 | Published            | 2023-06-12 21:44:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

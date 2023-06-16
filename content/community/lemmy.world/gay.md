@@ -3,19 +3,19 @@ title: "Gay"
 name: "gay"
 description: "An inclusive community based on pride and support. Ask, share, discuss."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gay"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 104
-posts: 2
-comments: 10
-weight: 2
-dau: 1
-wau: 3
-mau: 3
+subscribers: 119
+posts: 3
+comments: 11
+weight: 3
+dau: 2
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ An inclusive community based on pride and support. Ask, share, discuss.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 104 |
-| Posts                | 2  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 119 |
+| Posts                | 3  |
+| Comments             | 11  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ An inclusive community based on pride and support. Ask, share, discuss.
 |----------------------|---|
 | Published            | 2023-06-11 07:57:17 |
 | Updated              | 2023-06-11 09:28:30 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

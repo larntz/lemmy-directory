@@ -3,7 +3,7 @@ title: "Electric Vehicles Ireland"
 name: "evs_ireland"
 description: "A community for anything related to electrically powered vehicles in Ireland"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/evs_ireland"
@@ -54,4 +54,4 @@ A community for anything related to electrically powered vehicles in Ireland
 |----------------------|---|
 | Published            | 2023-06-10 13:58:24 |
 | Updated              | 2023-06-11 11:40:39 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

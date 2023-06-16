@@ -3,13 +3,13 @@ title: "Calgary Flames"
 name: "calgary_flames"
 description: "A community for discussion of all things related to the Calgary Flames.Rules:- No hate speech, bigotry, racism, homophobia, sexism, etc- Be respectful- No spamming or advertising- No AI generated content, posts, or comments- No NSFW"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/calgary_flames"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 5
 comments: 5
 weight: 5
@@ -41,7 +41,7 @@ A community for discussion of all things related to the Calgary Flames.<br><br>R
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 5  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussion of all things related to the Calgary Flames.<br><br>R
 |----------------------|---|
 | Published            | 2023-06-10 21:58:15 |
 | Updated              | 2023-06-15 05:45:11 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

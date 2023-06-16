@@ -3,7 +3,7 @@ title: "Fig Funny"
 name: "figfunny"
 description: "General Funny Content Goes Here"
 type: community
-date: "2023-06-16 11:06:13"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/figfunny"
@@ -54,4 +54,4 @@ General Funny Content Goes Here
 |----------------------|---|
 | Published            | 2023-06-15 18:27:17 |
 | Updated              | 2023-06-15 18:33:47 |
-| Last Scraped         | 2023-06-16 11:06:13 |
+| Last Scraped         | 2023-06-16 22:56:10 |

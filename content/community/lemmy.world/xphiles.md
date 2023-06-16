@@ -3,19 +3,19 @@ title: "/x/ Paranormal, Conspiracy, Fringe, and Weird"
 name: "xphiles"
 description: "Welcome to /x/. This is a place to post about and discuss fringe topics. Memes welcome.>~Rules:~~No~ ~politics~~No~ ~racism~~No~ ~pornography~~No~ ~spam~Please follow all site-wide rules."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xphiles"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 19
 posts: 3
-comments: 5
+comments: 6
 weight: 3
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to /x/. This is a place to post about and discuss fringe topics. Memes w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 19 |
 | Posts                | 3  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to /x/. This is a place to post about and discuss fringe topics. Memes w
 |----------------------|---|
 | Published            | 2023-06-12 17:34:24 |
 | Updated              | 2023-06-14 20:46:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

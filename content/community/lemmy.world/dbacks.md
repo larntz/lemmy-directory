@@ -3,7 +3,7 @@ title: "Arizona Diamondbacks"
 name: "dbacks"
 description: "Community for fans of the Arizona Diamondbacks "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dbacks"
@@ -54,4 +54,4 @@ Community for fans of the Arizona Diamondbacks
 |----------------------|---|
 | Published            | 2023-06-13 03:09:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:17 |

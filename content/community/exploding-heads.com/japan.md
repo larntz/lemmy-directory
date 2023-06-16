@@ -3,13 +3,13 @@ title: "Japan"
 name: "japan"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/japan"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 15
 comments: 1
 weight: 15
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 15  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-17 14:37:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-16 22:56:37 |

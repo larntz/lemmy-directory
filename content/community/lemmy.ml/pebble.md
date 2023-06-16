@@ -3,7 +3,7 @@ title: "Pebble"
 name: "pebble"
 description: "For discussion of the Pebble smartwatch."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pebble"
@@ -14,8 +14,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ For discussion of the Pebble smartwatch.
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion of the Pebble smartwatch.
 |----------------------|---|
 | Published            | 2023-06-14 20:54:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

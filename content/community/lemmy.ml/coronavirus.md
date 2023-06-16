@@ -3,7 +3,7 @@ title: "COVID-19 Pandemic"
 name: "coronavirus"
 description: "Any news or discussion around the pandemic. Anti-vaccination posts and comments will be removed, as well as personal attacks.Relevant:- [mander.xyz/c/covid19](https://mander.xyz/c/covid19)- [monkeypox](https://mander.xyz/c/monkeypox)- [diseases](https://mander.xyz/c/diseases)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coronavirus"
@@ -14,8 +14,8 @@ posts: 285
 comments: 682
 weight: 285
 dau: 1
-wau: 3
-mau: 7
+wau: 2
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ Any news or discussion around the pandemic. Anti-vaccination posts and comments 
 | Posts                | 285  |
 | Comments             | 682  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Any news or discussion around the pandemic. Anti-vaccination posts and comments 
 |----------------------|---|
 | Published            | 2021-06-29 18:49:29 |
 | Updated              | 2022-08-12 03:15:36 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

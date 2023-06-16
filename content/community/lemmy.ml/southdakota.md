@@ -3,7 +3,7 @@ title: "South Dakota"
 name: "southdakota"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southdakota"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 01:31:14 |
 | Updated              | 2023-06-04 02:28:08 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

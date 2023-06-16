@@ -3,7 +3,7 @@ title: "Publishing suggestions"
 name: "publishing"
 description: "Discussions and projects about instance-related publishing. Any media welcome. Questions welcome."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/publishing"
@@ -54,4 +54,4 @@ Discussions and projects about instance-related publishing. Any media welcome. Q
 |----------------------|---|
 | Published            | 2020-06-29 19:27:33 |
 | Updated              | 2020-06-29 19:28:13 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

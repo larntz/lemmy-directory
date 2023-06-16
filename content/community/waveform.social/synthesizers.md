@@ -3,19 +3,19 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "Welcome to our synth sanctuary, where we turn knobs and make music, one *'note'-orious* post at a time!---You can connect with our friends over at: - [!synths@midwest.social](https://waveform.social/c/synths@midwest.social) "
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/synthesizers"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 199
-posts: 13
-comments: 93
-weight: 13
-dau: 17
-wau: 40
-mau: 40
+subscribers: 209
+posts: 14
+comments: 106
+weight: 14
+dau: 12
+wau: 42
+mau: 42
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ Welcome to our synth sanctuary, where we turn knobs and make music, one *'note'-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 199 |
-| Posts                | 13  |
-| Comments             | 93  |
-| Daily Active Users   | 17  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 40  |
+| Subscribers          | 209 |
+| Posts                | 14  |
+| Comments             | 106  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 42  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to our synth sanctuary, where we turn knobs and make music, one *'note'-
 |----------------------|---|
 | Published            | 2023-06-11 06:39:23 |
 | Updated              | 2023-06-13 06:10:14 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

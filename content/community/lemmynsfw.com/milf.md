@@ -3,17 +3,17 @@ title: "milf - for the lovers of an older lady"
 name: "milf"
 description: "Just pictures of older women.  No spam, no yonger girls."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/milf"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 8
+subscribers: 94
+posts: 16
 comments: 1
-weight: 8
-dau: 2
+weight: 16
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -43,10 +43,10 @@ Just pictures of older women.  No spam, no yonger girls.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 8  |
+| Subscribers          | 94 |
+| Posts                | 16  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -56,4 +56,4 @@ Just pictures of older women.  No spam, no yonger girls.
 |----------------------|---|
 | Published            | 2023-06-15 09:39:16 |
 | Updated              | 2023-06-15 09:59:26 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

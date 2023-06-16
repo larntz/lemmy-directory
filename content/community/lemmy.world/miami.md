@@ -3,13 +3,13 @@ title: "305 Miami"
 name: "miami"
 description: "Everything about the 305 (and I suppose 786 and even 954)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/miami"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 6
 weight: 3
@@ -41,7 +41,7 @@ Everything about the 305 (and I suppose 786 and even 954)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything about the 305 (and I suppose 786 and even 954)
 |----------------------|---|
 | Published            | 2023-06-11 16:53:16 |
 | Updated              | 2023-06-11 22:18:44 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

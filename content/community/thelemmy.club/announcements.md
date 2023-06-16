@@ -3,7 +3,7 @@ title: "Announcements for The Lemmy Club"
 name: "announcements"
 description: "Important instance announcements can be found here."
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/announcements"
@@ -54,4 +54,4 @@ Important instance announcements can be found here.
 |----------------------|---|
 | Published            | 2023-06-14 13:36:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

@@ -3,7 +3,7 @@ title: "Lain"
 name: "lain"
 description: "Lain Wiki: https://lain.wiki/wiki/Main_Page"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lain"
@@ -54,4 +54,4 @@ Lain Wiki: https://lain.wiki/wiki/Main_Page
 |----------------------|---|
 | Published            | 2022-01-13 10:07:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

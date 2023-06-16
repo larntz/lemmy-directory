@@ -3,17 +3,17 @@ title: "Cube"
 name: "cube"
 description: "### Cube draft discussion!A Cube is a custom draft set, typically designed to showcase the best cards ever printed in Magic, but sometimes with other thematic restrictions.Discuss all things Cube here!##### Resources* [MTG Cube Talk](https://discord.com/servers/mtg-cube-talk-263828508126609420): /r/MTGCube discord group* [Cube Cobra](https://cubecobra.com): webapp to manage Cubes* [MTGSalvation Cube forum](http://forums.mtgsalvation.com/forumdisplay.php?f=349)"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/cube"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 1
 comments: 6
 weight: 1
-dau: 3
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 1  |
 | Comments             | 6  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 16:25:44 |
 | Updated              | 2023-06-14 20:14:18 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

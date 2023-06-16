@@ -3,7 +3,7 @@ title: "The Dresden Files"
 name: "dresdenfiles"
 description: "For discussion of The Dresden Files book series, and all related media."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dresdenfiles"
@@ -54,4 +54,4 @@ For discussion of The Dresden Files book series, and all related media.
 |----------------------|---|
 | Published            | 2023-06-12 01:53:21 |
 | Updated              | 2023-06-12 01:53:45 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:18 |

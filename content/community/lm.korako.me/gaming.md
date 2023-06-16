@@ -3,7 +3,7 @@ title: "ゲーム関連"
 name: "gaming"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/gaming"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-17 16:05:01 |
 | Updated              | 2021-02-17 16:06:51 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

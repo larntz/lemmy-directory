@@ -3,7 +3,7 @@ title: "Juggalos"
 name: "juggalos"
 description: "A community for the family 🪓"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/juggalos"
@@ -54,4 +54,4 @@ A community for the family 🪓
 |----------------------|---|
 | Published            | 2023-06-10 20:40:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,16 +3,16 @@ title: "Cyberpunk"
 name: "cyberpunk"
 description: "A transhumanistic edge of society in dystopia. Daily life has been impacted by rapid technological takeover. "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cyberpunk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 730
-posts: 59
+subscribers: 737
+posts: 60
 comments: 39
-weight: 59
+weight: 60
 dau: 1
 wau: 12
 mau: 12
@@ -41,8 +41,8 @@ A transhumanistic edge of society in dystopia. Daily life has been impacted by r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 730 |
-| Posts                | 59  |
+| Subscribers          | 737 |
+| Posts                | 60  |
 | Comments             | 39  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 12  |
@@ -54,4 +54,4 @@ A transhumanistic edge of society in dystopia. Daily life has been impacted by r
 |----------------------|---|
 | Published            | 2020-01-23 19:48:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:21 |

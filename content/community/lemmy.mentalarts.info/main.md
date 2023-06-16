@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mentalarts.info/c/main"
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2023-01-21 22:28:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

@@ -3,13 +3,13 @@ title: "Ambachtelijke Nederlandse Memes"
 name: "nederlandsememes"
 description: "Eerste poging tot een community maken, hopelijk werkt het allemaal prima. "
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/nederlandsememes"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 167
+subscribers: 172
 posts: 8
 comments: 40
 weight: 8
@@ -41,7 +41,7 @@ Eerste poging tot een community maken, hopelijk werkt het allemaal prima.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 167 |
+| Subscribers          | 172 |
 | Posts                | 8  |
 | Comments             | 40  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Eerste poging tot een community maken, hopelijk werkt het allemaal prima.
 |----------------------|---|
 | Published            | 2023-06-06 12:08:58 |
 | Updated              | 2023-06-06 12:25:48 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

@@ -3,7 +3,7 @@ title: "DemoArts"
 name: "demoarts"
 description: "A community conserning releases on the [DemoArts](https://demoarts.media) website"
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://demotheque.com/c/demoarts"
@@ -54,4 +54,4 @@ A community conserning releases on the [DemoArts](https://demoarts.media) websit
 |----------------------|---|
 | Published            | 2023-04-08 22:40:58 |
 | Updated              | 2023-04-11 19:30:31 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

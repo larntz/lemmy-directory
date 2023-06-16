@@ -3,19 +3,19 @@ title: "Chinese language"
 name: "chinese"
 description: "Discussions and resources for studying or learning about Chinese languages (Mandarin, Cantonese, Hokkien, Hakka, Classical Chinese, etc.)."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chinese"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 31
 posts: 6
-comments: 5
+comments: 7
 weight: 6
-dau: 2
-wau: 3
-mau: 3
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discussions and resources for studying or learning about Chinese languages (Mand
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 31 |
 | Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 7  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions and resources for studying or learning about Chinese languages (Mand
 |----------------------|---|
 | Published            | 2023-06-11 05:04:28 |
 | Updated              | 2023-06-11 07:00:42 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

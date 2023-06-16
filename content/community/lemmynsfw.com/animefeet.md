@@ -3,19 +3,19 @@ title: "Anime Feet"
 name: "animefeet"
 description: "They want people to be active, here’s my contribution1. Must be focused on feet2. Must be drawnLet’s see how this works out"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/animefeet"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 121
 posts: 27
 comments: 14
 weight: 27
-dau: 2
-wau: 11
-mau: 11
+dau: 5
+wau: 12
+mau: 12
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ They want people to be active, here’s my contribution<br><br>1. Must be focuse
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 121 |
 | Posts                | 27  |
 | Comments             | 14  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -56,4 +56,4 @@ They want people to be active, here’s my contribution<br><br>1. Must be focuse
 |----------------------|---|
 | Published            | 2023-06-12 22:36:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

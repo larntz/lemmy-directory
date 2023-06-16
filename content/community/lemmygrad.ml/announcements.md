@@ -3,19 +3,19 @@ title: "Announcements"
 name: "announcements"
 description: "For community-wide announcements, such as new subs, etc."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/announcements"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 275
+subscribers: 279
 posts: 26
-comments: 682
+comments: 688
 weight: 26
-dau: 27
-wau: 91
-mau: 143
+dau: 19
+wau: 87
+mau: 146
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ For community-wide announcements, such as new subs, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 275 |
+| Subscribers          | 279 |
 | Posts                | 26  |
-| Comments             | 682  |
-| Daily Active Users   | 27  |
-| Weekly Active Users  | 91  |
-| Monthly Active Users | 143  |
+| Comments             | 688  |
+| Daily Active Users   | 19  |
+| Weekly Active Users  | 87  |
+| Monthly Active Users | 146  |
 
 <br>
 
@@ -54,4 +54,4 @@ For community-wide announcements, such as new subs, etc.
 |----------------------|---|
 | Published            | 2020-06-29 20:20:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,7 +3,7 @@ title: "Jitsi"
 name: "jitsi"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jitsi"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-16 20:34:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:45 |

@@ -3,13 +3,13 @@ title: "Transit"
 name: "transit"
 description: "A community to productively discuss transit in all forms. The less-angry sibling community to F*ck Cars. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/transit"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A community to productively discuss transit in all forms. The less-angry sibling
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to productively discuss transit in all forms. The less-angry sibling
 |----------------------|---|
 | Published            | 2023-06-12 22:55:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

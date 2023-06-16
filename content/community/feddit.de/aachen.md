@@ -3,13 +3,13 @@ title: "Aachen"
 name: "aachen"
 description: "Community für Aachen Stadt"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/aachen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 6
 comments: 25
 weight: 6
@@ -41,7 +41,7 @@ Community für Aachen Stadt
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 6  |
 | Comments             | 25  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Community für Aachen Stadt
 |----------------------|---|
 | Published            | 2023-06-13 07:49:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

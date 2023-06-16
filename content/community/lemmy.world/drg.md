@@ -3,19 +3,19 @@ title: "Deep Rock Galactic"
 name: "drg"
 description: "Rock and stone!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 225
-posts: 10
-comments: 47
-weight: 10
+subscribers: 256
+posts: 11
+comments: 51
+weight: 11
 dau: 9
-wau: 27
-mau: 27
+wau: 39
+mau: 39
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Rock and stone!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 225 |
-| Posts                | 10  |
-| Comments             | 47  |
+| Subscribers          | 256 |
+| Posts                | 11  |
+| Comments             | 51  |
 | Daily Active Users   | 9  |
-| Weekly Active Users  | 27  |
-| Monthly Active Users | 27  |
+| Weekly Active Users  | 39  |
+| Monthly Active Users | 39  |
 
 <br>
 
@@ -54,4 +54,4 @@ Rock and stone!
 |----------------------|---|
 | Published            | 2023-06-12 11:47:22 |
 | Updated              | 2023-06-12 12:04:29 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

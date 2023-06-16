@@ -3,13 +3,13 @@ title: "3D Printing"
 name: "3dprinting"
 description: "3D Printing makes and discussion!Search on your instance to join:!3dprinting@lemmy.redkrieg.com"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.redkrieg.com/c/3dprinting"
 host: lemmy.redkrieg.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-02 19:47:20 |
 | Updated              | 2023-06-09 01:25:24 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

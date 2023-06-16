@@ -3,7 +3,7 @@ title: "Tales from The Village"
 name: "cricketers"
 description: "this is a sub for cricketers to talk about the UK game, with a focus on club crickettell us about the unplayable jaffa that got you."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/cricketers"
@@ -54,4 +54,4 @@ this is a sub for cricketers to talk about the UK game, with a focus on club cri
 |----------------------|---|
 | Published            | 2023-06-12 17:41:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,16 +3,16 @@ title: "Those Alluring Aliens"
 name: "thosealluringaliens"
 description: "A community dedicated to NSFW fan art for Rumiko Takahashi's hit manga and anime series, Urusei Yatsura (うる星やつら,  or Those Obnoxious Aliens)*****1. Urusei Yatsura Only:**Stay on topic! All posts must contain lewd art, discussions, or themes related to Urusei Yatsura. Crossovers with other franchises are allowed, provided that there is at least one character from Urusei Yatsura featured prominently.**2. Credit Artists:**All posts should include the artist's name in the title. If the artist isn't known, please include (artist unknown) instead of a credit. If the content is from an official source such as the manga or anime, include (official art).**3. Be Civil:**Be polite, be respectful, and enjoy yourself!"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/thosealluringaliens"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 18
+subscribers: 38
+posts: 28
 comments: 0
-weight: 18
+weight: 28
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ A community dedicated to NSFW fan art for Rumiko Takahashi's hit manga and anime
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 18  |
+| Subscribers          | 38 |
+| Posts                | 28  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -56,4 +56,4 @@ A community dedicated to NSFW fan art for Rumiko Takahashi's hit manga and anime
 |----------------------|---|
 | Published            | 2023-06-14 04:16:22 |
 | Updated              | 2023-06-14 06:22:17 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

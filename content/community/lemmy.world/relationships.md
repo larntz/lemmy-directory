@@ -3,13 +3,13 @@ title: "Relationship Advice"
 name: "relationships"
 description: "Sub for relationship advice and problems."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/relationships"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Sub for relationship advice and problems.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 19 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sub for relationship advice and problems.
 |----------------------|---|
 | Published            | 2023-06-14 19:45:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

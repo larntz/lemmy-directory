@@ -3,7 +3,7 @@ title: "US News"
 name: "usnews"
 description: "For discussion of US-centric news###### Rules1. No editorialized titles2. No tabloids or generally unreliable news sources3. No false or misleading news stories4. No opinion, analysis, or advocacy articles5. No outrage journalism. News should be new and interesting and [focused on informing, not outraging](https://truthnotoutrage.com)6. Articles cannot be primarily concerning politics"
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/usnews"
@@ -54,4 +54,4 @@ For discussion of US-centric news<br><br>###### Rules<br><br>1. No editorialized
 |----------------------|---|
 | Published            | 2023-06-05 23:40:40 |
 | Updated              | 2023-06-13 14:58:03 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

@@ -3,13 +3,13 @@ title: "(CLOSED) 3D Printing"
 name: "3d_printing"
 description: "Go to a bigger community on this topic."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/3d_printing"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Go to a bigger community on this topic.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Go to a bigger community on this topic.
 |----------------------|---|
 | Published            | 2023-06-12 07:15:14 |
 | Updated              | 2023-06-12 09:09:05 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

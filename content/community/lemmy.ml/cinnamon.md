@@ -3,7 +3,7 @@ title: "Cinnamon Desktop Environment"
 name: "cinnamon"
 description: "Lemmy community for discussion of the Cinnamon desktop environment.https://cinnamon-spices.linuxmint.com/# Rules- Before posting please make sure that your post is SFW as this community is meant to be PG-13 if your post does not follow this rule it will be removed.- When posting in this community you must follow the Lemmy platform rules.- We do not tolerate offensive discussions or any harassment in this community.- Posts must relate to Linux and the Cinnamon desktop environment."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cinnamon"
@@ -54,4 +54,4 @@ Lemmy community for discussion of the Cinnamon desktop environment.<br>https://c
 |----------------------|---|
 | Published            | 2022-01-26 04:56:23 |
 | Updated              | 2022-01-26 19:33:07 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

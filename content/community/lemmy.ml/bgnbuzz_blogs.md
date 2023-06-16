@@ -3,7 +3,7 @@ title: "BGNBuzz Blogs"
 name: "bgnbuzz_blogs"
 description: "This is Blogging Community Help you to grow your blog"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bgnbuzz_blogs"
@@ -54,4 +54,4 @@ This is Blogging Community Help you to grow your blog
 |----------------------|---|
 | Published            | 2020-12-18 09:18:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

@@ -3,13 +3,13 @@ title: "America"
 name: "america"
 description: "A community about America"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/america"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 28
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community about America
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 28 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community about America
 |----------------------|---|
 | Published            | 2023-06-12 10:02:28 |
 | Updated              | 2023-06-12 10:09:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,13 +3,13 @@ title: "Warhammer Fantasy Battles"
 name: "warhammerfantasy"
 description: "A community dedicated to the mass-battle wargame, Warhammer Fantasy Battle, by Games Workshop, as well as its upcoming spiritual successor, Warhammer: The Old World, and various fan supplements."
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/warhammerfantasy"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to the mass-battle wargame, Warhammer Fantasy Battle, by G
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ A community dedicated to the mass-battle wargame, Warhammer Fantasy Battle, by G
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 06:51:28 |
-| Updated              | 2023-06-16 08:28:11 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Updated              | 2023-06-16 22:18:03 |
+| Last Scraped         | 2023-06-16 22:56:31 |

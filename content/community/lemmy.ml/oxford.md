@@ -3,13 +3,13 @@ title: "Oxford"
 name: "oxford"
 description: "A place to discuss the city of Oxford, UK. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oxford"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ A place to discuss the city of Oxford, UK.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss the city of Oxford, UK.
 |----------------------|---|
 | Published            | 2023-06-10 06:42:50 |
 | Updated              | 2023-06-10 12:03:34 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

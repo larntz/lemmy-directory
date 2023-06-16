@@ -3,7 +3,7 @@ title: "Story"
 name: "story"
 description: "Post Your Story (short stories, funny stories, memories, etc).Forum: [Other Stories](https://forum.soraya.web.id/viewforum.php?id=38) ^___^"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/story"
@@ -54,4 +54,4 @@ Post Your Story (short stories, funny stories, memories, etc).<br><br>Forum: [Ot
 |----------------------|---|
 | Published            | 2022-09-15 05:13:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

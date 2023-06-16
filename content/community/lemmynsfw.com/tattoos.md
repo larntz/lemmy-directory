@@ -3,16 +3,16 @@ title: "Tattoos"
 name: "tattoos"
 description: "A place to enjoy the canvas and the art.Please follow the [instance-wide rules](https://lemmynsfw.com/).OC welcomed. No self promotion please."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tattoos"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 3
+subscribers: 62
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ A place to enjoy the canvas and the art.<br><br>Please follow the [instance-wide
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 3  |
+| Subscribers          | 62 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -56,4 +56,4 @@ A place to enjoy the canvas and the art.<br><br>Please follow the [instance-wide
 |----------------------|---|
 | Published            | 2023-06-14 01:33:36 |
 | Updated              | 2023-06-15 02:52:32 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

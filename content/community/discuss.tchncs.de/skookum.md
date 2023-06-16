@@ -3,16 +3,16 @@ title: "Skookum"
 name: "skookum"
 description: "This is intended as a place where people come to learn, or teach. (Or have a chuckle out in the shop)"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/skookum"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 24
-posts: 2
+subscribers: 26
+posts: 3
 comments: 3
-weight: 2
+weight: 3
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ This is intended as a place where people come to learn, or teach. (Or have a chu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 2  |
+| Subscribers          | 26 |
+| Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ This is intended as a place where people come to learn, or teach. (Or have a chu
 |----------------------|---|
 | Published            | 2023-06-11 18:13:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

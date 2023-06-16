@@ -3,19 +3,19 @@ title: "ussoccer"
 name: "ussoccer"
 description: "Everything related to ussoccer"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ussoccer"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 35
-posts: 8
+subscribers: 38
+posts: 9
 comments: 4
-weight: 8
-dau: 1
-wau: 2
-mau: 2
+weight: 9
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Everything related to ussoccer
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 8  |
+| Subscribers          | 38 |
+| Posts                | 9  |
 | Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything related to ussoccer
 |----------------------|---|
 | Published            | 2023-06-11 01:54:36 |
 | Updated              | 2023-06-13 19:47:34 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,13 +3,13 @@ title: "Mindfulness & Mindful Living"
 name: "mindfulness"
 description: "A place to share interesting resources, positive news, thought-provoking insights and fun tips and tricks for your daily mindfulness practice and mindful living."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mindfulness"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 17
 posts: 14
 comments: 0
 weight: 14
@@ -41,7 +41,7 @@ A place to share interesting resources, positive news, thought-provoking insight
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 17 |
 | Posts                | 14  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share interesting resources, positive news, thought-provoking insight
 |----------------------|---|
 | Published            | 2023-06-14 07:11:26 |
 | Updated              | 2023-06-14 07:40:56 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

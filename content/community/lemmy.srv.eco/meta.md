@@ -3,16 +3,16 @@ title: "🐭 Meta"
 name: "meta"
 description: "Meta discussion for the srv.eco Lemmy instance"
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/meta"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Meta discussion for the srv.eco Lemmy instance
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Meta discussion for the srv.eco Lemmy instance
 |----------------------|---|
 | Published            | 2023-06-11 12:51:15 |
 | Updated              | 2023-06-11 22:31:26 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:29 |

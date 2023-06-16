@@ -3,7 +3,7 @@ title: "CF4CF"
 name: "childfree4childfree"
 description: "Testing space for CF4CF"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/childfree4childfree"
@@ -14,8 +14,8 @@ posts: 0
 comments: 0
 weight: 0
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Testing space for CF4CF
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Testing space for CF4CF
 |----------------------|---|
 | Published            | 2023-06-14 23:14:51 |
 | Updated              | 2023-06-14 23:54:23 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

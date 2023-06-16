@@ -3,7 +3,7 @@ title: "🌇社会構造"
 name: "social_structure"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/social_structure"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-01 14:26:12 |
 | Updated              | 2021-04-01 14:31:29 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

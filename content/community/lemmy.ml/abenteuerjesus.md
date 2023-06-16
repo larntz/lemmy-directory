@@ -3,7 +3,7 @@ title: "AbenteuerJesusCommunity"
 name: "abenteuerjesus"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abenteuerjesus"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-10 23:40:44 |
 | Updated              | 2022-01-10 23:46:07 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

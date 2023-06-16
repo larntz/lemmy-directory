@@ -3,13 +3,13 @@ title: "Resident Evil"
 name: "residentevil"
 description: "Community for sharing news, art, opinions and anything else Resident Evil."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/residentevil"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Community for sharing news, art, opinions and anything else Resident Evil.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for sharing news, art, opinions and anything else Resident Evil.
 |----------------------|---|
 | Published            | 2021-02-28 21:31:53 |
 | Updated              | 2021-04-17 03:37:25 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

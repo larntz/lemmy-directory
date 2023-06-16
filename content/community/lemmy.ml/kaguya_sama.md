@@ -3,7 +3,7 @@ title: "Kaguya-Sama: Love Is War"
 name: "kaguya_sama"
 description: "Everything related to the manga series Kaguya-sama: Love Is War and its anime adaptation."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kaguya_sama"
@@ -54,4 +54,4 @@ Everything related to the manga series Kaguya-sama: Love Is War and its anime ad
 |----------------------|---|
 | Published            | 2022-06-04 14:42:24 |
 | Updated              | 2023-06-07 21:36:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

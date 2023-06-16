@@ -3,7 +3,7 @@ title: "Persian"
 name: "persian"
 description: "All about Persian language, literature, history, and culture."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/persian"
@@ -54,4 +54,4 @@ All about Persian language, literature, history, and culture.
 |----------------------|---|
 | Published            | 2020-05-03 23:54:48 |
 | Updated              | 2022-05-19 00:42:37 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

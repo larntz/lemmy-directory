@@ -3,19 +3,19 @@ title: "Martial Arts"
 name: "martialarts"
 description: "General Martial Arts discussion "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/martialarts"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 14
 posts: 8
 comments: 0
 weight: 8
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ General Martial Arts discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 14 |
 | Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ General Martial Arts discussion
 |----------------------|---|
 | Published            | 2023-06-13 09:12:40 |
 | Updated              | 2023-06-15 12:09:40 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

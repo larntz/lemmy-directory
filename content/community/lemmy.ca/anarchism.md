@@ -3,13 +3,13 @@ title: "Anarchism"
 name: "anarchism"
 description: "We're against all unjust hierarchiesRelated:* [Armchair anarchists](https://lemmy.ca/c/armchairsocialist) "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/anarchism"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 127
+subscribers: 131
 posts: 22
 comments: 33
 weight: 22
@@ -41,7 +41,7 @@ We're against all unjust hierarchies<br><br>Related:<br><br>* [Armchair anarchis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
+| Subscribers          | 131 |
 | Posts                | 22  |
 | Comments             | 33  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ We're against all unjust hierarchies<br><br>Related:<br><br>* [Armchair anarchis
 |----------------------|---|
 | Published            | 2022-08-13 08:57:06 |
 | Updated              | 2022-08-21 17:34:47 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

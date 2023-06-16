@@ -3,7 +3,7 @@ title: "CLOSED TEMPORARILY"
 name: "radiation"
 description: "--- CLOSED TEMPORARILY ---"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radiation"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 02:55:16 |
 | Updated              | 2023-06-13 21:17:06 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:17 |

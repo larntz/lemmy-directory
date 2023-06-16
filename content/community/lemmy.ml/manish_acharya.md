@@ -3,7 +3,7 @@ title: "Education"
 name: "manish_acharya"
 description: ""
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/manish_acharya"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-07-19 10:41:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

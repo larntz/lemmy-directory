@@ -3,19 +3,19 @@ title: "Blowjob"
 name: "blowjob"
 description: "The art of sucking"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/blowjob"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 271
-posts: 3
+subscribers: 304
+posts: 6
 comments: 0
-weight: 3
-dau: 1
-wau: 2
-mau: 2
+weight: 6
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ The art of sucking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 271 |
-| Posts                | 3  |
+| Subscribers          | 304 |
+| Posts                | 6  |
 | Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ The art of sucking
 |----------------------|---|
 | Published            | 2023-06-13 06:56:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

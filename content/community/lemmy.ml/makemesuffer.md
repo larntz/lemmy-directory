@@ -3,7 +3,7 @@ title: "If it hurts to look at, post it."
 name: "makemesuffer"
 description: "the place for suffer-worthy content"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/makemesuffer"
@@ -54,4 +54,4 @@ the place for suffer-worthy content
 |----------------------|---|
 | Published            | 2020-02-17 06:50:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

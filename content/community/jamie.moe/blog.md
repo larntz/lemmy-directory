@@ -3,7 +3,7 @@ title: "Jamie Blog"
 name: "blog"
 description: "If you've come to visit, be kind. This is just a place for me to put down my two cents written for no one in particular."
 type: community
-date: "2023-06-16 11:06:33"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://jamie.moe/c/blog"
@@ -54,4 +54,4 @@ If you've come to visit, be kind. This is just a place for me to put down my two
 |----------------------|---|
 | Published            | 2023-06-16 06:50:58 |
 | Updated              | 2023-06-16 06:52:09 |
-| Last Scraped         | 2023-06-16 11:06:33 |
+| Last Scraped         | 2023-06-16 22:56:31 |

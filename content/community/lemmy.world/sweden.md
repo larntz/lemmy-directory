@@ -3,19 +3,19 @@ title: "Sweden"
 name: "sweden"
 description: "Welcome to c/sweden. Everyone is welcome here! "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sweden"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 358
-posts: 35
-comments: 222
-weight: 35
-dau: 25
-wau: 59
-mau: 59
+subscribers: 384
+posts: 38
+comments: 254
+weight: 38
+dau: 26
+wau: 78
+mau: 78
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to c/sweden. Everyone is welcome here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 358 |
-| Posts                | 35  |
-| Comments             | 222  |
-| Daily Active Users   | 25  |
-| Weekly Active Users  | 59  |
-| Monthly Active Users | 59  |
+| Subscribers          | 384 |
+| Posts                | 38  |
+| Comments             | 254  |
+| Daily Active Users   | 26  |
+| Weekly Active Users  | 78  |
+| Monthly Active Users | 78  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to c/sweden. Everyone is welcome here!
 |----------------------|---|
 | Published            | 2023-06-10 21:38:03 |
 | Updated              | 2023-06-15 12:02:34 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:14 |

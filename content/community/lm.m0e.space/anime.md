@@ -3,7 +3,7 @@ title: "Аніме"
 name: "anime"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/anime"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 22:32:01 |
 | Updated              | 2023-06-12 22:36:36 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

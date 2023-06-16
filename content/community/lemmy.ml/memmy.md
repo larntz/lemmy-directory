@@ -3,19 +3,19 @@ title: "Memmy - An iOS client for Lemmy"
 name: "memmy"
 description: "Current work in progress, started 6/10/23.[View on GitHub](https://github.com/gkasdorf/memmy)"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memmy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 172
+subscribers: 179
 posts: 22
-comments: 54
+comments: 59
 weight: 22
-dau: 5
-wau: 9
-mau: 9
+dau: 13
+wau: 31
+mau: 31
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Current work in progress, started 6/10/23.<br><br>[View on GitHub](https://githu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 172 |
+| Subscribers          | 179 |
 | Posts                | 22  |
-| Comments             | 54  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 59  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 31  |
+| Monthly Active Users | 31  |
 
 <br>
 
@@ -54,4 +54,4 @@ Current work in progress, started 6/10/23.<br><br>[View on GitHub](https://githu
 |----------------------|---|
 | Published            | 2023-06-10 19:25:04 |
 | Updated              | 2023-06-14 22:49:38 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

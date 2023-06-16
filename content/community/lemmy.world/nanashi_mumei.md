@@ -3,7 +3,7 @@ title: "Nanashi Mumei"
 name: "nanashi_mumei"
 description: "!WIP!COMING SOON!A place to discuss and share things all about Nanashi Mumei from Hololive’s EN Council!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nanashi_mumei"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 09:06:46 |
 | Updated              | 2023-06-13 09:09:02 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:18 |

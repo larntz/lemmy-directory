@@ -3,16 +3,16 @@ title: "Bartmoss Collective"
 name: "bartmoss_collective"
 description: "`NETDIR://TIMETOWAKEUP.WEB`# Join the Fediverse revolution!---###### [NETDIR://bartmoss@TIMETOWAKEUP.WEB](https://dataterm.digital/u/bartmoss) "
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/bartmoss_collective"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 2
+subscribers: 18
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 2
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
+| Subscribers          | 18 |
+| Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -53,5 +53,5 @@ tags:
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 20:47:53 |
-| Updated              | 2023-06-16 08:46:41 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Updated              | 2023-06-16 17:05:06 |
+| Last Scraped         | 2023-06-16 22:56:16 |

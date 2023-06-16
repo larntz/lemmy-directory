@@ -3,7 +3,7 @@ title: "HomePodOS"
 name: "homepodos"
 description: "The home for all things HomePodOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homepodos"
@@ -54,4 +54,4 @@ The home for all things HomePodOS on LW.<br><br>**Rules:**<br><br>- No NSFW Cont
 |----------------------|---|
 | Published            | 2023-06-16 02:33:01 |
 | Updated              | 2023-06-16 02:44:44 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

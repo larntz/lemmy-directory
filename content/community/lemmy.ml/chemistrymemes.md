@@ -3,7 +3,7 @@ title: "Chemistry memes"
 name: "chemistrymemes"
 description: "For all the chemistry memes and cursed chemistry"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chemistrymemes"
@@ -54,4 +54,4 @@ For all the chemistry memes and cursed chemistry
 |----------------------|---|
 | Published            | 2023-06-09 13:06:18 |
 | Updated              | 2023-06-09 13:11:19 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:20 |

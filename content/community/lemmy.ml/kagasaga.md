@@ -3,7 +3,7 @@ title: "Kaga Saga - Play Berwick Saga"
 name: "kagasaga"
 description: "A community dedicated to the works of Shouzou Kaga, designer of the original Fire Emblem Games as well as titles like Tear Ring, Berwick, and Vestaria Sagas.Rules:* Discussion of Fire Emblem is fine so long as it is within the realm of the Kaga developed games (so any from FE5/Thracia 776 and below)* Submissions must relate to the given games on some level. That said, romhacks are allowed (Super Thracia, New Theory, Berwick Redux, etc)* No NSFW is instancewide, so no NSFW here.* Memes are fine but they should have a little effort, no excessive low effort spam.* Since flairs aren't a thing, it is currently recommended to mark posts based on both the game and subject if possible, (ex: [FE5] [Artwork], though substituting the numbers for Thracia or anything similar regarding title is fine.)* Play Berwick Saga, this isn't a rule but do it anyway."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kagasaga"
@@ -54,4 +54,4 @@ A community dedicated to the works of Shouzou Kaga, designer of the original Fir
 |----------------------|---|
 | Published            | 2023-06-04 22:33:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

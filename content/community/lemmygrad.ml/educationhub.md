@@ -3,13 +3,13 @@ title: " Education Hub"
 name: "educationhub"
 description: "Many Comrades try to get an education at Bourgeoise schools to help better society by learning things like medicine or geography. But things can be tough sometimes, so help each other out if you're struggling in school or university! "
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/educationhub"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 666
+subscribers: 665
 posts: 114
 comments: 255
 weight: 114
@@ -41,7 +41,7 @@ Many Comrades try to get an education at Bourgeoise schools to help better socie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 666 |
+| Subscribers          | 665 |
 | Posts                | 114  |
 | Comments             | 255  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Many Comrades try to get an education at Bourgeoise schools to help better socie
 |----------------------|---|
 | Published            | 2019-08-24 16:51:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

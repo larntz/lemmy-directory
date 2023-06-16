@@ -3,7 +3,7 @@ title: "Puzzles"
 name: "puzzles"
 description: "Post and discuss puzzles and solutions"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puzzles"
@@ -54,4 +54,4 @@ Post and discuss puzzles and solutions
 |----------------------|---|
 | Published            | 2020-05-21 07:44:16 |
 | Updated              | 2023-05-25 17:17:56 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

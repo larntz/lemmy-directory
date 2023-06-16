@@ -3,13 +3,13 @@ title: "Houston Texans"
 name: "texans"
 description: "A community for fans of the Houston Texans.Other related communities:-NFL !nfl@lemmy.world https://lemmy.ml/c/nfl-Arizona Cardinals !azcardinals@lemmy.ml-Chicago Bears !chibears@1337lemmy.com-Cincinnati Bengals !bengals@lemmy.world-Cleveland Browns !browns@lemmy.world-Dallas Cowboys !dallascowboys@lemmy.ml-Denver Broncos !denverbroncos@lemmy.ml-Detroit Lions !detroitlions@sh.itjust.works-Green Bay Packers !packers@sh.itjust.works-Indianapolis Colts !indianapoliscolts@midwest.social-Kansas City Chiefs !kansascitychiefs@lemmy.world-Jacksonville Jaguars !jaguars@lemmy.ml-Los Angeles Rams !larams@lemmy.world-Minnesota Vikings !minnesotavikings@feddit.de-New England Patriots !patriots@lemmy.ml-New York Jets nyjets@lemmy.ml-Philadelphia Eagles !eagles@lemmy.world-San Francisco 49ers !49ers@lemmy.world-Seattle Seahawks !seahawks@lemmy.ml-Washington Commanders !commanders@sh.itjust.works"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/texans"
 host: thelemmy.club
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A community for fans of the Houston Texans.<br><br>Other related communities:<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for fans of the Houston Texans.<br><br>Other related communities:<br
 |----------------------|---|
 | Published            | 2023-06-14 13:44:39 |
 | Updated              | 2023-06-14 23:53:18 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

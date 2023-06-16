@@ -3,7 +3,7 @@ title: "The Gamer Club"
 name: "thegamerclub"
 description: "Glasgow's first private members' club for gamers. Four rooms dedicated to board games, D&D, arcade games, retro video gaming and PC/VR games. Relax in exclusive comfortable surroundings in Glasgow city centre and let the games begin!https://thegamerclub.glasgow.social"
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/thegamerclub"
@@ -54,4 +54,4 @@ Glasgow's first private members' club for gamers. Four rooms dedicated to board 
 |----------------------|---|
 | Published            | 2022-05-05 15:48:58 |
 | Updated              | 2022-05-05 15:50:03 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:30 |

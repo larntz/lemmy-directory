@@ -1,9 +1,9 @@
 ---
-title: "Beru Co.ddit" 
+title: "Beru Co.ddit (Meta Discussion)" 
 name: "beru_co"
-description: "Server discussion."
+description: "Local meta-discussion for this server instance (lemmy.beru.co)."
 type: community
-date: "2023-06-16 11:06:33"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beru.co/c/beru_co"
@@ -11,7 +11,7 @@ host: lemmy.beru.co
 lastmod: "{[ .Updated }}"
 subscribers: 1
 posts: 1
-comments: 0
+comments: 2
 weight: 1
 dau: 1
 wau: 1
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Beru Co.ddit on lemmy.beru.co
+# /c/Beru Co.ddit (Meta Discussion) on lemmy.beru.co
 
 [[home](/)]
 [[/c/beru_co 🌎](https://lemmy.beru.co/c/beru_co)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Server discussion.
+Local meta-discussion for this server instance (lemmy.beru.co).
 </blockquote>
 
 
@@ -43,7 +43,7 @@ Server discussion.
 |----------------------|---|
 | Subscribers          | 1 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -53,5 +53,5 @@ Server discussion.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 04:00:33 |
-| Updated              | 2023-06-16 05:18:10 |
-| Last Scraped         | 2023-06-16 11:06:33 |
+| Updated              | 2023-06-16 13:57:43 |
+| Last Scraped         | 2023-06-16 22:56:31 |

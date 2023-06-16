@@ -3,7 +3,7 @@ title: "Animation"
 name: "animation"
 description: "A community for discussing all forms of animation; from 2D to 3D to video games to user design.---(profile picture: Spirited Away)(banner: Onward)---"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animation"
@@ -54,4 +54,4 @@ A community for discussing all forms of animation; from 2D to 3D to video games 
 |----------------------|---|
 | Published            | 2022-07-01 23:31:11 |
 | Updated              | 2022-07-01 23:38:38 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

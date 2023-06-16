@@ -3,7 +3,7 @@ title: "Tabletop RPGs"
 name: "tablerpgs"
 description: "For anything and everything having to do with tabletop RPGs (otherwise known as TTRPGs). Talk about the growing industry and popularity surrounding it, among other things relating to it. Discuss your favorite TTRPGs, which ones you're getting, your gaming sessions with them, etc., etc., etc.Remember general Lemmygrad etiquette!No racism, sexism, homophobia, transphobia, and so on. And, you know, don’t be a jerk in general."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tablerpgs"
@@ -54,4 +54,4 @@ For anything and everything having to do with tabletop RPGs (otherwise known as 
 |----------------------|---|
 | Published            | 2022-02-12 19:02:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

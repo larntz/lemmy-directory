@@ -3,19 +3,19 @@ title: "Books"
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/books"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 263
-posts: 7
-comments: 31
-weight: 7
+subscribers: 293
+posts: 8
+comments: 34
+weight: 8
 dau: 5
-wau: 8
-mau: 8
+wau: 27
+mau: 27
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 263 |
-| Posts                | 7  |
-| Comments             | 31  |
+| Subscribers          | 293 |
+| Posts                | 8  |
+| Comments             | 34  |
 | Daily Active Users   | 5  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:47:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:15 |

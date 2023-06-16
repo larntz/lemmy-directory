@@ -3,19 +3,19 @@ title: "iPhone"
 name: "iphone"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iphone"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 309
+subscribers: 315
 posts: 11
-comments: 15
+comments: 17
 weight: 11
-dau: 1
-wau: 12
-mau: 12
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 309 |
+| Subscribers          | 315 |
 | Posts                | 11  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Comments             | 17  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-29 07:53:19 |
 | Updated              | 2021-05-05 02:29:57 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:24 |

@@ -3,7 +3,7 @@ title: "Türkiye İşçi Partisi - Workers' Party of Turkey"
 name: "tip"
 description: "Unoffical Lemmygrad server for Workers' Party of Turkey and its members.https://tip.org.tr/https://tip.org.tr/en/"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tip"
@@ -54,4 +54,4 @@ Unoffical Lemmygrad server for Workers' Party of Turkey and its members.<br>http
 |----------------------|---|
 | Published            | 2023-06-02 03:34:43 |
 | Updated              | 2023-06-02 03:46:49 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

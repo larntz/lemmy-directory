@@ -3,18 +3,18 @@ title: "DIY"
 name: "diy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/diy"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 595
+subscribers: 613
 posts: 40
 comments: 49
 weight: 40
 dau: 1
-wau: 15
+wau: 12
 mau: 19
 instances:
 - "slrpnk_net"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 595 |
+| Subscribers          | 613 |
 | Posts                | 40  |
 | Comments             | 49  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 15  |
+| Weekly Active Users  | 12  |
 | Monthly Active Users | 19  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-23 11:24:20 |
 | Updated              | 2022-09-20 17:02:07 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

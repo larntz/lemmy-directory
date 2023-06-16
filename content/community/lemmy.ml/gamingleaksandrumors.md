@@ -3,13 +3,13 @@ title: "GamingLeaksAndRumours"
 name: "gamingleaksandrumors"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamingleaksandrumors"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 57
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 57 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-24 03:01:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

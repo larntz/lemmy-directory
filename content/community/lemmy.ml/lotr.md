@@ -3,17 +3,17 @@ title: "Lord of the Rings"
 name: "lotr"
 description: "For all things Tolkien, Lord of The Rings, and The Hobbit. Speak friend and enter.**Rules**- No abusive language- No buying, selling or advertising- Be civil- No politics- No discussions about race- No bots- No memes or AI-generated content- Don't criticize others for their opinions- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lotr"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 267
+subscribers: 285
 posts: 5
-comments: 19
+comments: 26
 weight: 5
-dau: 6
+dau: 1
 wau: 12
 mau: 14
 instances:
@@ -41,10 +41,10 @@ For all things Tolkien, Lord of The Rings, and The Hobbit. Speak friend and ente
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 267 |
+| Subscribers          | 285 |
 | Posts                | 5  |
-| Comments             | 19  |
-| Daily Active Users   | 6  |
+| Comments             | 26  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 14  |
 
@@ -54,4 +54,4 @@ For all things Tolkien, Lord of The Rings, and The Hobbit. Speak friend and ente
 |----------------------|---|
 | Published            | 2023-06-04 22:31:11 |
 | Updated              | 2023-06-11 03:38:21 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:44 |

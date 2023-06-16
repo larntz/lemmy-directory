@@ -3,13 +3,13 @@ title: "NIGHT CITY BAR"
 name: "nightcitybar"
 description: "Welcome to NIGHT CITY BAR, the ultimate cyberpunk-inspired, LGBTQIA+ friendly Fediverse instance for edgerunners, netrunners, and cyberpunks."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/nightcitybar"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 39
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Welcome to NIGHT CITY BAR, the ultimate cyberpunk-inspired, LGBTQIA+ friendly Fe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 39 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to NIGHT CITY BAR, the ultimate cyberpunk-inspired, LGBTQIA+ friendly Fe
 |----------------------|---|
 | Published            | 2023-06-11 17:03:25 |
 | Updated              | 2023-06-11 18:23:32 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

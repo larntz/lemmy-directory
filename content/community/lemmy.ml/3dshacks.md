@@ -3,19 +3,19 @@ title: "3DS Hacks and Homebrew"
 name: "3dshacks"
 description: "Nintendo 3DS hacking and homebrew. We are not affiliated with Nintendo or the 3DS brand."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3dshacks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 86
 posts: 4
 comments: 7
 weight: 4
-dau: 1
-wau: 5
-mau: 5
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Nintendo 3DS hacking and homebrew. We are not affiliated with Nintendo or the 3D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 86 |
 | Posts                | 4  |
 | Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Nintendo 3DS hacking and homebrew. We are not affiliated with Nintendo or the 3D
 |----------------------|---|
 | Published            | 2023-06-08 06:53:03 |
 | Updated              | 2023-06-08 06:53:33 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

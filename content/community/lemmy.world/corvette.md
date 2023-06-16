@@ -3,7 +3,7 @@ title: "Corvette - All Generations"
 name: "corvette"
 description: "Lemmy community for Chevrolet Corvette Enthusiast "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/corvette"
@@ -54,4 +54,4 @@ Lemmy community for Chevrolet Corvette Enthusiast
 |----------------------|---|
 | Published            | 2023-06-12 15:35:45 |
 | Updated              | 2023-06-12 15:43:55 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

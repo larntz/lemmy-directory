@@ -3,16 +3,16 @@ title: "Calvin and Hobbes"
 name: "calvinandhobbes"
 description: "Post your favorite calvin and hobbes comics! Rules:Only post unmodified whole strips, or unmodified parts of a strip if they make sense on their own. "
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/calvinandhobbes"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 126
-posts: 4
-comments: 3
-weight: 4
+subscribers: 144
+posts: 5
+comments: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ Post your favorite calvin and hobbes comics! <br>Rules:<br>Only post unmodified 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 126 |
-| Posts                | 4  |
-| Comments             | 3  |
+| Subscribers          | 144 |
+| Posts                | 5  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Post your favorite calvin and hobbes comics! <br>Rules:<br>Only post unmodified 
 |----------------------|---|
 | Published            | 2023-06-10 15:18:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

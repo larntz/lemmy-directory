@@ -3,7 +3,7 @@ title: "Digital Modes"
 name: "digitalmodes"
 description: "A place to discuss all things digital. Any focus from M17 to AMTOR. This may run parallel to other communities, All questions and posts welcome."
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/digitalmodes"
@@ -54,4 +54,4 @@ A place to discuss all things digital. Any focus from M17 to AMTOR. This may run
 |----------------------|---|
 | Published            | 2023-06-12 23:37:59 |
 | Updated              | 2023-06-12 23:51:59 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

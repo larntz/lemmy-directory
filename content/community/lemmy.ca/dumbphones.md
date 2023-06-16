@@ -3,7 +3,7 @@ title: "Dumbphones"
 name: "dumbphones"
 description: "Feature phones, flip phones, and dumbed-down smartphones. This is a place to share information and engage with others who share an interest in these kinds of lower-tech cellular devices."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dumbphones"
@@ -54,4 +54,4 @@ Feature phones, flip phones, and dumbed-down smartphones. This is a place to sha
 |----------------------|---|
 | Published            | 2023-06-07 23:21:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:34 |

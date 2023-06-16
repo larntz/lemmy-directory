@@ -3,7 +3,7 @@ title: "rdrama"
 name: "rdrama"
 description: "safe space for Marsey enjoyers"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rdrama"
@@ -54,4 +54,4 @@ safe space for Marsey enjoyers
 |----------------------|---|
 | Published            | 2023-06-12 14:58:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

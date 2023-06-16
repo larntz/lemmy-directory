@@ -3,7 +3,7 @@ title: "Literature"
 name: "literature"
 description: "Welcome to !literature! Your space to discuss literature.-This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/literature"
@@ -54,4 +54,4 @@ Welcome to !literature! Your space to discuss literature.<br>-<br>This community
 |----------------------|---|
 | Published            | 2023-06-12 04:39:03 |
 | Updated              | 2023-06-12 07:26:39 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

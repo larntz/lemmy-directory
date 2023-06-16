@@ -3,19 +3,19 @@ title: "Asians"
 name: "asians"
 description: "Alternative to r/asians. Posts should feature asian porn, pics, etc. Do not break any sitewide or common sense rules."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/asians"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 147
+subscribers: 176
 posts: 6
-comments: 1
+comments: 2
 weight: 6
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Alternative to r/asians. Posts should feature asian porn, pics, etc. Do not brea
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 147 |
+| Subscribers          | 176 |
 | Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -56,4 +56,4 @@ Alternative to r/asians. Posts should feature asian porn, pics, etc. Do not brea
 |----------------------|---|
 | Published            | 2023-06-14 10:23:12 |
 | Updated              | 2023-06-14 23:40:05 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,13 +3,13 @@ title: "OkBrudiMongo"
 name: "okbrudimongo"
 description: "Deutsche Ausgeburt von r/okbuddyretard - aber auf lemmy!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okbrudimongo"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 7
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Deutsche Ausgeburt von r/okbuddyretard - aber auf lemmy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Deutsche Ausgeburt von r/okbuddyretard - aber auf lemmy!
 |----------------------|---|
 | Published            | 2023-06-11 06:32:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

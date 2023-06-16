@@ -3,7 +3,7 @@ title: "Schreibwettbewerb"
 name: "schreibwettbewerb"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/schreibwettbewerb"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-01 12:15:36 |
 | Updated              | 2022-06-01 12:26:13 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "Hexavalent"
 name: "hexavalent"
 description: ""
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hexavalent"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-11-17 18:40:51 |
 | Updated              | 2021-12-09 00:51:02 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

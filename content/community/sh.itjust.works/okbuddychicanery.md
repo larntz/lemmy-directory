@@ -3,13 +3,13 @@ title: "Breaking Bad, Better Call Saul & El Camino shitposting community"
 name: "okbuddychicanery"
 description: "Lemmy's equivalent to r/okbuddychicanery subreddit. A place to share brain damaged memes about the Vinceverse."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/okbuddychicanery"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 7
 comments: 2
 weight: 7
@@ -41,7 +41,7 @@ Lemmy's equivalent to r/okbuddychicanery subreddit. A place to share brain damag
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 7  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Lemmy's equivalent to r/okbuddychicanery subreddit. A place to share brain damag
 |----------------------|---|
 | Published            | 2023-06-13 09:50:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

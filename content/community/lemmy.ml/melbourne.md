@@ -3,7 +3,7 @@ title: "melbourne"
 name: "melbourne"
 description: "For Melbourne news and discussion by Melbournians or about Melbourne."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/melbourne"
@@ -54,4 +54,4 @@ For Melbourne news and discussion by Melbournians or about Melbourne.
 |----------------------|---|
 | Published            | 2020-06-01 15:26:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

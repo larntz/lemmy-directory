@@ -3,13 +3,13 @@ title: "Rant!"
 name: "rant"
 description: "This is much different than [r/rant](https://www.reddit.com/r/rant/), so there are no strict moderators."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rant"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 0
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is much different than [r/rant](https://www.reddit.com/r/rant/), so there a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 0 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is much different than [r/rant](https://www.reddit.com/r/rant/), so there a
 |----------------------|---|
 | Published            | 2023-06-09 14:20:02 |
 | Updated              | 2023-06-09 14:21:50 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

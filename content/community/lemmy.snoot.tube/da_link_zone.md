@@ -3,7 +3,7 @@ title: "da link zone"
 name: "da_link_zone"
 description: "like a truck you can keep piling links on to(i'm just dumping stuff here without sorting it)"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/da_link_zone"
@@ -54,4 +54,4 @@ like a truck you can keep piling links on to<br><br>(i'm just dumping stuff here
 |----------------------|---|
 | Published            | 2023-06-12 19:40:00 |
 | Updated              | 2023-06-12 20:05:13 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:17 |

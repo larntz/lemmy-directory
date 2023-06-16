@@ -3,13 +3,13 @@ title: "asslick"
 name: "asslick"
 description: "An alternative to r/asslick. Posts must contain relevant content of F/F or F/M ass licking. Do not violate sitewide rules. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/asslick"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 24
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ An alternative to r/asslick. Posts must contain relevant content of F/F or F/M a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 24 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ An alternative to r/asslick. Posts must contain relevant content of F/F or F/M a
 |----------------------|---|
 | Published            | 2023-06-14 23:21:50 |
 | Updated              | 2023-06-15 07:05:31 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

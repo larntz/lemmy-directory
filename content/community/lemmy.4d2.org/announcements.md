@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "A community for announcements about lemmy.4d2.org from the admins."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.4d2.org/c/announcements"
@@ -54,4 +54,4 @@ A community for announcements about lemmy.4d2.org from the admins.
 |----------------------|---|
 | Published            | 2023-06-10 11:39:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

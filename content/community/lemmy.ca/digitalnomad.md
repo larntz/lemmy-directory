@@ -3,7 +3,7 @@ title: "Digital Nomad"
 name: "digitalnomad"
 description: "Lemmy community for digital nomads."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/digitalnomad"
@@ -54,4 +54,4 @@ Lemmy community for digital nomads.
 |----------------------|---|
 | Published            | 2023-06-13 20:40:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

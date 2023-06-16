@@ -3,19 +3,19 @@ title: "Nonsense 🇺🇦 Takes"
 name: "nut"
 description: "All terrible 🇺🇦 takes, all the time.Takes do not have to be Ukraine/Russia related. Any bad take from a 🇺🇦 will suffice. "
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/nut"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 229
+subscribers: 230
 posts: 122
 comments: 1258
 weight: 122
-dau: 3
-wau: 19
-mau: 21
+dau: 2
+wau: 17
+mau: 20
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ All terrible 🇺🇦 takes, all the time.<br><br>Takes do not have to be Ukrain
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 229 |
+| Subscribers          | 230 |
 | Posts                | 122  |
 | Comments             | 1258  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 21  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ All terrible 🇺🇦 takes, all the time.<br><br>Takes do not have to be Ukrain
 |----------------------|---|
 | Published            | 2022-05-19 19:09:14 |
 | Updated              | 2022-06-25 20:07:29 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

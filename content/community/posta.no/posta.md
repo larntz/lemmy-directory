@@ -3,7 +3,7 @@ title: "Posta"
 name: "posta"
 description: "Community for discussions about this Lemmy instance."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://posta.no/c/posta"
@@ -54,4 +54,4 @@ Community for discussions about this Lemmy instance.
 |----------------------|---|
 | Published            | 2023-06-11 15:20:53 |
 | Updated              | 2023-06-11 16:55:49 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,19 +3,19 @@ title: "Share Funny Videos, Images, Memes, Quotes and more "
 name: "funny"
 description: "#funny "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funny"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 555
-posts: 86
+subscribers: 564
+posts: 87
 comments: 30
-weight: 86
-dau: 3
+weight: 87
+dau: 2
 wau: 5
-mau: 6
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 555 |
-| Posts                | 86  |
+| Subscribers          | 564 |
+| Posts                | 87  |
 | Comments             | 30  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-03-07 23:15:52 |
 | Updated              | 2020-03-07 23:20:52 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

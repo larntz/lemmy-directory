@@ -3,7 +3,7 @@ title: "Bruce Springsteen"
 name: "springsteen"
 description: "For fans of BruceKeep it kosher "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/springsteen"
@@ -54,4 +54,4 @@ For fans of Bruce<br><br>Keep it kosher
 |----------------------|---|
 | Published            | 2023-06-15 16:51:00 |
 | Updated              | 2023-06-16 09:30:45 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

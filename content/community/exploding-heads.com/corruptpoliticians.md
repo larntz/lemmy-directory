@@ -3,7 +3,7 @@ title: "Corrupt Politicians"
 name: "corruptpoliticians"
 description: "Share and discuss reports of Corrupt Politicians and political practices."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/corruptpoliticians"
@@ -54,4 +54,4 @@ Share and discuss reports of Corrupt Politicians and political practices.
 |----------------------|---|
 | Published            | 2022-02-27 21:27:07 |
 | Updated              | 2022-03-13 00:50:30 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

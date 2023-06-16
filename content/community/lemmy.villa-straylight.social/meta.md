@@ -3,7 +3,7 @@ title: "Chatsubo"
 name: "meta"
 description: "A place for general chat and things of interest to this instance."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/meta"
@@ -11,7 +11,7 @@ host: lemmy.villa-straylight.social
 lastmod: "{[ .Updated }}"
 subscribers: 11
 posts: 6
-comments: 15
+comments: 16
 weight: 6
 dau: 1
 wau: 9
@@ -43,7 +43,7 @@ A place for general chat and things of interest to this instance.
 |----------------------|---|
 | Subscribers          | 11 |
 | Posts                | 6  |
-| Comments             | 15  |
+| Comments             | 16  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ A place for general chat and things of interest to this instance.
 |----------------------|---|
 | Published            | 2023-06-08 03:22:28 |
 | Updated              | 2023-06-08 16:08:48 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:59 |

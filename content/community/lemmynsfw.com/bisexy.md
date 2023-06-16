@@ -3,13 +3,13 @@ title: "Bisexy"
 name: "bisexy"
 description: "Group content for those who enjoy all genders"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bisexy"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 110
+subscribers: 118
 posts: 5
 comments: 0
 weight: 5
@@ -43,7 +43,7 @@ Group content for those who enjoy all genders
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 110 |
+| Subscribers          | 118 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Group content for those who enjoy all genders
 |----------------------|---|
 | Published            | 2023-06-14 00:21:34 |
 | Updated              | 2023-06-14 00:35:31 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,7 +3,7 @@ title: "fortnight"
 name: "fortnight"
 description: "A place for discussion and media about Fortnight, the game by Epic Games.Get it at [www.fortnite.com](https://www.fortnite.com/)"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/fortnight"
@@ -54,4 +54,4 @@ A place for discussion and media about Fortnight, the game by Epic Games.<br><br
 |----------------------|---|
 | Published            | 2023-06-05 08:51:27 |
 | Updated              | 2023-06-09 08:29:36 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

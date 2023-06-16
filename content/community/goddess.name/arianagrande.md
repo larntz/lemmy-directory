@@ -3,7 +3,7 @@ title: "Ariana Grande"
 name: "arianagrande"
 description: "official Ariana Grande!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/arianagrande"
@@ -54,4 +54,4 @@ official Ariana Grande!
 |----------------------|---|
 | Published            | 2023-06-12 15:14:46 |
 | Updated              | 2023-06-12 16:05:26 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

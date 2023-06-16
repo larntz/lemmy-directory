@@ -3,19 +3,19 @@ title: "Electronics"
 name: "electronics"
 description: "Projects, pictures, and news about component-level electronic circuits "
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/electronics"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 409
-posts: 8
-comments: 42
-weight: 8
-dau: 11
-wau: 37
-mau: 37
+subscribers: 443
+posts: 9
+comments: 48
+weight: 9
+dau: 10
+wau: 40
+mau: 40
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Projects, pictures, and news about component-level electronic circuits
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 409 |
-| Posts                | 8  |
-| Comments             | 42  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 37  |
-| Monthly Active Users | 37  |
+| Subscribers          | 443 |
+| Posts                | 9  |
+| Comments             | 48  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -54,4 +54,4 @@ Projects, pictures, and news about component-level electronic circuits
 |----------------------|---|
 | Published            | 2023-06-11 17:24:20 |
 | Updated              | 2023-06-11 17:33:41 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

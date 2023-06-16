@@ -3,19 +3,19 @@ title: "Philippines"
 name: "philippines"
 description: "***A community for the Philippines and all things Filipino!***![Image](https://i.imgur.com/UZES4iw.jpg)#  Rules1. Follow [Code of Conduct](https://mastodon.world/about)2. Posts should be PH relevant3. No flaming or name-calling4. No editorialized titles5. No links to Facebook 6. Censor personal information7. No pornography8. Go to [thevisoria](https://lemmy.world/c/thevisoria) for classifieds9. Tag spoilers10. Provide sources for any claims11. No reposts#  Credits* Banner photos by [Cris Tagupa](https://unsplash.com/photos/qFWGqrpZhYU)* Tumindig Snoo by u/gonerq* Daily pixel art by [adroitcell](https://www.instagram.com/adroitcell.pxl/)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/philippines"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 452
-posts: 121
-comments: 1622
-weight: 121
-dau: 118
-wau: 187
-mau: 187
+subscribers: 486
+posts: 127
+comments: 1719
+weight: 127
+dau: 89
+wau: 224
+mau: 224
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 452 |
-| Posts                | 121  |
-| Comments             | 1622  |
-| Daily Active Users   | 118  |
-| Weekly Active Users  | 187  |
-| Monthly Active Users | 187  |
+| Subscribers          | 486 |
+| Posts                | 127  |
+| Comments             | 1719  |
+| Daily Active Users   | 89  |
+| Weekly Active Users  | 224  |
+| Monthly Active Users | 224  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 10:56:24 |
 | Updated              | 2023-06-16 10:07:09 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

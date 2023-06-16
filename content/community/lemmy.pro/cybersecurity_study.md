@@ -3,7 +3,7 @@ title: "Cybersecurity Education and Learning"
 name: "cybersecurity_study"
 description: "A community for the discussion of cybersecurity training, education, learning, certifications and similar. Be nice, no spam!"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/cybersecurity_study"
@@ -54,4 +54,4 @@ A community for the discussion of cybersecurity training, education, learning, c
 |----------------------|---|
 | Published            | 2023-06-12 13:22:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

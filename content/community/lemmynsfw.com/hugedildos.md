@@ -3,19 +3,19 @@ title: "Huge Dildos"
 name: "hugedildos"
 description: "The deepest dick_____________________________________________________**1.No rude comments*** any unnecessary, rude, uneducated (comments on anatomy that you can easily google yourself), comment will be removed and possibly banned.**2.Huge dildos only*** For an example of what is considered huge, look at Bad Dragons Large and XL sizes.**~~3.2 Posts max every 24 hours~~*** ~~Now limited to 2 posts within a 24 hour time frame to avoid spam~~* (we will overlook this rule while we are building out the sub)"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hugedildos"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 299
-posts: 26
-comments: 7
-weight: 26
-dau: 1
-wau: 9
-mau: 9
+subscribers: 328
+posts: 27
+comments: 8
+weight: 27
+dau: 2
+wau: 11
+mau: 11
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ The deepest dick<br><br>_____________________________________________________<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 299 |
-| Posts                | 26  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 328 |
+| Posts                | 27  |
+| Comments             | 8  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -56,4 +56,4 @@ The deepest dick<br><br>_____________________________________________________<br
 |----------------------|---|
 | Published            | 2023-06-12 23:06:28 |
 | Updated              | 2023-06-12 23:06:48 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

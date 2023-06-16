@@ -3,7 +3,7 @@ title: "GenZedongRU"
 name: "genzedongru"
 description: "**GenZedong** для **Русско-говорящих** товарищей.🇷🇺🇨🇺🇨🇳"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongru"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-03-27 15:13:17 |
 | Updated              | 2022-03-28 03:28:55 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

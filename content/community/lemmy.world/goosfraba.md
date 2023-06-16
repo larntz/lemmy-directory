@@ -3,7 +3,7 @@ title: "Anger Management"
 name: "goosfraba"
 description: "Anger Management, the movie"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goosfraba"
@@ -54,4 +54,4 @@ Anger Management, the movie
 |----------------------|---|
 | Published            | 2023-06-12 01:51:13 |
 | Updated              | 2023-06-12 01:52:26 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

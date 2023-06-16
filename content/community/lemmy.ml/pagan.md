@@ -3,7 +3,7 @@ title: "Spiritual Scientists"
 name: "pagan"
 description: "A place for like-minded folks to discuss their own forms of paganism. This community supports scientific advances as well as pagan spiritualism. We know lavender is great in a bath to relax you, but we also know that it won't prevent measles, that's what vaccines are for.Rules:1. Be excellent to each other*banner by trichomaniac"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pagan"
@@ -54,4 +54,4 @@ A place for like-minded folks to discuss their own forms of paganism. This commu
 |----------------------|---|
 | Published            | 2020-11-06 06:37:52 |
 | Updated              | 2020-11-06 08:33:28 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

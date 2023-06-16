@@ -3,13 +3,13 @@ title: "Intersting web projects"
 name: "web"
 description: "Show and discuss interesting web projects!Submission rules:1. Title should include sitename and short description/intro what it is.2. No malware or other malicious content.  "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 487
+subscribers: 488
 posts: 138
 comments: 98
 weight: 138
@@ -41,7 +41,7 @@ Show and discuss interesting web projects!<br><br>Submission rules:<br>1. Title 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 487 |
+| Subscribers          | 488 |
 | Posts                | 138  |
 | Comments             | 98  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Show and discuss interesting web projects!<br><br>Submission rules:<br>1. Title 
 |----------------------|---|
 | Published            | 2020-01-26 12:26:37 |
 | Updated              | 2020-08-21 00:50:57 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

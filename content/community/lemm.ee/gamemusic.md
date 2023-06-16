@@ -3,13 +3,13 @@ title: "Gamemusic"
 name: "gamemusic"
 description: "Mainly just a place to share your favorite video game music or VG covers/remixes."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gamemusic"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 20
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Mainly just a place to share your favorite video game music or VG covers/remixes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 20 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Mainly just a place to share your favorite video game music or VG covers/remixes
 |----------------------|---|
 | Published            | 2023-06-13 23:20:19 |
 | Updated              | 2023-06-13 23:22:05 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

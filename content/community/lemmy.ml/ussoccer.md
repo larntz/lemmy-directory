@@ -3,7 +3,7 @@ title: "ussoccer"
 name: "ussoccer"
 description: "Discussions about US Soccer"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ussoccer"
@@ -54,4 +54,4 @@ Discussions about US Soccer
 |----------------------|---|
 | Published            | 2023-06-10 22:55:28 |
 | Updated              | 2023-06-11 01:28:45 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:44 |

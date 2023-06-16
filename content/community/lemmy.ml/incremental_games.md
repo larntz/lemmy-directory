@@ -3,19 +3,19 @@ title: "Incremental Games"
 name: "incremental_games"
 description: "Welcome to our community of enthusiasts who cherish the charm and strategy of incremental games! These games, also known as idle games, clicker games, or tapping games, captivate us by using a mechanism that allows players to steadily progress in power, complexity, and storyline by earning or unlocking a sequence of upgrades. From mind-boggling number-crunching to the discovery of fresh play strategies, incremental games have carved a unique niche in the gaming landscape.Don't forget your finger stretches!Rules:- Be excellent to each other- Don't spam"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/incremental_games"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 51
 posts: 3
-comments: 12
+comments: 14
 weight: 3
 dau: 1
-wau: 7
-mau: 7
+wau: 9
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Welcome to our community of enthusiasts who cherish the charm and strategy of in
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 51 |
 | Posts                | 3  |
-| Comments             | 12  |
+| Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to our community of enthusiasts who cherish the charm and strategy of in
 |----------------------|---|
 | Published            | 2023-06-10 23:19:26 |
 | Updated              | 2023-06-11 17:39:40 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

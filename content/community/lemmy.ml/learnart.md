@@ -3,7 +3,7 @@ title: "Learn Art - For Artists who want to improve"
 name: "learnart"
 description: "LearnArt is a free open art learning resource built on the principles of free education and art access to all. Come check us out for feedback, guidance, and discussion!"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnart"
@@ -54,4 +54,4 @@ LearnArt is a free open art learning resource built on the principles of free ed
 |----------------------|---|
 | Published            | 2023-06-04 21:33:20 |
 | Updated              | 2023-06-07 08:35:59 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:21 |

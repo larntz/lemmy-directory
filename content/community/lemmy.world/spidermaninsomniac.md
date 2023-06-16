@@ -3,7 +3,7 @@ title: "Insomniac's Spider-Man"
 name: "spidermaninsomniac"
 description: "The community for all things related to Insomniac's version and universe for Spider-Man! This includes Marvel's Spider-Man, Marvel's Spider-Man: Miles Morales, and Marvel's Spider-Man 2."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spidermaninsomniac"
@@ -54,4 +54,4 @@ The community for all things related to Insomniac's version and universe for Spi
 |----------------------|---|
 | Published            | 2023-06-11 18:04:23 |
 | Updated              | 2023-06-11 18:06:28 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

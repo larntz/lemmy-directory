@@ -3,7 +3,7 @@ title: "English Learning"
 name: "englishlearning"
 description: "This is a place for people learning English to ask questions about English grammar, syntax, vocabulary, and the like.All levels of learners are welcome.**Rules**- Be respectful. We may not all speak English fluently. Please help rather than be rude or abusive.- Harassment or any derogatory language will not be tolerated.- Purposefully inciting arguments, personal attacks and threats will not be tolerated. This includes the posting of personal information and posting with the intention of starting or propagating drama."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/englishlearning"
@@ -54,4 +54,4 @@ This is a place for people learning English to ask questions about English gramm
 |----------------------|---|
 | Published            | 2023-06-12 02:03:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

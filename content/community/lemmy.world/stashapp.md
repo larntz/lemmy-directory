@@ -1,9 +1,9 @@
 ---
 title: "Stash" 
 name: "stashapp"
-description: "An organizer for your porn, written in Go.Website: https://stashapp.cc Documentation: https://docs.stashapp.cc Canonical stash-box instance: https://stashdb.org StashDB guidelines: https://guidelines.stashdb.org Support the project: https://opencollective.com/stashapp"
+description: "**An organizer for your porn, written in Go.**Website: https://stashapp.cc Documentation: https://docs.stashapp.cc Canonical stash-box instance: https://stashdb.org StashDB guidelines: https://guidelines.stashdb.org Support the project: https://opencollective.com/stashapp"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stashapp"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-An organizer for your porn, written in Go.<br><br>Website: https://stashapp.cc <br><br>Documentation: https://docs.stashapp.cc <br><br>Canonical stash-box instance: https://stashdb.org <br><br>StashDB guidelines: https://guidelines.stashdb.org <br><br>Support the project: https://opencollective.com/stashapp
+**An organizer for your porn, written in Go.**<br><br>Website: https://stashapp.cc <br><br>Documentation: https://docs.stashapp.cc <br><br>Canonical stash-box instance: https://stashdb.org <br><br>StashDB guidelines: https://guidelines.stashdb.org <br><br>Support the project: https://opencollective.com/stashapp
 </blockquote>
 
 
@@ -53,5 +53,5 @@ An organizer for your porn, written in Go.<br><br>Website: https://stashapp.cc <
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 23:21:59 |
-| Updated              | 2023-06-11 23:23:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Updated              | 2023-06-16 15:29:05 |
+| Last Scraped         | 2023-06-16 22:57:18 |

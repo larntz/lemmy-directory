@@ -3,7 +3,7 @@ title: "Música"
 name: "musica"
 description: "Comunidade para a partilha e discussão de qualquer género de música."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/musica"
@@ -54,4 +54,4 @@ Comunidade para a partilha e discussão de qualquer género de música.
 |----------------------|---|
 | Published            | 2021-09-10 19:56:31 |
 | Updated              | 2021-09-13 11:22:58 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

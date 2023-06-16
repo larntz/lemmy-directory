@@ -3,19 +3,19 @@ title: "Unixporn"
 name: "unixporn"
 description: "Submit screenshots of all your *NIX desktops, themes, and nifty configurations, or submit anything else that will make ricers happy. Maybe a server running on an Amiga, or a thinkpad signed by Bjarne Stroustrup? Show the world how sexy your computer can be!"
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/unixporn"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 9
+subscribers: 23
+posts: 4
 comments: 1
-weight: 9
+weight: 4
 dau: 1
 wau: 1
-mau: 1
+mau: 3
 instances:
 - "lemmy_tedomum_net"
 tags: 
@@ -41,12 +41,12 @@ Submit screenshots of all your *NIX desktops, themes, and nifty configurations, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 9  |
+| Subscribers          | 23 |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Submit screenshots of all your *NIX desktops, themes, and nifty configurations, 
 |----------------------|---|
 | Published            | 2021-01-13 22:17:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

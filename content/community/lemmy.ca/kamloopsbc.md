@@ -3,13 +3,13 @@ title: "Kamloops"
 name: "kamloopsbc"
 description: "Community for the city of Kamloops, BC"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kamloopsbc"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 10
 comments: 6
 weight: 10
@@ -41,7 +41,7 @@ Community for the city of Kamloops, BC
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 10  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for the city of Kamloops, BC
 |----------------------|---|
 | Published            | 2021-01-26 07:03:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:34 |

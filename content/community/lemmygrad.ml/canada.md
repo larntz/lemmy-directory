@@ -3,13 +3,13 @@ title: "Canada"
 name: "canada"
 description: "# EnglishThis is a community dedicated to Canada and Canadians!### Rules* Posts must be relevant to Canada or Canadians* No misinformation* No NSFW content* No hate speech, bigotry, etc ### Links* [Communist Party of Canada](http://communist-party.ca)* [Communist Party of Québec](http://particommunisteduquebec.ca/)-----# FrançaisIl s'agit d'une communauté dédiée au Canada et aux Canadiens !### Règles* Les postes doivent être pertinentes pour le Canada ou les Canadiens* Pas de désinformation* Pas de contenu NSFW* Pas de discours de haine, de sectarisme, etc. ### Liens Internet* [Parti communiste du Canada](http://communist-party.ca)* [Parti communiste du Québec](http://particommunisteduquebec.ca/)-----### Related Communities **/** Communautés associées* [!canada@lemmy.ml](https://lemmy.ml/c/canada)* [!quebec@lemmygrad.ml](https://lemmygrad.ml/c/quebec)* [lemmy.ca](https://lemmy.ca)-----*The community icon is the logo of the Communist Party of Canada, but this community is not affiliated with them.* **/** *L'icône de la communauté est le logo du Parti communiste du Canada, mais cette communauté n'est pas affiliée à ce parti.*"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/canada"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 196
+subscribers: 197
 posts: 95
 comments: 93
 weight: 95
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 196 |
+| Subscribers          | 197 |
 | Posts                | 95  |
 | Comments             | 93  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-08-25 03:45:54 |
 | Updated              | 2022-02-21 07:55:50 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,17 +3,17 @@ title: "Cannabis Cultivation "
 name: "cannabiscultivation"
 description: "This will be a home for all things related to the cultivation of cannabis.The preferred focus here will be organic and sustainable growing methods, but any cannabis growers or growers-to-be are welcome!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/cannabiscultivation"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 7
+subscribers: 19
+posts: 8
 comments: 6
-weight: 7
-dau: 2
+weight: 8
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ This will be a home for all things related to the cultivation of cannabis.<br>Th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 7  |
+| Subscribers          | 19 |
+| Posts                | 8  |
 | Comments             | 6  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -53,5 +53,5 @@ This will be a home for all things related to the cultivation of cannabis.<br>Th
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 02:51:12 |
-| Updated              | 2023-06-13 03:28:30 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Updated              | 2023-06-16 12:48:23 |
+| Last Scraped         | 2023-06-16 22:56:27 |

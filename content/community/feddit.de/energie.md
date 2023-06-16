@@ -3,13 +3,13 @@ title: "Energie"
 name: "energie"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/energie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 95
+subscribers: 96
 posts: 67
 comments: 52
 weight: 67
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 95 |
+| Subscribers          | 96 |
 | Posts                | 67  |
 | Comments             | 52  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-02 15:40:41 |
 | Updated              | 2022-06-02 15:42:15 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

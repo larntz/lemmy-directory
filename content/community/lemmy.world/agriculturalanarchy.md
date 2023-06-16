@@ -3,7 +3,7 @@ title: "Agricultural Anarchy"
 name: "agriculturalanarchy"
 description: "*Free the seeds!*For discussing horticulture, agriculture, houseplants, or anything else plant related with a focus on spreading knowledge about self-sufficient, successful growth and propagation to everyone who wants it, not just industry leaders or paying customers."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/agriculturalanarchy"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 19:57:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

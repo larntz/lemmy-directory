@@ -3,19 +3,19 @@ title: "conspiracy"
 name: "conspiracy"
 description: "Feel free to post about conspiracies and related subjects, eg: corruption, artificial narratives, propaganda, etc.. Matrix/Element room: https://matrix.to/#/!gbegunGWczsraIIElI:matrix.org?via=matrix.org&nbsp;"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/conspiracy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 261
+subscribers: 267
 posts: 32
-comments: 55
+comments: 57
 weight: 32
-dau: 2
-wau: 3
-mau: 7
+dau: 1
+wau: 5
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Feel free to post about conspiracies and related subjects, eg: corruption, artif
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 261 |
+| Subscribers          | 267 |
 | Posts                | 32  |
-| Comments             | 55  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 7  |
+| Comments             | 57  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Feel free to post about conspiracies and related subjects, eg: corruption, artif
 |----------------------|---|
 | Published            | 2020-02-13 17:44:15 |
 | Updated              | 2022-05-05 07:19:47 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

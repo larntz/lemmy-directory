@@ -3,7 +3,7 @@ title: "Lehrerzimmer"
 name: "lemmylz"
 description: "Eine Community für alle, die sich für das Lehren und die Lehrenden interessieren."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/lemmylz"
@@ -54,4 +54,4 @@ Eine Community für alle, die sich für das Lehren und die Lehrenden interessier
 |----------------------|---|
 | Published            | 2023-06-10 14:08:43 |
 | Updated              | 2023-06-14 06:08:15 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

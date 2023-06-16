@@ -3,19 +3,19 @@ title: "Self Repair - Right to repair"
 name: "selfrepair"
 description: "A community to help each other on fixing anything tech related.Laptops, Desktops, Smartphones, toasters or even monitors!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfrepair"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 232
+subscribers: 234
 posts: 8
 comments: 17
 weight: 8
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community to help each other on fixing anything tech related.<br>Laptops, Desk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 232 |
+| Subscribers          | 234 |
 | Posts                | 8  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to help each other on fixing anything tech related.<br>Laptops, Desk
 |----------------------|---|
 | Published            | 2021-05-10 22:42:39 |
 | Updated              | 2021-05-10 22:45:40 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

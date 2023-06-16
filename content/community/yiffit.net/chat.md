@@ -3,19 +3,19 @@ title: "Furry Chat"
 name: "chat"
 description: "Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon client to post here directly, or post directly via any Lemmy instance."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/chat"
 host: yiffit.net
 lastmod: "{[ .Updated }}"
-subscribers: 126
-posts: 27
-comments: 149
-weight: 27
+subscribers: 136
+posts: 29
+comments: 160
+weight: 29
 dau: 14
-wau: 55
-mau: 55
+wau: 59
+mau: 60
 instances:
 - "yiffit_net"
 tags: 
@@ -41,12 +41,12 @@ Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon cl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 126 |
-| Posts                | 27  |
-| Comments             | 149  |
+| Subscribers          | 136 |
+| Posts                | 29  |
+| Comments             | 160  |
 | Daily Active Users   | 14  |
-| Weekly Active Users  | 55  |
-| Monthly Active Users | 55  |
+| Weekly Active Users  | 59  |
+| Monthly Active Users | 60  |
 
 <br>
 
@@ -54,4 +54,4 @@ Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon cl
 |----------------------|---|
 | Published            | 2023-06-08 17:32:47 |
 | Updated              | 2023-06-15 17:26:44 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:10 |

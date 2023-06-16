@@ -3,19 +3,19 @@ title: "Incremental Games"
 name: "incremental_games"
 description: "This community is for lovers of games that feature an incremental mechanism, such as unlocking progressively more powerful upgrades, or discovering new ways to play the game. This genre is growing at a break-neck pace, be part of the revolution!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/incremental_games"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 37
 posts: 2
-comments: 5
+comments: 6
 weight: 2
-dau: 3
-wau: 3
-mau: 3
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community is for lovers of games that feature an incremental mechanism, suc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 37 |
 | Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is for lovers of games that feature an incremental mechanism, suc
 |----------------------|---|
 | Published            | 2023-06-10 23:47:29 |
 | Updated              | 2023-06-11 14:35:57 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:15 |

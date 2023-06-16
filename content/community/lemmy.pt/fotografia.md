@@ -3,7 +3,7 @@ title: "Fotografia"
 name: "fotografia"
 description: "Uma comunidade direcionada à fotografia de qualquer tipo."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/fotografia"
@@ -54,4 +54,4 @@ Uma comunidade direcionada à fotografia de qualquer tipo.
 |----------------------|---|
 | Published            | 2023-05-14 19:30:48 |
 | Updated              | 2023-06-07 19:48:49 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

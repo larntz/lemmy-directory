@@ -3,13 +3,13 @@ title: "A community for all the BSD's"
 name: "bsd"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bsd"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 227
+subscribers: 228
 posts: 76
 comments: 5
 weight: 76
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 227 |
+| Subscribers          | 228 |
 | Posts                | 76  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-07-25 02:04:22 |
 | Updated              | 2020-11-17 16:30:38 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

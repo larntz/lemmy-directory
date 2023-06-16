@@ -3,19 +3,19 @@ title: "Zurich"
 name: "zurich"
 description: "Community all around the city and canton of Zurich, Switzerland!"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zurich"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 6
+subscribers: 8
+posts: 7
 comments: 0
-weight: 6
-dau: 0
-wau: 0
-mau: 0
+weight: 7
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community all around the city and canton of Zurich, Switzerland!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 6  |
+| Subscribers          | 8 |
+| Posts                | 7  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community all around the city and canton of Zurich, Switzerland!
 |----------------------|---|
 | Published            | 2023-06-15 04:04:23 |
 | Updated              | 2023-06-15 04:54:16 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

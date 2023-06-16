@@ -3,13 +3,13 @@ title: "Guitar"
 name: "guitar"
 description: "Everything guitar related. Playing, gear, whatever."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/guitar"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Everything guitar related. Playing, gear, whatever.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything guitar related. Playing, gear, whatever.
 |----------------------|---|
 | Published            | 2022-09-15 09:41:22 |
 | Updated              | 2022-09-15 09:58:26 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

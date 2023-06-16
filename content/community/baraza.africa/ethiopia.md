@@ -3,7 +3,7 @@ title: "Ethiopia"
 name: "ethiopia"
 description: "A place to share and discuss Ethiopian news and related issues. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/ethiopia"
@@ -54,4 +54,4 @@ A place to share and discuss Ethiopian news and related issues.
 |----------------------|---|
 | Published            | 2020-11-20 10:22:34 |
 | Updated              | 2021-11-28 00:18:33 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,19 +3,19 @@ title: "Dungeons and Dragons"
 name: "dnd"
 description: "Lemmy community for discussion of all things Dungeons and Dragons!**Basic Rules (Subject to Change)**--Be a Decent Human Being--Credit OC content (self or otherwise)--Posting news articles: include the source name and exact title from article--Posts must have something to do with Dungeons and Dragons--Zero tolerance for Racism/Sexism/Ableism/etc.--No NSFW content--Abide by the rules of lemmy.world"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dnd"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1639
-posts: 36
-comments: 230
-weight: 36
-dau: 47
-wau: 93
-mau: 93
+subscribers: 1800
+posts: 42
+comments: 271
+weight: 42
+dau: 37
+wau: 142
+mau: 142
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Basi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1639 |
-| Posts                | 36  |
-| Comments             | 230  |
-| Daily Active Users   | 47  |
-| Weekly Active Users  | 93  |
-| Monthly Active Users | 93  |
+| Subscribers          | 1800 |
+| Posts                | 42  |
+| Comments             | 271  |
+| Daily Active Users   | 37  |
+| Weekly Active Users  | 142  |
+| Monthly Active Users | 142  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Basi
 |----------------------|---|
 | Published            | 2023-06-10 20:25:41 |
 | Updated              | 2023-06-16 03:53:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

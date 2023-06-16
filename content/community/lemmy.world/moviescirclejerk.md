@@ -3,19 +3,19 @@ title: "moviescirclejerk"
 name: "moviescirclejerk"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/moviescirclejerk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 5
+subscribers: 32
+posts: 6
 comments: 3
-weight: 5
-dau: 2
-wau: 4
-mau: 4
+weight: 6
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 5  |
+| Subscribers          | 32 |
+| Posts                | 6  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 02:21:35 |
 | Updated              | 2023-06-13 20:13:06 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

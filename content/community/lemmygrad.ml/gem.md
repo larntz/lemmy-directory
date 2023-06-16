@@ -3,7 +3,7 @@ title: "Green Empower"
 name: "gem"
 description: "this is where I'm going to put my drafts and articles for my projects including greenempower.org"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gem"
@@ -54,4 +54,4 @@ this is where I'm going to put my drafts and articles for my projects including 
 |----------------------|---|
 | Published            | 2022-06-07 03:36:14 |
 | Updated              | 2023-01-10 01:27:18 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

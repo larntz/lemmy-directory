@@ -3,19 +3,19 @@ title: "iOS Beta"
 name: "iosbeta"
 description: "iOS Beta Community "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iosbeta"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 191
+subscribers: 203
 posts: 6
-comments: 30
+comments: 32
 weight: 6
-dau: 5
-wau: 10
-mau: 10
+dau: 7
+wau: 18
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ iOS Beta Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 191 |
+| Subscribers          | 203 |
 | Posts                | 6  |
-| Comments             | 30  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 32  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ iOS Beta Community
 |----------------------|---|
 | Published            | 2023-06-11 01:31:46 |
 | Updated              | 2023-06-11 05:26:40 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

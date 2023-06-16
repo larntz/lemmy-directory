@@ -3,19 +3,19 @@ title: "hololive"
 name: "hololive"
 description: "Community dedicated to discussing the Japanese Vtuber group Hololive!Rules:1. No doxxing2. Make sure to link original art sources3. No harassment "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hololive"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 100
+subscribers: 106
 posts: 10
 comments: 18
 weight: 10
 dau: 2
-wau: 5
-mau: 5
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community dedicated to discussing the Japanese Vtuber group Hololive!<br><br>Rul
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 100 |
+| Subscribers          | 106 |
 | Posts                | 10  |
 | Comments             | 18  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community dedicated to discussing the Japanese Vtuber group Hololive!<br><br>Rul
 |----------------------|---|
 | Published            | 2023-06-10 00:57:21 |
 | Updated              | 2023-06-10 07:28:29 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

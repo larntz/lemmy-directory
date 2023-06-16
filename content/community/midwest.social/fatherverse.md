@@ -3,13 +3,13 @@ title: "fatherverse"
 name: "fatherverse"
 description: "like daddit for the fediverse but we all eat pizza with ranch and say ope a lot.  all dads and non-dads are welcome.  ranch on pizza is recommended but not required.  ope is mandatory."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/fatherverse"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 11
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ like daddit for the fediverse but we all eat pizza with ranch and say ope a lot.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ like daddit for the fediverse but we all eat pizza with ranch and say ope a lot.
 |----------------------|---|
 | Published            | 2023-06-16 02:54:03 |
 | Updated              | 2023-06-16 02:55:59 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

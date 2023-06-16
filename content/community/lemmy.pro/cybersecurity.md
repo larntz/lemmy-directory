@@ -3,13 +3,13 @@ title: "Cybersecurity"
 name: "cybersecurity"
 description: "All about cybersecurity. Be nice, no spam!"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/cybersecurity"
 host: lemmy.pro
 lastmod: "{[ .Updated }}"
-subscribers: 86
+subscribers: 91
 posts: 30
 comments: 8
 weight: 30
@@ -41,7 +41,7 @@ All about cybersecurity. Be nice, no spam!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
+| Subscribers          | 91 |
 | Posts                | 30  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All about cybersecurity. Be nice, no spam!
 |----------------------|---|
 | Published            | 2023-06-12 13:09:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

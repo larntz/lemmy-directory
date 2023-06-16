@@ -3,19 +3,19 @@ title: "GNU/Linux Italia"
 name: "gnulinuxitalia"
 description: "Gruppo di discussione GNU/Linux. *Non ti sto dando una birra gratis la sto condividendo.***G**nu**N**ot**U**nix[Telegram](https://t.me/GNULinuxItaliaOpen)[Matrix](https://matrix.to/#/#linuxitalia:mozilla.org )"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/gnulinuxitalia"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 85
+subscribers: 87
 posts: 9
-comments: 20
+comments: 21
 weight: 9
 dau: 1
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Gruppo di discussione GNU/Linux. *Non ti sto dando una birra gratis la sto condi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 85 |
+| Subscribers          | 87 |
 | Posts                | 9  |
-| Comments             | 20  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Gruppo di discussione GNU/Linux. *Non ti sto dando una birra gratis la sto condi
 |----------------------|---|
 | Published            | 2023-02-28 17:40:25 |
 | Updated              | 2023-02-28 21:13:38 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

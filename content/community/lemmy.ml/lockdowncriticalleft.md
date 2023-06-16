@@ -3,7 +3,7 @@ title: "Lockdown Critical Left"
 name: "lockdowncriticalleft"
 description: "Criticizing lockdowns from the left**Leftist:** broadly defined as someone whose political ideology supports a transition away from capitalism towards a more democratically run economyJoin our [discord](https://discord.gg/8g3Yce5) (courtesy of /u/Sgt_Nicholas_Angel_)!Rules:1.    Non-leftists and lockdown proponents may post/comment here but must identify themselves (/r/stupidpol style).2.    Links from right wing sources are allowed but should also be identified3.    Follow [site-wide rules](https://lemmy.ml)4.    No sheepdogging"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lockdowncriticalleft"
@@ -54,4 +54,4 @@ Criticizing lockdowns from the left<br><br>**Leftist:** broadly defined as someo
 |----------------------|---|
 | Published            | 2021-09-23 19:38:15 |
 | Updated              | 2021-09-29 07:10:32 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

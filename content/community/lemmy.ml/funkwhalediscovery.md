@@ -3,7 +3,7 @@ title: "Funkwhale discovery -> sub migrated"
 name: "funkwhalediscovery"
 description: "Migrated to https://lemmy.ca/c/funkwhalediscovery"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funkwhalediscovery"
@@ -54,4 +54,4 @@ Migrated to https://lemmy.ca/c/funkwhalediscovery
 |----------------------|---|
 | Published            | 2022-01-15 06:12:32 |
 | Updated              | 2022-09-10 09:42:42 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

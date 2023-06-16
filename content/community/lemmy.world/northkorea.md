@@ -3,7 +3,7 @@ title: "North Korea"
 name: "northkorea"
 description: "Discussion & news related to North Korea.Rules:1. No racism, sexism, homophobia, or transphobia.2. Follow Lemmy's Code of Conduct.3. No denying or belittling the humanitarian crisis in NK."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/northkorea"
@@ -54,4 +54,4 @@ Discussion & news related to North Korea.<br><br>Rules:<br>1. No racism, sexism,
 |----------------------|---|
 | Published            | 2023-06-10 03:25:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

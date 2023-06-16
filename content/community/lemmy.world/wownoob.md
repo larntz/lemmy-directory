@@ -3,7 +3,7 @@ title: "WoW Noob"
 name: "wownoob"
 description: "The original r/wownoob community. Whether you're stepping foot into Azeroth for the first time or are a seasoned veteran, our community is here to offer guidance, support, and a friendly atmosphere.**Join us on [the wownoob Discord](www.discord.gg/wownoob)!**"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wownoob"
@@ -54,4 +54,4 @@ The original r/wownoob community. <br>Whether you're stepping foot into Azeroth 
 |----------------------|---|
 | Published            | 2023-06-12 14:48:15 |
 | Updated              | 2023-06-12 16:09:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

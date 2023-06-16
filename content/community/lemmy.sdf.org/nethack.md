@@ -1,21 +1,21 @@
 ---
-title: "NetHack" 
+title: "NetHack et al." 
 name: "nethack"
-description: "These may be of interest...https://alt.org/nethack/https://nethackwiki.com/https://nhqdb.alt.org/https://wikipedia.org/wiki/NetHackhttps://www.hardfought.org/https://www.nethack.org/"
+description: "My primary interest is NetHack but all rogue-likes are considered on-topic...https://alt.org/nethack/https://nethackwiki.com/https://nhqdb.alt.org/https://wikipedia.org/wiki/NetHackhttps://www.hardfought.org/https://www.nethack.org/"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/nethack"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 39
-posts: 5
-comments: 8
-weight: 5
-dau: 1
-wau: 5
-mau: 5
+subscribers: 51
+posts: 8
+comments: 18
+weight: 8
+dau: 8
+wau: 11
+mau: 11
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/NetHack on lemmy.sdf.org
+# /c/NetHack et al. on lemmy.sdf.org
 
 [[home](/)]
 [[/c/nethack 🌎](https://lemmy.sdf.org/c/nethack)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-These may be of interest...<br><br>https://alt.org/nethack/<br>https://nethackwiki.com/<br>https://nhqdb.alt.org/<br>https://wikipedia.org/wiki/NetHack<br>https://www.hardfought.org/<br>https://www.nethack.org/<br>
+My primary interest is NetHack but all rogue-likes are considered on-topic...<br><br>https://alt.org/nethack/<br>https://nethackwiki.com/<br>https://nhqdb.alt.org/<br>https://wikipedia.org/wiki/NetHack<br>https://www.hardfought.org/<br>https://www.nethack.org/<br>
 </blockquote>
 
 
@@ -41,17 +41,17 @@ These may be of interest...<br><br>https://alt.org/nethack/<br>https://nethackwi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 5  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 51 |
+| Posts                | 8  |
+| Comments             | 18  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 13:57:28 |
-| Updated              | 2023-06-15 00:12:14 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Updated              | 2023-06-16 16:02:55 |
+| Last Scraped         | 2023-06-16 22:56:02 |

@@ -3,17 +3,17 @@ title: "sdfpubnix"
 name: "sdfpubnix"
 description: "A hangout for members of the SDF Public Access UNIX System"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sdfpubnix"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 284
-posts: 21
-comments: 192
-weight: 21
-dau: 9
+subscribers: 296
+posts: 22
+comments: 198
+weight: 22
+dau: 7
 wau: 74
 mau: 93
 instances:
@@ -41,10 +41,10 @@ A hangout for members of the SDF Public Access UNIX System
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 284 |
-| Posts                | 21  |
-| Comments             | 192  |
-| Daily Active Users   | 9  |
+| Subscribers          | 296 |
+| Posts                | 22  |
+| Comments             | 198  |
+| Daily Active Users   | 7  |
 | Weekly Active Users  | 74  |
 | Monthly Active Users | 93  |
 
@@ -54,4 +54,4 @@ A hangout for members of the SDF Public Access UNIX System
 |----------------------|---|
 | Published            | 2023-06-06 20:51:57 |
 | Updated              | 2023-06-06 20:59:43 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

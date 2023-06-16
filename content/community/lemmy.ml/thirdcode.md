@@ -3,7 +3,7 @@ title: "Third Code | Açık Kaynak ve Özgür Dünya"
 name: "thirdcode"
 description: "t.me/ThirdCode"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thirdcode"
@@ -54,4 +54,4 @@ t.me/ThirdCode
 |----------------------|---|
 | Published            | 2022-01-13 19:55:58 |
 | Updated              | 2022-01-13 19:58:08 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

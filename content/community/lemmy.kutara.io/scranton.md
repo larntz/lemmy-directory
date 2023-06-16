@@ -3,7 +3,7 @@ title: "Scranton and surrounding NEPA towns"
 name: "scranton"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kutara.io/c/scranton"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 13:47:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

@@ -3,7 +3,7 @@ title: "Pierre"
 name: "pierre"
 description: "Community for Pierre, SD and surrounding areas"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pierre"
@@ -54,4 +54,4 @@ Community for Pierre, SD and surrounding areas
 |----------------------|---|
 | Published            | 2023-06-04 01:32:53 |
 | Updated              | 2023-06-04 02:00:08 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

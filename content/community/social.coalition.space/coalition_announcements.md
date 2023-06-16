@@ -3,7 +3,7 @@ title: "Coalition Announcements"
 name: "coalition_announcements"
 description: "Instance News"
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://social.coalition.space/c/coalition_announcements"
@@ -54,4 +54,4 @@ Instance News
 |----------------------|---|
 | Published            | 2023-06-13 19:19:00 |
 | Updated              | 2023-06-13 20:47:13 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

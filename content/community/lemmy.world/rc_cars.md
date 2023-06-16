@@ -3,19 +3,19 @@ title: "RC Cars"
 name: "rc_cars"
 description: "A place for RC car/truck enthusiasts to have discussions, ask questions, chat, brag, etc... This is meant to be sort of a Lemmy version of Reddit's r/rccars"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rc_cars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 68
 posts: 4
 comments: 12
 weight: 4
 dau: 1
-wau: 4
-mau: 6
+wau: 5
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for RC car/truck enthusiasts to have discussions, ask questions, chat, b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 68 |
 | Posts                | 4  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for RC car/truck enthusiasts to have discussions, ask questions, chat, b
 |----------------------|---|
 | Published            | 2023-06-05 16:33:51 |
 | Updated              | 2023-06-05 16:51:06 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

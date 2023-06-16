@@ -3,13 +3,13 @@ title: "Only 62"
 name: "only62"
 description: "Asian amateur only"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/only62"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1
@@ -43,7 +43,7 @@ Asian amateur only
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Asian amateur only
 |----------------------|---|
 | Published            | 2023-06-14 11:32:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

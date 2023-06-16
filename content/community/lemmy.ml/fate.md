@@ -3,7 +3,7 @@ title: "Fate Series"
 name: "fate"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fate"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-16 05:18:04 |
 | Updated              | 2022-04-16 05:22:42 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

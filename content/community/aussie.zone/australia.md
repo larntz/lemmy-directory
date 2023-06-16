@@ -3,19 +3,19 @@ title: "Australia"
 name: "australia"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/australia"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 388
-posts: 36
-comments: 106
-weight: 36
-dau: 25
-wau: 53
-mau: 53
+subscribers: 407
+posts: 38
+comments: 118
+weight: 38
+dau: 31
+wau: 59
+mau: 59
 instances:
 - "aussie_zone"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 388 |
-| Posts                | 36  |
-| Comments             | 106  |
-| Daily Active Users   | 25  |
-| Weekly Active Users  | 53  |
-| Monthly Active Users | 53  |
+| Subscribers          | 407 |
+| Posts                | 38  |
+| Comments             | 118  |
+| Daily Active Users   | 31  |
+| Weekly Active Users  | 59  |
+| Monthly Active Users | 59  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 23:09:28 |
 | Updated              | 2023-06-12 10:43:20 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,7 +3,7 @@ title: "MU AAC"
 name: "mu_aac"
 description: "Official Links- www.example.com- www.example2.comHelp/FAQs- How do I buy a car?- How do I apply for a driver's license?- Where can I travel nearby?"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mu_aac"
@@ -54,4 +54,4 @@ Official Links<br>- www.example.com<br>- www.example2.com<br><br>Help/FAQs<br>- 
 |----------------------|---|
 | Published            | 2021-01-26 20:21:43 |
 | Updated              | 2021-01-27 02:10:52 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

@@ -3,13 +3,13 @@ title: "Interesting As Fuck"
 name: "interestingasfuck"
 description: "For things that are interesting as fuck."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/interestingasfuck"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ For things that are interesting as fuck.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For things that are interesting as fuck.
 |----------------------|---|
 | Published            | 2023-06-09 14:33:32 |
 | Updated              | 2023-06-09 14:34:09 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

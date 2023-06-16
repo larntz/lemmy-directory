@@ -3,19 +3,19 @@ title: "AppleTV Plus"
 name: "appletvplus"
 description: "The home for all things AppleTV + on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/appletvplus"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 12
 posts: 3
 comments: 0
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The home for all things AppleTV + on LW.<br><br>**Rules:**<br><br>- No NSFW Cont
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 12 |
 | Posts                | 3  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ The home for all things AppleTV + on LW.<br><br>**Rules:**<br><br>- No NSFW Cont
 |----------------------|---|
 | Published            | 2023-06-16 02:08:30 |
 | Updated              | 2023-06-16 02:18:35 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:12 |

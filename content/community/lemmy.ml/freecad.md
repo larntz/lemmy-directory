@@ -3,13 +3,13 @@ title: "FreeCAD"
 name: "freecad"
 description: "Your own 3D parametric modeler.www.freecadweb.orgFreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freecad"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 43
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Your own 3D parametric modeler.<br><br>www.freecadweb.org<br><br>FreeCAD is an o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 43 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Your own 3D parametric modeler.<br><br>www.freecadweb.org<br><br>FreeCAD is an o
 |----------------------|---|
 | Published            | 2022-05-02 10:23:52 |
 | Updated              | 2022-05-03 14:17:51 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:38 |

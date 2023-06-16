@@ -3,7 +3,7 @@ title: "GNU Ghost"
 name: "gnughost"
 description: "Your code completion assistant. Libre, Gratis, and created with Love."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnughost"
@@ -54,4 +54,4 @@ Your code completion assistant. Libre, Gratis, and created with Love.
 |----------------------|---|
 | Published            | 2022-04-02 18:29:47 |
 | Updated              | 2022-04-02 18:32:46 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

@@ -1,18 +1,18 @@
 ---
 title: "Regina" 
 name: "regina"
-description: "Description not available."
+description: "Regina, saskatchewanSaskatchewan sub: https://lemmy.ca/c/sask"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/regina"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 2
-comments: 2
-weight: 2
+subscribers: 18
+posts: 4
+comments: 5
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Regina, saskatchewan<br><br>Saskatchewan sub: https://lemmy.ca/c/sask
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
-| Comments             | 2  |
+| Subscribers          | 18 |
+| Posts                | 4  |
+| Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2021-10-14 02:18:19 |
-| Updated              | 2022-08-13 08:37:29 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Updated              | 2023-06-16 12:26:49 |
+| Last Scraped         | 2023-06-16 22:56:35 |

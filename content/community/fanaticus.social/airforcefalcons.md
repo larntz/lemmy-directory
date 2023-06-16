@@ -3,7 +3,7 @@ title: "Air Force Falcons"
 name: "airforcefalcons"
 description: "A community to discuss Air Force Falcons athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/airforcefalcons"
@@ -54,4 +54,4 @@ A community to discuss Air Force Falcons athletics.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 23:06:58 |
 | Updated              | 2023-06-15 00:08:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

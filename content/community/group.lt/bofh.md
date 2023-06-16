@@ -3,7 +3,7 @@ title: "Sysadmins for sysadmins"
 name: "bofh"
 description: "Kažkas turi tai padaryti / Somebody has to do itFotkė [camilo jimenez](https://unsplash.com/@camstejim) iš [Unsplash](https://unsplash.com/s/photos/system-administrator)  "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bofh"
@@ -54,4 +54,4 @@ Kažkas turi tai padaryti / Somebody has to do it<br><br>Fotkė [camilo jimenez<
 |----------------------|---|
 | Published            | 2021-12-05 17:04:34 |
 | Updated              | 2022-09-25 06:24:14 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

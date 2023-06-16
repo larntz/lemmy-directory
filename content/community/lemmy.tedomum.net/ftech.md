@@ -3,13 +3,13 @@ title: "Furry Tech"
 name: "ftech"
 description: "Welcome to the Furry Tech Lemmy.Find the website: https://furry.lol  Main Matrix room: https://matrix.to/#/#furrytech:matrix.org"
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/ftech"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to the Furry Tech Lemmy.<br><br>Find the website: https://furry.lol  <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to the Furry Tech Lemmy.<br><br>Find the website: https://furry.lol  <br
 |----------------------|---|
 | Published            | 2022-08-30 08:08:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

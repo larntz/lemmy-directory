@@ -3,19 +3,19 @@ title: "> Greentext"
 name: "greentext"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greentext"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 206
+subscribers: 214
 posts: 23
 comments: 16
 weight: 23
-dau: 4
-wau: 8
-mau: 8
+dau: 2
+wau: 11
+mau: 11
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 206 |
+| Subscribers          | 214 |
 | Posts                | 23  |
 | Comments             | 16  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-25 10:30:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

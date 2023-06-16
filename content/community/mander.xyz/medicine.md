@@ -3,13 +3,13 @@ title: "Medicine"
 name: "medicine"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/medicine"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 68
+subscribers: 83
 posts: 16
 comments: 3
 weight: 16
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
+| Subscribers          | 83 |
 | Posts                | 16  |
 | Comments             | 3  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-11-07 17:57:25 |
 | Updated              | 2022-11-07 18:02:56 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

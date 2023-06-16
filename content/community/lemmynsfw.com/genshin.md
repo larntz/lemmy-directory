@@ -1,21 +1,21 @@
 ---
-title: "Genshin Impact" 
+title: "Genshin Impact NSFW" 
 name: "genshin"
-description: "nsfw arts with Genshin Impact charactersYou can post any image/gif/video in this community as long they contain genshin characters. Any orientation is allowed"
+description: "nsfw arts with Genshin Impact charactersYou can post any image/gif/video in this community as long as they contain genshin characters. All orientations are allowedDon't post low quality contentIf possible, link the source of artwork or author"
 type: community
-date: "2023-06-16 11:06:41"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/genshin"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 6
+subscribers: 13
+posts: 15
 comments: 0
-weight: 6
-dau: 0
-wau: 0
-mau: 0
+weight: 15
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-# /c/Genshin Impact on lemmynsfw.com
+# /c/Genshin Impact NSFW on lemmynsfw.com
 
 [[home](/)]
 [[/c/genshin 🌎](https://lemmynsfw.com/c/genshin)]
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-nsfw arts with Genshin Impact characters<br><br>You can post any image/gif/video in this community as long they contain genshin characters. Any orientation is allowed
+nsfw arts with Genshin Impact characters<br><br>You can post any image/gif/video in this community as long as they contain genshin characters. All orientations are allowed<br><br>Don't post low quality content<br><br>If possible, link the source of artwork or author
 </blockquote>
 
 
@@ -43,17 +43,17 @@ nsfw arts with Genshin Impact characters<br><br>You can post any image/gif/video
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 6  |
+| Subscribers          | 13 |
+| Posts                | 15  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 05:31:19 |
-| Updated              | 2023-06-16 07:48:51 |
-| Last Scraped         | 2023-06-16 11:06:41 |
+| Updated              | 2023-06-16 20:16:53 |
+| Last Scraped         | 2023-06-16 22:56:40 |

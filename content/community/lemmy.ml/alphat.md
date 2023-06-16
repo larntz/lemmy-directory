@@ -3,7 +3,7 @@ title: "alpha"
 name: "alphat"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alphat"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-24 14:36:26 |
 | Updated              | 2022-06-27 16:20:21 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:46 |

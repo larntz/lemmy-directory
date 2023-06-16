@@ -3,13 +3,13 @@ title: "A place to call home for folks who grow mushrooms!"
 name: "mushroomgrowers"
 description: "c/MushroomGrowers is a supportive community of amateurs and professionals from around the world collaborating on mushroom cultivation."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mushroomgrowers"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ c/MushroomGrowers is a supportive community of amateurs and professionals from a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ c/MushroomGrowers is a supportive community of amateurs and professionals from a
 |----------------------|---|
 | Published            | 2023-06-10 17:45:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

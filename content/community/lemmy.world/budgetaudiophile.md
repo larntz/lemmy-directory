@@ -3,13 +3,13 @@ title: "BudgetAudiophile"
 name: "budgetaudiophile"
 description: "A place for AUDIO enthusiast to share, discuss and listen to others people setups"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/budgetaudiophile"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for AUDIO enthusiast to share, discuss and listen to others people setup
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for AUDIO enthusiast to share, discuss and listen to others people setup
 |----------------------|---|
 | Published            | 2023-06-12 19:29:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

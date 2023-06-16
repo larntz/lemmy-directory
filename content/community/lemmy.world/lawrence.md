@@ -3,13 +3,13 @@ title: "Lawrence, KS"
 name: "lawrence"
 description: "A place to discuss events, news, and things to do in and around Lawrence, KS.**[/c/Lawrence Posting/Commenting rules](https://old.reddit.com/r/Lawrence/about/rules/)*** Keep posts related to Lawrence* No politics* No hate speech* No self-promotion / advertisements* No classifieds* No personally identifiable information* No trolling or shitposts* No illegal drug advertising or requesting* No alt accounts, ban evasion, or rule evasion* No Looking for friends/groups threads[**LAWRENCE DISCORD**](https://discord.gg/7EDnbjB)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lawrence"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss events, news, and things to do in and around Lawrence, KS.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss events, news, and things to do in and around Lawrence, KS.<br
 |----------------------|---|
 | Published            | 2023-06-12 12:29:22 |
 | Updated              | 2023-06-12 12:40:18 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

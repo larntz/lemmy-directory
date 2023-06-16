@@ -3,13 +3,13 @@ title: "Scrungy Cats"
 name: "scrungycats"
 description: "Cat making *that* weird face."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/scrungycats"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 32
 posts: 13
 comments: 10
 weight: 13
@@ -41,7 +41,7 @@ Cat making *that* weird face.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 32 |
 | Posts                | 13  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Cat making *that* weird face.
 |----------------------|---|
 | Published            | 2023-06-12 05:25:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

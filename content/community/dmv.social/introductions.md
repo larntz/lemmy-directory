@@ -3,19 +3,19 @@ title: "introductions"
 name: "introductions"
 description: "Say hi!"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/introductions"
 host: dmv.social
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 3
-comments: 1
-weight: 3
+subscribers: 8
+posts: 4
+comments: 3
+weight: 4
 dau: 2
 wau: 3
-mau: 4
+mau: 5
 instances:
 - "dmv_social"
 tags: 
@@ -41,12 +41,12 @@ Say hi!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 1  |
+| Subscribers          | 8 |
+| Posts                | 4  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Say hi!
 |----------------------|---|
 | Published            | 2023-06-09 00:42:09 |
 | Updated              | 2023-06-13 17:37:29 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

@@ -3,19 +3,19 @@ title: "Video Games"
 name: "videogames"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/videogames"
 host: notdigg.com
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+posts: 4
+comments: 3
+weight: 4
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "notdigg_com"
 tags: 
@@ -42,11 +42,11 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Posts                | 4  |
+| Comments             | 3  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 18:43:13 |
 | Updated              | 2023-06-13 23:11:26 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

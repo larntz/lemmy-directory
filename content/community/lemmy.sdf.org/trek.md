@@ -3,13 +3,13 @@ title: "Star Trek"
 name: "trek"
 description: "Discussions on all things Star Trek"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/trek"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 32
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussions on all things Star Trek
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 32 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussions on all things Star Trek
 |----------------------|---|
 | Published            | 2023-06-10 14:36:25 |
 | Updated              | 2023-06-10 14:37:50 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

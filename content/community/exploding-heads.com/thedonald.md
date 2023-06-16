@@ -3,17 +3,17 @@ title: "TheDonald"
 name: "thedonald"
 description: "An never ending trump rally.Only positive Trump post and comments. TDS not allowed. Plenty of forums for those kind of post. "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/thedonald"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 16
-posts: 28
+posts: 31
 comments: 19
-weight: 28
-dau: 5
+weight: 31
+dau: 4
 wau: 12
 mau: 12
 instances:
@@ -42,9 +42,9 @@ An never ending trump rally.<br><br>Only positive Trump post and comments. <br><
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 16 |
-| Posts                | 28  |
+| Posts                | 31  |
 | Comments             | 19  |
-| Daily Active Users   | 5  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
 
@@ -54,4 +54,4 @@ An never ending trump rally.<br><br>Only positive Trump post and comments. <br><
 |----------------------|---|
 | Published            | 2023-06-12 15:00:23 |
 | Updated              | 2023-06-13 19:17:11 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

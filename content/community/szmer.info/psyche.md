@@ -3,7 +3,7 @@ title: "psychologiczne"
 name: "psyche"
 description: "Hej,miło, że tu jesteś!- możesz tu zapytać gdzie szukać darmowej, profesjonalnej pomocy albo skorzystać z kontaktów z [listy](https://szmer.info/post/6315)nie chcemy tu:- stygmatyzacji- pseudonaukowych teoriiZapraszamy też do społeczności poświęconej [spektrum autyzmu i neuroróżnorodności](https://szmer.info/c/neurodiversity)"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/psyche"
@@ -54,4 +54,4 @@ Hej,<br>miło, że tu jesteś!<br><br>- możesz tu zapytać gdzie szukać darmow
 |----------------------|---|
 | Published            | 2020-07-31 19:51:31 |
 | Updated              | 2023-01-22 10:26:28 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

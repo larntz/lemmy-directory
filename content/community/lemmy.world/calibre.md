@@ -3,19 +3,19 @@ title: "Calibre"
 name: "calibre"
 description: "For discussion about the Calibre ebook management software. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/calibre"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 35
-posts: 1
-comments: 1
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+subscribers: 44
+posts: 2
+comments: 5
+weight: 2
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For discussion about the Calibre ebook management software.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 44 |
+| Posts                | 2  |
+| Comments             | 5  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion about the Calibre ebook management software.
 |----------------------|---|
 | Published            | 2023-06-12 22:23:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

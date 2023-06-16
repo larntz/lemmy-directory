@@ -3,19 +3,19 @@ title: "SexToys"
 name: "sextoys"
 description: "Let’s talk about sex toys"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sextoys"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 42
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Let’s talk about sex toys
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 42 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ Let’s talk about sex toys
 |----------------------|---|
 | Published            | 2023-06-15 05:28:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

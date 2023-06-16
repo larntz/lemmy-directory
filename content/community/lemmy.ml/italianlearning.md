@@ -3,13 +3,13 @@ title: "Italian Learning"
 name: "italianlearning"
 description: "Are you learning Italian? Well, this is the place for you! Post resources, videos, strategies, explainers, and your experience related to learning Italian. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italianlearning"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 5
 comments: 6
 weight: 5
@@ -41,7 +41,7 @@ Are you learning Italian? Well, this is the place for you! Post resources, video
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 5  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Are you learning Italian? Well, this is the place for you! Post resources, video
 |----------------------|---|
 | Published            | 2022-05-17 14:50:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

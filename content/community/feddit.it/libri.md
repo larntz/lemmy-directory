@@ -3,19 +3,19 @@ title: "L’angolo del lettore"
 name: "libri"
 description: "Ciao a tutti e benevenuti ne L'angolo del lettore, la prima comunità di Feddit dedicata alla lettura.Qui possiamo condividere consigli di lettura, opinioni personali e recensioni, interviste ad autori/editori/addetti ai lavori e novità in uscita.Per prima cosa vi invito a dare un'occhiata al post **Guida all'utilizzo di Feddit** e alla sidebar contenente le regole del server Feddit.https://feddit.it/post/6In aggiunta alle regole del server,  eccone altre relative alla nostra comunità: 🚫  Non è consentito usare questo spazio per promuovere e/o spammare libri autoprodotti. 🚫  Pubblicando una recensione è assolutamente obbligatorio includere un AVVISO SPOILER, se presente.⚠  Evitiamo di usare **link Amazon** o di altri grossi store preferendo, ove possibile, la pagina dedicata sul sito dell'editore.Il rispetto reciproco è fondamentale per creare un luogo di confronto sereno e piacevole.Pensiamo prima di postare e/o commentare... 🤔 "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/libri"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 508
-posts: 325
-comments: 427
-weight: 325
-dau: 2
-wau: 14
-mau: 32
+subscribers: 509
+posts: 327
+comments: 434
+weight: 327
+dau: 1
+wau: 15
+mau: 33
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Ciao a tutti e benevenuti ne L'angolo del lettore, la prima comunità di Feddit 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 508 |
-| Posts                | 325  |
-| Comments             | 427  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 32  |
+| Subscribers          | 509 |
+| Posts                | 327  |
+| Comments             | 434  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ciao a tutti e benevenuti ne L'angolo del lettore, la prima comunità di Feddit 
 |----------------------|---|
 | Published            | 2022-05-24 11:46:20 |
 | Updated              | 2022-05-24 17:42:03 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

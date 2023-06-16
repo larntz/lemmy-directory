@@ -3,19 +3,19 @@ title: "Retro Computers"
 name: "retrocomputers"
 description: "Welcome to Retro Computers! A place to discuss anything related to Retro Computing.**Rules**- Be Civil- No Porn/NSFW- Memes are encouraged- Have fun"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retrocomputers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 131
-posts: 5
+subscribers: 149
+posts: 6
 comments: 12
-weight: 5
-dau: 4
-wau: 5
-mau: 5
+weight: 6
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to Retro Computers! A place to discuss anything related to Retro Computi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 131 |
-| Posts                | 5  |
+| Subscribers          | 149 |
+| Posts                | 6  |
 | Comments             | 12  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to Retro Computers! A place to discuss anything related to Retro Computi
 |----------------------|---|
 | Published            | 2023-06-12 11:14:53 |
 | Updated              | 2023-06-12 17:14:50 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

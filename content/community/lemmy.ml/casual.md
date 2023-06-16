@@ -3,7 +3,7 @@ title: "casual"
 name: "casual"
 description: "This is a community for casual conversationAll types of posts are allowedRemember the human"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/casual"
@@ -54,4 +54,4 @@ This is a community for casual conversation<br><br>All types of posts are allowe
 |----------------------|---|
 | Published            | 2020-07-09 22:06:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

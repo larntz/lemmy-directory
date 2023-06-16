@@ -3,16 +3,16 @@ title: "Discuss"
 name: "discuss"
 description: "# WelcomeOpen discussions and thoughts. Make anything into a discussion!# Rules1. Follow the rules of discuss.online2. No porn3. No self-promotion"
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/discuss"
 host: discuss.online
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 10
+subscribers: 9
+posts: 12
 comments: 22
-weight: 10
+weight: 12
 dau: 6
 wau: 6
 mau: 6
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 10  |
+| Subscribers          | 9 |
+| Posts                | 12  |
 | Comments             | 22  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 6  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 17:31:45 |
 | Updated              | 2023-06-16 06:13:39 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,19 +3,19 @@ title: "Oklahoma"
 name: "oklahoma"
 description: "A place to discuss all things involving America's original Red State."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/oklahoma"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 1
-comments: 2
-weight: 1
-dau: 3
-wau: 3
-mau: 3
+subscribers: 2
+posts: 2
+comments: 5
+weight: 2
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things involving America's original Red State.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 2 |
+| Posts                | 2  |
+| Comments             | 5  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things involving America's original Red State.
 |----------------------|---|
 | Published            | 2023-06-16 01:11:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

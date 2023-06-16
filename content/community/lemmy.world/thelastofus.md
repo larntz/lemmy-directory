@@ -3,19 +3,19 @@ title: "The Last of Us"
 name: "thelastofus"
 description: "A community dedicated to Naughty Dog's *The Last of Us*, *The Last of Us Part I*, and *The Last of Us Part II*.Check out our sister sub, dedicated to the series' multiplayer [here](/c/thelastofusfactions@lemmy.world)."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelastofus"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 24
 posts: 1
 comments: 3
 weight: 1
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to Naughty Dog's *The Last of Us*, *The Last of Us Part I*
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 24 |
 | Posts                | 1  |
 | Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to Naughty Dog's *The Last of Us*, *The Last of Us Part I*
 |----------------------|---|
 | Published            | 2023-06-11 03:11:23 |
 | Updated              | 2023-06-11 21:52:16 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

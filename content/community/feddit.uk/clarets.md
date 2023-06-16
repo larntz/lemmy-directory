@@ -3,7 +3,7 @@ title: "Burnley FC"
 name: "clarets"
 description: "Up The Clarets"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/clarets"
@@ -54,4 +54,4 @@ Up The Clarets
 |----------------------|---|
 | Published            | 2023-06-13 18:07:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

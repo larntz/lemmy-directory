@@ -3,7 +3,7 @@ title: "Minnesota Twins"
 name: "minnesotatwins"
 description: "Cloned from [r/MinnesotaTwins](https://old.reddit.com/r/MinnesotaTwins)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/minnesotatwins"
@@ -54,4 +54,4 @@ Cloned from [r/MinnesotaTwins](https://old.reddit.com/r/MinnesotaTwins)<br><br>#
 |----------------------|---|
 | Published            | 2023-06-09 17:06:00 |
 | Updated              | 2023-06-12 16:32:54 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

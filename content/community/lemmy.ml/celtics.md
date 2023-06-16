@@ -3,19 +3,19 @@ title: "Boston Celtics"
 name: "celtics"
 description: "Go Celts! "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/celtics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 42
 posts: 8
 comments: 12
 weight: 8
-dau: 2
-wau: 4
-mau: 4
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Go Celts!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 42 |
 | Posts                | 8  |
 | Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Go Celts!
 |----------------------|---|
 | Published            | 2023-06-10 01:49:59 |
 | Updated              | 2023-06-12 20:37:59 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

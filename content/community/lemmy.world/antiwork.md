@@ -3,13 +3,13 @@ title: "antiwork"
 name: "antiwork"
 description: "antiwork"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/antiwork"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 32
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ antiwork
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 32 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ antiwork
 |----------------------|---|
 | Published            | 2023-06-11 09:23:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

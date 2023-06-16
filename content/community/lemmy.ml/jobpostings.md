@@ -3,7 +3,7 @@ title: "Job Postings"
 name: "jobpostings"
 description: "**Description**Looking to exchange labor for money? Post here. **Loose Rules**- Include location in title if location is important- Include description in Post body.- Include instructions on how to apply- No unpaid / sweat equity / barter- reposts from other job boards OK**Related:**lemmy.ml/c/jobs -> Questions/Comments/Discussion about Jobs / Work"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jobpostings"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-12-04 19:39:39 |
 | Updated              | 2021-12-08 13:56:53 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

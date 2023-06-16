@@ -3,13 +3,13 @@ title: "Metal Gear Rising"
 name: "metalgearrising"
 description: "Memes, discussions and and other content related to Metal Gear Rising: RevengeanceRules.1. Be nice2. Don't make posts that are unrelated to the game3. Memes are the DNA of the soul"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalgearrising"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ Memes, discussions and and other content related to Metal Gear Rising: Revengean
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Memes, discussions and and other content related to Metal Gear Rising: Revengean
 |----------------------|---|
 | Published            | 2023-06-14 14:06:17 |
 | Updated              | 2023-06-14 16:59:47 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

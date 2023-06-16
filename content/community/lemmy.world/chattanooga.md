@@ -3,7 +3,7 @@ title: "Chattanooga"
 name: "chattanooga"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chattanooga"
@@ -14,8 +14,8 @@ posts: 2
 comments: 8
 weight: 2
 dau: 1
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Description not available.
 | Posts                | 2  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 04:40:49 |
 | Updated              | 2023-06-13 14:41:40 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

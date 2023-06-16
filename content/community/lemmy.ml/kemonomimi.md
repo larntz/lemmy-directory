@@ -3,7 +3,7 @@ title: "Kemonomimi"
 name: "kemonomimi"
 description: "Kemonomimi or animal ears is where humanoid characters possess animal like features."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kemonomimi"
@@ -54,4 +54,4 @@ Kemonomimi or animal ears is where humanoid characters possess animal like featu
 |----------------------|---|
 | Published            | 2023-06-09 06:31:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:24 |

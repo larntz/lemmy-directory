@@ -3,7 +3,7 @@ title: "Loading Ready Run"
 name: "loadingreadyrun"
 description: "An (unofficial) community for discussing all things LRR."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/loadingreadyrun"
@@ -54,4 +54,4 @@ An (unofficial) community for discussing all things LRR.
 |----------------------|---|
 | Published            | 2023-06-10 19:50:39 |
 | Updated              | 2023-06-11 02:25:36 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

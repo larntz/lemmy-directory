@@ -3,7 +3,7 @@ title: "ReVanced"
 name: "revancedapp"
 description: "Continuing the legacy of Vanced"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/revancedapp"
@@ -54,4 +54,4 @@ Continuing the legacy of Vanced
 |----------------------|---|
 | Published            | 2023-06-14 20:56:48 |
 | Updated              | 2023-06-14 20:59:28 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

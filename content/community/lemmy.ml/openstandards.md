@@ -3,7 +3,7 @@ title: "Open Standards"
 name: "openstandards"
 description: "News and discussion about open protocols, open file formats, etc."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openstandards"
@@ -54,4 +54,4 @@ News and discussion about open protocols, open file formats, etc.
 |----------------------|---|
 | Published            | 2020-01-17 21:03:42 |
 | Updated              | 2021-01-29 00:16:47 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

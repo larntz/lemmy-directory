@@ -3,16 +3,16 @@ title: "Kopiernudeln"
 name: "kopiernudeln"
 description: "Umschlagplatz für all die deutsche Kopierpaste die ihr so auf Feddit aufgreift"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kopiernudeln"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 57
-posts: 10
-comments: 30
-weight: 10
+subscribers: 69
+posts: 11
+comments: 36
+weight: 11
 dau: 22
 wau: 22
 mau: 22
@@ -41,9 +41,9 @@ Umschlagplatz für all die deutsche Kopierpaste die ihr so auf Feddit aufgreift
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
-| Posts                | 10  |
-| Comments             | 30  |
+| Subscribers          | 69 |
+| Posts                | 11  |
+| Comments             | 36  |
 | Daily Active Users   | 22  |
 | Weekly Active Users  | 22  |
 | Monthly Active Users | 22  |
@@ -53,5 +53,5 @@ Umschlagplatz für all die deutsche Kopierpaste die ihr so auf Feddit aufgreift
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:15:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Updated              | 2023-06-16 18:48:06 |
+| Last Scraped         | 2023-06-16 22:56:37 |

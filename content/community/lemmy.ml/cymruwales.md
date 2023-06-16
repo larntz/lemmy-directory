@@ -3,13 +3,13 @@ title: "Cymru/Wales"
 name: "cymruwales"
 description: "Croeso i Gymdeithas Cymru ar Lemmy! | Welcome to Wales' community on Lemmy!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cymruwales"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Croeso i Gymdeithas Cymru ar Lemmy! | Welcome to Wales' community on Lemmy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Croeso i Gymdeithas Cymru ar Lemmy! | Welcome to Wales' community on Lemmy!
 |----------------------|---|
 | Published            | 2020-02-13 14:04:51 |
 | Updated              | 2020-02-13 14:10:34 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

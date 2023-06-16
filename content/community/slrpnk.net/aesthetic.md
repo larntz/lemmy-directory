@@ -3,15 +3,15 @@ title: "aesthetic"
 name: "aesthetic"
 description: "Wecome to the aesthetic community of solarpunk, where everything that reminds you of it has a place, be it visual, audible, fashion or anything else!Remember to follow the instance rules when interacting, and also:-Cite the author whenever possible, or state it as unknown when unsure. -We have a sister community where solarpunk artwork is posted, [/c/art](https://slrpnk.net/c/art), so even though art is also welcome here, keep it in mind when posting.-Keep it SFW.Hope you enjoy your time here! :DAs a last thing, kindly reminder that solarpunk is not *just* a form of artwork/aesthetic, but also a mindset and a movemet. For more on this, you can check our community [/c/solarpunk](https://slrpnk.net/c/solarpunk). "
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/aesthetic"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 80
+subscribers: 83
 posts: 7
-comments: 3
+comments: 6
 weight: 7
 dau: 2
 wau: 2
@@ -41,9 +41,9 @@ Wecome to the aesthetic community of solarpunk, where everything that reminds yo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
+| Subscribers          | 83 |
 | Posts                | 7  |
-| Comments             | 3  |
+| Comments             | 6  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Wecome to the aesthetic community of solarpunk, where everything that reminds yo
 |----------------------|---|
 | Published            | 2022-03-24 23:15:53 |
 | Updated              | 2023-06-15 21:10:31 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

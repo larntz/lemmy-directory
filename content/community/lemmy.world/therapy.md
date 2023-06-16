@@ -3,13 +3,13 @@ title: "Therapy"
 name: "therapy"
 description: "This is a general place for both therapists and those seeking advice. Feel free to ask questions and share your experiences!Reddit Refuges Welcome!Rules:1. Be Nice2. Be supportive - not attacking.3. Be constructive, non-defensive, and add value.4. Avoid profanity - keep it clean and courteous.5. Suicide content not allowed.6. Do not ask for, or offer, a diagnosis.7. No self-promotion.8. No Survey/research participant requests"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/therapy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ This is a general place for both therapists and those seeking advice. Feel free 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a general place for both therapists and those seeking advice. Feel free 
 |----------------------|---|
 | Published            | 2023-06-11 17:49:55 |
 | Updated              | 2023-06-11 18:26:55 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

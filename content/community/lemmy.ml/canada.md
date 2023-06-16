@@ -3,19 +3,19 @@ title: "Canada"
 name: "canada"
 description: "# EnglishThis is a community dedicated to Canada and Canadians!### Rules* Posts must be relevant to Canada or Canadians* No misinformation* No NSFW content* No hate speech, bigotry, etc -----# FrançaisIl s'agit d'une communauté dédiée au Canada et aux Canadiens !### Règles* Les postes doivent être pertinentes pour le Canada ou les Canadiens* Pas de désinformation* Pas de contenu NSFW* Pas de discours de haine, de sectarisme, etc. -----### Related Communities **/** Communautés associées* [!canada@lemmygrad.ml](https://lemmygrad.ml/c/canada)* [!quebec@lemmygrad.ml](https://lemmygrad.ml/c/quebec)* [lemmy.ca](https://lemmy.ca)-----Community icon by [CustomDesign](http://www.myiconfinder.com/CustomDesign) on MYICONFINDER, licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/canada"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 701
+subscribers: 708
 posts: 532
-comments: 330
+comments: 329
 weight: 532
 dau: 2
-wau: 17
-mau: 29
+wau: 15
+mau: 34
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 701 |
+| Subscribers          | 708 |
 | Posts                | 532  |
-| Comments             | 330  |
+| Comments             | 329  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 29  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 34  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-02-17 07:21:09 |
 | Updated              | 2022-02-21 07:55:54 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

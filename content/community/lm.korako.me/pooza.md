@@ -3,7 +3,7 @@ title: "ぷーざ個人のブクマ"
 name: "pooza"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/pooza"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-14 08:43:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

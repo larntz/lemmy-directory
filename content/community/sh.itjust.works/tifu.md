@@ -3,13 +3,13 @@ title: "TodayIFuckedUp"
 name: "tifu"
 description: "Today (or another day) I made a mistake. This is a place for those stories."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tifu"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 223
+subscribers: 228
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Today (or another day) I made a mistake. This is a place for those stories.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
+| Subscribers          | 228 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Today (or another day) I made a mistake. This is a place for those stories.
 |----------------------|---|
 | Published            | 2023-06-09 05:12:56 |
 | Updated              | 2023-06-10 22:04:05 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

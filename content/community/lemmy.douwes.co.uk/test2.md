@@ -3,7 +3,7 @@ title: "test2"
 name: "test2"
 description: "another test"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test2"
@@ -11,7 +11,7 @@ host: lemmy.douwes.co.uk
 lastmod: "{[ .Updated }}"
 subscribers: 2
 posts: 2
-comments: 73
+comments: 74
 weight: 2
 dau: 1
 wau: 1
@@ -43,7 +43,7 @@ another test
 |----------------------|---|
 | Subscribers          | 2 |
 | Posts                | 2  |
-| Comments             | 73  |
+| Comments             | 74  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ another test
 |----------------------|---|
 | Published            | 2023-06-12 19:19:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

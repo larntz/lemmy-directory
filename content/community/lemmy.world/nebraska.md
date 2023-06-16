@@ -3,7 +3,7 @@ title: "Nebraska"
 name: "nebraska"
 description: "A lemmy community for, but not limited to, conservatives in Nebraska, USARules-  No porn.- No bigotry, hate speech.- No ads / spamming.- No brigading / ultra liberal sentiment"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nebraska"
@@ -54,4 +54,4 @@ A lemmy community for, but not limited to, conservatives in Nebraska, USA<br>Rul
 |----------------------|---|
 | Published            | 2023-06-12 20:49:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

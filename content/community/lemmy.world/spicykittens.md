@@ -3,13 +3,13 @@ title: "Spicy Kittens"
 name: "spicykittens"
 description: "The Spiciest of Kittens"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spicykittens"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 29
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ The Spiciest of Kittens
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 29 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ The Spiciest of Kittens
 |----------------------|---|
 | Published            | 2023-06-14 06:45:46 |
 | Updated              | 2023-06-14 06:53:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

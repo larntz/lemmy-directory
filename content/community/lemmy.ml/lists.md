@@ -3,7 +3,7 @@ title: "Lists"
 name: "lists"
 description: "To make lists similar to Awesome Lists."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lists"
@@ -54,4 +54,4 @@ To make lists similar to Awesome Lists.
 |----------------------|---|
 | Published            | 2023-01-29 18:44:35 |
 | Updated              | 2023-01-29 18:45:59 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

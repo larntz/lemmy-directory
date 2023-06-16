@@ -3,7 +3,7 @@ title: "Phantasy Star Online"
 name: "pso"
 description: "Everything about ***PSO*** (***Phantasy Star Online***):* ***Phantasy Star Online*** (Dreamcast)* ***Phantasy Star Online Ver. 2*** (Dreamcast)* ***Phantasy Star Online*** aka. *PSOPC* (Windows)* ***Phantasy Star Online: Episode I & II*** (GameCube, Xbox)* ***Phantasy Star Online: Episode I & II Plus*** (GameCube)* ***Phantasy Star Online Episode III: C.A.R.D. Revolution*** (GameCube)* ***Phantasy Star Online: Blue Burst*** aka. *PSOBB* (Windows)Not about *PSO2*.Banner by [Emergent Landscapes](https://emergentlandscapes.wordpress.com/2012/07/28/phantasy-star-online-blue-burst-panorama-collection/)"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/pso"
@@ -54,4 +54,4 @@ Everything about ***PSO*** (***Phantasy Star Online***):<br><br>* ***Phantasy St
 |----------------------|---|
 | Published            | 2023-06-14 16:50:31 |
 | Updated              | 2023-06-14 16:57:40 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

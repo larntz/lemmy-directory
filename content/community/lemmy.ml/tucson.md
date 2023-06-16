@@ -3,7 +3,7 @@ title: "Tucson"
 name: "tucson"
 description: "All things to do with the city of Tucson, AZ"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tucson"
@@ -13,7 +13,7 @@ subscribers: 18
 posts: 4
 comments: 7
 weight: 4
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -44,7 +44,7 @@ All things to do with the city of Tucson, AZ
 | Subscribers          | 18 |
 | Posts                | 4  |
 | Comments             | 7  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ All things to do with the city of Tucson, AZ
 |----------------------|---|
 | Published            | 2023-06-07 23:29:04 |
 | Updated              | 2023-06-07 23:36:50 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

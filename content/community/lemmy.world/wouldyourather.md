@@ -3,19 +3,19 @@ title: "Would You Rather"
 name: "wouldyourather"
 description: "WouldYouRather or Would you rather (abbreviated as WYR) is a place to have a conversation that poses a dilemma in the form of a question beginning with would you rather. The OP asks a question or options that are either similarly good or similarly bad and people in the comments discuss how they would answer. Examples: - WYR have the power of flight or the power of invisibility?- WYR fight 1 horse sized duck, or 100 duck sized horses?- WYR find true love or be a millionaire?"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wouldyourather"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 2
-comments: 23
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+subscribers: 24
+posts: 3
+comments: 29
+weight: 3
+dau: 3
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ WouldYouRather or Would you rather (abbreviated as WYR) is a place to have a con
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 23  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 24 |
+| Posts                | 3  |
+| Comments             | 29  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ WouldYouRather or Would you rather (abbreviated as WYR) is a place to have a con
 |----------------------|---|
 | Published            | 2023-06-15 17:23:35 |
 | Updated              | 2023-06-15 17:55:33 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

@@ -3,7 +3,7 @@ title: "NoWallpapers"
 name: "nowallpapers"
 description: "A community against any kind of desktop background.Rules:1. Don't share any kind of wallpaper(even if it's  licensed under a permissible license.)2. No NSFW posts or comments.(This includes all those a**me wallpapers.)3. Avoid cursing/swearing/cussing."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nowallpapers"
@@ -54,4 +54,4 @@ A community against any kind of desktop background.<br><br>Rules:<br>1. Don't sh
 |----------------------|---|
 | Published            | 2022-07-24 02:57:50 |
 | Updated              | 2022-08-03 09:55:09 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

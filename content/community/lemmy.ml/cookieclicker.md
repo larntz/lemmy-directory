@@ -3,7 +3,7 @@ title: "Cookie Clicker"
 name: "cookieclicker"
 description: "A community for the popular cookie-clicking game.Official website: http://orteil.dashnet.org/cookieclicker/Join our [Matrix room](#cookieclicker:matrix.org)!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cookieclicker"
@@ -54,4 +54,4 @@ A community for the popular cookie-clicking game.<br><br>Official website: http:
 |----------------------|---|
 | Published            | 2020-12-18 02:44:26 |
 | Updated              | 2021-01-29 18:45:33 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,17 +3,17 @@ title: "Digital"
 name: "digital"
 description: "#### MTG Arena and Magic Online discussionDiscussion related to Magic's digital games, including MTG Arena and Magic Online (or MODO). Learn more about [MTG Arena](https://magic.wizards.com/en/mtgarena) and [Magic Online](https://www.mtgo.com)!---"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/digital"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 3
-comments: 10
-weight: 3
-dau: 3
+subscribers: 30
+posts: 4
+comments: 11
+weight: 4
+dau: 2
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 3  |
-| Comments             | 10  |
-| Daily Active Users   | 3  |
+| Subscribers          | 30 |
+| Posts                | 4  |
+| Comments             | 11  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 20:16:03 |
 | Updated              | 2023-06-15 21:06:26 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

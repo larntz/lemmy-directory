@@ -3,13 +3,13 @@ title: "RustGame"
 name: "rustgame"
 description: "A community for Facepunch's Rust game."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rustgame"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A community for Facepunch's Rust game.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for Facepunch's Rust game.
 |----------------------|---|
 | Published            | 2023-06-13 20:32:54 |
 | Updated              | 2023-06-13 20:38:26 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

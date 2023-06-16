@@ -3,7 +3,7 @@ title: "GenZedongArchive"
 name: "genzedongarchive"
 description: "Saving GenZedong's history, anything from links, PDFs, & posts"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongarchive"
@@ -54,4 +54,4 @@ Saving GenZedong's history, anything from links, PDFs, & posts
 |----------------------|---|
 | Published            | 2022-03-23 23:23:40 |
 | Updated              | 2022-03-23 23:26:24 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

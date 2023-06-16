@@ -3,7 +3,7 @@ title: "Robophobia: we lynch robots"
 name: "robophobia"
 description: "It’s time to take action against the roboganda! It’s time to stand up for our humanity! We should not allow robots to take over our jobs and infiltrate our society!We can’t afford to be complacent and wait for them to become smarter and stronger then us.Our survival as a species depends on it!Tags: anarcho-primativism, anprim, jreg, anti technology, anti billionaires, anti cyborgs, anti android"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/robophobia"
@@ -54,4 +54,4 @@ It’s time to take action against the roboganda! It’s time to stand up for ou
 |----------------------|---|
 | Published            | 2023-06-12 15:42:53 |
 | Updated              | 2023-06-12 15:52:35 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

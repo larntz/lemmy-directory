@@ -3,16 +3,16 @@ title: "Rust"
 name: "rust"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/rust"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 312
-posts: 11
+subscribers: 362
+posts: 13
 comments: 31
-weight: 11
+weight: 13
 dau: 9
 wau: 21
 mau: 21
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 312 |
-| Posts                | 11  |
+| Subscribers          | 362 |
+| Posts                | 13  |
 | Comments             | 31  |
 | Daily Active Users   | 9  |
 | Weekly Active Users  | 21  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 01:25:09 |
 | Updated              | 2023-06-13 05:04:42 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

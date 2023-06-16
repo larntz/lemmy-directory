@@ -3,15 +3,15 @@ title: "Deze gemeenschap bestaat"
 name: "gemeenschapbestaat"
 description: "**Een gemeenschap om andere gemeenschappen te ontdekken!** Kom je een toffe gemeenschap tegen? Deel deze hier.- Gemeenschappen hoeven zich niet op Feddit.nl te bevinden- Gemeenschappen hoeven niet in het Nederlands te zijn (geef dit aan met een tag)- Gebruik een NSFW-tag voor gemeenschappen die het nodig hebben."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/gemeenschapbestaat"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 57
 posts: 2
-comments: 52
+comments: 55
 weight: 2
 dau: 1
 wau: 28
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 57 |
 | Posts                | 2  |
-| Comments             | 52  |
+| Comments             | 55  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 28  |
 | Monthly Active Users | 28  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 14:18:49 |
 | Updated              | 2023-06-09 14:51:17 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

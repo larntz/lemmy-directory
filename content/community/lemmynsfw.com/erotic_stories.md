@@ -3,19 +3,19 @@ title: "erotic_stories"
 name: "erotic_stories"
 description: "A place for erotic creative writing !"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/erotic_stories"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 337
-posts: 8
-comments: 4
-weight: 8
-dau: 1
-wau: 7
-mau: 7
+subscribers: 362
+posts: 10
+comments: 5
+weight: 10
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A place for erotic creative writing !
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 337 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 362 |
+| Posts                | 10  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -56,4 +56,4 @@ A place for erotic creative writing !
 |----------------------|---|
 | Published            | 2023-06-12 12:03:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

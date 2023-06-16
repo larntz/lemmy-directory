@@ -3,7 +3,7 @@ title: "Gothic Metal"
 name: "gothicmetal"
 description: "A community for gothic metalRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gothicmetal"
@@ -54,4 +54,4 @@ A community for gothic metal<br><br>Rules:<br>1. Be civil<br>2. No spam posting<
 |----------------------|---|
 | Published            | 2023-06-13 14:00:45 |
 | Updated              | 2023-06-15 18:32:41 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:16 |

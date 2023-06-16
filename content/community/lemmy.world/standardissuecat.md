@@ -3,19 +3,19 @@ title: "Standard Issue Cat"
 name: "standardissuecat"
 description: "Community for posting pictures of the many models of standard issue cats (SICs)."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/standardissuecat"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 22
 posts: 4
 comments: 4
 weight: 4
 dau: 0
-wau: 0
-mau: 0
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for posting pictures of the many models of standard issue cats (SICs).
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 22 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for posting pictures of the many models of standard issue cats (SICs).
 |----------------------|---|
 | Published            | 2023-06-15 01:14:22 |
 | Updated              | 2023-06-15 01:15:53 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -3,7 +3,7 @@ title: "Learn Programming"
 name: "learnprogramming"
 description: "A sublemmy for all questions related to programming in any language."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnprogramming"
@@ -54,4 +54,4 @@ A sublemmy for all questions related to programming in any language.
 |----------------------|---|
 | Published            | 2022-10-04 00:59:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

@@ -3,7 +3,7 @@ title: "Link HR99"
 name: "linkhr99"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/linkhr99"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-14 11:52:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:30 |

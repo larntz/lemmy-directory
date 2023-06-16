@@ -3,7 +3,7 @@ title: "/c/18650ohmies for that specific 18650 flavour. You know how much we lov
 name: "18650ohmies"
 description: "Let's goooo"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/18650ohmies"
@@ -54,4 +54,4 @@ Let's goooo
 |----------------------|---|
 | Published            | 2023-06-14 21:34:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

@@ -3,13 +3,13 @@ title: "Bewegtbilder"
 name: "bewegtbilder"
 description: "Deutsche 🇩🇪 🇨🇭 🇦🇹 Videos und Filme.- Keine Werbung,- keine Spoiler."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bewegtbilder"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 35
 posts: 24
 comments: 2
 weight: 24
@@ -41,7 +41,7 @@ Deutsche 🇩🇪 🇨🇭 🇦🇹 Videos und Filme.<br><br>- Keine Werbung,<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 35 |
 | Posts                | 24  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Deutsche 🇩🇪 🇨🇭 🇦🇹 Videos und Filme.<br><br>- Keine Werbung,<br
 |----------------------|---|
 | Published            | 2021-08-27 11:45:13 |
 | Updated              | 2021-08-30 08:11:51 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

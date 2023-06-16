@@ -3,13 +3,13 @@ title: "Lübeck"
 name: "luebeck"
 description: "Alles rund um Lübeck"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/luebeck"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 6
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Alles rund um Lübeck
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Alles rund um Lübeck
 |----------------------|---|
 | Published            | 2023-06-16 08:58:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

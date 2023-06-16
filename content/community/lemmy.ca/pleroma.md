@@ -3,7 +3,7 @@ title: "Pleroma"
 name: "pleroma"
 description: "Also see:* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)* [Fedizens](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pleroma"
@@ -54,4 +54,4 @@ Also see:<br>* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)<
 |----------------------|---|
 | Published            | 2022-07-22 15:06:47 |
 | Updated              | 2022-08-26 13:27:34 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:34 |

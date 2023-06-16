@@ -3,7 +3,7 @@ title: "US Military Significant Others"
 name: "usmilitaryso"
 description: "A place for those in relationships with members of the US Military to find information, encouragement, and support."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/usmilitaryso"
@@ -54,4 +54,4 @@ A place for those in relationships with members of the US Military to find infor
 |----------------------|---|
 | Published            | 2023-06-12 16:23:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

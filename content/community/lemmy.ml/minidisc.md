@@ -3,7 +3,7 @@ title: "Minidisc"
 name: "minidisc"
 description: "For minidisc enthusiasts!"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minidisc"
@@ -54,4 +54,4 @@ For minidisc enthusiasts!
 |----------------------|---|
 | Published            | 2023-06-02 22:00:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

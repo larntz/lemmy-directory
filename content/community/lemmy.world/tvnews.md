@@ -3,7 +3,7 @@ title: "TV News"
 name: "tvnews"
 description: "Just TV News"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvnews"
@@ -13,9 +13,9 @@ subscribers: 5
 posts: 3
 comments: 5
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ Just TV News
 | Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 5  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Just TV News
 |----------------------|---|
 | Published            | 2023-06-15 20:40:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

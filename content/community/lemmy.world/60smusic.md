@@ -3,17 +3,17 @@ title: "60's Music"
 name: "60smusic"
 description: "The British Invasion, psychedelia, Motown, Doo Wop, and everything in between! Post a song and lets talk about it!"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/60smusic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 0
 weight: 4
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ The British Invasion, psychedelia, Motown, Doo Wop, and everything in between! P
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 4  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ The British Invasion, psychedelia, Motown, Doo Wop, and everything in between! P
 |----------------------|---|
 | Published            | 2023-06-14 11:50:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

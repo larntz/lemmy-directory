@@ -3,18 +3,18 @@ title: "Leftsthetics - Leftist Aesthetics"
 name: "leftsthetics"
 description: "For propaganda posters, art, influential photos, and anything else that promotes the aesthetics of revolution and the Left."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftsthetics"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1691
+subscribers: 1694
 posts: 697
 comments: 987
 weight: 697
 dau: 1
-wau: 7
+wau: 6
 mau: 11
 instances:
 - "lemmygrad_ml"
@@ -41,11 +41,11 @@ For propaganda posters, art, influential photos, and anything else that promotes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1691 |
+| Subscribers          | 1694 |
 | Posts                | 697  |
 | Comments             | 987  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 11  |
 
 <br>
@@ -54,4 +54,4 @@ For propaganda posters, art, influential photos, and anything else that promotes
 |----------------------|---|
 | Published            | 2019-08-21 18:39:59 |
 | Updated              | 2021-02-09 20:02:59 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

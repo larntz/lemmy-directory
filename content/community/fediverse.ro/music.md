@@ -3,7 +3,7 @@ title: "🎵|Music"
 name: "music"
 description: "Share your favorite copyright free music!Follow the following format:Artist/s - Song nameWhitelisted domains:    Jamando    SoundCloud    Youtube Music    Free Music Archive    Musopen    SoundClick    hearthis .atAny other domain will be removedThe list will get updated as needed ."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/music"
@@ -54,4 +54,4 @@ Share your favorite copyright free music!<br><br>Follow the following format:<br
 |----------------------|---|
 | Published            | 2023-01-18 20:51:23 |
 | Updated              | 2023-02-02 01:47:07 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

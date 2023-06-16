@@ -3,7 +3,7 @@ title: "Niagara Falls"
 name: "niagara"
 description: "Community for the Niagara Region"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/niagara"
@@ -54,4 +54,4 @@ Community for the Niagara Region
 |----------------------|---|
 | Published            | 2023-06-06 19:51:37 |
 | Updated              | 2023-06-06 19:52:01 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

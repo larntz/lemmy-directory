@@ -3,13 +3,13 @@ title: "ptcgl - Pokemon Trading Card Game Live"
 name: "ptcgl"
 description: "Pokémon Trading Card Game Live "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ptcgl"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Pokémon Trading Card Game Live
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Pokémon Trading Card Game Live
 |----------------------|---|
 | Published            | 2023-06-11 07:22:14 |
 | Updated              | 2023-06-11 07:23:26 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

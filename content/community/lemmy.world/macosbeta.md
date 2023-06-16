@@ -3,7 +3,7 @@ title: "macOS beta 🍎🖥️ β"
 name: "macosbeta"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macosbeta"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 13:52:27 |
 | Updated              | 2023-06-14 14:02:39 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:14 |

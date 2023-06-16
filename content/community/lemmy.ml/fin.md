@@ -3,7 +3,7 @@ title: "Suomi"
 name: "fin"
 description: "Testiyhteisö"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fin"
@@ -11,7 +11,7 @@ host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 11
 posts: 3
-comments: 4
+comments: 5
 weight: 3
 dau: 0
 wau: 1
@@ -43,7 +43,7 @@ Testiyhteisö
 |----------------------|---|
 | Subscribers          | 11 |
 | Posts                | 3  |
-| Comments             | 4  |
+| Comments             | 5  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Testiyhteisö
 |----------------------|---|
 | Published            | 2021-01-23 15:04:07 |
 | Updated              | 2021-01-23 15:26:36 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

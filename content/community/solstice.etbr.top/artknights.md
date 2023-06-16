@@ -3,13 +3,13 @@ title: "ArtKnights"
 name: "artknights"
 description: "A place to post Arknights art"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:24"
 draft: false
 nsfw: false
 actor_id: "https://solstice.etbr.top/c/artknights"
 host: solstice.etbr.top
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ A place to post Arknights art
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to post Arknights art
 |----------------------|---|
 | Published            | 2023-06-14 14:36:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:24 |

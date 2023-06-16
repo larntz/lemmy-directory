@@ -3,19 +3,19 @@ title: "Humor and Funny"
 name: "humor"
 description: "Laugh-a-Palooza: Unleash Your Inner Chuckle!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/humor"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 315
-posts: 11
-comments: 2
-weight: 11
+subscribers: 342
+posts: 12
+comments: 3
+weight: 12
 dau: 2
-wau: 5
-mau: 5
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Laugh-a-Palooza: Unleash Your Inner Chuckle!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 315 |
-| Posts                | 11  |
-| Comments             | 2  |
+| Subscribers          | 342 |
+| Posts                | 12  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Laugh-a-Palooza: Unleash Your Inner Chuckle!
 |----------------------|---|
 | Published            | 2023-06-11 11:53:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

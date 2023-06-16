@@ -3,7 +3,7 @@ title: "Oklahoma"
 name: "oklahoma"
 description: "A place for all things Oklahoma"
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oklahoma"
@@ -54,4 +54,4 @@ A place for all things Oklahoma
 |----------------------|---|
 | Published            | 2023-06-07 06:56:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

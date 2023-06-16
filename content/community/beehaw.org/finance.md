@@ -1,20 +1,20 @@
 ---
 title: "Finance" 
 name: "finance"
-description: "Economic and financial news from around the world, including cryptocurrency and blockchain.---This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)."
+description: "Economic and financial news from around the world, including cryptocurrency and blockchain.---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/finance"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 1072
+subscribers: 1091
 posts: 153
-comments: 188
+comments: 198
 weight: 153
-dau: 4
-wau: 39
+dau: 5
+wau: 38
 mau: 55
 instances:
 - "beehaw_org"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Economic and financial news from around the world, including cryptocurrency and blockchain.<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+Economic and financial news from around the world, including cryptocurrency and blockchain.<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 </blockquote>
 
 
@@ -41,11 +41,11 @@ Economic and financial news from around the world, including cryptocurrency and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1072 |
+| Subscribers          | 1091 |
 | Posts                | 153  |
-| Comments             | 188  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 39  |
+| Comments             | 198  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 38  |
 | Monthly Active Users | 55  |
 
 <br>
@@ -53,5 +53,5 @@ Economic and financial news from around the world, including cryptocurrency and 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2022-01-28 16:49:47 |
-| Updated              | 2023-06-13 22:52:01 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Updated              | 2023-06-16 19:40:54 |
+| Last Scraped         | 2023-06-16 22:56:27 |

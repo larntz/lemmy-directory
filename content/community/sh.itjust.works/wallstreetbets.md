@@ -3,13 +3,13 @@ title: "Wall Street Bets"
 name: "wallstreetbets"
 description: "Not actually retarded"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wallstreetbets"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 105
+subscribers: 112
 posts: 5
 comments: 7
 weight: 5
@@ -41,7 +41,7 @@ Not actually retarded
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 105 |
+| Subscribers          | 112 |
 | Posts                | 5  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Not actually retarded
 |----------------------|---|
 | Published            | 2023-06-09 15:00:16 |
 | Updated              | 2023-06-16 00:35:22 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

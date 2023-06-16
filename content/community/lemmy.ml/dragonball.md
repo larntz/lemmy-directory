@@ -3,7 +3,7 @@ title: "All things Dragon Ball 🐉"
 name: "dragonball"
 description: "A community for all things Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, and Akira Toriyama!**Rules:**- Follow all https://lemmy.ml rules and the CoC- No spoilers in the title- No unmarked spoilers in the body or comments! You must mark them with Lemmy’s built-in spoiler tag and indicate in both the post title and the spoiler title what they pertain to (Manga chapters which haven’t been adapted yet, Anime episodes, etc.), as such.- No NSFW posts- All artwork must be credited to the original creator, whether in the title, post, or in a comment."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dragonball"
@@ -13,9 +13,9 @@ subscribers: 29
 posts: 42
 comments: 12
 weight: 42
-dau: 2
-wau: 2
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ A community for all things Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ba
 | Subscribers          | 29 |
 | Posts                | 42  |
 | Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for all things Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ba
 |----------------------|---|
 | Published            | 2021-05-21 01:39:25 |
 | Updated              | 2021-05-29 15:19:15 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

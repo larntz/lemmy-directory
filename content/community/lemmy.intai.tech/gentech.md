@@ -3,7 +3,7 @@ title: "Gen Tech Discussion"
 name: "gentech"
 description: "General tech of any type along with general ML dev/help chat. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/gentech"
@@ -54,4 +54,4 @@ General tech of any type along with general ML dev/help chat.
 |----------------------|---|
 | Published            | 2023-06-14 03:24:54 |
 | Updated              | 2023-06-14 05:03:34 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

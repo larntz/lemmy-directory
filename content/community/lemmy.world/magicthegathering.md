@@ -3,7 +3,7 @@ title: "MagicTheGathering"
 name: "magicthegathering"
 description: "[!mtg@lemmy.world](https://lemmy.world/c/mtg)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magicthegathering"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 05:29:51 |
 | Updated              | 2023-06-12 05:35:27 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

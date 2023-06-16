@@ -3,7 +3,7 @@ title: "DeepinOS: Better never stops"
 name: "deepinos"
 description: "DeepinOS is devoted to providing a beautiful, easy to use, safe and reliable system for global users."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepinos"
@@ -54,4 +54,4 @@ DeepinOS is devoted to providing a beautiful, easy to use, safe and reliable sys
 |----------------------|---|
 | Published            | 2020-02-08 16:09:17 |
 | Updated              | 2020-02-08 16:09:54 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:46 |

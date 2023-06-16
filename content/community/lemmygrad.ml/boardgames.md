@@ -3,7 +3,7 @@ title: "Board Games"
 name: "boardgames"
 description: "For anything and everything having to do with board games and the growing industry and popularity surrounding it, among other things relating to it.Remember general Lemmygrad etiquette.No racism, sexism, homophobia, transphobia, and so on. And, you know, don't be a jerk in general."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/boardgames"
@@ -54,4 +54,4 @@ For anything and everything having to do with board games and the growing indust
 |----------------------|---|
 | Published            | 2022-02-12 18:55:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

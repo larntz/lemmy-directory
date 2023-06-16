@@ -3,15 +3,15 @@ title: "Solo Travel "
 name: "solotravel"
 description: "Inspired by [/r/solotravel](https://www.reddit.com/r/solotravel/)See also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)Image credit: [Alex Azabache](https://unsplash.com/images/travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/solotravel"
 host: wayfarershaven.eu
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 1
-comments: 6
+comments: 8
 weight: 1
 dau: 2
 wau: 4
@@ -41,9 +41,9 @@ Inspired by [/r/solotravel](https://www.reddit.com/r/solotravel/)<br><br>See als
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 1  |
-| Comments             | 6  |
+| Comments             | 8  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Inspired by [/r/solotravel](https://www.reddit.com/r/solotravel/)<br><br>See als
 |----------------------|---|
 | Published            | 2023-06-11 17:27:26 |
 | Updated              | 2023-06-12 09:36:53 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:15 |

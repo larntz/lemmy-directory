@@ -3,7 +3,7 @@ title: "Lemmy.graphics"
 name: "lemmygraphics"
 description: "A general-purpose community for the Lemmy.Graphics instance."
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/lemmygraphics"
@@ -54,4 +54,4 @@ A general-purpose community for the Lemmy.Graphics instance.
 |----------------------|---|
 | Published            | 2023-06-13 20:09:06 |
 | Updated              | 2023-06-13 22:49:58 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

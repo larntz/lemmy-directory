@@ -3,13 +3,13 @@ title: "Pathfinder 2e Official Adventures"
 name: "pf2adventure"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2adventure"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 32
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 32 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 17:02:33 |
 | Updated              | 2023-06-04 17:03:25 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

@@ -3,13 +3,13 @@ title: "Bordline Personality Disorder"
 name: "bpd"
 description: "This is a place for those who have Borderline Personality Disorder, their family members and friends, and anyone else who is interested in learning more about it. We ask that you be kind, empathetic, respectful, and non-judgmental. Language that dehumanizes, personal attacks, and trolling will not be tolerated. "
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bpd"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a place for those who have Borderline Personality Disorder, their family
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a place for those who have Borderline Personality Disorder, their family
 |----------------------|---|
 | Published            | 2020-11-27 07:02:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

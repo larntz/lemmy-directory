@@ -3,19 +3,19 @@ title: "Corgi"
 name: "corgi"
 description: "Corgi!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/corgi"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 106
 posts: 4
-comments: 13
+comments: 14
 weight: 4
-dau: 4
-wau: 8
-mau: 8
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Corgi!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 106 |
 | Posts                | 4  |
-| Comments             | 13  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Comments             | 14  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Corgi!
 |----------------------|---|
 | Published            | 2023-06-12 20:46:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

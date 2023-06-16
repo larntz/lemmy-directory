@@ -3,19 +3,19 @@ title: "Tights, pantyhose and nylon"
 name: "tights"
 description: "For lovers of tights, pantyhose, nylons, stockings, thigh highs, and such."
 type: community
-date: "2023-06-15 17:37:32"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tights"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 77
-posts: 3
-comments: 0
-weight: 3
+subscribers: 116
+posts: 8
+comments: 1
+weight: 8
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ For lovers of tights, pantyhose, nylons, stockings, thigh highs, and such.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 3  |
-| Comments             | 0  |
+| Subscribers          | 116 |
+| Posts                | 8  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ For lovers of tights, pantyhose, nylons, stockings, thigh highs, and such.
 |----------------------|---|
 | Published            | 2023-06-13 12:05:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:32 |
+| Last Scraped         | 2023-06-16 22:56:41 |

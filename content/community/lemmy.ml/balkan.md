@@ -3,7 +3,7 @@ title: "Balkan"
 name: "balkan"
 description: "Welcome to all the people from fediverse."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/balkan"
@@ -54,4 +54,4 @@ Welcome to all the people from fediverse.
 |----------------------|---|
 | Published            | 2021-02-03 08:48:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:38 |

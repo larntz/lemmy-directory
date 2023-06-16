@@ -3,19 +3,19 @@ title: "That’s Insane 🫢"
 name: "thatsinsane"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thatsinsane"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 27
 posts: 3
-comments: 2
+comments: 3
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 27 |
 | Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 3  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 04:07:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

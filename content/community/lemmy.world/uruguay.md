@@ -3,7 +3,7 @@ title: "Uruguay"
 name: "uruguay"
 description: "Comunidad de uruguayos en el Fediverse!##### Reglas- Prohibido contenido NSFW o ilegal.- Tratarse con respeto."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uruguay"
@@ -14,8 +14,8 @@ posts: 2
 comments: 5
 weight: 2
 dau: 3
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Comunidad de uruguayos en el Fediverse!<br><br>##### Reglas<br>- Prohibido conte
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidad de uruguayos en el Fediverse!<br><br>##### Reglas<br>- Prohibido conte
 |----------------------|---|
 | Published            | 2023-06-13 08:22:14 |
 | Updated              | 2023-06-13 08:27:15 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

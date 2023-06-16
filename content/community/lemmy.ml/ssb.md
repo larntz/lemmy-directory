@@ -3,7 +3,7 @@ title: "Secure Scuttlebutt"
 name: "ssb"
 description: "Scuttlebutt is a decentralised secure gossip platform.As a decentralized social network, Scuttlebutt passes the data from friend to friend, without any central server. The data is localised and distributed so it also happens to work offline."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ssb"
@@ -54,4 +54,4 @@ Scuttlebutt is a decentralised secure gossip platform.<br><br>As a decentralized
 |----------------------|---|
 | Published            | 2021-01-07 17:45:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

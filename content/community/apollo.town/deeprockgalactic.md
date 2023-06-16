@@ -3,7 +3,7 @@ title: "Deep Rock Galactic"
 name: "deeprockgalactic"
 description: "Rock and Stone!"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/deeprockgalactic"
@@ -11,9 +11,9 @@ host: apollo.town
 lastmod: "{[ .Updated }}"
 subscribers: 18
 posts: 4
-comments: 24
+comments: 25
 weight: 4
-dau: 4
+dau: 3
 wau: 5
 mau: 5
 instances:
@@ -43,8 +43,8 @@ Rock and Stone!
 |----------------------|---|
 | Subscribers          | 18 |
 | Posts                | 4  |
-| Comments             | 24  |
-| Daily Active Users   | 4  |
+| Comments             | 25  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ Rock and Stone!
 |----------------------|---|
 | Published            | 2023-06-09 06:00:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

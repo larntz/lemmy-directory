@@ -3,13 +3,13 @@ title: "Slay the Spire"
 name: "slaythespire"
 description: "A place to discuss Slay the Spire the video game"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slaythespire"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 6
 weight: 4
@@ -41,7 +41,7 @@ A place to discuss Slay the Spire the video game
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 4  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss Slay the Spire the video game
 |----------------------|---|
 | Published            | 2023-06-13 13:56:38 |
 | Updated              | 2023-06-13 14:14:29 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

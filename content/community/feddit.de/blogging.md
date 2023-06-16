@@ -3,7 +3,7 @@ title: "blogging"
 name: "blogging"
 description: "Promote your Blogs here and discuss your blogging experiences. Rules:- Never mention the Blogosphere"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/blogging"
@@ -54,4 +54,4 @@ Promote your Blogs here and discuss your blogging experiences. <br><br>Rules:<br
 |----------------------|---|
 | Published            | 2023-06-14 22:13:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

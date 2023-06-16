@@ -3,16 +3,16 @@ title: "ActivityPub"
 name: "activitypub"
 description: "This is a community dedicated to discussing technical details related to ActivityPub. It is not for discussing the Fediverse, although discussion on that topic is fine if it somehow relates to the AP protocol itself.We welcome developers familiar with the protocol! "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/activitypub"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 491
-posts: 36
+subscribers: 494
+posts: 37
 comments: 33
-weight: 36
+weight: 37
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ This is a community dedicated to discussing technical details related to Activit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 491 |
-| Posts                | 36  |
+| Subscribers          | 494 |
+| Posts                | 37  |
 | Comments             | 33  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ This is a community dedicated to discussing technical details related to Activit
 |----------------------|---|
 | Published            | 2019-09-12 03:28:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

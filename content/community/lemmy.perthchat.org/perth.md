@@ -3,7 +3,7 @@ title: "Perth"
 name: "perth"
 description: "Discussion about topics related to the fine landmass of Perth, Western Australia"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/perth"
@@ -54,4 +54,4 @@ Discussion about topics related to the fine landmass of Perth, Western Australia
 |----------------------|---|
 | Published            | 2022-03-29 21:47:40 |
 | Updated              | 2022-07-09 07:53:39 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

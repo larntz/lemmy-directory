@@ -3,7 +3,7 @@ title: "Lana Del Rey 🎶🌹👑"
 name: "lanadelrey"
 description: "A community for fans of the Coney Island Queen.*All things LDR*—Talk about music, rumors, theories, opinions, videos, photoshoots, poetry, and more!**Rules:**- Be nice even if you disagree.- Criticism is okay, but no trolling or low-effort posts.- This is not a community for spreading hate and negativity.- No NSFW.- No spam.- No advertisment.- No violence.- Discuss about her music, not her looks.- No illegal material. It's okay to talk about leaked songs, but direct links are to be avoided.-----You may also like:- [!popheads@poptalk.scrubbles.tech]( https://lemmy.world/c/popheads@poptalk.scrubbles.tech)- [!taylorswift@poptalk.scrubbles.tech](https://lemmy.world/c/taylorswift@poptalk.scrubbles.tech)- [!hiphopheads@sopuli.xy](https://lemmy.world/c/hiphopheads@sopuli.xy)- [!music@beehaw.org](https://lemmy.world/c/music@beehaw.org)"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lanadelrey"
@@ -54,4 +54,4 @@ A community for fans of the Coney Island Queen.<br><br>*All things LDR*—Talk a
 |----------------------|---|
 | Published            | 2023-06-14 13:21:08 |
 | Updated              | 2023-06-14 16:21:49 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

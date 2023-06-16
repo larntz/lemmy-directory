@@ -3,7 +3,7 @@ title: "Telecomunnication Heaven"
 name: "telecommunications"
 description: "Welcome to, /l/Telecommunications.A place where any help you want you might get from the community. Everyone on this community has a sim card. No matter where you are you will get helpRules:No SpammingDon't mentions brands continuesly. NO NSFWGo Crazy!"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/telecommunications"
@@ -54,4 +54,4 @@ Welcome to, /l/Telecommunications.<br><br>A place where any help you want you mi
 |----------------------|---|
 | Published            | 2021-10-20 18:29:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:41 |

@@ -3,13 +3,13 @@ title: "Add-ons"
 name: "addons"
 description: "A community for discussing extensions and scripts that enhance your web browsing experience.While this community is primarily aimed at browser extensions (Add-ons), discussion about userscripts and userstyles is also allowed."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/addons"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 38
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ A community for discussing extensions and scripts that enhance your web browsing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 38 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for discussing extensions and scripts that enhance your web browsing
 |----------------------|---|
 | Published            | 2023-06-12 14:59:00 |
 | Updated              | 2023-06-12 15:17:49 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Tech Starter"
 name: "tech_starter"
 description: "This is your place to ask your technology questions. We will try to help you answer them because no one was born knowing. "
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_starter"
@@ -54,4 +54,4 @@ This is your place to ask your technology questions. We will try to help you ans
 |----------------------|---|
 | Published            | 2023-06-08 21:30:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

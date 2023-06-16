@@ -3,7 +3,7 @@ title: "Hades"
 name: "hades"
 description: "A community for Hades and Hades II, the god-like rogue-likes from Supergiant Games."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/hades"
@@ -11,11 +11,11 @@ host: lemmy.zip
 lastmod: "{[ .Updated }}"
 subscribers: 40
 posts: 6
-comments: 0
+comments: 1
 weight: 6
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_zip"
 tags: 
@@ -43,10 +43,10 @@ A community for Hades and Hades II, the god-like rogue-likes from Supergiant Gam
 |----------------------|---|
 | Subscribers          | 40 |
 | Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for Hades and Hades II, the god-like rogue-likes from Supergiant Gam
 |----------------------|---|
 | Published            | 2023-06-13 15:00:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:13 |

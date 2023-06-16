@@ -3,7 +3,7 @@ title: "Animes"
 name: "animes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/animes"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-21 14:36:13 |
 | Updated              | 2022-12-21 14:56:41 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:41 |

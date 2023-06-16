@@ -3,19 +3,19 @@ title: "Rape Hentai"
 name: "rapehentai"
 description: "###### A place for 2D/drawn porn that depicts noncon or dubcon. We do not condone actual rape.        #### Rules0. Follow all instance rules1. Don't be a dick -- being a dom isn't an excuse.2. No underage characters or characters that look underage3. All images must be 2D (no IRL content or 3DCG)4. No shock content -- gore, scat, urination (watersports), bestiality, or sexualized disfigurement5. Furry content must be tagged in the title with [Furry] or [Anthro]6. No low quality content7. No reposts"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/rapehentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 139
-posts: 14
+subscribers: 158
+posts: 15
 comments: 6
-weight: 14
-dau: 1
-wau: 3
-mau: 3
+weight: 15
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
-| Posts                | 14  |
+| Subscribers          | 158 |
+| Posts                | 15  |
 | Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 03:10:24 |
 | Updated              | 2023-06-13 03:11:44 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,7 +3,7 @@ title: "Christian Socialism"
 name: "christian_socialism"
 description: "A space for Christians on lemmygrad."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/christian_socialism"
@@ -54,4 +54,4 @@ A space for Christians on lemmygrad.
 |----------------------|---|
 | Published            | 2022-03-24 08:15:16 |
 | Updated              | 2022-03-24 08:17:09 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

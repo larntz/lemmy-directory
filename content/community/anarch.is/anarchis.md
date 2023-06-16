@@ -3,7 +3,7 @@ title: "Anarch.is"
 name: "anarchis"
 description: "For instance-wide announcements and discussions about the instance."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/anarchis"
@@ -54,4 +54,4 @@ For instance-wide announcements and discussions about the instance.
 |----------------------|---|
 | Published            | 2023-06-11 17:46:23 |
 | Updated              | 2023-06-11 19:08:46 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:15 |

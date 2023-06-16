@@ -3,13 +3,13 @@ title: "Steam Deck"
 name: "steam_deck"
 description: "A place for all things Steam Deck!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steam_deck"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 63
+subscribers: 67
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ A place for all things Steam Deck!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
+| Subscribers          | 67 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for all things Steam Deck!
 |----------------------|---|
 | Published            | 2023-06-12 20:01:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,16 +3,16 @@ title: "Punk Rock"
 name: "punk_rock"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/punk_rock"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 15
-comments: 11
-weight: 15
+subscribers: 73
+posts: 17
+comments: 13
+weight: 17
 dau: 2
 wau: 3
 mau: 3
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 15  |
-| Comments             | 11  |
+| Subscribers          | 73 |
+| Posts                | 17  |
+| Comments             | 13  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-06 22:29:02 |
-| Updated              | 2023-06-07 15:30:21 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Updated              | 2023-06-16 19:52:18 |
+| Last Scraped         | 2023-06-16 22:56:34 |

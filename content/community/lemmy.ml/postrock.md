@@ -3,19 +3,19 @@ title: "Post-Rock"
 name: "postrock"
 description: "#### A community for **Post-Rock** enthusiasts---Some rules:- Only Post-Rock and similar genres allowed- Try to use English when posting and commenting- No hate speech- No judging of musical taste"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postrock"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 7
 comments: 1
 weight: 7
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 7  |
 | Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-07 22:04:32 |
 | Updated              | 2023-06-13 10:04:26 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:37 |

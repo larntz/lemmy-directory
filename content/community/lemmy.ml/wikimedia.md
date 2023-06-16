@@ -3,7 +3,7 @@ title: "Wikimedia"
 name: "wikimedia"
 description: "Wiki-pedia, -tionary, -source, -books, -quote, commons, -versity, -voyage, -news, -data, -species"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wikimedia"
@@ -54,4 +54,4 @@ Wiki-pedia, -tionary, -source, -books, -quote, commons, -versity, -voyage, -news
 |----------------------|---|
 | Published            | 2020-06-28 08:11:17 |
 | Updated              | 2021-01-29 13:30:39 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

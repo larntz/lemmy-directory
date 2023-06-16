@@ -3,19 +3,19 @@ title: "Neoliberal"
 name: "neoliberal"
 description: "Community for Neoliberals!A life-raft for neolibs from reddit.Still a work in progress.Most rules and stuff TBD, but assume it's the same as it was at the old joint."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neoliberal"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 36
 posts: 5
 comments: 7
 weight: 5
-dau: 4
-wau: 5
-mau: 5
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for Neoliberals!<br><br>A life-raft for neolibs from reddit.<br><br>St
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 36 |
 | Posts                | 5  |
 | Comments             | 7  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Neoliberals!<br><br>A life-raft for neolibs from reddit.<br><br>St
 |----------------------|---|
 | Published            | 2023-06-12 20:52:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

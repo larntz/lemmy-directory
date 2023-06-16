@@ -3,13 +3,13 @@ title: "Raspberry Pi Pico"
 name: "raspberrypipico"
 description: "Unofficial Raspberry Pi Pico/RP2040 Forum on Lemmy.Visit us on discord! @[Discord](https://discord.gg/gWzBdks2z5)Other Lemmy Communities (not affiliated, see related post to make suggestions for changes)General Electronics- [DIY Electronics](/c/diy_electronics)- [Electronics](/c/electronics@discuss.tchncs.de)- [Ask Electronics](/c/askelectronics@discuss.tchncs.de)Embedded (generic)- [Embedded](/c/embedded)- [Embedded Programming](/c/embedded_prog)- [Arduino](/c/arduino)- [Arduino Projects](/c/arduino_projects_etc)- [FPGA](/c/fpga)Embedded (hardware specific)- [Raspberry Pi](/c/raspberrypi)- [Raspberry Pi Pico/RP2040](/c/raspberrypipico)- [stm32](/c/stm32)- [esp32](/c/esp32)Radio Frequency / RF- [RTL-SDR](/c/rtlsdr)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/raspberrypipico"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Unofficial Raspberry Pi Pico/RP2040 Forum on Lemmy.<br><br>Visit us on discord! 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Unofficial Raspberry Pi Pico/RP2040 Forum on Lemmy.<br><br>Visit us on discord! 
 |----------------------|---|
 | Published            | 2023-06-09 17:15:59 |
 | Updated              | 2023-06-14 05:49:45 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

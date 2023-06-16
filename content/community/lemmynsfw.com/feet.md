@@ -3,19 +3,19 @@ title: "feet"
 name: "feet"
 description: "Any goes women's feet"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/feet"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 106
-posts: 26
+subscribers: 116
+posts: 27
 comments: 4
-weight: 26
+weight: 27
 dau: 3
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Any goes women's feet
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 106 |
-| Posts                | 26  |
+| Subscribers          | 116 |
+| Posts                | 27  |
 | Comments             | 4  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -56,4 +56,4 @@ Any goes women's feet
 |----------------------|---|
 | Published            | 2023-06-12 22:43:52 |
 | Updated              | 2023-06-13 01:28:37 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

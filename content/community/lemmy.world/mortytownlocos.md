@@ -3,19 +3,19 @@ title: "Morty Town Locos"
 name: "mortytownlocos"
 description: "This is not a normal community. This is a social experiment.Here are the rules:1. Every post must contain a picure of Morty in the URL section.2. Every comment must mention the word Morty somewhere in the comment.If you break these rules you will be banned from the community.One last thing. Subscribers at random will be given mod powers.This social experiment is to see how long a heavily policed community can last when its subscribers get to decide the fate of the community."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mortytownlocos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 2
+subscribers: 2
+posts: 3
 comments: 0
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This is not a normal community. This is a social experiment.<br><br>Here are the
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
+| Subscribers          | 2 |
+| Posts                | 3  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is not a normal community. This is a social experiment.<br><br>Here are the
 |----------------------|---|
 | Published            | 2023-06-16 09:56:25 |
 | Updated              | 2023-06-16 10:09:27 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

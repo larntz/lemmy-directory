@@ -3,13 +3,13 @@ title: "US Mobile | The next generation wireless network"
 name: "usmobile"
 description: "Welcome to my UNofficial community for US Mobile. Hoping they'll join us over here to listen to your feedback and suggestions, answer questions, and help with anything.In the meantime, it's a place for customers an prospective customers to meet and discuss US Mobile and it's services."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/usmobile"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Welcome to my UNofficial community for US Mobile. Hoping they'll join us over he
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Welcome to my UNofficial community for US Mobile. Hoping they'll join us over he
 |----------------------|---|
 | Published            | 2023-06-09 17:05:59 |
 | Updated              | 2023-06-11 19:51:44 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

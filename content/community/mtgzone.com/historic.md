@@ -3,7 +3,7 @@ title: "Historic"
 name: "historic"
 description: "**Arena's Historic format discussion**Historic is MTG Arena’s largest Constructed format, filled with both old and new Magic cards. Digital-only cards are legal in this format, including rebalanced versions of existing cards. Historic never rotates and is curated as a digital-first format.Read more at [Historic's official website](https://magic.wizards.com/en/formats/historic)."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/historic"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 20:07:36 |
 | Updated              | 2023-06-15 19:25:58 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

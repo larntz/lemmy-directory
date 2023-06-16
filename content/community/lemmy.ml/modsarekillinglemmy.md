@@ -3,13 +3,13 @@ title: "All The *removed by mod* Things"
 name: "modsarekillinglemmy"
 description: "Stop killing Lemmy.STOP KILL-*removed by mod*"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modsarekillinglemmy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 0
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Stop killing Lemmy.<br><br>STOP KILL-<br><br>*removed by mod*
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 0 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Stop killing Lemmy.<br><br>STOP KILL-<br><br>*removed by mod*
 |----------------------|---|
 | Published            | 2023-06-11 10:57:04 |
 | Updated              | 2023-06-11 10:57:21 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:43 |

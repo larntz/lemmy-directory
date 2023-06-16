@@ -3,7 +3,7 @@ title: "Redacted Life"
 name: "redactedlife"
 description: "https://redacted.life"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redactedlife"
@@ -54,4 +54,4 @@ https://redacted.life
 |----------------------|---|
 | Published            | 2020-09-10 16:32:52 |
 | Updated              | 2020-09-10 16:41:46 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

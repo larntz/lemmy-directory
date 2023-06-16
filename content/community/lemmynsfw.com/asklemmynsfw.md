@@ -3,19 +3,19 @@ title: "Ask Lemmy NSFW"
 name: "asklemmynsfw"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/asklemmynsfw"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 816
-posts: 39
-comments: 294
-weight: 39
-dau: 44
-wau: 138
-mau: 138
+subscribers: 874
+posts: 45
+comments: 342
+weight: 45
+dau: 29
+wau: 151
+mau: 151
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 816 |
-| Posts                | 39  |
-| Comments             | 294  |
-| Daily Active Users   | 44  |
-| Weekly Active Users  | 138  |
-| Monthly Active Users | 138  |
+| Subscribers          | 874 |
+| Posts                | 45  |
+| Comments             | 342  |
+| Daily Active Users   | 29  |
+| Weekly Active Users  | 151  |
+| Monthly Active Users | 151  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 11:09:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

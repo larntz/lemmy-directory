@@ -3,13 +3,13 @@ title: "Balkonkraftwerk"
 name: "balkonkraftwerk"
 description: "Die Community für dezentrale Energieerzeugung in der eigenen Wohnung."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/balkonkraftwerk"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Die Community für dezentrale Energieerzeugung in der eigenen Wohnung.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die Community für dezentrale Energieerzeugung in der eigenen Wohnung.
 |----------------------|---|
 | Published            | 2023-06-14 20:25:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

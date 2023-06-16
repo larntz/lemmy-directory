@@ -1,21 +1,21 @@
 ---
 title: "OpenRGB" 
 name: "openrgb"
-description: ""
+description: "Official website:https://openrgb.orgGitLab:https://gitlab.com/CalcProgrammer1/OpenRGB"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openrgb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
-posts: 4
+subscribers: 35
+posts: 5
 comments: 1
-weight: 4
+weight: 5
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-
+Official website:<br>https://openrgb.org<br><br>GitLab:<br>https://gitlab.com/CalcProgrammer1/OpenRGB
 </blockquote>
 
 
@@ -41,17 +41,17 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 4  |
+| Subscribers          | 35 |
+| Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2021-06-09 19:00:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Updated              | 2023-06-16 17:33:10 |
+| Last Scraped         | 2023-06-16 22:57:21 |

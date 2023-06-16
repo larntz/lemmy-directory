@@ -3,13 +3,13 @@ title: "Mythology"
 name: "mythology"
 description: "For discussion of all world mythologies"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mythology"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 350
+subscribers: 363
 posts: 10
 comments: 24
 weight: 10
@@ -41,7 +41,7 @@ For discussion of all world mythologies
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 350 |
+| Subscribers          | 363 |
 | Posts                | 10  |
 | Comments             | 24  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussion of all world mythologies
 |----------------------|---|
 | Published            | 2023-06-07 15:37:20 |
 | Updated              | 2023-06-07 15:49:05 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,19 +3,19 @@ title: "GooglePixel"
 name: "googlepixel"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/googlepixel"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 438
-posts: 8
-comments: 62
-weight: 8
-dau: 13
-wau: 25
-mau: 25
+subscribers: 497
+posts: 10
+comments: 74
+weight: 10
+dau: 11
+wau: 36
+mau: 36
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 438 |
-| Posts                | 8  |
-| Comments             | 62  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 25  |
+| Subscribers          | 497 |
+| Posts                | 10  |
+| Comments             | 74  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 36  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 07:03:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

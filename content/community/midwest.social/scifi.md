@@ -3,19 +3,19 @@ title: "science fiction"
 name: "scifi"
 description: "Sci-fi, a community for science fiction. "
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/scifi"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 117
+subscribers: 125
 posts: 3
-comments: 12
+comments: 14
 weight: 3
-dau: 3
-wau: 9
-mau: 12
+dau: 4
+wau: 10
+mau: 15
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Sci-fi, a community for science fiction.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 117 |
+| Subscribers          | 125 |
 | Posts                | 3  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 12  |
+| Comments             | 14  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Sci-fi, a community for science fiction.
 |----------------------|---|
 | Published            | 2023-06-01 12:17:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

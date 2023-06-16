@@ -3,7 +3,7 @@ title: "Aeronautics"
 name: "aeronautics"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/aeronautics"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 11:43:07 |
 | Updated              | 2023-06-15 11:43:38 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

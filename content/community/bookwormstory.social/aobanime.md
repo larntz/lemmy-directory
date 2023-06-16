@@ -1,9 +1,9 @@
 ---
-title: "Ascendance of a Bookworm -  Anime" 
+title: "Anime - Ascendance of a Bookworm" 
 name: "aobanime"
-description: "Description not available."
+description: "**Navigation Links:**- [Web Novel](/c/aobwebnovel@bookwormstory.social)- [PrePub](/c/aobprepub@bookwormstory.social)- [Light Novel](/c/aoblightnovel@bookwormstory.social)- [Manga](/c/aobmanga@bookwormstory.social)- **Anime**::: spoiler  synonyms  - Ascendance of a Bookworm - Honzuki no Gekokujou - 『本好きの下剋上』:::"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/aobanime"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Ascendance of a Bookworm -  Anime on bookwormstory.social
+# /c/Anime - Ascendance of a Bookworm on bookwormstory.social
 
 [[home](/)]
 [[/c/aobanime 🌎](https://bookwormstory.social/c/aobanime)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+**Navigation Links:**<br>- [Web Novel](/c/aobwebnovel@bookwormstory.social)<br>- [PrePub](/c/aobprepub@bookwormstory.social)<br>- [Light Novel](/c/aoblightnovel@bookwormstory.social)<br>- [Manga](/c/aobmanga@bookwormstory.social)<br>- **Anime**<br><br>::: spoiler  synonyms <br> - Ascendance of a Bookworm<br> - Honzuki no Gekokujou<br> - 『本好きの下剋上』<br>:::
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 18:46:41 |
-| Updated              | 2023-06-13 20:34:40 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 12:38:18 |
+| Last Scraped         | 2023-06-16 22:56:19 |

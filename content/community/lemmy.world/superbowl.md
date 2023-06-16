@@ -3,19 +3,19 @@ title: "Superbowl"
 name: "superbowl"
 description: "For owls that are superb."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/superbowl"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 66
+subscribers: 76
 posts: 5
 comments: 11
 weight: 5
 dau: 1
-wau: 9
-mau: 9
+wau: 11
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For owls that are superb.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
+| Subscribers          | 76 |
 | Posts                | 5  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ For owls that are superb.
 |----------------------|---|
 | Published            | 2023-06-11 18:52:03 |
 | Updated              | 2023-06-14 21:14:43 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

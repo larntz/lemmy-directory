@@ -3,13 +3,13 @@ title: "Me IRL but Feddit"
 name: "me_irl"
 description: "Things that are me in real life"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/me_irl"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Things that are me in real life
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Things that are me in real life
 |----------------------|---|
 | Published            | 2023-06-14 23:30:17 |
 | Updated              | 2023-06-15 10:38:05 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

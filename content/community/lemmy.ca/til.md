@@ -3,16 +3,16 @@ title: "Today I Learned (TIL)"
 name: "til"
 description: "You learn something new every day; what did you learn today?/c/til is a community for any true knowledge that you would like to share, regardless of topic or of source.Share your knowledge and experience!Rules- Information must be true- Follow site rules- No, you don't have to have literally learned the fact today- Posts must be about something you learned"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/til"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 920
-posts: 22
-comments: 61
-weight: 22
+subscribers: 974
+posts: 23
+comments: 66
+weight: 23
 dau: 3
 wau: 23
 mau: 23
@@ -41,9 +41,9 @@ You learn something new every day; what did you learn today?<br><br>/c/til is a 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 920 |
-| Posts                | 22  |
-| Comments             | 61  |
+| Subscribers          | 974 |
+| Posts                | 23  |
+| Comments             | 66  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 23  |
 | Monthly Active Users | 23  |
@@ -54,4 +54,4 @@ You learn something new every day; what did you learn today?<br><br>/c/til is a 
 |----------------------|---|
 | Published            | 2022-06-14 05:06:39 |
 | Updated              | 2023-06-13 14:46:02 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

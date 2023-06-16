@@ -3,17 +3,17 @@ title: "Space, the final frontier"
 name: "space"
 description: " **c/space Rules** - Submissions must be related to Space- No sensationalist/ misleading/ unscientific content- No spam- No low-effort or meme images"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/space"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1325
-posts: 373
+subscribers: 1335
+posts: 374
 comments: 172
-weight: 373
-dau: 2
+weight: 374
+dau: 1
 wau: 3
 mau: 10
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1325 |
-| Posts                | 373  |
+| Subscribers          | 1335 |
+| Posts                | 374  |
 | Comments             | 172  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 10  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-02-20 20:44:36 |
 | Updated              | 2021-01-28 20:26:09 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

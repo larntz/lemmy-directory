@@ -3,7 +3,7 @@ title: "Favorite Text Posts"
 name: "fav_text"
 description: "Best text posts from around the internet! Post your favorite stories, rants, and jokes from around the internet!Rules:No NSFW postsPost direct links to the source in the body(Reddit, tumblr, etc.)Have descriptive title to make searching easyIf posting a screen shot, include a transcription. No duplicates post in this community"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fav_text"
@@ -54,4 +54,4 @@ Best text posts from around the internet! Post your favorite stories, rants, and
 |----------------------|---|
 | Published            | 2023-06-11 17:54:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,13 +3,13 @@ title: "Lemme Help"
 name: "lemme_help"
 description: "This is a place to ask your lemme related questions. Especially if you are a new user"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lemme_help"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a place to ask your lemme related questions. Especially if you are a new
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a place to ask your lemme related questions. Especially if you are a new
 |----------------------|---|
 | Published            | 2023-06-16 08:06:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

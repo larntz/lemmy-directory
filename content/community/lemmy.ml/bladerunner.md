@@ -3,7 +3,7 @@ title: "Blade Runner"
 name: "bladerunner"
 description: "A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian science fiction action film directed by Ridley Scott and starring Harrison Ford, Rutger Hauer, and Sean Young - and it’s sequel directed by Denis Villeneuve. **Rules:**- Respect your fellow humans and please keep posts relevant to the Blade Runner universe- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bladerunner"
@@ -54,4 +54,4 @@ A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian s
 |----------------------|---|
 | Published            | 2023-06-03 18:04:02 |
 | Updated              | 2023-06-11 03:40:34 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

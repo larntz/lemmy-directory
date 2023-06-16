@@ -3,7 +3,7 @@ title: "Cucina e ricette"
 name: "cucina"
 description: "Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!Qui potete condividere **ricette**, chiedere consigli riguardo a piatti e ingredienti che intendete usare. Ovviamente le foto del cibo sono benvenute (se con ricetta al seguito sono anche meglio).Vi invitiamo innanzitutto a dare un’occhiata al post “Guida all’utilizzo di Feddit” che trovate a questo link:https://feddit.it/post/6"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/cucina"
@@ -11,11 +11,11 @@ host: feddit.it
 lastmod: "{[ .Updated }}"
 subscribers: 49
 posts: 6
-comments: 12
+comments: 17
 weight: 6
-dau: 10
-wau: 10
-mau: 10
+dau: 4
+wau: 12
+mau: 12
 instances:
 - "feddit_it"
 tags: 
@@ -43,10 +43,10 @@ Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!<br><br>Q
 |----------------------|---|
 | Subscribers          | 49 |
 | Posts                | 6  |
-| Comments             | 12  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 17  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!<br><br>Q
 |----------------------|---|
 | Published            | 2023-06-14 15:54:32 |
 | Updated              | 2023-06-15 13:33:01 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

@@ -3,19 +3,19 @@ title: "iPhone"
 name: "iphone_community"
 description: "The home for all things iPhone on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iphone_community"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 12
 posts: 3
-comments: 0
+comments: 2
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The home for all things iPhone on LW.<br><br>**Rules:**<br>- No NSFW Content.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 12 |
 | Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ The home for all things iPhone on LW.<br><br>**Rules:**<br>- No NSFW Content.<br
 |----------------------|---|
 | Published            | 2023-06-16 01:26:36 |
 | Updated              | 2023-06-16 01:26:56 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

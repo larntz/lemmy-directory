@@ -3,7 +3,7 @@ title: "GoldenDoodles"
 name: "goldendoodles"
 description: "A community to discuss the Golden Doodle dog breed"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldendoodles"
@@ -54,4 +54,4 @@ A community to discuss the Golden Doodle dog breed
 |----------------------|---|
 | Published            | 2023-06-12 20:50:48 |
 | Updated              | 2023-06-12 20:56:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

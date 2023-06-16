@@ -3,7 +3,7 @@ title: "Des Moines"
 name: "desmoines"
 description: "For all things Des Moines. A refuge for those that spent time in r/desmoines"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/desmoines"
@@ -54,4 +54,4 @@ For all things Des Moines. A refuge for those that spent time in r/desmoines
 |----------------------|---|
 | Published            | 2023-06-13 16:31:15 |
 | Updated              | 2023-06-15 19:21:03 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -1,21 +1,21 @@
 ---
 title: "pixel art" 
 name: "pixel_art"
-description: "Description not available."
+description: "A home for pixel art! Show off your work, discuss techniques, ask questions, and anything inbetween!##### **Rules**![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) There is not a hard cutoff for what counts as pixel art here, but please try and keep in the spirit of low sized limitations and color count.![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) You may not directly link to NSFW things, but can link to the creator's page and tell where to go.![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**##### **Recommended Tags**[OC] [Non-OC] [Tutorial] [Resources] [Question]"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/pixel_art"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 6
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "crystals_rest"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+A home for pixel art! Show off your work, discuss techniques, ask questions, and anything inbetween!<br><br>##### **Rules**<br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) There is not a hard cutoff for what counts as pixel art here, but please try and keep in the spirit of low sized limitations and color count.<br><br>![yellow crystal](https://misnina.neocities.org/emotes/cry_yellow_1x.png) You may not directly link to NSFW things, but can link to the creator's page and tell where to go.<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**<br><br>##### **Recommended Tags**<br>[OC] [Non-OC] [Tutorial] [Resources] [Question]
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 6 |
+| Posts                | 1  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:13:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 17:28:14 |
+| Last Scraped         | 2023-06-16 22:56:19 |

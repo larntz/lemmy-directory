@@ -3,19 +3,19 @@ title: "Faceting"
 name: "faceting"
 description: "Community for discussing faceting and gemstones. Show off your work, tips and tricks ask for advice. No selling of stones, rough or anything else."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/faceting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 8
-comments: 8
-weight: 8
-dau: 1
-wau: 4
-mau: 4
+subscribers: 18
+posts: 9
+comments: 15
+weight: 9
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for discussing faceting and gemstones. Show off your work, tips and tr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 8  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 18 |
+| Posts                | 9  |
+| Comments             | 15  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for discussing faceting and gemstones. Show off your work, tips and tr
 |----------------------|---|
 | Published            | 2023-06-10 17:42:30 |
 | Updated              | 2023-06-12 01:44:18 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

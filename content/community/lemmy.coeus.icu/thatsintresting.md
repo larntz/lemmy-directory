@@ -3,7 +3,7 @@ title: "That's Intresting!"
 name: "thatsintresting"
 description: "A Place for posting interesting stuff."
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/thatsintresting"
@@ -54,4 +54,4 @@ A Place for posting interesting stuff.
 |----------------------|---|
 | Published            | 2023-06-13 13:30:42 |
 | Updated              | 2023-06-13 13:33:18 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:20 |

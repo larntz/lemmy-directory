@@ -3,13 +3,13 @@ title: "Nordrhein-Westfalen"
 name: "nordrheinwestfalen"
 description: "Beiträge zum bevölkerungsreichsten Bundesland Deutschlands!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nordrheinwestfalen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 127
+subscribers: 128
 posts: 12
 comments: 4
 weight: 12
@@ -41,7 +41,7 @@ Beiträge zum bevölkerungsreichsten Bundesland Deutschlands!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
+| Subscribers          | 128 |
 | Posts                | 12  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Beiträge zum bevölkerungsreichsten Bundesland Deutschlands!
 |----------------------|---|
 | Published            | 2021-09-14 07:56:34 |
 | Updated              | 2022-03-14 16:17:52 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

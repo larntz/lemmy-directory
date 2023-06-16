@@ -3,13 +3,13 @@ title: "$hit Capitalists $ay"
 name: "shitcapitalistssay"
 description: "The arguments that capitalists spew out upon the world.# Rules* Posts must either feature capitalist apologism, blaming workers for failings of capitalism or for wantint better working conditions, or things said by well-known capitalists. Brand worship is also acceptable.* That said, do not *be* a capitalism apologist in this community.* No NSFW content.* Follow all other lemmy.ml rules."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitcapitalistssay"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 316
+subscribers: 317
 posts: 132
 comments: 167
 weight: 132
@@ -41,7 +41,7 @@ The arguments that capitalists spew out upon the world.<br><br># Rules<br><br>* 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 316 |
+| Subscribers          | 317 |
 | Posts                | 132  |
 | Comments             | 167  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The arguments that capitalists spew out upon the world.<br><br># Rules<br><br>* 
 |----------------------|---|
 | Published            | 2021-02-16 09:56:34 |
 | Updated              | 2021-11-10 22:29:03 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

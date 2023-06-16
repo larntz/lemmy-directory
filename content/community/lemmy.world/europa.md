@@ -3,19 +3,19 @@ title: "Europa / Europe and the EU + EEA"
 name: "europa"
 description: "A community for all things to do with Europe as well as the EU/EEA."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/europa"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 104
+subscribers: 122
 posts: 4
 comments: 5
 weight: 4
 dau: 2
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for all things to do with Europe as well as the EU/EEA.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 104 |
+| Subscribers          | 122 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for all things to do with Europe as well as the EU/EEA.
 |----------------------|---|
 | Published            | 2023-06-12 20:56:58 |
 | Updated              | 2023-06-13 03:02:24 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

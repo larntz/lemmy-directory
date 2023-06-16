@@ -3,13 +3,13 @@ title: "Dallas Cowboys"
 name: "dallascowboys"
 description: "All things Dallas Cowboys"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dallascowboys"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ All things Dallas Cowboys
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things Dallas Cowboys
 |----------------------|---|
 | Published            | 2023-06-09 13:24:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

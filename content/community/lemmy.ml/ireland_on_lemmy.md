@@ -3,7 +3,7 @@ title: "Ireland"
 name: "ireland_on_lemmy"
 description: "Dia dhuit agus failte!I am creating this community because I really liked /r/Ireland, but the decisions that Reddit admins have made regarding API access and the frankly awful way they have treated third party developers and the wider user base have left me wanting an alternative. Simply put, the worst part about /r/Ireland was Reddit and the direction the company was going in. So with that said, here is an alternative. A community for the island of Ireland, a place for Ireland and Irish people. I hope to enable discussion about news & current events, where people can ask questions, share memes, and just for general good craic and good vibes. Memes, shitposts, questions, discussions and news are all welcome. I would ask people to not take the piss please, and if ye are going to post articles, please don't post paywalled ones. Anyway, suggestions welcome. I hope you enjoy this community."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ireland_on_lemmy"
@@ -14,8 +14,8 @@ posts: 17
 comments: 4
 weight: 17
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ Dia dhuit agus failte!<br>I am creating this community because I really liked /r
 | Posts                | 17  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Dia dhuit agus failte!<br>I am creating this community because I really liked /r
 |----------------------|---|
 | Published            | 2023-06-14 00:45:54 |
 | Updated              | 2023-06-14 01:28:28 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,13 +3,13 @@ title: "The Questions"
 name: "thequestions"
 description: "# Ask anything"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thequestions"
 host: merv.news
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-01 17:51:51 |
 | Updated              | 2022-10-01 18:03:54 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

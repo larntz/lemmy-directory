@@ -3,7 +3,7 @@ title: "Android Dev"
 name: "android_dev"
 description: "Welcome to the new android development community"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://androiddev.network/c/android_dev"
@@ -54,4 +54,4 @@ Welcome to the new android development community
 |----------------------|---|
 | Published            | 2023-06-14 23:41:03 |
 | Updated              | 2023-06-15 00:55:10 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

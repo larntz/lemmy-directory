@@ -3,13 +3,13 @@ title: "Firefly"
 name: "firefly"
 description: "For fans of the unforgivably short-lived GOAT space western. Browncoats unite!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firefly"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 64
+subscribers: 68
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ For fans of the unforgivably short-lived GOAT space western. Browncoats unite!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
+| Subscribers          | 68 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ For fans of the unforgivably short-lived GOAT space western. Browncoats unite!
 |----------------------|---|
 | Published            | 2023-06-12 05:59:22 |
 | Updated              | 2023-06-12 08:19:58 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

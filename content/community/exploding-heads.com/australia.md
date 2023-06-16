@@ -3,18 +3,18 @@ title: "Australia"
 name: "australia"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/australia"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 72
+subscribers: 13
+posts: 73
 comments: 2
-weight: 72
-dau: 1
-wau: 1
+weight: 73
+dau: 2
+wau: 2
 mau: 2
 instances:
 - "exploding-heads_com"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 72  |
+| Subscribers          | 13 |
+| Posts                | 73  |
 | Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-07 14:31:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

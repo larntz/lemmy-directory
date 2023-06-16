@@ -3,13 +3,13 @@ title: "Radiation"
 name: "radiation"
 description: "A community for ionizing radiation enthusiasts! Post here about collecting, equipment, science, and anything else related to ionizing radiation!Also check out these related communities:[!radioactive_rocks@sh.itjust.works](https://sh.itjust.works/c/radioactive_rocks) [!uraniumglass@lemmy.villa-straylight.social](https://lemmy.villa-straylight.social/c/uraniumglass)Join the discord server:https://www.discord.gg/dNHMmnW7Ny"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/radiation"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 35
 posts: 4
 comments: 15
 weight: 4
@@ -41,7 +41,7 @@ A community for ionizing radiation enthusiasts! Post here about collecting, equi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 35 |
 | Posts                | 4  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for ionizing radiation enthusiasts! Post here about collecting, equi
 |----------------------|---|
 | Published            | 2023-06-13 11:20:46 |
 | Updated              | 2023-06-16 10:29:23 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

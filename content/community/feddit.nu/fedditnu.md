@@ -3,7 +3,7 @@ title: "Feddit.nu"
 name: "fedditnu"
 description: "**Senaste nytt om Lemmy-instansen Feddit.nu!**Även meta-diskussioner om Feddit osv är välkommet här!"
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nu/c/fedditnu"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 15:45:54 |
 | Updated              | 2023-06-14 19:53:22 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

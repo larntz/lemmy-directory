@@ -3,19 +3,19 @@ title: "Austin Texas Community"
 name: "austin"
 description: "Austin Community news, resources, chat, and memesCurrently there are not smaller communities like classifieds or jobs like there was on Reddit, feel free to create any related communities and send me a message, I can link them here in the sidebar.  For now, let’s feel free to post any content, as long as it’s related to Austin or Texas in general.Rules1)\tBe kind.2)\tNo spam or gofundme type requests.3)\tNo racist or other prejudices allowed.  If you see these please report them.Currently we only have two mods, if you see something, please report the post using the three dots menu. If you would like to help moderate, please contact me: https://lemmy.world/u/netburnrRelated Communities [!texas@lemmy.world](https://lemmy.world/c/texas@lemmy.world)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/austin"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 181
-posts: 21
-comments: 80
-weight: 21
-dau: 6
-wau: 24
-mau: 24
+subscribers: 195
+posts: 22
+comments: 85
+weight: 22
+dau: 11
+wau: 33
+mau: 33
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Austin Community news, resources, chat, and memes<br>Currently there are not sma
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 181 |
-| Posts                | 21  |
-| Comments             | 80  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 24  |
+| Subscribers          | 195 |
+| Posts                | 22  |
+| Comments             | 85  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Austin Community news, resources, chat, and memes<br>Currently there are not sma
 |----------------------|---|
 | Published            | 2023-06-09 17:49:49 |
 | Updated              | 2023-06-13 01:28:55 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

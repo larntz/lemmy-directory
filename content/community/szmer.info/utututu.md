@@ -3,19 +3,19 @@ title: "Stalowe Rumaki"
 name: "utututu"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/utututu"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
-comments: 0
+comments: 2
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 2  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 11:00:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

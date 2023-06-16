@@ -3,13 +3,13 @@ title: "Politics"
 name: "politics"
 description: "For civil discussion of US politics.  Please be nice"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/politics"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 15
 posts: 7
 comments: 4
 weight: 7
@@ -41,7 +41,7 @@ For civil discussion of US politics.  Please be nice
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 15 |
 | Posts                | 7  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For civil discussion of US politics.  Please be nice
 |----------------------|---|
 | Published            | 2023-06-14 15:18:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

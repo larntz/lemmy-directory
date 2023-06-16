@@ -3,7 +3,7 @@ title: "MediumReadings"
 name: "mediumreadings"
 description: "A community designed for the mediums of Lemmy, and the people who require a connection with the departed.Sister subreddits: /Mediums/Psychic /PsychicReaders /ClairvoyantReadings [c/Tarot](https://lemmy.ml/c/tarot)"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mediumreadings"
@@ -54,4 +54,4 @@ A community designed for the mediums of Lemmy, and the people who require a conn
 |----------------------|---|
 | Published            | 2023-06-09 23:04:41 |
 | Updated              | 2023-06-09 23:06:16 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

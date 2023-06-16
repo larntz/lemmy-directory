@@ -3,7 +3,7 @@ title: "SteamVR"
 name: "steamvr"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steamvr"
@@ -13,9 +13,9 @@ subscribers: 10
 posts: 1
 comments: 3
 weight: 1
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ Description not available.
 | Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 16:04:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

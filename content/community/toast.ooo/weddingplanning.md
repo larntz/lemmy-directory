@@ -3,7 +3,7 @@ title: "Wedding Planning"
 name: "weddingplanning"
 description: "A community about wedding planning.  An alternative during the reddit blackout."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/weddingplanning"
@@ -11,7 +11,7 @@ host: toast.ooo
 lastmod: "{[ .Updated }}"
 subscribers: 1
 posts: 2
-comments: 11
+comments: 12
 weight: 2
 dau: 2
 wau: 2
@@ -43,7 +43,7 @@ A community about wedding planning.  An alternative during the reddit blackout.
 |----------------------|---|
 | Subscribers          | 1 |
 | Posts                | 2  |
-| Comments             | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ A community about wedding planning.  An alternative during the reddit blackout.
 |----------------------|---|
 | Published            | 2023-06-15 09:37:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:12 |

@@ -3,7 +3,7 @@ title: "Model Trains - the hobby and lifestyle."
 name: "modeltrains"
 description: "A place for photos, videos, and discussion of all things related to Model Trains!Share your work, share others work (with proper credit), ask questions. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modeltrains"
@@ -54,4 +54,4 @@ A place for photos, videos, and discussion of all things related to Model Trains
 |----------------------|---|
 | Published            | 2020-11-21 18:24:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,19 +3,19 @@ title: "backcountry"
 name: "backcountry"
 description: "For snow sports outside of the resorts.  This community includes back country skiing, snowboarding, telemarking and more.**Posting Guidelines**Anyone can comment or post regardless of their experience with snow sports in general.  We welcome all those who want to ask questions or share their adventures.**Safety**Always know your limits when going into the back country.If you are just getting started, [in-person avalanche training](https://avalanche.org/avalanche-courses/) is essential.Remember that anyone can post to this community regardless of experience so do your own research.**Books**Staying Alive in Avalanche Terrain by Bruce TremperBackcountry Skiing: Skills for Ski Touring and Ski Mountaineering by Martin Volken, Scott Schell, and Margaret WheelerAUTONOMY MASTERY AND PURPOSE in the Avalanche Patch, Bruce KayMountaineering the Freedom Of the Hills**Avalanche Forcasting Centers**[Colorado Avalanche Information Center](http://avalanche.state.co.us/index.php)[Northwest Weather and Avalanche Center](http://www.nwac.us/)[Sierra Avalanche Center](http://www.sierraavalanchecenter.org/)[Eastern Sierra Avalanche Center](http://esavalanche.org/)[Mount Shasta Avalanche Center](http://www.shastaavalanche.org/)[Alaska: Chugach Avalanche Center](http://cnfaic.org/)[Canada](http://www.avalanche.ca/cac/bulletins/latest)[Montana](http://www.mtavalanche.com/)[Sawtooth (Idaho)](http://www.sawtoothavalanche.com/)**General Avalanche Information**[US Forest Service Avalanche Center](http://www.fsavalanche.org/)[US Avalanche Center](http://www.avalanche.org/)[Canadian Avalanche Center](http://www.avalanche.ca/cac/)**Trip Planning and Mapping**[Hillmap](http://www.hillmap.com/)[Cal Topo](https://caltopo.com/)[GaiaGPS (non-free)](https://www.gaiagps.com)[Google Earth Pro (free)](https://www.google.com/earth/versions/#earth-pro)**Acknowledgement**A thank you to /u/pragmaticminimalist  and the /r/backcountry community on Reddit for supporting a great community for over 12 years.  Many of the links in this side bar come from /r/backcountry as they are good resources."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/backcountry"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 6
-comments: 5
-weight: 6
-dau: 2
-wau: 2
-mau: 2
+subscribers: 35
+posts: 7
+comments: 12
+weight: 7
+dau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For snow sports outside of the resorts.  This community includes back country sk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 35 |
+| Posts                | 7  |
+| Comments             | 12  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ For snow sports outside of the resorts.  This community includes back country sk
 |----------------------|---|
 | Published            | 2023-06-12 21:57:24 |
 | Updated              | 2023-06-15 01:47:41 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

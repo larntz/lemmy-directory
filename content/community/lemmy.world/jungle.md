@@ -1,21 +1,21 @@
 ---
 title: "Jungle" 
 name: "jungle"
-description: "Welcome Junglist to the lemmy.world jungle community! Jungle music discussions, posts and memes. Nearly everything goes, just a few simple rules.- Be respectful- No NSFW/NSFL content. - No hate speech of any kind- No personal attacks"
+description: "Welcome Junglist to the lemmy.world jungle community! Jungle music discussions, posts and memes. Nearly everything goes, just a few simple rules.- Be respectful- No NSFW/NSFL content. - No hate speech of any kind- No personal attacksOur Drum'n'Bass Music community: https://lemmy.world/c/drumandbassRadio stream:https://radio.dedkob.com/public/s0ur"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jungle"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 14
 comments: 5
 weight: 14
 dau: 3
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Welcome Junglist to the lemmy.world jungle community! <br>Jungle music discussions, posts and memes. Nearly everything goes, just a few simple rules.<br><br>- Be respectful<br>- No NSFW/NSFL content. <br>- No hate speech of any kind<br>- No personal attacks
+Welcome Junglist to the lemmy.world jungle community! <br>Jungle music discussions, posts and memes. Nearly everything goes, just a few simple rules.<br><br>- Be respectful<br>- No NSFW/NSFL content. <br>- No hate speech of any kind<br>- No personal attacks<br><br>Our Drum'n'Bass Music community: https://lemmy.world/c/drumandbass<br><br>Radio stream:<br>https://radio.dedkob.com/public/s0ur<br>
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Welcome Junglist to the lemmy.world jungle community! <br>Jungle music discussio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 14  |
 | Comments             | 5  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 21:30:54 |
-| Updated              | 2023-06-16 09:12:25 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Updated              | 2023-06-16 19:38:49 |
+| Last Scraped         | 2023-06-16 22:57:18 |

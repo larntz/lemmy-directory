@@ -3,19 +3,19 @@ title: "National Parks "
 name: "nationalparks"
 description: "National Parks and affiliated sites"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nationalparks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 275
+subscribers: 296
 posts: 16
 comments: 23
 weight: 16
-dau: 2
-wau: 8
-mau: 8
+dau: 1
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ National Parks and affiliated sites
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 275 |
+| Subscribers          | 296 |
 | Posts                | 16  |
 | Comments             | 23  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ National Parks and affiliated sites
 |----------------------|---|
 | Published            | 2023-06-11 22:34:35 |
 | Updated              | 2023-06-12 16:26:34 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

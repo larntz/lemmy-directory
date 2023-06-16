@@ -3,7 +3,7 @@ title: "Cryptography"
 name: "cryptography"
 description: "**cryptography** *(noun)*. The discipline concerned with communication security (eg, confidentiality of messages, integrity of messages, sender authentication, non-repudiation of messages, and many other related issues), regardless of the used medium such as pencil and paper or computers.This community is for links about and discussion of cryptography specifically. For privacy technology more generally, use [!privacy](https://lemmy.ml/c/privacy).This community is explicitly **not** about cryptocurrency; see [!crypto](https://lemmy.ml/c/crypto) for that."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptography"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-25 14:59:19 |
 | Updated              | 2022-03-02 17:43:39 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

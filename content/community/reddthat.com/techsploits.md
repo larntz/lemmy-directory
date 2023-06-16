@@ -3,16 +3,16 @@ title: "TechSploits"
 name: "techsploits"
 description: "All things relating to breaking tech, tech breaking, OSS, or hacking together software to perform something completely out of the ordinary, on purpose or by accident."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/techsploits"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 37
-posts: 12
+subscribers: 38
+posts: 14
 comments: 4
-weight: 12
+weight: 14
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ All things relating to breaking tech, tech breaking, OSS, or hacking together so
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 12  |
+| Subscribers          | 38 |
+| Posts                | 14  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ All things relating to breaking tech, tech breaking, OSS, or hacking together so
 |----------------------|---|
 | Published            | 2023-06-09 11:22:22 |
 | Updated              | 2023-06-09 12:22:18 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

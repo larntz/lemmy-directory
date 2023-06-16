@@ -3,13 +3,13 @@ title: "decentralized"
 name: "decentralized"
 description: "This is a community for the discussion and news about the decentralized web, software, privacy, and related topics. Rules: be a good human being"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/decentralized"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1517
+subscribers: 1521
 posts: 59
 comments: 133
 weight: 59
@@ -41,7 +41,7 @@ This is a community for the discussion and news about the decentralized web, sof
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1517 |
+| Subscribers          | 1521 |
 | Posts                | 59  |
 | Comments             | 133  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for the discussion and news about the decentralized web, sof
 |----------------------|---|
 | Published            | 2020-06-29 04:34:00 |
 | Updated              | 2021-01-28 16:37:53 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

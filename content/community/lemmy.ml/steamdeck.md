@@ -3,19 +3,19 @@ title: "Steam Deck"
 name: "steamdeck"
 description: "# [Order](https://store.steampowered.com/steamdeck)## Models##### 64GB eMMC* Carrying case##### 256GB NVMe SSD* Faster storage  * Carrying case  * Exclusive Steam Community profile bundle##### 512GBNVMe SSD* Fastest storage  * Premium anti-glare etched glass  * Exclusive carrying case  * Exclusive Steam Community profile bundle  * Exclusive virtual keyboard theme"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steamdeck"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1502
-posts: 71
-comments: 133
-weight: 71
-dau: 18
-wau: 50
-mau: 54
+subscribers: 1661
+posts: 74
+comments: 152
+weight: 74
+dau: 12
+wau: 62
+mau: 76
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1502 |
-| Posts                | 71  |
-| Comments             | 133  |
-| Daily Active Users   | 18  |
-| Weekly Active Users  | 50  |
-| Monthly Active Users | 54  |
+| Subscribers          | 1661 |
+| Posts                | 74  |
+| Comments             | 152  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 62  |
+| Monthly Active Users | 76  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-07-19 03:31:42 |
 | Updated              | 2023-06-13 14:12:38 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

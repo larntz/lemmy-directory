@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Test community"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/test"
@@ -13,9 +13,9 @@ subscribers: 12
 posts: 9
 comments: 20
 weight: 9
-dau: 3
-wau: 24
-mau: 26
+dau: 2
+wau: 25
+mau: 27
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -44,9 +44,9 @@ Test community
 | Subscribers          | 12 |
 | Posts                | 9  |
 | Comments             | 20  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 26  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ Test community
 |----------------------|---|
 | Published            | 2023-06-05 18:48:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

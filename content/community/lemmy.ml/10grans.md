@@ -3,7 +3,7 @@ title: "10grans"
 name: "10grans"
 description: "The only currency that supplies Friendship, Finance, & Fun all at the same time.https://10grans.cash/"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/10grans"
@@ -54,4 +54,4 @@ The only currency that supplies Friendship, Finance, & Fun all at the same time.
 |----------------------|---|
 | Published            | 2021-02-18 22:41:52 |
 | Updated              | 2021-02-18 22:47:58 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:45 |

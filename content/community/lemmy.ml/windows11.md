@@ -3,13 +3,13 @@ title: "Windows 11"
 name: "windows11"
 description: "All about Windows 11.- Installation- Troubleshooting- Enhancements- Security- Everything else"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/windows11"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 68
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ All about Windows 11.<br><br>- Installation<br>- Troubleshooting<br>- Enhancemen
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 68 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All about Windows 11.<br><br>- Installation<br>- Troubleshooting<br>- Enhancemen
 |----------------------|---|
 | Published            | 2021-10-23 04:26:54 |
 | Updated              | 2021-10-23 04:33:39 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:34 |

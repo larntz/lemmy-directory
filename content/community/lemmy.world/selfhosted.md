@@ -3,19 +3,19 @@ title: "Selfhosted"
 name: "selfhosted"
 description: "A place to share alternatives to popular online services that can be self-hosted without giving up privacy or locking you into a service you don't control.Resources:  * [awesome-selfhosted software](https://github.com/awesome-selfhosted/awesome-selfhosted)* [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) resources* [Self-Hosted Podcast from Jupiter Broadcasting](https://selfhosted.show)&gt; Any issues on the community? Report it using the report flag.&gt; Questions? DM the mods!"
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/selfhosted"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6393
-posts: 115
-comments: 2577
-weight: 115
-dau: 455
-wau: 905
-mau: 906
+subscribers: 7829
+posts: 138
+comments: 3247
+weight: 138
+dau: 314
+wau: 1343
+mau: 1349
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to share alternatives to popular online services that can be self-hosted
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6393 |
-| Posts                | 115  |
-| Comments             | 2577  |
-| Daily Active Users   | 455  |
-| Weekly Active Users  | 905  |
-| Monthly Active Users | 906  |
+| Subscribers          | 7829 |
+| Posts                | 138  |
+| Comments             | 3247  |
+| Daily Active Users   | 314  |
+| Weekly Active Users  | 1343  |
+| Monthly Active Users | 1349  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to share alternatives to popular online services that can be self-hosted
 |----------------------|---|
 | Published            | 2023-06-05 11:23:43 |
 | Updated              | 2023-06-12 13:21:50 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

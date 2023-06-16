@@ -3,16 +3,16 @@ title: "Games"
 name: "games"
 description: "Video game news oriented community.**Content.**1. News oriented content (general reviews allowed).2. Broad discussion posts (not specific to one game).3. No humor/memes etc..4. Try to post high quality content.5. No advertising.**Comments.**1. Be civil about arguments. No personal attacks.2. Obey instance rules.My goal is just to have a community where people can go and see what new game news is out for the day and comment on it. I don't want it to be purely discussion oriented either.**Other communities:**[Beehaw.org gaming](https://sh.itjust.works/c/gaming@beehaw.org )[Lemmy.ml gaming](https://sh.itjust.works/c/gaming@lemmy.ml)[lemmy.ca pcgaming](https://sh.itjust.works/c/pcgaming@lemmy.ca)"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/games"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2345
-posts: 198
-comments: 323
-weight: 198
+subscribers: 2518
+posts: 218
+comments: 386
+weight: 218
 dau: 49
 wau: 83
 mau: 83
@@ -41,9 +41,9 @@ Video game news oriented community.<br><br>**Content.**<br>1. News oriented cont
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2345 |
-| Posts                | 198  |
-| Comments             | 323  |
+| Subscribers          | 2518 |
+| Posts                | 218  |
+| Comments             | 386  |
 | Daily Active Users   | 49  |
 | Weekly Active Users  | 83  |
 | Monthly Active Users | 83  |
@@ -54,4 +54,4 @@ Video game news oriented community.<br><br>**Content.**<br>1. News oriented cont
 |----------------------|---|
 | Published            | 2023-06-10 06:44:34 |
 | Updated              | 2023-06-13 18:08:20 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

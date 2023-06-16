@@ -3,13 +3,13 @@ title: "Nachdenkseiten die kritische Webseite"
 name: "nachdenkseiten"
 description: "Politik Kritisch/ehrlich betrachtetGlaube nicht alles was du liesstFrage nachStelle kritische Fragen etc.Buch von Albrecht Müller sehr empfehlenswert.  "
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nachdenkseiten"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Politik Kritisch/ehrlich betrachtet<br>Glaube nicht alles was du liesst<br>Frage
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Politik Kritisch/ehrlich betrachtet<br>Glaube nicht alles was du liesst<br>Frage
 |----------------------|---|
 | Published            | 2022-09-27 07:39:52 |
 | Updated              | 2022-12-05 16:43:37 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

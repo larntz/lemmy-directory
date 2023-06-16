@@ -3,7 +3,7 @@ title: "Phillies"
 name: "phillies"
 description: "Cloned from [r/Phillies](https://old.reddit.com/r/Phillies)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/phillies"
@@ -54,4 +54,4 @@ Cloned from [r/Phillies](https://old.reddit.com/r/Phillies)<br><br># Looking for
 |----------------------|---|
 | Published            | 2023-06-09 17:20:15 |
 | Updated              | 2023-06-12 16:50:16 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

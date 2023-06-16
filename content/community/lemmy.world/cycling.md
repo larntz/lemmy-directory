@@ -3,13 +3,13 @@ title: "cycling"
 name: "cycling"
 description: "a community to discuss all things cycling related"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cycling"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 42
 posts: 1
 comments: 6
 weight: 1
@@ -41,7 +41,7 @@ a community to discuss all things cycling related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 42 |
 | Posts                | 1  |
 | Comments             | 6  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ a community to discuss all things cycling related
 |----------------------|---|
 | Published            | 2023-06-10 18:22:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

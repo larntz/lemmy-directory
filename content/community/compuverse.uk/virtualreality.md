@@ -3,7 +3,7 @@ title: "VR / Virtual Reality"
 name: "virtualreality"
 description: "A community for all things VR!Vive, Oculus / Meta, Index, and even Apple Vision"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/virtualreality"
@@ -54,4 +54,4 @@ A community for all things VR!<br>Vive, Oculus / Meta, Index, and even Apple Vis
 |----------------------|---|
 | Published            | 2023-06-08 20:22:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

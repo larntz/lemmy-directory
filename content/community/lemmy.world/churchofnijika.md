@@ -3,16 +3,16 @@ title: "ChurchOfNijika"
 name: "churchofnijika"
 description: "Dorito fans assemble"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofnijika"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 3
+posts: 5
 comments: 0
-weight: 3
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Dorito fans assemble
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 3  |
+| Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Dorito fans assemble
 |----------------------|---|
 | Published            | 2023-06-13 04:51:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,19 +3,19 @@ title: "Lemmy Wishlist"
 name: "lemmy_wishlist"
 description: "A community for discussing other communities that you wish existed. Which topics do you want to see discussed on Lemmy going forward?"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lemmy_wishlist"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ A community for discussing other communities that you wish existed. Which topics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussing other communities that you wish existed. Which topics
 |----------------------|---|
 | Published            | 2023-06-15 21:46:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

@@ -3,7 +3,7 @@ title: "God's Test"
 name: "godstest"
 description: "here i test shitlink to this:[metal community](/c/motorhead@lemmy.world)"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/godstest"
@@ -54,4 +54,4 @@ here i test shit<br><br>link to this:<br><br>[metal community](/c/motorhead@lemm
 |----------------------|---|
 | Published            | 2023-06-11 18:22:45 |
 | Updated              | 2023-06-12 22:40:27 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

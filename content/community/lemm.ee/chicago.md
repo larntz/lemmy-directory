@@ -3,13 +3,13 @@ title: "Chicago"
 name: "chicago"
 description: "Welcome to the Lemmy community for Chicago, Illinois, USA."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/chicago"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Welcome to the Lemmy community for Chicago, Illinois, USA.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to the Lemmy community for Chicago, Illinois, USA.
 |----------------------|---|
 | Published            | 2023-06-13 18:14:45 |
 | Updated              | 2023-06-13 18:15:25 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

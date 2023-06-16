@@ -3,7 +3,7 @@ title: "解梦大师"
 name: "dream"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/dream"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-05 22:12:55 |
 | Updated              | 2023-05-06 12:43:41 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

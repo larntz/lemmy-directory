@@ -3,13 +3,13 @@ title: "A community of pirates, FOR pirates."
 name: "switchpirates"
 description: "Get information on everything revolving around piracy on the Nintendo Switch from apps, games, development, and support. That being said, if you enjoy a game and you have sufficient money consider supporting the developers by buying it :-) No one, anything posted here, or any content is endorsed, sponsored, or posted by, for, or on Nintendo's behalf. This subreddit and its content are entirely separate.Make sure to read the rules.* [Rules](https://archive.is/rcJ6x)* [FAQ](https://archive.is/20211003172049/https://old.reddit.com/r/SwitchPirates/wiki/faq)*  [Wiki](https://archive.is/z9ukN)* [Guide](https://rentry.org/switchhackingiseasy)"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/switchpirates"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 53
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Get information on everything revolving around piracy on the Nintendo Switch fro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 53 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Get information on everything revolving around piracy on the Nintendo Switch fro
 |----------------------|---|
 | Published            | 2023-06-10 20:50:14 |
 | Updated              | 2023-06-10 20:50:34 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

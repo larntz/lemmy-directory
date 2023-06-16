@@ -3,7 +3,7 @@ title: "Latinoamérica"
 name: "latinoamerica"
 description: "Un grupo para gente latina Pueden hablar en español, portugués o lo que les den la gana "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/latinoamerica"
@@ -54,4 +54,4 @@ Un grupo para gente latina <br><br>Pueden hablar en español, portugués o lo qu
 |----------------------|---|
 | Published            | 2023-06-15 05:47:09 |
 | Updated              | 2023-06-15 06:04:17 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

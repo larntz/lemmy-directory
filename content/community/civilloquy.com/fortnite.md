@@ -3,7 +3,7 @@ title: "Fortnite"
 name: "fortnite"
 description: "For discussion of Epic's popular game Fortnite"
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/fortnite"
@@ -54,4 +54,4 @@ For discussion of Epic's popular game Fortnite
 |----------------------|---|
 | Published            | 2023-06-15 02:20:17 |
 | Updated              | 2023-06-15 15:27:53 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

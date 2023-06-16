@@ -3,19 +3,19 @@ title: "Stable Diffusion"
 name: "stable_diffusion"
 description: "Discuss matters related to our favourite AI Art generation technologyAlso see* [Stable Diffusion Art](/c/share_your_art@lemmy.dbzer0.com) * [Stable Diffusion Anime](/c/share_anime_art@lemmy.dbzer0.com) "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/stable_diffusion"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 467
-posts: 36
-comments: 74
-weight: 36
-dau: 15
-wau: 41
-mau: 41
+subscribers: 588
+posts: 41
+comments: 86
+weight: 41
+dau: 16
+wau: 47
+mau: 47
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Discuss matters related to our favourite AI Art generation technology<br><br>Als
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 467 |
-| Posts                | 36  |
-| Comments             | 74  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 41  |
-| Monthly Active Users | 41  |
+| Subscribers          | 588 |
+| Posts                | 41  |
+| Comments             | 86  |
+| Daily Active Users   | 16  |
+| Weekly Active Users  | 47  |
+| Monthly Active Users | 47  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discuss matters related to our favourite AI Art generation technology<br><br>Als
 |----------------------|---|
 | Published            | 2023-06-09 21:49:21 |
 | Updated              | 2023-06-13 10:37:56 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

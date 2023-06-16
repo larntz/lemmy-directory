@@ -3,7 +3,7 @@ title: "Saqartvelo"
 name: "saqartvelo"
 description: "Community for Saqartvelo (Georgia).  Discussion can be in English or Georgian.  If anybody wants to help moderate it, let me know. I'm just interested in having a community on lemmy to discuss Georgia and anything happening there."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/saqartvelo"
@@ -54,4 +54,4 @@ Community for Saqartvelo (Georgia).  Discussion can be in English or Georgian.  
 |----------------------|---|
 | Published            | 2023-06-02 19:13:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:27 |

@@ -3,19 +3,19 @@ title: "France"
 name: "france"
 description: "La communauté pour la France et les français partout dans le monde"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/france"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 318
-posts: 43
-comments: 324
-weight: 43
-dau: 50
-wau: 54
-mau: 54
+subscribers: 349
+posts: 48
+comments: 413
+weight: 48
+dau: 46
+wau: 101
+mau: 101
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ La communauté pour la France et les français partout dans le monde
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 318 |
-| Posts                | 43  |
-| Comments             | 324  |
-| Daily Active Users   | 50  |
-| Weekly Active Users  | 54  |
-| Monthly Active Users | 54  |
+| Subscribers          | 349 |
+| Posts                | 48  |
+| Comments             | 413  |
+| Daily Active Users   | 46  |
+| Weekly Active Users  | 101  |
+| Monthly Active Users | 101  |
 
 <br>
 
@@ -54,4 +54,4 @@ La communauté pour la France et les français partout dans le monde
 |----------------------|---|
 | Published            | 2023-06-12 08:47:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

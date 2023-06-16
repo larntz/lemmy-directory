@@ -3,19 +3,19 @@ title: "Esotericism"
 name: "esotericism"
 description: "A community primarily dedicated to the study of Western Esotericism, which is based on Greek philosophy and Egyptian and Jewish mysticism from the Late Roman period through the Christian and Muslim periods and the modern times."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/esotericism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 21
 posts: 11
-comments: 0
+comments: 1
 weight: 11
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community primarily dedicated to the study of Western Esotericism, which is ba
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 21 |
 | Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community primarily dedicated to the study of Western Esotericism, which is ba
 |----------------------|---|
 | Published            | 2023-06-12 07:54:54 |
 | Updated              | 2023-06-12 08:56:29 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

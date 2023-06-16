@@ -3,16 +3,16 @@ title: "Québec Finance"
 name: "quebecfinance"
 description: "Venez discuter de tout ce qui touche la finance personnelle de près ou de loin avec d'autres québécois!"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/quebecfinance"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 75
-posts: 7
-comments: 29
-weight: 7
+subscribers: 79
+posts: 8
+comments: 30
+weight: 8
 dau: 2
 wau: 5
 mau: 6
@@ -41,9 +41,9 @@ Venez discuter de tout ce qui touche la finance personnelle de près ou de loin 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 7  |
-| Comments             | 29  |
+| Subscribers          | 79 |
+| Posts                | 8  |
+| Comments             | 30  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ Venez discuter de tout ce qui touche la finance personnelle de près ou de loin 
 |----------------------|---|
 | Published            | 2023-06-05 20:47:23 |
 | Updated              | 2023-06-14 19:35:57 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

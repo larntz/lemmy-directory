@@ -3,17 +3,17 @@ title: "Veterans"
 name: "veterans"
 description: "Veteran Community for lemmy.world, we hope to make ALL veterans feel welcome and accepted."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/veterans"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 16
 posts: 1
 comments: 16
 weight: 1
-dau: 3
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ Veteran Community for lemmy.world, we hope to make ALL veterans feel welcome and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 16 |
 | Posts                | 1  |
 | Comments             | 16  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Veteran Community for lemmy.world, we hope to make ALL veterans feel welcome and
 |----------------------|---|
 | Published            | 2023-06-13 12:34:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

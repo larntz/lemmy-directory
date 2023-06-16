@@ -3,15 +3,15 @@ title: "Selfhosted"
 name: "selfhosted"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/selfhosted"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 21
 posts: 2
-comments: 3
+comments: 10
 weight: 2
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 21 |
 | Posts                | 2  |
-| Comments             | 3  |
+| Comments             | 10  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 08:49:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

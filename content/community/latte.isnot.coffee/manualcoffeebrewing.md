@@ -3,16 +3,16 @@ title: "Manual Coffee Brewing"
 name: "manualcoffeebrewing"
 description: "v60, French Press, Moka Pot, Aeropress. Anything Manual Brewing here!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/manualcoffeebrewing"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 0
-comments: 0
-weight: 0
+subscribers: 3
+posts: 1
+comments: 2
+weight: 1
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ v60, French Press, Moka Pot, Aeropress. Anything Manual Brewing here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
+| Subscribers          | 3 |
+| Posts                | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ v60, French Press, Moka Pot, Aeropress. Anything Manual Brewing here!
 |----------------------|---|
 | Published            | 2023-06-16 01:15:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

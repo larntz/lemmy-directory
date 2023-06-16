@@ -1,19 +1,19 @@
 ---
 title: "San Diego" 
 name: "sandiego"
-description: "All things related to America's Finest City, San Diego California, as well as surrounding areasAlso check out:* [/c/california](https://lemmy.ml/c/california)* [/c/padres](https://lemmy.ml/c/padres)"
+description: "All things related to America's Finest City, San Diego California, as well as surrounding areas.Also check out:* [!california@lemmy.ml](https://lemmy.ml/c/california)* [!padres@lemmy.ml](https://lemmy.ml/c/padres)* [!escondido@lemmy.sdf.org](https://lemmy.sdf.org/c/escondido)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sandiego"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 5
+subscribers: 21
+posts: 6
 comments: 1
-weight: 5
-dau: 2
+weight: 6
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-All things related to America's Finest City, San Diego California, as well as surrounding areas<br><br>Also check out:<br>* [/c/california](https://lemmy.ml/c/california)<br>* [/c/padres](https://lemmy.ml/c/padres)
+All things related to America's Finest City, San Diego California, as well as surrounding areas.<br><br>Also check out:<br>* [!california@lemmy.ml](https://lemmy.ml/c/california)<br>* [!padres@lemmy.ml](https://lemmy.ml/c/padres)<br>* [!escondido@lemmy.sdf.org](https://lemmy.sdf.org/c/escondido)
 </blockquote>
 
 
@@ -41,10 +41,10 @@ All things related to America's Finest City, San Diego California, as well as su
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 5  |
+| Subscribers          | 21 |
+| Posts                | 6  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -53,5 +53,5 @@ All things related to America's Finest City, San Diego California, as well as su
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-04 19:11:22 |
-| Updated              | 2023-06-04 20:32:06 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Updated              | 2023-06-16 22:49:17 |
+| Last Scraped         | 2023-06-16 22:57:20 |

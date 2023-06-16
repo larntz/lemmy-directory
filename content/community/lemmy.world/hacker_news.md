@@ -3,7 +3,7 @@ title: "hacker_news"
 name: "hacker_news"
 description: "hacker_news"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hacker_news"
@@ -54,4 +54,4 @@ hacker_news
 |----------------------|---|
 | Published            | 2023-06-15 04:29:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

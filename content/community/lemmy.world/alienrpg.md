@@ -3,7 +3,7 @@ title: "Alien RPG"
 name: "alienrpg"
 description: "The place for anything related to the tabletop game Alien RPG by Free League Publishing**Rules** 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. 2    Be respectful, especially when disagreeing. Everyone should feel welcome here.3    No porn.4    No Ads / Spamming."
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alienrpg"
@@ -54,4 +54,4 @@ The place for anything related to the tabletop game Alien RPG by Free League Pub
 |----------------------|---|
 | Published            | 2023-06-11 07:57:29 |
 | Updated              | 2023-06-11 11:30:46 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

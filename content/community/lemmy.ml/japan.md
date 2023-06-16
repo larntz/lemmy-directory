@@ -3,16 +3,16 @@ title: "Japan 日本"
 name: "japan"
 description: "# Japan----Community dedicated to discuss everything related to Japan. Its culture, its language, its politics and its people.----#### Rules:1. Posts must be in Japanese or in English.2. Add a flair in the title of every post.**List of flairs:**    [News] [Culture] [Discussion]    [Question] [Request] [Guide]----# 日本----日本に関するあらゆることを議論するためのコミュニティです。日本の文化、言語、政治、人々。----#### ルールです。1. 投稿は日本語か英語でお願いします。2. 2.すべての投稿のタイトルにフレアを入れてください。**フレアのリスト：**。    [ニュース] [カルチャー] [ディスカッション]    [質問] [リクエスト] [ガイド]"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japan"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 86
-posts: 24
+subscribers: 89
+posts: 25
 comments: 15
-weight: 24
+weight: 25
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 24  |
+| Subscribers          | 89 |
+| Posts                | 25  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-06 16:35:40 |
 | Updated              | 2021-09-04 23:43:35 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,7 +3,7 @@ title: "Helvetet Community"
 name: "helvetet"
 description: "Helvetet Community"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/helvetet"
@@ -54,4 +54,4 @@ Helvetet Community
 |----------------------|---|
 | Published            | 2023-02-25 14:34:23 |
 | Updated              | 2023-06-15 22:13:35 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

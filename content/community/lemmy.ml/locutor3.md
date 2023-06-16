@@ -3,7 +3,7 @@ title: "Locutor"
 name: "locutor3"
 description: "Locutor de https://www.locutortv.es/index_voiceoversspanish.htm "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/locutor3"
@@ -54,4 +54,4 @@ Locutor de https://www.locutortv.es/index_voiceoversspanish.htm
 |----------------------|---|
 | Published            | 2020-04-10 17:06:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

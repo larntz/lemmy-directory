@@ -3,13 +3,13 @@ title: "shitty sysadmin"
 name: "shitty_sysadmin"
 description: "for sysadmins who don't know what they're doing, and don't care."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/shitty_sysadmin"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 134
+subscribers: 138
 posts: 2
 comments: 9
 weight: 2
@@ -41,7 +41,7 @@ for sysadmins who don't know what they're doing, and don't care.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
+| Subscribers          | 138 |
 | Posts                | 2  |
 | Comments             | 9  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ for sysadmins who don't know what they're doing, and don't care.
 |----------------------|---|
 | Published            | 2023-06-12 02:04:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

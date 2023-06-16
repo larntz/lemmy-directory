@@ -3,16 +3,16 @@ title: "Logiciels - découvertes et partages"
 name: "logiciels"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/logiciels"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
 subscribers: 12
-posts: 14
+posts: 9
 comments: 0
-weight: 14
+weight: 9
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 12 |
-| Posts                | 14  |
+| Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-12-08 23:42:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

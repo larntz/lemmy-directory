@@ -3,7 +3,7 @@ title: "Carbon Capture"
 name: "co2capture"
 description: "Carbon capture technology of all types. We need them all. It's a bit of a negative community."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/co2capture"
@@ -54,4 +54,4 @@ Carbon capture technology of all types. We need them all. It's a bit of a negati
 |----------------------|---|
 | Published            | 2023-06-10 16:39:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,19 +3,19 @@ title: "Horror Movies"
 name: "horrormovies"
 description: "A place for horror fans to discuss and share news about current, classic, and upcoming horror movies! (TV shows and any other sort of audio-visual horror media are acceptable as well!)SERIOUS PART: Debate and personal opinions are allowed. Bigotry, trolling, and discrimination toward others are not. m/"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/horrormovies"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 54
 posts: 3
-comments: 3
+comments: 4
 weight: 3
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place for horror fans to discuss and share news about current, classic, and up
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 54 |
 | Posts                | 3  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for horror fans to discuss and share news about current, classic, and up
 |----------------------|---|
 | Published            | 2023-06-11 07:29:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

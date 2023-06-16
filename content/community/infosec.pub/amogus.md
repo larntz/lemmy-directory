@@ -3,7 +3,7 @@ title: "Amogus ඞඞඞ"
 name: "amogus"
 description: "When the Lemmy community is SUS 😳"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/amogus"
@@ -54,4 +54,4 @@ When the Lemmy community is SUS 😳
 |----------------------|---|
 | Published            | 2023-06-07 15:26:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

@@ -3,7 +3,7 @@ title: "Audio Drama"
 name: "audiodrama"
 description: "A community to discuss audio drama in all its various forms. All types of fictional storytelling are welcome here. Audio drama creators are highly encouraged to promote and link to their productions."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/audiodrama"
@@ -14,8 +14,8 @@ posts: 2
 comments: 0
 weight: 2
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ A community to discuss audio drama in all its various forms. All types of fictio
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss audio drama in all its various forms. All types of fictio
 |----------------------|---|
 | Published            | 2023-06-15 00:59:55 |
 | Updated              | 2023-06-15 02:29:54 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

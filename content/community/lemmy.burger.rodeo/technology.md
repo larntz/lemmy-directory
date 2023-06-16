@@ -3,17 +3,17 @@ title: "Technology News"
 name: "technology"
 description: "News about technology including science, engineering, companies, and gaming. Please post links to articles (preferably not paywalled).Must be relatively recent articles."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/technology"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 41
 posts: 9
 comments: 28
 weight: 9
-dau: 3
+dau: 2
 wau: 11
 mau: 11
 instances:
@@ -41,10 +41,10 @@ News about technology including science, engineering, companies, and gaming. Ple
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 41 |
 | Posts                | 9  |
 | Comments             | 28  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 11  |
 
@@ -54,4 +54,4 @@ News about technology including science, engineering, companies, and gaming. Ple
 |----------------------|---|
 | Published            | 2023-06-09 19:59:48 |
 | Updated              | 2023-06-13 19:13:03 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

@@ -3,7 +3,7 @@ title: "War Thunder"
 name: "war_thunder"
 description: "For the video game War Thunder "
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/war_thunder"
@@ -11,9 +11,9 @@ host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
 subscribers: 6
 posts: 2
-comments: 1
+comments: 2
 weight: 2
-dau: 1
+dau: 2
 wau: 2
 mau: 2
 instances:
@@ -43,8 +43,8 @@ For the video game War Thunder
 |----------------------|---|
 | Subscribers          | 6 |
 | Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ For the video game War Thunder
 |----------------------|---|
 | Published            | 2023-06-12 21:51:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

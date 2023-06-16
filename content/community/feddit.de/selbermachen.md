@@ -3,13 +3,13 @@ title: "selbermachen"
 name: "selbermachen"
 description: "Für Heimwerker und die, die es noch werden wollen. **Disclaimer**Strom ist nicht nur Farbe auf Farbe, bitte im Zweifelsfall einen Elektriker fragen.**Bildrechte**Headerbild unter CC0 via  [Pixabay](https://www.pexels.com/de-de/foto/schwarzer-klauenhammer-auf-brauner-holzplanke-209235/)Icon unter CC via [Yuri Kim](https://www.pexels.com/de-de/foto/mann-der-graue-pfeife-tragt-585419/)"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/selbermachen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 60
 posts: 2
 comments: 11
 weight: 2
@@ -41,7 +41,7 @@ Für Heimwerker und die, die es noch werden wollen. <br><br>**Disclaimer**<br>St
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 60 |
 | Posts                | 2  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Für Heimwerker und die, die es noch werden wollen. <br><br>**Disclaimer**<br>St
 |----------------------|---|
 | Published            | 2023-06-10 22:49:05 |
 | Updated              | 2023-06-12 13:37:54 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

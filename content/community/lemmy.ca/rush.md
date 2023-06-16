@@ -3,13 +3,13 @@ title: "Rush"
 name: "rush"
 description: "News & discussion about the Canadian Prog Rock band Rush"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rush"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ News & discussion about the Canadian Prog Rock band Rush
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ News & discussion about the Canadian Prog Rock band Rush
 |----------------------|---|
 | Published            | 2023-06-13 22:57:30 |
 | Updated              | 2023-06-14 00:58:11 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

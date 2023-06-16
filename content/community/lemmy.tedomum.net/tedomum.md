@@ -3,19 +3,19 @@ title: "Tedomum"
 name: "tedomum"
 description: "Tout sur Tedomum."
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/tedomum"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
 subscribers: 31
-posts: 35
+posts: 12
 comments: 16
-weight: 35
-dau: 1
-wau: 1
-mau: 2
+weight: 12
+dau: 2
+wau: 2
+mau: 4
 instances:
 - "lemmy_tedomum_net"
 tags: 
@@ -42,11 +42,11 @@ Tout sur Tedomum.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 31 |
-| Posts                | 35  |
+| Posts                | 12  |
 | Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Tout sur Tedomum.
 |----------------------|---|
 | Published            | 2020-08-05 22:34:45 |
 | Updated              | 2020-08-09 22:44:30 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

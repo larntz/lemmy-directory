@@ -3,17 +3,17 @@ title: "Esperanto"
 name: "esperanto"
 description: "Lemmy-komunumo por Esperantistoj"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/esperanto"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 3
 weight: 1
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Lemmy-komunumo por Esperantistoj
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Lemmy-komunumo por Esperantistoj
 |----------------------|---|
 | Published            | 2023-06-12 15:13:21 |
 | Updated              | 2023-06-12 15:16:45 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

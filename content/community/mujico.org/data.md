@@ -3,7 +3,7 @@ title: "Data"
 name: "data"
 description: "Estadísticas, análisis y visualización de datos."
 type: community
-date: "2023-06-16 11:05:45"
+date: "2023-06-16 22:55:40"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/data"
@@ -54,4 +54,4 @@ Estadísticas, análisis y visualización de datos.
 |----------------------|---|
 | Published            | 2022-09-04 17:42:20 |
 | Updated              | 2022-09-04 17:51:04 |
-| Last Scraped         | 2023-06-16 11:05:45 |
+| Last Scraped         | 2023-06-16 22:55:40 |

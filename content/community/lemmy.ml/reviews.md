@@ -3,7 +3,7 @@ title: "REVIEWS -  post your 'hardware, tech related, gadgets' review freely"
 name: "reviews"
 description: "A place where you can post reviews about something you purchased (a power bank? a phone? a toothbrush? a flashlight?)- ONLY physically related items (not software, films, books ...)- referral links allowed- no sexual toys or similar things"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reviews"
@@ -54,4 +54,4 @@ A place where you can post reviews about something you purchased (a power bank? 
 |----------------------|---|
 | Published            | 2022-03-09 00:32:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

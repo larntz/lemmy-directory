@@ -3,13 +3,13 @@ title: "Confessions"
 name: "confessions"
 description: "Alternative r/sluttyconfessions. Posts must be text posts confessing slutty events in your life. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/confessions"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Alternative r/sluttyconfessions. Posts must be text posts confessing slutty even
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Alternative r/sluttyconfessions. Posts must be text posts confessing slutty even
 |----------------------|---|
 | Published            | 2023-06-15 04:27:46 |
 | Updated              | 2023-06-15 04:28:45 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

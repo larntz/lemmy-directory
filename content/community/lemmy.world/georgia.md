@@ -3,13 +3,13 @@ title: "Georgia"
 name: "georgia"
 description: "This is a community for content related to the State of Georgia. News, pictures, events, and general discussion are welcome. "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/georgia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ This is a community for content related to the State of Georgia. News, pictures,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for content related to the State of Georgia. News, pictures,
 |----------------------|---|
 | Published            | 2023-06-11 19:07:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

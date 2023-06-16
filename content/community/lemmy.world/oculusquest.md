@@ -3,13 +3,13 @@ title: "OculusQuest"
 name: "oculusquest"
 description: "Created in case we need a lifeboat from Reddit. Welcome, Oculus fans!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oculusquest"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Created in case we need a lifeboat from Reddit. Welcome, Oculus fans!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Created in case we need a lifeboat from Reddit. Welcome, Oculus fans!
 |----------------------|---|
 | Published            | 2023-06-11 01:58:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

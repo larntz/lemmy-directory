@@ -3,19 +3,19 @@ title: "fediverse"
 name: "fediverse"
 description: "A community to talk about the fediverse and new ideas for it, or just for fun and randomness too."
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://u.fail/c/fediverse"
 host: u.fail
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 42
 posts: 7
-comments: 42
+comments: 45
 weight: 7
-dau: 13
-wau: 23
-mau: 23
+dau: 4
+wau: 24
+mau: 24
 instances:
 - "u_fail"
 tags: 
@@ -41,12 +41,12 @@ A community to talk about the fediverse and new ideas for it, or just for fun an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 42 |
 | Posts                | 7  |
-| Comments             | 42  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 23  |
+| Comments             | 45  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 24  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to talk about the fediverse and new ideas for it, or just for fun an
 |----------------------|---|
 | Published            | 2023-06-14 17:03:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

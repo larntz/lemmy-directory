@@ -3,7 +3,7 @@ title: "Reds"
 name: "reds"
 description: "Cloned from [r/Reds](https://old.reddit.com/r/Reds)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/reds"
@@ -54,4 +54,4 @@ Cloned from [r/Reds](https://old.reddit.com/r/Reds)<br><br># Looking for mods!
 |----------------------|---|
 | Published            | 2023-06-09 17:17:29 |
 | Updated              | 2023-06-12 16:36:34 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

@@ -3,13 +3,13 @@ title: "Shoplifting "
 name: "shoplifting"
 description: "No big retail shills"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shoplifting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 4
 comments: 8
 weight: 4
@@ -41,7 +41,7 @@ No big retail shills
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 4  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ No big retail shills
 |----------------------|---|
 | Published            | 2022-03-25 11:06:34 |
 | Updated              | 2022-06-06 18:34:28 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:27 |

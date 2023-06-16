@@ -3,17 +3,17 @@ title: "VaporVinyl"
 name: "vaporvinyl"
 description: "Are you a fan of Vaporwave music on vinyl? We welcome and encourage any updates on new releases, as well as sub-genres like future funk and mallsoft. Limited releases can be hard to come by, so sharing news about them can be a real help to fellow fans looking to add to their collections. Let's keep the Vaporwave vinyl community thriving!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vaporvinyl"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 4
+subscribers: 22
+posts: 5
 comments: 2
-weight: 4
-dau: 2
+weight: 5
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Are you a fan of Vaporwave music on vinyl? We welcome and encourage any updates 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 4  |
+| Subscribers          | 22 |
+| Posts                | 5  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Are you a fan of Vaporwave music on vinyl? We welcome and encourage any updates 
 |----------------------|---|
 | Published            | 2023-06-11 23:15:41 |
 | Updated              | 2023-06-11 23:29:26 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

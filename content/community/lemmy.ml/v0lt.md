@@ -3,7 +3,7 @@ title: "V0LT"
 name: "v0lt"
 description: "Welcome to  [V0LT](https://v0lttech.com), a platform of privacy respecting, open source software, services, and other media. This community is for all content, questions, and discussions surrounding V0LT."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/v0lt"
@@ -54,4 +54,4 @@ Welcome to  [V0LT](https://v0lttech.com), a platform of privacy respecting, open
 |----------------------|---|
 | Published            | 2020-08-30 16:23:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

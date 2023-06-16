@@ -3,7 +3,7 @@ title: "Iran"
 name: "iran"
 description: "All things Iran-related!"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iran"
@@ -54,4 +54,4 @@ All things Iran-related!
 |----------------------|---|
 | Published            | 2020-05-03 18:35:48 |
 | Updated              | 2022-07-17 06:19:58 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:21 |

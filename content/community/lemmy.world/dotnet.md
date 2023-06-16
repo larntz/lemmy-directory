@@ -3,17 +3,17 @@ title: ".NET Programming"
 name: "dotnet"
 description: ".NET Programming "
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dotnet"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 43
-posts: 4
+subscribers: 55
+posts: 6
 comments: 2
-weight: 4
-dau: 2
+weight: 6
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 4  |
+| Subscribers          | 55 |
+| Posts                | 6  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 06:53:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:16 |

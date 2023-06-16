@@ -3,7 +3,7 @@ title: "link from null_radix "
 name: "null_links"
 description: " ▚▞▜▛▟▓▛▜░▙▟▒▋▌▊  Link that I have read or think I should read.   ▚▞▜▛▟▓▛▜░▙▟▒▋▌▊"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/null_links"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-04 15:55:10 |
 | Updated              | 2021-05-16 12:20:28 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

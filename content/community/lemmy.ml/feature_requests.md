@@ -3,7 +3,7 @@ title: "Feature Requests"
 name: "feature_requests"
 description: "Use this space to let the Lemmy developers know the kinds of features you'd like to see in future versions!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/feature_requests"
@@ -54,4 +54,4 @@ Use this space to let the Lemmy developers know the kinds of features you'd like
 |----------------------|---|
 | Published            | 2020-02-16 22:38:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

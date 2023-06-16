@@ -3,7 +3,7 @@ title: "Garmin Watches"
 name: "garminwatches"
 description: "Discussions and News about Garmin watches and sensors."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/garminwatches"
@@ -54,4 +54,4 @@ Discussions and News about Garmin watches and sensors.
 |----------------------|---|
 | Published            | 2023-06-12 22:11:44 |
 | Updated              | 2023-06-12 22:15:33 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

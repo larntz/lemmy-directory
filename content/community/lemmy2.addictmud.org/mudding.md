@@ -3,7 +3,7 @@ title: "MUDding"
 name: "mudding"
 description: "General Mudding discussions."
 type: community
-date: "2023-06-16 11:06:07"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy2.addictmud.org/c/mudding"
@@ -54,4 +54,4 @@ General Mudding discussions.
 |----------------------|---|
 | Published            | 2023-06-08 00:12:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:07 |
+| Last Scraped         | 2023-06-16 22:56:09 |

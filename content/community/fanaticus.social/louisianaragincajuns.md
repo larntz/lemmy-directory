@@ -3,7 +3,7 @@ title: "Louisiana Ragin’ Cajuns"
 name: "louisianaragincajuns"
 description: "A community to discuss Louisiana Ragin’ Cajuns athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/louisianaragincajuns"
@@ -54,4 +54,4 @@ A community to discuss Louisiana Ragin’ Cajuns athletics.<br><br>**Looking for
 |----------------------|---|
 | Published            | 2023-06-15 22:38:29 |
 | Updated              | 2023-06-15 22:38:48 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

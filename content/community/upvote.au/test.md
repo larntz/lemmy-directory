@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Just a test"
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://upvote.au/c/test"
@@ -54,4 +54,4 @@ Just a test
 |----------------------|---|
 | Published            | 2023-06-14 05:32:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

@@ -3,13 +3,13 @@ title: "Privacy"
 name: "privacy"
 description: "A community for Lemmy users interested in privacyRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/privacy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for Lemmy users interested in privacy<br><br>Rules:<br>1. Be civil<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for Lemmy users interested in privacy<br><br>Rules:<br>1. Be civil<b
 |----------------------|---|
 | Published            | 2023-06-13 14:04:27 |
 | Updated              | 2023-06-15 14:52:09 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

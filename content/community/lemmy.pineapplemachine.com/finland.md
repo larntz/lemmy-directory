@@ -3,7 +3,7 @@ title: "finland"
 name: "finland"
 description: "A place to share news about the Republic of Finland and to appreciate how exceptional of a place it is."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/finland"
@@ -54,4 +54,4 @@ A place to share news about the Republic of Finland and to appreciate how except
 |----------------------|---|
 | Published            | 2023-06-07 16:11:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

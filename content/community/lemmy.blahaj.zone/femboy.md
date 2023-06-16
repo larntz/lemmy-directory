@@ -3,7 +3,7 @@ title: "c/femboy"
 name: "femboy"
 description: "A SFW community for feminine boys, androgynous people, enbies, trans people, and anyone who identifies as a femboy!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/femboy"
@@ -54,4 +54,4 @@ A SFW community for feminine boys, androgynous people, enbies, trans people, and
 |----------------------|---|
 | Published            | 2023-06-13 17:31:09 |
 | Updated              | 2023-06-13 19:59:15 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

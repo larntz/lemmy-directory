@@ -3,13 +3,13 @@ title: "realme Community"
 name: "realme"
 description: "Welcome to /c/realme!This is a place for the Lemmy Community to discuss about realme smartphones, smartwatches, TVs, IoT products and more./c/realme is a fan community and is **not** associated or affiliated with BBK Electronics or its subsidiaries."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realme"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Welcome to /c/realme!<br><br>This is a place for the Lemmy Community to discuss 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to /c/realme!<br><br>This is a place for the Lemmy Community to discuss 
 |----------------------|---|
 | Published            | 2023-06-12 10:03:11 |
 | Updated              | 2023-06-14 09:17:55 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

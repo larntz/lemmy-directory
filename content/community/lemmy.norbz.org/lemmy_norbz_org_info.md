@@ -3,7 +3,7 @@ title: "lemmy.norbz.org Info"
 name: "lemmy_norbz_org_info"
 description: "Just some info on this Lemmy instance.  Mods only to post."
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.norbz.org/c/lemmy_norbz_org_info"
@@ -54,4 +54,4 @@ Just some info on this Lemmy instance.  Mods only to post.
 |----------------------|---|
 | Published            | 2023-06-14 14:55:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:24 |

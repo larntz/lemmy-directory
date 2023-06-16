@@ -3,7 +3,7 @@ title: "Override Shutdown (a community for stompy robot games)"
 name: "override_shutdown"
 description: "This community is for talking about mech games. "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/override_shutdown"
@@ -54,4 +54,4 @@ This community is for talking about mech games.
 |----------------------|---|
 | Published            | 2023-06-10 16:53:47 |
 | Updated              | 2023-06-12 05:32:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

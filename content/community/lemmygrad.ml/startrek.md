@@ -3,19 +3,19 @@ title: "Star Trek"
 name: "startrek"
 description: "Space; the final frontier. These are the voyages of the Starship Lenin. Its continuing mission to explore strange new worlds, To seek out new life and new civilizations. To boldly go where no one has gone before!A community for all things star trek."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/startrek"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 335
-posts: 132
-comments: 289
-weight: 132
-dau: 1
+subscribers: 339
+posts: 133
+comments: 290
+weight: 133
+dau: 2
 wau: 4
-mau: 8
+mau: 9
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Space; the final frontier. These are the voyages of the Starship Lenin. Its cont
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 335 |
-| Posts                | 132  |
-| Comments             | 289  |
-| Daily Active Users   | 1  |
+| Subscribers          | 339 |
+| Posts                | 133  |
+| Comments             | 290  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
-| Monthly Active Users | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Space; the final frontier. These are the voyages of the Starship Lenin. Its cont
 |----------------------|---|
 | Published            | 2019-08-24 17:19:22 |
 | Updated              | 2022-04-15 05:18:49 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

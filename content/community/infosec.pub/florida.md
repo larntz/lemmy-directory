@@ -3,7 +3,7 @@ title: "The Florida Branch"
 name: "florida"
 description: "An infosec community for all of Florida. - News specific to the state? *Check*- Meetup coordination for regional groups? *Check*- Information for conferences? *Check*- Gator powered? *Check*"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/florida"
@@ -54,4 +54,4 @@ An infosec community for all of Florida. <br>- News specific to the state? *Chec
 |----------------------|---|
 | Published            | 2023-06-14 19:02:53 |
 | Updated              | 2023-06-14 19:08:21 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

@@ -3,13 +3,13 @@ title: "Rivian"
 name: "rivian"
 description: "A Lemmy community for Rivian news, discussion, and more."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rivian"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ A Lemmy community for Rivian news, discussion, and more.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A Lemmy community for Rivian news, discussion, and more.
 |----------------------|---|
 | Published            | 2023-06-10 03:12:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

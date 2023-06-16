@@ -3,13 +3,13 @@ title: "Club Hub"
 name: "club_hub"
 description: "The pipeline to populate other communities"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/club_hub"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 42
 posts: 12
 comments: 38
 weight: 12
@@ -41,7 +41,7 @@ The pipeline to populate other communities
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 42 |
 | Posts                | 12  |
 | Comments             | 38  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The pipeline to populate other communities
 |----------------------|---|
 | Published            | 2022-04-12 16:15:57 |
 | Updated              | 2022-04-15 20:31:23 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

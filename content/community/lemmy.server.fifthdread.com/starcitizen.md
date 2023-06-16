@@ -3,7 +3,7 @@ title: "Star Citizen"
 name: "starcitizen"
 description: "A Star Citizen community!"
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.server.fifthdread.com/c/starcitizen"
@@ -54,4 +54,4 @@ A Star Citizen community!
 |----------------------|---|
 | Published            | 2023-06-15 12:01:59 |
 | Updated              | 2023-06-15 12:57:44 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:21 |

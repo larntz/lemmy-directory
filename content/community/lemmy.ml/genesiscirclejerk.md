@@ -3,7 +3,7 @@ title: "genesiscirclejerk"
 name: "genesiscirclejerk"
 description: "All hail **We Can't Dance**! The GREATEST album of ALL TIME!!!!"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/genesiscirclejerk"
@@ -54,4 +54,4 @@ All hail **We Can't Dance**! The GREATEST album of ALL TIME!!!!
 |----------------------|---|
 | Published            | 2023-06-09 07:47:54 |
 | Updated              | 2023-06-13 06:40:47 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

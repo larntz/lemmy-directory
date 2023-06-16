@@ -3,7 +3,7 @@ title: "Porto"
 name: "porto"
 description: "Discover Porto: News and Debates about the City in the North of Portugal. In English or Portuguese"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/porto"
@@ -54,4 +54,4 @@ Discover Porto: News and Debates about the City in the North of Portugal. In Eng
 |----------------------|---|
 | Published            | 2023-06-07 07:33:48 |
 | Updated              | 2023-06-07 07:49:06 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

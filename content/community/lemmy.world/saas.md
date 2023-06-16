@@ -3,7 +3,7 @@ title: "SaaS"
 name: "saas"
 description: "discuss all things SaaS related"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/saas"
@@ -54,4 +54,4 @@ discuss all things SaaS related
 |----------------------|---|
 | Published            | 2023-06-13 01:19:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

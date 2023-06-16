@@ -3,18 +3,18 @@ title: "Be sure to read the rule before you leave"
 name: "moretankie196"
 description: "Rule 3: If you visit MoreTankie196, you are *contractually obliged* to post before you leave"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/moretankie196"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 478
-posts: 905
-comments: 3054
-weight: 905
-dau: 16
-wau: 83
+subscribers: 480
+posts: 901
+comments: 3048
+weight: 901
+dau: 8
+wau: 71
 mau: 123
 instances:
 - "lemmygrad_ml"
@@ -41,11 +41,11 @@ Rule 3: If you visit MoreTankie196, you are *contractually obliged* to post befo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 478 |
-| Posts                | 905  |
-| Comments             | 3054  |
-| Daily Active Users   | 16  |
-| Weekly Active Users  | 83  |
+| Subscribers          | 480 |
+| Posts                | 901  |
+| Comments             | 3048  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 71  |
 | Monthly Active Users | 123  |
 
 <br>
@@ -54,4 +54,4 @@ Rule 3: If you visit MoreTankie196, you are *contractually obliged* to post befo
 |----------------------|---|
 | Published            | 2022-03-04 21:18:16 |
 | Updated              | 2023-01-10 21:52:58 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

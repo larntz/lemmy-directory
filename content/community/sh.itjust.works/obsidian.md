@@ -3,13 +3,13 @@ title: "ObsidianMD"
 name: "obsidian"
 description: "Lovers of Obsidian, rejoice! This community is for discussing all matters related to Obsidian. Please join the conversation and seek to help one another out."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/obsidian"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 55
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Lovers of Obsidian, rejoice! This community is for discussing all matters relate
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 55 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Lovers of Obsidian, rejoice! This community is for discussing all matters relate
 |----------------------|---|
 | Published            | 2023-06-09 19:16:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

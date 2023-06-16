@@ -3,7 +3,7 @@ title: "Emulators"
 name: "emulators"
 description: "A place to talk about console emulators"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emulators"
@@ -54,4 +54,4 @@ A place to talk about console emulators
 |----------------------|---|
 | Published            | 2020-05-31 16:21:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

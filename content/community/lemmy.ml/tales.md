@@ -3,7 +3,7 @@ title: "facts & stories"
 name: "tales"
 description: "Here you can tell stories, facts and ask questions!HAVE FUN!"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tales"
@@ -54,4 +54,4 @@ Here you can tell stories, facts and ask questions!<br>HAVE FUN!
 |----------------------|---|
 | Published            | 2022-01-01 23:42:04 |
 | Updated              | 2022-01-01 23:42:42 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

@@ -3,7 +3,7 @@ title: "Nevada"
 name: "nevada"
 description: "This community is about Nevada and things occurring within it."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nevada"
@@ -54,4 +54,4 @@ This community is about Nevada and things occurring within it.
 |----------------------|---|
 | Published            | 2023-06-12 23:13:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Doujin Music"
 name: "doujinmusic"
 description: "A place to discuss and share Doujin music, including Touhou arrangements, J-Core, and more! Share your favorite songs, discuss upcoming events, and share resources.Useful links:- [Doujin Cafe discord server](https://discord.gg/doujincafe)- [Touhou Lossless Music Collection](https://www.tlmc.eu/)- [J-Core Collection](https://audioforyou.top/j-core-compilation/)Icon source (cirno): https://danbooru.donmai.us/posts/4846314"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/doujinmusic"
@@ -54,4 +54,4 @@ A place to discuss and share Doujin music, including Touhou arrangements, J-Core
 |----------------------|---|
 | Published            | 2023-06-12 21:01:36 |
 | Updated              | 2023-06-13 04:06:41 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

@@ -3,7 +3,7 @@ title: "Somerville, MA"
 name: "somerville_ma"
 description: "Welcome to /r/Somerville, a subreddit dedicated to news, photos, questions, or whatever else relevant to the Somerville, MA community."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/somerville_ma"
@@ -54,4 +54,4 @@ Welcome to /r/Somerville, a subreddit dedicated to news, photos, questions, or w
 |----------------------|---|
 | Published            | 2023-06-09 13:38:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

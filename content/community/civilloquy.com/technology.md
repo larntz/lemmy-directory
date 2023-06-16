@@ -3,7 +3,7 @@ title: "Technology"
 name: "technology"
 description: "For general discussion of technology###### See Also* [Codidact Power Users Q&A](https://powerusers.codidact.com/)* [!technology@beehaw.org](https://civilloquy.com/c/technology@beehaw.org)"
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/technology"
@@ -54,4 +54,4 @@ For general discussion of technology<br><br>###### See Also<br><br>* [Codidact P
 |----------------------|---|
 | Published            | 2023-06-12 03:31:13 |
 | Updated              | 2023-06-14 15:44:54 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

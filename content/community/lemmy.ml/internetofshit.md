@@ -3,7 +3,7 @@ title: "Internet of Shit"
 name: "internetofshit"
 description: "For your internet-enabled cat water dispensers and bluetooth-ready kettles."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/internetofshit"
@@ -54,4 +54,4 @@ For your internet-enabled cat water dispensers and bluetooth-ready kettles.
 |----------------------|---|
 | Published            | 2022-08-12 16:30:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

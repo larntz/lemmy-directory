@@ -3,7 +3,7 @@ title: "Libre Culture Memes"
 name: "libre_culture_memes"
 description: "You know exactly what this community is about. ( ͡° ͜ʖ ͡°)# **Rules*** **Please show common courtesy**Memes are meant to be enjoyed! * **Please keep posts generally on topic**Microsoft bad!"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libre_culture_memes"
@@ -54,4 +54,4 @@ You know exactly what this community is about. ( ͡° ͜ʖ ͡°)<br><br># **Rule
 |----------------------|---|
 | Published            | 2019-12-11 23:23:18 |
 | Updated              | 2019-12-12 04:06:15 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

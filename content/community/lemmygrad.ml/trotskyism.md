@@ -3,7 +3,7 @@ title: "Trotskyism"
 name: "trotskyism"
 description: "What Is Trotskyism?Trotskyism is not a new movement, a new doctrine, but the restoration, the revival, of genuine Marxism as it was expounded and practised in the Russian revolution and in the early days of the Communist International.— James P. Cannon (1944)"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/trotskyism"
@@ -54,4 +54,4 @@ What Is Trotskyism?<br><br>Trotskyism is not a new movement, a new doctrine, but
 |----------------------|---|
 | Published            | 2019-08-26 02:48:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

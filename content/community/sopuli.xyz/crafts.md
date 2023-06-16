@@ -3,13 +3,13 @@ title: "Crafts & Trades"
 name: "crafts"
 description: "For people with actual jobs"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/crafts"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ For people with actual jobs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For people with actual jobs
 |----------------------|---|
 | Published            | 2022-10-23 22:18:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

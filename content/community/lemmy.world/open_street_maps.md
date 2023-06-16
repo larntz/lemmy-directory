@@ -3,7 +3,7 @@ title: "Open Street Maps"
 name: "open_street_maps"
 description: "The community for OSM mappers and contributors 🗺 "
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/open_street_maps"
@@ -54,4 +54,4 @@ The community for OSM mappers and contributors 🗺
 |----------------------|---|
 | Published            | 2023-06-09 16:29:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:16 |

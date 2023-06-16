@@ -3,7 +3,7 @@ title: "A place for everything about the website generator Nift"
 name: "nift"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nift"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-10-20 16:43:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

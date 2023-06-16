@@ -3,19 +3,19 @@ title: "wolny internet"
 name: "wolnyinternet"
 description: "Wolny (jak w rewolucji) internet to podstawa współczesnej organizacji ruchów społecznych. Nie możemy pozwolić, żeby kontrola nad tym co i komu mówimy spoczywała w rękach korporacji.    Ta społeczność ma na celu dyskutowanie jasnych i ciemnych stron internetowej wolności. Tak alternatyw, jak i wyciągających się za nami korporacyjnych.  Z zakresu informatyki warto zajrzeć też do społeczności;- [cyberpunk](/c/dailycyberpunk)- [cyberbezpieczeństwo](/c/cyberbezpieczenstwo)- [hakt](/c/hakt) - [linux](/c/linux)- [programowanie](/c/programowanie) - [xmpp](/c/xmpp).Polecamy uwadze też przydatny [spis praktycznych Szmerowych techno-porad](https://szmer.info/post/2890)."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolnyinternet"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 319
+subscribers: 322
 posts: 792
 comments: 1563
 weight: 792
 dau: 1
 wau: 17
-mau: 30
+mau: 29
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ Wolny (jak w rewolucji) internet to podstawa współczesnej organizacji ruchów 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 319 |
+| Subscribers          | 322 |
 | Posts                | 792  |
 | Comments             | 1563  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 17  |
-| Monthly Active Users | 30  |
+| Monthly Active Users | 29  |
 
 <br>
 
@@ -54,4 +54,4 @@ Wolny (jak w rewolucji) internet to podstawa współczesnej organizacji ruchów 
 |----------------------|---|
 | Published            | 2020-10-09 14:41:41 |
 | Updated              | 2022-07-11 21:31:32 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

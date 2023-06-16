@@ -3,18 +3,18 @@ title: "Podcasts"
 name: "podcasts"
 description: "A place for all podcast lovers to come together and discuss the medium, find recommendations and talk about podcasts they have created."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/podcasts"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 53
+subscribers: 55
 posts: 7
 comments: 16
 weight: 7
 dau: 1
-wau: 8
+wau: 7
 mau: 10
 instances:
 - "slrpnk_net"
@@ -41,11 +41,11 @@ A place for all podcast lovers to come together and discuss the medium, find rec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
+| Subscribers          | 55 |
 | Posts                | 7  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ A place for all podcast lovers to come together and discuss the medium, find rec
 |----------------------|---|
 | Published            | 2023-06-08 14:23:26 |
 | Updated              | 2023-06-08 14:40:08 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

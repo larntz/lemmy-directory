@@ -3,7 +3,7 @@ title: "What Is This Bug? "
 name: "whatisthisbug"
 description: "What Is This Bug? Sonoran Desert and Sky Island edition!"
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/whatisthisbug"
@@ -54,4 +54,4 @@ What Is This Bug? Sonoran Desert and Sky Island edition!
 |----------------------|---|
 | Published            | 2023-06-12 06:17:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:16 |

@@ -3,7 +3,7 @@ title: "Character AI"
 name: "characterai"
 description: "Unofficial Community for character.ai"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/characterai"
@@ -54,4 +54,4 @@ Unofficial Community for character.ai
 |----------------------|---|
 | Published            | 2023-06-02 08:58:10 |
 | Updated              | 2023-06-02 21:09:20 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

@@ -3,7 +3,7 @@ title: "Facts"
 name: "facts"
 description: "Mind-Bending Facts: Expand Your Knowledge, Embrace the Unexpected!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/facts"
@@ -54,4 +54,4 @@ Mind-Bending Facts: Expand Your Knowledge, Embrace the Unexpected!
 |----------------------|---|
 | Published            | 2023-06-12 11:55:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,7 +3,7 @@ title: "Reviews in One Line"
 name: "onelinereviews"
 description: "Post simple, one line reviews of things you love or hate. It can be movies, shows, episodes, books, places, products, businesses, people, animals, anything goes."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onelinereviews"
@@ -14,8 +14,8 @@ posts: 2
 comments: 5
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ Post simple, one line reviews of things you love or hate. It can be movies, show
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post simple, one line reviews of things you love or hate. It can be movies, show
 |----------------------|---|
 | Published            | 2023-06-14 04:14:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -3,19 +3,19 @@ title: "lemmy.ml meta"
 name: "meta"
 description: "Anything about the lemmy.ml instance and its moderation. For discussion about the Lemmy software project, go to [!lemmy@lemmy.ml](https://lemmy.ml/c/lemmy)."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/meta"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 465
-posts: 42
-comments: 643
-weight: 42
-dau: 56
-wau: 182
-mau: 188
+subscribers: 481
+posts: 43
+comments: 656
+weight: 43
+dau: 17
+wau: 173
+mau: 217
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Anything about the lemmy.ml instance and its moderation. <br><br>For discussion 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 465 |
-| Posts                | 42  |
-| Comments             | 643  |
-| Daily Active Users   | 56  |
-| Weekly Active Users  | 182  |
-| Monthly Active Users | 188  |
+| Subscribers          | 481 |
+| Posts                | 43  |
+| Comments             | 656  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 173  |
+| Monthly Active Users | 217  |
 
 <br>
 
@@ -54,4 +54,4 @@ Anything about the lemmy.ml instance and its moderation. <br><br>For discussion 
 |----------------------|---|
 | Published            | 2021-06-14 22:50:50 |
 | Updated              | 2021-06-14 23:29:55 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

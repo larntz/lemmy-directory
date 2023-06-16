@@ -3,7 +3,7 @@ title: "cardinals"
 name: "cardinals"
 description: "For discussion of the St Louis Cardinals"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cardinals"
@@ -13,7 +13,7 @@ subscribers: 30
 posts: 10
 comments: 19
 weight: 10
-dau: 4
+dau: 1
 wau: 10
 mau: 10
 instances:
@@ -44,7 +44,7 @@ For discussion of the St Louis Cardinals
 | Subscribers          | 30 |
 | Posts                | 10  |
 | Comments             | 19  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 10  |
 | Monthly Active Users | 10  |
 
@@ -54,4 +54,4 @@ For discussion of the St Louis Cardinals
 |----------------------|---|
 | Published            | 2023-06-02 03:58:20 |
 | Updated              | 2023-06-10 16:31:19 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

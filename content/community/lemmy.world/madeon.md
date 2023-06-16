@@ -3,7 +3,7 @@ title: "Madeon"
 name: "madeon"
 description: "A community for discussion about the French DJ/Artist Madeon"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/madeon"
@@ -54,4 +54,4 @@ A community for discussion about the French DJ/Artist Madeon
 |----------------------|---|
 | Published            | 2023-06-11 11:04:19 |
 | Updated              | 2023-06-11 22:18:48 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

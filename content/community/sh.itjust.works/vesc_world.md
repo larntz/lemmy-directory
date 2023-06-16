@@ -3,16 +3,16 @@ title: "VESC, FloatWheel, OneWheel and co"
 name: "vesc_world"
 description: "A community to talk about our One Wheeled Boards."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vesc_world"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 1
-comments: 0
-weight: 1
+subscribers: 3
+posts: 2
+comments: 1
+weight: 2
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ A community to talk about our One Wheeled Boards.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 3 |
+| Posts                | 2  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ A community to talk about our One Wheeled Boards.
 |----------------------|---|
 | Published            | 2023-06-15 20:00:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

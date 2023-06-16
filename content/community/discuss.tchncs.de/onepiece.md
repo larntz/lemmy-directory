@@ -3,19 +3,19 @@ title: "One Piece"
 name: "onepiece"
 description: "Discussion of all Grand Line stuff, fanart and theories regarding Eiichiro Oda's anime One Piece.# Rules:1. *Topic*: Posts must be related to One Piece1. *Tags*: Lemmy doesn’t have tags yet, so please mark posts with [Episode/Chapter], [Fanart], [Question], [Discussion], [Theory] or others you may think are appropriate. e.g. [Theory, ep1/ch1]: this guy with the hat will be pirate king!1. *Spoilers*: No spoilers in titles, tag posts containing spoilers as such!1. *Behavior*: No spam, personal attacks, racism, sexism and any other discrimination (in short: don't be a jerk in any way - [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)).1. *Spam*: Please do not spam1. *NSFW*: Please refrain from posting NSFW/Hentai contentPlease DM the mod(s) if you see violations that are not handled in time."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/onepiece"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 66
-posts: 4
-comments: 20
-weight: 4
-dau: 5
-wau: 14
-mau: 14
+subscribers: 69
+posts: 5
+comments: 21
+weight: 5
+dau: 3
+wau: 15
+mau: 15
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Discussion of all Grand Line stuff, fanart and theories regarding Eiichiro Oda's
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
-| Posts                | 4  |
-| Comments             | 20  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 69 |
+| Posts                | 5  |
+| Comments             | 21  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion of all Grand Line stuff, fanart and theories regarding Eiichiro Oda's
 |----------------------|---|
 | Published            | 2023-06-11 10:21:34 |
 | Updated              | 2023-06-14 07:59:01 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

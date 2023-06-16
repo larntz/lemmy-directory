@@ -3,13 +3,13 @@ title: "Quake Champions"
 name: "quake_champions"
 description: "A community for Quake players and enthusiasts"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/quake_champions"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ A community for Quake players and enthusiasts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for Quake players and enthusiasts
 |----------------------|---|
 | Published            | 2023-06-12 15:43:50 |
 | Updated              | 2023-06-12 15:47:14 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

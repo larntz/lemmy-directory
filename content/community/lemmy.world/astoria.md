@@ -3,7 +3,7 @@ title: "Astoria"
 name: "astoria"
 description: "Astoria, Queens Community "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/astoria"
@@ -54,4 +54,4 @@ Astoria, Queens Community
 |----------------------|---|
 | Published            | 2023-06-13 18:26:34 |
 | Updated              | 2023-06-13 18:29:57 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

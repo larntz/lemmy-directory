@@ -3,13 +3,13 @@ title: "Develop the skills necessary to lead the people"
 name: "praxis"
 description: "This community is dedicated to the development of leadership skills"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/praxis"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 246
+subscribers: 247
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ This community is dedicated to the development of leadership skills
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 246 |
+| Subscribers          | 247 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community is dedicated to the development of leadership skills
 |----------------------|---|
 | Published            | 2019-09-11 04:44:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

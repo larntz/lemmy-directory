@@ -3,13 +3,13 @@ title: "minesweeper"
 name: "minesweeper"
 description: "A lemmy community for the logic puzzle game minesweeper."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minesweeper"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 18
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A lemmy community for the logic puzzle game minesweeper.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 18 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ A lemmy community for the logic puzzle game minesweeper.
 |----------------------|---|
 | Published            | 2023-06-10 11:40:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

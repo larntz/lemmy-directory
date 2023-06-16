@@ -3,7 +3,7 @@ title: "українська мова / po ukraińsku"
 name: "poukrainsku"
 description: "Społeczność do szerowania info, artykułów po ukraińsku, materiałów do nauki języka ukraińskiego. (Opis po ukraińsku wkrótce) "
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/poukrainsku"
@@ -54,4 +54,4 @@ Społeczność do szerowania info, artykułów po ukraińsku, materiałów do na
 |----------------------|---|
 | Published            | 2022-04-12 11:13:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

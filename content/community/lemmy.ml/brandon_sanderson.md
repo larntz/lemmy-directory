@@ -3,7 +3,7 @@ title: "Branson Sanderson"
 name: "brandon_sanderson"
 description: "A place to discuss all things related to fantasy author Brandon Sanderson."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brandon_sanderson"
@@ -54,4 +54,4 @@ A place to discuss all things related to fantasy author Brandon Sanderson.
 |----------------------|---|
 | Published            | 2023-06-13 11:31:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

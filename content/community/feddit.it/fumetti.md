@@ -3,7 +3,7 @@ title: "Fumetti"
 name: "fumetti"
 description: "Benvenuti! Questa comunità è un punto di incontro per appassionati di fumetti, lettori e collezionisti.Un luogo dove pubblicare e commentare le notizie relative al mondo di Comics, Manga, fumetti italiani e di ogni parte del mondo, dove consigliare le proprie letture e condividere le proprie collezioni.Ogni contributo è prezioso, il confronto e lo scambio di opinioni sono una ricchezza; unico limite è il rispetto reciproco e l’utilizzo di un linguaggio appropriato. "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fumetti"
@@ -54,4 +54,4 @@ Benvenuti! Questa comunità è un punto di incontro per appassionati di fumetti,
 |----------------------|---|
 | Published            | 2022-05-19 07:33:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

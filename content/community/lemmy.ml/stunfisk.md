@@ -3,7 +3,7 @@ title: "Stunfisk"
 name: "stunfisk"
 description: "The home of competitive pokemon on lemmy. Everything is welcome from team to news, discussions, and analyses and much more.TLDR; r/stunfisk at home."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stunfisk"
@@ -14,8 +14,8 @@ posts: 4
 comments: 5
 weight: 4
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ The home of competitive pokemon on lemmy. Everything is welcome from team to new
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ The home of competitive pokemon on lemmy. Everything is welcome from team to new
 |----------------------|---|
 | Published            | 2023-06-04 13:01:16 |
 | Updated              | 2023-06-04 13:15:43 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:25 |

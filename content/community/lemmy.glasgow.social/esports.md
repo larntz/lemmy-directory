@@ -3,7 +3,7 @@ title: "eSports"
 name: "esports"
 description: "Glasgow based eSports est.2021 - outcasted by r/Glasgow "
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/esports"
@@ -54,4 +54,4 @@ Glasgow based eSports est.2021 - outcasted by r/Glasgow
 |----------------------|---|
 | Published            | 2021-03-15 01:45:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:30 |

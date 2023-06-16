@@ -3,7 +3,7 @@ title: "Cyberdecks"
 name: "cyberdecks"
 description: "For posting cyberdecks"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/cyberdecks"
@@ -54,4 +54,4 @@ For posting cyberdecks
 |----------------------|---|
 | Published            | 2023-06-16 01:37:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:59 |

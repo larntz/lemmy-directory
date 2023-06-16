@@ -3,7 +3,7 @@ title: "Animal Trivia"
 name: "animaltrivia"
 description: "Random facts about, you know, animals. Bugs included.------~Icon~ ~by~ ~@inspirasign~ ~on~ ~Reshot.com~"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animaltrivia"
@@ -54,4 +54,4 @@ Random facts about, you know, animals. Bugs included.<br><br>------<br>~Icon~ ~b
 |----------------------|---|
 | Published            | 2023-06-13 12:05:56 |
 | Updated              | 2023-06-13 13:33:50 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

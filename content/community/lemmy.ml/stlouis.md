@@ -3,13 +3,13 @@ title: "St. Louis, MO | The Lou"
 name: "stlouis"
 description: "A place for all things STL."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stlouis"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 12
 comments: 17
 weight: 12
@@ -41,7 +41,7 @@ A place for all things STL.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 12  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for all things STL.
 |----------------------|---|
 | Published            | 2023-06-02 21:27:24 |
 | Updated              | 2023-06-07 23:13:38 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:39 |

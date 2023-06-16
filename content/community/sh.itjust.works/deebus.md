@@ -3,13 +3,13 @@ title: "Deebus"
 name: "deebus"
 description: "General shitposts and esoteric memes. No bigotry and being a general asshole. "
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/deebus"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 162
+subscribers: 166
 posts: 121
 comments: 58
 weight: 121
@@ -41,7 +41,7 @@ General shitposts and esoteric memes. No bigotry and being a general asshole.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 162 |
+| Subscribers          | 166 |
 | Posts                | 121  |
 | Comments             | 58  |
 | Daily Active Users   | 17  |
@@ -54,4 +54,4 @@ General shitposts and esoteric memes. No bigotry and being a general asshole.
 |----------------------|---|
 | Published            | 2023-06-09 04:23:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

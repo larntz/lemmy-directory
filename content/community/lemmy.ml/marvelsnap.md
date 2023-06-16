@@ -3,19 +3,19 @@ title: "Marvel Snap"
 name: "marvelsnap"
 description: "A community for all things related to the Mobile and Steam CCG Marvel Snap"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvelsnap"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 8
-comments: 25
-weight: 8
-dau: 5
-wau: 14
-mau: 14
+subscribers: 44
+posts: 10
+comments: 31
+weight: 10
+dau: 2
+wau: 15
+mau: 15
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community for all things related to the Mobile and Steam CCG Marvel Snap
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 8  |
-| Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 44 |
+| Posts                | 10  |
+| Comments             | 31  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for all things related to the Mobile and Steam CCG Marvel Snap
 |----------------------|---|
 | Published            | 2023-06-10 17:31:20 |
 | Updated              | 2023-06-10 17:32:10 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

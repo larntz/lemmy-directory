@@ -3,17 +3,17 @@ title: "Beat Saber"
 name: "beatsaber"
 description: "The unofficial community for Beat Saber. Saberians, Beaters, Saberites, Jedi, we have many names."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beatsaber"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 2
 comments: 7
 weight: 2
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ The unofficial community for Beat Saber. Saberians, Beaters, Saberites, Jedi, we
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 7  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ The unofficial community for Beat Saber. Saberians, Beaters, Saberites, Jedi, we
 |----------------------|---|
 | Published            | 2023-06-10 18:49:12 |
 | Updated              | 2023-06-10 18:50:59 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

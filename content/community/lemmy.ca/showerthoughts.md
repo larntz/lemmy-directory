@@ -3,13 +3,13 @@ title: "showerthoughts"
 name: "showerthoughts"
 description: "A community for sharing thoughts"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/showerthoughts"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 150
+subscribers: 155
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ A community for sharing thoughts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
+| Subscribers          | 155 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for sharing thoughts
 |----------------------|---|
 | Published            | 2022-05-26 12:00:10 |
 | Updated              | 2022-07-21 18:15:34 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

@@ -3,13 +3,13 @@ title: "Unofficial Paradox community on lemmy.ml"
 name: "paradoxextra"
 description: "A space to talk, discuss and shitpost about all Paradox games and Paradox in general"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paradoxextra"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 91
+subscribers: 93
 posts: 7
 comments: 9
 weight: 7
@@ -41,7 +41,7 @@ A space to talk, discuss and shitpost about all Paradox games and Paradox in gen
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
+| Subscribers          | 93 |
 | Posts                | 7  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A space to talk, discuss and shitpost about all Paradox games and Paradox in gen
 |----------------------|---|
 | Published            | 2022-08-14 05:10:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

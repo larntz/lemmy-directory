@@ -3,13 +3,13 @@ title: "South Park"
 name: "southpark"
 description: "Everything related to the animated television show South Park! (Images, videos, quotes, news, articles, thoughts, trivia, etc.)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/southpark"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 48
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Everything related to the animated television show South Park! (Images, videos, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 48 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Everything related to the animated television show South Park! (Images, videos, 
 |----------------------|---|
 | Published            | 2023-06-12 10:13:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Laugh out loud"
 name: "lol"
 description: "share your lol moments"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lol"
@@ -54,4 +54,4 @@ share your lol moments
 |----------------------|---|
 | Published            | 2022-07-22 12:25:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:42 |

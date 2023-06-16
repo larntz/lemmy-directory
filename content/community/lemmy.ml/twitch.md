@@ -3,7 +3,7 @@ title: "Twitch"
 name: "twitch"
 description: "Twitch is a video live streaming service."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twitch"
@@ -14,8 +14,8 @@ posts: 5
 comments: 2
 weight: 5
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ Twitch is a video live streaming service.
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Twitch is a video live streaming service.
 |----------------------|---|
 | Published            | 2020-06-29 14:48:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

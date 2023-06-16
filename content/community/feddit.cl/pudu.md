@@ -3,17 +3,17 @@ title: "Pudú"
 name: "pudu"
 description: "La mejor comunidad pudú del mundo."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/pudu"
 host: feddit.cl
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 11
-comments: 6
-weight: 11
-dau: 2
+subscribers: 26
+posts: 14
+comments: 8
+weight: 14
+dau: 3
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ La mejor comunidad pudú del mundo.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 11  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
+| Subscribers          | 26 |
+| Posts                | 14  |
+| Comments             | 8  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -53,5 +53,5 @@ La mejor comunidad pudú del mundo.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 23:38:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Updated              | 2023-06-16 14:32:23 |
+| Last Scraped         | 2023-06-16 22:56:15 |

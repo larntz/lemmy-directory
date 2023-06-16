@@ -3,7 +3,7 @@ title: "The Couture"
 name: "thecouture"
 description: "# Clothes & Crafts"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thecouture"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-01 16:54:32 |
 | Updated              | 2022-10-01 17:29:28 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

@@ -3,7 +3,7 @@ title: "Alcohol"
 name: "alcohol"
 description: "Community for discussion and recommendation of any kind of alcoholic beverages, its history and related topics."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alcohol"
@@ -54,4 +54,4 @@ Community for discussion and recommendation of any kind of alcoholic beverages, 
 |----------------------|---|
 | Published            | 2021-01-28 21:46:35 |
 | Updated              | 2021-01-29 21:55:42 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

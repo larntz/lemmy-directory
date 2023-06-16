@@ -3,7 +3,7 @@ title: "Watchit"
 name: "watchit"
 description: "- Visit our site [watchitapp.site](https://watchitapp.site).- Read our post: [Watchit - Open Movies](https://dev.to/geolffreym/watchit-2b88).- Check out [the roadmap](https://github.com/ZorrillosDev/watchit-desktop/projects/1) to future features.- Follow us in [twitter](https://twitter.com/app_watchit)- Get in touch with us in [gitter](https://gitter.im/watchit-app/community) or **watchit:matrix.org**.- See our [FAQ](https://github.com/ZorrillosDev/watchit-desktop/blob/v0.1.0/FAQ.md) for frequently asked questions.- For help or bugs please [create an issue](https://github.com/ZorrillosDev/watchit-desktop/issues).> Read our post in Watchit - Open Movies."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watchit"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-03 18:29:01 |
 | Updated              | 2022-05-31 17:03:02 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

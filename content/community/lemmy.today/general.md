@@ -3,7 +3,7 @@ title: "Chat"
 name: "general"
 description: "General chat about anything at all"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.today/c/general"
@@ -54,4 +54,4 @@ General chat about anything at all
 |----------------------|---|
 | Published            | 2023-06-11 13:12:58 |
 | Updated              | 2023-06-13 16:17:16 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:08 |

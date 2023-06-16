@@ -3,7 +3,7 @@ title: "The Radix Project"
 name: "radix"
 description: "Community for anything related to the Radix Project"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radix"
@@ -54,4 +54,4 @@ Community for anything related to the Radix Project
 |----------------------|---|
 | Published            | 2023-01-25 06:56:32 |
 | Updated              | 2023-05-13 02:21:20 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

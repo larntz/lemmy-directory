@@ -3,7 +3,7 @@ title: "scifi"
 name: "scifi"
 description: "Science Fiction"
 type: community
-date: "2023-06-16 11:06:33"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/scifi"
@@ -54,4 +54,4 @@ Science Fiction
 |----------------------|---|
 | Published            | 2023-06-15 22:09:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:33 |
+| Last Scraped         | 2023-06-16 22:56:31 |

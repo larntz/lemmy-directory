@@ -3,7 +3,7 @@ title: "Vermont"
 name: "vermont"
 description: "All things related to the awesome state of Vermont!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vermont"
@@ -54,4 +54,4 @@ All things related to the awesome state of Vermont!
 |----------------------|---|
 | Published            | 2023-06-10 16:15:05 |
 | Updated              | 2023-06-10 17:08:44 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

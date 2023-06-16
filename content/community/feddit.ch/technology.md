@@ -3,16 +3,16 @@ title: "TeCHnology"
 name: "technology"
 description: "Technology discussion for Switzerland. This community shall discuss various topics of technology in and around Switzerland."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/technology"
 host: feddit.ch
 lastmod: "{[ .Updated }}"
 subscribers: 10
-posts: 4
-comments: 4
-weight: 4
+posts: 6
+comments: 5
+weight: 6
 dau: 2
 wau: 3
 mau: 3
@@ -42,8 +42,8 @@ Technology discussion for Switzerland. This community shall discuss various topi
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 10 |
-| Posts                | 4  |
-| Comments             | 4  |
+| Posts                | 6  |
+| Comments             | 5  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Technology discussion for Switzerland. This community shall discuss various topi
 |----------------------|---|
 | Published            | 2023-06-14 13:07:46 |
 | Updated              | 2023-06-15 14:38:52 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

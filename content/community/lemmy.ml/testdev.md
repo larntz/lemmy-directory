@@ -3,7 +3,7 @@ title: "DEV - просто тестирование"
 name: "testdev"
 description: "Проверка созданного сообщества для Lemmy. Текст по русски, проверка."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/testdev"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-04-12 05:19:43 |
 | Updated              | 2020-04-12 05:31:48 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

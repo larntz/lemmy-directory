@@ -3,13 +3,13 @@ title: "Censorship"
 name: "censorship"
 description: "A community to give examples of censorship on capitalist platforms like twitter, reddit, facebook, etc."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/censorship"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 206
+subscribers: 205
 posts: 53
 comments: 132
 weight: 53
@@ -41,7 +41,7 @@ A community to give examples of censorship on capitalist platforms like twitter,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 206 |
+| Subscribers          | 205 |
 | Posts                | 53  |
 | Comments             | 132  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community to give examples of censorship on capitalist platforms like twitter,
 |----------------------|---|
 | Published            | 2020-08-27 14:51:20 |
 | Updated              | 2020-10-13 00:47:09 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

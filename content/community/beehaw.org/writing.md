@@ -1,21 +1,21 @@
 ---
 title: "Writing" 
 name: "writing"
-description: "A specific community for original shortform and longform writing, stories, worldbuilding, and other stuff of that nature.Subcommunity of [Creative](https://beehaw.org/c/creative)---This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)."
+description: "A specific community for original shortform and longform writing, stories, worldbuilding, and other stuff of that nature.Subcommunity of [Creative](https://beehaw.org/c/creative)---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/writing"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 765
-posts: 33
-comments: 250
-weight: 33
-dau: 10
-wau: 88
-mau: 104
+subscribers: 801
+posts: 34
+comments: 264
+weight: 34
+dau: 11
+wau: 83
+mau: 108
 instances:
 - "beehaw_org"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A specific community for original shortform and longform writing, stories, worldbuilding, and other stuff of that nature.<br><br>Subcommunity of [Creative](https://beehaw.org/c/creative)<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+A specific community for original shortform and longform writing, stories, worldbuilding, and other stuff of that nature.<br><br>Subcommunity of [Creative](https://beehaw.org/c/creative)<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A specific community for original shortform and longform writing, stories, world
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 765 |
-| Posts                | 33  |
-| Comments             | 250  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 88  |
-| Monthly Active Users | 104  |
+| Subscribers          | 801 |
+| Posts                | 34  |
+| Comments             | 264  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 83  |
+| Monthly Active Users | 108  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-06 23:50:44 |
-| Updated              | 2023-06-13 22:51:10 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Updated              | 2023-06-16 19:40:23 |
+| Last Scraped         | 2023-06-16 22:56:27 |

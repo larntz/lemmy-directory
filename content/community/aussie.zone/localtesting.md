@@ -3,7 +3,7 @@ title: "Testing"
 name: "localtesting"
 description: "A local community for testing lemmy on the aussie.zone instance."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/localtesting"
@@ -14,7 +14,7 @@ posts: 9
 comments: 42
 weight: 9
 dau: 4
-wau: 18
+wau: 17
 mau: 18
 instances:
 - "aussie_zone"
@@ -45,7 +45,7 @@ A local community for testing lemmy on the aussie.zone instance.
 | Posts                | 9  |
 | Comments             | 42  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 18  |
+| Weekly Active Users  | 17  |
 | Monthly Active Users | 18  |
 
 <br>
@@ -54,4 +54,4 @@ A local community for testing lemmy on the aussie.zone instance.
 |----------------------|---|
 | Published            | 2023-06-08 07:05:23 |
 | Updated              | 2023-06-08 12:20:55 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

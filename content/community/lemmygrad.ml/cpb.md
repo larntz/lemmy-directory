@@ -3,13 +3,13 @@ title: "Communist Party of Britain"
 name: "cpb"
 description: "Official lemmy community for the Communist Party of Britain.Official website: https://www.communistparty.org.uk/"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cpb"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 36
 posts: 6
 comments: 8
 weight: 6
@@ -41,7 +41,7 @@ Official lemmy community for the Communist Party of Britain.<br><br>Official web
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 36 |
 | Posts                | 6  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Official lemmy community for the Communist Party of Britain.<br><br>Official web
 |----------------------|---|
 | Published            | 2020-08-07 16:05:06 |
 | Updated              | 2020-08-24 15:59:25 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

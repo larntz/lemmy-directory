@@ -3,7 +3,7 @@ title: "Greece"
 name: "greece"
 description: "A community for Greek Communists.  "
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/greece"
@@ -54,4 +54,4 @@ A community for Greek Communists.
 |----------------------|---|
 | Published            | 2020-03-19 17:36:09 |
 | Updated              | 2020-08-12 20:40:38 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

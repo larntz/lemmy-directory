@@ -3,7 +3,7 @@ title: "F7u12: Go to /c/Ragecomics"
 name: "fffffffuuuuuuuuuuuu"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fffffffuuuuuuuuuuuu"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 21:04:28 |
 | Updated              | 2023-06-10 19:32:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:16 |

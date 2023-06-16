@@ -3,13 +3,13 @@ title: "Rust: Game Development"
 name: "gamedev"
 description: "[Developing]# GoalDiscussions about using Rust for Game development."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/gamedev"
 host: lemmyrs.org
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 26
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 26 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 04:27:11 |
 | Updated              | 2023-06-15 04:43:50 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:04 |

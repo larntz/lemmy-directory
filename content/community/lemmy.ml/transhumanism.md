@@ -3,7 +3,7 @@ title: "Transhumanism"
 name: "transhumanism"
 description: "A group about the philosophical and poltical transhumanist movements."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/transhumanism"
@@ -54,4 +54,4 @@ A group about the philosophical and poltical transhumanist movements.
 |----------------------|---|
 | Published            | 2021-01-09 01:24:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

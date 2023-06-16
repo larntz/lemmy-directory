@@ -3,13 +3,13 @@ title: "Thoughts void "
 name: "thoughtsvoid"
 description: "A group for posting expressions of current and past feelings in the form of text and arts. Originality, cohesion and perfection are not goals.This is not a place to seek or give help.# rules1. CrypticSpeak in a cryptic way to avoid talking about sensetive issues (eg: skieys for----)2. Everyone is acceptedNo such thing as too much or too little to feel3. Don't expect 4. Follow guidlines"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/thoughtsvoid"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 18
 posts: 14
 comments: 47
 weight: 14
@@ -41,7 +41,7 @@ A group for posting expressions of current and past feelings in the form of text
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 18 |
 | Posts                | 14  |
 | Comments             | 47  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A group for posting expressions of current and past feelings in the form of text
 |----------------------|---|
 | Published            | 2022-12-18 22:45:18 |
 | Updated              | 2022-12-18 22:51:01 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

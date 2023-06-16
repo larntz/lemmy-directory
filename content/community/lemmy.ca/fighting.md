@@ -3,7 +3,7 @@ title: "Fighting"
 name: "fighting"
 description: "Discuss anything involving fighting.We have a chatroom! https://matrix.to/#/#fightin:matrix.orgEx: martial arts, Boxing, Wing Chun, Karate, Taekwondo, Capoeira, Savate, Lethwei, Muay Thai, Kung Fu, Pencak Silat, Kalaripayattu, Hapkido, Judo, Sumo, Wrestling, Aikido, Judo, Jujutsu, Brazilian jiu-jitsu, Sambo, Kung Fu, fencing, swordsmanship, archery, sports, ufc"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fighting"
@@ -54,4 +54,4 @@ Discuss anything involving fighting.<br><br>We have a chatroom! https://matrix.t
 |----------------------|---|
 | Published            | 2022-05-13 01:38:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:34 |

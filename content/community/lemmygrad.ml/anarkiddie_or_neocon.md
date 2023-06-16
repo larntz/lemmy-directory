@@ -3,13 +3,13 @@ title: "Anarkiddie or Neocon?"
 name: "anarkiddie_or_neocon"
 description: "A place to play ‘Anarkiddie or Neocon?‘, and other similar games."
 type: community
-date: "2023-06-15 17:37:01"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anarkiddie_or_neocon"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 95
+subscribers: 96
 posts: 8
 comments: 33
 weight: 8
@@ -41,7 +41,7 @@ A place to play ‘Anarkiddie or Neocon?‘, and other similar games.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 95 |
+| Subscribers          | 96 |
 | Posts                | 8  |
 | Comments             | 33  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to play ‘Anarkiddie or Neocon?‘, and other similar games.
 |----------------------|---|
 | Published            | 2020-10-07 15:11:43 |
 | Updated              | 2021-01-29 19:09:54 |
-| Last Scraped         | 2023-06-15 17:37:01 |
+| Last Scraped         | 2023-06-16 22:56:08 |

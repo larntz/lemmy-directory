@@ -3,13 +3,13 @@ title: "Gshock"
 name: "gshock"
 description: "A community dedicated to Casio G-Shock (gshock.com) watches."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/gshock"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 22
 posts: 4
 comments: 6
 weight: 4
@@ -41,7 +41,7 @@ A community dedicated to Casio G-Shock (gshock.com) watches.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 22 |
 | Posts                | 4  |
 | Comments             | 6  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ A community dedicated to Casio G-Shock (gshock.com) watches.
 |----------------------|---|
 | Published            | 2023-06-10 09:33:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

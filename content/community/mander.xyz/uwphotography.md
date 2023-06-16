@@ -3,15 +3,15 @@ title: "Underwater Photography"
 name: "uwphotography"
 description: "Share photos from under the sea! This community is primarily for marine life.Videos are also welcome!**Rules:**1) Attribute the photographer (if it's yours, let us know!)2) Identify the subject as best you are able. Common name, species name, location (country, area), depth. Dive site name is discouraged.3) Photography critiques are welcome, but constructive only."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/uwphotography"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 75
 posts: 5
-comments: 8
+comments: 9
 weight: 5
 dau: 5
 wau: 5
@@ -41,9 +41,9 @@ Share photos from under the sea! This community is primarily for marine life.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 75 |
 | Posts                | 5  |
-| Comments             | 8  |
+| Comments             | 9  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Share photos from under the sea! This community is primarily for marine life.<br
 |----------------------|---|
 | Published            | 2023-06-09 12:14:23 |
 | Updated              | 2023-06-09 12:35:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -3,13 +3,13 @@ title: "Plex Shares"
 name: "plexshares"
 description: "If you know, you know"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plexshares"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 36
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ If you know, you know
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 36 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ If you know, you know
 |----------------------|---|
 | Published            | 2023-06-09 20:47:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

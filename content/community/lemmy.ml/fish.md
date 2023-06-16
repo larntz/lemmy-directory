@@ -3,7 +3,7 @@ title: "fish"
 name: "fish"
 description: "Everything about the friendly interactive shell"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fish"
@@ -54,4 +54,4 @@ Everything about the friendly interactive shell
 |----------------------|---|
 | Published            | 2020-05-22 21:48:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

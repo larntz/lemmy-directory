@@ -3,19 +3,19 @@ title: "Warung Kopi"
 name: "warkop"
 description: "Tempat nongkrong dan ngobrol, bebas asalkan sopan."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warkop"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 4
-comments: 7
+comments: 12
 weight: 4
-dau: 1
-wau: 1
-mau: 1
+dau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Tempat nongkrong dan ngobrol, bebas asalkan sopan.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Comments             | 12  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Tempat nongkrong dan ngobrol, bebas asalkan sopan.
 |----------------------|---|
 | Published            | 2023-06-13 23:18:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

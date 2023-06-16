@@ -3,7 +3,7 @@ title: "OSS Video Software"
 name: "ossvideo"
 description: "For all enthusiasts of video software: FFmpeg, OpenShot, MPV, Gstreamer, etc."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ossvideo"
@@ -54,4 +54,4 @@ For all enthusiasts of video software: FFmpeg, OpenShot, MPV, Gstreamer, etc.
 |----------------------|---|
 | Published            | 2021-09-05 20:52:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

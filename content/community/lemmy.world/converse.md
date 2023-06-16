@@ -3,7 +3,7 @@ title: "Converse"
 name: "converse"
 description: "Share your style. A community for all things related to Converse shoes.Rules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/converse"
@@ -54,4 +54,4 @@ Share your style. A community for all things related to Converse shoes.<br><br>R
 |----------------------|---|
 | Published            | 2023-06-15 14:59:29 |
 | Updated              | 2023-06-15 15:15:55 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

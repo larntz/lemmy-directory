@@ -3,7 +3,7 @@ title: "VR gaming-meetup/news-nl/eng"
 name: "vrg"
 description: "a subb voor vr gaming /plannen online-meet ups /vr game sessies / discusies /en nieuwsthis is  a sub for those who want to discuse /learn /meet up in vr game or talk about vr -or looking to meet new people in vr"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/vrg"
@@ -54,4 +54,4 @@ a subb voor vr gaming /plannen online-meet ups /vr game sessies / discusies /en 
 |----------------------|---|
 | Published            | 2023-06-15 20:38:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

@@ -3,7 +3,7 @@ title: "Adventure News"
 name: "adventure"
 description: "A space for exploration and adventure from across the globe."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adventure"
@@ -54,4 +54,4 @@ A space for exploration and adventure from across the globe.
 |----------------------|---|
 | Published            | 2022-03-09 20:05:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:38 |

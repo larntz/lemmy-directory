@@ -3,19 +3,19 @@ title: "exchristian"
 name: "exchristian"
 description: "Welcome to the exchristian community! We strive to provide a safe space for anyone looking to leave the religion or seek comfort while dealing with the fallout from leaving. This site was originally hosted on reddit before the Great Exodus of 2023."
 type: community
-date: "2023-06-16 11:05:54"
+date: "2023-06-16 22:55:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.one/c/exchristian"
 host: lemmy.one
 lastmod: "{[ .Updated }}"
-subscribers: 124
+subscribers: 134
 posts: 13
-comments: 45
+comments: 48
 weight: 13
 dau: 6
-wau: 16
-mau: 30
+wau: 17
+mau: 31
 instances:
 - "lemmy_one"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the exchristian community! We strive to provide a safe space for anyo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 124 |
+| Subscribers          | 134 |
 | Posts                | 13  |
-| Comments             | 45  |
+| Comments             | 48  |
 | Daily Active Users   | 6  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 30  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 31  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the exchristian community! We strive to provide a safe space for anyo
 |----------------------|---|
 | Published            | 2023-06-07 02:30:12 |
 | Updated              | 2023-06-14 16:26:09 |
-| Last Scraped         | 2023-06-16 11:05:54 |
+| Last Scraped         | 2023-06-16 22:55:49 |

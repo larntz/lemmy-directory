@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Meta for the lemmy.serverfail.party instance"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/meta"
@@ -54,4 +54,4 @@ Meta for the lemmy.serverfail.party instance
 |----------------------|---|
 | Published            | 2023-06-11 01:30:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

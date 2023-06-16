@@ -1,9 +1,9 @@
 ---
 title: "Awesome" 
 name: "awesome"
-description: "Description not available."
+description: "Awesomeness Unleashed: Embrace the Extraordinary and Ignite Your Inner Spark"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/awesome"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Awesomeness Unleashed: Embrace the Extraordinary and Ignite Your Inner Spark
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 12:48:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Updated              | 2023-06-16 11:34:21 |
+| Last Scraped         | 2023-06-16 22:57:15 |

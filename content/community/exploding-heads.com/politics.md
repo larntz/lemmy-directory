@@ -3,16 +3,16 @@ title: "Politics"
 name: "politics"
 description: "For discussion of political opinions, including unproven accusations by public figures. Please post any newsworthy item in the News community, this community is for sharing opinions rather than sharing news."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/politics"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 5
+posts: 6
 comments: 1
-weight: 5
+weight: 6
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ For discussion of political opinions, including unproven accusations by public f
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 5  |
+| Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ For discussion of political opinions, including unproven accusations by public f
 |----------------------|---|
 | Published            | 2023-06-14 04:58:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

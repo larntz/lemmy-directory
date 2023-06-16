@@ -3,7 +3,7 @@ title: "The News"
 name: "thenews"
 description: "Popular headlines from around the world."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thenews"
@@ -54,4 +54,4 @@ Popular headlines from around the world.
 |----------------------|---|
 | Published            | 2020-06-06 12:43:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:38 |

@@ -3,13 +3,13 @@ title: "XenogendersAndMore"
 name: "xenogendersandmore"
 description: "An inclusive community for all types of queer people, but with a focus on xenogenders!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/xenogendersandmore"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ An inclusive community for all types of queer people, but with a focus on xenoge
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An inclusive community for all types of queer people, but with a focus on xenoge
 |----------------------|---|
 | Published            | 2023-06-11 18:14:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

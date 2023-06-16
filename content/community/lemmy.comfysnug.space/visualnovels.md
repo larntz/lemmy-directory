@@ -3,13 +3,13 @@ title: "Visual Novels"
 name: "visualnovels"
 description: "A community for discussing visual novels and the visual novel medium."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.comfysnug.space/c/visualnovels"
 host: lemmy.comfysnug.space
 lastmod: "{[ .Updated }}"
-subscribers: 63
+subscribers: 65
 posts: 12
 comments: 21
 weight: 12
@@ -41,7 +41,7 @@ A community for discussing visual novels and the visual novel medium.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
+| Subscribers          | 65 |
 | Posts                | 12  |
 | Comments             | 21  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussing visual novels and the visual novel medium.
 |----------------------|---|
 | Published            | 2023-06-08 15:27:29 |
 | Updated              | 2023-06-08 19:01:09 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

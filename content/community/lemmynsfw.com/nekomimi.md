@@ -3,19 +3,19 @@ title: "Catgirls (Nekomimi)"
 name: "nekomimi"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nekomimi"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 68
 posts: 4
 comments: 0
 weight: 4
-dau: 3
-wau: 3
-mau: 3
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 68 |
 | Posts                | 4  |
 | Comments             | 0  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 10:57:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

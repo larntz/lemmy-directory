@@ -3,7 +3,7 @@ title: "Angels Baseball"
 name: "angelsbaseball"
 description: "Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/angelsbaseball"
@@ -54,4 +54,4 @@ Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)<br><br>
 |----------------------|---|
 | Published            | 2023-06-09 17:03:32 |
 | Updated              | 2023-06-12 16:30:53 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

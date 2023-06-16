@@ -3,7 +3,7 @@ title: "IT Infrastructure"
 name: "infrastructure"
 description: "Infrastructure"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/infrastructure"
@@ -54,4 +54,4 @@ Infrastructure
 |----------------------|---|
 | Published            | 2022-12-21 11:39:11 |
 | Updated              | 2022-12-21 11:39:43 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:41 |

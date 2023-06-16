@@ -3,13 +3,13 @@ title: "Iron Maiden"
 name: "ironmaiden"
 description: "Up the Irons!**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ironmaiden"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Up the Irons!<br><br>**Other Communities:**<br><br>[Metal](https://lemmy.world/c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Up the Irons!<br><br>**Other Communities:**<br><br>[Metal](https://lemmy.world/c
 |----------------------|---|
 | Published            | 2023-06-12 00:42:57 |
 | Updated              | 2023-06-12 21:46:30 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

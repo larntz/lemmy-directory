@@ -3,19 +3,19 @@ title: "Firefox"
 name: "firefox"
 description: "A community for discussion about Mozilla Firefox."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firefox"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 12
 posts: 1
 comments: 8
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for discussion about Mozilla Firefox.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 8  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussion about Mozilla Firefox.
 |----------------------|---|
 | Published            | 2023-06-15 18:38:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

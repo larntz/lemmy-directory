@@ -3,7 +3,7 @@ title: "Polls"
 name: "polls"
 description: "- Posts must have a clear and concise question in the title. You may elaborate in the post body.- If Opinion Poll gives a list of options, do not make top-level comments different from those options.- Top-level comments must be short and single option. Usually a single word is enough. You may reply to your answer to add more info.- Do not repeat answers. Use the up and down vote buttons. Vote as many answers as you want.- Do not post loaded questions or push agendas.- Do not repost polls in less than a month.- Follow the Exploding Heads Rules."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/polls"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-07-24 15:09:12 |
 | Updated              | 2022-08-06 19:44:06 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

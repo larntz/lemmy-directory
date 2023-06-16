@@ -3,7 +3,7 @@ title: "Crossfit"
 name: "crossfit"
 description: "Post your own updates or news and stories about crossfit."
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/crossfit"
@@ -53,5 +53,5 @@ Post your own updates or news and stories about crossfit.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 05:57:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Updated              | 2023-06-16 05:28:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

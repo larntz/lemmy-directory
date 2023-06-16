@@ -3,13 +3,13 @@ title: "announcements"
 name: "announcements"
 description: "Channel for announcements about the lemmyfly.org instance"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/announcements"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Channel for announcements about the lemmyfly.org instance
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Channel for announcements about the lemmyfly.org instance
 |----------------------|---|
 | Published            | 2023-06-11 11:26:41 |
 | Updated              | 2023-06-11 12:26:46 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

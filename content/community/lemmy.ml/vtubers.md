@@ -3,13 +3,13 @@ title: "Vtubers news & content"
 name: "vtubers"
 description: "Share content made by virtual entertainers, also called vtubers.  Rules:#1 Do not post links to expired live streams, only available video-on-demand (VOD).#2 Only direct links, no redirections,  URL shortener, nor AMP. Sanitize your links."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vtubers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 72
+subscribers: 74
 posts: 257
 comments: 27
 weight: 257
@@ -41,7 +41,7 @@ Share content made by virtual entertainers, also called vtubers.  <br><br>Rules:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
+| Subscribers          | 74 |
 | Posts                | 257  |
 | Comments             | 27  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Share content made by virtual entertainers, also called vtubers.  <br><br>Rules:
 |----------------------|---|
 | Published            | 2021-06-30 21:03:06 |
 | Updated              | 2021-10-23 12:48:03 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

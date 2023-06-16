@@ -3,13 +3,13 @@ title: "news"
 name: "news"
 description: "A place for sharing and discussing news from around the world."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/news"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 51
+subscribers: 52
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ A place for sharing and discussing news from around the world.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
+| Subscribers          | 52 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for sharing and discussing news from around the world.
 |----------------------|---|
 | Published            | 2023-06-05 08:55:42 |
 | Updated              | 2023-06-05 09:26:33 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

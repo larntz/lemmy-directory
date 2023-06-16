@@ -3,13 +3,13 @@ title: "AWS"
 name: "aws"
 description: "Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecten etc etc."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/aws"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 13
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecte
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 13 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecte
 |----------------------|---|
 | Published            | 2023-06-12 19:53:52 |
 | Updated              | 2023-06-14 08:05:22 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

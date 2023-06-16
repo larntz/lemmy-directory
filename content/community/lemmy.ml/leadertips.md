@@ -3,7 +3,7 @@ title: "Moderator / Leader Tips"
 name: "leadertips"
 description: "Upload your tips for how to moderator/lead here. Bonus points if it's a vaguely scientific analysis on the best ways to moderate/lead."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leadertips"
@@ -54,4 +54,4 @@ Upload your tips for how to moderator/lead here. Bonus points if it's a vaguely 
 |----------------------|---|
 | Published            | 2022-02-07 22:43:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

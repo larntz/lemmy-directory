@@ -3,13 +3,13 @@ title: "Slovenija"
 name: "slovenija"
 description: "## Dobrodošli!Skupina za Slovence na lemmy.world.Angleška verzija - [!slovenia](https://lemmy.world/c/slovenia)## Pravila- bodi prijazna/en.## Mesta- [Ljubljana](https://lemmy.world/c/ljubljana)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slovenija"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 14:46:25 |
 | Updated              | 2023-06-16 05:42:33 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

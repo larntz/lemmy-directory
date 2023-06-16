@@ -3,13 +3,13 @@ title: "AI discussions"
 name: "artificial_intelligence"
 description: "Artificial Intelligence community. Chat bots, stable diffusion, ChatGPT, SO-VITS, anything AI.Post news about new local chat models, discuss implementations, post your work, share your ideas, discuss our impending doom, or even news about new developments in the AI space. If it's about AI, it belongs here."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/artificial_intelligence"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 4
 comments: 11
 weight: 4
@@ -41,7 +41,7 @@ Artificial Intelligence community. Chat bots, stable diffusion, ChatGPT, SO-VITS
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 4  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Artificial Intelligence community. Chat bots, stable diffusion, ChatGPT, SO-VITS
 |----------------------|---|
 | Published            | 2023-06-12 03:46:40 |
 | Updated              | 2023-06-12 04:14:10 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

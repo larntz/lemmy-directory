@@ -3,13 +3,13 @@ title: "How It's Made"
 name: "production"
 description: "Let's see how things are made.Welcome here:- Satisfying or otherwise interesting or informative footage of production- Documentaries, shows, videos, and articles about the production process under any mode of production, from anywhere in the world, including traditional and/or historical methods - Information about entire industries- First-hand descriptions of production processes- Similar content related to labor, automation, transportation, infrastructure, resources, etc.Casual and light-hearted discussion is welcome, as well as in-depth and serious discussion.Media from a bourgeois/liberal point of view is acceptable to post here, as the focus of this community is on the production methods themselves rather than the lens they are presented through. Marxist discussion of the capitalist or otherwise non-Marxist narrative presented around the production process of any item/industry is also welcome. I don't know whether other people will be interested in this community, but we'll see :)"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/production"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 122
+subscribers: 125
 posts: 127
 comments: 89
 weight: 127
@@ -41,7 +41,7 @@ Let's see how things are made.<br><br>Welcome here:<br><br>- Satisfying or other
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
+| Subscribers          | 125 |
 | Posts                | 127  |
 | Comments             | 89  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Let's see how things are made.<br><br>Welcome here:<br><br>- Satisfying or other
 |----------------------|---|
 | Published            | 2022-04-20 04:08:27 |
 | Updated              | 2022-08-15 02:26:08 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

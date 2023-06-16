@@ -3,17 +3,17 @@ title: "Thick Hentai"
 name: "thick_hentai"
 description: "For hentai lovers, who want a little *extra*."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/thick_hentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 92
-posts: 11
+subscribers: 108
+posts: 14
 comments: 3
-weight: 11
-dau: 2
+weight: 14
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -43,10 +43,10 @@ For hentai lovers, who want a little *extra*.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 11  |
+| Subscribers          | 108 |
+| Posts                | 14  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -56,4 +56,4 @@ For hentai lovers, who want a little *extra*.
 |----------------------|---|
 | Published            | 2023-06-14 17:38:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

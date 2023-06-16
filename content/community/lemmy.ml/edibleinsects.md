@@ -3,7 +3,7 @@ title: "Edible Insects"
 name: "edibleinsects"
 description: "Talk about edible insects, entomophagy, etc"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edibleinsects"
@@ -54,4 +54,4 @@ Talk about edible insects, entomophagy, etc
 |----------------------|---|
 | Published            | 2023-06-03 10:54:13 |
 | Updated              | 2023-06-03 10:56:40 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

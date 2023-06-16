@@ -3,7 +3,7 @@ title: "Lethbridge: The Windy City"
 name: "lethbridge"
 description: "Oki! Hello! Welcome to the unofficial Lemmy for Lethbridge, Alberta! A place to discuss current events, local activities and ask questions about our beautiful City. As of the 2022 census Lethbridge has a population of 104,254. "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/lethbridge"
@@ -54,4 +54,4 @@ Oki! Hello! Welcome to the unofficial Lemmy for Lethbridge, Alberta!<br><br> A p
 |----------------------|---|
 | Published            | 2023-06-09 12:41:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

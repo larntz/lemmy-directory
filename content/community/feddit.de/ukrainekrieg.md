@@ -3,15 +3,15 @@ title: "Ukrainekrieg"
 name: "ukrainekrieg"
 description: "Bitte nicht vergessen schlimme Bilder als NSFW zu markieren. ::: spoiler AttributionIcons created by [Agung Rama](https://www.flaticon.com/authors/agung-rama) from [Flaticon](https://www.flaticon.com/):::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ukrainekrieg"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 340
+subscribers: 351
 posts: 183
-comments: 142
+comments: 145
 weight: 183
 dau: 4
 wau: 37
@@ -41,9 +41,9 @@ Bitte nicht vergessen schlimme Bilder als NSFW zu markieren. <br><br>::: spoiler
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 340 |
+| Subscribers          | 351 |
 | Posts                | 183  |
-| Comments             | 142  |
+| Comments             | 145  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 37  |
 | Monthly Active Users | 37  |
@@ -54,4 +54,4 @@ Bitte nicht vergessen schlimme Bilder als NSFW zu markieren. <br><br>::: spoiler
 |----------------------|---|
 | Published            | 2022-04-03 21:34:28 |
 | Updated              | 2022-04-03 21:39:49 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

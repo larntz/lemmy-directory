@@ -3,16 +3,16 @@ title: "Science"
 name: "science"
 description: "General discussions about science itselfBe sure to also check out these other Fediverse science communities:https://lemmy.ml/c/sciencehttps://beehaw.org/c/science"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/science"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 392
-posts: 39
-comments: 45
-weight: 39
+subscribers: 410
+posts: 40
+comments: 48
+weight: 40
 dau: 3
 wau: 8
 mau: 9
@@ -41,9 +41,9 @@ General discussions about science itself<br><br>Be sure to also check out these 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 392 |
-| Posts                | 39  |
-| Comments             | 45  |
+| Subscribers          | 410 |
+| Posts                | 40  |
+| Comments             | 48  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 8  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ General discussions about science itself<br><br>Be sure to also check out these 
 |----------------------|---|
 | Published            | 2022-03-18 07:07:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

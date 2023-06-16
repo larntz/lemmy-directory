@@ -3,7 +3,7 @@ title: "Synthwave"
 name: "synthwave"
 description: "For Synthwave  Rule 1: No spamming/self promotion  Rule 2: Don't be an asshole  "
 type: community
-date: "2023-06-15 17:37:01"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/synthwave"
@@ -54,4 +54,4 @@ For Synthwave  <br><br>Rule 1: No spamming/self promotion  <br><br>Rule 2: Don't
 |----------------------|---|
 | Published            | 2020-06-02 05:41:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:01 |
+| Last Scraped         | 2023-06-16 22:56:08 |

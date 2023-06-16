@@ -3,13 +3,13 @@ title: "Cuckold and Hotwife Captions"
 name: "cuckoldcaptions"
 description: "A space for cuckoldry, hotwifing, and related captions."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuckoldcaptions"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 42
 posts: 4
 comments: 0
 weight: 4
@@ -43,7 +43,7 @@ A space for cuckoldry, hotwifing, and related captions.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 42 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ A space for cuckoldry, hotwifing, and related captions.
 |----------------------|---|
 | Published            | 2023-06-15 05:58:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

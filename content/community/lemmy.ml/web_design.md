@@ -3,13 +3,13 @@ title: "Web Design"
 name: "web_design"
 description: "Team Web: CSS, HTML, JS, RSS, SVG, XML"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web_design"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 43
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ Team Web: CSS, HTML, JS, RSS, SVG, XML
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 43 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Team Web: CSS, HTML, JS, RSS, SVG, XML
 |----------------------|---|
 | Published            | 2020-06-28 03:12:38 |
 | Updated              | 2021-01-29 13:28:31 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

@@ -3,7 +3,7 @@ title: "Xfce"
 name: "xfce"
 description: "Discussion about the Xfce Destkop Environment"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xfce"
@@ -54,4 +54,4 @@ Discussion about the Xfce Destkop Environment
 |----------------------|---|
 | Published            | 2021-09-03 15:59:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

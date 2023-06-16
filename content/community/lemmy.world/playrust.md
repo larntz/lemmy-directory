@@ -3,7 +3,7 @@ title: "Rust on Lemmy"
 name: "playrust"
 description: "Welcome to /c/playrust"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/playrust"
@@ -54,4 +54,4 @@ Welcome to /c/playrust
 |----------------------|---|
 | Published            | 2023-06-15 12:17:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

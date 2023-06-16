@@ -3,7 +3,7 @@ title: "The Spoilerium"
 name: "thespoilerium"
 description: "# Spoilers AllowedPlease type the name of the work you're discussing in the post title and spoilers only in the bodycomments."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thespoilerium"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-01 16:46:38 |
 | Updated              | 2022-10-01 17:35:11 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

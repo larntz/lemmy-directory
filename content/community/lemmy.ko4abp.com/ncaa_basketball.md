@@ -3,7 +3,7 @@ title: "NCAA Basketball"
 name: "ncaa_basketball"
 description: "A place to talk about NCAA Basketball"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/ncaa_basketball"
@@ -54,4 +54,4 @@ A place to talk about NCAA Basketball
 |----------------------|---|
 | Published            | 2023-06-13 04:04:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,7 +3,7 @@ title: "Python"
 name: "python"
 description: "Python programmers unite!# Learn- [Python Docs](https://docs.python.org/3/) is a great place to start- [Stack Overflow](https://stackoverflow.com) for debugging help (search first)- [Real Python](https://realpython.com) has great tutorials# CodeCommon Python editors/IDEs- [PyCharm](https://www.jetbrains.com/pycharm/) (free community edition, paid upgrade to pro)- [Visual Studio Code](https://code.visualstudio.com) (free), best with [Python extension](https://code.visualstudio.com/docs/languages/python)- [WingIDE](https://wingware.com) is rock solid, (paid)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/python"
@@ -54,4 +54,4 @@ Python programmers unite!<br><br># Learn<br><br>- [Python Docs](https://docs.pyt
 |----------------------|---|
 | Published            | 2023-06-12 14:32:04 |
 | Updated              | 2023-06-13 21:59:26 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

@@ -3,7 +3,7 @@ title: "JRPG news and discussion"
 name: "jrpg"
 description: "for all 2 meter long sword brandishers all over the fediverse"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/jrpg"
@@ -54,4 +54,4 @@ for all 2 meter long sword brandishers all over the fediverse
 |----------------------|---|
 | Published            | 2023-06-16 07:48:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

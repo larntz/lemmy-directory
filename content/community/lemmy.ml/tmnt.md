@@ -3,18 +3,18 @@ title: "Teenage Mutant Ninja Turtles"
 name: "tmnt"
 description: "For all things Teenage Mutant Ninja Turtles!**Rules:**- No links to unofficial full episodes or comics- Must be related to TMNT- Be friendly- Moderators have final say on what is or is not acceptable content- No direct links to personal eBay auctions- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tmnt"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 4
 comments: 6
 weight: 4
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ For all things Teenage Mutant Ninja Turtles!<br><br>**Rules:**<br><br>- No links
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 4  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ For all things Teenage Mutant Ninja Turtles!<br><br>**Rules:**<br><br>- No links
 |----------------------|---|
 | Published            | 2023-06-05 15:27:05 |
 | Updated              | 2023-06-11 03:38:54 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

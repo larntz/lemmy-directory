@@ -3,17 +3,17 @@ title: "RPG"
 name: "rpg"
 description: "Eine Community zum Diskutieren aller möglichen Pen-&-Paper-Rollenspiele"
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rpg"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 76
+subscribers: 80
 posts: 6
-comments: 42
+comments: 43
 weight: 6
-dau: 4
+dau: 3
 wau: 11
 mau: 16
 instances:
@@ -41,10 +41,10 @@ Eine Community zum Diskutieren aller möglichen Pen-&-Paper-Rollenspiele
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 76 |
+| Subscribers          | 80 |
 | Posts                | 6  |
-| Comments             | 42  |
-| Daily Active Users   | 4  |
+| Comments             | 43  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 16  |
 
@@ -54,4 +54,4 @@ Eine Community zum Diskutieren aller möglichen Pen-&-Paper-Rollenspiele
 |----------------------|---|
 | Published            | 2023-06-06 07:53:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-16 22:56:38 |

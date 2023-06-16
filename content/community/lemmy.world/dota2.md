@@ -3,19 +3,19 @@ title: "Dota 2"
 name: "dota2"
 description: "Lemmy community dedicated to everything that is DotA2."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dota2"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 33
-posts: 2
+subscribers: 39
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy community dedicated to everything that is DotA2.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 2  |
+| Subscribers          | 39 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy community dedicated to everything that is DotA2.
 |----------------------|---|
 | Published            | 2023-06-11 14:30:33 |
 | Updated              | 2023-06-11 14:45:35 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

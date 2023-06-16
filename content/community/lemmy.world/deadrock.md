@@ -3,7 +3,7 @@ title: "DeadRock"
 name: "deadrock"
 description: "The go-to community For Dead Rock by Hiro Mashima the author of Fairy Tail and Eden Zero in Weekly Shounen Magazine."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deadrock"
@@ -54,4 +54,4 @@ The go-to community For Dead Rock by Hiro Mashima the author of Fairy Tail and E
 |----------------------|---|
 | Published            | 2023-06-13 04:56:33 |
 | Updated              | 2023-06-13 04:56:46 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:18 |

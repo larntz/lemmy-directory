@@ -3,19 +3,19 @@ title: "Gunpla Building Community"
 name: "gunpla"
 description: "Post any Gunpla related projects you have going on!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gunpla"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 3
 comments: 7
 weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Post any Gunpla related projects you have going on!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post any Gunpla related projects you have going on!
 |----------------------|---|
 | Published            | 2023-06-12 22:16:11 |
 | Updated              | 2023-06-12 22:41:47 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Wetshaving Server Announcements"
 name: "ws_server_announce"
 description: "This community is for official announcements from the administrators of sub.wetshaving.social."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/ws_server_announce"
@@ -54,4 +54,4 @@ This community is for official announcements from the administrators of sub.wets
 |----------------------|---|
 | Published            | 2023-06-10 20:27:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

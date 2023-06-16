@@ -3,13 +3,13 @@ title: "Vancouver"
 name: "vancouver"
 description: "# VancouverYour go-to destination for News, People, Sites, Occurrences, Write-ups, and Conversations about Metro Vancouver; the convergence of Sea and Mountains.## Rules* Posts must be relevant to Vancouver or surrounding areas* No misinformation (opinions are fine). Keep headlines from posted articles as they are (even if incorrect). Put more info in comments.* No NSFW content* Be civil, inclusive and awesome to each other."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vancouver"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 03:32:47 |
 | Updated              | 2023-06-09 03:39:49 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:28 |

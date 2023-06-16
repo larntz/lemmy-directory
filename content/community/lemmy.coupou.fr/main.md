@@ -3,7 +3,7 @@ title: "Communauté principale Lemmy Coupou.fr"
 name: "main"
 description: "Communauté principale"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coupou.fr/c/main"
@@ -54,4 +54,4 @@ Communauté principale
 |----------------------|---|
 | Published            | 2021-10-28 23:49:43 |
 | Updated              | 2021-10-29 23:21:06 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

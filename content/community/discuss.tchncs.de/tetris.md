@@ -3,7 +3,7 @@ title: "Tetris"
 name: "tetris"
 description: "Community for discussing all things Tetris related."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/tetris"
@@ -54,4 +54,4 @@ Community for discussing all things Tetris related.
 |----------------------|---|
 | Published            | 2023-06-12 20:20:41 |
 | Updated              | 2023-06-12 20:25:16 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

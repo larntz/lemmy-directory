@@ -3,7 +3,7 @@ title: "grandorder"
 name: "grandorder"
 description: "Community for discussing the mobile gatcha game Fate/Grand Order as well as any other things related to the Nasuverse. "
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grandorder"
@@ -54,4 +54,4 @@ Community for discussing the mobile gatcha game Fate/Grand Order as well as any 
 |----------------------|---|
 | Published            | 2023-06-12 15:40:57 |
 | Updated              | 2023-06-12 15:48:55 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

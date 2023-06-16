@@ -3,13 +3,13 @@ title: "Atari 8bit"
 name: "atari"
 description: "Community covering everything Atari 8bit. "
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/atari"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Community covering everything Atari 8bit.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community covering everything Atari 8bit.
 |----------------------|---|
 | Published            | 2023-06-13 20:13:04 |
 | Updated              | 2023-06-13 20:14:49 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

@@ -3,7 +3,7 @@ title: "Blind"
 name: "blind"
 description: "A community for blind and visually impaired people."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blind"
@@ -54,4 +54,4 @@ A community for blind and visually impaired people.
 |----------------------|---|
 | Published            | 2023-06-12 10:49:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

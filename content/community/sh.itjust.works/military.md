@@ -3,13 +3,13 @@ title: "Military"
 name: "military"
 description: "A place to discuss military topics."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/military"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss military topics.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss military topics.
 |----------------------|---|
 | Published            | 2023-06-12 18:47:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

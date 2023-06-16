@@ -3,19 +3,19 @@ title: "science"
 name: "science"
 description: "just science"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/science"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1209
-posts: 10
-comments: 19
-weight: 10
-dau: 6
-wau: 12
-mau: 13
+subscribers: 1297
+posts: 11
+comments: 20
+weight: 11
+dau: 2
+wau: 19
+mau: 20
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ just science
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1209 |
-| Posts                | 10  |
-| Comments             | 19  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 13  |
+| Subscribers          | 1297 |
+| Posts                | 11  |
+| Comments             | 20  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ just science
 |----------------------|---|
 | Published            | 2023-06-03 23:47:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:16 |

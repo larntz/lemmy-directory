@@ -3,7 +3,7 @@ title: "Seinfeld"
 name: "seinfeld"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://drak.gg/c/seinfeld"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 18:35:05 |
 | Updated              | 2023-06-04 18:35:14 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

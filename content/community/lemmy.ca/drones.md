@@ -3,7 +3,7 @@ title: "Drones"
 name: "drones"
 description: "Discussion of drones - Unmanned Aerial Vehicles and the flying thereof."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/drones"
@@ -54,4 +54,4 @@ Discussion of drones - Unmanned Aerial Vehicles and the flying thereof.
 |----------------------|---|
 | Published            | 2021-01-31 23:30:44 |
 | Updated              | 2021-01-31 23:31:06 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

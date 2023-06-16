@@ -3,15 +3,15 @@ title: "feddit.nl updates"
 name: "feddit_nl"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/feddit_nl"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 170
+subscribers: 178
 posts: 9
-comments: 156
+comments: 157
 weight: 9
 dau: 6
 wau: 67
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 170 |
+| Subscribers          | 178 |
 | Posts                | 9  |
-| Comments             | 156  |
+| Comments             | 157  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 67  |
 | Monthly Active Users | 71  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 22:04:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

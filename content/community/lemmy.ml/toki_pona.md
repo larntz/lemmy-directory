@@ -3,7 +3,7 @@ title: "toki pona"
 name: "toki_pona"
 description: "Toki Pona is a philosophical artistic constructed language known for its small vocabulary. It was created by Canadian linguist and translator Sonja Lang for the purpose of simplifying thoughts and communication. It was first published online in 2001 as a draft, and later in complete form in the book Toki Pona: The Language of Good in 2014. A small community of speakers developed in the early 2000s. While activity mostly takes place online in chat rooms, on social media, and in other groups, there were a few organized in-person meetings during the 2000s and 2010s. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/toki_pona"
@@ -54,4 +54,4 @@ Toki Pona is a philosophical artistic constructed language known for its small v
 |----------------------|---|
 | Published            | 2020-11-25 22:56:19 |
 | Updated              | 2020-11-25 22:57:50 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

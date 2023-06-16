@@ -3,13 +3,13 @@ title: "Mini Painting"
 name: "minipainting"
 description: "A community for painting miniatures and models. Everything from tabletop wargames to board games, display pieces or just for fun!Painters of all skill levels are welcome! From beginners who have never held a brush to pros who have been painting for years."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minipainting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community for painting miniatures and models. Everything from tabletop wargame
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for painting miniatures and models. Everything from tabletop wargame
 |----------------------|---|
 | Published            | 2023-06-05 20:53:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

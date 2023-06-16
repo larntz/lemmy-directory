@@ -3,16 +3,16 @@ title: "Ecology"
 name: "ecology"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/ecology"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 72
-posts: 14
+subscribers: 79
+posts: 16
 comments: 9
-weight: 14
+weight: 16
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
-| Posts                | 14  |
+| Subscribers          | 79 |
+| Posts                | 16  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-08 17:23:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

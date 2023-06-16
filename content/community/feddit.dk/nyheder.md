@@ -3,19 +3,19 @@ title: "Nyheder"
 name: "nyheder"
 description: "For alle nyheder, hvad end de måtte omhandle.# Regler1. Titlen på indlæg skal være titlen på nyhedsartiklen der linkes til. En alternativ titel (fx i tilfælde af clickbait) eller vigtig supplerende information kan angives i kantede parenteser efter den originale titel. Fx: Clickbait titel [Beskrivende titel].2. Link udelukkende til artiklen og brug ikke tekstfeltet (body på engelsk). Hvis du vil tilføje noget, så skriv en kommentar.3. Artikler skal være mindre end en uge gamle."
 type: community
-date: "2023-06-16 11:05:52"
+date: "2023-06-16 22:55:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/nyheder"
 host: feddit.dk
 lastmod: "{[ .Updated }}"
-subscribers: 177
-posts: 22
-comments: 159
-weight: 22
-dau: 27
-wau: 63
-mau: 67
+subscribers: 187
+posts: 24
+comments: 163
+weight: 24
+dau: 17
+wau: 65
+mau: 70
 instances:
 - "feddit_dk"
 tags: 
@@ -41,12 +41,12 @@ For alle nyheder, hvad end de måtte omhandle.<br><br># Regler<br><br>1. Titlen 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 177 |
-| Posts                | 22  |
-| Comments             | 159  |
-| Daily Active Users   | 27  |
-| Weekly Active Users  | 63  |
-| Monthly Active Users | 67  |
+| Subscribers          | 187 |
+| Posts                | 24  |
+| Comments             | 163  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 65  |
+| Monthly Active Users | 70  |
 
 <br>
 
@@ -54,4 +54,4 @@ For alle nyheder, hvad end de måtte omhandle.<br><br># Regler<br><br>1. Titlen 
 |----------------------|---|
 | Published            | 2023-05-01 11:21:35 |
 | Updated              | 2023-06-14 19:37:56 |
-| Last Scraped         | 2023-06-16 11:05:52 |
+| Last Scraped         | 2023-06-16 22:55:47 |

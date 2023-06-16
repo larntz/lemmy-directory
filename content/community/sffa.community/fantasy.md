@@ -3,7 +3,7 @@ title: "Fantasy"
 name: "fantasy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://dev.lemmy.sffa.community/c/fantasy"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 01:10:09 |
 | Updated              | 2023-06-15 01:13:38 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

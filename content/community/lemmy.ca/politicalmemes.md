@@ -3,13 +3,13 @@ title: "Political Memes"
 name: "politicalmemes"
 description: "Non political memes: https://sopuli.xyz/c/memes"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/politicalmemes"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 185
+subscribers: 193
 posts: 79
 comments: 20
 weight: 79
@@ -41,7 +41,7 @@ Non political memes: https://sopuli.xyz/c/memes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 185 |
+| Subscribers          | 193 |
 | Posts                | 79  |
 | Comments             | 20  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Non political memes: https://sopuli.xyz/c/memes
 |----------------------|---|
 | Published            | 2022-09-01 16:15:11 |
 | Updated              | 2022-09-01 16:17:25 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

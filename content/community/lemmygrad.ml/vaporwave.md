@@ -3,7 +3,7 @@ title: "Vaporwave aesthetic "
 name: "vaporwave"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vaporwave"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-04-02 14:02:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

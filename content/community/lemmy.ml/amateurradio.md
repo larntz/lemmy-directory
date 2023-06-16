@@ -3,7 +3,7 @@ title: "amateurradio"
 name: "amateurradio"
 description: "Lemmy's space for amateur radio stuff."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amateurradio"
@@ -54,4 +54,4 @@ Lemmy's space for amateur radio stuff.
 |----------------------|---|
 | Published            | 2022-02-13 10:39:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:40 |

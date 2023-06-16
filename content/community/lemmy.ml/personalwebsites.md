@@ -3,7 +3,7 @@ title: "Personal Websites"
 name: "personalwebsites"
 description: "Show some ❤️ for personal websites! This is the place to post personal gardens, wikis, blogs and experiments in hypertext."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/personalwebsites"
@@ -54,4 +54,4 @@ Show some ❤️ for personal websites! This is the place to post personal garde
 |----------------------|---|
 | Published            | 2020-11-24 20:49:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:37 |

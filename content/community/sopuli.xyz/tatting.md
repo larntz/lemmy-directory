@@ -3,13 +3,13 @@ title: "Tatting"
 name: "tatting"
 description: "All about the fiber art of tatting. Share your patterns, pictures of your projects, or ask questions and look for help."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tatting"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ All about the fiber art of tatting. Share your patterns, pictures of your projec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All about the fiber art of tatting. Share your patterns, pictures of your projec
 |----------------------|---|
 | Published            | 2023-06-14 18:24:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

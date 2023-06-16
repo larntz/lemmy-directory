@@ -3,7 +3,7 @@ title: "South Park"
 name: "southpark"
 description: "Unofficial South Park CommunityJust saying this is completely unmoderated (except for me obviously) "
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southpark"
@@ -54,4 +54,4 @@ Unofficial South Park Community<br><br>Just saying this is completely unmoderate
 |----------------------|---|
 | Published            | 2021-05-25 19:09:50 |
 | Updated              | 2021-05-25 19:55:41 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

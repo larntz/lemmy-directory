@@ -3,13 +3,13 @@ title: "Indian Communists"
 name: "indian_communists"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/indian_communists"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 59
 posts: 11
 comments: 5
 weight: 11
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 59 |
 | Posts                | 11  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-04 17:09:08 |
 | Updated              | 2022-03-04 20:00:24 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

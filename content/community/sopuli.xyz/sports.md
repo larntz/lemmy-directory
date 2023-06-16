@@ -3,13 +3,13 @@ title: "We <3 Sports"
 name: "sports"
 description: "A community for sport"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/sports"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ A community for sport
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for sport
 |----------------------|---|
 | Published            | 2022-03-02 13:48:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

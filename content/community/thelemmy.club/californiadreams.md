@@ -3,19 +3,19 @@ title: "California Dreams"
 name: "californiadreams"
 description: "A group for fans of California Dreams, the 90s teen sitcom"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/californiadreams"
 host: thelemmy.club
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 0
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "thelemmy_club"
 tags: 
@@ -42,16 +42,16 @@ A group for fans of California Dreams, the 90s teen sitcom
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 0  |
+| Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 09:15:45 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Updated              | 2023-06-16 17:57:28 |
+| Last Scraped         | 2023-06-16 22:56:23 |

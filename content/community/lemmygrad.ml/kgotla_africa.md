@@ -3,7 +3,7 @@ title: "The Colonial Question"
 name: "kgotla_africa"
 description: "Compatriots, please subscribe and submit concise talking points which will become more detailed proposals over time. The question to be addressed is ways to build momentum for a continental shift to erode the dominance of colonial and imperial influence.A talking point or proposal would describe concisely, the type of operation by way of its intended focus and or methods. For instance, economic, political, or social change - and, by way of business ventures, political campaign or manifesto, media campaign or protest movement."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/kgotla_africa"
@@ -54,4 +54,4 @@ Compatriots, please subscribe and submit concise talking points which will becom
 |----------------------|---|
 | Published            | 2021-02-04 02:56:01 |
 | Updated              | 2021-02-04 03:26:13 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

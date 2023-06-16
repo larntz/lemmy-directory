@@ -3,7 +3,7 @@ title: "Eco"
 name: "eco"
 description: "Ecological"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eco"
@@ -54,4 +54,4 @@ Ecological
 |----------------------|---|
 | Published            | 2019-06-25 12:08:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

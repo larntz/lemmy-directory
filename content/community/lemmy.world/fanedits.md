@@ -3,7 +3,7 @@ title: "Fanedits"
 name: "fanedits"
 description: "A community for faneditors, fanedits, preservation projects, etc."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fanedits"
@@ -53,5 +53,5 @@ A community for faneditors, fanedits, preservation projects, etc.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 18:46:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Updated              | 2023-06-16 13:28:19 |
+| Last Scraped         | 2023-06-16 22:57:13 |

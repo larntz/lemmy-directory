@@ -3,15 +3,15 @@ title: "Web Development"
 name: "webdev"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/webdev"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 351
+subscribers: 390
 posts: 10
-comments: 48
+comments: 65
 weight: 10
 dau: 14
 wau: 27
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 351 |
+| Subscribers          | 390 |
 | Posts                | 10  |
-| Comments             | 48  |
+| Comments             | 65  |
 | Daily Active Users   | 14  |
 | Weekly Active Users  | 27  |
 | Monthly Active Users | 27  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 23:32:59 |
 | Updated              | 2023-06-13 05:13:12 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

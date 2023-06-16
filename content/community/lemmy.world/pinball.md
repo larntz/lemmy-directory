@@ -3,17 +3,17 @@ title: "Pinball"
 name: "pinball"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pinball"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 2
+subscribers: 49
+posts: 3
 comments: 4
-weight: 2
-dau: 2
+weight: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 2  |
+| Subscribers          | 49 |
+| Posts                | 3  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 14:19:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:16 |

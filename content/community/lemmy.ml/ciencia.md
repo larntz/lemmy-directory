@@ -3,7 +3,7 @@ title: "Ciencia"
 name: "ciencia"
 description: "Divulgación científica, discusión de publicaciones, invitaciones a eventos científicos"
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ciencia"
@@ -54,4 +54,4 @@ Divulgación científica, discusión de publicaciones, invitaciones a eventos ci
 |----------------------|---|
 | Published            | 2022-01-19 10:32:18 |
 | Updated              | 2022-01-21 19:04:22 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

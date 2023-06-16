@@ -3,13 +3,13 @@ title: "Witchcraft"
 name: "witchcraft"
 description: "* cultural appropriation from exploited peoples will be moderated with gusto, but do not cry to the mod about a non-Italian getting into *stregheria* or a non-Scandinavian casting runes * linking to an Etsy once or so is fine, but no spam* please don't promote the arbitrary use of endangered species (e.g., palo santo that's *Bulnesia sarmientoi*) by modern practitioners * some people's practice is religious, some people's practice is secular, let's all be respectful "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/witchcraft"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 38
 posts: 11
 comments: 10
 weight: 11
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 38 |
 | Posts                | 11  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-26 20:16:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

@@ -1,9 +1,9 @@
 ---
 title: "lost+found" 
 name: "lost_found"
-description: "Lost something on the internet?  Maybe it's here."
+description: "Lost something on the internet?  Ask here."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/lost_found"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Lost something on the internet?  Maybe it's here.
+Lost something on the internet?  Ask here.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Lost something on the internet?  Maybe it's here.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 20:23:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Updated              | 2023-06-16 22:46:25 |
+| Last Scraped         | 2023-06-16 22:56:28 |

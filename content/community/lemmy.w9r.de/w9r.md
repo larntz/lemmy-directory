@@ -3,7 +3,7 @@ title: "W9r"
 name: "w9r"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.w9r.de/c/w9r"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 15:33:19 |
 | Updated              | 2023-06-11 09:23:30 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:13 |

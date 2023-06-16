@@ -3,13 +3,13 @@ title: "Europe News"
 name: "europe_news"
 description: "For news about Europe. Any other posts will be deleted."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe_news"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 144
+subscribers: 147
 posts: 8
 comments: 2
 weight: 8
@@ -41,7 +41,7 @@ For news about Europe. Any other posts will be deleted.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 144 |
+| Subscribers          | 147 |
 | Posts                | 8  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For news about Europe. Any other posts will be deleted.
 |----------------------|---|
 | Published            | 2020-02-21 13:59:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:36 |

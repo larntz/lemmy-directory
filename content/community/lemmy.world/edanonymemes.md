@@ -3,7 +3,7 @@ title: "ED Anonymemes"
 name: "edanonymemes"
 description: "/r/EDanonymemes but on lemmy Sister Communities- [c/edanonymous](https://lemmy.world/c/edanonymous)"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edanonymemes"
@@ -14,8 +14,8 @@ posts: 3
 comments: 0
 weight: 3
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ tags:
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 13:41:50 |
 | Updated              | 2023-06-15 01:16:47 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

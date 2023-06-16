@@ -3,19 +3,19 @@ title: "Television"
 name: "television"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/television"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 108
-posts: 3
+subscribers: 118
+posts: 4
 comments: 13
-weight: 3
-dau: 2
-wau: 4
-mau: 4
+weight: 4
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 108 |
-| Posts                | 3  |
+| Subscribers          | 118 |
+| Posts                | 4  |
 | Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:47:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

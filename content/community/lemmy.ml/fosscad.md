@@ -3,13 +3,13 @@ title: "FOSSCAD"
 name: "fosscad"
 description: "A community dedicated to the discussion of 3D printed guns and related topics.> Lemmy"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fosscad"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 23
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ A community dedicated to the discussion of 3D printed guns and related topics.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 23 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community dedicated to the discussion of 3D printed guns and related topics.<b
 |----------------------|---|
 | Published            | 2022-11-15 14:50:06 |
 | Updated              | 2022-11-15 14:51:46 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

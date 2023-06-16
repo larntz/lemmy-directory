@@ -3,7 +3,7 @@ title: "a community for the podcast chapo trap house"
 name: "chapotraphouse"
 description: "[Link to the Chapo Trap House Discord server.](https://discord.gg/chapotraphouse)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chapotraphouse"
@@ -14,8 +14,8 @@ posts: 59
 comments: 243
 weight: 59
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ tags:
 | Posts                | 59  |
 | Comments             | 243  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-02-28 00:32:23 |
 | Updated              | 2020-06-30 16:43:40 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:21 |

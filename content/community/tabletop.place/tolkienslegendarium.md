@@ -3,7 +3,7 @@ title: "Tolkien's Legendarium"
 name: "tolkienslegendarium"
 description: "A community dedicated to Tolkien's Legendarium, from the Lord of the Rings, to the Silmarillion, and all of the expanded literature by J.R.R. Tolkien and his estate. This community has a standard for post quality and generally frowns upon joke, memes, and low effort post. While you do not have to be an academic or Tolkien scholar, serious discussion is encouraged, and discussion of third-party media discouraged."
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tolkienslegendarium"
@@ -53,5 +53,5 @@ A community dedicated to Tolkien's Legendarium, from the Lord of the Rings, to t
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 06:09:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Updated              | 2023-06-16 22:22:08 |
+| Last Scraped         | 2023-06-16 22:56:31 |

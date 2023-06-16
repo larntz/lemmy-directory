@@ -3,7 +3,7 @@ title: "Stockholm"
 name: "stockholm"
 description: "Everything related to Stockholm, Sweden."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stockholm"
@@ -54,4 +54,4 @@ Everything related to Stockholm, Sweden.
 |----------------------|---|
 | Published            | 2023-06-16 08:43:58 |
 | Updated              | 2023-06-16 08:44:16 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

@@ -3,13 +3,13 @@ title: "Podcasts"
 name: "podcast"
 description: "Eine Sammlung interessanter Podcasts"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/podcast"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 96
+subscribers: 98
 posts: 25
 comments: 11
 weight: 25
@@ -41,7 +41,7 @@ Eine Sammlung interessanter Podcasts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 96 |
+| Subscribers          | 98 |
 | Posts                | 25  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Eine Sammlung interessanter Podcasts
 |----------------------|---|
 | Published            | 2021-08-23 07:53:03 |
 | Updated              | 2022-08-27 06:32:23 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

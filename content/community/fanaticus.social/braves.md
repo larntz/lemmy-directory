@@ -3,13 +3,13 @@ title: "Braves"
 name: "braves"
 description: "Cloned from [r/Braves](https://old.reddit.com/r/Braves)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/braves"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 20
 posts: 4
 comments: 6
 weight: 4
@@ -41,7 +41,7 @@ Cloned from [r/Braves](https://old.reddit.com/r/Braves)<br><br># Looking for mod
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 20 |
 | Posts                | 4  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Cloned from [r/Braves](https://old.reddit.com/r/Braves)<br><br># Looking for mod
 |----------------------|---|
 | Published            | 2023-06-09 17:19:10 |
 | Updated              | 2023-06-12 16:49:21 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

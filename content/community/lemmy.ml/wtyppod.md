@@ -3,7 +3,7 @@ title: "Well There's Your Problem Podcast"
 name: "wtyppod"
 description: "Well There's Your Problem Podcastis creating a podcast about engineering disasters and systemic failuresCheck out their youtube channel: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPgAnd also their Patreon: https://www.patreon.com/wtyppod"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wtyppod"
@@ -54,4 +54,4 @@ Well There's Your Problem Podcast<br>is creating a podcast about engineering dis
 |----------------------|---|
 | Published            | 2020-07-08 16:07:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

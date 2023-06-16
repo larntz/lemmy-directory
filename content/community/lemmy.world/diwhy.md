@@ -3,13 +3,13 @@ title: "DiWHY"
 name: "diwhy"
 description: "Welcome to /c/DiWHY! This is an alternative to the subreddit /r/DiWHY on Reddit.Ever tried fixing things on your own? Didn't come out the way they were supposed to? Do you stand there questioning your whole life? If so, post your results here to DiWHY (Pronounced: Dee Eye WHY), where shitty DIY projects live prosperously.Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails.Community logo is taken from /r/DiWHY because I suck at art."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/diwhy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 38
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Welcome to /c/DiWHY! This is an alternative to the subreddit /r/DiWHY on Reddit.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 38 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to /c/DiWHY! This is an alternative to the subreddit /r/DiWHY on Reddit.
 |----------------------|---|
 | Published            | 2023-06-12 10:42:56 |
 | Updated              | 2023-06-15 04:22:48 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

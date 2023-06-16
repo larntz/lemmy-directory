@@ -3,13 +3,13 @@ title: "Black Metal Musicians"
 name: "blackmetalmusicians"
 description: "Discussions around creating Black Metal music.*Other Communities for Listeners of Black Metal*- [!blackmetal@lemmy.ml](/c/blackmetal@lemmy.ml)- [!rawblackmetal@lemmy.world](/c/rawblackmetal@lemmy.world)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackmetalmusicians"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Discussions around creating Black Metal music.<br><br>*Other Communities for Lis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions around creating Black Metal music.<br><br>*Other Communities for Lis
 |----------------------|---|
 | Published            | 2023-06-11 17:41:15 |
 | Updated              | 2023-06-11 17:44:10 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

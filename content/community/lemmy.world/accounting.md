@@ -3,7 +3,7 @@ title: "Accounting"
 name: "accounting"
 description: "For accountants and aspiring accountants to discuss this career. All are welcome, professional advice isn’t for this community. This community is intended to provide an alternative to r/accounting based on Reddit's upcoming API changes.Community guidelines1. Be respectful and civil.2. Do not provide professional services but advice to other accountants is welcome.3. No self promotion or advertising.4.  Any unethical actions will be removed."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/accounting"
@@ -54,4 +54,4 @@ For accountants and aspiring accountants to discuss this career. All are welcome
 |----------------------|---|
 | Published            | 2023-06-11 12:53:43 |
 | Updated              | 2023-06-11 13:25:16 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

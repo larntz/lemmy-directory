@@ -3,13 +3,13 @@ title: "Gold Coast"
 name: "goldcoast"
 description: "A place to discuss the Gold Coast.Please follow the  [aussie.zone](https://aussie.zone) rules and be nice to each other.Banner Credit: [@Stoney@aussie.zone](https://aussie.zone/u/Stoney) Icon Credit:  [From Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borobi_mascot_of_the_2018_Commonwealth_Games_at_Surfers_Paradise,_Queensland_01.jpg) []() []()"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/goldcoast"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 4
 comments: 8
 weight: 4
@@ -41,7 +41,7 @@ A place to discuss the Gold Coast.<br><br>Please follow the  [aussie.zone](https
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 4  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss the Gold Coast.<br><br>Please follow the  [aussie.zone](https
 |----------------------|---|
 | Published            | 2023-06-10 05:23:24 |
 | Updated              | 2023-06-15 06:54:42 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

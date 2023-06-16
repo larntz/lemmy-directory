@@ -3,13 +3,13 @@ title: "UKPersonalFinance"
 name: "ukpersonalfinance"
 description: "Placeholder"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukpersonalfinance"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 70
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Placeholder
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 70 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Placeholder
 |----------------------|---|
 | Published            | 2023-06-13 13:20:30 |
 | Updated              | 2023-06-13 13:21:19 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

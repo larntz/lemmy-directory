@@ -3,13 +3,13 @@ title: "math"
 name: "math"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/math"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 51
+subscribers: 52
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
+| Subscribers          | 52 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 20:51:02 |
 | Updated              | 2023-06-15 07:15:14 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "Система - Systema"
 name: "systema"
 description: "Systema (SK, Systema, Система Кадочникова, РБС) is a Russian military combative/survival system based on mechanical and psychological training practices. Developed in the USSR through the 1970s and 1980s by Alexey Kadochnikov at the Polytechnical Institue in Krasandor to be an iterative training program for GRU Spetsnaz troops. Modern schools include Kadochnikov Academy, ROSS, SPASS, MARS, IZVOR, VOLK, Transition CRT, Systema Maksimtsov, Systema Ryabko, Strela, Systema Boya, and Systema SV."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/systema"
@@ -54,4 +54,4 @@ Systema (SK, Systema, Система Кадочникова, РБС) is a Russia
 |----------------------|---|
 | Published            | 2022-08-12 13:50:22 |
 | Updated              | 2022-08-12 13:50:34 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

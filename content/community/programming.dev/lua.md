@@ -3,13 +3,13 @@ title: "Lua"
 name: "lua"
 description: "Lemmy community dedicated to the Lua programming language.### About LuaLua is a powerful and lightweight dynamically typed programming language, often embedded into applications to extend their API.### Resources[lua.org](https://www.lua.org/) - official website  [lua.org/pil](https://www.lua.org/pil) - book  [lua.org/manual](https://www.lua.org/manual) - documentation  [luarocks.org](https://luarocks.org/) - package manager  ### RulesYou may read full set of rules [here](https://programming.dev/post/16445).  Too long; didn't read:1. Posts must relate to Lua2. Use descriptive titles3. Provide reproduction code4. Information about environment"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/lua"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 65
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ Lemmy community dedicated to the Lua programming language.<br><br>### About Lua<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 65 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lemmy community dedicated to the Lua programming language.<br><br>### About Lua<
 |----------------------|---|
 | Published            | 2023-06-11 21:05:44 |
 | Updated              | 2023-06-12 03:34:30 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

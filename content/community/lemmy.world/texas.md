@@ -3,19 +3,19 @@ title: "Texas"
 name: "texas"
 description: "A community for news, current events, and overall topics regarding the state of Texas**Other Texas Lemmy Communties to follow**[Houston](https://lemmy.world/c/houston) - [Austin](https://lemmy.world/c/austin) - [Dallas-Fortworth](https://lemmy.world/c/dfw)**Sports**[Houston Texans](https://lemmy.world/c/texans@lemmy.rogers-net.com) - [Houston Rockets](https://lemmy.world/c/rockets) - [Dallas Cowboys](https://lemmy.world/c/dallascowboys@lemmy.ml)[BYPASSING PAYWALLS](https://archive.is/)**Rules (Subject to Change)**--Be a Decent Human Being--Posting news articles: include the source name and exact title from article in your post title--Posts must have something to do with Texas--Zero tolerance for Racism/Sexism/Ableism/etc.--No NSFW content--Abide by the rules of lemmy.world"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/texas"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 231
+subscribers: 247
 posts: 46
 comments: 74
 weight: 46
-dau: 15
-wau: 25
-mau: 25
+dau: 11
+wau: 33
+mau: 33
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for news, current events, and overall topics regarding the state of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 231 |
+| Subscribers          | 247 |
 | Posts                | 46  |
 | Comments             | 74  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 25  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for news, current events, and overall topics regarding the state of 
 |----------------------|---|
 | Published            | 2023-06-11 06:35:48 |
 | Updated              | 2023-06-15 05:18:27 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

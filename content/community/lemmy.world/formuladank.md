@@ -3,19 +3,19 @@ title: "Oh shit it's RAWE CEEK (formuladank)"
 name: "formuladank"
 description: "We are checking"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/formuladank"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 569
-posts: 22
-comments: 42
-weight: 22
-dau: 12
-wau: 19
-mau: 19
+subscribers: 602
+posts: 26
+comments: 48
+weight: 26
+dau: 9
+wau: 32
+mau: 33
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ We are checking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 569 |
-| Posts                | 22  |
-| Comments             | 42  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
+| Subscribers          | 602 |
+| Posts                | 26  |
+| Comments             | 48  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 32  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ We are checking
 |----------------------|---|
 | Published            | 2023-06-06 19:20:15 |
 | Updated              | 2023-06-15 08:02:29 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,13 +3,13 @@ title: "Talk about the great state of Maine"
 name: "maine"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maine"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-07-25 02:04:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:34 |

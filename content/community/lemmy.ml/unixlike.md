@@ -3,7 +3,7 @@ title: "unix-like "
 name: "unixlike"
 description: "While Linux is unix-like and it can be allowed here this community is focused on smaller operating systems in general. Also while this is mostly for unix/unix-like systems it's not a hard rule. You can post news and discussion on other systems like ReactOS and kolibriOS"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unixlike"
@@ -54,4 +54,4 @@ While Linux is unix-like and it can be allowed here this community is focused on
 |----------------------|---|
 | Published            | 2020-06-30 14:34:05 |
 | Updated              | 2021-01-28 21:25:07 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

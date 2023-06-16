@@ -3,13 +3,13 @@ title: "Lemmy Review"
 name: "lemmyreview"
 description: "Funny, Bizarre and Awful. Here is a home to post Reviews, Feedback, Listings and Q&As from E-stores across the internet!...**Also check out:****Partnered Communities:**1.[Lemmy Review](/c/lemmyreview@lemmy.world)2.[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)3.[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)4.[No Stupid Questions](/c/nostupidquestions@lemmy.world)5.[You Should Know](/c/youshouldknow@lemmy.world)..."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmyreview"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 238
+subscribers: 243
 posts: 6
 comments: 11
 weight: 6
@@ -41,7 +41,7 @@ Funny, Bizarre and Awful. Here is a home to post Reviews, Feedback, Listings and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 238 |
+| Subscribers          | 243 |
 | Posts                | 6  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Funny, Bizarre and Awful. Here is a home to post Reviews, Feedback, Listings and
 |----------------------|---|
 | Published            | 2023-06-08 14:41:02 |
 | Updated              | 2023-06-13 17:29:12 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

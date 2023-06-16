@@ -3,13 +3,13 @@ title: "Drug Addiction"
 name: "drugs"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/drugs"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 58
 comments: 32
 weight: 58
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 58  |
 | Comments             | 32  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-03 21:55:18 |
 | Updated              | 2022-08-06 22:13:47 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

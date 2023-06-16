@@ -3,13 +3,13 @@ title: "Diseases"
 name: "diseases"
 description: "With a concentration on emerging infections diseases, but anything disease related can be posted here"
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/diseases"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 11
 comments: 0
 weight: 11
@@ -41,7 +41,7 @@ With a concentration on emerging infections diseases, but anything disease relat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ With a concentration on emerging infections diseases, but anything disease relat
 |----------------------|---|
 | Published            | 2022-05-22 09:10:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

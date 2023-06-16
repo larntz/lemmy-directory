@@ -3,13 +3,13 @@ title: "Te Wai Pounamu / South Island"
 name: "southisland"
 description: "Kia ora and welcome to the **Te Wai Pounamu / South Island** community!A community for Te Wai Pounamu / South Island related conversations - from the waves of Bluff's shores to the sunshine of Nelson - and everywhere in-between!Credit to [@rjd@lemmy.nz](https://lemmy.nz/u/rjd) for the banner photo!"
 type: community
-date: "2023-06-16 11:06:00"
+date: "2023-06-16 22:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/southisland"
 host: lemmy.nz
 lastmod: "{[ .Updated }}"
-subscribers: 63
+subscribers: 64
 posts: 11
 comments: 53
 weight: 11
@@ -41,7 +41,7 @@ Kia ora and welcome to the **Te Wai Pounamu / South Island** community!<br><br>A
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
+| Subscribers          | 64 |
 | Posts                | 11  |
 | Comments             | 53  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ Kia ora and welcome to the **Te Wai Pounamu / South Island** community!<br><br>A
 |----------------------|---|
 | Published            | 2023-06-10 08:04:29 |
 | Updated              | 2023-06-13 09:11:58 |
-| Last Scraped         | 2023-06-16 11:06:00 |
+| Last Scraped         | 2023-06-16 22:55:56 |

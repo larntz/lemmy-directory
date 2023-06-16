@@ -3,7 +3,7 @@ title: "aws: Amazon Web Services"
 name: "aws"
 description: "A general discussion on topics for aws: Amazon Web Services"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/aws"
@@ -54,4 +54,4 @@ A general discussion on topics for aws: Amazon Web Services
 |----------------------|---|
 | Published            | 2023-06-14 05:40:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

@@ -3,19 +3,19 @@ title: "Yakuza | Ryu Ga Gotoku | Like a Dragon"
 name: "likeadragon"
 description: "![](https://lemmy.world/pictrs/image/88db20fc-ff82-4bfe-b13c-7639cea6c667.png)**Rules:**- Be careful about making reposts.- Don't downvote posts just because you disagree with them. Downvote posts that don't follow the rules.- Don't steal content you did not make and post it as yours.- Read a linked article before commenting on it.- Upvote good comments and posts. If a post is worth reading or commenting on it probably is worth an upvote.- Avoid being a jerk. Insulting other users almost never leads anywhere good.- Flaming and using foul language is not a nice way to present yourself online.- Be respectful when possible.- Remember that people have different opinions.**Self Promotion:**- You are allowed to share any content (regarding the topic of this community) that you made yourself (such as videos, articles, art...). You can share a maximum of one self-promotion post per week."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/likeadragon"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 43
 posts: 4
 comments: 4
 weight: 4
-dau: 4
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 43 |
 | Posts                | 4  |
 | Comments             | 4  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 16:58:31 |
 | Updated              | 2023-06-14 10:14:56 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

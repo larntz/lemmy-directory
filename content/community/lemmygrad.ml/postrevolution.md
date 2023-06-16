@@ -3,13 +3,13 @@ title: "Post Revolution Life"
 name: "postrevolution"
 description: "Community intended for discussing how a country could be after a revolution, and the history of a past country who underwent a revolution and succeeded. Rules: Follow site rules, no fascists, and don't be a jerk "
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/postrevolution"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 2
 comments: 19
 weight: 2
@@ -41,7 +41,7 @@ Community intended for discussing how a country could be after a revolution, and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 2  |
 | Comments             | 19  |
 | Daily Active Users   | 7  |
@@ -54,4 +54,4 @@ Community intended for discussing how a country could be after a revolution, and
 |----------------------|---|
 | Published            | 2022-10-01 01:08:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

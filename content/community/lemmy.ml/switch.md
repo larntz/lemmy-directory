@@ -3,18 +3,18 @@ title: "Nintendo Switch"
 name: "switch"
 description: "Community for stuff around the Nintendo Switch"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switch"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 353
+subscribers: 367
 posts: 10
-comments: 13
+comments: 14
 weight: 10
 dau: 2
-wau: 10
+wau: 9
 mau: 10
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Community for stuff around the Nintendo Switch
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 353 |
+| Subscribers          | 367 |
 | Posts                | 10  |
-| Comments             | 13  |
+| Comments             | 14  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 10  |
+| Weekly Active Users  | 9  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ Community for stuff around the Nintendo Switch
 |----------------------|---|
 | Published            | 2019-12-31 13:34:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

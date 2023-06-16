@@ -3,19 +3,19 @@ title: "Life Pro Tips"
 name: "lifeprotips"
 description: "Tips that improve your life in one way or another."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifeprotips"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 307
-posts: 4
+subscribers: 324
+posts: 5
 comments: 2
-weight: 4
+weight: 5
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Tips that improve your life in one way or another.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 307 |
-| Posts                | 4  |
+| Subscribers          | 324 |
+| Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Tips that improve your life in one way or another.
 |----------------------|---|
 | Published            | 2022-01-13 10:41:17 |
 | Updated              | 2022-01-13 10:49:03 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:23 |

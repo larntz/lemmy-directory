@@ -3,7 +3,7 @@ title: "Benelux"
 name: "benelux"
 description: "A place for all comrades in the BeneluxEnglish, Dutch, French, Luxembourgish and minority languages spoken in the Benelux are allowed here"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/benelux"
@@ -54,4 +54,4 @@ A place for all comrades in the Benelux<br><br>English, Dutch, French, Luxembour
 |----------------------|---|
 | Published            | 2022-03-26 14:14:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,7 +3,7 @@ title: "Outdoors"
 name: "outdoors"
 description: "For outdoors discussions like camping, fishing, hunting, hiking, the environment, etc."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/outdoors"
@@ -54,4 +54,4 @@ For outdoors discussions like camping, fishing, hunting, hiking, the environment
 |----------------------|---|
 | Published            | 2023-02-05 03:11:11 |
 | Updated              | 2023-02-05 03:14:42 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:37 |

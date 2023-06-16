@@ -3,19 +3,19 @@ title: "Gun Deals"
 name: "gundeals"
 description: "Post links related to great deals on firearm related products! "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gundeals"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 106
 posts: 8
 comments: 14
 weight: 8
-dau: 5
-wau: 9
-mau: 9
+dau: 1
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Post links related to great deals on firearm related products!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 106 |
 | Posts                | 8  |
 | Comments             | 14  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post links related to great deals on firearm related products!
 |----------------------|---|
 | Published            | 2023-06-10 01:01:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

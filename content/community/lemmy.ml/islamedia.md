@@ -3,7 +3,7 @@ title: "ISLAMEDIA - إسلاميديا"
 name: "islamedia"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/islamedia"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-06 10:51:31 |
 | Updated              | 2021-04-07 19:19:20 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

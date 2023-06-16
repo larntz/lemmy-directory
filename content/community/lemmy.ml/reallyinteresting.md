@@ -3,13 +3,13 @@ title: "Really Interesting"
 name: "reallyinteresting"
 description: "No rules for nowIf you find anything interesting, be sure to post it here."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reallyinteresting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 335
+subscribers: 341
 posts: 79
 comments: 86
 weight: 79
@@ -41,7 +41,7 @@ No rules for now<br>If you find anything interesting, be sure to post it here.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 335 |
+| Subscribers          | 341 |
 | Posts                | 79  |
 | Comments             | 86  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ No rules for now<br>If you find anything interesting, be sure to post it here.
 |----------------------|---|
 | Published            | 2021-06-10 07:23:53 |
 | Updated              | 2021-06-10 07:34:12 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

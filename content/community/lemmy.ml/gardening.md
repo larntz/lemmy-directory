@@ -3,13 +3,13 @@ title: "Gardening"
 name: "gardening"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gardening"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 240
+subscribers: 243
 posts: 18
 comments: 27
 weight: 18
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 240 |
+| Subscribers          | 243 |
 | Posts                | 18  |
 | Comments             | 27  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-21 15:26:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:21 |

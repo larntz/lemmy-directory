@@ -3,7 +3,7 @@ title: "Cartoon Network"
 name: "cartoonnetwork"
 description: "Related to Cartoon Network & Adult Swim content.For CN fans, by CN fans."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cartoonnetwork"
@@ -54,4 +54,4 @@ Related to Cartoon Network & Adult Swim content.<br><br>For CN fans, by CN fans.
 |----------------------|---|
 | Published            | 2020-05-11 13:33:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

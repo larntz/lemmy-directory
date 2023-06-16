@@ -1,9 +1,9 @@
 ---
 title: "Animation" 
 name: "animation"
-description: "Description not available."
+description: "Where Imagination Comes to Life with Color, Motion, and Endless Possibilities"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animation"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Where Imagination Comes to Life with Color, Motion, and Endless Possibilities<br>
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 15:22:37 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Updated              | 2023-06-16 11:41:53 |
+| Last Scraped         | 2023-06-16 22:57:16 |

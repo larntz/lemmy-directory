@@ -3,13 +3,13 @@ title: "Gesellschaft"
 name: "gesellschaft"
 description: "Gesellschaftliche Themen::: spoiler AttributionIcon made by [Freepik](https://www.freepik.com)<a href=https://www.freepik.com title=Freepik>Freepik</a> from [Flaticon](https://www.flaticon.com/):::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gesellschaft"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 354
+subscribers: 362
 posts: 105
 comments: 108
 weight: 105
@@ -41,7 +41,7 @@ Gesellschaftliche Themen<br><br><br>::: spoiler Attribution<br><br>Icon made by 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 354 |
+| Subscribers          | 362 |
 | Posts                | 105  |
 | Comments             | 108  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Gesellschaftliche Themen<br><br><br>::: spoiler Attribution<br><br>Icon made by 
 |----------------------|---|
 | Published            | 2021-12-22 07:28:29 |
 | Updated              | 2021-12-22 07:46:17 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

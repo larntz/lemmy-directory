@@ -3,7 +3,7 @@ title: "Bogensport "
 name: "bogensport"
 description: "Eine Community über den Bogensport in DACH. Willkommen sind alle Klassen und Disziplinen, vom Bogenbau bis zum Verbandsregelwerk. "
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bogensport"
@@ -54,4 +54,4 @@ Eine Community über den Bogensport in DACH. Willkommen sind alle Klassen und Di
 |----------------------|---|
 | Published            | 2023-06-05 17:08:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

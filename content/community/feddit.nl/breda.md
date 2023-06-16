@@ -3,7 +3,7 @@ title: "Breda"
 name: "breda"
 description: "Everything about the city of Breda."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/breda"
@@ -54,4 +54,4 @@ Everything about the city of Breda.
 |----------------------|---|
 | Published            | 2023-06-13 12:31:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

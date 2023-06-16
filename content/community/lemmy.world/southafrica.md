@@ -3,19 +3,19 @@ title: "South Africa"
 name: "southafrica"
 description: "All re South AfricaRules:1. Respect, as we are all family.2. Advertise not more than once a week.3. Same rules as [Mastedon](https://mastodon.world/about).4. Be lekker!"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/southafrica"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 60
 posts: 15
 comments: 52
 weight: 15
-dau: 4
-wau: 12
-mau: 13
+dau: 5
+wau: 14
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ All re South Africa<br><br>Rules:<br>1. Respect, as we are all family.<br>2. Adv
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 60 |
 | Posts                | 15  |
 | Comments             | 52  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 13  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ All re South Africa<br><br>Rules:<br>1. Respect, as we are all family.<br>2. Adv
 |----------------------|---|
 | Published            | 2023-06-05 12:50:57 |
 | Updated              | 2023-06-16 09:13:01 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

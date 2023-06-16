@@ -3,7 +3,7 @@ title: "Anarcho Book Club"
 name: "anarchobookclub"
 description: "We are committed to the discussion of all things anarchy. The Anarcho Book Club reviews and publishes the works of the world’s greatest anarchists. From Goldman to Rothbard to Chomsky to Trotsky."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchobookclub"
@@ -54,4 +54,4 @@ We are committed to the discussion of all things anarchy. The Anarcho Book Club 
 |----------------------|---|
 | Published            | 2020-11-29 23:09:59 |
 | Updated              | 2021-02-27 15:32:30 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

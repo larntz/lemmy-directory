@@ -3,7 +3,7 @@ title: "openHAB"
 name: "openhab"
 description: "This group is for discussing openHAB, a vendor and technology agnostic open source automation software for your home. "
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/openhab"
@@ -54,4 +54,4 @@ This group is for discussing openHAB, a vendor and technology agnostic open sour
 |----------------------|---|
 | Published            | 2023-06-13 04:03:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

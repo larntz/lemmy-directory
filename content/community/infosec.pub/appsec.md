@@ -3,16 +3,16 @@ title: "appsec"
 name: "appsec"
 description: "A community for all things related to application security."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:52"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/appsec"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 0
+subscribers: 4
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ A community for all things related to application security.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
+| Subscribers          | 4 |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -53,5 +53,5 @@ A community for all things related to application security.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:24:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Updated              | 2023-06-16 20:27:02 |
+| Last Scraped         | 2023-06-16 22:55:52 |

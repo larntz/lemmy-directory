@@ -3,19 +3,19 @@ title: "Emacs"
 name: "emacs"
 description: "Our infinitely powerful editor."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emacs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 599
-posts: 74
+subscribers: 621
+posts: 75
 comments: 87
-weight: 74
-dau: 7
-wau: 18
-mau: 19
+weight: 75
+dau: 4
+wau: 22
+mau: 26
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Our infinitely powerful editor.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 599 |
-| Posts                | 74  |
+| Subscribers          | 621 |
+| Posts                | 75  |
 | Comments             | 87  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 19  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 22  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ Our infinitely powerful editor.
 |----------------------|---|
 | Published            | 2020-01-18 02:35:49 |
 | Updated              | 2023-06-07 20:40:21 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:44 |

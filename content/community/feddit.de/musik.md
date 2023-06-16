@@ -3,16 +3,16 @@ title: "Musik"
 name: "musik"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musik"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 191
-posts: 83
-comments: 44
-weight: 83
+subscribers: 197
+posts: 85
+comments: 47
+weight: 85
 dau: 5
 wau: 14
 mau: 20
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 191 |
-| Posts                | 83  |
-| Comments             | 44  |
+| Subscribers          | 197 |
+| Posts                | 85  |
+| Comments             | 47  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 20  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-05 05:25:52 |
 | Updated              | 2021-09-18 07:09:10 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

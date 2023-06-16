@@ -3,7 +3,7 @@ title: "Ante Meridiem's meta community"
 name: "meta"
 description: "Meta discussion about this specific lemmy.antemeridiem.xyz instance.Post your grievances, suggestions and tune in for announcements! "
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/meta"
@@ -11,11 +11,11 @@ host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
 subscribers: 9
 posts: 1
-comments: 3
+comments: 4
 weight: 1
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_antemeridiem_xyz"
 tags: 
@@ -43,10 +43,10 @@ Meta discussion about this specific lemmy.antemeridiem.xyz instance.<br><br>Post
 |----------------------|---|
 | Subscribers          | 9 |
 | Posts                | 1  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Meta discussion about this specific lemmy.antemeridiem.xyz instance.<br><br>Post
 |----------------------|---|
 | Published            | 2023-06-10 19:30:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

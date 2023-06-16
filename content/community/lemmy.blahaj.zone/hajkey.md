@@ -3,7 +3,7 @@ title: "Hajkey"
 name: "hajkey"
 description: "Hajkey (pronounced something like Hi-Key)A fork of Calckey, from the folk behind blahaj.zone "
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/hajkey"
@@ -54,4 +54,4 @@ Hajkey (pronounced something like Hi-Key)<br><br>A fork of Calckey, from the fol
 |----------------------|---|
 | Published            | 2023-06-14 03:58:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

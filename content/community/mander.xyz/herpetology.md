@@ -3,13 +3,13 @@ title: "Reptiles and Amphibians"
 name: "herpetology"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/herpetology"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 169
+subscribers: 192
 posts: 17
 comments: 25
 weight: 17
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 169 |
+| Subscribers          | 192 |
 | Posts                | 17  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-19 01:13:25 |
 | Updated              | 2021-12-20 19:41:46 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -3,7 +3,7 @@ title: "Anonymity"
 name: "anonymity"
 description: "Anonymity gives you safety to share your findings. Whether that’s whistleblowing or ideas or results, having your real identity attached may be more risk than it’s worth.[!anonymity@lemmy.ml](https://lemmy.ml/c/anonymity) is looking for mods! Please message the mods to nominate one."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anonymity"
@@ -54,4 +54,4 @@ Anonymity gives you safety to share your findings. Whether that’s whistleblowi
 |----------------------|---|
 | Published            | 2022-02-24 19:33:11 |
 | Updated              | 2022-03-07 07:48:28 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

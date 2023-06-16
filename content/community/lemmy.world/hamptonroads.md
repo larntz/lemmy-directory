@@ -3,13 +3,13 @@ title: "Hampton Roads, Virginia"
 name: "hamptonroads"
 description: "A community for the Hampton Roads/Tidewater, Virginia area. Share and discuss all things 7 Cities related - Chesapeake, Hampton, Newport News, Norfolk, Portsmouth, Suffolk, and Virginia Beach and more including Williamsburg, Poquoson, James City County, and York County."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hamptonroads"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ A community for the Hampton Roads/Tidewater, Virginia area. Share and discuss al
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for the Hampton Roads/Tidewater, Virginia area. Share and discuss al
 |----------------------|---|
 | Published            | 2023-06-11 13:18:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

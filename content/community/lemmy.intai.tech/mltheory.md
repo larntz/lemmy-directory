@@ -3,17 +3,17 @@ title: "ML Theory | Research"
 name: "mltheory"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/mltheory"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 71
 comments: 8
 weight: 71
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 71  |
 | Comments             | 8  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 05:26:10 |
 | Updated              | 2023-06-13 23:50:35 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

@@ -3,19 +3,19 @@ title: "Cats!"
 name: "cats"
 description: "### **The CAT**Share. The. Cat!**Basic community rules:**- No spreading of fake news or misinformation.- Sexually explicit or violent media must be marked as sensitive when posting.- No racism, sexism, homophobia, transphobia, xenophobia, or casteism.- No incitement of violence or promotion of violent ideologies.- No harassment, dogpiling or doxxing of other users.- No illegal content."
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://u.fail/c/cats"
 host: u.fail
 lastmod: "{[ .Updated }}"
-subscribers: 46
-posts: 14
-comments: 17
-weight: 14
-dau: 13
-wau: 17
-mau: 17
+subscribers: 56
+posts: 17
+comments: 18
+weight: 17
+dau: 7
+wau: 19
+mau: 19
 instances:
 - "u_fail"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 14  |
-| Comments             | 17  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Subscribers          | 56 |
+| Posts                | 17  |
+| Comments             | 18  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 16:26:35 |
 | Updated              | 2023-06-15 22:25:29 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

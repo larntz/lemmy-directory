@@ -1,21 +1,21 @@
 ---
 title: "Warhammer 40k" 
 name: "warhammer40k"
-description: "A community dedicated to the universe of Warhammer 40k, a tabletop world set in the far, distant future."
+description: "A community dedicated to the universe of Warhammer 40k, a tabletop world set in the far, distant future.[10th Edition Rules](https://www.warhammer-community.com/warhammer-40000-downloads/)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warhammer40k"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 465
-posts: 37
-comments: 114
-weight: 37
-dau: 15
-wau: 37
-mau: 37
+subscribers: 499
+posts: 41
+comments: 134
+weight: 41
+dau: 18
+wau: 55
+mau: 55
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community dedicated to the universe of Warhammer 40k, a tabletop world set in the far, distant future.
+A community dedicated to the universe of Warhammer 40k, a tabletop world set in the far, distant future.<br><br>[10th Edition Rules](https://www.warhammer-community.com/warhammer-40000-downloads/)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A community dedicated to the universe of Warhammer 40k, a tabletop world set in 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 465 |
-| Posts                | 37  |
-| Comments             | 114  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 37  |
-| Monthly Active Users | 37  |
+| Subscribers          | 499 |
+| Posts                | 41  |
+| Comments             | 134  |
+| Daily Active Users   | 18  |
+| Weekly Active Users  | 55  |
+| Monthly Active Users | 55  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 14:53:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Updated              | 2023-06-16 19:23:54 |
+| Last Scraped         | 2023-06-16 22:57:15 |

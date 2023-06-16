@@ -3,7 +3,7 @@ title: "Leveraged ETFs"
 name: "letfs"
 description: "I'll polish this up later"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/letfs"
@@ -54,4 +54,4 @@ I'll polish this up later
 |----------------------|---|
 | Published            | 2023-06-08 21:39:49 |
 | Updated              | 2023-06-08 21:40:18 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

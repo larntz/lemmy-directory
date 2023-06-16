@@ -3,13 +3,13 @@ title: "sino"
 name: "sino"
 description: "Please use c/China."
 type: community
-date: "2023-06-15 17:37:01"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sino"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 60
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Please use c/China.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 60 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Please use c/China.
 |----------------------|---|
 | Published            | 2020-07-12 02:16:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:01 |
+| Last Scraped         | 2023-06-16 22:56:08 |

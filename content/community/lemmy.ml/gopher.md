@@ -3,7 +3,7 @@ title: "gopher"
 name: "gopher"
 description: "All about Gopher protocol and software : https://en.wikipedia.org/wiki/Gopher_(protocol)"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gopher"
@@ -54,4 +54,4 @@ All about Gopher protocol and software : https://en.wikipedia.org/wiki/Gopher_(p
 |----------------------|---|
 | Published            | 2020-07-04 16:19:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

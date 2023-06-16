@@ -3,7 +3,7 @@ title: "The Ministry"
 name: "theministry"
 description: "Welcome to the funny community I guess"
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theministry"
@@ -54,4 +54,4 @@ Welcome to the funny community I guess
 |----------------------|---|
 | Published            | 2020-06-29 21:40:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:22 |

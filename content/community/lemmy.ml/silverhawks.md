@@ -3,7 +3,7 @@ title: "Silverhawks"
 name: "silverhawks"
 description: "Wings of Silver, nerves of steel. Partly metal, partly real. A sublemmy for all things Silverhawks related."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/silverhawks"
@@ -54,4 +54,4 @@ Wings of Silver, nerves of steel. Partly metal, partly real. A sublemmy for all 
 |----------------------|---|
 | Published            | 2023-06-08 19:34:07 |
 | Updated              | 2023-06-11 03:42:26 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

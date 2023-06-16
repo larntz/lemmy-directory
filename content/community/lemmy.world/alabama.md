@@ -3,13 +3,13 @@ title: "Sweet Home Alabama"
 name: "alabama"
 description: "A Fediverse community for news and discussion pertaining to the state of Alabama. Low effort/troll posts will be deleted and are subject to permaban."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alabama"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A Fediverse community for news and discussion pertaining to the state of Alabama
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A Fediverse community for news and discussion pertaining to the state of Alabama
 |----------------------|---|
 | Published            | 2023-06-14 11:54:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

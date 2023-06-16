@@ -3,7 +3,7 @@ title: "Drunk"
 name: "drunk"
 description: "A place to hang out and drink. Post what you're drinking, what you're doing, or anything else"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/drunk"
@@ -54,4 +54,4 @@ A place to hang out and drink. Post what you're drinking, what you're doing, or 
 |----------------------|---|
 | Published            | 2023-06-14 01:53:33 |
 | Updated              | 2023-06-15 01:34:46 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

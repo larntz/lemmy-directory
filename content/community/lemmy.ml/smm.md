@@ -3,7 +3,7 @@ title: "Social Media Marketing"
 name: "smm"
 description: "Discussions on Social Media Marketing"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smm"
@@ -54,4 +54,4 @@ Discussions on Social Media Marketing
 |----------------------|---|
 | Published            | 2022-02-14 05:05:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

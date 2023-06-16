@@ -1,15 +1,15 @@
 ---
 title: "Skullgirls" 
 name: "skullgirls"
-description: "##**[Rules & Guidelines](https://www.reddit.com/r/Skullgirls/comments/5audj4/subreddit_rules_guidelines/)** ~ Read before posting! ~***##**[Mizuumi SG Beginner's FAQ](https://wiki.gbl.gg/w/Skullgirls/FAQ)** ~ Read this before posting! ~***##**[Watch Skullgirls Streams!](https://www.twitch.tv/directory/game/Skullgirls)*****##**[Official Skullgirls Discord](https://discord.gg/0WWSQspQVqkHy4In)*****##**[Follow on Twitter](https://twitter.com/rSkullgirls)**"
+description: "##**[Rules & Guidelines](https://lemmy.ml/post/1174816)** ~ Read before posting! ~***##**[Mizuumi SG Beginner's FAQ](https://wiki.gbl.gg/w/Skullgirls/FAQ)** ~ Read this before posting! ~***##**[Watch Skullgirls Streams!](https://www.twitch.tv/directory/game/Skullgirls)*****##**[Official Skullgirls Discord](https://discord.gg/0WWSQspQVqkHy4In)*****"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skullgirls"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-##**[Rules & Guidelines](https://www.reddit.com/r/Skullgirls/comments/5audj4/subreddit_rules_guidelines/)** ~ Read before posting! ~<br><br>***<br>##**[Mizuumi SG Beginner's FAQ](https://wiki.gbl.gg/w/Skullgirls/FAQ)** ~ Read this before posting! ~<br><br>***<br>##**[Watch Skullgirls Streams!](https://www.twitch.tv/directory/game/Skullgirls)**<br><br>***<br>##**[Official Skullgirls Discord](https://discord.gg/0WWSQspQVqkHy4In)**<br><br>***<br>##**[Follow on Twitter](https://twitter.com/rSkullgirls)**
+##**[Rules & Guidelines](https://lemmy.ml/post/1174816)** ~ Read before posting! ~<br><br>***<br>##**[Mizuumi SG Beginner's FAQ](https://wiki.gbl.gg/w/Skullgirls/FAQ)** ~ Read this before posting! ~<br><br>***<br>##**[Watch Skullgirls Streams!](https://www.twitch.tv/directory/game/Skullgirls)**<br><br>***<br>##**[Official Skullgirls Discord](https://discord.gg/0WWSQspQVqkHy4In)**<br><br>***<br>
 </blockquote>
 
 
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ tags:
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 18:03:46 |
-| Updated              | 2023-06-08 18:30:10 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Updated              | 2023-06-15 21:36:57 |
+| Last Scraped         | 2023-06-16 22:57:41 |

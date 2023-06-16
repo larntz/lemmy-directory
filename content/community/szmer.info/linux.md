@@ -3,19 +3,19 @@ title: "Linux"
 name: "linux"
 description: "Linux i memy"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/linux"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 111
-posts: 58
-comments: 115
-weight: 58
-dau: 1
-wau: 2
-mau: 2
+posts: 59
+comments: 116
+weight: 59
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "szmer_info"
 tags: 
@@ -42,11 +42,11 @@ Linux i memy
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 111 |
-| Posts                | 58  |
-| Comments             | 115  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Posts                | 59  |
+| Comments             | 116  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Linux i memy
 |----------------------|---|
 | Published            | 2021-05-10 19:23:50 |
 | Updated              | 2021-05-12 12:18:44 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

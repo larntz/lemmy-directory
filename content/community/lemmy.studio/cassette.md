@@ -3,13 +3,13 @@ title: "Cassette tapes and more"
 name: "cassette"
 description: "Discussion about cassettes: new releases, loops, and more!"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/cassette"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Discussion about cassettes: new releases, loops, and more!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion about cassettes: new releases, loops, and more!
 |----------------------|---|
 | Published            | 2023-06-05 19:27:31 |
 | Updated              | 2023-06-06 01:16:13 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:58 |

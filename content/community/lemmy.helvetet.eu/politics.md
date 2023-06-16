@@ -3,13 +3,13 @@ title: "Politics"
 name: "politics"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/politics"
 host: lemmy.helvetet.eu
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 7
 comments: 2
 weight: 7
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 7  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-01 18:29:40 |
 | Updated              | 2023-04-01 19:08:37 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "👔|Antiwork"
 name: "antiwork"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/antiwork"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-01-19 09:40:46 |
 | Updated              | 2023-02-02 01:47:28 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,13 +3,13 @@ title: "Literacia Financeira"
 name: "literaciafinanceira"
 description: "Uma comunidade focada em questões de literacia financeira."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/literaciafinanceira"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Uma comunidade focada em questões de literacia financeira.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 22 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Uma comunidade focada em questões de literacia financeira.
 |----------------------|---|
 | Published            | 2023-06-14 18:31:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

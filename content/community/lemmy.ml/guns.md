@@ -3,18 +3,18 @@ title: "A place to discuss guns"
 name: "guns"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guns"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 101
+subscribers: 103
 posts: 9
-comments: 9
+comments: 10
 weight: 9
 dau: 2
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 101 |
+| Subscribers          | 103 |
 | Posts                | 9  |
-| Comments             | 9  |
+| Comments             | 10  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 22:56:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

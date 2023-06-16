@@ -3,13 +3,13 @@ title: "hopeposting"
 name: "hopeposting"
 description: "Proof of the indomitable human spirit "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hopeposting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 40
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Proof of the indomitable human spirit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 40 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Proof of the indomitable human spirit
 |----------------------|---|
 | Published            | 2023-06-08 23:47:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

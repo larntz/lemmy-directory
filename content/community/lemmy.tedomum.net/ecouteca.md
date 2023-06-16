@@ -3,7 +3,7 @@ title: "ÉcouteÇa"
 name: "ecouteca"
 description: "Partage ta musique du moment."
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/ecouteca"
@@ -54,4 +54,4 @@ Partage ta musique du moment.
 |----------------------|---|
 | Published            | 2021-07-15 05:06:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

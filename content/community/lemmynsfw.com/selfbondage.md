@@ -3,13 +3,13 @@ title: "Selfbondage"
 name: "selfbondage"
 description: "For selfbondage enthusiasts to post stories, pictures, art, and information. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/selfbondage"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 85
+subscribers: 94
 posts: 2
 comments: 0
 weight: 2
@@ -43,7 +43,7 @@ For selfbondage enthusiasts to post stories, pictures, art, and information.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 85 |
+| Subscribers          | 94 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ For selfbondage enthusiasts to post stories, pictures, art, and information.
 |----------------------|---|
 | Published            | 2023-06-13 04:57:13 |
 | Updated              | 2023-06-14 20:39:45 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

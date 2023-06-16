@@ -3,7 +3,7 @@ title: "Black Wolves"
 name: "blackwolves"
 description: "slop"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blackwolves"
@@ -54,4 +54,4 @@ slop
 |----------------------|---|
 | Published            | 2022-09-08 00:55:11 |
 | Updated              | 2022-09-08 01:03:38 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:31 |

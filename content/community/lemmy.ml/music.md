@@ -3,19 +3,19 @@ title: "Music"
 name: "music"
 description: "A community to share the music worth sharing."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/music"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2177
-posts: 785
-comments: 333
-weight: 785
-dau: 7
-wau: 46
-mau: 76
+subscribers: 2193
+posts: 786
+comments: 328
+weight: 786
+dau: 8
+wau: 49
+mau: 87
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community to share the music worth sharing.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2177 |
-| Posts                | 785  |
-| Comments             | 333  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 46  |
-| Monthly Active Users | 76  |
+| Subscribers          | 2193 |
+| Posts                | 786  |
+| Comments             | 328  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 49  |
+| Monthly Active Users | 87  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to share the music worth sharing.
 |----------------------|---|
 | Published            | 2019-08-20 09:46:08 |
 | Updated              | 2021-06-28 20:20:51 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

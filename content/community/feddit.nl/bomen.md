@@ -3,7 +3,7 @@ title: "Bomen"
 name: "bomen"
 description: "Welkom! Dit is een Nederlandse community over wiet, wietnieuws en toebehoren. Voel je vrij om vragen te stellen, leuke grappen te delen, interessante plaatjes te sturen of waar je maar ook zin in hebt!Naam gebaseerd op de Engelse term “Trees”."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/bomen"
@@ -54,4 +54,4 @@ Welkom! Dit is een Nederlandse community over wiet, wietnieuws en toebehoren. Vo
 |----------------------|---|
 | Published            | 2023-06-13 14:35:56 |
 | Updated              | 2023-06-14 11:13:22 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

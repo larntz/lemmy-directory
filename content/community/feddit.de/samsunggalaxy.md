@@ -3,7 +3,7 @@ title: "Samsung Galaxy"
 name: "samsunggalaxy"
 description: "All about Samsung's Galaxy phones"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/samsunggalaxy"
@@ -54,4 +54,4 @@ All about Samsung's Galaxy phones
 |----------------------|---|
 | Published            | 2023-06-05 12:02:00 |
 | Updated              | 2023-06-12 07:29:43 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

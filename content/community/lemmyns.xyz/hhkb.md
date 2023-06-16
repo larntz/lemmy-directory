@@ -3,7 +3,7 @@ title: "hhkb"
 name: "hhkb"
 description: "A community for those who are weirdly passionate about their hhkb keyboards"
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmyns.xyz/c/hhkb"
@@ -54,4 +54,4 @@ A community for those who are weirdly passionate about their hhkb keyboards
 |----------------------|---|
 | Published            | 2023-06-15 05:09:34 |
 | Updated              | 2023-06-15 05:16:53 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:24 |

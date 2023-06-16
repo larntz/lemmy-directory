@@ -3,13 +3,13 @@ title: "Collapse"
 name: "collapse"
 description: "An academic skewed discussion community on the collapse of civilizations and societies.1) Treat each other with respect and kindness.2) No racism, sexism, homo/transphobia, ableism, or any kind of discrimination based on identity, religion, class or minority.3) No threats, harassment, bullying, stalking or other predatory behavior.4) Death and violence are serious topics; please treat them with respect and nuance.5) Don't promote topics that break instance terms of service."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/collapse"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 24
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ An academic skewed discussion community on the collapse of civilizations and soc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 24 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An academic skewed discussion community on the collapse of civilizations and soc
 |----------------------|---|
 | Published            | 2023-06-12 02:42:16 |
 | Updated              | 2023-06-14 14:55:49 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

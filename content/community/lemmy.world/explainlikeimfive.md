@@ -3,19 +3,19 @@ title: "Explain Like I'm Five"
 name: "explainlikeimfive"
 description: "Simplifying Complexity, One Answer at a Time!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/explainlikeimfive"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1190
+subscribers: 1296
 posts: 3
 comments: 25
 weight: 3
-dau: 2
-wau: 15
-mau: 15
+dau: 3
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Simplifying Complexity, One Answer at a Time!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1190 |
+| Subscribers          | 1296 |
 | Posts                | 3  |
 | Comments             | 25  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Simplifying Complexity, One Answer at a Time!
 |----------------------|---|
 | Published            | 2023-06-11 12:39:59 |
 | Updated              | 2023-06-12 08:40:33 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

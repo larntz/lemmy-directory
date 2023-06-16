@@ -3,19 +3,19 @@ title: "Preppers"
 name: "preppers"
 description: "A place for people who like to be prepared for realistic disasters both human created and naturally occurring! wip; I hope I can change this later."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/preppers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 49
 posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for people who like to be prepared for realistic disasters both human cr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 49 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for people who like to be prepared for realistic disasters both human cr
 |----------------------|---|
 | Published            | 2023-06-11 01:28:03 |
 | Updated              | 2023-06-11 01:29:33 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

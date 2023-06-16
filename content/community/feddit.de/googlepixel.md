@@ -3,13 +3,13 @@ title: "Google Pixel"
 name: "googlepixel"
 description: "All about Google Pixel phones"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/googlepixel"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ All about Google Pixel phones
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ All about Google Pixel phones
 |----------------------|---|
 | Published            | 2023-06-05 12:00:49 |
 | Updated              | 2023-06-12 07:29:52 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

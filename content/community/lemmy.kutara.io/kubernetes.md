@@ -3,7 +3,7 @@ title: "Kubernetes"
 name: "kubernetes"
 description: "Open-source container orchestration platform that enables the automated deployment, scaling, and management of containerized applications."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kutara.io/c/kubernetes"
@@ -54,4 +54,4 @@ Open-source container orchestration platform that enables the automated deployme
 |----------------------|---|
 | Published            | 2023-06-13 23:27:36 |
 | Updated              | 2023-06-14 00:41:49 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

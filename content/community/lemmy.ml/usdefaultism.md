@@ -3,7 +3,7 @@ title: "usdefaultism"
 name: "usdefaultism"
 description: "We are not associated with the moderators or operators of r/USdefaultism.c/USdefaultism - the place where we look at Americans who think that America is the world and that the world is America."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/usdefaultism"
@@ -54,4 +54,4 @@ We are not associated with the moderators or operators of r/USdefaultism.<br><br
 |----------------------|---|
 | Published            | 2023-06-10 18:55:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:25 |

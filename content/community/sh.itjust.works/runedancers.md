@@ -3,15 +3,15 @@ title: "Runedancer's place"
 name: "runedancers"
 description: "Discovering all sites connected through #ActivityPub. Getting help from calm and intelligent people."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/runedancers"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 2
-comments: 5
+comments: 6
 weight: 2
 dau: 2
 wau: 2
@@ -41,9 +41,9 @@ Discovering all sites connected through #ActivityPub. Getting help from calm and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 2  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Discovering all sites connected through #ActivityPub. Getting help from calm and
 |----------------------|---|
 | Published            | 2023-06-12 10:47:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,19 +3,19 @@ title: "Selvgjort er velgjort"
 name: "selvgjortvelgjort"
 description: "For alle dine gør-det-selv projekter."
 type: community
-date: "2023-06-16 11:05:52"
+date: "2023-06-16 22:55:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/selvgjortvelgjort"
 host: feddit.dk
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 29
 posts: 2
-comments: 4
+comments: 9
 weight: 2
-dau: 5
-wau: 5
-mau: 5
+dau: 8
+wau: 8
+mau: 8
 instances:
 - "feddit_dk"
 tags: 
@@ -41,12 +41,12 @@ For alle dine gør-det-selv projekter.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 29 |
 | Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 9  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ For alle dine gør-det-selv projekter.
 |----------------------|---|
 | Published            | 2023-06-15 13:00:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:52 |
+| Last Scraped         | 2023-06-16 22:55:47 |

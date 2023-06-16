@@ -3,16 +3,16 @@ title: "Experienced Devs"
 name: "experienced_devs"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/experienced_devs"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 660
-posts: 8
-comments: 107
-weight: 8
+subscribers: 727
+posts: 10
+comments: 127
+weight: 10
 dau: 16
 wau: 51
 mau: 51
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 660 |
-| Posts                | 8  |
-| Comments             | 107  |
+| Subscribers          | 727 |
+| Posts                | 10  |
+| Comments             | 127  |
 | Daily Active Users   | 16  |
 | Weekly Active Users  | 51  |
 | Monthly Active Users | 51  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 06:53:21 |
 | Updated              | 2023-06-13 05:08:26 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

@@ -3,13 +3,13 @@ title: "OkBrudiMongo"
 name: "okbrudimongo"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/okbrudimongo"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 139
+subscribers: 144
 posts: 7
 comments: 11
 weight: 7
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
+| Subscribers          | 144 |
 | Posts                | 7  |
 | Comments             | 11  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 22:20:10 |
 | Updated              | 2023-06-05 22:20:55 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

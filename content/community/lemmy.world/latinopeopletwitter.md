@@ -3,7 +3,7 @@ title: "LatinoPeopleTwitter"
 name: "latinopeopletwitter"
 description: "Anything latin american.##### Rules- Nothing NSFW.- Treat others with respect."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/latinopeopletwitter"
@@ -54,4 +54,4 @@ Anything latin american.<br><br>##### Rules<br>- Nothing NSFW.<br>- Treat others
 |----------------------|---|
 | Published            | 2023-06-13 08:35:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

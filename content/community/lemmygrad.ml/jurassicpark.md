@@ -3,16 +3,16 @@ title: "Jurassic Park"
 name: "jurassicpark"
 description: "Commie JP sub for movies, books, games, discussing dinosaur species, memes, shitposting, everything.*-Spared no expense*"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jurassicpark"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
 subscribers: 27
-posts: 46
+posts: 47
 comments: 87
-weight: 46
+weight: 47
 dau: 1
 wau: 1
 mau: 3
@@ -42,7 +42,7 @@ Commie JP sub for movies, books, games, discussing dinosaur species, memes, shit
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 27 |
-| Posts                | 46  |
+| Posts                | 47  |
 | Comments             | 87  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Commie JP sub for movies, books, games, discussing dinosaur species, memes, shit
 |----------------------|---|
 | Published            | 2022-08-27 05:29:58 |
 | Updated              | 2022-08-27 05:35:45 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

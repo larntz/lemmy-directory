@@ -3,7 +3,7 @@ title: "Show Us Your Short Film!"
 name: "showusyourshort"
 description: "Have a **totally original** and *absolutely not contrived* coming-of-age short you made in film school? Think you're finally ready for picture lock after the 27th re-cut? Post it here!Criticism, if sought by the OP, should be kind and constructive. Let's see what you've been making!"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/showusyourshort"
@@ -54,4 +54,4 @@ Have a **totally original** and *absolutely not contrived* coming-of-age short y
 |----------------------|---|
 | Published            | 2023-06-09 07:16:02 |
 | Updated              | 2023-06-09 07:16:27 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

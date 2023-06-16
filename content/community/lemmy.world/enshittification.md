@@ -3,13 +3,13 @@ title: "Enshittification"
 name: "enshittification"
 description: "### The lifecycle of Big InternetWe discuss how predatory big tech platforms live and die by luring people in and then decaying for profit."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/enshittification"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 30
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 30 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 23:51:39 |
 | Updated              | 2023-06-11 23:53:35 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,13 +3,13 @@ title: "Hermeticism"
 name: "hermeticism"
 description: "A community to talk about Hermeticism, a religious, philosophical, and esoteric tradition from Roman Hellenistic Egypt based primarily upon writings attributed to Hermes Trismegistus (thrice-greatest Hermes).Here we focus on Classical Hermeticism, for other hermetic traditions, like Hermetics and Kybalion, please join another community, like https://lemmy.world/c/esotericism"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hermeticism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 23
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ A community to talk about Hermeticism, a religious, philosophical, and esoteric 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 23 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to talk about Hermeticism, a religious, philosophical, and esoteric 
 |----------------------|---|
 | Published            | 2023-06-12 07:55:08 |
 | Updated              | 2023-06-16 09:55:48 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

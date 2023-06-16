@@ -3,19 +3,19 @@ title: "Gpose NSFW"
 name: "gpose_nsfw"
 description: "The spicy sibling to Gpose, all races are welcome, but remember your OC must be 18+ to live here (this includes Lalafells)https://lemmynsfw.com/c/gpose https://lemmynsfw.com/c/gpose_cw"
 type: community
-date: "2023-06-16 11:06:41"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gpose_nsfw"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ The spicy sibling to Gpose, all races are welcome, but remember your OC must be 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -56,4 +56,4 @@ The spicy sibling to Gpose, all races are welcome, but remember your OC must be 
 |----------------------|---|
 | Published            | 2023-06-16 08:17:20 |
 | Updated              | 2023-06-16 08:26:59 |
-| Last Scraped         | 2023-06-16 11:06:41 |
+| Last Scraped         | 2023-06-16 22:56:40 |

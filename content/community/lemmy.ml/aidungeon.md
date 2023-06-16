@@ -3,7 +3,7 @@ title: "AI Dungeon"
 name: "aidungeon"
 description: "A place to discuss the text based machine learning game AI Dungeon https://play.aidungeon.io/"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aidungeon"
@@ -54,4 +54,4 @@ A place to discuss the text based machine learning game AI Dungeon https://play.
 |----------------------|---|
 | Published            | 2020-08-20 00:02:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

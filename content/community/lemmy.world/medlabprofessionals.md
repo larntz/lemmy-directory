@@ -3,7 +3,7 @@ title: "Med Lab Professionals"
 name: "medlabprofessionals"
 description: "A community for medical laboratory professionals"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medlabprofessionals"
@@ -13,9 +13,9 @@ subscribers: 2
 posts: 2
 comments: 0
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ A community for medical laboratory professionals
 | Subscribers          | 2 |
 | Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for medical laboratory professionals
 |----------------------|---|
 | Published            | 2023-06-15 23:56:21 |
 | Updated              | 2023-06-16 00:31:55 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:12 |

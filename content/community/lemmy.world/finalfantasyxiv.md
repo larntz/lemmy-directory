@@ -3,19 +3,19 @@ title: "Final Fantasy XIV"
 name: "finalfantasyxiv"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/finalfantasyxiv"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 2
-comments: 6
-weight: 2
-dau: 2
-wau: 2
-mau: 2
+subscribers: 35
+posts: 3
+comments: 9
+weight: 3
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 35 |
+| Posts                | 3  |
+| Comments             | 9  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 15:59:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Updated              | 2023-06-16 19:23:11 |
+| Last Scraped         | 2023-06-16 22:57:14 |

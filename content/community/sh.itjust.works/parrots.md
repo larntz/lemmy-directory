@@ -3,16 +3,16 @@ title: "Parrots"
 name: "parrots"
 description: "Community for people who like parrots, whether in the wild or living in your house with you (and tearing up your stuff)"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/parrots"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 3
-comments: 5
-weight: 3
+subscribers: 12
+posts: 4
+comments: 7
+weight: 4
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ Community for people who like parrots, whether in the wild or living in your hou
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 5  |
+| Subscribers          | 12 |
+| Posts                | 4  |
+| Comments             | 7  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Community for people who like parrots, whether in the wild or living in your hou
 |----------------------|---|
 | Published            | 2023-06-13 19:02:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

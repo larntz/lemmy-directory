@@ -3,16 +3,16 @@ title: "The Music Makers of Lemmy"
 name: "the_music_makers"
 description: "Making music. Recording music. Releasing Music. Sharing music (you made).Let's enjoy doing this thing, learning together."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/the_music_makers"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 2
+subscribers: 11
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Making music. Recording music. Releasing Music. Sharing music (you made).<br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
+| Subscribers          | 11 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Making music. Recording music. Releasing Music. Sharing music (you made).<br><br
 |----------------------|---|
 | Published            | 2023-06-14 21:56:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

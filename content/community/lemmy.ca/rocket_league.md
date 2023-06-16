@@ -3,16 +3,16 @@ title: "Rocket League"
 name: "rocket_league"
 description: "An unofficial community for fellow car ball players. Share tips, clips or discuss the game. Be chill and nice to each other. Also, since it's just started there is no moderate team so use your best sense of judgement and don't follow any suspicious links to avoid your account getting scammed. **ENABLE TWO FACTOR AUTHENTICATION ON YOUR EPIC ACCOUNT!!**Rules:* Post must be related to Rocket League* Video/Clip post must contain back story and not just a simple title, share your experience in words as well. * No which hunting, player shamming* No trading posts* LFG posts allowed, please state your server regions and play time in the post. * No post promoting sites/server outside the fediverse. (ie. no coaching website, no discord server, no please follow me on XXX. ) This is to prevent people following links and ended up getting scammed.NOTE: Image used for logo and banner are extracted directly from official source and thus are Epic/Psyonix's property and all rights belongs to them. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rocket_league"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 24
-posts: 3
+subscribers: 25
+posts: 4
 comments: 7
-weight: 3
+weight: 4
 dau: 2
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ An unofficial community for fellow car ball players. Share tips, clips or discus
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 3  |
+| Subscribers          | 25 |
+| Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ An unofficial community for fellow car ball players. Share tips, clips or discus
 |----------------------|---|
 | Published            | 2023-06-12 00:38:49 |
 | Updated              | 2023-06-12 05:26:55 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

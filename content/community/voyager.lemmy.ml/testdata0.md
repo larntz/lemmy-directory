@@ -3,13 +3,13 @@ title: "Test Data 0"
 name: "testdata0"
 description: "This is a community"
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/testdata0"
 host: voyager.lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ This is a community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community
 |----------------------|---|
 | Published            | 2023-06-13 14:47:59 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

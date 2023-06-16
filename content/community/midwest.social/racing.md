@@ -1,18 +1,18 @@
 ---
 title: "Racing" 
 name: "racing"
-description: "Welcome to !racing@midwest.social The home of all things racing. Rules: Be respectful: No hate speech/bigotry; Keep things civil."
+description: "Welcome to !racing@midwest.social The home of all things racing. Rules: Be respectful; No hate speech or bigotry;No bullying;Keep things civil"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racing"
 host: midwest.social
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 6
+posts: 7
 comments: 3
-weight: 6
+weight: 7
 dau: 1
 wau: 2
 mau: 2
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Welcome to !racing@midwest.social <br><br>The home of all things racing. <br><br>Rules: Be respectful: No hate speech/bigotry; Keep things civil.
+Welcome to !racing@midwest.social <br><br>The home of all things racing. <br><br>Rules: <br>Be respectful; <br>No hate speech or bigotry;<br>No bullying;<br>Keep things civil
 </blockquote>
 
 
@@ -42,7 +42,7 @@ Welcome to !racing@midwest.social <br><br>The home of all things racing. <br><br
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 6  |
+| Posts                | 7  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -53,5 +53,5 @@ Welcome to !racing@midwest.social <br><br>The home of all things racing. <br><br
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 13:43:48 |
-| Updated              | 2023-06-15 21:04:56 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Updated              | 2023-06-16 17:17:25 |
+| Last Scraped         | 2023-06-16 22:56:28 |

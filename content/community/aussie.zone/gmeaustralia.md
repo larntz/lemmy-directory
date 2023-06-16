@@ -3,17 +3,17 @@ title: "GMEAustralia"
 name: "gmeaustralia"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gmeaustralia"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
 subscribers: 8
-posts: 4
+posts: 5
 comments: 0
-weight: 4
-dau: 2
+weight: 5
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -42,9 +42,9 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 8 |
-| Posts                | 4  |
+| Posts                | 5  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 07:19:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

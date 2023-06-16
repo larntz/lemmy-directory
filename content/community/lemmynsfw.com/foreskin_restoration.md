@@ -3,7 +3,7 @@ title: "Foreskin Restoration"
 name: "foreskin_restoration"
 description: "Post restoration progress photos, discussions about foreskin restoration, etc.This is a NSFW sub, dick pics are allowed."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/foreskin_restoration"
@@ -56,4 +56,4 @@ Post restoration progress photos, discussions about foreskin restoration, etc.<b
 |----------------------|---|
 | Published            | 2023-06-15 03:26:11 |
 | Updated              | 2023-06-15 03:49:31 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

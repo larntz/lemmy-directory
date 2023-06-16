@@ -3,15 +3,15 @@ title: "Fuck the CCP"
 name: "fucktheccp"
 description: "Rules:1. be relevant2. don't generalize, ccp is not the chinese ppl and viceversa3. follow the rules of the sh.itjust.works"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fucktheccp"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 124
 posts: 8
-comments: 9
+comments: 13
 weight: 8
 dau: 3
 wau: 4
@@ -41,9 +41,9 @@ Rules:<br>1. be relevant<br>2. don't generalize, ccp is not the chinese ppl and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 124 |
 | Posts                | 8  |
-| Comments             | 9  |
+| Comments             | 13  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Rules:<br>1. be relevant<br>2. don't generalize, ccp is not the chinese ppl and 
 |----------------------|---|
 | Published            | 2023-06-11 16:51:11 |
 | Updated              | 2023-06-11 17:40:26 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

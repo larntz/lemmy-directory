@@ -3,13 +3,13 @@ title: "PSX - The Original Playstation"
 name: "psx"
 description: "It's nostalgia overload as we discuss the most influential gaming system ever released! The original PlayStation, later called PSOne [PSX Mods Wiki](https://consolemods.org/wiki/PS1:PS1_Mods_Wiki)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/psx"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ It's nostalgia overload as we discuss the most influential gaming system ever re
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ It's nostalgia overload as we discuss the most influential gaming system ever re
 |----------------------|---|
 | Published            | 2023-06-10 19:10:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

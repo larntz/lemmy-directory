@@ -3,19 +3,19 @@ title: "College Football"
 name: "cfb"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cfb"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 89
-posts: 7
-comments: 2
-weight: 7
-dau: 2
-wau: 4
-mau: 4
+subscribers: 96
+posts: 9
+comments: 3
+weight: 9
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 89 |
-| Posts                | 7  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 96 |
+| Posts                | 9  |
+| Comments             | 3  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 01:25:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

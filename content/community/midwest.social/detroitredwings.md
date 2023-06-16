@@ -3,19 +3,19 @@ title: "Detroit Redwings - LGRW!"
 name: "detroitredwings"
 description: "A place to discuss all things Hockeytown. Trust the Yzerplan and LGRW!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/detroitredwings"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 2
-comments: 4
-weight: 2
-dau: 2
-wau: 2
-mau: 2
+subscribers: 27
+posts: 3
+comments: 5
+weight: 3
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things Hockeytown. Trust the Yzerplan and LGRW!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 27 |
+| Posts                | 3  |
+| Comments             | 5  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things Hockeytown. Trust the Yzerplan and LGRW!
 |----------------------|---|
 | Published            | 2023-06-13 20:20:29 |
 | Updated              | 2023-06-13 20:28:36 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

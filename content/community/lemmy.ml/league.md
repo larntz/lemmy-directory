@@ -3,19 +3,19 @@ title: "League of Legends (Updated June 2023)"
 name: "league"
 description: "No low-quality meme GIFs/images.No complain posts about the gameplay."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/league"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 118
-posts: 15
-comments: 27
-weight: 15
-dau: 4
-wau: 9
-mau: 9
+subscribers: 125
+posts: 17
+comments: 28
+weight: 17
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ No low-quality meme GIFs/images.<br>No complain posts about the gameplay.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 118 |
-| Posts                | 15  |
-| Comments             | 27  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 125 |
+| Posts                | 17  |
+| Comments             | 28  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ No low-quality meme GIFs/images.<br>No complain posts about the gameplay.
 |----------------------|---|
 | Published            | 2023-06-02 20:59:33 |
 | Updated              | 2023-06-04 13:48:49 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:37 |

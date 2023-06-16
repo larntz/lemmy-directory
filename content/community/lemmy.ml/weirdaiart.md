@@ -3,13 +3,13 @@ title: "Weird AI Art"
 name: "weirdaiart"
 description: "A community for weird and strange AI art creations, including pictures, music, and video.  No NSFW content."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weirdaiart"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 71
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ A community for weird and strange AI art creations, including pictures, music, a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 71 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for weird and strange AI art creations, including pictures, music, a
 |----------------------|---|
 | Published            | 2023-06-01 23:55:49 |
 | Updated              | 2023-06-02 03:35:41 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:45 |

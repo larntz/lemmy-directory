@@ -3,7 +3,7 @@ title: "Bremerton, WA"
 name: "bremerton"
 description: "A community for Bremerton, WA"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bremerton"
@@ -54,4 +54,4 @@ A community for Bremerton, WA
 |----------------------|---|
 | Published            | 2023-06-10 02:12:32 |
 | Updated              | 2023-06-10 02:35:43 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

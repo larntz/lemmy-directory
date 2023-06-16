@@ -3,7 +3,7 @@ title: "parlamentarna"
 name: "parlamentarna"
 description: "Społeczność do postowania o poczynaniach partii, partyjek i ich ludzi."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/parlamentarna"
@@ -13,7 +13,7 @@ subscribers: 73
 posts: 545
 comments: 291
 weight: 545
-dau: 2
+dau: 1
 wau: 6
 mau: 12
 instances:
@@ -44,7 +44,7 @@ Społeczność do postowania o poczynaniach partii, partyjek i ich ludzi.
 | Subscribers          | 73 |
 | Posts                | 545  |
 | Comments             | 291  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 12  |
 
@@ -54,4 +54,4 @@ Społeczność do postowania o poczynaniach partii, partyjek i ich ludzi.
 |----------------------|---|
 | Published            | 2021-01-08 12:38:21 |
 | Updated              | 2022-05-15 09:54:26 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

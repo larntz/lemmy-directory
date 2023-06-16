@@ -3,19 +3,19 @@ title: "Waveform"
 name: "waveform"
 description: "A place to talk about how we organise ourselves."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/waveform"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 106
+subscribers: 116
 posts: 16
-comments: 120
+comments: 124
 weight: 16
-dau: 13
-wau: 39
-mau: 39
+dau: 8
+wau: 40
+mau: 40
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ A place to talk about how we organise ourselves.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 106 |
+| Subscribers          | 116 |
 | Posts                | 16  |
-| Comments             | 120  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 39  |
-| Monthly Active Users | 39  |
+| Comments             | 124  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to talk about how we organise ourselves.
 |----------------------|---|
 | Published            | 2023-06-11 08:21:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

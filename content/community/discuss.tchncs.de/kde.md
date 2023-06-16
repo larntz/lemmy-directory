@@ -3,13 +3,13 @@ title: "KDE"
 name: "kde"
 description: "Die KDE Community auf Lemmy (inoffiziell)"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kde"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Die KDE Community auf Lemmy (inoffiziell)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die KDE Community auf Lemmy (inoffiziell)
 |----------------------|---|
 | Published            | 2023-06-12 13:07:56 |
 | Updated              | 2023-06-12 13:17:06 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

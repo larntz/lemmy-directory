@@ -3,16 +3,16 @@ title: "Arkansas"
 name: "arkansas"
 description: "Arkansas?"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arkansas"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 5
-comments: 5
-weight: 5
+posts: 6
+comments: 6
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Arkansas?
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 5  |
-| Comments             | 5  |
+| Posts                | 6  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Arkansas?
 |----------------------|---|
 | Published            | 2023-06-13 20:30:29 |
 | Updated              | 2023-06-13 21:17:07 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

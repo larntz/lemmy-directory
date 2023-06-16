@@ -3,15 +3,15 @@ title: "Tampere"
 name: "tampere"
 description: "Maailman paras Tampere"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tampere"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 2
-comments: 1
+comments: 3
 weight: 2
 dau: 2
 wau: 0
@@ -41,9 +41,9 @@ Maailman paras Tampere
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Maailman paras Tampere
 |----------------------|---|
 | Published            | 2023-06-14 19:49:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

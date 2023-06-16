@@ -3,7 +3,7 @@ title: "闲聊泡泡"
 name: "chat"
 description: "随便聊天"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/chat"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-04-25 20:56:47 |
 | Updated              | 2023-05-06 12:46:20 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

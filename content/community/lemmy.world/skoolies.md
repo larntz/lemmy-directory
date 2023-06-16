@@ -3,7 +3,7 @@ title: "All Things Skoolie"
 name: "skoolies"
 description: "A community for people building or living in skoolies, or people just interested in them."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skoolies"
@@ -54,4 +54,4 @@ A community for people building or living in skoolies, or people just interested
 |----------------------|---|
 | Published            | 2023-06-16 10:35:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:12 |

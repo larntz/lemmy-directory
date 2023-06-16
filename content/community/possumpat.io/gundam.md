@@ -3,16 +3,16 @@ title: "Mobile Suit Gundam"
 name: "gundam"
 description: "A community for any and all things relating to Mobile Suit Gundam. Other giant robot series are welcome too!"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/gundam"
 host: possumpat.io
 lastmod: "{[ .Updated }}"
-subscribers: 89
-posts: 7
-comments: 59
-weight: 7
+subscribers: 94
+posts: 8
+comments: 70
+weight: 8
 dau: 7
 wau: 11
 mau: 11
@@ -41,9 +41,9 @@ A community for any and all things relating to Mobile Suit Gundam. Other giant r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 89 |
-| Posts                | 7  |
-| Comments             | 59  |
+| Subscribers          | 94 |
+| Posts                | 8  |
+| Comments             | 70  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ A community for any and all things relating to Mobile Suit Gundam. Other giant r
 |----------------------|---|
 | Published            | 2023-06-08 17:57:29 |
 | Updated              | 2023-06-09 01:39:34 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

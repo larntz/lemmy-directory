@@ -3,16 +3,16 @@ title: "Chinese Communist Party"
 name: "ccp"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ccp"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 151
+posts: 152
 comments: 6
-weight: 151
+weight: 152
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 151  |
+| Posts                | 152  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-30 22:29:30 |
 | Updated              | 2022-07-21 00:24:58 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:37 |

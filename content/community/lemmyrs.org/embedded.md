@@ -3,13 +3,13 @@ title: "Rust: Embedded Systems"
 name: "embedded"
 description: "[Developing]# GoalDiscussions about using Rust in an Embedded environment."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/embedded"
 host: lemmyrs.org
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 22 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 04:26:27 |
 | Updated              | 2023-06-15 04:43:07 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:04 |

@@ -3,19 +3,19 @@ title: "ADHD memes"
 name: "adhd"
 description: "The lighter side of ADHDOther ND communities* [ADHD](/c/adhd@lemmy.world) - Use this for generic ADHD discussion* [Autism](/c/autism@lemmy.world) * [Neurodivergence](/c/neurodivergence@beehaw.org)"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/adhd"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 594
-posts: 65
-comments: 118
-weight: 65
-dau: 47
-wau: 87
-mau: 87
+subscribers: 701
+posts: 69
+comments: 142
+weight: 69
+dau: 39
+wau: 97
+mau: 97
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ The lighter side of ADHD<br><br>Other ND communities<br><br>* [ADHD](/c/adhd@lem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 594 |
-| Posts                | 65  |
-| Comments             | 118  |
-| Daily Active Users   | 47  |
-| Weekly Active Users  | 87  |
-| Monthly Active Users | 87  |
+| Subscribers          | 701 |
+| Posts                | 69  |
+| Comments             | 142  |
+| Daily Active Users   | 39  |
+| Weekly Active Users  | 97  |
+| Monthly Active Users | 97  |
 
 <br>
 
@@ -54,4 +54,4 @@ The lighter side of ADHD<br><br>Other ND communities<br><br>* [ADHD](/c/adhd@lem
 |----------------------|---|
 | Published            | 2023-06-11 12:08:23 |
 | Updated              | 2023-06-13 09:52:51 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

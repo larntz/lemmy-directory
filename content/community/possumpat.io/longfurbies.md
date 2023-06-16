@@ -3,7 +3,7 @@ title: "Long Furbies"
 name: "longfurbies"
 description: "A community for posting fanart, crafts, and weird creations based on the (in)famous electronic toy of the late 90's."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/longfurbies"
@@ -54,4 +54,4 @@ A community for posting fanart, crafts, and weird creations based on the (in)fam
 |----------------------|---|
 | Published            | 2023-06-07 18:12:27 |
 | Updated              | 2023-06-09 23:19:32 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

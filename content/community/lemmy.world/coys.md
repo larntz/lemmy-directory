@@ -3,19 +3,19 @@ title: "Spurs"
 name: "coys"
 description: "A community to discuss Tottenham Hotspur FC"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coys"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
-posts: 4
-comments: 3
-weight: 4
-dau: 3
-wau: 4
-mau: 4
+subscribers: 33
+posts: 5
+comments: 4
+weight: 5
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss Tottenham Hotspur FC
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 33 |
+| Posts                | 5  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss Tottenham Hotspur FC
 |----------------------|---|
 | Published            | 2023-06-12 09:21:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

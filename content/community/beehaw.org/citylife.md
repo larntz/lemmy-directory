@@ -1,21 +1,21 @@
 ---
 title: "City Life" 
 name: "citylife"
-description: "All topics urbanism and city related, from urban planning to public transit to municipal interest stuff. Both automobile and FuckCars inclusive.---This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)."
+description: "All topics urbanism and city related, from urban planning to public transit to municipal interest stuff. Both automobile and FuckCars inclusive.---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/citylife"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 923
+subscribers: 948
 posts: 58
-comments: 198
+comments: 202
 weight: 58
-dau: 13
+dau: 12
 wau: 70
-mau: 125
+mau: 126
 instances:
 - "beehaw_org"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-All topics urbanism and city related, from urban planning to public transit to municipal interest stuff. Both automobile and FuckCars inclusive.<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+All topics urbanism and city related, from urban planning to public transit to municipal interest stuff. Both automobile and FuckCars inclusive.<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 </blockquote>
 
 
@@ -41,17 +41,17 @@ All topics urbanism and city related, from urban planning to public transit to m
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 923 |
+| Subscribers          | 948 |
 | Posts                | 58  |
-| Comments             | 198  |
-| Daily Active Users   | 13  |
+| Comments             | 202  |
+| Daily Active Users   | 12  |
 | Weekly Active Users  | 70  |
-| Monthly Active Users | 125  |
+| Monthly Active Users | 126  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-02 01:13:58 |
-| Updated              | 2023-06-13 22:51:04 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Updated              | 2023-06-16 19:39:44 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,19 +3,19 @@ title: "the_donald"
 name: "the_donald"
 description: "This community exists solely to document Trumps crimes. If you support tr*mp. If you were a member of reddit's biggest hate community, then you will cry. **You. Are. Not. Welcome. Here.**Fascism is a curse on this world. This is a safe space for those who oppose conservatives scum. support abortion rights.support trans rights. support women. support minorities.Destroy fascism. Destroy hate. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_donald"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 40
 posts: 15
-comments: 25
+comments: 26
 weight: 15
-dau: 4
-wau: 11
-mau: 11
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community exists solely to document Trumps crimes. <br><br>If you support t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 40 |
 | Posts                | 15  |
-| Comments             | 25  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Comments             | 26  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community exists solely to document Trumps crimes. <br><br>If you support t
 |----------------------|---|
 | Published            | 2023-06-13 18:14:51 |
 | Updated              | 2023-06-13 20:45:29 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

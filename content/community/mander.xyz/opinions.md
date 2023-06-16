@@ -3,13 +3,13 @@ title: "Opinions"
 name: "opinions"
 description: "If you are not sure about whether your opinion is unpopular, neutral, or popular - but feel like posting it anyway, then this is the right place!For unpopular opinions, checkout [/c/unpopular](https://mander.xyz/c/unpopular@lemmy.ml)"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/opinions"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 68
 posts: 6
 comments: 29
 weight: 6
@@ -41,7 +41,7 @@ If you are not sure about whether your opinion is unpopular, neutral, or popular
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 68 |
 | Posts                | 6  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ If you are not sure about whether your opinion is unpopular, neutral, or popular
 |----------------------|---|
 | Published            | 2021-12-19 22:09:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -3,7 +3,7 @@ title: "Política"
 name: "politica"
 description: "Comunidade orientada para a discussão política."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/politica"
@@ -14,8 +14,8 @@ posts: 17
 comments: 9
 weight: 17
 dau: 2
-wau: 2
-mau: 4
+wau: 4
+mau: 5
 instances:
 - "lemmy_pt"
 tags: 
@@ -45,8 +45,8 @@ Comunidade orientada para a discussão política.
 | Posts                | 17  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidade orientada para a discussão política.
 |----------------------|---|
 | Published            | 2021-09-10 19:52:26 |
 | Updated              | 2021-09-13 13:03:05 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

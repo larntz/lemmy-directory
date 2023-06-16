@@ -3,7 +3,7 @@ title: "Seinfeld"
 name: "seinfeld"
 description: "A community about nothing"
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seinfeld"
@@ -54,4 +54,4 @@ A community about nothing
 |----------------------|---|
 | Published            | 2022-01-24 21:48:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

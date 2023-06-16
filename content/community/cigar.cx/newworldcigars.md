@@ -3,7 +3,7 @@ title: "New World Cigars"
 name: "newworldcigars"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://cigar.cx/c/newworldcigars"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 00:13:26 |
 | Updated              | 2023-06-10 01:07:07 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:11 |

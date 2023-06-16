@@ -3,7 +3,7 @@ title: "Unpopular Opinion"
 name: "unpopularopinion"
 description: "Post your truly unpopular opinions."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unpopularopinion"
@@ -54,4 +54,4 @@ Post your truly unpopular opinions.
 |----------------------|---|
 | Published            | 2021-12-15 18:50:08 |
 | Updated              | 2021-12-15 21:36:15 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

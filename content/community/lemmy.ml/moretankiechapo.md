@@ -3,7 +3,7 @@ title: "More Tankie Chapo"
 name: "moretankiechapo"
 description: "Intended to be a similar community to the same named subreddit: https://old.reddit.com/r/MoreTankieChapo/"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moretankiechapo"
@@ -54,4 +54,4 @@ Intended to be a similar community to the same named subreddit: https://old.redd
 |----------------------|---|
 | Published            | 2020-07-02 15:06:37 |
 | Updated              | 2020-07-02 15:08:31 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

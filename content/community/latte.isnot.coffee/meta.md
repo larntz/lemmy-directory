@@ -3,16 +3,16 @@ title: "meta"
 name: "meta"
 description: "Meta discussion about Reddit + this Lemmy instance"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/meta"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 2
-comments: 2
-weight: 2
+posts: 3
+comments: 3
+weight: 3
 dau: 2
 wau: 2
 mau: 2
@@ -42,8 +42,8 @@ Meta discussion about Reddit + this Lemmy instance
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 2  |
+| Posts                | 3  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Meta discussion about Reddit + this Lemmy instance
 |----------------------|---|
 | Published            | 2023-06-11 08:34:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

@@ -3,7 +3,7 @@ title: "AI_Agents"
 name: "ai_agents"
 description: "This community is dedicated to discussing and sharing knowledge about AI agents. Here, you'll find passionate discussions about chatbots, smart homes, programmatic trading software, and so much more. Our mission is to foster an environment of learning, collaboration, and innovation. Join us as we explore the fascinating world of AI agents!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ai_agents"
@@ -54,4 +54,4 @@ This community is dedicated to discussing and sharing knowledge about AI agents.
 |----------------------|---|
 | Published            | 2023-06-13 00:42:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

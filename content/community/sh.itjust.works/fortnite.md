@@ -3,15 +3,15 @@ title: "Fortnite"
 name: "fortnite"
 description: "A place to talk about Fortnite!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fortnite"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 38
 posts: 6
-comments: 31
+comments: 32
 weight: 6
 dau: 1
 wau: 6
@@ -41,9 +41,9 @@ A place to talk about Fortnite!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 38 |
 | Posts                | 6  |
-| Comments             | 31  |
+| Comments             | 32  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ A place to talk about Fortnite!
 |----------------------|---|
 | Published            | 2023-06-10 04:18:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

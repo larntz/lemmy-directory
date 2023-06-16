@@ -3,19 +3,19 @@ title: "Brisbane"
 name: "brisbane"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/brisbane"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 118
-posts: 17
-comments: 89
-weight: 17
-dau: 17
-wau: 37
-mau: 37
+subscribers: 122
+posts: 19
+comments: 95
+weight: 19
+dau: 20
+wau: 42
+mau: 42
 instances:
 - "aussie_zone"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 118 |
-| Posts                | 17  |
-| Comments             | 89  |
-| Daily Active Users   | 17  |
-| Weekly Active Users  | 37  |
-| Monthly Active Users | 37  |
+| Subscribers          | 122 |
+| Posts                | 19  |
+| Comments             | 95  |
+| Daily Active Users   | 20  |
+| Weekly Active Users  | 42  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 02:44:09 |
 | Updated              | 2023-06-13 05:20:52 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

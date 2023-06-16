@@ -3,13 +3,13 @@ title: "Kaufberatung"
 name: "kaufberatung"
 description: "Wenn ihr was kaufen wollt, könnt ihr hier fragen. Oder erst mal da suchen:- https://geizhals.de- https://idealo.de- https://shopping.google.com/?hl=de"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kaufberatung"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 57
 posts: 9
 comments: 6
 weight: 9
@@ -41,7 +41,7 @@ Wenn ihr was kaufen wollt, könnt ihr hier fragen. Oder erst mal da suchen:<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 57 |
 | Posts                | 9  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Wenn ihr was kaufen wollt, könnt ihr hier fragen. Oder erst mal da suchen:<br><
 |----------------------|---|
 | Published            | 2021-08-21 11:11:29 |
 | Updated              | 2021-08-30 09:08:06 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

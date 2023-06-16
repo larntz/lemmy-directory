@@ -3,7 +3,7 @@ title: "Work"
 name: "work"
 description: "Good things and bad things about work"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/work"
@@ -54,4 +54,4 @@ Good things and bad things about work
 |----------------------|---|
 | Published            | 2022-01-11 22:19:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "Uruguay"
 name: "uruguay"
 description: "Un espacio para hablar específicamente de Uruguay y para que encuentren otros uruguayos en Lemmy"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uruguay"
@@ -54,4 +54,4 @@ Un espacio para hablar específicamente de Uruguay y para que encuentren otros u
 |----------------------|---|
 | Published            | 2021-07-29 00:11:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

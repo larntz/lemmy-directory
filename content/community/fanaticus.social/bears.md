@@ -3,7 +3,7 @@ title: "Chicago Bears"
 name: "bears"
 description: "A community dedicated to the Chicago Bears.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/bears"
@@ -54,4 +54,4 @@ A community dedicated to the Chicago Bears.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 01:28:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

@@ -3,19 +3,19 @@ title: "Rocket League"
 name: "rocketleague"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rocketleague"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 68
+subscribers: 70
 posts: 2
 comments: 8
 weight: 2
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
+| Subscribers          | 70 |
 | Posts                | 2  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:23:29 |
 | Updated              | 2023-06-09 20:38:55 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

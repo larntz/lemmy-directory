@@ -3,19 +3,19 @@ title: "ADHD Women"
 name: "adhdwomen"
 description: "A community for women to find support and discuss living with ADHD."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adhdwomen"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 131
-posts: 5
-comments: 27
-weight: 5
-dau: 8
-wau: 12
-mau: 12
+subscribers: 153
+posts: 6
+comments: 35
+weight: 6
+dau: 7
+wau: 20
+mau: 20
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for women to find support and discuss living with ADHD.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 131 |
-| Posts                | 5  |
-| Comments             | 27  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Subscribers          | 153 |
+| Posts                | 6  |
+| Comments             | 35  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for women to find support and discuss living with ADHD.
 |----------------------|---|
 | Published            | 2023-06-12 01:55:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

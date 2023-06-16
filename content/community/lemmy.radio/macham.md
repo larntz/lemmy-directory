@@ -3,7 +3,7 @@ title: "Macs in the Shack"
 name: "macham"
 description: "Using Macs in the Shack"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/macham"
@@ -54,4 +54,4 @@ Using Macs in the Shack<br>
 |----------------------|---|
 | Published            | 2023-06-13 23:41:08 |
 | Updated              | 2023-06-13 23:48:43 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

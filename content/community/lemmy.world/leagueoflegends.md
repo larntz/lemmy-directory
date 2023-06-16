@@ -3,19 +3,19 @@ title: "League of Legends"
 name: "leagueoflegends"
 description: "A Lemmy community for the game League of Legends."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leagueoflegends"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 40
 posts: 4
 comments: 5
 weight: 4
 dau: 1
-wau: 2
-mau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A Lemmy community for the game League of Legends.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 40 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A Lemmy community for the game League of Legends.
 |----------------------|---|
 | Published            | 2023-06-12 10:14:22 |
 | Updated              | 2023-06-12 10:14:42 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

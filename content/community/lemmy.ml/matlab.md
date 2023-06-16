@@ -3,13 +3,13 @@ title: "MATLAB"
 name: "matlab"
 description: "Official MATLAB & Simulink community"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/matlab"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Official MATLAB & Simulink community<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Official MATLAB & Simulink community<br>
 |----------------------|---|
 | Published            | 2023-06-08 18:03:59 |
 | Updated              | 2023-06-08 18:06:34 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:30 |

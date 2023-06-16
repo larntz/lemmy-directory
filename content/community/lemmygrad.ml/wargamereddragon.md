@@ -3,7 +3,7 @@ title: "Wargame: Red Dragon"
 name: "wargamereddragon"
 description: "A community for all things Red Dragon related! Discussion, matchmaking and memes are all welcome here."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/wargamereddragon"
@@ -54,4 +54,4 @@ A community for all things Red Dragon related! Discussion, matchmaking and memes
 |----------------------|---|
 | Published            | 2023-01-08 20:38:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

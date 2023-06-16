@@ -3,19 +3,19 @@ title: "iRacing"
 name: "iracing"
 description: "Lemmy home for iRacing content."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iracing"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 3
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Lemmy home for iRacing content.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy home for iRacing content.
 |----------------------|---|
 | Published            | 2023-06-13 03:08:07 |
 | Updated              | 2023-06-13 03:08:58 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

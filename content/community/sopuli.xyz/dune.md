@@ -3,13 +3,13 @@ title: "Dune"
 name: "dune"
 description: "Community for all things Dune (Frank and Brian)"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dune"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Community for all things Dune (Frank and Brian)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community for all things Dune (Frank and Brian)
 |----------------------|---|
 | Published            | 2023-06-10 19:50:50 |
 | Updated              | 2023-06-10 19:52:57 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

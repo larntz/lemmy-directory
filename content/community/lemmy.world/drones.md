@@ -3,13 +3,13 @@ title: "DRONES"
 name: "drones"
 description: "This is a community for drone and UAV related conversation. 107, DJI, Autel, photos, videos, and most of post types are welcomed. "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drones"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ This is a community for drone and UAV related conversation. 107, DJI, Autel, pho
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for drone and UAV related conversation. 107, DJI, Autel, pho
 |----------------------|---|
 | Published            | 2023-06-11 19:16:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

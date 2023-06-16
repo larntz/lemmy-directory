@@ -3,7 +3,7 @@ title: "Datenvisualisierung"
 name: "datenvisualisierung"
 description: "::: spoiler AttributionChart icons created by mynamepong - [Flaticon](https://www.flaticon.com/free-icons/chart)___:::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/datenvisualisierung"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-04-22 10:33:09 |
 | Updated              | 2022-04-22 17:40:21 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

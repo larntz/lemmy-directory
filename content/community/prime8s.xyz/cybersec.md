@@ -3,16 +3,16 @@ title: "Cyber Security"
 name: "cybersec"
 description: "A community to discuss cybersecurity happenings.This is a Safe For Work Community1. No hate speech, flaming, or harassment.2. Don't make me make more rules"
 type: community
-date: "2023-06-16 11:06:06"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/cybersec"
 host: prime8s.xyz
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 6
+posts: 7
 comments: 0
-weight: 6
+weight: 7
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ A community to discuss cybersecurity happenings.<br><br>This is a Safe For Work 
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 6  |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A community to discuss cybersecurity happenings.<br><br>This is a Safe For Work 
 |----------------------|---|
 | Published            | 2023-06-07 15:48:59 |
 | Updated              | 2023-06-07 23:12:53 |
-| Last Scraped         | 2023-06-16 11:06:06 |
+| Last Scraped         | 2023-06-16 22:56:08 |

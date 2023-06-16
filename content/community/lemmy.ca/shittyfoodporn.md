@@ -1,15 +1,15 @@
 ---
 title: "Shitty Food Porn" 
 name: "shittyfoodporn"
-description: "**Shitty Food Porn**This community is for posting *shitty* food.If you want good looking food, check out [Food Porn](foodporn@lemmy.world).**Other Shitty Communities*** [Shitty Life Pro Tips](shittylifeprotips@lemmy.world)"
+description: "**Shitty Food Porn**This community is for posting *shitty* food.If you want good looking food, check out [Food Porn](foodporn@lemmy.world).**Other Shitty Communities*** [Shitty Life Pro Tips](shittylifeprotips@lemmy.world)* [Shitty Car Mods](shittycarmods@lemmy.world)"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shittyfoodporn"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 83
+subscribers: 102
 posts: 5
 comments: 15
 weight: 5
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-**Shitty Food Porn**<br><br>This community is for posting *shitty* food.<br><br>If you want good looking food, check out [Food Porn](foodporn@lemmy.world).<br><br>**Other Shitty Communities**<br>* [Shitty Life Pro Tips](shittylifeprotips@lemmy.world)<br>
+**Shitty Food Porn**<br><br>This community is for posting *shitty* food.<br><br>If you want good looking food, check out [Food Porn](foodporn@lemmy.world).<br><br>**Other Shitty Communities**<br>* [Shitty Life Pro Tips](shittylifeprotips@lemmy.world)<br>* [Shitty Car Mods](shittycarmods@lemmy.world)<br>
 </blockquote>
 
 
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 83 |
+| Subscribers          | 102 |
 | Posts                | 5  |
 | Comments             | 15  |
 | Daily Active Users   | 10  |
@@ -53,5 +53,5 @@ tags:
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 04:14:29 |
-| Updated              | 2023-06-15 22:00:10 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Updated              | 2023-06-16 17:31:52 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,7 +3,7 @@ title: "elixir good"
 name: "elixir_ood"
 description: "test test tets "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elixir_ood"
@@ -54,4 +54,4 @@ test test tets
 |----------------------|---|
 | Published            | 2021-06-15 11:58:04 |
 | Updated              | 2021-06-15 11:59:15 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

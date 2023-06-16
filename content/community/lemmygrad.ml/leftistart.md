@@ -3,7 +3,7 @@ title: "Commie Art Club "
 name: "leftistart"
 description: "A space for leftie artists to post their original art, propaganda posters, and art done by communists. "
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftistart"
@@ -54,4 +54,4 @@ A space for leftie artists to post their original art, propaganda posters, and a
 |----------------------|---|
 | Published            | 2022-04-13 23:04:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

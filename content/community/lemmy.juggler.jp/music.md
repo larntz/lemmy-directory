@@ -3,7 +3,7 @@ title: "🎵音楽"
 name: "music"
 description: "オススメの音楽プレイリストやアーティストを列挙するコミュニティ"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/music"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-03-03 07:54:10 |
 | Updated              | 2021-03-03 09:12:23 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

@@ -3,13 +3,13 @@ title: "Safe For Work AI Art"
 name: "aiart"
 description: "A place to share all safe for work AI arts you make or enjoy :)"
 type: community
-date: "2023-06-16 11:05:55"
+date: "2023-06-16 22:55:51"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/aiart"
 host: aiparadise.moe
 lastmod: "{[ .Updated }}"
-subscribers: 76
+subscribers: 79
 posts: 10
 comments: 9
 weight: 10
@@ -41,7 +41,7 @@ A place to share all safe for work AI arts you make or enjoy :)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 76 |
+| Subscribers          | 79 |
 | Posts                | 10  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share all safe for work AI arts you make or enjoy :)
 |----------------------|---|
 | Published            | 2023-05-15 12:00:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:55 |
+| Last Scraped         | 2023-06-16 22:55:51 |

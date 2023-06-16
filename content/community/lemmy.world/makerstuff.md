@@ -3,19 +3,19 @@ title: "For Makers, Creators and Doers"
 name: "makerstuff"
 description: "This community is a central space for makers and creators of all types. Woodworking is just as welcome as 3d printing, welding can go alongside programming robots run by micro controllers. Look what I made is welcome, as is This is how to make it. **The important thing is to *create* something, and get inspired by other people's creations.**Keep it civil and uplifting."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/makerstuff"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 4
+subscribers: 47
+posts: 9
 comments: 8
-weight: 4
-dau: 0
-wau: 0
-mau: 0
+weight: 9
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community is a central space for makers and creators of all types. Woodwork
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 4  |
+| Subscribers          | 47 |
+| Posts                | 9  |
 | Comments             | 8  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is a central space for makers and creators of all types. Woodwork
 |----------------------|---|
 | Published            | 2023-06-15 14:26:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

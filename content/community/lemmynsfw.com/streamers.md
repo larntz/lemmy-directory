@@ -3,16 +3,16 @@ title: "Streamers"
 name: "streamers"
 description: "**Twitch Streamer Appreciation!**This community is focused on the appreciation of (mostly) female streamers on the internet. At the moment this mainly consists of women connected to OfflineTV, but feel free to post any twitch streamer you like!**Rules:**- 18+ only! As per [LemmyNSFW](https://lemmynsfw.com/) rules.- No fakes! (As of right now)- 10k+ followers only!"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/streamers"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 80
-posts: 19
+subscribers: 110
+posts: 25
 comments: 0
-weight: 19
+weight: 25
 dau: 2
 wau: 2
 mau: 2
@@ -43,8 +43,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 19  |
+| Subscribers          | 110 |
+| Posts                | 25  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 09:23:12 |
 | Updated              | 2023-06-14 10:23:11 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

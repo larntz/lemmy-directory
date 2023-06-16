@@ -3,7 +3,7 @@ title: "Erlang Programming Language"
 name: "erlang"
 description: "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/erlang"
@@ -54,4 +54,4 @@ Erlang is a programming language used to build massively scalable soft real-time
 |----------------------|---|
 | Published            | 2023-06-13 00:17:42 |
 | Updated              | 2023-06-13 00:22:57 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

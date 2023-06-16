@@ -3,16 +3,16 @@ title: "VR Porn"
 name: "vrporn"
 description: "A place to share and discuss the best Virtual Reality porn videos on the internet"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/vrporn"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 134
-posts: 7
+subscribers: 147
+posts: 8
 comments: 0
-weight: 7
+weight: 8
 dau: 1
 wau: 2
 mau: 2
@@ -43,8 +43,8 @@ A place to share and discuss the best Virtual Reality porn videos on the interne
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 7  |
+| Subscribers          | 147 |
+| Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -56,4 +56,4 @@ A place to share and discuss the best Virtual Reality porn videos on the interne
 |----------------------|---|
 | Published            | 2023-06-11 13:08:45 |
 | Updated              | 2023-06-12 21:40:24 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

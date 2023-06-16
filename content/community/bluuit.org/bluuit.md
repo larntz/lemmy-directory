@@ -3,7 +3,7 @@ title: "bluuit"
 name: "bluuit"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://bluuit.org/c/bluuit"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 21:43:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:11 |

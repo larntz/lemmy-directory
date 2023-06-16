@@ -3,7 +3,7 @@ title: "Bikepacking"
 name: "bikepacking"
 description: "Bikepacking: Off-Pavement Bicycling and camping where you would if you were to go backpacking. Bikepacking is generally in the backcountry, but you can backpack on local trails."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bikepacking"
@@ -54,4 +54,4 @@ Bikepacking: Off-Pavement Bicycling and camping where you would if you were to g
 |----------------------|---|
 | Published            | 2023-06-06 13:34:49 |
 | Updated              | 2023-06-06 13:42:56 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:25 |

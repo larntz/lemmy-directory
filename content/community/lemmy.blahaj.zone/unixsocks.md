@@ -3,13 +3,13 @@ title: "r/unixsocks"
 name: "unixsocks"
 description: "# Rules: ### 1.Thigh high socksAll non-meme pictures must contain a human wearing thigh high socks.### 2.Unix-like OSAll non-meme pictures must contain a device running a unix-like OS. Android and WSL are not permitted.### 3.Stay civilNo hate speech, bullying or personal attacks of any kind are allowed### 4.NSFW flagNSFW post must have NSFW flag.----------# unixsocks in elsewhere# Fediverse :- **Matrix**:Link:https://matrix.to/#/#unixsocks:matrix.orgBackup link:https://matrix.to/#/#unixsocks:exkc.moe- **XMPP  (linked to matrix)** :Main Room: #unixsocks-general#the-apothecary.club@matrix.orgGamyer Room: #unixsocks-gayming#the-apothecary.club@matrix.orgShitpost Room: #unixsocks-dumpsterfire#the-apothecary.club@matrix.org# Big tech social media :- **Discord (linked to matrix)**: link: https://discord.gg/NVKeRwaMmW- **Reddit**: link: https://reddit.com/r/unixsocks/-"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/unixsocks"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 19:40:21 |
 | Updated              | 2023-06-16 06:15:23 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

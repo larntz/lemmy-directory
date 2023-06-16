@@ -3,18 +3,18 @@ title: "Florida"
 name: "florida"
 description: "The Free State of Florida"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/florida"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 26
-posts: 265
+posts: 266
 comments: 15
-weight: 265
+weight: 266
 dau: 1
-wau: 2
+wau: 3
 mau: 6
 instances:
 - "exploding-heads_com"
@@ -42,10 +42,10 @@ The Free State of Florida
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 26 |
-| Posts                | 265  |
+| Posts                | 266  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ The Free State of Florida
 |----------------------|---|
 | Published            | 2022-03-06 12:29:12 |
 | Updated              | 2022-03-20 22:26:20 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

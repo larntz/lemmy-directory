@@ -3,7 +3,7 @@ title: "Solo Wargaming"
 name: "solo_wargames"
 description: "A place to share and discuss solo wargames. Rulesets, AARs, and questions welcome."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/solo_wargames"
@@ -54,4 +54,4 @@ A place to share and discuss solo wargames. Rulesets, AARs, and questions welcom
 |----------------------|---|
 | Published            | 2023-06-16 05:08:38 |
 | Updated              | 2023-06-16 05:09:07 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

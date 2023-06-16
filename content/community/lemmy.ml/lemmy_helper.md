@@ -3,7 +3,7 @@ title: "Lemmy Helper - for server operators"
 name: "lemmy_helper"
 description: "For Lemmy server operators and other people running an instance. Webapp for direct interface to the PostgreSQL database to query for common issues."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_helper"
@@ -13,9 +13,9 @@ subscribers: 3
 posts: 1
 comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ For Lemmy server operators and other people running an instance. Webapp for dire
 | Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ For Lemmy server operators and other people running an instance. Webapp for dire
 |----------------------|---|
 | Published            | 2023-06-15 16:26:53 |
 | Updated              | 2023-06-15 17:00:27 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

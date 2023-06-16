@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "Post what you like. I've got hundreds of mp3s salvaged from Google Music wreckage. music related stats"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/music"
@@ -14,7 +14,7 @@ posts: 9
 comments: 9
 weight: 9
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "midwest_social"
@@ -45,7 +45,7 @@ Post what you like. I've got hundreds of mp3s salvaged from Google Music wreckag
 | Posts                | 9  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Post what you like. I've got hundreds of mp3s salvaged from Google Music wreckag
 |----------------------|---|
 | Published            | 2023-06-04 00:02:42 |
 | Updated              | 2023-06-04 21:13:02 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

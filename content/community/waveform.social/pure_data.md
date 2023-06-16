@@ -3,13 +3,13 @@ title: "Pure Data"
 name: "pure_data"
 description: "a community for users of Pure Data.Pd (aka Pure Data) is a real-time graphical programming environment for audio, video, and graphical processing.Pure Data is Free and Open Source Software created by Miller Puckette, original developer of MAX/MSP"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/pure_data"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ a community for users of Pure Data.<br>Pd (aka Pure Data) is a real-time graphic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ a community for users of Pure Data.<br>Pd (aka Pure Data) is a real-time graphic
 |----------------------|---|
 | Published            | 2023-06-12 23:10:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

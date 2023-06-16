@@ -3,19 +3,19 @@ title: "Fishing"
 name: "fishing"
 description: "A place for anglers to discuss their catches and techniques."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fishing"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 44
 posts: 4
-comments: 3
+comments: 4
 weight: 4
-dau: 2
-wau: 3
-mau: 3
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for anglers to discuss their catches and techniques.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 44 |
 | Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 4  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for anglers to discuss their catches and techniques.
 |----------------------|---|
 | Published            | 2023-06-11 09:53:38 |
 | Updated              | 2023-06-11 17:43:41 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

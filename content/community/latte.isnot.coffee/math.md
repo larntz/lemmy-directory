@@ -3,7 +3,7 @@ title: "Mathematics"
 name: "math"
 description: "Discussions about mathematics, university focussed "
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/math"
@@ -54,4 +54,4 @@ Discussions about mathematics, university focussed
 |----------------------|---|
 | Published            | 2023-06-15 16:46:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:09 |

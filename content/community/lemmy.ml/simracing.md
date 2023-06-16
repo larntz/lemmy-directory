@@ -3,19 +3,19 @@ title: "Sim Racing"
 name: "simracing"
 description: "Discussing all things Sim Racing"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simracing"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 84
 posts: 6
-comments: 10
+comments: 12
 weight: 6
-dau: 1
+dau: 3
 wau: 4
-mau: 4
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussing all things Sim Racing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 84 |
 | Posts                | 6  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
+| Comments             | 12  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussing all things Sim Racing
 |----------------------|---|
 | Published            | 2023-06-04 22:34:23 |
 | Updated              | 2023-06-08 01:07:34 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

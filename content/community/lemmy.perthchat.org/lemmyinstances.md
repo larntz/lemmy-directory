@@ -3,7 +3,7 @@ title: "Lemmy instances"
 name: "lemmyinstances"
 description: "Promote Lemmy instances!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/lemmyinstances"
@@ -54,4 +54,4 @@ Promote Lemmy instances!
 |----------------------|---|
 | Published            | 2023-06-02 16:18:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

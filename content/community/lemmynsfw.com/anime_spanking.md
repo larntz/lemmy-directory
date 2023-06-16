@@ -3,13 +3,13 @@ title: "Anime Spanking"
 name: "anime_spanking"
 description: "- Only anime/drawn art allowed, post other content at [!spanking@lemmynsfw.com](https://lemmynsfw.com/c/spanking) - Please be polite to each other. No hate speech, no trolling.- This sub is strictly NSFW and 18+- If you know the source, please post it as comment."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/anime_spanking"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 58
 posts: 9
 comments: 2
 weight: 9
@@ -43,7 +43,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 58 |
 | Posts                | 9  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 18:05:10 |
 | Updated              | 2023-06-13 18:18:19 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

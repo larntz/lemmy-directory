@@ -3,16 +3,16 @@ title: "Willem II"
 name: "willem_ii"
 description: "_Hup Willem II, stoere kerels_Home for news and discussion of Willem II, the football (soccer) team from Tilburg, The Netherlands. Posts welcome in English and Dutch.**Rules:**1. Don't be a dick2. Occasional news about former players is acceptable, but don't overdo it please.4. Any posted tweets/toots must include the author's name/username in the title.5. Don't editorialize headlines from linked stories or content from tweets/toots.6. Watch this space for further developments, I'm just getting this thing started."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/willem_ii"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 4
+posts: 6
 comments: 0
-weight: 4
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ _Hup Willem II, stoere kerels_<br><br>Home for news and discussion of Willem II,
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 4  |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ _Hup Willem II, stoere kerels_<br><br>Home for news and discussion of Willem II,
 |----------------------|---|
 | Published            | 2023-06-11 15:32:16 |
 | Updated              | 2023-06-12 13:06:41 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,15 +3,15 @@ title: "Small Form Factor PCs"
 name: "sffpc"
 description: "All about small form factor PCs and cases! Discuss your favorite small components. Ask for advice about your builds.Show us your Dan A4, your Velka 3, your Louqe Ghost S1 builds.Like designing cases? We like seeing them!As always, standard etiquette applies. Let's keep things civil."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sffpc"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 65
+subscribers: 69
 posts: 4
-comments: 9
+comments: 10
 weight: 4
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ All about small form factor PCs and cases! <br><br>Discuss your favorite small c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
+| Subscribers          | 69 |
 | Posts                | 4  |
-| Comments             | 9  |
+| Comments             | 10  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ All about small form factor PCs and cases! <br><br>Discuss your favorite small c
 |----------------------|---|
 | Published            | 2023-06-13 03:13:38 |
 | Updated              | 2023-06-14 23:39:33 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -1,21 +1,21 @@
 ---
 title: "Squirting" 
 name: "squirting"
-description: "Commuity of squirting juices form girls"
+description: "Community dedicated to girls who squirt body fluids from their pussy.Lemmy equivalent of r/squirting. Not officially affiliated (yet).Any moderators from the reddit can have mod here, just ask."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/squirting"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 110
-posts: 15
-comments: 0
-weight: 15
-dau: 1
-wau: 1
-mau: 1
+subscribers: 136
+posts: 17
+comments: 1
+weight: 17
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-Commuity of squirting juices form girls
+Community dedicated to girls who squirt body fluids from their pussy.<br><br>Lemmy equivalent of r/squirting. Not officially affiliated (yet).<br>Any moderators from the reddit can have mod here, just ask.
 </blockquote>
 
 
@@ -43,17 +43,17 @@ Commuity of squirting juices form girls
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 110 |
-| Posts                | 15  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 136 |
+| Posts                | 17  |
+| Comments             | 1  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 12:37:26 |
-| Updated              | 2023-06-15 10:13:23 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Updated              | 2023-06-16 13:11:58 |
+| Last Scraped         | 2023-06-16 22:56:41 |

@@ -3,13 +3,13 @@ title: "AskElectronics"
 name: "askelectronics"
 description: "This is a technical ELECTRONIC ENGINEERING community, covering practical, component-level circuit design and repair, electronic circuit theory, electronic components, tools and equipment.Related communities: - [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)- [c/cprogramming](https://lemmy.ml/c/cprogramming)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askelectronics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a technical ELECTRONIC ENGINEERING community, covering practical, compon
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a technical ELECTRONIC ENGINEERING community, covering practical, compon
 |----------------------|---|
 | Published            | 2023-06-06 19:56:39 |
 | Updated              | 2023-06-09 06:25:03 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

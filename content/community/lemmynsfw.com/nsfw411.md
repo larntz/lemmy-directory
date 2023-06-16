@@ -1,21 +1,21 @@
 ---
 title: "NSFW411" 
 name: "nsfw411"
-description: "Catalog of NSFW communities"
+description: "Catalog of NSFW communitiesFeel free to make posts about any communities you'd like added."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfw411"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 274
-posts: 2
-comments: 6
-weight: 2
-dau: 2
-wau: 5
-mau: 5
+subscribers: 312
+posts: 3
+comments: 18
+weight: 3
+dau: 6
+wau: 10
+mau: 10
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-Catalog of NSFW communities
+Catalog of NSFW communities<br><br>Feel free to make posts about any communities you'd like added.
 </blockquote>
 
 
@@ -43,17 +43,17 @@ Catalog of NSFW communities
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 274 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 312 |
+| Posts                | 3  |
+| Comments             | 18  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 14:44:24 |
-| Updated              | 2023-06-13 14:48:45 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Updated              | 2023-06-16 20:38:23 |
+| Last Scraped         | 2023-06-16 22:56:41 |

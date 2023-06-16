@@ -3,7 +3,7 @@ title: "Confessions"
 name: "confessions"
 description: "You must confess!-This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/confessions"
@@ -54,4 +54,4 @@ You must confess!<br>-<br>This community is subject to the rules defined for thi
 |----------------------|---|
 | Published            | 2023-06-12 05:15:38 |
 | Updated              | 2023-06-12 20:58:01 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

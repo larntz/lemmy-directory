@@ -3,13 +3,13 @@ title: "Tabletop Miniatures Hobby"
 name: "tabletop_hobby"
 description: "Community for creating and painting miniatures for tabletop RPGs and wargames."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tabletop_hobby"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for creating and painting miniatures for tabletop RPGs and wargames.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for creating and painting miniatures for tabletop RPGs and wargames.
 |----------------------|---|
 | Published            | 2023-06-16 04:56:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,13 +3,13 @@ title: "Technology "
 name: "tech"
 description: "Technology related posts!"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/tech"
 host: lemmy.podycust.co.uk
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Technology related posts!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Technology related posts!
 |----------------------|---|
 | Published            | 2023-06-03 10:43:40 |
 | Updated              | 2023-06-10 11:26:47 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

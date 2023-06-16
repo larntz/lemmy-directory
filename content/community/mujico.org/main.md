@@ -3,7 +3,7 @@ title: "General"
 name: "main"
 description: "Canal general abierto al publico"
 type: community
-date: "2023-06-16 11:05:45"
+date: "2023-06-16 22:55:40"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/main"
@@ -54,4 +54,4 @@ Canal general abierto al publico
 |----------------------|---|
 | Published            | 2022-09-03 22:06:49 |
 | Updated              | 2022-10-09 14:51:19 |
-| Last Scraped         | 2023-06-16 11:05:45 |
+| Last Scraped         | 2023-06-16 22:55:40 |

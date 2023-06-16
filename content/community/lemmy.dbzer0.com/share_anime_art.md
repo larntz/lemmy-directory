@@ -3,19 +3,19 @@ title: "Stable Diffusion Anime"
 name: "share_anime_art"
 description: "Share anime art created using Stable Diffusion. Please keep it SFW."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/share_anime_art"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 0
+subscribers: 20
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Share anime art created using Stable Diffusion. Please keep it SFW.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 0  |
+| Subscribers          | 20 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Share anime art created using Stable Diffusion. Please keep it SFW.
 |----------------------|---|
 | Published            | 2023-06-11 15:23:01 |
 | Updated              | 2023-06-13 10:35:21 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

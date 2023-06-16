@@ -3,7 +3,7 @@ title: "Alles rund ums Wasser"
 name: "wasser"
 description: "Alles rund ums Wasser, Hydrologie, Gewässerökologie, Wasserwirtschaft, Kommunale Versorger, etc.Wenn Nachrichten auf Forschungsergebnisse verweisen gibt gerne die Primärquellen mit an.## Grenzwerte für Schadstoffe:* Rassismus 0 µg/m³* Sexismus 0 µg/m³* Homophobie 0 µg/m³* sonst. toxisches Verhalten 0 µg/m³"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wasser"
@@ -54,4 +54,4 @@ Alles rund ums Wasser, Hydrologie, Gewässerökologie, Wasserwirtschaft, Kommuna
 |----------------------|---|
 | Published            | 2023-06-13 18:23:13 |
 | Updated              | 2023-06-13 18:24:21 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

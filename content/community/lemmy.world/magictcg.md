@@ -3,19 +3,19 @@ title: "Magic: The Gathering"
 name: "magictcg"
 description: "Anything & everything about the trading card game Magic: the Gathering, Magic Arena, etc."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magictcg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 238
+subscribers: 266
 posts: 10
-comments: 33
+comments: 34
 weight: 10
-dau: 7
-wau: 20
-mau: 20
+dau: 1
+wau: 22
+mau: 22
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Anything & everything about the trading card game Magic: the Gathering, Magic Ar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 238 |
+| Subscribers          | 266 |
 | Posts                | 10  |
-| Comments             | 33  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Comments             | 34  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 22  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Anything & everything about the trading card game Magic: the Gathering, Magic Ar
 |----------------------|---|
 | Published            | 2023-06-10 19:17:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:15 |

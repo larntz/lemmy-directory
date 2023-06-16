@@ -3,7 +3,7 @@ title: "coding"
 name: "coding"
 description: "coding"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coding"
@@ -54,4 +54,4 @@ coding
 |----------------------|---|
 | Published            | 2023-06-15 04:20:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

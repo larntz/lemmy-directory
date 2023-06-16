@@ -3,13 +3,13 @@ title: "FC St. Pauli "
 name: "fcsp"
 description: "**Der Stadtteilclub aus Hamburg**Der FC St. Pauli ist ein Verein mit vielen tollen Sportangeboten und engagiert sich auch vorbildlcih in politischen Bereichen.**In dieser Community geht es jedoch ausschliesslich um Fussball. Daher bitte Beiträge die nichts mit Fussball zu tun haben, in anderen Communities unterbringen**Die Nettiquette, sowie die Regeln der Instanz feddit.de gelten auch in dieser Community. Diese Regeln sind auf der Hauptseite einsehbar. Vielen Dank für deren Beachtung. **___**"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fcsp"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 78
 posts: 45
 comments: 6
 weight: 45
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 78 |
 | Posts                | 45  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-02-10 07:12:16 |
 | Updated              | 2022-02-19 09:44:44 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

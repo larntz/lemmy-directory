@@ -3,13 +3,13 @@ title: "ohmyzsh"
 name: "ohmyzsh"
 description: "Lemmy community for ohmyzsh users. Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ohmyzsh"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Lemmy community for ohmyzsh users. Oh-My-Zsh is an open source, community-driven
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lemmy community for ohmyzsh users. Oh-My-Zsh is an open source, community-driven
 |----------------------|---|
 | Published            | 2021-03-15 17:14:26 |
 | Updated              | 2021-03-15 23:13:38 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

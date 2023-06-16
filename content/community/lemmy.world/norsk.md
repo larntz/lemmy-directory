@@ -3,7 +3,7 @@ title: "et fellesskap for dem som lærer norsk."
 name: "norsk"
 description: "A community dedicated to the Norwegian language, for those learning it."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/norsk"
@@ -54,4 +54,4 @@ A community dedicated to the Norwegian language, for those learning it.<br>
 |----------------------|---|
 | Published            | 2023-06-09 08:12:24 |
 | Updated              | 2023-06-09 08:15:11 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

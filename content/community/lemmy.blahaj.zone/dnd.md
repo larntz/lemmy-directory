@@ -3,13 +3,13 @@ title: "Dungeons & Dragons"
 name: "dnd"
 description: "Welcome, adventurers, to the world's greatest* roleplaying game!*Terms and conditions may apply"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/dnd"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 75
 posts: 2
 comments: 9
 weight: 2
@@ -41,7 +41,7 @@ Welcome, adventurers, to the world's greatest* roleplaying game!<br><br>*Terms a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 75 |
 | Posts                | 2  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome, adventurers, to the world's greatest* roleplaying game!<br><br>*Terms a
 |----------------------|---|
 | Published            | 2023-06-12 17:40:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

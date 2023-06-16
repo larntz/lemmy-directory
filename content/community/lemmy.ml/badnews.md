@@ -3,7 +3,7 @@ title: "Bad News"
 name: "badnews"
 description: "most lemmy communities have *some* bad news, but this one is all bad all the time.see also: [!goodnews](https://lemmy.ml/c/goodnews) "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badnews"
@@ -54,4 +54,4 @@ most lemmy communities have *some* bad news, but this one is all bad all the tim
 |----------------------|---|
 | Published            | 2022-08-28 13:46:23 |
 | Updated              | 2022-10-02 14:52:53 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:46 |

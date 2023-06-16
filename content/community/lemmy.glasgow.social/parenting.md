@@ -3,7 +3,7 @@ title: "Baby & Parenting"
 name: "parenting"
 description: "Check our wiki page for some links and resources:https://wiki.glasgow.social/baby"
 type: community
-date: "2023-06-16 11:06:32"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/parenting"
@@ -54,4 +54,4 @@ Check our wiki page for some links and resources:<br>https://wiki.glasgow.social
 |----------------------|---|
 | Published            | 2020-12-03 22:58:06 |
 | Updated              | 2020-12-20 14:44:04 |
-| Last Scraped         | 2023-06-16 11:06:32 |
+| Last Scraped         | 2023-06-16 22:56:30 |

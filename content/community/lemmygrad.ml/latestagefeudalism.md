@@ -3,13 +3,13 @@ title: "Late Stage Feudalism"
 name: "latestagefeudalism"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/latestagefeudalism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 107
+subscribers: 108
 posts: 9
 comments: 0
 weight: 9
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 107 |
+| Subscribers          | 108 |
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-04-16 15:09:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

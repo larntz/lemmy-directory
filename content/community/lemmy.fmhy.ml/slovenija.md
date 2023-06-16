@@ -3,13 +3,13 @@ title: "Naš biser 'zpod Triglava, Slovenija!"
 name: "slovenija"
 description: "----------- SLOVENŠČINA -----------/c/slovenija je splošna skupnost o Sloveniji, Slovencih in Slovenkah, za tiste, ki jih tudi radi imajo.Pravila:- /c/slovenija je **SFW** skupnost. Prosimo, ne objavljajte nič nevarnega.- Dovoljena jezika sta slovenščina in angleščina.- Spoštujte pravila FMHY adminov, bodite zdrave pameti.- Brez diskriminacije. Verjamem, da sem to pravilo ločil od prejšnjega, ampak z dobrim razlogom.--------------- ENGLISH ----------------/c/slovenija is a general community about Slovenia and Slovenes, for those who also like them.Rules:- /c/slovenija is a **SFW** community. Please refrain from posting non-work-safe content.- Only Slovenian/Slovene and English are allowed.- Abide by the rules set by the FMHY admins, have common sense.- No discrimination. I'm aware that I've separated this rule from above, but it's for a good reason."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/slovenija"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 10:08:19 |
 | Updated              | 2023-06-13 13:34:18 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

@@ -1,21 +1,21 @@
 ---
 title: "Jokes and Humor" 
 name: "humor"
-description: "A broad community for text and image based jokes, humor, and memes. ---This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)."
+description: "A broad community for text and image based jokes, humor, and memes. ---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/humor"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 3134
-posts: 86
-comments: 317
-weight: 86
-dau: 11
-wau: 187
-mau: 238
+subscribers: 3210
+posts: 88
+comments: 322
+weight: 88
+dau: 19
+wau: 189
+mau: 248
 instances:
 - "beehaw_org"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A broad community for text and image based jokes, humor, and memes. <br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+A broad community for text and image based jokes, humor, and memes. <br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A broad community for text and image based jokes, humor, and memes. <br><br>---<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3134 |
-| Posts                | 86  |
-| Comments             | 317  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 187  |
-| Monthly Active Users | 238  |
+| Subscribers          | 3210 |
+| Posts                | 88  |
+| Comments             | 322  |
+| Daily Active Users   | 19  |
+| Weekly Active Users  | 189  |
+| Monthly Active Users | 248  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-02 00:44:10 |
-| Updated              | 2023-06-13 22:46:30 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Updated              | 2023-06-16 19:32:37 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,19 +3,19 @@ title: "No Man's Sky"
 name: "nomanssky"
 description: "Welcome to No Man's Sky! This is a general community to discuss and share content about the retro-scifi space exploration game No Man's Sky.**Related Communities*** [NMSGalacticHub](https://lemmy.world/c/nmsgalactichub)* [Oxalis](https://lemmy.world/c/Oxalis)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nomanssky"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 677
+subscribers: 724
 posts: 30
-comments: 94
+comments: 99
 weight: 30
-dau: 28
-wau: 48
-mau: 48
+dau: 11
+wau: 65
+mau: 65
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to No Man's Sky! This is a general community to discuss and share conten
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 677 |
+| Subscribers          | 724 |
 | Posts                | 30  |
-| Comments             | 94  |
-| Daily Active Users   | 28  |
-| Weekly Active Users  | 48  |
-| Monthly Active Users | 48  |
+| Comments             | 99  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 65  |
+| Monthly Active Users | 65  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to No Man's Sky! This is a general community to discuss and share conten
 |----------------------|---|
 | Published            | 2023-06-09 17:05:48 |
 | Updated              | 2023-06-13 00:42:47 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

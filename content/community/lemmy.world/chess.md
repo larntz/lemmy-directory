@@ -3,13 +3,13 @@ title: "Chess"
 name: "chess"
 description: "A place for:- Chess discussions- Tournament following- Game analysis- Interesting puzzles/compositions- Memes?- Other?Rules:  Mostly self-evident for now"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chess"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for:<br>- Chess discussions<br>- Tournament following<br>- Game analysis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for:<br>- Chess discussions<br>- Tournament following<br>- Game analysis
 |----------------------|---|
 | Published            | 2023-06-11 20:16:21 |
 | Updated              | 2023-06-13 06:49:17 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

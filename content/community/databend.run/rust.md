@@ -3,13 +3,13 @@ title: "Rust"
 name: "rust"
 description: ""
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://databend.run/c/rust"
 host: databend.run
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 08:57:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:22 |

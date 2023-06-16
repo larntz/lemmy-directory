@@ -3,13 +3,13 @@ title: "Work Gone Wild"
 name: "workgonewild"
 description: "An alternative to r/workgonewild. Posts must be from work in the gone wild spirit. Do not post anything against sitewide rules. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/workgonewild"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 62
+subscribers: 75
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ An alternative to r/workgonewild. Posts must be from work in the gone wild spiri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
+| Subscribers          | 75 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ An alternative to r/workgonewild. Posts must be from work in the gone wild spiri
 |----------------------|---|
 | Published            | 2023-06-14 13:56:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

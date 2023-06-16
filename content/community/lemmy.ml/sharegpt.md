@@ -3,16 +3,16 @@ title: "ShareGPT"
 name: "sharegpt"
 description: "To share your conversations with AI"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sharegpt"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 7
+posts: 8
 comments: 25
-weight: 7
+weight: 8
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ To share your conversations with AI
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 7  |
+| Posts                | 8  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ To share your conversations with AI
 |----------------------|---|
 | Published            | 2023-06-06 12:34:18 |
 | Updated              | 2023-06-06 12:34:51 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:21 |

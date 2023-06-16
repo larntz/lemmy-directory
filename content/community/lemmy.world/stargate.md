@@ -3,19 +3,19 @@ title: "Stargate"
 name: "stargate"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stargate"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 98
 posts: 10
-comments: 15
+comments: 17
 weight: 10
-dau: 5
-wau: 5
-mau: 5
+dau: 4
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 98 |
 | Posts                | 10  |
-| Comments             | 15  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 17  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 11:28:58 |
 | Updated              | 2023-06-14 21:08:04 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

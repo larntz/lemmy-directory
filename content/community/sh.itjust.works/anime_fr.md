@@ -3,7 +3,7 @@ title: "AniméFR"
 name: "anime_fr"
 description: "Communauté francophone autour de l'animation japonaise."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/anime_fr"
@@ -54,4 +54,4 @@ Communauté francophone autour de l'animation japonaise.
 |----------------------|---|
 | Published            | 2023-06-15 20:23:40 |
 | Updated              | 2023-06-15 20:30:48 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

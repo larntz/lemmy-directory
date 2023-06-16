@@ -3,7 +3,7 @@ title: "Stampede"
 name: "stampede"
 description: "Calgary Stampede Pics"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/stampede"
@@ -54,4 +54,4 @@ Calgary Stampede Pics
 |----------------------|---|
 | Published            | 2023-06-12 22:56:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,7 +3,7 @@ title: "We Hate Batteries"
 name: "batteryhate"
 description: "We discuss the bad things about batteries and how to avoid batteries or make them better."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/batteryhate"
@@ -54,4 +54,4 @@ We discuss the bad things about batteries and how to avoid batteries or make the
 |----------------------|---|
 | Published            | 2023-06-08 15:18:19 |
 | Updated              | 2023-06-08 15:18:50 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

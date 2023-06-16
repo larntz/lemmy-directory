@@ -3,13 +3,13 @@ title: "mushroom hunting, fungi, myco-porn, cultivation"
 name: "mycology"
 description: "for the love of fungi :: hunting, foraging, cultivation, images( mycoporn ), research, questions & general discussion"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mycology"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ for the love of fungi :: hunting, foraging, cultivation, images( mycoporn ), res
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ for the love of fungi :: hunting, foraging, cultivation, images( mycoporn ), res
 |----------------------|---|
 | Published            | 2023-06-10 17:10:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,18 +3,18 @@ title: "dmv.social meta"
 name: "meta"
 description: "News, announcements, and information about the dmv.social Lemmy community"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/meta"
 host: dmv.social
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 5
 comments: 2
 weight: 5
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "dmv_social"
@@ -41,11 +41,11 @@ News, announcements, and information about the dmv.social Lemmy community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ News, announcements, and information about the dmv.social Lemmy community
 |----------------------|---|
 | Published            | 2023-06-09 00:35:14 |
 | Updated              | 2023-06-13 23:05:56 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

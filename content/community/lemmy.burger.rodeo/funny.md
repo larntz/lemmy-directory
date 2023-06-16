@@ -3,17 +3,17 @@ title: "Funny"
 name: "funny"
 description: "Actual funny stuffs here unlike r/funny."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/funny"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 156
-posts: 65
+subscribers: 165
+posts: 66
 comments: 142
-weight: 65
-dau: 9
+weight: 66
+dau: 2
 wau: 33
 mau: 35
 instances:
@@ -41,10 +41,10 @@ Actual funny stuffs here unlike r/funny.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 156 |
-| Posts                | 65  |
+| Subscribers          | 165 |
+| Posts                | 66  |
 | Comments             | 142  |
-| Daily Active Users   | 9  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 33  |
 | Monthly Active Users | 35  |
 
@@ -54,4 +54,4 @@ Actual funny stuffs here unlike r/funny.
 |----------------------|---|
 | Published            | 2023-06-04 02:33:53 |
 | Updated              | 2023-06-13 09:33:41 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:30 |

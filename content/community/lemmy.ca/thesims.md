@@ -3,7 +3,7 @@ title: "A community for people who play The Sims."
 name: "thesims"
 description: "**Rules:**- Be respectful. Everyone should feel welcome here.- No bigotry, including racism, sexism, ableism, homophobia, transphobia, or xenophobia.- No Ads / Spamming.- No Porn. Sorry Wicked Whims users! That's one of the top-level rules of this Lemmy instance."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/thesims"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 17:14:51 |
 | Updated              | 2023-06-12 18:03:10 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

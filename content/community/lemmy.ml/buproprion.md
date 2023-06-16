@@ -3,7 +3,7 @@ title: "Buproprion"
 name: "buproprion"
 description: "A place to discuss the medication Buproprion (Wellbutrin)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buproprion"
@@ -54,4 +54,4 @@ A place to discuss the medication Buproprion (Wellbutrin)
 |----------------------|---|
 | Published            | 2023-06-09 23:49:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,7 +3,7 @@ title: "Tajikistan"
 name: "tajikistan"
 description: "## Xush OmadedAxbor, gap, muziqī, suratho, va hazoru yak mayda chuyda oid ba Tojikiston. Hama marhamat!#### Join* [#tajikistan:matrix.org](https://matrix.to/#/#tajikistan:matrix.org)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tajikistan"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-05-03 18:44:56 |
 | Updated              | 2022-07-17 06:15:25 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

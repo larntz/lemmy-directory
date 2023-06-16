@@ -3,7 +3,7 @@ title: "AntiJokes"
 name: "antijokes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antijokes"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-27 21:14:59 |
 | Updated              | 2020-06-27 21:15:48 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:20 |

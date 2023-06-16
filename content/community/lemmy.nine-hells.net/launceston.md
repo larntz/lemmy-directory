@@ -3,7 +3,7 @@ title: "Launceston"
 name: "launceston"
 description: "Launceston community"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/launceston"
@@ -54,4 +54,4 @@ Launceston community
 |----------------------|---|
 | Published            | 2023-06-10 10:40:37 |
 | Updated              | 2023-06-10 10:48:32 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:13 |

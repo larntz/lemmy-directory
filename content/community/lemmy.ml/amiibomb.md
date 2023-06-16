@@ -3,16 +3,16 @@ title: "Amiibo Spoofing"
 name: "amiibomb"
 description: "Chat and discussion about Amiibo spoofing."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amiibomb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 0
+subscribers: 6
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ Chat and discussion about Amiibo spoofing.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
+| Subscribers          | 6 |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ Chat and discussion about Amiibo spoofing.
 |----------------------|---|
 | Published            | 2023-06-06 22:55:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

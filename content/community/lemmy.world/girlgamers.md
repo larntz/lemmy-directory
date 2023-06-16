@@ -3,13 +3,13 @@ title: "The Gaming Safe Space"
 name: "girlgamers"
 description: "A place for gamers to chat, band together in online games, share cute battle stations and talk about gaming in general. All women, non-binary and queer people welcome. 🏳️\u200d🌈🏳️\u200d⚧️"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/girlgamers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for gamers to chat, band together in online games, share cute battle sta
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for gamers to chat, band together in online games, share cute battle sta
 |----------------------|---|
 | Published            | 2023-06-12 15:40:27 |
 | Updated              | 2023-06-12 15:47:07 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,19 +3,19 @@ title: "Music"
 name: "music"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/music"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1430
-posts: 75
-comments: 64
-weight: 75
-dau: 21
-wau: 69
-mau: 70
+subscribers: 1526
+posts: 87
+comments: 89
+weight: 87
+dau: 30
+wau: 107
+mau: 109
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1430 |
-| Posts                | 75  |
-| Comments             | 64  |
-| Daily Active Users   | 21  |
-| Weekly Active Users  | 69  |
-| Monthly Active Users | 70  |
+| Subscribers          | 1526 |
+| Posts                | 87  |
+| Comments             | 89  |
+| Daily Active Users   | 30  |
+| Weekly Active Users  | 107  |
+| Monthly Active Users | 109  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-01 09:55:10 |
 | Updated              | 2023-06-01 11:42:46 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

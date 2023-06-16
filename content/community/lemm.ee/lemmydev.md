@@ -3,13 +3,13 @@ title: "Lemmy App Development "
 name: "lemmydev"
 description: "A place for Lemmy builders to chat about building apps, clients, tools and bots for the Lemmy platform. **On-Topic**:* programming questions related to the Lemmy platform* sharing your ideas, WIP, or released Lemmy-related work**Off-Topic**:* general programming questions unrelated to Lemmy* feature requests for developers* sharing or promoting work not related to Lemmy"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lemmydev"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 42
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ A place for Lemmy builders to chat about building apps, clients, tools and bots 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 42 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for Lemmy builders to chat about building apps, clients, tools and bots 
 |----------------------|---|
 | Published            | 2023-06-12 18:05:39 |
 | Updated              | 2023-06-12 21:39:51 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

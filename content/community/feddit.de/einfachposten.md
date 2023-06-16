@@ -3,13 +3,13 @@ title: "Einfach posten"
 name: "einfachposten"
 description: "Nicht lange nachdenken, einfach mal machen."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/einfachposten"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 120
 posts: 5
 comments: 15
 weight: 5
@@ -41,7 +41,7 @@ Nicht lange nachdenken, einfach mal machen.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 120 |
 | Posts                | 5  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Nicht lange nachdenken, einfach mal machen.
 |----------------------|---|
 | Published            | 2023-06-05 15:10:30 |
 | Updated              | 2023-06-12 07:29:11 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

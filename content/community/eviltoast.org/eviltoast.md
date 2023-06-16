@@ -3,7 +3,7 @@ title: "eviltoast.org"
 name: "eviltoast"
 description: "Official community of eviltoast.org"
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/eviltoast"
@@ -54,4 +54,4 @@ Official community of eviltoast.org
 |----------------------|---|
 | Published            | 2023-06-12 00:51:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

@@ -3,7 +3,7 @@ title: "Balkan Brass"
 name: "balkanbrass"
 description: "All about [Balkan Brass](http://en.wikipedia.org/wiki/Balkan_Brass_Band). "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/balkanbrass"
@@ -54,4 +54,4 @@ All about [Balkan Brass](http://en.wikipedia.org/wiki/Balkan_Brass_Band). <br>
 |----------------------|---|
 | Published            | 2023-06-14 22:32:10 |
 | Updated              | 2023-06-14 22:49:39 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,19 +3,19 @@ title: "Furry Musicians"
 name: "musicians"
 description: "Gear Acquisition Syndrome support group."
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/musicians"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 60
-posts: 6
-comments: 9
-weight: 6
-dau: 1
-wau: 5
-mau: 9
+subscribers: 61
+posts: 8
+comments: 15
+weight: 8
+dau: 7
+wau: 12
+mau: 16
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ Gear Acquisition Syndrome support group.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 6  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 9  |
+| Subscribers          | 61 |
+| Posts                | 8  |
+| Comments             | 15  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Gear Acquisition Syndrome support group.
 |----------------------|---|
 | Published            | 2023-06-03 20:07:31 |
 | Updated              | 2023-06-03 20:14:34 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

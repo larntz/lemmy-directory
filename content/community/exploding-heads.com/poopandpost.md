@@ -3,17 +3,17 @@ title: "Posts made while pooping"
 name: "poopandpost"
 description: "Simply post as you poop, no rules"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/poopandpost"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 12
-comments: 53
+comments: 55
 weight: 12
-dau: 4
+dau: 5
 wau: 12
 mau: 12
 instances:
@@ -41,10 +41,10 @@ Simply post as you poop, no rules
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 12  |
-| Comments             | 53  |
-| Daily Active Users   | 4  |
+| Comments             | 55  |
+| Daily Active Users   | 5  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
 
@@ -54,4 +54,4 @@ Simply post as you poop, no rules
 |----------------------|---|
 | Published            | 2023-06-10 22:05:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

@@ -3,7 +3,7 @@ title: "Sheffield Wednesday Football Club"
 name: "swfc"
 description: "A home for fans of certainly a team in the English League system"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swfc"
@@ -54,4 +54,4 @@ A home for fans of certainly a team in the English League system
 |----------------------|---|
 | Published            | 2023-06-13 00:43:14 |
 | Updated              | 2023-06-13 01:29:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:17 |

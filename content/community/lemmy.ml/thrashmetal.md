@@ -3,13 +3,13 @@ title: "Thrash Metal"
 name: "thrashmetal"
 description: "Spectrum of Death"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thrashmetal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Spectrum of Death
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Spectrum of Death
 |----------------------|---|
 | Published            | 2020-01-26 16:05:07 |
 | Updated              | 2020-12-17 18:40:49 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

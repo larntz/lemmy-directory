@@ -3,7 +3,7 @@ title: "CHB"
 name: "chb"
 description: "For the CHB community"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chb"
@@ -54,4 +54,4 @@ For the CHB community
 |----------------------|---|
 | Published            | 2023-06-03 02:30:02 |
 | Updated              | 2023-06-15 01:17:49 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

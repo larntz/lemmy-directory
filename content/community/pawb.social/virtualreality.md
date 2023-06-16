@@ -3,19 +3,19 @@ title: "Virtual Reality"
 name: "virtualreality"
 description: "post about news - show off your projects, worlds or avatars - share some social VR photos and game screenshotsSFW only."
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/virtualreality"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 75
 posts: 3
-comments: 12
+comments: 13
 weight: 3
-dau: 3
-wau: 10
-mau: 11
+dau: 2
+wau: 11
+mau: 12
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ post about news - show off your projects, worlds or avatars - share some social 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 75 |
 | Posts                | 3  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 11  |
+| Comments             | 13  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ post about news - show off your projects, worlds or avatars - share some social 
 |----------------------|---|
 | Published            | 2023-06-04 18:24:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

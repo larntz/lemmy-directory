@@ -3,19 +3,19 @@ title: "Celebs"
 name: "celebs"
 description: "Images and GIFs of female celebrities!# **Rules**:- The title must be the name of the celebrity- Nudes allowed (mark them NSFW)- Please post only famous ladies- Avoid screenshots with UI clutter**NOTES**: - If you are not logged in, you do not see NSFW posts (*and you are missing the spicy stuff*)- Make sure to enable *Show NSFW content* in your settings- Make sure to keep both *English* and *Undetermined* in your allowed languagesLet's keep this a beautiful community!"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/celebs"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 828
-posts: 392
-comments: 68
-weight: 392
-dau: 15
-wau: 35
-mau: 35
+subscribers: 893
+posts: 452
+comments: 89
+weight: 452
+dau: 17
+wau: 44
+mau: 44
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Images and GIFs of female celebrities!<br><br><br># **Rules**:<br>- The title mu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 828 |
-| Posts                | 392  |
-| Comments             | 68  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 35  |
-| Monthly Active Users | 35  |
+| Subscribers          | 893 |
+| Posts                | 452  |
+| Comments             | 89  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 44  |
+| Monthly Active Users | 44  |
 
 <br>
 
@@ -56,4 +56,4 @@ Images and GIFs of female celebrities!<br><br><br># **Rules**:<br>- The title mu
 |----------------------|---|
 | Published            | 2023-06-11 16:50:44 |
 | Updated              | 2023-06-13 12:50:23 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

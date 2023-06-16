@@ -3,13 +3,13 @@ title: "Ireland"
 name: "ireland"
 description: "A sublemmy for the loveliest country on earth. "
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ireland"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 94
+subscribers: 96
 posts: 20
 comments: 15
 weight: 20
@@ -41,7 +41,7 @@ A sublemmy for the loveliest country on earth.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
+| Subscribers          | 96 |
 | Posts                | 20  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A sublemmy for the loveliest country on earth.
 |----------------------|---|
 | Published            | 2019-10-16 15:45:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

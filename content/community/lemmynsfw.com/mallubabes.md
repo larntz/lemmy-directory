@@ -3,16 +3,16 @@ title: "Mallu Babes"
 name: "mallubabes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/mallubabes"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 4
+subscribers: 9
+posts: 5
 comments: 1
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 4  |
+| Subscribers          | 9 |
+| Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 16:52:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

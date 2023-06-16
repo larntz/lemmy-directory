@@ -3,17 +3,17 @@ title: "News | Events"
 name: "nev"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/nev"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 22
+subscribers: 10
+posts: 33
 comments: 5
-weight: 22
-dau: 3
+weight: 33
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 22  |
+| Subscribers          | 10 |
+| Posts                | 33  |
 | Comments             | 5  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 23:17:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

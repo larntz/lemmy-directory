@@ -3,15 +3,15 @@ title: "Geopolitics : News and discussion"
 name: "geopolitics"
 description: "Rules:  - Be polite and do not spam.- Domestic news items without any geopolitics are spam."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geopolitics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 56
 posts: 13
-comments: 7
+comments: 6
 weight: 13
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Rules:  <br>- Be polite and do not spam.<br>- Domestic news items without any ge
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 56 |
 | Posts                | 13  |
-| Comments             | 7  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Rules:  <br>- Be polite and do not spam.<br>- Domestic news items without any ge
 |----------------------|---|
 | Published            | 2020-06-13 18:37:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

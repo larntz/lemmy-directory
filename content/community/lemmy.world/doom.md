@@ -3,7 +3,7 @@ title: "Doom"
 name: "doom"
 description: "Rip and tear until it is done"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doom"
@@ -54,4 +54,4 @@ Rip and tear until it is done
 |----------------------|---|
 | Published            | 2023-06-12 11:44:15 |
 | Updated              | 2023-06-12 12:04:10 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

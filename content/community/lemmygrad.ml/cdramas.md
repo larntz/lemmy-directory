@@ -3,13 +3,13 @@ title: "C-Dramas"
 name: "cdramas"
 description: "A community for posting and discussing C-Dramas"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cdramas"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ A community for posting and discussing C-Dramas
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for posting and discussing C-Dramas
 |----------------------|---|
 | Published            | 2023-04-26 18:34:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

@@ -3,19 +3,19 @@ title: "Cinematography"
 name: "cinematography"
 description: "A place for filmmakers and film appreciators to discuss cinematography, ask questions, and share work."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cinematography"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 7
-comments: 0
-weight: 7
-dau: 0
-wau: 0
-mau: 0
+subscribers: 19
+posts: 12
+comments: 3
+weight: 12
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for filmmakers and film appreciators to discuss cinematography, ask ques
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 19 |
+| Posts                | 12  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for filmmakers and film appreciators to discuss cinematography, ask ques
 |----------------------|---|
 | Published            | 2023-06-15 03:42:17 |
 | Updated              | 2023-06-15 06:27:20 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

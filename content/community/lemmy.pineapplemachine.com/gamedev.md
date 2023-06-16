@@ -3,7 +3,7 @@ title: "gamedev"
 name: "gamedev"
 description: "A place to discuss and share news about video game development."
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/gamedev"
@@ -54,4 +54,4 @@ A place to discuss and share news about video game development.
 |----------------------|---|
 | Published            | 2023-06-06 18:13:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:57 |

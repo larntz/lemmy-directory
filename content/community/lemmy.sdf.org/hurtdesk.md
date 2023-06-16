@@ -3,13 +3,13 @@ title: "Hurtdesk 2.0"
 name: "hurtdesk"
 description: "The new new Hurtdesk since the old one is old. Now with even more Web 2.0!Warning: this is **satire**."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hurtdesk"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 50
 posts: 9
 comments: 51
 weight: 9
@@ -41,7 +41,7 @@ The new new Hurtdesk since the old one is old. Now with even more Web 2.0!<br><b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 50 |
 | Posts                | 9  |
 | Comments             | 51  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ The new new Hurtdesk since the old one is old. Now with even more Web 2.0!<br><b
 |----------------------|---|
 | Published            | 2023-06-11 19:43:28 |
 | Updated              | 2023-06-12 04:29:02 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

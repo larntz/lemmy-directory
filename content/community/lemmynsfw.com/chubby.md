@@ -3,19 +3,19 @@ title: "Chubby"
 name: "chubby"
 description: "For the appreciation of women with curves, rolls, moderate belly hang that are squishy, jiggly, and lovable."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/chubby"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 339
-posts: 21
-comments: 14
-weight: 21
-dau: 5
-wau: 15
-mau: 15
+subscribers: 375
+posts: 22
+comments: 18
+weight: 22
+dau: 7
+wau: 18
+mau: 18
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ For the appreciation of women with curves, rolls, moderate belly hang that are s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 339 |
-| Posts                | 21  |
-| Comments             | 14  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 375 |
+| Posts                | 22  |
+| Comments             | 18  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -56,4 +56,4 @@ For the appreciation of women with curves, rolls, moderate belly hang that are s
 |----------------------|---|
 | Published            | 2023-06-12 22:41:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

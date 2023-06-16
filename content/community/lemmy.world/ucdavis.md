@@ -3,7 +3,7 @@ title: "UC Davis"
 name: "ucdavis"
 description: "An online community for UC Davis and the city of Davis.Though not as active anymore, visit the [DavisWiki](daviswiki.org) for more information on the Davis community."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ucdavis"
@@ -54,4 +54,4 @@ An online community for UC Davis and the city of Davis.<br><br>Though not as act
 |----------------------|---|
 | Published            | 2023-06-11 19:26:24 |
 | Updated              | 2023-06-11 20:14:11 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

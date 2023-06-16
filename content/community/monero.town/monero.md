@@ -3,19 +3,19 @@ title: "Monero"
 name: "monero"
 description: "This is the lemmy community of Monero (XMR), a secure, private, untraceable currency that is open-source and freely available to all."
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monero"
 host: monero.town
 lastmod: "{[ .Updated }}"
-subscribers: 60
-posts: 6
-comments: 63
-weight: 6
-dau: 6
-wau: 15
-mau: 15
+subscribers: 70
+posts: 8
+comments: 76
+weight: 8
+dau: 13
+wau: 23
+mau: 23
 instances:
 - "monero_town"
 tags: 
@@ -41,12 +41,12 @@ This is the lemmy community of Monero (XMR), a secure, private, untraceable curr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 6  |
-| Comments             | 63  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 70 |
+| Posts                | 8  |
+| Comments             | 76  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is the lemmy community of Monero (XMR), a secure, private, untraceable curr
 |----------------------|---|
 | Published            | 2023-06-12 20:15:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

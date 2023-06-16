@@ -3,7 +3,7 @@ title: "dragon_ball"
 name: "dragon_ball"
 description: "Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, and more!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dragon_ball"
@@ -54,4 +54,4 @@ Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, and more!
 |----------------------|---|
 | Published            | 2023-06-12 18:47:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,16 +3,16 @@ title: "Apollo - A beautiful app built for power and speed."
 name: "apolloapp"
 description: "Since many of us are trying to avoid giving reddit any traffic, this space can be used to discuss Apollo, our dreams of seeing it join the Fediverse, and to give our appreciation to @christianselig@mastodon.social for his incredible work."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/apolloapp"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 2
-comments: 2
-weight: 2
+subscribers: 21
+posts: 3
+comments: 3
+weight: 3
 dau: 2
 wau: 2
 mau: 2
@@ -41,9 +41,9 @@ Since many of us are trying to avoid giving reddit any traffic, this space can b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
-| Comments             | 2  |
+| Subscribers          | 21 |
+| Posts                | 3  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Since many of us are trying to avoid giving reddit any traffic, this space can b
 |----------------------|---|
 | Published            | 2023-06-12 23:17:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

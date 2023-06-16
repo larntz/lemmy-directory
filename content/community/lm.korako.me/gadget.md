@@ -3,7 +3,7 @@ title: "ガジェット"
 name: "gadget"
 description: "ガジェットとかそういうのを。"
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/gadget"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-16 15:30:48 |
 | Updated              | 2022-12-19 23:59:17 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

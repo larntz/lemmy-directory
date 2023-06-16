@@ -1,18 +1,18 @@
 ---
 title: "Engineering Managers" 
 name: "engineering_managers"
-description: "Description not available."
+description: "Discussion, rants, questions, and more about engineering management."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/engineering_managers"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 1
-comments: 4
-weight: 1
+subscribers: 12
+posts: 2
+comments: 7
+weight: 2
 dau: 0
 wau: 0
 mau: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Discussion, rants, questions, and more about engineering management.
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 4  |
+| Subscribers          | 12 |
+| Posts                | 2  |
+| Comments             | 7  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 03:30:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Updated              | 2023-06-16 12:32:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

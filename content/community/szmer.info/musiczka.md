@@ -3,7 +3,7 @@ title: "muzyka - wszelka"
 name: "musiczka"
 description: "Dobrym motywem byłoby, gdyby osoby wrzucające tu treści dawały w kwadratowych nawiasach gatunek, żeby łatwiej decydować się na kliknięcie :) Jak nie wiecie, możecie wejść na last.fm czy jakąś inną muzyczną wikipedię i zobaczyć co kto tam ktosiwo naskrobało o źródle dźwięków!"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/musiczka"
@@ -54,4 +54,4 @@ Dobrym motywem byłoby, gdyby osoby wrzucające tu treści dawały w kwadratowyc
 |----------------------|---|
 | Published            | 2020-07-26 17:11:49 |
 | Updated              | 2021-03-20 22:55:16 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

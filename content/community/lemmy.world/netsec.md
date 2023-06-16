@@ -3,19 +3,19 @@ title: "netsec"
 name: "netsec"
 description: "Technical news and discussion of information security.Rules:1. Be excellent to each other2. Keep it on topic3. Absolutely no PII or doxing4. No disclosure posts"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/netsec"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Technical news and discussion of information security.<br><br>Rules:<br><br>1. B
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Technical news and discussion of information security.<br><br>Rules:<br><br>1. B
 |----------------------|---|
 | Published            | 2023-06-11 20:47:40 |
 | Updated              | 2023-06-11 21:02:38 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

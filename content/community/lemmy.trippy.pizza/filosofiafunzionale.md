@@ -3,7 +3,7 @@ title: "Filosofia Funzionale"
 name: "filosofiafunzionale"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:15"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.trippy.pizza/c/filosofiafunzionale"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 14:06:16 |
 | Updated              | 2023-06-09 14:42:51 |
-| Last Scraped         | 2023-06-16 11:06:15 |
+| Last Scraped         | 2023-06-16 22:56:11 |

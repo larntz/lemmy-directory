@@ -3,13 +3,13 @@ title: "Ubiquiti"
 name: "ubiquiti"
 description: "Unofficial Ubiquiti community.Discover innovations, troubleshoot, and optimize your Ubiquiti products and software."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ubiquiti"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 43
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ Unofficial Ubiquiti community.<br><br>Discover innovations, troubleshoot, and op
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 43 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Unofficial Ubiquiti community.<br><br>Discover innovations, troubleshoot, and op
 |----------------------|---|
 | Published            | 2023-06-04 10:32:22 |
 | Updated              | 2023-06-04 11:31:10 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

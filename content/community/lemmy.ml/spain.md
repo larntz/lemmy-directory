@@ -3,13 +3,13 @@ title: "Spain (España)'s community in Lemmy"
 name: "spain"
 description: "This is a community about Spain (España in Spanish and Galician, Espanya in Catalan, Espainia in Basque and Espanha in Occitan-Aranese). Feel free to talk about Spanish culture, politics, language or anything that is Spanish-related!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spain"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 49
+subscribers: 50
 posts: 4
 comments: 2
 weight: 4
@@ -41,7 +41,7 @@ This is a community about Spain (España in Spanish and Galician, Espanya in Cat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
+| Subscribers          | 50 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community about Spain (España in Spanish and Galician, Espanya in Cat
 |----------------------|---|
 | Published            | 2020-06-28 17:58:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

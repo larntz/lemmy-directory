@@ -3,19 +3,19 @@ title: "oldhammer"
 name: "oldhammer"
 description: "For lovers of Warhammer & Games Workshop products from before the turn of the millennium."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oldhammer"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 59
 posts: 16
-comments: 20
+comments: 23
 weight: 16
 dau: 3
-wau: 7
-mau: 7
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For lovers of Warhammer & Games Workshop products from before the turn of the mi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 59 |
 | Posts                | 16  |
-| Comments             | 20  |
+| Comments             | 23  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ For lovers of Warhammer & Games Workshop products from before the turn of the mi
 |----------------------|---|
 | Published            | 2023-06-12 08:35:30 |
 | Updated              | 2023-06-12 19:57:27 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

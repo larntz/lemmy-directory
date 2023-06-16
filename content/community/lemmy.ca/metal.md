@@ -3,7 +3,7 @@ title: "Metal"
 name: "metal"
 description: "Noticed there was no metal community, so I've created one! Talk about anything metal."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/metal"
@@ -54,4 +54,4 @@ Noticed there was no metal community, so I've created one! Talk about anything m
 |----------------------|---|
 | Published            | 2023-06-06 19:38:06 |
 | Updated              | 2023-06-14 19:06:39 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

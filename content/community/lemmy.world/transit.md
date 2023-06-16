@@ -3,7 +3,7 @@ title: "Transit"
 name: "transit"
 description: "A community for discussion on transit systems and transportation all over the world: including buses, trains, trams, streetcars, bicycles, etc. Also relevant are transportation planning, transportation engineering, and design.Subreddit banner: https://commons.m.wikimedia.org/wiki/File:Luxembourg,_tram_2018-07_all%C3%A9e_Scheffer.jpg"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/transit"
@@ -54,4 +54,4 @@ A community for discussion on transit systems and transportation all over the wo
 |----------------------|---|
 | Published            | 2023-06-13 18:30:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

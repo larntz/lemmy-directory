@@ -3,7 +3,7 @@ title: "Ascendance of a Bookworm (本好きの下剋上）"
 name: "honzukinogekokujou"
 description: "This community is dedicated to the Japanese fantasy light novel series written by Miya Kazuki and illustrated by Yō Shiina titled Honzuki no Gekokujō, licensed in English under the name of Ascendance of a Bookworm. You can also discuss bookworm at: - J-Novel: https://forums.j-novel.club/category/17/ascendance-of-a-bookworm - Discord: https://discord.com/invite/fGefmzu"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/honzukinogekokujou"
@@ -13,9 +13,9 @@ subscribers: 1
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ This community is dedicated to the Japanese fantasy light novel series written b
 | Subscribers          | 1 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is dedicated to the Japanese fantasy light novel series written b
 |----------------------|---|
 | Published            | 2023-06-13 14:17:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:16 |

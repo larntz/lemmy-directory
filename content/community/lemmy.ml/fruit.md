@@ -3,7 +3,7 @@ title: "fruit"
 name: "fruit"
 description: "everything fruit 🍎"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fruit"
@@ -54,4 +54,4 @@ everything fruit 🍎
 |----------------------|---|
 | Published            | 2020-12-16 11:36:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

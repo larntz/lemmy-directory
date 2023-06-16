@@ -3,16 +3,16 @@ title: "pornception"
 name: "pornception"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pornception"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 46
-posts: 7
+subscribers: 62
+posts: 9
 comments: 0
-weight: 7
+weight: 9
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 7  |
+| Subscribers          | 62 |
+| Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -55,5 +55,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 15:48:19 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Updated              | 2023-06-16 20:22:59 |
+| Last Scraped         | 2023-06-16 22:56:41 |

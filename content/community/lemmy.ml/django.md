@@ -3,7 +3,7 @@ title: "Django Web Framework"
 name: "django"
 description: "This is a community dedicated to the Django Web Framework for Python.Useful links:* [Django Website](https://www.djangoproject.com/)* [Django Documentation](https://docs.djangoproject.com/)* [Django Source Code](https://github.com/django/django)Rules:* Posts must be relevant to Django* No NSFW content* No hate speech, bigotry, etc Community icon from [vscode-django](https://github.com/vscode-django/vscode-django), licensed under the [MIT license](https://opensource.org/licenses/MIT)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/django"
@@ -54,4 +54,4 @@ This is a community dedicated to the Django Web Framework for Python.<br><br>Use
 |----------------------|---|
 | Published            | 2020-01-24 23:13:27 |
 | Updated              | 2021-01-29 00:04:14 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

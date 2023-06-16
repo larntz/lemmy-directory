@@ -3,13 +3,13 @@ title: "Norway"
 name: "norway"
 description: "## Welcome to NorwayA community for anything related to Norway! This community is mostly for content in English, but Norwegian, Swedish or Danish is also allowed. For content mainly in Norwegian please visit [!norge@lemmy.world](https://lemmy.world/c/norge). ## Rules1. Keep it related to Norway2. Be respectful3. No spam, low-effort or self-promoting posts"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/norway"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 50
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 50 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 15:03:52 |
 | Updated              | 2023-06-12 19:59:55 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

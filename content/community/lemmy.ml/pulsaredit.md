@@ -3,7 +3,7 @@ title: "Pulsar"
 name: "pulsaredit"
 description: "The community led, hyper-hackable text editor"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pulsaredit"
@@ -54,4 +54,4 @@ The community led, hyper-hackable text editor
 |----------------------|---|
 | Published            | 2023-06-09 16:23:33 |
 | Updated              | 2023-06-09 16:28:04 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

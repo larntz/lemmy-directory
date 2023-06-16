@@ -3,19 +3,19 @@ title: "Rust Programming"
 name: "rust"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rust"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3988
-posts: 425
-comments: 592
-weight: 425
-dau: 5
-wau: 63
-mau: 82
+subscribers: 4041
+posts: 426
+comments: 599
+weight: 426
+dau: 9
+wau: 76
+mau: 98
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3988 |
-| Posts                | 425  |
-| Comments             | 592  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 63  |
-| Monthly Active Users | 82  |
+| Subscribers          | 4041 |
+| Posts                | 426  |
+| Comments             | 599  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 76  |
+| Monthly Active Users | 98  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-04-25 07:48:39 |
 | Updated              | 2021-01-27 01:53:39 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

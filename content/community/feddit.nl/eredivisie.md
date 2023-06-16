@@ -3,13 +3,13 @@ title: "Eredivisie"
 name: "eredivisie"
 description: "A community for the Dutch Eredivisie! Discussions about other Dutch-related football (such as Keuken Kampioen Divisie, Dutch National Team,  Dutch women's football, etc.) is also allowed.The post titles have to be in English, just in case any non-Dutch speaking person is interested in this community. Comments and the bodies in posts can be in Dutch OR English."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/eredivisie"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 7
 comments: 20
 weight: 7
@@ -41,7 +41,7 @@ A community for the Dutch Eredivisie! Discussions about other Dutch-related foot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 7  |
 | Comments             | 20  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ A community for the Dutch Eredivisie! Discussions about other Dutch-related foot
 |----------------------|---|
 | Published            | 2023-06-12 10:29:24 |
 | Updated              | 2023-06-12 10:42:22 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

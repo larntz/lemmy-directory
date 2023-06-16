@@ -3,7 +3,7 @@ title: "The Goblin's Notebook"
 name: "goblinsnotebook"
 description: "https://www.the-goblin.net"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.the-goblin.net/c/goblinsnotebook"
@@ -54,4 +54,4 @@ https://www.the-goblin.net
 |----------------------|---|
 | Published            | 2023-06-14 09:47:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

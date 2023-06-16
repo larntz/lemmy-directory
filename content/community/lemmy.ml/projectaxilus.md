@@ -3,7 +3,7 @@ title: "Project Axilus"
 name: "projectaxilus"
 description: "https://projectaxil.us"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/projectaxilus"
@@ -54,4 +54,4 @@ https://projectaxil.us
 |----------------------|---|
 | Published            | 2020-03-03 14:41:07 |
 | Updated              | 2020-03-13 12:08:25 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

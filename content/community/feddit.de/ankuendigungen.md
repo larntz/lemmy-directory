@@ -3,16 +3,16 @@ title: "Community Vorstellung"
 name: "ankuendigungen"
 description: "Community für Ankündigungen,stellt eure Comminities vor, etc.Nutzt das URL-Feld zur direkten Verlinkung im Titel!::: spoiler AttributionShout icon created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/shout):::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ankuendigungen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 265
-posts: 63
-comments: 61
-weight: 63
+subscribers: 278
+posts: 66
+comments: 63
+weight: 66
 dau: 7
 wau: 56
 mau: 62
@@ -41,9 +41,9 @@ Community für Ankündigungen,<br><br>stellt eure Comminities vor, etc.<br><br>N
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 265 |
-| Posts                | 63  |
-| Comments             | 61  |
+| Subscribers          | 278 |
+| Posts                | 66  |
+| Comments             | 63  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 56  |
 | Monthly Active Users | 62  |
@@ -54,4 +54,4 @@ Community für Ankündigungen,<br><br>stellt eure Comminities vor, etc.<br><br>N
 |----------------------|---|
 | Published            | 2023-02-22 20:22:05 |
 | Updated              | 2023-06-11 06:42:23 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

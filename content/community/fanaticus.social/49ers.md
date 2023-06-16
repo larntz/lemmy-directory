@@ -3,7 +3,7 @@ title: "San Francisco 49ers"
 name: "49ers"
 description: "A community dedicated to the San Francisco 49ers.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/49ers"
@@ -54,4 +54,4 @@ A community dedicated to the San Francisco 49ers.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 01:30:00 |
 | Updated              | 2023-06-14 01:30:35 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

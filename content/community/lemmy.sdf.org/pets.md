@@ -3,19 +3,19 @@ title: "pets"
 name: "pets"
 description: "Post pictures of your pets, questions about pet care, anything pet related"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/pets"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 34
-posts: 5
-comments: 7
-weight: 5
-dau: 1
+subscribers: 36
+posts: 6
+comments: 9
+weight: 6
+dau: 2
 wau: 9
-mau: 9
+mau: 10
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Post pictures of your pets, questions about pet care, anything pet related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
+| Subscribers          | 36 |
+| Posts                | 6  |
+| Comments             | 9  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post pictures of your pets, questions about pet care, anything pet related
 |----------------------|---|
 | Published            | 2023-06-09 15:47:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

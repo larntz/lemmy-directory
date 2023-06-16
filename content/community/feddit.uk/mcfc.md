@@ -3,13 +3,13 @@ title: "Manchester City"
 name: "mcfc"
 description: "For the fans of Manchester City Football Club."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/mcfc"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ For the fans of Manchester City Football Club.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For the fans of Manchester City Football Club.
 |----------------------|---|
 | Published            | 2023-06-11 10:37:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

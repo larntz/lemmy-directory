@@ -3,7 +3,7 @@ title: "New York Jets"
 name: "jets"
 description: "A community dedicated to the New York Jets.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/jets"
@@ -54,4 +54,4 @@ A community dedicated to the New York Jets.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 01:26:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

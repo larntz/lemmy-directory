@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "test community please ignore."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test"
@@ -11,7 +11,7 @@ host: lemmy.douwes.co.uk
 lastmod: "{[ .Updated }}"
 subscribers: 6
 posts: 19
-comments: 187
+comments: 195
 weight: 19
 dau: 1
 wau: 2
@@ -43,7 +43,7 @@ test community please ignore.
 |----------------------|---|
 | Subscribers          | 6 |
 | Posts                | 19  |
-| Comments             | 187  |
+| Comments             | 195  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ test community please ignore.
 |----------------------|---|
 | Published            | 2023-06-03 16:38:44 |
 | Updated              | 2023-06-14 10:54:40 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

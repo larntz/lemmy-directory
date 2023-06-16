@@ -3,7 +3,7 @@ title: "Session"
 name: "session"
 description: "A sublemmy for discussing session, getsession.org, an opensource decentralized chat application."
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/session"
@@ -54,4 +54,4 @@ A sublemmy for discussing session, getsession.org, an opensource decentralized c
 |----------------------|---|
 | Published            | 2021-12-14 09:56:41 |
 | Updated              | 2021-12-15 20:40:40 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

@@ -3,7 +3,7 @@ title: "Electric Cars"
 name: "electriccars"
 description: "All things EV related. News, ownership stories, tips and tricks all around Electric vehicles"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/electriccars"
@@ -54,4 +54,4 @@ All things EV related. News, ownership stories, tips and tricks all around Elect
 |----------------------|---|
 | Published            | 2023-06-13 22:26:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

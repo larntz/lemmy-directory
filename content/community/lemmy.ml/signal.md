@@ -3,19 +3,19 @@ title: "The Signal messenger and protocol."
 name: "signal"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/signal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 366
-posts: 22
+subscribers: 374
+posts: 23
 comments: 14
-weight: 22
+weight: 23
 dau: 2
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 366 |
-| Posts                | 22  |
+| Subscribers          | 374 |
+| Posts                | 23  |
 | Comments             | 14  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-27 22:19:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:34 |

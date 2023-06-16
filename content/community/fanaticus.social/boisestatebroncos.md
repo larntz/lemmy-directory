@@ -3,7 +3,7 @@ title: "Boise State Broncos"
 name: "boisestatebroncos"
 description: "A community to discuss Boise State Broncos athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/boisestatebroncos"
@@ -54,4 +54,4 @@ A community to discuss Boise State Broncos athletics.<br><br>**Looking for Mods!
 |----------------------|---|
 | Published            | 2023-06-14 23:44:17 |
 | Updated              | 2023-06-15 00:08:59 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

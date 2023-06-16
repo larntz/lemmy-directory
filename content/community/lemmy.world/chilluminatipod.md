@@ -3,7 +3,7 @@ title: "ChilluminatiPod"
 name: "chilluminatipod"
 description: "Community for fans of the podcast Chilluminati!https://www.patreon.com/chilluminatipod**Rules (Subject to Change)**--Be a Decent Human Being--Posting news articles: include the source name and exact title from article--Posts must have something to do with Chilluminati be it fanart, paranormal, ghosts, ghouls, demons, aliens, etc etc.--Zero tolerance for Racism/Sexism/Ableism/etc.--No NSFW content--Abide by the rules of lemmy.world"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chilluminatipod"
@@ -54,4 +54,4 @@ Community for fans of the podcast Chilluminati!<br><br>https://www.patreon.com/c
 |----------------------|---|
 | Published            | 2023-06-12 03:31:39 |
 | Updated              | 2023-06-12 03:57:23 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

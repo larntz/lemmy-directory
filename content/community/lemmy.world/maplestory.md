@@ -3,7 +3,7 @@ title: "MapleStory"
 name: "maplestory"
 description: "**Unofficial MapleStory Lemmy community, not affiliated with Nexon.**[GMS Official Site](https://maplestory.nexon.net/)[KMS News and Updates](https://orangemushroom.net/)**Official clients only (GMS/KMS/SEA/TMS/CMS/etc.), private server talk can be taken to other communities.****Please keep discourse civil and respectful.****No hacking/botting discussion.**"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maplestory"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 00:59:11 |
 | Updated              | 2023-06-14 13:28:32 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

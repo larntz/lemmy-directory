@@ -3,15 +3,15 @@ title: "Der alltägliche Wahnsinn"
 name: "wahnsinn"
 description: "Das kannst du dir nicht ausdenken...!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wahnsinn"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 345
+subscribers: 349
 posts: 67
-comments: 72
+comments: 73
 weight: 67
 dau: 6
 wau: 13
@@ -41,9 +41,9 @@ Das kannst du dir nicht ausdenken...!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 345 |
+| Subscribers          | 349 |
 | Posts                | 67  |
-| Comments             | 72  |
+| Comments             | 73  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 15  |
@@ -54,4 +54,4 @@ Das kannst du dir nicht ausdenken...!
 |----------------------|---|
 | Published            | 2021-08-21 22:33:12 |
 | Updated              | 2022-02-17 13:50:56 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

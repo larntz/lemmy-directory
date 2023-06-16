@@ -3,7 +3,7 @@ title: "Eurovision Song Contest"
 name: "eurovision"
 description: "Community for discussion about the world’s music competition uniting Europe"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eurovision"
@@ -54,4 +54,4 @@ Community for discussion about the world’s music competition uniting Europe
 |----------------------|---|
 | Published            | 2023-06-12 20:29:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

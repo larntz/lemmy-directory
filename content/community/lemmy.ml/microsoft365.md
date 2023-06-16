@@ -3,7 +3,7 @@ title: "Microsoft 365"
 name: "microsoft365"
 description: "Discuss any related technology or news about Microsoft 365 (formerly Office 365)!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/microsoft365"
@@ -54,4 +54,4 @@ Discuss any related technology or news about Microsoft 365 (formerly Office 365)
 |----------------------|---|
 | Published            | 2020-11-25 21:23:23 |
 | Updated              | 2020-11-25 22:40:11 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

@@ -3,19 +3,19 @@ title: "Connecticut"
 name: "connecticut"
 description: "Place for stuff relating to Connecticut "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/connecticut"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 57
 posts: 4
-comments: 22
+comments: 25
 weight: 4
 dau: 4
-wau: 11
-mau: 11
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Place for stuff relating to Connecticut
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 57 |
 | Posts                | 4  |
-| Comments             | 22  |
+| Comments             | 25  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Place for stuff relating to Connecticut
 |----------------------|---|
 | Published            | 2023-06-10 18:11:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:15 |

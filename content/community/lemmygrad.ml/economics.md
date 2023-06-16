@@ -3,7 +3,7 @@ title: "Economics"
 name: "economics"
 description: "A sub for discussing Marxist economics and how the bourgeois economists did us dirty."
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/economics"
@@ -54,4 +54,4 @@ A sub for discussing Marxist economics and how the bourgeois economists did us d
 |----------------------|---|
 | Published            | 2020-07-11 18:48:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

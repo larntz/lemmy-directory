@@ -3,7 +3,7 @@ title: "Forums"
 name: "forums"
 description: "This community is aimed for people share forums. If it isn't a +18 forum, share it here please, doesn't matter even if it's a fridge maintenance discussion forum, you're welcome to share with us."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forums"
@@ -54,4 +54,4 @@ This community is aimed for people share forums. If it isn't a +18 forum, share 
 |----------------------|---|
 | Published            | 2021-04-10 11:44:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

@@ -3,7 +3,7 @@ title: "Black Caps"
 name: "blackcaps"
 description: "News and discussion the New Zealand national cricket team known as the Black Caps"
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:20"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nz/c/blackcaps"
@@ -54,4 +54,4 @@ News and discussion the New Zealand national cricket team known as the Black Cap
 |----------------------|---|
 | Published            | 2023-06-15 04:31:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:20 |

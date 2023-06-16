@@ -3,7 +3,7 @@ title: "Tech Vision"
 name: "techvision"
 description: "Official community for **Tech Vision** discord server.  Here you can talk about tech. Hardware, software, linux, games, science; anything goes.    We dislike gatekeeping discussions, if anything, we encourage them. Join us and start a conversation."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techvision"
@@ -54,4 +54,4 @@ Official community for **Tech Vision** discord server.<br>  <br>Here you can tal
 |----------------------|---|
 | Published            | 2020-10-16 20:39:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

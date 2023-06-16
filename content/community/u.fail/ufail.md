@@ -3,19 +3,19 @@ title: "uFail"
 name: "ufail"
 description: "## uFail CommunityWelcome to the uFail default community. Please ask your questions here.**Basic community rules:**- No spreading of fake news or misinformation.- Sexually explicit or violent media must be marked as sensitive when posting.- No racism, sexism, homophobia, transphobia, xenophobia, or casteism.- No incitement of violence or promotion of violent ideologies.- No harassment, dogpiling or doxxing of other users.- No illegal content."
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://u.fail/c/ufail"
 host: u.fail
 lastmod: "{[ .Updated }}"
-subscribers: 39
-posts: 13
-comments: 57
-weight: 13
-dau: 16
-wau: 24
-mau: 24
+subscribers: 54
+posts: 16
+comments: 64
+weight: 16
+dau: 12
+wau: 25
+mau: 25
 instances:
 - "u_fail"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 13  |
-| Comments             | 57  |
-| Daily Active Users   | 16  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 24  |
+| Subscribers          | 54 |
+| Posts                | 16  |
+| Comments             | 64  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 14:39:36 |
 | Updated              | 2023-06-15 22:25:18 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:25 |

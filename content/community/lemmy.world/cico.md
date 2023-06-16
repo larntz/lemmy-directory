@@ -3,13 +3,13 @@ title: "CICO"
 name: "cico"
 description: "Calories In, Calories Out! That's it - welcome to the Lemmy community for calorie counting, the pathway to a healthier life and the ability to plan your own diet. **Rules:**- Respect all users always.- Do not share dangerous fad diets, give medical advice or otherwise instruct an user to ignore their doctors. - Progress pictures are allowed, but mark body shots as NSFW. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cico"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Calories In, Calories Out! That's it - welcome to the Lemmy community for calori
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Calories In, Calories Out! That's it - welcome to the Lemmy community for calori
 |----------------------|---|
 | Published            | 2023-06-12 13:55:36 |
 | Updated              | 2023-06-12 15:22:06 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

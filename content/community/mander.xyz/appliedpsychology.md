@@ -3,13 +3,13 @@ title: "Applied Psychology"
 name: "appliedpsychology"
 description: "Like any other psychology sub, except only post psychology things that are immediately usable. For example, see the posts in this sub.You can edit titles to make the how to apply this psychology to your life more obvious.Related:https://lemmy.ca/c/lpt"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/appliedpsychology"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 89
+subscribers: 90
 posts: 51
 comments: 68
 weight: 51
@@ -41,7 +41,7 @@ Like any other psychology sub, except only post psychology things that are immed
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 89 |
+| Subscribers          | 90 |
 | Posts                | 51  |
 | Comments             | 68  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Like any other psychology sub, except only post psychology things that are immed
 |----------------------|---|
 | Published            | 2022-05-22 09:15:13 |
 | Updated              | 2022-06-20 13:45:43 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

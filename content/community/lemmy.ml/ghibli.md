@@ -3,7 +3,7 @@ title: "Studio Ghibli"
 name: "ghibli"
 description: "A small community for ghibli fans and enthusiasts, enjoy :)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ghibli"
@@ -54,4 +54,4 @@ A small community for ghibli fans and enthusiasts, enjoy :)
 |----------------------|---|
 | Published            | 2022-12-20 20:45:33 |
 | Updated              | 2023-01-21 11:03:03 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

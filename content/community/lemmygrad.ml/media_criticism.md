@@ -3,16 +3,16 @@ title: "Media Criticism"
 name: "media_criticism"
 description: "As a Marxist replacement of the /r/media_criticism subreddit. Rules:1. When you post something that isn't direct media criticism, add a submission statement.2. Read the article before you comment.3. Stay civil, no slurs, no insults.4. No non-marxists."
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/media_criticism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 117
-posts: 47
+subscribers: 120
+posts: 48
 comments: 56
-weight: 47
+weight: 48
 dau: 1
 wau: 1
 mau: 6
@@ -41,8 +41,8 @@ As a Marxist replacement of the /r/media_criticism subreddit. <br><br>Rules:<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 117 |
-| Posts                | 47  |
+| Subscribers          | 120 |
+| Posts                | 48  |
 | Comments             | 56  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ As a Marxist replacement of the /r/media_criticism subreddit. <br><br>Rules:<br>
 |----------------------|---|
 | Published            | 2022-03-05 15:02:34 |
 | Updated              | 2022-03-05 15:18:40 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

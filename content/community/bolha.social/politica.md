@@ -3,7 +3,7 @@ title: "Política"
 name: "politica"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/politica"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-21 11:40:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:41 |

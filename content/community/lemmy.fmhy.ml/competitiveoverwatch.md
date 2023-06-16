@@ -3,13 +3,13 @@ title: "Competitive Overwatch"
 name: "competitiveoverwatch"
 description: "Replacement for the subreddit. All mods are welcome and will happily add you"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/competitiveoverwatch"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Replacement for the subreddit. All mods are welcome and will happily add you
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Replacement for the subreddit. All mods are welcome and will happily add you
 |----------------------|---|
 | Published            | 2023-06-12 20:19:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

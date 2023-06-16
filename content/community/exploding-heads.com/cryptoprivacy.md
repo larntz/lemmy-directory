@@ -3,7 +3,7 @@ title: "Crypto Privacy"
 name: "cryptoprivacy"
 description: "What we do with our money - crypto or fiat - is nobody's business but our own. It should not be tracked and traced by government or business.**WARNING:**Investing in NFTs, cryptocurrencies and other Initial Coin Offerings (“ICOs”) is highly risky and speculative, and these links and discussions are not recommendations by Exploding Heads or the writer to invest in NFTs, cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Exploding Heads makes no representations or warranties as to the accuracy or timeliness of the information contained herein."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cryptoprivacy"
@@ -54,4 +54,4 @@ What we do with our money - crypto or fiat - is nobody's business but our own. I
 |----------------------|---|
 | Published            | 2022-03-05 21:08:49 |
 | Updated              | 2022-05-07 23:08:29 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:37 |

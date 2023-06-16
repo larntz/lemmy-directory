@@ -3,7 +3,7 @@ title: "askdocs"
 name: "askdocs"
 description: "Having a medical issue? Ask a doctor or medical professional!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askdocs"
@@ -54,4 +54,4 @@ Having a medical issue? Ask a doctor or medical professional!
 |----------------------|---|
 | Published            | 2023-06-11 05:20:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

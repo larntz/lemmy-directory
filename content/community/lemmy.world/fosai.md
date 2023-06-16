@@ -3,19 +3,19 @@ title: "Free Open-Source Artificial Intelligence"
 name: "fosai"
 description: "**[Welcome to Free Open-Source Artificial Intelligence!](https://lemmy.world/post/67758)**We are a community dedicated to forwarding the availability and access to **F**ree and **O**pen **S**ource **A**rtificial **I**ntelligence"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fosai"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 247
-posts: 5
-comments: 12
-weight: 5
-dau: 3
-wau: 6
-mau: 6
+subscribers: 270
+posts: 6
+comments: 13
+weight: 6
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 247 |
-| Posts                | 5  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 270 |
+| Posts                | 6  |
+| Comments             | 13  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 23:57:04 |
 | Updated              | 2023-06-12 03:17:24 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:14 |

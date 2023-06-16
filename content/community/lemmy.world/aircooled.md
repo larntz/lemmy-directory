@@ -3,7 +3,7 @@ title: "Aircooled (vw)"
 name: "aircooled"
 description: "All things aircooled. Bug, Bus, Thing, custom project? Ask your questions, share your pics. Peace.**DISCLAIMER**This community is not sponsored by or affiliated with Volkswagen Group or it’s subsidiaries."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aircooled"
@@ -54,4 +54,4 @@ All things aircooled. Bug, Bus, Thing, custom project? Ask your questions, share
 |----------------------|---|
 | Published            | 2023-06-13 04:00:20 |
 | Updated              | 2023-06-13 04:08:59 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

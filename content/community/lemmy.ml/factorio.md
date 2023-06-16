@@ -3,19 +3,19 @@ title: "Factorio"
 name: "factorio"
 description: "Dreaming of transport belts**Rules**- All content must be Factorio related- No political content- Be niceLast updated: 2023/06/05**Useful links*** [Cheatsheet](https://factoriocheatsheet.com/)* [Forums](https://forums.factorio.com/)* [/r/factorio](https://old.reddit.com/r/factorio)* [Wiki](https://wiki.factorio.com/)* [Mods](https://mods.factorio.com/)* [Discord](https://discord.gg/factorio)* [Twitter](https://twitter.com/factoriogame)**Purchase**Factorio has never been on sale and will (probably) never be on sale* [Wube](https://factorio.com/buy)* [Steam](https://store.steampowered.com/app/427520/Factorio/)* [GOG](https://www.gog.com/game/factorio)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/factorio"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 230
-posts: 12
-comments: 45
-weight: 12
+subscribers: 251
+posts: 15
+comments: 64
+weight: 15
 dau: 5
-wau: 15
-mau: 18
+wau: 21
+mau: 25
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Dreaming of transport belts<br><br>**Rules**<br>- All content must be Factorio r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 230 |
-| Posts                | 12  |
-| Comments             | 45  |
+| Subscribers          | 251 |
+| Posts                | 15  |
+| Comments             | 64  |
 | Daily Active Users   | 5  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 18  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Dreaming of transport belts<br><br>**Rules**<br>- All content must be Factorio r
 |----------------------|---|
 | Published            | 2023-06-05 09:01:06 |
 | Updated              | 2023-06-07 19:50:18 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

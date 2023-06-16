@@ -3,7 +3,7 @@ title: "🛠️LJJ運用記録"
 name: "ljj"
 description: "lemmy.juggler.jpの運用記録"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/ljj"
@@ -54,4 +54,4 @@ lemmy.juggler.jpの運用記録
 |----------------------|---|
 | Published            | 2021-01-26 08:17:20 |
 | Updated              | 2021-03-04 17:23:42 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

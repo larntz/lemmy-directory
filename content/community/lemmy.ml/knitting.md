@@ -3,7 +3,7 @@ title: "Knitting"
 name: "knitting"
 description: "# Welcome!Share your knitting creations, tips, tricks, and questions!Let's have a cozy community for all of us who knit :-)____"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/knitting"
@@ -14,8 +14,8 @@ posts: 1
 comments: 5
 weight: 1
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ tags:
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 06:19:34 |
 | Updated              | 2023-06-12 21:09:53 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

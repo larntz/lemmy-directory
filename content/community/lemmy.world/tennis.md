@@ -3,19 +3,19 @@ title: "Tennis"
 name: "tennis"
 description: "A community for the ATP, WTA, pros, amateurs, fans, and that one 4.0 guy who definitely could take a set off of Rafa. "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tennis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 74
 posts: 11
-comments: 27
+comments: 29
 weight: 11
-dau: 4
-wau: 10
-mau: 10
+dau: 2
+wau: 11
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for the ATP, WTA, pros, amateurs, fans, and that one 4.0 guy who def
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 74 |
 | Posts                | 11  |
-| Comments             | 27  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 29  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the ATP, WTA, pros, amateurs, fans, and that one 4.0 guy who def
 |----------------------|---|
 | Published            | 2023-06-09 16:26:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

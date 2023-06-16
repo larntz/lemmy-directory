@@ -3,13 +3,13 @@ title: "NetBSD"
 name: "netbsd"
 description: "Discussions on NetBSD"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/netbsd"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 39
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Discussions on NetBSD
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 39 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions on NetBSD
 |----------------------|---|
 | Published            | 2023-06-09 23:58:06 |
 | Updated              | 2023-06-10 00:04:27 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

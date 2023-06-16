@@ -3,19 +3,19 @@ title: "nonbinary"
 name: "nonbinary"
 description: "**Welcome Rexxitors, to the new home of r/nonbinary and r/enby**This is a space for people of all ages who feel that they don't fit into our culture's gender binary. Share stories, experiences, questions, images, art, poetry - anything to help you through the journey of expressing the real you and meeting others who are like you.# Rules-**No gatekeeping.** The foundation of this sub is inclusivity. Please don't judge others in their gender journey. We don't need any more obstacles to understanding ourselves.-**No guess my AGAB or do I look nonbinary posts.** We do not allow posts that ask anyone to guess OP's AGAB/assigned gender at birth, whether it is as the main point of the post or a side-note, etc. If you see these posts, please report them to us.-**No NSFW content.** Remember that this is an all-ages space, there are kids here.-**Don't post hate speech, even if it was directed at you.** It's okay to ask for support after a hateful interaction, but please don't post screencaps of what was said.-**Don't reveal personal information.**Posting anyone's phone numbers, physical/mailing addresses, email, and social media handles are all forbidden - even your own. If you want to connect with another user outside of Lemmy, message them privately.-**No shitposting or trolling.** Keep content here relevant to nonbinary topics/experiences, and don't be purposefully inflammatory.# Resources- [Gender Dysphoria Bible](https://genderdysphoria.fyi/)- [Nonbinary Wiki](https://nonbinary.wiki/wiki/Main_Page)- [Dictionary of Gender Neutral Language](https://en.pronouns.page/dictionary)"
 type: community
-date: "2023-06-16 11:05:54"
+date: "2023-06-16 22:55:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.one/c/nonbinary"
 host: lemmy.one
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 46
 posts: 5
-comments: 3
+comments: 4
 weight: 5
 dau: 1
-wau: 12
-mau: 12
+wau: 13
+mau: 13
 instances:
 - "lemmy_one"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 46 |
 | Posts                | 5  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 17:52:13 |
 | Updated              | 2023-06-13 12:57:03 |
-| Last Scraped         | 2023-06-16 11:05:54 |
+| Last Scraped         | 2023-06-16 22:55:49 |

@@ -3,7 +3,7 @@ title: "WGU Computer Science (unofficial)"
 name: "wgu_cs"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wgu_cs"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 14:38:03 |
 | Updated              | 2023-06-11 14:38:26 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

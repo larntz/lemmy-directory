@@ -3,19 +3,19 @@ title: "News"
 name: "news"
 description: "Breaking news from around the world.---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/news"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 11358
-posts: 1141
-comments: 4411
-weight: 1141
-dau: 329
-wau: 1599
-mau: 1778
+subscribers: 11679
+posts: 1156
+comments: 4709
+weight: 1156
+dau: 369
+wau: 1694
+mau: 1912
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ Breaking news from around the world.<br><br>---<br><br>This community's icon was
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11358 |
-| Posts                | 1141  |
-| Comments             | 4411  |
-| Daily Active Users   | 329  |
-| Weekly Active Users  | 1599  |
-| Monthly Active Users | 1778  |
+| Subscribers          | 11679 |
+| Posts                | 1156  |
+| Comments             | 4709  |
+| Daily Active Users   | 369  |
+| Weekly Active Users  | 1694  |
+| Monthly Active Users | 1912  |
 
 <br>
 
@@ -54,4 +54,4 @@ Breaking news from around the world.<br><br>---<br><br>This community's icon was
 |----------------------|---|
 | Published            | 2022-01-28 13:58:52 |
 | Updated              | 2023-06-15 17:01:39 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

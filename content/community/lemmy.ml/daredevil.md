@@ -3,7 +3,7 @@ title: "Daredevil"
 name: "daredevil"
 description: "A sublemmy for discussion of the Marvel character Daredevil.**Rules:**- Be civil- Credit artists when possible- No spoilers or piracy- No posts unrelated to Daredevil"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/daredevil"
@@ -54,4 +54,4 @@ A sublemmy for discussion of the Marvel character Daredevil.<br><br>**Rules:**<b
 |----------------------|---|
 | Published            | 2023-06-07 02:27:45 |
 | Updated              | 2023-06-11 03:41:41 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

@@ -3,19 +3,19 @@ title: "Technology"
 name: "technology"
 description: "For all discussions related to technologyrelated: [!technews@exploding-heads.com](https://exploding-heads.com/c/technews) [!digitslfreedom@exploding-heads.com](https://exploding-heads.com/c/digitslfreedom) "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/technology"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 23
-comments: 27
-weight: 23
-dau: 4
-wau: 9
-mau: 10
+subscribers: 26
+posts: 25
+comments: 30
+weight: 25
+dau: 6
+wau: 12
+mau: 12
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ For all discussions related to technology<br><br>related: [!technews@exploding-h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 23  |
-| Comments             | 27  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 10  |
+| Subscribers          | 26 |
+| Posts                | 25  |
+| Comments             | 30  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all discussions related to technology<br><br>related: [!technews@exploding-h
 |----------------------|---|
 | Published            | 2023-02-01 22:12:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

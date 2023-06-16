@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 11:05:45"
+date: "2023-06-16 22:55:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.technosorcery.net/c/main"
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2022-12-02 05:09:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:45 |
+| Last Scraped         | 2023-06-16 22:55:40 |

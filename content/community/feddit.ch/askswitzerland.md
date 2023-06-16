@@ -3,15 +3,15 @@ title: "askswitzerland"
 name: "askswitzerland"
 description: "Question about Switzerland? Get your answer here!"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/askswitzerland"
 host: feddit.ch
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 47
 posts: 6
-comments: 23
+comments: 31
 weight: 6
 dau: 1
 wau: 9
@@ -41,9 +41,9 @@ Question about Switzerland? Get your answer here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 47 |
 | Posts                | 6  |
-| Comments             | 23  |
+| Comments             | 31  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ Question about Switzerland? Get your answer here!
 |----------------------|---|
 | Published            | 2023-06-11 18:52:51 |
 | Updated              | 2023-06-14 16:04:15 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

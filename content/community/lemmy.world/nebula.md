@@ -3,13 +3,13 @@ title: "Nebula"
 name: "nebula"
 description: "To post and comment on Nebula.tv videosRule 1: Posts must be a link from Nebula.tv or announcement about content on the siteRule 2: Be civil"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nebula"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 20
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ To post and comment on Nebula.tv videos<br><br>Rule 1: Posts must be a link from
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 20 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ To post and comment on Nebula.tv videos<br><br>Rule 1: Posts must be a link from
 |----------------------|---|
 | Published            | 2023-06-13 13:43:30 |
 | Updated              | 2023-06-14 14:09:51 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

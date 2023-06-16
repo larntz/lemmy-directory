@@ -3,7 +3,7 @@ title: "Paris"
 name: "paris"
 description: "Paris et sa banlieue "
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paris"
@@ -54,4 +54,4 @@ Paris et sa banlieue
 |----------------------|---|
 | Published            | 2023-06-14 13:43:21 |
 | Updated              | 2023-06-15 07:55:55 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

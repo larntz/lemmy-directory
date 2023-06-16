@@ -3,19 +3,19 @@ title: "Chile"
 name: "chile"
 description: "Comunidad general de Chile para Feddit.cl"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/chile"
 host: feddit.cl
 lastmod: "{[ .Updated }}"
-subscribers: 140
-posts: 25
-comments: 1462
-weight: 25
+subscribers: 150
+posts: 27
+comments: 1613
+weight: 27
 dau: 47
-wau: 121
-mau: 121
+wau: 128
+mau: 128
 instances:
 - "feddit_cl"
 tags: 
@@ -41,12 +41,12 @@ Comunidad general de Chile para Feddit.cl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 140 |
-| Posts                | 25  |
-| Comments             | 1462  |
+| Subscribers          | 150 |
+| Posts                | 27  |
+| Comments             | 1613  |
 | Daily Active Users   | 47  |
-| Weekly Active Users  | 121  |
-| Monthly Active Users | 121  |
+| Weekly Active Users  | 128  |
+| Monthly Active Users | 128  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidad general de Chile para Feddit.cl
 |----------------------|---|
 | Published            | 2023-06-11 05:05:10 |
 | Updated              | 2023-06-11 17:04:36 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

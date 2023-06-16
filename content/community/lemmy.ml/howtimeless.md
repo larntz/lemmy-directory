@@ -3,7 +3,7 @@ title: "How Timeless are the Lyrics to ...."
 name: "howtimeless"
 description: "A community which discusses the timeless of certain songs mostly based on their lyrics.Imagine you were a timetraveller with incredible musical ability. How many years back could you go and sing a specific song in such a way that it would resonate the same way with the people back then.How many words or phrases would you have to change to make it fit?"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/howtimeless"
@@ -54,4 +54,4 @@ A community which discusses the timeless of certain songs mostly based on their 
 |----------------------|---|
 | Published            | 2023-06-09 14:14:06 |
 | Updated              | 2023-06-09 14:17:28 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:20 |

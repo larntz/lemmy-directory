@@ -3,7 +3,7 @@ title: "MariaDB / MySQL"
 name: "mariadb_mysql"
 description: "Community for MariaDB/MySQL users"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mariadb_mysql"
@@ -54,4 +54,4 @@ Community for MariaDB/MySQL users
 |----------------------|---|
 | Published            | 2022-11-27 21:37:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

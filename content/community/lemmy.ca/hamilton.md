@@ -3,7 +3,7 @@ title: "Hamilton Ontario"
 name: "hamilton"
 description: "Community for Hamilton Ontario"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hamilton"
@@ -54,4 +54,4 @@ Community for Hamilton Ontario
 |----------------------|---|
 | Published            | 2023-06-12 09:12:42 |
 | Updated              | 2023-06-12 09:13:21 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,16 +3,16 @@ title: "Cars"
 name: "cars"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cars"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 92
-posts: 34
+subscribers: 98
+posts: 35
 comments: 2
-weight: 34
+weight: 35
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 34  |
+| Subscribers          | 98 |
+| Posts                | 35  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-13 17:24:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:22 |

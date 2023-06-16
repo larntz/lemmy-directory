@@ -3,7 +3,7 @@ title: "Critical Thinking"
 name: "critical_thinking"
 description: "## What is critical thinking?From wikipedia:> Critical thinking is the analysis of available facts, evidence, observations, and arguments to form a judgement. The subject is complex; several different definitions exist, which generally include the rational, skeptical, and unbiased analysis or evaluation of factual evidence. Critical thinking is self-directed, self-disciplined, self-monitored, and self-corrective thinking. It presupposes assent to rigorous standards of excellence and mindful command of their use. It entails effective communication and problem-solving abilities as well as a commitment to overcome native egocentrism and sociocentrism. ## Rules1. Posts must be relevant to critical thinking."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/critical_thinking"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-09-04 09:01:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

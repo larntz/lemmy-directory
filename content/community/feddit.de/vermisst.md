@@ -3,13 +3,13 @@ title: "Vermisst"
 name: "vermisst"
 description: "Community für alles rund um Vermisstenfälle.Neue Fälle, gelöste Fälle, Coldcases - Alles ist hier willkommen.Bitte geht respektvoll mit den Fällen und deren betroffenen um. "
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vermisst"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ Community für alles rund um Vermisstenfälle.<br>Neue Fälle, gelöste Fälle, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community für alles rund um Vermisstenfälle.<br>Neue Fälle, gelöste Fälle, 
 |----------------------|---|
 | Published            | 2023-06-12 07:16:26 |
 | Updated              | 2023-06-12 07:18:48 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

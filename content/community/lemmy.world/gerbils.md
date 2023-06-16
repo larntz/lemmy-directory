@@ -3,19 +3,19 @@ title: "Gerbils"
 name: "gerbils"
 description: "To share and discuss all things Gerbil. All content must be (at least tangibly) connected to or about Gerbils and their care. "
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gerbils"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 1
+subscribers: 8
+posts: 3
 comments: 1
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ To share and discuss all things Gerbil. <br><br>All content must be (at least ta
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ To share and discuss all things Gerbil. <br><br>All content must be (at least ta
 |----------------------|---|
 | Published            | 2023-06-16 10:30:46 |
 | Updated              | 2023-06-16 10:31:59 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

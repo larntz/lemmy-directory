@@ -3,7 +3,7 @@ title: "I said it was another community, testing 1 2 3"
 name: "another_community"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/another_community"
@@ -11,7 +11,7 @@ host: voyager.lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 1
 posts: 1
-comments: 5
+comments: 10
 weight: 1
 dau: 2
 wau: 2
@@ -43,7 +43,7 @@ Description not available.
 |----------------------|---|
 | Subscribers          | 1 |
 | Posts                | 1  |
-| Comments             | 5  |
+| Comments             | 10  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 16:08:26 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

@@ -3,7 +3,7 @@ title: "requests"
 name: "requests"
 description: "You can place your request for subreddits to be synced here ~(eventually)~."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/requests"
@@ -54,4 +54,4 @@ You can place your request for subreddits to be synced here ~(eventually)~.
 |----------------------|---|
 | Published            | 2023-06-11 16:43:02 |
 | Updated              | 2023-06-12 13:30:25 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

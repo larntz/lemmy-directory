@@ -3,13 +3,13 @@ title: "Mythology"
 name: "mythology"
 description: "A community to talk Mythology."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mythology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 34
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community to talk Mythology.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 34 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to talk Mythology.
 |----------------------|---|
 | Published            | 2023-06-12 08:20:35 |
 | Updated              | 2023-06-12 12:11:43 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

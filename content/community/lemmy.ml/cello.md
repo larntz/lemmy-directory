@@ -3,7 +3,7 @@ title: "Cello"
 name: "cello"
 description: "A place to discuss the instrument and anything related to it: performances, compositions, educational material, personal anecdotes, questions, thoughts etc.Be reasonable, constructive and kind."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cello"
@@ -54,4 +54,4 @@ A place to discuss the instrument and anything related to it: performances, comp
 |----------------------|---|
 | Published            | 2020-11-25 09:44:15 |
 | Updated              | 2020-11-25 10:26:33 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

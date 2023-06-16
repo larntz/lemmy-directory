@@ -3,7 +3,7 @@ title: "MSW Media"
 name: "mswmedia"
 description: "For all MSW Media podcasts including but not limited to The Daily Beans, Jack, and Cleanup on Aisle 45"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mswmedia"
@@ -13,9 +13,9 @@ subscribers: 1
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ For all MSW Media podcasts including but not limited to The Daily Beans, Jack, a
 | Subscribers          | 1 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all MSW Media podcasts including but not limited to The Daily Beans, Jack, a
 |----------------------|---|
 | Published            | 2023-06-16 08:32:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

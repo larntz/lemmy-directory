@@ -3,16 +3,16 @@ title: "Framework Laptop Community"
 name: "framework"
 description: "https://frame.work/"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/framework"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 433
-posts: 37
+subscribers: 452
+posts: 38
 comments: 31
-weight: 37
+weight: 38
 dau: 1
 wau: 1
 mau: 4
@@ -41,8 +41,8 @@ https://frame.work/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 433 |
-| Posts                | 37  |
+| Subscribers          | 452 |
+| Posts                | 38  |
 | Comments             | 31  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ https://frame.work/
 |----------------------|---|
 | Published            | 2021-07-25 19:09:41 |
 | Updated              | 2021-07-25 19:12:17 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

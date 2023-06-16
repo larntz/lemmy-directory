@@ -3,15 +3,15 @@ title: "Test"
 name: "test"
 description: "Test Community"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/test"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 45
 posts: 41
-comments: 138
+comments: 139
 weight: 41
 dau: 4
 wau: 39
@@ -41,9 +41,9 @@ Test Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 45 |
 | Posts                | 41  |
-| Comments             | 138  |
+| Comments             | 139  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 39  |
 | Monthly Active Users | 42  |
@@ -54,4 +54,4 @@ Test Community
 |----------------------|---|
 | Published            | 2022-01-02 23:30:17 |
 | Updated              | 2022-01-04 20:36:32 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

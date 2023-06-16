@@ -3,7 +3,7 @@ title: "Instance News & Updates"
 name: "burrow"
 description: "The Burrow is the home of all the news and administrative updates related to rabbitea.rs."
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:20"
 draft: false
 nsfw: false
 actor_id: "https://rabbitea.rs/c/burrow"
@@ -54,4 +54,4 @@ The Burrow is the home of all the news and administrative updates related to rab
 |----------------------|---|
 | Published            | 2023-06-13 17:03:51 |
 | Updated              | 2023-06-13 22:02:36 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:20 |

@@ -3,7 +3,7 @@ title: "historyczna"
 name: "historia"
 description: "Hej, nie nadaje się do moderowania tej społeczności, ale widziałem potrzebę, żeby powstała! Chcesz ją przejąć? Daj znać! "
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/historia"
@@ -54,4 +54,4 @@ Hej, nie nadaje się do moderowania tej społeczności, ale widziałem potrzebę
 |----------------------|---|
 | Published            | 2021-03-11 18:25:12 |
 | Updated              | 2022-08-20 08:34:10 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

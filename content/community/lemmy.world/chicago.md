@@ -3,7 +3,7 @@ title: "Anything/Anyone from Chicago IL"
 name: "chicago"
 description: "A community for anyone from Chicago "
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicago"
@@ -54,4 +54,4 @@ A community for anyone from Chicago
 |----------------------|---|
 | Published            | 2023-06-09 21:30:27 |
 | Updated              | 2023-06-09 21:41:40 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

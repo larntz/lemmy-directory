@@ -3,7 +3,7 @@ title: "aqw"
 name: "aqw"
 description: "This is for the game AdventureQuest Worlds. https://aq.com"
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aqw"
@@ -54,4 +54,4 @@ This is for the game AdventureQuest Worlds. https://aq.com
 |----------------------|---|
 | Published            | 2020-12-15 12:53:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

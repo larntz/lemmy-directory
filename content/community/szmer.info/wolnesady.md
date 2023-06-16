@@ -3,7 +3,7 @@ title: "Wolne sądy"
 name: "wolnesady"
 description: "rzeczy związane z praworządnością i jej łamaniem oraz inne dotyczące prawa, sądownictwa, prokuratury itp. Społeczność istnieje od listopada 2022, więc starsze posty dot. łamania praworządności będą w społeczności machlojki PiSowców"
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolnesady"
@@ -54,4 +54,4 @@ rzeczy związane z praworządnością i jej łamaniem oraz inne dotyczące prawa
 |----------------------|---|
 | Published            | 2022-11-13 10:40:59 |
 | Updated              | 2022-12-27 20:16:53 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,16 +3,16 @@ title: "Anime & Pics"
 name: "animepics"
 description: "A community dedicated to the discussion of anything surrounding anime, manga, manhwa, light novels, visual novels, and hentai."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/animepics"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 317
-posts: 74
-comments: 64
-weight: 74
+subscribers: 339
+posts: 84
+comments: 70
+weight: 84
 dau: 8
 wau: 28
 mau: 28
@@ -41,9 +41,9 @@ A community dedicated to the discussion of anything surrounding anime, manga, ma
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 317 |
-| Posts                | 74  |
-| Comments             | 64  |
+| Subscribers          | 339 |
+| Posts                | 84  |
+| Comments             | 70  |
 | Daily Active Users   | 8  |
 | Weekly Active Users  | 28  |
 | Monthly Active Users | 28  |
@@ -54,4 +54,4 @@ A community dedicated to the discussion of anything surrounding anime, manga, ma
 |----------------------|---|
 | Published            | 2023-06-07 04:17:28 |
 | Updated              | 2023-06-10 00:18:40 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

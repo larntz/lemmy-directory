@@ -3,16 +3,16 @@ title: "British Columbia"
 name: "britishcolumbia"
 description: "News, highlights and more relating to this great province!"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/britishcolumbia"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 199
-posts: 21
-comments: 20
-weight: 21
+subscribers: 212
+posts: 30
+comments: 31
+weight: 30
 dau: 6
 wau: 14
 mau: 14
@@ -41,9 +41,9 @@ News, highlights and more relating to this great province!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 199 |
-| Posts                | 21  |
-| Comments             | 20  |
+| Subscribers          | 212 |
+| Posts                | 30  |
+| Comments             | 31  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 14  |
@@ -54,4 +54,4 @@ News, highlights and more relating to this great province!
 |----------------------|---|
 | Published            | 2020-12-14 00:44:59 |
 | Updated              | 2020-12-14 00:46:27 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

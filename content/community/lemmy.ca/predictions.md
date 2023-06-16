@@ -3,7 +3,7 @@ title: "Predictions"
 name: "predictions"
 description: "What do you think will happen in the future? Share it here "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/predictions"
@@ -54,4 +54,4 @@ What do you think will happen in the future? Share it here
 |----------------------|---|
 | Published            | 2023-01-28 14:05:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

@@ -3,7 +3,7 @@ title: "Social Media"
 name: "social_media"
 description: "A place for discussing social media."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/social_media"
@@ -54,4 +54,4 @@ A place for discussing social media.
 |----------------------|---|
 | Published            | 2021-02-18 10:26:06 |
 | Updated              | 2021-02-24 18:32:04 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:45 |

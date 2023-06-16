@@ -3,16 +3,16 @@ title: "Bass"
 name: "bass"
 description: "A place for bassists to talk shop! Whether it's about gear, practicing, tips & tricks, let's discuss!**Related Communities**:[guitars](https://lemmy.world/c/guitars)"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/bass"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
 subscribers: 10
-posts: 2
+posts: 3
 comments: 11
-weight: 2
+weight: 3
 dau: 2
 wau: 4
 mau: 4
@@ -42,7 +42,7 @@ A place for bassists to talk shop! Whether it's about gear, practicing, tips & t
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 10 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 11  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
@@ -54,4 +54,4 @@ A place for bassists to talk shop! Whether it's about gear, practicing, tips & t
 |----------------------|---|
 | Published            | 2023-06-12 16:45:30 |
 | Updated              | 2023-06-15 15:05:37 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

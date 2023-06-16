@@ -3,7 +3,7 @@ title: "okbuddygenshin"
 name: "okbuddygenshin"
 description: "ok buddy but for genshin (same rules on reddit apply here)"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okbuddygenshin"
@@ -54,4 +54,4 @@ ok buddy but for genshin (same rules on reddit apply here)
 |----------------------|---|
 | Published            | 2023-06-14 15:11:31 |
 | Updated              | 2023-06-15 01:37:14 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:14 |

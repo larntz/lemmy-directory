@@ -3,13 +3,13 @@ title: "Jokes!"
 name: "jokes"
 description: "This is a place to post jokes. Whether they are dad jokes, puns or another form of text-based comedy!# Rules:* Pure text posts are preferred.* No memes. Jokes should be text-based.* With the exception of one-liners, the punchline should be in the post and not the title.* No NSFW content.* Jokes must be in good taste. No hate speech, bigotry, etc."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jokes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 270
+subscribers: 277
 posts: 45
 comments: 17
 weight: 45
@@ -41,7 +41,7 @@ This is a place to post jokes. Whether they are dad jokes, puns or another form 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 270 |
+| Subscribers          | 277 |
 | Posts                | 45  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a place to post jokes. Whether they are dad jokes, puns or another form 
 |----------------------|---|
 | Published            | 2020-01-24 21:40:38 |
 | Updated              | 2021-01-28 22:03:07 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:34 |

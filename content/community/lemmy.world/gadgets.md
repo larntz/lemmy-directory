@@ -3,13 +3,13 @@ title: "Gadgets"
 name: "gadgets"
 description: "Latest and greatest Gadgets: Discussion and Reviews"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gadgets"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 28
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Latest and greatest Gadgets: Discussion and Reviews
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 28 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Latest and greatest Gadgets: Discussion and Reviews
 |----------------------|---|
 | Published            | 2023-06-11 12:43:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

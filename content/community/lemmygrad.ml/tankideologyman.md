@@ -3,7 +3,7 @@ title: "TankIdeologyMan"
 name: "tankideologyman"
 description: "WIP - Moving from r/tankideologyman on reddit."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tankideologyman"
@@ -54,4 +54,4 @@ WIP - Moving from r/tankideologyman on reddit.
 |----------------------|---|
 | Published            | 2021-06-17 18:56:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

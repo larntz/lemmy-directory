@@ -3,16 +3,16 @@ title: "pretty_women"
 name: "pretty_women"
 description: "A safe-for-work community to share images of pretty women. "
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pretty_women"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 6
+subscribers: 34
+posts: 7
 comments: 0
-weight: 6
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A safe-for-work community to share images of pretty women.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 6  |
+| Subscribers          | 34 |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A safe-for-work community to share images of pretty women.
 |----------------------|---|
 | Published            | 2023-06-14 19:18:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

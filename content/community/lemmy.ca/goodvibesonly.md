@@ -3,13 +3,13 @@ title: "Good Vibes Only"
 name: "goodvibesonly"
 description: "Only post positive things. From your life (ex achievements), news, etc. We have centrists here, so positives shouldn't be like biden dies from a heart attack. But it can be like china cures cancer or starbucks workers unionize raising their pay"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/goodvibesonly"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Only post positive things. From your life (ex achievements), news, etc. <br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Only post positive things. From your life (ex achievements), news, etc. <br><br>
 |----------------------|---|
 | Published            | 2022-08-09 06:34:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

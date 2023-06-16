@@ -3,7 +3,7 @@ title: "Ted Juan"
 name: "diyelectronyx"
 description: "Digital Marketer | Tech Writer | Maker of Random Contraptions | Education | Learning — #Robotics #RaspberryPi #DIYElectronics"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diyelectronyx"
@@ -54,4 +54,4 @@ Digital Marketer | Tech Writer | Maker of Random Contraptions | Education | Lear
 |----------------------|---|
 | Published            | 2022-01-13 07:01:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

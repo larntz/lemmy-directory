@@ -3,7 +3,7 @@ title: "Hunter X Hunter"
 name: "hunter_x_hunter"
 description: "Everything related to the manga series Hunter X Hunter."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hunter_x_hunter"
@@ -54,4 +54,4 @@ Everything related to the manga series Hunter X Hunter.
 |----------------------|---|
 | Published            | 2022-06-06 06:08:35 |
 | Updated              | 2022-06-06 06:10:25 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:35 |

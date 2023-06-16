@@ -3,19 +3,19 @@ title: "Acid Techno"
 name: "acid_techno"
 description: "Feel free to post links to Acid music, Detroit Techno or their various and sundry sub-genres.Rules:1) No porn.1) No bigotry, hate speech.1) No ads / spamming.1) No conspiracies / QAnon / antivaxx sentiment.1) Be Respectful of others.1) This is an inclusive space.**Related Communities**- [House Music](/c/housemusic@lemmy.world)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acid_techno"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 6
+subscribers: 17
+posts: 7
 comments: 1
-weight: 6
+weight: 7
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Feel free to post links to Acid music, Detroit Techno or their various and sundr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 6  |
+| Subscribers          | 17 |
+| Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Feel free to post links to Acid music, Detroit Techno or their various and sundr
 |----------------------|---|
 | Published            | 2023-06-14 01:01:36 |
 | Updated              | 2023-06-15 15:25:33 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

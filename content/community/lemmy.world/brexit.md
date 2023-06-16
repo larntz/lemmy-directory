@@ -3,13 +3,13 @@ title: "Brexit"
 name: "brexit"
 description: "A place to debate and discuss the UK's exit from the European Union. Be Kind and Courteous."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brexit"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ A place to debate and discuss the UK's exit from the European Union. Be Kind and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to debate and discuss the UK's exit from the European Union. Be Kind and
 |----------------------|---|
 | Published            | 2023-06-11 20:26:43 |
 | Updated              | 2023-06-13 16:37:46 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

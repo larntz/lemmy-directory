@@ -3,16 +3,16 @@ title: "Kotlin"
 name: "kotlin"
 description: "Kotlin is a statically typed programming language for the JVM, Android, JavaScript, and native.Subreddit rules:- Be civil- No spam- Stay on-topic- No fluffResources:- [Official site](https://kotlinlang.org/)- [Official blog](https://blog.jetbrains.com/kotlin/)- [StackOverflow](http://stackoverflow.com/questions/tagged/kotlin?sort=frequent)- [Slack](https://kotlinlang.slack.com/)- [Books](https://kotlinlang.org/docs/books.html)- [Try Kotlin Online](https://try.kotlinlang.org/)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/kotlin"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 75
-posts: 4
-comments: 3
-weight: 4
+subscribers: 89
+posts: 5
+comments: 7
+weight: 5
 dau: 2
 wau: 6
 mau: 6
@@ -41,9 +41,9 @@ Kotlin is a statically typed programming language for the JVM, Android, JavaScri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 4  |
-| Comments             | 3  |
+| Subscribers          | 89 |
+| Posts                | 5  |
+| Comments             | 7  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ Kotlin is a statically typed programming language for the JVM, Android, JavaScri
 |----------------------|---|
 | Published            | 2023-06-07 19:18:00 |
 | Updated              | 2023-06-13 05:02:24 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

@@ -3,19 +3,19 @@ title: "Philadelphia Phillies"
 name: "phillies"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phillies"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 36
 posts: 8
 comments: 14
 weight: 8
 dau: 3
-wau: 7
-mau: 7
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 36 |
 | Posts                | 8  |
 | Comments             | 14  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:00:09 |
 | Updated              | 2023-06-12 14:45:32 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

@@ -3,19 +3,19 @@ title: "Frank Zappa"
 name: "frankzappa"
 description: "A place for Zappa freaks to congregate!"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frankzappa"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 5
 comments: 4
 weight: 5
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for Zappa freaks to congregate!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 5  |
 | Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for Zappa freaks to congregate!
 |----------------------|---|
 | Published            | 2023-06-15 12:07:15 |
 | Updated              | 2023-06-15 12:09:59 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

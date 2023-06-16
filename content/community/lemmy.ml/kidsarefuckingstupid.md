@@ -3,13 +3,13 @@ title: "KidsAreFuckingStupid"
 name: "kidsarefuckingstupid"
 description: "Just look at some of these kids, how can they be so dumb? Like what, you seriously can't hula hoop? And babies know literally nothing. damn kids are so dumb.Community Rules:1. Don't be a dick2. Don't be a creep3. Don't be racist4. Don't post spam5. No memes6. Must be a kid7. No real harm comes to them8. Avoid repostingReposting within one week will result in a 7 day ban9. Do not post kid creations (drawings, handwriting, tests, etc) 10. Crop all text posts to only the relevant body textCrop your text screenshots so only body text is shown - no white space and no title, or so help me god"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kidsarefuckingstupid"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 122
+subscribers: 124
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Just look at some of these kids, how can they be so dumb? Like what, you serious
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
+| Subscribers          | 124 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Just look at some of these kids, how can they be so dumb? Like what, you serious
 |----------------------|---|
 | Published            | 2021-03-04 01:51:31 |
 | Updated              | 2021-03-04 01:52:03 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

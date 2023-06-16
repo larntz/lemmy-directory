@@ -3,7 +3,7 @@ title: "MIDI"
 name: "midi"
 description: "MIDI music"
 type: community
-date: "2023-06-16 11:06:02"
+date: "2023-06-16 22:56:00"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/midi"
@@ -54,4 +54,4 @@ MIDI music
 |----------------------|---|
 | Published            | 2023-06-06 22:43:30 |
 | Updated              | 2023-06-07 11:20:31 |
-| Last Scraped         | 2023-06-16 11:06:02 |
+| Last Scraped         | 2023-06-16 22:56:00 |

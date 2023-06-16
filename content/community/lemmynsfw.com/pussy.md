@@ -3,19 +3,19 @@ title: "Pussy"
 name: "pussy"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. 3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pussy"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 754
-posts: 19
-comments: 4
-weight: 19
-dau: 2
-wau: 10
-mau: 10
+subscribers: 816
+posts: 22
+comments: 5
+weight: 22
+dau: 3
+wau: 12
+mau: 12
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 754 |
-| Posts                | 19  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Subscribers          | 816 |
+| Posts                | 22  |
+| Comments             | 5  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 14:47:01 |
 | Updated              | 2023-06-13 02:11:32 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

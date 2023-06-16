@@ -3,13 +3,13 @@ title: "Reddit r/memes"
 name: "reddit_memes"
 description: "Reddit r/memes new post dumped to Lemmy (it's an experiment)"
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/reddit_memes"
 host: enterprise.lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 46
 comments: 1
 weight: 46
@@ -41,7 +41,7 @@ Reddit r/memes new post dumped to Lemmy (it's an experiment)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 46  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Reddit r/memes new post dumped to Lemmy (it's an experiment)
 |----------------------|---|
 | Published            | 2023-06-10 09:48:48 |
 | Updated              | 2023-06-10 11:53:14 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

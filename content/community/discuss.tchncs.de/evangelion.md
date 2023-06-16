@@ -3,7 +3,7 @@ title: "Neon Genesis Evangelion"
 name: "evangelion"
 description: "Evangelion discussion, news, and related content about Khara and merchandise"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/evangelion"
@@ -54,4 +54,4 @@ Evangelion discussion, news, and related content about Khara and merchandise
 |----------------------|---|
 | Published            | 2023-06-12 05:36:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

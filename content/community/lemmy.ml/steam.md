@@ -3,19 +3,19 @@ title: "Steam"
 name: "steam"
 description: "[Steam](https://store.steampowered.com/) is a video game digital distribution service by Valve.[Steam News](https://store.steampowered.com/news/collection/steam/) | [Steam Beta Client news](https://steamcommunity.com/groups/SteamClientBeta/announcements/listing)Useful tools:  [SteamDB](https://steamdb.info/)"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steam"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1053
+subscribers: 1096
 posts: 13
-comments: 26
+comments: 30
 weight: 13
-dau: 2
-wau: 7
-mau: 8
+dau: 7
+wau: 20
+mau: 23
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1053 |
+| Subscribers          | 1096 |
 | Posts                | 13  |
-| Comments             | 26  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
+| Comments             | 30  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-17 09:46:09 |
 | Updated              | 2021-04-22 08:16:16 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:31 |

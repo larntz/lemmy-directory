@@ -3,19 +3,19 @@ title: "New Jersey"
 name: "newjersey"
 description: "A place to discuss all things Garden State"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newjersey"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 1
-comments: 2
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 17
+posts: 2
+comments: 9
+weight: 2
+dau: 5
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things Garden State
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 17 |
+| Posts                | 2  |
+| Comments             | 9  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things Garden State
 |----------------------|---|
 | Published            | 2023-06-13 14:02:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

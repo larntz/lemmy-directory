@@ -3,13 +3,13 @@ title: "Virtual Reality"
 name: "virtualreality"
 description: "We welcome topics about all all XR formats (AR, VR & MR)."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/virtualreality"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ We welcome topics about all all XR formats (AR, VR & MR).
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ We welcome topics about all all XR formats (AR, VR & MR).
 |----------------------|---|
 | Published            | 2023-06-15 16:44:32 |
 | Updated              | 2023-06-15 16:44:51 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

@@ -3,7 +3,7 @@ title: "rescript"
 name: "rescript"
 description: "Everything [rescript](https://rescript-lang.org/) -- The JavaScript-like language you have been waiting for."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rescript"
@@ -54,4 +54,4 @@ Everything [rescript](https://rescript-lang.org/) -- The JavaScript-like languag
 |----------------------|---|
 | Published            | 2021-01-03 13:15:17 |
 | Updated              | 2021-01-03 13:20:54 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

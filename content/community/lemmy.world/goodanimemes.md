@@ -3,13 +3,13 @@ title: "GoodAnimemes"
 name: "goodanimemes"
 description: "We Make Anime memes, they might be good, I'm not too certain. Anyways, welcome to Goodanimemes!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goodanimemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ We Make Anime memes, they might be good, I'm not too certain. Anyways, welcome t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ We Make Anime memes, they might be good, I'm not too certain. Anyways, welcome t
 |----------------------|---|
 | Published            | 2023-06-13 04:59:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

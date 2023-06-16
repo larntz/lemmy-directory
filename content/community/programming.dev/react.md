@@ -3,16 +3,16 @@ title: "React"
 name: "react"
 description: "The (unofficial) React.js community for all things React!"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/react"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 1
+subscribers: 24
+posts: 2
 comments: 2
-weight: 1
+weight: 2
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ The (unofficial) React.js community for all things React!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
+| Subscribers          | 24 |
+| Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ The (unofficial) React.js community for all things React!
 |----------------------|---|
 | Published            | 2023-06-15 13:04:09 |
 | Updated              | 2023-06-16 10:35:20 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

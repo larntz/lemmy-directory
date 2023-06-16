@@ -3,7 +3,7 @@ title: "Les Canadiens de Montréal"
 name: "habs"
 description: "Welcome to the community of the NHL’s oldest franchise, the 24-time Stanley Cup Champions, the Montreal Canadiens. Bienvenue au subreddit de la plus ancienne franchise de la LNH, les champions de 24 coupes Stanley, les Canadiens de Montréal."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/habs"
@@ -54,4 +54,4 @@ Welcome to the community of the NHL’s oldest franchise, the 24-time Stanley Cu
 |----------------------|---|
 | Published            | 2023-06-03 02:22:16 |
 | Updated              | 2023-06-12 02:26:12 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

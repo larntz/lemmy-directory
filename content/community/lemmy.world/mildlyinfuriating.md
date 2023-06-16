@@ -3,19 +3,19 @@ title: "Mildly Infuriating"
 name: "mildlyinfuriating"
 description: "Home to all things Mildly InfuriatingNot infuriating, not enraging. Mildly Infuriating. All posts should reflect that.I want my day mildly ruined, not completely ruined.Please remember to refrain from reposting old content. If you post a post from reddit it is good practice to include a link and credit the OP. I'm not about stealing content!It's just good to get something in this website for casual viewing whilst refreshing original content is added overtime....**Also check out:****Partnered Communities:**1.[Lemmy Review](/c/lemmyreview@lemmy.world)2.[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)3.[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)4.[No Stupid Questions](/c/nostupidquestions@lemmy.world)5.[You Should Know](/c/youshouldknow@lemmy.world)...Reach out to [LillianVS](/u/LillianVS@lemmy.world) for inclusion on the sidebar. *All communities included on the sidebar are to be made in compliance with the instance rules.*"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mildlyinfuriating"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7146
-posts: 78
-comments: 807
-weight: 78
-dau: 67
-wau: 422
-mau: 422
+subscribers: 7590
+posts: 81
+comments: 977
+weight: 81
+dau: 159
+wau: 595
+mau: 621
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Home to all things Mildly Infuriating<br>Not infuriating, not enraging. Mildly I
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7146 |
-| Posts                | 78  |
-| Comments             | 807  |
-| Daily Active Users   | 67  |
-| Weekly Active Users  | 422  |
-| Monthly Active Users | 422  |
+| Subscribers          | 7590 |
+| Posts                | 81  |
+| Comments             | 977  |
+| Daily Active Users   | 159  |
+| Weekly Active Users  | 595  |
+| Monthly Active Users | 621  |
 
 <br>
 
@@ -54,4 +54,4 @@ Home to all things Mildly Infuriating<br>Not infuriating, not enraging. Mildly I
 |----------------------|---|
 | Published            | 2023-06-07 23:59:13 |
 | Updated              | 2023-06-13 21:17:24 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

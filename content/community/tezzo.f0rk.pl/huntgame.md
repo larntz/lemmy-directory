@@ -3,7 +3,7 @@ title: "Hunt: Showdown"
 name: "huntgame"
 description: "![](https://clan.akamai.steamstatic.com/images//30897473/3a145c49e26a60eaeed9a0ee30a6f2c9abace4da.jpg)"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://tezzo.f0rk.pl/c/huntgame"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 05:12:39 |
 | Updated              | 2023-06-13 17:58:33 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

@@ -3,13 +3,13 @@ title: "Spectroscopy"
 name: "spectroscopy"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/spectroscopy"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 41
 posts: 9
 comments: 0
 weight: 9
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 41 |
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-19 20:46:32 |
 | Updated              | 2021-12-20 00:05:57 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

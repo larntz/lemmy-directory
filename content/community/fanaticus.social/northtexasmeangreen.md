@@ -3,7 +3,7 @@ title: "North Texas Mean Green"
 name: "northtexasmeangreen"
 description: "A community to discuss North Texas Mean Green athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/northtexasmeangreen"
@@ -54,4 +54,4 @@ A community to discuss North Texas Mean Green athletics.<br><br>**Looking for Mo
 |----------------------|---|
 | Published            | 2023-06-16 00:59:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

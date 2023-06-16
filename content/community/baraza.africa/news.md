@@ -3,7 +3,7 @@ title: "News"
 name: "news"
 description: "A space to share news as they break. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/news"
@@ -54,4 +54,4 @@ A space to share news as they break.
 |----------------------|---|
 | Published            | 2020-10-30 16:42:57 |
 | Updated              | 2021-11-28 04:53:36 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

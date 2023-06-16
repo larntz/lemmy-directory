@@ -3,13 +3,13 @@ title: "The Lobby"
 name: "thelobby"
 description: "**General conversation, introduction**"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thelobby"
 host: merv.news
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 46
 comments: 25
 weight: 46
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 46  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-09-26 00:30:56 |
 | Updated              | 2022-10-01 17:32:36 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

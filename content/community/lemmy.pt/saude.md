@@ -3,7 +3,7 @@ title: "Saúde"
 name: "saude"
 description: "# Saúde"
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/saude"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-06-07 22:50:10 |
 | Updated              | 2023-06-07 19:15:53 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

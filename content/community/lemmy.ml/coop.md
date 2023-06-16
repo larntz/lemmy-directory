@@ -3,7 +3,7 @@ title: "Co-op"
 name: "coop"
 description: "All about co-operatives"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coop"
@@ -54,4 +54,4 @@ All about co-operatives
 |----------------------|---|
 | Published            | 2020-06-28 08:39:28 |
 | Updated              | 2021-01-29 13:30:51 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

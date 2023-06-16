@@ -3,19 +3,19 @@ title: "worldnews"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldnews"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 426
+subscribers: 451
 posts: 3
-comments: 2
+comments: 3
 weight: 3
-dau: 2
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 426 |
+| Subscribers          | 451 |
 | Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:19:00 |
 | Updated              | 2023-06-09 20:41:04 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

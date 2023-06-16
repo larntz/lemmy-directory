@@ -3,7 +3,7 @@ title: "Africa"
 name: "africa"
 description: "African news and politics"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/africa"
@@ -54,4 +54,4 @@ African news and politics
 |----------------------|---|
 | Published            | 2020-07-23 18:17:32 |
 | Updated              | 2021-02-23 17:23:38 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

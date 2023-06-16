@@ -3,13 +3,13 @@ title: "Learning CW (morse code)"
 name: "learning_cw"
 description: "An informal community for people learning decoding morse code (sounds, not strings of characters ...---......-)"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/learning_cw"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ An informal community for people learning decoding morse code (sounds, not strin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ An informal community for people learning decoding morse code (sounds, not strin
 |----------------------|---|
 | Published            | 2023-06-10 16:36:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

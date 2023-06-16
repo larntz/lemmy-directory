@@ -3,13 +3,13 @@ title: "Undertale"
 name: "undertale"
 description: "**Welcome, Fallen child, to Lemmy's Undertale community!**A place for fans of the indie RPG Undertale, developed by Toby Fox, to gather and share Undertale related content. Deltarune content is also allowed.**Rules**-No explicit content-Credit the artist when sharing Fan Work-And as always, be nice, don't spam and be respectful. Any kind of discrimination will not be tolerated"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/undertale"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 60
 posts: 5
 comments: 27
 weight: 5
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 60 |
 | Posts                | 5  |
 | Comments             | 27  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 02:23:41 |
 | Updated              | 2023-06-13 21:38:31 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

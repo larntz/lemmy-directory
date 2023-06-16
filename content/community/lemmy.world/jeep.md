@@ -3,19 +3,19 @@ title: "jeep"
 name: "jeep"
 description: "A home for all jeep enthusiasts!# Rules:* No NSFW Content* No hate speech or personal attacks.* No Ads / Spamming.--"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jeep"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 59
-posts: 7
-comments: 10
-weight: 7
-dau: 2
-wau: 4
-mau: 4
+subscribers: 65
+posts: 8
+comments: 14
+weight: 8
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A home for all jeep enthusiasts!<br><br># Rules:<br>* No NSFW Content<br>* No ha
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 7  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 65 |
+| Posts                | 8  |
+| Comments             | 14  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A home for all jeep enthusiasts!<br><br># Rules:<br>* No NSFW Content<br>* No ha
 |----------------------|---|
 | Published            | 2023-06-10 15:43:08 |
 | Updated              | 2023-06-10 16:14:42 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

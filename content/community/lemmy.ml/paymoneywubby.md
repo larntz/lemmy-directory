@@ -3,7 +3,7 @@ title: "PaymoneyWubby"
 name: "paymoneywubby"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paymoneywubby"
@@ -14,7 +14,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-10-14 00:04:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

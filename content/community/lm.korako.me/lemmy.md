@@ -3,13 +3,13 @@ title: "Lemmyの話題"
 name: "lemmy"
 description: "Lemmyに関する話題をなんでもどうぞ（日本語向け）"
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/lemmy"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 18
 comments: 36
 weight: 18
@@ -41,7 +41,7 @@ Lemmyに関する話題をなんでもどうぞ（日本語向け）
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 18  |
 | Comments             | 36  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Lemmyに関する話題をなんでもどうぞ（日本語向け）
 |----------------------|---|
 | Published            | 2022-12-06 01:07:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

@@ -3,16 +3,16 @@ title: "Native American"
 name: "nativeamerican"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nativeamerican"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
+subscribers: 5
+posts: 3
 comments: 0
-weight: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
+| Subscribers          | 5 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 06:54:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

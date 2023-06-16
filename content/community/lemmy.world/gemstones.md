@@ -3,13 +3,13 @@ title: "Gemstones & Jewelry "
 name: "gemstones"
 description: "A place to discuss gemstones and gemstone jewelry. Lab made or mined, clear or colored stones—if it shines and sparkles, show us! "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gemstones"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ A place to discuss gemstones and gemstone jewelry. Lab made or mined, clear or c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss gemstones and gemstone jewelry. Lab made or mined, clear or c
 |----------------------|---|
 | Published            | 2023-06-13 05:14:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Revolutionary Feminism"
 name: "feminism"
 description: "A place to talk about feminism, especially from a Marxist perspective but not solely."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/feminism"
@@ -54,4 +54,4 @@ A place to talk about feminism, especially from a Marxist perspective but not so
 |----------------------|---|
 | Published            | 2021-10-14 16:34:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

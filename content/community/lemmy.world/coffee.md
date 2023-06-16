@@ -3,19 +3,19 @@ title: "Coffee"
 name: "coffee"
 description: "The hot beverage that powers the world!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coffee"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 459
+subscribers: 497
 posts: 9
-comments: 42
+comments: 43
 weight: 9
-dau: 6
-wau: 21
-mau: 21
+dau: 2
+wau: 27
+mau: 27
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The hot beverage that powers the world!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 459 |
+| Subscribers          | 497 |
 | Posts                | 9  |
-| Comments             | 42  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Comments             | 43  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ The hot beverage that powers the world!
 |----------------------|---|
 | Published            | 2023-06-10 14:21:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

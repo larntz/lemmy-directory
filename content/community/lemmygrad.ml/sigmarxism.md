@@ -3,7 +3,7 @@ title: "Sigmarxism"
 name: "sigmarxism"
 description: "Because Warhammer is cool and reactionaries shouldn't get to have all the fun."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sigmarxism"
@@ -54,4 +54,4 @@ Because Warhammer is cool and reactionaries shouldn't get to have all the fun.
 |----------------------|---|
 | Published            | 2019-08-24 13:18:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

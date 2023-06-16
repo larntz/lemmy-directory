@@ -3,7 +3,7 @@ title: "Alternative Fashion"
 name: "alternativefashion"
 description: "A community for posts related to alt fashionRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alternativefashion"
@@ -54,4 +54,4 @@ A community for posts related to alt fashion<br><br>Rules:<br>1. Be civil<br>2. 
 |----------------------|---|
 | Published            | 2023-06-15 15:01:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

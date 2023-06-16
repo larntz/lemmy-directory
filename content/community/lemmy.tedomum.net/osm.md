@@ -3,16 +3,16 @@ title: "OSM"
 name: "osm"
 description: "Communauté Lemmy d'OpenStreetMap"
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/osm"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 8
+posts: 1
 comments: 0
-weight: 8
+weight: 1
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Communauté Lemmy d'OpenStreetMap
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 8  |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Communauté Lemmy d'OpenStreetMap
 |----------------------|---|
 | Published            | 2020-11-26 22:06:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

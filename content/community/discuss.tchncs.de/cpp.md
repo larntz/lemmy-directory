@@ -3,13 +3,13 @@ title: "C++"
 name: "cpp"
 description: "A place for C++ programmers discuss articles and news about programming in C++ and the language itself"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/cpp"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 56
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ A place for C++ programmers discuss articles and news about programming in C++ a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 56 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for C++ programmers discuss articles and news about programming in C++ a
 |----------------------|---|
 | Published            | 2023-06-12 05:28:55 |
 | Updated              | 2023-06-12 05:43:35 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

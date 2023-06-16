@@ -3,13 +3,13 @@ title: "Undertale"
 name: "undertale"
 description: "sh.itjust.works's Undertale and (sometimes) Deltarune Community!"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/undertale"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ sh.itjust.works's Undertale and (sometimes) Deltarune Community!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ sh.itjust.works's Undertale and (sometimes) Deltarune Community!
 |----------------------|---|
 | Published            | 2023-06-14 16:40:06 |
 | Updated              | 2023-06-14 16:50:43 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,13 +3,13 @@ title: "All Things STREAMING NOW!"
 name: "streamingnow"
 description: "A place to discuss all topics involving streaming, including streaming shows and movies, hardware (TVs, Streaming Sticks, NAS systems, Game Streaming hardware and software), Services (Netflix, Disney+, MAX, Paramount+, Plex, Jellyfin, PS Now, SteamLink, etc)., Streaming Wars and Entertainment Business News, Streaming Games technology and services, Reviews of streaming shows and movies, and even Usenet, and BitTorrenting.If it has anything to do with Streaming Entertainment, it's welcomed here."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/streamingnow"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 80
+subscribers: 83
 posts: 5
 comments: 4
 weight: 5
@@ -41,7 +41,7 @@ A place to discuss all topics involving streaming, including streaming shows and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
+| Subscribers          | 83 |
 | Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss all topics involving streaming, including streaming shows and
 |----------------------|---|
 | Published            | 2023-06-10 09:07:38 |
 | Updated              | 2023-06-10 10:47:59 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

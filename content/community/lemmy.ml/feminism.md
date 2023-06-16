@@ -3,13 +3,13 @@ title: "feminism"
 name: "feminism"
 description: "Other interesting lemmy communities to follow:* https://beehaw.org/c/feminism* https://beehaw.org/c/lgbtq_plus"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/feminism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 302
+subscribers: 303
 posts: 72
 comments: 83
 weight: 72
@@ -41,7 +41,7 @@ Other interesting lemmy communities to follow:<br><br>* https://beehaw.org/c/fem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 302 |
+| Subscribers          | 303 |
 | Posts                | 72  |
 | Comments             | 83  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Other interesting lemmy communities to follow:<br><br>* https://beehaw.org/c/fem
 |----------------------|---|
 | Published            | 2020-05-20 14:15:41 |
 | Updated              | 2022-07-29 16:43:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:24 |

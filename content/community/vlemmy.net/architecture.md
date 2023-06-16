@@ -3,13 +3,13 @@ title: "Architecture"
 name: "architecture"
 description: "A place to share interesting projects, texts, discussions, podcasts... around architecture."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/architecture"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 38
 posts: 6
 comments: 4
 weight: 6
@@ -41,7 +41,7 @@ A place to share interesting projects, texts, discussions, podcasts... around ar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 38 |
 | Posts                | 6  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share interesting projects, texts, discussions, podcasts... around ar
 |----------------------|---|
 | Published            | 2023-06-13 05:25:08 |
 | Updated              | 2023-06-13 05:46:59 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

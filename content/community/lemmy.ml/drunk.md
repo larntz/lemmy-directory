@@ -3,7 +3,7 @@ title: "drunk"
 name: "drunk"
 description: "A community for drunk"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/drunk"
@@ -54,4 +54,4 @@ A community for drunk
 |----------------------|---|
 | Published            | 2020-08-26 10:43:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

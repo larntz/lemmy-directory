@@ -3,19 +3,19 @@ title: "MTG: EDH / Commander"
 name: "edh"
 description: "Welcome everyone. Be respectful and have fun!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edh"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 66
+subscribers: 78
 posts: 5
-comments: 16
+comments: 18
 weight: 5
-dau: 3
-wau: 7
-mau: 7
+dau: 6
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome everyone. Be respectful and have fun!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
+| Subscribers          | 78 |
 | Posts                | 5  |
-| Comments             | 16  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Comments             | 18  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome everyone. Be respectful and have fun!
 |----------------------|---|
 | Published            | 2023-06-13 07:49:41 |
 | Updated              | 2023-06-14 18:00:21 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

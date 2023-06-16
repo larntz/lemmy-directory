@@ -3,7 +3,7 @@ title: "NFL"
 name: "nfl"
 description: "A place for NFL fans and their team communities!# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nfl"
@@ -54,4 +54,4 @@ A place for NFL fans and their team communities!<br><br># Looking for mods!
 |----------------------|---|
 | Published            | 2023-06-10 03:31:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

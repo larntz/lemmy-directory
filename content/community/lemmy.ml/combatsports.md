@@ -3,7 +3,7 @@ title: "Combat Sports"
 name: "combatsports"
 description: "A place for combat sports enthusiasts. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/combatsports"
@@ -54,4 +54,4 @@ A place for combat sports enthusiasts.
 |----------------------|---|
 | Published            | 2023-06-10 16:04:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

@@ -3,17 +3,17 @@ title: "Ok Buddy Persona"
 name: "okaybuddypersona"
 description: "Welcome to OkayBuddyPersona: Lemmy the Royal Edition. A community for fans of the SMT and Persona series to act mentally insane. Megaten content in general is allowed. --------------Rules:1. don't be a dick2. all the old okbuddypersona rules"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okaybuddypersona"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 88
 posts: 23
-comments: 63
+comments: 64
 weight: 23
-dau: 5
+dau: 1
 wau: 15
 mau: 15
 instances:
@@ -41,10 +41,10 @@ Welcome to OkayBuddyPersona: Lemmy the Royal Edition. A community for fans of th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 88 |
 | Posts                | 23  |
-| Comments             | 63  |
-| Daily Active Users   | 5  |
+| Comments             | 64  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 15  |
 | Monthly Active Users | 15  |
 
@@ -54,4 +54,4 @@ Welcome to OkayBuddyPersona: Lemmy the Royal Edition. A community for fans of th
 |----------------------|---|
 | Published            | 2023-06-11 13:27:51 |
 | Updated              | 2023-06-11 15:35:10 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

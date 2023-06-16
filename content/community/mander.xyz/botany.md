@@ -3,16 +3,16 @@ title: "Botany"
 name: "botany"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/botany"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 78
-posts: 5
+subscribers: 83
+posts: 6
 comments: 6
-weight: 5
+weight: 6
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 5  |
+| Subscribers          | 83 |
+| Posts                | 6  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-05 10:41:44 |
 | Updated              | 2022-01-05 10:41:56 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

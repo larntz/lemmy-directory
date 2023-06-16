@@ -3,19 +3,19 @@ title: "Vexillology circlejerk"
 name: "vexillologyjerk"
 description: "A place for funny flagsCheck out [!vexillology@lemmy.world](/c/vexillology@lemmy.world) for serious flagposting"
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/vexillologyjerk"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 142
+subscribers: 150
 posts: 11
-comments: 37
+comments: 55
 weight: 11
-dau: 2
-wau: 17
-mau: 17
+dau: 4
+wau: 18
+mau: 18
 instances:
 - "lemmy_antemeridiem_xyz"
 tags: 
@@ -41,12 +41,12 @@ A place for funny flags<br><br>Check out [!vexillology@lemmy.world](/c/vexillolo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 142 |
+| Subscribers          | 150 |
 | Posts                | 11  |
-| Comments             | 37  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Comments             | 55  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for funny flags<br><br>Check out [!vexillology@lemmy.world](/c/vexillolo
 |----------------------|---|
 | Published            | 2023-06-10 17:15:24 |
 | Updated              | 2023-06-11 12:39:54 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

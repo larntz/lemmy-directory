@@ -3,13 +3,13 @@ title: "Korea"
 name: "korea"
 description: "A community for Korea and Korean culture. "
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/korea"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 15
 comments: 31
 weight: 15
@@ -41,7 +41,7 @@ A community for Korea and Korean culture.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 15  |
 | Comments             | 31  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for Korea and Korean culture.
 |----------------------|---|
 | Published            | 2020-06-30 06:14:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

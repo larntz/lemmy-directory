@@ -3,13 +3,13 @@ title: "China"
 name: "china"
 description: "Culture, history, and news of the world's most populous nation."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/china"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ Culture, history, and news of the world's most populous nation.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Culture, history, and news of the world's most populous nation.
 |----------------------|---|
 | Published            | 2023-06-11 14:20:19 |
 | Updated              | 2023-06-12 00:48:50 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

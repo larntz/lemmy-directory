@@ -3,19 +3,19 @@ title: "Law"
 name: "law"
 description: "Discussion about legal topics, centered around United States"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/law"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 62
+subscribers: 63
 posts: 22
 comments: 4
 weight: 22
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discussion about legal topics, centered around United States
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
+| Subscribers          | 63 |
 | Posts                | 22  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about legal topics, centered around United States
 |----------------------|---|
 | Published            | 2023-06-11 21:47:41 |
 | Updated              | 2023-06-12 00:41:25 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

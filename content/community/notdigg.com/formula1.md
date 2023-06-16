@@ -3,7 +3,7 @@ title: "Formula 1"
 name: "formula1"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/formula1"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 18:45:23 |
 | Updated              | 2023-06-13 23:12:49 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

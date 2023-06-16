@@ -3,7 +3,7 @@ title: "Itch.io discussion and community"
 name: "itchio"
 description: "Discuss Itch.io and related stuff here!"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/itchio"
@@ -54,4 +54,4 @@ Discuss Itch.io and related stuff here!
 |----------------------|---|
 | Published            | 2020-06-30 15:09:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

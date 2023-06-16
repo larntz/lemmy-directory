@@ -3,13 +3,13 @@ title: "Arizona Guns"
 name: "azguns"
 description: "Community for gun stuff in Arizona"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/azguns"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Community for gun stuff in Arizona
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for gun stuff in Arizona
 |----------------------|---|
 | Published            | 2023-06-12 16:28:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

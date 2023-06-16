@@ -3,19 +3,19 @@ title: "Liberalism"
 name: "liberalism"
 description: "This community exists as a spot for liberals to share news articles, opinion pieces, relevant political memes and discussion.1. No hate2. No spam3. Be Civil"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liberalism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 4
-comments: 2
-weight: 4
-dau: 0
-wau: 0
-mau: 0
+subscribers: 7
+posts: 5
+comments: 6
+weight: 5
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community exists as a spot for liberals to share news articles, opinion pie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 7 |
+| Posts                | 5  |
+| Comments             | 6  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community exists as a spot for liberals to share news articles, opinion pie
 |----------------------|---|
 | Published            | 2023-06-15 16:24:16 |
 | Updated              | 2023-06-15 17:27:47 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

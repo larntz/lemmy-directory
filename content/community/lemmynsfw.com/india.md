@@ -3,13 +3,13 @@ title: "India"
 name: "india"
 description: "Please visit [!desi@lemmynsfw.com](https://lemmynsfw.com/c/desi) for Indian erotica."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/india"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Please visit [!desi@lemmynsfw.com](https://lemmynsfw.com/c/desi) for Indian erot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Please visit [!desi@lemmynsfw.com](https://lemmynsfw.com/c/desi) for Indian erot
 |----------------------|---|
 | Published            | 2023-06-14 03:25:05 |
 | Updated              | 2023-06-14 03:38:05 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

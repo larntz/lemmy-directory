@@ -3,13 +3,13 @@ title: "Doom Video Game"
 name: "doom"
 description: "Post your Doom related stuff"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/doom"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 4
 comments: 4
 weight: 4
@@ -41,7 +41,7 @@ Post your Doom related stuff
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post your Doom related stuff
 |----------------------|---|
 | Published            | 2023-06-10 13:49:30 |
 | Updated              | 2023-06-10 13:52:16 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

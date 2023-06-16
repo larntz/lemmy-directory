@@ -3,13 +3,13 @@ title: "Oddly Satisfying"
 name: "oddlysatisfying"
 description: "Things that are strangely gratifying and inexplicably pleasurable."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oddlysatisfying"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 150
+subscribers: 163
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Things that are strangely gratifying and inexplicably pleasurable.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
+| Subscribers          | 163 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Things that are strangely gratifying and inexplicably pleasurable.
 |----------------------|---|
 | Published            | 2023-06-11 11:31:03 |
 | Updated              | 2023-06-11 11:31:43 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

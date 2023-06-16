@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.brief.guru/c/meta"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 10:42:51 |
 | Updated              | 2023-06-13 12:37:36 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

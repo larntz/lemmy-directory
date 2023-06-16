@@ -3,13 +3,13 @@ title: "Celeste"
 name: "celeste"
 description: "A video game about climbing a mountain.Post anything Celeste related!Game's official Discord server: https://discord.gg/AmZBJd8"
 type: community
-date: "2023-06-15 17:37:28"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/celeste"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A video game about climbing a mountain.<br><br>Post anything Celeste related!<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A video game about climbing a mountain.<br><br>Post anything Celeste related!<br
 |----------------------|---|
 | Published            | 2023-06-11 21:43:59 |
 | Updated              | 2023-06-12 10:39:12 |
-| Last Scraped         | 2023-06-15 17:37:28 |
+| Last Scraped         | 2023-06-16 22:56:34 |

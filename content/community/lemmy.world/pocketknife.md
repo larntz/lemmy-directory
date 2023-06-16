@@ -3,13 +3,13 @@ title: "PocketKNIFE"
 name: "pocketknife"
 description: "A place to discuss the collection of pocket knives by makers large or small, from the common to the custom. The pocket knife is a useful tool that has been with us for hundreds of years and it can be found in innumerable variations. If it can fold, fit in a pocket, and has a blade you can chat about it here.**Simple Rules**- NO GORE (injury) pictures, ain't nobody wanna see that garbage- Keep on the topic of pocket knives, collections, EDC and similar- Please be kind to each other- PocketKNIFE and the server are not responsible in ANY WAY for your attempts at For Sale posts, the risk is entirely and totally your own."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pocketknife"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss the collection of pocket knives by makers large or small, fro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss the collection of pocket knives by makers large or small, fro
 |----------------------|---|
 | Published            | 2023-06-11 14:15:58 |
 | Updated              | 2023-06-11 23:04:13 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

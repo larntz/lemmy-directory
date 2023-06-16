@@ -3,7 +3,7 @@ title: "AS Roma"
 name: "asroma"
 description: "For fans of AS Roma, Tottenham of Italy"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asroma"
@@ -54,4 +54,4 @@ For fans of AS Roma, Tottenham of Italy
 |----------------------|---|
 | Published            | 2023-06-14 11:56:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:14 |

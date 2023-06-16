@@ -3,7 +3,7 @@ title: "Swinghouse"
 name: "swinghouse"
 description: "For Swinghouse and Electroswing  Rule 1: No spamming/self promotion  Rule 2: Don't be an asshole  "
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/swinghouse"
@@ -54,4 +54,4 @@ For Swinghouse and Electroswing  <br><br>Rule 1: No spamming/self promotion  <br
 |----------------------|---|
 | Published            | 2020-06-02 05:39:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

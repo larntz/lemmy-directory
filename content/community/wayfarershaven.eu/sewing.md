@@ -3,7 +3,7 @@ title: "Sewing"
 name: "sewing"
 description: "Inspired by /r/sewingRelated:* [/r/sewing](https://www.reddit.com/r/sewing/)* ...?Banner credit:  [Alexander Andrews](https://unsplash.com/@alex_andrews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  "
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/sewing"
@@ -54,4 +54,4 @@ Inspired by /r/sewing<br><br>Related:<br><br>* [/r/sewing](https://www.reddit.co
 |----------------------|---|
 | Published            | 2023-06-11 13:18:14 |
 | Updated              | 2023-06-12 09:43:14 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:15 |

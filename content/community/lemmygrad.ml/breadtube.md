@@ -3,13 +3,13 @@ title: "Breadtube / Leftube "
 name: "breadtube"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/breadtube"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 219
+subscribers: 220
 posts: 23
 comments: 35
 weight: 23
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 219 |
+| Subscribers          | 220 |
 | Posts                | 23  |
 | Comments             | 35  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-09-01 23:12:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

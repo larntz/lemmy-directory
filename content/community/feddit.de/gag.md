@@ -3,7 +3,7 @@ title: "Geschichten aus der Geschichte"
 name: "gag"
 description: "Die Community zum Podcast"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gag"
@@ -54,4 +54,4 @@ Die Community zum Podcast
 |----------------------|---|
 | Published            | 2023-06-13 13:10:29 |
 | Updated              | 2023-06-13 13:13:09 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

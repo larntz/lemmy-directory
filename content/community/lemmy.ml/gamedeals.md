@@ -3,13 +3,13 @@ title: "Game Deals"
 name: "gamedeals"
 description: "You can post game deals that you find in this community"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamedeals"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 55
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ You can post game deals that you find in this community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 55 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ You can post game deals that you find in this community
 |----------------------|---|
 | Published            | 2023-06-10 21:13:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

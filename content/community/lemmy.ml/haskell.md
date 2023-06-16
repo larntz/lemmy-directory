@@ -3,15 +3,15 @@ title: "The Haskell Lemmy Forum"
 name: "haskell"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haskell"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 202
+subscribers: 205
 posts: 8
-comments: 6
+comments: 7
 weight: 8
 dau: 1
 wau: 4
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 202 |
+| Subscribers          | 205 |
 | Posts                | 8  |
-| Comments             | 6  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-04-22 17:52:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

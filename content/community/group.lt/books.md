@@ -3,7 +3,7 @@ title: "Books"
 name: "books"
 description: "All about the books"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/books"
@@ -54,4 +54,4 @@ All about the books<br>
 |----------------------|---|
 | Published            | 2022-03-03 22:06:54 |
 | Updated              | 2022-03-11 17:47:26 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

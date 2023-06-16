@@ -3,7 +3,7 @@ title: "USSR"
 name: "ussr"
 description: "bby i miss you, where are you USSR?*_Read 30 years ago__*"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ussr"
@@ -54,4 +54,4 @@ bby i miss you, where are you USSR?<br>*_Read 30 years ago__*
 |----------------------|---|
 | Published            | 2021-05-04 00:36:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

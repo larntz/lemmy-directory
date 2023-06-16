@@ -3,19 +3,19 @@ title: "Promotions and Projects"
 name: "promo"
 description: "Advertise your community or project, not a shill dumping ground, tell us about YOUR project or community in the fediverse. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/promo"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+posts: 2
+comments: 2
+weight: 2
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_intai_tech"
 tags: 
@@ -42,11 +42,11 @@ Advertise your community or project, not a shill dumping ground, tell us about Y
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Posts                | 2  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Advertise your community or project, not a shill dumping ground, tell us about Y
 |----------------------|---|
 | Published            | 2023-06-13 23:47:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

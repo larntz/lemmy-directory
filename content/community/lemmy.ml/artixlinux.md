@@ -3,7 +3,7 @@ title: "artixlinux"
 name: "artixlinux"
 description: "Posts about Artix GNU+Linux distribution"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artixlinux"
@@ -54,4 +54,4 @@ Posts about Artix GNU+Linux distribution
 |----------------------|---|
 | Published            | 2021-02-13 22:38:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:23 |

@@ -3,7 +3,7 @@ title: "Nami"
 name: "nami"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nami"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-06-29 15:47:26 |
 | Updated              | 2020-12-15 13:23:27 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

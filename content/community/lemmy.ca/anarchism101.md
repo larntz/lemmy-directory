@@ -3,13 +3,13 @@ title: "Anarchism101"
 name: "anarchism101"
 description: "This is a community for those who are new to or unfamiliar with anarchism, socialism or simply leftist philosophy. Ask basic questions here and learn about what we stand for!Not for 'rightwing anarchists'Inspired by https://lemmygrad.ml/c/communism101"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/anarchism101"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 55
 posts: 1
 comments: 5
 weight: 1
@@ -41,7 +41,7 @@ This is a community for those who are new to or unfamiliar with anarchism, socia
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 55 |
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for those who are new to or unfamiliar with anarchism, socia
 |----------------------|---|
 | Published            | 2022-03-29 06:35:58 |
 | Updated              | 2022-07-30 23:56:52 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

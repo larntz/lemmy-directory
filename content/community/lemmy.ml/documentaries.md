@@ -3,16 +3,16 @@ title: "Documentaries"
 name: "documentaries"
 description: "Community dedicated to interesting documentaries."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/documentaries"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 273
-posts: 23
+subscribers: 275
+posts: 24
 comments: 7
-weight: 23
+weight: 24
 dau: 1
 wau: 3
 mau: 7
@@ -41,8 +41,8 @@ Community dedicated to interesting documentaries.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 273 |
-| Posts                | 23  |
+| Subscribers          | 275 |
+| Posts                | 24  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Community dedicated to interesting documentaries.
 |----------------------|---|
 | Published            | 2020-06-29 08:58:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

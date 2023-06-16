@@ -3,7 +3,7 @@ title: "Sorral d'experiments i proves"
 name: "test"
 description: "Podeu provar funcionalitats, formats, federació, crear i esborrar, votar negativament, provar de denunciar una entrada... el que sigui."
 type: community
-date: "2023-06-16 11:05:44"
+date: "2023-06-16 22:55:38"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/test"
@@ -54,4 +54,4 @@ Podeu provar funcionalitats, formats, federació, crear i esborrar, votar negati
 |----------------------|---|
 | Published            | 2022-02-12 13:31:08 |
 | Updated              | 2022-03-27 13:06:43 |
-| Last Scraped         | 2023-06-16 11:05:44 |
+| Last Scraped         | 2023-06-16 22:55:38 |

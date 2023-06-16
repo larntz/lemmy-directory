@@ -3,18 +3,18 @@ title: "Censorship"
 name: "censorship"
 description: "Free speech is critical to find the best solutions to problems and enjoy the full benefits of human creativity.There can be no freedom without free speech."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/censorship"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 58
-posts: 691
+posts: 693
 comments: 284
-weight: 691
-dau: 2
-wau: 9
+weight: 693
+dau: 1
+wau: 6
 mau: 10
 instances:
 - "exploding-heads_com"
@@ -42,10 +42,10 @@ Free speech is critical to find the best solutions to problems and enjoy the ful
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 58 |
-| Posts                | 691  |
+| Posts                | 693  |
 | Comments             | 284  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ Free speech is critical to find the best solutions to problems and enjoy the ful
 |----------------------|---|
 | Published            | 2022-02-28 19:49:02 |
 | Updated              | 2022-03-20 21:35:25 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

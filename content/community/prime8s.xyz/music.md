@@ -3,19 +3,19 @@ title: "Music"
 name: "music"
 description: "This community is for the discussion of music and sound design, as well as music videos.1. No flaming, hate speech, or harassment2. Some people like different music than you. That's ok. Please be nice3. No pornography4. NSFW videos or images must be tagged"
 type: community
-date: "2023-06-16 11:06:06"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/music"
 host: prime8s.xyz
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "prime8s_xyz"
 tags: 
@@ -42,11 +42,11 @@ This community is for the discussion of music and sound design, as well as music
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 0  |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is for the discussion of music and sound design, as well as music
 |----------------------|---|
 | Published            | 2023-06-07 15:51:09 |
 | Updated              | 2023-06-07 23:27:18 |
-| Last Scraped         | 2023-06-16 11:06:06 |
+| Last Scraped         | 2023-06-16 22:56:09 |

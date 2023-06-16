@@ -3,13 +3,13 @@ title: "Reddthat Announcements"
 name: "reddthat"
 description: "Main Announcements related to Reddthat.- For all support relating to Reddthat, please go to [/c/reddthatsupport](/c/reddthatsupport)"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/reddthat"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 74
 posts: 5
 comments: 29
 weight: 5
@@ -41,7 +41,7 @@ Main Announcements related to Reddthat.<br><br>- For all support relating to Red
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 74 |
 | Posts                | 5  |
 | Comments             | 29  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ Main Announcements related to Reddthat.<br><br>- For all support relating to Red
 |----------------------|---|
 | Published            | 2023-06-06 23:48:34 |
 | Updated              | 2023-06-11 04:13:28 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

@@ -3,13 +3,13 @@ title: "Scrubs Gone Wild"
 name: "scrubs"
 description: "A community for those in healthcare to share sexy pictures and videos of themselves in scrubs.**Rules**Posts must include scrubs. No advertising in the title of your post. No involuntary porn."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/scrubs"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 57
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ A community for those in healthcare to share sexy pictures and videos of themsel
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 57 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ A community for those in healthcare to share sexy pictures and videos of themsel
 |----------------------|---|
 | Published            | 2023-06-14 16:48:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

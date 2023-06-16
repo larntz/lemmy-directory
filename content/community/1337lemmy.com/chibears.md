@@ -3,16 +3,16 @@ title: "Chicago Bears"
 name: "chibears"
 description: "Welcome to the Lemmy home of the Chicago Bears"
 type: community
-date: "2023-06-16 11:06:00"
+date: "2023-06-16 22:55:56"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/chibears"
 host: 1337lemmy.com
 lastmod: "{[ .Updated }}"
-subscribers: 44
-posts: 26
-comments: 39
-weight: 26
+subscribers: 47
+posts: 28
+comments: 49
+weight: 28
 dau: 5
 wau: 13
 mau: 13
@@ -41,9 +41,9 @@ Welcome to the Lemmy home of the Chicago Bears
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 26  |
-| Comments             | 39  |
+| Subscribers          | 47 |
+| Posts                | 28  |
+| Comments             | 49  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
@@ -54,4 +54,4 @@ Welcome to the Lemmy home of the Chicago Bears
 |----------------------|---|
 | Published            | 2023-06-05 19:47:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:00 |
+| Last Scraped         | 2023-06-16 22:55:56 |

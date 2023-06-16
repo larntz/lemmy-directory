@@ -3,7 +3,7 @@ title: "Semiconductors"
 name: "semiconductors"
 description: "A community for discussing semiconductors.Rules:1. No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).2. Be respectful. Everyone should feel welcome here.3. No NSFW content.4. No Ads / Spamming.5. **Be thoughtful and helpful**: even with ‘stupid’ questions. The world won’t be made better or worse by snarky comments schooling naive newcomers on Lemmy."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/semiconductors"
@@ -13,9 +13,9 @@ subscribers: 37
 posts: 12
 comments: 4
 weight: 12
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ A community for discussing semiconductors.<br><br>Rules:<br>1. No bigotry: Inclu
 | Subscribers          | 37 |
 | Posts                | 12  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussing semiconductors.<br><br>Rules:<br>1. No bigotry: Inclu
 |----------------------|---|
 | Published            | 2023-06-12 05:54:12 |
 | Updated              | 2023-06-14 04:35:59 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

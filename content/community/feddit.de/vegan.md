@@ -3,16 +3,16 @@ title: "VeganDE"
 name: "vegan"
 description: "Deutschsprachige Veganys"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vegan"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 400
-posts: 21
-comments: 280
-weight: 21
+subscribers: 428
+posts: 22
+comments: 292
+weight: 22
 dau: 32
 wau: 109
 mau: 110
@@ -41,9 +41,9 @@ Deutschsprachige Veganys
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 400 |
-| Posts                | 21  |
-| Comments             | 280  |
+| Subscribers          | 428 |
+| Posts                | 22  |
+| Comments             | 292  |
 | Daily Active Users   | 32  |
 | Weekly Active Users  | 109  |
 | Monthly Active Users | 110  |
@@ -54,4 +54,4 @@ Deutschsprachige Veganys
 |----------------------|---|
 | Published            | 2023-06-05 18:44:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

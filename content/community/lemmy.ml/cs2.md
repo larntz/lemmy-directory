@@ -3,7 +3,7 @@ title: "Counter-Strike 2"
 name: "cs2"
 description: "Counter-Strike 2"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cs2"
@@ -54,4 +54,4 @@ Counter-Strike 2
 |----------------------|---|
 | Published            | 2023-06-10 07:03:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

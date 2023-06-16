@@ -3,7 +3,7 @@ title: "Reddit moderation and its problems."
 name: "antiredditmoderation"
 description: "Post anything about Reddit mods and admins punishing you unfairly, and discuss the issues with moderation."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antiredditmoderation"
@@ -54,4 +54,4 @@ Post anything about Reddit mods and admins punishing you unfairly, and discuss t
 |----------------------|---|
 | Published            | 2023-06-07 21:01:50 |
 | Updated              | 2023-06-09 14:34:39 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:28 |

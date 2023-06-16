@@ -3,7 +3,7 @@ title: "Funkwhale Discovery"
 name: "funkwhalediscovery"
 description: "Post tracks that you’ve discovered on funkwhale/the fediverse/other privacy respecting services. Tag the genre of the music. Ex [rap]. If you don’t know what genre it is, take a guess.No: youtube, soundcloud links.If soundcloud is actually reasonable for privacy, make a [meta] post"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/funkwhalediscovery"
@@ -54,4 +54,4 @@ Post tracks that you’ve discovered on funkwhale/the fediverse/other privacy re
 |----------------------|---|
 | Published            | 2022-08-12 14:07:58 |
 | Updated              | 2022-09-04 15:32:07 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

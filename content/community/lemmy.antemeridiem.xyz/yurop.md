@@ -3,13 +3,13 @@ title: "YUROP"
 name: "yurop"
 description: "The europeaniest of places"
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/yurop"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ The europeaniest of places
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The europeaniest of places
 |----------------------|---|
 | Published            | 2023-06-10 17:11:28 |
 | Updated              | 2023-06-11 16:42:34 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

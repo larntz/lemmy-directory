@@ -3,13 +3,13 @@ title: "Communism"
 name: "communism"
 description: "Welcome to the communist Lemmy community! This is a community for all Marxist."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/communism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 773
+subscribers: 774
 posts: 70
 comments: 235
 weight: 70
@@ -41,7 +41,7 @@ Welcome to the communist Lemmy community! This is a community for all Marxist.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 773 |
+| Subscribers          | 774 |
 | Posts                | 70  |
 | Comments             | 235  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to the communist Lemmy community! This is a community for all Marxist.
 |----------------------|---|
 | Published            | 2019-08-15 01:41:31 |
 | Updated              | 2021-11-13 07:13:40 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

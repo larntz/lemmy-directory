@@ -3,7 +3,7 @@ title: "Quotes"
 name: "quotes"
 description: "quotes that you found and like to share"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/quotes"
@@ -54,4 +54,4 @@ quotes that you found and like to share
 |----------------------|---|
 | Published            | 2022-05-26 10:56:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

@@ -3,13 +3,13 @@ title: "Waterloo Region"
 name: "waterlooo_region"
 description: "Welcome to Waterloo Region, including the cities of Cambridge, Kitchener, and Waterloo, and the townships of North Dumfries, Wellesley, Wilmot and Woolwich."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/waterlooo_region"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to Waterloo Region, including the cities of Cambridge, Kitchener, and Wa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to Waterloo Region, including the cities of Cambridge, Kitchener, and Wa
 |----------------------|---|
 | Published            | 2023-06-13 21:58:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,7 +3,7 @@ title: "Makers"
 name: "makers"
 description: "For Makers, DIYers that want to share their projects with the world."
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://communick.news/c/makers"
@@ -54,4 +54,4 @@ For Makers, DIYers that want to share their projects with the world.
 |----------------------|---|
 | Published            | 2023-06-09 02:25:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

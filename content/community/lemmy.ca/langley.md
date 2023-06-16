@@ -3,7 +3,7 @@ title: "Langley, British Columbia"
 name: "langley"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/langley"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 13:58:10 |
 | Updated              | 2023-06-12 23:19:33 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

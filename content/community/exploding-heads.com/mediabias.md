@@ -3,16 +3,16 @@ title: "Media Bias & Corruption"
 name: "mediabias"
 description: "The Main Stream Media seem to have taken the label Fake News as a compliment.In fact they have taken it to a whole new level."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/mediabias"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 41
-posts: 471
+posts: 473
 comments: 103
-weight: 471
+weight: 473
 dau: 2
 wau: 3
 mau: 6
@@ -42,7 +42,7 @@ The Main Stream Media seem to have taken the label Fake News as a compliment.<br
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 41 |
-| Posts                | 471  |
+| Posts                | 473  |
 | Comments             | 103  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ The Main Stream Media seem to have taken the label Fake News as a compliment.<br
 |----------------------|---|
 | Published            | 2022-02-28 00:01:30 |
 | Updated              | 2022-03-20 21:27:10 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

@@ -3,13 +3,13 @@ title: "Music Theory"
 name: "musictheory"
 description: "A place to discuss and answer questions about music theory. All instruments are welcome, no question is stupid!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musictheory"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 46
 posts: 2
 comments: 13
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss and answer questions about music theory. All instruments are 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 46 |
 | Posts                | 2  |
 | Comments             | 13  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ A place to discuss and answer questions about music theory. All instruments are 
 |----------------------|---|
 | Published            | 2023-06-12 07:52:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

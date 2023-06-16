@@ -3,16 +3,16 @@ title: "AnarchyChess"
 name: "anarchychess"
 description: "Holy hell  Other chess communities:  [!Chess@lemmy.ml](https://lemmy.ml/c/Chess)  [!chessbeginners@sh.itjust.works](https://sh.itjust.works/c/chessbeginners)  "
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/anarchychess"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 1282
-posts: 38
-comments: 521
-weight: 38
+subscribers: 1375
+posts: 44
+comments: 592
+weight: 44
 dau: 78
 wau: 182
 mau: 183
@@ -41,9 +41,9 @@ Holy hell  <br><br>Other chess communities:  <br>[!Chess@lemmy.ml](https://lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1282 |
-| Posts                | 38  |
-| Comments             | 521  |
+| Subscribers          | 1375 |
+| Posts                | 44  |
+| Comments             | 592  |
 | Daily Active Users   | 78  |
 | Weekly Active Users  | 182  |
 | Monthly Active Users | 183  |
@@ -54,4 +54,4 @@ Holy hell  <br><br>Other chess communities:  <br>[!Chess@lemmy.ml](https://lemmy
 |----------------------|---|
 | Published            | 2023-06-07 12:46:48 |
 | Updated              | 2023-06-14 11:21:32 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

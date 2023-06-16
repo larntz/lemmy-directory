@@ -3,19 +3,19 @@ title: "Python"
 name: "python"
 description: "News and discussions about the programming language Python---"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/python"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1907
-posts: 143
-comments: 82
-weight: 143
-dau: 1
+subscribers: 1963
+posts: 146
+comments: 84
+weight: 146
+dau: 4
 wau: 12
-mau: 15
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ News and discussions about the programming language Python<br><br>---
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1907 |
-| Posts                | 143  |
-| Comments             | 82  |
-| Daily Active Users   | 1  |
+| Subscribers          | 1963 |
+| Posts                | 146  |
+| Comments             | 84  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 12  |
-| Monthly Active Users | 15  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ News and discussions about the programming language Python<br><br>---
 |----------------------|---|
 | Published            | 2019-04-25 21:49:00 |
 | Updated              | 2021-01-27 17:31:08 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:43 |

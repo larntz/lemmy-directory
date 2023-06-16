@@ -3,7 +3,7 @@ title: "Justice Served"
 name: "justiceserved"
 description: "If you want me to transfer ownership of this community to you (I own 10 + am not trying to be a r*ddit power mod) and will moderate it responsibly, I’ll give it to you."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/justiceserved"
@@ -54,4 +54,4 @@ If you want me to transfer ownership of this community to you (I own 10 + am not
 |----------------------|---|
 | Published            | 2023-06-12 09:35:19 |
 | Updated              | 2023-06-12 09:48:05 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

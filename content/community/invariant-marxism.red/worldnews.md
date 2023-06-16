@@ -3,16 +3,16 @@ title: "World News"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:13"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://invariant-marxism.red/c/worldnews"
 host: invariant-marxism.red
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 22:46:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:13 |
+| Last Scraped         | 2023-06-16 22:56:10 |

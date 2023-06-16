@@ -3,19 +3,19 @@ title: "Videos"
 name: "videos"
 description: "Videos about games, game preservation, and game history. If you record your own videos, please post them and make sure people know they’re yours, just don’t spam :)"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/videos"
 host: preserve.games
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 4
-comments: 8
-weight: 4
-dau: 1
-wau: 7
-mau: 7
+subscribers: 3
+posts: 5
+comments: 10
+weight: 5
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "preserve_games"
 tags: 
@@ -41,12 +41,12 @@ Videos about games, game preservation, and game history. If you record your own 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 3 |
+| Posts                | 5  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Videos about games, game preservation, and game history. If you record your own 
 |----------------------|---|
 | Published            | 2023-06-13 00:00:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:32 |

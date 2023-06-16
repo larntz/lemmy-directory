@@ -3,13 +3,13 @@ title: "Ankara, Türkiye"
 name: "ankara"
 description: "Community for Ankara, Turkey. Ask questions, give advice, organise events. / Ankara, Türkiye'nin Lemmy Topluluğu. Soru sorun, tavsiye verin, etkinlik düzenleyin. Ama bunları yaparken saygı çerçevesinde yapın.**Posts should be in Turkish or English**## **Kurallar:**- Lemmy.ml kurallarına uyun.- Türkiye Cumhuriyeti yasalarına aykırı paylaşımlar yapmayın.- Topluluğu reklam panosuna çevirmeyin.- Özensiz gönderi göndermemeye özen gösterin."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ankara"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for Ankara, Turkey. Ask questions, give advice, organise events. / Ank
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for Ankara, Turkey. Ask questions, give advice, organise events. / Ank
 |----------------------|---|
 | Published            | 2023-06-13 00:08:37 |
 | Updated              | 2023-06-13 00:09:29 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

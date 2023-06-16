@@ -3,19 +3,19 @@ title: "Tucked In Kitties"
 name: "tuckedinkitties"
 description: "A subreddit for posting pictures of cats tucked into bed. ❤️"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tuckedinkitties"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 330
+subscribers: 373
 posts: 14
 comments: 13
 weight: 14
 dau: 8
-wau: 14
-mau: 14
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A subreddit for posting pictures of cats tucked into bed. ❤️
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 330 |
+| Subscribers          | 373 |
 | Posts                | 14  |
 | Comments             | 13  |
 | Daily Active Users   | 8  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A subreddit for posting pictures of cats tucked into bed. ❤️
 |----------------------|---|
 | Published            | 2023-06-10 00:18:35 |
 | Updated              | 2023-06-10 18:11:41 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:16 |

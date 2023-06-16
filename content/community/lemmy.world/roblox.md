@@ -3,13 +3,13 @@ title: "Roblox"
 name: "roblox"
 description: "An unofficial community about the building/gaming platform Roblox.# **Rules:**- **Be nice:** Dont be a dick or else I will break your knees- **Stay Roblox related:** Posts must revolve mainly around Roblox and comments must be related to the parent post in some way.- **No low effort:** Your post shouldn't look like it was put together in 2 minutes using Microsoft Paint. Anything painfully unfunny, boring or horribly cropped would be removed."
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roblox"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ An unofficial community about the building/gaming platform Roblox.<br><br># **Ru
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An unofficial community about the building/gaming platform Roblox.<br><br># **Ru
 |----------------------|---|
 | Published            | 2023-06-10 00:11:55 |
 | Updated              | 2023-06-10 21:02:17 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

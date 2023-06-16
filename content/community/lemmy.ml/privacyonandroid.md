@@ -3,7 +3,7 @@ title: "Privacy on Android"
 name: "privacyonandroid"
 description: "Discussion about making android more private and secure by using and replacing stock android with FOSS apps and ServicesCommunity Rules :1. No discussion/suggestions about direct use of Non-Free, Non-Privacy Respecting Services2. Follow Lemmy's Code of Conduct.3. Be respectful. Be Chill. Everyone should feel welcome here."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privacyonandroid"
@@ -54,4 +54,4 @@ Discussion about making android more private and secure by using and replacing s
 |----------------------|---|
 | Published            | 2020-05-04 15:46:57 |
 | Updated              | 2020-06-18 17:09:57 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

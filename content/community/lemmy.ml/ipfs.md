@@ -3,16 +3,16 @@ title: "IPFS - Replacing HTTP as the foundation of the web"
 name: "ipfs"
 description: "Community for the InterPlanetary File System.  Website: https://ipfs.ioGithub: https://github.com/ipfs/ipfs/  Other communities:  IRC: [#ipfs on irc.freenode.net](irc://freenode/ipfs)  Matrix: [#ipfs:matrix.org](https://riot.im/app/#/room/#ipfs:matrix:org)  Discord: https://discord.gg/DrPFqa2  (All three chat platforms are bridged together)  Forums: https://discuss.ipfs.io/  "
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ipfs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 555
-posts: 27
+subscribers: 557
+posts: 29
 comments: 25
-weight: 27
+weight: 29
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Community for the InterPlanetary File System.  <br><br>Website: https://ipfs.io<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 555 |
-| Posts                | 27  |
+| Subscribers          | 557 |
+| Posts                | 29  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Community for the InterPlanetary File System.  <br><br>Website: https://ipfs.io<
 |----------------------|---|
 | Published            | 2019-05-27 23:17:17 |
 | Updated              | 2019-05-27 23:25:23 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:41 |

@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "official announcements for this lemmy instance"
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://livy.one/c/announcements"
@@ -54,4 +54,4 @@ official announcements for this lemmy instance
 |----------------------|---|
 | Published            | 2023-06-13 19:27:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

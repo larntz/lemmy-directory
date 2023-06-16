@@ -3,7 +3,7 @@ title: "VR Freddit Meta"
 name: "vrfreddit_meta"
 description: "Discussion regarding the VR Freddit instance itself"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vrchat-dev.tech/c/vrfreddit_meta"
@@ -54,4 +54,4 @@ Discussion regarding the VR Freddit instance itself
 |----------------------|---|
 | Published            | 2023-06-12 21:43:27 |
 | Updated              | 2023-06-12 21:47:07 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:58 |

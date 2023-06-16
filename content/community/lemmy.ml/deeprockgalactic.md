@@ -3,19 +3,19 @@ title: "DRG: Deep Rock Galactic"
 name: "deeprockgalactic"
 description: "Deep Rock Galactic (DRG) is a 4 players co op FPS game in a destructible procedurally generated world. ----------------Discussion, LFG, events related to Deep Rock Galactic----------------Official Steam Page: https://store.steampowered.com/app/548430/Deep_Rock_Galactic/----------------"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deeprockgalactic"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 143
+subscribers: 148
 posts: 9
-comments: 22
+comments: 23
 weight: 9
-dau: 1
-wau: 13
-mau: 17
+dau: 3
+wau: 16
+mau: 20
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Deep Rock Galactic (DRG) is a 4 players co op FPS game in a destructible procedu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 143 |
+| Subscribers          | 148 |
 | Posts                | 9  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 17  |
+| Comments             | 23  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ Deep Rock Galactic (DRG) is a 4 players co op FPS game in a destructible procedu
 |----------------------|---|
 | Published            | 2022-01-29 17:06:12 |
 | Updated              | 2022-01-30 01:38:23 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:24 |

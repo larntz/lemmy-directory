@@ -3,13 +3,13 @@ title: "pornfree 😇"
 name: "pornfree"
 description: "A community for people who want to stop watching porn or who struggle with porn and/or sex addiction.*In construction... 🔨***For discussion and advice.**No NSFW media allowed.If you have a kbin account, you can also check out: https://kbin.social/m/PornFree"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pornfree"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ A community for people who want to stop watching porn or who struggle with porn 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for people who want to stop watching porn or who struggle with porn 
 |----------------------|---|
 | Published            | 2023-06-14 02:30:27 |
 | Updated              | 2023-06-14 23:09:16 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,13 +3,13 @@ title: "Ask Men"
 name: "askmen"
 description: "Jokes on you, everyone on lemmy are males, so you can just use [!asklemmy@lemmy.ml](https://lemmy.ml/c/asklemmy) But hopefully that changes eventually! Crosspost questions for men from there to here!Ask any question and ideally only males answer the question. Females can answer too, but ideally you state that you're not a male.Related:- lemmy.ca/c/askwomen- [ask transgender/non-binary](https://lemmy.ml/c/transgender)"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/askmen"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 75
+subscribers: 79
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Jokes on you, everyone on lemmy are males, so you can just use [!asklemmy@lemmy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
+| Subscribers          | 79 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Jokes on you, everyone on lemmy are males, so you can just use [!asklemmy@lemmy.
 |----------------------|---|
 | Published            | 2022-05-26 11:03:06 |
 | Updated              | 2022-05-29 10:35:38 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

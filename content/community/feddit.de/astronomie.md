@@ -3,13 +3,13 @@ title: "Astronomie"
 name: "astronomie"
 description: "Die Astronomie ist die Wissenschaft, die sich mit den Himmelskörpern, deren Bewegungen und deren Entwicklungen beschäftigt.::: spoiler AttributionAstronomy icon created by [Freepik](https://www.flaticon.com/free-icons/astronomy) - Flaticon:::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/astronomie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 125
+subscribers: 127
 posts: 62
 comments: 33
 weight: 62
@@ -41,7 +41,7 @@ Die Astronomie ist die Wissenschaft, die sich mit den Himmelskörpern, deren Bew
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 125 |
+| Subscribers          | 127 |
 | Posts                | 62  |
 | Comments             | 33  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die Astronomie ist die Wissenschaft, die sich mit den Himmelskörpern, deren Bew
 |----------------------|---|
 | Published            | 2022-09-11 06:54:56 |
 | Updated              | 2022-09-11 07:13:50 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

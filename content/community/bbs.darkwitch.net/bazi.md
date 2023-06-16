@@ -3,7 +3,7 @@ title: "论八字"
 name: "bazi"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/bazi"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-06 12:19:38 |
 | Updated              | 2023-05-06 13:44:12 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

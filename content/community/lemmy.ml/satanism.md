@@ -3,13 +3,13 @@ title: "Satanism"
 name: "satanism"
 description: "A place for atheistic Satanists of all groups and denominations to meet and talk.Non Satanists welcome to join and participate and ask questions.Operated by [Global Order Of Satan](https://globalorderofsatan.com).The rules:1. Follow the [Six Pillars](https://www.globalorderofsatan.com/the-six-pillars-of-the-global-order-of-satan/) at all times.2. Post and comment with respect for everyone3. Zero tolerance for racism, ableism, sexism, transphobia, homophobia. This includes antisemitism - attacking religions (Judaism) is fine, attacking races (Jewish people) is not.4. No proselytising. Don't try and 'convert' people to or from any religion5. No doxxing. People have the right to be as private as they like.6. No brigading."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/satanism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A place for atheistic Satanists of all groups and denominations to meet and talk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for atheistic Satanists of all groups and denominations to meet and talk
 |----------------------|---|
 | Published            | 2023-05-23 06:09:46 |
 | Updated              | 2023-06-11 11:09:54 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

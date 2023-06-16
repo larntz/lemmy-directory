@@ -3,7 +3,7 @@ title: "Peanuts"
 name: "peanuts"
 description: "The masterpiece from Charles M. Schulz"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peanuts"
@@ -54,4 +54,4 @@ The masterpiece from Charles M. Schulz
 |----------------------|---|
 | Published            | 2020-06-28 06:13:26 |
 | Updated              | 2021-01-29 13:29:30 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

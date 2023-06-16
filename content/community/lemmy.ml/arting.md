@@ -3,7 +3,7 @@ title: "Visual artists' community"
 name: "arting"
 description: "Please be sure to source and credit any resources shared that you didn't make yourself (on top of the usual copyright concerns). A community for people making digital and traditional visual art; illustration is welcome, graphic design probably case-by-case. "
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arting"
@@ -54,4 +54,4 @@ Please be sure to source and credit any resources shared that you didn't make yo
 |----------------------|---|
 | Published            | 2020-05-30 05:36:36 |
 | Updated              | 2020-08-07 05:21:53 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

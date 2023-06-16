@@ -3,7 +3,7 @@ title: "Rollerblading"
 name: "rollerblading"
 description: "Currently just a parked community, message the mod if you want to take over it!"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rollerblading"
@@ -54,4 +54,4 @@ Currently just a parked community, message the mod if you want to take over it!
 |----------------------|---|
 | Published            | 2022-01-25 11:25:04 |
 | Updated              | 2022-01-25 19:58:37 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

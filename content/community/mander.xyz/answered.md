@@ -3,15 +3,15 @@ title: "Answered"
 name: "answered"
 description: "A community to post questions that have already been answered somewhere else.To make a post, you should:(1) Post the question as the main body.(2) Post the best answer or answers as comments, one comment per answer."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/answered"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 72
 posts: 6
-comments: 11
+comments: 12
 weight: 6
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ A community to post questions that have already been answered somewhere else.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 72 |
 | Posts                | 6  |
-| Comments             | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A community to post questions that have already been answered somewhere else.<br
 |----------------------|---|
 | Published            | 2023-01-20 15:54:29 |
 | Updated              | 2023-01-20 20:32:11 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

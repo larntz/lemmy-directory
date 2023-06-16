@@ -3,7 +3,7 @@ title: "Buck Knives"
 name: "buckknives"
 description: "Everything to do with Buck Knives. "
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/buckknives"
@@ -54,4 +54,4 @@ Everything to do with Buck Knives.
 |----------------------|---|
 | Published            | 2023-06-12 16:05:48 |
 | Updated              | 2023-06-13 02:00:02 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

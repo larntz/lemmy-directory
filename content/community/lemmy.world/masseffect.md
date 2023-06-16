@@ -3,19 +3,19 @@ title: "Mass Effect"
 name: "masseffect"
 description: "My name is Commander Shepard and this is my favorite Mass Effect community on the citadel."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/masseffect"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 133
-posts: 6
-comments: 33
-weight: 6
-dau: 9
-wau: 15
-mau: 15
+subscribers: 146
+posts: 8
+comments: 37
+weight: 8
+dau: 3
+wau: 18
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ My name is Commander Shepard and this is my favorite Mass Effect community on th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 133 |
-| Posts                | 6  |
-| Comments             | 33  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 146 |
+| Posts                | 8  |
+| Comments             | 37  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ My name is Commander Shepard and this is my favorite Mass Effect community on th
 |----------------------|---|
 | Published            | 2023-06-11 18:39:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

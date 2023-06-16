@@ -3,7 +3,7 @@ title: "Self Driving Cars"
 name: "selfdrivingcars"
 description: "A community for self driving car enthusiasts"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfdrivingcars"
@@ -13,9 +13,9 @@ subscribers: 17
 posts: 4
 comments: 1
 weight: 4
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ A community for self driving car enthusiasts
 | Subscribers          | 17 |
 | Posts                | 4  |
 | Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for self driving car enthusiasts
 |----------------------|---|
 | Published            | 2020-08-23 11:38:46 |
 | Updated              | 2020-08-23 11:41:12 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

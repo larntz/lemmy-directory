@@ -3,7 +3,7 @@ title: "John Brown Rifle Collective "
 name: "jbrc"
 description: "An anti-authoritarian, abolitionist space for sharing on the topic of bodily autonomy, firearms, and the defense of self and community."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jbrc"
@@ -54,4 +54,4 @@ An anti-authoritarian, abolitionist space for sharing on the topic of bodily aut
 |----------------------|---|
 | Published            | 2023-06-12 22:30:01 |
 | Updated              | 2023-06-14 20:18:17 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

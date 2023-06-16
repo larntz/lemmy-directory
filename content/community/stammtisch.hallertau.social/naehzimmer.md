@@ -3,7 +3,7 @@ title: "Nähzimmer"
 name: "naehzimmer"
 description: "Das Nähzimmer der Hallertau"
 type: community
-date: "2023-06-16 11:05:54"
+date: "2023-06-16 22:55:49"
 draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/naehzimmer"
@@ -54,4 +54,4 @@ Das Nähzimmer der Hallertau
 |----------------------|---|
 | Published            | 2021-02-10 11:20:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:54 |
+| Last Scraped         | 2023-06-16 22:55:49 |

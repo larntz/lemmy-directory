@@ -3,19 +3,19 @@ title: "Formula 1"
 name: "formula1"
 description: "A community for Formula 1 and related racing series"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/formula1"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 669
-posts: 9
-comments: 50
-weight: 9
-dau: 6
-wau: 29
-mau: 29
+subscribers: 742
+posts: 11
+comments: 68
+weight: 11
+dau: 18
+wau: 50
+mau: 50
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for Formula 1 and related racing series
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 669 |
-| Posts                | 9  |
-| Comments             | 50  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 29  |
-| Monthly Active Users | 29  |
+| Subscribers          | 742 |
+| Posts                | 11  |
+| Comments             | 68  |
+| Daily Active Users   | 18  |
+| Weekly Active Users  | 50  |
+| Monthly Active Users | 50  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for Formula 1 and related racing series
 |----------------------|---|
 | Published            | 2023-06-09 11:41:18 |
 | Updated              | 2023-06-09 11:47:18 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

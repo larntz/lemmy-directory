@@ -3,7 +3,7 @@ title: "Heavy Music"
 name: "heavymusic"
 description: "Share and discuss new heavy music releases as well as your old favorites and obscure artists you just found out about.**All heavy genres are allowed:** Hardcore, Grindcore, Death Metal, even Black Metal. The heavier, the better.**But no Nazi shit!**Links to subscription content (e.g. Spotify) are allowed but discouraged. Please try to link to more accessible streaming sites or the artists' website or Bandcamp."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/heavymusic"
@@ -54,4 +54,4 @@ Share and discuss new heavy music releases as well as your old favorites and obs
 |----------------------|---|
 | Published            | 2022-05-07 08:23:45 |
 | Updated              | 2022-05-07 15:18:37 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

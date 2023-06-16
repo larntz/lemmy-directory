@@ -3,13 +3,13 @@ title: "Humor"
 name: "humor"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/humor"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 242
+subscribers: 247
 posts: 58
 comments: 36
 weight: 58
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 242 |
+| Subscribers          | 247 |
 | Posts                | 58  |
 | Comments             | 36  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-25 10:42:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:27 |

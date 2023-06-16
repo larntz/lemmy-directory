@@ -3,7 +3,7 @@ title: "Chinese Books and Literature"
 name: "chinesebooks"
 description: "Discussion about literature originally written in Chinese, and discussion about related topics."
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/chinesebooks"
@@ -54,4 +54,4 @@ Discussion about literature originally written in Chinese, and discussion about 
 |----------------------|---|
 | Published            | 2023-06-16 00:45:54 |
 | Updated              | 2023-06-16 01:19:32 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

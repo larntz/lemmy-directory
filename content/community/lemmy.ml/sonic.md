@@ -3,7 +3,7 @@ title: "Sonic"
 name: "sonic"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sonic"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-10-22 15:25:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

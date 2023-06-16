@@ -3,13 +3,13 @@ title: "Computer Science"
 name: "compsci"
 description: "A community dedicated for computer science topics; Everyone's welcomed from student, lecturer, teacher to hobbyist!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/compsci"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 245
+subscribers: 246
 posts: 10
 comments: 2
 weight: 10
@@ -41,7 +41,7 @@ A community dedicated for computer science topics; Everyone's welcomed from stud
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 245 |
+| Subscribers          | 246 |
 | Posts                | 10  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community dedicated for computer science topics; Everyone's welcomed from stud
 |----------------------|---|
 | Published            | 2020-01-19 15:16:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

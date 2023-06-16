@@ -3,19 +3,19 @@ title: "Erotic and pornographic Comics"
 name: "comicsnsfw"
 description: "This community is dedicated to high quality erotic comics. Post links to your favorite artists or image galleries.# Rules- no minors or children (yes, comics with a 4000-year-old vampire who looks like 12 will be considered as minor)- no hentai, there are better communities for that- no advertising or selling content without contacting the moderators first.- If you create comics which fit this community yourself feel free to promote them here. Post title should start with [OC]Banner from https://www.metmuseum.org/art/collection/search/78697 (Public Domain)Icon from "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/comicsnsfw"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 166
-posts: 8
-comments: 12
-weight: 8
-dau: 6
-wau: 7
-mau: 7
+subscribers: 199
+posts: 9
+comments: 14
+weight: 9
+dau: 4
+wau: 8
+mau: 8
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ This community is dedicated to high quality erotic comics. Post links to your fa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 166 |
-| Posts                | 8  |
-| Comments             | 12  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 199 |
+| Posts                | 9  |
+| Comments             | 14  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -56,4 +56,4 @@ This community is dedicated to high quality erotic comics. Post links to your fa
 |----------------------|---|
 | Published            | 2023-06-14 18:53:27 |
 | Updated              | 2023-06-14 22:07:08 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:40 |

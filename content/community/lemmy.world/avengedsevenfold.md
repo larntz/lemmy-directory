@@ -3,7 +3,7 @@ title: "Avenged Sevenfold"
 name: "avengedsevenfold"
 description: "A place to discuss everything Avenged Sevenfold (A7X)! Check them out at:* [Band home page](https://www.avengedsevenfold.com/home)*  [Spotify Page](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs)*  [Apple Music](https://music.apple.com/us/artist/avenged-sevenfold/6766228)* [Deezer](https://www.deezer.com/search/Avenged%20Sevenfold)*  [Tidal](https://tidal.com/browse/artist/14155)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avengedsevenfold"
@@ -11,11 +11,11 @@ host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 10
 posts: 14
-comments: 5
+comments: 6
 weight: 14
 dau: 2
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -43,10 +43,10 @@ A place to discuss everything Avenged Sevenfold (A7X)! Check them out at:<br>* [
 |----------------------|---|
 | Subscribers          | 10 |
 | Posts                | 14  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss everything Avenged Sevenfold (A7X)! Check them out at:<br>* [
 |----------------------|---|
 | Published            | 2023-06-13 05:16:32 |
 | Updated              | 2023-06-14 20:57:27 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

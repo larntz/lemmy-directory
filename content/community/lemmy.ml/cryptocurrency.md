@@ -3,16 +3,16 @@ title: "Cryptocurrency"
 name: "cryptocurrency"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptocurrency"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 401
-posts: 238
-comments: 129
-weight: 238
+subscribers: 410
+posts: 240
+comments: 131
+weight: 240
 dau: 1
 wau: 3
 mau: 6
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 401 |
-| Posts                | 238  |
-| Comments             | 129  |
+| Subscribers          | 410 |
+| Posts                | 240  |
+| Comments             | 131  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-03-18 01:14:32 |
 | Updated              | 2023-06-09 17:37:14 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

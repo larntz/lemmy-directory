@@ -3,13 +3,13 @@ title: "SCP"
 name: "scp"
 description: "scp-wiki.net"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scp"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 52
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ scp-wiki.net
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 52 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ scp-wiki.net
 |----------------------|---|
 | Published            | 2023-06-13 17:28:47 |
 | Updated              | 2023-06-13 17:36:14 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

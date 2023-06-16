@@ -3,7 +3,7 @@ title: "Modern Warfare III"
 name: "modernwarfareiii"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modernwarfareiii"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:27:43 |
 | Updated              | 2023-06-09 20:37:52 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,7 +3,7 @@ title: "How To Do Stuff"
 name: "howto"
 description: "Fig.Systems Community for sharing how-to's and tutorials."
 type: community
-date: "2023-06-16 11:06:13"
+date: "2023-06-16 22:56:10"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/howto"
@@ -54,4 +54,4 @@ Fig.Systems Community for sharing how-to's and tutorials.
 |----------------------|---|
 | Published            | 2023-06-09 16:20:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:13 |
+| Last Scraped         | 2023-06-16 22:56:10 |

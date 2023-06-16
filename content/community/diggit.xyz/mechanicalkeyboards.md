@@ -3,19 +3,19 @@ title: "MechanicalKeyboards"
 name: "mechanicalkeyboards"
 description: "Keyboard lovers Clicking and Clacking in a content rich, friendly place. The goal of this community is to provide daily links to interesting mechanical keyboard content."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/mechanicalkeyboards"
 host: diggit.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 18
 posts: 2
-comments: 6
+comments: 8
 weight: 2
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "diggit_xyz"
 tags: 
@@ -41,12 +41,12 @@ Keyboard lovers Clicking and Clacking in a content rich, friendly place. The goa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 18 |
 | Posts                | 2  |
-| Comments             | 6  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Keyboard lovers Clicking and Clacking in a content rich, friendly place. The goa
 |----------------------|---|
 | Published            | 2023-06-12 02:18:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

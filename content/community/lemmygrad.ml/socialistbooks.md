@@ -3,7 +3,7 @@ title: "For discussing books by socialists or about socialism."
 name: "socialistbooks"
 description: "Rules:1. Books from all tendencies are allowed. Please don’t downvote something just because it’s from somebody that you dislike.2. However, the [general rule against sectarianism](https://communism.lemmy.ml) still applies here. A writing that takes a potshot at others every now and then is acceptable. Outright polemics dedicated to denouncing other tendencies belong elsewhere.3. No linking to online book stores.4. No memes or videos."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socialistbooks"
@@ -54,4 +54,4 @@ Rules:<br><br>1. Books from all tendencies are allowed. Please don’t downvote 
 |----------------------|---|
 | Published            | 2019-09-02 09:39:57 |
 | Updated              | 2020-02-02 01:26:42 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

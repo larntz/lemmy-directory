@@ -3,13 +3,13 @@ title: "Mariners"
 name: "mariners"
 description: "Cloned from [r/Mariners](https://old.reddit.com/r/Mariners)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/mariners"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Cloned from [r/Mariners](https://old.reddit.com/r/Mariners)<br><br># Looking for
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Cloned from [r/Mariners](https://old.reddit.com/r/Mariners)<br><br># Looking for
 |----------------------|---|
 | Published            | 2023-06-09 17:04:17 |
 | Updated              | 2023-06-12 16:44:26 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

@@ -3,13 +3,13 @@ title: "Good News Everyone"
 name: "goodnewseveryone"
 description: "A place to post good news and prevent doom scrolling!Prospective rules for now:1. posts must link from a reliable news source2. no reposts3. paywalled articles must be copy pasted4. avoid politics"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/goodnewseveryone"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 49
 posts: 14
 comments: 5
 weight: 14
@@ -41,7 +41,7 @@ A place to post good news and prevent doom scrolling!<br><br>Prospective rules f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 49 |
 | Posts                | 14  |
 | Comments             | 5  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to post good news and prevent doom scrolling!<br><br>Prospective rules f
 |----------------------|---|
 | Published            | 2023-06-13 21:02:11 |
 | Updated              | 2023-06-13 21:29:37 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

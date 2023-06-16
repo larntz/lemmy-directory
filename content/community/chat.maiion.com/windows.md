@@ -3,7 +3,7 @@ title: "c/Windows"
 name: "windows"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/windows"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 05:16:57 |
 | Updated              | 2023-06-16 05:28:59 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

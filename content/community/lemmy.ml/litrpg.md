@@ -3,7 +3,7 @@ title: "LitRPG books and stories"
 name: "litrpg"
 description: "WIP new home for /r/litrpg"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/litrpg"
@@ -54,4 +54,4 @@ WIP new home for /r/litrpg
 |----------------------|---|
 | Published            | 2023-06-09 09:37:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

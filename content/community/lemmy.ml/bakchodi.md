@@ -3,7 +3,7 @@ title: "Bakchodi"
 name: "bakchodi"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bakchodi"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-07 07:33:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:20 |

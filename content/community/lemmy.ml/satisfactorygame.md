@@ -3,13 +3,13 @@ title: "Satisfactory – A game by CoffeeStain Studios"
 name: "satisfactorygame"
 description: "Satisfactory - A game by CoffeeStain Studios (https://www.satisfactorygame.com)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/satisfactorygame"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Satisfactory - A game by CoffeeStain Studios (https://www.satisfactorygame.com)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Satisfactory - A game by CoffeeStain Studios (https://www.satisfactorygame.com)
 |----------------------|---|
 | Published            | 2023-06-10 13:22:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

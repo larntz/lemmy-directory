@@ -3,19 +3,19 @@ title: "Boston, MA"
 name: "boston"
 description: "Welcome to the port city of Boston. Boston Metro discussion is welcome."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boston"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 141
-posts: 11
-comments: 28
-weight: 11
-dau: 4
-wau: 10
-mau: 10
+subscribers: 154
+posts: 12
+comments: 33
+weight: 12
+dau: 7
+wau: 17
+mau: 17
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the port city of Boston. Boston Metro discussion is welcome.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 141 |
-| Posts                | 11  |
-| Comments             | 28  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Subscribers          | 154 |
+| Posts                | 12  |
+| Comments             | 33  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the port city of Boston. Boston Metro discussion is welcome.
 |----------------------|---|
 | Published            | 2023-06-10 01:31:18 |
 | Updated              | 2023-06-12 14:30:26 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

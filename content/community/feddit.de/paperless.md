@@ -3,13 +3,13 @@ title: "Paperless"
 name: "paperless"
 description: "Community zum Thema papierloses Büro und Paperless-NGX.[Icon](https://www.flaticon.com/free-icons/paper-plane)"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/paperless"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 44
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Community zum Thema papierloses Büro und Paperless-NGX.<br><br>[Icon](https://w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 44 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community zum Thema papierloses Büro und Paperless-NGX.<br><br>[Icon](https://w
 |----------------------|---|
 | Published            | 2022-09-28 07:08:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

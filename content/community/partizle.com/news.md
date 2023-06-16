@@ -3,18 +3,18 @@ title: "News"
 name: "news"
 description: "News and articles"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/news"
 host: partizle.com
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 50
 posts: 9
 comments: 29
 weight: 9
-dau: 2
-wau: 13
+dau: 1
+wau: 12
 mau: 14
 instances:
 - "partizle_com"
@@ -41,11 +41,11 @@ News and articles
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 50 |
 | Posts                | 9  |
 | Comments             | 29  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
 | Monthly Active Users | 14  |
 
 <br>
@@ -54,4 +54,4 @@ News and articles
 |----------------------|---|
 | Published            | 2023-06-07 15:22:28 |
 | Updated              | 2023-06-13 16:29:57 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

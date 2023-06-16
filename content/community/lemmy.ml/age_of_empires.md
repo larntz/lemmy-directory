@@ -3,13 +3,13 @@ title: "Age of Empires"
 name: "age_of_empires"
 description: "Welcome to the Age of Empires Lemmy community! All AoE games are welcome here!"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/age_of_empires"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 1
 comments: 5
 weight: 1
@@ -41,7 +41,7 @@ Welcome to the Age of Empires Lemmy community! All AoE games are welcome here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to the Age of Empires Lemmy community! All AoE games are welcome here!
 |----------------------|---|
 | Published            | 2020-10-01 14:07:57 |
 | Updated              | 2021-05-19 17:53:45 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

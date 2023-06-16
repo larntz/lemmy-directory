@@ -3,13 +3,13 @@ title: "Piractwo - Kopiowanie to nie kradzież!"
 name: "piractwo"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/piractwo"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 94
+subscribers: 95
 posts: 10
 comments: 29
 weight: 10
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
+| Subscribers          | 95 |
 | Posts                | 10  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-22 14:54:44 |
 | Updated              | 2021-04-22 17:02:22 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

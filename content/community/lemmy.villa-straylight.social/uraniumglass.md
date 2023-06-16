@@ -3,7 +3,7 @@ title: "Uranium Glass"
 name: "uraniumglass"
 description: "A community for collectors of uranium glass (and other types of glowing glass too!)"
 type: community
-date: "2023-06-16 11:06:01"
+date: "2023-06-16 22:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/uraniumglass"
@@ -54,4 +54,4 @@ A community for collectors of uranium glass (and other types of glowing glass to
 |----------------------|---|
 | Published            | 2023-06-11 18:36:41 |
 | Updated              | 2023-06-11 18:40:44 |
-| Last Scraped         | 2023-06-16 11:06:01 |
+| Last Scraped         | 2023-06-16 22:55:59 |

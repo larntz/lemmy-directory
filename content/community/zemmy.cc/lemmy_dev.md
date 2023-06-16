@@ -3,16 +3,16 @@ title: "Lemmy Development"
 name: "lemmy_dev"
 description: "This is a community where I will document and collect information as I experiment with developing for Lemmy[Testing community links](/c/technology@beehaw.org)"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/lemmy_dev"
 host: zemmy.cc
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 2
+posts: 4
 comments: 0
-weight: 2
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ This is a community where I will document and collect information as I experimen
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 2  |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ This is a community where I will document and collect information as I experimen
 |----------------------|---|
 | Published            | 2023-06-14 21:47:26 |
 | Updated              | 2023-06-15 23:27:44 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

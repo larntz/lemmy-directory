@@ -3,19 +3,19 @@ title: "Guild Wars 2"
 name: "guildwars2"
 description: "Welcome to /c/guildwars2 on Lemmy.# Links**Official**- [guildwars2.com](https://guildwars2.com)- [Wiki](https://wiki.guildwars2.com/wiki/Main_Page)**Builds**- [Snow Crows](https://snowcrows.com/builds)- [Discretize](https://discretize.eu/builds/)- [Gw2Mists](https://gw2mists.com/builds)- [Metabattle](https://metabattle.com/wiki/MetaBattle_Wiki)- [Hardstuck](https://hardstuck.gg/gw2/builds/)- [GuildJen](https://guildjen.com/builds/)**Tools**- [Blish HUD](https://blishhud.com/)- [GW2-UOAOM](https://github.com/gw2-addon-loader/GW2-Addon-Manager)- [Discretize Gear Optimizer](https://optimizer.discretize.eu/)"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/guildwars2"
 host: lemmy.wtf
 lastmod: "{[ .Updated }}"
-subscribers: 145
+subscribers: 160
 posts: 14
-comments: 108
+comments: 131
 weight: 14
 dau: 14
-wau: 24
-mau: 24
+wau: 28
+mau: 28
 instances:
 - "lemmy_wtf"
 tags: 
@@ -41,12 +41,12 @@ Welcome to /c/guildwars2 on Lemmy.<br><br># Links<br>**Official**<br>- [guildwar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 145 |
+| Subscribers          | 160 |
 | Posts                | 14  |
-| Comments             | 108  |
+| Comments             | 131  |
 | Daily Active Users   | 14  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 24  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 28  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to /c/guildwars2 on Lemmy.<br><br># Links<br>**Official**<br>- [guildwar
 |----------------------|---|
 | Published            | 2023-06-11 21:37:27 |
 | Updated              | 2023-06-15 17:55:04 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

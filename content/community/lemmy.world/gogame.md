@@ -1,21 +1,21 @@
 ---
-title: "about the game go" 
+title: "gogame" 
 name: "gogame"
-description: "Description not available."
+description: "about the board game gosome links:- [online-go.com](https://online-go.com/)- [Go-Playing programs](https://senseis.xmp.net/?GoPlayingPrograms)"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gogame"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
+subscribers: 2
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/about the game go on lemmy.world
+# /c/gogame on lemmy.world
 
 [[home](/)]
 [[/c/gogame 🌎](https://lemmy.world/c/gogame)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+about the board game go<br><br>some links:<br>- [online-go.com](https://online-go.com/)<br>- [Go-Playing programs](https://senseis.xmp.net/?GoPlayingPrograms)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
+| Subscribers          | 2 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 19:01:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Updated              | 2023-06-16 17:33:37 |
+| Last Scraped         | 2023-06-16 22:57:18 |

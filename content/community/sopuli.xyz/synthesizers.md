@@ -3,7 +3,7 @@ title: "synthesizers"
 name: "synthesizers"
 description: "A community about synthesizers. Hardware (analogue and digitial) and software plugins fit into the discussion."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/synthesizers"
@@ -54,4 +54,4 @@ A community about synthesizers. Hardware (analogue and digitial) and software pl
 |----------------------|---|
 | Published            | 2023-06-06 03:54:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

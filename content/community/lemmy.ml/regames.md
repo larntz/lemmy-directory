@@ -3,7 +3,7 @@ title: "REGames - Reverse Engineered Games"
 name: "regames"
 description: "A sublemmy for those of us who enjoy reverse engineering games, figuring out how they work, defeating cheat detection, and all of the other fine things in life."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/regames"
@@ -54,4 +54,4 @@ A sublemmy for those of us who enjoy reverse engineering games, figuring out how
 |----------------------|---|
 | Published            | 2023-06-08 03:39:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

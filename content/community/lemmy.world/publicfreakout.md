@@ -3,13 +3,13 @@ title: "Public Freakout"
 name: "publicfreakout"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/publicfreakout"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 91
+subscribers: 95
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
+| Subscribers          | 95 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:32:52 |
 | Updated              | 2023-06-09 20:38:48 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

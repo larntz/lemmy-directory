@@ -3,13 +3,13 @@ title: "Luthier"
 name: "luthier"
 description: "Dedicated to the craft of lutherie, the making of string instruments, and all those who practice it, admire it, or wish to learn about it."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/luthier"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 3
 comments: 12
 weight: 3
@@ -41,7 +41,7 @@ Dedicated to the craft of lutherie, the making of string instruments, and all th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 3  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Dedicated to the craft of lutherie, the making of string instruments, and all th
 |----------------------|---|
 | Published            | 2023-06-12 05:24:19 |
 | Updated              | 2023-06-12 05:25:02 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

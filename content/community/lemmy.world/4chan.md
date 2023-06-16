@@ -3,19 +3,19 @@ title: "4chan"
 name: "4chan"
 description: "Greentexts, memes, everything 4chan."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/4chan"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 191
-posts: 29
-comments: 7
-weight: 29
-dau: 2
-wau: 6
-mau: 6
+subscribers: 225
+posts: 34
+comments: 13
+weight: 34
+dau: 8
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Greentexts, memes, everything 4chan.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 191 |
-| Posts                | 29  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 225 |
+| Posts                | 34  |
+| Comments             | 13  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Greentexts, memes, everything 4chan.
 |----------------------|---|
 | Published            | 2023-06-11 23:47:36 |
 | Updated              | 2023-06-13 11:04:14 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,7 +3,7 @@ title: "SFFA Meta"
 name: "meta"
 description: "Talk to the admins of the SFFA community here! Have an idea for a new /c/ Community? make a post and offer to mod it and we will see if it fits our vibe. Please remember we are focused on fantasy and science-fiction properties."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://dev.lemmy.sffa.community/c/meta"
@@ -54,4 +54,4 @@ Talk to the admins of the SFFA community here! Have an idea for a new /c/ Commun
 |----------------------|---|
 | Published            | 2023-06-14 23:32:59 |
 | Updated              | 2023-06-14 23:50:16 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:14 |

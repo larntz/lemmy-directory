@@ -3,13 +3,13 @@ title: "Ancient History Videos"
 name: "ancientvideos"
 description: "Videos about ancient history, from the start of written history to late antiquity# Rules1. Be kind. No bigotry of any kind allowed.2. Keep videos on topic. No supernatural/ancient aliens type videos3. No outright NSFW content."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ancientvideos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 39
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ Videos about ancient history, from the start of written history to late antiquit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 39 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Videos about ancient history, from the start of written history to late antiquit
 |----------------------|---|
 | Published            | 2023-06-14 08:11:40 |
 | Updated              | 2023-06-14 15:20:56 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

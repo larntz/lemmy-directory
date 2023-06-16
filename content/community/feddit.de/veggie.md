@@ -3,13 +3,13 @@ title: "Veggie"
 name: "veggie"
 description: "Die Community für vegetarische / vegane Themen::: spoiler Attribution[Veggies icon created by kerismaker - Flaticon](https://www.flaticon.com/free-icons/veggies):::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/veggie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 186
+subscribers: 190
 posts: 88
 comments: 195
 weight: 88
@@ -41,7 +41,7 @@ Die Community für vegetarische / vegane Themen<br><br>::: spoiler Attribution<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 186 |
+| Subscribers          | 190 |
 | Posts                | 88  |
 | Comments             | 195  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die Community für vegetarische / vegane Themen<br><br>::: spoiler Attribution<b
 |----------------------|---|
 | Published            | 2022-01-27 15:00:32 |
 | Updated              | 2022-01-28 20:11:50 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

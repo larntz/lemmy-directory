@@ -3,7 +3,7 @@ title: "c/Sports"
 name: "sports"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/sports"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 03:00:30 |
 | Updated              | 2023-06-16 06:33:41 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

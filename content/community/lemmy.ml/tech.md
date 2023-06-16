@@ -3,13 +3,13 @@ title: "/tech/"
 name: "tech"
 description: "Tech board.1. This board is SFW.2. Use common sense."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 53
+subscribers: 54
 posts: 7
 comments: 6
 weight: 7
@@ -41,7 +41,7 @@ Tech board.<br>1. This board is SFW.<br>2. Use common sense.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
+| Subscribers          | 54 |
 | Posts                | 7  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tech board.<br>1. This board is SFW.<br>2. Use common sense.<br>
 |----------------------|---|
 | Published            | 2020-07-17 05:35:26 |
 | Updated              | 2020-07-20 18:51:37 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

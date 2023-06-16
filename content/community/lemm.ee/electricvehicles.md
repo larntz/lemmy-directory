@@ -3,13 +3,13 @@ title: "electric vehicles"
 name: "electricvehicles"
 description: "A place for electric car enthusiasts and those curious about EVs to gather and share. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/electricvehicles"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for electric car enthusiasts and those curious about EVs to gather and s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for electric car enthusiasts and those curious about EVs to gather and s
 |----------------------|---|
 | Published            | 2023-06-14 22:22:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

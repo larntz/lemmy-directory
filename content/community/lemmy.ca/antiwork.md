@@ -3,13 +3,13 @@ title: "Antiwork"
 name: "antiwork"
 description: "1. [We're trying to improving working conditions and pay. ](https://en.wikipedia.org/wiki/Refusal_of_work#Concerns_over_wage_slavery)2. We're trying to reduce the numbers of hours a person has to work.3. [We talk about the end of paid work being mandatory for survival.](https://lemmy.ml/post/111291)**Partnerships:*** [Matrix/Element chatroom](https://matrix.to/#/#antiwork:matrix.org)* [Discord](https://discord.gg/hbtukJCqc9) (channel: #antiwork)* IRC: #antiwork on [IRCNow.org](https://ircnow.org/) (i.e., connect to ircs://irc.ircnow.org and `/join #antiwork`)* Your facebook group link here* Your x link here"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/antiwork"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 503
+subscribers: 524
 posts: 43
 comments: 29
 weight: 43
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 503 |
+| Subscribers          | 524 |
 | Posts                | 43  |
 | Comments             | 29  |
 | Daily Active Users   | 11  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-08-13 08:21:40 |
 | Updated              | 2022-09-10 08:52:31 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

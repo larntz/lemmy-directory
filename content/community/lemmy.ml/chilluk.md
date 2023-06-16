@@ -3,13 +3,13 @@ title: "Chill United Kingdom"
 name: "chilluk"
 description: "No news, no politics. Just the UK."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chilluk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
+subscribers: 114
 posts: 1
 comments: 8
 weight: 1
@@ -41,7 +41,7 @@ No news, no politics. Just the UK.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
+| Subscribers          | 114 |
 | Posts                | 1  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ No news, no politics. Just the UK.
 |----------------------|---|
 | Published            | 2023-01-28 20:35:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:23 |

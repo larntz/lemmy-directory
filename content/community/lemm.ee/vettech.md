@@ -3,16 +3,16 @@ title: "Vet Techs"
 name: "vettech"
 description: "New to this, we'll see if I can add some of this."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vettech"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 2
-comments: 0
-weight: 2
+posts: 3
+comments: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ New to this, we'll see if I can add some of this.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Posts                | 3  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ New to this, we'll see if I can add some of this.
 |----------------------|---|
 | Published            | 2023-06-15 22:49:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

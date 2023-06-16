@@ -3,7 +3,7 @@ title: "techno"
 name: "techno"
 description: "Posts about Techno music"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techno"
@@ -54,4 +54,4 @@ Posts about Techno music
 |----------------------|---|
 | Published            | 2021-01-13 18:44:12 |
 | Updated              | 2021-01-13 18:44:24 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:25 |

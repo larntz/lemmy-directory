@@ -3,7 +3,7 @@ title: "Ananace.dev"
 name: "ananace"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ananace.dev/c/ananace"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 10:55:06 |
 | Updated              | 2023-06-11 10:58:50 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

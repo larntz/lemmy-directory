@@ -3,13 +3,13 @@ title: "Kaffee"
 name: "kaffee"
 description: "**Herzlich Willkommen!**Hier geht es um Kaffee in all seinen Formen - egal ob Pour Over, Espresso oder Cold Brew, Arabica oder Robusta. Poste Bilder deiner Latte Art, empfehle Cafés oder stelle deine Lieblingsbohnen vor.**Regeln**Es gelten selbstverständlich die allgemeinen Regeln von Feddit.de, bei Bedarf werden eigene Community-Regeln eingeführt.**Leckere Communities**[Tee](https://feddit.de/c/tee) [Kochen](https://feddit.de/c/kochen)**Credits**Grafiken ([Banner](https://unsplash.com/de/fotos/TD4DBagg2wE) und [Icon](https://unsplash.com/de/fotos/XOhI_kW_TaM)) stammen von [Unsplash](https://unsplash.com/)"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kaffee"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 208
+subscribers: 217
 posts: 8
 comments: 117
 weight: 8
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 208 |
+| Subscribers          | 217 |
 | Posts                | 8  |
 | Comments             | 117  |
 | Daily Active Users   | 9  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 18:14:42 |
 | Updated              | 2023-06-10 19:32:05 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

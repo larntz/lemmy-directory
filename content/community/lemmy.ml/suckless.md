@@ -3,13 +3,13 @@ title: "Keep it Simple, Silly"
 name: "suckless"
 description: "A community devoted to simplicity and minimalism in software design.We believe that layers of abstraction and complex mechanisms do more harm than good, and fewer lines of code means improved product quality."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/suckless"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 43
 posts: 6
 comments: 6
 weight: 6
@@ -41,7 +41,7 @@ A community devoted to simplicity and minimalism in software design.<br><br>We b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 43 |
 | Posts                | 6  |
 | Comments             | 6  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community devoted to simplicity and minimalism in software design.<br><br>We b
 |----------------------|---|
 | Published            | 2020-07-21 01:57:57 |
 | Updated              | 2020-07-21 02:09:26 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

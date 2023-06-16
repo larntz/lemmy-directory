@@ -1,15 +1,15 @@
 ---
 title: "casual chat [crystals.rest]" 
 name: "crystals_chat"
-description: "Description not available."
+description: "Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/crystals_chat"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:40:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Updated              | 2023-06-16 17:12:09 |
+| Last Scraped         | 2023-06-16 22:56:19 |

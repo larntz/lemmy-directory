@@ -3,15 +3,15 @@ title: "barefoot"
 name: "barefoot"
 description: "Community for those who like to walk life unshod. No fetish content."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/barefoot"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 34
 posts: 12
-comments: 12
+comments: 17
 weight: 12
 dau: 1
 wau: 2
@@ -41,9 +41,9 @@ Community for those who like to walk life unshod. No fetish content.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 34 |
 | Posts                | 12  |
-| Comments             | 12  |
+| Comments             | 17  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Community for those who like to walk life unshod. No fetish content.
 |----------------------|---|
 | Published            | 2023-06-09 14:45:45 |
 | Updated              | 2023-06-10 15:43:45 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

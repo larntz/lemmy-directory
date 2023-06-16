@@ -3,7 +3,7 @@ title: "E-commerce"
 name: "ecommerce"
 description: "[Ecommerce icons created by kmg design - Flaticon](https://www.flaticon.com/free-icons/ecommerce)Banner photo by [Mark König](https://unsplash.com/es/@markkoenig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Tl8mDaue_II?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)     "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ecommerce"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 05:40:37 |
 | Updated              | 2023-06-13 05:53:35 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,7 +3,7 @@ title: "Xestión e padroado"
 name: "xestion"
 description: "Nesta comunidade engadiremos información sobre xestión da infraestructura, padroado, problemas e axuda e demais."
 type: community
-date: "2023-06-16 11:05:52"
+date: "2023-06-16 22:55:47"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/xestion"
@@ -54,4 +54,4 @@ Nesta comunidade engadiremos información sobre xestión da infraestructura, pad
 |----------------------|---|
 | Published            | 2022-12-01 10:05:38 |
 | Updated              | 2022-12-01 10:06:48 |
-| Last Scraped         | 2023-06-16 11:05:52 |
+| Last Scraped         | 2023-06-16 22:55:47 |

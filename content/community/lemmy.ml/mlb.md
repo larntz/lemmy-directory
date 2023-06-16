@@ -3,19 +3,19 @@ title: "Major League Baseball"
 name: "mlb"
 description: "A community for fans of Major League Baseball and it's teams.Rules: 1. No Discrimination of any kind (Racism, Transphobia, Homophobia, etc.)2. No Harassing. (Belittling someone's favorite team, Name-calling, Doxxing.)3. No Spam (Reposting articles someone else has already posted)4. No Porn."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mlb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 288
-posts: 114
+subscribers: 306
+posts: 115
 comments: 59
-weight: 114
-dau: 18
-wau: 36
-mau: 36
+weight: 115
+dau: 6
+wau: 40
+mau: 42
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community for fans of Major League Baseball and it's teams.<br><br><br>Rules: 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 288 |
-| Posts                | 114  |
+| Subscribers          | 306 |
+| Posts                | 115  |
 | Comments             | 59  |
-| Daily Active Users   | 18  |
-| Weekly Active Users  | 36  |
-| Monthly Active Users | 36  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for fans of Major League Baseball and it's teams.<br><br><br>Rules: 
 |----------------------|---|
 | Published            | 2023-06-08 18:43:46 |
 | Updated              | 2023-06-08 18:49:34 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

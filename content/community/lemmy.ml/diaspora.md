@@ -3,7 +3,7 @@ title: "diaspora*"
 name: "diaspora"
 description: "A forum for discussing the diaspora* social network.https://diasporafoundation.org/"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diaspora"
@@ -54,4 +54,4 @@ A forum for discussing the diaspora* social network.<br><br>https://diasporafoun
 |----------------------|---|
 | Published            | 2020-10-21 18:15:53 |
 | Updated              | 2021-07-16 03:21:21 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:39 |

@@ -3,13 +3,13 @@ title: "Automotive Industry"
 name: "automotive"
 description: "News and discussion about the automotive industry."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/automotive"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 22
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ News and discussion about the automotive industry.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 22 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ News and discussion about the automotive industry.
 |----------------------|---|
 | Published            | 2023-06-13 14:57:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

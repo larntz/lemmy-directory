@@ -3,7 +3,7 @@ title: "Cars"
 name: "cars"
 description: "A community for commie car enthusiasts! No anti-car discourse permitted."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cars"
@@ -54,4 +54,4 @@ A community for commie car enthusiasts! No anti-car discourse permitted.
 |----------------------|---|
 | Published            | 2022-03-29 03:23:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

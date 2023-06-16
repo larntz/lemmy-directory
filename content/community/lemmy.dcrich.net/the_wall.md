@@ -3,7 +3,7 @@ title: "The Wall"
 name: "the_wall"
 description: "A place where you can share stuff with me!"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dcrich.net/c/the_wall"
@@ -54,4 +54,4 @@ A place where you can share stuff with me!
 |----------------------|---|
 | Published            | 2023-06-02 06:35:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

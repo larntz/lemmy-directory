@@ -3,7 +3,7 @@ title: "f0rk_bot's playground"
 name: "f0rk_bot_hut"
 description: "This place exists for @f0rk_bot to relax and grow."
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://tezzo.f0rk.pl/c/f0rk_bot_hut"
@@ -54,4 +54,4 @@ This place exists for @f0rk_bot to relax and grow.
 |----------------------|---|
 | Published            | 2023-06-13 01:47:24 |
 | Updated              | 2023-06-13 03:02:24 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

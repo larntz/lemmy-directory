@@ -3,13 +3,13 @@ title: "Wyoming"
 name: "wyoming"
 description: "A non reddit alternative to /r/Wyoming1. don't be a dick2. no spam3. Hate speech will not be tolerated4. Common sense and Lemmy rules apply."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wyoming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A non reddit alternative to /r/Wyoming<br><br>1. don't be a dick<br>2. no spam<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A non reddit alternative to /r/Wyoming<br><br>1. don't be a dick<br>2. no spam<b
 |----------------------|---|
 | Published            | 2023-06-12 14:38:27 |
 | Updated              | 2023-06-12 19:27:50 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

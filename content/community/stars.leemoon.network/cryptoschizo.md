@@ -3,7 +3,7 @@ title: "Криптошиза"
 name: "cryptoschizo"
 description: "Здесь публикуются треды о Свободном ПО, включая и технологии и статьи, которые ориентированы на анонимность, приватность и безопасность"
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/cryptoschizo"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 19:07:51 |
 | Updated              | 2023-06-13 19:15:31 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

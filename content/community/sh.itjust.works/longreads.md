@@ -3,13 +3,13 @@ title: "LongReads"
 name: "longreads"
 description: "For people who like quality longreads"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/longreads"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 28
 posts: 12
 comments: 9
 weight: 12
@@ -41,7 +41,7 @@ For people who like quality longreads
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 28 |
 | Posts                | 12  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For people who like quality longreads
 |----------------------|---|
 | Published            | 2023-06-13 08:19:37 |
 | Updated              | 2023-06-15 07:18:22 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

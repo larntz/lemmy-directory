@@ -3,7 +3,7 @@ title: "LoFi Hip-Hop"
 name: "lofi"
 description: " # **Welcome!**This is a place to discuss LoFi and it's offshoots. # **Rules**1. Posts must pertain to LoFi in some way.2. All opinions are welcome here. Don't hate people for thinking.3. No porn. This isn't an NSFW community.4. Mods have the right to ban any user for violating these rules."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lofi"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-10 14:46:39 |
 | Updated              | 2021-01-10 14:58:51 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

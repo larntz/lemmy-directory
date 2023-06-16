@@ -3,7 +3,7 @@ title: "привет_мир"
 name: "hjhjh"
 description: "Тестовололоое сообщество"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hjhjh"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-06-15 13:20:21 |
 | Updated              | 2022-05-31 17:09:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

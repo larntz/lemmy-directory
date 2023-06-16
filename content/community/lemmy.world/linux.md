@@ -3,19 +3,19 @@ title: "Linux"
 name: "linux"
 description: "Community for all things related to the Linux OS"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linux"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 571
-posts: 2
-comments: 37
-weight: 2
-dau: 6
-wau: 20
-mau: 20
+subscribers: 645
+posts: 3
+comments: 47
+weight: 3
+dau: 9
+wau: 35
+mau: 35
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for all things related to the Linux OS
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 571 |
-| Posts                | 2  |
-| Comments             | 37  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 645 |
+| Posts                | 3  |
+| Comments             | 47  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 35  |
+| Monthly Active Users | 35  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for all things related to the Linux OS
 |----------------------|---|
 | Published            | 2023-06-10 11:38:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

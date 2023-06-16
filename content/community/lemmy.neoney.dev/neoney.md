@@ -3,7 +3,7 @@ title: "neoney's blog"
 name: "neoney"
 description: "Hi!This is my personal community that I will use as a blog, to share interesting information, etc."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.neoney.dev/c/neoney"
@@ -54,4 +54,4 @@ Hi!<br>This is my personal community that I will use as a blog, to share interes
 |----------------------|---|
 | Published            | 2023-06-15 08:10:45 |
 | Updated              | 2023-06-15 08:10:59 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

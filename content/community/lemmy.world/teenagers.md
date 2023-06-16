@@ -3,13 +3,13 @@ title: "Teenagers"
 name: "teenagers"
 description: "Substitution of Reddit teenagers Sub. Maybe temporary, maybe permanent..."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/teenagers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Substitution of Reddit teenagers Sub. Maybe temporary, maybe permanent...
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Substitution of Reddit teenagers Sub. Maybe temporary, maybe permanent...
 |----------------------|---|
 | Published            | 2023-06-12 15:26:54 |
 | Updated              | 2023-06-12 15:37:12 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

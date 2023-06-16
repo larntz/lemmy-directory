@@ -3,19 +3,19 @@ title: "Mod Coordination"
 name: "modcoord"
 description: "Community for moderators."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/modcoord"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 40
 posts: 3
-comments: 21
+comments: 26
 weight: 3
-dau: 5
-wau: 9
-mau: 9
+dau: 12
+wau: 17
+mau: 17
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -41,12 +41,12 @@ Community for moderators.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 40 |
 | Posts                | 3  |
-| Comments             | 21  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 26  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for moderators.
 |----------------------|---|
 | Published            | 2023-06-12 18:25:02 |
 | Updated              | 2023-06-13 13:29:50 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

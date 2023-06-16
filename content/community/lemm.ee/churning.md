@@ -3,7 +3,7 @@ title: "churning"
 name: "churning"
 description: "Migrating over from r/churning"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/churning"
@@ -54,4 +54,4 @@ Migrating over from r/churning
 |----------------------|---|
 | Published            | 2023-06-11 17:58:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

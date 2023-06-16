@@ -3,7 +3,7 @@ title: "Oregon"
 name: "oregon"
 description: "Oregon"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oregon"
@@ -13,9 +13,9 @@ subscribers: 22
 posts: 6
 comments: 2
 weight: 6
-dau: 1
-wau: 1
-mau: 2
+dau: 2
+wau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ Oregon
 | Subscribers          | 22 |
 | Posts                | 6  |
 | Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Oregon
 |----------------------|---|
 | Published            | 2023-06-01 23:29:16 |
 | Updated              | 2023-06-03 17:27:32 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

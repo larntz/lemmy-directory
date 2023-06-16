@@ -3,7 +3,7 @@ title: "Mocking the proprietary services"
 name: "mocktheprop"
 description: "This sub is just an idea by me. Let's see if there will be content for it."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mocktheprop"
@@ -54,4 +54,4 @@ This sub is just an idea by me. Let's see if there will be content for it.
 |----------------------|---|
 | Published            | 2019-10-24 17:03:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

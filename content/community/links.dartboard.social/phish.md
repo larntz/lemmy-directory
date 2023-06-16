@@ -3,7 +3,7 @@ title: "Phish"
 name: "phish"
 description: "Discussions about the Phish from Vermont"
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://links.dartboard.social/c/phish"
@@ -54,4 +54,4 @@ Discussions about the Phish from Vermont
 |----------------------|---|
 | Published            | 2023-06-10 12:12:14 |
 | Updated              | 2023-06-11 15:56:13 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

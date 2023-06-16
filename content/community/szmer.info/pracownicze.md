@@ -3,7 +3,7 @@ title: "pracownicze"
 name: "pracownicze"
 description: "wszystko co związane z zatrudnieniem"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pracownicze"
@@ -54,4 +54,4 @@ wszystko co związane z zatrudnieniem
 |----------------------|---|
 | Published            | 2020-08-05 15:49:49 |
 | Updated              | 2022-05-14 08:36:56 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,7 +3,7 @@ title: "Jogos de tabuleiro"
 name: "jogos_tabuleiro"
 description: "Um cantinho para os verdadeiros nerds 🙃"
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/jogos_tabuleiro"
@@ -54,4 +54,4 @@ Um cantinho para os verdadeiros nerds 🙃
 |----------------------|---|
 | Published            | 2021-09-10 19:54:12 |
 | Updated              | 2021-09-13 13:20:21 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

@@ -3,19 +3,19 @@ title: "Brasil - Geral"
 name: "brasil"
 description: "Uma comunidade generalista para o Brasil."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/brasil"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 160
-posts: 32
-comments: 204
-weight: 32
-dau: 27
-wau: 45
-mau: 45
+subscribers: 177
+posts: 34
+comments: 219
+weight: 34
+dau: 19
+wau: 58
+mau: 58
 instances:
 - "lemmy_pt"
 tags: 
@@ -41,12 +41,12 @@ Uma comunidade generalista para o Brasil.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 160 |
-| Posts                | 32  |
-| Comments             | 204  |
-| Daily Active Users   | 27  |
-| Weekly Active Users  | 45  |
-| Monthly Active Users | 45  |
+| Subscribers          | 177 |
+| Posts                | 34  |
+| Comments             | 219  |
+| Daily Active Users   | 19  |
+| Weekly Active Users  | 58  |
+| Monthly Active Users | 58  |
 
 <br>
 
@@ -54,4 +54,4 @@ Uma comunidade generalista para o Brasil.
 |----------------------|---|
 | Published            | 2021-09-10 19:51:15 |
 | Updated              | 2021-09-13 10:53:56 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:21 |

@@ -3,7 +3,7 @@ title: "schizo ramblings doubleplusgood"
 name: "ingsoc"
 description: "DISCUSS POLITICS FREELYschizobros welcomeeverybody else hi i guesskeep it political/historical is all i ask. also no porn. "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ingsoc"
@@ -54,4 +54,4 @@ DISCUSS POLITICS FREELY<br>schizobros welcome<br>everybody else hi i guess<br><b
 |----------------------|---|
 | Published            | 2023-06-11 19:26:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

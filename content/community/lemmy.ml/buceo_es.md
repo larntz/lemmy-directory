@@ -3,7 +3,7 @@ title: "Buceo en Español"
 name: "buceo_es"
 description: "Comunidad de Buceo.Diving Community"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buceo_es"
@@ -54,4 +54,4 @@ Comunidad de Buceo.<br>Diving Community
 |----------------------|---|
 | Published            | 2020-02-14 06:06:29 |
 | Updated              | 2020-02-14 19:05:29 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

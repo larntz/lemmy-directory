@@ -3,19 +3,19 @@ title: "Tabletop Miniatures"
 name: "tabletopminis"
 description: "From D&D to Warhammer and beyond, and including printing, painting and everything else - this is a place to discuss and share everything about tabletop miniatures."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tabletopminis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 222
+subscribers: 241
 posts: 18
-comments: 43
+comments: 57
 weight: 18
-dau: 10
-wau: 17
-mau: 17
+dau: 7
+wau: 21
+mau: 21
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ From D&D to Warhammer and beyond, and including printing, painting and everythin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 222 |
+| Subscribers          | 241 |
 | Posts                | 18  |
-| Comments             | 43  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Comments             | 57  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ From D&D to Warhammer and beyond, and including printing, painting and everythin
 |----------------------|---|
 | Published            | 2023-06-12 11:25:29 |
 | Updated              | 2023-06-12 11:26:33 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

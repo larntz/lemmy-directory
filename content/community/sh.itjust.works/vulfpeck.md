@@ -3,13 +3,13 @@ title: "Vulfpeck"
 name: "vulfpeck"
 description: "It's funky and it's low volume."
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vulfpeck"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ It's funky and it's low volume.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ It's funky and it's low volume.
 |----------------------|---|
 | Published            | 2023-06-09 03:43:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

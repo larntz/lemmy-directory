@@ -3,7 +3,7 @@ title: "danmark"
 name: "danmark"
 description: "Et fælleskab for Danske kommunister"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/danmark"
@@ -54,4 +54,4 @@ Et fælleskab for Danske kommunister
 |----------------------|---|
 | Published            | 2022-03-26 13:11:49 |
 | Updated              | 2022-03-26 13:12:05 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

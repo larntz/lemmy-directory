@@ -3,19 +3,19 @@ title: "The Hub"
 name: "nmsgalactichub"
 description: "Welcome to the No Man's Sky Galactic Hub. The Galactic Hub is an area of space (11 regions) centered around the Arm of Vezitinen. Our capital planet, Drogradur NO426 (Default name: Chrima E16), is home to our civilization's main colony. Please read our wiki for more information.For a general NMS community, please visit https://lemmy.world/c/nomanssky"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nmsgalactichub"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 48
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the No Man's Sky Galactic Hub. The Galactic Hub is an area of space (
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 48 |
 | Posts                | 2  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the No Man's Sky Galactic Hub. The Galactic Hub is an area of space (
 |----------------------|---|
 | Published            | 2023-06-09 17:01:20 |
 | Updated              | 2023-06-10 04:04:35 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

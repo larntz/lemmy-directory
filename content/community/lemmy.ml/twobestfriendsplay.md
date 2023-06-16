@@ -3,19 +3,19 @@ title: "Two Best Friends Play"
 name: "twobestfriendsplay"
 description: "A place for the shitlords from /r/TwoBestFriendsPlay.## Rules- Don't be a dick- No low effort trolling- ~~No VTuber posts~~- Posts must be relevant to the Best Friends community- Don't post weird shit"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twobestfriendsplay"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 83
+subscribers: 85
 posts: 17
 comments: 59
 weight: 17
 dau: 2
-wau: 33
-mau: 36
+wau: 23
+mau: 39
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place for the shitlords from /r/TwoBestFriendsPlay.<br><br>## Rules<br>- Don't
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 83 |
+| Subscribers          | 85 |
 | Posts                | 17  |
 | Comments             | 59  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 36  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 39  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for the shitlords from /r/TwoBestFriendsPlay.<br><br>## Rules<br>- Don't
 |----------------------|---|
 | Published            | 2023-06-05 04:57:32 |
 | Updated              | 2023-06-14 16:16:57 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,19 +3,19 @@ title: "T1Diabetes"
 name: "t1diabetes"
 description: "A place for people with T1 diabetes."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/t1diabetes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 15
 posts: 2
-comments: 1
+comments: 4
 weight: 2
-dau: 1
-wau: 2
-mau: 2
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for people with T1 diabetes.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 15 |
 | Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for people with T1 diabetes.
 |----------------------|---|
 | Published            | 2023-06-12 17:12:05 |
 | Updated              | 2023-06-15 15:37:33 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

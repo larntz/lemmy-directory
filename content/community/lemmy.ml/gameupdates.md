@@ -3,16 +3,16 @@ title: "Game Updates"
 name: "gameupdates"
 description: "A community for keeping up with game updates. Please keep posts to update announcements and remember to link a source and write a short TLDR of it. Feel free to discuss them in the comments, though!"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gameupdates"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 29
-posts: 7
+posts: 8
 comments: 1
-weight: 7
+weight: 8
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ A community for keeping up with game updates. Please keep posts to update announ
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 29 |
-| Posts                | 7  |
+| Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A community for keeping up with game updates. Please keep posts to update announ
 |----------------------|---|
 | Published            | 2023-06-09 05:49:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

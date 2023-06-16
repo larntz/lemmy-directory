@@ -3,7 +3,7 @@ title: "Switzerland"
 name: "switzerland"
 description: "Post news, opinions or upcoming events relating to Switzerland."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switzerland"
@@ -54,4 +54,4 @@ Post news, opinions or upcoming events relating to Switzerland.
 |----------------------|---|
 | Published            | 2021-12-14 22:15:56 |
 | Updated              | 2021-12-15 21:46:56 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

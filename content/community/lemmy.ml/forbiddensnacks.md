@@ -3,13 +3,13 @@ title: "Forbidden Snacks"
 name: "forbiddensnacks"
 description: "Please put Forbidden <food item> in the title. You can add other things to the title too."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forbiddensnacks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 70
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Please put Forbidden <food item> in the title. You can add other things to the t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 70 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Please put Forbidden <food item> in the title. You can add other things to the t
 |----------------------|---|
 | Published            | 2021-02-15 00:14:23 |
 | Updated              | 2021-02-15 01:15:54 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:20 |

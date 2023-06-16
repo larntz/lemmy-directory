@@ -3,7 +3,7 @@ title: "Red Australia!"
 name: "redaustralia"
 description: "Dedicated to communist and leftist discussion centred around Australia.Memes are allowed too!"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/redaustralia"
@@ -54,4 +54,4 @@ Dedicated to communist and leftist discussion centred around Australia.<br><br>M
 |----------------------|---|
 | Published            | 2020-10-21 03:13:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

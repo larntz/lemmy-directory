@@ -3,7 +3,7 @@ title: "AITA"
 name: "aita"
 description: "[!amitheasshole](https://lemmy.ml/c/amitheasshole)"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aita"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 16:40:46 |
 | Updated              | 2023-06-10 16:41:28 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

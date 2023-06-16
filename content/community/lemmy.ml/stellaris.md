@@ -3,19 +3,19 @@ title: "Stellaris"
 name: "stellaris"
 description: "Community for fans of the strategy game Stellaris."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stellaris"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 127
-posts: 4
-comments: 19
-weight: 4
+subscribers: 129
+posts: 5
+comments: 20
+weight: 5
 dau: 2
-wau: 7
-mau: 12
+wau: 8
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Community for fans of the strategy game Stellaris.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
-| Posts                | 4  |
-| Comments             | 19  |
+| Subscribers          | 129 |
+| Posts                | 5  |
+| Comments             | 20  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 12  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for fans of the strategy game Stellaris.
 |----------------------|---|
 | Published            | 2020-12-01 19:27:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:38 |

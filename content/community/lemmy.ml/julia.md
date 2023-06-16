@@ -3,13 +3,13 @@ title: "Julia programming language"
 name: "julia"
 description: "Community for Julia programming language."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/julia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 43
 posts: 18
 comments: 7
 weight: 18
@@ -41,7 +41,7 @@ Community for Julia programming language.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 43 |
 | Posts                | 18  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for Julia programming language.
 |----------------------|---|
 | Published            | 2020-04-25 08:12:47 |
 | Updated              | 2021-12-13 20:25:24 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

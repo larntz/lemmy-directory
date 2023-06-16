@@ -3,7 +3,7 @@ title: "Shower Thoughts"
 name: "shower_thoughts"
 description: "Community for rally random and casual thoughts. Be nice, no spam!"
 type: community
-date: "2023-06-16 11:06:21"
+date: "2023-06-16 22:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/shower_thoughts"
@@ -54,4 +54,4 @@ Community for rally random and casual thoughts. Be nice, no spam!
 |----------------------|---|
 | Published            | 2023-06-14 20:00:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:21 |
+| Last Scraped         | 2023-06-16 22:56:18 |

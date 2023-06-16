@@ -3,19 +3,19 @@ title: "Futanari"
 name: "futanari"
 description: "A community for enjoying the genre of [hentai](https://lemmynsfw.com/c/hentai) featuring women with male or mixed genitalia.Follow all [instance rules](https://lemmynsfw.com/), keep posts on-topic, & generally behave yourself.No loli/shota content. Sauce when possible."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/futanari"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 518
-posts: 25
-comments: 11
-weight: 25
+subscribers: 552
+posts: 35
+comments: 12
+weight: 35
 dau: 3
-wau: 16
-mau: 16
+wau: 18
+mau: 18
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A community for enjoying the genre of [hentai](https://lemmynsfw.com/c/hentai) f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 518 |
-| Posts                | 25  |
-| Comments             | 11  |
+| Subscribers          | 552 |
+| Posts                | 35  |
+| Comments             | 12  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 16  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -56,4 +56,4 @@ A community for enjoying the genre of [hentai](https://lemmynsfw.com/c/hentai) f
 |----------------------|---|
 | Published            | 2023-06-11 12:58:08 |
 | Updated              | 2023-06-11 13:34:28 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

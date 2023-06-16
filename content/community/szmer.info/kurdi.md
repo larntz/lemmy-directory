@@ -3,7 +3,7 @@ title: "Kurdî"
 name: "kurdi"
 description: ""
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/kurdi"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-31 10:58:39 |
 | Updated              | 2021-03-21 14:51:00 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

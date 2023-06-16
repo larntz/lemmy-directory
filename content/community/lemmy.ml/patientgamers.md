@@ -3,19 +3,19 @@ title: "Patient Gamers"
 name: "patientgamers"
 description: "A gaming sub free from the hype and oversaturation of current releases, catering to gamers who wait at least 12 months after release to play a game. Whether it's price, waiting for bugs/issues to be patched, DLC to be released, don't meet the system requirements, or just haven't had the time to keep up with the latest releases."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/patientgamers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4340
-posts: 27
-comments: 631
-weight: 27
-dau: 32
-wau: 177
-mau: 355
+subscribers: 4473
+posts: 28
+comments: 657
+weight: 28
+dau: 24
+wau: 193
+mau: 405
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A gaming sub free from the hype and oversaturation of current releases, catering
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4340 |
-| Posts                | 27  |
-| Comments             | 631  |
-| Daily Active Users   | 32  |
-| Weekly Active Users  | 177  |
-| Monthly Active Users | 355  |
+| Subscribers          | 4473 |
+| Posts                | 28  |
+| Comments             | 657  |
+| Daily Active Users   | 24  |
+| Weekly Active Users  | 193  |
+| Monthly Active Users | 405  |
 
 <br>
 
@@ -54,4 +54,4 @@ A gaming sub free from the hype and oversaturation of current releases, catering
 |----------------------|---|
 | Published            | 2023-06-01 00:17:36 |
 | Updated              | 2023-06-01 23:14:41 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

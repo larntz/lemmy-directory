@@ -1,18 +1,18 @@
 ---
 title: "Geschichte" 
 name: "geschichte"
-description: "Description not available."
+description: "/r/geschichte ist Geschichte?"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/geschichte"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 53
-posts: 141
+subscribers: 59
+posts: 151
 comments: 11
-weight: 141
+weight: 151
 dau: 1
 wau: 1
 mau: 5
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+/r/geschichte ist Geschichte?
 </blockquote>
 
 
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 141  |
+| Subscribers          | 59 |
+| Posts                | 151  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-04-21 09:45:19 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Updated              | 2023-06-16 18:19:50 |
+| Last Scraped         | 2023-06-16 22:56:38 |

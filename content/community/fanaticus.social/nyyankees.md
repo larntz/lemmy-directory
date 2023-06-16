@@ -3,13 +3,13 @@ title: "NY Yankees"
 name: "nyyankees"
 description: "Cloned from [r/NYYankees](https://old.reddit.com/r/NYYankees)# Looking for mods!"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nyyankees"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 11
 comments: 30
 weight: 11
@@ -41,7 +41,7 @@ Cloned from [r/NYYankees](https://old.reddit.com/r/NYYankees)<br><br># Looking f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 11  |
 | Comments             | 30  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Cloned from [r/NYYankees](https://old.reddit.com/r/NYYankees)<br><br># Looking f
 |----------------------|---|
 | Published            | 2023-06-09 17:11:18 |
 | Updated              | 2023-06-12 16:47:21 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

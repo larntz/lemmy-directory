@@ -3,7 +3,7 @@ title: "Communism"
 name: "leftwingmusic"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftwingmusic"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-23 02:21:43 |
 | Updated              | 2022-08-26 22:21:13 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

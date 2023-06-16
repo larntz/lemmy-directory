@@ -3,7 +3,7 @@ title: "trees"
 name: "trees"
 description: "This is a community for cannabis and all related products. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trees"
@@ -14,8 +14,8 @@ posts: 7
 comments: 7
 weight: 7
 dau: 1
-wau: 7
-mau: 7
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -45,8 +45,8 @@ This is a community for cannabis and all related products.
 | Posts                | 7  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a community for cannabis and all related products.
 |----------------------|---|
 | Published            | 2020-06-01 21:40:44 |
 | Updated              | 2020-06-02 21:02:36 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

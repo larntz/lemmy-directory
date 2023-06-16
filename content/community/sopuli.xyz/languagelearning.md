@@ -1,18 +1,18 @@
 ---
 title: "Language Learning" 
 name: "languagelearning"
-description: "A community all about learning languages!Other Lemmy language communities: [Japanese](https://sopuli.xyz/c/japaneselanguage) [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)Other communities outside Lemmy:[Unilang](forum.unilang.org) [A language learners' forum](https://forum.language-learners.org/) "
+description: "A community all about learning languages!Other Lemmy language communities: [Japanese](https://sopuli.xyz/c/japaneselanguage) [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)Other communities outside Lemmy:[Unilang](https://forum.unilang.org) [A language learners' forum](https://forum.language-learners.org/) "
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/languagelearning"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 44
-posts: 5
-comments: 18
-weight: 5
+subscribers: 50
+posts: 6
+comments: 24
+weight: 6
 dau: 2
 wau: 7
 mau: 7
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community all about learning languages!<br><br>Other Lemmy language communities:<br><br> [Japanese](https://sopuli.xyz/c/japaneselanguage)<br><br> [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)<br><br>[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)<br><br><br>Other communities outside Lemmy:<br><br>[Unilang](forum.unilang.org)<br><br> [A language learners' forum](https://forum.language-learners.org/) 
+A community all about learning languages!<br><br>Other Lemmy language communities:<br><br> [Japanese](https://sopuli.xyz/c/japaneselanguage)<br><br> [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)<br><br>[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)<br><br><br>Other communities outside Lemmy:<br><br>[Unilang](https://forum.unilang.org)<br><br> [A language learners' forum](https://forum.language-learners.org/) 
 </blockquote>
 
 
@@ -41,9 +41,9 @@ A community all about learning languages!<br><br>Other Lemmy language communitie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 5  |
-| Comments             | 18  |
+| Subscribers          | 50 |
+| Posts                | 6  |
+| Comments             | 24  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -53,5 +53,5 @@ A community all about learning languages!<br><br>Other Lemmy language communitie
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 20:59:59 |
-| Updated              | 2023-06-13 22:18:50 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Updated              | 2023-06-16 18:41:33 |
+| Last Scraped         | 2023-06-16 22:56:32 |

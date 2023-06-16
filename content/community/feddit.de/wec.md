@@ -3,13 +3,13 @@ title: "World Endurance Championship"
 name: "wec"
 description: "Welcome to the World Endurance Championship community.Please keep discussions civil, respect other’s opinions, and keep it friendly.Thanks!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wec"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 7
 comments: 0
 weight: 7
@@ -41,7 +41,7 @@ Welcome to the World Endurance Championship community.<br><br>Please keep discus
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to the World Endurance Championship community.<br><br>Please keep discus
 |----------------------|---|
 | Published            | 2023-06-14 13:47:01 |
 | Updated              | 2023-06-14 14:06:01 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

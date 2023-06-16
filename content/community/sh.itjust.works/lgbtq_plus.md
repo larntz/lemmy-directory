@@ -3,13 +3,13 @@ title: "LGBTQ+"
 name: "lgbtq_plus"
 description: "For anyone that is looking for all forms of queer news and culture. Nonsectarian and non-exclusionary.Rules:    1. Be Kind    2. Don't be:        a. Bigoted        b. Racist        c. Intolerant    3. Don't break any site rules or US laws"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/lgbtq_plus"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 77
 posts: 8
 comments: 7
 weight: 8
@@ -41,7 +41,7 @@ For anyone that is looking for all forms of queer news and culture. Nonsectarian
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 77 |
 | Posts                | 8  |
 | Comments             | 7  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ For anyone that is looking for all forms of queer news and culture. Nonsectarian
 |----------------------|---|
 | Published            | 2023-06-13 01:33:22 |
 | Updated              | 2023-06-13 02:17:36 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

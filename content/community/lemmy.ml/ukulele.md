@@ -3,16 +3,16 @@ title: "Ukulele Love"
 name: "ukulele"
 description: "Discuss and share anything neat related to the wonderful ukulele."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ukulele"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 33
-posts: 11
+posts: 12
 comments: 5
-weight: 11
+weight: 12
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Discuss and share anything neat related to the wonderful ukulele.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 33 |
-| Posts                | 11  |
+| Posts                | 12  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Discuss and share anything neat related to the wonderful ukulele.
 |----------------------|---|
 | Published            | 2021-05-28 13:38:23 |
 | Updated              | 2021-05-29 15:10:26 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

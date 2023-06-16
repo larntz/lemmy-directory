@@ -3,19 +3,19 @@ title: "History"
 name: "history"
 description: "History is a place for discussions about history."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/history"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 244
+subscribers: 263
 posts: 4
-comments: 6
+comments: 7
 weight: 4
-dau: 2
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ History is a place for discussions about history.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 244 |
+| Subscribers          | 263 |
 | Posts                | 4  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 7  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ History is a place for discussions about history.
 |----------------------|---|
 | Published            | 2023-06-11 10:44:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

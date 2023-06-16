@@ -3,13 +3,13 @@ title: "Bulge"
 name: "bulge"
 description: "Proudly displaying bundled packages!More well defined roles to come, but the basic is that your bulge must be clothes. No exposed genitals here."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bulge"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 44
 posts: 6
 comments: 2
 weight: 6
@@ -43,7 +43,7 @@ Proudly displaying bundled packages!<br><br>More well defined roles to come, but
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 44 |
 | Posts                | 6  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -56,4 +56,4 @@ Proudly displaying bundled packages!<br><br>More well defined roles to come, but
 |----------------------|---|
 | Published            | 2023-06-13 22:47:14 |
 | Updated              | 2023-06-14 17:52:22 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

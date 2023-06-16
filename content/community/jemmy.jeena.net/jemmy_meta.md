@@ -3,16 +3,16 @@ title: "Jemmy Meta"
 name: "jemmy_meta"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:25"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://jemmy.jeena.net/c/jemmy_meta"
 host: jemmy.jeena.net
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 4
+posts: 5
 comments: 4
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 4  |
+| Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 00:18:06 |
 | Updated              | 2023-06-14 00:38:42 |
-| Last Scraped         | 2023-06-16 11:06:25 |
+| Last Scraped         | 2023-06-16 22:56:22 |

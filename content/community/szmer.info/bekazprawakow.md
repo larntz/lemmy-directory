@@ -3,7 +3,7 @@ title: "Beka z prawaków"
 name: "bekazprawakow"
 description: "Miejsce do wrzucania screenów z najgłupszych wypowiedzi prawicowców i liberałów."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/bekazprawakow"
@@ -14,7 +14,7 @@ posts: 449
 comments: 326
 weight: 449
 dau: 1
-wau: 9
+wau: 8
 mau: 12
 instances:
 - "szmer_info"
@@ -45,7 +45,7 @@ Miejsce do wrzucania screenów z najgłupszych wypowiedzi prawicowców i libera�
 | Posts                | 449  |
 | Comments             | 326  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
+| Weekly Active Users  | 8  |
 | Monthly Active Users | 12  |
 
 <br>
@@ -54,4 +54,4 @@ Miejsce do wrzucania screenów z najgłupszych wypowiedzi prawicowców i libera�
 |----------------------|---|
 | Published            | 2020-09-30 17:29:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -1,17 +1,17 @@
 ---
 title: "BÜNZLI" 
 name: "buenzli"
-description: "Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlykariert dänkendi und uhuere gsellschaftskonformi Person. Da hets Platz fürs Bünzlitum, überschwänglichi Vaterlandsliebi und e gehörigi Portion Sälbschtironie."
+description: "Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlykariert dänkendi und uhuere gsellschaftskonformi Person. Da hets Platz fürs Bünzlitum, überschwänglichi Vaterlandsliebi und e gehörigi Portion Sälbschtironie.Reglä:- Sind lieb zunenad - Merci- Kei Wärbig oder Kommentär späme- Nüt da mit rassistisch sii, antisemistisch oder irgend en anderi form vo Fanatismus - chömmer nöd bruche- Hebet en schöne!"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/buenzli"
 host: feddit.ch
 lastmod: "{[ .Updated }}"
-subscribers: 60
+subscribers: 63
 posts: 7
-comments: 33
+comments: 43
 weight: 7
 dau: 5
 wau: 11
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlykariert dänkendi und uhuere gsellschaftskonformi Person. Da hets Platz fürs Bünzlitum, überschwänglichi Vaterlandsliebi und e gehörigi Portion Sälbschtironie.
+Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlykariert dänkendi und uhuere gsellschaftskonformi Person. Da hets Platz fürs Bünzlitum, überschwänglichi Vaterlandsliebi und e gehörigi Portion Sälbschtironie.<br><br>Reglä:<br>- Sind lieb zunenad - Merci<br>- Kei Wärbig oder Kommentär späme<br>- Nüt da mit rassistisch sii, antisemistisch oder irgend en anderi form vo Fanatismus - chömmer nöd bruche<br>- Hebet en schöne!
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlyk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
+| Subscribers          | 63 |
 | Posts                | 7  |
-| Comments             | 33  |
+| Comments             | 43  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 11  |
@@ -53,5 +53,5 @@ Bünzli isch im Schwiizerdütsch e Bezeichnig für e geistig unbeweglichi, chlyk
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 15:47:57 |
-| Updated              | 2023-06-14 15:58:18 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Updated              | 2023-06-16 14:56:59 |
+| Last Scraped         | 2023-06-16 22:56:16 |

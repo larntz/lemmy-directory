@@ -3,7 +3,7 @@ title: "Ambient Music"
 name: "ambient_music"
 description: "A community for any kind of ambient or ambient-related music."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ambient_music"
@@ -54,4 +54,4 @@ A community for any kind of ambient or ambient-related music.
 |----------------------|---|
 | Published            | 2020-10-24 09:08:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

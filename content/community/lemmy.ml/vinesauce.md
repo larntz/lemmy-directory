@@ -3,19 +3,19 @@ title: "Vinesauce"
 name: "vinesauce"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vinesauce"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
-comments: 1
-weight: 1
+subscribers: 7
+posts: 2
+comments: 2
+weight: 2
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 1  |
+| Subscribers          | 7 |
+| Posts                | 2  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-03 02:44:30 |
 | Updated              | 2023-06-03 02:51:06 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

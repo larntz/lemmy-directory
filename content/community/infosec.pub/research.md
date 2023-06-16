@@ -3,13 +3,13 @@ title: "Research"
 name: "research"
 description: "/r/netsec's branch in the fediverse.A community-curated aggregator of technical research. Our mission is to extract signal from the noise.Only post technical content here. New tools (and major releases of existing ones), novel techniques, deep dives and post mortems are the ideal content. CTF and bug bounty writeups could be acceptable if they showcase lesser known approaches or techniques.Non-technical content (both beginner and CISO level) will be considered spam."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/research"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
-subscribers: 82
+subscribers: 85
 posts: 6
 comments: 11
 weight: 6
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
+| Subscribers          | 85 |
 | Posts                | 6  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 13:50:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

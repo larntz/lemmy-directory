@@ -3,7 +3,7 @@ title: "nope.ly"
 name: "nopely"
 description: "Just a test community"
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nope.ly/c/nopely"
@@ -54,4 +54,4 @@ Just a test community
 |----------------------|---|
 | Published            | 2023-06-15 01:17:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

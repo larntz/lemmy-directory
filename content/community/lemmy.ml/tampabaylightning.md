@@ -3,7 +3,7 @@ title: "Tampa Bay Lightning - Home of the Thunder"
 name: "tampabaylightning"
 description: "Placeholder for /r/TampaBayLightning subredditForm of the Tampa Bay Lightning NHL Hockey Team"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tampabaylightning"
@@ -54,4 +54,4 @@ Placeholder for /r/TampaBayLightning subreddit<br><br>Form of the Tampa Bay Ligh
 |----------------------|---|
 | Published            | 2023-06-09 18:39:44 |
 | Updated              | 2023-06-09 18:51:09 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:24 |

@@ -3,7 +3,7 @@ title: "Beginner Woodworking"
 name: "beginner_woodworking"
 description: "The go-to place for those who are new to woodworking.**Rules:**1.  Don’t be a dick! I mean seriously, we are all here to learn.2.  Original Content only.3.  Limited Blog or Video Channel Spam.5.  No copyrighted content.6.  No memes, image macros, reaction gifs/videos, etc.7.  No overt self-promotion."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beginner_woodworking"
@@ -54,4 +54,4 @@ The go-to place for those who are new to woodworking.<br><br>**Rules:**<br>1.  D
 |----------------------|---|
 | Published            | 2023-06-12 15:28:10 |
 | Updated              | 2023-06-15 03:11:20 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

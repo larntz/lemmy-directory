@@ -3,7 +3,7 @@ title: "Bash"
 name: "bash"
 description: "Talk about the Bash Shell and Bash scripting"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bash"
@@ -54,4 +54,4 @@ Talk about the Bash Shell and Bash scripting
 |----------------------|---|
 | Published            | 2020-05-22 21:47:19 |
 | Updated              | 2023-06-11 03:30:26 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

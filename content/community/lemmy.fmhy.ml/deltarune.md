@@ -3,13 +3,13 @@ title: "Deltarune"
 name: "deltarune"
 description: "Once upon a time, a LEGEND was whispered among shadows.  It was a LEGEND of HOPE.  It was a LEGEND of DREAMS.  It was a LEGEND of LIGHT.  It was a LEGEND of DARK.    **This is the legend of...**### c/DELTARUNE  A place to discuss ~~best character, Ralsei~~ Deltarune!***#### **RULES:****1.** Follow the general rules of the [lemmy.fmhy.ml](https://lemmy.fmhy.ml/) instance.**2.** Absolutely no discrimination of any kind. **3.** Nothing explicit. This is a SFW community.**4.** Undertale is allowed here, but don't flood the place with it.~~**5.** Worship the fluffy boy everyday~~"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/deltarune"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 37
 posts: 4
 comments: 13
 weight: 4
@@ -41,7 +41,7 @@ Once upon a time, a LEGEND was whispered among shadows.  <br>It was a LEGEND of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 37 |
 | Posts                | 4  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Once upon a time, a LEGEND was whispered among shadows.  <br>It was a LEGEND of 
 |----------------------|---|
 | Published            | 2023-06-12 13:25:21 |
 | Updated              | 2023-06-12 13:41:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

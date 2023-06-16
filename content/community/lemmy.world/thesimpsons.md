@@ -3,19 +3,19 @@ title: "The Simpsons"
 name: "thesimpsons"
 description: "Everything related to The Simpsons! "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesimpsons"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 186
-posts: 3
-comments: 11
-weight: 3
+subscribers: 194
+posts: 5
+comments: 12
+weight: 5
 dau: 4
-wau: 9
-mau: 9
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Everything related to The Simpsons!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 186 |
-| Posts                | 3  |
-| Comments             | 11  |
+| Subscribers          | 194 |
+| Posts                | 5  |
+| Comments             | 12  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything related to The Simpsons!
 |----------------------|---|
 | Published            | 2023-06-11 12:21:21 |
 | Updated              | 2023-06-11 12:24:02 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

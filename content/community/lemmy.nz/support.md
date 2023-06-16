@@ -3,7 +3,7 @@ title: "Support"
 name: "support"
 description: "Ask your questions here"
 type: community
-date: "2023-06-16 11:06:00"
+date: "2023-06-16 22:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/support"
@@ -11,7 +11,7 @@ host: lemmy.nz
 lastmod: "{[ .Updated }}"
 subscribers: 75
 posts: 32
-comments: 311
+comments: 313
 weight: 32
 dau: 21
 wau: 44
@@ -43,7 +43,7 @@ Ask your questions here
 |----------------------|---|
 | Subscribers          | 75 |
 | Posts                | 32  |
-| Comments             | 311  |
+| Comments             | 313  |
 | Daily Active Users   | 21  |
 | Weekly Active Users  | 44  |
 | Monthly Active Users | 44  |
@@ -54,4 +54,4 @@ Ask your questions here
 |----------------------|---|
 | Published            | 2023-06-03 03:47:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:00 |
+| Last Scraped         | 2023-06-16 22:55:56 |

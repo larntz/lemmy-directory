@@ -3,7 +3,7 @@ title: "Esperanto"
 name: "esperanto"
 description: "## Bonvenon!Por la uzado de nia kara lingvo."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/esperanto"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-08-06 22:32:08 |
 | Updated              | 2022-09-27 12:04:01 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

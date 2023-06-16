@@ -3,13 +3,13 @@ title: "Gift Ideas"
 name: "giftideas"
 description: "A place to give and receive gift ideas.When asking for help, remember to include all relevant info: age, location, likes/dislikes, your budget, etc.Rules:- No affiliate links- No promotional spamOnly follow trusted links and be wary of any direct contacts, scams, spam."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/giftideas"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to give and receive gift ideas.<br><br>When asking for help, remember to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to give and receive gift ideas.<br><br>When asking for help, remember to
 |----------------------|---|
 | Published            | 2023-06-14 06:55:29 |
 | Updated              | 2023-06-14 07:09:37 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

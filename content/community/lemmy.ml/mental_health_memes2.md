@@ -3,7 +3,7 @@ title: "Bad Mental Health Memes"
 name: "mental_health_memes2"
 description: "Sad? Frustrated? You're not the only one dealing with mental illness. It's good to vent sometimes, but please keep it healthy. For a more motivational counterpart to this community, check out [Good Mental Health Memes](l/c/mental_health_memes1)."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mental_health_memes2"
@@ -54,4 +54,4 @@ Sad? Frustrated? You're not the only one dealing with mental illness. It's good 
 |----------------------|---|
 | Published            | 2021-09-02 08:39:23 |
 | Updated              | 2022-06-29 05:14:51 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

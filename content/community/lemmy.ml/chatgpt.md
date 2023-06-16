@@ -3,19 +3,19 @@ title: "ChatGPT"
 name: "chatgpt"
 description: "The community for anything ChatGPT"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chatgpt"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 367
-posts: 14
-comments: 9
-weight: 14
-dau: 3
-wau: 10
-mau: 11
+subscribers: 383
+posts: 15
+comments: 10
+weight: 15
+dau: 6
+wau: 14
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The community for anything ChatGPT
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 367 |
-| Posts                | 14  |
-| Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 11  |
+| Subscribers          | 383 |
+| Posts                | 15  |
+| Comments             | 10  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ The community for anything ChatGPT
 |----------------------|---|
 | Published            | 2023-06-05 09:14:10 |
 | Updated              | 2023-06-05 09:15:50 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

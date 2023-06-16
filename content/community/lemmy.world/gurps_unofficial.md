@@ -3,19 +3,19 @@ title: "Unofficial GURPS Community"
 name: "gurps_unofficial"
 description: "This is an unofficial community to discuss Steve Jackson's GURPS. The community standards here are: 1) Follow Wheaton's Rule and don't be a jerk. 2) No copyrighted material may be posted here! 3) NSFW material must be marked with the NSFW checkmark. Please think twice about NSFW material here.4) Material must relate to GURPS. I am taking applications for co-moderators for this space. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gurps_unofficial"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 10
 posts: 3
-comments: 2
+comments: 4
 weight: 3
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This is an unofficial community to discuss Steve Jackson's GURPS. <br><br>The co
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 10 |
 | Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is an unofficial community to discuss Steve Jackson's GURPS. <br><br>The co
 |----------------------|---|
 | Published            | 2023-06-13 22:06:56 |
 | Updated              | 2023-06-13 22:14:28 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

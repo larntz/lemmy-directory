@@ -3,19 +3,19 @@ title: "Next Fucking Level"
 name: "nextfuckinglevel"
 description: "Next Fucking Level Videos and Gifs"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nextfuckinglevel"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 165
+subscribers: 177
 posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Next Fucking Level Videos and Gifs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 165 |
+| Subscribers          | 177 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Next Fucking Level Videos and Gifs
 |----------------------|---|
 | Published            | 2023-06-11 11:28:36 |
 | Updated              | 2023-06-12 16:08:40 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

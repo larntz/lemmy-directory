@@ -3,13 +3,13 @@ title: "Frugal Living: Waste Less, Gain More!"
 name: "frugal"
 description: "Frugal Discussion"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frugal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 122
+subscribers: 125
 posts: 8
 comments: 16
 weight: 8
@@ -41,7 +41,7 @@ Frugal Discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
+| Subscribers          | 125 |
 | Posts                | 8  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Frugal Discussion
 |----------------------|---|
 | Published            | 2020-06-28 23:26:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:24 |

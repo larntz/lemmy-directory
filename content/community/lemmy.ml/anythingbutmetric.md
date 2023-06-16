@@ -3,7 +3,7 @@ title: "anythingbutmetric"
 name: "anythingbutmetric"
 description: "Usage of esoteric measurementsbanana for scale:![](https://lemmy.ml/pictrs/image/632ff890-d127-45f4-9c24-86b6be23fe5c.png)"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anythingbutmetric"
@@ -54,4 +54,4 @@ Usage of esoteric measurements<br><br>banana for scale:<br><br>![](https://lemmy
 |----------------------|---|
 | Published            | 2023-06-13 21:34:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

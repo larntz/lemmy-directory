@@ -3,13 +3,13 @@ title: "golang"
 name: "golang"
 description: "Let's talk about go"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/golang"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Let's talk about go
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Let's talk about go
 |----------------------|---|
 | Published            | 2023-06-12 18:16:03 |
 | Updated              | 2023-06-12 18:25:44 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

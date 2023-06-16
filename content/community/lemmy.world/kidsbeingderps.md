@@ -3,17 +3,17 @@ title: "KidsBeingDerps"
 name: "kidsbeingderps"
 description: "Kids doing derpy things. Think of /r/kidsarefuckingstupid with a friendlier name"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kidsbeingderps"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 70
 posts: 4
 comments: 2
 weight: 4
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Kids doing derpy things. Think of /r/kidsarefuckingstupid with a friendlier name
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 70 |
 | Posts                | 4  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Kids doing derpy things. Think of /r/kidsarefuckingstupid with a friendlier name
 |----------------------|---|
 | Published            | 2023-06-12 17:47:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

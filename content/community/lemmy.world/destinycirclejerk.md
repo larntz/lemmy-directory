@@ -3,7 +3,7 @@ title: "Destinycirclejerk"
 name: "destinycirclejerk"
 description: "r/destinycirclejerk reborn: the fomo must live on"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinycirclejerk"
@@ -11,11 +11,11 @@ host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 17
 posts: 8
-comments: 4
+comments: 5
 weight: 8
-dau: 3
-wau: 3
-mau: 3
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -43,10 +43,10 @@ r/destinycirclejerk reborn: the fomo must live on
 |----------------------|---|
 | Subscribers          | 17 |
 | Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ r/destinycirclejerk reborn: the fomo must live on
 |----------------------|---|
 | Published            | 2023-06-14 11:17:35 |
 | Updated              | 2023-06-14 16:19:48 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

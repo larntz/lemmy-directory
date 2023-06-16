@@ -3,19 +3,19 @@ title: "Public Domain"
 name: "publicdomain"
 description: "Share and discuss writing, music, film, and other files, documents, and stories that are in the public domain."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/publicdomain"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 78
 posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Share and discuss writing, music, film, and other files, documents, and stories 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 78 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Share and discuss writing, music, film, and other files, documents, and stories 
 |----------------------|---|
 | Published            | 2023-06-08 15:45:52 |
 | Updated              | 2023-06-08 15:47:27 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

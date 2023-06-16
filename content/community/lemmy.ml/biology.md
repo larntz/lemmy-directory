@@ -3,13 +3,13 @@ title: "Biology"
 name: "biology"
 description: "Everything about the study of life: Biology!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/biology"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 116
+subscribers: 117
 posts: 16
 comments: 5
 weight: 16
@@ -41,7 +41,7 @@ Everything about the study of life: Biology!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 116 |
+| Subscribers          | 117 |
 | Posts                | 16  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything about the study of life: Biology!
 |----------------------|---|
 | Published            | 2020-07-13 17:53:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

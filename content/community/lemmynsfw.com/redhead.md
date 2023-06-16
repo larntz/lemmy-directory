@@ -3,19 +3,19 @@ title: "Redhead"
 name: "redhead"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:41"
+date: "2023-06-16 22:56:40"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/redhead"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 2
-comments: 0
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+subscribers: 55
+posts: 7
+comments: 4
+weight: 7
+dau: 6
+wau: 6
+mau: 6
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 55 |
+| Posts                | 7  |
+| Comments             | 4  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 07:43:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:41 |
+| Last Scraped         | 2023-06-16 22:56:40 |

@@ -3,7 +3,7 @@ title: "Trade"
 name: "trade"
 description: "Find the best trades at the right time."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/trade"
@@ -54,4 +54,4 @@ Find the best trades at the right time.
 |----------------------|---|
 | Published            | 2022-12-30 08:24:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

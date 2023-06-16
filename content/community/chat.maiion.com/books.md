@@ -3,7 +3,7 @@ title: "c/Books"
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:28"
+date: "2023-06-16 22:56:25"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/books"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 05:45:50 |
 | Updated              | 2023-06-16 01:15:31 |
-| Last Scraped         | 2023-06-16 11:06:28 |
+| Last Scraped         | 2023-06-16 22:56:25 |

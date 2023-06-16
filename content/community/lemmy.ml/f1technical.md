@@ -3,7 +3,7 @@ title: "F1 Technical "
 name: "f1technical"
 description: "Home of F1 Technical on Lemmy"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/f1technical"
@@ -54,4 +54,4 @@ Home of F1 Technical on Lemmy
 |----------------------|---|
 | Published            | 2023-06-10 02:27:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:30 |

@@ -3,15 +3,15 @@ title: "cool burning skulls"
 name: "badassskeletons"
 description: "A place to share badasses meme.We all know those people."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/badassskeletons"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 8
-comments: 5
+comments: 6
 weight: 8
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ A place to share badasses meme.<br>We all know those people.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 8  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ A place to share badasses meme.<br>We all know those people.
 |----------------------|---|
 | Published            | 2023-06-15 12:34:10 |
 | Updated              | 2023-06-16 00:44:27 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

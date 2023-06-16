@@ -3,15 +3,15 @@ title: "Sopranica"
 name: "sopranica"
 description: "Discussion about the [Sopranica](https://soprani.ca) project including [Cheogram](https://cheogram.com) and [JMP.chat](https://jmp.chat)"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sopranica"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 51
+subscribers: 52
 posts: 42
-comments: 5
+comments: 6
 weight: 42
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Discussion about the [Sopranica](https://soprani.ca) project including [Cheogram
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
+| Subscribers          | 52 |
 | Posts                | 42  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Discussion about the [Sopranica](https://soprani.ca) project including [Cheogram
 |----------------------|---|
 | Published            | 2021-11-27 03:09:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:24 |

@@ -3,7 +3,7 @@ title: "Regras e Código de Conduta"
 name: "regras"
 description: "Uma comunidade fechada que contém apenas as regras e código de conduta desta instância. "
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/regras"
@@ -54,4 +54,4 @@ Uma comunidade fechada que contém apenas as regras e código de conduta desta i
 |----------------------|---|
 | Published            | 2021-09-11 11:35:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

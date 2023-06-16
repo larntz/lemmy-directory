@@ -3,7 +3,7 @@ title: "AFL"
 name: "afl"
 description: "AFL"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afl"
@@ -54,4 +54,4 @@ AFL
 |----------------------|---|
 | Published            | 2023-06-11 10:46:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

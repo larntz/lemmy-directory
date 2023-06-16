@@ -3,7 +3,7 @@ title: "For the city of Chicago"
 name: "chicago"
 description: "I'll make this later"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chicago"
@@ -54,4 +54,4 @@ I'll make this later
 |----------------------|---|
 | Published            | 2020-02-25 08:14:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-16 22:56:08 |

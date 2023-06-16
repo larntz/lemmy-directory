@@ -3,16 +3,16 @@ title: "Electric Scooters"
 name: "electric_scooters"
 description: "Discussion of all things related to electric scooters. Reviews, tips, mods, brands, shops, safety gear, local laws, and everything else related to electric scooters can be discussed here.Rules:- No hate speech, racism, bigotry, sexism, homophobia, etc- No NSFW- No spam and no ads- No AI generated content, posts, or comments- Be respectful- Wear a helmet! No advocating riding without helmet and other appropriate safety gear.Similar useful community:micromobilityAll things micromobility (ebikes, longboards, micromobility, etc):Full URL (search in your instance to get your local URL):https://lemmy.world/c/micromobilityLocal lemmy.ca URL:https://lemmy.ca/c/micromobility@lemmy.world"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/electric_scooters"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 4
+subscribers: 21
+posts: 5
 comments: 2
-weight: 4
+weight: 5
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Discussion of all things related to electric scooters. Reviews, tips, mods, bran
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 4  |
+| Subscribers          | 21 |
+| Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Discussion of all things related to electric scooters. Reviews, tips, mods, bran
 |----------------------|---|
 | Published            | 2023-06-10 20:17:18 |
 | Updated              | 2023-06-15 05:44:17 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

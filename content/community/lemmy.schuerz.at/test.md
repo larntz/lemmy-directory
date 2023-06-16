@@ -3,7 +3,7 @@ title: "Testcommunity Lemmy"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/test"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-11-18 00:18:28 |
 | Updated              | 2022-04-26 17:48:40 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

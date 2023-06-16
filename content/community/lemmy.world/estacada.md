@@ -3,7 +3,7 @@ title: "Estacada"
 name: "estacada"
 description: "IYKYK"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/estacada"
@@ -54,4 +54,4 @@ IYKYK
 |----------------------|---|
 | Published            | 2023-06-14 23:28:29 |
 | Updated              | 2023-06-15 18:52:34 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,7 +3,7 @@ title: "Karate"
 name: "karate"
 description: "Non-style specific community for all forms of martial arts from the island of Okinawa"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/karate"
@@ -54,4 +54,4 @@ Non-style specific community for all forms of martial arts from the island of Ok
 |----------------------|---|
 | Published            | 2023-06-14 08:58:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

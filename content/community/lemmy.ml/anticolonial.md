@@ -3,7 +3,7 @@ title: "Anticolonial internationalism"
 name: "anticolonial"
 description: "Anticolonial/decolonial food-for-thought. Historic/criticals perspectives on colonization and decolonization.Solidarity between all the peoples on Earth. Destroy all borders, fire to all colonial empires!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anticolonial"
@@ -54,4 +54,4 @@ Anticolonial/decolonial food-for-thought. Historic/criticals perspectives on col
 |----------------------|---|
 | Published            | 2021-02-25 00:54:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:24 |

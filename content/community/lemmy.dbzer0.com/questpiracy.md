@@ -3,17 +3,17 @@ title: "Oculus Quest Piracy"
 name: "questpiracy"
 description: "A group dedicated to the discussion of piracy for the Meta Quest and Quest 2, the standalone VR gaming headsets from Meta."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/questpiracy"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 5
 comments: 17
 weight: 5
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ A group dedicated to the discussion of piracy for the Meta Quest and Quest 2, th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 5  |
 | Comments             | 17  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ A group dedicated to the discussion of piracy for the Meta Quest and Quest 2, th
 |----------------------|---|
 | Published            | 2023-06-10 21:46:10 |
 | Updated              | 2023-06-10 21:47:09 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

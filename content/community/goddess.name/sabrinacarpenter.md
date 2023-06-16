@@ -3,7 +3,7 @@ title: "Sabrina Carpenter"
 name: "sabrinacarpenter"
 description: "Sabrina Carpenter"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/sabrinacarpenter"
@@ -54,4 +54,4 @@ Sabrina Carpenter
 |----------------------|---|
 | Published            | 2023-06-12 16:15:21 |
 | Updated              | 2023-06-12 16:26:47 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

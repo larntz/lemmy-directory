@@ -3,13 +3,13 @@ title: "H.P. Lovecraft"
 name: "lovecraft"
 description: "Community for fans of Lovecraft and Cthulhu mythos."
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/lovecraft"
 host: ka.tet42.org
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 25
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ Community for fans of Lovecraft and Cthulhu mythos.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 25 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for fans of Lovecraft and Cthulhu mythos.
 |----------------------|---|
 | Published            | 2023-06-11 20:43:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

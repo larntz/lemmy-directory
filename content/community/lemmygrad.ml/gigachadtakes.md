@@ -3,7 +3,7 @@ title: "Gigachad Takes"
 name: "gigachadtakes"
 description: "Ultra-based takes you found"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gigachadtakes"
@@ -54,4 +54,4 @@ Ultra-based takes you found
 |----------------------|---|
 | Published            | 2023-03-13 09:47:48 |
 | Updated              | 2023-03-13 09:48:37 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

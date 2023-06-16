@@ -3,13 +3,13 @@ title: "Diablo IV"
 name: "diablo4"
 description: "Discuss about Blizzard Diablo IV"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/diablo4"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 37
 posts: 6
 comments: 9
 weight: 6
@@ -41,7 +41,7 @@ Discuss about Blizzard Diablo IV
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 37 |
 | Posts                | 6  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discuss about Blizzard Diablo IV
 |----------------------|---|
 | Published            | 2023-06-13 01:50:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

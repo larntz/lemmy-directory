@@ -3,19 +3,19 @@ title: "toki pona"
 name: "tokipona"
 description: "toki! ni li kulupu sin pi toki pona lon lipu Lemi!Rules---1. Be nice and treat others the way you want to be treated.2. Posts must be in, about or linked to *toki pona* in some way.3. Please don't behave in a way that would require of writing more rules."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tokipona"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 4
+subscribers: 23
+posts: 5
 comments: 7
-weight: 4
-dau: 3
-wau: 3
-mau: 3
+weight: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ toki! ni li kulupu sin pi toki pona lon lipu Lemi!<br><br>Rules<br>---<br><br>1.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 4  |
+| Subscribers          | 23 |
+| Posts                | 5  |
 | Comments             | 7  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ toki! ni li kulupu sin pi toki pona lon lipu Lemi!<br><br>Rules<br>---<br><br>1.
 |----------------------|---|
 | Published            | 2023-06-12 21:30:43 |
 | Updated              | 2023-06-15 19:37:07 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

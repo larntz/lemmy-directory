@@ -3,7 +3,7 @@ title: "Puer / Pu'er / Puerh Tea"
 name: "puer"
 description: "A space for discussion of puer tea"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puer"
@@ -54,4 +54,4 @@ A space for discussion of puer tea
 |----------------------|---|
 | Published            | 2020-06-28 14:38:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:19 |

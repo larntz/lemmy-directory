@@ -3,13 +3,13 @@ title: "Open Media Synthesis"
 name: "openmediasynthesis"
 description: "A Community about synthesizing media (text to image, text to music, and more) focusing on free and open source applications that can be run locally.This Community aims to provide a big overview of all the tools available, in one place.Feel free to post guides and results (workflow included = nice to have)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/openmediasynthesis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ A Community about synthesizing media (text to image, text to music, and more) fo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A Community about synthesizing media (text to image, text to music, and more) fo
 |----------------------|---|
 | Published            | 2023-06-12 15:41:01 |
 | Updated              | 2023-06-13 17:16:50 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

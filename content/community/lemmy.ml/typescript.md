@@ -3,7 +3,7 @@ title: "TypeScript"
 name: "typescript"
 description: "TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typescript"
@@ -54,4 +54,4 @@ TypeScript is a language for application-scale JavaScript development. TypeScrip
 |----------------------|---|
 | Published            | 2021-04-05 22:00:30 |
 | Updated              | 2021-04-06 16:18:49 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:21 |

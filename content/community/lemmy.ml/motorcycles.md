@@ -3,13 +3,13 @@ title: "Motorcycles are fun"
 name: "motorcycles"
 description: "Place for anyone who enjoys two wheeled machines."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/motorcycles"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 39
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ Place for anyone who enjoys two wheeled machines.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 39 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Place for anyone who enjoys two wheeled machines.
 |----------------------|---|
 | Published            | 2020-06-28 02:30:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

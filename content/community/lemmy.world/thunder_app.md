@@ -3,19 +3,19 @@ title: "Thunder - A Cross Platform Lemmy App"
 name: "thunder_app"
 description: "An open-source cross-platform Lemmy client for iOS and Android built with FlutterThis app is currently a very very WIP. For more information, see the links below._If there are any developers who would like to contribute, feel free to reach out_**Links**  GitHub:  [Thunder Repository](https://github.com/hjiangsu/thunder)---"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thunder_app"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 5
 weight: 2
-dau: 4
-wau: 4
-mau: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ An open-source cross-platform Lemmy client for iOS and Android built with Flutte
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 2  |
 | Comments             | 5  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ An open-source cross-platform Lemmy client for iOS and Android built with Flutte
 |----------------------|---|
 | Published            | 2023-06-13 21:42:57 |
 | Updated              | 2023-06-13 22:38:52 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

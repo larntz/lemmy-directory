@@ -3,13 +3,13 @@ title: "Freebies"
 name: "free"
 description: "Freebies, no strings attached. "
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/free"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ Freebies, no strings attached.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Freebies, no strings attached.
 |----------------------|---|
 | Published            | 2022-03-16 23:14:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:41 |

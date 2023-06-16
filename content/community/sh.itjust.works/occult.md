@@ -3,13 +3,13 @@ title: "Occult"
 name: "occult"
 description: "The place for all occult discussion on Lemmy. More coming soon!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/occult"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The place for all occult discussion on Lemmy. More coming soon!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The place for all occult discussion on Lemmy. More coming soon!
 |----------------------|---|
 | Published            | 2023-06-12 09:21:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

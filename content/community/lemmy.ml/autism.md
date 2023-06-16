@@ -3,13 +3,13 @@ title: "Autism"
 name: "autism"
 description: "A community for [Autism](https://wikipedia.org/wiki/Autism).## Rules1. Posts should be relevant to Autism.## Resources* [Autistic Self Advocacy Network](https://autisticadvocacy.org/about-asan/about-autism/)* [National Autistic Society](https://autism.org.uk/)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/autism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 85
+subscribers: 88
 posts: 48
 comments: 24
 weight: 48
@@ -41,7 +41,7 @@ A community for [Autism](https://wikipedia.org/wiki/Autism).<br><br>## Rules<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 85 |
+| Subscribers          | 88 |
 | Posts                | 48  |
 | Comments             | 24  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for [Autism](https://wikipedia.org/wiki/Autism).<br><br>## Rules<br>
 |----------------------|---|
 | Published            | 2022-03-24 17:39:39 |
 | Updated              | 2022-04-25 01:12:28 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

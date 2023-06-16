@@ -3,13 +3,13 @@ title: "Latino Marxista"
 name: "latino_marxista"
 description: "Comunidad marxista leninista latina creada por la falta de material comunista en español. Repositorio de posts de calidad, discusión, noticias, memes y cualquier material que pueda aportar para el conocimiento y la acción comunista. *Reglas* 1.-  Contenido principalmente en **español**. O português brasileiro também é bem-vindo. Si es portuñol, melhor aún.2.- Sólo posts marxistas leninistas o maoístas"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/latino_marxista"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 233
+subscribers: 234
 posts: 1017
 comments: 179
 weight: 1017
@@ -41,7 +41,7 @@ Comunidad marxista leninista latina creada por la falta de material comunista en
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 233 |
+| Subscribers          | 234 |
 | Posts                | 1017  |
 | Comments             | 179  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Comunidad marxista leninista latina creada por la falta de material comunista en
 |----------------------|---|
 | Published            | 2020-08-17 22:54:55 |
 | Updated              | 2020-08-19 07:11:59 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

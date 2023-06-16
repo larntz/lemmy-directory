@@ -3,13 +3,13 @@ title: "switzerland"
 name: "switzerland"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/switzerland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 39
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 39 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 11:13:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:18 |

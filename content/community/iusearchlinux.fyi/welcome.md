@@ -3,7 +3,7 @@ title: "welcome"
 name: "welcome"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/welcome"
@@ -11,9 +11,9 @@ host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
 subscribers: 27
 posts: 6
-comments: 104
+comments: 105
 weight: 6
-dau: 3
+dau: 4
 wau: 29
 mau: 29
 instances:
@@ -43,8 +43,8 @@ Description not available.
 |----------------------|---|
 | Subscribers          | 27 |
 | Posts                | 6  |
-| Comments             | 104  |
-| Daily Active Users   | 3  |
+| Comments             | 105  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 29  |
 | Monthly Active Users | 29  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 13:28:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

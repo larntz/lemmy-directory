@@ -3,7 +3,7 @@ title: "Managarm Operating System"
 name: "managarm"
 description: "![](https://lemmy.ml/pictrs/image/JQhMmzcI2d.png)This is an unofficial community for the Managarm microkernel operating system."
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/managarm"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-11-09 18:19:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:45 |

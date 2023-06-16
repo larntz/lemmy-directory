@@ -3,19 +3,19 @@ title: "All things mac and macOS"
 name: "mac"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mac"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 249
+subscribers: 252
 posts: 13
 comments: 11
 weight: 13
 dau: 1
-wau: 6
-mau: 8
+wau: 8
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 249 |
+| Subscribers          | 252 |
 | Posts                | 13  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-04-28 13:30:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

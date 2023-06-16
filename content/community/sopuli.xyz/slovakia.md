@@ -3,13 +3,13 @@ title: "Slovakia"
 name: "slovakia"
 description: "Welcome to Slovakia Vitaj na Slovensku"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/slovakia"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Welcome to Slovakia <br>Vitaj na Slovensku
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Welcome to Slovakia <br>Vitaj na Slovensku
 |----------------------|---|
 | Published            | 2023-06-04 14:40:32 |
 | Updated              | 2023-06-13 06:50:55 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

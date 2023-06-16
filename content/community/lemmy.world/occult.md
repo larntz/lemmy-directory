@@ -3,13 +3,13 @@ title: "Occult, Esoteric, Magick, and Paranormal"
 name: "occult"
 description: "Discussion of weird goings-on"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/occult"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 58
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Discussion of weird goings-on
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 58 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion of weird goings-on
 |----------------------|---|
 | Published            | 2023-06-11 05:37:32 |
 | Updated              | 2023-06-11 06:54:55 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

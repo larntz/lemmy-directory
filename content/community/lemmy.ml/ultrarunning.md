@@ -3,7 +3,7 @@ title: "ultrarunning"
 name: "ultrarunning"
 description: "A place those of us who enjoy the long, long runs can chat about; ultras, food, gear, race reports, health, injury, techniques, training, training plans, etc., etc., etc. You get the point. This is just a start, so if you have suggestions about the overall vibe and setup, please let me know. I hope we can grow this into a place we can call home. "
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ultrarunning"
@@ -54,4 +54,4 @@ A place those of us who enjoy the long, long runs can chat about; ultras, food, 
 |----------------------|---|
 | Published            | 2023-06-11 23:27:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

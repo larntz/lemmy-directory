@@ -3,13 +3,13 @@ title: "FtM - For Trans Men"
 name: "ftm"
 description: "This is space for trans guys to discuss trans guy things. Sorry, we don’t welcome nbs to hang out in this space. This is a place for us to share our unique struggles, not a general trans sub. We don’t mind lurkers though"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ftm"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is space for trans guys to discuss trans guy things. Sorry, we don’t welc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is space for trans guys to discuss trans guy things. Sorry, we don’t welc
 |----------------------|---|
 | Published            | 2023-06-05 23:49:47 |
 | Updated              | 2023-06-05 23:57:12 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

@@ -3,19 +3,19 @@ title: "Việt Nam"
 name: "vietnam"
 description: "# Cộng đồng văn hoá ViệtĐây là nơi để bàn luận về văn hoá, ngôn ngữ, các địa điểm và tất cả những gì khác nữa liên quan tới Việt Nam.## Nội quy1. Cư xử lịch sự2. Không đăng quảng cáo3. Viết tiếng Việt đúng chính tả (có dấu), kể cả trong ngôn ngữ khác---# Vietnamese culture communityThis is a place for discussing the Vietnamese culture, language, and locations, and anything else related.## Rules1. Be civil2. Don't post advertisements3. Spell Vietnamese words correctly (with diacritics)"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/vietnam"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 6
-comments: 13
-weight: 6
+subscribers: 8
+posts: 7
+comments: 14
+weight: 7
 dau: 3
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 6  |
-| Comments             | 13  |
+| Subscribers          | 8 |
+| Posts                | 7  |
+| Comments             | 14  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 01:34:07 |
 | Updated              | 2023-06-14 09:48:10 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

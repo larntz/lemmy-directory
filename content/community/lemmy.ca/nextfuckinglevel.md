@@ -3,13 +3,13 @@ title: "next fucking level"
 name: "nextfuckinglevel"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/nextfuckinglevel"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 13:11:41 |
 | Updated              | 2023-06-16 00:40:19 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

@@ -3,7 +3,7 @@ title: "BSV"
 name: "bsv"
 description: "The chronicles of a scam called Bitcoin SV"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bsv"
@@ -13,9 +13,9 @@ subscribers: 1
 posts: 3
 comments: 0
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -44,9 +44,9 @@ The chronicles of a scam called Bitcoin SV
 | Subscribers          | 1 |
 | Posts                | 3  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ The chronicles of a scam called Bitcoin SV
 |----------------------|---|
 | Published            | 2023-06-15 22:09:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

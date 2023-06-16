@@ -3,16 +3,16 @@ title: "Silly cats"
 name: "sillycats"
 description: "For pictures and videos of cats or other animals that are just silly little guys, just little creatures living their little livesRULE 1: do not be meanRULE 2: Don't be too weird about stuff"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/sillycats"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 11
+subscribers: 8
+posts: 13
 comments: 0
-weight: 11
+weight: 13
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ For pictures and videos of cats or other animals that are just silly little guys
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 11  |
+| Subscribers          | 8 |
+| Posts                | 13  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ For pictures and videos of cats or other animals that are just silly little guys
 |----------------------|---|
 | Published            | 2023-06-16 04:39:10 |
 | Updated              | 2023-06-16 05:36:51 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

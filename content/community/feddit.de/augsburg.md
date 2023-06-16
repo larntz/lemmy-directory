@@ -3,7 +3,7 @@ title: "Augsburg und Umland"
 name: "augsburg"
 description: "Hier ist die Community um sich über Augsburger Belange auszutauschen. Bitte keinen NSFW Content, Spam, Hetze oder menschenverachtende Statements. "
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/augsburg"
@@ -11,7 +11,7 @@ host: feddit.de
 lastmod: "{[ .Updated }}"
 subscribers: 11
 posts: 1
-comments: 3
+comments: 4
 weight: 1
 dau: 1
 wau: 2
@@ -43,7 +43,7 @@ Hier ist die Community um sich über Augsburger Belange auszutauschen. <br><br>B
 |----------------------|---|
 | Subscribers          | 11 |
 | Posts                | 1  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Hier ist die Community um sich über Augsburger Belange auszutauschen. <br><br>B
 |----------------------|---|
 | Published            | 2023-06-12 17:49:06 |
 | Updated              | 2023-06-13 20:39:21 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

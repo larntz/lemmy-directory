@@ -3,19 +3,19 @@ title: "One Punch Man"
 name: "opm"
 description: "Latest One Punch Man manga chapters and discussion. Stay chill."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/opm"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 3
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Latest One Punch Man manga chapters and discussion. Stay chill.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 2  |
 | Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Latest One Punch Man manga chapters and discussion. Stay chill.
 |----------------------|---|
 | Published            | 2023-06-14 23:13:12 |
 | Updated              | 2023-06-14 23:24:21 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -3,7 +3,7 @@ title: "The City"
 name: "thecity"
 description: "Discussion around this instance of Lemmy."
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/thecity"
@@ -13,7 +13,7 @@ subscribers: 3
 posts: 7
 comments: 11
 weight: 7
-dau: 4
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -44,7 +44,7 @@ Discussion around this instance of Lemmy.
 | Subscribers          | 3 |
 | Posts                | 7  |
 | Comments             | 11  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Discussion around this instance of Lemmy.
 |----------------------|---|
 | Published            | 2023-06-12 22:19:32 |
 | Updated              | 2023-06-13 22:08:42 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:19 |

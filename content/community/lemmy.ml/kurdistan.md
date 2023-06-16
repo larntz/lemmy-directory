@@ -3,7 +3,7 @@ title: "kurdistan"
 name: "kurdistan"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kurdistan"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-15 17:17:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:37 |

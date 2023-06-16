@@ -3,7 +3,7 @@ title: "Russia"
 name: "russia"
 description: "News and discussion related to Russia"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/russia"
@@ -54,4 +54,4 @@ News and discussion related to Russia
 |----------------------|---|
 | Published            | 2022-08-21 15:53:12 |
 | Updated              | 2022-08-21 16:01:13 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

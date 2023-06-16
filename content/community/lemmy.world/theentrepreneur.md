@@ -3,13 +3,13 @@ title: "Entrepreneur"
 name: "theentrepreneur"
 description: "Tips and success sharing for and by entrepreneurs."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theentrepreneur"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ Tips and success sharing for and by entrepreneurs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Tips and success sharing for and by entrepreneurs.
 |----------------------|---|
 | Published            | 2023-06-13 07:35:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

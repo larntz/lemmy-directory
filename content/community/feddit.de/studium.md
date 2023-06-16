@@ -3,13 +3,13 @@ title: "Studium"
 name: "studium"
 description: "Deutschsprachige Community für alles rund um's Studium. Angefangen von Erfahrungsberichten von Mensagerichten über Neuigkeiten eurer Uni bis hin zum gegenseitigen Austausch bei Fragen und Problemen.English speakers are welcome as well!"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/studium"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 29
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Deutschsprachige Community für alles rund um's Studium. <br><br>Angefangen von 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 29 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Deutschsprachige Community für alles rund um's Studium. <br><br>Angefangen von 
 |----------------------|---|
 | Published            | 2023-06-16 07:42:08 |
 | Updated              | 2023-06-16 08:12:51 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

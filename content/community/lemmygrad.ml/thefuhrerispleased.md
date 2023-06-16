@@ -3,13 +3,13 @@ title: "The Führer is pleased."
 name: "thefuhrerispleased"
 description: "Nazis rewriting history to suit their mass murdering ideology. Oh I'm sorry, that never happened!"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/thefuhrerispleased"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 60
+subscribers: 61
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ Nazis rewriting history to suit their mass murdering ideology. Oh I'm sorry, tha
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
+| Subscribers          | 61 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Nazis rewriting history to suit their mass murdering ideology. Oh I'm sorry, tha
 |----------------------|---|
 | Published            | 2019-08-28 00:07:43 |
 | Updated              | 2020-03-25 05:35:46 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

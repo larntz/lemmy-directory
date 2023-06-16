@@ -3,19 +3,19 @@ title: "Hand Tool Woodworking"
 name: "bodgers"
 description: "For discussing woodworking with hand tools. Machines are fine but we focus on the manual techniques here: Carving, joining, Sloyd/Slöjd/Sløyd/Sløjd, spring-pole lathe turning, planing, shaving, bending, basketry, etc. All levels of experience are welcome."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bodgers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 70
 posts: 4
-comments: 9
+comments: 10
 weight: 4
-dau: 2
-wau: 2
-mau: 2
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ For discussing woodworking with hand tools. Machines are fine but we focus on th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 70 |
 | Posts                | 4  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 10  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussing woodworking with hand tools. Machines are fine but we focus on th
 |----------------------|---|
 | Published            | 2022-12-10 19:10:10 |
 | Updated              | 2023-06-14 22:20:06 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

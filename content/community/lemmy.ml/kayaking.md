@@ -3,17 +3,17 @@ title: "Kayaking: all varieties welcome!"
 name: "kayaking"
 description: "A place to share your thoughts, questions, trip reports for all sorts of kayaking: Whitewater, Sea Kayaking, Rock Gardening, Fishing, Surfing, Squirt, etc"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kayaking"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 4
 comments: 8
 weight: 4
-dau: 3
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ A place to share your thoughts, questions, trip reports for all sorts of kayakin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 4  |
 | Comments             | 8  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ A place to share your thoughts, questions, trip reports for all sorts of kayakin
 |----------------------|---|
 | Published            | 2023-06-10 11:37:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

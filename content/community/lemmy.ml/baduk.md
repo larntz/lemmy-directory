@@ -3,18 +3,18 @@ title: "Go - Weiqi - Baduk"
 name: "baduk"
 description: "A place for players of Go / Weiqi / Baduk and anyone who wants to learn. ### Rules:1) Be civil. 2) Posts should relate to Go. Off-topic posts may be removed. 3) Memes, etc. are permitted if they follow rules 1 & 2.### Links:##### Beginner Learning Resources- [Learn-Go (Rules Explanation)](https://learn-go.vercel.app/)- [OGS Tutorial](https://online-go.com/learn-to-play-go)- [Learn Go to Play Go](https://www.learn-go.net/)##### General Learning Resources- [Sensei's Library](https://senseis.xmp.net/)- [JosekiPedia](josekipedia.com)- [OpenStudyRoom](https://openstudyroom.org/)##### Go Servers:- [OGS](https://www.online-go.com/)- [KGS](https://www.gokgs.com/)- [Pandanet](pandanet-igs.com)##### Go Puzzles:- [BlackToPlay](blacktoplay.com)- [TsumegoHero](tsumego-hero.com/)- [GoMagic](gomagic.org)"
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/baduk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 92
-posts: 14
+subscribers: 96
+posts: 15
 comments: 33
-weight: 14
+weight: 15
 dau: 1
-wau: 5
+wau: 4
 mau: 14
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place for players of Go / Weiqi / Baduk and anyone who wants to learn. <br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 14  |
+| Subscribers          | 96 |
+| Posts                | 15  |
 | Comments             | 33  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 14  |
 
 <br>
@@ -54,4 +54,4 @@ A place for players of Go / Weiqi / Baduk and anyone who wants to learn. <br><br
 |----------------------|---|
 | Published            | 2023-06-02 01:18:27 |
 | Updated              | 2023-06-14 12:41:58 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

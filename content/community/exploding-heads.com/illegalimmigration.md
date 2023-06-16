@@ -3,7 +3,7 @@ title: "Illegal Immigration"
 name: "illegalimmigration"
 description: "The unauthorized resident immigrant population is defined as all foreign-born non-citizens who are not legal residents. Most unauthorized residents either entered the United States without inspection or were admitted temporarily and stayed past the date they were required to leave. . ."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/illegalimmigration"
@@ -54,4 +54,4 @@ The unauthorized resident immigrant population is defined as all foreign-born no
 |----------------------|---|
 | Published            | 2022-02-27 23:55:21 |
 | Updated              | 2022-03-13 01:01:58 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

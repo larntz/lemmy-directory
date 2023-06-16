@@ -3,19 +3,19 @@ title: "parenting"
 name: "parenting"
 description: "A space to discuss how to be and act as a parent and how to survive it all"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/parenting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 80
 posts: 22
 comments: 35
 weight: 22
-dau: 1
-wau: 2
-mau: 2
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A space to discuss how to be and act as a parent and how to survive it all
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 80 |
 | Posts                | 22  |
 | Comments             | 35  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A space to discuss how to be and act as a parent and how to survive it all
 |----------------------|---|
 | Published            | 2021-04-21 13:33:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

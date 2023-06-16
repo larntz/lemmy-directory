@@ -3,13 +3,13 @@ title: "Most Excellent Physics Community."
 name: "physics"
 description: "**Community Rules.**- Be Excellent to each other.- Content must be Physics related.- No Spam.- Party on, dudes."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/physics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 158
+subscribers: 159
 posts: 25
 comments: 12
 weight: 25
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 158 |
+| Subscribers          | 159 |
 | Posts                | 25  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-02 19:54:44 |
 | Updated              | 2021-02-02 20:18:39 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

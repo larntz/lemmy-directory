@@ -3,17 +3,17 @@ title: "Testing"
 name: "testing"
 description: "Used for test posts"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/testing"
 host: zemmy.cc
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
-comments: 13
-weight: 1
-dau: 5
+subscribers: 7
+posts: 2
+comments: 19
+weight: 2
+dau: 2
 wau: 8
 mau: 8
 instances:
@@ -41,10 +41,10 @@ Used for test posts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 13  |
-| Daily Active Users   | 5  |
+| Subscribers          | 7 |
+| Posts                | 2  |
+| Comments             | 19  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 8  |
 | Monthly Active Users | 8  |
 
@@ -54,4 +54,4 @@ Used for test posts
 |----------------------|---|
 | Published            | 2023-06-13 11:54:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

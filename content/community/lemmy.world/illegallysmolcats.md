@@ -3,19 +3,19 @@ title: "IllegallySmolCats"
 name: "illegallysmolcats"
 description: "Straight to jail.P.S. if any mods from the og Reddit sub want to mod here, just Lemmy know "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/illegallysmolcats"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 323
-posts: 13
-comments: 18
-weight: 13
-dau: 5
-wau: 9
-mau: 9
+subscribers: 359
+posts: 14
+comments: 22
+weight: 14
+dau: 6
+wau: 18
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Straight to jail.<br><br>P.S. if any mods from the og Reddit sub want to mod her
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 323 |
-| Posts                | 13  |
-| Comments             | 18  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 359 |
+| Posts                | 14  |
+| Comments             | 22  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Straight to jail.<br><br>P.S. if any mods from the og Reddit sub want to mod her
 |----------------------|---|
 | Published            | 2023-06-13 07:02:52 |
 | Updated              | 2023-06-14 02:48:09 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

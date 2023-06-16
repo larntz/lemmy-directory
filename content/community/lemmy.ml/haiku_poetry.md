@@ -3,7 +3,7 @@ title: "haiku_poetry"
 name: "haiku_poetry"
 description: "Haiku (俳句, is a type of short form poetry originally from Japan. Traditional Japanese haiku consist of three phrases that contain a kireji, or cutting word, 17 on (a type of Japanese phoneme) in a 5, 7, 5 pattern, and a kigo, or seasonal reference. However, modern haiku vary widely on how closely they follow these traditional elements. https://en.wikipedia.org/wiki/Haiku"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haiku_poetry"
@@ -54,4 +54,4 @@ Haiku (俳句, is a type of short form poetry originally from Japan. Traditional
 |----------------------|---|
 | Published            | 2020-06-30 23:57:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

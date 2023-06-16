@@ -3,7 +3,7 @@ title: "Anarcho-Capitalism"
 name: "ancap"
 description: "a place to discuss free market capitalist anarchism and related topics, and share things that would be of interest to Anarcho-Capitalists."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ancap"
@@ -14,7 +14,7 @@ posts: 10
 comments: 16
 weight: 10
 dau: 1
-wau: 5
+wau: 3
 mau: 6
 instances:
 - "exploding-heads_com"
@@ -45,7 +45,7 @@ a place to discuss free market capitalist anarchism and related topics, and shar
 | Posts                | 10  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ a place to discuss free market capitalist anarchism and related topics, and shar
 |----------------------|---|
 | Published            | 2023-02-06 18:42:03 |
 | Updated              | 2023-02-08 16:30:21 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

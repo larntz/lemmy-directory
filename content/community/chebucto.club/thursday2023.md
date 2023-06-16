@@ -3,7 +3,7 @@ title: "Thursdays - The Swingin' Singles"
 name: "thursday2023"
 description: "Memos and discussion for the Thursday summer recreational softball team, 'The Swingin' Singles'"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/thursday2023"
@@ -54,4 +54,4 @@ Memos and discussion for the Thursday summer recreational softball team, 'The Sw
 |----------------------|---|
 | Published            | 2023-04-02 22:59:50 |
 | Updated              | 2023-05-26 01:49:30 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

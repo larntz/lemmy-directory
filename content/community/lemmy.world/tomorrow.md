@@ -3,7 +3,7 @@ title: "/r/Tomorrow"
 name: "tomorrow"
 description: "When does it come out?_Tomorrow_"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tomorrow"
@@ -54,4 +54,4 @@ When does it come out?<br><br>_Tomorrow_
 |----------------------|---|
 | Published            | 2023-06-15 01:04:06 |
 | Updated              | 2023-06-15 01:09:34 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

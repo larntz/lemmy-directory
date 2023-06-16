@@ -3,19 +3,19 @@ title: "Cats"
 name: "cats"
 description: "All things cats!!!"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/cats"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 8
-comments: 13
-weight: 8
+subscribers: 58
+posts: 11
+comments: 14
+weight: 11
 dau: 3
-wau: 7
-mau: 7
+wau: 8
+mau: 8
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ All things cats!!!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 8  |
-| Comments             | 13  |
+| Subscribers          | 58 |
+| Posts                | 11  |
+| Comments             | 14  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ All things cats!!!
 |----------------------|---|
 | Published            | 2023-06-14 02:00:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:30 |

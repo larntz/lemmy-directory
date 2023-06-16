@@ -3,7 +3,7 @@ title: "Exanima"
 name: "exanima"
 description: "Everything related to Exanima and Sui Generis.Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming.Links:- [Bare Mettle](https://www.baremettle.com/)- [Steam](https://store.steampowered.com/app/362490/Exanima/)- [GOG](https://www.gog.com/en/game/exanima)"
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exanima"
@@ -54,4 +54,4 @@ Everything related to Exanima and Sui Generis.<br><br>Rules:<br>- No NSFW conten
 |----------------------|---|
 | Published            | 2023-06-14 20:52:37 |
 | Updated              | 2023-06-14 22:48:24 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

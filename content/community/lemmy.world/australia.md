@@ -3,19 +3,19 @@ title: "Australia "
 name: "australia"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/australia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 82
-posts: 6
-comments: 8
-weight: 6
-dau: 7
-wau: 7
-mau: 7
+subscribers: 92
+posts: 8
+comments: 9
+weight: 8
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
-| Posts                | 6  |
-| Comments             | 8  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 92 |
+| Posts                | 8  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 21:31:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:17 |

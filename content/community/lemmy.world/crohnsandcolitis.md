@@ -3,13 +3,13 @@ title: "Crohn's and Ulcerative Colitis"
 name: "crohnsandcolitis"
 description: "This is a support group for people with Crohn's Disease and Ulcerative Colitis"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crohnsandcolitis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 5
 comments: 5
 weight: 5
@@ -41,7 +41,7 @@ This is a support group for people with Crohn's Disease and Ulcerative Colitis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 5  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ This is a support group for people with Crohn's Disease and Ulcerative Colitis
 |----------------------|---|
 | Published            | 2023-06-12 14:00:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

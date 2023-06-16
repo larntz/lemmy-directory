@@ -3,7 +3,7 @@ title: "Literatura"
 name: "literatuta"
 description: "Literatura **euskaraz** gozatu nahi dugun horientzako komunitate gozoa eta bizigarria :)"
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/literatuta"
@@ -54,4 +54,4 @@ Literatura **euskaraz** gozatu nahi dugun horientzako komunitate gozoa eta bizig
 |----------------------|---|
 | Published            | 2020-12-03 19:17:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

@@ -3,7 +3,7 @@ title: "Guns"
 name: "guns"
 description: "Share pictures of guns and ask questions about them."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/guns"
@@ -54,4 +54,4 @@ Share pictures of guns and ask questions about them.
 |----------------------|---|
 | Published            | 2021-09-01 20:37:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

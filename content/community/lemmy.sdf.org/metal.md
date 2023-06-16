@@ -3,7 +3,7 @@ title: "metal"
 name: "metal"
 description: "METAL: death metal, black metal, grindcore, heavy metal, speed metal, doom metal, thrash."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/metal"
@@ -54,4 +54,4 @@ METAL: death metal, black metal, grindcore, heavy metal, speed metal, doom metal
 |----------------------|---|
 | Published            | 2023-06-14 16:54:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

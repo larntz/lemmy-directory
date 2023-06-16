@@ -3,13 +3,13 @@ title: "Rugged Devices"
 name: "rugged_devices"
 description: "Post reviews, news, rumours, specs and questions about rugged devices"
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rugged_devices"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Post reviews, news, rumours, specs and questions about rugged devices
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post reviews, news, rumours, specs and questions about rugged devices
 |----------------------|---|
 | Published            | 2023-06-09 19:34:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:17 |

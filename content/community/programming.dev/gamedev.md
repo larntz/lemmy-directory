@@ -3,16 +3,16 @@ title: "Game Development"
 name: "gamedev"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/gamedev"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 129
-posts: 8
+subscribers: 145
+posts: 9
 comments: 8
-weight: 8
+weight: 9
 dau: 2
 wau: 6
 mau: 6
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 129 |
-| Posts                | 8  |
+| Subscribers          | 145 |
+| Posts                | 9  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 06:18:34 |
 | Updated              | 2023-06-13 06:22:05 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

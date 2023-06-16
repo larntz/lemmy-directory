@@ -3,7 +3,7 @@ title: "Interesting"
 name: "interesting"
 description: "For all the things that mildly interest you. Basically the same as [r/mildlyinteresting](https://reddit.com/r/mildlyinteresting) on Reddit.Temporary rules:1. The title must describe the image.2. Don't repost often."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/interesting"
@@ -54,4 +54,4 @@ For all the things that mildly interest you. Basically the same as [r/mildlyinte
 |----------------------|---|
 | Published            | 2021-02-28 21:56:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

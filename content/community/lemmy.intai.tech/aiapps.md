@@ -3,13 +3,13 @@ title: "Machine Learning and AI Apps | Tools"
 name: "aiapps"
 description: "ChatGPT and other front end AI apps and tools discussion, share your find your 15 apps that will improve your flow and ask questions about how to use AI apps. "
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/aiapps"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 27
 comments: 0
 weight: 27
@@ -41,7 +41,7 @@ ChatGPT and other front end AI apps and tools discussion, share your find your 1
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 27  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ ChatGPT and other front end AI apps and tools discussion, share your find your 1
 |----------------------|---|
 | Published            | 2023-06-12 20:37:39 |
 | Updated              | 2023-06-12 20:54:16 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

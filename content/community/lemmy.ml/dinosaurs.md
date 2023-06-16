@@ -3,7 +3,7 @@ title: "Dinosaurs"
 name: "dinosaurs"
 description: "Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allowed."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinosaurs"
@@ -54,4 +54,4 @@ Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allo
 |----------------------|---|
 | Published            | 2021-03-24 21:02:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

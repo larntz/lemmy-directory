@@ -3,13 +3,13 @@ title: "I Am A"
 name: "iama"
 description: "In I Am A, ordinary things become captivating, and what may seem absurd becomes ordinary."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iama"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ In I Am A, ordinary things become captivating, and what may seem absurd becomes 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ In I Am A, ordinary things become captivating, and what may seem absurd becomes 
 |----------------------|---|
 | Published            | 2023-06-11 11:05:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

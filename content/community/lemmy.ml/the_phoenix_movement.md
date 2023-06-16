@@ -3,7 +3,7 @@ title: "Anonymous"
 name: "the_phoenix_movement"
 description: "Like a Phoenix, America's flame of righteousness and freedom has gradually become extinguished, but through voluntary changes to our culture, behavior, lifestyle, and so on, it will be reborn from ashes. The goal of The Phoenix Movement is to provide advice and suggestions on how to improve America and it's people."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/the_phoenix_movement"
@@ -54,4 +54,4 @@ Like a Phoenix, America's flame of righteousness and freedom has gradually becom
 |----------------------|---|
 | Published            | 2021-03-01 19:41:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

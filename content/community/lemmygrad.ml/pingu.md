@@ -3,7 +3,7 @@ title: "Pingu 🐧☭"
 name: "pingu"
 description: "The community for Pingu memes."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pingu"
@@ -54,4 +54,4 @@ The community for Pingu memes.
 |----------------------|---|
 | Published            | 2020-09-20 17:48:27 |
 | Updated              | 2021-03-28 21:17:55 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

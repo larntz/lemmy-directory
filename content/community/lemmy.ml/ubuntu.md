@@ -3,19 +3,19 @@ title: "Ubuntu (Linux)"
 name: "ubuntu"
 description: "Linux for Human Beings. https://ubuntu.com/"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ubuntu"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 632
+subscribers: 633
 posts: 38
 comments: 11
 weight: 38
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Linux for Human Beings. <br><br>https://ubuntu.com/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 632 |
+| Subscribers          | 633 |
 | Posts                | 38  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Linux for Human Beings. <br><br>https://ubuntu.com/
 |----------------------|---|
 | Published            | 2020-01-03 22:28:36 |
 | Updated              | 2022-04-19 12:51:22 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,7 +3,7 @@ title: "Iggy"
 name: "iggy"
 description: "Lemmy-related project to be announced!"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iggy"
@@ -54,4 +54,4 @@ Lemmy-related project to be announced!
 |----------------------|---|
 | Published            | 2020-07-01 11:06:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

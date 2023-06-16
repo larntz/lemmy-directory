@@ -3,19 +3,19 @@ title: "Music Piracy"
 name: "musicpiracy"
 description: "Discussions on music piracy and music in general."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/musicpiracy"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 541
+subscribers: 583
 posts: 6
-comments: 81
+comments: 87
 weight: 6
 dau: 10
-wau: 68
-mau: 68
+wau: 69
+mau: 69
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussions on music piracy and music in general.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 541 |
+| Subscribers          | 583 |
 | Posts                | 6  |
-| Comments             | 81  |
+| Comments             | 87  |
 | Daily Active Users   | 10  |
-| Weekly Active Users  | 68  |
-| Monthly Active Users | 68  |
+| Weekly Active Users  | 69  |
+| Monthly Active Users | 69  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions on music piracy and music in general.
 |----------------------|---|
 | Published            | 2023-06-11 08:24:08 |
 | Updated              | 2023-06-11 11:33:32 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

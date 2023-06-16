@@ -3,16 +3,16 @@ title: "Wissenschaft"
 name: "wissenschaft"
 description: "Themen aus dem Bereich der Wissenschaften"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wissenschaft"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 401
-posts: 92
-comments: 85
-weight: 92
+subscribers: 407
+posts: 93
+comments: 89
+weight: 93
 dau: 1
 wau: 2
 mau: 5
@@ -41,9 +41,9 @@ Themen aus dem Bereich der Wissenschaften
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 401 |
-| Posts                | 92  |
-| Comments             | 85  |
+| Subscribers          | 407 |
+| Posts                | 93  |
+| Comments             | 89  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Themen aus dem Bereich der Wissenschaften
 |----------------------|---|
 | Published            | 2021-08-20 07:03:30 |
 | Updated              | 2023-01-30 06:35:11 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

@@ -3,19 +3,19 @@ title: "Environment"
 name: "environment"
 description: "A community about our environment. All interesting links, discussions, and pictures are welcome here."
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/environment"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 86
-posts: 21
-comments: 8
-weight: 21
-dau: 1
-wau: 1
-mau: 4
+subscribers: 87
+posts: 22
+comments: 9
+weight: 22
+dau: 2
+wau: 3
+mau: 6
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A community about our environment. All interesting links, discussions, and pictu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 21  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
+| Subscribers          | 87 |
+| Posts                | 22  |
+| Comments             | 9  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community about our environment. All interesting links, discussions, and pictu
 |----------------------|---|
 | Published            | 2023-01-10 19:11:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

@@ -3,7 +3,7 @@ title: "Community Emergency Response Team"
 name: "cert"
 description: "Lemmy community for FEMA's CERT program. Neighbors helping neighbors during disasters. People with similar interests from other countries are welcome to join in.Rules* Keep it friendly, neighbor* Make a post to introduce yourself"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cert"
@@ -54,4 +54,4 @@ Lemmy community for FEMA's CERT program. Neighbors helping neighbors during disa
 |----------------------|---|
 | Published            | 2022-09-27 05:15:14 |
 | Updated              | 2022-09-27 05:17:23 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

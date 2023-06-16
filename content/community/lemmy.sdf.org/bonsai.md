@@ -1,9 +1,9 @@
 ---
 title: "Bonsai Plant Discussion" 
 name: "bonsai"
-description: "A community for discussing the practice of growing bonsai plants.Bonsai here is a blanket term, not limited to the Japanese tradition of bonsai, but also including all Asian arts pertaining to diminutive potted plants. [Bonsai at Wikipedia](https://en.wikipedia.org/wiki/Bonsai)"
+description: "**Bonsai Plant Discussion at Lemmy**Welcome! This is a community for discussing the practice of growing *bonsai* plants.Bonsai here is a blanket term, not limited to the Japanese tradition of bonsai, but also including all Asian arts pertaining to diminutive potted plants.For more formation: [Bonsai at Wikipedia](https://en.wikipedia.org/wiki/Bonsai)*Note*:This is hosted on Lemmy at SDF.  If you are browsing from the larger Fediverse, search for`!bonsai@lemmy.sdf.org `and hit the Subscribe button."
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/bonsai"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community for discussing the practice of growing bonsai plants.<br><br>Bonsai here is a blanket term, not limited to the Japanese tradition of bonsai, but also including all Asian arts pertaining to diminutive potted plants.<br><br> [Bonsai at Wikipedia](https://en.wikipedia.org/wiki/Bonsai)
+**Bonsai Plant Discussion at Lemmy**<br><br>Welcome! This is a community for discussing the practice of growing *bonsai* plants.<br><br>Bonsai here is a blanket term, not limited to the Japanese tradition of bonsai, but also including all Asian arts pertaining to diminutive potted plants.<br><br>For more formation:<br> [Bonsai at Wikipedia](https://en.wikipedia.org/wiki/Bonsai)<br><br>*Note*:<br>This is hosted on Lemmy at SDF.  If you are browsing from the larger Fediverse, search for<br><br>`!bonsai@lemmy.sdf.org `<br><br>and hit the Subscribe button.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ A community for discussing the practice of growing bonsai plants.<br><br>Bonsai 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 19:11:50 |
-| Updated              | 2023-06-15 19:15:25 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Updated              | 2023-06-16 15:56:35 |
+| Last Scraped         | 2023-06-16 22:56:02 |

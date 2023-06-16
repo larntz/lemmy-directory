@@ -3,19 +3,19 @@ title: "Are the Straights OK?"
 name: "arethestraightsok"
 description: "Is someone holding these poor souls hostage and forcing them to be together?Similar minority power projects:- [Shit white people say](https://lemmygrad.ml/c/shitwhitepeoplesay)"
 type: community
-date: "2023-06-15 17:28:38"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/arethestraightsok"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 119
+subscribers: 120
 posts: 60
 comments: 260
 weight: 60
 dau: 1
 wau: 1
-mau: 3
+mau: 1
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Is someone holding these poor souls hostage and forcing them to be together?<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 119 |
+| Subscribers          | 120 |
 | Posts                | 60  |
 | Comments             | 260  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Is someone holding these poor souls hostage and forcing them to be together?<br>
 |----------------------|---|
 | Published            | 2022-09-01 12:59:53 |
 | Updated              | 2022-10-05 22:12:10 |
-| Last Scraped         | 2023-06-15 17:28:38 |
+| Last Scraped         | 2023-06-16 22:56:08 |

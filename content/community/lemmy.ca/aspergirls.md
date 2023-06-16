@@ -3,7 +3,7 @@ title: "Aspergirls"
 name: "aspergirls"
 description: "Welcome to Aspergirls! A community for discussing Asperger's or general neurodivergence in women. We created this page for the Reddit refugees who had a very active community on r/Aspergirls.Rules : Be civil. Discuss. Share good memes. "
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/aspergirls"
@@ -54,4 +54,4 @@ Welcome to Aspergirls! A community for discussing Asperger's or general neurodiv
 |----------------------|---|
 | Published            | 2023-06-13 16:50:07 |
 | Updated              | 2023-06-13 17:06:15 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

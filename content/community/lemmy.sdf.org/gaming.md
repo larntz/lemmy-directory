@@ -3,19 +3,19 @@ title: "gaming"
 name: "gaming"
 description: "Talk about the games you like to play"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/gaming"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 61
-posts: 1
+subscribers: 64
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Talk about the games you like to play
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 1  |
+| Subscribers          | 64 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Talk about the games you like to play
 |----------------------|---|
 | Published            | 2023-06-08 19:09:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

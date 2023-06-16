@@ -3,16 +3,16 @@ title: "knives"
 name: "knives"
 description: "Just trying to get things started"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/knives"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 35
-posts: 2
-comments: 8
-weight: 2
+subscribers: 38
+posts: 3
+comments: 11
+weight: 3
 dau: 2
 wau: 3
 mau: 3
@@ -41,9 +41,9 @@ Just trying to get things started
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 2  |
-| Comments             | 8  |
+| Subscribers          | 38 |
+| Posts                | 3  |
+| Comments             | 11  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Just trying to get things started
 |----------------------|---|
 | Published            | 2023-06-09 13:42:09 |
 | Updated              | 2023-06-09 14:51:58 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

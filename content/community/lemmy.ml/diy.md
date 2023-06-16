@@ -3,15 +3,15 @@ title: "Do-It-Yourself, Repairs and Fixes"
 name: "diy"
 description: "Share tips and tricks to keep people from throwing out that broken item. Repair before replace!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1206
+subscribers: 1213
 posts: 35
-comments: 34
+comments: 35
 weight: 35
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Share tips and tricks to keep people from throwing out that broken item. Repair 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1206 |
+| Subscribers          | 1213 |
 | Posts                | 35  |
-| Comments             | 34  |
+| Comments             | 35  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Share tips and tricks to keep people from throwing out that broken item. Repair 
 |----------------------|---|
 | Published            | 2019-05-13 22:53:30 |
 | Updated              | 2022-02-09 19:57:48 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

@@ -3,19 +3,19 @@ title: "Frugal"
 name: "frugal"
 description: "Discuss how to save money. "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frugal"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1056
-posts: 9
-comments: 112
-weight: 9
-dau: 14
-wau: 65
-mau: 65
+subscribers: 1129
+posts: 10
+comments: 115
+weight: 10
+dau: 3
+wau: 71
+mau: 71
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discuss how to save money.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1056 |
-| Posts                | 9  |
-| Comments             | 112  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 65  |
-| Monthly Active Users | 65  |
+| Subscribers          | 1129 |
+| Posts                | 10  |
+| Comments             | 115  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 71  |
+| Monthly Active Users | 71  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discuss how to save money.
 |----------------------|---|
 | Published            | 2023-06-10 19:48:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

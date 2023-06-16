@@ -3,7 +3,7 @@ title: "Ecología Social y Comunalismo"
 name: "ecologiasocial"
 description: "Levantando transición civilizatoria----Esta comunidad es para compartir cualquier tipo de información sobre la Ecología Social, aportando a levantar una alternativa efectiva a la destrucción capitalista centrada en el bienestar humano, la felicidad, la consciencia ecológica, el feminismo y la anti-jerarquía social."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ecologiasocial"
@@ -54,4 +54,4 @@ Levantando transición civilizatoria<br>----<br><br>Esta comunidad es para compa
 |----------------------|---|
 | Published            | 2020-05-19 17:32:35 |
 | Updated              | 2020-06-25 20:08:05 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:19 |

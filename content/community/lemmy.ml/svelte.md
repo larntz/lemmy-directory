@@ -3,19 +3,19 @@ title: "Svelte Programming"
 name: "svelte"
 description: "An unofficial community for all things Svelte - discussions, questions, showcases and tutorials."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/svelte"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 1
-mau: 2
+subscribers: 16
+posts: 4
+comments: 2
+weight: 4
+dau: 3
+wau: 3
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ An unofficial community for all things Svelte - discussions, questions, showcase
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Subscribers          | 16 |
+| Posts                | 4  |
+| Comments             | 2  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ An unofficial community for all things Svelte - discussions, questions, showcase
 |----------------------|---|
 | Published            | 2023-06-03 07:04:08 |
 | Updated              | 2023-06-03 07:27:43 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

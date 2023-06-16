@@ -3,16 +3,16 @@ title: "FFXIV Online"
 name: "ffxiv"
 description: "A community to discuss FFXIV, kupo!Community icon from: https://www.pixiv.net/en/artworks/75064616"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/ffxiv"
 host: possumpat.io
 lastmod: "{[ .Updated }}"
-subscribers: 262
-posts: 14
-comments: 70
-weight: 14
+subscribers: 287
+posts: 17
+comments: 86
+weight: 17
 dau: 5
 wau: 11
 mau: 11
@@ -41,9 +41,9 @@ A community to discuss FFXIV, kupo!<br><br>Community icon from: https://www.pixi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 262 |
-| Posts                | 14  |
-| Comments             | 70  |
+| Subscribers          | 287 |
+| Posts                | 17  |
+| Comments             | 86  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ A community to discuss FFXIV, kupo!<br><br>Community icon from: https://www.pixi
 |----------------------|---|
 | Published            | 2023-06-02 03:54:43 |
 | Updated              | 2023-06-07 19:07:37 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

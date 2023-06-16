@@ -3,7 +3,7 @@ title: "Berkeley Software Distrobution"
 name: "bsd"
 description: "This community is for people to discuss and share anything BSD/Unix related.While it's not intended to be a unixporn clone, screenshots of cool setup's are welcome. "
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/bsd"
@@ -54,4 +54,4 @@ This community is for people to discuss and share anything BSD/Unix related.<br>
 |----------------------|---|
 | Published            | 2023-06-08 01:45:04 |
 | Updated              | 2023-06-08 01:56:23 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

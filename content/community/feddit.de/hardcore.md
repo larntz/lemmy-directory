@@ -3,7 +3,7 @@ title: "Hardcore"
 name: "hardcore"
 description: "music for strange people"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hardcore"
@@ -54,4 +54,4 @@ music for strange people
 |----------------------|---|
 | Published            | 2023-06-01 12:13:55 |
 | Updated              | 2023-06-01 18:29:19 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

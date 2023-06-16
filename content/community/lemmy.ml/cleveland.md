@@ -3,7 +3,7 @@ title: "Cleveland"
 name: "cleveland"
 description: "Cleveland, Ohio"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cleveland"
@@ -54,4 +54,4 @@ Cleveland, Ohio
 |----------------------|---|
 | Published            | 2021-02-26 18:50:07 |
 | Updated              | 2021-02-26 18:54:22 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:44 |

@@ -3,7 +3,7 @@ title: "progresywny militaryzm"
 name: "progmil"
 description: ""
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/progmil"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-08-01 10:59:27 |
 | Updated              | 2021-07-19 21:12:59 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

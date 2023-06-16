@@ -3,17 +3,17 @@ title: "Politica interna, europea e internazionale"
 name: "politica"
 description: "# Comunità dedicata alle notizie e alle analisi politiche!Sono vietati i messaggi offensivi e ostili o quelli palesemente illegali.🚫 Evitare notizie provenienti da fonti non affidabili. Per una rassegna, cfr la Black List di Butac al link https://www.butac.it/the-black-list/ *Nel caso fosse proprio necessario postare link da quei siti, aggiungere al titolo la dicitura* :**#Disinformazione?**"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/politica"
 host: feddit.it
 lastmod: "{[ .Updated }}"
 subscribers: 357
-posts: 238
-comments: 235
-weight: 238
-dau: 5
+posts: 239
+comments: 236
+weight: 239
+dau: 4
 wau: 17
 mau: 36
 instances:
@@ -42,9 +42,9 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 357 |
-| Posts                | 238  |
-| Comments             | 235  |
-| Daily Active Users   | 5  |
+| Posts                | 239  |
+| Comments             | 236  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 17  |
 | Monthly Active Users | 36  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-05-10 08:58:44 |
 | Updated              | 2022-07-20 11:23:16 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

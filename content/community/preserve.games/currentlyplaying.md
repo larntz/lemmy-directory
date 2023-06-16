@@ -3,7 +3,7 @@ title: "Currently Playing"
 name: "currentlyplaying"
 description: "This is a place where you can talk about games you're currently playing, rant about Diablo 4, or praise the good games you like!"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/currentlyplaying"
@@ -54,4 +54,4 @@ This is a place where you can talk about games you're currently playing, rant ab
 |----------------------|---|
 | Published            | 2023-06-13 00:07:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:32 |

@@ -3,7 +3,7 @@ title: "Angola - Geral"
 name: "angola"
 description: "Uma comunidade dedicada a Angola."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/angola"
@@ -54,4 +54,4 @@ Uma comunidade dedicada a Angola.
 |----------------------|---|
 | Published            | 2021-09-11 15:18:34 |
 | Updated              | 2021-09-13 10:54:53 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

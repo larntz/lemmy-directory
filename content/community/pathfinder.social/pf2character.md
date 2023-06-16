@@ -3,19 +3,19 @@ title: "Pathfinder 2e Character Discussion"
 name: "pf2character"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2character"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 2
-comments: 11
-weight: 2
-dau: 1
+subscribers: 72
+posts: 3
+comments: 13
+weight: 3
+dau: 2
 wau: 7
-mau: 7
+mau: 8
 instances:
 - "pathfinder_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 2  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
+| Subscribers          | 72 |
+| Posts                | 3  |
+| Comments             | 13  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 07:44:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

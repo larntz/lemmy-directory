@@ -3,16 +3,16 @@ title: "Outdoor Recreation"
 name: "outdoors"
 description: "**Outdoor Recreation**A community dedicated to all things outdoors. Hiking, backpacking, cycling, camping, gardening, walking, any discussions surrounding outdoor activities you can think of are welcome here! Write properly, behave politely, encourage a respectful community, and most importantly, GO OUTSIDE!!If you like it here, please donate to support the upkeep of Lemmy.ca at:  https://liberapay.com/lemmy.ca/https://opencollective.com/lemmy-ca"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/outdoors"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 85
-posts: 3
-comments: 16
-weight: 3
+subscribers: 105
+posts: 4
+comments: 21
+weight: 4
 dau: 5
 wau: 7
 mau: 7
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 85 |
-| Posts                | 3  |
-| Comments             | 16  |
+| Subscribers          | 105 |
+| Posts                | 4  |
+| Comments             | 21  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 06:14:59 |
 | Updated              | 2023-06-14 06:19:01 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

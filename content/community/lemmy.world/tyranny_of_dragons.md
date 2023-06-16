@@ -3,7 +3,7 @@ title: "Tyranny of Dragons"
 name: "tyranny_of_dragons"
 description: "This community can be used to collect and share advice on running the Tyranny of Dragons module from Dungeons &amp; Dragons 5th Edition. "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tyranny_of_dragons"
@@ -54,4 +54,4 @@ This community can be used to collect and share advice on running the Tyranny of
 |----------------------|---|
 | Published            | 2023-06-12 08:10:00 |
 | Updated              | 2023-06-12 15:31:34 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

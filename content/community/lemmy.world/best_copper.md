@@ -3,7 +3,7 @@ title: "Finest copper in Dilmun"
 name: "best_copper"
 description: "::: spoiler spoiler...Or just a low-quality shiny Rock.:::"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/best_copper"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 15:52:39 |
 | Updated              | 2023-06-12 15:54:38 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

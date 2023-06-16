@@ -3,19 +3,19 @@ title: "Mental Health"
 name: "mentalhealth"
 description: "Welcome! -**This is a safe place to discuss, vent, support, and share information about mental health, illness, and wellness.****Together, we make this community great. Thank you for being here. Please actively participate in the discussions. Please show respect and empathy when replying to posts.**The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-**1**-Posts promoting paid products and services of any kind are not allowed here. If you are offering a free therapy service, then contact the current moderators for a short, completely anonymous interview.**2**-All our content must be helpful and appropriate. Do not put vulnerable people at risk and mind the way you approach when need be. **3**-Do not DM any of our members unless they specifically request it. Likewise, if a person from here disturbs you, you are encouraged to report them to us(with evidence) and block them. They will be banned instantly. **4**-Posts about suicide and/or dying are not allowed here. Your content may trigger others & put them at risk, and we do NOT want that to happen. We'll be establishing a !SuicideWatch community soon. Partnered Communities: - [No Stupid Questions](https://lemmy.world/c/nostupidquestions)[You Should Know](https://lemmy.world/c/youshouldknow)[Jokes](https://lemmy.world/c/jokes)To partner with our community and be  included here, you are free to message me or comment on our pinned post. Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time, or simply shoot a message to the current moderators. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mentalhealth"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 108
+subscribers: 127
 posts: 6
-comments: 47
+comments: 56
 weight: 6
-dau: 4
-wau: 4
-mau: 4
+dau: 13
+wau: 21
+mau: 21
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome! <br>-<br><br>**This is a safe place to discuss, vent, support, and shar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 108 |
+| Subscribers          | 127 |
 | Posts                | 6  |
-| Comments             | 47  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 56  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome! <br>-<br><br>**This is a safe place to discuss, vent, support, and shar
 |----------------------|---|
 | Published            | 2023-06-12 23:03:56 |
 | Updated              | 2023-06-16 05:58:36 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

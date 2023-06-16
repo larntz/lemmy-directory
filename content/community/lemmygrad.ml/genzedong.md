@@ -3,19 +3,19 @@ title: "GenZedong"
 name: "genzedong"
 description: "This is a Dengist community in favor of Bashar al-Assad with no information that can lead to the arrest of Hillary Clinton, our fellow liberal and queen. This community is not ironic. We are Marxists-Leninists. If you haven't already found it, [this GitHub page](https://dessalines.github.io/essays) is an excellent collection of sources about socialism, imperialism, and other relevant topics, made by [@dessalines](https://lemmygrad.ml/u/dessalines@lemmy.ml) and others.We have a [Matrix homeserver](https://genzedong.xyz) and a private Matrix room. See [this thread](https://lemmygrad.ml/post/484053) for more information.**Rules:**- No ableism, racism, misogyny, transphobia, etc.- No being pro-Amerikkka- No being an electoralist or a lib (of course)- Moderator discretion- This community is explicitly pro-AES- No dogmatism/idealism (Trotskyism, Gonzaloism, Hoxhaism, anarchism, etc.)- Reactionary or ultra-leftist cringe posts belong in [/c/shitreactionariessay](https://lemmygrad.ml/c/shitreactionariessay) or [/c/shitultrassay](https://lemmygrad.ml/c/shitultrassay) respectively"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedong"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3006
-posts: 6008
-comments: 47827
-weight: 6008
-dau: 103
-wau: 245
-mau: 344
+subscribers: 3012
+posts: 6011
+comments: 47868
+weight: 6011
+dau: 80
+wau: 260
+mau: 363
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a Dengist community in favor of Bashar al-Assad with no information that
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3006 |
-| Posts                | 6008  |
-| Comments             | 47827  |
-| Daily Active Users   | 103  |
-| Weekly Active Users  | 245  |
-| Monthly Active Users | 344  |
+| Subscribers          | 3012 |
+| Posts                | 6011  |
+| Comments             | 47868  |
+| Daily Active Users   | 80  |
+| Weekly Active Users  | 260  |
+| Monthly Active Users | 363  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a Dengist community in favor of Bashar al-Assad with no information that
 |----------------------|---|
 | Published            | 2020-10-30 15:47:38 |
 | Updated              | 2023-06-04 20:19:13 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:08 |

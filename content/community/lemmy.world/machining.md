@@ -3,13 +3,13 @@ title: "Machining"
 name: "machining"
 description: "Welcome to Machining!  Lemmy instance for machinists, hobbyists, and everyone."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/machining"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Welcome to Machining!  Lemmy instance for machinists, hobbyists, and everyone.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Welcome to Machining!  Lemmy instance for machinists, hobbyists, and everyone.
 |----------------------|---|
 | Published            | 2023-06-13 22:03:09 |
 | Updated              | 2023-06-13 23:40:33 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

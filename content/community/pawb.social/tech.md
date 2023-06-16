@@ -3,19 +3,19 @@ title: "Furry Technologists"
 name: "tech"
 description: "Science, Technology, and pawbs"
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/tech"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 371
-posts: 54
-comments: 344
-weight: 54
-dau: 40
-wau: 128
-mau: 152
+subscribers: 394
+posts: 56
+comments: 388
+weight: 56
+dau: 59
+wau: 149
+mau: 176
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ Science, Technology, and pawbs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 371 |
-| Posts                | 54  |
-| Comments             | 344  |
-| Daily Active Users   | 40  |
-| Weekly Active Users  | 128  |
-| Monthly Active Users | 152  |
+| Subscribers          | 394 |
+| Posts                | 56  |
+| Comments             | 388  |
+| Daily Active Users   | 59  |
+| Weekly Active Users  | 149  |
+| Monthly Active Users | 176  |
 
 <br>
 
@@ -54,4 +54,4 @@ Science, Technology, and pawbs
 |----------------------|---|
 | Published            | 2023-06-03 16:11:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

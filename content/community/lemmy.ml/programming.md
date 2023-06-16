@@ -3,19 +3,19 @@ title: "General Programming Discussion"
 name: "programming"
 description: "A general programming discussion community.# Rules:1. Be civil.2. Please start discussions that spark conversation# Other communities- [!python@lemmy.ml](https://lemmy.ml/c/python)- [!powershell@lemmy.ml](https://lemmy.ml/c/powershell)- [!julia@lemmy.ml](https://lemmy.ml/c/julia)- [!iosprogramming@lemmy.ml](https://lemmy.ml/c/iosprogramming)### Systems- [!rust@lemmy.ml](https://lemmy.ml/c/rust)- [!cpp@lemmy.ml](https://lemmy.ml/c/cpp)- [!c_programming@lemmy.ml](https://lemmy.ml/c/c_programming)### Functional Programming- [!haskell@lemmy.ml](https://lemmy.ml/c/haskell)- [!fpcomplete@lemmy.ml](https://lemmy.ml/c/fpcomplete)### Also related- [!opensource@lemmy.ml](https://lemmy.ml/c/opensource) "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/programming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5331
-posts: 1110
-comments: 1498
-weight: 1110
-dau: 1
-wau: 76
-mau: 169
+subscribers: 5380
+posts: 1113
+comments: 1504
+weight: 1113
+dau: 4
+wau: 67
+mau: 176
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A general programming discussion community.<br><br># Rules:<br><br>1. Be civil.<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5331 |
-| Posts                | 1110  |
-| Comments             | 1498  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 76  |
-| Monthly Active Users | 169  |
+| Subscribers          | 5380 |
+| Posts                | 1113  |
+| Comments             | 1504  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 67  |
+| Monthly Active Users | 176  |
 
 <br>
 
@@ -54,4 +54,4 @@ A general programming discussion community.<br><br># Rules:<br><br>1. Be civil.<
 |----------------------|---|
 | Published            | 2019-04-27 09:33:55 |
 | Updated              | 2023-06-08 22:33:17 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:20 |

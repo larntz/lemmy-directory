@@ -3,16 +3,16 @@ title: "Technologie"
 name: "technologie"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/technologie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 670
-posts: 31
-comments: 76
-weight: 31
+subscribers: 686
+posts: 32
+comments: 77
+weight: 32
 dau: 14
 wau: 42
 mau: 52
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 670 |
-| Posts                | 31  |
-| Comments             | 76  |
+| Subscribers          | 686 |
+| Posts                | 32  |
+| Comments             | 77  |
 | Daily Active Users   | 14  |
 | Weekly Active Users  | 42  |
 | Monthly Active Users | 52  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-08-22 12:15:59 |
 | Updated              | 2021-08-30 08:19:57 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

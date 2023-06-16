@@ -3,13 +3,13 @@ title: "Bitwig"
 name: "bitwig"
 description: "Bitwig"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/bitwig"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ Bitwig
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Bitwig
 |----------------------|---|
 | Published            | 2023-06-11 18:48:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

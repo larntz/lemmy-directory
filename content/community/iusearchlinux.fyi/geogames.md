@@ -3,7 +3,7 @@ title: "geo games"
 name: "geogames"
 description: "community for geo games like geoguessr, geotastic or geobingo and more"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/geogames"
@@ -54,4 +54,4 @@ community for geo games like geoguessr, geotastic or geobingo and more
 |----------------------|---|
 | Published            | 2023-06-10 18:24:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

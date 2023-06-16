@@ -3,7 +3,7 @@ title: "Uganda"
 name: "uganda"
 description: "A community to share and discuss news about Uganda. "
 type: community
-date: "2023-06-16 11:06:29"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/uganda"
@@ -54,4 +54,4 @@ A community to share and discuss news about Uganda.
 |----------------------|---|
 | Published            | 2021-03-28 09:59:22 |
 | Updated              | 2021-11-28 00:56:02 |
-| Last Scraped         | 2023-06-16 11:06:29 |
+| Last Scraped         | 2023-06-16 22:56:27 |

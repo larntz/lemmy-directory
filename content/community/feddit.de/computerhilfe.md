@@ -3,13 +3,13 @@ title: "Computerhilfe"
 name: "computerhilfe"
 description: "Hilfe für Dinge am Computer."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/computerhilfe"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 104
+subscribers: 106
 posts: 5
 comments: 6
 weight: 5
@@ -41,7 +41,7 @@ Hilfe für Dinge am Computer.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 104 |
+| Subscribers          | 106 |
 | Posts                | 5  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hilfe für Dinge am Computer.
 |----------------------|---|
 | Published            | 2021-08-21 08:30:08 |
 | Updated              | 2021-08-30 09:10:54 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

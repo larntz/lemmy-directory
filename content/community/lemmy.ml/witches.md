@@ -3,19 +3,19 @@ title: "Witches"
 name: "witches"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/witches"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 161
+subscribers: 170
 posts: 5
-comments: 5
+comments: 6
 weight: 5
-dau: 4
-wau: 15
-mau: 15
+dau: 1
+wau: 16
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 161 |
+| Subscribers          | 170 |
 | Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 21:36:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

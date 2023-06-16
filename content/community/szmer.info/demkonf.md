@@ -3,7 +3,7 @@ title: "demokratyczny konfederalizm"
 name: "demkonf"
 description: "Demokratyczny Konfederalizm / Jinealogia / Ekologia Społeczna / Municypializm / Bookchin / OcalanSpołeczność poświęcona gromadzeniu materiałów i informacji z orbity Bookchinizmu-Ocalanizmu ( ;P ) i koncepcji pokrewnych."
 type: community
-date: "2023-06-16 11:06:35"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/demkonf"
@@ -54,4 +54,4 @@ Demokratyczny Konfederalizm / Jinealogia / Ekologia Społeczna / Municypializm /
 |----------------------|---|
 | Published            | 2021-01-26 17:24:57 |
 | Updated              | 2021-02-28 11:55:22 |
-| Last Scraped         | 2023-06-16 11:06:35 |
+| Last Scraped         | 2023-06-16 22:56:32 |

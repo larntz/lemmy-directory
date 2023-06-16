@@ -3,13 +3,13 @@ title: "Golang"
 name: "golang"
 description: "Lemmy community dedicated to the go programming language"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/golang"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 80
+subscribers: 91
 posts: 1
 comments: 10
 weight: 1
@@ -41,7 +41,7 @@ Lemmy community dedicated to the go programming language
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
+| Subscribers          | 91 |
 | Posts                | 1  |
 | Comments             | 10  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Lemmy community dedicated to the go programming language
 |----------------------|---|
 | Published            | 2023-06-13 01:18:07 |
 | Updated              | 2023-06-13 01:31:16 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:03 |

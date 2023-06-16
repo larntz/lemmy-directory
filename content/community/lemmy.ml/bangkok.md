@@ -3,7 +3,7 @@ title: "Bangkok"
 name: "bangkok"
 description: "**Welcome to the Bangkok Community! **🌆🌴 Connect with fellow Bangkok~~ers~~, share tips on attractions and local gems, and immerse yourself in the vibrant culture of this dynamic city. Stay up-to-date with events, festivals, insider recommendations, and all things Bangkok! 🌃🌇"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bangkok"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-03 19:49:40 |
 | Updated              | 2023-06-04 03:46:08 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:45 |

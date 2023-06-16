@@ -3,17 +3,17 @@ title: "LoseIt: Lose the Fat"
 name: "loseit"
 description: "https://www.reddit.com/r/loseit/A community for weight-loss, primarily by means of inducing a caloric deficit."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/loseit"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 75
-posts: 5
-comments: 35
-weight: 5
-dau: 6
+subscribers: 79
+posts: 6
+comments: 38
+weight: 6
+dau: 2
 wau: 21
 mau: 21
 instances:
@@ -41,10 +41,10 @@ https://www.reddit.com/r/loseit/<br><br>A community for weight-loss, primarily b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 5  |
-| Comments             | 35  |
-| Daily Active Users   | 6  |
+| Subscribers          | 79 |
+| Posts                | 6  |
+| Comments             | 38  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 21  |
 | Monthly Active Users | 21  |
 
@@ -54,4 +54,4 @@ https://www.reddit.com/r/loseit/<br><br>A community for weight-loss, primarily b
 |----------------------|---|
 | Published            | 2023-06-09 17:39:41 |
 | Updated              | 2023-06-10 18:05:22 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

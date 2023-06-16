@@ -3,16 +3,16 @@ title: "Puns"
 name: "puns"
 description: "You notice there's no Grizzleys on this community? - They can't Bear puns.Your worst puns. Drop them here and run for your life.Higher forms of word-play belong at lemmy.ml/c/wordplay"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puns"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 63
-posts: 9
+subscribers: 66
+posts: 10
 comments: 6
-weight: 9
+weight: 10
 dau: 1
 wau: 3
 mau: 2
@@ -41,8 +41,8 @@ You notice there's no Grizzleys on this community? - They can't Bear puns.<br><b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
-| Posts                | 9  |
+| Subscribers          | 66 |
+| Posts                | 10  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ You notice there's no Grizzleys on this community? - They can't Bear puns.<br><b
 |----------------------|---|
 | Published            | 2022-02-10 09:56:59 |
 | Updated              | 2022-04-17 10:13:21 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

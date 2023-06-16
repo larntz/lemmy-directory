@@ -3,7 +3,7 @@ title: "Tetris"
 name: "tetris"
 description: "Welcome. All forms of our favorite block stacking game may be discuss (official and unofficial)"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tetris"
@@ -54,4 +54,4 @@ Welcome. All forms of our favorite block stacking game may be discuss (official 
 |----------------------|---|
 | Published            | 2023-06-14 02:48:33 |
 | Updated              | 2023-06-14 14:59:25 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:05 |

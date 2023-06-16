@@ -3,7 +3,7 @@ title: "Feddit RO"
 name: "fedditro"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:27"
+date: "2023-06-16 22:56:24"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/fedditro"
@@ -11,9 +11,9 @@ host: feddit.ro
 lastmod: "{[ .Updated }}"
 subscribers: 3
 posts: 1
-comments: 1
+comments: 3
 weight: 1
-dau: 1
+dau: 2
 wau: 2
 mau: 2
 instances:
@@ -43,8 +43,8 @@ Description not available.
 |----------------------|---|
 | Subscribers          | 3 |
 | Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 12:55:58 |
 | Updated              | 2023-06-14 22:51:37 |
-| Last Scraped         | 2023-06-16 11:06:27 |
+| Last Scraped         | 2023-06-16 22:56:24 |

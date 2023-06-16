@@ -3,19 +3,19 @@ title: "Languages and Linguistics | Polyglots, Language Learners and Linguists!"
 name: "languages"
 description: "A community for languages, linguistics and people interested in both!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/languages"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 72
 posts: 4
 comments: 16
 weight: 4
 dau: 4
-wau: 6
-mau: 6
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for languages, linguistics and people interested in both!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 72 |
 | Posts                | 4  |
 | Comments             | 16  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for languages, linguistics and people interested in both!
 |----------------------|---|
 | Published            | 2023-06-13 14:23:20 |
 | Updated              | 2023-06-13 14:24:12 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

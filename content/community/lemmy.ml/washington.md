@@ -3,7 +3,7 @@ title: "Washington State Community"
 name: "washington"
 description: "Washington State in the Pacific Northwest"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/washington"
@@ -54,4 +54,4 @@ Washington State in the Pacific Northwest
 |----------------------|---|
 | Published            | 2023-06-10 16:41:41 |
 | Updated              | 2023-06-10 16:50:21 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:19 |

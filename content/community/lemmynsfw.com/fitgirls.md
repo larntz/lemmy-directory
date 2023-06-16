@@ -3,19 +3,19 @@ title: "Fit Girls"
 name: "fitgirls"
 description: "Welcome to /r/FitGirls    Dedicated to the lifter, the runner, the athlete, the dancer, the strong, the fast, the tough, the flexible... the fit.These rules apply to all posts here:    * If the woman in the posted picture definitively does not fit under the umbrella of fit as outlined above, then sure, report it.    * If the woman is fit, but not what you, as an individual are attracted to? Then don't upvote, and move on.    * If you comment on a Self post and attack the OP (and yes, misgendering is an attack), then you will be banned.    * Trans women are women. Hatred has no place here.    * Don't crosspost or repost original content from other reddit users. * Please keep it 18+ * Negativity will not be tolerated. * Enjoy the scenery.Formerly  [r/fitgirls](https://old.reddit.com/r/fitgirls/)"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/fitgirls"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 503
+subscribers: 535
 posts: 16
 comments: 3
 weight: 16
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Welcome to /r/FitGirls<br><br>    Dedicated to the lifter, the runner, the athle
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 503 |
+| Subscribers          | 535 |
 | Posts                | 16  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Welcome to /r/FitGirls<br><br>    Dedicated to the lifter, the runner, the athle
 |----------------------|---|
 | Published            | 2023-06-11 19:38:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

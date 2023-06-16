@@ -3,7 +3,7 @@ title: "Inkscape"
 name: "inkscape"
 description: "A community for users of Inkscape, the free and open source vector graphics editor"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/inkscape"
@@ -54,4 +54,4 @@ A community for users of Inkscape, the free and open source vector graphics edit
 |----------------------|---|
 | Published            | 2023-06-12 02:22:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

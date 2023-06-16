@@ -3,7 +3,7 @@ title: "The Free Stuff Community"
 name: "freebies"
 description: "Inspired by the one on Reddit. Post links to all kinds of freebies here, digital and physical."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freebies"
@@ -54,4 +54,4 @@ Inspired by the one on Reddit. Post links to all kinds of freebies here, digital
 |----------------------|---|
 | Published            | 2022-09-29 08:01:23 |
 | Updated              | 2022-12-01 09:50:09 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

@@ -3,7 +3,7 @@ title: "pictures"
 name: "pictures"
 description: "Share photos and pictures you’ve made. Note that for pictures where AI has been used a separate community c/aiart exists."
 type: community
-date: "2023-06-16 11:06:33"
+date: "2023-06-16 22:56:31"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/pictures"
@@ -54,4 +54,4 @@ Share photos and pictures you’ve made. Note that for pictures where AI has bee
 |----------------------|---|
 | Published            | 2023-06-13 07:36:51 |
 | Updated              | 2023-06-15 17:05:52 |
-| Last Scraped         | 2023-06-16 11:06:33 |
+| Last Scraped         | 2023-06-16 22:56:31 |

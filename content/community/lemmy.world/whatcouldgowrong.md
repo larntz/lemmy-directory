@@ -3,13 +3,13 @@ title: "What could go wrong?"
 name: "whatcouldgowrong"
 description: "Learn what not to do."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whatcouldgowrong"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 150
+subscribers: 162
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Learn what not to do.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
+| Subscribers          | 162 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Learn what not to do.
 |----------------------|---|
 | Published            | 2023-06-11 13:33:50 |
 | Updated              | 2023-06-11 13:37:57 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

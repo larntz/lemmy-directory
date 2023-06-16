@@ -3,7 +3,7 @@ title: "Argentine Tango"
 name: "tango"
 description: "A place for discussion and content related to the Argentine Tango and those who partake."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tango"
@@ -14,8 +14,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ A place for discussion and content related to the Argentine Tango and those who 
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for discussion and content related to the Argentine Tango and those who 
 |----------------------|---|
 | Published            | 2023-06-14 01:31:05 |
 | Updated              | 2023-06-14 01:34:45 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

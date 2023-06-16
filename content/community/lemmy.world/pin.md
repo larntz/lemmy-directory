@@ -3,7 +3,7 @@ title: "Pin"
 name: "pin"
 description: "Post anything about pins in here."
 type: community
-date: "2023-06-16 11:07:14"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pin"
@@ -54,4 +54,4 @@ Post anything about pins in here.
 |----------------------|---|
 | Published            | 2023-06-14 12:03:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:14 |
+| Last Scraped         | 2023-06-16 22:57:14 |

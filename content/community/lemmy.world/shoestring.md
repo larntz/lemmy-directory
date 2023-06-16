@@ -3,16 +3,16 @@ title: "Shoestring Travel"
 name: "shoestring"
 description: "A community to share information and ask questions about travelling on a budget. "
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shoestring"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 1
+subscribers: 11
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community to share information and ask questions about travelling on a budget.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
+| Subscribers          | 11 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community to share information and ask questions about travelling on a budget.
 |----------------------|---|
 | Published            | 2023-06-14 15:35:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

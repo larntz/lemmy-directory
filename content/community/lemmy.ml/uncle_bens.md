@@ -3,7 +3,7 @@ title: "Uncle Bens"
 name: "uncle_bens"
 description: "A community for the uncle ben's mushroom growing technique. "
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uncle_bens"
@@ -54,4 +54,4 @@ A community for the uncle ben's mushroom growing technique.
 |----------------------|---|
 | Published            | 2021-01-31 16:27:16 |
 | Updated              | 2021-01-31 19:32:04 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:30 |

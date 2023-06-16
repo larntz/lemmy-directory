@@ -3,15 +3,15 @@ title: "Kubuntu"
 name: "kubuntu"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kubuntu"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 40
 posts: 2
-comments: 2
+comments: 3
 weight: 2
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 40 |
 | Posts                | 2  |
-| Comments             | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-07 06:52:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

@@ -3,19 +3,19 @@ title: "Photography"
 name: "photography"
 description: "A community for photography "
 type: community
-date: "2023-06-15 17:38:05"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/photography"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 438
-posts: 17
-comments: 22
-weight: 17
-dau: 13
-wau: 17
-mau: 17
+subscribers: 539
+posts: 22
+comments: 28
+weight: 22
+dau: 7
+wau: 23
+mau: 23
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for photography
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 438 |
-| Posts                | 17  |
-| Comments             | 22  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Subscribers          | 539 |
+| Posts                | 22  |
+| Comments             | 28  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for photography
 |----------------------|---|
 | Published            | 2023-06-09 11:39:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:05 |
+| Last Scraped         | 2023-06-16 22:57:15 |

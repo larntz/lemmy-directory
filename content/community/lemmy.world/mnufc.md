@@ -3,19 +3,19 @@ title: "Minnesota United FC"
 name: "mnufc"
 description: "_Minnesota Black and Blue_News and discussion of Minnesota United FC, the MLS club from Minneapolis/St. Paul, Minnesota**Rules:**1. Don't be a dick2. Occasional news about former players is acceptable, but don't overdo it please.4. Any posted tweets/toots must include the author's name/username in the title.5. Don't editorialize headlines from linked stories or content from tweets/toots.6. Watch this space for further developments, I'm just getting this thing started."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mnufc"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ _Minnesota Black and Blue_<br><br>News and discussion of Minnesota United FC, th
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 0  |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ _Minnesota Black and Blue_<br><br>News and discussion of Minnesota United FC, th
 |----------------------|---|
 | Published            | 2023-06-11 15:40:55 |
 | Updated              | 2023-06-12 12:58:56 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

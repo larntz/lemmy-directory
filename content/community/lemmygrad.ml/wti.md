@@ -3,7 +3,7 @@ title: "Woke Tankie International"
 name: "wti"
 description: "We must confront both anti-woke and anti-communist ideology such that all comrades can participate equally in the class struggle."
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/wti"
@@ -54,4 +54,4 @@ We must confront both anti-woke and anti-communist ideology such that all comrad
 |----------------------|---|
 | Published            | 2022-08-12 11:02:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:07 |

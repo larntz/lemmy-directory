@@ -3,19 +3,19 @@ title: "cryptocurrency"
 name: "crypto"
 description: "Lemmy community dedicated to cryptocurrency news, technicals, education, memes and so more!Community Improvement Proposals CIPs:- [CIP#1](https://lemmy.ml/post/237946/comment/165874)Community Knowledge Base:- [wallets](https://lemmy.ml/post/98508)- [media](https://lemmy.ml/post/138845)*Be nice, have fun.*Community rules:- No Spam- No ads- No aggressive coin promotion or attacks on others- No ICOs / IEOs / STOs / token (pre)sales / scam schemes promotion- No promotion of trading groups, courses, signal groups, or other trade groups- No pumping, shilling, or FUD (fear, uncertainty, doubt)- No casinos, giveaways, faucets, begging- No price speculation posts- No trollingGeneral lemmy.ml instance rules applicable here too.For a community devoted to **cryptography** itself, visit [c/cryptography](https://lemmy.ml/c/cryptography)"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crypto"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1372
-posts: 620
-comments: 606
-weight: 620
-dau: 3
-wau: 7
-mau: 12
+subscribers: 1377
+posts: 621
+comments: 607
+weight: 621
+dau: 5
+wau: 13
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Lemmy community dedicated to cryptocurrency news, technicals, education, memes a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1372 |
-| Posts                | 620  |
-| Comments             | 606  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 12  |
+| Subscribers          | 1377 |
+| Posts                | 621  |
+| Comments             | 607  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy community dedicated to cryptocurrency news, technicals, education, memes a
 |----------------------|---|
 | Published            | 2019-05-27 08:44:32 |
 | Updated              | 2023-06-12 08:49:41 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:29 |

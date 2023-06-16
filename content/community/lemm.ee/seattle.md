@@ -3,7 +3,7 @@ title: "Seattle"
 name: "seattle"
 description: "Community for all things Seattle, WA USA"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/seattle"
@@ -11,7 +11,7 @@ host: lemm.ee
 lastmod: "{[ .Updated }}"
 subscribers: 7
 posts: 2
-comments: 5
+comments: 6
 weight: 2
 dau: 3
 wau: 5
@@ -43,7 +43,7 @@ Community for all things Seattle, WA USA
 |----------------------|---|
 | Subscribers          | 7 |
 | Posts                | 2  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Community for all things Seattle, WA USA
 |----------------------|---|
 | Published            | 2023-06-15 01:06:16 |
 | Updated              | 2023-06-15 23:11:26 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

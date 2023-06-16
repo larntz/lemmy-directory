@@ -3,7 +3,7 @@ title: "Learn Mandarin"
 name: "learn_mandarin"
 description: "Community for learning Mandarin"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_mandarin"
@@ -54,4 +54,4 @@ Community for learning Mandarin
 |----------------------|---|
 | Published            | 2021-05-19 17:59:29 |
 | Updated              | 2021-05-23 06:12:01 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

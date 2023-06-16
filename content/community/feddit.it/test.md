@@ -3,7 +3,7 @@ title: "Test: palestra e allenamenti :-)"
 name: "test"
 description: "Questa non è una vera comunità, ma solo una saletta di prova.Chi vuole fare esperimenti di scrittura, **può utilizzarla ma senza pubblicare contenuti contrari alle regole del server!**"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/test"
@@ -13,9 +13,9 @@ subscribers: 89
 posts: 139
 comments: 278
 weight: 139
-dau: 1
-wau: 20
-mau: 29
+dau: 2
+wau: 7
+mau: 30
 instances:
 - "feddit_it"
 tags: 
@@ -44,9 +44,9 @@ Questa non è una vera comunità, ma solo una saletta di prova.<br>Chi vuole far
 | Subscribers          | 89 |
 | Posts                | 139  |
 | Comments             | 278  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 29  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 30  |
 
 <br>
 
@@ -54,4 +54,4 @@ Questa non è una vera comunità, ma solo una saletta di prova.<br>Chi vuole far
 |----------------------|---|
 | Published            | 2022-05-05 17:13:09 |
 | Updated              | 2022-05-16 23:05:33 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

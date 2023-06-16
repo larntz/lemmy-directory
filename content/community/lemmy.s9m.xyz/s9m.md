@@ -3,7 +3,7 @@ title: "s9m"
 name: "s9m"
 description: "Default community for the s9m lemmy instance"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.s9m.xyz/c/s9m"
@@ -54,4 +54,4 @@ Default community for the s9m lemmy instance
 |----------------------|---|
 | Published            | 2023-06-02 15:57:13 |
 | Updated              | 2023-06-05 18:06:43 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:54 |

@@ -1,21 +1,21 @@
 ---
 title: "baseball" 
 name: "baseball"
-description: "Arizona Diamondbacks - https://lemmy.world/c/azdiamondbacks Chicago Cubs - https://lemmy.world/c/chicubs Cinncinatti Reds - https://lemmy.world/c/cincinnati_reds Minnesota Twins - https://lemmy.world/c/twins@lemmy.world Philadelphia Phillies - http://lemmy.world/c/phillies San Diego Padres - https://lemmy.world/c/padres Seattle Mariers - https://lemmy.world/c/seattlemariners Washington Nationals - https://lemmy.world/c/washington_nationals "
+description: "Arizona Diamondbacks - https://lemmy.world/c/azdiamondbacks Baltimore Orioles - https://fanaticus.social/c/orioles Chicago Cubs - https://lemmy.world/c/chicubs Cinncinatti Reds - https://lemmy.world/c/cincinnati_reds Minnesota Twins - https://lemmy.world/c/twins@lemmy.world Philadelphia Phillies - http://lemmy.world/c/phillies San Diego Padres - https://lemmy.world/c/padres Seattle Mariers - https://lemmy.world/c/seattlemariners St. Louis Cardinals - https://midwest.social/c/cardinals Washington Nationals - https://lemmy.world/c/washington_nationals "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baseball"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 111
+subscribers: 116
 posts: 23
-comments: 32
+comments: 37
 weight: 23
-dau: 5
-wau: 10
-mau: 10
+dau: 4
+wau: 15
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Arizona Diamondbacks - https://lemmy.world/c/azdiamondbacks <br>Chicago Cubs - https://lemmy.world/c/chicubs <br>Cinncinatti Reds - https://lemmy.world/c/cincinnati_reds <br>Minnesota Twins - https://lemmy.world/c/twins@lemmy.world <br>Philadelphia Phillies - http://lemmy.world/c/phillies <br>San Diego Padres - https://lemmy.world/c/padres <br>Seattle Mariers - https://lemmy.world/c/seattlemariners <br>Washington Nationals - https://lemmy.world/c/washington_nationals <br>
+Arizona Diamondbacks - https://lemmy.world/c/azdiamondbacks <br>Baltimore Orioles - https://fanaticus.social/c/orioles <br>Chicago Cubs - https://lemmy.world/c/chicubs <br>Cinncinatti Reds - https://lemmy.world/c/cincinnati_reds <br>Minnesota Twins - https://lemmy.world/c/twins@lemmy.world <br>Philadelphia Phillies - http://lemmy.world/c/phillies <br>San Diego Padres - https://lemmy.world/c/padres <br>Seattle Mariers - https://lemmy.world/c/seattlemariners <br>St. Louis Cardinals - https://midwest.social/c/cardinals <br>Washington Nationals - https://lemmy.world/c/washington_nationals <br>
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Arizona Diamondbacks - https://lemmy.world/c/azdiamondbacks <br>Chicago Cubs - h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 111 |
+| Subscribers          | 116 |
 | Posts                | 23  |
-| Comments             | 32  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 37  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-09 20:00:38 |
-| Updated              | 2023-06-15 15:16:24 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Updated              | 2023-06-16 12:02:50 |
+| Last Scraped         | 2023-06-16 22:57:17 |

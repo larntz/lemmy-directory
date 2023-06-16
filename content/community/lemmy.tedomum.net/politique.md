@@ -3,7 +3,7 @@ title: "La politique (France)"
 name: "politique"
 description: "Pour venir discuter de la politique française."
 type: community
-date: "2023-06-16 11:05:50"
+date: "2023-06-16 22:55:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/politique"
@@ -54,4 +54,4 @@ Pour venir discuter de la politique française.
 |----------------------|---|
 | Published            | 2021-03-21 20:31:30 |
 | Updated              | 2021-03-21 20:32:24 |
-| Last Scraped         | 2023-06-16 11:05:50 |
+| Last Scraped         | 2023-06-16 22:55:44 |

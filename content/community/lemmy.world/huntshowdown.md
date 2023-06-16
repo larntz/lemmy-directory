@@ -3,19 +3,19 @@ title: "Hunt Showdown"
 name: "huntshowdown"
 description: "Howdy hunters, welcome to a community for discussing the game Hunt Showdown by Crytek.Rules:1. Leave the gun slinging for the bayou (be nice)2. No low effort or duplicate postsHappy hunt'n!"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/huntshowdown"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 10
 posts: 6
-comments: 12
+comments: 13
 weight: 6
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Howdy hunters, welcome to a community for discussing the game Hunt Showdown by C
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 10 |
 | Posts                | 6  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Howdy hunters, welcome to a community for discussing the game Hunt Showdown by C
 |----------------------|---|
 | Published            | 2023-06-13 22:07:44 |
 | Updated              | 2023-06-13 22:15:55 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

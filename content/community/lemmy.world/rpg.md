@@ -3,13 +3,13 @@ title: "RPG"
 name: "rpg"
 description: "Roleplaying games"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rpg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 43
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Roleplaying games
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 43 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Roleplaying games
 |----------------------|---|
 | Published            | 2023-06-11 05:31:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

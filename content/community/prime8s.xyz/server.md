@@ -3,7 +3,7 @@ title: "Server Administration"
 name: "server"
 description: "A place to get updates about the server, transparency reports, and general announcements about downtime and maintenance."
 type: community
-date: "2023-06-16 11:06:06"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/server"
@@ -54,4 +54,4 @@ A place to get updates about the server, transparency reports, and general annou
 |----------------------|---|
 | Published            | 2023-06-07 15:54:27 |
 | Updated              | 2023-06-07 23:09:55 |
-| Last Scraped         | 2023-06-16 11:06:06 |
+| Last Scraped         | 2023-06-16 22:56:09 |

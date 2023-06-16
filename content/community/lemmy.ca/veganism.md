@@ -3,13 +3,13 @@ title: "Veganism"
 name: "veganism"
 description: "Discussions and content about veganism (a moral philosophy opposed to animal cruelty and exploitation) and its practical application."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/veganism"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 18
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Discussions and content about veganism (a moral philosophy opposed to animal cru
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 18 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions and content about veganism (a moral philosophy opposed to animal cru
 |----------------------|---|
 | Published            | 2023-06-06 21:21:11 |
 | Updated              | 2023-06-06 21:23:33 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:35 |

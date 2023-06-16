@@ -3,19 +3,19 @@ title: "MX-5 Miata"
 name: "miata"
 description: "Community for Miata lovers."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/miata"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
-posts: 16
-comments: 12
-weight: 16
-dau: 2
-wau: 12
-mau: 12
+subscribers: 59
+posts: 17
+comments: 13
+weight: 17
+dau: 3
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for Miata lovers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 16  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Subscribers          | 59 |
+| Posts                | 17  |
+| Comments             | 13  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Miata lovers.
 |----------------------|---|
 | Published            | 2023-06-10 18:34:04 |
 | Updated              | 2023-06-10 18:48:11 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

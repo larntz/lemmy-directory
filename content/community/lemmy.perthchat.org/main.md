@@ -3,7 +3,7 @@ title: "Announcements"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/main"
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2022-03-28 21:18:13 |
 | Updated              | 2022-03-31 00:47:38 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:28 |

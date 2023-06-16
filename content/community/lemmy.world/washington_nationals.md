@@ -3,7 +3,7 @@ title: "Washington Nationals"
 name: "washington_nationals"
 description: "First in war, first in peace... 2019 Major League Baseball champions."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washington_nationals"
@@ -54,4 +54,4 @@ First in war, first in peace... 2019 Major League Baseball champions.
 |----------------------|---|
 | Published            | 2023-06-12 18:42:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,7 +3,7 @@ title: "Local Music Dump"
 name: "music"
 description: "What're you listening to?"
 type: community
-date: "2023-06-16 11:06:23"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/music"
@@ -54,4 +54,4 @@ What're you listening to?
 |----------------------|---|
 | Published            | 2023-06-13 21:56:35 |
 | Updated              | 2023-06-13 21:59:47 |
-| Last Scraped         | 2023-06-16 11:06:23 |
+| Last Scraped         | 2023-06-16 22:56:19 |

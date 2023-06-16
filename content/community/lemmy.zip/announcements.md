@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "lemmy.zip annoucements"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/announcements"
@@ -11,9 +11,9 @@ host: lemmy.zip
 lastmod: "{[ .Updated }}"
 subscribers: 38
 posts: 1
-comments: 55
+comments: 58
 weight: 1
-dau: 4
+dau: 2
 wau: 17
 mau: 17
 instances:
@@ -43,8 +43,8 @@ lemmy.zip annoucements
 |----------------------|---|
 | Subscribers          | 38 |
 | Posts                | 1  |
-| Comments             | 55  |
-| Daily Active Users   | 4  |
+| Comments             | 58  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 17  |
 | Monthly Active Users | 17  |
 
@@ -54,4 +54,4 @@ lemmy.zip annoucements
 |----------------------|---|
 | Published            | 2023-06-10 14:50:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:13 |

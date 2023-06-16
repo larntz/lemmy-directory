@@ -3,7 +3,7 @@ title: "/c/RageComics: Because it’s still 2011 here"
 name: "ragecomics"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:20"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ragecomics"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 21:02:34 |
 | Updated              | 2023-06-10 19:30:38 |
-| Last Scraped         | 2023-06-16 11:07:20 |
+| Last Scraped         | 2023-06-16 22:57:18 |

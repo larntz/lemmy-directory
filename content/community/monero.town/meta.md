@@ -3,19 +3,19 @@ title: "Meta"
 name: "meta"
 description: "Community for meta posts about MoneroTown.Community icon by DinosoftLabs - Flaticon"
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/meta"
 host: monero.town
 lastmod: "{[ .Updated }}"
 subscribers: 22
-posts: 9
-comments: 102
-weight: 9
-dau: 11
-wau: 38
-mau: 38
+posts: 11
+comments: 111
+weight: 11
+dau: 9
+wau: 41
+mau: 41
 instances:
 - "monero_town"
 tags: 
@@ -42,11 +42,11 @@ Community for meta posts about MoneroTown.<br><br>Community icon by DinosoftLabs
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 22 |
-| Posts                | 9  |
-| Comments             | 102  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 38  |
-| Monthly Active Users | 38  |
+| Posts                | 11  |
+| Comments             | 111  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 41  |
+| Monthly Active Users | 41  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for meta posts about MoneroTown.<br><br>Community icon by DinosoftLabs
 |----------------------|---|
 | Published            | 2023-06-12 20:18:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

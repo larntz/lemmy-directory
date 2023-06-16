@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "News, updates, warnings, etc."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dcrich.net/c/meta"
@@ -54,4 +54,4 @@ News, updates, warnings, etc.
 |----------------------|---|
 | Published            | 2023-06-06 18:19:20 |
 | Updated              | 2023-06-06 18:21:22 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:54 |

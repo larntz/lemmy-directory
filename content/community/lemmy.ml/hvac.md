@@ -3,7 +3,7 @@ title: "HVAC/R technicians and affiliated trades"
 name: "hvac"
 description: "This is intended to be for hvac technicians and with hvac technicians in mind. Please refer to c/hvacadvice for out of the trade conversation, requests for help and whatnot."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hvac"
@@ -54,4 +54,4 @@ This is intended to be for hvac technicians and with hvac technicians in mind. P
 |----------------------|---|
 | Published            | 2023-06-06 02:13:44 |
 | Updated              | 2023-06-09 17:00:35 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

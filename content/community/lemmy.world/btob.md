@@ -3,7 +3,7 @@ title: "BTOB"
 name: "btob"
 description: "Community for BTOB and Melody."
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/btob"
@@ -54,4 +54,4 @@ Community for BTOB and Melody.
 |----------------------|---|
 | Published            | 2023-06-12 14:03:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:17 |

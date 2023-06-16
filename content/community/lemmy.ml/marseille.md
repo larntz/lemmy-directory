@@ -3,7 +3,7 @@ title: "marseille"
 name: "marseille"
 description: "marseille et les marseillais -l'intergalactique marseillaise"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marseille"
@@ -54,4 +54,4 @@ marseille et les marseillais -<br>l'intergalactique marseillaise
 |----------------------|---|
 | Published            | 2022-04-01 07:56:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

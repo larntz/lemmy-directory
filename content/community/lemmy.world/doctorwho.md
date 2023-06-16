@@ -3,19 +3,19 @@ title: "Doctor Who"
 name: "doctorwho"
 description: "A good old fashioned Doctor Who Community"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doctorwho"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 158
+subscribers: 175
 posts: 6
-comments: 17
+comments: 18
 weight: 6
-dau: 7
-wau: 9
-mau: 9
+dau: 6
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A good old fashioned Doctor Who Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 158 |
+| Subscribers          | 175 |
 | Posts                | 6  |
-| Comments             | 17  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 18  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ A good old fashioned Doctor Who Community
 |----------------------|---|
 | Published            | 2023-06-12 10:37:10 |
 | Updated              | 2023-06-12 12:03:14 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

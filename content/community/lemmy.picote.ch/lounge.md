@@ -3,7 +3,7 @@ title: "Lounge"
 name: "lounge"
 description: "Casual discussions. Keep it civil and generally laid-back, please. The definitions of civil and laid-back are currently at the discretion of the admins. Please don't make us write more rules than this."
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.picote.ch/c/lounge"
@@ -54,4 +54,4 @@ Casual discussions. Keep it civil and generally laid-back, please. The definitio
 |----------------------|---|
 | Published            | 2023-06-10 23:28:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

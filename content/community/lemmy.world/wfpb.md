@@ -3,13 +3,13 @@ title: "Whole Food Plant Based"
 name: "wfpb"
 description: "A place for people who want to eat more fruits and vegetables and less animal products and processed foods. This includes adding more vegetables, fruits, beans, whole grains, nuts/seeds. While eliminating meat, dairy, eggs, and fish. It is also avoids added salt, oil and sugar as much as possibleWe are not looking for perfect adherence to any one particular eating style of WFPB. Posts should be about eating whole food plant based foods most of the time. Recipes should not include animal products.Share images, information, questions, recipes, stories, or victories. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wfpb"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 48
 posts: 8
 comments: 12
 weight: 8
@@ -41,7 +41,7 @@ A place for people who want to eat more fruits and vegetables and less animal pr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 48 |
 | Posts                | 8  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for people who want to eat more fruits and vegetables and less animal pr
 |----------------------|---|
 | Published            | 2023-06-12 18:22:49 |
 | Updated              | 2023-06-13 20:19:39 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

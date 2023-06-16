@@ -3,16 +3,16 @@ title: "LTB_iel"
 name: "ltb_iel"
 description: "Entenhausen gibt's jetzt auch im Feddit."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ltb_iel"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 90
-posts: 5
-comments: 1
-weight: 5
+subscribers: 105
+posts: 6
+comments: 2
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ Entenhausen gibt's jetzt auch im Feddit.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 90 |
-| Posts                | 5  |
-| Comments             | 1  |
+| Subscribers          | 105 |
+| Posts                | 6  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Entenhausen gibt's jetzt auch im Feddit.
 |----------------------|---|
 | Published            | 2023-06-06 15:33:05 |
 | Updated              | 2023-06-06 23:05:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

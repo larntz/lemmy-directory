@@ -3,7 +3,7 @@ title: "Obviousplant"
 name: "obviousplant"
 description: "For the fans of Obvious Plant"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/obviousplant"
@@ -54,4 +54,4 @@ For the fans of Obvious Plant
 |----------------------|---|
 | Published            | 2021-03-24 05:12:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

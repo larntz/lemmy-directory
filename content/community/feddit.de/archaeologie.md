@@ -3,7 +3,7 @@ title: "Archäologie"
 name: "archaeologie"
 description: "> Archäologie"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/archaeologie"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-09-06 05:37:00 |
 | Updated              | 2021-10-15 05:13:28 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

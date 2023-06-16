@@ -3,7 +3,7 @@ title: "nheko"
 name: "nheko"
 description: "**Unofficial Community**Nheko is a native desktop app for Matrix. - [Latest Release Downloads](https://github.com/Nheko-Reborn/nheko/releases/tag/v0.9.3)- [Website](https://nheko-reborn.github.io)- [Github](https://github.com/Nheko-Reborn/nheko)- [Gitlab](https://nheko.im)- [Matrix room](https://matrix.to/#/#nheko-reborn:matrix.org)"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nheko"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-29 09:26:50 |
 | Updated              | 2022-03-28 16:02:18 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:32 |

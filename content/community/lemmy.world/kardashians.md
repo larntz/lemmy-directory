@@ -3,7 +3,7 @@ title: "Kardashians"
 name: "kardashians"
 description: "A new page to discuss all things KUWTK/Kardashians related! Obviously filling the space that was on reddit!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kardashians"
@@ -54,4 +54,4 @@ A new page to discuss all things KUWTK/Kardashians related! Obviously filling th
 |----------------------|---|
 | Published            | 2023-06-12 02:07:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:17 |

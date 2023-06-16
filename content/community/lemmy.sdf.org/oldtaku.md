@@ -3,19 +3,19 @@ title: "Vintage fans of Anime"
 name: "oldtaku"
 description: "Did you grow up on Speed Racer, Star Blazers or Robotech?Then this might be for you.Rules: 1> Vintage is in the eye of the beholder but probably pre 2000s is a safe bet.2> Discussion of new release of old shows is welcome3> Discussion of unofficial releases should be limited to shows that are not currently available outside of Japan otherwise.4> Have fun!"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/oldtaku"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 82
+subscribers: 87
 posts: 4
-comments: 20
+comments: 21
 weight: 4
 dau: 1
-wau: 8
-mau: 16
+wau: 9
+mau: 17
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Did you grow up on Speed Racer, Star Blazers or Robotech?<br><br>Then this might
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
+| Subscribers          | 87 |
 | Posts                | 4  |
-| Comments             | 20  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 16  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Did you grow up on Speed Racer, Star Blazers or Robotech?<br><br>Then this might
 |----------------------|---|
 | Published            | 2023-06-07 17:37:59 |
 | Updated              | 2023-06-08 16:08:13 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

@@ -3,16 +3,16 @@ title: "Nachrichten"
 name: "nachrichten"
 description: "Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Sprachraum berichten."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nachrichten"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 159
-posts: 29
-comments: 51
-weight: 29
+subscribers: 195
+posts: 31
+comments: 81
+weight: 31
 dau: 10
 wau: 19
 mau: 19
@@ -41,9 +41,9 @@ Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Spr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 159 |
-| Posts                | 29  |
-| Comments             | 51  |
+| Subscribers          | 195 |
+| Posts                | 31  |
+| Comments             | 81  |
 | Daily Active Users   | 10  |
 | Weekly Active Users  | 19  |
 | Monthly Active Users | 19  |
@@ -54,4 +54,4 @@ Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Spr
 |----------------------|---|
 | Published            | 2023-06-14 08:40:31 |
 | Updated              | 2023-06-15 18:32:01 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

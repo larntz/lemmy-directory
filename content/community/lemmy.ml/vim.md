@@ -3,15 +3,15 @@ title: "VIM - Vi Improved"
 name: "vim"
 description: "VIM - Vi Improved, text editor communityPlease use English."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vim"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 346
+subscribers: 348
 posts: 12
-comments: 1
+comments: 3
 weight: 12
 dau: 1
 wau: 3
@@ -41,9 +41,9 @@ VIM - Vi Improved, text editor community<br><br>Please use English.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 346 |
+| Subscribers          | 348 |
 | Posts                | 12  |
-| Comments             | 1  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ VIM - Vi Improved, text editor community<br><br>Please use English.
 |----------------------|---|
 | Published            | 2020-06-30 19:31:41 |
 | Updated              | 2022-11-20 16:57:50 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:29 |

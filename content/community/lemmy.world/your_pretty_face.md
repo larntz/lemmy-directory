@@ -1,18 +1,18 @@
 ---
 title: "Your Pretty Face is Going to Hell" 
 name: "your_pretty_face"
-description: "The Adult Swim masterpiece."
+description: "The Adult Swim masterpiece television show about the afterlife in Hell."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/your_pretty_face"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 2
+subscribers: 5
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-The Adult Swim masterpiece.
+The Adult Swim masterpiece television show about the afterlife in Hell.
 </blockquote>
 
 
@@ -41,8 +41,8 @@ The Adult Swim masterpiece.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
+| Subscribers          | 5 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ The Adult Swim masterpiece.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 19:23:22 |
-| Updated              | 2023-06-15 19:01:24 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Updated              | 2023-06-16 19:33:17 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -3,13 +3,13 @@ title: "Naked and Afraid"
 name: "nakedandafraid"
 description: "A place to discuss Naked and Afraid!"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nakedandafraid"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to discuss Naked and Afraid!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss Naked and Afraid!
 |----------------------|---|
 | Published            | 2023-06-12 04:10:37 |
 | Updated              | 2023-06-12 04:12:44 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

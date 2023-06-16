@@ -3,19 +3,19 @@ title: "Weather"
 name: "weather"
 description: "For discussion of weather, meteorology, and closely adjacent fields."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weather"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+subscribers: 10
+posts: 2
+comments: 4
+weight: 2
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For discussion of weather, meteorology, and closely adjacent fields.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 10 |
+| Posts                | 2  |
+| Comments             | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion of weather, meteorology, and closely adjacent fields.
 |----------------------|---|
 | Published            | 2023-06-12 21:44:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

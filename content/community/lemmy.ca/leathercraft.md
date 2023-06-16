@@ -3,15 +3,15 @@ title: "leathercraft"
 name: "leathercraft"
 description: "a place for makers and creators - whether business or side hustle or hobby."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/leathercraft"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 48
 posts: 9
-comments: 16
+comments: 18
 weight: 9
 dau: 2
 wau: 4
@@ -41,9 +41,9 @@ a place for makers and creators - whether business or side hustle or hobby.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 48 |
 | Posts                | 9  |
-| Comments             | 16  |
+| Comments             | 18  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ a place for makers and creators - whether business or side hustle or hobby.
 |----------------------|---|
 | Published            | 2023-06-09 14:51:33 |
 | Updated              | 2023-06-09 17:21:59 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

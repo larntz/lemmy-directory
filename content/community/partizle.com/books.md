@@ -3,19 +3,19 @@ title: "Book Club"
 name: "books"
 description: "Partizlepate in our book club. What are you reading?"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/books"
 host: partizle.com
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 2
+subscribers: 9
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "partizle_com"
 tags: 
@@ -41,12 +41,12 @@ Partizlepate in our book club. What are you reading?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
+| Subscribers          | 9 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Partizlepate in our book club. What are you reading?
 |----------------------|---|
 | Published            | 2023-06-13 14:46:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

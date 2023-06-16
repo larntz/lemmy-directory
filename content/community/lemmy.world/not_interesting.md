@@ -3,13 +3,13 @@ title: "not_interesting"
 name: "not_interesting"
 description: "For all things that are not interesting."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/not_interesting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 115
+subscribers: 118
 posts: 3
 comments: 15
 weight: 3
@@ -41,7 +41,7 @@ For all things that are not interesting.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 115 |
+| Subscribers          | 118 |
 | Posts                | 3  |
 | Comments             | 15  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ For all things that are not interesting.
 |----------------------|---|
 | Published            | 2023-06-11 17:40:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

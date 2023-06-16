@@ -3,16 +3,16 @@ title: "Thelema"
 name: "thelema"
 description: "Do what thou wilt shall be the whole of the law. This is a place to discuss Aleister Crowley, Thelema, and the Aeon of Horus. Love is the law, love under will."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelema"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 2
+subscribers: 14
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Do what thou wilt shall be the whole of the law. This is a place to discuss Alei
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 2  |
+| Subscribers          | 14 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Do what thou wilt shall be the whole of the law. This is a place to discuss Alei
 |----------------------|---|
 | Published            | 2023-06-12 23:12:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

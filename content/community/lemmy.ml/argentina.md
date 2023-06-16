@@ -3,19 +3,19 @@ title: "Argentina"
 name: "argentina"
 description: ""
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/argentina"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
-posts: 16
+subscribers: 38
+posts: 18
 comments: 7
-weight: 16
+weight: 18
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 16  |
+| Subscribers          | 38 |
+| Posts                | 18  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-01-17 20:16:24 |
 | Updated              | 2021-09-02 18:33:10 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:41 |

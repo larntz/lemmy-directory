@@ -3,19 +3,19 @@ title: "Metal"
 name: "metal"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 559
-posts: 726
-comments: 141
-weight: 726
-dau: 9
-wau: 24
-mau: 29
+subscribers: 573
+posts: 728
+comments: 142
+weight: 728
+dau: 4
+wau: 28
+mau: 33
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 559 |
-| Posts                | 726  |
-| Comments             | 141  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 29  |
+| Subscribers          | 573 |
+| Posts                | 728  |
+| Comments             | 142  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-16 19:01:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:20 |

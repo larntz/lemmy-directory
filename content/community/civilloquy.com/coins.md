@@ -3,13 +3,13 @@ title: "Coins"
 name: "coins"
 description: "For discussion of coins of any place and age and the collecting thereofPlease somebody help me make a thematic logo that isn't ugly as sin"
 type: community
-date: "2023-06-16 11:06:03"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/coins"
 host: civilloquy.com
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For discussion of coins of any place and age and the collecting thereof<br><br>P
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussion of coins of any place and age and the collecting thereof<br><br>P
 |----------------------|---|
 | Published            | 2023-06-11 13:45:13 |
 | Updated              | 2023-06-13 22:58:45 |
-| Last Scraped         | 2023-06-16 11:06:03 |
+| Last Scraped         | 2023-06-16 22:56:02 |

@@ -3,7 +3,7 @@ title: "PlayStation 3 Hacks and Homebrew"
 name: "ps3hacks"
 description: "A subreddit focusing on Hacking and Jailbreaking the Playstation 3."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps3hacks"
@@ -13,9 +13,9 @@ subscribers: 11
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ A subreddit focusing on Hacking and Jailbreaking the Playstation 3.
 | Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ A subreddit focusing on Hacking and Jailbreaking the Playstation 3.
 |----------------------|---|
 | Published            | 2023-06-08 05:58:05 |
 | Updated              | 2023-06-08 06:54:29 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:23 |

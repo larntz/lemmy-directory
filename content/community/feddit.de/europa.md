@@ -3,15 +3,15 @@ title: "Europa"
 name: "europa"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/europa"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 495
+subscribers: 517
 posts: 63
-comments: 51
+comments: 53
 weight: 63
 dau: 5
 wau: 24
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 495 |
+| Subscribers          | 517 |
 | Posts                | 63  |
-| Comments             | 51  |
+| Comments             | 53  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 24  |
 | Monthly Active Users | 25  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-10 12:28:50 |
 | Updated              | 2021-10-15 05:06:51 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

@@ -3,19 +3,19 @@ title: "Learn Japanese"
 name: "learnjapanese"
 description: "A hub for learners of the Japanese Language."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnjapanese"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 74
+subscribers: 79
 posts: 3
-comments: 3
+comments: 5
 weight: 3
-dau: 1
-wau: 4
-mau: 4
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A hub for learners of the Japanese Language.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
+| Subscribers          | 79 |
 | Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 5  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A hub for learners of the Japanese Language.
 |----------------------|---|
 | Published            | 2023-06-05 03:31:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

@@ -3,13 +3,13 @@ title: "devol"
 name: "devol"
 description: "gruppo devol "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/devol"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 148
+subscribers: 150
 posts: 40
 comments: 83
 weight: 40
@@ -41,7 +41,7 @@ gruppo devol
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 148 |
+| Subscribers          | 150 |
 | Posts                | 40  |
 | Comments             | 83  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ gruppo devol
 |----------------------|---|
 | Published            | 2022-05-11 13:22:24 |
 | Updated              | 2022-05-11 13:24:51 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

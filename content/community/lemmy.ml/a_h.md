@@ -3,7 +3,7 @@ title: "Attitudinal Healing"
 name: "a_h"
 description: "PRINCIPLES OF ATTITUDINAL HEALINGThe Principles are fundamental to Attitudinal Healing. The first Principle is the key. It unites and flows through all the others. As the Principles are practiced, it is evident that they overlap and each includes aspects of all the other Principles. The Principles are not dogma. Spiritual in nature, they are nonsectarian and are offered only as tools.The essence of our being is love. Health is inner peace. Healing is letting go of fear. Giving and receiving are the same. We can let go of the past and of the future. Now is the only time there is and each instant is for giving. We can learn to love ourselves and others by forgiving rather than judging. We can become love finders rather than fault finders. We can choose and direct ourselves to be peaceful inside regardless of what is happening        outside. We are students and teachers to each other. We can focus on the whole of life rather than the fragments. Since love is eternal, death need not be viewed as fearful. We can always perceive ourselves and others as either extending love or giving a call of help for love. "
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/a_h"
@@ -54,4 +54,4 @@ PRINCIPLES OF ATTITUDINAL HEALING<br>The Principles are fundamental to Attitudin
 |----------------------|---|
 | Published            | 2022-03-05 18:01:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

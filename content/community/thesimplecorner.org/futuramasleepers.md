@@ -3,13 +3,13 @@ title: "FuturamaSleepers"
 name: "futuramasleepers"
 description: "Good News Everyone!Discuss the show you never knew other people fell asleep to! "
 type: community
-date: "2023-06-15 17:37:05"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/futuramasleepers"
 host: thesimplecorner.org
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 23
 posts: 2
 comments: 9
 weight: 2
@@ -41,7 +41,7 @@ Good News Everyone!<br><br>Discuss the show you never knew other people fell asl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 23 |
 | Posts                | 2  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Good News Everyone!<br><br>Discuss the show you never knew other people fell asl
 |----------------------|---|
 | Published            | 2023-06-10 01:02:04 |
 | Updated              | 2023-06-15 01:47:35 |
-| Last Scraped         | 2023-06-15 17:37:05 |
+| Last Scraped         | 2023-06-16 22:56:11 |

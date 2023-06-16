@@ -3,19 +3,19 @@ title: "Educational Technology"
 name: "edtech"
 description: "Educational technology, software, etc."
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edtech"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 2
-comments: 0
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+subscribers: 14
+posts: 4
+comments: 1
+weight: 4
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Educational technology, software, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 14 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Educational technology, software, etc.
 |----------------------|---|
 | Published            | 2023-06-15 16:54:21 |
 | Updated              | 2023-06-15 17:31:18 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

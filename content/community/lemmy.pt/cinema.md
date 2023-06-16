@@ -3,7 +3,7 @@ title: "Cinema"
 name: "cinema"
 description: "Espaço de partilha e discussão da sétima arte."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/cinema"
@@ -13,7 +13,7 @@ subscribers: 22
 posts: 2
 comments: 5
 weight: 2
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -44,7 +44,7 @@ Espaço de partilha e discussão da sétima arte.
 | Subscribers          | 22 |
 | Posts                | 2  |
 | Comments             | 5  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Espaço de partilha e discussão da sétima arte.
 |----------------------|---|
 | Published            | 2021-09-13 11:37:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

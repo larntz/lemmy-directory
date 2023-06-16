@@ -3,7 +3,7 @@ title: "Ask Democrats"
 name: "askdemocrats"
 description: "Ask Democrats stuff about what they believe or how they believe, and why."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askdemocrats"
@@ -54,4 +54,4 @@ Ask Democrats stuff about what they believe or how they believe, and why.
 |----------------------|---|
 | Published            | 2020-05-11 23:54:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:29 |

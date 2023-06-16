@@ -3,19 +3,19 @@ title: "guitars"
 name: "guitars"
 description: "Welcome to **/c/guitars**!  Let's show off our new guitar pics, ask questions about playing, theory, luthier-ship, and more! Please bring all positive vibes to the community and leave the toxic stuff elsewhere.[Banner credit](https://unsplash.com/photos/cTj8vbZeX44)Rules:---* Treat others with respect. ALL others.* No spam* No self promotion* No NSFW* No circle jerk posts, there are other places for that silliness, and they are wonderful. Not here."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/guitars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 784
-posts: 36
-comments: 262
-weight: 36
-dau: 29
-wau: 79
-mau: 79
+subscribers: 823
+posts: 39
+comments: 298
+weight: 39
+dau: 24
+wau: 98
+mau: 98
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to **/c/guitars**!  Let's show off our new guitar pics, ask questions ab
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 784 |
-| Posts                | 36  |
-| Comments             | 262  |
-| Daily Active Users   | 29  |
-| Weekly Active Users  | 79  |
-| Monthly Active Users | 79  |
+| Subscribers          | 823 |
+| Posts                | 39  |
+| Comments             | 298  |
+| Daily Active Users   | 24  |
+| Weekly Active Users  | 98  |
+| Monthly Active Users | 98  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to **/c/guitars**!  Let's show off our new guitar pics, ask questions ab
 |----------------------|---|
 | Published            | 2023-06-09 17:09:48 |
 | Updated              | 2023-06-09 20:25:04 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

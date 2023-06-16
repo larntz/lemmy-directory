@@ -3,7 +3,7 @@ title: "Cittadino Medio "
 name: "cittadinomedio"
 description: "La comunità Lemmy dedicata al progetto di awareness CittadinoMedio.itLo scopo di questa community è discutere i contenuti del progetto, nuove idee, migliorie e altro. Si chiede cortesemente un atteggiamento rispettoso, inclusivo e produttivo. "
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/cittadinomedio"
@@ -15,7 +15,7 @@ comments: 2
 weight: 3
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "feddit_it"
 tags: 
@@ -46,7 +46,7 @@ La comunità Lemmy dedicata al progetto di awareness CittadinoMedio.it<br><br>Lo
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ La comunità Lemmy dedicata al progetto di awareness CittadinoMedio.it<br><br>Lo
 |----------------------|---|
 | Published            | 2022-05-23 13:10:08 |
 | Updated              | 2022-05-23 13:17:32 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

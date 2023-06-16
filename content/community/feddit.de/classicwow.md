@@ -3,7 +3,7 @@ title: "World of Warcraft Classic"
 name: "classicwow"
 description: "Home for World of Warcraft Classic and World of Warcraft WotLK Classic"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/classicwow"
@@ -54,4 +54,4 @@ Home for World of Warcraft Classic and World of Warcraft WotLK Classic
 |----------------------|---|
 | Published            | 2023-06-12 10:10:26 |
 | Updated              | 2023-06-12 10:17:52 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

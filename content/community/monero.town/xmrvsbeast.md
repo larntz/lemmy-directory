@@ -3,13 +3,13 @@ title: "XMRvsBeast"
 name: "xmrvsbeast"
 description: "https://xmrvsbeast.com/http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx7icmsq67qa.b32.i2p/"
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/xmrvsbeast"
 host: monero.town
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ https://xmrvsbeast.com/<br><br>http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ https://xmrvsbeast.com/<br><br>http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx
 |----------------------|---|
 | Published            | 2023-06-13 11:58:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

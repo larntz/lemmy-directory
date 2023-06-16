@@ -3,17 +3,17 @@ title: "zapytajszmer"
 name: "zapytajszmer"
 description: "Społeczność Szmerfów pytających :)Masz pytanie? Zadaj je, inne Szmerfy chętnie odpowiedzą."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/zapytajszmer"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 148
-posts: 198
-comments: 1167
-weight: 198
-dau: 15
+subscribers: 149
+posts: 199
+comments: 1169
+weight: 199
+dau: 6
 wau: 22
 mau: 32
 instances:
@@ -41,10 +41,10 @@ Społeczność Szmerfów pytających :)<br>Masz pytanie? Zadaj je, inne Szmerfy 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 148 |
-| Posts                | 198  |
-| Comments             | 1167  |
-| Daily Active Users   | 15  |
+| Subscribers          | 149 |
+| Posts                | 199  |
+| Comments             | 1169  |
+| Daily Active Users   | 6  |
 | Weekly Active Users  | 22  |
 | Monthly Active Users | 32  |
 
@@ -54,4 +54,4 @@ Społeczność Szmerfów pytających :)<br>Masz pytanie? Zadaj je, inne Szmerfy 
 |----------------------|---|
 | Published            | 2021-06-27 15:47:25 |
 | Updated              | 2021-12-05 13:23:16 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

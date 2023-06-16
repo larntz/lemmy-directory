@@ -3,7 +3,7 @@ title: "Licensing"
 name: "licensing"
 description: "Information on licensing *your* projects."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/licensing"
@@ -54,4 +54,4 @@ Information on licensing *your* projects.
 |----------------------|---|
 | Published            | 2020-08-15 01:27:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

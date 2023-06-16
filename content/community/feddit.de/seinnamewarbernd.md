@@ -3,7 +3,7 @@ title: "SeinNameWarBernd"
 name: "seinnamewarbernd"
 description: "Sie nannten ihn Kriegsbernd."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/seinnamewarbernd"
@@ -54,4 +54,4 @@ Sie nannten ihn Kriegsbernd.
 |----------------------|---|
 | Published            | 2023-06-11 09:48:23 |
 | Updated              | 2023-06-13 17:50:45 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

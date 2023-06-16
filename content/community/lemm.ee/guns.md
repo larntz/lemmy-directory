@@ -3,13 +3,13 @@ title: "Guns"
 name: "guns"
 description: "A place to discuss firearms, gear, usage.Rules:-No selling, buying, or trading-No NSFW content-Be civil (No name calling, insults, shaming) -Keep politics to specified posts"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/guns"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ A place to discuss firearms, gear, usage.<br><br>Rules:<br><br>-No selling, buyi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss firearms, gear, usage.<br><br>Rules:<br><br>-No selling, buyi
 |----------------------|---|
 | Published            | 2023-06-13 16:20:25 |
 | Updated              | 2023-06-13 16:20:48 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

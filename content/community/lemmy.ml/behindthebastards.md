@@ -3,19 +3,19 @@ title: "Behind the Bastards"
 name: "behindthebastards"
 description: "Unofficial Behind the Bastards Podcast Community[SIDEBAR IS A WORK IN PROGRESS]Rule #0: Criticism of Sophie will not be tolerated and may result in a permanent ban. Yes, forever.Rule #1: No fascists. No tankies. No exceptions.Rule #2: Criticism of guests is against policy and will be removed. This was request by Robert Evans on the Reddit community. Also because they are guests and we should make them feel welcome, because we are at least 40% not assholes.Rule #3: Be nice to each other. You can argue all you want but you can't fight.Rule #4: No threats. No encouragement or glorification of violence. Being happy about dead Hitler is fine, but you can't plan Nazi assassinations here.Rule #5: Content must be related to Behind the Bastards and Cool Zone Media content or other Robert Evans projects. The extended universe, for example content by Jamie Loftus, Katy Stoll and Cody Johnston, Jason Pargin, is probably okay, too. Rule #6: Posts about ads on the podcast may be removed. Everyone already knows Reagan Coin and Chumba happened. "
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/behindthebastards"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 48
 posts: 8
-comments: 7
+comments: 9
 weight: 8
 dau: 4
-wau: 7
-mau: 7
+wau: 10
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Unofficial Behind the Bastards Podcast Community<br><br>[SIDEBAR IS A WORK IN PR
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 48 |
 | Posts                | 8  |
-| Comments             | 7  |
+| Comments             | 9  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Unofficial Behind the Bastards Podcast Community<br><br>[SIDEBAR IS A WORK IN PR
 |----------------------|---|
 | Published            | 2023-06-10 15:16:23 |
 | Updated              | 2023-06-11 03:55:12 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

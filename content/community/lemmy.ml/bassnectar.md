@@ -3,7 +3,7 @@ title: "Bassnectar"
 name: "bassnectar"
 description: "Community for bassnectar fans :)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bassnectar"
@@ -54,4 +54,4 @@ Community for bassnectar fans :)
 |----------------------|---|
 | Published            | 2023-06-09 16:01:34 |
 | Updated              | 2023-06-09 16:05:19 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:21 |

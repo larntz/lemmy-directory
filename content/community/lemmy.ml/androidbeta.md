@@ -3,13 +3,13 @@ title: "Android Beta"
 name: "androidbeta"
 description: "For discussion of beta updates for Android OS.[Visit the official Android Beta Program website](https://www.google.com/android/beta)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidbeta"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ For discussion of beta updates for Android OS.<br><br>[Visit the official Androi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussion of beta updates for Android OS.<br><br>[Visit the official Androi
 |----------------------|---|
 | Published            | 2023-06-07 15:18:42 |
 | Updated              | 2023-06-07 15:54:29 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:40 |

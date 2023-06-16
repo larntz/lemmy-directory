@@ -3,13 +3,13 @@ title: "Architecture"
 name: "architecture"
 description: "A place for professionals, students, and enthusiasts to share and discuss. "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/architecture"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 64
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ A place for professionals, students, and enthusiasts to share and discuss.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 64 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for professionals, students, and enthusiasts to share and discuss.
 |----------------------|---|
 | Published            | 2023-06-12 01:08:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

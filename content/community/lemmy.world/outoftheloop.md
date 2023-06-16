@@ -3,19 +3,19 @@ title: "Out of the loop"
 name: "outoftheloop"
 description: "A community that helps people stay up to date with things going on."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/outoftheloop"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 378
+subscribers: 434
 posts: 2
-comments: 52
+comments: 56
 weight: 2
-dau: 4
-wau: 4
-mau: 4
+dau: 10
+wau: 40
+mau: 40
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community that helps people stay up to date with things going on.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 378 |
+| Subscribers          | 434 |
 | Posts                | 2  |
-| Comments             | 52  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 56  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community that helps people stay up to date with things going on.
 |----------------------|---|
 | Published            | 2023-06-14 03:27:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

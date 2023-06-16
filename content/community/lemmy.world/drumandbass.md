@@ -1,21 +1,21 @@
 ---
 title: "Drum'n'Bass" 
 name: "drumandbass"
-description: "A community dedicated to all things Drum'n'Bass.  Post (your own) music, discuss drum'n'bass events or memes. Almost everything goes. Just don't be rude, racist or a bigot. I'm sure you can do this."
+description: "A community dedicated to all things Drum'n'Bass.  Post and discuss (your own) music, events, memes, documentaries, ... Almost everything goes as long as it's d'n'b related.Some very basic rules:- Be respectful- No NSFW/NSFL content.- No hate speech of any kind- No personal attacksOur Jungle Music community: https://lemmy.world/c/jungleRadio stream:https://radio.dedkob.com/public/s0ur"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drumandbass"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 136
-posts: 22
-comments: 25
-weight: 22
-dau: 2
-wau: 8
-mau: 8
+subscribers: 138
+posts: 28
+comments: 27
+weight: 28
+dau: 5
+wau: 12
+mau: 12
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community dedicated to all things Drum'n'Bass.  <br><br>Post (your own) music, discuss drum'n'bass events or memes. Almost everything goes. Just don't be rude, racist or a bigot. I'm sure you can do this.
+A community dedicated to all things Drum'n'Bass.  <br><br>Post and discuss (your own) music, events, memes, documentaries, ... Almost everything goes as long as it's d'n'b related.<br><br>Some very basic rules:<br>- Be respectful<br>- No NSFW/NSFL content.<br>- No hate speech of any kind<br>- No personal attacks<br><br>Our Jungle Music community: https://lemmy.world/c/jungle<br><br>Radio stream:<br>https://radio.dedkob.com/public/s0ur<br>
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A community dedicated to all things Drum'n'Bass.  <br><br>Post (your own) music,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 136 |
-| Posts                | 22  |
-| Comments             | 25  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 138 |
+| Posts                | 28  |
+| Comments             | 27  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 21:25:32 |
-| Updated              | 2023-06-15 21:42:13 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Updated              | 2023-06-16 19:38:36 |
+| Last Scraped         | 2023-06-16 22:57:16 |

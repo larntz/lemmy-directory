@@ -3,7 +3,7 @@ title: "Late Stage Leftism"
 name: "latestageleftism"
 description: "Late stage leftism: - identity politics maximized- communist/left anarchism Posts should be about:- the natural clashes that result from the differences between identity politics vs anarchism vs communism- the title of each post must contain some kind of justification for why late stage leftism will have x. Feel free to expand in body/commentsI don't know what modern left stage leftism would look like, so feel free to suggest.Both good and bad left outcomes are welcome here.Rules:- No saying racial slurs (ex N word)"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/latestageleftism"
@@ -54,4 +54,4 @@ Late stage leftism: <br><br>- identity politics maximized<br><br>- communist/lef
 |----------------------|---|
 | Published            | 2023-05-10 07:48:43 |
 | Updated              | 2023-05-12 16:14:28 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

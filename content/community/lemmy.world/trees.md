@@ -3,19 +3,19 @@ title: "Trees"
 name: "trees"
 description: "A community centered around cannabis. "
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trees"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1047
-posts: 26
-comments: 198
-weight: 26
-dau: 20
-wau: 93
-mau: 93
+subscribers: 1316
+posts: 29
+comments: 256
+weight: 29
+dau: 29
+wau: 142
+mau: 142
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community centered around cannabis.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1047 |
-| Posts                | 26  |
-| Comments             | 198  |
-| Daily Active Users   | 20  |
-| Weekly Active Users  | 93  |
-| Monthly Active Users | 93  |
+| Subscribers          | 1316 |
+| Posts                | 29  |
+| Comments             | 256  |
+| Daily Active Users   | 29  |
+| Weekly Active Users  | 142  |
+| Monthly Active Users | 142  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community centered around cannabis.
 |----------------------|---|
 | Published            | 2023-06-10 00:53:43 |
 | Updated              | 2023-06-11 04:26:41 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -1,18 +1,18 @@
 ---
 title: "GIAC" 
 name: "giac"
-description: "A community for discussing SANS GIAC security certifications and their associated courses. "
+description: "A community for discussing SANS GIAC security certifications and their associated courses. Please keep posts related to the community topic and respectful towards others. No sharing or distributing course or certification exam content in accordance with SANS / GIAC policy. Requests for extra practice exams are more than welcome."
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/giac"
 host: infosec.pub
 lastmod: "{[ .Updated }}"
 subscribers: 5
-posts: 1
+posts: 3
 comments: 0
-weight: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community for discussing SANS GIAC security certifications and their associated courses. 
+A community for discussing SANS GIAC security certifications and their associated courses. <br><br>Please keep posts related to the community topic and respectful towards others. No sharing or distributing course or certification exam content in accordance with SANS / GIAC policy. Requests for extra practice exams are more than welcome.
 </blockquote>
 
 
@@ -42,7 +42,7 @@ A community for discussing SANS GIAC security certifications and their associate
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 5 |
-| Posts                | 1  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ A community for discussing SANS GIAC security certifications and their associate
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 14:29:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Updated              | 2023-06-16 14:22:42 |
+| Last Scraped         | 2023-06-16 22:55:53 |

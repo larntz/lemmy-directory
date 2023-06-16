@@ -3,7 +3,7 @@ title: "Hamburg"
 name: "hamburg"
 description: "Eine Community für die Freie und Hansestadt HamburgAll are welcome (except fascists, of course)"
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hamburg"
@@ -13,7 +13,7 @@ subscribers: 43
 posts: 1
 comments: 10
 weight: 1
-dau: 3
+dau: 1
 wau: 6
 mau: 8
 instances:
@@ -44,7 +44,7 @@ Eine Community für die Freie und Hansestadt Hamburg<br><br>All are welcome (exc
 | Subscribers          | 43 |
 | Posts                | 1  |
 | Comments             | 10  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 8  |
 
@@ -54,4 +54,4 @@ Eine Community für die Freie und Hansestadt Hamburg<br><br>All are welcome (exc
 |----------------------|---|
 | Published            | 2023-06-04 12:23:08 |
 | Updated              | 2023-06-12 11:23:21 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

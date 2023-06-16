@@ -3,19 +3,19 @@ title: "Lactation"
 name: "lactation"
 description: "Got Milk? Hot lactating babes"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-16 22:56:41"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lactation"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 137
-posts: 39
+subscribers: 159
+posts: 45
 comments: 11
-weight: 39
+weight: 45
 dau: 3
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Got Milk? Hot lactating babes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 137 |
-| Posts                | 39  |
+| Subscribers          | 159 |
+| Posts                | 45  |
 | Comments             | 11  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -56,4 +56,4 @@ Got Milk? Hot lactating babes
 |----------------------|---|
 | Published            | 2023-06-14 00:34:51 |
 | Updated              | 2023-06-14 18:15:59 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-16 22:56:41 |

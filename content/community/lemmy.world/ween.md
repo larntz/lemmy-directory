@@ -3,17 +3,17 @@ title: "ween"
 name: "ween"
 description: "Community dedicated to the best band of all time.Feel free to post music, discussion, memes, articles and anything else related to Ween or the boys' side projects.Only a couple quick rules, I think most should be obvious anyway:Stay on topic - keep posts Ween relatedKeep disagreements civilNo racist, sexist, bigoted or violent contentNo politics (unless something is directly related to the band or its members) or other deliberately divisive topicsAbove all else, be kind, ain’t no time to hateThanks to [themollusk215](/u/themollusk215@lemmy.world) for help with the sidebar text.Other friendly music communities:[Grateful Dead](/c/gratefuldead@lemmy.world)"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ween"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 4
+subscribers: 17
+posts: 5
 comments: 3
-weight: 4
-dau: 2
+weight: 5
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Community dedicated to the best band of all time.<br><br>Feel free to post music
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 4  |
+| Subscribers          | 17 |
+| Posts                | 5  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Community dedicated to the best band of all time.<br><br>Feel free to post music
 |----------------------|---|
 | Published            | 2023-06-12 19:28:43 |
 | Updated              | 2023-06-13 18:47:18 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

@@ -3,13 +3,13 @@ title: "Hololive"
 name: "hololive"
 description: "A community for discussion, news, art, and memes about the virtual youtubers of Hololive ProductionsRules1:No harassment, doxxing, or attacking of talent or other community members2:No racism, homophobia, transphobia, or bigotry of any kind3:Posts must relate to Hololive Productions or its talents4:Add sources for fanart, animations, etc5:NSFW art is allowed, as long as it doesn't break rules 1-4"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:06"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/hololive"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A community for discussion, news, art, and memes about the virtual youtubers of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for discussion, news, art, and memes about the virtual youtubers of 
 |----------------------|---|
 | Published            | 2023-06-12 15:16:19 |
 | Updated              | 2023-06-13 13:29:45 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:06 |

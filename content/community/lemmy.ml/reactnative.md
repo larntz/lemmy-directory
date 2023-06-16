@@ -3,7 +3,7 @@ title: "React Native"
 name: "reactnative"
 description: "Community for learning and developing mobile apps using React Native"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reactnative"
@@ -54,4 +54,4 @@ Community for learning and developing mobile apps using React Native
 |----------------------|---|
 | Published            | 2023-06-11 03:56:06 |
 | Updated              | 2023-06-11 04:23:22 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:19 |

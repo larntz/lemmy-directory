@@ -3,17 +3,17 @@ title: "Fallout 76"
 name: "fallout76"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fallout76"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 39
-posts: 12
-comments: 7
-weight: 12
-dau: 5
+subscribers: 43
+posts: 13
+comments: 8
+weight: 13
+dau: 1
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 12  |
-| Comments             | 7  |
-| Daily Active Users   | 5  |
+| Subscribers          | 43 |
+| Posts                | 13  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 22:30:31 |
 | Updated              | 2023-06-07 14:08:24 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:29 |

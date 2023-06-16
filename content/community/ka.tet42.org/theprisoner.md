@@ -3,17 +3,17 @@ title: "The Prisoner"
 name: "theprisoner"
 description: "Questions are a burden to others; answers, a prison for oneself.Watch all episodes online for free at [https://www.shoutfactorytv.com/series/the-prisoner](https://www.shoutfactorytv.com/series/the-prisoner)"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/theprisoner"
 host: ka.tet42.org
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 2
 comments: 5
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Questions are a burden to others; answers, a prison for oneself.<br><br>Watch al
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 5  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Questions are a burden to others; answers, a prison for oneself.<br><br>Watch al
 |----------------------|---|
 | Published            | 2023-06-11 18:58:23 |
 | Updated              | 2023-06-13 13:45:45 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

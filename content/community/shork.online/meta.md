@@ -3,7 +3,7 @@ title: "Shork Online Meta"
 name: "meta"
 description: "sub for information and discussion related to the shork.online instance itself"
 type: community
-date: "2023-06-16 11:06:26"
+date: "2023-06-16 22:56:23"
 draft: false
 nsfw: false
 actor_id: "https://shork.online/c/meta"
@@ -54,4 +54,4 @@ sub for information and discussion related to the shork.online instance itself
 |----------------------|---|
 | Published            | 2023-06-13 17:39:19 |
 | Updated              | 2023-06-13 23:14:45 |
-| Last Scraped         | 2023-06-16 11:06:26 |
+| Last Scraped         | 2023-06-16 22:56:23 |

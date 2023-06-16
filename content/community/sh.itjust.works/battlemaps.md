@@ -3,16 +3,16 @@ title: "battlemaps"
 name: "battlemaps"
 description: "Share your battlemaps for tabletop RPG uses.**Remember:**Be RespectfulStay on TopicShared Maps Should Be Accessible (no paywalls)No Requests, Promotions, etc.No Etsy, Fiverr, LinktreeNo AI generated ImagesNo Spamming Multiple Posts--"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/battlemaps"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 189
-posts: 10
-comments: 11
-weight: 10
+subscribers: 198
+posts: 11
+comments: 12
+weight: 11
 dau: 4
 wau: 6
 mau: 6
@@ -41,9 +41,9 @@ Share your battlemaps for tabletop RPG uses.<br><br>**Remember:**<br>Be Respectf
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 189 |
-| Posts                | 10  |
-| Comments             | 11  |
+| Subscribers          | 198 |
+| Posts                | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ Share your battlemaps for tabletop RPG uses.<br><br>**Remember:**<br>Be Respectf
 |----------------------|---|
 | Published            | 2023-06-10 15:21:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

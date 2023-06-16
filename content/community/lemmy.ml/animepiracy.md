@@ -3,19 +3,19 @@ title: "Anime Piracy"
 name: "animepiracy"
 description: "A community dedicated to the discussion of piracy surrounding anime, manga, manhwa, light novels, visual novels, and hentai."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animepiracy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 118
 posts: 4
 comments: 5
 weight: 4
-dau: 1
-wau: 2
-mau: 2
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to the discussion of piracy surrounding anime, manga, manh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 118 |
 | Posts                | 4  |
 | Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to the discussion of piracy surrounding anime, manga, manh
 |----------------------|---|
 | Published            | 2022-02-15 02:38:34 |
 | Updated              | 2022-02-15 02:40:27 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

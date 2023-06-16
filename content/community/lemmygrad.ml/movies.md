@@ -3,19 +3,19 @@ title: "Movies"
 name: "movies"
 description: "Discussion about upcoming and recently released movies."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-16 22:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/movies"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 236
+subscribers: 238
 posts: 32
-comments: 250
+comments: 247
 weight: 32
-dau: 6
-wau: 14
-mau: 14
+dau: 3
+wau: 12
+mau: 12
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion about upcoming and recently released movies.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 236 |
+| Subscribers          | 238 |
 | Posts                | 32  |
-| Comments             | 250  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Comments             | 247  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about upcoming and recently released movies.
 |----------------------|---|
 | Published            | 2019-08-31 22:56:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-16 22:56:08 |

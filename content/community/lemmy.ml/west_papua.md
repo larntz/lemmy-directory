@@ -3,7 +3,7 @@ title: "West Papua"
 name: "west_papua"
 description: "Papua merdeka"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/west_papua"
@@ -54,4 +54,4 @@ Papua merdeka
 |----------------------|---|
 | Published            | 2020-06-28 07:42:22 |
 | Updated              | 2021-01-29 13:30:29 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:21 |

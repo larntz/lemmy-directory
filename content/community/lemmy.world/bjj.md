@@ -3,19 +3,19 @@ title: "BJJ"
 name: "bjj"
 description: "Brazilian Jiu-jitsu, Submission Wrestling, Grappling News, views, and shitposts"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bjj"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 31
-posts: 18
+posts: 19
 comments: 13
-weight: 18
+weight: 19
 dau: 2
-wau: 2
-mau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ Brazilian Jiu-jitsu, Submission Wrestling, Grappling <br><br>News, views, and sh
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 31 |
-| Posts                | 18  |
+| Posts                | 19  |
 | Comments             | 13  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Brazilian Jiu-jitsu, Submission Wrestling, Grappling <br><br>News, views, and sh
 |----------------------|---|
 | Published            | 2023-06-12 13:05:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

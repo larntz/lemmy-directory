@@ -3,19 +3,19 @@ title: "Letterboxd"
 name: "letterboxd"
 description: "A companion to letterboxd.com, for discussing all things in the world of Film and Letterboxd, with fellow Letterboxd members! Managed by fans."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/letterboxd"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 20
 posts: 2
 comments: 1
 weight: 2
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A companion to letterboxd.com, for discussing all things in the world of Film an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A companion to letterboxd.com, for discussing all things in the world of Film an
 |----------------------|---|
 | Published            | 2023-06-12 10:16:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:16 |

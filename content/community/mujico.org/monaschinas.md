@@ -3,7 +3,7 @@ title: "Monas Chinas"
 name: "monaschinas"
 description: "Animu y Mango"
 type: community
-date: "2023-06-16 11:05:45"
+date: "2023-06-16 22:55:40"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/monaschinas"
@@ -54,4 +54,4 @@ Animu y Mango
 |----------------------|---|
 | Published            | 2022-09-03 22:47:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:45 |
+| Last Scraped         | 2023-06-16 22:55:40 |

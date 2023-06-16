@@ -3,19 +3,19 @@ title: "Homestead"
 name: "homestead"
 description: "Ponds, barns, livestock, gardens, food preservation, fishing, hunting, tractors, pigs, chickens, cattle, worms, 4H, permaculture, organic, grazing, canning, aquaculture, trees, woodland, farmers, agriculture, agronomy, horticulture, wwoofers, bees, honey, wildcrafting, dairy, goats, nuts, berries, vegetables, sustainability, off grid, wood stoves, chainsaws, wood heat, tools, welding, green woodworking, farmers markets, composting toilets, straw bale homes, cob building..."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homestead"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 107
 posts: 4
 comments: 10
 weight: 4
 dau: 1
-wau: 5
-mau: 5
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Ponds, barns, livestock, gardens, food preservation, fishing, hunting, tractors,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 107 |
 | Posts                | 4  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ponds, barns, livestock, gardens, food preservation, fishing, hunting, tractors,
 |----------------------|---|
 | Published            | 2023-06-11 08:38:05 |
 | Updated              | 2023-06-12 20:05:58 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

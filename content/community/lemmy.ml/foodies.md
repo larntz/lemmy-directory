@@ -3,7 +3,7 @@ title: "Foodies"
 name: "foodies"
 description: "Community of food lovers"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foodies"
@@ -54,4 +54,4 @@ Community of food lovers
 |----------------------|---|
 | Published            | 2021-12-14 08:17:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

@@ -3,7 +3,7 @@ title: "Wireless Networking"
 name: "wireless"
 description: "Enterprise WiFi Networking"
 type: community
-date: "2023-06-16 11:05:57"
+date: "2023-06-16 22:55:53"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/wireless"
@@ -54,4 +54,4 @@ Enterprise WiFi Networking
 |----------------------|---|
 | Published            | 2023-06-12 21:25:56 |
 | Updated              | 2023-06-12 21:33:16 |
-| Last Scraped         | 2023-06-16 11:05:57 |
+| Last Scraped         | 2023-06-16 22:55:53 |

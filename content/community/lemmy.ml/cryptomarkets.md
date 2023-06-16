@@ -3,13 +3,13 @@ title: "Cryptocurrency Markets"
 name: "cryptomarkets"
 description: "A place for open discussion and dialogue on all subjects related to cryptocurrency trading. "
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptomarkets"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 9
 comments: 0
 weight: 9
@@ -41,7 +41,7 @@ A place for open discussion and dialogue on all subjects related to cryptocurren
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for open discussion and dialogue on all subjects related to cryptocurren
 |----------------------|---|
 | Published            | 2020-07-07 09:43:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:28 |

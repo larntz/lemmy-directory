@@ -3,7 +3,7 @@ title: "Kid Hacks"
 name: "kidhacks"
 description: "Similar to [!lifehacks@lemmy.ml](https://lemmy.ml/c/lifehacks) this community focus on kid in specific.Place where (old or new) parents can share their experiences/tricks/games/**hacks**/... with other (new or old) parents."
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kidhacks"
@@ -54,4 +54,4 @@ Similar to [!lifehacks@lemmy.ml](https://lemmy.ml/c/lifehacks) this community fo
 |----------------------|---|
 | Published            | 2023-06-16 06:21:13 |
 | Updated              | 2023-06-16 07:00:00 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

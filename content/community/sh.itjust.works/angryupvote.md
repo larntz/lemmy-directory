@@ -3,15 +3,15 @@ title: "Angry Upvote "
 name: "angryupvote"
 description: "Take my upvote and leave!"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/angryupvote"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 762
+subscribers: 788
 posts: 15
-comments: 40
+comments: 41
 weight: 15
 dau: 5
 wau: 28
@@ -41,9 +41,9 @@ Take my upvote and leave!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 762 |
+| Subscribers          | 788 |
 | Posts                | 15  |
-| Comments             | 40  |
+| Comments             | 41  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 28  |
 | Monthly Active Users | 28  |
@@ -54,4 +54,4 @@ Take my upvote and leave!
 |----------------------|---|
 | Published            | 2023-06-09 14:11:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

@@ -3,13 +3,13 @@ title: "Wolves"
 name: "wolves"
 description: "Lemmy's community for all things wolf! From pictures to research, and questions to news - our community aims to provide a space to inform, educate, and share our love for the world's most maligned and incredible animal."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wolves"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Lemmy's community for all things wolf! From pictures to research, and questions 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lemmy's community for all things wolf! From pictures to research, and questions 
 |----------------------|---|
 | Published            | 2023-06-06 08:21:38 |
 | Updated              | 2023-06-06 08:22:14 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

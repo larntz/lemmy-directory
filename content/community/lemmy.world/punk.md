@@ -3,7 +3,7 @@ title: "Punk"
 name: "punk"
 description: "A community for all things punk-relatedRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/punk"
@@ -54,4 +54,4 @@ A community for all things punk-related<br><br>Rules:<br>1. Be civil<br>2. No sp
 |----------------------|---|
 | Published            | 2023-06-13 14:13:51 |
 | Updated              | 2023-06-15 14:50:59 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

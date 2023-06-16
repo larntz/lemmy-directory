@@ -3,7 +3,7 @@ title: "Social"
 name: "social"
 description: "Discussions related to social media, people, social topics, culture, and so on"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/social"
@@ -54,4 +54,4 @@ Discussions related to social media, people, social topics, culture, and so on
 |----------------------|---|
 | Published            | 2023-02-01 22:41:07 |
 | Updated              | 2023-02-07 18:37:52 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:37 |

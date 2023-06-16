@@ -3,13 +3,13 @@ title: "All things bodyweight"
 name: "bodyweightfitness"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bodyweightfitness"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 72
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 72 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 04:55:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:21 |

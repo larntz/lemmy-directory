@@ -3,7 +3,7 @@ title: "Genealogy 101"
 name: "genealogy"
 description: "For those interested in genealogy - tips, tricks, requests and general discussions."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/genealogy"
@@ -54,4 +54,4 @@ For those interested in genealogy - tips, tricks, requests and general discussio
 |----------------------|---|
 | Published            | 2023-06-14 20:49:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

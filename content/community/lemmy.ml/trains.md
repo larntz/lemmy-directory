@@ -3,19 +3,19 @@ title: "Trains"
 name: "trains"
 description: "Everything about trains and railroads"
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trains"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 14
+subscribers: 84
+posts: 16
 comments: 1
-weight: 14
+weight: 16
 dau: 2
-wau: 5
-mau: 5
+wau: 6
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Everything about trains and railroads
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 14  |
+| Subscribers          | 84 |
+| Posts                | 16  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything about trains and railroads
 |----------------------|---|
 | Published            | 2023-04-23 23:07:33 |
 | Updated              | 2023-04-23 23:09:35 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:39 |

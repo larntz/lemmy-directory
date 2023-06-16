@@ -3,13 +3,13 @@ title: "Asien"
 name: "asien"
 description: "Alles rund um Asien🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/asien"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 23
 comments: 15
 weight: 23
@@ -41,7 +41,7 @@ Alles rund um Asien<br><br>🛡 Falls du Lust hast beim Moderieren dieser Commun
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 23  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Alles rund um Asien<br><br>🛡 Falls du Lust hast beim Moderieren dieser Commun
 |----------------------|---|
 | Published            | 2022-03-25 07:57:03 |
 | Updated              | 2023-06-06 17:37:15 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

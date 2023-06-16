@@ -3,7 +3,7 @@ title: "3D Printing"
 name: "3dprinting"
 description: ""
 type: community
-date: "2023-06-16 11:06:02"
+date: "2023-06-16 22:56:00"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/3dprinting"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-07 16:27:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:02 |
+| Last Scraped         | 2023-06-16 22:56:00 |

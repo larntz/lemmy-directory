@@ -3,7 +3,7 @@ title: "self_empowerment"
 name: "self_empowerment"
 description: "not just about self_empowerment, but could include self-help, therapy, psychology, philosophy, community efforts and so on."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/self_empowerment"
@@ -54,4 +54,4 @@ not just about self_empowerment, but could include self-help, therapy, psycholog
 |----------------------|---|
 | Published            | 2020-07-11 15:38:08 |
 | Updated              | 2020-07-11 15:39:17 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

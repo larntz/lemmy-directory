@@ -3,19 +3,19 @@ title: "Stable Diffusion Art"
 name: "share_your_art"
 description: "Share art created with the Stable Diffusion"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/share_your_art"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 109
-posts: 9
+subscribers: 129
+posts: 10
 comments: 11
-weight: 9
+weight: 10
 dau: 1
-wau: 10
-mau: 10
+wau: 11
+mau: 11
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Share art created with the Stable Diffusion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
-| Posts                | 9  |
+| Subscribers          | 129 |
+| Posts                | 10  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Share art created with the Stable Diffusion
 |----------------------|---|
 | Published            | 2023-06-09 21:54:33 |
 | Updated              | 2023-06-13 10:31:23 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

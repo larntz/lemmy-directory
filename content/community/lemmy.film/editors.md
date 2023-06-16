@@ -3,7 +3,7 @@ title: "Editors"
 name: "editors"
 description: "A community for video editors!"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/editors"
@@ -54,4 +54,4 @@ A community for video editors!
 |----------------------|---|
 | Published            | 2023-06-11 14:43:33 |
 | Updated              | 2023-06-12 19:34:40 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

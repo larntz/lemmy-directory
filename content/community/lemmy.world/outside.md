@@ -3,19 +3,19 @@ title: "Outside"
 name: "outside"
 description: "The biggest free-to-play MMO game to ever exist with over 8+ billion people actively playing every day!Remember to keep it English only This is a fediverse spin-off from the popular /r/outside"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/outside"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 301
-posts: 2
-comments: 4
-weight: 2
-dau: 3
-wau: 6
-mau: 6
+subscribers: 320
+posts: 3
+comments: 10
+weight: 3
+dau: 4
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The biggest free-to-play MMO game to ever exist with over 8+ billion people acti
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 301 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 320 |
+| Posts                | 3  |
+| Comments             | 10  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ The biggest free-to-play MMO game to ever exist with over 8+ billion people acti
 |----------------------|---|
 | Published            | 2023-06-10 22:17:48 |
 | Updated              | 2023-06-11 04:25:23 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

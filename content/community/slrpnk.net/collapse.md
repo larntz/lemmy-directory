@@ -3,13 +3,13 @@ title: "collapse of the old society"
 name: "collapse"
 description: "to discuss news and stuff of the old world dying"
 type: community
-date: "2023-06-16 11:06:30"
+date: "2023-06-16 22:56:27"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/collapse"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 89
 posts: 8
 comments: 3
 weight: 8
@@ -41,7 +41,7 @@ to discuss news and stuff of the old world dying
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 89 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ to discuss news and stuff of the old world dying
 |----------------------|---|
 | Published            | 2022-03-23 10:03:55 |
 | Updated              | 2022-05-17 13:20:36 |
-| Last Scraped         | 2023-06-16 11:06:30 |
+| Last Scraped         | 2023-06-16 22:56:27 |

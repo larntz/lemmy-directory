@@ -3,7 +3,7 @@ title: "Pro Life Tips"
 name: "prolifetips"
 description: "Post your best advice for getting through life, examples include Drink water Keep track of money and Don't be an asshole.**Rules**Follow Lemmy. ml TOS"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prolifetips"
@@ -54,4 +54,4 @@ Post your best advice for getting through life, examples include Drink water Kee
 |----------------------|---|
 | Published            | 2022-02-08 09:19:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

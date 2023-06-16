@@ -3,13 +3,13 @@ title: "Clozemaster"
 name: "clozemaster"
 description: "Unofficial clozemaster Lemmy. more info  [here.](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/clozemaster"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Unofficial clozemaster Lemmy. more info  [here.](https://mastodon.social/@finick
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Unofficial clozemaster Lemmy. more info  [here.](https://mastodon.social/@finick
 |----------------------|---|
 | Published            | 2023-05-09 13:42:07 |
 | Updated              | 2023-05-09 17:08:35 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:24 |

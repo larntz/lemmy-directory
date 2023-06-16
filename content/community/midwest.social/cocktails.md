@@ -1,21 +1,21 @@
 ---
 title: "Cocktails" 
 name: "cocktails"
-description: "Welcome to !cocktails@midwest.social, where you can share and converse about anything cocktails.If you’re interested in participating, please subscribe.Rules:Be respectful and civil. No racism/bigotry/hateful speech."
+description: "Welcome to !cocktails@midwest.social, where you can share and converse about anything cocktails and mixology.If you’re interested in participating, please subscribe.Rules:Be respectful and civil. No racism/bigotry/hateful speech."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cocktails"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 14
 posts: 4
-comments: 17
+comments: 19
 weight: 4
-dau: 3
-wau: 3
-mau: 3
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "midwest_social"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Welcome to !cocktails@midwest.social, where you can share and converse about anything cocktails.<br><br>If you’re interested in participating, please subscribe.<br><br>Rules:<br>Be respectful and civil. No racism/bigotry/hateful speech.
+Welcome to !cocktails@midwest.social, where you can share and converse about anything cocktails and mixology.<br><br>If you’re interested in participating, please subscribe.<br><br>Rules:<br>Be respectful and civil. No racism/bigotry/hateful speech.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Welcome to !cocktails@midwest.social, where you can share and converse about any
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 14 |
 | Posts                | 4  |
-| Comments             | 17  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 19  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 23:30:27 |
-| Updated              | 2023-06-15 17:49:41 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Updated              | 2023-06-16 19:52:08 |
+| Last Scraped         | 2023-06-16 22:56:28 |

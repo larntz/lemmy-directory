@@ -3,7 +3,7 @@ title: "筋とれすきー"
 name: "muscle"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:05:46"
+date: "2023-06-16 22:55:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/muscle"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-11-26 08:48:41 |
 | Updated              | 2021-11-26 08:49:16 |
-| Last Scraped         | 2023-06-16 11:05:46 |
+| Last Scraped         | 2023-06-16 22:55:41 |

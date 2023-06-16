@@ -3,7 +3,7 @@ title: "Sheffield"
 name: "sheffield"
 description: "A subreddit for and about Sheffield."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sheffield"
@@ -54,4 +54,4 @@ A subreddit for and about Sheffield.
 |----------------------|---|
 | Published            | 2021-02-26 14:35:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:40 |

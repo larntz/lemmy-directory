@@ -3,7 +3,7 @@ title: "ServiceNow"
 name: "servicenow"
 description: "A place for ServiceNow platform admins and developers.Ask questions and show off your stuff!"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/servicenow"
@@ -54,4 +54,4 @@ A place for ServiceNow platform admins and developers.<br><br>Ask questions and 
 |----------------------|---|
 | Published            | 2023-06-11 23:55:52 |
 | Updated              | 2023-06-12 00:09:06 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

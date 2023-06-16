@@ -3,13 +3,13 @@ title: "The Hudson Valley of New York"
 name: "hudson_valley"
 description: "Discussion of all things in the Hudson Valley of New York: locations, events, news, trivia, etc.Banner courtesy UFu at English Wikipedia, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=11862093"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hudson_valley"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Discussion of all things in the Hudson Valley of New York: locations, events, ne
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion of all things in the Hudson Valley of New York: locations, events, ne
 |----------------------|---|
 | Published            | 2023-06-10 15:24:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:02 |

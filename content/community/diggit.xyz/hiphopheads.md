@@ -3,7 +3,7 @@ title: "HipHopHeads"
 name: "hiphopheads"
 description: "Everything hip-hop, R&B and Future Beats! The latest mixtapes, videos, news, and anything else hip-hop/R&B/Future Beats related from your favorite artists"
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:13"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/hiphopheads"
@@ -54,4 +54,4 @@ Everything hip-hop, R&B and Future Beats! The latest mixtapes, videos, news, and
 |----------------------|---|
 | Published            | 2023-06-16 04:43:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:13 |

@@ -3,13 +3,13 @@ title: "Fairphone"
 name: "fairphone"
 description: "Community for the [FairPhone](https://www.fairphone.com)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fairphone"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 110
 posts: 8
 comments: 9
 weight: 8
@@ -41,7 +41,7 @@ Community for the [FairPhone](https://www.fairphone.com)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 110 |
 | Posts                | 8  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for the [FairPhone](https://www.fairphone.com)
 |----------------------|---|
 | Published            | 2021-09-14 18:11:49 |
 | Updated              | 2021-09-14 18:11:57 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:42 |

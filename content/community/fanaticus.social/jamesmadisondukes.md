@@ -3,7 +3,7 @@ title: "James Madison Dukes"
 name: "jamesmadisondukes"
 description: "A community to discuss James Madison Dukes athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/jamesmadisondukes"
@@ -54,4 +54,4 @@ A community to discuss James Madison Dukes athletics.<br><br>**Looking for Mods!
 |----------------------|---|
 | Published            | 2023-06-15 22:26:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

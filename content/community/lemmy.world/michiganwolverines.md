@@ -3,7 +3,7 @@ title: "Michigan Wolverines"
 name: "michiganwolverines"
 description: "News and discussion about University of Michigan sports**Useful links**-  [Schedule](https://mgoblue.com/sports/football/schedule)"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/michiganwolverines"
@@ -14,8 +14,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -45,8 +45,8 @@ News and discussion about University of Michigan sports<br><br><br>**Useful link
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ News and discussion about University of Michigan sports<br><br><br>**Useful link
 |----------------------|---|
 | Published            | 2023-06-15 17:04:16 |
 | Updated              | 2023-06-15 17:16:02 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:13 |

@@ -1,9 +1,9 @@
 ---
 title: "Today" 
 name: "today"
-description: "Description not available."
+description: "Embrace the Present, Seize the Day, and Make Every Moment Count"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/today"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Embrace the Present, Seize the Day, and Make Every Moment Count
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 12:37:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Updated              | 2023-06-16 11:29:48 |
+| Last Scraped         | 2023-06-16 22:57:17 |

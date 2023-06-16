@@ -3,19 +3,19 @@ title: "Unpopular Opinion"
 name: "unpopularopinion"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unpopularopinion"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 131
+subscribers: 146
 posts: 2
-comments: 16
+comments: 17
 weight: 2
-dau: 1
-wau: 4
-mau: 4
+dau: 6
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 131 |
+| Subscribers          | 146 |
 | Posts                | 2  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 17  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:28:11 |
 | Updated              | 2023-06-09 20:39:13 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,13 +3,13 @@ title: "Technical Support"
 name: "tech_support"
 description: "Tech support for technical people.You can ask all technology related support questions here. This is inspired by r/techsupport but we're striving to be professionals here. Don't ask stuff you can answer in a few seconds just by googling and be sure to follow [this guide on how to ask questions the smart way](https://wiki.tilde.fun/guide/questions)."
 type: community
-date: "2023-06-15 17:29:37"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_support"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 56
 posts: 2
 comments: 10
 weight: 2
@@ -41,7 +41,7 @@ Tech support for technical people.<br><br>You can ask all technology related sup
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 56 |
 | Posts                | 2  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tech support for technical people.<br><br>You can ask all technology related sup
 |----------------------|---|
 | Published            | 2021-01-30 10:16:53 |
 | Updated              | 2021-01-30 10:22:21 |
-| Last Scraped         | 2023-06-15 17:29:37 |
+| Last Scraped         | 2023-06-16 22:57:27 |

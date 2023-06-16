@@ -3,19 +3,19 @@ title: "minecraft"
 name: "minecraft"
 description: "minecraftLemmycraft IP: 49.51.143.157"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/minecraft"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 12
+subscribers: 69
+posts: 14
 comments: 13
-weight: 12
+weight: 14
 dau: 2
 wau: 7
-mau: 8
+mau: 9
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ minecraft<br>Lemmycraft IP: 49.51.143.157
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 12  |
+| Subscribers          | 69 |
+| Posts                | 14  |
 | Comments             | 13  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ minecraft<br>Lemmycraft IP: 49.51.143.157
 |----------------------|---|
 | Published            | 2023-06-07 22:38:03 |
 | Updated              | 2023-06-14 13:01:29 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-16 22:56:07 |

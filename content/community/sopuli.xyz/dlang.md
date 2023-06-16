@@ -3,13 +3,13 @@ title: "D Programming Language"
 name: "dlang"
 description: "Community for the [D programming language](https://dlang.org/)"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-16 22:56:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dlang"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 16
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Community for the [D programming language](https://dlang.org/)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 16 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for the [D programming language](https://dlang.org/)
 |----------------------|---|
 | Published            | 2021-04-21 09:23:05 |
 | Updated              | 2021-12-06 15:54:24 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-16 22:56:32 |

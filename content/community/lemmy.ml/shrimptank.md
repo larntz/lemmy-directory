@@ -3,7 +3,7 @@ title: "Shrimp Tank"
 name: "shrimptank"
 description: "**A community dedicated to shrimp aquariums. Show off your tanks, ask questions, help others!**Other related communities:- [/c/aquariums](https://lemmy.ml/c/aquariums)- [/c/reeftank](https://lemmy.ml/c/reeftank)[Community icon by Freepik](https://www.flaticon.com/free-icons/shrimps)"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shrimptank"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-05 09:43:31 |
 | Updated              | 2023-06-05 19:55:46 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

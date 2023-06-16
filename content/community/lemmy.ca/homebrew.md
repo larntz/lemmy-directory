@@ -3,7 +3,7 @@ title: "Homebrew"
 name: "homebrew"
 description: "Dedicated to all homebrewing. Beer, wine, high alcohol and more!"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/homebrew"
@@ -54,4 +54,4 @@ Dedicated to all homebrewing. Beer, wine, high alcohol and more!
 |----------------------|---|
 | Published            | 2023-06-10 19:34:31 |
 | Updated              | 2023-06-11 17:09:58 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

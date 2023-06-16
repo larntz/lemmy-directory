@@ -3,7 +3,7 @@ title: "日本のニュース"
 name: "news_jp"
 description: "日本の最新ニュース"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/news_jp"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 15:27:27 |
 | Updated              | 2023-06-12 03:37:46 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:16 |

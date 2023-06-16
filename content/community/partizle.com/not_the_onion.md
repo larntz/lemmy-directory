@@ -3,19 +3,19 @@ title: "Not The Onion"
 name: "not_the_onion"
 description: "Real news that is oniony"
 type: community
-date: "2023-06-16 11:06:05"
+date: "2023-06-16 22:56:07"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/not_the_onion"
 host: partizle.com
 lastmod: "{[ .Updated }}"
-subscribers: 49
-posts: 4
-comments: 8
-weight: 4
+subscribers: 54
+posts: 5
+comments: 9
+weight: 5
 dau: 2
-wau: 6
-mau: 7
+wau: 7
+mau: 8
 instances:
 - "partizle_com"
 tags: 
@@ -41,12 +41,12 @@ Real news that is oniony
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 4  |
-| Comments             | 8  |
+| Subscribers          | 54 |
+| Posts                | 5  |
+| Comments             | 9  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Real news that is oniony
 |----------------------|---|
 | Published            | 2023-06-07 15:24:11 |
 | Updated              | 2023-06-14 17:23:49 |
-| Last Scraped         | 2023-06-16 11:06:05 |
+| Last Scraped         | 2023-06-16 22:56:07 |

@@ -3,19 +3,19 @@ title: "Duolingo"
 name: "duolingo"
 description: "A great free way to learn languages."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/duolingo"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 134
+subscribers: 140
 posts: 8
 comments: 14
 weight: 8
-dau: 3
-wau: 6
-mau: 14
+dau: 1
+wau: 8
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A great free way to learn languages.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
+| Subscribers          | 140 |
 | Posts                | 8  |
 | Comments             | 14  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 14  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ A great free way to learn languages.
 |----------------------|---|
 | Published            | 2021-12-14 10:01:07 |
 | Updated              | 2021-12-15 20:28:04 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:21 |

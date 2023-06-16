@@ -3,19 +3,19 @@ title: "Dallas Mavericks"
 name: "mavericks"
 description: "***All about the Boys from Big D!****Trying to relive r/Mavericks at Lemmy while the sub is closed*![Image](https://i.imgur.com/smOkzWc.png)**Rules:*** Keep it clean* Post links to sources* Avoid paywall articles* No reposts"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mavericks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 6
+subscribers: 13
+posts: 7
 comments: 2
-weight: 6
-dau: 1
-wau: 1
-mau: 1
+weight: 7
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 6  |
+| Subscribers          | 13 |
+| Posts                | 7  |
 | Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 14:07:56 |
 | Updated              | 2023-06-16 07:52:16 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

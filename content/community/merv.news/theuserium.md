@@ -3,7 +3,7 @@ title: "The Userium"
 name: "theuserium"
 description: "# UI/UX Design**The design and craft of digital tools.**"
 type: community
-date: "2023-06-16 11:05:49"
+date: "2023-06-16 22:55:43"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/theuserium"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-01 16:49:50 |
 | Updated              | 2022-10-01 17:26:38 |
-| Last Scraped         | 2023-06-16 11:05:49 |
+| Last Scraped         | 2023-06-16 22:55:43 |

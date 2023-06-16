@@ -3,7 +3,7 @@ title: "SweatyPalms"
 name: "sweatypalms"
 description: "Sharing Heart-Pounding Moments, One Palmsweat at a Time"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sweatypalms"
@@ -53,5 +53,5 @@ Sharing Heart-Pounding Moments, One Palmsweat at a Time
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 10:52:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Updated              | 2023-06-16 11:43:19 |
+| Last Scraped         | 2023-06-16 22:57:12 |

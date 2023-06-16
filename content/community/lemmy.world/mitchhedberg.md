@@ -3,7 +3,7 @@ title: "Mitch Hedberg "
 name: "mitchhedberg"
 description: "All things Mitch! "
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mitchhedberg"
@@ -54,4 +54,4 @@ All things Mitch!
 |----------------------|---|
 | Published            | 2023-06-11 18:10:50 |
 | Updated              | 2023-06-11 22:11:19 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

@@ -3,7 +3,7 @@ title: "Cookie Clicker"
 name: "cookie_clicker"
 description: "The answer to all your life's questions: Ssshhh... just click the cookie.Rules:- Be excellent to each other- Don’t be the reason we need to make more rules"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cookie_clicker"
@@ -54,4 +54,4 @@ The answer to all your life's questions: Ssshhh... just click the cookie.<br><br
 |----------------------|---|
 | Published            | 2023-06-14 02:22:45 |
 | Updated              | 2023-06-15 01:21:58 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

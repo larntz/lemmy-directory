@@ -3,19 +3,19 @@ title: "Ask exploding heads"
 name: "askexplodingheads"
 description: "Ask a question, any question "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:36"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/askexplodingheads"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 34
-posts: 17
-comments: 123
-weight: 17
-dau: 3
-wau: 19
-mau: 22
+subscribers: 35
+posts: 19
+comments: 140
+weight: 19
+dau: 9
+wau: 20
+mau: 23
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Ask a question, any question
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 17  |
-| Comments             | 123  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 22  |
+| Subscribers          | 35 |
+| Posts                | 19  |
+| Comments             | 140  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ask a question, any question
 |----------------------|---|
 | Published            | 2023-05-31 09:16:53 |
 | Updated              | 2023-06-02 12:01:03 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:36 |

@@ -3,7 +3,7 @@ title: "Excel is Cool!"
 name: "excel"
 description: "Prove to the world Excel is cool!"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/excel"
@@ -13,9 +13,9 @@ subscribers: 6
 posts: 1
 comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -44,9 +44,9 @@ Prove to the world Excel is cool!
 | Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Prove to the world Excel is cool!
 |----------------------|---|
 | Published            | 2023-06-13 06:49:09 |
 | Updated              | 2023-06-13 06:49:56 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

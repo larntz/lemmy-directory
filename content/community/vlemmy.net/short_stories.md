@@ -3,16 +3,16 @@ title: "Short Stories"
 name: "short_stories"
 description: "Please post the full text of the story or a link to the text/pdfSelf-written is allowed"
 type: community
-date: "2023-06-16 11:06:08"
+date: "2023-06-16 22:56:09"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/short_stories"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 10
-comments: 2
-weight: 10
+subscribers: 32
+posts: 11
+comments: 3
+weight: 11
 dau: 1
 wau: 4
 mau: 4
@@ -41,9 +41,9 @@ Please post the full text of the story or a link to the text/pdf<br><br>Self-wri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 10  |
-| Comments             | 2  |
+| Subscribers          | 32 |
+| Posts                | 11  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Please post the full text of the story or a link to the text/pdf<br><br>Self-wri
 |----------------------|---|
 | Published            | 2023-06-12 18:19:40 |
 | Updated              | 2023-06-12 19:12:39 |
-| Last Scraped         | 2023-06-16 11:06:08 |
+| Last Scraped         | 2023-06-16 22:56:09 |

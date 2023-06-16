@@ -3,15 +3,15 @@ title: "klaagdraad"
 name: "klaagdraad"
 description: "De community waar je oerhollands mag klagen over vanalles en nog wat."
 type: community
-date: "2023-06-16 11:05:58"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/klaagdraad"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 38
 posts: 2
-comments: 28
+comments: 29
 weight: 2
 dau: 7
 wau: 18
@@ -41,9 +41,9 @@ De community waar je oerhollands mag klagen over vanalles en nog wat.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 38 |
 | Posts                | 2  |
-| Comments             | 28  |
+| Comments             | 29  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 18  |
 | Monthly Active Users | 18  |
@@ -54,4 +54,4 @@ De community waar je oerhollands mag klagen over vanalles en nog wat.
 |----------------------|---|
 | Published            | 2023-06-12 21:48:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:58 |
+| Last Scraped         | 2023-06-16 22:55:55 |

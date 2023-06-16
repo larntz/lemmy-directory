@@ -3,7 +3,7 @@ title: "Digital Issues"
 name: "digitalissues"
 description: "Political discourse of issues revolving the digital. Asking big and small questions. What should the internet be? Is this software beneficial for the user? "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalissues"
@@ -54,4 +54,4 @@ Political discourse of issues revolving the digital. Asking big and small questi
 |----------------------|---|
 | Published            | 2021-03-30 08:06:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:20 |

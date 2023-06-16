@@ -3,13 +3,13 @@ title: "Minecraft Servers"
 name: "minecraftservers"
 description: "Post and Share Minecraft servers here!Rules:1 - Don't spam your server. 1 Post per day2 - Posts must be formatted (Name) (Platform/Version) - (Type). Use the body to describe your servers!3- Follow Lemmy's rules"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraftservers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 72
 posts: 4
 comments: 9
 weight: 4
@@ -41,7 +41,7 @@ Post and Share Minecraft servers here!<br><br>Rules:<br><br>1 - Don't spam your 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 72 |
 | Posts                | 4  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post and Share Minecraft servers here!<br><br>Rules:<br><br>1 - Don't spam your 
 |----------------------|---|
 | Published            | 2020-06-29 19:51:55 |
 | Updated              | 2020-06-29 20:10:09 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:33 |

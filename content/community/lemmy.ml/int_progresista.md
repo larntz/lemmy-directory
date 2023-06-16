@@ -3,7 +3,7 @@ title: "Internacional Progresista"
 name: "int_progresista"
 description: "Foro no oficial sobre la Internacional Progresista y políticas progresistas en general en lengua castellana "
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/int_progresista"
@@ -54,4 +54,4 @@ Foro no oficial sobre la Internacional Progresista y políticas progresistas en 
 |----------------------|---|
 | Published            | 2020-05-12 11:49:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:39 |

@@ -3,13 +3,13 @@ title: "AMD"
 name: "amd"
 description: "A community for discussion of AI generation AMD cards"
 type: community
-date: "2023-06-16 11:05:55"
+date: "2023-06-16 22:55:51"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/amd"
 host: aiparadise.moe
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A community for discussion of AI generation AMD cards
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussion of AI generation AMD cards
 |----------------------|---|
 | Published            | 2023-05-15 11:58:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:05:55 |
+| Last Scraped         | 2023-06-16 22:55:51 |

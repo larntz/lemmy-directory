@@ -3,13 +3,13 @@ title: "A Place To Share Your Music"
 name: "shareyourmusic"
 description: "Post your personal original content here!"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shareyourmusic"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 49
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Post your personal original content here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 49 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post your personal original content here!
 |----------------------|---|
 | Published            | 2020-06-28 13:11:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:26 |

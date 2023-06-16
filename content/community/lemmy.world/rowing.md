@@ -3,7 +3,7 @@ title: "Rowing"
 name: "rowing"
 description: "A lemmy community for all rowing related news, erging advice and fitness discussion related to the sport."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rowing"
@@ -54,4 +54,4 @@ A lemmy community for all rowing related news, erging advice and fitness discuss
 |----------------------|---|
 | Published            | 2023-06-11 18:43:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:18 |

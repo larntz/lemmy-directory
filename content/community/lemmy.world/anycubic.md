@@ -3,7 +3,7 @@ title: "Anycubic 3d Printers"
 name: "anycubic"
 description: "Share tips and tricks and troubleshoot issues for your Anycubic 3D Printers"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/anycubic"
@@ -54,4 +54,4 @@ Share tips and tricks and troubleshoot issues for your Anycubic 3D Printers
 |----------------------|---|
 | Published            | 2023-06-16 00:49:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |

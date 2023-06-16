@@ -3,17 +3,17 @@ title: "askMENA"
 name: "mena_24"
 description: "**RULES**:1. No insults or uncivil behavior2. No hate speech3. Homophobia is not allowed4. No Preaching5. No Fake News6. No Trolling7. No Extremism8. Memes allowed9. Follow instance rules10. English Only11. Posts and Polls must be genuine12. Posts must be related to MENA13. No Low Effort Posts"
 type: community
-date: "2023-06-16 11:06:04"
+date: "2023-06-16 22:56:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/mena_24"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 11
 comments: 9
 weight: 11
-dau: 2
+dau: 1
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 11  |
 | Comments             | 9  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 19:32:08 |
 | Updated              | 2023-06-11 12:07:38 |
-| Last Scraped         | 2023-06-16 11:06:04 |
+| Last Scraped         | 2023-06-16 22:56:03 |

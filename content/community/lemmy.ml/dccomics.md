@@ -3,19 +3,19 @@ title: "DCcomics"
 name: "dccomics"
 description: "A place for anything DC related whether that be the comics, movies, television shows, cartoons, etc."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dccomics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 37
 posts: 9
 comments: 9
 weight: 9
 dau: 1
 wau: 3
-mau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place for anything DC related whether that be the comics, movies, television s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 37 |
 | Posts                | 9  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for anything DC related whether that be the comics, movies, television s
 |----------------------|---|
 | Published            | 2020-06-28 15:49:23 |
 | Updated              | 2020-07-07 13:05:36 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-16 22:57:23 |

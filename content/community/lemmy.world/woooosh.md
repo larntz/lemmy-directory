@@ -3,13 +3,13 @@ title: "c/woooosh"
 name: "woooosh"
 description: "The official r/woooosh."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/woooosh"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 123
+subscribers: 127
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ The official r/woooosh.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 123 |
+| Subscribers          | 127 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The official r/woooosh.
 |----------------------|---|
 | Published            | 2023-06-10 13:33:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

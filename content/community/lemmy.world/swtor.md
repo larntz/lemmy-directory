@@ -3,19 +3,19 @@ title: "Star Wars: The Old Republic"
 name: "swtor"
 description: "Community for Star Wars: The Old Republic"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swtor"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 22
 posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for Star Wars: The Old Republic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 22 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Star Wars: The Old Republic
 |----------------------|---|
 | Published            | 2023-06-12 19:02:07 |
 | Updated              | 2023-06-14 08:37:30 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

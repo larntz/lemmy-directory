@@ -3,19 +3,19 @@ title: "Genshin Impact"
 name: "genshin_impact"
 description: "Community for Genshin Impact"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/genshin_impact"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 191
+subscribers: 208
 posts: 13
-comments: 141
+comments: 146
 weight: 13
-dau: 21
-wau: 32
-mau: 32
+dau: 11
+wau: 47
+mau: 47
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for Genshin Impact
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 191 |
+| Subscribers          | 208 |
 | Posts                | 13  |
-| Comments             | 141  |
-| Daily Active Users   | 21  |
-| Weekly Active Users  | 32  |
-| Monthly Active Users | 32  |
+| Comments             | 146  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 47  |
+| Monthly Active Users | 47  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Genshin Impact
 |----------------------|---|
 | Published            | 2023-06-11 08:30:11 |
 | Updated              | 2023-06-12 00:37:59 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:15 |

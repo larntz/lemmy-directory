@@ -3,13 +3,13 @@ title: "Philadelphia Flyers"
 name: "flyers"
 description: "Community for Philadelphia Flyers hockey news/information/discussion."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/flyers"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Community for Philadelphia Flyers hockey news/information/discussion.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for Philadelphia Flyers hockey news/information/discussion.
 |----------------------|---|
 | Published            | 2023-06-12 23:15:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

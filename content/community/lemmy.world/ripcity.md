@@ -3,19 +3,19 @@ title: "RipCity"
 name: "ripcity"
 description: "Lemmy community for fans of NBA's Portland Trail Blazers.  Feel free to discuss any topic related to the Blazers![](https://lemmy.world/pictrs/image/6f2c998e-835c-4ab5-8a64-56776240abc5.jpeg)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ripcity"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 4
+subscribers: 26
+posts: 7
 comments: 12
-weight: 4
-dau: 5
-wau: 5
-mau: 5
+weight: 7
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy community for fans of NBA's Portland Trail Blazers.  Feel free to discuss 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 4  |
+| Subscribers          | 26 |
+| Posts                | 7  |
 | Comments             | 12  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy community for fans of NBA's Portland Trail Blazers.  Feel free to discuss 
 |----------------------|---|
 | Published            | 2023-06-13 19:00:28 |
 | Updated              | 2023-06-14 22:34:10 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,7 +3,7 @@ title: "Privātums"
 name: "privatums"
 description: "Man nav ko slēpt. Bet arī izrādīties nevēlos."
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-16 22:57:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privatums"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-12-28 23:01:50 |
 | Updated              | 2020-12-28 23:02:28 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-16 22:57:31 |

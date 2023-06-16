@@ -3,7 +3,7 @@ title: "Third Culture Kids"
 name: "thirdculturekids"
 description: "Community for those who were raised in a culture other than their parents' or the culture of the country named on their passport for a significant part of their early development years."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thirdculturekids"
@@ -54,4 +54,4 @@ Community for those who were raised in a culture other than their parents' or th
 |----------------------|---|
 | Published            | 2020-07-30 11:20:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

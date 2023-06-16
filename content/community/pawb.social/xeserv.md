@@ -3,7 +3,7 @@ title: "Xeserv"
 name: "xeserv"
 description: "Discussion about the articles at https://xeiaso.net and friends. "
 type: community
-date: "2023-06-16 11:05:59"
+date: "2023-06-16 22:55:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/xeserv"
@@ -54,4 +54,4 @@ Discussion about the articles at https://xeiaso.net and friends.
 |----------------------|---|
 | Published            | 2023-06-14 12:21:20 |
 | Updated              | 2023-06-14 12:25:05 |
-| Last Scraped         | 2023-06-16 11:05:59 |
+| Last Scraped         | 2023-06-16 22:55:55 |

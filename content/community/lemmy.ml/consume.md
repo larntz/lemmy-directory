@@ -3,7 +3,7 @@ title: "Anti-Consumerism Memes"
 name: "consume"
 description: "No bigotry - including racism, sexism, ableism, homophobia, or xenophobia. "
 type: community
-date: "2023-06-15 17:38:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/consume"
@@ -54,4 +54,4 @@ No bigotry - including racism, sexism, ableism, homophobia, or xenophobia.
 |----------------------|---|
 | Published            | 2020-07-01 02:51:05 |
 | Updated              | 2020-07-01 03:23:32 |
-| Last Scraped         | 2023-06-15 17:38:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

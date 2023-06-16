@@ -3,7 +3,7 @@ title: "Literatura"
 name: "literatura"
 description: "Um local para partilhar boas leituras e discutir qualquer tipo de assunto relacionado com o mundo dos livros."
 type: community
-date: "2023-06-16 11:06:24"
+date: "2023-06-16 22:56:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/literatura"
@@ -54,4 +54,4 @@ Um local para partilhar boas leituras e discutir qualquer tipo de assunto relaci
 |----------------------|---|
 | Published            | 2021-09-10 19:55:48 |
 | Updated              | 2021-09-13 12:00:34 |
-| Last Scraped         | 2023-06-16 11:06:24 |
+| Last Scraped         | 2023-06-16 22:56:22 |

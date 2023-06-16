@@ -3,7 +3,7 @@ title: "ECU Pirates"
 name: "eastcarolinapirates"
 description: "A community to discuss East Carolina Pirates athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/eastcarolinapirates"
@@ -54,4 +54,4 @@ A community to discuss East Carolina Pirates athletics.<br><br>**Looking for Mod
 |----------------------|---|
 | Published            | 2023-06-15 00:56:18 |
 | Updated              | 2023-06-15 01:12:41 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:14 |

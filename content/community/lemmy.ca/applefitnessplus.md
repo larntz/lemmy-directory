@@ -3,16 +3,16 @@ title: "Apple Fitness Plus"
 name: "applefitnessplus"
 description: "A community to discuss our favourite trainers, workouts, achievements, struggles and everything else related to AF+"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/applefitnessplus"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 5
-comments: 1
-weight: 5
+subscribers: 10
+posts: 4
+comments: 2
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ A community to discuss our favourite trainers, workouts, achievements, struggles
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 5  |
-| Comments             | 1  |
+| Subscribers          | 10 |
+| Posts                | 4  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A community to discuss our favourite trainers, workouts, achievements, struggles
 |----------------------|---|
 | Published            | 2023-06-09 23:56:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

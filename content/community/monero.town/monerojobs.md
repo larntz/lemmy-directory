@@ -3,19 +3,19 @@ title: "Monero Jobs"
 name: "monerojobs"
 description: "Looking for work? Looking for workers? Give posting here a try!"
 type: community
-date: "2023-06-16 11:06:20"
+date: "2023-06-16 22:56:17"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monerojobs"
 host: monero.town
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 10
+posts: 1
+comments: 6
+weight: 1
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "monero_town"
 tags: 
@@ -41,12 +41,12 @@ Looking for work? Looking for workers? Give posting here a try!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 10 |
+| Posts                | 1  |
+| Comments             | 6  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Looking for work? Looking for workers? Give posting here a try!
 |----------------------|---|
 | Published            | 2023-06-14 11:56:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:20 |
+| Last Scraped         | 2023-06-16 22:56:17 |

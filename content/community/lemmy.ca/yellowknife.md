@@ -3,13 +3,13 @@ title: "Yellowknife"
 name: "yellowknife"
 description: "A community for those interested in Yellowknife, NT Canada"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-16 22:56:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/yellowknife"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 5
 weight: 2
@@ -41,7 +41,7 @@ A community for those interested in Yellowknife, NT Canada
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ A community for those interested in Yellowknife, NT Canada
 |----------------------|---|
 | Published            | 2023-06-12 14:40:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-16 22:56:34 |

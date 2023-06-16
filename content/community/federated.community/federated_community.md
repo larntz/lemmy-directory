@@ -3,15 +3,15 @@ title: "Federated Community"
 name: "federated_community"
 description: "The official Lemmy community for [federated.community](https://federated.community).Moderated by the Federated Community staff."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:29"
 draft: false
 nsfw: false
 actor_id: "https://federated.community/c/federated_community"
 host: federated.community
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
-comments: 1
+comments: 4
 weight: 2
 dau: 1
 wau: 3
@@ -41,9 +41,9 @@ The official Lemmy community for [federated.community](https://federated.communi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ The official Lemmy community for [federated.community](https://federated.communi
 |----------------------|---|
 | Published            | 2023-06-12 17:51:02 |
 | Updated              | 2023-06-12 19:28:55 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:29 |

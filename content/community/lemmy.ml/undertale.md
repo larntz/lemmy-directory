@@ -3,13 +3,13 @@ title: "Undertale/Deltarune"
 name: "undertale"
 description: "Community for the videogames Undertale and DeltaruneRules:1. No NSFW! Such posts will be removed"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undertale"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Community for the videogames Undertale and Deltarune<br><br>Rules:<br>1. No NSFW
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for the videogames Undertale and Deltarune<br><br>Rules:<br>1. No NSFW
 |----------------------|---|
 | Published            | 2021-03-23 05:37:11 |
 | Updated              | 2021-03-24 11:25:28 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:21 |

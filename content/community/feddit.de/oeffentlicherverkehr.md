@@ -3,13 +3,13 @@ title: "öffentlicher Verkehr"
 name: "oeffentlicherverkehr"
 description: "Community für alle Dinge des öffentlichen Verkehrs. Bus, Bahn und sonstige zukünftige TechnologienDiskussionen, News, Anekdoten"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oeffentlicherverkehr"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 46
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Community für alle Dinge des öffentlichen Verkehrs. Bus, Bahn und sonstige zuk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 46 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community für alle Dinge des öffentlichen Verkehrs. Bus, Bahn und sonstige zuk
 |----------------------|---|
 | Published            | 2023-06-12 16:17:21 |
 | Updated              | 2023-06-13 09:01:37 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

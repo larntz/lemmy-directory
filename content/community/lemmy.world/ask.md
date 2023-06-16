@@ -3,13 +3,13 @@ title: "Ask"
 name: "ask"
 description: "[!asklemmy@lemmy.world](https://lemmy.world/c/asklemmy)[!asklemmy@lemmy.ml](https://lemmy.ml/c/asklemmy) "
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ask"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 72
+subscribers: 73
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
+| Subscribers          | 73 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 09:13:32 |
 | Updated              | 2023-06-13 20:40:14 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

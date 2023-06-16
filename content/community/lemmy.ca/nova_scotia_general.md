@@ -3,13 +3,13 @@ title: "Nova Scotia General"
 name: "nova_scotia_general"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-16 22:56:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/nova_scotia_general"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 2
 comments: 13
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 13  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-11 12:50:06 |
 | Updated              | 2021-01-11 12:50:42 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-16 22:56:35 |

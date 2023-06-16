@@ -3,19 +3,19 @@ title: "Rag Chew"
 name: "ragchew"
 description: "General amateur radio chat and news"
 type: community
-date: "2023-06-16 11:06:22"
+date: "2023-06-16 22:56:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/ragchew"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 4
-comments: 4
-weight: 4
-dau: 2
-wau: 3
-mau: 3
+subscribers: 11
+posts: 5
+comments: 6
+weight: 5
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_radio"
 tags: 
@@ -41,12 +41,12 @@ General amateur radio chat and news
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 11 |
+| Posts                | 5  |
+| Comments             | 6  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ General amateur radio chat and news
 |----------------------|---|
 | Published            | 2023-06-12 21:29:34 |
 | Updated              | 2023-06-15 18:37:26 |
-| Last Scraped         | 2023-06-16 11:06:22 |
+| Last Scraped         | 2023-06-16 22:56:19 |

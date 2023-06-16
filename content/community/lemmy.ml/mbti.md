@@ -3,13 +3,13 @@ title: "MBTI"
 name: "mbti"
 description: "Join us for all things about Myers-Briggs Type Indicator. All 16 personalities are welcome."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-16 22:57:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mbti"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 12
 comments: 4
 weight: 12
@@ -41,7 +41,7 @@ Join us for all things about Myers-Briggs Type Indicator. All 16 personalities a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 12  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Join us for all things about Myers-Briggs Type Indicator. All 16 personalities a
 |----------------------|---|
 | Published            | 2021-11-12 16:32:47 |
 | Updated              | 2022-09-25 08:27:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-16 22:57:20 |

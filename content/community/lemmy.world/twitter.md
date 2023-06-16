@@ -3,7 +3,7 @@ title: "Twitter"
 name: "twitter"
 description: "An unofficial Twitter Community: The Good, the Bad and the Ugly!"
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/twitter"
@@ -54,4 +54,4 @@ An unofficial Twitter Community: The Good, the Bad and the Ugly!
 |----------------------|---|
 | Published            | 2023-06-11 12:27:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:16 |

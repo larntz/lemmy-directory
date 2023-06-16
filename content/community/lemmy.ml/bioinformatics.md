@@ -3,13 +3,13 @@ title: "bioinformatics"
 name: "bioinformatics"
 description: "Channel for bioinformatics related topics and discussions."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-16 22:57:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bioinformatics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Channel for bioinformatics related topics and discussions.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Channel for bioinformatics related topics and discussions.
 |----------------------|---|
 | Published            | 2020-06-27 22:49:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-16 22:57:22 |

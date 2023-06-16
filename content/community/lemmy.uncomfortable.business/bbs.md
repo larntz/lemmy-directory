@@ -3,7 +3,7 @@ title: "BBS - Bulletin Board Systems"
 name: "bbs"
 description: "For discussion of 70s/80s/90s BBS systems, and their modern equivalents.Questions about BBSes and their software, door games, ANSI art, and so on are welcome as are sysop advertisements.Looking for a BBS to connect to?   [The Telnet BBS Guide](https://www.telnetbbsguide.com/) is what you're after.Need a client?  [Syncterm](https://syncterm.bbsdev.net/) is available for almost every platform."
 type: community
-date: "2023-06-15 17:37:05"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/bbs"
@@ -54,4 +54,4 @@ For discussion of 70s/80s/90s BBS systems, and their modern equivalents.<br><br>
 |----------------------|---|
 | Published            | 2023-06-12 00:57:53 |
 | Updated              | 2023-06-12 01:21:33 |
-| Last Scraped         | 2023-06-15 17:37:05 |
+| Last Scraped         | 2023-06-16 22:56:11 |

@@ -3,16 +3,16 @@ title: "Her One Bag"
 name: "heronebag"
 description: "Inspired by [/r/heronebag](https://www.reddit.com/r/HerOneBag/): women and LGBTQIA+ specific travel essentialsSee also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)Photo credit: [Timo Stern](https://unsplash.com/photos/iUBgeNeyVy8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-16 11:06:19"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/heronebag"
 host: wayfarershaven.eu
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 3
-comments: 14
-weight: 3
+subscribers: 11
+posts: 4
+comments: 18
+weight: 4
 dau: 2
 wau: 5
 mau: 5
@@ -41,9 +41,9 @@ Inspired by [/r/heronebag](https://www.reddit.com/r/HerOneBag/): women and LGBTQ
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 14  |
+| Subscribers          | 11 |
+| Posts                | 4  |
+| Comments             | 18  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Inspired by [/r/heronebag](https://www.reddit.com/r/HerOneBag/): women and LGBTQ
 |----------------------|---|
 | Published            | 2023-06-11 17:34:25 |
 | Updated              | 2023-06-12 09:36:29 |
-| Last Scraped         | 2023-06-16 11:06:19 |
+| Last Scraped         | 2023-06-16 22:56:15 |

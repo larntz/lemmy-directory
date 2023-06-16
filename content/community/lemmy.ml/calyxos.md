@@ -3,13 +3,13 @@ title: "CalyxOS"
 name: "calyxos"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-16 22:57:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/calyxos"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 51
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 51 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-04 18:32:06 |
 | Updated              | 2021-04-04 18:37:18 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-16 22:57:23 |

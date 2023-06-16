@@ -3,7 +3,7 @@ title: "Hermeticism"
 name: "hermeticism"
 description: "A place for the discussion of modern, traditional and alternative hermeticism and related topics."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-16 22:57:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hermeticism"
@@ -54,4 +54,4 @@ A place for the discussion of modern, traditional and alternative hermeticism an
 |----------------------|---|
 | Published            | 2021-01-09 01:28:46 |
 | Updated              | 2021-01-09 01:31:32 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-16 22:57:36 |

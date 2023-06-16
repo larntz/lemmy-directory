@@ -3,13 +3,13 @@ title: "Microscopy"
 name: "microscopy"
 description: "Anything related to things that are too small to see them with the eye, and the tools used to observe them.This space is quite general in scope - microscopes, microbiology, small component electronics, questions about buying optical components, etc. "
 type: community
-date: "2023-06-15 17:37:22"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/microscopy"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 59
 posts: 4
 comments: 7
 weight: 4
@@ -41,7 +41,7 @@ Anything related to things that are too small to see them with the eye, and the 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 59 |
 | Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Anything related to things that are too small to see them with the eye, and the 
 |----------------------|---|
 | Published            | 2022-09-24 14:34:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:22 |
+| Last Scraped         | 2023-06-16 22:56:28 |

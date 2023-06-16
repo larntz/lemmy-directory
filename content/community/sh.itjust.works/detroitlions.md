@@ -3,13 +3,13 @@ title: "DetroitLions"
 name: "detroitlions"
 description: "Sublemmy for the Detroit Lions"
 type: community
-date: "2023-06-16 11:06:09"
+date: "2023-06-16 22:56:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/detroitlions"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 45
 posts: 11
 comments: 23
 weight: 11
@@ -41,7 +41,7 @@ Sublemmy for the Detroit Lions
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 45 |
 | Posts                | 11  |
 | Comments             | 23  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Sublemmy for the Detroit Lions
 |----------------------|---|
 | Published            | 2023-06-09 00:01:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:09 |
+| Last Scraped         | 2023-06-16 22:56:05 |

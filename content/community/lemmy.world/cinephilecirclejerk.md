@@ -3,17 +3,17 @@ title: "Cinephile Circlejerk"
 name: "cinephilecirclejerk"
 description: "No movies allowed, only films, cinema, kino, and motion pictures."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cinephilecirclejerk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 9
 comments: 1
 weight: 9
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ No movies allowed, only films, cinema, kino, and motion pictures.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 9  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ No movies allowed, only films, cinema, kino, and motion pictures.
 |----------------------|---|
 | Published            | 2023-06-13 02:16:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

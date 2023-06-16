@@ -3,19 +3,19 @@ title: "Mildly Interesting"
 name: "mildlyinteresting"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mildlyinteresting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 640
+subscribers: 708
 posts: 7
 comments: 15
 weight: 7
-dau: 3
-wau: 7
-mau: 7
+dau: 1
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 640 |
+| Subscribers          | 708 |
 | Posts                | 7  |
 | Comments             | 15  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 06:12:27 |
 | Updated              | 2023-06-11 06:18:08 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

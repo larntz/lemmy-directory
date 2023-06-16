@@ -3,19 +3,19 @@ title: "Foraging 🍄🍓"
 name: "foraging"
 description: "Welcome to /c/Foraging, a thriving community dedicated to the ancient and enriching practice of foraging! This is a hub for outdoor enthusiasts, culinary explorers, herbalists, and anyone intrigued by the bounty of nature waiting to be discovered. Here, you'll learn to identify, harvest, and use the wild edibles found in forests, meadows, and even urban areas, connecting you more intimately with the natural world. **Advice from this community should not be used to decide if something is safe for consumption!**Threads within /c/Foraging range from sharing personal foraging exploits, discussing ethical harvest methods, identifying unknown plant species, to trading recipes featuring foraged ingredients. Seasoned foragers and beginners alike can find value in the knowledge and experiences shared here. Whether you're intrigued by the thought of collecting wild berries, interested in medicinal herbs, or excited about the prospect of mushroom hunting, this is the perfect place to satiate your curiosity and grow your foraging skills. So, pull on your hiking boots, grab your basket, and join us in /c/Foraging, as we adventure into the great outdoors and revel in nature's pantry!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foraging"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 117
-posts: 3
-comments: 8
-weight: 3
+subscribers: 131
+posts: 5
+comments: 11
+weight: 5
 dau: 3
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to /c/Foraging, a thriving community dedicated to the ancient and enrich
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 117 |
-| Posts                | 3  |
-| Comments             | 8  |
+| Subscribers          | 131 |
+| Posts                | 5  |
+| Comments             | 11  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to /c/Foraging, a thriving community dedicated to the ancient and enrich
 |----------------------|---|
 | Published            | 2023-06-11 15:51:56 |
 | Updated              | 2023-06-11 16:54:50 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:15 |

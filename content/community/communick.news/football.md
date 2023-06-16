@@ -3,7 +3,7 @@ title: "Football"
 name: "football"
 description: "News, results and discussion about the beautiful game."
 type: community
-date: "2023-06-16 11:06:14"
+date: "2023-06-16 22:56:11"
 draft: false
 nsfw: false
 actor_id: "https://communick.news/c/football"
@@ -54,4 +54,4 @@ News, results and discussion about the beautiful game.<br><br>
 |----------------------|---|
 | Published            | 2023-06-09 02:29:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:14 |
+| Last Scraped         | 2023-06-16 22:56:11 |

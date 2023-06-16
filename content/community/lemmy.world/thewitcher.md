@@ -3,19 +3,19 @@ title: "The Witcher"
 name: "thewitcher"
 description: "Witcher books, Witcher games and everything else Witcher."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-16 22:57:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thewitcher"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 37
 posts: 2
 comments: 2
 weight: 2
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Witcher books, Witcher games and everything else Witcher.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 37 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Witcher books, Witcher games and everything else Witcher.
 |----------------------|---|
 | Published            | 2023-06-12 21:59:23 |
 | Updated              | 2023-06-12 22:01:52 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-16 22:57:14 |

@@ -3,17 +3,17 @@ title: "Ultramarathon "
 name: "ultramarathon"
 description: "For those of us crazy or stupid enough to love ultra running. Saw that there wasn't an ultra specific running community yet and figured I'd start one up. "
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-16 22:57:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultramarathon"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 6
 weight: 3
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ For those of us crazy or stupid enough to love ultra running. Saw that there was
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 6  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ For those of us crazy or stupid enough to love ultra running. Saw that there was
 |----------------------|---|
 | Published            | 2023-06-12 06:07:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-16 22:57:16 |

@@ -3,13 +3,13 @@ title: "Language Technology / Natural Language Processing (NLP)"
 name: "languagetechnology"
 description: "Community for discussion of Language Technology, Natural Language Processing and Computational Linguistics.Topics may include, but are not limited to: * Machine Translation (MT)* Automatic Speech Recognition (ASR)* (Large) Language Modelling (LLM)* Named Entity Recognition (NER)* Part-of-Speech Tagging, Lemmatisation* Dependency Parsing, Chunking* Topic ModellingResources:* [Awesome NLP](https://github.com/keon/awesome-nlp)* [ACL Anthology](https://aclanthology.org/)* [NLP Progress](https://github.com/sebastianruder/NLP-progress)Related communities:* [Machine Learning](/c/machinelearning@lemmy.ml)* [Free open source artificial intelligence](/c/fosai@lemmy.world)* [ChatGPT (lemmy.world)](/c/chatgpt@lemmy.world)* [ChatGPT (lemmy.ml)](/c/chatgpt@lemmy.ml)"
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/languagetechnology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 22
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Community for discussion of Language Technology, Natural Language Processing and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 22 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community for discussion of Language Technology, Natural Language Processing and
 |----------------------|---|
 | Published            | 2023-06-14 09:09:46 |
 | Updated              | 2023-06-14 09:47:14 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:13 |

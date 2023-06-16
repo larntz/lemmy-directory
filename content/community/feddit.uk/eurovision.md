@@ -3,19 +3,19 @@ title: "Eurovision "
 name: "eurovision"
 description: "A community for discussion of all things related to the Eurovision Song Contest.Rules:- No racism, xenophobia, homophobia, transphobia, etc.- No spam (a bit of promoting is OK if it’s related to Eurovision, but don’t take the piss).- Posts must be relevant to Eurovision in some way.- No harassment or abuse."
 type: community
-date: "2023-06-16 11:06:16"
+date: "2023-06-16 22:56:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/eurovision"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 6
-comments: 14
-weight: 6
-dau: 7
-wau: 7
-mau: 7
+subscribers: 23
+posts: 7
+comments: 16
+weight: 7
+dau: 8
+wau: 8
+mau: 8
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ A community for discussion of all things related to the Eurovision Song Contest.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 6  |
-| Comments             | 14  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 23 |
+| Posts                | 7  |
+| Comments             | 16  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussion of all things related to the Eurovision Song Contest.
 |----------------------|---|
 | Published            | 2023-06-14 15:14:59 |
 | Updated              | 2023-06-15 12:07:26 |
-| Last Scraped         | 2023-06-16 11:06:16 |
+| Last Scraped         | 2023-06-16 22:56:12 |

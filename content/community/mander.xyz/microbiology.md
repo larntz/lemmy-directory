@@ -3,13 +3,13 @@ title: "Microbiology"
 name: "microbiology"
 description: "Wee beasties and the scientists who love them- microbiology- virology- microbial ecology - microbiomes- pathogens"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-16 22:56:28"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/microbiology"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 25
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Wee beasties and the scientists who love them<br><br>- microbiology<br>- virolog
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 25 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Wee beasties and the scientists who love them<br><br>- microbiology<br>- virolog
 |----------------------|---|
 | Published            | 2023-06-10 01:39:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-16 22:56:28 |

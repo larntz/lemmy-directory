@@ -3,7 +3,7 @@ title: "osu!"
 name: "osugame"
 description: "osu! is a rhythm game based on the gameplay of a variety of popular commercial rhythm games such as Osu! Tatakae! Ouendan and Elite Beat Agents.## Rules1. Keep low relevance achievements, frequently asked questions and mapping-related requests to a minimum;2. Refrain from creating posts with the sole intention of appealing or responding to a restriction/punishment;3. For the first 24 hours following a tournament match, you must use the spoiler tag on all posts containing spoilers and must not spoil match results on titles.**[r/osugame Wiki on Reddit](https://web.archive.org/web/20230615110535/https://old.reddit.com/r/osugame/wiki/index)**"
 type: community
-date: "2023-06-16 11:07:29"
+date: "2023-06-16 22:57:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osugame"
@@ -54,4 +54,4 @@ osu! is a rhythm game based on the gameplay of a variety of popular commercial r
 |----------------------|---|
 | Published            | 2023-06-15 10:19:35 |
 | Updated              | 2023-06-15 11:09:37 |
-| Last Scraped         | 2023-06-16 11:07:29 |
+| Last Scraped         | 2023-06-16 22:57:18 |

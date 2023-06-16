@@ -3,7 +3,7 @@ title: "vrpg"
 name: "vrpg"
 description: "**Welcome to the Video Roleplaying Game Community!**This community is focused on the discussion and showcasing of all video game RPGs. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-16 22:57:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vrpg"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-29 19:30:33 |
 | Updated              | 2021-05-29 19:31:09 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-16 22:57:28 |

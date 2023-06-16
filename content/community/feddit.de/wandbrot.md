@@ -3,13 +3,13 @@ title: "Wandbrot"
 name: "wandbrot"
 description: "Wenn nicht Swag? Wieso?"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wandbrot"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 31
 posts: 10
 comments: 16
 weight: 10
@@ -41,7 +41,7 @@ Wenn nicht Swag? Wieso?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 31 |
 | Posts                | 10  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Wenn nicht Swag? Wieso?
 |----------------------|---|
 | Published            | 2023-04-25 09:00:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:38 |

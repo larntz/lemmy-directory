@@ -3,7 +3,7 @@ title: "Short Stories"
 name: "shortstories"
 description: "A community for user created short stories. "
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-16 22:57:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shortstories"
@@ -54,4 +54,4 @@ A community for user created short stories.
 |----------------------|---|
 | Published            | 2023-06-14 03:37:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-16 22:57:15 |

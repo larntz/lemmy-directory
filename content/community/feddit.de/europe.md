@@ -3,15 +3,15 @@ title: "Europe"
 name: "europe"
 description: "News/Interesting Stories/Beautiful Pictures from Europe 🇪🇺(Current Photo: Oeschinensee, Kandersteg, 🇨🇭)Feel free to post submissions for banner pictures"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-16 22:56:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/europe"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 425
+subscribers: 472
 posts: 22
-comments: 36
+comments: 35
 weight: 22
 dau: 17
 wau: 33
@@ -41,9 +41,9 @@ News/Interesting Stories/Beautiful Pictures from Europe 🇪🇺<br><br>(Current
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 425 |
+| Subscribers          | 472 |
 | Posts                | 22  |
-| Comments             | 36  |
+| Comments             | 35  |
 | Daily Active Users   | 17  |
 | Weekly Active Users  | 33  |
 | Monthly Active Users | 33  |
@@ -54,4 +54,4 @@ News/Interesting Stories/Beautiful Pictures from Europe 🇪🇺<br><br>(Current
 |----------------------|---|
 | Published            | 2023-06-10 03:28:39 |
 | Updated              | 2023-06-10 03:37:30 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-16 22:56:37 |

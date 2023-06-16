@@ -3,7 +3,7 @@ title: "DeV-ZoO"
 name: "devzoo"
 description: "A place to share and develop. "
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-16 22:57:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/devzoo"
@@ -54,4 +54,4 @@ A place to share and develop.
 |----------------------|---|
 | Published            | 2023-06-10 15:15:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-16 22:57:27 |

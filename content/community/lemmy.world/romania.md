@@ -3,19 +3,19 @@ title: "Romania"
 name: "romania"
 description: "Romania, a country famous for its beautiful landscapes, rich history and awesome people."
 type: community
-date: "2023-06-16 11:07:19"
+date: "2023-06-16 22:57:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/romania"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 1
-comments: 4
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+subscribers: 21
+posts: 2
+comments: 7
+weight: 2
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Romania, a country famous for its beautiful landscapes, rich history and awesome
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 21 |
+| Posts                | 2  |
+| Comments             | 7  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Romania, a country famous for its beautiful landscapes, rich history and awesome
 |----------------------|---|
 | Published            | 2023-06-10 12:03:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:19 |
+| Last Scraped         | 2023-06-16 22:57:17 |

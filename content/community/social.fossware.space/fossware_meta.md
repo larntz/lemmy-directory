@@ -3,19 +3,19 @@ title: "Meta"
 name: "fossware_meta"
 description: "All information regarding the FOSSware project will be posted here!"
 type: community
-date: "2023-06-16 11:06:18"
+date: "2023-06-16 22:56:15"
 draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/fossware_meta"
 host: social.fossware.space
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 22
 posts: 7
-comments: 7
+comments: 11
 weight: 7
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "social_fossware_space"
 tags: 
@@ -41,12 +41,12 @@ All information regarding the FOSSware project will be posted here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 22 |
 | Posts                | 7  |
-| Comments             | 7  |
+| Comments             | 11  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ All information regarding the FOSSware project will be posted here!
 |----------------------|---|
 | Published            | 2023-06-12 16:50:17 |
 | Updated              | 2023-06-16 05:43:04 |
-| Last Scraped         | 2023-06-16 11:06:18 |
+| Last Scraped         | 2023-06-16 22:56:15 |

@@ -3,7 +3,7 @@ title: "Sysadmin"
 name: "sysadmin"
 description: "Community that caters to those interested in computer system administration."
 type: community
-date: "2023-06-16 11:06:17"
+date: "2023-06-16 22:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/sysadmin"
@@ -54,4 +54,4 @@ Community that caters to those interested in computer system administration.
 |----------------------|---|
 | Published            | 2023-06-11 00:24:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:17 |
+| Last Scraped         | 2023-06-16 22:56:14 |

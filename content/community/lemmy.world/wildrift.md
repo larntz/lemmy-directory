@@ -3,7 +3,7 @@ title: "League Of Legends - Wild Rift"
 name: "wildrift"
 description: "A Community for Wildrift Players"
 type: community
-date: "2023-06-16 11:07:15"
+date: "2023-06-16 22:57:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wildrift"
@@ -54,4 +54,4 @@ A Community for Wildrift Players
 |----------------------|---|
 | Published            | 2023-06-16 10:47:15 |
 | Updated              | 2023-06-16 10:59:29 |
-| Last Scraped         | 2023-06-16 11:07:15 |
+| Last Scraped         | 2023-06-16 22:57:12 |
