@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radiation_party on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/radiation_party/</link>
+    <description>Recent content in radiation_party on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:03 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/radiation_party/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radiation Zone</title>
+      <link>http://lemmies.blue42.net/community/radiation.party/radzone/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/radiation.party/radzone/</guid>
+      <description>/c/Radiation Zone on radiation.party [home] [/c/radzone 🌎] [radiation.party]
+Description Welcome to the rad zone. Details Activity Count Subscribers 4 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-06 18:28:37 Updated 2023-06-06 18:52:56 Last Scraped 2023-06-16 11:06:03 </description>
+    </item>
+    
+    <item>
+      <title>TechNews</title>
+      <link>http://lemmies.blue42.net/community/radiation.party/technews/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/radiation.party/technews/</guid>
+      <description>/c/TechNews on radiation.party [home] [/c/technews 🌎] [radiation.party]
+Description Aggregated tech news. Details Activity Count Subscribers 426 Posts 1311 Comments 107 Daily Active Users 23 Weekly Active Users 56 Monthly Active Users 56 Activity Date Published 2023-06-08 13:53:37 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:03 </description>
+    </item>
+    
+  </channel>
+</rss>

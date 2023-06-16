@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_bunbi_net on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmy_bunbi_net/</link>
+    <description>Recent content in lemmy_bunbi_net on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:23 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmy_bunbi_net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>http://lemmies.blue42.net/community/lemmy.bunbi.net/announcements/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:23 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.bunbi.net/announcements/</guid>
+      <description>/c/Announcements on lemmy.bunbi.net https://lemmy.bunbi.net/c/announcements
+Description A community for announcements and information on bunbi.net | Probably going to be empty lol Details * Subscribers 2 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-13 15:22:25 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:23 </description>
+    </item>
+    
+    <item>
+      <title>Oshi no Ko</title>
+      <link>http://lemmies.blue42.net/community/lemmy.bunbi.net/oshi_no_ko/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:23 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.bunbi.net/oshi_no_ko/</guid>
+      <description>/c/Oshi no Ko on lemmy.bunbi.net https://lemmy.bunbi.net/c/oshi_no_ko
+Description A community to discuss the Oshi no Ko manga and anime. Details * Subscribers 2 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-14 16:49:14 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:23 </description>
+    </item>
+    
+  </channel>
+</rss>

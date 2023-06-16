@@ -1,0 +1,57 @@
+---
+title: "Meta" 
+name: "meta"
+description: "Community for meta posts about MoneroHouse.___Community icon by DinosoftLabs - Flaticon"
+type: community
+date: "2023-06-16 11:05:55"
+draft: false
+nsfw: false
+actor_id: "https://monero.house/c/meta"
+host: monero.house
+lastmod: "{[ .Updated }}"
+subscribers: 18
+posts: 16
+comments: 113
+weight: 16
+dau: 2
+wau: 20
+mau: 24
+instances:
+- "monero_house"
+tags: 
+- "monero_house"
+
+---
+
+# /c/Meta on monero.house
+
+[[home](/)]
+[[/c/meta 🌎](https://monero.house/c/meta)]
+[[monero.house](/instances/monero_house)]
+
+
+## Description 
+
+<blockquote class="description">
+Community for meta posts about MoneroHouse.<br>___<br>Community icon by DinosoftLabs - Flaticon
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 18 |
+| Posts                | 16  |
+| Comments             | 113  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 24  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-02-18 16:09:38 |
+| Updated              | 2023-02-19 15:48:38 |
+| Last Scraped         | 2023-06-16 11:05:55 |

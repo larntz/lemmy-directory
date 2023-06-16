@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_gjz010_com on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmy_gjz010_com/</link>
+    <description>Recent content in lemmy_gjz010_com on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:06 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmy_gjz010_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://lemmies.blue42.net/community/lemmy.gjz010.com/blog/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.gjz010.com/blog/</guid>
+      <description>/c/Blog on lemmy.gjz010.com https://lemmy.gjz010.com/c/blog
+Description nil Details * Subscribers 2 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-09 18:48:57 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:06 </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://lemmies.blue42.net/community/lemmy.gjz010.com/test/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.gjz010.com/test/</guid>
+      <description>/c/test on lemmy.gjz010.com https://lemmy.gjz010.com/c/test
+Description nil Details * Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-07 13:20:54 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:06 </description>
+    </item>
+    
+  </channel>
+</rss>

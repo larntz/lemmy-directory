@@ -1,0 +1,57 @@
+---
+title: "Victorious" 
+name: "victorious"
+description: "About the Nickelodeon sitcom VICTORiOUS!"
+type: community
+date: "2023-06-15 17:38:04"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/victorious"
+host: lemmy.world
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---
+
+# /c/Victorious on lemmy.world
+
+[[home](/)]
+[[/c/victorious 🌎](https://lemmy.world/c/victorious)]
+[[lemmy.world](/instances/lemmy_world)]
+
+
+## Description 
+
+<blockquote class="description">
+About the Nickelodeon sitcom VICTORiOUS!
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-12 15:35:41 |
+| Updated              | 2023-06-12 15:58:14 |
+| Last Scraped         | 2023-06-15 17:38:04 |

@@ -1,0 +1,57 @@
+---
+title: "mcr.town" 
+name: "mcr_town"
+description: "Meta discussion about this site"
+type: community
+date: "2023-06-16 11:06:26"
+draft: false
+nsfw: false
+actor_id: "https://mcr.town/c/mcr_town"
+host: mcr.town
+lastmod: "{[ .Updated }}"
+subscribers: 2
+posts: 1
+comments: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "mcr_town"
+tags: 
+- "mcr_town"
+
+---
+
+# /c/mcr.town on mcr.town
+
+[[home](/)]
+[[/c/mcr_town 🌎](https://mcr.town/c/mcr_town)]
+[[mcr.town](/instances/mcr_town)]
+
+
+## Description 
+
+<blockquote class="description">
+Meta discussion about this site
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 2 |
+| Posts                | 1  |
+| Comments             | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-14 12:37:50 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:26 |

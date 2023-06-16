@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_media on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_media/</link>
+    <description>Recent content in lemmy_media on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:24 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://lemmies.blue42.net/community/lemmy.media/testing/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.media/testing/</guid>
+      <description>/c/Test on lemmy.media [home] [/c/testing 🌎] [lemmy.media]
+Description A community used only for testing. Posting is restricted to moderators only. Details Activity Count Subscribers 2 Posts 3 Comments 8 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-13 10:46:35 Updated 2023-06-13 23:07:54 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://lemmies.blue42.net/community/lemmy.media/news/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.media/news/</guid>
+      <description>/c/News on lemmy.media [home] [/c/news 🌎] [lemmy.media]
+Description Description not available. Details Activity Count Subscribers 2 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-11 18:35:19 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+    <item>
+      <title>Pics</title>
+      <link>http://lemmies.blue42.net/community/lemmy.media/pics/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.media/pics/</guid>
+      <description>/c/Pics on lemmy.media [home] [/c/pics 🌎] [lemmy.media]
+Description Description not available. Details Activity Count Subscribers 3 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-11 18:29:12 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://lemmies.blue42.net/community/lemmy.media/videos/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.media/videos/</guid>
+      <description>/c/Videos on lemmy.media [home] [/c/videos 🌎] [lemmy.media]
+Description Description not available. Details Activity Count Subscribers 3 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-11 18:34:58 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+  </channel>
+</rss>

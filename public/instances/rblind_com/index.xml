@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rblind_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/rblind_com/</link>
+    <description>Recent content in rblind_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:34 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/rblind_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>main</title>
+      <link>http://lemmies.blue42.net/community/rblind.com/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:34 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/rblind.com/main/</guid>
+      <description>/c/main on rblind.com [home] [/c/main 🌎] [rblind.com]
+Description The main community at rblind.com, for discussion of all things blindness. Details Activity Count Subscribers 9 Posts 8 Comments 22 Daily Active Users 5 Weekly Active Users 10 Monthly Active Users 10 Activity Date Published 2023-06-14 04:54:56 Updated 0001-01-01 00:00:00 Last Scraped 2023-06-16 11:06:34 </description>
+    </item>
+    
+    <item>
+      <title>mods</title>
+      <link>http://lemmies.blue42.net/community/rblind.com/mods/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:34 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/rblind.com/mods/</guid>
+      <description>/c/mods on rblind.com [home] [/c/mods 🌎] [rblind.com]
+Description A community for mod discussions. Details Activity Count Subscribers 3 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-14 05:39:06 Updated 0001-01-01 00:00:00 Last Scraped 2023-06-16 11:06:34 </description>
+    </item>
+    
+  </channel>
+</rss>

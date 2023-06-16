@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmit_online on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmit_online/</link>
+    <description>Recent content in lemmit_online on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:19 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmit_online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>requests</title>
+      <link>http://lemmies.blue42.net/community/lemmit.online/requests/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmit.online/requests/</guid>
+      <description>/c/requests on lemmit.online https://lemmit.online/c/requests
+Description You can place your request for subreddits to be synced here ~(eventually)~. Details * Subscribers 1 Posts 4 Comments 2 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-11 16:43:02 Updated 2023-06-12 13:30:25 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>Showerthoughts</title>
+      <link>http://lemmies.blue42.net/community/lemmit.online/showerthoughts/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmit.online/showerthoughts/</guid>
+      <description>/c/Showerthoughts on lemmit.online https://lemmit.online/c/showerthoughts
+Description A subreddit for sharing those miniature epiphanies you have that highlight the oddities within the familiar.
+Showerthought is a loose term that applies to the types of thoughts you might have while carrying out a routine task like showering, driving, or daydreaming. At their best, showerthoughts are universally relatable and find the amusing/interesting within the mundane.
+Please be respectful of others&#39; submissions. Rudeness is unacceptable. Details * Subscribers 2 Posts 34 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-13 19:11:09 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+  </channel>
+</rss>

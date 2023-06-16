@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+		<title>
+				Search Results &middot; Lemmy Directory
+		</title>
+	
+		<link href="" rel="alternate" type="application/rss+xml" title="Lemmy Directory" />
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+  <header>
+  <h1>Lemmy Directory</h1>
+  <p>A directory of 488 lemmy instances and 11996 communities.</p>
+  <nav>
+    [<a href="/">home</a>]
+    [<a href="/search">search</a>]
+    [<a href="/instances">instances</a>]
+  </nav>
+</header>
+
+  <body>
+    
+<hr>
+<section>
+  <div class="my-auto" >
+    <noscript><strong>JavaScript is required for search functionality.</strong></noscript>
+    <form action="http://lemmies.blue42.net/search">
+      <input id="search-query" name="s"/>
+      <input type="submit" value="Search" />
+    </form>
+    <div id="search-results">
+     <h3>Matching pages</h3>
+    </div>
+  </div>
+</section>
+
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="http://lemmies.blue42.net/js/search.js"></script>
+
+  </body>
+</html>

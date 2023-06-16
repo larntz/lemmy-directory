@@ -1,0 +1,57 @@
+---
+title: "Mormon - All About Mormonism" 
+name: "mormon"
+description: "c/Mormon is a community for discussing Mormonism. People of all faiths (or lack of faith) are welcome to join to discuss topics relating to Mormonism.#### Rules1. Follow [the lemmy.world rules](https://mastodon.world/about)1. No NSFW1. No personal attacks1. No doxing1. No spamming1. No politics"
+type: community
+date: "2023-06-16 11:07:14"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/mormon"
+host: lemmy.world
+lastmod: "{[ .Updated }}"
+subscribers: 2
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---
+
+# /c/Mormon - All About Mormonism on lemmy.world
+
+[[home](/)]
+[[/c/mormon 🌎](https://lemmy.world/c/mormon)]
+[[lemmy.world](/instances/lemmy_world)]
+
+
+## Description 
+
+<blockquote class="description">
+c/Mormon is a community for discussing Mormonism. <br><br>People of all faiths (or lack of faith) are welcome to join to discuss topics relating to Mormonism.<br><br>#### Rules<br><br>1. Follow [the lemmy.world rules](https://mastodon.world/about)<br>1. No NSFW<br>1. No personal attacks<br>1. No doxing<br>1. No spamming<br>1. No politics
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 2 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-14 22:00:22 |
+| Updated              | 2023-06-14 22:27:42 |
+| Last Scraped         | 2023-06-16 11:07:14 |

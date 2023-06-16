@@ -1,0 +1,21 @@
+baseURL = 'http://lemmies.blue42.net/'
+languageCode = 'en-us'
+title = 'Lemmy Directory'
+paginate = 100
+
+
+
+[taxonomies]
+  instance = 'instances'
+  tag = 'tags'
+
+[params]
+  description = "A list of communities and lemmy instances."
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

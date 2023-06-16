@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_stormlight_space on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_stormlight_space/</link>
+    <description>Recent content in lemmy_stormlight_space on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:21 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_stormlight_space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jellyamp</title>
+      <link>http://lemmies.blue42.net/community/lemmy.stormlight.space/jellyamp/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:21 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.stormlight.space/jellyamp/</guid>
+      <description>/c/jellyamp on lemmy.stormlight.space [home] [/c/jellyamp 🌎] [lemmy.stormlight.space]
+Description An iOS app for playing music from your Jellyfin instance! Details Activity Count Subscribers 2 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-12 20:04:54 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:21 </description>
+    </item>
+    
+  </channel>
+</rss>

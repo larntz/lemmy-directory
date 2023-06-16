@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tagpro_lol on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/tagpro_lol/</link>
+    <description>Recent content in tagpro_lol on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:21 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/tagpro_lol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TagPro</title>
+      <link>http://lemmies.blue42.net/community/tagpro.lol/tagpro/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:21 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/tagpro.lol/tagpro/</guid>
+      <description>/c/TagPro on tagpro.lol [home] [/c/tagpro 🌎] [tagpro.lol]
+Description Description not available. Details Activity Count Subscribers 1 Posts 1 Comments 4 Daily Active Users 2 Weekly Active Users 3 Monthly Active Users 3 Activity Date Published 2023-06-12 20:34:48 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:21 </description>
+    </item>
+    
+    <item>
+      <title>1 Angry Ball</title>
+      <link>http://lemmies.blue42.net/community/tagpro.lol/1ab/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:21 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/tagpro.lol/1ab/</guid>
+      <description>/c/1 Angry Ball on tagpro.lol [home] [/c/1ab 🌎] [tagpro.lol]
+Description Lorum ipsum dolor etc. etc. Details Activity Count Subscribers 2 Posts 3 Comments 3 Daily Active Users 1 Weekly Active Users 3 Monthly Active Users 3 Activity Date Published 2023-06-12 21:27:37 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:21 </description>
+    </item>
+    
+  </channel>
+</rss>

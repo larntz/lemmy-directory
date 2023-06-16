@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netmonkey_tech on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/netmonkey_tech/</link>
+    <description>Recent content in netmonkey_tech on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:27 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/netmonkey_tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://lemmies.blue42.net/community/netmonkey.tech/testing/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/netmonkey.tech/testing/</guid>
+      <description>/c/Testing on netmonkey.tech [home] [/c/testing 🌎] [netmonkey.tech]
+Description This is for testing purposes. Details Activity Count Subscribers 1 Posts 1 Comments 2 Daily Active Users 3 Weekly Active Users 3 Monthly Active Users 3 Activity Date Published 2023-06-15 19:33:56 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:27 </description>
+    </item>
+    
+  </channel>
+</rss>

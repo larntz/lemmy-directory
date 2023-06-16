@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feddiverse_org on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/feddiverse_org/</link>
+    <description>Recent content in feddiverse_org on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:32 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/feddiverse_org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta</title>
+      <link>http://lemmies.blue42.net/community/feddiverse.org/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/feddiverse.org/meta/</guid>
+      <description>/c/Meta on feddiverse.org [home] [/c/meta 🌎] [feddiverse.org]
+Description A place for discussion about the site or other general items. Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-15 19:18:40 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+    <item>
+      <title>Rapid City</title>
+      <link>http://lemmies.blue42.net/community/feddiverse.org/rapidcity/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/feddiverse.org/rapidcity/</guid>
+      <description>/c/Rapid City on feddiverse.org [home] [/c/rapidcity 🌎] [feddiverse.org]
+Description Community about Rapid City, South Dakota and the surrounding Black Hills area. Details Activity Count Subscribers 2 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-15 03:52:43 Updated 2023-06-15 19:55:22 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+  </channel>
+</rss>

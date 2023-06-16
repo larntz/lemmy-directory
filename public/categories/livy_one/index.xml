@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>livy_one on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/livy_one/</link>
+    <description>Recent content in livy_one on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:25 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/livy_one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>http://lemmies.blue42.net/community/livy.one/announcements/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:25 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/livy.one/announcements/</guid>
+      <description>/c/Announcements on livy.one https://livy.one/c/announcements
+Description official announcements for this lemmy instance Details * Subscribers 2 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-13 19:27:59 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:25 </description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://lemmies.blue42.net/community/livy.one/photos/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:25 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/livy.one/photos/</guid>
+      <description>/c/Photos on livy.one https://livy.one/c/photos
+Description nil Details * Subscribers 1 Posts 1 Comments 1 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-13 19:28:33 Updated 2023-06-13 19:32:39 Last Scraped 2023-06-16 11:06:25 </description>
+    </item>
+    
+    <item>
+      <title>Tours</title>
+      <link>http://lemmies.blue42.net/community/livy.one/tours/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:25 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/livy.one/tours/</guid>
+      <description>/c/Tours on livy.one https://livy.one/c/tours
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-13 19:31:08 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:25 </description>
+    </item>
+    
+  </channel>
+</rss>

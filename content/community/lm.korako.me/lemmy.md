@@ -1,0 +1,57 @@
+---
+title: "Lemmyの話題" 
+name: "lemmy"
+description: "Lemmyに関する話題をなんでもどうぞ（日本語向け）"
+type: community
+date: "2023-06-16 11:05:46"
+draft: false
+nsfw: false
+actor_id: "https://lm.korako.me/c/lemmy"
+host: lm.korako.me
+lastmod: "{[ .Updated }}"
+subscribers: 15
+posts: 18
+comments: 36
+weight: 18
+dau: 2
+wau: 2
+mau: 3
+instances:
+- "lm_korako_me"
+tags: 
+- "lm_korako_me"
+
+---
+
+# /c/Lemmyの話題 on lm.korako.me
+
+[[home](/)]
+[[/c/lemmy 🌎](https://lm.korako.me/c/lemmy)]
+[[lm.korako.me](/instances/lm_korako_me)]
+
+
+## Description 
+
+<blockquote class="description">
+Lemmyに関する話題をなんでもどうぞ（日本語向け）
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 15 |
+| Posts                | 18  |
+| Comments             | 36  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2022-12-06 01:07:33 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:05:46 |

@@ -1,0 +1,57 @@
+---
+title: "lemmur" 
+name: "lemmur"
+description: "Community dedicated to discussions around a mobile lemmy clientCode repository: [github.com/LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur)Contribute translations: [Weblate](https://weblate.yerbamate.ml/engage/lemmur/)#### Download for your device:* Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.krawieck.lemmur)* Android: [F-Droid](https://f-droid.org/packages/com.krawieck.lemmur/)* iOS: [Apple TestFlight](https://testflight.apple.com/join/6jyRg5aI)* [Direct from GitHub](https://github.com/LemmurOrg/lemmur/releases)#### Support development:- [patreon.com/lemmur](https://patreon.com/lemmur)- [buymeacoffee.com/lemmur](https://buymeacoffee.com/lemmur)Before asking for help with a problem make sure you've read [the FAQ](https://github.com/LemmurOrg/lemmur#faq)"
+type: community
+date: "2023-06-16 11:07:34"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/lemmur"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 596
+posts: 62
+comments: 331
+weight: 62
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/lemmur on lemmy.ml
+
+[[home](/)]
+[[/c/lemmur 🌎](https://lemmy.ml/c/lemmur)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+Community dedicated to discussions around a mobile lemmy client<br><br>Code repository: [github.com/LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur)<br><br>Contribute translations: [Weblate](https://weblate.yerbamate.ml/engage/lemmur/)<br><br>#### Download for your device:<br>* Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.krawieck.lemmur)<br>* Android: [F-Droid](https://f-droid.org/packages/com.krawieck.lemmur/)<br>* iOS: [Apple TestFlight](https://testflight.apple.com/join/6jyRg5aI)<br>* [Direct from GitHub](https://github.com/LemmurOrg/lemmur/releases)<br><br>#### Support development:<br>- [patreon.com/lemmur](https://patreon.com/lemmur)<br>- [buymeacoffee.com/lemmur](https://buymeacoffee.com/lemmur)<br><br>Before asking for help with a problem make sure you've read [the FAQ](https://github.com/LemmurOrg/lemmur#faq)
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 596 |
+| Posts                | 62  |
+| Comments             | 331  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2021-01-20 16:34:00 |
+| Updated              | 2022-01-19 09:12:23 |
+| Last Scraped         | 2023-06-16 11:07:34 |

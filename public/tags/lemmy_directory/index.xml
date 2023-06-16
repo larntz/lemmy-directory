@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_directory on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/lemmy_directory/</link>
+    <description>Recent content in lemmy_directory on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 17:37:03 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/lemmy_directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>http://lemmies.blue42.net/community/lemmy.directory/announcements/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.directory/announcements/</guid>
+      <description>/c/Announcements on lemmy.directory [home] [/c/announcements 🌎] [lemmy.directory]
+Description Description not available. Details Activity Count Subscribers 27 Posts 1 Comments 4 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-08 18:09:53 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-15 17:37:03 </description>
+    </item>
+    
+    <item>
+      <title>Chat</title>
+      <link>http://lemmies.blue42.net/community/lemmy.directory/chat/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.directory/chat/</guid>
+      <description>/c/Chat on lemmy.directory [home] [/c/chat 🌎] [lemmy.directory]
+Description A place to talk about lemmy.directory for questions or feedback or ideas.
+Please especially leave a comment if you find any communities that we’re not subscribed to and that you think we should subscribe to. Or if you find any inappropriate communities that you recommend we unfollow or defederate from. Details Activity Count Subscribers 7 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-08 17:30:15 Updated 2023-06-08 18:12:37 Last Scraped 2023-06-15 17:37:03 </description>
+    </item>
+    
+    <item>
+      <title>Promo</title>
+      <link>http://lemmies.blue42.net/community/lemmy.directory/promo/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.directory/promo/</guid>
+      <description>/c/Promo on lemmy.directory [home] [/c/promo 🌎] [lemmy.directory]
+Description A place to share out new communities you’re trying to build or advertise new Lemmy instances. Details Activity Count Subscribers 7 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-08 18:35:30 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-15 17:37:03 </description>
+    </item>
+    
+    <item>
+      <title>Suggest</title>
+      <link>http://lemmies.blue42.net/community/lemmy.directory/suggest/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:03 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.directory/suggest/</guid>
+      <description>/c/Suggest on lemmy.directory [home] [/c/suggest 🌎] [lemmy.directory]
+Description A place to ask for where to find communities matching your interests. We’d love support from others to answer people’s questions and point them to the right place! Details Activity Count Subscribers 9 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-08 18:11:00 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-15 17:37:03 </description>
+    </item>
+    
+  </channel>
+</rss>

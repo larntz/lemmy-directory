@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_wtf on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmy_wtf/</link>
+    <description>Recent content in lemmy_wtf on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:19 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmy_wtf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community Requests</title>
+      <link>http://lemmies.blue42.net/community/lemmy.wtf/community_requests/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.wtf/community_requests/</guid>
+      <description>/c/Community Requests on lemmy.wtf https://lemmy.wtf/c/community_requests
+Description You can request a new community or dead / abandoned communities to be transferred. Details * Subscribers 3 Posts 1 Comments 1 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-11 21:09:11 Updated 2023-06-11 22:35:22 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>Guild Wars</title>
+      <link>http://lemmies.blue42.net/community/lemmy.wtf/guildwars/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.wtf/guildwars/</guid>
+      <description>/c/Guild Wars on lemmy.wtf https://lemmy.wtf/c/guildwars
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-15 19:50:42 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>Guild Wars 2</title>
+      <link>http://lemmies.blue42.net/community/lemmy.wtf/guildwars2/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.wtf/guildwars2/</guid>
+      <description>/c/Guild Wars 2 on lemmy.wtf https://lemmy.wtf/c/guildwars2
+Description Welcome to /c/guildwars2 on Lemmy.
+# Links
+**Official**
+- [guildwars2.com](https://guildwars2.com)
+- [Wiki](https://wiki.guildwars2.com/wiki/Main_Page)
+**Builds**
+- [Snow Crows](https://snowcrows.com/builds)
+- [Discretize](https://discretize.eu/builds/)
+- [Gw2Mists](https://gw2mists.com/builds)
+- [Metabattle](https://metabattle.com/wiki/MetaBattle_Wiki)
+- [Hardstuck](https://hardstuck.gg/gw2/builds/)
+- [GuildJen](https://guildjen.com/builds/)
+**Tools**
+- [Blish HUD](https://blishhud.com/)
+- [GW2-UOAOM](https://github.com/gw2-addon-loader/GW2-Addon-Manager)
+- [Discretize Gear Optimizer](https://optimizer.discretize.eu/) Details * Subscribers 145 Posts 14 Comments 108 Daily Active Users 14 Weekly Active Users 24 Monthly Active Users 24 Published 2023-06-11 21:37:27 Updated 2023-06-15 17:55:04 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>lemmy.wtf meta</title>
+      <link>http://lemmies.blue42.net/community/lemmy.wtf/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.wtf/meta/</guid>
+      <description>/c/lemmy.wtf meta on lemmy.wtf https://lemmy.wtf/c/meta
+Description Anything about the [lemmy.wtf](https://lemmy.wtf) instance and its moderation.
+For discussion about the Lemmy software project, go to [c/lemmy](https://lemmy.wtf/c/lemmy@lemmy.ml). Details * Subscribers 3 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-11 20:55:47 Updated 2023-06-11 22:32:39 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+  </channel>
+</rss>

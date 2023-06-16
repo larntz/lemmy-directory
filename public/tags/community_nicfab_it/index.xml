@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community_nicfab_it on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/community_nicfab_it/</link>
+    <description>Recent content in community_nicfab_it on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:05:52 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/community_nicfab_it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Community</title>
+      <link>http://lemmies.blue42.net/community/community.nicfab.it/privacy/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:52 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/community.nicfab.it/privacy/</guid>
+      <description>/c/Privacy Community on community.nicfab.it [home] [/c/privacy 🌎] [community.nicfab.it]
+Description ### **Welcome!**
+Welcome to the **NicFab Community Lemmy instance**! Please be kind. All communities in this space should be at least related to Privacy and innovation.
+This is a community space for projects and users interested in privacy, data protection, cybersecurity, and innovative solutions.
+### **Matrix Space**
+You can also reach this Privacy Community on Matrix [by clicking here](https://matrix.to/#/#privacycommunity:matrix.nicfab.it).
+### **Privacy Policy**</description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>http://lemmies.blue42.net/community/community.nicfab.it/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:52 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/community.nicfab.it/main/</guid>
+      <description>/c/Meta on community.nicfab.it [home] [/c/main 🌎] [community.nicfab.it]
+Description Meta - Service community Details Activity Count Subscribers 48 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2022-05-11 11:16:05 Updated 2022-10-04 06:43:10 Last Scraped 2023-06-16 11:05:52 </description>
+    </item>
+    
+  </channel>
+</rss>

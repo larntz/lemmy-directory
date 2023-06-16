@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_korgen_xyz on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmy_korgen_xyz/</link>
+    <description>Recent content in lemmy_korgen_xyz on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:08 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmy_korgen_xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Korgen</title>
+      <link>http://lemmies.blue42.net/community/lemmy.korgen.xyz/korgen/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:08 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.korgen.xyz/korgen/</guid>
+      <description>/c/Korgen on lemmy.korgen.xyz https://lemmy.korgen.xyz/c/korgen
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-08 05:26:42 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:08 </description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>http://lemmies.blue42.net/community/lemmy.korgen.xyz/random/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:08 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.korgen.xyz/random/</guid>
+      <description>/c/random on lemmy.korgen.xyz https://lemmy.korgen.xyz/c/random
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-12 23:13:43 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:08 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+---
+title: "thevisoria" 
+name: "thevisoria"
+description: "***c/Philippines Official Buy & Sell Community***![Image](https://i.imgur.com/x8esl3v.png)#  Rules1. Follow [Code of Conduct](https://mastodon.world/about)2. Nothing illegal3. Don't SPAM or re-post4. Be descriptive5. List the price when selling6. Don't troll other people's ads7. No doxing8. Deal at your own risk"
+type: community
+date: "2023-06-16 11:07:15"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/thevisoria"
+host: lemmy.world
+lastmod: "{[ .Updated }}"
+subscribers: 6
+posts: 1
+comments: 0
+weight: 1
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---
+
+# /c/thevisoria on lemmy.world
+
+[[home](/)]
+[[/c/thevisoria 🌎](https://lemmy.world/c/thevisoria)]
+[[lemmy.world](/instances/lemmy_world)]
+
+
+## Description 
+
+<blockquote class="description">
+***c/Philippines Official Buy & Sell Community***<br><br>![Image](https://i.imgur.com/x8esl3v.png)<br><br>#  Rules<br><br>1. Follow [Code of Conduct](https://mastodon.world/about)<br>2. Nothing illegal<br>3. Don't SPAM or re-post<br>4. Be descriptive<br>5. List the price when selling<br>6. Don't troll other people's ads<br>7. No doxing<br>8. Deal at your own risk<br>
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 6 |
+| Posts                | 1  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-16 06:11:45 |
+| Updated              | 2023-06-16 10:28:11 |
+| Last Scraped         | 2023-06-16 11:07:15 |

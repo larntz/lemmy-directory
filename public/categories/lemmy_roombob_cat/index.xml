@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_roombob_cat on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmy_roombob_cat/</link>
+    <description>Recent content in lemmy_roombob_cat on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:19 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmy_roombob_cat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LitterBox</title>
+      <link>http://lemmies.blue42.net/community/lemmy.roombob.cat/litterbox/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.roombob.cat/litterbox/</guid>
+      <description>/c/LitterBox on lemmy.roombob.cat https://lemmy.roombob.cat/c/litterbox
+Description anything to do with lemmy.roombob.cat Details * Subscribers 3 Posts 4 Comments 3 Daily Active Users 1 Weekly Active Users 3 Monthly Active Users 3 Published 2023-06-12 03:32:52 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+  </channel>
+</rss>

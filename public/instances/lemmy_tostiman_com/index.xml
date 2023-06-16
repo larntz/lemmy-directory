@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_tostiman_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_tostiman_com/</link>
+    <description>Recent content in lemmy_tostiman_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:26 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_tostiman_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tostiman</title>
+      <link>http://lemmies.blue42.net/community/lemmy.tostiman.com/tostiman/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.tostiman.com/tostiman/</guid>
+      <description>/c/tostiman on lemmy.tostiman.com [home] [/c/tostiman 🌎] [lemmy.tostiman.com]
+Description test Details Activity Count Subscribers 1 Posts 2 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-13 14:13:18 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+  </channel>
+</rss>

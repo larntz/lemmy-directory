@@ -1,0 +1,57 @@
+---
+title: "Coreboot" 
+name: "coreboot"
+description: "coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.With the separation of hardware initialization and later boot logic, coreboot can scale from specialized applications that run directly from firmware, run operating systems in flash, load custom bootloaders or implement firmware standards, like PC BIOS services or UEFI.--------------------http://www.coreboot.org/-----[#coreboot](irc://irc.freenode.net/coreboot) on irc.freenode.net[mailing lists](http://www.coreboot.org/Mailinglist)"
+type: community
+date: "2023-06-16 11:07:35"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/coreboot"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 5
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/Coreboot on lemmy.ml
+
+[[home](/)]
+[[/c/coreboot 🌎](https://lemmy.ml/c/coreboot)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.<br>With the separation of hardware initialization and later boot logic, coreboot can scale from specialized applications that run directly from firmware, run operating systems in flash, load custom bootloaders or implement firmware standards, like PC BIOS services or UEFI.<br><br>--------------------<br><br>http://www.coreboot.org/<br><br>-----<br><br>[#coreboot](irc://irc.freenode.net/coreboot) on irc.freenode.net<br><br>[mailing lists](http://www.coreboot.org/Mailinglist)
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 5 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-04 22:55:18 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:07:35 |

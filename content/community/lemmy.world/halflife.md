@@ -1,0 +1,57 @@
+---
+title: "HλLF LIFE" 
+name: "halflife"
+description: "Welcome. Welcome to c/HalfLife. You have chosen, or have been chosen to subscribe to our sublemmy. It's safer here.Rules:We have a few light rules to keep discussion upbeat and interesting, check them out below!  * Submissions must be directly related to the Half-Life franchise. Important Valve and Steam news may be allowed per Moderator discretion.  * Posts must be high quality. Low-value submissions that may detract from meaningful discussion are not allowed. Examples: Memes (e.g. image macros, One-liner jokes), streams, generic Let's Plays, reposts, spam, rants, etc.   * Please be respectful to others. Personal attacks, bigotry, fighting words, otherwise inappropriate behavior or content, comments that insult or demean a specific user or group of users will be removed. No personal information, in posts or comments. Stalking, harassment, witch hunting, trolling, brigading, ddosing, or doxxing will not be tolerated and will result in a ban.  * No porn or gore. All other NSFW posts and comments must be tagged. Posting uncalled for materials may result in an immediate and permanent ban.  * When posting fan generated content, try to credit the original artist and link to the primary source whenever possible. Do not pass other's work off as your own."
+type: community
+date: "2023-06-15 17:38:05"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/halflife"
+host: lemmy.world
+lastmod: "{[ .Updated }}"
+subscribers: 24
+posts: 1
+comments: 0
+weight: 1
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---
+
+# /c/HλLF LIFE on lemmy.world
+
+[[home](/)]
+[[/c/halflife 🌎](https://lemmy.world/c/halflife)]
+[[lemmy.world](/instances/lemmy_world)]
+
+
+## Description 
+
+<blockquote class="description">
+Welcome. Welcome to c/HalfLife. You have chosen, or have been chosen to subscribe to our sublemmy. It's safer here.<br><br><br>Rules:<br><br>We have a few light rules to keep discussion upbeat and interesting, check them out below!<br><br>  * Submissions must be directly related to the Half-Life franchise. Important Valve and Steam news may be allowed per Moderator discretion.<br>  * Posts must be high quality. Low-value submissions that may detract from meaningful discussion are not allowed. Examples: Memes (e.g. image macros, One-liner jokes), streams, generic Let's Plays, reposts, spam, rants, etc. <br>  * Please be respectful to others. Personal attacks, bigotry, fighting words, otherwise inappropriate behavior or content, comments that insult or demean a specific user or group of users will be removed. No personal information, in posts or comments. Stalking, harassment, witch hunting, trolling, brigading, ddosing, or doxxing will not be tolerated and will result in a ban.<br>  * No porn or gore. All other NSFW posts and comments must be tagged. Posting uncalled for materials may result in an immediate and permanent ban.<br>  * When posting fan generated content, try to credit the original artist and link to the primary source whenever possible. Do not pass other's work off as your own.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 24 |
+| Posts                | 1  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-09 23:42:13 |
+| Updated              | 2023-06-09 23:44:29 |
+| Last Scraped         | 2023-06-15 17:38:05 |

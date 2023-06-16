@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_pimenta_pt on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_pimenta_pt/</link>
+    <description>Recent content in lemmy_pimenta_pt on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:18 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_pimenta_pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Default Community</title>
+      <link>http://lemmies.blue42.net/community/lemmy.pimenta.pt/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:18 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.pimenta.pt/main/</guid>
+      <description>/c/The Default Community on lemmy.pimenta.pt [home] [/c/main 🌎] [lemmy.pimenta.pt]
+Description The Default Community Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-11 07:42:11 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:18 </description>
+    </item>
+    
+  </channel>
+</rss>

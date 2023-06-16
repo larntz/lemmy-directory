@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_fedisonic_cloud on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_fedisonic_cloud/</link>
+    <description>Recent content in lemmy_fedisonic_cloud on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:00 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_fedisonic_cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General stuff</title>
+      <link>http://lemmies.blue42.net/community/lemmy.fedisonic.cloud/aob/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:00 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.fedisonic.cloud/aob/</guid>
+      <description>/c/General stuff on lemmy.fedisonic.cloud [home] [/c/aob 🌎] [lemmy.fedisonic.cloud]
+Description Description not available. Details Activity Count Subscribers 2 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-04 09:49:11 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:00 </description>
+    </item>
+    
+    <item>
+      <title>The Default Community</title>
+      <link>http://lemmies.blue42.net/community/lemmy.fedisonic.cloud/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:00 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.fedisonic.cloud/main/</guid>
+      <description>/c/The Default Community on lemmy.fedisonic.cloud [home] [/c/main 🌎] [lemmy.fedisonic.cloud]
+Description The Default Community Details Activity Count Subscribers 2 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-04 09:45:35 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:00 </description>
+    </item>
+    
+  </channel>
+</rss>

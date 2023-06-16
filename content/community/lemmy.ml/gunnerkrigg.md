@@ -1,0 +1,57 @@
+---
+title: "Gunnerkrigg Court, by Tom Siddell" 
+name: "gunnerkrigg"
+description: "A subreddit for the webcomic Gunnerkrigg Court.[**Start reading here.**](http://www.gunnerkrigg.com/?p=1)---#General Rules:1.  No NSFW content of any kind is permitted.1.  Submissions should be related to Tom, the comic, or the subreddit. You should be able to tell it's related without reading the title. This is done case by case.1. Respect each other, don't be a dick. 1. Nov 13th is [Katurday](http://www.gunnerkrigg.com/?p=1909). 1. Do not spoil anything in the ongoing chapter as we have a number of readers who only read on chapter end.  This means no spoilers in titles and posts about the current chapter must be spoiler marked.[](/sp)---##Resources:* [Official Patreon](https://www.patreon.com/gunnerkrigg)* [Official Forums](http://gunnerkrigg.proboards.com/)* [Tom Siddell on Twitter](https://twitter.com/gunnerkrigg)* [Tom Siddell on Tumblr](http://gunnerkrigg.tumblr.com/)* [Tom Siddell on Youtube](https://www.youtube.com/user/GunnerkriggCourt)* [Gunnerkrigg Court Wiki](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court_Wiki)  * [The Gunnerkrigg Discord Server](https://discord.gg/uaXbDqu)"
+type: community
+date: "2023-06-16 11:07:36"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/gunnerkrigg"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/Gunnerkrigg Court, by Tom Siddell on lemmy.ml
+
+[[home](/)]
+[[/c/gunnerkrigg 🌎](https://lemmy.ml/c/gunnerkrigg)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+A subreddit for the webcomic Gunnerkrigg Court.<br>[**Start reading here.**](http://www.gunnerkrigg.com/?p=1)<br><br><br>---<br><br><br>#General Rules:<br>1.  No NSFW content of any kind is permitted.<br>1.  Submissions should be related to Tom, the comic, or the subreddit. You should be able to tell it's related without reading the title. This is done case by case.<br>1. Respect each other, don't be a dick. <br>1. Nov 13th is [Katurday](http://www.gunnerkrigg.com/?p=1909). <br>1. Do not spoil anything in the ongoing chapter as we have a number of readers who only read on chapter end.  This means no spoilers in titles and posts about the current chapter must be spoiler marked.<br>[](/sp)<br><br>---<br><br>##Resources:<br>* [Official Patreon](https://www.patreon.com/gunnerkrigg)<br>* [Official Forums](http://gunnerkrigg.proboards.com/)<br>* [Tom Siddell on Twitter](https://twitter.com/gunnerkrigg)<br>* [Tom Siddell on Tumblr](http://gunnerkrigg.tumblr.com/)<br>* [Tom Siddell on Youtube](https://www.youtube.com/user/GunnerkriggCourt)<br>* [Gunnerkrigg Court Wiki](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court_Wiki)  <br>* [The Gunnerkrigg Discord Server](https://discord.gg/uaXbDqu)<br>
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-09 11:40:39 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:07:36 |

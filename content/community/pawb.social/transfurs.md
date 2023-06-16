@@ -1,0 +1,57 @@
+---
+title: "transfurs" 
+name: "transfurs"
+description: "This is a place for transgender furries to come together and discuss more about the intersectionality between their furry and trans experiences. Of course, other queer furries and allies are welcome to join, but please keep things in topic!For rules, please follow pawb.social site-wide code of conducts."
+type: community
+date: "2023-06-16 11:05:59"
+draft: false
+nsfw: false
+actor_id: "https://pawb.social/c/transfurs"
+host: pawb.social
+lastmod: "{[ .Updated }}"
+subscribers: 54
+posts: 2
+comments: 14
+weight: 2
+dau: 1
+wau: 12
+mau: 12
+instances:
+- "pawb_social"
+tags: 
+- "pawb_social"
+
+---
+
+# /c/transfurs on pawb.social
+
+[[home](/)]
+[[/c/transfurs 🌎](https://pawb.social/c/transfurs)]
+[[pawb.social](/instances/pawb_social)]
+
+
+## Description 
+
+<blockquote class="description">
+This is a place for transgender furries to come together and discuss more about the intersectionality between their furry and trans experiences. Of course, other queer furries and allies are welcome to join, but please keep things in topic!<br><br>For rules, please follow pawb.social site-wide code of conducts.<br>
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 54 |
+| Posts                | 2  |
+| Comments             | 14  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-11 02:31:26 |
+| Updated              | 2023-06-15 21:59:17 |
+| Last Scraped         | 2023-06-16 11:05:59 |

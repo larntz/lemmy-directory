@@ -1,0 +1,57 @@
+---
+title: "Cucina e ricette" 
+name: "cucina"
+description: "Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!Qui potete condividere **ricette**, chiedere consigli riguardo a piatti e ingredienti che intendete usare. Ovviamente le foto del cibo sono benvenute (se con ricetta al seguito sono anche meglio).Vi invitiamo innanzitutto a dare un’occhiata al post “Guida all’utilizzo di Feddit” che trovate a questo link:https://feddit.it/post/6"
+type: community
+date: "2023-06-16 11:05:57"
+draft: false
+nsfw: false
+actor_id: "https://feddit.it/c/cucina"
+host: feddit.it
+lastmod: "{[ .Updated }}"
+subscribers: 49
+posts: 6
+comments: 12
+weight: 6
+dau: 10
+wau: 10
+mau: 10
+instances:
+- "feddit_it"
+tags: 
+- "feddit_it"
+
+---
+
+# /c/Cucina e ricette on feddit.it
+
+[[home](/)]
+[[/c/cucina 🌎](https://feddit.it/c/cucina)]
+[[feddit.it](/instances/feddit_it)]
+
+
+## Description 
+
+<blockquote class="description">
+Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!<br><br>Qui potete condividere **ricette**, chiedere consigli riguardo a piatti e ingredienti che intendete usare. Ovviamente le foto del cibo sono benvenute (se con ricetta al seguito sono anche meglio).<br><br>Vi invitiamo innanzitutto a dare un’occhiata al post “Guida all’utilizzo di Feddit” che trovate a questo link:<br><br>https://feddit.it/post/6
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 49 |
+| Posts                | 6  |
+| Comments             | 12  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-14 15:54:32 |
+| Updated              | 2023-06-15 13:33:01 |
+| Last Scraped         | 2023-06-16 11:05:57 |

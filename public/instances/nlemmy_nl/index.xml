@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nlemmy_nl on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/nlemmy_nl/</link>
+    <description>Recent content in nlemmy_nl on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:23 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/nlemmy_nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Netherlands</title>
+      <link>http://lemmies.blue42.net/community/nlemmy.nl/thenetherlands/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:23 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/nlemmy.nl/thenetherlands/</guid>
+      <description>/c/The Netherlands on nlemmy.nl [home] [/c/thenetherlands 🌎] [nlemmy.nl]
+Description Description not available. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-13 15:00:22 Updated 2023-06-13 17:51:24 Last Scraped 2023-06-16 11:06:23 </description>
+    </item>
+    
+  </channel>
+</rss>

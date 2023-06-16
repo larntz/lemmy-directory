@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>labdegato_com on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/labdegato_com/</link>
+    <description>Recent content in labdegato_com on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:04 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/labdegato_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lemmy De Gato</title>
+      <link>http://lemmies.blue42.net/community/labdegato.com/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/labdegato.com/main/</guid>
+      <description>/c/Lemmy De Gato on labdegato.com https://labdegato.com/c/main
+Description nil Details * Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-07 03:20:00 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://lemmies.blue42.net/community/labdegato.com/linux/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/labdegato.com/linux/</guid>
+      <description>/c/Linux on labdegato.com https://labdegato.com/c/linux
+Description Linux - WIP Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-07 02:56:37 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+  </channel>
+</rss>

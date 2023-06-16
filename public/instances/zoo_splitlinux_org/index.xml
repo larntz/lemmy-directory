@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zoo_splitlinux_org on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/zoo_splitlinux_org/</link>
+    <description>Recent content in zoo_splitlinux_org on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:05:50 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/zoo_splitlinux_org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Split Linux</title>
+      <link>http://lemmies.blue42.net/community/zoo.splitlinux.org/splitlinux/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:50 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/zoo.splitlinux.org/splitlinux/</guid>
+      <description>/c/Split Linux on zoo.splitlinux.org [home] [/c/splitlinux 🌎] [zoo.splitlinux.org]
+Description Split Linux is a general operating system optimized for safely navigating hostile environments like the Internet and physical check points. Visit splitlinux.org Details Activity Count Subscribers 3 Posts 27 Comments 22 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2022-12-11 07:55:44 Updated 2022-12-12 10:48:12 Last Scraped 2023-06-16 11:05:50 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_kya_moe on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_kya_moe/</link>
+    <description>Recent content in lemmy_kya_moe on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:19 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_kya_moe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta</title>
+      <link>http://lemmies.blue42.net/community/lemmy.kya.moe/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.kya.moe/meta/</guid>
+      <description>/c/Meta on lemmy.kya.moe [home] [/c/meta 🌎] [lemmy.kya.moe]
+Description Description not available. Details Activity Count Subscribers 1 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-11 17:01:53 Updated 2023-06-15 23:40:47 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>http://lemmies.blue42.net/community/lemmy.kya.moe/general/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.kya.moe/general/</guid>
+      <description>/c/General on lemmy.kya.moe [home] [/c/general 🌎] [lemmy.kya.moe]
+Description Description not available. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-15 23:41:21 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+  </channel>
+</rss>

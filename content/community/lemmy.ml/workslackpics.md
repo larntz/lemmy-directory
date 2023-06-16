@@ -1,0 +1,57 @@
+---
+title: "Slack Pics" 
+name: "workslackpics"
+description: "Something funny happen on Slack at work? Want to post some leaks and get fired? This is the place to be~!📜 Rules:📫 Post original content!🏡 Do not dox anyone!😼 Have fun!"
+type: community
+date: "2023-06-16 11:07:36"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/workslackpics"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 7
+posts: 8
+comments: 4
+weight: 8
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/Slack Pics on lemmy.ml
+
+[[home](/)]
+[[/c/workslackpics 🌎](https://lemmy.ml/c/workslackpics)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+Something funny happen on Slack at work? Want to post some leaks and get fired? This is the place to be~!<br><br>📜 Rules:<br><br>📫 Post original content!<br><br>🏡 Do not dox anyone!<br><br>😼 Have fun!<br><br>
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 7 |
+| Posts                | 8  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2022-04-18 17:37:12 |
+| Updated              | 2022-08-05 14:21:52 |
+| Last Scraped         | 2023-06-16 11:07:36 |

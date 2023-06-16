@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_today on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_today/</link>
+    <description>Recent content in lemmy_today on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:05 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_today/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat</title>
+      <link>http://lemmies.blue42.net/community/lemmy.today/general/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:05 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.today/general/</guid>
+      <description>/c/Chat on lemmy.today [home] [/c/general 🌎] [lemmy.today]
+Description General chat about anything at all Details Activity Count Subscribers 2 Posts 4 Comments 9 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-11 13:12:58 Updated 2023-06-13 16:17:16 Last Scraped 2023-06-16 11:06:05 </description>
+    </item>
+    
+  </channel>
+</rss>

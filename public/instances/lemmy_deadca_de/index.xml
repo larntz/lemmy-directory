@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_deadca_de on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_deadca_de/</link>
+    <description>Recent content in lemmy_deadca_de on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:04 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_deadca_de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deadcade</title>
+      <link>http://lemmies.blue42.net/community/lemmy.deadca.de/deadcade/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.deadca.de/deadcade/</guid>
+      <description>/c/deadcade on lemmy.deadca.de [home] [/c/deadcade 🌎] [lemmy.deadca.de]
+Description All about services (lemmy, matrix) hosted on deadca.de Details Activity Count Subscribers 5 Posts 1 Comments 3 Daily Active Users 4 Weekly Active Users 4 Monthly Active Users 4 Activity Date Published 2023-06-06 19:18:31 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+  </channel>
+</rss>

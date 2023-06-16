@@ -1,0 +1,57 @@
+---
+title: "Victoria, BC" 
+name: "victoria"
+description: "A Lemmy community for the City of Victoria and the Greater Victoria Region.Any news about Vancouver Island also welcome here!**Visitor & Tourism Information*** [Tourism Victoria](https://www.tourismvictoria.com/)* [HelloBC](https://www.hellobc.com/places-to-go/victoria/)**Local News***  [Victoria News](https://www.vicnews.com/)*  [CTV News Vancouver Island](https://vancouverisland.ctvnews.ca/)* [CHEK News](https://www.cheknews.ca/)* [Global News](https://globalnews.ca/tag/victoria/)* [Times Colonist](https://www.timescolonist.com/)**Local Weather*** [7 Day Forecast](https://weather.gc.ca/city/pages/bc-85_metric_e.html)* [Microclimates](https://www.victoriaweather.ca/)* [Pollen Report](https://www.theweathernetwork.com/en/city/ca/british-columbia/victoria/pollen)**Local Radio*** [CFAX 1070](https://www.iheartradio.ca/cfax-1070)*  [The Q 100.3](https://www.theq.fm/)*  [The Zone 91.3](https://www.thezone.fm/)* [Jack 103.1](https://www.jack1031.ca/)*  [CFUV 101.9](http://cfuv.uvic.ca/)**Municipalities*** [North Saanich](https://northsaanich.ca/)* [Sidney](http://www.sidney.ca/)* [Central Saanich](https://www.centralsaanich.ca/)* [Highlands](https://www.highlands.bc.ca/)* [View Royal](https://www.viewroyal.ca/)* [Saanich](https://www.saanich.ca/)* [Langford](https://langford.ca/)* [Colwood](https://www.colwood.ca/)* [Esquimalt](https://www.esquimalt.ca/)* [Victoria](https://www.victoria.ca/)* [Oak Bay](https://www.oakbay.ca/)* [Sooke](https://sooke.ca/)* [Metchosin](https://www.metchosin.ca/)"
+type: community
+date: "2023-06-16 11:06:37"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ca/c/victoria"
+host: lemmy.ca
+lastmod: "{[ .Updated }}"
+subscribers: 67
+posts: 17
+comments: 21
+weight: 17
+dau: 5
+wau: 13
+mau: 13
+instances:
+- "lemmy_ca"
+tags: 
+- "lemmy_ca"
+
+---
+
+# /c/Victoria, BC on lemmy.ca
+
+[[home](/)]
+[[/c/victoria 🌎](https://lemmy.ca/c/victoria)]
+[[lemmy.ca](/instances/lemmy_ca)]
+
+
+## Description 
+
+<blockquote class="description">
+A Lemmy community for the City of Victoria and the Greater Victoria Region.<br><br>Any news about Vancouver Island also welcome here!<br><br>**Visitor & Tourism Information**<br>* [Tourism Victoria](https://www.tourismvictoria.com/)<br>* [HelloBC](https://www.hellobc.com/places-to-go/victoria/)<br><br>**Local News**<br>*  [Victoria News](https://www.vicnews.com/)<br>*  [CTV News Vancouver Island](https://vancouverisland.ctvnews.ca/)<br>* [CHEK News](https://www.cheknews.ca/)<br>* [Global News](https://globalnews.ca/tag/victoria/)<br>* [Times Colonist](https://www.timescolonist.com/)<br><br>**Local Weather**<br>* [7 Day Forecast](https://weather.gc.ca/city/pages/bc-85_metric_e.html)<br>* [Microclimates](https://www.victoriaweather.ca/)<br>* [Pollen Report](https://www.theweathernetwork.com/en/city/ca/british-columbia/victoria/pollen)<br><br>**Local Radio**<br>* [CFAX 1070](https://www.iheartradio.ca/cfax-1070)<br>*  [The Q 100.3](https://www.theq.fm/)<br>*  [The Zone 91.3](https://www.thezone.fm/)<br>* [Jack 103.1](https://www.jack1031.ca/)<br>*  [CFUV 101.9](http://cfuv.uvic.ca/)<br><br>**Municipalities**<br>* [North Saanich](https://northsaanich.ca/)<br>* [Sidney](http://www.sidney.ca/)<br>* [Central Saanich](https://www.centralsaanich.ca/)<br>* [Highlands](https://www.highlands.bc.ca/)<br>* [View Royal](https://www.viewroyal.ca/)<br>* [Saanich](https://www.saanich.ca/)<br>* [Langford](https://langford.ca/)<br>* [Colwood](https://www.colwood.ca/)<br>* [Esquimalt](https://www.esquimalt.ca/)<br>* [Victoria](https://www.victoria.ca/)<br>* [Oak Bay](https://www.oakbay.ca/)<br>* [Sooke](https://sooke.ca/)<br>* [Metchosin](https://www.metchosin.ca/)
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 67 |
+| Posts                | 17  |
+| Comments             | 21  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-06 03:58:54 |
+| Updated              | 2023-06-10 16:14:20 |
+| Last Scraped         | 2023-06-16 11:06:37 |

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discuss_ntfy_sh on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/discuss_ntfy_sh/</link>
+    <description>Recent content in discuss_ntfy_sh on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:20 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/discuss_ntfy_sh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ntfy</title>
+      <link>http://lemmies.blue42.net/community/discuss.ntfy.sh/ntfy/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:20 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/discuss.ntfy.sh/ntfy/</guid>
+      <description>/c/ntfy on discuss.ntfy.sh [home] [/c/ntfy 🌎] [discuss.ntfy.sh]
+Description ntfy (pronounced _notify_) is a simple HTTP-based pub-sub notification service. You can use it to send push notifications to your phone via HTTP PUT/POST.
+[ntfy website](https://ntfy.sh/) •
+[Documentation](https://ntfy.sh/docs) •
+[GitHub](https://github.com/binwiederhier/ntfy) • [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) •
+[F-Droid](https://f-droid.org/en/packages/io.heckel.ntfy/) •
+[Discord](https://discord.com/invite/cT7ECsZj9w) •
+[App Store](https://apps.apple.com/us/app/ntfy/id1625396347) •
+[Matrix](https://matrix.to/#/#ntfy-space:matrix.org)
+If you&#39;d like to **become a sponsor**, I would be humbled to accept your donation via [GitHub Sponsors](https://github.com/sponsors/binwiederhier) or [Liberapay](https://en.liberapay.com/ntfy/) 💸💰.</description>
+    </item>
+    
+  </channel>
+</rss>

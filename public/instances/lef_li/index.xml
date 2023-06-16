@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lef_li on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lef_li/</link>
+    <description>Recent content in lef_li on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:28 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lef_li/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Armbian</title>
+      <link>http://lemmies.blue42.net/community/lef.li/armbian/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:28 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lef.li/armbian/</guid>
+      <description>/c/Armbian on lef.li [home] [/c/armbian 🌎] [lef.li]
+Description Linux for ARM development boards Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-11 14:59:55 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:28 </description>
+    </item>
+    
+    <item>
+      <title>Off-Topic</title>
+      <link>http://lemmies.blue42.net/community/lef.li/offtopic/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:28 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lef.li/offtopic/</guid>
+      <description>/c/Off-Topic on lef.li [home] [/c/offtopic 🌎] [lef.li]
+Description Just about everything Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 17:03:48 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:28 </description>
+    </item>
+    
+    <item>
+      <title>LEF.LI</title>
+      <link>http://lemmies.blue42.net/community/lef.li/lefli/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:28 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lef.li/lefli/</guid>
+      <description>/c/LEF.LI on lef.li [home] [/c/lefli 🌎] [lef.li]
+Description A community about this instance. Details Activity Count Subscribers 2 Posts 2 Comments 1 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-11 14:21:22 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:28 </description>
+    </item>
+    
+  </channel>
+</rss>

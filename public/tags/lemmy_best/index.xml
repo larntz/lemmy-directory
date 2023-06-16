@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_best on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/lemmy_best/</link>
+    <description>Recent content in lemmy_best on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 17:37:10 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/lemmy_best/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>generals</title>
+      <link>http://lemmies.blue42.net/community/lemmy.best/generals/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:10 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.best/generals/</guid>
+      <description>/c/generals on lemmy.best [home] [/c/generals 🌎] [lemmy.best]
+Description Description not available. Details Activity Count Subscribers 1 Posts 2 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 05:46:33 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-15 17:37:10 </description>
+    </item>
+    
+    <item>
+      <title>worst</title>
+      <link>http://lemmies.blue42.net/community/lemmy.best/worst/</link>
+      <pubDate>Thu, 15 Jun 2023 17:37:10 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.best/worst/</guid>
+      <description>/c/worst on lemmy.best [home] [/c/worst 🌎] [lemmy.best]
+Description Description not available. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-12 05:53:11 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-15 17:37:10 </description>
+    </item>
+    
+  </channel>
+</rss>

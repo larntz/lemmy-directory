@@ -1,0 +1,57 @@
+---
+title: "Gent" 
+name: "gent"
+description: "Description not available."
+type: community
+date: "2023-06-16 11:06:26"
+draft: false
+nsfw: false
+actor_id: "https://lemmings.online/c/gent"
+host: lemmings.online
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmings_online"
+tags: 
+- "lemmings_online"
+
+---
+
+# /c/Gent on lemmings.online
+
+[[home](/)]
+[[/c/gent 🌎](https://lemmings.online/c/gent)]
+[[lemmings.online](/instances/lemmings_online)]
+
+
+## Description 
+
+<blockquote class="description">
+Description not available.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-14 15:11:29 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:26 |

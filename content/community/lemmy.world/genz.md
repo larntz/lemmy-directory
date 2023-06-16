@@ -1,0 +1,57 @@
+---
+title: "Gen Z" 
+name: "genz"
+description: "Hey there! What's poppin'?So, spill the tea. What's the latest drama? Are you flexing your drip? Or maybe you're busy curating your aesthetic on the 'gram? Hashtag goals, amirite? And speaking of goals, are you adulting like a boss or still living that student life?I bet you've got some fire memes to share. Memes are the language of our generation, after all. From the classic SpongeBob references to TikTok trends, we've got the meme game on lock. And let's not forget about our obsessions with Netflix binges and gaming sessions. Netflix and chill? More like Netflix and skill!But hey, it's not all about entertainment. We're also passionate about making a difference and fighting for social justice. Whether it's climate change, equality, or mental health awareness, we're all about that activism and raising awareness on social media platforms."
+type: community
+date: "2023-06-16 11:07:14"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/genz"
+host: lemmy.world
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---
+
+# /c/Gen Z on lemmy.world
+
+[[home](/)]
+[[/c/genz 🌎](https://lemmy.world/c/genz)]
+[[lemmy.world](/instances/lemmy_world)]
+
+
+## Description 
+
+<blockquote class="description">
+Hey there! What's poppin'?<br><br>So, spill the tea. What's the latest drama? Are you flexing your drip? Or maybe you're busy curating your aesthetic on the 'gram? Hashtag goals, amirite? And speaking of goals, are you adulting like a boss or still living that student life?<br><br>I bet you've got some fire memes to share. Memes are the language of our generation, after all. From the classic SpongeBob references to TikTok trends, we've got the meme game on lock. And let's not forget about our obsessions with Netflix binges and gaming sessions. Netflix and chill? More like Netflix and skill!<br><br>But hey, it's not all about entertainment. We're also passionate about making a difference and fighting for social justice. Whether it's climate change, equality, or mental health awareness, we're all about that activism and raising awareness on social media platforms.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-16 07:55:57 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:07:14 |

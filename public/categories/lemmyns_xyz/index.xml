@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmyns_xyz on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/lemmyns_xyz/</link>
+    <description>Recent content in lemmyns_xyz on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:27 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/lemmyns_xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hhkb</title>
+      <link>http://lemmies.blue42.net/community/lemmyns.xyz/hhkb/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyns.xyz/hhkb/</guid>
+      <description>/c/hhkb on lemmyns.xyz https://lemmyns.xyz/c/hhkb
+Description A community for those who are weirdly passionate about their hhkb keyboards Details * Subscribers 3 Posts 1 Comments 0 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-15 05:09:34 Updated 2023-06-15 05:16:53 Last Scraped 2023-06-16 11:06:27 </description>
+    </item>
+    
+    <item>
+      <title>Lemmyns</title>
+      <link>http://lemmies.blue42.net/community/lemmyns.xyz/lemmyns/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyns.xyz/lemmyns/</guid>
+      <description>/c/Lemmyns on lemmyns.xyz https://lemmyns.xyz/c/lemmyns
+Description Default landing page for lemmyns.xyz Details * Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-14 20:59:12 Updated 2023-06-15 05:28:36 Last Scraped 2023-06-16 11:06:27 </description>
+    </item>
+    
+  </channel>
+</rss>

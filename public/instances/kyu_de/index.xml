@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kyu_de on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/kyu_de/</link>
+    <description>Recent content in kyu_de on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:16 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/kyu_de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test group</title>
+      <link>http://lemmies.blue42.net/community/kyu.de/test/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:16 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/kyu.de/test/</guid>
+      <description>/c/test group on kyu.de [home] [/c/test 🌎] [kyu.de]
+Description Description not available. Details Activity Count Subscribers 2 Posts 1 Comments 2 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-10 19:05:15 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:16 </description>
+    </item>
+    
+    <item>
+      <title>Pentax</title>
+      <link>http://lemmies.blue42.net/community/kyu.de/pentax/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:16 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/kyu.de/pentax/</guid>
+      <description>/c/Pentax on kyu.de [home] [/c/pentax 🌎] [kyu.de]
+Description Description not available. Details Activity Count Subscribers 2 Posts 2 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 10:52:47 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:16 </description>
+    </item>
+    
+    <item>
+      <title>Backup of my imgur albums</title>
+      <link>http://lemmies.blue42.net/community/kyu.de/imgurbackup/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:16 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/kyu.de/imgurbackup/</guid>
+      <description>/c/Backup of my imgur albums on kyu.de [home] [/c/imgurbackup 🌎] [kyu.de]
+Description As imgur is no [no longer a reliable content hoster](https://www.engadget.com/imgur-to-ban-explicit-images-and-delete-uploads-not-tied-to-an-account-122537118.html) just throwing my old albums in here is an easy enough way to preserve them. Details Activity Count Subscribers 1 Posts 6 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 15:05:47 Updated 2023-06-12 15:29:19 Last Scraped 2023-06-16 11:06:16 </description>
+    </item>
+    
+  </channel>
+</rss>

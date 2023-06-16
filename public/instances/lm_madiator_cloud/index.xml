@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lm_madiator_cloud on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lm_madiator_cloud/</link>
+    <description>Recent content in lm_madiator_cloud on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:24 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lm_madiator_cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://lemmies.blue42.net/community/lm.madiator.cloud/testing/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lm.madiator.cloud/testing/</guid>
+      <description>/c/Testing on lm.madiator.cloud [home] [/c/testing 🌎] [lm.madiator.cloud]
+Description Description not available. Details Activity Count Subscribers 1 Posts 1 Comments 1 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-11 16:35:34 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+    <item>
+      <title>The Blender Dumbass Sub-Lemmy</title>
+      <link>http://lemmies.blue42.net/community/lm.madiator.cloud/blender_dumbass/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lm.madiator.cloud/blender_dumbass/</guid>
+      <description>/c/The Blender Dumbass Sub-Lemmy on lm.madiator.cloud [home] [/c/blender_dumbass 🌎] [lm.madiator.cloud]
+Description The Sub-Lemmy for anything related to Blender Dumbass. Details Activity Count Subscribers 2 Posts 2 Comments 1 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-15 18:19:43 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+    <item>
+      <title>Ask Madiator</title>
+      <link>http://lemmies.blue42.net/community/lm.madiator.cloud/askmadiator/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:24 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lm.madiator.cloud/askmadiator/</guid>
+      <description>/c/Ask Madiator on lm.madiator.cloud [home] [/c/askmadiator 🌎] [lm.madiator.cloud]
+Description Instance support :) Details Activity Count Subscribers 2 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-16 06:42:16 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:24 </description>
+    </item>
+    
+  </channel>
+</rss>

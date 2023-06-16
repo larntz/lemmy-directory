@@ -1,0 +1,57 @@
+---
+title: "The Zhukov Academy for Military Theory" 
+name: "zhukovacademy"
+description: "Welcome to the Zhukov Academy, comrade. Here we post material of all kinds related to military theory of any kind. If your soviet ever starts a revolution, or if you declare a protracted people's war, then this is a place you'll want in your arsenal -- preferably before the revolution starts.All sorts of works are allowed as long as they come from a reputable source, meaning people who have a career in the military or have led a revolution. Otherwise you are free to also ask questions about military theory freely.When submitting a work, please link to a freely-accessible copy -- so either a pdf or html pages, so that everyone can read it. Although not required, please also include a text post explaining why you recommend this book or why it's important. It will encourage people to read it and help them know what to expect.We also allow works from the enemy (imperialists), as it is important to understand how their military works today. For example, an article about how the USA [gets its ass kicked](https://archive.vn/wip/LGVTW) in simulations is absolutely welcome here. Just as long as it has to do with military theory.For more general topics on the military, please visit [!military@lemmygrad.ml](https://lemmygrad.ml/c/tanks_for_tankies)."
+type: community
+date: "2023-06-16 11:06:10"
+draft: false
+nsfw: false
+actor_id: "https://lemmygrad.ml/c/zhukovacademy"
+host: lemmygrad.ml
+lastmod: "{[ .Updated }}"
+subscribers: 107
+posts: 20
+comments: 46
+weight: 20
+dau: 2
+wau: 2
+mau: 2
+instances:
+- "lemmygrad_ml"
+tags: 
+- "lemmygrad_ml"
+
+---
+
+# /c/The Zhukov Academy for Military Theory on lemmygrad.ml
+
+[[home](/)]
+[[/c/zhukovacademy 🌎](https://lemmygrad.ml/c/zhukovacademy)]
+[[lemmygrad.ml](/instances/lemmygrad_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+Welcome to the Zhukov Academy, comrade. Here we post material of all kinds related to military theory of any kind. If your soviet ever starts a revolution, or if you declare a protracted people's war, then this is a place you'll want in your arsenal -- preferably before the revolution starts.<br><br>All sorts of works are allowed as long as they come from a reputable source, meaning people who have a career in the military or have led a revolution. Otherwise you are free to also ask questions about military theory freely.<br><br>When submitting a work, please link to a freely-accessible copy -- so either a pdf or html pages, so that everyone can read it. Although not required, please also include a text post explaining why you recommend this book or why it's important. It will encourage people to read it and help them know what to expect.<br><br>We also allow works from the enemy (imperialists), as it is important to understand how their military works today. For example, an article about how the USA [gets its ass kicked](https://archive.vn/wip/LGVTW) in simulations is absolutely welcome here. Just as long as it has to do with military theory.<br><br>For more general topics on the military, please visit [!military@lemmygrad.ml](https://lemmygrad.ml/c/tanks_for_tankies).
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 107 |
+| Posts                | 20  |
+| Comments             | 46  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2021-03-07 19:51:06 |
+| Updated              | 2021-04-29 13:12:43 |
+| Last Scraped         | 2023-06-16 11:06:10 |

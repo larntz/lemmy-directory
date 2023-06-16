@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lostcheese_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lostcheese_com/</link>
+    <description>Recent content in lostcheese_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:31 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lostcheese_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost Cheese Community</title>
+      <link>http://lemmies.blue42.net/community/lostcheese.com/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:31 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lostcheese.com/main/</guid>
+      <description>/c/Lost Cheese Community on lostcheese.com [home] [/c/main 🌎] [lostcheese.com]
+Description The Lost Cheese (default) Community Details Activity Count Subscribers 7 Posts 1 Comments 1 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-04-26 00:42:01 Updated 2023-06-04 21:25:33 Last Scraped 2023-06-16 11:06:31 </description>
+    </item>
+    
+  </channel>
+</rss>

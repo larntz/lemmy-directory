@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>normalcity_life on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/normalcity_life/</link>
+    <description>Recent content in normalcity_life on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:27 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/normalcity_life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDForAll</title>
+      <link>http://lemmies.blue42.net/community/normalcity.life/sdforall/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/normalcity.life/sdforall/</guid>
+      <description>/c/SDForAll on normalcity.life [home] [/c/sdforall 🌎] [normalcity.life]
+Description A community about Stable Diffusion. This is the Lemmy counterpart to [r/sdforall](https://www.reddit.com/r/sdforall/).
+### Rules:
+In addition to NCL&#39;s [instance-wide rules](https://normalcity.life/post/972), the below rules apply when posting to and interacting with SDForAll.
+**1. SD Related**
+Posts must be related to Stable Diffusion.
+**2. Be Respectful**
+No hateful posts or comments targeting a person or group. Behind every keyboard is usually a living human being.</description>
+    </item>
+    
+    <item>
+      <title>Mavica</title>
+      <link>http://lemmies.blue42.net/community/normalcity.life/mavica/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/normalcity.life/mavica/</guid>
+      <description>/c/Mavica on normalcity.life [home] [/c/mavica 🌎] [normalcity.life]
+Description A community dedicated to the Sony Mavica line of digital and still video cameras.
+### Rules:
+This community follows the [instance-wide rules](https://normalcity.life/post/972). Details Activity Count Subscribers 1 Posts 2 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-16 00:49:59 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:27 </description>
+    </item>
+    
+    <item>
+      <title>NCL Meta</title>
+      <link>http://lemmies.blue42.net/community/normalcity.life/nclmeta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:27 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/normalcity.life/nclmeta/</guid>
+      <description>/c/NCL Meta on normalcity.life [home] [/c/nclmeta 🌎] [normalcity.life]
+Description A community for discussing this instance and expressing concerns. Details Activity Count Subscribers 1 Posts 2 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-15 01:33:14 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:27 </description>
+    </item>
+    
+  </channel>
+</rss>

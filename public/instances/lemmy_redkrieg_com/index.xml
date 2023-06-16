@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_redkrieg_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_redkrieg_com/</link>
+    <description>Recent content in lemmy_redkrieg_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:05:57 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_redkrieg_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printing</title>
+      <link>http://lemmies.blue42.net/community/lemmy.redkrieg.com/3dprinting/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:57 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.redkrieg.com/3dprinting/</guid>
+      <description>/c/3D Printing on lemmy.redkrieg.com [home] [/c/3dprinting 🌎] [lemmy.redkrieg.com]
+Description 3D Printing makes and discussion!
+Search on your instance to join:
+!3dprinting@lemmy.redkrieg.com Details Activity Count Subscribers 6 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-02 19:47:20 Updated 2023-06-09 01:25:24 Last Scraped 2023-06-16 11:05:57 </description>
+    </item>
+    
+    <item>
+      <title>Lemmy Home Instance Helper browser extension</title>
+      <link>http://lemmies.blue42.net/community/lemmy.redkrieg.com/lemmyextension/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:57 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.redkrieg.com/lemmyextension/</guid>
+      <description>/c/Lemmy Home Instance Helper browser extension on lemmy.redkrieg.com [home] [/c/lemmyextension 🌎] [lemmy.redkrieg.com]
+Description Discussion of the Lemmy Home Instance Helper browser extension! Join us by installing the extension or searching !lemmyextension@lemmy.redkrieg.com on your instance. Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-15 05:08:43 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:57 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmyonline_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/lemmyonline_com/</link>
+    <description>Recent content in lemmyonline_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:32 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/lemmyonline_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Chat</title>
+      <link>http://lemmies.blue42.net/community/lemmyonline.com/general/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyonline.com/general/</guid>
+      <description>/c/General Chat on lemmyonline.com [home] [/c/general 🌎] [lemmyonline.com]
+Description General chat, not relating to a more specific community. Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-16 00:57:40 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+    <item>
+      <title>Lemmy Online</title>
+      <link>http://lemmies.blue42.net/community/lemmyonline.com/lemmyonline/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyonline.com/lemmyonline/</guid>
+      <description>/c/Lemmy Online on lemmyonline.com [home] [/c/lemmyonline 🌎] [lemmyonline.com]
+Description News related to Lemmy online. Details Activity Count Subscribers 1 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-16 00:57:17 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+    <item>
+      <title>WarBOT.dev</title>
+      <link>http://lemmies.blue42.net/community/lemmyonline.com/warbot/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyonline.com/warbot/</guid>
+      <description>/c/WarBOT.dev on lemmyonline.com [home] [/c/warbot 🌎] [lemmyonline.com]
+Description Anything relating to https://docs.warbot.dev/.
+Install the bot at https://warbot.dev/
+Dev version: https://dev.warbot.dev/ Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-16 00:38:54 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+    <item>
+      <title>XtremeOwnage.com</title>
+      <link>http://lemmies.blue42.net/community/lemmyonline.com/xtremeownage/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:32 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyonline.com/xtremeownage/</guid>
+      <description>/c/XtremeOwnage.com on lemmyonline.com [home] [/c/xtremeownage 🌎] [lemmyonline.com]
+Description Anything relating to https://xtremeownage.com/ Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-16 00:37:18 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:32 </description>
+    </item>
+    
+  </channel>
+</rss>

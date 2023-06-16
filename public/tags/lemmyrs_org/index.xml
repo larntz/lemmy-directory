@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmyrs_org on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/lemmyrs_org/</link>
+    <description>Recent content in lemmyrs_org on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:04 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/lemmyrs_org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust: News</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/news/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/news/</guid>
+      <description>/c/Rust: News on lemmyrs.org [home] [/c/news 🌎] [lemmyrs.org]
+Description # Rules [Developing]
+- Keep it relevant to news and latest developments largely related to Rust and its ecosystem.
+- Showing off new crates is OK Details Activity Count Subscribers 80 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-07 18:10:40 Updated 2023-06-15 04:33:27 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust: Support</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/support/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/support/</guid>
+      <description>/c/Rust: Support on lemmyrs.org [home] [/c/support 🌎] [lemmyrs.org]
+Description # Rules
+- Ask any question relevant to the Rust language and its ecosystem. No such questions shall ever be considered dumb!
+- Ask for contributions for your crate Details Activity Count Subscribers 39 Posts 1 Comments 3 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-07 18:13:20 Updated 2023-06-15 04:32:59 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust: Memes</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/memes/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/memes/</guid>
+      <description>/c/Rust: Memes on lemmyrs.org [home] [/c/memes 🌎] [lemmyrs.org]
+Description # Memes
+Say Rewrite in Rust one more time, I dare you. I double dare you MF! Details Activity Count Subscribers 50 Posts 2 Comments 3 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-07 18:05:34 Updated 2023-06-15 04:33:07 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust: Game Development</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/gamedev/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/gamedev/</guid>
+      <description>/c/Rust: Game Development on lemmyrs.org [home] [/c/gamedev 🌎] [lemmyrs.org]
+Description [Developing]
+# Goal
+Discussions about using Rust for Game development. Details Activity Count Subscribers 20 Posts 3 Comments 3 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-15 04:27:11 Updated 2023-06-15 04:43:50 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust: Meta</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/meta/</guid>
+      <description>/c/Rust: Meta on lemmyrs.org [home] [/c/meta 🌎] [lemmyrs.org]
+Description # Goal
+Meta is primarily to talk about the state of lemmyrs.org and the communities within it.
+Potential moderator(s) and administrator(s) shall use this to discuss responsibilities.
+# Rules [Developing] Details Activity Count Subscribers 71 Posts 7 Comments 47 Daily Active Users 4 Weekly Active Users 12 Monthly Active Users 12 Activity Date Published 2023-06-07 07:51:12 Updated 2023-06-15 04:33:19 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust Lang</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/rustlang/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/rustlang/</guid>
+      <description>/c/Rust Lang on lemmyrs.org [home] [/c/rustlang 🌎] [lemmyrs.org]
+Description # Rules [Developing]
+## Observe our code of conduct
+- Strive to treat others with respect, patience, kindness, and empathy.
+- We observe the Rust Project Code of Conduct.
+- Submissions must be on-topic
+- Posts must reference Rust or relate to things using Rust. For content that does not, use a text post to explain its relevance.
+- Post titles should include useful context.</description>
+    </item>
+    
+    <item>
+      <title>Rust: Embedded Systems</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/embedded/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/embedded/</guid>
+      <description>/c/Rust: Embedded Systems on lemmyrs.org [home] [/c/embedded 🌎] [lemmyrs.org]
+Description [Developing]
+# Goal
+Discussions about using Rust in an Embedded environment. Details Activity Count Subscribers 17 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-15 04:26:27 Updated 2023-06-15 04:43:07 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+    <item>
+      <title>Rust: Web Development</title>
+      <link>http://lemmies.blue42.net/community/lemmyrs.org/web/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:04 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmyrs.org/web/</guid>
+      <description>/c/Rust: Web Development on lemmyrs.org [home] [/c/web 🌎] [lemmyrs.org]
+Description [Developing]
+# Goal
+Discussions about using Rust for Web Development. Details Activity Count Subscribers 15 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-15 04:26:54 Updated 2023-06-15 04:43:38 Last Scraped 2023-06-16 11:06:04 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_nrd_li on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_nrd_li/</link>
+    <description>Recent content in lemmy_nrd_li on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:17 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_nrd_li/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NrdLi</title>
+      <link>http://lemmies.blue42.net/community/lemmy.nrd.li/nrdli/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:17 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.nrd.li/nrdli/</guid>
+      <description>/c/NrdLi on lemmy.nrd.li [home] [/c/nrdli 🌎] [lemmy.nrd.li]
+Description The place for announcements and other official communication about this Lemmy instance. Details Activity Count Subscribers 3 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-10 16:38:42 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:17 </description>
+    </item>
+    
+    <item>
+      <title>Saved You A Click</title>
+      <link>http://lemmies.blue42.net/community/lemmy.nrd.li/savedyouaclick/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:17 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.nrd.li/savedyouaclick/</guid>
+      <description>/c/Saved You A Click on lemmy.nrd.li [home] [/c/savedyouaclick 🌎] [lemmy.nrd.li]
+Description Fight back against poorly written article titles!
+Rules:
+1. Use archive links to the article, from sites like [archive.is](http://archive.is).
+2. Post should be titled as follows: `SOURCE - ORIGINAL TITLE | CLICK SAVING INFORMATION` Details Activity Count Subscribers 14 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 23:40:49 Updated 2023-06-13 01:06:54 Last Scraped 2023-06-16 11:06:17 </description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://lemmies.blue42.net/community/lemmy.nrd.li/videos/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:17 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.nrd.li/videos/</guid>
+      <description>/c/Videos on lemmy.nrd.li [home] [/c/videos 🌎] [lemmy.nrd.li]
+Description Post videos that you enjoy and think others should see. Generally short-form content in the style of TikTok and Vine should go elsewhere. Details Activity Count Subscribers 3 Posts 4 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-10 16:44:11 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:17 </description>
+    </item>
+    
+    <item>
+      <title>Loading Ready Run</title>
+      <link>http://lemmies.blue42.net/community/lemmy.nrd.li/loadingreadyrun/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:17 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.nrd.li/loadingreadyrun/</guid>
+      <description>/c/Loading Ready Run on lemmy.nrd.li [home] [/c/loadingreadyrun 🌎] [lemmy.nrd.li]
+Description An (unofficial) community for discussing all things LRR. Details Activity Count Subscribers 6 Posts 9 Comments 2 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-10 19:50:39 Updated 2023-06-11 02:25:36 Last Scraped 2023-06-16 11:06:17 </description>
+    </item>
+    
+  </channel>
+</rss>

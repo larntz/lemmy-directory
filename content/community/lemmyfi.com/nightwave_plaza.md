@@ -1,0 +1,57 @@
+---
+title: "Nightwave Plaza" 
+name: "nightwave_plaza"
+description: "[Nightwave Plaza](https://plaza.one/) is an online vaporwave music radio. This is an unofficial community for Vaporwave music enjoyers and creators."
+type: community
+date: "2023-06-16 11:06:28"
+draft: false
+nsfw: false
+actor_id: "https://lemmyfi.com/c/nightwave_plaza"
+host: lemmyfi.com
+lastmod: "{[ .Updated }}"
+subscribers: 3
+posts: 2
+comments: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lemmyfi_com"
+tags: 
+- "lemmyfi_com"
+
+---
+
+# /c/Nightwave Plaza on lemmyfi.com
+
+[[home](/)]
+[[/c/nightwave_plaza 🌎](https://lemmyfi.com/c/nightwave_plaza)]
+[[lemmyfi.com](/instances/lemmyfi_com)]
+
+
+## Description 
+
+<blockquote class="description">
+[Nightwave Plaza](https://plaza.one/) is an online vaporwave music radio. This is an unofficial community for Vaporwave music enjoyers and creators.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 3 |
+| Posts                | 2  |
+| Comments             | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-15 20:25:53 |
+| Updated              | 2023-06-15 20:48:58 |
+| Last Scraped         | 2023-06-16 11:06:28 |

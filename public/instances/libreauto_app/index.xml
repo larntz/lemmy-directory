@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libreauto_app on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/libreauto_app/</link>
+    <description>Recent content in libreauto_app on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:30 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/libreauto_app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP Home</title>
+      <link>http://lemmies.blue42.net/community/libreauto.app/esphome/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:30 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/libreauto.app/esphome/</guid>
+      <description>/c/ESP Home on libreauto.app [home] [/c/esphome 🌎] [libreauto.app]
+Description [ESPHome](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. Details Activity Count Subscribers 11 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 23:00:23 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:30 </description>
+    </item>
+    
+    <item>
+      <title>Meta (libreauto.app)</title>
+      <link>http://lemmies.blue42.net/community/libreauto.app/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:30 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/libreauto.app/meta/</guid>
+      <description>/c/Meta (libreauto.app) on libreauto.app [home] [/c/meta 🌎] [libreauto.app]
+Description For discussions about the [Libre Automation Lemmy Server](https://libreauto.app) itself Details Activity Count Subscribers 2 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 19:43:27 Updated 2023-06-12 21:11:10 Last Scraped 2023-06-16 11:06:30 </description>
+    </item>
+    
+    <item>
+      <title>Home Automation</title>
+      <link>http://lemmies.blue42.net/community/libreauto.app/homeautomation/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:30 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/libreauto.app/homeautomation/</guid>
+      <description>/c/Home Automation on libreauto.app [home] [/c/homeautomation 🌎] [libreauto.app]
+Description Discussion about general home automation ideas and projects. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-12 23:02:35 Updated 2023-06-12 23:08:44 Last Scraped 2023-06-16 11:06:30 </description>
+    </item>
+    
+    <item>
+      <title>Tasmota</title>
+      <link>http://lemmies.blue42.net/community/libreauto.app/tasmota/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:30 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/libreauto.app/tasmota/</guid>
+      <description>/c/Tasmota on libreauto.app [home] [/c/tasmota 🌎] [libreauto.app]
+Description This is a community for talking about all thing [Tasmota](tasmota.github.io). Tasmote is a Free and Open source custom firmware for esp type micro controllers Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-12 19:38:01 Updated 2023-06-12 19:41:00 Last Scraped 2023-06-16 11:06:30 </description>
+    </item>
+    
+  </channel>
+</rss>

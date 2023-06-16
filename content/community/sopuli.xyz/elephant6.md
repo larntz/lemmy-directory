@@ -1,0 +1,57 @@
+---
+title: "The Elephant 6 Collective" 
+name: "elephant6"
+description: "A community focused on the [Elephant 6 collective.](https://en.wikipedia.org/wiki/Elephant_6) Discussion can also be about bands in the collective, such as Neutral Milk Hotel, Olivia Tremor Control and Apples In Stereo, as well as any others. Enjoy!Note: Not associated with E6 or r/elephant6"
+type: community
+date: "2023-06-16 11:06:34"
+draft: false
+nsfw: false
+actor_id: "https://sopuli.xyz/c/elephant6"
+host: sopuli.xyz
+lastmod: "{[ .Updated }}"
+subscribers: 7
+posts: 1
+comments: 0
+weight: 1
+dau: 0
+wau: 0
+mau: 1
+instances:
+- "sopuli_xyz"
+tags: 
+- "sopuli_xyz"
+
+---
+
+# /c/The Elephant 6 Collective on sopuli.xyz
+
+[[home](/)]
+[[/c/elephant6 🌎](https://sopuli.xyz/c/elephant6)]
+[[sopuli.xyz](/instances/sopuli_xyz)]
+
+
+## Description 
+
+<blockquote class="description">
+A community focused on the [Elephant 6 collective.](https://en.wikipedia.org/wiki/Elephant_6) Discussion can also be about bands in the collective, such as Neutral Milk Hotel, Olivia Tremor Control and Apples In Stereo, as well as any others. Enjoy!<br><br>Note: Not associated with E6 or r/elephant6
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 7 |
+| Posts                | 1  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2022-09-17 18:19:26 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:34 |

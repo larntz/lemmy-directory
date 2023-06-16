@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r196_club on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/r196_club/</link>
+    <description>Recent content in r196_club on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:25 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/r196_club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>196</title>
+      <link>http://lemmies.blue42.net/community/r196.club/196/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:25 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/r196.club/196/</guid>
+      <description>/c/196 on r196.club [home] [/c/196 🌎] [r196.club]
+Description You must post before you leave Details Activity Count Subscribers 3 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-13 20:06:30 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:25 </description>
+    </item>
+    
+    <item>
+      <title>Lemmy Devlog</title>
+      <link>http://lemmies.blue42.net/community/r196.club/devlog/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:25 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/r196.club/devlog/</guid>
+      <description>/c/Lemmy Devlog on r196.club [home] [/c/devlog 🌎] [r196.club]
+Description My devlog for hacking on lemmy Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-15 04:00:52 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:25 </description>
+    </item>
+    
+  </channel>
+</rss>

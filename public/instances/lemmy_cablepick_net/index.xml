@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_cablepick_net on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_cablepick_net/</link>
+    <description>Recent content in lemmy_cablepick_net on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:06 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_cablepick_net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing and Development</title>
+      <link>http://lemmies.blue42.net/community/lemmy.cablepick.net/testing/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.cablepick.net/testing/</guid>
+      <description>/c/Testing and Development on lemmy.cablepick.net [home] [/c/testing 🌎] [lemmy.cablepick.net]
+Description Testing and development for this server and scripting. Feel free to test out Lemmy here. Details Activity Count Subscribers 2 Posts 1 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-08 20:22:53 Updated 2023-06-12 03:48:48 Last Scraped 2023-06-16 11:06:06 </description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>http://lemmies.blue42.net/community/lemmy.cablepick.net/support/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.cablepick.net/support/</guid>
+      <description>/c/Support on lemmy.cablepick.net [home] [/c/support 🌎] [lemmy.cablepick.net]
+Description General Lemmy support and guides for deploying instances. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-12 03:51:58 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:06 </description>
+    </item>
+    
+  </channel>
+</rss>

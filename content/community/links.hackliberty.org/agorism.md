@@ -1,0 +1,57 @@
+---
+title: "Agorism" 
+name: "agorism"
+description: "Agorism is the practice of counter-economics and the ideas associated with that practice. Agorist ideas assert that Libertarian philosophy occurs in practice, in the real world, as Counter-Economics. It was first proposed by libertarian philosopher Samuel Edward Konkin III in 1975.Agorism (based on the principle of counter-economics) promotes withdrawing from the state and using counter-economic activities to minimize what a person contributes to the state in the form of taxes, license fees, and so forth. #### Rules1. Don't do unto others what you don't want done unto you.2. No Porn, Gore, or NSFW content. **Instant Ban.**3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**4. Stay on topic in a community. Please reach out to an admin to create a new community."
+type: community
+date: "2023-06-16 11:06:13"
+draft: false
+nsfw: false
+actor_id: "https://links.hackliberty.org/c/agorism"
+host: links.hackliberty.org
+lastmod: "{[ .Updated }}"
+subscribers: 2
+posts: 10
+comments: 0
+weight: 10
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "links_hackliberty_org"
+tags: 
+- "links_hackliberty_org"
+
+---
+
+# /c/Agorism on links.hackliberty.org
+
+[[home](/)]
+[[/c/agorism 🌎](https://links.hackliberty.org/c/agorism)]
+[[links.hackliberty.org](/instances/links_hackliberty_org)]
+
+
+## Description 
+
+<blockquote class="description">
+Agorism is the practice of counter-economics and the ideas associated with that practice. Agorist ideas assert that Libertarian philosophy occurs in practice, in the real world, as Counter-Economics. It was first proposed by libertarian philosopher Samuel Edward Konkin III in 1975.<br><br>Agorism (based on the principle of counter-economics) promotes withdrawing from the state and using counter-economic activities to minimize what a person contributes to the state in the form of taxes, license fees, and so forth. <br><br>#### Rules<br>1. Don't do unto others what you don't want done unto you.<br>2. No Porn, Gore, or NSFW content. **Instant Ban.**<br>3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**<br>4. Stay on topic in a community. Please reach out to an admin to create a new community.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 2 |
+| Posts                | 10  |
+| Comments             | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-02-07 02:56:19 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:13 |

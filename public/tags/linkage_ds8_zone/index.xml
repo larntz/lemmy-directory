@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linkage_ds8_zone on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/tags/linkage_ds8_zone/</link>
+    <description>Recent content in linkage_ds8_zone on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:06 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/tags/linkage_ds8_zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Default Community</title>
+      <link>http://lemmies.blue42.net/community/linkage.ds8.zone/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/linkage.ds8.zone/main/</guid>
+      <description>/c/The Default Community on linkage.ds8.zone [home] [/c/main 🌎] [linkage.ds8.zone]
+Description The Default Community Details Activity Count Subscribers 4 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2021-03-27 08:58:30 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:06 </description>
+    </item>
+    
+    <item>
+      <title>Freedom in Mobile Computing</title>
+      <link>http://lemmies.blue42.net/community/linkage.ds8.zone/libremobile/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:06 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/linkage.ds8.zone/libremobile/</guid>
+      <description>/c/Freedom in Mobile Computing on linkage.ds8.zone [home] [/c/libremobile 🌎] [linkage.ds8.zone]
+Description /c/LibreMobile is a community for discussion of Free (Libre) Software in the mobile space, including Android and non-Android Linux-based OS’s.
+Please don’t discuss, promote, advocate, advertise, or ask for help with proprietary software in this community. This includes using libre software with the purpose of enabling proprietary software (such as microG, Aurora Store, sandboxes, etc).
+Proprietary apps are still proprietary even if they have no trackers or a nice-sounding privacy policy.</description>
+    </item>
+    
+  </channel>
+</rss>

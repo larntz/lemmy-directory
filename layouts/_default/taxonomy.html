@@ -1,0 +1,50 @@
+{{ define "main" }}
+<hr>
+<main>
+  <div>
+   <h1>{{ .Title }}</h1>
+   {{ if eq .Page.Kind "taxonomy" }}
+    <table>
+      <tr>
+        <th>Instance</th>
+        <th>Communities</th>
+      </tr>
+      {{ range site.Taxonomies.instances.ByCount }}
+      <tr>
+        <td><a href="/instances/{{ .Term }}">{{ .Term }}</a></td>
+        <td>{{ .Count }}</td>
+      </tr>
+      {{ end }}
+    </table>
+  {{ end }}
+
+  {{ if eq .Page.Kind "term" }}
+  <table>
+    <thead>
+    <tr>
+      <th>Community</th>
+      <th>Title</th>
+      <th>Posts</th>
+      <th>Subscribers</th>
+      <th title="Daily Active Users">DAU</th>
+      <th>NSFW</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{ range ((index site.Taxonomies "instances" .Title).Pages.ByParam "dau").Reverse }}
+    <tr>
+      <td>[<a href="{{ .Page.Permalink }}">/c/{{ .Page.Params.name }}</a>]</td>
+      <td>{{ .Page.Title }}</td>
+      <td>{{ .Page.Params.posts }}</td>
+      <td>{{ .Page.Params.subscribers }}</td>
+      <td>{{ .Page.Params.dau }}</td>
+      <td>{{ if .Page.Params.nsfw }}🚨{{ else }}-{{ end }}</td>
+    </tr>
+    {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+
+  </div>
+</main>
+{{ end }}

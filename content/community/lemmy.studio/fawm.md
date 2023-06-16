@@ -1,0 +1,57 @@
+---
+title: "FAWM" 
+name: "fawm"
+description: "[FAWM](https://fawm.org/) is a global music community that meets virtually every February and during northern hemisphere Summer to try to write as many songs as possible."
+type: community
+date: "2023-06-16 11:06:01"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.studio/c/fawm"
+host: lemmy.studio
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_studio"
+tags: 
+- "lemmy_studio"
+
+---
+
+# /c/FAWM on lemmy.studio
+
+[[home](/)]
+[[/c/fawm 🌎](https://lemmy.studio/c/fawm)]
+[[lemmy.studio](/instances/lemmy_studio)]
+
+
+## Description 
+
+<blockquote class="description">
+[FAWM](https://fawm.org/) is a global music community that meets virtually every February and during northern hemisphere Summer to try to write as many songs as possible.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-14 00:12:23 |
+| Updated              | 2023-06-14 16:49:08 |
+| Last Scraped         | 2023-06-16 11:06:01 |

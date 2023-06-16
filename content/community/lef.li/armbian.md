@@ -1,0 +1,57 @@
+---
+title: "Armbian" 
+name: "armbian"
+description: "Linux for ARM development boards"
+type: community
+date: "2023-06-16 11:06:28"
+draft: false
+nsfw: false
+actor_id: "https://lef.li/c/armbian"
+host: lef.li
+lastmod: "{[ .Updated }}"
+subscribers: 1
+posts: 1
+comments: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lef_li"
+tags: 
+- "lef_li"
+
+---
+
+# /c/Armbian on lef.li
+
+[[home](/)]
+[[/c/armbian 🌎](https://lef.li/c/armbian)]
+[[lef.li](/instances/lef_li)]
+
+
+## Description 
+
+<blockquote class="description">
+Linux for ARM development boards
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 1 |
+| Posts                | 1  |
+| Comments             | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-11 14:59:55 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:28 |

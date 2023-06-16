@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_jerick_xyz on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_jerick_xyz/</link>
+    <description>Recent content in lemmy_jerick_xyz on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:11 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_jerick_xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a PC Sales</title>
+      <link>http://lemmies.blue42.net/community/lemmy.jerick.xyz/buildapcsales/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:11 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.jerick.xyz/buildapcsales/</guid>
+      <description>/c/Build a PC Sales on lemmy.jerick.xyz [home] [/c/buildapcsales 🌎] [lemmy.jerick.xyz]
+Description Sales on PC/Server components Details Activity Count Subscribers 1 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Activity Date Published 2023-06-12 03:55:22 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:11 </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://lemmies.blue42.net/community/lemmy.jerick.xyz/test/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:11 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.jerick.xyz/test/</guid>
+      <description>/c/test on lemmy.jerick.xyz [home] [/c/test 🌎] [lemmy.jerick.xyz]
+Description testing purposes Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Activity Date Published 2023-06-10 06:31:40 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:11 </description>
+    </item>
+    
+  </channel>
+</rss>

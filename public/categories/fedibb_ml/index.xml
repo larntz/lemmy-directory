@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fedibb_ml on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/fedibb_ml/</link>
+    <description>Recent content in fedibb_ml on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:05:51 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/fedibb_ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Community</title>
+      <link>http://lemmies.blue42.net/community/fedibb.ml/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:51 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/fedibb.ml/main/</guid>
+      <description>/c/Main Community on fedibb.ml https://fedibb.ml/c/main
+Description Discuss about any topic Details * Subscribers 122 Posts 22 Comments 75 Daily Active Users 2 Weekly Active Users 6 Monthly Active Users 14 Published 2022-10-19 09:07:55 Updated 2022-10-25 12:53:44 Last Scraped 2023-06-16 11:05:51 </description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://lemmies.blue42.net/community/fedibb.ml/music/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:51 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/fedibb.ml/music/</guid>
+      <description>/c/Music on fedibb.ml https://fedibb.ml/c/music
+Description nil Details * Subscribers 32 Posts 4 Comments 29 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 19 Published 2022-11-04 12:16:58 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:51 </description>
+    </item>
+    
+    <item>
+      <title>Video games</title>
+      <link>http://lemmies.blue42.net/community/fedibb.ml/videogames/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:51 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/fedibb.ml/videogames/</guid>
+      <description>/c/Video games on fedibb.ml https://fedibb.ml/c/videogames
+Description nil Details * Subscribers 13 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2022-11-04 12:16:34 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:51 </description>
+    </item>
+    
+  </channel>
+</rss>

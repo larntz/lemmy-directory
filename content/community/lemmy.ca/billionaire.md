@@ -1,0 +1,57 @@
+---
+title: "Just billionaire things" 
+name: "billionaire"
+description: "Post things your (least) fav billionaire does.This used to be the Elon Musk sub, but in an attempt to boost engagement, we have engaged a new pathway.You can post anything related to billionaires here.Tags: Tesla, paypal, spaceX, neuralink, The Boring Company."
+type: community
+date: "2023-06-16 11:06:38"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ca/c/billionaire"
+host: lemmy.ca
+lastmod: "{[ .Updated }}"
+subscribers: 47
+posts: 27
+comments: 3
+weight: 27
+dau: 1
+wau: 1
+mau: 4
+instances:
+- "lemmy_ca"
+tags: 
+- "lemmy_ca"
+
+---
+
+# /c/Just billionaire things on lemmy.ca
+
+[[home](/)]
+[[/c/billionaire 🌎](https://lemmy.ca/c/billionaire)]
+[[lemmy.ca](/instances/lemmy_ca)]
+
+
+## Description 
+
+<blockquote class="description">
+Post things your (least) fav billionaire does.<br><br>This used to be the Elon Musk sub, but in an attempt to boost engagement, we have engaged a new pathway.<br><br>You can post anything related to billionaires here.<br><br>Tags: Tesla, paypal, spaceX, neuralink, The Boring Company.
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 47 |
+| Posts                | 27  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 4  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2022-08-18 15:14:05 |
+| Updated              | 2022-08-18 16:17:04 |
+| Last Scraped         | 2023-06-16 11:06:38 |

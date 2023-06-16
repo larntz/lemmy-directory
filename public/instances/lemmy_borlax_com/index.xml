@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemmy_borlax_com on Lemmy Directory</title>
+    <link>http://lemmies.blue42.net/instances/lemmy_borlax_com/</link>
+    <description>Recent content in lemmy_borlax_com on Lemmy Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:05 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/instances/lemmy_borlax_com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Jersey</title>
+      <link>http://lemmies.blue42.net/community/lemmy.borlax.com/new_jersey/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:05 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.borlax.com/new_jersey/</guid>
+      <description>/c/New Jersey on lemmy.borlax.com [home] [/c/new_jersey 🌎] [lemmy.borlax.com]
+Description Anything and everything pertaining to the best state in the US. Details Activity Count Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-10 03:02:14 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:05 </description>
+    </item>
+    
+    <item>
+      <title>Plex</title>
+      <link>http://lemmies.blue42.net/community/lemmy.borlax.com/plex/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:05 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/lemmy.borlax.com/plex/</guid>
+      <description>/c/Plex on lemmy.borlax.com [home] [/c/plex 🌎] [lemmy.borlax.com]
+Description Plex and other self-hosted media centers. Details Activity Count Subscribers 8 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Activity Date Published 2023-06-10 04:09:58 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:05 </description>
+    </item>
+    
+  </channel>
+</rss>

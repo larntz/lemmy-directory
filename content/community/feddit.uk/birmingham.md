@@ -1,0 +1,57 @@
+---
+title: "Brum" 
+name: "birmingham"
+description: "For discussion about Birmingham including the surrounding West Midlands area. Discuss all things from news, travel, culture, and general life around Birmingham!Rules and other welcoming info can be found [here](https://feddit.uk/post/1)"
+type: community
+date: "2023-06-16 11:06:16"
+draft: false
+nsfw: false
+actor_id: "https://feddit.uk/c/birmingham"
+host: feddit.uk
+lastmod: "{[ .Updated }}"
+subscribers: 11
+posts: 2
+comments: 3
+weight: 2
+dau: 1
+wau: 4
+mau: 4
+instances:
+- "feddit_uk"
+tags: 
+- "feddit_uk"
+
+---
+
+# /c/Brum on feddit.uk
+
+[[home](/)]
+[[/c/birmingham 🌎](https://feddit.uk/c/birmingham)]
+[[feddit.uk](/instances/feddit_uk)]
+
+
+## Description 
+
+<blockquote class="description">
+For discussion about Birmingham including the surrounding West Midlands area. Discuss all things from news, travel, culture, and general life around Birmingham!<br><br>Rules and other welcoming info can be found [here](https://feddit.uk/post/1)
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 11 |
+| Posts                | 2  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-13 06:11:23 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:06:16 |

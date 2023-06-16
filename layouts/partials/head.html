@@ -1,0 +1,20 @@
+<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{{- if eq .RelPermalink "/" }}
+			<meta name="description" content="{{ .Site.Params.Description }}">
+		{{- else if .Description }}
+			<meta name="description" content="{{ .Description }}">
+		{{- end }}
+	
+		<title>
+			{{- if .IsHome }}
+				{{ .Site.Title }}
+			{{- else }}
+				{{ .Page.Title }} &middot; {{ .Site.Title }}
+			{{- end }}
+		</title>
+	
+		<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link rel="stylesheet" href="/css/style.css">
+</head>

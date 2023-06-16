@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feddi_no on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/feddi_no/</link>
+    <description>Recent content in feddi_no on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:18 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/feddi_no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Default community</title>
+      <link>http://lemmies.blue42.net/community/feddi.no/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:18 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/feddi.no/main/</guid>
+      <description>/c/Default community on feddi.no https://feddi.no/c/main
+Description Default community for all kinds of stuff Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-10 09:59:41 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:18 </description>
+    </item>
+    
+    <item>
+      <title>norge</title>
+      <link>http://lemmies.blue42.net/community/feddi.no/norge/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:18 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/feddi.no/norge/</guid>
+      <description>/c/norge on feddi.no https://feddi.no/c/norge
+Description Innhold på norsk Content in Norwegian Details * Subscribers 2 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-10 08:46:36 Updated 2023-06-10 08:47:58 Last Scraped 2023-06-16 11:06:18 </description>
+    </item>
+    
+    <item>
+      <title>norway</title>
+      <link>http://lemmies.blue42.net/community/feddi.no/norway/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:18 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/feddi.no/norway/</guid>
+      <description>/c/norway on feddi.no https://feddi.no/c/norway
+Description Anything related to Norway in English Details * Subscribers 4 Posts 1 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-10 08:47:45 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:18 </description>
+    </item>
+    
+  </channel>
+</rss>

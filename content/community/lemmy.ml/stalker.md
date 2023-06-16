@@ -1,0 +1,57 @@
+---
+title: "Stalker" 
+name: "stalker"
+description: "S.T.A.L.K.E.R. is a first-person-shooter survival horror video game franchise developed by GSC Game World. The series is set in an alternate version of the present-day Chernobyl Exclusion Zone in Ukraine, where, according to the series' backstory, a mysterious second Chernobyl disaster took place in 2006. As a result, the physical, chemical, and biological processes in the area were altered, spawning numerous nature-defying anomalies, artifacts, and mutants. The player takes the role of a stalker - a name given to trespassers and adventurers who have come to explore the exclusion zone and its strange phenomena. "
+type: community
+date: "2023-06-16 11:07:37"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/stalker"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 6
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/Stalker on lemmy.ml
+
+[[home](/)]
+[[/c/stalker 🌎](https://lemmy.ml/c/stalker)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+S.T.A.L.K.E.R. is a first-person-shooter survival horror video game franchise developed by GSC Game World. The series is set in an alternate version of the present-day Chernobyl Exclusion Zone in Ukraine, where, according to the series' backstory, a mysterious second Chernobyl disaster took place in 2006. As a result, the physical, chemical, and biological processes in the area were altered, spawning numerous nature-defying anomalies, artifacts, and mutants. The player takes the role of a stalker - a name given to trespassers and adventurers who have come to explore the exclusion zone and its strange phenomena. 
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 6 |
+| Posts                | 0  |
+| Comments             | 0  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 0  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-08 00:31:21 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-16 11:07:37 |

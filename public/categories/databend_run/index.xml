@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>databend_run on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/databend_run/</link>
+    <description>Recent content in databend_run on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:26 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/databend_run/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database</title>
+      <link>http://lemmies.blue42.net/community/databend.run/database/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/databend.run/database/</guid>
+      <description>/c/Database on databend.run https://databend.run/c/database
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-14 08:59:45 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>http://lemmies.blue42.net/community/databend.run/meta/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/databend.run/meta/</guid>
+      <description>/c/Meta on databend.run https://databend.run/c/meta
+Description nil Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-14 09:04:20 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>http://lemmies.blue42.net/community/databend.run/rust/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/databend.run/rust/</guid>
+      <description>/c/Rust on databend.run https://databend.run/c/rust
+Description Details * Subscribers 1 Posts 3 Comments 0 Daily Active Users 1 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-14 08:57:56 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+    <item>
+      <title>SaaS</title>
+      <link>http://lemmies.blue42.net/community/databend.run/saas/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/databend.run/saas/</guid>
+      <description>/c/SaaS on databend.run https://databend.run/c/saas
+Description nil Details * Subscribers 1 Posts 2 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-06-14 09:55:38 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+    <item>
+      <title>开源社区</title>
+      <link>http://lemmies.blue42.net/community/databend.run/open_source/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:26 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/databend.run/open_source/</guid>
+      <description>/c/开源社区 on databend.run https://databend.run/c/open_source
+Description nil Details * Subscribers 1 Posts 3 Comments 2 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Published 2023-06-14 09:00:04 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:26 </description>
+    </item>
+    
+  </channel>
+</rss>

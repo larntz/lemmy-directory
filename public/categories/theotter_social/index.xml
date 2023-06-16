@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theotter_social on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/theotter_social/</link>
+    <description>Recent content in theotter_social on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:06:19 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/theotter_social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos General</title>
+      <link>http://lemmies.blue42.net/community/theotter.social/cosmos_general/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/theotter.social/cosmos_general/</guid>
+      <description>/c/Cosmos General on theotter.social https://theotter.social/c/cosmos_general
+Description A place to discuss the Cosmos blockchain, or general Cosmos related blockchains. Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-11 15:03:37 Updated 2023-06-11 16:53:10 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+    <item>
+      <title>Elys Network</title>
+      <link>http://lemmies.blue42.net/community/theotter.social/elys_network/</link>
+      <pubDate>Fri, 16 Jun 2023 11:06:19 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/theotter.social/elys_network/</guid>
+      <description>/c/Elys Network on theotter.social https://theotter.social/c/elys_network
+Description AMM DEX featuring native USDC and multi-asset-index LPs, seamless onboarding for non-crypto natives, margin &amp; multi-chain bridge. Powered by Cosmos SDK Details * Subscribers 1 Posts 0 Comments 0 Daily Active Users 0 Weekly Active Users 0 Monthly Active Users 0 Published 2023-06-11 16:55:15 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:06:19 </description>
+    </item>
+    
+  </channel>
+</rss>

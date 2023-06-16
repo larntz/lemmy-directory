@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code4lib_net on Lemmy Community Directory</title>
+    <link>http://lemmies.blue42.net/categories/code4lib_net/</link>
+    <description>Recent content in code4lib_net on Lemmy Community Directory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 11:05:49 +0000</lastBuildDate><atom:link href="http://lemmies.blue42.net/categories/code4lib_net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>http://lemmies.blue42.net/community/code4lib.net/datascience/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:49 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/code4lib.net/datascience/</guid>
+      <description>/c/Data Science on code4lib.net https://code4lib.net/c/datascience
+Description nil Details * Subscribers 9 Posts 5 Comments 1 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-01-24 06:14:03 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:49 </description>
+    </item>
+    
+    <item>
+      <title>Library Linked Data</title>
+      <link>http://lemmies.blue42.net/community/code4lib.net/lld/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:49 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/code4lib.net/lld/</guid>
+      <description>/c/Library Linked Data on code4lib.net https://code4lib.net/c/lld
+Description nil Details * Subscribers 19 Posts 7 Comments 2 Daily Active Users 2 Weekly Active Users 2 Monthly Active Users 2 Published 2022-11-29 21:36:31 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:49 </description>
+    </item>
+    
+    <item>
+      <title>The Default Community</title>
+      <link>http://lemmies.blue42.net/community/code4lib.net/main/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:49 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/code4lib.net/main/</guid>
+      <description>/c/The Default Community on code4lib.net https://code4lib.net/c/main
+Description The Default Community Details * Subscribers 16 Posts 5 Comments 4 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 2 Published 2022-11-29 12:17:44 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:49 </description>
+    </item>
+    
+    <item>
+      <title>Wikidata &amp; GLAM</title>
+      <link>http://lemmies.blue42.net/community/code4lib.net/wikidata/</link>
+      <pubDate>Fri, 16 Jun 2023 11:05:49 +0000</pubDate>
+      
+      <guid>http://lemmies.blue42.net/community/code4lib.net/wikidata/</guid>
+      <description>/c/Wikidata &amp;amp; GLAM on code4lib.net https://code4lib.net/c/wikidata
+Description nil Details * Subscribers 2 Posts 6 Comments 0 Daily Active Users 1 Weekly Active Users 1 Monthly Active Users 1 Published 2023-02-06 13:36:22 Updated 1969-12-31 19:00:00 Last Scraped 2023-06-16 11:05:49 </description>
+    </item>
+    
+  </channel>
+</rss>

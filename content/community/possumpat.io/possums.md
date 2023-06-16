@@ -1,0 +1,57 @@
+---
+title: "Possums" 
+name: "possums"
+description: "A place for cute pics and memes of the worlds finest marsupial - The Possum!"
+type: community
+date: "2023-06-16 11:05:57"
+draft: false
+nsfw: false
+actor_id: "https://possumpat.io/c/possums"
+host: possumpat.io
+lastmod: "{[ .Updated }}"
+subscribers: 126
+posts: 8
+comments: 15
+weight: 8
+dau: 7
+wau: 12
+mau: 12
+instances:
+- "possumpat_io"
+tags: 
+- "possumpat_io"
+
+---
+
+# /c/Possums on possumpat.io
+
+[[home](/)]
+[[/c/possums 🌎](https://possumpat.io/c/possums)]
+[[possumpat.io](/instances/possumpat_io)]
+
+
+## Description 
+
+<blockquote class="description">
+A place for cute pics and memes of the worlds finest marsupial - The Possum!
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 126 |
+| Posts                | 8  |
+| Comments             | 15  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2023-06-09 03:41:11 |
+| Updated              | 2023-06-09 03:55:04 |
+| Last Scraped         | 2023-06-16 11:05:57 |

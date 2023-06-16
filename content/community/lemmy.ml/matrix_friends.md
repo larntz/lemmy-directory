@@ -1,0 +1,57 @@
+---
+title: "Matrix Friends!" 
+name: "matrix_friends"
+description: "A place to make new friends to chat with on Matrix! Join us at #matrixfriends:matrix.orgDirect link: https://matrix.to/#/!FgIPRrlQJzJaalVquL:matrix.org?via=matrix.org&via=feneas.org&via=apetre.sc"
+type: community
+date: "2023-06-16 11:07:32"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/matrix_friends"
+host: lemmy.ml
+lastmod: "{[ .Updated }}"
+subscribers: 106
+posts: 9
+comments: 16
+weight: 9
+dau: 0
+wau: 0
+mau: 1
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
+
+# /c/Matrix Friends! on lemmy.ml
+
+[[home](/)]
+[[/c/matrix_friends 🌎](https://lemmy.ml/c/matrix_friends)]
+[[lemmy.ml](/instances/lemmy_ml)]
+
+
+## Description 
+
+<blockquote class="description">
+A place to make new friends to chat with on Matrix! Join us at #matrixfriends:matrix.org<br><br>Direct link: https://matrix.to/#/!FgIPRrlQJzJaalVquL:matrix.org?via=matrix.org&via=feneas.org&via=apetre.sc
+</blockquote>
+
+
+## Details
+
+| Activity | Count  |
+|----------------------|---|
+| Subscribers          | 106 |
+| Posts                | 9  |
+| Comments             | 16  |
+| Daily Active Users   | 0  |
+| Weekly Active Users  | 0  |
+| Monthly Active Users | 1  |
+
+<br>
+
+| Activity | Date |
+|----------------------|---|
+| Published            | 2020-08-06 03:27:02 |
+| Updated              | 2021-07-16 03:55:45 |
+| Last Scraped         | 2023-06-16 11:07:32 |
