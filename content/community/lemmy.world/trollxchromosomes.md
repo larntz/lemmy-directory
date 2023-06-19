@@ -3,7 +3,7 @@ title: "Troll X Chromosomes"
 name: "trollxchromosomes"
 description: "This is not meant to be a sexist community, just like white/blackpeopletwitter is not meant to be a racist community. Post videos of women being trolled, bonus points if they're good sports about it."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trollxchromosomes"

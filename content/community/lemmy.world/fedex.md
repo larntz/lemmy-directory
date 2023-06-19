@@ -3,7 +3,7 @@ title: "FedEx - The World On Time"
 name: "fedex"
 description: "still under constructione, welcome reddit refugees"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fedex"

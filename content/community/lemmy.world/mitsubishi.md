@@ -3,7 +3,7 @@ title: "Mitsubishi "
 name: "mitsubishi"
 description: "Automotive community for Mitsubishi"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mitsubishi"

@@ -3,7 +3,7 @@ title: "Makeup for All"
 name: "makeupforall"
 description: "Makeup can be a form of self expression and an art. Share your personal style, costumes, cosplay, techniques, and more."
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/makeupforall"

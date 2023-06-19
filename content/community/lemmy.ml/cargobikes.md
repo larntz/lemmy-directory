@@ -3,7 +3,7 @@ title: "Cargo Bikes"
 name: "cargobikes"
 description: "**Freight bicycles, carrier cycles, freight tricycles, cargo bikes, box bikes, or cycletrucks** are human powered vehicles designed and constructed specifically for transporting loads.Banner photo by Ger maan on Wikimedia Commons"
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cargobikes"

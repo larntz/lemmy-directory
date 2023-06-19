@@ -3,7 +3,7 @@ title: "IPTV"
 name: "iptv"
 description: "This subreddit is not for asking/making iptv recommendations nor can resellers post ads or solicit business. Be careful what you post this subreddit is widely followed by the powers that be. We Don’t teach how to set up illegal IPTV. Don’t DM our members. READ THE RULES below sidebar before you post."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iptv"

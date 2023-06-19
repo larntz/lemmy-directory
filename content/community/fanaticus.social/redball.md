@@ -3,7 +3,7 @@ title: "redball"
 name: "redball"
 description: "A community to discuss the redball bot platform for lemmy.[Repo here](https://github.com/toddrob99/redball)[Discord channel](https://discord.gg/JYx7scN6DM) (for debugging)"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/redball"

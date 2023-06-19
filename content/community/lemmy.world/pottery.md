@@ -3,7 +3,7 @@ title: "Pottery"
 name: "pottery"
 description: "This is a place for potters and pottery lovers to share their art and be a community. RULES1. Be kind.2. Not all posts have to be your own work. If the work is not your own, then credit to the artist should be established."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pottery"

@@ -3,7 +3,7 @@ title: "Safe For Work AI Art"
 name: "aiart"
 description: "A place to share all safe for work AI arts you make or enjoy :)"
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/aiart"

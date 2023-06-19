@@ -3,14 +3,14 @@ title: "Virtual Reality"
 name: "virtualreality"
 description: "General interest board for all things VR, MR, XR, etc. "
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virtualreality"
 host: lemmy.world
 lastmod: "2023-06-13 15:36:11"
 published: "2023-06-13 15:33:15"
-subscribers: 162
+subscribers: 166
 posts: 7
 comments: 19
 weight: 7

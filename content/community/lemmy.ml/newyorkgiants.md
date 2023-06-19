@@ -3,7 +3,7 @@ title: "New York Football Giants"
 name: "newyorkgiants"
 description: "Welcome to the New York Football Giants community on Lemmy! If you bleed big blue, you're in the right place."
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newyorkgiants"

@@ -3,7 +3,7 @@ title: "Mindustry"
 name: "mindustry"
 description: "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies. Features include a map editor, 24 built-in maps, cross-platform multiplayer and large-scale PvP unit battles.Download from [here](https://anuke.itch.io/mindustry)!"
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mindustry"

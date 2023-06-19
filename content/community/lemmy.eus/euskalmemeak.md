@@ -3,7 +3,7 @@ title: "Euskal memeak"
 name: "euskalmemeak"
 description: "Euskarazko meme barregarrien eta dibertigarrien komunitatea. Fotomuntaketak,(h)umoredun irudiak, erdaratik gaizki itzulitako kartelak (#euzkaras), albiste sinesgaitzak...Tresna honek meme berriak sortzen lagun zaitzake: https://memeka.eus/Euskal umoregile eta komikigileen irudiak baimenik gabe bertora ekartzea ez da onartuko; estekatzea libre da!"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/euskalmemeak"
@@ -15,7 +15,7 @@ posts: 119
 comments: 83
 weight: 119
 dau: 1
-wau: 5
+wau: 3
 mau: 7
 instances:
 - "lemmy_eus"

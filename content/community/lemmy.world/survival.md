@@ -3,7 +3,7 @@ title: "survival"
 name: "survival"
 description: "survival"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/survival"

@@ -3,7 +3,7 @@ title: "The Wall"
 name: "the_wall"
 description: "A place where you can share stuff with me!"
 type: community
-date: "2023-06-19 11:34:54"
+date: "2023-06-19 17:58:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dcrich.net/c/the_wall"

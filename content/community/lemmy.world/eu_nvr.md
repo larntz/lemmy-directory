@@ -3,17 +3,17 @@ title: "eu_nvr"
 name: "eu_nvr"
 description: "eu_nvr é acrônimo de eu na vida real é a versão lemmy do **/r/eu_nvr**.Todos os posts do **eu_nvr** devem ter como título **eu_nvr**."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eu_nvr"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:06:52"
 published: "2023-06-17 00:20:05"
-subscribers: 4
-posts: 4
-comments: 1
-weight: 4
+subscribers: 5
+posts: 2
+comments: 0
+weight: 2
 dau: 1
 wau: 1
 mau: 1

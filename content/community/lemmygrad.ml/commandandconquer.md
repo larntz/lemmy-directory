@@ -3,7 +3,7 @@ title: "Command & Conquer"
 name: "commandandconquer"
 description: "A group for command and conquer  fans, but without all the reactionaries and libs. "
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/commandandconquer"

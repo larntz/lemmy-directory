@@ -3,7 +3,7 @@ title: "study_lemmy"
 name: "study_lemmy"
 description: "Learn Rust by looking at Lemmy.Let's take apart Lemmy and see how it works."
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/study_lemmy"

@@ -3,7 +3,7 @@ title: "Taoism"
 name: "tao"
 description: "Dedicated to insightful discussion about Taoism/Daoism, and the way to come to realization about oneself,  the world, and the universe.**Rules:**-Practice kindness and mindfulness- Unkind words will get you banned- Please include sources for quotes, text, and images- Please keep posts on topic"
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tao"

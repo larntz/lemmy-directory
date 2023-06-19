@@ -3,14 +3,14 @@ title: "Civilized discussion on responsible gun ownership"
 name: "progun"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/progun"
 host: lemmy.ml
 lastmod: "2019-07-26 03:40:13"
 published: "2019-07-26 03:19:36"
-subscribers: 85
+subscribers: 86
 posts: 1
 comments: 5
 weight: 1

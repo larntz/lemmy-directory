@@ -3,7 +3,7 @@ title: "snippets"
 name: "snippets"
 description: "guides, scripts, small programs, etc."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/snippets"

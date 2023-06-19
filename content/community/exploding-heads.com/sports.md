@@ -3,7 +3,7 @@ title: "Sports"
 name: "sports"
 description: "Sport and physical game related discussion"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/sports"
@@ -11,9 +11,9 @@ host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-02-01 22:15:04"
 subscribers: 9
-posts: 97
-comments: 10
-weight: 97
+posts: 98
+comments: 11
+weight: 98
 dau: 2
 wau: 3
 mau: 4

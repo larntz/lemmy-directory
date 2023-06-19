@@ -3,16 +3,16 @@ title: "Caffè Italia"
 name: "caffeitalia"
 description: "Caffé italia è la community dove poter parlar di tutto quello che non ha una community specifica in feddit.it"
 type: community
-date: "2023-06-19 11:34:54"
+date: "2023-06-19 17:58:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/caffeitalia"
 host: feddit.it
 lastmod: "2023-06-13 09:54:18"
 published: "2023-06-11 12:54:31"
-subscribers: 103
+subscribers: 108
 posts: 4
-comments: 155
+comments: 157
 weight: 4
 dau: 20
 wau: 48

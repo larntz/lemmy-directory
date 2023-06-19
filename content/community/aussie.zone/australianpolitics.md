@@ -3,19 +3,19 @@ title: "Australian Politics"
 name: "australianpolitics"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:59:00"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/australianpolitics"
 host: aussie.zone
 lastmod: "2023-06-18 15:28:49"
 published: "2023-06-10 02:43:55"
-subscribers: 338
+subscribers: 344
 posts: 11
 comments: 56
 weight: 11
-dau: 6
-wau: 27
+dau: 5
+wau: 24
 mau: 35
 instances:
 - "aussie_zone"

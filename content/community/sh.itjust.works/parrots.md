@@ -3,7 +3,7 @@ title: "Parrots"
 name: "parrots"
 description: "Community for people who like parrots, whether in the wild or living in your house with you (and tearing up your stuff)"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/parrots"

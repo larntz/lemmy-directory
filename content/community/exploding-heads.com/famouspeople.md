@@ -3,7 +3,7 @@ title: "Famous People"
 name: "famouspeople"
 description: "A community to talk about famous people. Even though what happens to celebrities really isn't relevant to our daily lives."
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/famouspeople"

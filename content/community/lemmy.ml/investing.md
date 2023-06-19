@@ -3,7 +3,7 @@ title: "Investing"
 name: "investing"
 description: "Sublemmy to discuss any investments, including: stocks, bonds, cryptos, real estate, NFTs, etc."
 type: community
-date: "2023-06-19 11:36:54"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/investing"

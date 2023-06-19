@@ -3,7 +3,7 @@ title: "Ask Republicans"
 name: "askrepublicans"
 description: "Ask Republicans stuff about what they believe or how they believe, and why."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askrepublicans"

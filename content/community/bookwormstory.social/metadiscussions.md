@@ -3,7 +3,7 @@ title: "Lemmy / Site Discussions"
 name: "metadiscussions"
 description: "Got any ideas to make the instance better? Any issue with federating from your home instance? Post it here."
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/metadiscussions"

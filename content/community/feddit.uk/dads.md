@@ -3,7 +3,7 @@ title: "Dads"
 name: "dads"
 description: "This is a community for Dads. Single Dads, new Dads, Step-Dads, tall Dads, short Dads, and any other kind of Dad. If you've got kids in your life that you love and provide for, come join us as we discuss everything from birth announcements to code browns in the shower."
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/dads"

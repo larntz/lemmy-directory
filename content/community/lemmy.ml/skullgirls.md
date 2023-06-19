@@ -3,7 +3,7 @@ title: "Skullgirls"
 name: "skullgirls"
 description: "##**[Rules & Guidelines](https://lemmy.ml/post/1174816)** ~ Read before posting! ~***##**[Mizuumi SG Beginner's FAQ](https://wiki.gbl.gg/w/Skullgirls/FAQ)** ~ Read this before posting! ~***##**[Watch Skullgirls Streams!](https://www.twitch.tv/directory/game/Skullgirls)*****##**[Official Skullgirls Discord](https://discord.gg/0WWSQspQVqkHy4In)*****"
 type: community
-date: "2023-06-19 11:36:58"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skullgirls"

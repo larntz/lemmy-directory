@@ -3,20 +3,20 @@ title: "Paradox Games"
 name: "paradoxgames"
 description: "The general community for every game made or published by Paradox, or the company itself.Rules:1. Don't be an asshole.2. Keep posts on-topic. ie. Posts have to be either about the company itself or games made/ published by Paradox.3. No NSFW content.4. No spamming.5. No advertising."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paradoxgames"
 host: lemmy.world
 lastmod: "2023-06-18 16:15:47"
 published: "2023-06-16 15:03:57"
-subscribers: 109
-posts: 7
-comments: 11
-weight: 7
-dau: 3
-wau: 8
-mau: 8
+subscribers: 117
+posts: 10
+comments: 14
+weight: 10
+dau: 5
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Reviews in One Line"
 name: "onelinereviews"
 description: "Post simple, one line reviews of things you love or hate. It can be movies, shows, episodes, books, places, products, businesses, people, animals, anything goes."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onelinereviews"

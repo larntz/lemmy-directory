@@ -3,7 +3,7 @@ title: "secularbuddhism"
 name: "secularbuddhism"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/secularbuddhism"

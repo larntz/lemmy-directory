@@ -3,17 +3,17 @@ title: "Pet Rats"
 name: "petrats"
 description: "A place for pet rats!"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/petrats"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 15:11:36"
-subscribers: 18
-posts: 7
+subscribers: 19
+posts: 8
 comments: 2
-weight: 7
+weight: 8
 dau: 1
 wau: 3
 mau: 3

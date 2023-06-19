@@ -3,7 +3,7 @@ title: "Minecraft"
 name: "minecraft"
 description: "A general community for content related to Minecraft. Can be related to vanilla Minecraft, modded Minecraft, technical Minecraft, Minecraft YouTubers, et cetera."
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/minecraft"

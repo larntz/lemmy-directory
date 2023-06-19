@@ -3,7 +3,7 @@ title: "New Communities"
 name: "new_communities"
 description: "Have you created a new community and you would like to share it with others? Advertise it here!It is **not necessary** that the community is hosted in this instance!"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/new_communities"

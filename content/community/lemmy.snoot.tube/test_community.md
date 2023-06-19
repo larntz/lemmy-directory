@@ -3,7 +3,7 @@ title: "(test) just a community"
 name: "test_community"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:19"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/test_community"

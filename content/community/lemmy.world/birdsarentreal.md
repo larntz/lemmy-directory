@@ -3,7 +3,7 @@ title: "Birds aren’t real"
 name: "birdsarentreal"
 description: "They used to be. Until the U.S. Government replaced them with drone replicas designed to spy on the American public.Founded in 1976."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/birdsarentreal"

@@ -3,7 +3,7 @@ title: "Humans are Space Orcs"
 name: "haso"
 description: "Humans are Space Orcs is a community for everyone to share their favourite posts, memes, short stories or art which features aliens reacting to ridiculous or strange things about humanity or aliens being terrified of humanity."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/haso"

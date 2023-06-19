@@ -3,7 +3,7 @@ title: "Hobby-Ecke"
 name: "hobbyecke"
 description: "Dies ist ein Ort um seine Hobbys vorzustellen, Fragen zu stellen und sich auszutauschen. Es kann um alles, vom Sprühsahneverkosten, über Strohhalmsammeln bis Modelleisenbahn bauen gehen. Falls ihr nicht wisst ob eure Frage in ein spezifisches Unterlemmy passt oder eine Breite Meinung einholen wollt, ist das der richtige Ort."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hobbyecke"

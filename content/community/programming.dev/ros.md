@@ -3,7 +3,7 @@ title: "ROS"
 name: "ros"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/ros"
@@ -14,7 +14,7 @@ subscribers: 15
 posts: 4
 comments: 10
 weight: 4
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

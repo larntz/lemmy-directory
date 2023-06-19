@@ -3,7 +3,7 @@ title: "FediTown"
 name: "feditown"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:23"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://feditown.com/c/feditown"

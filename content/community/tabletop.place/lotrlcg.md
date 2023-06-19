@@ -3,7 +3,7 @@ title: "The Lord of the Rings : The Living Card Game"
 name: "lotrlcg"
 description: "A community dedicated to the The Lord of the Rings: Living Card Game."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/lotrlcg"

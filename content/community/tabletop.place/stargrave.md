@@ -3,7 +3,7 @@ title: "Stargrave"
 name: "stargrave"
 description: "A community dedicated to Stargrave, a science-fiction skirmish wargame by Joseph A. McCullough."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/stargrave"

@@ -3,7 +3,7 @@ title: "Bon Voyage"
 name: "bonvoyage"
 description: "Images, gifs, videos, music, and other media to support pleasant trips. Whether you're high on drugs or high on life, enjoy this repository of the best content that will make you sit up and go whoa! then collapse down and go whoaaaa.Positive vibes only. Upvote posts that enhance your trip, downvote posts that harsh your buzz. *Bon voyage!*"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bonvoyage"

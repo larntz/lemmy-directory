@@ -3,7 +3,7 @@ title: "Double Edge Razors"
 name: "de_razors"
 description: "A community to discuss double edge razors in depthe"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:05"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/de_razors"

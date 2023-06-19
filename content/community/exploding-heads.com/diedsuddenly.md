@@ -3,7 +3,7 @@ title: "Died suddenly "
 name: "diedsuddenly"
 description: "Posts made about people dying suddenly which many deem is related to covid 19 vaccine side effects "
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/diedsuddenly"

@@ -3,7 +3,7 @@ title: "shitposting"
 name: "shitposting"
 description: "Rules•1.  No Doxxing •2. No TikTok reposts•3. No Harassing •4. Post Gore at your own discretion, Depends if its funny or just gore to be an edgelord. "
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitposting"

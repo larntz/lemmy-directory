@@ -3,14 +3,14 @@ title: "G-SHOCK"
 name: "gshock"
 description: "A place for the rugged Casios"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gshock"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 10:55:35"
-subscribers: 2
+subscribers: 4
 posts: 3
 comments: 1
 weight: 3

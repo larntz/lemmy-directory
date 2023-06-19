@@ -3,7 +3,7 @@ title: "Crypto - DFX Finance - Foreign Currency Exchange"
 name: "dfx"
 description: "A decentralized foreign exchange protocol optimized for stablecoins.DFX is an Ethereum-based decentralized exchange protocol (like Uniswap) with a dynamically tuned bonding curve optimized for fiat-backed stablecoins (like USDC, CADC, EURS, XSGD, etc) using real-world FX price feeds.https://dfx.finance/"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/dfx"

@@ -3,7 +3,7 @@ title: "Prusa 3D"
 name: "prusa3d"
 description: "This subreddit is not maintained by Prusa staff. It is an enthusiast subreddit."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prusa3d"

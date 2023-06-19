@@ -3,7 +3,7 @@ title: "Kosovo"
 name: "kosovo"
 description: "Official subreddit for Kosovo"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kosovo"

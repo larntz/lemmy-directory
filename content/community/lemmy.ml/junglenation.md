@@ -3,7 +3,7 @@ title: "JungleNation"
 name: "junglenation"
 description: "JunglistSoulJahs RISE. Throw off the yoke of ages!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/junglenation"

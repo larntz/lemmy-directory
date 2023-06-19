@@ -3,7 +3,7 @@ title: "Jokes!"
 name: "jokes"
 description: "This is a place to post jokes. Whether they are dad jokes, puns or another form of text-based comedy!# Rules:* Pure text posts are preferred.* No memes. Jokes should be text-based.* With the exception of one-liners, the punchline should be in the post and not the title.* No NSFW content.* Jokes must be in good taste. No hate speech, bigotry, etc."
 type: community
-date: "2023-06-19 11:36:53"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jokes"

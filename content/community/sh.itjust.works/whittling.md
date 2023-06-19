@@ -3,14 +3,14 @@ title: "Whittling"
 name: "whittling"
 description: "For people who like to carve things out of wood"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/whittling"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 01:41:29"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 0
 weight: 2

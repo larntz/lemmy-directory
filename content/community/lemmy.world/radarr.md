@@ -3,7 +3,7 @@ title: "Radarr"
 name: "radarr"
 description: "Welcome to the Sonarr community. Feel free to post anything related to Sonarr.[Radarr website](https://radarr.video)[Radarr Dockerhub](https://hub.docker.com/r/linuxserver/radarr)[Trash Guides](https://trash-guides.info/)[Sonarr community](https://lemmy.world/c/sonarr)"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radarr"

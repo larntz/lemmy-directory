@@ -3,7 +3,7 @@ title: "Retro Technology"
 name: "retrotechnology"
 description: "A place for discussion, videos, pictures, and other related content of retro and vintage technology of all kinds. Especially retro tech that is still in use today.There are plenty of excellent communities for retro PCs so that content is better suited for those communities.Rules:- No NSFW- Respectful discourse required- No hate speech, bigotry, racism, homophobia, sexism, etc.- No spam or advertising- No AI generated content, posts, or comments"
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/retrotechnology"

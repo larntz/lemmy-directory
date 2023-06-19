@@ -3,7 +3,7 @@ title: "San Antonio"
 name: "sanantonio"
 description: "Community for the city of San Antonio"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sanantonio"

@@ -3,7 +3,7 @@ title: "City of Chilliwack, BC"
 name: "chilliwack"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/chilliwack"

@@ -3,14 +3,14 @@ title: "Garmin Watches"
 name: "garminwatches"
 description: "Discussions and News about Garmin watches and sensors."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/garminwatches"
 host: feddit.de
 lastmod: "2023-06-12 22:15:33"
 published: "2023-06-12 22:11:44"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 0
 weight: 2

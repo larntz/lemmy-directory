@@ -3,7 +3,7 @@ title: "Lemmy Home Instance Helper browser extension"
 name: "lemmyextension"
 description: "Discussion of the Lemmy Home Instance Helper browser extension!  Join us by installing the extension or searching !lemmyextension@lemmy.redkrieg.com on your instance."
 type: community
-date: "2023-06-19 11:34:54"
+date: "2023-06-19 17:58:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.redkrieg.com/c/lemmyextension"

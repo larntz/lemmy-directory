@@ -3,7 +3,7 @@ title: "Tinkercad"
 name: "tinkercad"
 description: "Tinkercad is an online computer-aided design (CAD) platform that empowers you to unleash your creativity. With its user-friendly interface and browser-based accessibility, Tinkercad allows you to create and design 3D models, circuits, and projects. It's a versatile tool enabling you to delve into the world of prototyping and explore the possibilities of digital design. "
 type: community
-date: "2023-06-19 11:36:49"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tinkercad"

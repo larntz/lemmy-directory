@@ -3,7 +3,7 @@ title: "Ann Arbor Community 🌳"
 name: "ann_arbor"
 description: "A Lemmy community for people who live in, live around, or just generally love Ann Arbor, Michigan. "
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/ann_arbor"

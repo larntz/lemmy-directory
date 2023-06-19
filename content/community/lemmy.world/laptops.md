@@ -3,7 +3,7 @@ title: "The Laptops Community"
 name: "laptops"
 description: "Welcome to /c/Laptops!This is a place for the Lemmy Community to discuss about laptops. Talk about new and exciting laptop launches, share your laptop setups, ask for support, provide assistance and more.To talk about gaming laptops, please head over to the [Gaming Laptops Community](https://lemmy.world/c/gaminglaptops). This community is only appropriate for non-gaming laptops."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/laptops"

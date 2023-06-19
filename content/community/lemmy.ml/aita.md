@@ -3,14 +3,14 @@ title: "AITA"
 name: "aita"
 description: "[!amitheasshole](https://lemmy.ml/c/amitheasshole)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aita"
 host: lemmy.ml
 lastmod: "2023-06-10 16:41:28"
 published: "2023-06-10 16:40:46"
-subscribers: 59
+subscribers: 61
 posts: 0
 comments: 0
 weight: 0

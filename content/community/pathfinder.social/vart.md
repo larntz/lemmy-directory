@@ -1,16 +1,16 @@
 ---
-title: "Visual Art" 
+title: "Visual and Written Art" 
 name: "vart"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/vart"
 host: pathfinder.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:49:34"
 published: "2023-06-04 17:09:50"
-subscribers: 32
+subscribers: 35
 posts: 1
 comments: 11
 weight: 1

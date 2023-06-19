@@ -3,7 +3,7 @@ title: "Ardour"
 name: "ardour"
 description: "News and discussions about the Ardour DAW (https://ardour.org/)."
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/ardour"

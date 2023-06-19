@@ -3,7 +3,7 @@ title: "Bobiverse"
 name: "bobiverse"
 description: "A place to discuss the Bobiverse book series by Dennis E. Taylor    Click  [Here](http://dennisetaylor.org/status-of-things/) go to Dennis' Status Of Things page for the latest news on Book 5 of the Bobiverse series.      Credit to Reddit User geuis for the icon image"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bobiverse"

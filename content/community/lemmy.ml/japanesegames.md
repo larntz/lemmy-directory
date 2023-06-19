@@ -3,7 +3,7 @@ title: "日本語のゲーム - Japanese Games"
 name: "japanesegames"
 description: "[日本語２４７](https://lemmy.ml/c/japanese247)のゲームサブ[日本語247](https://lemmy.ml/c/japanese247) community's games subThis sub is for sharing games for learning japanese."
 type: community
-date: "2023-06-19 11:36:51"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japanesegames"

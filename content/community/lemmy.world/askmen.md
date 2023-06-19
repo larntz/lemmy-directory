@@ -3,14 +3,14 @@ title: "Ask Men"
 name: "askmen"
 description: "Unlocking Perspectives, Advice, and Empowerment for Men Everywhere."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askmen"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 10:09:42"
-subscribers: 27
+subscribers: 29
 posts: 0
 comments: 0
 weight: 0

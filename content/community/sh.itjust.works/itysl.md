@@ -3,14 +3,14 @@ title: "I think you should leave"
 name: "itysl"
 description: "It's illegal for you to ask me that!"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/itysl"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 00:00:29"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 6
 weight: 2

@@ -3,7 +3,7 @@ title: "Rofflopolis II"
 name: "rofflopolis_2"
 description: "bad posts"
 type: community
-date: "2023-06-19 11:35:19"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/rofflopolis_2"

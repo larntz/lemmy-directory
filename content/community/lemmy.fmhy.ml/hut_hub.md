@@ -3,7 +3,7 @@ title: "Hut_Hub"
 name: "hut_hub"
 description: "A general community for posting architecture appreciation. "
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/hut_hub"

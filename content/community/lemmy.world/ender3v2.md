@@ -3,7 +3,7 @@ title: "Ender 3v2"
 name: "ender3v2"
 description: "A place to share your Ender 3v2 creations, tips, questions and other 3D printer related information.![](https://lemmy.world/pictrs/image/61654d80-b340-4a5f-9939-42bbacf76940.png)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ender3v2"

@@ -3,7 +3,7 @@ title: "Machine Learning and AI Apps | Tools"
 name: "aiapps"
 description: "ChatGPT and other front end AI apps and tools discussion, share your find your 15 apps that will improve your flow and ask questions about how to use AI apps. "
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/aiapps"

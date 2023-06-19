@@ -3,7 +3,7 @@ title: "News"
 name: "news"
 description: "Game preservation news"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/news"

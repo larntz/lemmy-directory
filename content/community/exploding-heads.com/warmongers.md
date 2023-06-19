@@ -3,7 +3,7 @@ title: "War Mongers"
 name: "warmongers"
 description: "Too many politicians have never seen a war they were not in favor of.After all how else are they going to fund their buddies in the Military Industrial Complex"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/warmongers"

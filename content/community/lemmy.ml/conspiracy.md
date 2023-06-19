@@ -3,7 +3,7 @@ title: "conspiracy"
 name: "conspiracy"
 description: "Feel free to post about conspiracies and related subjects, eg: corruption, artificial narratives, propaganda, etc.. Matrix/Element room: https://matrix.to/#/!gbegunGWczsraIIElI:matrix.org?via=matrix.org&nbsp;"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/conspiracy"

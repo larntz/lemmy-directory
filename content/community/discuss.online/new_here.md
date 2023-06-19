@@ -3,7 +3,7 @@ title: "New Here"
 name: "new_here"
 description: "For all the new folks to post and asked questions.You can still ask if you've been here a while too.If you're a veteran you're welcome too! Post tips and tricks as you use Lemmy!"
 type: community
-date: "2023-06-19 11:35:12"
+date: "2023-06-19 17:59:01"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/new_here"
@@ -15,7 +15,7 @@ posts: 2
 comments: 11
 weight: 2
 dau: 2
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "discuss_online"

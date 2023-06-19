@@ -3,7 +3,7 @@ title: "Ask Madiator"
 name: "askmadiator"
 description: "Instance support :)"
 type: community
-date: "2023-06-19 11:35:22"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lm.madiator.cloud/c/askmadiator"

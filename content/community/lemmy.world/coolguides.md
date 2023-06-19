@@ -3,7 +3,7 @@ title: "Cool Guides"
 name: "coolguides"
 description: "Picture based reference guides for anything and everything. If it seems like something someone might print, physically post, and reference then it is a good link for this sub. Remember: Infographics are learning tools, guides are reference tools. Sometimes it's grey./r/coolguides mods just let me know if you need access here, just wanted to keep the place available for you"
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coolguides"

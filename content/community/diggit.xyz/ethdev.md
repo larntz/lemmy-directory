@@ -3,7 +3,7 @@ title: "Ethereum Development and DApps"
 name: "ethdev"
 description: "Ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethdev"

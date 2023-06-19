@@ -3,7 +3,7 @@ title: "The Kids are All Left"
 name: "familycommunism"
 description: "How do we raise children in an age where communism is the ultimate goal? If our SOs have different beliefs, how do we advance given the responsibility to someone/anyone we love and trust?"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/familycommunism"

@@ -3,7 +3,7 @@ title: "Flow Arts / Fire Spin"
 name: "flowarts"
 description: "This community is for everything flow arts, fire, leds, fluo anything!"
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flowarts"

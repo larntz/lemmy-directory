@@ -3,7 +3,7 @@ title: "Furry Art"
 name: "furry_art"
 description: "Anthros, Scalies, Floofs, Dragons, as well as any original species is welcome here!"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/furry_art"

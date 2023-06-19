@@ -3,7 +3,7 @@ title: "nootropics"
 name: "nootropics"
 description: "If you are a mod from r/nootropics, please send a message and I'll turn the sub over. Work in progress right now."
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nootropics"

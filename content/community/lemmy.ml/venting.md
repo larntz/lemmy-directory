@@ -3,7 +3,7 @@ title: "A place to express your frustration"
 name: "venting"
 description: "Venting is a place where Lemmy users can rant/vent about anything that is on their mind. If you are annoyed or very pissed off about something, you can talk about it here and our community will listen."
 type: community
-date: "2023-06-19 11:36:48"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/venting"

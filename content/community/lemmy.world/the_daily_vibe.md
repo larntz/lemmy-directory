@@ -3,7 +3,7 @@ title: "The Daily Vibe"
 name: "the_daily_vibe"
 description: "A place to share mixes to get you through the workday. All are welcome.  "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_daily_vibe"

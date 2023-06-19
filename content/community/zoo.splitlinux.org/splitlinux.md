@@ -3,7 +3,7 @@ title: "Split Linux"
 name: "splitlinux"
 description: "Split Linux is a general operating system optimized for safely navigating hostile environments like the Internet and physical check points. Visit splitlinux.org"
 type: community
-date: "2023-06-19 11:34:48"
+date: "2023-06-19 17:58:36"
 draft: false
 nsfw: false
 actor_id: "https://zoo.splitlinux.org/c/splitlinux"

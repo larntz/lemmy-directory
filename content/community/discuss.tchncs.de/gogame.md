@@ -3,7 +3,7 @@ title: "GO  (IGO / WEIQI / BADUK)"
 name: "gogame"
 description: "A place for people who like to arrange black and white stones on grids and have many names for this including: Go, The Game of Go, Baduk, Weiqi, Igo, 圍棋 / 围棋, 囲碁, 바둑, ..)Language: English"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/gogame"

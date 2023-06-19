@@ -1,22 +1,22 @@
 ---
 title: "GayBros" 
 name: "gaybros"
-description: "###### Rules:- Remember the human. - We are all bros here;- This is not a porn community. ------If you want a porn related community, check out [/c/gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com). Their sidebar also has other nsfw communities. You have to edit your settings though, if you want to see NSFW content. Without enabling that option (in your account settings), you won't even see the posts.------Logo design credit goes to [@snowe@programming.dev](https://programming.dev/comment/77886)"
+description: "###### Rules:- Remember the human. - We are all bros here;- This is not a porn community. ------You can find other communities/instances in https://lemmyverse.net/.------If you want a porn related community, check out [/c/gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com). Their sidebar also has other nsfw communities. If you want to see NSFW content, you have to go to your account settings and enable the option to see NSFW content.------Logo design credit goes to [@snowe@programming.dev](https://programming.dev/comment/77886)"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gaybros"
 host: lemmy.world
-lastmod: "2023-06-18 19:23:13"
+lastmod: "2023-06-19 14:42:57"
 published: "2023-06-12 22:08:19"
-subscribers: 136
-posts: 6
-comments: 33
-weight: 6
-dau: 5
-wau: 17
-mau: 17
+subscribers: 141
+posts: 7
+comments: 35
+weight: 7
+dau: 7
+wau: 18
+mau: 18
 instances:
 - "lemmy_world"
 tags: 

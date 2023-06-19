@@ -3,14 +3,14 @@ title: "Weltspiegel"
 name: "weltspiegel"
 description: "🌍🗞️ Deutschsprachige Nachrichtenmeldungen zu Geschehnissen *außerhalb* Europas und Nordamerikas.Kein Rassismus, kein Sexismus. Niemals.Titelbild: DALL-E"
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/weltspiegel"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 00:03:16"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

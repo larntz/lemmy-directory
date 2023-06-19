@@ -3,7 +3,7 @@ title: "Western Chicago Suburbs"
 name: "western_chicago_suburbs"
 description: "Hello! This is a place for anything and everything suburban and western about Chicagoland. "
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/western_chicago_suburbs"

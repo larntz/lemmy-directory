@@ -3,7 +3,7 @@ title: "pyjam.as"
 name: "pyjamas"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:34:42"
+date: "2023-06-19 17:58:30"
 draft: false
 nsfw: false
 actor_id: "https://slangenettet.pyjam.as/c/pyjamas"

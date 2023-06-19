@@ -3,7 +3,7 @@ title: "Paradigm shifting and mind blowing lectures"
 name: "lectures"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/lectures"

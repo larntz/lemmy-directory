@@ -3,7 +3,7 @@ title: "Music Theory"
 name: "musictheory"
 description: "A place to discuss and answer questions about music theory. All instruments are welcome, no question is stupid!"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musictheory"

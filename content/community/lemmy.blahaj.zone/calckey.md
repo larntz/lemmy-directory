@@ -3,7 +3,7 @@ title: "Calckey"
 name: "calckey"
 description: "An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to Mastodonhttps://codeberg.org/calckey#Calckey"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/calckey"

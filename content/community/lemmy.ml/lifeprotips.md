@@ -3,14 +3,14 @@ title: "Life Pro Tips"
 name: "lifeprotips"
 description: "Tips that improve your life in one way or another."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifeprotips"
 host: lemmy.ml
 lastmod: "2022-01-13 10:49:03"
 published: "2022-01-13 10:41:17"
-subscribers: 420
+subscribers: 430
 posts: 8
 comments: 24
 weight: 8

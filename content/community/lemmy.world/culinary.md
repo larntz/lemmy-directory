@@ -3,19 +3,19 @@ title: "Culinary Creations"
 name: "culinary"
 description: "A community that appreciates food and the processes used to prepare it.**More Food****Guidlines**- Stay on topic; content must be food related- Be nice"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/culinary"
 host: lemmy.world
 lastmod: "2023-06-16 16:32:47"
 published: "2023-06-03 16:37:00"
-subscribers: 279
+subscribers: 281
 posts: 11
 comments: 26
 weight: 11
 dau: 3
-wau: 8
+wau: 7
 mau: 13
 instances:
 - "lemmy_world"

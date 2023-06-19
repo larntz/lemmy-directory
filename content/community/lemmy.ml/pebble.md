@@ -3,7 +3,7 @@ title: "Pebble"
 name: "pebble"
 description: "For discussion of the Pebble smartwatch."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pebble"

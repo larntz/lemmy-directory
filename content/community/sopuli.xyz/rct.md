@@ -3,7 +3,7 @@ title: "RCT"
 name: "rct"
 description: "Migration of the Reddit community /r/RCT. Focused on the classic roller coaster sim games, RCT1, RCT2, RCT3, RCTC and the open-source OpenRCT2."
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/rct"

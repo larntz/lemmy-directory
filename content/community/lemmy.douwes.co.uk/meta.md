@@ -3,7 +3,7 @@ title: "meta"
 name: "meta"
 description: "meta community for this instance"
 type: community
-date: "2023-06-19 11:34:54"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/meta"

@@ -3,7 +3,7 @@ title: "feminizm"
 name: "femi"
 description: "Witaj w dziewczyńskiej społeczności!Jest to miejsce, w którym się wspieramy ale znajdujemy też przestrzeń na konstruktywną krytykę.Poruszamy tu kwestie związane z szeroko rozumianym feminizmem, jednak z wyłączeniem aborcji, która ma swoją własną [społeczność](https://szmer.info/c/aborcja).Książki znajdziecie w [bibliotece](https://szmer.info/c/biblioteka), muzę w [musiczce](https://szmer.info/c/musiczka), a filmy w [kinotece](https://szmer.info/c/kinoteka). [Memy](https://szmer.info/c/memesy) też są osobno. Jest też społeczność poświęcona [grafikom](https://szmer.info/c/grafiki).***Zajrzyj też do [chłopackiej](https://szmer.info/c/chlopactwo) i [queerowej (lgbt+)](https://szmer.info/c/queer) społeczności, albo tej poświęconej [pracy seksualnej]().***Bawcie się dobrze, dbajcie o siebie na wzajem, zmieniajcie świat!"
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/femi"

@@ -3,14 +3,14 @@ title: "Linux & FOSS News"
 name: "opensource_news"
 description: "We Love Linux & FOSS hence created this community. We Expect everyone to respect each other & share your knowledge"
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opensource_news"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-01-26 06:54:57"
-subscribers: 110
+subscribers: 111
 posts: 1
 comments: 0
 weight: 1

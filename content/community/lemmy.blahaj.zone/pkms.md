@@ -3,7 +3,7 @@ title: "Personal Knowledge Management Systems (PKMS)"
 name: "pkms"
 description: "A place for people to discuss Personal Knowledge Management Systems (PKMS) such as Building a Second Brain (BASB), Obsidian, and more."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/pkms"

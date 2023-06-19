@@ -3,7 +3,7 @@ title: "Lord of the Mysteries"
 name: "lotm"
 description: "For discussion on the chinese web novel Lord of the Mysteries and its sequel Circle of Inevitability."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 18:00:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lotm"

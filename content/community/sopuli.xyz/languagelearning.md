@@ -3,7 +3,7 @@ title: "Language Learning"
 name: "languagelearning"
 description: "A community all about learning languages!Other Lemmy language communities: [Japanese](https://sopuli.xyz/c/japaneselanguage) [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)Other communities outside Lemmy:[Unilang](https://forum.unilang.org) [A language learners' forum](https://forum.language-learners.org/) "
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/languagelearning"

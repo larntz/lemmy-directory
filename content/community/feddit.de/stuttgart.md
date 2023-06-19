@@ -3,7 +3,7 @@ title: "Stuttgart"
 name: "stuttgart"
 description: "Alles über den Kessel!"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/stuttgart"

@@ -3,7 +3,7 @@ title: "ChurchOfRyo"
 name: "churchofryo"
 description: "Ryo fanclub"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofryo"

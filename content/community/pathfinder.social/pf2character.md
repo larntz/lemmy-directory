@@ -3,14 +3,14 @@ title: "Pathfinder 2e Character Discussion"
 name: "pf2character"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2character"
 host: pathfinder.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-04 07:44:13"
-subscribers: 82
+subscribers: 83
 posts: 4
 comments: 19
 weight: 4

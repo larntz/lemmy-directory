@@ -3,14 +3,14 @@ title: "Wissenschaft"
 name: "wissenschaft"
 description: "Themen aus dem Bereich der Wissenschaften"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wissenschaft"
 host: feddit.de
 lastmod: "2023-01-30 06:35:11"
 published: "2021-08-20 07:03:30"
-subscribers: 426
+subscribers: 428
 posts: 93
 comments: 89
 weight: 93

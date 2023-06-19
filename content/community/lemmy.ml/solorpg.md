@@ -3,7 +3,7 @@ title: "Solo Roleplaying"
 name: "solorpg"
 description: "A place for discussion of solo role playing games.  Post your play reports, questions or your new discoveries! "
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/solorpg"

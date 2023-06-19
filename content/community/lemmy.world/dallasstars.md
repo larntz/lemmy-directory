@@ -3,7 +3,7 @@ title: "Dallas Stars"
 name: "dallasstars"
 description: "Let's go Stars!RELATED COMMUNITIEShttps://lemmy.ca/c/hockeyGUIDELINESPosts should be related to the Dallas Stars and it's farm clubs.Empathy is valued hereAll rules for the lemmy.world instance apply, as always. See: https://mastodon.world/about#"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dallasstars"

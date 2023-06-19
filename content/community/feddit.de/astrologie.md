@@ -3,7 +3,7 @@ title: "Astrologie"
 name: "astrologie"
 description: "Astrologie ist keine Wissenschaft, sondern eine Kunst: Deutungs-Kunst."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:29"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/astrologie"

@@ -1,14 +1,14 @@
 ---
-title: "Pathfinder 1e Official Adventures" 
+title: "Pathfinder 1e Adventures" 
 name: "pf1adventure"
-description: "Description not available."
+description: "A place to discuss official, 3rd party, and homebrew adventures for Pathfinder 1st Edition."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf1adventure"
 host: pathfinder.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:51:26"
 published: "2023-06-04 17:07:26"
 subscribers: 6
 posts: 0

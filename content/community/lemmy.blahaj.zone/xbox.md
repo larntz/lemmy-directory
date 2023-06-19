@@ -3,7 +3,7 @@ title: "Xbox "
 name: "xbox"
 description: "Any news/discussions related to Xbox consoles environment"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/xbox"

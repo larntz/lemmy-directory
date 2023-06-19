@@ -3,7 +3,7 @@ title: "AskMiddleEast"
 name: "askmiddlerast"
 description: "Unlocking the Richness of the Middle East: Ask, Learn, and Engage"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askmiddlerast"

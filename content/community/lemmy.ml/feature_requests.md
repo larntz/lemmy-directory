@@ -3,7 +3,7 @@ title: "Feature Requests"
 name: "feature_requests"
 description: "Use this space to let the Lemmy developers know the kinds of features you'd like to see in future versions!"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/feature_requests"

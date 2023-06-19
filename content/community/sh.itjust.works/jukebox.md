@@ -3,7 +3,7 @@ title: "Juke Box - share music"
 name: "jukebox"
 description: "Juke Box - share the music you are listening to"
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/jukebox"

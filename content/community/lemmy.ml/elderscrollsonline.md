@@ -3,7 +3,7 @@ title: "The Elder Scrolls Online Community on Lemmy"
 name: "elderscrollsonline"
 description: "Discussions about The Elder Scrolls Online. Talk about lore, builds, sets, events, server status etc."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elderscrollsonline"

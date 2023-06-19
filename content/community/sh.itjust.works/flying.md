@@ -3,14 +3,14 @@ title: "Flying"
 name: "flying"
 description: "This community is for discussion among pilots, students, instructors and aviation professionals."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/flying"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 18:47:41"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

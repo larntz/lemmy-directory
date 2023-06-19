@@ -3,14 +3,14 @@ title: "Terrariums"
 name: "terrariums"
 description: ""
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/terrariums"
 host: mander.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2022-09-08 19:41:32"
-subscribers: 38
+subscribers: 40
 posts: 1
 comments: 0
 weight: 1

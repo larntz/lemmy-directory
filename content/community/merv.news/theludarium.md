@@ -3,7 +3,7 @@ title: "The Ludarium"
 name: "theludarium"
 description: "# Games and Interactive art"
 type: community
-date: "2023-06-19 11:34:46"
+date: "2023-06-19 17:58:34"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/theludarium"

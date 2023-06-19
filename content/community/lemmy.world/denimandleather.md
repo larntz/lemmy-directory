@@ -3,7 +3,7 @@ title: "Denim & Leather"
 name: "denimandleather"
 description: "Cuff your raw denim, lace up your Red Wings, and join us in discussion about vintage American workwear styling. A men’s fashion and lifestyle community about durable, fashionable men’s classics. Denim jeans, leather boots, and anything else that fits the aesthetic. Pictures, inquiries, and links to relavent online stores are all welcome"
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/denimandleather"

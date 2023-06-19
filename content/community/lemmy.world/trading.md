@@ -3,7 +3,7 @@ title: "Trading"
 name: "trading"
 description: "Professional Traders Discussing Financial Markets"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trading"

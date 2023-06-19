@@ -3,7 +3,7 @@ title: "Fig.Systems"
 name: "figsystems"
 description: "Default CommunityRules:- Keep it civil"
 type: community
-date: "2023-06-19 11:35:09"
+date: "2023-06-19 17:59:01"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/figsystems"

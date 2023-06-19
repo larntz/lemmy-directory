@@ -3,7 +3,7 @@ title: "INTP"
 name: "intp"
 description: "Introverted iNtuitive Thinking Perceiver - from the MBTI"
 type: community
-date: "2023-06-19 11:36:52"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/intp"

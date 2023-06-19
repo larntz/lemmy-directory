@@ -3,7 +3,7 @@ title: "Retro Fast Food!"
 name: "retrofastfood"
 description: "A community for all things to do with fast food of the 70’s, 80’s, and 90’s — menu items, packaging, toys… ***Where’s the beef? You deserve a break today! In the land of Dairy Queen, we treat you right!*** If you heard any of these in your head, you are in the right place. Welcome!"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retrofastfood"

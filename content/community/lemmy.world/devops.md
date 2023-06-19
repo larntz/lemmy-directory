@@ -3,7 +3,7 @@ title: "devops"
 name: "devops"
 description: "devops"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/devops"

@@ -3,7 +3,7 @@ title: "Milton Keynes"
 name: "milton_keynes"
 description: "Community for the City of Milton Keynes"
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/milton_keynes"
@@ -15,7 +15,7 @@ posts: 3
 comments: 16
 weight: 3
 dau: 1
-wau: 7
+wau: 6
 mau: 7
 instances:
 - "feddit_uk"

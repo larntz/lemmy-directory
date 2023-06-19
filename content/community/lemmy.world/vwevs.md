@@ -3,7 +3,7 @@ title: "VW EVs - for ELECTRIC-ONLY VWs"
 name: "vwevs"
 description: "Created as a space for VW EV enthusiasts to come together. Welcome to all fellow ex-redditors and anyone new to the VW MEB (and older) experience! **Rules*** The general [Lemmy Rules](https://mastodon.world/about) apply here. * No brand warfare* No memes or low-effort posts.  When we're more popular and people understand EVs, maybe. * Be excellent to each other"
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vwevs"

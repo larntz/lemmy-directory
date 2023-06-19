@@ -3,7 +3,7 @@ title: "Lemmy Administration"
 name: "lemmy_admin"
 description: "Anything about running your own Lemmy instance. Including how to install it, maintain and customise it.Be sure to check out the docs: https://join-lemmy.org/docs/en/administration/administration.htmlIf you have any problems, describe them here and we will try to help you fixing them."
 type: community
-date: "2023-06-19 11:36:52"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_admin"

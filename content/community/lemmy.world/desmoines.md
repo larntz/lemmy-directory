@@ -3,7 +3,7 @@ title: "Des Moines Iowa"
 name: "desmoines"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/desmoines"

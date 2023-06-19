@@ -3,14 +3,14 @@ title: "iPhone"
 name: "iphone_community"
 description: "The home for all things iPhone on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iphone_community"
 host: lemmy.world
 lastmod: "2023-06-16 01:26:56"
 published: "2023-06-16 01:26:36"
-subscribers: 37
+subscribers: 38
 posts: 3
 comments: 3
 weight: 3

@@ -3,7 +3,7 @@ title: "lmorchard's links"
 name: "lmorchard"
 description: "lmorchard shares links. maybe they're good ones? who knows?"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://links.decafbad.com/c/lmorchard"

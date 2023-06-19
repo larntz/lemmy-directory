@@ -3,7 +3,7 @@ title: "Happy"
 name: "happy"
 description: "Diese Community soll ein kleines soziales Experiment werden. Sie ist als Ablenkung zu all den negativen Nachrichten gedacht und sollte deshalb nur Beiträge beinhalten, die euch und andere glücklich machen."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/happy"

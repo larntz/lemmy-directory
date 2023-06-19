@@ -3,7 +3,7 @@ title: "pkm "
 name: "pkm"
 description: "Methoden und Tools des Personal Knowledge Managements haben sich in den letzten Jahren gewandelt. Hier sind Hinweise dazu gefragt."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pkm"

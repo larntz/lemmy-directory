@@ -3,7 +3,7 @@ title: "Houston Rockets"
 name: "rockets"
 description: "A community for Rockets fans and discussion about the team/players."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockets"

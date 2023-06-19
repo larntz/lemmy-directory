@@ -3,7 +3,7 @@ title: "Artificial Intelligence -  Promotions and Projects"
 name: "promo"
 description: "Advertise your community or project, not a shill dumping ground, tell us about YOUR project or community in the fediverse. "
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/promo"

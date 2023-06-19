@@ -3,7 +3,7 @@ title: "Matrix Friends!"
 name: "matrix_friends"
 description: "A place to make new friends to chat with on Matrix! Join us at #matrixfriends:matrix.orgDirect link: https://matrix.to/#/!FgIPRrlQJzJaalVquL:matrix.org?via=matrix.org&via=feneas.org&via=apetre.sc"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/matrix_friends"

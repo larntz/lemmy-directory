@@ -3,14 +3,14 @@ title: "Machine Learning"
 name: "machinelearning"
 description: "A Machine Learning community. "
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/machinelearning"
 host: lemmy.world
 lastmod: "2023-06-18 22:11:05"
 published: "2023-06-15 03:40:05"
-subscribers: 44
+subscribers: 47
 posts: 3
 comments: 1
 weight: 3

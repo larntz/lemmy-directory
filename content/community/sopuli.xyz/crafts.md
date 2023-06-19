@@ -3,7 +3,7 @@ title: "Crafts & Trades"
 name: "crafts"
 description: "For people with actual jobs"
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/crafts"

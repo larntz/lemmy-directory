@@ -3,14 +3,14 @@ title: "Lego"
 name: "lego"
 description: "All things Lego."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lego"
 host: lemmy.ml
 lastmod: "2022-06-01 16:03:21"
 published: "2022-06-01 15:55:22"
-subscribers: 302
+subscribers: 304
 posts: 13
 comments: 25
 weight: 13

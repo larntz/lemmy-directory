@@ -3,7 +3,7 @@ title: "Mazda MX-5"
 name: "mx5"
 description: "Deutschsprachige MX-5 Community [Discord](https://discord.gg/DEKjGpZ)"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mx5"

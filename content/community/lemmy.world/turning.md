@@ -3,7 +3,7 @@ title: "Wood Turning"
 name: "turning"
 description: "We take square stuff and make it round!The corner for all things woodturning. If you have questions, projects, updates, gripes, or any other spiny wood related thing. Here is the place to post it.We love to see your projects (Both successes and failures)"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/turning"

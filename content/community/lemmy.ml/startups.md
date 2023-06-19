@@ -3,7 +3,7 @@ title: "startups"
 name: "startups"
 description: "all things related to startups & entrepreneurship."
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/startups"

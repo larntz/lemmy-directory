@@ -3,7 +3,7 @@ title: "concertsPH"
 name: "concertsph"
 description: "# Welcome! 👋Welcome to concertsPH. Created this community to be updated on the concert scene here in the Philippines. ### Quick links- [Upcoming Shows](https://lemmy.world/post/157531)- [Ticketing Dates](https://lemmy.world/post/157823)### Other PH Communities- [!philippines@lemmy.world](https://lemmy.world/c/philippines) - [!thevisoria@lemmy.world](https://lemmy.world/c/thevisoria) "
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/concertsph"

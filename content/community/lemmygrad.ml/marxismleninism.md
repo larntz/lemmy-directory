@@ -3,7 +3,7 @@ title: "Marxism-Leninism"
 name: "marxismleninism"
 description: "Community for discussion of articles, topics, or anything related to the historical/dialectical materialism method, and the works of the synthesizers of theory and practice – Marx, Engels and Lenin!"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/marxismleninism"

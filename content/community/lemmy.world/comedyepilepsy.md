@@ -3,14 +3,14 @@ title: "Comedy Epilepsy"
 name: "comedyepilepsy"
 description: "videos so fucked to the point you get epilepsy. For videos (also referred to as 21st century memes, just shitposts basically)"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/comedyepilepsy"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 23:35:05"
-subscribers: 3
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

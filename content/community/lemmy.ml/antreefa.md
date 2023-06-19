@@ -3,7 +3,7 @@ title: "AnTreeFa"
 name: "antreefa"
 description: "Planting trees when no one asked. Especially when no one asked. The goal here is to promote the planting of trees, especially at a time such as now, where people in power are destroying our Earth. They may or may not be an actual connection with the Antifa mouvement. "
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antreefa"

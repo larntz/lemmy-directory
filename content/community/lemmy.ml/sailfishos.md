@@ -3,7 +3,7 @@ title: "Sailfish OS (Jolla)"
 name: "sailfishos"
 description: "A premium mobile Linux operating system from Jolla. Sailfish OS is a continuation of legendary MeeGo (of Nokia fame). Sailfish OS is an alternative for mainstream offerings for a stable and secure daily driver in smartphones. Many Sony Xperia devices +much more supported now!SailfishOS or SOS for short.* The official site https://jolla.com/sailfishX/* Telegram https://t.me/sailfishosnews"
 type: community
-date: "2023-06-19 11:37:00"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sailfishos"

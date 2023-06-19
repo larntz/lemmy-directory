@@ -3,7 +3,7 @@ title: "Wholesome"
 name: "wholesome"
 description: "Embrace the Power of Wholesome: Nurturing Hearts, Inspiring Smiles, and Spreading Joy"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wholesome"

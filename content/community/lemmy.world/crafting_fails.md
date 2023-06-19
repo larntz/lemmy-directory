@@ -3,7 +3,7 @@ title: "Crafting Fails"
 name: "crafting_fails"
 description: "A place to share your crafting fails. Did you drop your stained glass? Cat unravel your crochet? Kiln overfired your precious mugs? Let us see them so we can indulge in some schadenfreude!"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crafting_fails"

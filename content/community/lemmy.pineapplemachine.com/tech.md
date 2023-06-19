@@ -3,7 +3,7 @@ title: "tech"
 name: "tech"
 description: "A place for general news and discussions about technology and tech companies.When sharing news articles or other media, please provide a descriptive, non-clickbait title."
 type: community
-date: "2023-06-19 11:34:57"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/tech"

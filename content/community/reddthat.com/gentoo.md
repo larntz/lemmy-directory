@@ -3,14 +3,14 @@ title: "Gentoo Linux"
 name: "gentoo"
 description: "The Gentoo Linux community for discussions, tips and tricks, and general kernel compiling"
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:54"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/gentoo"
 host: reddthat.com
 lastmod: "2023-06-15 21:41:56"
 published: "2023-06-15 09:51:25"
-subscribers: 3
+subscribers: 4
 posts: 10
 comments: 0
 weight: 10

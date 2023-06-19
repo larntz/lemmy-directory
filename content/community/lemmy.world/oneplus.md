@@ -3,7 +3,7 @@ title: "OnePlus Community"
 name: "oneplus"
 description: "Welcome to /c/OnePlus!This is a place for the Lemmy Community to discuss about OnePlus smartphones, tablets, earbuds, TVs and more./c/OnePlus is a fan community and is not associated or affiliated with BBK Electronics or its subsidiaries."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oneplus"

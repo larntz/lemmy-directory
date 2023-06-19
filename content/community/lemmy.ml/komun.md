@@ -3,7 +3,7 @@ title: "Noticias para el [K]omun"
 name: "komun"
 description: "Komunidad centrada en la búsqueda de soberanías: - #Soberania_alimentaria - #Soberania_tecnologica - #Soberania_economica"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/komun"

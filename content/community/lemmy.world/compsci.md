@@ -3,7 +3,7 @@ title: "Computer Science"
 name: "compsci"
 description: "A forum dedicated to discussion of computer science and programming. We welcome posts about software engineering, quant, academia, majoring in CS, and even shitposting."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/compsci"

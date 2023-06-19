@@ -3,7 +3,7 @@ title: "Ai Dreamscape"
 name: "aiart"
 description: "Welcome to our online community for AI-generated art! Join artists and enthusiasts in sharing and exploring captivating creations born from the fusion of human imagination and AI algorithms. Showcase your artwork, engage in discussions, and discover the limitless possibilities at the intersection of art and artificial intelligence."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aiart"

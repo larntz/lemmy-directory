@@ -3,14 +3,14 @@ title: "The Netherlands"
 name: "thenetherlands"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:11"
 draft: false
 nsfw: false
 actor_id: "https://nlemmy.nl/c/thenetherlands"
 host: nlemmy.nl
 lastmod: "2023-06-13 17:51:24"
 published: "2023-06-13 15:00:22"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

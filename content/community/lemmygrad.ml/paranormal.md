@@ -3,7 +3,7 @@ title: "Paranormal"
 name: "paranormal"
 description: "An experimental community to discuss the paranormal from a Marxist perspective."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/paranormal"

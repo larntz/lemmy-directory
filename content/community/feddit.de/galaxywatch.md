@@ -3,7 +3,7 @@ title: "GalaxyWatch"
 name: "galaxywatch"
 description: "A place to discuss Samsung Galaxy Watches (all models).**RULES****1 Don’t be a bully, creep, jerk or troll**This means no personal attacks, no misogyny, no misandry, ageism, racism, or otherwise hateful or disrespectful commentary.**2 No selling products or services**You can recommend products/methods that work for you, though."
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/galaxywatch"
@@ -11,9 +11,9 @@ host: feddit.de
 lastmod: "2023-06-18 18:04:20"
 published: "2023-06-17 17:43:50"
 subscribers: 10
-posts: 3
+posts: 5
 comments: 3
-weight: 3
+weight: 5
 dau: 1
 wau: 2
 mau: 2

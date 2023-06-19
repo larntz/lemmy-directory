@@ -3,7 +3,7 @@ title: "Retropolis "
 name: "retropolis"
 description: "A place for all things retro-futuristic."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retropolis"

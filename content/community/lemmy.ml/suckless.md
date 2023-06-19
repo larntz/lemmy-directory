@@ -3,7 +3,7 @@ title: "Keep it Simple, Silly"
 name: "suckless"
 description: "A community devoted to simplicity and minimalism in software design.We believe that layers of abstraction and complex mechanisms do more harm than good, and fewer lines of code means improved product quality."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/suckless"

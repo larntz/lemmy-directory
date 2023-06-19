@@ -3,7 +3,7 @@ title: "Lemmy"
 name: "lemmy"
 description: "A general discussion community to ask questions or just general discussions "
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/lemmy"

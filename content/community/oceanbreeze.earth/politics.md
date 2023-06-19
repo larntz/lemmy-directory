@@ -1,14 +1,14 @@
 ---
-title: "politics" 
+title: "politics@oceanbreeze.earth" 
 name: "politics"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/politics"
 host: oceanbreeze.earth
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:05:54"
 published: "2023-06-09 23:03:08"
 subscribers: 3
 posts: 2

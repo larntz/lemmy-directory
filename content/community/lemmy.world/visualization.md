@@ -3,7 +3,7 @@ title: "Visualization"
 name: "visualization"
 description: "For topics related to visualization of data (infographics). That includes: graphs, charts, maps, etc."
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/visualization"

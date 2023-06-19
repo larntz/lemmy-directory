@@ -3,7 +3,7 @@ title: "Lemmy.eus laguntza"
 name: "lemmyeus_laguntza"
 description: "Hemen **Lemmy.eus** webgunearekin (edo Lemmy softwarearekin) zerikusia duten galderak eta proposamenak egin ditzakezu. Baita non galdetu ez dakizkizunak ere.Zure zalantza argitaratu aurrekin, eskertuko genizuke [ohiko galderei](https://kaixo.lemmy.eus/edukiak/ohiko-galderak/) begirada bat botatzea eta komunitate honetan dagoeneko hitz egin direnei. Eskerrik asko eta ongi etorri! :slightly smiling face: "
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/lemmyeus_laguntza"

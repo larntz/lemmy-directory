@@ -3,7 +3,7 @@ title: "Fifthdread Services Lemmy Instance"
 name: "5dserviceslemmy"
 description: "Welcome to 5D Services Lemmy"
 type: community
-date: "2023-06-19 11:35:23"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.server.fifthdread.com/c/5dserviceslemmy"

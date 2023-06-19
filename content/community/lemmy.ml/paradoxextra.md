@@ -3,14 +3,14 @@ title: "Unofficial Paradox community on lemmy.ml"
 name: "paradoxextra"
 description: "A space to talk, discuss and shitpost about all Paradox games and Paradox in general"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paradoxextra"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-14 05:10:44"
-subscribers: 93
+subscribers: 98
 posts: 7
 comments: 9
 weight: 7

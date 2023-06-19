@@ -3,7 +3,7 @@ title: "Persian Classical and Other Modal Music"
 name: "radif"
 description: "This is dedicated to persian classical music (radif), but the odd non-persian or non-classical tune is fine too, as long as it's modal music.  Relax, have fun, enjoy."
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radif"

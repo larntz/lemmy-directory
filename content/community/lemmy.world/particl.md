@@ -3,12 +3,12 @@ title: "Particl"
 name: "particl"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/particl"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 13:06:50"
 published: "2023-06-09 11:13:24"
 subscribers: 1
 posts: 0

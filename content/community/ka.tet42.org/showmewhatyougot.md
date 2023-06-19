@@ -1,14 +1,14 @@
 ---
 title: "Show Me What You Got" 
 name: "showmewhatyougot"
-description: "SHOW ME WHAT YOU GOT!I WANT TO SEE WHAT YOU GOT!This is a place to post whatever you got. Do you have a nice record collection?SHOW ME WHAT YOU GOT!Do you have a special talent?SHOW ME WHAT YOU GOT!Is there something strange in your neighborhood?SHOW ME WHAT YOU GOT!There's no theme, no rhyme or reason, it can be anything.Upvoting/downvoting is encouraged, we only want the best of what you got to be among the top posts!No porn please. "
+description: "This is a place to post whatever you got. Do you have a nice record collection?Do you have a special talent?Is there something strange in your neighborhood?SHOW ME WHAT YOU GOT!I WANT TO SEE WHAT YOU GOT!There's no theme, no rhyme or reason, it can be anything.Upvoting/downvoting is encouraged, we only want the best of what you got to be among the top posts!No porn please. "
 type: community
-date: "2023-06-19 11:35:17"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/showmewhatyougot"
 host: ka.tet42.org
-lastmod: "2023-06-18 03:46:03"
+lastmod: "2023-06-19 16:41:47"
 published: "2023-06-17 19:23:03"
 subscribers: 11
 posts: 1

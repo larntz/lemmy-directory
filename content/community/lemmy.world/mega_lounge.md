@@ -3,7 +3,7 @@ title: "mega_lounge"
 name: "mega_lounge"
 description: "This community is for finding mega lounge migrants. For now we are public. Tell us who you are and how you are doing with the reddit blackout."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mega_lounge"

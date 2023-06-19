@@ -3,14 +3,14 @@ title: "Schnauzers"
 name: "schnauzers"
 description: "Everyone loves a schnauzer!"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/schnauzers"
 host: lemmy.world
 lastmod: "2023-06-12 17:53:58"
 published: "2023-06-12 17:38:40"
-subscribers: 17
+subscribers: 18
 posts: 4
 comments: 3
 weight: 4

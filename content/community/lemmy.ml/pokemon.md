@@ -1,19 +1,19 @@
 ---
 title: "Pokémon" 
 name: "pokemon"
-description: "Unofficial fan made community of Pokémon!"
+description: "The Lemmy community for all things Pokémon!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games, anime episodes, etc."
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pokemon"
 host: lemmy.ml
-lastmod: "2021-11-15 18:06:27"
+lastmod: "2023-06-19 13:28:46"
 published: "2020-06-04 14:07:43"
-subscribers: 891
-posts: 100
+subscribers: 901
+posts: 101
 comments: 148
-weight: 100
+weight: 101
 dau: 6
 wau: 38
 mau: 77

@@ -3,7 +3,7 @@ title: "catloaf"
 name: "catloaf"
 description: "Share pictures of your Catloaf (cats sitting down in a loaf-like position) and engage in riveting discussion about loaves of cats!Sister-community of /c/floaf and /c/floof"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catloaf"

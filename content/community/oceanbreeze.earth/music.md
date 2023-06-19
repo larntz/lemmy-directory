@@ -1,14 +1,14 @@
 ---
-title: "music" 
+title: "music@oceanbreeze.earth" 
 name: "music"
 description: "For discussion about music."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/music"
 host: oceanbreeze.earth
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:58:29"
 published: "2023-06-09 21:13:36"
 subscribers: 3
 posts: 12

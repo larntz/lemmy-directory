@@ -3,7 +3,7 @@ title: "Linux, Open Source and Tech News"
 name: "news"
 description: "This is where all the News about all the things Linux and Linux adjacent goes."
 type: community
-date: "2023-06-19 11:35:22"
+date: "2023-06-19 17:59:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.linuxuserspace.show/c/news"

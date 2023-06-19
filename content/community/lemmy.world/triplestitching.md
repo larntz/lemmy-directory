@@ -3,7 +3,7 @@ title: "Triple Stitching"
 name: "triplestitching"
 description: "A community dedicated to durable clothing at all price points"
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/triplestitching"

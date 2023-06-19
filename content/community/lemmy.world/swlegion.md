@@ -3,7 +3,7 @@ title: "Star Wars Legion"
 name: "swlegion"
 description: "Star Wars Legion is a two player infantry-based war game published by Fantasy Flight Games. (Production of the game has been moved to Atomic Mass Games)This community is for discussion of the Star Wars Legion miniatures game.Rules:1. Be Nice; No Discrimination, Harassment, or Malicious Content. This is a welcoming community. I don't care who you are, you are welcome here.2. Keep Discussions Civil. There's a place for trash talk, that place is not here. 3. Promotion Requires Participation. This community's purpose it to promote engagement, not to be a billboard. 4. Post Must be On-Topic. We're here to talk about Star Wars Legion. If you want to discuss something else, I'm sure there's a community out there for you."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swlegion"

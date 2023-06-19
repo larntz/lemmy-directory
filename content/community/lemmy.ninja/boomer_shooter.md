@@ -3,7 +3,7 @@ title: "boomer_shooter"
 name: "boomer_shooter"
 description: "A home for all the awesome boomer-shooters and retroFPS games that exist in the unknown Fediverse!RulesNo bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. Be respectful, especially when disagreeing. Everyone should feel welcome here.No porn.No Ads / Spamming."
 type: community
-date: "2023-06-19 11:35:22"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/boomer_shooter"

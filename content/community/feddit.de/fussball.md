@@ -3,14 +3,14 @@ title: "Fußball"
 name: "fussball"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fussball"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2022-09-01 17:59:50"
-subscribers: 26
+subscribers: 27
 posts: 7
 comments: 5
 weight: 7

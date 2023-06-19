@@ -3,7 +3,7 @@ title: "Fermentation of vegetables, grain, and whatever takes your fancy"
 name: "fermentation"
 description: "Resources:* For those new to beer: http://howtobrew.com/ * For those new to veggies: <reference needed> * For those new to hooching: https://dev.lemmy.ml/post/37269Rules:* Please post original content, if you wish to link out to another site do so in your discussion of how that method worked for you or as a resource for your own fermenting.* Posts must discuss fermentation of edible material."
 type: community
-date: "2023-06-19 11:37:00"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fermentation"

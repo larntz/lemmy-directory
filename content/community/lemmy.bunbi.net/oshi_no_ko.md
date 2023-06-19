@@ -3,7 +3,7 @@ title: "Oshi no Ko"
 name: "oshi_no_ko"
 description: "A community to discuss the Oshi no Ko manga and anime."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bunbi.net/c/oshi_no_ko"

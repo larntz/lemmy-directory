@@ -3,7 +3,7 @@ title: "Learn Finnish"
 name: "learnfinnish"
 description: "learning Finnish? Well you’re in the right place. Feel free to ask questions here. "
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnfinnish"

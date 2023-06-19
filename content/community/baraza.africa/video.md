@@ -3,7 +3,7 @@ title: "Video"
 name: "video"
 description: "This is a space to share video links. Funny clips, news, and all that shebang. "
 type: community
-date: "2023-06-19 11:35:27"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/video"

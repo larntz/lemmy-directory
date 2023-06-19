@@ -3,7 +3,7 @@ title: "Yrittäjät"
 name: "yrittajat"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/yrittajat"

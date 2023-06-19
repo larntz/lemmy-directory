@@ -3,7 +3,7 @@ title: "Veggie"
 name: "veggie"
 description: "Die Community für vegetarische / vegane Themen::: spoiler Attribution[Veggies icon created by kerismaker - Flaticon](https://www.flaticon.com/free-icons/veggies):::"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:29"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/veggie"

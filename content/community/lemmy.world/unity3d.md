@@ -3,7 +3,7 @@ title: "Unity3D"
 name: "unity3d"
 description: "News, Help, Resources, and Conversation. A User Showcase of the Unity Game Engine."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unity3d"

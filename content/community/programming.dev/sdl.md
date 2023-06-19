@@ -1,22 +1,22 @@
 ---
-title: "Simple DirectMedia Layer" 
+title: "Simple Direct Media Layer" 
 name: "sdl"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:52"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/sdl"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:03:31"
 published: "2023-06-19 00:54:52"
-subscribers: 1
-posts: 0
+subscribers: 3
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "programming_dev"
 tags: 

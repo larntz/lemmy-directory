@@ -3,7 +3,7 @@ title: "Blockchain Technology"
 name: "blockchain"
 description: "This is a place for blockchain and Web3.0 enthusiasts. Here, we focus on exploring the technology and its impact on the world, rather than cryptocurrency trading. Join us to discuss the transformative potential of blockchain and Web3.0!"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blockchain"

@@ -3,7 +3,7 @@ title: "Memes"
 name: "memes"
 description: "Post memes here.* Wait at least 2 months before reposting* No political content (about political figures, political events, elections and so on), !politicalmemes@lemmy.ca can be better place for that"
 type: community
-date: "2023-06-19 11:35:17"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/memes"

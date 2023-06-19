@@ -3,7 +3,7 @@ title: "San Diego"
 name: "sandiego"
 description: "All things related to America's Finest City, San Diego California, as well as surrounding areas.Also check out:* [!california@lemmy.ml](https://lemmy.ml/c/california)* [!padres@lemmy.ml](https://lemmy.ml/c/padres)* [!escondido@lemmy.sdf.org](https://lemmy.sdf.org/c/escondido)* [!sandiego@kbin.social](https://kbin.social/m/sandiego) * [!sandiego@lemmy.world](https://lemmy.world/c/sandiego) * [!california@lemmy.world](https://lemmy.world/c/california) Rules:* Please post at least once (eg. recommendation, question, anything)* Don't be rude"
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sandiego"

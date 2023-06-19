@@ -3,7 +3,7 @@ title: "Red Dead Redemption"
 name: "reddeadredemption"
 description: "A community for Red Dead Redemption & Red Dead Redemption 2, developed by Rockstar Games.Discuss and share all things Red Dead, whether it's lore, help, guides or modding.Rules:1) No Bigotry2) Be Civil3) All posts must be related to RDR"
 type: community
-date: "2023-06-19 11:36:49"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reddeadredemption"

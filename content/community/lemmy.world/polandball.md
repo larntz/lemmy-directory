@@ -3,7 +3,7 @@ title: "Polandball"
 name: "polandball"
 description: "Wiggly mouse-drawn comics where balls represent different countries. They poke fun at national stereotypes and the international drama of their diplomatic relations. Polandball combines history, geography, Engrish, and an inferiority complex. God knows how the hell we’re supposed to do a wiki without using another website here…."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/polandball"

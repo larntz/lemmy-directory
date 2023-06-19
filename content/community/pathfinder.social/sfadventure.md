@@ -1,14 +1,14 @@
 ---
-title: "Starfinder Official Adventures" 
+title: "Starfinder Adventures" 
 name: "sfadventure"
-description: "Description not available."
+description: "A place to discuss official, 3rd party, and homebrew adventures for Starfinder."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/sfadventure"
 host: pathfinder.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:52:02"
 published: "2023-06-04 17:05:29"
 subscribers: 8
 posts: 0

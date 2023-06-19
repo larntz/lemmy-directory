@@ -3,7 +3,7 @@ title: "Life Is For Hacking"
 name: "lifeisforhacking"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifeisforhacking"

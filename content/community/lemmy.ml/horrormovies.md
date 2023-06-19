@@ -3,7 +3,7 @@ title: "Horror Movies"
 name: "horrormovies"
 description: "A place for horror fans to discuss and share news about current, classic, and upcoming horror movies! (TV shows and any other sort of audio-visual horror media are acceptable as well!)SERIOUS PART: Debate and personal opinions are allowed. Bigotry, trolling, and discrimination toward others are not. m/"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/horrormovies"

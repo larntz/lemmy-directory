@@ -3,7 +3,7 @@ title: "Paramore"
 name: "paramore"
 description: "Gathering of fans to discuss and share a common interest in the band Paramore, f. Hayley Williams, Zac Farro, Taylor York. The only guideline currently is to be a good person. We Are Paramore is a concept that we should foster inclusive spaces for people to come together and bond over something that brings meaning to their lives."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paramore"

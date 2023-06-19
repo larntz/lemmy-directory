@@ -3,7 +3,7 @@ title: "Netsec"
 name: "netsec"
 description: "netsec is a community-curated aggregator of technical information security content. Our mission is to extract signal from the noise — to provide value to security practitioners, students, researchers, and hackers everywhere. \u200e#### Rules1. Don't do unto others what you don't want done unto you.2. No Porn, Gore, or NSFW content. **Instant Ban.**3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**4. Stay on topic in a community. Please reach out to an admin to create a new community."
 type: community
-date: "2023-06-19 11:35:10"
+date: "2023-06-19 17:59:01"
 draft: false
 nsfw: false
 actor_id: "https://links.hackliberty.org/c/netsec"

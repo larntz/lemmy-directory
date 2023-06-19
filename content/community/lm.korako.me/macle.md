@@ -3,7 +3,7 @@ title: "まくるの競技プログラミングメモ"
 name: "macle"
 description: "※注意    自分（雑魚）のメモなので解説は恐ろしく雑です。ご了承ください"
 type: community
-date: "2023-06-19 11:34:44"
+date: "2023-06-19 17:58:32"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/macle"

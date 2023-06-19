@@ -3,7 +3,7 @@ title: "Light Novel"
 name: "lightnovel"
 description: "A light novel (ライトノベル, raito noberu) is a style of Japanese young adult novel primarily targeting high school and middle school students. The term light novel is a wasei-eigo, or a Japanese term formed from words in the English language. Light novels are often called ranobe (ラノベ) or, in English, LN. (From Wikipedia.)"
 type: community
-date: "2023-06-19 11:36:53"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lightnovel"

@@ -3,7 +3,7 @@ title: "Nvidia"
 name: "nvidia"
 description: "Discussion for AI generation with Nvidia cards"
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/nvidia"

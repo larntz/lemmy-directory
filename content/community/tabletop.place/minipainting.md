@@ -3,7 +3,7 @@ title: "Tabletop Painting"
 name: "minipainting"
 description: "A community dedicated to painting tabletop miniatures, terrain, and so on. All skill levels welcome!"
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/minipainting"

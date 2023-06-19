@@ -3,7 +3,7 @@ title: "Travel Tips"
 name: "traveltips"
 description: "It's The Journey.Let's have :-cheap travel-destination recommendations-local knowledgeFocus on Europe, I think.ok ?"
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/traveltips"

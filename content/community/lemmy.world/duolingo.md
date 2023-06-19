@@ -3,7 +3,7 @@ title: "Duolingo"
 name: "duolingo"
 description: "All things Duolingo related! "
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duolingo"
@@ -15,7 +15,7 @@ posts: 9
 comments: 9
 weight: 9
 dau: 1
-wau: 9
+wau: 8
 mau: 10
 instances:
 - "lemmy_world"

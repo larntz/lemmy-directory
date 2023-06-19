@@ -3,7 +3,7 @@ title: "3D Printing"
 name: "3dprinting"
 description: "3D Printing makes and discussion!Search on your instance to join:!3dprinting@lemmy.redkrieg.com"
 type: community
-date: "2023-06-19 11:34:54"
+date: "2023-06-19 17:58:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.redkrieg.com/c/3dprinting"

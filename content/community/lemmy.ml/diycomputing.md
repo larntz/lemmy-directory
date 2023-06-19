@@ -3,7 +3,7 @@ title: "DIY Computing"
 name: "diycomputing"
 description: "This community has to do with everything that relates to DIY Computing. This being Laptops, PCs, Macs, NAS, Servers and others...**This sidebar will be updated soon with rules and others.**"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diycomputing"

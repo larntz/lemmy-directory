@@ -3,7 +3,7 @@ title: "realme Community"
 name: "realme"
 description: "Welcome to /c/realme!This is a place for the Lemmy Community to discuss about realme smartphones, smartwatches, TVs, IoT products and more./c/realme is a fan community and is **not** associated or affiliated with BBK Electronics or its subsidiaries."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realme"

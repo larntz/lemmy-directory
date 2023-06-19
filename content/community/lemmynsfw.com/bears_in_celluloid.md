@@ -3,7 +3,7 @@ title: "Bears in Celluloid"
 name: "bears_in_celluloid"
 description: "The history of big men in cinema"
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bears_in_celluloid"

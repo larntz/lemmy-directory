@@ -3,7 +3,7 @@ title: "Atlus"
 name: "atlus"
 description: "For discussion, memes, etc. of the game company Atlus and their games, such as SMT, Persona, Catherine, and if you want Trauma Center lol"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/atlus"
@@ -14,9 +14,9 @@ subscribers: 14
 posts: 5
 comments: 13
 weight: 5
-dau: 4
-wau: 4
-mau: 4
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmygrad_ml"
 tags: 

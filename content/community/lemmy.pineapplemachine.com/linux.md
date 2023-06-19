@@ -3,7 +3,7 @@ title: "linux"
 name: "linux"
 description: "A place to discuss Linux and Linux distributions.Learn more at [www.linux.org](https://www.linux.org/)"
 type: community
-date: "2023-06-19 11:34:57"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/linux"

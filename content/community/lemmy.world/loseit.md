@@ -3,7 +3,7 @@ title: "loseit"
 name: "loseit"
 description: "A place for people of all sizes to discuss healthy and sustainable methods of weight loss. Whether you need to lose 2 lbs or 400 lbs, you are welcome here!1. Tell mods if you see something dangerous2. Be Good to One Another3. Do Not Feed the Trolls4. Mark Posts NSFW When Appropriate5. No Harassment / Don't Be a Creep6. No Politics / Stay On Topic7. No Promotion of Diet Cash Pools/Requests for Money8. No Self Promotion9. No Surveys10. SV/NSV, Progress, Milestone Posts Need Details11. No Promoting or Encouraging Unhealthy Weight Loss Methods12. No Accountability Partner Posts"
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/loseit"

@@ -3,14 +3,14 @@ title: "askswitzerland"
 name: "askswitzerland"
 description: "Question about Switzerland? Get your answer here!"
 type: community
-date: "2023-06-19 11:35:18"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/askswitzerland"
 host: feddit.ch
 lastmod: "2023-06-14 16:04:15"
 published: "2023-06-11 18:52:51"
-subscribers: 58
+subscribers: 61
 posts: 7
 comments: 33
 weight: 7

@@ -3,7 +3,7 @@ title: "New Orleans"
 name: "nola"
 description: "Here for residents of New Orleans. Especially any refugee's from Reddit. "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nola"

@@ -3,7 +3,7 @@ title: "Vinyl"
 name: "vinyl"
 description: "Vinyl is all about Vinyl Records. Share what you bought or what you're playing. "
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vinyl"

@@ -3,7 +3,7 @@ title: "Russian Blue Cats"
 name: "russianblue"
 description: "A community for Russian blue parents, friends and enthusiasts to share photos, stories and advice about this wonderful breed😊"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/russianblue"

@@ -3,7 +3,7 @@ title: "The hilciferous blog"
 name: "blog"
 description: "Hi! This community serves as a blog for random stuff I think I may want to write."
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:49"
 draft: false
 nsfw: false
 actor_id: "https://popplesburger.hilciferous.nl/c/blog"

@@ -3,7 +3,7 @@ title: "Access Now"
 name: "accessnow"
 description: "[Official website](https://www.accessnow.org/)Access Now defends and extends the digital rights of users at risk around the world"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/accessnow"

@@ -3,7 +3,7 @@ title: "Randonneurs"
 name: "randonneurs"
 description: "Everything about unsupported long distance bicycle riding. Be it brevets, fleches or something else, approved by ACP (Audax Club Parisien) and/or some local association. Type 2 fun and such."
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/randonneurs"

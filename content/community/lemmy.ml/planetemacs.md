@@ -3,7 +3,7 @@ title: "Planet Emacs: Emacs News, Packages, Articles, Videos & more"
 name: "planetemacs"
 description: "**Emacs News, Packages, Articles, Videos, Events & more** This is a sister community of 1. [/c/emacs](https://lemmy.ml/c/emacs)2. [/c/orgmode](https://lemmy.ml/c/orgmode)3. [/c/spacemacs](https://lemmy.ml/c/spacemacs) 4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)"
 type: community
-date: "2023-06-19 11:37:01"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/planetemacs"

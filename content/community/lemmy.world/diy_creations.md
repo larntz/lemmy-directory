@@ -3,7 +3,7 @@ title: "DIY Creations"
 name: "diy_creations"
 description: "Just a place to post things you have made yourself.  Doesn't have to be great but some pictures of what we have created can help inspire others to do the same."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/diy_creations"

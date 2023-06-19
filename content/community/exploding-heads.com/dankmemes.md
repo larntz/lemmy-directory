@@ -3,7 +3,7 @@ title: "Dank memes"
 name: "dankmemes"
 description: "Bruh"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/dankmemes"
@@ -14,7 +14,7 @@ subscribers: 67
 posts: 57
 comments: 46
 weight: 57
-dau: 4
+dau: 2
 wau: 12
 mau: 13
 instances:

@@ -3,7 +3,7 @@ title: "Sascamooch Lemmy Support"
 name: "lemmysupport"
 description: "Support community specifically about Sascamooch's Lemmy instance (or Lemmy in general). Instance-wide rules still apply."
 type: community
-date: "2023-06-19 11:35:19"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sascamooch.com/c/lemmysupport"

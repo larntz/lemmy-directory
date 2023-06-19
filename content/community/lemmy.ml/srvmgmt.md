@@ -3,14 +3,14 @@ title: "Server management"
 name: "srvmgmt"
 description: "Initially created for growing a community among administration and management of your own server.Inspired by  - [reddit/selfhosted](https://old.reddit.com/r/selfhosted)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/srvmgmt"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-10-24 17:38:41"
-subscribers: 31
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

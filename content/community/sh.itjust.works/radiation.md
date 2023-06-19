@@ -3,7 +3,7 @@ title: "Radiation"
 name: "radiation"
 description: "A community for ionizing radiation enthusiasts! Post here about collecting, equipment, science, and anything else related to ionizing radiation!Also check out these related communities:[!radioactive_rocks@sh.itjust.works](https://sh.itjust.works/c/radioactive_rocks) [!uraniumglass@lemmy.villa-straylight.social](https://lemmy.villa-straylight.social/c/uraniumglass)Join the discord server:https://www.discord.gg/dNHMmnW7Ny"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/radiation"

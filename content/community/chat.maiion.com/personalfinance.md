@@ -3,7 +3,7 @@ title: "c/PersonalFinance"
 name: "personalfinance"
 description: "Is there a proper way to handle money? This is the place where you can share ideas on how to budget, save money, invest, and make financial plans and decisions for the future.********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-19 11:35:26"
+date: "2023-06-19 17:59:16"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/personalfinance"

@@ -3,7 +3,7 @@ title: "Niepokój"
 name: "niepokoj"
 description: "Dla wszystkich, którzy potrzebują się podzielić horrorami w swoich głowach - tym, co nie pozwala spać, tłumi optymizm, motywuje do buntu, straszy, złości i smuci."
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/niepokoj"

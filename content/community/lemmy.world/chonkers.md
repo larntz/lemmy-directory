@@ -3,7 +3,7 @@ title: "Chonkers"
 name: "chonkers"
 description: "Chonky cats (and other animals)This is a community for posting pictures or memes involving chubby cats (also known as chonkers). Please keep in mind we do not condone pet obesity, and instead would like to help people who do have obese cats get them on a diet and help them lose weight and become healthier. "
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chonkers"

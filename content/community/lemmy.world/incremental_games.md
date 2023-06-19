@@ -3,7 +3,7 @@ title: "Incremental Games"
 name: "incremental_games"
 description: "This community is for lovers of games that feature an incremental mechanism, such as unlocking progressively more powerful upgrades, or discovering new ways to play the game. This genre is growing at a break-neck pace, be part of the revolution!"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/incremental_games"

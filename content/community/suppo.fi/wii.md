@@ -3,7 +3,7 @@ title: "Wii"
 name: "wii"
 description: "All things Wii.Related subjects like Wii U are are allowed."
 type: community
-date: "2023-06-19 11:34:59"
+date: "2023-06-19 17:58:49"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/wii"

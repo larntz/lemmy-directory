@@ -3,7 +3,7 @@ title: "Web Development"
 name: "webdev"
 description: "A community for all web design and development discussion, welcome! Be nice, no spam, yadda yadda :-)"
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/webdev"

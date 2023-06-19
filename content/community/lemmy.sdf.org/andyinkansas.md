@@ -3,7 +3,7 @@ title: "Andy in Kansas, you’re on the air"
 name: "andyinkansas"
 description: "A place to discuss the conspiracy theory peddlers, grifters, fear merchants, and scumbags of the world. This community’s name references [Knowledge Fight](https://knowledgefight.com), but this community isn’t intended to exclusively be about Alex. "
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/andyinkansas"

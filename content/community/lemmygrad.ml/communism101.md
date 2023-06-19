@@ -3,7 +3,7 @@ title: "Communism101"
 name: "communism101"
 description: "This is a community for those who are new to or unfamiliar with communist, socialist or simply leftist philosophy. Ask basic questions here and learn about what we stand for!Rules:* Keep things SFW!* Keep posts and comments civil.* Don't attack someone for not knowing enough about communism or leftism.* Civil discussion and debate is welcome, trolling and hate speech is not.* No racism, sexism, homophobia, inciting crime/violence, etc."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/communism101"

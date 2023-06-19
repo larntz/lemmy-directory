@@ -3,7 +3,7 @@ title: "Privacy"
 name: "privacy"
 description: "Community for privacy!"
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/privacy"
@@ -15,7 +15,7 @@ posts: 7
 comments: 20
 weight: 7
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "monero_house"

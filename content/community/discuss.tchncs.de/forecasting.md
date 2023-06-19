@@ -3,7 +3,7 @@ title: "forecasting"
 name: "forecasting"
 description: "Forecasting, Predictions, FutureRelated community: [!predictions@lemmy.ca](https://lemmy.ca/c/predictions)"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/forecasting"

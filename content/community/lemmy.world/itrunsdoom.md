@@ -3,7 +3,7 @@ title: "It Runs DooM"
 name: "itrunsdoom"
 description: "DooM runs on everything."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/itrunsdoom"

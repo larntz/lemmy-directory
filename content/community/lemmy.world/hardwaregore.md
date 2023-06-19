@@ -3,7 +3,7 @@ title: "Hardware Gore"
 name: "hardwaregore"
 description: "Welcome to /c/HardwareGore! This is an alternative to the subreddit /r/HardwareGore on Reddit.This is a community to post broken and gorey computer hardware, laptops, phones and other gadgets.Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hardwaregore"

@@ -3,7 +3,7 @@ title: "Technologie"
 name: "technologie"
 description: "Pro všechny nadšence do technologií"
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/technologie"

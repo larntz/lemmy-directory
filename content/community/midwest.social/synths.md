@@ -3,7 +3,7 @@ title: "Synthesizers"
 name: "synths"
 description: "A community for synth players to discuss patches, trends, gear, and anything else synth related.Make sure to check out our friends at:https://midwest.social/c/synthesizers@waveform.social"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/synths"
@@ -15,7 +15,7 @@ posts: 16
 comments: 49
 weight: 16
 dau: 2
-wau: 14
+wau: 11
 mau: 20
 instances:
 - "midwest_social"

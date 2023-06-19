@@ -3,7 +3,7 @@ title: "Stupidpol"
 name: "stupol"
 description: "A community based off of r/Stupidpol, or perhaps more accurately r/twopidpol. "
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stupol"

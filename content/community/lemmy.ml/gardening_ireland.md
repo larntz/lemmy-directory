@@ -3,7 +3,7 @@ title: "Gardening Ireland"
 name: "gardening_ireland"
 description: "For everyone in Ireland with a garden and plants at home."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gardening_ireland"

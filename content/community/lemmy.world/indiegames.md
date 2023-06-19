@@ -3,7 +3,7 @@ title: "Indie Games"
 name: "indiegames"
 description: "A place for all indie game lovers.The goal of this place is to learn about new and/or niche games, share your favorites, recommend and get recommendations, and just like the goal of games themselves: have fun."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/indiegames"

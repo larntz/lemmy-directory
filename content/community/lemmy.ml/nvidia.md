@@ -3,14 +3,14 @@ title: "Nvidia"
 name: "nvidia"
 description: "NVIDIA related news, articles, review and discussions"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nvidia"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-28 01:39:31"
-subscribers: 117
+subscribers: 123
 posts: 4
 comments: 3
 weight: 4

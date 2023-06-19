@@ -3,17 +3,17 @@ title: "Formula 1"
 name: "formula1"
 description: "# c/formula1Welcome to c/formula1.   Please keep discussions civil, respect other's opinions, and keep it friendly. Thanks! "
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/formula1"
 host: lemmy.ml
 lastmod: "2023-06-13 22:24:20"
 published: "2020-03-06 19:46:36"
-subscribers: 2542
-posts: 163
-comments: 1377
-weight: 163
+subscribers: 2571
+posts: 167
+comments: 1393
+weight: 167
 dau: 128
 wau: 317
 mau: 374

@@ -3,7 +3,7 @@ title: "Aviation"
 name: "aviation"
 description: "Anything related to aircraft, airplanes, aviation and flying. Helicopters & rotorcraft, airships, balloons, paragliders, winged suits and anything that sustains you in the air is acceptable to post here."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aviation"

@@ -3,7 +3,7 @@ title: "Utah"
 name: "utah"
 description: "Utah is a state in the Western United States. Home to about 3 million people, it has a lot to offer. This is a Community for Lemmy Users to come together and talk about Utah (respectfully of course)"
 type: community
-date: "2023-06-19 11:37:00"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/utah"

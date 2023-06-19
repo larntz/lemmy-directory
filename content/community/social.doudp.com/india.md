@@ -3,7 +3,7 @@ title: "Official India community on Lemmy"
 name: "india"
 description: "## Welcome To IndiaIndia, officially the **Republic of India (Bhārat Gaṇarājya)**It is the seventh-largest country by area, the most populous country in the world, and the most populous democracy."
 type: community
-date: "2023-06-19 11:35:24"
+date: "2023-06-19 17:59:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/india"

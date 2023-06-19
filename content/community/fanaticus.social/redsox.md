@@ -3,7 +3,7 @@ title: "Red Sox"
 name: "redsox"
 description: "Cloned from [r/RedSox](https://old.reddit.com/r/RedSox)# Looking for mods!"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/redsox"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-12 16:48:21"
 published: "2023-06-09 17:12:43"
 subscribers: 16
-posts: 5
+posts: 6
 comments: 2
-weight: 5
+weight: 6
 dau: 3
 wau: 5
 mau: 5

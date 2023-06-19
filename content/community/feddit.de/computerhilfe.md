@@ -3,14 +3,14 @@ title: "Computerhilfe"
 name: "computerhilfe"
 description: "Hilfe für Dinge am Computer."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/computerhilfe"
 host: feddit.de
 lastmod: "2021-08-30 09:10:54"
 published: "2021-08-21 08:30:08"
-subscribers: 107
+subscribers: 108
 posts: 5
 comments: 6
 weight: 5

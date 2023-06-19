@@ -3,7 +3,7 @@ title: "/dev/null"
 name: "devnull"
 description: "Dump your curio here!Any content you find interesting is welcome. "
 type: community
-date: "2023-06-19 11:35:18"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/devnull"

@@ -1,14 +1,14 @@
 ---
 title: "Hearthstone" 
 name: "hearthstone"
-description: "For fans of Blizzard Entertainment's digital card game, Hearthstone.(Managed by fans)***All are welcome!-Be civil and respectful.-Everyone should feel welcome here.-No bigotry, including racism, sexism, ableism, homophobia, transphobia or xenophobia.-No Spamming.-No Pornography."
+description: "For fans of Blizzard Entertainment's digital card game, Hearthstone.(Managed by fans)***All are welcome!-Be civil and respectful.-Everyone should feel welcome here.-No bigotry, including racism, sexism, ableism, homophobia, transphobia or xenophobia.-No Spamming.-No Pornography.Please"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hearthstone"
 host: lemmy.world
-lastmod: "2023-06-18 19:02:37"
+lastmod: "2023-06-19 15:56:15"
 published: "2023-06-17 05:06:09"
 subscribers: 4
 posts: 0

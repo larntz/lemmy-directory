@@ -3,7 +3,7 @@ title: "The Suggestions"
 name: "thesuggestions"
 description: "Suggest changes or additions to merv.news"
 type: community
-date: "2023-06-19 11:34:46"
+date: "2023-06-19 17:58:34"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thesuggestions"

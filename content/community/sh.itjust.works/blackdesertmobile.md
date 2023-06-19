@@ -3,7 +3,7 @@ title: "BDM"
 name: "blackdesertmobile"
 description: "Black Desert Mobile community for Lemmy![!blackdesertmobile@sh.itjust.works](https://sh.itjust.works/c/blackdesertmobile) "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/blackdesertmobile"

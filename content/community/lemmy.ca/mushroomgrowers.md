@@ -3,7 +3,7 @@ title: "A place to call home for folks who grow mushrooms!"
 name: "mushroomgrowers"
 description: "c/MushroomGrowers is a supportive community of amateurs and professionals from around the world collaborating on mushroom cultivation."
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mushroomgrowers"

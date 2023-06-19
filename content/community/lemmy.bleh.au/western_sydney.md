@@ -3,7 +3,7 @@ title: "Western Sydney"
 name: "western_sydney"
 description: "For all things Western Sydney!"
 type: community
-date: "2023-06-19 11:35:31"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/western_sydney"

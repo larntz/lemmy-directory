@@ -1,16 +1,16 @@
 ---
-title: "picturesque" 
+title: "picturesque@oceanbreeze.earth" 
 name: "picturesque"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/picturesque"
 host: oceanbreeze.earth
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:04:05"
 published: "2023-06-16 18:40:46"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

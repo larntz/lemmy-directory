@@ -3,7 +3,7 @@ title: "Spotted On Rightmove"
 name: "spottedonrightmove"
 description: "Interesting listings and photos on property sales websites, such as Rightmove, Zoopla, OnTheMarket and equivalents in other countries."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spottedonrightmove"

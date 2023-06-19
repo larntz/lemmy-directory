@@ -3,7 +3,7 @@ title: "Model Makers"
 name: "modelmakers"
 description: "WIP community dedicated to the hobby of plastic model kit building and painting.Gunpla, Warhammer, RPG minis, model cars/planes/trains, all is welcome! Share your latest builds/WIPs and discuss the art of plastic model building!**Rules**-Be kind!-Credit the builder"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modelmakers"

@@ -3,7 +3,7 @@ title: "Yu-Gi-Oh!"
 name: "yugioh"
 description: "For all your overpriced cardboard needs! Post about the shows, TCG, OCG, video games, and anything else related to our favorite children's card game."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yugioh"

@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Test community"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/test"
@@ -15,7 +15,7 @@ posts: 10
 comments: 20
 weight: 10
 dau: 1
-wau: 20
+wau: 16
 mau: 28
 instances:
 - "discuss_tchncs_de"

@@ -3,7 +3,7 @@ title: "Hackintosh"
 name: "hackintosh"
 description: "[Hackintosh Guide](https://caizhiyuan.gitee.io/opencore-install-guide/). If anyone is a moderator for the actual r/hackintosh, please message me."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hackintosh"

@@ -3,7 +3,7 @@ title: "Neofetch"
 name: "neofetch"
 description: "Neofetch is a command line program that displays an ascii logo of the distro(or OS) along with basic system info.It's available at [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) or in most Linux distro repositories."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:59"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/neofetch"

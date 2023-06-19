@@ -3,7 +3,7 @@ title: "bingus"
 name: "bingus"
 description: "Community for bingus lovers!!not connected to the bingus subreddit.Rules:1. Be nice"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/bingus"

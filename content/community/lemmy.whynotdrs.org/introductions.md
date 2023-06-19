@@ -3,7 +3,7 @@ title: "👋️ Introductions"
 name: "introductions"
 description: "Please Introduce yourself when you join!"
 type: community
-date: "2023-06-19 11:35:23"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/introductions"
@@ -14,9 +14,9 @@ subscribers: 3
 posts: 2
 comments: 8
 weight: 2
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_whynotdrs_org"
 tags: 

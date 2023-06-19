@@ -3,7 +3,7 @@ title: "War Thunder"
 name: "warthunder"
 description: "> As we all know, Reddit is going downhill fast, so i made this community, since there hasn't been one until now.**Welcome!**This is a community for discussions about War Thunder, as well as about posting news, videos, bugs and, of course, memes.**Rules:**- No NSFW content- No hate speech or personal attacks, be respectful- No ads / spamming- Memes are allowed"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warthunder"

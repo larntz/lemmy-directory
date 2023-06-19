@@ -3,14 +3,14 @@ title: "Terraform"
 name: "terraform"
 description: "About Terraform by HashiCorp"
 type: community
-date: "2023-06-19 11:36:54"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraform"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 05:38:27"
-subscribers: 7
+subscribers: 8
 posts: 3
 comments: 0
 weight: 3

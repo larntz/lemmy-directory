@@ -3,7 +3,7 @@ title: "not_interesting"
 name: "not_interesting"
 description: "For all things that are not interesting."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/not_interesting"

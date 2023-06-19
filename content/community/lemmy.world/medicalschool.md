@@ -3,7 +3,7 @@ title: "Medical School"
 name: "medicalschool"
 description: "Community for medical students in the US and all around the world!(Mods welcome, I'm spread too thin IRL to do any modding)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medicalschool"

@@ -3,7 +3,7 @@ title: "iOS Programming"
 name: "iosprogramming"
 description: "If you are looking to get started (iOS programming in general or some specific area)."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iosprogramming"

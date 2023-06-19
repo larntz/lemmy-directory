@@ -3,7 +3,7 @@ title: "Exploding Prayers"
 name: "explodingprayers"
 description: "Let's support one another in prayer."
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/explodingprayers"

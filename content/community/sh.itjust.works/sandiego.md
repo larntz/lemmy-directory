@@ -3,7 +3,7 @@ title: "San Diego"
 name: "sandiego"
 description: "A San Diegan-run community, geared towards San Diegans, but all are welcome!We have some rules here:-No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.-Good vibes only. Be respectful. Everyone should feel welcome here.-No porn.-No Ads / Spamming."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sandiego"

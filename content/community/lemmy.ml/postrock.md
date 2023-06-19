@@ -3,7 +3,7 @@ title: "Post-Rock"
 name: "postrock"
 description: "#### A community for **Post-Rock** enthusiasts---Some rules:- Only Post-Rock and similar genres allowed- Try to use English when posting and commenting- No hate speech- No judging of musical taste"
 type: community
-date: "2023-06-19 11:36:59"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postrock"

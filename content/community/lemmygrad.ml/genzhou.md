@@ -3,7 +3,7 @@ title: "GenZhou"
 name: "genzhou"
 description: "GenZhou, GenZedong’s educational hub, but on Lemmygrad."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzhou"
@@ -15,7 +15,7 @@ posts: 229
 comments: 1662
 weight: 229
 dau: 2
-wau: 38
+wau: 37
 mau: 59
 instances:
 - "lemmygrad_ml"

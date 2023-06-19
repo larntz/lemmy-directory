@@ -3,7 +3,7 @@ title: "jellyamp"
 name: "jellyamp"
 description: "An iOS app for playing music from your Jellyfin instance!"
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.stormlight.space/c/jellyamp"

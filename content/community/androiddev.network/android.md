@@ -3,7 +3,7 @@ title: "Android"
 name: "android"
 description: "all things android non development related"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://androiddev.network/c/android"

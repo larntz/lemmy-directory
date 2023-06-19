@@ -3,7 +3,7 @@ title: "atxukale.eus"
 name: "atxukale"
 description: " [Atxukale.eus](https://atxukale.eud)  Jekyll bidez sortutako blog estatikoa denez, komunitate hau erabiliko det blogean idazten ditudan artikuluen iruzkinak jaso eta erantzuteko, ea esperimentua nola ateratzen den"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/atxukale"

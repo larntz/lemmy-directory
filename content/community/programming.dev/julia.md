@@ -3,12 +3,12 @@ title: "Julia"
 name: "julia"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:52"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/julia"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 14:24:08"
 published: "2023-06-18 02:54:29"
 subscribers: 10
 posts: 3

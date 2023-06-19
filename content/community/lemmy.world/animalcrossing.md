@@ -3,14 +3,14 @@ title: "Animal Crossing"
 name: "animalcrossing"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animalcrossing"
 host: lemmy.world
 lastmod: "2023-06-19 06:22:16"
 published: "2023-06-18 04:35:34"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

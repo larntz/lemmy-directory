@@ -3,7 +3,7 @@ title: "Thanks I Hate It"
 name: "tihi"
 description: "For the horrendous and terrible"
 type: community
-date: "2023-06-19 11:36:55"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tihi"

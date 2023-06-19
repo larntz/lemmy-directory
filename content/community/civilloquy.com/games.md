@@ -3,7 +3,7 @@ title: "Games"
 name: "games"
 description: "For general discussion of video games, board games, card games, or any other type of games.###### Rules1. No memes"
 type: community
-date: "2023-06-19 11:35:00"
+date: "2023-06-19 17:58:52"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/games"

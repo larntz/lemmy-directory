@@ -3,7 +3,7 @@ title: "Socionics"
 name: "socionics"
 description: "One of the lesser known contributions of the Soviet Union - a lens used to perceive personality and the role that it plays in contributing to historical dialectics.Continue the project of Jung and dive into the immediacy of consciousness!"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socionics"

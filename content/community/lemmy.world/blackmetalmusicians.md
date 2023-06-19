@@ -3,7 +3,7 @@ title: "Black Metal Musicians"
 name: "blackmetalmusicians"
 description: "Discussions around creating Black Metal music.*Other Communities for Listeners of Black Metal*- [!blackmetal@lemmy.ml](/c/blackmetal@lemmy.ml)- [!rawblackmetal@lemmy.world](/c/rawblackmetal@lemmy.world)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackmetalmusicians"

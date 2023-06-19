@@ -3,7 +3,7 @@ title: "The Lenin Wiki"
 name: "theleninwiki"
 description: "Welcome To The Lemmygrad For The Website, The Lenin Wikihttps://sites.google.com/stu.gusd.net/theleninwiki/home"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theleninwiki"

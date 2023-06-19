@@ -3,7 +3,7 @@ title: "Elden Ring"
 name: "eldenring"
 description: "A sub community for Elden Ring, an upcoming video game directed by Michael Zaki and published by From Software."
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eldenring"

@@ -3,7 +3,7 @@ title: "Sandro Linux Community "
 name: "sandrolinux"
 description: "A place to discuss my youtube channel and ask questions about it and ask for tech recommendations."
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sandrolinux"

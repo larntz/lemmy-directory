@@ -3,7 +3,7 @@ title: "Kubernetes : All you need to know."
 name: "kubernetes"
 description: "Kubernetes Community Resources to learn and grow."
 type: community
-date: "2023-06-19 11:35:24"
+date: "2023-06-19 17:59:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/kubernetes"

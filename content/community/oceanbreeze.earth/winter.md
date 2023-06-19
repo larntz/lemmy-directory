@@ -1,14 +1,14 @@
 ---
-title: "winter" 
+title: "winter@oceanbreeze.earth" 
 name: "winter"
 description: "having to do with anything winter related"
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/winter"
 host: oceanbreeze.earth
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:14:22"
 published: "2023-06-09 21:06:03"
 subscribers: 4
 posts: 1

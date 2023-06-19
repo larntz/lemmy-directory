@@ -3,7 +3,7 @@ title: "Fanaticus Announcements"
 name: "announcements"
 description: "A place to share important news about the Fanaticus lemmy instance."
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/announcements"

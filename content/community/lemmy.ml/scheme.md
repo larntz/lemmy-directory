@@ -3,7 +3,7 @@ title: "A community for the lovers of the scheme programming languages"
 name: "scheme"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scheme"

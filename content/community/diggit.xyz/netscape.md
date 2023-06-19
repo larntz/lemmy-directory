@@ -3,7 +3,7 @@ title: "Netscape"
 name: "netscape"
 description: "A test alternative to r/netscape"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/netscape"

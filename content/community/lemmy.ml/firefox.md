@@ -3,16 +3,16 @@ title: "Firefox"
 name: "firefox"
 description: "A place to discuss the news and latest developments on the open-source browser Firefox "
 type: community
-date: "2023-06-19 11:37:02"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefox"
 host: lemmy.ml
 lastmod: "2021-01-28 15:53:13"
 published: "2019-12-29 23:03:27"
-subscribers: 5922
+subscribers: 5964
 posts: 255
-comments: 937
+comments: 938
 weight: 255
 dau: 35
 wau: 77

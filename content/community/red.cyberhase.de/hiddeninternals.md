@@ -3,7 +3,7 @@ title: "Geheime Innereien"
 name: "hiddeninternals"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:09"
 draft: false
 nsfw: false
 actor_id: "https://red.cyberhase.de/c/hiddeninternals"
@@ -15,7 +15,7 @@ posts: 3
 comments: 7
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "red_cyberhase_de"

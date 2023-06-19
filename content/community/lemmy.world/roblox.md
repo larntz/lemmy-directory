@@ -3,7 +3,7 @@ title: "Roblox"
 name: "roblox"
 description: "An unofficial community about the building/gaming platform Roblox.# **Rules:**- **Be nice:** Dont be a dick or else I will break your knees- **Stay Roblox related:** Posts must revolve mainly around Roblox and comments must be related to the parent post in some way.- **No low effort:** Your post shouldn't look like it was put together in 2 minutes using Microsoft Paint. Anything painfully unfunny, boring or horribly cropped would be removed."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roblox"

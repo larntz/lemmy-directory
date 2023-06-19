@@ -3,7 +3,7 @@ title: "Subway Tooter"
 name: "subway_tooter"
 description: "Subway Tooter について。"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/subway_tooter"

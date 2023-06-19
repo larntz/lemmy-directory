@@ -3,16 +3,16 @@ title: "Pregnant Hentai"
 name: "pregnanthentai"
 description: "The best bellies are big and bloated with babies. Oh, but also, like, art and stuff.___Rules:1. Follow instance-wide rules1. Images must contain pregnancy2. Posts must be hosted on known image, manga or hentai sharing websites3. No loli or shota content4. No IRL content5. No third-party watermarks6. Try to source your posts, please.7. No heavy censorship8. Meet minimum quality standards"
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pregnanthentai"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 02:38:00"
-subscribers: 146
+subscribers: 152
 posts: 8
-comments: 0
+comments: 1
 weight: 8
 dau: 1
 wau: 5

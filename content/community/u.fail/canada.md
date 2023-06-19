@@ -3,7 +3,7 @@ title: "Canada"
 name: "canada"
 description: "A community specific to Canada.Will fill out the rest of this later.Free Tim Hortons coffee and maple syrup for all."
 type: community
-date: "2023-06-19 11:35:26"
+date: "2023-06-19 17:59:16"
 draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/canada"

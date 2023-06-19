@@ -3,7 +3,7 @@ title: "Webcomics"
 name: "webcomics"
 description: "Webcomics is a community dedicated to sharing and discussing webcomics. Engage in respectful conversations, post your own webcomics, and request or offer reading recommendations."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/webcomics"

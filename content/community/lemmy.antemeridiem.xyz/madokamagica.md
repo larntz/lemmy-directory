@@ -3,7 +3,7 @@ title: "Puella Magi Madoka Magica"
 name: "madokamagica"
 description: "A place to discuss everything related to Puella Magi Madoka Magica and post fanarts, memes etc."
 type: community
-date: "2023-06-19 11:35:13"
+date: "2023-06-19 17:59:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/madokamagica"

@@ -3,14 +3,14 @@ title: "Ska"
 name: "ska"
 description: "# Ska Never DiedShare your favorite ska music, thoughts, and memes.*Post Guidelines*1. Must be relevant to ska2. Please include artist name and song title3. No bigotry"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ska"
 host: lemmy.ml
 lastmod: "2021-04-29 06:20:44"
 published: "2021-04-28 08:13:30"
-subscribers: 25
+subscribers: 26
 posts: 34
 comments: 4
 weight: 34

@@ -3,7 +3,7 @@ title: "Meta & Support"
 name: "meta"
 description: "Segala sesuatu tentang  [Lemmy.my.id](https://lemmy.my.id)Ajukan pertanyaan apa pun tentang komunitas, *instance*, masalah teknis, dan lainnya di sini."
 type: community
-date: "2023-06-19 11:35:17"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.my.id/c/meta"

@@ -3,7 +3,7 @@ title: "Leftist Stickering"
 name: "leftist_stickering"
 description: "A place to post leftist stickers you find in the wild. Bonus points if you cover up existing right wing stickers with your stickers.Be aware that pictures from phones contain metadata and that you might want to delete that before posting."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftist_stickering"

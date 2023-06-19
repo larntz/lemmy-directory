@@ -3,7 +3,7 @@ title: "ANTIFA!"
 name: "antifa"
 description: "161 razy było mówione!Społeczność dotycząca wszystkiego co wiąże się z antyfaszyzmem oraz monitorowaniem organizacji faszystowskich i nacjonalistycznych.    Przy tematach związanych z antyfaszyzmem w nieoczywisty sposób warto dodać wytłumaczenie, jak łączy się to ze sprawą. "
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/antifa"

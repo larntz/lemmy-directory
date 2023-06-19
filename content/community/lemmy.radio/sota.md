@@ -3,7 +3,7 @@ title: "SOTA"
 name: "sota"
 description: "Community to discuss Summits on the Air"
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/sota"

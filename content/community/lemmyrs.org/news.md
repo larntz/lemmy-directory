@@ -3,7 +3,7 @@ title: "Rust: News"
 name: "news"
 description: "# Rules [Developing]- Keep it relevant to news and latest developments largely related to Rust and its ecosystem.- Showing off new crates is OK"
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/news"

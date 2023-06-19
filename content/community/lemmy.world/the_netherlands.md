@@ -3,7 +3,7 @@ title: "The Netherlands"
 name: "the_netherlands"
 description: "A Dutch page for the english speakers in the Netherlands :)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_netherlands"

@@ -3,7 +3,7 @@ title: "Acoustic Guitar"
 name: "acousticguitar"
 description: "This community is for the love and appreciation of the acoustic guitar! Feel free to post photos and videos of your acoustic guitar(s), and any videos of you playing that you'd like to upload. Rules: Be kind."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acousticguitar"

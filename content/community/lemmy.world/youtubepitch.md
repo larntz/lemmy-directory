@@ -3,7 +3,7 @@ title: "Pitch a youtuber!"
 name: "youtubepitch"
 description: "Do you love watching a certain YouTuber? Do you think they deserve more attention? Or do you just want to make a lemming happy by providing them with amazing content?Then you are at the right place!Pitch your beloved YouTuber, and provide a link to them.Rules:- Be kind- Please tell us if you are self-promoting and don't promote yourself twice"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/youtubepitch"

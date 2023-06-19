@@ -3,18 +3,18 @@ title: "Tech news"
 name: "technews"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/technews"
 host: exploding-heads.com
 lastmod: "2023-02-05 09:58:32"
 published: "2023-02-01 08:27:30"
-subscribers: 74
+subscribers: 76
 posts: 47
 comments: 33
 weight: 47
-dau: 5
+dau: 1
 wau: 10
 mau: 16
 instances:

@@ -3,7 +3,7 @@ title: "Canada"
 name: "canada"
 description: "# EnglishThis is a community dedicated to Canada and Canadians!### Rules* Posts must be relevant to Canada or Canadians* No misinformation* No NSFW content* No hate speech, bigotry, etc -----# FrançaisIl s'agit d'une communauté dédiée au Canada et aux Canadiens !### Règles* Les postes doivent être pertinentes pour le Canada ou les Canadiens* Pas de désinformation* Pas de contenu NSFW* Pas de discours de haine, de sectarisme, etc. -----### Related Communities **/** Communautés associées* [!canada@lemmygrad.ml](https://lemmygrad.ml/c/canada)* [!quebec@lemmygrad.ml](https://lemmygrad.ml/c/quebec)* [lemmy.ca](https://lemmy.ca)-----Community icon by [CustomDesign](http://www.myiconfinder.com/CustomDesign) on MYICONFINDER, licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)"
 type: community
-date: "2023-06-19 11:37:02"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/canada"

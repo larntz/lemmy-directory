@@ -3,7 +3,7 @@ title: "wolna Ukraina"
 name: "wolnaua"
 description: "Społeczność dotycząca naszej sąsiadki o pięknych tradycjach wolnościowych, która od kilku ładnych lat jest w stanie wojny. Aż dziw, że dopiero teraz powstaje tu taka społeczność :)"
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolnaua"

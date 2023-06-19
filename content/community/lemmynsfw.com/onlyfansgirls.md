@@ -3,20 +3,20 @@ title: "OnlyFansGirls"
 name: "onlyfansgirls"
 description: "Welcome to OnlyFansGirls, Lemmy's 18+ unofficial OnlyFans community. We love OnlyFans and the creators who use it. We are a place for those creators to bring attention to their accounts as well as a place for users to find great accounts to follow. "
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:35"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/onlyfansgirls"
 host: lemmynsfw.com
 lastmod: "2023-06-19 05:52:13"
 published: "2023-06-19 02:47:00"
-subscribers: 19
-posts: 2
+subscribers: 27
+posts: 3
 comments: 0
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 

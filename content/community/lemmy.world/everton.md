@@ -3,7 +3,7 @@ title: "Everton"
 name: "everton"
 description: "Everton football club"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 18:00:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/everton"

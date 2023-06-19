@@ -3,7 +3,7 @@ title: "programming (professional or hobby)"
 name: "programming"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/programming"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 05:01:11"
 subscribers: 2
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 0
 wau: 0

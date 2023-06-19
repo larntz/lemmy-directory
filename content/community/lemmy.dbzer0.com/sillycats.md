@@ -3,7 +3,7 @@ title: "Silly cats"
 name: "sillycats"
 description: "For pictures and videos of cats or other animals that are just silly little guys, just little creatures living their little livesRULE 1: do not be meanRULE 2: Don't be too weird about stuff"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/sillycats"

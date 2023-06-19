@@ -3,14 +3,14 @@ title: "XMRvsBeast"
 name: "xmrvsbeast"
 description: "https://xmrvsbeast.com/http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx7icmsq67qa.b32.i2p/"
 type: community
-date: "2023-06-19 11:35:19"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/xmrvsbeast"
 host: monero.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 11:58:38"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "NoContract"
 name: "nocontract"
 description: "Discussion on cell phone plans and MNVO'sRules:1. Be civil and nice2. No SPAM"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nocontract"

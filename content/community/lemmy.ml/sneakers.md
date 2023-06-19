@@ -3,14 +3,14 @@ title: "Sneakers"
 name: "sneakers"
 description: "A instance for sneaker lovers."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sneakers"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 02:12:00"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

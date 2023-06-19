@@ -3,7 +3,7 @@ title: "music_production"
 name: "music_production"
 description: "For singers, songwriters, producers and other people who make music"
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/music_production"

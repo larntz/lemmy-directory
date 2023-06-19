@@ -3,17 +3,17 @@ title: "Kerbal Space Program"
 name: "kerbalspaceprogram"
 description: "The Kerbal Space Program community. For all your gaming related, space exploration needs."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:59"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/kerbalspaceprogram"
 host: vlemmy.net
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 00:53:02"
-subscribers: 148
-posts: 6
-comments: 12
-weight: 6
+subscribers: 156
+posts: 7
+comments: 15
+weight: 7
 dau: 2
 wau: 7
 mau: 7

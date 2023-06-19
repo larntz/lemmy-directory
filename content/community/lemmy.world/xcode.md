@@ -3,7 +3,7 @@ title: "Xcode"
 name: "xcode"
 description: "The home for all things Xcode, Apple Developer IDE, on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xcode"

@@ -3,16 +3,16 @@ title: "camping"
 name: "camping"
 description: "All things back-country camping!Gear discussions, destination talks and everything else within that realm"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/camping"
 host: sh.itjust.works
 lastmod: "2023-06-13 11:27:39"
 published: "2023-06-13 11:26:36"
-subscribers: 298
+subscribers: 307
 posts: 11
-comments: 51
+comments: 54
 weight: 11
 dau: 4
 wau: 4

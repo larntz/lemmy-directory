@@ -3,7 +3,7 @@ title: "mindupload"
 name: "mindupload"
 description: "This community is aimed to be an aggregator of technology news that might aid directly or indirectly to the capability of uploading a mind to a electronic substrate."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mindupload"

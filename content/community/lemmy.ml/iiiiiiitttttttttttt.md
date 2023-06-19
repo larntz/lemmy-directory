@@ -3,7 +3,7 @@ title: "iiiiiiitttttttttttt"
 name: "iiiiiiitttttttttttt"
 description: "Share your IT-related frustrations here. It's seven i's and twelve t's, in case you delete your browser history instead of opening it in incognito."
 type: community
-date: "2023-06-19 11:36:49"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iiiiiiitttttttttttt"

@@ -3,16 +3,16 @@ title: "Wikipedia"
 name: "wikipedia"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wikipedia"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-09-30 19:55:55"
-subscribers: 62
+subscribers: 63
 posts: 15
-comments: 16
+comments: 17
 weight: 15
 dau: 1
 wau: 2

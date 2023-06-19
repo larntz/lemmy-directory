@@ -3,14 +3,14 @@ title: "Audio Drama"
 name: "audiodrama"
 description: "A community to discuss audio drama in all its various forms. All types of fictional storytelling are welcome here. Audio drama creators are highly encouraged to promote and link to their productions."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/audiodrama"
 host: lemmy.world
 lastmod: "2023-06-15 02:29:54"
 published: "2023-06-15 00:59:55"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

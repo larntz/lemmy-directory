@@ -3,14 +3,14 @@ title: "nixos"
 name: "nixos"
 description: "All about NixOS - https://nixos.org/"
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nixos"
 host: lemmy.ml
 lastmod: "2020-08-02 17:18:16"
 published: "2020-06-24 12:22:08"
-subscribers: 288
+subscribers: 291
 posts: 24
 comments: 38
 weight: 24

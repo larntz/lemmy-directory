@@ -3,7 +3,7 @@ title: "polscy imigranci"
 name: "polactwo"
 description: "Jedną cięższych plag świata są obywatele P*lski którym udało się uciec z kraju. To miejsce ma służyć gromadzeniu informacji o ich wyczynach, tak aby móc przestrzec innych. "
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/polactwo"

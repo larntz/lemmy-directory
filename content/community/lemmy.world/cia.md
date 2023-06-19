@@ -3,7 +3,7 @@ title: "CIA"
 name: "cia"
 description: "Fighting Communism since 1921!Rules-NO commies, ESPECIALLY tankies. You socdems are alright, but know that you're on thin ice!"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cia"

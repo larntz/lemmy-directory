@@ -3,7 +3,7 @@ title: "Morpha"
 name: "morpha"
 description: "A react native client for Lemmy!There are no releases yet, and development is still ongoing.If you want to check out the source code and maybe even contribute here's a link: [https://gitlab.com/spersinger/morpha](https://gitlab.com/spersinger/morpha)Check out some other clients while you wait:- !mlemapp@lemmy.ml- !jerboa@lemmy.ml "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:59"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/morpha"

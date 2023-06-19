@@ -3,7 +3,7 @@ title: "Kansas Jayhawks"
 name: "jayhawks"
 description: "A community for alumni and fans of the Kansas Jayhawks"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jayhawks"

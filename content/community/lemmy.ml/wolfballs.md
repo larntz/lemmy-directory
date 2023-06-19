@@ -3,7 +3,7 @@ title: "wolfballs"
 name: "wolfballs"
 description: "A place for questions, comments, and news about https://wolfballs.comThis is not wolfballs.com this is a community that may be used to discuss it and news related to it.All rules of lemmy.ml must be adhered to here. "
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wolfballs"

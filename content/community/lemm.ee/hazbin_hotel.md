@@ -3,7 +3,7 @@ title: "Hazbin Hotel"
 name: "hazbin_hotel"
 description: "A place to talk and share about the upcoming series Hazbin Hotel"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/hazbin_hotel"

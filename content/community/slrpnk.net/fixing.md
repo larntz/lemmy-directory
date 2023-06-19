@@ -3,7 +3,7 @@ title: "fixing"
 name: "fixing"
 description: "Celebrating/talking about repairing stuff, the right to repair stuff, and the intersection of tech and solarpunk ideals.What does it mean to use what we have, including technology, to try to build a better, more environmentally just world?"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/fixing"

@@ -3,7 +3,7 @@ title: "Portugal Lá Fora"
 name: "lafora"
 description: "Uma comunidade para a discussão sobre Portugal e Portugueses no estrangeiro."
 type: community
-date: "2023-06-19 11:35:23"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/lafora"

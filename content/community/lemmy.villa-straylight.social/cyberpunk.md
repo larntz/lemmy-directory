@@ -3,7 +3,7 @@ title: "Cyberpunk"
 name: "cyberpunk"
 description: "A place for discussion of all things cyberpunk (not primarily Cyberpunk 2077)"
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/cyberpunk"

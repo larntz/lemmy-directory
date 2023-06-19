@@ -3,7 +3,7 @@ title: "Helluva Boss"
 name: "helluva_boss"
 description: "A place to talk and share about the YouTube series Helluva Boss"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/helluva_boss"

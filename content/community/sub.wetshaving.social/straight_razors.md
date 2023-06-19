@@ -3,14 +3,14 @@ title: "Straight Razors"
 name: "straight_razors"
 description: "Straight razor use, honing and restoration"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:05"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/straight_razors"
 host: sub.wetshaving.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 14:44:16"
-subscribers: 12
+subscribers: 13
 posts: 3
 comments: 11
 weight: 3

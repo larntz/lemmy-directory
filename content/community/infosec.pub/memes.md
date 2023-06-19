@@ -3,20 +3,20 @@ title: "memes"
 name: "memes"
 description: "Get all dem memes on lemmy too"
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 17:58:43"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/memes"
 host: infosec.pub
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 07:05:26"
-subscribers: 117
+subscribers: 130
 posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 1
-mau: 3
+wau: 6
+mau: 8
 instances:
 - "infosec_pub"
 tags: 

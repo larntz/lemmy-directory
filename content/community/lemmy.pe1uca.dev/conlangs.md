@@ -3,7 +3,7 @@ title: "My constructed languages"
 name: "conlangs"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pe1uca.dev/c/conlangs"

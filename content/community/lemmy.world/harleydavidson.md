@@ -3,14 +3,14 @@ title: "Harley Davidson"
 name: "harleydavidson"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/harleydavidson"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 09:16:06"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

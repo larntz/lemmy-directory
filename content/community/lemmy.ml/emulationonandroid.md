@@ -3,14 +3,14 @@ title: "Emulation On Android"
 name: "emulationonandroid"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:37:02"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emulationonandroid"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-07 00:13:48"
-subscribers: 34
+subscribers: 35
 posts: 4
 comments: 2
 weight: 4

@@ -3,7 +3,7 @@ title: "Receitas do Paraiso"
 name: "receitas_do_paraiso"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/receitas_do_paraiso"

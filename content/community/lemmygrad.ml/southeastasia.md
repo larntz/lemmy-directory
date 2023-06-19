@@ -3,7 +3,7 @@ title: "Southeast Asia"
 name: "southeastasia"
 description: "WIP.Anything about Southeast Asia, which includes all ASEAN member states, East Timur and Papua New Guinea. Open to the pacific islands generally as well.Any languages spoken in the area is allowed.**Rule**No colonial apologia, in any of its ideological or material formulations. This includes racism, queerphobia, liberalism and utopian socialism."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/southeastasia"

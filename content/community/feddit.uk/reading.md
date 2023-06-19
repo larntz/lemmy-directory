@@ -3,7 +3,7 @@ title: "Reading, the biggest town."
 name: "reading"
 description: "A community for the town of Reading."
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/reading"

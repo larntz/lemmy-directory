@@ -3,14 +3,14 @@ title: "Gentoo"
 name: "gentoo"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/gentoo"
 host: lemmy.cafe
 lastmod: "2023-06-14 13:34:39"
 published: "2023-06-14 13:10:12"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

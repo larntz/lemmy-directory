@@ -3,7 +3,7 @@ title: "OCaml"
 name: "ocaml"
 description: "An industrial-strength functional programming language with an emphasis on expressiveness and safety. Website:  [www.ocaml.org](https://www.ocaml.org/)"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/ocaml"

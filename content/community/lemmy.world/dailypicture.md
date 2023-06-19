@@ -3,7 +3,7 @@ title: "Daily Picture 📷"
 name: "dailypicture"
 description: "A friendly community to share your daily pictures with the world! "
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dailypicture"

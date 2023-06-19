@@ -3,7 +3,7 @@ title: "The Metatheque"
 name: "meta"
 description: "Stuff about the demotheque community itself"
 type: community
-date: "2023-06-19 11:34:44"
+date: "2023-06-19 17:58:32"
 draft: false
 nsfw: false
 actor_id: "https://demotheque.com/c/meta"

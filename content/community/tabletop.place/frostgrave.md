@@ -3,7 +3,7 @@ title: "Frostgrave"
 name: "frostgrave"
 description: "A community dedicated to the fantasy skirmish wargame Frostgrave by Joseph A. McCullough."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/frostgrave"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 1
 comments: 1
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

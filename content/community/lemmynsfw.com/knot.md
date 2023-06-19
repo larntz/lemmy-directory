@@ -3,14 +3,14 @@ title: "Knot"
 name: "knot"
 description: "Alternative r/knot and related subs. Posts must contain girl(s) taking a know from a dildo. Actual animals not allowed. "
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/knot"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 03:58:22"
-subscribers: 72
+subscribers: 74
 posts: 1
 comments: 0
 weight: 1

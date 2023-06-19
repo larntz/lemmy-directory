@@ -3,7 +3,7 @@ title: "Messer Nerds"
 name: "messer"
 description: "Die Community für alle Messer-Sammler und Nerds."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/messer"

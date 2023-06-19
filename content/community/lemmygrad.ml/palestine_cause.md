@@ -3,7 +3,7 @@ title: "Palestine"
 name: "palestine_cause"
 description: "From the river to the sea, Palestine shall be free."
 type: community
-date: "2023-06-19 11:35:09"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/palestine_cause"

@@ -3,7 +3,7 @@ title: "Guitars and more"
 name: "guitar"
 description: "Community devoted to the exchange of guitar related information."
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/guitar"

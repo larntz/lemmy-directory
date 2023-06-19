@@ -3,7 +3,7 @@ title: "RipCity"
 name: "ripcity"
 description: "Lemmy community for fans of NBA's Portland Trail Blazers.  Feel free to discuss any topic related to the Blazers![](https://lemmy.world/pictrs/image/6f2c998e-835c-4ab5-8a64-56776240abc5.jpeg)"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ripcity"

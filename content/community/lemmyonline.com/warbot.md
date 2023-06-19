@@ -3,7 +3,7 @@ title: "WarBOT.dev"
 name: "warbot"
 description: "Anything relating to https://docs.warbot.dev/.Install the bot at https://warbot.dev/Dev version: https://dev.warbot.dev/"
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/warbot"

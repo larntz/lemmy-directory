@@ -1,19 +1,19 @@
 ---
 title: "Chastity" 
 name: "chastity"
-description: "Description not available."
+description: "A place for all things Chastity."
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:35"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/chastity"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:16:10"
 published: "2023-06-19 10:11:36"
-subscribers: 2
-posts: 0
+subscribers: 5
+posts: 2
 comments: 0
-weight: 0
+weight: 2
 dau: 0
 wau: 0
 mau: 0

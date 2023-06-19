@@ -3,20 +3,20 @@ title: "MapPorn"
 name: "mapporn"
 description: "**Discover Cartographic Marvels and Navigate New Worlds!****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mapporn"
 host: lemmy.world
 lastmod: "2023-06-17 11:42:16"
 published: "2023-06-12 09:56:14"
-subscribers: 370
-posts: 8
-comments: 13
-weight: 8
-dau: 1
-wau: 9
-mau: 9
+subscribers: 390
+posts: 10
+comments: 22
+weight: 10
+dau: 8
+wau: 14
+mau: 17
 instances:
 - "lemmy_world"
 tags: 

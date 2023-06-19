@@ -3,7 +3,7 @@ title: "Português"
 name: "portugues"
 description: "Um lugar para qualquer tipo de discussão sobre a nossa Língua Portuguesa."
 type: community
-date: "2023-06-19 11:35:23"
+date: "2023-06-19 17:59:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/portugues"

@@ -3,14 +3,14 @@ title: "Turboprop"
 name: "turboprop"
 description: "Rule1. All things turboprop"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/turboprop"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 09:52:47"
-subscribers: 1
+subscribers: 2
 posts: 4
 comments: 0
 weight: 4

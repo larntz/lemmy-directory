@@ -3,14 +3,14 @@ title: "Jesus Christ, Lemmy!"
 name: "jesuschristlemmy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jesuschristlemmy"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-05-25 15:12:08"
-subscribers: 35
+subscribers: 34
 posts: 2
 comments: 0
 weight: 2

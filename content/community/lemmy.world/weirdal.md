@@ -3,7 +3,7 @@ title: "All Things 'Weird Al' Yankovic"
 name: "weirdal"
 description: "A community for all things Weird Al Yankovic:  Music, movies, books, television shows and appearances... everything."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weirdal"

@@ -3,7 +3,7 @@ title: "Burnaby, British Columbia, Canada"
 name: "burnaby"
 description: "A discussion area for the Burnaby municipality of the Metro Vancouver Regional District."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/burnaby"

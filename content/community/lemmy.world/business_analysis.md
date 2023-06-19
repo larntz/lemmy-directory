@@ -3,7 +3,7 @@ title: "Business Analysis and Business Analysts"
 name: "business_analysis"
 description: "This community is for Business Analysts to discuss what they do (Business Analysis) and how to get a job etc."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/business_analysis"

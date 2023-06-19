@@ -1,16 +1,16 @@
 ---
 title: "MonsterHunter" 
 name: "monsterhunter"
-description: "Another fediverse hunter's hub.  Community for all things Monster Hunter.**Relevant posts only**: Keep it related to Monster Hunter. If that relation is tenuous, back it up.**No off-meta shaming**: having fun playing the game *is* the meta. Discuss strats, builds, and give suggestions, but that's all they are, suggestions.**No AI art**: we're not opening that floodgate**Keep it SFW*** SFW cosplay only - no nudes/lewds* No Rule 34 - if you want it, make your own community**Resources:**>* [Monster Hunter Twitter](https://twitter.com/monsterhunter)>* [MonsterHunter.com](https://www.monsterhunter.com/)>* [Kiranico Game Databases](https://kiranico.com/)>* [Monster Hunter Gathering Hall Discord](https://discord.com/invite/monsterhunter)"
+description: "Another fediverse hunter's hub.  Community for all things Monster Hunter.**Relevant posts only**: Keep it related to Monster Hunter. If that relation is tenuous, back it up.**No off-meta shaming**: having fun playing the game *is* the meta. Discuss strats, builds, and give suggestions, but that's all they are, suggestions.**No AI art**: we're not opening that floodgate**Keep it SFW*** SFW cosplay only - no nudes/lewds* No Rule 34 - if you want it, make your own community**Resources:**-[Monster Hunter Twitter](https://twitter.com/monsterhunter)-[MonsterHunter.com](https://www.monsterhunter.com/)-[Kiranico Game Databases](https://kiranico.com/)-[Monster Hunter Gathering Hall Discord](https://discord.com/invite/monsterhunter)"
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/monsterhunter"
 host: lemmy.world
-lastmod: "2023-06-18 19:47:22"
+lastmod: "2023-06-19 14:16:41"
 published: "2023-06-18 16:55:19"
-subscribers: 9
+subscribers: 10
 posts: 6
 comments: 1
 weight: 6

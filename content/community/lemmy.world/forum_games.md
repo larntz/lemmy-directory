@@ -3,7 +3,7 @@ title: "Forum Games"
 name: "forum_games"
 description: "A chill place play forum games with others in the community. Feel free to join an existing game or create your own!"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/forum_games"

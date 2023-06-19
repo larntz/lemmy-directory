@@ -3,14 +3,14 @@ title: "Naturism"
 name: "naturism"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/naturism"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 14:13:21"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

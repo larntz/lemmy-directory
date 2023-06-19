@@ -3,14 +3,14 @@ title: "Machine Learning / AI"
 name: "machinelearning"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:19"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/machinelearning"
 host: monero.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 11:21:29"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

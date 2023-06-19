@@ -3,7 +3,7 @@ title: "The Church of Rogers"
 name: "thechurchofrogers"
 description: "A community dedicated to the wonderful life and inspiring actions of Fred Rogers, Star of Mr. Rogers's Neighborhood."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thechurchofrogers"

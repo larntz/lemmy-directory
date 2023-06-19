@@ -3,7 +3,7 @@ title: "Circular economy"
 name: "circular_econo"
 description: "circular economy and related subjects aimed at reducing waste, retaining value, and maximizing efficiency in organized closed-loop community systems."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/circular_econo"

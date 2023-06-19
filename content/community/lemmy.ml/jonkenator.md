@@ -3,7 +3,7 @@ title: "Jonkenator's Microblog"
 name: "jonkenator"
 description: "This is a place for me to dump things that I find interesting. Usually without commentary. "
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jonkenator"

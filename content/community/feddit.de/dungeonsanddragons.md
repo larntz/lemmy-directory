@@ -3,17 +3,17 @@ title: "A community for people interested in D&D"
 name: "dungeonsanddragons"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dungeonsanddragons"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 15:48:25"
-subscribers: 33
-posts: 1
-comments: 1
-weight: 1
+subscribers: 35
+posts: 2
+comments: 2
+weight: 2
 dau: 1
 wau: 1
 mau: 2

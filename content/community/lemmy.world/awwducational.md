@@ -3,7 +3,7 @@ title: "awwducational"
 name: "awwducational"
 description: "All animals and creatures are aww. Except maybe humans, that's tbd.Share cool things happening or existing in nature. If it's just a photo or video, add a true and interesting fact about it."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/awwducational"

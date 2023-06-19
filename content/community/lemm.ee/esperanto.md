@@ -3,7 +3,7 @@ title: "Esperanto"
 name: "esperanto"
 description: "Lemmy-komunumo por Esperantistoj"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/esperanto"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemm_ee"

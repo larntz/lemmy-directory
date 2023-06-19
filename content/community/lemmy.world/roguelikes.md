@@ -3,7 +3,7 @@ title: "Roguelike Games"
 name: "roguelikes"
 description: "A place to discuss both traditional Roguelikes and Roguelite games. Classic ASCII art RPG with perma-death? Roguelite platformer with meta-progression? They are all welcome here."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roguelikes"

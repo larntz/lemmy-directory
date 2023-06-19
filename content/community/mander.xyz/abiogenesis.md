@@ -3,14 +3,14 @@ title: "Abiogenesis"
 name: "abiogenesis"
 description: "Discussions about research on the origin of life"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:19"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/abiogenesis"
 host: mander.xyz
 lastmod: "2022-03-21 07:45:35"
 published: "2022-03-21 07:41:30"
-subscribers: 27
+subscribers: 28
 posts: 11
 comments: 0
 weight: 11

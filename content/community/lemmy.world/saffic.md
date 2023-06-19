@@ -3,7 +3,7 @@ title: "Sapphic Fiction"
 name: "saffic"
 description: "Welcome to the home for sapphic Fiction on Lemmy!#femslash #saffic #fanfic #wlwfic**This is NOT intended to be an NSFW community, but NSFW is not strictly forbidden. NSFW content must be tagged as NSFW at the time of posting or you will be blocked from participation!****Rules:**darkelfslair1. **No Spam**2. **Mark all NSFW as NSFW**3. **Bigotry of any kind *will not be tolerated.***4. **Under no circumstances will the sexualization of minors be tolerated** if you're going to post about underage characters, keep it age appropriate!Credit for the community icon goes to [darkelfslair](https://darkelfslair.tumblr.com/post/151894247912/we-all-need-a-bit-of-nsfw-sometimes)"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/saffic"

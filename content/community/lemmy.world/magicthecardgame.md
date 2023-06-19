@@ -3,7 +3,7 @@ title: "MagicTheCardGame"
 name: "magicthecardgame"
 description: "[!mtg@lemmy.world](https://lemmy.world/c/mtg) "
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magicthecardgame"

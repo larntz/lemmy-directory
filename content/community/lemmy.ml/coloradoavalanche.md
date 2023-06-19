@@ -3,7 +3,7 @@ title: "Colorado Avalanche"
 name: "coloradoavalanche"
 description: "A Colorado Avalanche sublemmy community, by fans, for fans. Home of the 1996, 2001, and 2022 Stanley Cup champions.**Rules:**- Be kind to your fellow Avaholics and others- No promotion of gambling- No trolling"
 type: community
-date: "2023-06-19 11:36:50"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coloradoavalanche"

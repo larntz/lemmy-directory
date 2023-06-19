@@ -3,7 +3,7 @@ title: "Juche Gang"
 name: "juchegang"
 description: "juche gang juche gang juche gang juche gangRules:1. Don't disrespect the DPRK or the Juche philosophy2. No reactionaries/nazbols"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/juchegang"

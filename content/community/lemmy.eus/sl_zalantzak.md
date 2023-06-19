@@ -3,7 +3,7 @@ title: "Software Libre Zalantzak"
 name: "sl_zalantzak"
 description: "Software librearen inguruko zalantzak eta eztabaidak gauzatzeko gunea, euskaraz._____Foro hau txaten luzapena da (biak elkarrekin lotuta daude):+ Matrix:  [#SoftwareLibreZalantzak:librezale.eus](https://matrix.to/#/!AjMYHDlyYwDULZeuzz:matrix.org?via=sindominio.net&via=librezale.eus&via=matrix.org)+ Telegram: https://t.me/SoftwareLibreZalantzak"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/sl_zalantzak"

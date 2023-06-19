@@ -3,7 +3,7 @@ title: "Ask exploding heads"
 name: "askexplodingheads"
 description: "Ask a question, any question "
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/askexplodingheads"
@@ -12,7 +12,7 @@ lastmod: "2023-06-02 12:01:03"
 published: "2023-05-31 09:16:53"
 subscribers: 44
 posts: 25
-comments: 152
+comments: 155
 weight: 25
 dau: 7
 wau: 20

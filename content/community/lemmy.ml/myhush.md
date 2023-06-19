@@ -3,7 +3,7 @@ title: "Hush"
 name: "myhush"
 description: "$HUSH is a private messenger cryptocurrency, implementing a modified Zcash Protocol with extreme privacy and non-determinism to prevent blockchain analysis. Hush offers a decentralized network, the most robust encryption offerings from Libsodium, and a world-class development team, $HUSH is one of the most talked about up-and-coming privacy tech groups.- [Hush Website](https://hush.is) - [Hush source code](https://git.hush.is)"
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/myhush"

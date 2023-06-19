@@ -3,7 +3,7 @@ title: "Animation"
 name: "animation"
 description: "Where Imagination Comes to Life with Color, Motion, and Endless Possibilities"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animation"

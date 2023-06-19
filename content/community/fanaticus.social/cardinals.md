@@ -3,7 +3,7 @@ title: "Cardinals"
 name: "cardinals"
 description: "Cloned from [r/Cardinals](https://old.reddit.com/r/Cardinals)# Looking for mods!"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/cardinals"

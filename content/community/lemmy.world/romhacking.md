@@ -3,7 +3,7 @@ title: "ROM Hacking"
 name: "romhacking"
 description: "Welcome to **ROM Hacking**! A Lemmy community dedicated to the art of hacked ROMs, translations, graphical swaps, bug fixes and other classic game patching!**Rules:**- Respect all users. - No download links to copyrighted ROMs, patches must be shared in IPS or similar formats. - If sharing your own Patreon/fundraiser for a ROM hacking project, please contact the mods beforehand for verification. - Homebrew titles for classic consoles are currently allowed, as Lemmy communities grow we might move this to another place in the future. - No fan games with copyrighted assets (sorry!)Happy gaming! "
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/romhacking"

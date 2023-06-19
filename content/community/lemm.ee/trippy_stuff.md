@@ -3,7 +3,7 @@ title: "Trippy Stuff"
 name: "trippy_stuff"
 description: "A community that is all about trippy stuff.Post trippy stuff here, it can be images, gifs, videos, websites, video games or anything, as long as it is visually trippy.**Rules:**-Please be respectful to each others.-**If your post contains flashing images or anything that can potentially trigger seizures, then please put [SEIZURE WARNING] at the begining of your title**"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/trippy_stuff"

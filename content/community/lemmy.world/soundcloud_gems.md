@@ -3,14 +3,14 @@ title: "Electronic Gems"
 name: "soundcloud_gems"
 description: " A small place within lemmy that showcases hidden gems from soundcloud. If you like it good - if you love it, better. The best way to describe the songs to showcase here are those that have an infectious quality and offers an ethereal-like sonic experience - unique textures, rich layers, and memorable melodies. Songs that have a timeless nature and incorporate soulful vocal performances (optional) +  carefully crafted electronic elements. If you have an intriguing song in your library that creates a sense of immersion, either suited for introspective moments or lively settings please share it here.: : House, Garage, DnB, Disco, Electronica, Breaks, Lounge, Chillout, Alt-Dance, Progressive, Deepcuts + : :"
 type: community
-date: "2023-06-19 11:36:34"
+date: "2023-06-19 18:00:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/soundcloud_gems"
 host: lemmy.world
 lastmod: "2023-06-19 05:59:24"
 published: "2023-06-18 18:36:26"
-subscribers: 24
+subscribers: 25
 posts: 71
 comments: 4
 weight: 71

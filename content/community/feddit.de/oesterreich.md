@@ -3,14 +3,14 @@ title: "Österreich"
 name: "oesterreich"
 description: "Alles zur Republik ÖsterreichMods gesucht, einfach per PN melden."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:29"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oesterreich"
 host: feddit.de
 lastmod: "2021-10-10 10:57:36"
 published: "2021-10-09 18:15:17"
-subscribers: 140
+subscribers: 139
 posts: 24
 comments: 32
 weight: 24

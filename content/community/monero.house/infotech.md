@@ -3,7 +3,7 @@ title: "Info-Tech"
 name: "infotech"
 description: "Community for more general IT-related topics ranging from hardware to software over news, OpSec and more!___Community icon by rukanicon - Flaticon"
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/infotech"

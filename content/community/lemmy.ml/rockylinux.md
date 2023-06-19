@@ -3,7 +3,7 @@ title: "Rocky Linux"
 name: "rockylinux"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rockylinux"

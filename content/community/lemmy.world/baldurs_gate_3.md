@@ -3,7 +3,7 @@ title: "Baldur's Gate 3"
 name: "baldurs_gate_3"
 description: "All things BG3!  Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power. [Website](https://baldursgate3.game/)"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baldurs_gate_3"

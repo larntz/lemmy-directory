@@ -3,7 +3,7 @@ title: "FF addons&extensions"
 name: "firefox_addons"
 description: "Share your Firefox extensions or search tools."
 type: community
-date: "2023-06-19 11:36:58"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefox_addons"

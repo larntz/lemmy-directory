@@ -3,18 +3,18 @@ title: "Business"
 name: "business"
 description: "A community about businesses and how they affect our lives. All interesting links and discussions are welcomed here. ____Icon: by Delapouite under CC BY 3.0Banner: New York City skyline, [public domain](https://www.publicdomainpictures.net/en/view-image.php?image=207929&picture=new-york-skyline)"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/business"
 host: midwest.social
 lastmod: "2023-02-24 13:10:20"
 published: "2023-01-07 17:36:13"
-subscribers: 96
+subscribers: 97
 posts: 164
 comments: 45
 weight: 164
-dau: 2
+dau: 1
 wau: 7
 mau: 15
 instances:

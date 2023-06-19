@@ -3,7 +3,7 @@ title: "bicla"
 name: "bicla"
 description: "Comunitate pentru bicicliștii români.Nu prea știu cu ce să mănâncă Lemmy și Fediverse și restul, dar încerc să învăț din mers."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bicla"

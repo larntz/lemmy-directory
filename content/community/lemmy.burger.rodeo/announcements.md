@@ -3,14 +3,14 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements/Changelogs go here."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/announcements"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-18 19:54:28"
 published: "2023-06-05 15:58:29"
-subscribers: 70
+subscribers: 69
 posts: 20
 comments: 187
 weight: 20

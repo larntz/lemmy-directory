@@ -3,7 +3,7 @@ title: "Indie VTubers"
 name: "indievtubers"
 description: "A community meant for indie VTubers and indie VTuber fans. :)Main rule to follow is please be kind and respectful to others!"
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/indievtubers"

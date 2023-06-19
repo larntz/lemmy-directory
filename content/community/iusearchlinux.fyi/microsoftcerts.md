@@ -3,7 +3,7 @@ title: "Microsoft Certifications"
 name: "microsoftcerts"
 description: "For all things related to Microsoft certifications and professional development.Rules:-  Be respectful: Treat others with kindness and courtesy.- Stay on topic: Keep discussions focused on Microsoft certifications and related topics.- No self-promotion: Avoid excessive self-promotion or spamming.- No cheating or piracy: Do not request or share unauthorized exam materials or engage in any unethical practices."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/microsoftcerts"

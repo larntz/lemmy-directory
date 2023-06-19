@@ -3,7 +3,7 @@ title: "共产国际"
 name: "rupture"
 description: "马列毛主义者、共产主义者和群众们的论坛。上传图片请使用:图床"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/rupture"

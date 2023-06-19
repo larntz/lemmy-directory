@@ -3,7 +3,7 @@ title: "Baroque"
 name: "baroque"
 description: "A community for sharing Baroque music and art.Also check out Ancient & Early Music at [!earlymusic@lemmy.world](earlymusic@lemmy.world)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baroque"

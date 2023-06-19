@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements and  news relevant to the WV Read It Lemmy instance."
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:59:00"
 draft: false
 nsfw: false
 actor_id: "https://dubvee.org/c/announcements"

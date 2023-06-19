@@ -3,7 +3,7 @@ title: "Krita - Free and opensource digital painting application"
 name: "krita"
 description: "Krita - Free and open source digital painting application for Illustrators, comic artists, concept artists , matte painters etc.This community is for sharing artworks made in Krita, general help, tips and tricks, troubleshooting etc"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/krita"

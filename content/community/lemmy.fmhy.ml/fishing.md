@@ -3,7 +3,7 @@ title: "Fishing"
 name: "fishing"
 description: "A Lemmy community for all things related to fishing.  Whether salt water or freshwater. Post your catches!Standard rules of being a decent human. "
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/fishing"

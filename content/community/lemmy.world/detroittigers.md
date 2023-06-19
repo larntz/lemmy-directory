@@ -3,7 +3,7 @@ title: "Detroit Tigers"
 name: "detroittigers"
 description: "News and discussion about the Detroit Tigers "
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/detroittigers"

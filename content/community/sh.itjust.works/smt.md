@@ -3,7 +3,7 @@ title: "Shin Megami Tensei"
 name: "smt"
 description: "For discussion and posts related to the Shin Megami Tensei series and related media (Persona, Last Bible, Etc.). Instance rules apply, no self promotion. "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/smt"

@@ -3,7 +3,7 @@ title: "Rhino Linux"
 name: "rhinolinux"
 description: "**A rolling release Ubuntu-based distribution with Pacstall &amp; XFCE at its core*** https://rhinolinux.org/* https://github.com/rhino-linux"
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rhinolinux"

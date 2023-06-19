@@ -3,7 +3,7 @@ title: "Stormgate"
 name: "stormgate"
 description: "Stormgate is an upcoming free-to-play real-time strategy game developed by Frost Giant Studios. Founded by veterans of the Warcraft and StarCraft franchises, Frost Giant is on a mission to build the next great RTS. To learn more about the game and sign up for the beta, visit playstormgate.com."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stormgate"
@@ -14,7 +14,7 @@ subscribers: 21
 posts: 7
 comments: 6
 weight: 7
-dau: 3
+dau: 2
 wau: 4
 mau: 4
 instances:

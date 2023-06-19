@@ -3,7 +3,7 @@ title: "vidya"
 name: "vidya"
 description: "Everything video games. Consoles, hand helds, PC, mobile. News, videos, discussions."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/vidya"

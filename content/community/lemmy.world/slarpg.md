@@ -3,7 +3,7 @@ title: "Super Lesbian Animal RPG"
 name: "slarpg"
 description: "Super Lesbian Animal RPG (SLARPG) is a game developed by ponett that features a classic turn-based RPG about love, anxiety, and fighting funny-looking monsters in dungeons!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slarpg"

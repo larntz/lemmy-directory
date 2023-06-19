@@ -3,14 +3,14 @@ title: "Pathfinder 2e Official Adventures"
 name: "pf2adventure"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2adventure"
 host: pathfinder.social
 lastmod: "2023-06-04 17:03:25"
 published: "2023-06-04 17:02:33"
-subscribers: 42
+subscribers: 43
 posts: 1
 comments: 2
 weight: 1

@@ -3,7 +3,7 @@ title: "Pathfinder"
 name: "pathfinder"
 description: "A community for content related to Pathfinder ttrpg (1e and 2e). Please be kind to each other."
 type: community
-date: "2023-06-19 11:36:48"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pathfinder"

@@ -3,7 +3,7 @@ title: "Antifascist activism"
 name: "antifascism"
 description: "A place for antifascist activism on Lemmy"
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/antifascism"

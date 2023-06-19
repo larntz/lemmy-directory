@@ -3,7 +3,7 @@ title: "The Wonderful Wally World"
 name: "walmart"
 description: "This is a place for Walmart Workers to express their incredulity, vent frustrations, and anonymously complain to their cohorts and fellow retail workers. "
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/walmart"

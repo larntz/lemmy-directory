@@ -3,18 +3,18 @@ title: "Hmmm"
 name: "hmmm"
 description: "For all things that make you stop and go hmmm..."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hmmm"
 host: lemmy.world
 lastmod: "2023-06-15 02:21:09"
 published: "2023-06-15 01:53:02"
-subscribers: 169
+subscribers: 184
 posts: 8
 comments: 11
 weight: 8
-dau: 11
+dau: 6
 wau: 13
 mau: 13
 instances:

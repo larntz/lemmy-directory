@@ -3,7 +3,7 @@ title: "Sony Xperia"
 name: "sonyxperia"
 description: "A placer to discuss all things Sony Xperia. Share links, photos, videos, opinions and anything else relevant to Sony Xperia mobile phones."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sonyxperia"

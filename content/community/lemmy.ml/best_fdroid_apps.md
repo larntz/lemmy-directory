@@ -3,7 +3,7 @@ title: "Best F-Droid Apps"
 name: "best_fdroid_apps"
 description: "Discuss and send some of the the best apps you find in this community! I run a blog for the same topic on https://kutt.it/fdroidblog"
 type: community
-date: "2023-06-19 11:36:54"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/best_fdroid_apps"

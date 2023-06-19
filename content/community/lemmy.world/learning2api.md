@@ -3,7 +3,7 @@ title: "Learning the API"
 name: "learning2api"
 description: "Testing community for learning API"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/learning2api"

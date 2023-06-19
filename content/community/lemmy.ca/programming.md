@@ -3,7 +3,7 @@ title: "programming"
 name: "programming"
 description: "A community for programmers, data scientists, software engineers, web developers, cryptographers, hackers, and much more."
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/programming"

@@ -3,7 +3,7 @@ title: "God's Own Country (Kerala, India)"
 name: "kerala"
 description: "A place for anything related to Kerala/Keralites/Malayalees."
 type: community
-date: "2023-06-19 11:36:50"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kerala"
@@ -12,7 +12,7 @@ lastmod: "2022-11-02 00:29:17"
 published: "2019-10-18 05:09:30"
 subscribers: 17
 posts: 4
-comments: 0
+comments: 3
 weight: 4
 dau: 1
 wau: 1

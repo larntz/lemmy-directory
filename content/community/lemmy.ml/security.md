@@ -3,14 +3,14 @@ title: "Security"
 name: "security"
 description: "ConfidentialityIntegrityAvailability"
 type: community
-date: "2023-06-19 11:36:55"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/security"
 host: lemmy.ml
 lastmod: "2021-02-11 18:15:54"
 published: "2019-12-18 18:49:26"
-subscribers: 3424
+subscribers: 3428
 posts: 534
 comments: 495
 weight: 534

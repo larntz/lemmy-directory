@@ -3,7 +3,7 @@ title: "Radicalizing the apathetic"
 name: "radicalizingapathy"
 description: "A place to discuss experiences, strategies, or progress made radicalizing those close to us to Marxism."
 type: community
-date: "2023-06-19 11:35:09"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/radicalizingapathy"

@@ -3,7 +3,7 @@ title: "Utah Jazz"
 name: "utahjazz"
 description: "Community dedicated to the discussion and fandom of the Utah Jazz, NBA Franchise team, and players. #TakeNote"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/utahjazz"

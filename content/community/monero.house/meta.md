@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Community for meta posts about MoneroHouse.___Community icon by DinosoftLabs - Flaticon"
 type: community
-date: "2023-06-19 11:34:53"
+date: "2023-06-19 17:58:42"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/meta"
@@ -15,7 +15,7 @@ posts: 16
 comments: 115
 weight: 16
 dau: 1
-wau: 15
+wau: 10
 mau: 25
 instances:
 - "monero_house"

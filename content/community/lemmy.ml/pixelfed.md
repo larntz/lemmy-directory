@@ -3,7 +3,7 @@ title: "PixelFed: A free and ethical photo sharing platform."
 name: "pixelfed"
 description: "Photo sharing. For everyone.Federated image sharing platform, will it go over Instagram?"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pixelfed"

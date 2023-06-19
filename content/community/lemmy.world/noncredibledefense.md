@@ -3,20 +3,20 @@ title: "NonCredibleDefense"
 name: "noncredibledefense"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/noncredibledefense"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-18 20:01:05"
 published: "2023-06-11 22:37:19"
-subscribers: 105
-posts: 1
-comments: 3
-weight: 1
-dau: 1
-wau: 6
-mau: 6
+subscribers: 126
+posts: 3
+comments: 5
+weight: 3
+dau: 2
+wau: 8
+mau: 11
 instances:
 - "lemmy_world"
 tags: 

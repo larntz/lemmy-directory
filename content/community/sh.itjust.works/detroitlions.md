@@ -3,7 +3,7 @@ title: "DetroitLions"
 name: "detroitlions"
 description: "Sublemmy for the Detroit Lions"
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/detroitlions"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 00:01:47"
 subscribers: 53
 posts: 13
-comments: 28
+comments: 30
 weight: 13
 dau: 4
 wau: 8

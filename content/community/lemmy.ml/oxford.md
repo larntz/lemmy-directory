@@ -3,7 +3,7 @@ title: "Oxford"
 name: "oxford"
 description: "A place to discuss the city of Oxford, UK. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oxford"

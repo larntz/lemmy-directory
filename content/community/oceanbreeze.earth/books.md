@@ -1,14 +1,14 @@
 ---
-title: "books" 
+title: "books@oceanbreeze.earth" 
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/books"
 host: oceanbreeze.earth
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:57:58"
 published: "2023-06-09 21:19:58"
 subscribers: 8
 posts: 4

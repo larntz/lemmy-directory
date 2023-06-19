@@ -3,7 +3,7 @@ title: "Smolpxl games"
 name: "smolpxl"
 description: "Play at [smolpxl.artificialworlds.net](https://smolpxl.artificialworlds.net/)Follow [@andybalaam@mastodon.social](https://mastodon.social/web/accounts/7995)"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smolpxl"

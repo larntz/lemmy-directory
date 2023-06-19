@@ -3,7 +3,7 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Discussion about general home automation ideas and projects."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/homeautomation"

@@ -3,7 +3,7 @@ title: "Sweet Home Alabama"
 name: "alabama"
 description: "A Fediverse community for news and discussion pertaining to the state of Alabama. Low effort/troll posts will be deleted and are subject to permaban."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alabama"

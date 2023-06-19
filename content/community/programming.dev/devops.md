@@ -3,14 +3,14 @@ title: "DevOps"
 name: "devops"
 description: "DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle."
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/devops"
 host: programming.dev
 lastmod: "2023-06-19 07:19:39"
 published: "2023-06-13 05:46:29"
-subscribers: 96
+subscribers: 97
 posts: 2
 comments: 2
 weight: 2

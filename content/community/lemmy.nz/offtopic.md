@@ -3,7 +3,7 @@ title: "Off topic"
 name: "offtopic"
 description: "This community is for NZ discussion about non-NZ things, or anything that doesn't fit in another community."
 type: community
-date: "2023-06-19 11:34:56"
+date: "2023-06-19 17:58:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/offtopic"

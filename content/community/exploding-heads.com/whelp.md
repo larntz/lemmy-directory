@@ -3,7 +3,7 @@ title: "whelp"
 name: "whelp"
 description: "Our own yelp to give reviews on business’s, give places 1-5 rating and give honest unfiltered reviews"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/whelp"

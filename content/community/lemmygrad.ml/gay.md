@@ -3,7 +3,7 @@ title: "Gay"
 name: "gay"
 description: "The gay community has many leftists, you wonder why? Because communism is about equality, among other things."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gay"

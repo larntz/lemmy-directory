@@ -3,7 +3,7 @@ title: "Pro 2A Liberals"
 name: "pro2aliberals"
 description: "This is a community dedicated to pro-gun liberals.  Users should in some way be left of center on certain issues but there is no purity test.  Unless someone is an obvious troll or violates site rules, they will probably not be removed."
 type: community
-date: "2023-06-19 11:37:01"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pro2aliberals"

@@ -3,7 +3,7 @@ title: "x-men"
 name: "xmen"
 description: "The home of all things X-Men on the fediverse, be it comic books, film, television, gaming or any other medium that Marvel's mutants have inspired people over the last half-century"
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xmen"

@@ -3,7 +3,7 @@ title: "Disc Golf"
 name: "discgolf"
 description: "Disc golf general discussionIcon from [iconduck](https://iconduck.com/icons/23312/disc-golf-basket), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)"
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/discgolf"

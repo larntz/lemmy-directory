@@ -3,7 +3,7 @@ title: "F-35 fails"
 name: "f35fails"
 description: "Documenting F-35 fails.The F-35 is the most expensive fighter jet ever conceived and built, and it keeps fucking up."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/f35fails"

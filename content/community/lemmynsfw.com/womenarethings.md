@@ -3,20 +3,20 @@ title: "womenarethings"
 name: "womenarethings"
 description: "This is a kink sub no actual hate against women is allowed."
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/womenarethings"
 host: lemmynsfw.com
 lastmod: "2023-06-16 20:25:17"
 published: "2023-06-14 15:30:28"
-subscribers: 192
-posts: 20
-comments: 3
-weight: 20
-dau: 1
-wau: 3
-mau: 3
+subscribers: 209
+posts: 24
+comments: 4
+weight: 24
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 

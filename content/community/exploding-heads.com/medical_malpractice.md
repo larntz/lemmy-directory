@@ -3,7 +3,7 @@ title: "Medical Malpractice"
 name: "medical_malpractice"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/medical_malpractice"
@@ -11,9 +11,9 @@ host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2022-09-18 16:52:39"
 subscribers: 3
-posts: 4
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 2

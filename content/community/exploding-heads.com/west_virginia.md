@@ -3,14 +3,14 @@ title: "West Virginia"
 name: "west_virginia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/west_virginia"
 host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2022-11-24 13:14:00"
-subscribers: 3
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

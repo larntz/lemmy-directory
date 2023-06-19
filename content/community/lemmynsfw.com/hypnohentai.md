@@ -3,7 +3,7 @@ title: "Hypno Hentai"
 name: "hypnohentai"
 description: "If you love erotic hypnotism themed hentai, doujinshi, manga, or hentai videos, this is the place for you!Icon by EtlabsotweJoin us at https://discord.gg/hypnohentai"
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hypnohentai"

@@ -3,14 +3,14 @@ title: "Terraria"
 name: "terraria"
 description: "Terraria discussion "
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/terraria"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 06:30:38"
-subscribers: 27
+subscribers: 28
 posts: 0
 comments: 0
 weight: 0

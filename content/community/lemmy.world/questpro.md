@@ -3,7 +3,7 @@ title: "Meta Quest Pro"
 name: "questpro"
 description: "General discussion about Meta's Quest Pro line of VR/MR headsets."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/questpro"

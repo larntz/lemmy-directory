@@ -3,7 +3,7 @@ title: "Linus Tech Tips"
 name: "linustechtips"
 description: "The unofficial but officially recognized community discussing the latest LinusTechTips, TechQuickie and other LinusMediaGroup content. Come and join us today!"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linustechtips"

@@ -3,7 +3,7 @@ title: "Fliegen in Deutschland (und EU)"
 name: "flying"
 description: "Freie Diskussion ums Fliegen und alles, was damit zu tun hat. Piloten, Flugingenieure, Fluglotsen, Bodenpersonal, ...*(For international and English-speaking flying-related topics, see [!flying@lemmyfly.org](https://lemmyfly.org/c/flying).)*Englisch ist toleriert, z. B. wenn jemand eine Frage zum Fliegen in Deutschland hat, aber dies sollte eine überwiegend deutschsprachige Community sein.Alle Arten der Luftfahrt sind hier willkommen: Flugzeuge, Hubschrauber, Luftschiffe und Ballons (ich weiß, die fahren und fliegen nicht), Ultraleicht, Segelflug, Tragschrauber, ...*___*"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/flying"

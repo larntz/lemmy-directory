@@ -3,17 +3,17 @@ title: "Good News Everyone"
 name: "goodnewseveryone"
 description: "A place to post good news and prevent doom scrolling!Prospective rules for now:1. posts must link from a reliable news source2. no reposts3. paywalled articles must be copy pasted4. avoid politics"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/goodnewseveryone"
 host: sh.itjust.works
 lastmod: "2023-06-13 21:29:37"
 published: "2023-06-13 21:02:11"
-subscribers: 91
-posts: 16
+subscribers: 95
+posts: 17
 comments: 7
-weight: 16
+weight: 17
 dau: 0
 wau: 0
 mau: 0

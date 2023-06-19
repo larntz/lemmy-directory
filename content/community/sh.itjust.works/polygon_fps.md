@@ -3,7 +3,7 @@ title: "PolygonFPS"
 name: "polygon_fps"
 description: "A community for the POLYGON FPS players on the Fediverse!"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/polygon_fps"

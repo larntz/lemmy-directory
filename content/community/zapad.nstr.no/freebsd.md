@@ -3,7 +3,7 @@ title: "freebsd"
 name: "freebsd"
 description: "News and discussions relating to the FreeBSD Operating System"
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/freebsd"

@@ -3,7 +3,7 @@ title: "MATE Desktop Environment"
 name: "mate"
 description: "Lemmy community for discussion of the MATE desktop environment.https://mate-desktop.org/# Rules- Before posting please make sure that your post is SFW if your post does not follow this rule it will be removed.- When posting in this community you must follow the Lemmy platform rules.- We do not tolerate offensive discussions or any harassment in this community.- Posts must relate to Linux and the MATE desktop environment."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mate"

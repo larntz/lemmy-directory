@@ -3,7 +3,7 @@ title: "Yuzu - Nintendo Switch Emulation"
 name: "yuzu"
 description: "A place for discussion of the Yuzu Switch Emulator.Discuss best Yuzu settings for various PC setups and devices, your favorite mods, or just hang out for updates on Yuzu.There are other communities dedicated to Piracy, so please refrain from discussing/linking directly to pirated content here. "
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yuzu"

@@ -3,7 +3,7 @@ title: "Tucson.Social Meta"
 name: "tucsocial"
 description: "Conversations about Tucson.Social, it's operations, software, feature requests, site fundraising, etc."
 type: community
-date: "2023-06-19 11:35:18"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/tucsocial"

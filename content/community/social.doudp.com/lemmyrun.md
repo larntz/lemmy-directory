@@ -3,7 +3,7 @@ title: "Lemmy.run Fediverse General Topics"
 name: "lemmyrun"
 description: "General Discussion for Lemmy.run Fediverse"
 type: community
-date: "2023-06-19 11:35:24"
+date: "2023-06-19 17:59:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/lemmyrun"

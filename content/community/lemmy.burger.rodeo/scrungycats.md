@@ -3,7 +3,7 @@ title: "Scrungy Cats"
 name: "scrungycats"
 description: "Cat making *that* weird face."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/scrungycats"
@@ -15,7 +15,7 @@ posts: 19
 comments: 10
 weight: 19
 dau: 1
-wau: 7
+wau: 6
 mau: 7
 instances:
 - "lemmy_burger_rodeo"

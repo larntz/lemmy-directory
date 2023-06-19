@@ -3,7 +3,7 @@ title: "Noam Chomsky"
 name: "chomsky"
 description: "This is a place to share and discuss content related to History, Politics, Media, Anarchism, Linguistics, Cognitive Science, Free Speech and everything else by people familiar with, or interested in learning about, Noam Chomsky."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chomsky"

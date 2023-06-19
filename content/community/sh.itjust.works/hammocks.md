@@ -3,14 +3,14 @@ title: "hammocks"
 name: "hammocks"
 description: "A place to discuss all things hammocks, including questions, gear, trips, reviews, and why sleeping in the sky is better than sleeping on the ground. "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/hammocks"
 host: sh.itjust.works
 lastmod: "2023-06-14 20:54:00"
 published: "2023-06-11 00:37:44"
-subscribers: 84
+subscribers: 86
 posts: 5
 comments: 25
 weight: 5

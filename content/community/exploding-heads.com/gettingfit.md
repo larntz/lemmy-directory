@@ -3,7 +3,7 @@ title: "Getting Fit"
 name: "gettingfit"
 description: "Community for getting fit, being athletic and motivating others to fo the same. Any info about losing weight, raising testosterone in men appreciated. Body progression pics are encouraged and this is a no body shaming community unless welcomed by the user posting. "
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/gettingfit"

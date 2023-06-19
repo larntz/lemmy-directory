@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Here we can discuss anything about this Lemmy instance/server itself."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/meta"
@@ -15,7 +15,7 @@ posts: 26
 comments: 151
 weight: 26
 dau: 1
-wau: 29
+wau: 23
 mau: 39
 instances:
 - "slrpnk_net"

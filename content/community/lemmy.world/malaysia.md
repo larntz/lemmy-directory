@@ -3,7 +3,7 @@ title: "Malaysia"
 name: "malaysia"
 description: "Life, culture, history, and news in Malaysia."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malaysia"
@@ -14,7 +14,7 @@ subscribers: 35
 posts: 19
 comments: 26
 weight: 19
-dau: 7
+dau: 3
 wau: 9
 mau: 10
 instances:

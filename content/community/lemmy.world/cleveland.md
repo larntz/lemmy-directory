@@ -3,7 +3,7 @@ title: "All about Cleveland, Ohio"
 name: "cleveland"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cleveland"
@@ -14,7 +14,7 @@ subscribers: 42
 posts: 5
 comments: 11
 weight: 5
-dau: 2
+dau: 1
 wau: 10
 mau: 11
 instances:

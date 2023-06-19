@@ -3,14 +3,14 @@ title: "SwitchToLinux"
 name: "switch_to_linux"
 description: "A place to ask for help and find FOSS replacements for applications you were using on proprietary OSs."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switch_to_linux"
 host: lemmy.ml
 lastmod: "2023-01-08 20:33:54"
 published: "2023-01-08 20:28:25"
-subscribers: 22
+subscribers: 23
 posts: 2
 comments: 2
 weight: 2

@@ -1,22 +1,22 @@
 ---
 title: "Apple" 
 name: "apple_enthusiast"
-description: "A community for everything Apple.**Rules:**  No NSFW Content.  No hate speech or personal attacks.  No Ads / Spamming.   **Communities of Interest:**   Apple Hardware      [Apple TV](https://lemmy.world/c/appletv)      [Apple Watch  ](https://lemmy.world/c/applewatch)      [iPad ](https://lemmy.world/c/ipad)       [iPhone ](https://lemmy.world/c/iphone_community)      [Mac](https://lemmy.world/c/mac_community)    Apple Software        [iOS](https://lemmy.world/c/ios_community)      [iPadOS](https://lemmy.world/c/ipados)     [macOS](https://lemmy.world/c/macos)     [tvOS](https://lemmy.world/c/tvos)   [watchOS](https://lemmy.world/c/watchos)     [Shortcuts](https://lemmy.world/c/shortcuts)  [Xcode](https://lemmy.world/c/xcode)                   "
+description: "A community for everything Apple.**Rules:**  No NSFW Content.  No Hate Speech or Personal Attacks.  No Ads / Spamming.   **Communities of Interest:**   Apple Hardware      [Apple TV](https://lemmy.world/c/appletv)      [Apple Watch  ](https://lemmy.world/c/applewatch)      [iPad ](https://lemmy.world/c/ipad)       [iPhone ](https://lemmy.world/c/iphone_community)      [Mac](https://lemmy.world/c/mac_community)    Apple Software        [iOS](https://lemmy.world/c/ios_community)      [iPadOS](https://lemmy.world/c/ipados)     [macOS](https://lemmy.world/c/macos)     [tvOS](https://lemmy.world/c/tvos)   [watchOS](https://lemmy.world/c/watchos)     [Shortcuts](https://lemmy.world/c/shortcuts)  [Xcode](https://lemmy.world/c/xcode)                   "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apple_enthusiast"
 host: lemmy.world
-lastmod: "2023-06-16 02:34:29"
+lastmod: "2023-06-17 03:25:02"
 published: "2023-06-09 19:17:21"
-subscribers: 2899
-posts: 40
-comments: 439
-weight: 40
-dau: 122
-wau: 287
-mau: 292
+subscribers: 3794
+posts: 53
+comments: 568
+weight: 53
+dau: 51
+wau: 367
+mau: 403
 instances:
 - "lemmy_world"
 tags: 

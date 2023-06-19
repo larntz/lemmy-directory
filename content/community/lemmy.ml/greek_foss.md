@@ -3,7 +3,7 @@ title: "Open Technologies Alliance (GFOSS): Greek Free Open Source Software and 
 name: "greek_foss"
 description: "Greek Community for Privacy, Open Source, Open Hardware, Self-Hosting, Machine Learning, Open Linked Data, and all things Technology, run by the [Greek Free Open Source Software Alliance](https://ellak.gr)"
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greek_foss"

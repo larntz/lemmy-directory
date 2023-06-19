@@ -3,7 +3,7 @@ title: "Tails"
 name: "tails"
 description: "Tails is a portable operating system that protects your privacy and helps you avoid censorship. https://tails.boum.org/index.en.html"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tails"

@@ -3,7 +3,7 @@ title: "tgsal"
 name: "tgsal"
 description: "not a porn/nsfw community, however im marking it anyway but an archive of satanism and stuff, usually satire"
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tgsal"

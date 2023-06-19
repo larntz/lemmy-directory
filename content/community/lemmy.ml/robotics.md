@@ -3,14 +3,14 @@ title: "Robotics"
 name: "robotics"
 description: "An approachable place to discuss the field of robotics. All are welcome.# RulesBe nice**Related Communities**- /c/selfdrivingvehicles"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/robotics"
 host: lemmy.ml
 lastmod: "2020-07-10 19:52:54"
 published: "2020-06-30 02:53:36"
-subscribers: 51
+subscribers: 53
 posts: 8
 comments: 0
 weight: 8

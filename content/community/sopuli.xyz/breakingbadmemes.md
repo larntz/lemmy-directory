@@ -3,7 +3,7 @@ title: "Breaking Bad Memes"
 name: "breakingbadmemes"
 description: "JESSE!! WE NEED TO MIGRATE TO LEMMY TO AVOID BIG TECH CHICANERY!! JESSE!!!! **Other communities from the Vinceverse:**[https://sh.itjust.works/c/okbuddychicanery]()"
 type: community
-date: "2023-06-19 11:35:32"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/breakingbadmemes"

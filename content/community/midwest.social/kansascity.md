@@ -1,22 +1,22 @@
 ---
 title: "Kansas City" 
 name: "kansascity"
-description: "Community dedicated to the Kansas City metro area. This includes Kansas City, Missouri, as well as suburbs in both Kansas and Missouri."
+description: "# Kansas CityThe City of Fountains, Paris of the Plains, the Heart of America. This community is for discussion about Kansas City and the Kansas City metro area.# Rules1. Standard midwest.social rules apply2. Stay on topic. Submissions should be related to Kansas City and the surrounding areas."
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kansascity"
 host: midwest.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 13:05:50"
 published: "2022-05-15 20:56:46"
 subscribers: 70
-posts: 11
-comments: 24
-weight: 11
-dau: 3
+posts: 12
+comments: 38
+weight: 12
+dau: 6
 wau: 17
-mau: 18
+mau: 19
 instances:
 - "midwest_social"
 tags: 

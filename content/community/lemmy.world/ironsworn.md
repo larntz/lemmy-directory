@@ -3,7 +3,7 @@ title: "Ironsworn"
 name: "ironsworn"
 description: "Subreddit dedicated to the Ironsworn tabletop role playing game by Shawn Tomkin.More info at ironswornrpg.com"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ironsworn"

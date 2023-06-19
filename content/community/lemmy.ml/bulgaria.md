@@ -3,7 +3,7 @@ title: "Bulgaria"
 name: "bulgaria"
 description: "(It might be too early for such a community and I'm probably the only one on here but nevertheless... ) A community for Bulgarians (wherever they may live) and for anyone interested in the country of Bulgaria.1. Please be civil2. Please keep macedonia-hate to a minimum (we are not reddit) "
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bulgaria"

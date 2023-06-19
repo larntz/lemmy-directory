@@ -3,7 +3,7 @@ title: "Expectation vs. Reality"
 name: "expectationvsreality"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://feddiverse.org/c/expectationvsreality"

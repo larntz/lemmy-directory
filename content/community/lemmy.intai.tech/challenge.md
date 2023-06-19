@@ -3,7 +3,7 @@ title: "Artificial Intelligence - Arena"
 name: "challenge"
 description: "Bring your jailbreaks and you anti jailbreaks your myths and your mythbusters, push the edges of AI adversarial with a friend. "
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/challenge"

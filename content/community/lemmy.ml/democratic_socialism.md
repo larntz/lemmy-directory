@@ -3,7 +3,7 @@ title: "Welcome to /c/democratic_socialism."
 name: "democratic_socialism"
 description: "Democratic socialists believe that our economy and society should be run democratically—to meet public needs, not to make profits for a few. To achieve a more just society, many structures of our government and economy must be radically transformed through greater economic and social democracy so that ordinary people can participate in the many decisions that affect our lives."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/democratic_socialism"

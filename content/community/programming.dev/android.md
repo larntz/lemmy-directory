@@ -3,7 +3,7 @@ title: "Android"
 name: "android"
 description: "Android news for android developers. Everything that happens in android world.  For Android development specific topics please see [/c/android_dev](https://programming.dev/c/android_dev)"
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android"

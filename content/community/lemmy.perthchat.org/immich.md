@@ -3,7 +3,7 @@ title: "Immich - High performance self-hosted photo and video backup solution"
 name: "immich"
 description: "To discuss the use of [Immich](https://github.com/immich-app/immich)"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/immich"

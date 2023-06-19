@@ -3,7 +3,7 @@ title: "Blogs"
 name: "odat_blogs"
 description: "Blags about anything are welcome here150 word minimum per article/post"
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/odat_blogs"

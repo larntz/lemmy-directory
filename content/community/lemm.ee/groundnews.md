@@ -3,7 +3,7 @@ title: "Ground News"
 name: "groundnews"
 description: "Examining biases and breaking echo chambers. Please don't post links to news sites, use the Ground News (or AllSides) that provide bias analysis."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/groundnews"

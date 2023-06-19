@@ -3,7 +3,7 @@ title: "PSX - The Original Playstation"
 name: "psx"
 description: "It's nostalgia overload as we discuss the most influential gaming system ever released! The original PlayStation, later called PSOne [PSX Mods Wiki](https://consolemods.org/wiki/PS1:PS1_Mods_Wiki)"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/psx"

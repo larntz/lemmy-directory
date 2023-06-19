@@ -3,7 +3,7 @@ title: "Mildly Infuriating"
 name: "mildlyinfuriating"
 description: "For those who desire the mildly infuriating.Please refrain from reposting memes. It's a new community we do not need recycled content! Thanks! Unhappy posting!"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mildlyinfuriating"

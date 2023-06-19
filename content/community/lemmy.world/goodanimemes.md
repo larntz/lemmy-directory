@@ -3,7 +3,7 @@ title: "GoodAnimemes"
 name: "goodanimemes"
 description: "We Make Anime memes, they might be good, I'm not too certain. Anyways, welcome to Goodanimemes!"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goodanimemes"

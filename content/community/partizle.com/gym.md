@@ -3,7 +3,7 @@ title: "Fitness / The Gym"
 name: "gym"
 description: "A place to discuss fitness, the gym, and gym life"
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:55"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/gym"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 16:09:35"
 published: "2023-06-09 11:41:19"
 subscribers: 23
 posts: 2
-comments: 7
+comments: 8
 weight: 2
 dau: 1
 wau: 4

@@ -3,7 +3,7 @@ title: "Sable "
 name: "sable_game"
 description: "For discussion & questions regarding the open world adventure game Sable. Developed by Shedworks & published by Raw Fury."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sable_game"

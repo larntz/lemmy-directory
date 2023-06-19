@@ -1,16 +1,16 @@
 ---
 title: "Shiny Videos" 
 name: "shinyvids"
-description: "Description not available."
+description: "A space dedicated for links to shiny videos"
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:35"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shinyvids"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:16:37"
 published: "2023-06-19 10:16:47"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

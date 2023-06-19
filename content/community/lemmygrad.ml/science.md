@@ -3,7 +3,7 @@ title: "Science"
 name: "science"
 description: "This is a subcom related to all the sciences out there. Post anything science-related here! All articles are welcome so long as you do not post pseudoscience. This especially goes for so-called race science and other things like it. "
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/science"

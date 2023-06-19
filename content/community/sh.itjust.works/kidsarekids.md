@@ -3,7 +3,7 @@ title: "KidsAreKids"
 name: "kidsarekids"
 description: "Are the end of the day, kids are just kids"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/kidsarekids"

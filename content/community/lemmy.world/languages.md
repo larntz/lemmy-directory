@@ -3,7 +3,7 @@ title: "Languages and Linguistics | Polyglots, Language Learners and Linguists!"
 name: "languages"
 description: "A community for languages, linguistics and people interested in both!"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/languages"

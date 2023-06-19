@@ -3,7 +3,7 @@ title: "HAYRETIC"
 name: "hayretic"
 description: "the HAYRETIC community"
 type: community
-date: "2023-06-19 11:34:51"
+date: "2023-06-19 17:58:40"
 draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/hayretic"

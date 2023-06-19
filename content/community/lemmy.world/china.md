@@ -1,16 +1,16 @@
 ---
-title: "China" 
+title: "China 中国" 
 name: "china"
 description: "Culture, history, and news of the world's most populous nation."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 18:00:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/china"
 host: lemmy.world
-lastmod: "2023-06-12 00:48:50"
+lastmod: "2023-06-17 01:56:50"
 published: "2023-06-11 14:20:19"
-subscribers: 13
+subscribers: 14
 posts: 8
 comments: 1
 weight: 8

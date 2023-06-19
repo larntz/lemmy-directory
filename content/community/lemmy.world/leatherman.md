@@ -3,7 +3,7 @@ title: "Leatherman"
 name: "leatherman"
 description: "A community for the famed multitool company Leatherman. We can all anxiously wait for the ARC to release together!"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leatherman"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

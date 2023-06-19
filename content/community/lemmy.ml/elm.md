@@ -3,7 +3,7 @@ title: "Elm"
 name: "elm"
 description: "A delightful language for reliable web apps"
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elm"

@@ -3,7 +3,7 @@ title: "That's Very Cool (aka. that's actually very cool)"
 name: "thatsverycool"
 description: "There isn't one single cool concept. Nevertheless, one important thing is that cool is widely thought desirable."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thatsverycool"

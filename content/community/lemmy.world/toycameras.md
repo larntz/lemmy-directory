@@ -3,7 +3,7 @@ title: "Toy Cameras"
 name: "toycameras"
 description: "LoFi photography - Holga ~ Lomography ~ Sprocket Rocket ~ Diana ~ Superheadz ~ Harinezumi ~ Keychain Cams ~ Cardboard Cams ~ DIY Tin-Can-Cams ~ Soviet LOMO Cams...and anything else toy camera.Experimental processes, films and digital glitch hacks, expired film, welcome. If you're playing with a camera, it's a toy."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/toycameras"

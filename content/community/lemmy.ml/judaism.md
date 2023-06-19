@@ -3,7 +3,7 @@ title: "Judaism"
 name: "judaism"
 description: "A place for things about Judaism."
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/judaism"

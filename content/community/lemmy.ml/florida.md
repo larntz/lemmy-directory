@@ -3,7 +3,7 @@ title: "Florida"
 name: "florida"
 description: "Florida issues related community"
 type: community
-date: "2023-06-19 11:37:02"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/florida"

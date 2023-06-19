@@ -3,7 +3,7 @@ title: "JRPG news and discussion"
 name: "jrpg"
 description: "Japanese role playing games talkFeel free to tell which JRPGs you are currently playing or waiting for!"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:59"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/jrpg"

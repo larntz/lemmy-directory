@@ -3,7 +3,7 @@ title: "carnivorous_plants"
 name: "carnivorousplants"
 description: "~UNDER CONSTRUCTION PARDON OUR DUST~New here, loved r/carnivorousplants so repotted over here!  Come on by!Rules:- Don't be an ass- All carnivores and and quasi-carnivores welcome- Pics and questions welcome!- News (habitat numbers, generally interesting articles etc) welcome!"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carnivorousplants"

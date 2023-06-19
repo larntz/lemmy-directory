@@ -3,14 +3,14 @@ title: "Noticias en Español"
 name: "noticias"
 description: "Noticias en Español"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/noticias"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-05-10 22:05:32"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

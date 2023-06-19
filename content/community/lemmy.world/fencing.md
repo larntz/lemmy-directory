@@ -3,7 +3,7 @@ title: "Fencing"
 name: "fencing"
 description: "Everything to do with the sport of fencing (epee, saber, foil)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fencing"
@@ -15,7 +15,7 @@ posts: 5
 comments: 2
 weight: 5
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "lemmus"
 name: "lemmus"
 description: "For all posts related to the lemmus.org instance."
 type: community
-date: "2023-06-19 11:35:31"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmus.org/c/lemmus"

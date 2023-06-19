@@ -3,7 +3,7 @@ title: "TrueAnon Podcast"
 name: "trueanon"
 description: "This community is for fans of the [TrueAnon Podcast](https://www.patreon.com/TrueAnonPod/posts), the first and only anti-pedophile podcast created after the arrest of Jeffrey Epstein. "
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trueanon"

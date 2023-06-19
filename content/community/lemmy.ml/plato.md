@@ -3,7 +3,7 @@ title: "Plato"
 name: "plato"
 description: "A sublemmy for the app game Plato."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plato"

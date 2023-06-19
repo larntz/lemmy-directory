@@ -3,7 +3,7 @@ title: "Deutsch Als Fremdsprache"
 name: "deutsch_lernen"
 description: "Ein Forum für alle DeutschlernerInnenViel SpaßA forum for people learning German.Only language learning forum I could find on lemmy :)"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/deutsch_lernen"

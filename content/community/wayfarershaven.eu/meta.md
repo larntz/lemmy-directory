@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "This community is for talking about the Wayfarers Haven instance - updates, new communities, changes that you might like to see, etc."
 type: community
-date: "2023-06-19 11:35:17"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/meta"

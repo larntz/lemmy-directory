@@ -3,7 +3,7 @@ title: "lisp"
 name: "lisp"
 description: "Discussions on the LISP programming language"
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/lisp"

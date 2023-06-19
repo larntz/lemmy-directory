@@ -3,7 +3,7 @@ title: "Home Made Renewable Energy Systems"
 name: "hmres"
 description: "A community to discuss making renewable energy systems at home.Want to turn a PC fan into a generator for your vertical axis wind turbine?  Got an old washing machine that might be good with a pelton wheel on it?This is your place."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hmres"
@@ -15,7 +15,7 @@ posts: 6
 comments: 7
 weight: 6
 dau: 2
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

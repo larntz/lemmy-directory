@@ -3,7 +3,7 @@ title: "Chicago"
 name: "chicago"
 description: "Welcome to the Lemmy community for Chicago, Illinois, USA."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/chicago"

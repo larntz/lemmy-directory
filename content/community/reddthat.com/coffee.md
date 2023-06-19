@@ -3,7 +3,7 @@ title: "Coffee"
 name: "coffee"
 description: "Coffee, Coffee, Coffee!![Need Coffee](https://reddthat.com/pictrs/image/04060dc2-994f-4e59-b1ab-5e7ff721135b.jpeg)# Rules- Standard Reddthat rules apply - See our sidebar [here](https://reddthat.com)- Posts must be about coffee- No Spam or Self-Advertising- Memes are okay## Looking for extra moderator helpWant to help moderate? I want help!"
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:54"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/coffee"

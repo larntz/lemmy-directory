@@ -3,7 +3,7 @@ title: "Washington Wizards"
 name: "washingtonwizards"
 description: "Rules (under construction)1 -  Treat others as you'd like to be treated2 - preface article links with the author's last name in square brackets, like [Robbins] ...3 - Do not editorialize article titles or tweets/toots.  Copy the article title or tweet/toot exactly as the author wrote it."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 18:00:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washingtonwizards"
@@ -15,7 +15,7 @@ posts: 10
 comments: 9
 weight: 10
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

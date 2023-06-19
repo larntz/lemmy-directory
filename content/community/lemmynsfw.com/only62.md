@@ -3,17 +3,17 @@ title: "Only 62"
 name: "only62"
 description: "Asian amateur only"
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/only62"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 11:32:05"
-subscribers: 29
-posts: 3
+subscribers: 31
+posts: 10
 comments: 0
-weight: 3
+weight: 10
 dau: 1
 wau: 1
 mau: 1

@@ -3,7 +3,7 @@ title: "Printmaking"
 name: "printmaking"
 description: "Anything to do with printmaking-relief and linocutmonoprinting and stencilscollographengravingetchinglithographyscreenprintnot 3D printing or printers"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/printmaking"

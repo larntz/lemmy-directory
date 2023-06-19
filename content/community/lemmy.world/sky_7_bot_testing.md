@@ -3,7 +3,7 @@ title: "dev and testing for bots"
 name: "sky_7_bot_testing"
 description: "|Op|Comp| |Date|Score| |:----|:----|:----|:----|:----|| **Leeds**|FR|H|07/12| - | | **Lyon**|FR|H|07/19| - | |**Arsenal**|FR|A|07/22| - | | **Wrexham**|FR|H|07/26| - | |**Real Madrid**|FR|A|07/27| - | "
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sky_7_bot_testing"

@@ -3,7 +3,7 @@ title: "Tech & Hacking"
 name: "techhacking"
 description: "Latest news about technology and hacking , exploits news straight from the deep web and guides to deal with blackhat (hire a hacker)"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techhacking"

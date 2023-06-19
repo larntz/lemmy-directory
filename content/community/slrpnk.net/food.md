@@ -3,7 +3,7 @@ title: "Food"
 name: "food"
 description: "Everything related to cooking, nutrition and food preservation"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/food"
@@ -15,7 +15,7 @@ posts: 15
 comments: 51
 weight: 15
 dau: 1
-wau: 20
+wau: 19
 mau: 29
 instances:
 - "slrpnk_net"

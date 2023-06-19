@@ -3,7 +3,7 @@ title: "PKM Personal Knowledge Management"
 name: "pkm"
 description: "Konzepte, Methoden und Tools des pkm; deutschsprachig"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/pkm"

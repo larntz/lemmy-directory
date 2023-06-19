@@ -3,18 +3,18 @@ title: "LipsThatGrip"
 name: "lipsthatgrip"
 description: "Dedicated to pussy lips that grip the cock as they're getting fucked.Inspired by /r/LipsThatGrip but unaffiliated."
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lipsthatgrip"
 host: lemmynsfw.com
 lastmod: "2023-06-14 02:02:19"
 published: "2023-06-13 04:03:13"
-subscribers: 1034
-posts: 36
+subscribers: 1075
+posts: 37
 comments: 19
-weight: 36
-dau: 3
+weight: 37
+dau: 1
 wau: 11
 mau: 11
 instances:

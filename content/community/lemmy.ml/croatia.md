@@ -3,7 +3,7 @@ title: "Croatia / Hrvatska"
 name: "croatia"
 description: "The largest Croatia community on the fediverse! Feel free to post in English or Croatian!Pravila: https://r.nf/r/croatia/wiki/subreddit_rules (red*it kopija)Rules: https://r.nf/r/croatia/wiki/subreddit_rules#wiki_english_version (red*it copy)"
 type: community
-date: "2023-06-19 11:37:02"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/croatia"

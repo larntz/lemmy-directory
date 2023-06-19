@@ -3,14 +3,14 @@ title: "Wine 🍷 | Wine Enthusiasts and Winemaking"
 name: "wine"
 description: "A community for oenophiles, vintners, sommeliers and more. For all those who share our love of the nectar of the gods."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wine"
 host: lemmy.world
 lastmod: "2023-06-13 13:51:31"
 published: "2023-06-13 04:04:07"
-subscribers: 40
+subscribers: 45
 posts: 4
 comments: 25
 weight: 4

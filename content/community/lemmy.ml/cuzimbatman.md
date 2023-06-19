@@ -3,7 +3,7 @@ title: "cuzimbatman"
 name: "cuzimbatman"
 description: "Testing user/community name clash with AP | Please ignore"
 type: community
-date: "2023-06-19 11:36:49"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cuzimbatman"

@@ -3,7 +3,7 @@ title: "bikes"
 name: "bikes"
 description: "Everything to do with biking! What are you riding?"
 type: community
-date: "2023-06-19 11:35:25"
+date: "2023-06-19 17:59:15"
 draft: false
 nsfw: false
 actor_id: "https://honeyhive-u4873.vm.elestio.app/c/bikes"

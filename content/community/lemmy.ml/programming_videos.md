@@ -3,7 +3,7 @@ title: "Programming Videos"
 name: "programming_videos"
 description: "A place to share videos related to programming, be it web, video game, or any other kind of development."
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/programming_videos"

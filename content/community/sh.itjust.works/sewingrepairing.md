@@ -3,14 +3,14 @@ title: "Sewing, Repairing and Reducing Waste"
 name: "sewingrepairing"
 description: "A place to share ideas, knowledge and creations with textiles.  The focus is on reducing waste, whether that be sewing from the scraps left from other projects, using the end of rolls and remnants, or repairing and remaking finished pieces.  "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sewingrepairing"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 21:21:52"
-subscribers: 253
+subscribers: 256
 posts: 7
 comments: 28
 weight: 7

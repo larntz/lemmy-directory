@@ -3,7 +3,7 @@ title: "made it car"
 name: "lambos"
 description: "Why haven't you made it yet?"
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lambos"

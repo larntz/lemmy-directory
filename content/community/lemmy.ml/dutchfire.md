@@ -3,14 +3,14 @@ title: "DutchFire"
 name: "dutchfire"
 description: "De opvolger van /r/DutchFIRE"
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dutchfire"
 host: lemmy.ml
 lastmod: "2023-06-10 23:45:51"
 published: "2023-06-10 23:45:16"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 5
 weight: 1

@@ -1,16 +1,16 @@
 ---
 title: "pythonhelp" 
 name: "pythonhelp"
-description: "A community for posts that includehelping Python programmers. #Please feel free to join the Discord:https://discord.gg/39K88eCxxr"
+description: "A community for posts that includehelping Python programmers. #Pythonhelp webchat:  https://web.libera.chat/#rpythonhelp  Discord:  https://discord.gg/39K88eCxxr"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pythonhelp"
 host: lemmy.world
-lastmod: "2023-06-16 17:00:08"
+lastmod: "2023-06-19 15:46:43"
 published: "2023-06-05 13:57:17"
-subscribers: 166
+subscribers: 167
 posts: 1
 comments: 0
 weight: 1

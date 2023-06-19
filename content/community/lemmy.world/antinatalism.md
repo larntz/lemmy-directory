@@ -3,7 +3,7 @@ title: "Antinatalism"
 name: "antinatalism"
 description: "Welcome to our antinatalist discussion community, a space devoted to exploring and discussing the philosophical position of antinatalism. Here, we delve into the belief that procreation is morally wrong, focusing on the ethical, ecological, and societal aspects that surround this perspective. We encourage respectful dialogues, intellectual curiosity, and an open-minded approach towards understanding the implications and challenges of antinatalism in our world."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/antinatalism"

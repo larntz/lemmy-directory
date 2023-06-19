@@ -3,7 +3,7 @@ title: "Slovenija"
 name: "slovenija"
 description: "## Dobrodošli!Skupina za Slovence na lemmy.world.Angleška verzija - [!slovenia](https://lemmy.world/c/slovenia)## Pravila- bodi prijazna/en."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slovenija"

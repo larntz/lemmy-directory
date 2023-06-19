@@ -3,7 +3,7 @@ title: "Tampa Bay Buccaneers : ✌Time Super Bowl Champions"
 name: "buccaneers"
 description: "Placeholder for people transitioning from the /r/Buccaneers SubredditYour Mom's Favorite NFL Related Forum."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buccaneers"

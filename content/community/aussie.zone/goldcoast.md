@@ -3,7 +3,7 @@ title: "Gold Coast"
 name: "goldcoast"
 description: "A place to discuss the Gold Coast.Please follow the  [aussie.zone](https://aussie.zone) rules and be nice to each other.Banner Credit: [@Stoney@aussie.zone](https://aussie.zone/u/Stoney) Icon Credit:  [From Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borobi_mascot_of_the_2018_Commonwealth_Games_at_Surfers_Paradise,_Queensland_01.jpg) []() []()"
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:59:00"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/goldcoast"

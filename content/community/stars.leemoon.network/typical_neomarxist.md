@@ -3,7 +3,7 @@ title: "типичный неомарксист"
 name: "typical_neomarxist"
 description: "мы больше такого не допустим!!!!юморески от и для левого движа"
 type: community
-date: "2023-06-19 11:35:22"
+date: "2023-06-19 17:59:11"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/typical_neomarxist"

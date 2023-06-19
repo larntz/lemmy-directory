@@ -3,20 +3,20 @@ title: "Redhead"
 name: "redhead"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/redhead"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 07:43:09"
-subscribers: 293
-posts: 8
+subscribers: 317
+posts: 9
 comments: 4
-weight: 8
+weight: 9
 dau: 1
-wau: 7
-mau: 7
+wau: 8
+mau: 8
 instances:
 - "lemmynsfw_com"
 tags: 

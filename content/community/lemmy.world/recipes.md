@@ -3,7 +3,7 @@ title: "Recipes"
 name: "recipes"
 description: "Transform Ordinary Ingredients into Extraordinary Delights: Unleash Your Inner Chef with Our Inspiring Recipes"
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/recipes"

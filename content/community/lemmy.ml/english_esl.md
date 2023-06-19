@@ -3,7 +3,7 @@ title: "English As a Second Language"
 name: "english_esl"
 description: "All things for those who use the English language but still there's a lot to learn.Please follow the instance's guidelines and keep on-topic. Any level of question is welcome, either from a beginner or from an almost-native speaker."
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/english_esl"

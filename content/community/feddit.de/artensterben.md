@@ -3,7 +3,7 @@ title: "Artensterben"
 name: "artensterben"
 description: "Verwandte Communitys:[/c/klimawandel](https://feddit.de/c/klimawandel)::: spoiler AttributionPolar bear icon created by [dDara - Flaticon](https://www.flaticon.com/free-icons/polar-bear):::"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/artensterben"

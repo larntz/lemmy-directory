@@ -3,7 +3,7 @@ title: "News"
 name: "news"
 description: "A place to discuss news. All regions welcome. Please avoid fake news or pure opinion pieces."
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/news"

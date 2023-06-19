@@ -3,7 +3,7 @@ title: "Rust: Support"
 name: "support"
 description: "# Rules- Ask any question relevant to the Rust language and its ecosystem. No such questions shall ever be considered dumb!- Ask for contributions for your crate"
 type: community
-date: "2023-06-19 11:35:01"
+date: "2023-06-19 17:58:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/support"

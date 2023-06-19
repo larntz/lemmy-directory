@@ -3,7 +3,7 @@ title: "spanish"
 name: "spanish"
 description: "English discussions and links about the Spanish language, as well as Spanish learning resources. Posts and comments written in Spanish are welcome as well."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/spanish"

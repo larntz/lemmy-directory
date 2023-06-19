@@ -3,7 +3,7 @@ title: "CitrUs Administration"
 name: "citrusadmin"
 description: "Updates, changes, and announcements for the CitrUs lemmy instance"
 type: community
-date: "2023-06-19 11:35:13"
+date: "2023-06-19 17:59:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.maples.dev/c/citrusadmin"

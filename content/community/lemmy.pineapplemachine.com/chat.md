@@ -3,7 +3,7 @@ title: "chat"
 name: "chat"
 description: "A place for general chat and discussion, whatever is on your mind."
 type: community
-date: "2023-06-19 11:34:57"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/chat"

@@ -3,7 +3,7 @@ title: "Wheel of Time - TV Show on Amazon Prime"
 name: "wotshow"
 description: "This is an unofficial group for fans of the Wheel of Time TV show.  Let's keep the toxicity to a minimum and just enjoy it."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wotshow"

@@ -3,7 +3,7 @@ title: "Tactical Gear"
 name: "tacticalgear"
 description: "A place to discuss gear, guns, usage.Rules:-No selling, buying, or trading-No NSFW content-Be civil (No name calling, insults, shaming)-No politics unless directly related to gear[Multi Instanced with lemm.ee ](https://lemm.ee/c/tacticalgear)"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tacticalgear"

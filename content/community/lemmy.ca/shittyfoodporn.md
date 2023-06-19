@@ -3,14 +3,14 @@ title: "Shitty Food Porn"
 name: "shittyfoodporn"
 description: "**Shitty Food Porn**This community is for posting *shitty* food.If you want good looking food, check out [Food Porn](foodporn@lemmy.world).**Other Shitty Communities*** [shittylifeprotips@lemmy.world](https://lemmy.world/c/shittylifeprotips)* [shittycarmods@lemmy.world](https://lemmy.world/c/shittycarmods)**Lemmy.ca Rules*** No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.* Be respectful. Everyone should feel welcome here.* No porn.* No Ads / Spamming."
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shittyfoodporn"
 host: lemmy.ca
 lastmod: "2023-06-17 15:31:33"
 published: "2023-06-13 04:14:29"
-subscribers: 176
+subscribers: 188
 posts: 7
 comments: 24
 weight: 7

@@ -3,14 +3,14 @@ title: "That Was Useful!"
 name: "thatwasuseful"
 description: "Have you ever found something that helped you with a very specific problem? A website, product or anything else, really.This is the place to share with others who might be having the same issues as you! Share your knowledge so others don't have to go through the headache you did."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/thatwasuseful"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-08 20:57:09"
 published: "2023-06-08 20:55:49"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 7
 weight: 4

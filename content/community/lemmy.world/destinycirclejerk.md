@@ -3,7 +3,7 @@ title: "Destinycirclejerk"
 name: "destinycirclejerk"
 description: "r/destinycirclejerk reborn: the fomo must live on"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinycirclejerk"

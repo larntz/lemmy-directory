@@ -3,14 +3,14 @@ title: "Social"
 name: "social"
 description: "Discussions related to social media, people, social topics, culture, and so on"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/social"
 host: exploding-heads.com
 lastmod: "2023-02-07 18:37:52"
 published: "2023-02-01 22:41:07"
-subscribers: 4
+subscribers: 3
 posts: 2
 comments: 1
 weight: 2

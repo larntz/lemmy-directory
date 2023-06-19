@@ -3,7 +3,7 @@ title: "Monkeypox"
 name: "monkeypox"
 description: "Monkeypox is a viral disease that occurs mostly in central and western Africa. It is called monkeypox because it was first identified in laboratory monkeys. "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/monkeypox"

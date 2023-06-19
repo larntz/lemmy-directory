@@ -3,7 +3,7 @@ title: "Lemme Help"
 name: "lemme_help"
 description: "This is a place to ask your lemme related questions. Especially if you are a new user"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lemme_help"

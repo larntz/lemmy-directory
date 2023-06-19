@@ -3,7 +3,7 @@ title: "Map collection"
 name: "mapcollection"
 description: "A community to share your maps and data visualizations"
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mapcollection"

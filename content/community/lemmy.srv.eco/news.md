@@ -3,7 +3,7 @@ title: "📰 News"
 name: "news"
 description: "#### Rules1. Posts must link to an article2. Post titles must use the unedited headline from the article3. Articles older than one year at the time of posting should include in the title the date the article was published"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/news"

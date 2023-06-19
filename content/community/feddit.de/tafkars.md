@@ -3,7 +3,7 @@ title: "The API formerly known as..."
 name: "tafkars"
 description: "Project to enable 3rd party apps to access Lemmy through a familiar API from a kinder time.[Github](https://github.com/derivator/tafkars)"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tafkars"

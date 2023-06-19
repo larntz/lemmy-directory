@@ -3,7 +3,7 @@ title: "Outsider Music"
 name: "outsidermusic"
 description: "A community for fans of outsider music"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/outsidermusic"

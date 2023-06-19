@@ -3,17 +3,17 @@ title: "theNetherlands"
 name: "thenetherlands"
 description: "**Welkom op c/theNetherlands!**Voor het delen van alles gerelateerd aan Nederland: nieuws, sport, humor, cultuur en vragen.**Welcome to c/theNetherlands!**For sharing anything related to the Netherlands: news, sports, humor, culture and questions."
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/thenetherlands"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 17:34:00"
-subscribers: 130
-posts: 4
-comments: 26
-weight: 4
+subscribers: 147
+posts: 6
+comments: 29
+weight: 6
 dau: 5
 wau: 16
 mau: 16

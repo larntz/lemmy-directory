@@ -3,7 +3,7 @@ title: "Artist Lounge"
 name: "artistlounge"
 description: "A place to discuss anything art related, including techniques, materials, and the business of promoting and selling artOther communities you may want to checkout[Abstract Art](https://lemmy.world/c/abstractart@lemmy.ml)[Abstract Photography](https://lemmy.ml/c/abstractphotography)[Art Share](https://lemmy.world/c/artshare)[Collage](https://lemmy.ml/c/collage)[Pottery](https://lemmy.world/c/pottery)[Photography](https://lemmy.world/c/photography)[Printmaking](https://lemmy.ml/c/printmaking)[Watercolour](https://lemmy.ml/c/watercolor)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artistlounge"

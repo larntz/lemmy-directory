@@ -1,19 +1,19 @@
 ---
 title: "Ghazi-in-Exile" 
 name: "ghazi"
-description: "A community for progressive issues, social justice and LGBT+ causes in media, gaming, entertainment and tech. Inofficial interim replacement for Reddit's r/GamerGhazi"
+description: "A community for progressive issues, social justice and LGBT+ causes in media, gaming, entertainment and tech. Inofficial interim replacement for Reddit's r/GamerGhaziContent should be articles, video essays, podcasts about topics relevant to the forum. No memes, single images or tweets/toots/... please!Be respectful and civil with each other. No bigotry of any kind allowed. No gatekeeping and being rude to people who don't agree with you. Absolutely no TERFs and transphobia, racism, dismissing of war crimes and praise of fascists."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ghazi"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 12:20:10"
 published: "2023-06-16 16:13:56"
-subscribers: 22
-posts: 7
+subscribers: 24
+posts: 8
 comments: 4
-weight: 7
+weight: 8
 dau: 1
 wau: 1
 mau: 1

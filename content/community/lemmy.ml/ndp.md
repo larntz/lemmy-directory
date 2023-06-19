@@ -3,7 +3,7 @@ title: "New Democratic Party"
 name: "ndp"
 description: "Unofficial gathering place for supporters of Jagmeet Singh, Canada's New Democratic Party, and its provincial sections.The NDP is a centre-left to left-wing political party that contests federal and provincial elections in Canada."
 type: community
-date: "2023-06-19 11:36:44"
+date: "2023-06-19 18:00:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ndp"

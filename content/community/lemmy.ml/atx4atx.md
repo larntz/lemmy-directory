@@ -3,7 +3,7 @@ title: "Atx4Atx: Austin's Meetup Group"
 name: "atx4atx"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/atx4atx"

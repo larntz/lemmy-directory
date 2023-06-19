@@ -3,7 +3,7 @@ title: "Heathenry"
 name: "heathenry"
 description: "A place for followers of the Heathen path to connect, discuss, and share anything related to Heathenry and the worship of deities in the germanic regions. If you are new to Heathenry please check out www.thelongship.net for helpful resources on following this path.No racism, transphobia, sexism, homophobia, or any other form of bigotry will be tolerated. That means NO FOLKISM.Please keep discussion civil. You don't necessarily have to be a Heathen to be welcome in the discussion here, but you do have to respect the path and its adherents.Please keep the discussion Heathen centric. Again, you do not have to be a heathen to post here, but your posts must be connected to Heathenry in some way. If you are another variety of pagan, and wish to discuss a non heathen path, please visit /c/paganism. "
 type: community
-date: "2023-06-19 11:36:48"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/heathenry"

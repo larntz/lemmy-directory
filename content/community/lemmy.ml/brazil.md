@@ -3,7 +3,7 @@ title: "Brazil"
 name: "brazil"
 description: "A community for the international community to discuss all the things about Brazil!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brazil"

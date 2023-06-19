@@ -3,7 +3,7 @@ title: "Jobs"
 name: "jobs"
 description: "A community to discuss jobs, whether that's regarding to the search, advice on how to negotiate an offer, or just an open forum to vent.This is not a place intended for you to post job listings."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jobs"

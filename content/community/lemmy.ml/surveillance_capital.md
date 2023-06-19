@@ -3,7 +3,7 @@ title: "surveillance capitalism"
 name: "surveillance_capital"
 description: "Surveillance capitalism refers to an economic system centred around the commodification of personal data with the core purpose of profit-making. "
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/surveillance_capital"

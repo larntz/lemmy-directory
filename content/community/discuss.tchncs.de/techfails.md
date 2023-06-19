@@ -3,7 +3,7 @@ title: "Tech Fails"
 name: "techfails"
 description: "## Oof&nbsp;mangled devices  corporate bungling  tech support horror stories  software gore  tech TIFUs  iiiiiiitttttttttttt  planning meeting defenestration  crushed cto dreams   \u00a0 \u00a0 \u00a0 …and the like.&nbsp;"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/techfails"
@@ -14,7 +14,7 @@ subscribers: 84
 posts: 5
 comments: 13
 weight: 5
-dau: 2
+dau: 1
 wau: 11
 mau: 11
 instances:

@@ -3,7 +3,7 @@ title: "NIGHT CITY BAR"
 name: "nightcitybar"
 description: "Welcome to [NIGHT CITY BAR](https://nightcity.bar/), the ultimate cyberpunk-inspired, LGBTQIA+ friendly Fediverse instance for edgerunners, netrunners, and cyberpunks."
 type: community
-date: "2023-06-19 11:35:18"
+date: "2023-06-19 17:59:08"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/nightcitybar"

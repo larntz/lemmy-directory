@@ -3,7 +3,7 @@ title: "Dungeon Crawler Carl!"
 name: "dungeoncrawlercarl"
 description: "A place for fans of the *Dungeon Crawler Carl* series by Matt Dinniman.All hail Princess Donut!Holler at me if you want to moderate or have created a conflicting community in another lemmy instance."
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dungeoncrawlercarl"

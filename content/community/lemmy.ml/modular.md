@@ -3,7 +3,7 @@ title: "Modular Synths"
 name: "modular"
 description: "A community for modular synths of all persuasions (Eurorack, Serge, Buchla, etc...)"
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modular"

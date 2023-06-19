@@ -3,7 +3,7 @@ title: "Biden Crime Family"
 name: "letsgobrandon"
 description: "They stole an election and installed a corrupt figurehead suffering from dementia.Who is really running the government?"
 type: community
-date: "2023-06-19 11:35:38"
+date: "2023-06-19 17:59:27"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/letsgobrandon"

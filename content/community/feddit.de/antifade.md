@@ -3,14 +3,14 @@ title: "Antifa DE"
 name: "antifade"
 description: "**Antifaschismus im deutschsprachigen Raum** | Eine deutschsprachige Gruppe für Menschen die sich antifaschistisch gegen rechte Umtriebe, Gruppen und Tendenzen einsetzen | Be excellent to each other | Unerwünscht sind Faschisten, Nationalisten, Anarchokapitalisten und Kryptonazis etc."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:29"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/antifade"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2022-02-06 20:09:25"
-subscribers: 191
+subscribers: 194
 posts: 14
 comments: 22
 weight: 14

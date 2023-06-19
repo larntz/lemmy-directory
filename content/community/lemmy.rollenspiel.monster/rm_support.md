@@ -3,7 +3,7 @@ title: "RollenspielMonster Support"
 name: "rm_support"
 description: "# VorlageSiehe dazu [Wie benutzt man Lrmmy](https://lemmy.rollenspiel.monster/post/3)## TitelBitte gebt im Titel zusätzlich an um welche Software es sich handelt z.B. `[Hilfe][Nextcloud] Registrierung nicht möglich`## InhaltHier eine kleine Vorlage für den Inhalt:```## Erwartetes Verhalten## Tatsächliches Verhalten## Schritte zur Reproduktion des Problems  1.  2.  3.## Spezifikationen  - Browser/App:  - Plattform/OS:```"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/rm_support"

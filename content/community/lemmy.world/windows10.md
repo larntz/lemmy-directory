@@ -3,7 +3,7 @@ title: "Windows 10"
 name: "windows10"
 description: "Welcome to the largest community for Microsoft Windows 10, the world's most popular computer operating system!  feel free to discuss everything about Windows 10!. But, keep it civil please"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windows10"

@@ -3,7 +3,7 @@ title: "DRONES"
 name: "drones"
 description: "This is a community for drone and UAV related conversation. 107, DJI, Autel, photos, videos, and most of post types are welcomed. "
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drones"

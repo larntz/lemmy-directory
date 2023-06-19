@@ -3,7 +3,7 @@ title: "Expats in Thailand"
 name: "thai_expats"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thai_expats"

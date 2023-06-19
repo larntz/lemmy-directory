@@ -3,7 +3,7 @@ title: "Christianity"
 name: "christianity"
 description: "A community to talk about anything dealing with christianity. It's history, theology or personal experiences and beliefs.This is no place for bigotry of any kind. Discussion of bigotry within a christian context is of course allowed, but no furtherance of it. E.g. it's ok to post about how gay people are excluded by most churches from hosting a wedding, it's not ok to post in support of it."
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/christianity"

@@ -3,7 +3,7 @@ title: "Laborwave"
 name: "laborwave"
 description: "This is a laborwave community, feel free to post anything related to any kind of laborwave aesthetics, whether it is music, video, wallpapers, icons, or other pictures, anything of that nature."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/laborwave"

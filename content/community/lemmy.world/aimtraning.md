@@ -3,7 +3,7 @@ title: "Aim Training"
 name: "aimtraning"
 description: "A community for aim training enjoyers.Rules:1. No memes allowed.2. Act like a normal human"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aimtraning"

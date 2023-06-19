@@ -3,7 +3,7 @@ title: "fish"
 name: "fish"
 description: "Everything about the friendly interactive shell"
 type: community
-date: "2023-06-19 11:36:55"
+date: "2023-06-19 18:00:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fish"

@@ -3,7 +3,7 @@ title: "Jazz music & Bossa Nova"
 name: "jazz"
 description: "Let's post about good music."
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:22"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/jazz"

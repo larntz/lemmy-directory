@@ -3,14 +3,14 @@ title: "homebrew"
 name: "homebrew"
 description: "The sub for any brew that you do.- [recipe and batch tracking](https://brewfather.app)- [mycological cultivation tutorial](https://joyo.dev/JoYo/HomeMyco)"
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homebrew"
 host: lemmy.ml
 lastmod: "2023-04-19 19:45:44"
 published: "2023-04-19 18:36:09"
-subscribers: 18
+subscribers: 19
 posts: 2
 comments: 0
 weight: 2

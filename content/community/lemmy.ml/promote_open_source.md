@@ -3,7 +3,7 @@ title: "Promoting_open-source_projects"
 name: "promote_open_source"
 description: "If you have a great idea or build something you really like to share that will help others. Like a website keeping track of some analytics. "
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/promote_open_source"

@@ -3,20 +3,20 @@ title: "Disability and Accessibility"
 name: "disability"
 description: "All things disability and accessibility related, and advocacy for making those things better.See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [LGBTQ+](https://beehaw.org/c/lgbtq_plus), [Neurodivergence](https://beehaw.org/c/neurodivergence), and [POC](https://beehaw.org/c/poc).---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-19 11:35:27"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/disability"
 host: beehaw.org
 lastmod: "2023-06-16 19:41:32"
 published: "2023-06-11 17:27:03"
-subscribers: 272
+subscribers: 276
 posts: 13
-comments: 41
+comments: 42
 weight: 13
 dau: 2
-wau: 20
-mau: 22
+wau: 17
+mau: 23
 instances:
 - "beehaw_org"
 tags: 

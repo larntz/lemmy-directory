@@ -3,7 +3,7 @@ title: "Chile Artes y Manualidades"
 name: "chile_crea"
 description: "Bienvenidos a la comunidad Chile Artes y Manualidades, una instancia para compartir nuestros hobbies y arte, buscar datos de insumos, recursos, etc.Si eres chileno y/o resides en Chile y te gusta dibujar, pintar, tejer, etc, este es tu espacio. Desde ya son bienvenidos a hacer suyo este espacio :)"
 type: community
-date: "2023-06-19 11:35:17"
+date: "2023-06-19 17:59:06"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/chile_crea"

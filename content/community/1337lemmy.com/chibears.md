@@ -3,7 +3,7 @@ title: "Chicago Bears"
 name: "chibears"
 description: "Welcome to the Lemmy home of the Chicago Bears"
 type: community
-date: "2023-06-19 11:34:57"
+date: "2023-06-19 17:58:47"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/chibears"

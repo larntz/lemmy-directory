@@ -3,16 +3,16 @@ title: "Techno"
 name: "techno"
 description: "Techno!"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/techno"
 host: feddit.de
 lastmod: "2023-06-06 19:20:21"
 published: "2023-06-06 18:57:56"
-subscribers: 19
+subscribers: 21
 posts: 6
-comments: 5
+comments: 8
 weight: 6
 dau: 2
 wau: 3

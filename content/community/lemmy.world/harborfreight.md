@@ -3,7 +3,7 @@ title: "Harbor Freight"
 name: "harborfreight"
 description: "[Harbor Freight](https://www.harborfreight.com/) tool owners are encouraged to promote discussion and create reviews about the tools Harbor Freight offers. Other reviews are welcome for tools from other stores."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/harborfreight"

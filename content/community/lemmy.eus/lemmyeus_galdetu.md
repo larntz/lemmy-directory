@@ -3,7 +3,7 @@ title: "Lemmy.eus galdetu"
 name: "lemmyeus_galdetu"
 description: "Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu."
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/lemmyeus_galdetu"

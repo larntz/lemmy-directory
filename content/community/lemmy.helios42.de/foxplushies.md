@@ -3,7 +3,7 @@ title: "Fox Plushies"
 name: "foxplushies"
 description: "For photos of fox plushies in just about any situation you can imagine."
 type: community
-date: "2023-06-19 11:34:57"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helios42.de/c/foxplushies"

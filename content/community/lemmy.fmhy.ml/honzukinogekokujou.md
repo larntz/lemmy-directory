@@ -3,7 +3,7 @@ title: "Ascendance of a Bookworm [Migrated to bookwormstory.socal Please read pi
 name: "honzukinogekokujou"
 description: "Please migrate to [bookwormstory.social]()You do not need to make a new account!Click on links bellow to join:[!aoblightnovel@bookwormstory.social](aoblightnovel@bookwormstory.social)[!aobmanga@bookwormstory.social](aobmanga@bookwormstory.social)[!aobanime@bookwormstory.social](aobanime@bookwormstory.social)[!aobwebnovel@bookwormstory.social](aobwebnovel@bookwormstory.social)[!metadiscussions@bookwormstory.social](metadiscussions@bookwormstory.social)[!aobprepub@bookwormstory.social](aobprepub@bookwormstory.social)If these links don’t work you can try federation (paste the follwing text in your search bar) (It can be janky at times)Alternatively (if you have an acount on lemmy.fmhy.ml)Click on links bellow to join:https://lemmy.fmhy.ml/c/aoblightnovel@bookwormstory.socialhttps://lemmy.fmhy.ml/c/aobwebnovel@bookwormstory.socialhttps://lemmy.fmhy.ml/c/aobmangal@bookwormstory.socialhttps://lemmy.fmhy.ml/c/aobanime@bookwormstory.socialhttps://lemmy.fmhy.ml/c/metadiscussions@bookwormstory.socialThis lemmy is dedicated to the Japanese fantasy light novel series written by Miya Kazuki and illustrated by Yō Shiina titled Honzuki no Gekokujō, licensed in English under the name of Ascendance of a Bookworm.I legit just copied this of of r/HonzukiNoGekokujou"
 type: community
-date: "2023-06-19 11:35:02"
+date: "2023-06-19 17:58:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/honzukinogekokujou"

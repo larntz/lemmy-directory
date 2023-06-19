@@ -3,14 +3,14 @@ title: "lifehacks"
 name: "lifehacks"
 description: "**productivity tips+tricks &ideas.**         *You might also check out:*   [Life pro tips(lpt)](https://lemmy.ca/c/lpt)"
 type: community
-date: "2023-06-19 11:37:01"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifehacks"
 host: lemmy.ml
 lastmod: "2022-08-08 15:38:45"
 published: "2021-02-13 09:26:07"
-subscribers: 285
+subscribers: 287
 posts: 12
 comments: 12
 weight: 12

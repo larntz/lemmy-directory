@@ -3,7 +3,7 @@ title: "Catholic Solidarity Movement"
 name: "catholic_solidarity"
 description: "We supports Integralism, Marxism-Leninism, and Catholic Solidarity.  Moved here after being de-facto banned by the neolib scum on Reddit."
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/catholic_solidarity"

@@ -3,7 +3,7 @@ title: "Drugs"
 name: "drugs"
 description: "Community for discussion about drugs, including addiction, safety of drugs, their harms and benefits, criminalization of drugs, drug policy, drug trafficking, relationships between social class and drug use, legalisation of drugs etc.  This can include both legal and illegal drugs in any country, as well as tobacco, alcohol, and drugs prescribed by a doctor.  "
 type: community
-date: "2023-06-19 11:35:08"
+date: "2023-06-19 17:58:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/drugs"
@@ -15,7 +15,7 @@ posts: 16
 comments: 78
 weight: 16
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmygrad_ml"

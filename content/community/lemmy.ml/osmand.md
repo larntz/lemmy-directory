@@ -3,7 +3,7 @@ title: "OpenStreetMap + App = OsmAnd!"
 name: "osmand"
 description: "OsmAnd is a great open source Maps mobile app that uses OpenStreetMap!"
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osmand"

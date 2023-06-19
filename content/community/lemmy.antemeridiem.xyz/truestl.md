@@ -3,7 +3,7 @@ title: "TrueSTL"
 name: "truestl"
 description: "A place for Elder Scrolls ~~lore discussion,~~ schizo and hornyposting"
 type: community
-date: "2023-06-19 11:35:13"
+date: "2023-06-19 17:59:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/truestl"

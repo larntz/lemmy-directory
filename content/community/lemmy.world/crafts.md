@@ -3,7 +3,7 @@ title: "Crafts "
 name: "crafts"
 description: "The place to share your creations! -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-19 18:00:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crafts"

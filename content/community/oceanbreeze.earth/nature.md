@@ -1,14 +1,14 @@
 ---
-title: "nature" 
+title: "nature@oceanbreeze.earth" 
 name: "nature"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:21"
+date: "2023-06-19 17:59:10"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/nature"
 host: oceanbreeze.earth
-lastmod: "2023-06-09 21:05:12"
+lastmod: "2023-06-19 16:59:21"
 published: "2023-06-09 21:04:38"
 subscribers: 4
 posts: 3

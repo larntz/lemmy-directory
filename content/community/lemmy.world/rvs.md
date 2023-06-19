@@ -3,7 +3,7 @@ title: "Recreational Vehicles"
 name: "rvs"
 description: "Discussions about RVs, motor homes, fifth wheels, travel trailers, and life on the road."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rvs"

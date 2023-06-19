@@ -3,7 +3,7 @@ title: "Kotlin"
 name: "kotlin"
 description: "This is a community dedicated to the Kotlin programming language.Useful links:* [Kotlin Website](https://kotlinlang.org/)* [Kotlin GitHub Repository](https://github.com/JetBrains/kotlin)* [Kotlin Documentation PDF](https://kotlinlang.org/docs/kotlin-docs.pdf)Rules:* Posts must be relevant to Kotlin* No NSFW content* No hate speech, bigotry, etc "
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kotlin"

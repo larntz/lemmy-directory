@@ -3,7 +3,7 @@ title: "Void Bunnies"
 name: "voidbunnies"
 description: "Sublemmy for black bunny content! Voids and black holes in the shape of bunnies. ⚫🐰Lemmy.world: [!voidbunnies@lemmy.world](/c/voidbunnies@lemmy.world)Originating from [r/VoidBunnies](https://old.reddit.com/r/VoidBunnies/)"
 type: community
-date: "2023-06-19 11:36:56"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/voidbunnies"

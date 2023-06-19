@@ -3,14 +3,14 @@ title: "Guitars"
 name: "guitars"
 description: "Let's talk about guitars of all sorts. Show me your axe pics and let's hear your controversial thoughts on the instrument."
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/guitars"
 host: midwest.social
 lastmod: "2023-06-19 11:35:11"
 published: "2023-06-08 01:38:10"
-subscribers: 79
+subscribers: 80
 posts: 9
 comments: 36
 weight: 9

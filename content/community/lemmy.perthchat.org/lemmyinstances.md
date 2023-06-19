@@ -3,7 +3,7 @@ title: "Lemmy instances"
 name: "lemmyinstances"
 description: "Promote Lemmy instances!"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/lemmyinstances"
@@ -15,7 +15,7 @@ posts: 4
 comments: 4
 weight: 4
 dau: 1
-wau: 3
+wau: 2
 mau: 7
 instances:
 - "lemmy_perthchat_org"

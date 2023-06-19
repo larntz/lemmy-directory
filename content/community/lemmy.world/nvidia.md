@@ -3,7 +3,7 @@ title: "nvidia"
 name: "nvidia"
 description: "This is an unofficial forum for nvidia products and technologies. All posts must be primarily related to Nvidia. This means the article must be talking specifically about Nvidia as a company, Nvidia's product, or other products using Nvidia's technology."
 type: community
-date: "2023-06-19 11:36:37"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nvidia"

@@ -3,7 +3,7 @@ title: "Folk Metal"
 name: "folkmetal"
 description: "Folk metal is a sub-genre of heavy metal that developed in Europe during the 1990s. As the name suggests, the genre is a fusion of heavy metal with traditional folk music. This includes the widespread use of folk instruments and, to a lesser extent, traditional singing styles."
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/folkmetal"

@@ -3,7 +3,7 @@ title: "ListeningTo"
 name: "listeningto"
 description: "Share and Discover Music: Let everyone know what you're listening to!Any genre, any era!"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/listeningto"
@@ -14,7 +14,7 @@ subscribers: 20
 posts: 11
 comments: 3
 weight: 11
-dau: 5
+dau: 3
 wau: 7
 mau: 7
 instances:

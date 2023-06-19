@@ -3,14 +3,14 @@ title: "Magick"
 name: "magick"
 description: "Magick in all forms"
 type: community
-date: "2023-06-19 11:35:28"
+date: "2023-06-19 17:59:17"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/magick"
 host: group.lt
 lastmod: "1969-12-31 19:00:00"
 published: "2022-04-24 18:55:46"
-subscribers: 23
+subscribers: 24
 posts: 23
 comments: 1
 weight: 23

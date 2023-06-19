@@ -3,7 +3,7 @@ title: "Age of Wonders 4"
 name: "aow4"
 description: "This is a community for all things AoW4.Only two rules, be civil and have fun!"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aow4"

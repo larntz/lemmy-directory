@@ -3,7 +3,7 @@ title: "Afrikaans"
 name: "afrikaans"
 description: "Alles in Afrikaans! Net beter!Reëls:1. Respek vir almal.2. Bou Afrikaans uit!!"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afrikaans"

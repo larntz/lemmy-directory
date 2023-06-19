@@ -3,7 +3,7 @@ title: "Honzuki No Gekokujou - Ascendance of a Bookworm"
 name: "honzukinogekokujou"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 18:00:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/honzukinogekokujou"

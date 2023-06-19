@@ -3,7 +3,7 @@ title: "A Total Piece Of Shit"
 name: "atotalpieceofshit"
 description: "People who actively act like a piece of shit"
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atotalpieceofshit"

@@ -3,7 +3,7 @@ title: "France Tech"
 name: "francetech"
 description: "Tout sur la techologie en francais."
 type: community
-date: "2023-06-19 11:36:45"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/francetech"

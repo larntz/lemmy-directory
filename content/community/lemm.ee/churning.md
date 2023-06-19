@@ -3,7 +3,7 @@ title: "churning"
 name: "churning"
 description: "Migrating over from r/churning"
 type: community
-date: "2023-06-19 11:35:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/churning"
@@ -15,7 +15,7 @@ posts: 2
 comments: 6
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemm_ee"

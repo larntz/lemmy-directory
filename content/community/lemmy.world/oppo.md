@@ -3,7 +3,7 @@ title: "Oppo Community"
 name: "oppo"
 description: "Welcome to /c/Oppo!This is a place for the Lemmy Community to discuss about Oppo smartphones, tablets, smartwatches, earbuds and other products./c/Oppo is a fan community and is not associated or affiliated with BBK Electronics or its subsidiaries."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oppo"

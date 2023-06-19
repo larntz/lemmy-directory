@@ -3,7 +3,7 @@ title: "A place for everything about math"
 name: "math"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/math"

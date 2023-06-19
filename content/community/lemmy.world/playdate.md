@@ -3,7 +3,7 @@ title: "Playdate Console"
 name: "playdate"
 description: "For discussion on the unique yelllow, crankable handheld, the Playdate! Developed by Panic, the Playdate is an esoteric, low-tech handheld featuring a crank input for unique gaming experiences."
 type: community
-date: "2023-06-19 11:36:35"
+date: "2023-06-19 18:00:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/playdate"

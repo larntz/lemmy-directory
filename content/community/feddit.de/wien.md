@@ -3,14 +3,14 @@ title: "Wien"
 name: "wien"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wien"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 14:46:49"
-subscribers: 16
+subscribers: 19
 posts: 4
 comments: 0
 weight: 4

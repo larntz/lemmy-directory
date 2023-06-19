@@ -3,14 +3,14 @@ title: "Programming"
 name: "programming"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:59:00"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/programming"
 host: compuverse.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 13:22:50"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

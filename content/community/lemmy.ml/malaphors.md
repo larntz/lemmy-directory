@@ -3,7 +3,7 @@ title: "Malaphors - the perfect blend of mixed metaphors and nonsensical clicheâ
 name: "malaphors"
 description: "Post ONLY your malaphor as the title of your submission. If it was found in the wild, you may link to the screenshot, but the title rules still apply"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/malaphors"

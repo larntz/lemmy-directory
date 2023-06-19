@@ -3,7 +3,7 @@ title: "Consume Product"
 name: "consumeproduct"
 description: "Don't ask questions just consume product and get excited for next products.Rules1. Don't ask questions just consume product and get excited for next products™2. Don't break Lemmy Instance Rules3. Don't be Overtly Edgy™4. No Glowing in the Dark™5. No Fun Police®6. Put in some degree of effort in your posts"
 type: community
-date: "2023-06-19 11:36:49"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/consumeproduct"

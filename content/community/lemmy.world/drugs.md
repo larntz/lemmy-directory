@@ -3,7 +3,7 @@ title: "Drugs"
 name: "drugs"
 description: "We do not condone drug use. The purpose of places like this is to reduce harm caused by drugs. All drugs, including alcohol, caffeine, and over the counter (OTC) medicine, are all harmful.psychonautwiki.org"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-19 18:00:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drugs"

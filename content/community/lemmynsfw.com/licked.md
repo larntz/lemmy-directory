@@ -3,14 +3,14 @@ title: "Licked"
 name: "licked"
 description: "Naughty girls licking the camera lens in POV, a clean-up service for your face!"
 type: community
-date: "2023-06-19 11:35:45"
+date: "2023-06-19 17:59:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/licked"
 host: lemmynsfw.com
 lastmod: "2023-06-16 21:30:33"
 published: "2023-06-16 21:22:45"
-subscribers: 37
+subscribers: 39
 posts: 1
 comments: 0
 weight: 1

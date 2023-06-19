@@ -3,16 +3,16 @@ title: "networking"
 name: "networking"
 description: "Community for discussing enterprise networks and the ensuing chaos that comes after inheriting or building one.  "
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:58:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/networking"
 host: sh.itjust.works
 lastmod: "2023-06-07 15:59:38"
 published: "2023-06-07 15:22:24"
-subscribers: 948
+subscribers: 963
 posts: 11
-comments: 93
+comments: 94
 weight: 11
 dau: 9
 wau: 27

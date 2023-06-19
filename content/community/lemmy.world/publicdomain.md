@@ -3,7 +3,7 @@ title: "Public Domain"
 name: "publicdomain"
 description: "Share and discuss writing, music, film, and other files, documents, and stories that are in the public domain."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-19 18:00:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/publicdomain"

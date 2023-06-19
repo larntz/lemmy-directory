@@ -3,7 +3,7 @@ title: "American Militias"
 name: "americanmilitias"
 description: "A group for discussing North American militias, organized protest groups, and other **armed political movements**. Examples include Antifa, Proud Boys, Patriot Front, and others.This community is politically neutral but welcomes all (non-hateful) discussion.Rules:1 - No overt hatred towards anyone showcased.2 - We are not affiliated with any groups discussed.3 - All viewpoints shown in submissions are being shared for educational purposes only.4 - Absolutely no recruiting5- All sh.itjust.works instance-wide rules apply**___**"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/americanmilitias"

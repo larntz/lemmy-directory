@@ -3,7 +3,7 @@ title: "30 Rock"
 name: "30rock"
 description: "A community for the fans and critics of the show 30 Rock. Discussion of the show, pictures from the show and anything else 30 Rock related. "
 type: community
-date: "2023-06-19 11:35:06"
+date: "2023-06-19 17:59:00"
 draft: false
 nsfw: false
 actor_id: "https://dubvee.org/c/30rock"
@@ -11,9 +11,9 @@ host: lemmy.ptznetwork.org
 lastmod: "2023-06-08 17:56:25"
 published: "2023-06-08 17:54:08"
 subscribers: 26
-posts: 17
+posts: 18
 comments: 15
-weight: 17
+weight: 18
 dau: 1
 wau: 5
 mau: 6

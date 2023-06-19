@@ -3,7 +3,7 @@ title: "Call of Duty Zombies"
 name: "codzombies"
 description: "Call of Duty Zombies is a first-person shooter survival mode developed by Treyarch, Infinity Ward, Sledgehammer Games, and Raven Software and published by Activision. "
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/codzombies"

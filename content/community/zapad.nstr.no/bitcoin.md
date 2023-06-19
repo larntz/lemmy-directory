@@ -3,7 +3,7 @@ title: "bitcoin"
 name: "bitcoin"
 description: "For news and discussions about Bitcoin technology. Price discussions are off–topic. No posting about ICO sales, NFT sales or other kinds of token or coin sales."
 type: community
-date: "2023-06-19 11:35:30"
+date: "2023-06-19 17:59:21"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/bitcoin"

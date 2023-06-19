@@ -3,7 +3,7 @@ title: "Weekly Net"
 name: "weekly_net"
 description: "Weekly updates to discuss what your working on, amateur radio news, and general discord. "
 type: community
-date: "2023-06-19 11:35:20"
+date: "2023-06-19 17:59:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/weekly_net"

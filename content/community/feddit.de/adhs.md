@@ -3,14 +3,14 @@ title: "ADHS"
 name: "adhs"
 description: "Die Aufmerksamkeit...Das Defizit...Die Hyperaktivität...Wenn es doch nur das wäre!"
 type: community
-date: "2023-06-19 11:35:39"
+date: "2023-06-19 17:59:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/adhs"
 host: feddit.de
 lastmod: "2023-06-16 08:20:49"
 published: "2023-06-16 08:20:10"
-subscribers: 23
+subscribers: 24
 posts: 1
 comments: 3
 weight: 1

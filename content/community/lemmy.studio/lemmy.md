@@ -3,7 +3,7 @@ title: "Lemmy"
 name: "lemmy"
 description: "Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc."
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/lemmy"
@@ -15,7 +15,7 @@ posts: 12
 comments: 84
 weight: 12
 dau: 8
-wau: 20
+wau: 19
 mau: 27
 instances:
 - "lemmy_studio"

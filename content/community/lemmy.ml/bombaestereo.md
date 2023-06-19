@@ -3,7 +3,7 @@ title: "Bomba Estéreo"
 name: "bombaestereo"
 description: "Me quemo por dentro...el alma y el cuerpo"
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bombaestereo"

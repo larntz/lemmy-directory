@@ -3,7 +3,7 @@ title: "Raspberry Pi ideas / projects"
 name: "raspberrypi"
 description: "Ideas/demos for hardware / software integration on raspberry pi"
 type: community
-date: "2023-06-19 11:34:58"
+date: "2023-06-19 17:58:49"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/raspberrypi"

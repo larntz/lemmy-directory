@@ -3,7 +3,7 @@ title: "Vtubers news & content"
 name: "vtubers"
 description: "Share content made by virtual entertainers, also called vtubers.  Rules:#1 Do not post links to expired live streams, only available video-on-demand (VOD).#2 Only direct links, no redirections,  URL shortener, nor AMP. Sanitize your links."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vtubers"

@@ -3,14 +3,14 @@ title: "Sysadmin"
 name: "sysadmin"
 description: "A community dedicated to the profession of IT Systems Administration"
 type: community
-date: "2023-06-19 11:34:55"
+date: "2023-06-19 17:58:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/sysadmin"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 08:29:45"
-subscribers: 230
+subscribers: 231
 posts: 2
 comments: 28
 weight: 2

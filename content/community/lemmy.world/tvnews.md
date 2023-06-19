@@ -1,22 +1,22 @@
 ---
 title: "TV News" 
 name: "tvnews"
-description: "Just TV News"
+description: "Description not available."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvnews"
 host: lemmy.world
-lastmod: "2023-06-16 23:45:35"
+lastmod: "2023-06-19 16:39:04"
 published: "2023-06-15 20:40:52"
-subscribers: 17
-posts: 6
-comments: 5
-weight: 6
-dau: 1
-wau: 6
-mau: 6
+subscribers: 20
+posts: 8
+comments: 6
+weight: 8
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 

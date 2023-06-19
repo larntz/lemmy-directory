@@ -3,14 +3,14 @@ title: "Minnesota United"
 name: "mnufc"
 description: "Community for fans of Minnesota United Football Club"
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mnufc"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 17:53:25"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

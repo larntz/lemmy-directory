@@ -3,7 +3,7 @@ title: "Reinforcement Learning"
 name: "reinforcement"
 description: "A community for reinforcement learning enthusiasts"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 18:00:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reinforcement"

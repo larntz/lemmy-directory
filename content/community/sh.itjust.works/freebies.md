@@ -3,7 +3,7 @@ title: "freebies"
 name: "freebies"
 description: "We love free stuff! Free pointless fun stuff, free shirts, free food, free stickers, free events, free magazines, and anything else free. As long as it's 100% free, it belongs here."
 type: community
-date: "2023-06-19 11:35:05"
+date: "2023-06-19 17:58:56"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/freebies"

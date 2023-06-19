@@ -3,7 +3,7 @@ title: "Cricket"
 name: "cricket"
 description: "Hopefully a suitable replacement for /r/cricket and not /r/cricketshitpostLMK if /r/cricket mods want to take it overEnglish only."
 type: community
-date: "2023-06-19 11:35:36"
+date: "2023-06-19 17:59:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cricket"

@@ -3,14 +3,14 @@ title: "Missouri | The Show-Me State"
 name: "missouri"
 description: "A place for discussion on all things MO."
 type: community
-date: "2023-06-19 11:36:57"
+date: "2023-06-19 18:00:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missouri"
 host: lemmy.ml
 lastmod: "2023-06-08 23:22:28"
 published: "2023-06-02 20:54:06"
-subscribers: 10
+subscribers: 11
 posts: 8
 comments: 3
 weight: 8

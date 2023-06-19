@@ -1,19 +1,19 @@
 ---
 title: "Pomeranians" 
 name: "pomeranians"
-description: "For pomeranian lovers. Welcome to post pics/videos of your poms. No breeders or commercial activities."
+description: "Join us in celebrating the cuteness of pomeranians. Post your poms and enjoy others’. This is not a place for breeders or sellers."
 type: community
-date: "2023-06-19 11:35:14"
+date: "2023-06-19 17:59:04"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/pomeranians"
 host: feddit.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 16:11:18"
 published: "2023-06-17 12:46:46"
-subscribers: 5
-posts: 2
+subscribers: 6
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

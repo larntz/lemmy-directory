@@ -3,7 +3,7 @@ title: "Academic Economics"
 name: "econ"
 description: "A community for links to and discussion of academic papers, models, techniques, and methods relating to economics. General discussion of news related to academic economics is also okay. This is not for news regarding economic indicators, nor general discussions of economic policy or opinion. Alternative communities such as /c/economics and /c/neoliberal may be better places for such discussions. "
 type: community
-date: "2023-06-19 11:36:43"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/econ"

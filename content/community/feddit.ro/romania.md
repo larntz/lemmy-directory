@@ -3,7 +3,7 @@ title: "Romania"
 name: "romania"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:35:25"
+date: "2023-06-19 17:59:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/romania"
@@ -14,7 +14,7 @@ subscribers: 14
 posts: 25
 comments: 15
 weight: 25
-dau: 3
+dau: 1
 wau: 8
 mau: 8
 instances:

@@ -3,7 +3,7 @@ title: "[pato]mieszkalnictwo"
 name: "mieszkalnictwo"
 description: "absurdy życia w p*lsce – patodeweloperka, dobre zmiany i współmieszkalnictwo, alternatywy dla kredytożycia "
 type: community
-date: "2023-06-19 11:35:33"
+date: "2023-06-19 17:59:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/mieszkalnictwo"

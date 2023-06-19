@@ -3,7 +3,7 @@ title: "Chicory"
 name: "chicory"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 17:59:20"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/chicory"

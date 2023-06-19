@@ -3,14 +3,14 @@ title: "Perfectly Cut Screams"
 name: "perfectlycutscreams"
 description: "Videos where it's edited to end right when there is a scream."
 type: community
-date: "2023-06-19 11:36:36"
+date: "2023-06-19 18:00:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/perfectlycutscreams"
 host: lemmy.world
 lastmod: "2023-06-14 19:18:35"
 published: "2023-06-14 18:59:48"
-subscribers: 37
+subscribers: 38
 posts: 3
 comments: 0
 weight: 3

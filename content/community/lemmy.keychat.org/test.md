@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "for testing"
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 17:59:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.keychat.org/c/test"

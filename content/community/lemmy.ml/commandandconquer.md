@@ -3,7 +3,7 @@ title: "Command & Conquer"
 name: "commandandconquer"
 description: "[Command & Conquer community](https://cnc.community/)[C&C Wiki](https://cnc.fandom.com/wiki/)Related websites  cncnz.com  cncnet.org  cnc-online.net"
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 18:00:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commandandconquer"

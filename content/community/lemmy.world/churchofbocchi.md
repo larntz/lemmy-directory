@@ -3,7 +3,7 @@ title: "ChurchOfBocchi"
 name: "churchofbocchi"
 description: "To give Bocchi all the love she deserves"
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-19 18:00:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofbocchi"
