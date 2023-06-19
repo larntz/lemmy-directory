@@ -3,19 +3,19 @@ title: ".NET"
 name: "dotnet"
 description: "**Getting started**- [.NET website](https://dot.net)- [Learn .NET](https://dotnet.microsoft.com/en-us/learn)- [What is .NET, and why should you choose it?](https://devblogs.microsoft.com/dotnet/why-dotnet/)**Useful resources**- [.NET blog](https://devblogs.microsoft.com/dotnet/)- [.NET documentation](https://learn.microsoft.com/en-us/dotnet/)- [.NET Framework Reference Source Code](https://referencesource.microsoft.com/)- [Framework design guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)**IDEs and code editors**- [Visual Studio](https://visualstudio.microsoft.com/vs/) (Windows/Mac)- [Rider](https://www.jetbrains.com/rider/) (Windows/Mac/Linux)- [Visual Studio Code](https://code.visualstudio.com) (Windows/Mac/Linux)**Tools**- Decompilers: [ILSpy](https://github.com/icsharpcode/ILSpy), [dotPeek](https://www.jetbrains.com/decompiler/)- Scratchpad: [LINQPad](https://www.linqpad.net/)- Online playground and IL viewer: [SharpLab](https://sharplab.io/)**Rules**- Rule 1: Follow Lemmy rules- Rule 2: Be excellent to each other, no hostility towards users for any reason- Rule 3: No spam of tools/companies/advertisements**Related communities**- [c/csharp](https://programming.dev/c/csharp)**Wikipedia pages**- [.NET](https://en.m.wikipedia.org/wiki/.NET) (open source & cross platform)- [.NET Framework](https://en.m.wikipedia.org/wiki/.NET_Framework) (proprietary & Windows-only)"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/dotnet"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 50
-posts: 5
-comments: 3
-weight: 5
+subscribers: 157
+posts: 7
+comments: 8
+weight: 7
 dau: 2
-wau: 2
-mau: 2
+wau: 7
+mau: 7
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 5  |
-| Comments             | 3  |
+| Subscribers          | 157 |
+| Posts                | 7  |
+| Comments             | 8  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 17:41:11 |
 | Updated              | 2023-06-15 19:59:01 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

@@ -3,7 +3,7 @@ title: "Vlaanderen"
 name: "vlaanderen"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vlaanderen"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 21:26:12 |
 | Updated              | 2023-06-12 07:22:54 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

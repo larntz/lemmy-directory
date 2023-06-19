@@ -3,19 +3,19 @@ title: "Mass Effect"
 name: "masseffect"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/masseffect"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 7
-comments: 4
-weight: 7
-dau: 2
-wau: 5
-mau: 5
+subscribers: 38
+posts: 8
+comments: 10
+weight: 8
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 7  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 38 |
+| Posts                | 8  |
+| Comments             | 10  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 01:11:24 |
 | Updated              | 2023-06-08 01:15:30 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:46 |

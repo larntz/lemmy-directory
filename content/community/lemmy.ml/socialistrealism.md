@@ -3,7 +3,7 @@ title: "Socialist Realism"
 name: "socialistrealism"
 description: "A place for media which is:1) Relevant to the working classes and their lives.2) Presents the lives of the people in the conditions they exist.3) Is stylistically realistic.4) Is supportive of Communism and Revolution(We apply these rules loosely)"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialistrealism"
@@ -54,4 +54,4 @@ A place for media which is:<br>1) Relevant to the working classes and their live
 |----------------------|---|
 | Published            | 2020-07-02 05:10:19 |
 | Updated              | 2020-07-27 13:43:37 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

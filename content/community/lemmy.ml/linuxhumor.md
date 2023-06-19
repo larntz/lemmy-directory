@@ -3,19 +3,19 @@ title: "GNU+Linux Humor"
 name: "linuxhumor"
 description: "Memes, jokes and general humor about GNU+LinuxRules:* Posts must be relevant to GNU+Linux or at least an open source unix-like operating system* No NSFW content* No hate speech, bigotry, etc "
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxhumor"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2703
-posts: 186
-comments: 480
-weight: 186
-dau: 10
-wau: 36
-mau: 52
+subscribers: 2794
+posts: 188
+comments: 487
+weight: 188
+dau: 4
+wau: 40
+mau: 62
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Memes, jokes and general humor about GNU+Linux<br><br>Rules:<br>* Posts must be 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2703 |
-| Posts                | 186  |
-| Comments             | 480  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 36  |
-| Monthly Active Users | 52  |
+| Subscribers          | 2794 |
+| Posts                | 188  |
+| Comments             | 487  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 62  |
 
 <br>
 
@@ -54,4 +54,4 @@ Memes, jokes and general humor about GNU+Linux<br><br>Rules:<br>* Posts must be 
 |----------------------|---|
 | Published            | 2019-10-03 05:03:05 |
 | Updated              | 2022-03-08 20:09:21 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:48 |

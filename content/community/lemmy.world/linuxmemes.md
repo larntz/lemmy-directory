@@ -3,19 +3,19 @@ title: "linuxmemes"
 name: "linuxmemes"
 description: "I use Arch btw"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linuxmemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 18
-comments: 7
-weight: 18
-dau: 8
-wau: 10
-mau: 10
+subscribers: 495
+posts: 55
+comments: 74
+weight: 55
+dau: 28
+wau: 68
+mau: 68
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ I use Arch btw
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 18  |
-| Comments             | 7  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Subscribers          | 495 |
+| Posts                | 55  |
+| Comments             | 74  |
+| Daily Active Users   | 28  |
+| Weekly Active Users  | 68  |
+| Monthly Active Users | 68  |
 
 <br>
 
@@ -54,4 +54,4 @@ I use Arch btw
 |----------------------|---|
 | Published            | 2023-06-15 20:22:32 |
 | Updated              | 2023-06-15 22:17:45 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

@@ -3,7 +3,7 @@ title: "Contribucións"
 name: "contribucions"
 description: "Comunidade específica para a axuda e contribución ao [fediverso.gal](https://foros.fediverso.gal)"
 type: community
-date: "2023-06-16 22:55:47"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/contribucions"
@@ -54,4 +54,4 @@ Comunidade específica para a axuda e contribución ao [fediverso.gal](https://f
 |----------------------|---|
 | Published            | 2022-12-01 17:57:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:47 |
+| Last Scraped         | 2023-06-19 11:34:49 |

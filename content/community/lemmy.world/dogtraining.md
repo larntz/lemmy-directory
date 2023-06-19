@@ -1,21 +1,21 @@
 ---
 title: "DogTraining" 
 name: "dogtraining"
-description: "DogTraining: A forum on dog training and behavior. Here you'll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations. "
+description: "# DogTrainingWelcome! This forum is about  dog training and behavior. Here you'll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations. ## Guidelines- Be kind and polite.- Don't recommend training methods based on pain, fear, or dominance. We have better ways now.- This is not the place for advertising or self promotion."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dogtraining"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 1
-comments: 0
-weight: 1
+subscribers: 11
+posts: 2
+comments: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-DogTraining: A forum on dog training and behavior. Here you'll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations. 
+# DogTraining<br><br>Welcome! This forum is about  dog training and behavior. Here you'll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations. <br><br>## Guidelines<br><br>- Be kind and polite.<br>- Don't recommend training methods based on pain, fear, or dominance. We have better ways now.<br>- This is not the place for advertising or self promotion.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ DogTraining: A forum on dog training and behavior. Here you'll find content that
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 11 |
+| Posts                | 2  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 20:20:45 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Updated              | 2023-06-17 02:59:28 |
+| Last Scraped         | 2023-06-19 11:36:36 |

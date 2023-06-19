@@ -3,7 +3,7 @@ title: "Fairphone"
 name: "fairphone"
 description: "Community for the [FairPhone](https://www.fairphone.com)"
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fairphone"
@@ -54,4 +54,4 @@ Community for the [FairPhone](https://www.fairphone.com)
 |----------------------|---|
 | Published            | 2021-09-14 18:11:49 |
 | Updated              | 2021-09-14 18:11:57 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:37:02 |

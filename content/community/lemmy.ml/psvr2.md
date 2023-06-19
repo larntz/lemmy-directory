@@ -3,7 +3,7 @@ title: "PS VR 2"
 name: "psvr2"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psvr2"
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 23:14:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Updated              | 2023-06-17 17:52:57 |
+| Last Scraped         | 2023-06-19 11:36:42 |

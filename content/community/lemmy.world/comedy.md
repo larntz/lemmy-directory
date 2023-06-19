@@ -3,13 +3,13 @@ title: "Comedy"
 name: "comedy"
 description: "Things that make you laugh"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/comedy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Things that make you laugh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Things that make you laugh
 |----------------------|---|
 | Published            | 2023-06-12 04:43:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-19 11:36:38 |

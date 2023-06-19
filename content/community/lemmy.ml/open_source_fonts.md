@@ -3,13 +3,13 @@ title: "Open Source Fonts"
 name: "open_source_fonts"
 description: "A place to talk about free and open source typography, to show your discoveries or creations or to talk about anything else related to this theme. "
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/open_source_fonts"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 262
+subscribers: 266
 posts: 43
 comments: 33
 weight: 43
@@ -41,7 +41,7 @@ A place to talk about free and open source typography, to show your discoveries 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 262 |
+| Subscribers          | 266 |
 | Posts                | 43  |
 | Comments             | 33  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to talk about free and open source typography, to show your discoveries 
 |----------------------|---|
 | Published            | 2020-03-03 10:58:32 |
 | Updated              | 2022-01-24 15:02:29 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:56 |

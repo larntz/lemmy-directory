@@ -3,13 +3,13 @@ title: "XDefiant"
 name: "xdefiant"
 description: "Community dedicated to Tom Clancy's XDefiant published by Ubisoft. "
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/xdefiant"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community dedicated to Tom Clancy's XDefiant published by Ubisoft.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community dedicated to Tom Clancy's XDefiant published by Ubisoft.
 |----------------------|---|
 | Published            | 2023-06-14 13:27:48 |
 | Updated              | 2023-06-14 13:29:19 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

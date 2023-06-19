@@ -3,19 +3,19 @@ title: "Autoblöd"
 name: "autobloed"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/autobloed"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 54
+posts: 4
+comments: 6
+weight: 4
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "feddit_de"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 54 |
+| Posts                | 4  |
+| Comments             | 6  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 19:14:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Updated              | 2023-06-17 16:26:24 |
+| Last Scraped         | 2023-06-19 11:35:39 |

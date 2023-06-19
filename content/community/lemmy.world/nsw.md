@@ -3,7 +3,7 @@ title: "New South Wales"
 name: "nsw"
 description: "A place for people from the Australian state of New South Wales to talk.Rules:- Be nice- Have fun- No spam, spammers=scammers- NSFW is okay, just add a content warning"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nsw"
@@ -54,4 +54,4 @@ A place for people from the Australian state of New South Wales to talk.<br><br>
 |----------------------|---|
 | Published            | 2023-06-12 10:34:58 |
 | Updated              | 2023-06-14 12:32:29 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:41 |

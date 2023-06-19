@@ -1,15 +1,15 @@
 ---
 title: "Fedivision Song Contest" 
 name: "fedivision"
-description: "Fediverse's answer to the Eurovision song contest, now in it's **third** year."
+description: "Fedivision Song Contest. A song contest for the fediverse. Founded 2021.Website: https://fedivision.party/Microverse link: @fedivision@botsin.spacehttps://botsin.space/@fedivisionUsually takes place May/June. Final voting was held 18 June 2023. Next event will be in 2024."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
-actor_id: "https://u.fail/c/fedivision"
+actor_id: "https://geddit.social/c/fedivision"
 host: u.fail
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -26,14 +26,14 @@ tags:
 # /c/Fedivision Song Contest on u.fail
 
 [[home](/)]
-[[/c/fedivision 🌎](https://u.fail/c/fedivision)]
+[[/c/fedivision 🌎](https://geddit.social/c/fedivision)]
 [[u.fail](/instances/u_fail)]
 
 
 ## Description 
 
 <blockquote class="description">
-Fediverse's answer to the Eurovision song contest, now in it's **third** year.
+Fedivision Song Contest. A song contest for the fediverse. Founded 2021.<br><br>Website: https://fedivision.party/<br><br>Microverse link: @fedivision@botsin.space<br>https://botsin.space/@fedivision<br><br>Usually takes place May/June. Final voting was held 18 June 2023. Next event will be in 2024.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Fediverse's answer to the Eurovision song contest, now in it's **third** year.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -52,6 +52,6 @@ Fediverse's answer to the Eurovision song contest, now in it's **third** year.
 
 | Activity | Date |
 |----------------------|---|
-| Published            | 2023-06-16 17:19:10 |
-| Updated              | 2023-06-16 17:30:04 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Published            | 2023-06-18 20:05:50 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-19 11:35:26 |

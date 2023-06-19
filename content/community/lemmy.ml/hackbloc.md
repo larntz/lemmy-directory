@@ -3,13 +3,13 @@ title: "HackBloc"
 name: "hackbloc"
 description: "Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist, Anti-Capitalist, Anarchist hackers"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackbloc"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 115
+subscribers: 114
 posts: 93
 comments: 11
 weight: 93
@@ -41,7 +41,7 @@ Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 115 |
+| Subscribers          | 114 |
 | Posts                | 93  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist
 |----------------------|---|
 | Published            | 2020-06-11 15:05:14 |
 | Updated              | 2021-06-18 00:58:47 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:37:02 |

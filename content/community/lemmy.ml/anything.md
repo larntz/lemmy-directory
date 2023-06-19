@@ -3,13 +3,13 @@ title: "Anything"
 name: "anything"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anything"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 61
 comments: 58
 weight: 61
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 61  |
 | Comments             | 58  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-07 01:12:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:45 |

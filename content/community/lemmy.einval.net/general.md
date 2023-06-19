@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/general"
@@ -13,9 +13,9 @@ subscribers: 11
 posts: 7
 comments: 26
 weight: 7
-dau: 1
-wau: 5
-mau: 5
+dau: 2
+wau: 4
+mau: 6
 instances:
 - "lemmy_einval_net"
 tags: 
@@ -44,9 +44,9 @@ Description not available.
 | Subscribers          | 11 |
 | Posts                | 7  |
 | Comments             | 26  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 04:54:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

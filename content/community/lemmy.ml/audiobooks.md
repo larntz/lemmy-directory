@@ -3,19 +3,19 @@ title: "Audiobooks"
 name: "audiobooks"
 description: "A community to discuss Audiobooks"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/audiobooks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 138
-posts: 10
-comments: 41
-weight: 10
-dau: 10
-wau: 20
-mau: 20
+subscribers: 168
+posts: 12
+comments: 53
+weight: 12
+dau: 8
+wau: 26
+mau: 27
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss Audiobooks
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 138 |
-| Posts                | 10  |
-| Comments             | 41  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 168 |
+| Posts                | 12  |
+| Comments             | 53  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss Audiobooks
 |----------------------|---|
 | Published            | 2023-06-05 21:31:13 |
 | Updated              | 2023-06-14 22:28:22 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,19 +3,19 @@ title: "Pizza"
 name: "pizza"
 description: "Friendly community for pizza lovers and creators of all levels. Share your creations, recipes or questions!Logo by catalyststuff on Freepik (https://www.freepik.com/free-vector/flying-slice-pizza-cartoon-vector-illustration-fast-food-concept-isolated-vector-flat-cartoon-style_10336107.htm)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pizza"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 2
-comments: 3
-weight: 2
-dau: 0
-wau: 3
-mau: 3
+subscribers: 51
+posts: 4
+comments: 6
+weight: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Friendly community for pizza lovers and creators of all levels. Share your creat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 51 |
+| Posts                | 4  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Friendly community for pizza lovers and creators of all levels. Share your creat
 |----------------------|---|
 | Published            | 2023-06-14 22:47:42 |
 | Updated              | 2023-06-14 23:12:57 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

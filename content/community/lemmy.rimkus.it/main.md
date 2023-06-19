@@ -3,7 +3,7 @@ title: "The Rimkus Community"
 name: "main"
 description: "Community Corner for the Rimkus Clan"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rimkus.it/c/main"
@@ -54,4 +54,4 @@ Community Corner for the Rimkus Clan
 |----------------------|---|
 | Published            | 2022-07-03 12:53:27 |
 | Updated              | 2022-07-03 12:54:48 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

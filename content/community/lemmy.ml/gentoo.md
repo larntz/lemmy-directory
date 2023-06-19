@@ -3,13 +3,13 @@ title: "Gentoo"
 name: "gentoo"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gentoo"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 90
 posts: 5
 comments: 3
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 90 |
 | Posts                | 5  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-11-13 10:58:40 |
 | Updated              | 2019-11-13 10:59:15 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

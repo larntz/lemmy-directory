@@ -3,13 +3,13 @@ title: "CyberDeck"
 name: "cyberdeck"
 description: "Hey y'all, just an experiment, if it works out I'll clean it up and run it"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cyberdeck"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 31
 posts: 2
 comments: 6
 weight: 2
@@ -41,7 +41,7 @@ Hey y'all, just an experiment, if it works out I'll clean it up and run it
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 31 |
 | Posts                | 2  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hey y'all, just an experiment, if it works out I'll clean it up and run it
 |----------------------|---|
 | Published            | 2022-02-26 00:46:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,19 +3,19 @@ title: "Pop!_OS "
 name: "popos"
 description: "Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop. The distribution is developed by American Linux computer manufacturer System76."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/popos"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 133
+subscribers: 146
 posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 133 |
+| Subscribers          | 146 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuri
 |----------------------|---|
 | Published            | 2021-08-04 01:48:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

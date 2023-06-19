@@ -3,19 +3,19 @@ title: "GenZhou"
 name: "genzhou"
 description: "GenZhou, GenZedong’s educational hub, but on Lemmygrad."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzhou"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 481
+subscribers: 497
 posts: 229
-comments: 1660
+comments: 1662
 weight: 229
-dau: 5
-wau: 40
-mau: 61
+dau: 2
+wau: 38
+mau: 59
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ GenZhou, GenZedong’s educational hub, but on Lemmygrad.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 481 |
+| Subscribers          | 497 |
 | Posts                | 229  |
-| Comments             | 1660  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 61  |
+| Comments             | 1662  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 38  |
+| Monthly Active Users | 59  |
 
 <br>
 
@@ -54,4 +54,4 @@ GenZhou, GenZedong’s educational hub, but on Lemmygrad.
 |----------------------|---|
 | Published            | 2022-03-26 02:36:35 |
 | Updated              | 2022-03-26 19:30:50 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

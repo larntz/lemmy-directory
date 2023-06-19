@@ -3,19 +3,19 @@ title: "Meditation"
 name: "meditation"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/meditation"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 166
-posts: 13
+subscribers: 178
+posts: 15
 comments: 29
-weight: 13
+weight: 15
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 166 |
-| Posts                | 13  |
+| Subscribers          | 178 |
+| Posts                | 15  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-28 11:45:10 |
 | Updated              | 2021-02-28 11:53:11 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

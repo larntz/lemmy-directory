@@ -3,7 +3,7 @@ title: "Embryology"
 name: "embryology"
 description: "IVF related discussion from professional interest to patient questions. "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/embryology"
@@ -54,4 +54,4 @@ IVF related discussion from professional interest to patient questions.
 |----------------------|---|
 | Published            | 2023-06-11 03:07:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

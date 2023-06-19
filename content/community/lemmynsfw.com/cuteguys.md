@@ -3,13 +3,13 @@ title: "Cute Guys"
 name: "cuteguys"
 description: "A place for your cuteness to shine! Remember everyone is cute, even YOU!"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuteguys"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ A place for your cuteness to shine! Remember everyone is cute, even YOU!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -55,5 +55,5 @@ A place for your cuteness to shine! Remember everyone is cute, even YOU!
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 17:53:44 |
-| Updated              | 2023-06-16 19:02:17 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Updated              | 2023-06-17 09:13:12 |
+| Last Scraped         | 2023-06-19 11:35:45 |

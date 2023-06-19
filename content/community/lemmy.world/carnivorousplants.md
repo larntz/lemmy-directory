@@ -3,13 +3,13 @@ title: "carnivorous_plants"
 name: "carnivorousplants"
 description: "~UNDER CONSTRUCTION PARDON OUR DUST~New here, loved r/carnivorousplants so repotted over here!  Come on by!Rules:- Don't be an ass- All carnivores and and quasi-carnivores welcome- Pics and questions welcome!- News (habitat numbers, generally interesting articles etc) welcome!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carnivorousplants"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 10:44:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

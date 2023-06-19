@@ -3,7 +3,7 @@ title: "Formula1"
 name: "formula1"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/formula1"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 09:42:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

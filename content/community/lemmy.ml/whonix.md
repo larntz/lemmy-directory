@@ -3,7 +3,7 @@ title: "Whonix"
 name: "whonix"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whonix"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-10-21 01:54:23 |
 | Updated              | 2021-10-21 01:54:35 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

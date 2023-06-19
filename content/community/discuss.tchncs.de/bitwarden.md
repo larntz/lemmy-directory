@@ -3,13 +3,13 @@ title: "Bitwarden"
 name: "bitwarden"
 description: "Discuss the Paswordmanager Bitwarden."
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/bitwarden"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 74
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Discuss the Paswordmanager Bitwarden.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 74 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Discuss the Paswordmanager Bitwarden.
 |----------------------|---|
 | Published            | 2023-06-12 22:33:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

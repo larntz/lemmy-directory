@@ -3,7 +3,7 @@ title: "Chives Test Community"
 name: "chivestestcommunity"
 description: "Checking to see what happens if I do this."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/chivestestcommunity"
@@ -54,4 +54,4 @@ Checking to see what happens if I do this.
 |----------------------|---|
 | Published            | 2023-06-13 15:43:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

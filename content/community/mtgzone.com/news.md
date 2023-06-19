@@ -3,13 +3,13 @@ title: "News"
 name: "news"
 description: "#### Official MTG newsOfficial Magic: the Gathering news, announcements, and banned and restricted list updates.---"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/news"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 61
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 61 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 19:29:39 |
 | Updated              | 2023-06-14 20:20:09 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

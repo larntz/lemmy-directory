@@ -3,17 +3,17 @@ title: "Anime Bodysuits"
 name: "animebodysuits"
 description: "A community dedicated to anime characters in bodysuits. Western art is also welcomed."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/animebodysuits"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 5
+subscribers: 73
+posts: 8
 comments: 0
-weight: 5
-dau: 2
+weight: 8
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -43,10 +43,10 @@ A community dedicated to anime characters in bodysuits. Western art is also welc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 5  |
+| Subscribers          | 73 |
+| Posts                | 8  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -56,4 +56,4 @@ A community dedicated to anime characters in bodysuits. Western art is also welc
 |----------------------|---|
 | Published            | 2023-06-16 05:39:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

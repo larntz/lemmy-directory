@@ -3,16 +3,16 @@ title: "Hinduism"
 name: "hinduism"
 description: "General discussion on topics of Hinduism"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/hinduism"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 4
+subscribers: 8
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ General discussion on topics of Hinduism
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 4  |
+| Subscribers          | 8 |
+| Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ General discussion on topics of Hinduism
 |----------------------|---|
 | Published            | 2023-06-14 05:40:48 |
 | Updated              | 2023-06-15 06:55:55 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

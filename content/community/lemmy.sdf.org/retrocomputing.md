@@ -3,19 +3,19 @@ title: "retrocomputing"
 name: "retrocomputing"
 description: "Discussions on vintage and retrocomputing"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/retrocomputing"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 1079
-posts: 37
-comments: 152
-weight: 37
-dau: 24
-wau: 89
-mau: 91
+subscribers: 1321
+posts: 48
+comments: 205
+weight: 48
+dau: 28
+wau: 97
+mau: 101
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Discussions on vintage and retrocomputing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1079 |
-| Posts                | 37  |
-| Comments             | 152  |
-| Daily Active Users   | 24  |
-| Weekly Active Users  | 89  |
-| Monthly Active Users | 91  |
+| Subscribers          | 1321 |
+| Posts                | 48  |
+| Comments             | 205  |
+| Daily Active Users   | 28  |
+| Weekly Active Users  | 97  |
+| Monthly Active Users | 101  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions on vintage and retrocomputing
 |----------------------|---|
 | Published            | 2023-06-06 23:46:24 |
 | Updated              | 2023-06-07 00:07:47 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

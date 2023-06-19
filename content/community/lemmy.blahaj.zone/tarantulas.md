@@ -3,17 +3,17 @@ title: "Tarantulas"
 name: "tarantulas"
 description: "Community for discussion of our little fuzzy friends.Rules:1. Try to keep discussion on topic2. Be welcoming to new keepers3. 🕷️"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/tarantulas"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 9
+subscribers: 19
+posts: 10
 comments: 7
-weight: 9
-dau: 2
+weight: 10
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Community for discussion of our little fuzzy friends.<br><br>Rules:<br>1. Try to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 9  |
+| Subscribers          | 19 |
+| Posts                | 10  |
 | Comments             | 7  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Community for discussion of our little fuzzy friends.<br><br>Rules:<br>1. Try to
 |----------------------|---|
 | Published            | 2023-06-12 14:34:33 |
 | Updated              | 2023-06-12 16:00:39 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

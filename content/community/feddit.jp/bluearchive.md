@@ -3,7 +3,7 @@ title: "ブルーアーカイブ"
 name: "bluearchive"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/bluearchive"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 05:20:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

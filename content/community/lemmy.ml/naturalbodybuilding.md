@@ -3,13 +3,13 @@ title: "Natural Bodybuilding 💪🏽"
 name: "naturalbodybuilding"
 description: "Bodybuilding page for drug-free athletes."
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/naturalbodybuilding"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 35
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Bodybuilding page for drug-free athletes.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 35 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Bodybuilding page for drug-free athletes.
 |----------------------|---|
 | Published            | 2021-04-17 16:27:47 |
 | Updated              | 2021-04-17 18:47:04 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:54 |

@@ -3,13 +3,13 @@ title: "Statistik"
 name: "statistik"
 description: ""
 type: community
-date: "2023-06-16 22:55:47"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/statistik"
 host: feddit.dk
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-05-08 09:08:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:47 |
+| Last Scraped         | 2023-06-19 11:34:49 |

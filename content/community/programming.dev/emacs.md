@@ -3,19 +3,19 @@ title: "Emacs"
 name: "emacs"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/emacs"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+subscribers: 45
+posts: 2
+comments: 4
+weight: 2
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 45 |
+| Posts                | 2  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 23:52:25 |
 | Updated              | 2023-06-14 00:01:23 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

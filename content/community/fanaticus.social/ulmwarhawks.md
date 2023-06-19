@@ -1,9 +1,9 @@
 ---
-title: "Louisiana-Monroe Warhawks" 
+title: "ULM Warhawks" 
 name: "ulmwarhawks"
 description: "A community to discuss Louisiana-Monroe Warhawks athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/ulmwarhawks"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Louisiana-Monroe Warhawks on fanaticus.social
+# /c/ULM Warhawks on fanaticus.social
 
 [[home](/)]
 [[/c/ulmwarhawks 🌎](https://fanaticus.social/c/ulmwarhawks)]
@@ -53,5 +53,5 @@ A community to discuss Louisiana-Monroe Warhawks athletics.<br><br>**Looking for
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 23:01:43 |
-| Updated              | 2023-06-15 23:02:35 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 03:45:01 |
+| Last Scraped         | 2023-06-19 11:35:15 |

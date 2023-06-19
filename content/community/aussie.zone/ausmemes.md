@@ -3,19 +3,19 @@ title: "ausmemes"
 name: "ausmemes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/ausmemes"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 58
+posts: 5
+comments: 3
+weight: 5
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 58 |
+| Posts                | 5  |
+| Comments             | 3  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 12:12:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-19 08:00:59 |
+| Last Scraped         | 2023-06-19 11:35:06 |

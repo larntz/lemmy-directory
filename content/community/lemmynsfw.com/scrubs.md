@@ -1,15 +1,15 @@
 ---
-title: "Scrubs Gone Wild" 
+title: "scrubs" 
 name: "scrubs"
-description: "A community for those in healthcare to share sexy pictures and videos of themselves in scrubs.**Rules**Posts must include scrubs. No advertising in the title of your post. No involuntary porn."
+description: "Description not available."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/scrubs"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 78
 posts: 0
 comments: 0
 weight: 0
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-# /c/Scrubs Gone Wild on lemmynsfw.com
+# /c/scrubs on lemmynsfw.com
 
 [[home](/)]
 [[/c/scrubs 🌎](https://lemmynsfw.com/c/scrubs)]
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-A community for those in healthcare to share sexy pictures and videos of themselves in scrubs.<br><br><br>**Rules**<br><br>Posts must include scrubs. <br><br>No advertising in the title of your post. <br><br>No involuntary porn.
+Description not available.
 </blockquote>
 
 
@@ -43,7 +43,7 @@ A community for those in healthcare to share sexy pictures and videos of themsel
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 78 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -55,5 +55,5 @@ A community for those in healthcare to share sexy pictures and videos of themsel
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 16:48:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Updated              | 2023-06-17 07:11:06 |
+| Last Scraped         | 2023-06-19 11:35:45 |

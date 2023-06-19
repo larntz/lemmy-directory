@@ -3,19 +3,19 @@ title: "Best of Lemmy"
 name: "bestof"
 description: "A community to share the best comments from across Lemmy"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bestof"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 112
-posts: 2
-comments: 1
-weight: 2
+subscribers: 190
+posts: 4
+comments: 3
+weight: 4
 dau: 2
-wau: 3
-mau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to share the best comments from across Lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 2  |
-| Comments             | 1  |
+| Subscribers          | 190 |
+| Posts                | 4  |
+| Comments             | 3  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to share the best comments from across Lemmy
 |----------------------|---|
 | Published            | 2023-06-13 06:23:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

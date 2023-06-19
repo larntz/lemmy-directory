@@ -3,7 +3,7 @@ title: "onlinepreservation"
 name: "onlinepreservation"
 description: "This subreddit was created to act as a repository for packet captures & other legally shareable online game data pertaining to games that are now defunct/offline (or soon to be). The purpose of this subreddit is to offer a place to discuss & share important online game data that is not illegal in nature. The ultimate goal is to preserve as much of online gaming history as possible and act as a centralized location for the allocation of such data for future engineering/emulation.Originally  [r/OnlinePreservation](https://www.reddit.com/r/OnlinePreservation) on reddit."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/onlinepreservation"
@@ -54,4 +54,4 @@ This subreddit was created to act as a repository for packet captures & other le
 |----------------------|---|
 | Published            | 2023-06-08 13:49:47 |
 | Updated              | 2023-06-08 13:53:10 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

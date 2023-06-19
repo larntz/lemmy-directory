@@ -3,16 +3,16 @@ title: "Foro_México"
 name: "foro_mexico"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/foro_mexico"
 host: mujico.org
 lastmod: "{[ .Updated }}"
 subscribers: 35
-posts: 152
-comments: 168
-weight: 152
+posts: 154
+comments: 170
+weight: 154
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 35 |
-| Posts                | 152  |
-| Comments             | 168  |
+| Posts                | 154  |
+| Comments             | 170  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-21 05:24:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

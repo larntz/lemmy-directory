@@ -3,19 +3,19 @@ title: "Nachrichten"
 name: "nachrichten"
 description: "Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Sprachraum berichten."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nachrichten"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 195
-posts: 31
-comments: 81
-weight: 31
-dau: 10
-wau: 19
-mau: 19
+subscribers: 244
+posts: 33
+comments: 84
+weight: 33
+dau: 17
+wau: 51
+mau: 51
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Spr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 195 |
-| Posts                | 31  |
-| Comments             | 81  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
+| Subscribers          | 244 |
+| Posts                | 33  |
+| Comments             | 84  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 51  |
+| Monthly Active Users | 51  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ein Platz für Nachrichten in deutscher Sprache oder die über den deutschen Spr
 |----------------------|---|
 | Published            | 2023-06-14 08:40:31 |
 | Updated              | 2023-06-15 18:32:01 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

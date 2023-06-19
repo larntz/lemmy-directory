@@ -3,13 +3,13 @@ title: "Nvidia"
 name: "nvidia"
 description: "Discussion for AI generation with Nvidia cards"
 type: community
-date: "2023-06-16 22:55:51"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/nvidia"
 host: aiparadise.moe
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussion for AI generation with Nvidia cards
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion for AI generation with Nvidia cards
 |----------------------|---|
 | Published            | 2023-05-15 11:57:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:51 |
+| Last Scraped         | 2023-06-19 11:34:53 |

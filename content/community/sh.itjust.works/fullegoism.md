@@ -3,16 +3,16 @@ title: "Full Egoism"
 name: "fullegoism"
 description: "max stirnerfunny memeswhat else?ah right, spooks begone"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fullegoism"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 7
+subscribers: 8
+posts: 8
 comments: 4
-weight: 7
+weight: 8
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ max stirner<br><br>funny memes<br><br>what else?<br><br>ah right, spooks begone
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 7  |
+| Subscribers          | 8 |
+| Posts                | 8  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ max stirner<br><br>funny memes<br><br>what else?<br><br>ah right, spooks begone
 |----------------------|---|
 | Published            | 2023-06-14 22:18:01 |
 | Updated              | 2023-06-14 22:30:25 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,13 +3,13 @@ title: "Bueno Bonito y Barato"
 name: "buboba"
 description: "Nos gustan las cosas DIYComunidad de los que tienen un compa que cobra mas barato."
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/buboba"
 host: mujico.org
 lastmod: "{[ .Updated }}"
-subscribers: 137
+subscribers: 138
 posts: 9
 comments: 29
 weight: 9
@@ -41,7 +41,7 @@ Nos gustan las cosas DIY<br><br>Comunidad de los que tienen un compa que cobra m
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 137 |
+| Subscribers          | 138 |
 | Posts                | 9  |
 | Comments             | 29  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Nos gustan las cosas DIY<br><br>Comunidad de los que tienen un compa que cobra m
 |----------------------|---|
 | Published            | 2022-09-07 23:25:37 |
 | Updated              | 2022-09-07 23:27:18 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

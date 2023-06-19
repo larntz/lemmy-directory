@@ -3,17 +3,17 @@ title: "Wheel of Time"
 name: "wheeloftime"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wheeloftime"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 5
+subscribers: 23
+posts: 6
 comments: 5
-weight: 5
-dau: 3
+weight: 6
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 5  |
+| Subscribers          | 23 |
+| Posts                | 6  |
 | Comments             | 5  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 21:14:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

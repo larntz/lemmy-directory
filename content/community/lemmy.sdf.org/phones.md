@@ -3,19 +3,19 @@ title: "phones"
 name: "phones"
 description: "Discussion on telephony, telegraphy and switching equipment"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/phones"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 1
+subscribers: 32
+posts: 2
 comments: 7
-weight: 1
+weight: 2
 dau: 1
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Discussion on telephony, telegraphy and switching equipment
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 1  |
+| Subscribers          | 32 |
+| Posts                | 2  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion on telephony, telegraphy and switching equipment
 |----------------------|---|
 | Published            | 2023-06-10 18:59:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

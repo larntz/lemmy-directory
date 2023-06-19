@@ -3,13 +3,13 @@ title: "Gaddafism: The Green Way"
 name: "muammargaddafi"
 description: "A community in favor of colonel Muammar al-Qaddafi and The Great Socialist People's Libyan Arab Jamahiriya. **ALLAHU AKBAR!** Memes and political discussions are allowed here.***STANDARD LEMMYGRAD RULES APPLY***"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/muammargaddafi"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 34
 posts: 15
 comments: 44
 weight: 15
@@ -41,7 +41,7 @@ A community in favor of colonel Muammar al-Qaddafi and The Great Socialist Peopl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 34 |
 | Posts                | 15  |
 | Comments             | 44  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community in favor of colonel Muammar al-Qaddafi and The Great Socialist Peopl
 |----------------------|---|
 | Published            | 2022-12-27 09:24:34 |
 | Updated              | 2023-01-09 11:12:19 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

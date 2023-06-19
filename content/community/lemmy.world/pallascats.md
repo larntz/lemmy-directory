@@ -3,19 +3,19 @@ title: "Pallas Cats"
 name: "pallascats"
 description: "A community dedicated to Pallas cats (Felis/Otocolobus Manul)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pallascats"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 6
-comments: 13
-weight: 6
-dau: 4
-wau: 5
-mau: 5
+subscribers: 53
+posts: 9
+comments: 19
+weight: 9
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to Pallas cats (Felis/Otocolobus Manul)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 6  |
-| Comments             | 13  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 53 |
+| Posts                | 9  |
+| Comments             | 19  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to Pallas cats (Felis/Otocolobus Manul)
 |----------------------|---|
 | Published            | 2023-06-13 06:57:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,7 +3,7 @@ title: "Tomorrow"
 name: "tomorrow"
 description: "When does it come out?_Tomorrow_"
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tomorrow"
@@ -54,4 +54,4 @@ When does it come out?<br><br>_Tomorrow_
 |----------------------|---|
 | Published            | 2023-05-26 01:19:24 |
 | Updated              | 2023-06-03 02:26:31 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:48 |

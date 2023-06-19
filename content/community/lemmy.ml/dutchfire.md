@@ -3,19 +3,19 @@ title: "DutchFire"
 name: "dutchfire"
 description: "De opvolger van /r/DutchFIRE"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dutchfire"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 12
 posts: 1
-comments: 3
+comments: 5
 weight: 1
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ De opvolger van /r/DutchFIRE
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 12 |
 | Posts                | 1  |
-| Comments             | 3  |
+| Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ De opvolger van /r/DutchFIRE
 |----------------------|---|
 | Published            | 2023-06-10 23:45:16 |
 | Updated              | 2023-06-10 23:45:51 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

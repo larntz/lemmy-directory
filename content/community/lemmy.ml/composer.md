@@ -3,7 +3,7 @@ title: "Composer"
 name: "composer"
 description: "A place for discussing your music compositions."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/composer"
@@ -54,4 +54,4 @@ A place for discussing your music compositions.
 |----------------------|---|
 | Published            | 2021-08-27 21:24:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:44 |

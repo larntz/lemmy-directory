@@ -3,13 +3,13 @@ title: "Meme Templates"
 name: "memetemplates"
 description: "A community for posting meme templates to be used in /c/memes."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memetemplates"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 35
 posts: 6
 comments: 2
 weight: 6
@@ -41,7 +41,7 @@ A community for posting meme templates to be used in /c/memes.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 35 |
 | Posts                | 6  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for posting meme templates to be used in /c/memes.
 |----------------------|---|
 | Published            | 2020-07-10 21:37:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

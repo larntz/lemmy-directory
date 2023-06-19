@@ -3,7 +3,7 @@ title: "ŝercaĵo"
 name: "zaregoto"
 description: "鴉河が個人的に何か書くところです。大体はギャグか戯言として受け止めてくださいな。``` このページで利用している株式会社スクウェア・エニックスを代表とする共同著作者が権利を所有する画像の転載・配布は禁止いたします。 © ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX All Rights Reserved.```"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/zaregoto"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-06-22 06:57:32 |
 | Updated              | 2023-04-17 03:00:03 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

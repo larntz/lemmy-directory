@@ -3,13 +3,13 @@ title: "Jerk Off Instruction"
 name: "joi"
 description: "# Welcome to c/joi!This is a community to share JOIs (Jerk Off Instructions). Jerk Off Instructions are mostly solo NSFW videos in which the person in the video tells you what to do, what to think about etc. ## Rules- Adhere to the Lemmy NSFW Rules - All posts need to be a JOI (This includes hentai JOIs as well)- No content behind a paywall- Don't spam and be respectful"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/joi"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 219
+subscribers: 299
 posts: 9
 comments: 0
 weight: 9
@@ -43,7 +43,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 219 |
+| Subscribers          | 299 |
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 15:41:08 |
 | Updated              | 2023-06-14 05:17:05 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

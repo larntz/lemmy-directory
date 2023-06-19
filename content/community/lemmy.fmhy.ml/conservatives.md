@@ -3,13 +3,13 @@ title: "Conservatives"
 name: "conservatives"
 description: "A place for all conservative people in the world."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/conservatives"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for all conservative people in the world.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 21 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for all conservative people in the world.
 |----------------------|---|
 | Published            | 2023-06-09 09:35:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

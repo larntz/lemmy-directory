@@ -3,19 +3,19 @@ title: "Movie News and Discussion"
 name: "movies"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/movies"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1082
-posts: 55
-comments: 109
-weight: 55
+subscribers: 1181
+posts: 59
+comments: 111
+weight: 59
 dau: 3
-wau: 53
-mau: 59
+wau: 25
+mau: 68
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1082 |
-| Posts                | 55  |
-| Comments             | 109  |
+| Subscribers          | 1181 |
+| Posts                | 59  |
+| Comments             | 111  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 53  |
-| Monthly Active Users | 59  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 68  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-18 03:08:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:48 |

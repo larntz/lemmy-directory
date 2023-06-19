@@ -3,7 +3,7 @@ title: "CrossFit"
 name: "crossfit"
 description: "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level. These movements are actions that you perform in your day-to-day life, like squatting, pulling, pushing etc."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/crossfit"
@@ -54,4 +54,4 @@ A form of high intensity interval training, CrossFit is a strength and condition
 |----------------------|---|
 | Published            | 2023-06-15 11:54:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

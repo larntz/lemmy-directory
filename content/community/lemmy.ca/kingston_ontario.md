@@ -3,16 +3,16 @@ title: "KingstonOntario"
 name: "kingston_ontario"
 description: "old.reddit.com/r/KingstonOntario lives on now on lemmy.ca"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kingston_ontario"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 6
-comments: 12
-weight: 6
+subscribers: 13
+posts: 5
+comments: 7
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ old.reddit.com/r/KingstonOntario lives on now on lemmy.ca
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 6  |
-| Comments             | 12  |
+| Subscribers          | 13 |
+| Posts                | 5  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ old.reddit.com/r/KingstonOntario lives on now on lemmy.ca
 |----------------------|---|
 | Published            | 2023-06-14 12:32:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

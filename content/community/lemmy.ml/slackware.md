@@ -3,19 +3,19 @@ title: "Slackware"
 name: "slackware"
 description: "Welcome to SlackwareThis is a non-official community/slice.Some resources:- [Get Slackware](http://slackware.com/getslack)- [Beginners Guide](https://docs.slackware.com/slackware:beginners_guide)Join us on [matrix!](https://app.element.io#/group/+slackware:matrix.org)Rules:- Posts must be relevant to Slackware or Linux news (at the very minimum)- No NSFW content.- Jokes must be in good taste. No hate speech, bigotry, etc."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slackware"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 9
 posts: 2
-comments: 3
+comments: 4
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Welcome to Slackware<br>This is a non-official community/slice.<br><br>Some reso
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 9 |
 | Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to Slackware<br>This is a non-official community/slice.<br><br>Some reso
 |----------------------|---|
 | Published            | 2023-06-16 15:49:40 |
 | Updated              | 2023-06-16 19:23:42 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

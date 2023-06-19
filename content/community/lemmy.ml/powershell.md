@@ -3,13 +3,13 @@ title: "PowerShell"
 name: "powershell"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/powershell"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 110
+subscribers: 111
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 110 |
+| Subscribers          | 111 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-04-27 04:41:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:51 |

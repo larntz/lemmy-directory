@@ -3,19 +3,19 @@ title: "Intel"
 name: "intel"
 description: "Intel is the community  to talk about anything related to Intel Corporation and it's products. Intel's CPUs (i5, i7, i9, etc.), Graphics (ARC, Xe, UHD), Networking, OneAPI, XeSS, and all other Intel-related topics are discussed here."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/intel"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 152
-posts: 10
-comments: 15
-weight: 10
-dau: 4
-wau: 17
-mau: 17
+subscribers: 181
+posts: 12
+comments: 16
+weight: 12
+dau: 1
+wau: 12
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Intel is the community  to talk about anything related to Intel Corporation and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 152 |
-| Posts                | 10  |
-| Comments             | 15  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Subscribers          | 181 |
+| Posts                | 12  |
+| Comments             | 16  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 19  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 13:37:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Updated              | 2023-06-17 06:48:20 |
+| Last Scraped         | 2023-06-19 11:36:39 |

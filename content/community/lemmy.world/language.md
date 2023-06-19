@@ -3,7 +3,7 @@ title: "Languages of the World"
 name: "language"
 description: "Discussion about languages, linguistics, and language learning."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/language"
@@ -54,4 +54,4 @@ Discussion about languages, linguistics, and language learning.
 |----------------------|---|
 | Published            | 2023-06-11 05:10:58 |
 | Updated              | 2023-06-11 07:51:33 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "Badminton"
 name: "badminton"
 description: "Home of Badminton on Lemmy. Opening soon.[Badminton Matrix Chat](https://matrix.to/#/#badminton-lemmy:matrix.org)"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badminton"
@@ -54,4 +54,4 @@ Home of Badminton on Lemmy. Opening soon.<br><br>[Badminton Matrix Chat](https:/
 |----------------------|---|
 | Published            | 2023-06-03 09:00:37 |
 | Updated              | 2023-06-15 22:27:19 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,7 +3,7 @@ title: "Updates on CelciusNetwork"
 name: "celciusnetwork"
 description: "Let's try to update each other"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/celciusnetwork"
@@ -54,4 +54,4 @@ Let's try to update each other
 |----------------------|---|
 | Published            | 2023-06-16 19:34:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

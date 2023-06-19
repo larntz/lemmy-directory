@@ -3,13 +3,13 @@ title: "Speedrun"
 name: "speedrun"
 description: "post cool speedruns here. Video game preferred but all are welcome"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/speedrun"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ post cool speedruns here. Video game preferred but all are welcome
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ post cool speedruns here. Video game preferred but all are welcome
 |----------------------|---|
 | Published            | 2023-06-16 12:29:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,7 +3,7 @@ title: "Tech Dystopia"
 name: "tech_dystopia"
 description: "Bad, tech. Bad!Chronicling our society's downwards slide towards becoming a technological dystopia."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_dystopia"
@@ -54,4 +54,4 @@ Bad, tech. Bad!<br><br>Chronicling our society's downwards slide towards becomin
 |----------------------|---|
 | Published            | 2020-10-22 17:36:47 |
 | Updated              | 2021-01-26 13:14:44 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "Amouranth"
 name: "amouranth"
 description: "Unofficial sublemmy for Amouranth, the Twitch steamer and YouTuber. "
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amouranth"
@@ -54,4 +54,4 @@ Unofficial sublemmy for Amouranth, the Twitch steamer and YouTuber.
 |----------------------|---|
 | Published            | 2021-12-15 07:43:33 |
 | Updated              | 2021-12-17 22:06:30 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

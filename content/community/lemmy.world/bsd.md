@@ -3,13 +3,13 @@ title: "BSD"
 name: "bsd"
 description: "Discussions for the BSD family of Operating Systems "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bsd"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussions for the BSD family of Operating Systems
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussions for the BSD family of Operating Systems
 |----------------------|---|
 | Published            | 2023-06-10 11:11:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

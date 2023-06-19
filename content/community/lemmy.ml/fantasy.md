@@ -3,19 +3,19 @@ title: "Fantasy books, stories, &c"
 name: "fantasy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fantasy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 767
-posts: 16
-comments: 198
-weight: 16
-dau: 12
-wau: 60
-mau: 67
+subscribers: 877
+posts: 18
+comments: 216
+weight: 18
+dau: 7
+wau: 49
+mau: 79
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 767 |
-| Posts                | 16  |
-| Comments             | 198  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 60  |
-| Monthly Active Users | 67  |
+| Subscribers          | 877 |
+| Posts                | 18  |
+| Comments             | 216  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 49  |
+| Monthly Active Users | 79  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 08:51:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:37:02 |

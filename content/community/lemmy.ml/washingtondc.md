@@ -3,16 +3,16 @@ title: "Washington, DC"
 name: "washingtondc"
 description: "A community for locals of the DC Metro area"
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/washingtondc"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
+subscribers: 2
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ A community for locals of the DC Metro area
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
+| Subscribers          | 2 |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ A community for locals of the DC Metro area
 |----------------------|---|
 | Published            | 2023-06-07 23:36:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:43 |

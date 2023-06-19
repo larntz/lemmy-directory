@@ -3,13 +3,13 @@ title: "Vexology - The Study of Flags"
 name: "vexology"
 description: "For Flag Enthusiasts "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vexology"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ For Flag Enthusiasts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For Flag Enthusiasts
 |----------------------|---|
 | Published            | 2021-04-13 04:04:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:43 |

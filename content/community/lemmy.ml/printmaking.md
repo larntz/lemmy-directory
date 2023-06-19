@@ -3,13 +3,13 @@ title: "Printmaking"
 name: "printmaking"
 description: "Anything to do with printmaking-relief and linocutmonoprinting and stencilscollographengravingetchinglithographyscreenprintnot 3D printing or printers"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/printmaking"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Anything to do with printmaking-<br><br>relief and linocut<br><br>monoprinting a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Anything to do with printmaking-<br><br>relief and linocut<br><br>monoprinting a
 |----------------------|---|
 | Published            | 2023-06-15 11:34:13 |
 | Updated              | 2023-06-15 11:35:51 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

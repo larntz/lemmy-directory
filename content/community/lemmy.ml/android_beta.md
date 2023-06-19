@@ -3,13 +3,13 @@ title: "Android_Beta"
 name: "android_beta"
 description: "Check us out over at [/c/AndroidBeta](https://lemmy.ml/c/androidbeta)"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/android_beta"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Check us out over at [/c/AndroidBeta](https://lemmy.ml/c/androidbeta)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Check us out over at [/c/AndroidBeta](https://lemmy.ml/c/androidbeta)
 |----------------------|---|
 | Published            | 2023-06-07 15:18:30 |
 | Updated              | 2023-06-07 15:20:04 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

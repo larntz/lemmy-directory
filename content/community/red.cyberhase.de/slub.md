@@ -3,7 +3,7 @@ title: "SLUB"
 name: "slub"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://red.cyberhase.de/c/slub"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 14:53:55 |
 | Updated              | 2023-06-14 15:07:13 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

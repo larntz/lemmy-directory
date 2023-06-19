@@ -3,19 +3,19 @@ title: "Feddit.nu"
 name: "fedditnu"
 description: "**Senaste nytt om Lemmy-instansen Feddit.nu!**Även meta-diskussioner om Feddit osv är välkommet här!"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nu/c/fedditnu"
 host: feddit.nu
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 18
+posts: 6
+comments: 30
+weight: 6
+dau: 5
+wau: 7
+mau: 7
 instances:
 - "feddit_nu"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 18 |
+| Posts                | 6  |
+| Comments             | 30  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 15:45:54 |
 | Updated              | 2023-06-14 19:53:22 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

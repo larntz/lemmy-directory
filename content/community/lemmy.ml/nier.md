@@ -3,7 +3,7 @@ title: "Nier"
 name: "nier"
 description: "A community for fans of the Nier and Drakengard series created by Yoko Taro."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nier"
@@ -54,4 +54,4 @@ A community for fans of the Nier and Drakengard series created by Yoko Taro.
 |----------------------|---|
 | Published            | 2022-04-05 13:20:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:58 |

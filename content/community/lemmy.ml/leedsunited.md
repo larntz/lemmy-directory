@@ -3,7 +3,7 @@ title: "LeedsUnited"
 name: "leedsunited"
 description: "Home of Leeds United FC on Lemmy.The name on the back of the shirt is never bigger than the badge on the front of it. We Are Leeds.MOT.Rules• Keep On Topic• Keep Comments Civil• Use Objective & Descriptive Titling• Provide Sources• No Banned News Sources• Provide Paywall Summaries• No Stream Requesting/Sharing• Request Permission to Post Personal Content/ Services• Follow Reddiquette"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leedsunited"
@@ -54,4 +54,4 @@ Home of Leeds United FC on Lemmy.<br>The name on the back of the shirt is never 
 |----------------------|---|
 | Published            | 2023-06-14 23:21:41 |
 | Updated              | 2023-06-15 11:32:27 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

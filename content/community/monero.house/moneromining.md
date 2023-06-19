@@ -3,7 +3,7 @@ title: "Monero Mining"
 name: "moneromining"
 description: "A community for discussions about Monero (XMR) mining."
 type: community
-date: "2023-06-16 22:55:51"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/moneromining"
@@ -54,4 +54,4 @@ A community for discussions about Monero (XMR) mining.
 |----------------------|---|
 | Published            | 2023-02-17 00:19:06 |
 | Updated              | 2023-02-17 00:43:19 |
-| Last Scraped         | 2023-06-16 22:55:51 |
+| Last Scraped         | 2023-06-19 11:34:53 |

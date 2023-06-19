@@ -3,19 +3,19 @@ title: "Functional Programming"
 name: "functional_programming"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/functional_programming"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 147
-posts: 6
-comments: 28
-weight: 6
-dau: 2
-wau: 7
-mau: 7
+subscribers: 222
+posts: 8
+comments: 34
+weight: 8
+dau: 1
+wau: 17
+mau: 17
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 147 |
-| Posts                | 6  |
-| Comments             | 28  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 222 |
+| Posts                | 8  |
+| Comments             | 34  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 02:10:14 |
 | Updated              | 2023-06-13 05:17:51 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

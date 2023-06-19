@@ -3,16 +3,16 @@ title: "Europe"
 name: "europe"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/europe"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 17
+posts: 18
 comments: 3
-weight: 17
+weight: 18
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 17  |
+| Posts                | 18  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-18 15:37:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

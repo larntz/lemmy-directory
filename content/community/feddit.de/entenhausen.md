@@ -3,19 +3,19 @@ title: "Entenhausen"
 name: "entenhausen"
 description: "**Entenhausen**, die philosophischste Stadt des Universums."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/entenhausen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 3
+subscribers: 55
+posts: 4
 comments: 2
-weight: 3
+weight: 4
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 3  |
+| Subscribers          | 55 |
+| Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-09-26 14:26:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

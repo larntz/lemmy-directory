@@ -3,13 +3,13 @@ title: "About Exploding Heads"
 name: "aboutexplodingheads"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/aboutexplodingheads"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 5
 comments: 22
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 5  |
 | Comments             | 22  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-02-27 19:25:17 |
 | Updated              | 2022-05-29 18:11:38 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

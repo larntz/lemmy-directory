@@ -3,19 +3,19 @@ title: "nextcloud"
 name: "nextcloud"
 description: "Talk about Nextcloud. Nextcloud has its own forums, but I am not super keen on Discourse based forums.Hopefully here we can share information and find mutual tech aid."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nextcloud"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 255
-posts: 8
-comments: 0
-weight: 8
+subscribers: 267
+posts: 9
+comments: 1
+weight: 9
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Talk about Nextcloud. Nextcloud has its own forums, but I am not super keen on D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 255 |
-| Posts                | 8  |
-| Comments             | 0  |
+| Subscribers          | 267 |
+| Posts                | 9  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Talk about Nextcloud. Nextcloud has its own forums, but I am not super keen on D
 |----------------------|---|
 | Published            | 2020-06-07 15:14:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:47 |

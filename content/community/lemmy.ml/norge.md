@@ -3,13 +3,13 @@ title: "Norge"
 name: "norge"
 description: "Nordmenn, norsk og Norge"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/norge"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 50
 posts: 15
 comments: 4
 weight: 15
@@ -41,7 +41,7 @@ Nordmenn, norsk og Norge
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 50 |
 | Posts                | 15  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Nordmenn, norsk og Norge
 |----------------------|---|
 | Published            | 2020-03-08 12:14:31 |
 | Updated              | 2021-02-15 18:32:56 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:43 |

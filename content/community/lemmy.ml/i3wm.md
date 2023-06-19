@@ -3,15 +3,15 @@ title: "i3 Window Manager"
 name: "i3wm"
 description: "### AboutCommunity for the i3 window manager and its popular fork i3-gaps.### Resources- [Official site](https://i3wm.org/)- [User's Guide](https://i3wm.org/docs/userguide.html)- [i3 - ArchWiki](https://wiki.archlinux.org/title/I3)"
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/i3wm"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 78
 posts: 5
-comments: 0
+comments: 1
 weight: 5
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 78 |
 | Posts                | 5  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-13 00:35:02 |
 | Updated              | 2021-07-03 18:48:41 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:56 |

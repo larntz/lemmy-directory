@@ -3,18 +3,18 @@ title: "micromobility"
 name: "micromobility"
 description: "Ebikes, scooters, longboards: Whatever floats your goat, this is all things micromobility!Transportation using lightweight vehicles such as bicycles or scooters, especially electric ones that may be borrowed as part of a self-service rental program in which people rent vehicles for short-term use within a town or city.micromobility is seen as a potential solution to moving people more efficiently around cities"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/micromobility"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 125
-posts: 3
-comments: 30
-weight: 3
-dau: 2
-wau: 19
+subscribers: 141
+posts: 4
+comments: 32
+weight: 4
+dau: 1
+wau: 15
 mau: 19
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ Ebikes, scooters, longboards: Whatever floats your goat, this is all things micr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 125 |
-| Posts                | 3  |
-| Comments             | 30  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 19  |
+| Subscribers          | 141 |
+| Posts                | 4  |
+| Comments             | 32  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 15  |
 | Monthly Active Users | 19  |
 
 <br>
@@ -54,4 +54,4 @@ Ebikes, scooters, longboards: Whatever floats your goat, this is all things micr
 |----------------------|---|
 | Published            | 2023-06-11 20:29:46 |
 | Updated              | 2023-06-13 01:17:35 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

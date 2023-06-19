@@ -3,18 +3,18 @@ title: "Stoicism"
 name: "stoicism"
 description: "What a better place to discuss the Stoic philosophy than on an ethical FOSS platform.[Matrix](https://matrix.to/#/!WVvbtvzYEwDaIXpqev:matrix.org?via=matrix.org&via=mikaelgron.se)"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stoicism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 94
+subscribers: 101
 posts: 8
 comments: 8
 weight: 8
 dau: 1
-wau: 6
+wau: 5
 mau: 6
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ What a better place to discuss the Stoic philosophy than on an ethical FOSS plat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
+| Subscribers          | 101 |
 | Posts                | 8  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 5  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ What a better place to discuss the Stoic philosophy than on an ethical FOSS plat
 |----------------------|---|
 | Published            | 2020-06-21 19:16:37 |
 | Updated              | 2020-06-21 19:24:38 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:44 |

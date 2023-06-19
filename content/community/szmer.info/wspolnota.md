@@ -3,19 +3,19 @@ title: "wspólnota"
 name: "wspolnota"
 description: "O Szmerze - domyślna społeczność platformy"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wspolnota"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 1641
-posts: 1045
-comments: 1789
-weight: 1045
-dau: 4
-wau: 29
-mau: 30
+subscribers: 1655
+posts: 1046
+comments: 1822
+weight: 1046
+dau: 10
+wau: 33
+mau: 34
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ O Szmerze - domyślna społeczność platformy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1641 |
-| Posts                | 1045  |
-| Comments             | 1789  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 29  |
-| Monthly Active Users | 30  |
+| Subscribers          | 1655 |
+| Posts                | 1046  |
+| Comments             | 1822  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 34  |
 
 <br>
 
@@ -54,4 +54,4 @@ O Szmerze - domyślna społeczność platformy
 |----------------------|---|
 | Published            | 2020-05-07 16:04:44 |
 | Updated              | 2023-01-23 10:39:44 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

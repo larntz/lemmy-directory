@@ -3,13 +3,13 @@ title: "Youtube"
 name: "youtube"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youtube"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 126
+subscribers: 133
 posts: 24
 comments: 11
 weight: 24
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 126 |
+| Subscribers          | 133 |
 | Posts                | 24  |
 | Comments             | 11  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-15 10:10:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

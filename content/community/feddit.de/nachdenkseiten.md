@@ -3,7 +3,7 @@ title: "Nachdenkseiten die kritische Webseite"
 name: "nachdenkseiten"
 description: "Politik Kritisch/ehrlich betrachtetGlaube nicht alles was du liesstFrage nachStelle kritische Fragen etc.Buch von Albrecht Müller sehr empfehlenswert.  "
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nachdenkseiten"
@@ -54,4 +54,4 @@ Politik Kritisch/ehrlich betrachtet<br>Glaube nicht alles was du liesst<br>Frage
 |----------------------|---|
 | Published            | 2022-09-27 07:39:52 |
 | Updated              | 2022-12-05 16:43:37 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,19 +3,19 @@ title: "Learn Programming"
 name: "learn_programming"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/learn_programming"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 113
-posts: 2
-comments: 13
-weight: 2
-dau: 3
-wau: 10
-mau: 10
+subscribers: 181
+posts: 4
+comments: 22
+weight: 4
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
-| Posts                | 2  |
-| Comments             | 13  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Subscribers          | 181 |
+| Posts                | 4  |
+| Comments             | 22  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 04:52:09 |
 | Updated              | 2023-06-13 04:54:35 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

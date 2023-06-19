@@ -3,19 +3,19 @@ title: "TikTok"
 name: "tiktok"
 description: "The Best of TikTok! (unofficial)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tiktok"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 0
+subscribers: 15
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The Best of TikTok! (unofficial)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
+| Subscribers          | 15 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Best of TikTok! (unofficial)
 |----------------------|---|
 | Published            | 2023-06-12 10:03:13 |
 | Updated              | 2023-06-12 10:03:43 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

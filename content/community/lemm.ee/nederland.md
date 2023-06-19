@@ -3,13 +3,13 @@ title: "Nederland"
 name: "nederland"
 description: "Everything about the Netherlands"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nederland"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Everything about the Netherlands
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything about the Netherlands
 |----------------------|---|
 | Published            | 2023-06-15 10:37:52 |
 | Updated              | 2023-06-15 11:23:12 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

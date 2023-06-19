@@ -3,7 +3,7 @@ title: "Fakemon Community"
 name: "fakemon"
 description: "Fakemon Community - see also [!pokemon@lemmy.ml](https://lemmy.ml/c/pokemon) !"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fakemon"
@@ -54,4 +54,4 @@ Fakemon Community - see also [!pokemon@lemmy.ml](https://lemmy.ml/c/pokemon) !
 |----------------------|---|
 | Published            | 2020-06-06 02:21:48 |
 | Updated              | 2021-03-24 22:33:55 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

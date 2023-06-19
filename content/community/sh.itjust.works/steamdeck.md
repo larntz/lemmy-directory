@@ -3,13 +3,13 @@ title: "Steamdeck"
 name: "steamdeck"
 description: "A place to discuss all things steamdeck related"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/steamdeck"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss all things steamdeck related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss all things steamdeck related
 |----------------------|---|
 | Published            | 2023-06-14 14:07:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

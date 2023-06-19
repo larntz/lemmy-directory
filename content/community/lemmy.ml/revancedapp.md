@@ -3,13 +3,13 @@ title: "ReVanced"
 name: "revancedapp"
 description: "Continuing the legacy of Vanced"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/revancedapp"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Continuing the legacy of Vanced
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Continuing the legacy of Vanced
 |----------------------|---|
 | Published            | 2023-06-14 20:56:48 |
 | Updated              | 2023-06-14 20:59:28 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

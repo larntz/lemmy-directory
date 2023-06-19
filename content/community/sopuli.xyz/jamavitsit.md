@@ -3,13 +3,13 @@ title: "Jämävitsit"
 name: "jamavitsit"
 description: "Kaatopaikka kaikelle minkä joku voi edes etäisesti kokea huumoriksi, tai ihan vaan naurettavaksi"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/jamavitsit"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Kaatopaikka kaikelle minkä joku voi edes etäisesti kokea huumoriksi, tai ihan 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Kaatopaikka kaikelle minkä joku voi edes etäisesti kokea huumoriksi, tai ihan 
 |----------------------|---|
 | Published            | 2023-06-16 13:54:57 |
 | Updated              | 2023-06-16 17:50:57 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

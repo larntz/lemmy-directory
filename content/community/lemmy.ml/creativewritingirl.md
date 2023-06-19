@@ -3,13 +3,13 @@ title: "Creative Writing IRL"
 name: "creativewritingirl"
 description: "# Welcome to Creative Writing IRL.This is a community for sharing creative writing that takes place in the real world, depicting somewhat believable themes and stories.All stories posted here are fiction, this is a place for writers to share their stories and improve in aspects of storytelling, character arcs, etc.## Rules:1. Be civil.2. Interact with the stories as if they were real.3. Break the meta only to suggest writing tips. 4. Edit your stories only to add additional information, continue the plot, or correct grammar, punctuation, or spelling. Don't edit to change parts of the story.5. Add trigger warnings at the beginning of your story if necessary. 6. This is not a porn writing community. Sex can be an important part of your story, but devoting the majority of your story to detailing one or more sexual acts will be considered porn.7. No trolling. 8. Mark your story as NSFW if necessary. 9. No spam.10. No discrimination allowed in comments.11. No fan fiction.12. Stories cannot contain real celebrities.13. You are free to repost your stories elsewhere at any time, or publish them as books, short stories, etc. You are the sole owner of your story."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/creativewritingirl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 12
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 12 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 00:13:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

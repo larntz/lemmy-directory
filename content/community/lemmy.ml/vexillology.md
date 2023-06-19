@@ -3,13 +3,13 @@ title: "Vexillology"
 name: "vexillology"
 description: "A community for [Vexillology](https://wikipedia.org/wiki/Vexillology).**Feel free to message me for moderator if you want to.**## Rules1. Posts should be relevant to vexillology."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vexillology"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 6
 comments: 16
 weight: 6
@@ -41,7 +41,7 @@ A community for [Vexillology](https://wikipedia.org/wiki/Vexillology).<br><br>**
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 6  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for [Vexillology](https://wikipedia.org/wiki/Vexillology).<br><br>**
 |----------------------|---|
 | Published            | 2022-01-19 04:04:20 |
 | Updated              | 2022-03-14 07:56:08 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

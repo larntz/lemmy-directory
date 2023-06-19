@@ -1,21 +1,21 @@
 ---
 title: "Radiology" 
 name: "radiology"
-description: "A community focused on the field of medical imaging.Rules:1. Please be courteous and professional.2. Imaging/case submissions must be de-identified.3. No requests for medical advice or second opinions. Please see your actual physician/provider for that!4. No advertising."
+description: "A community for all things related to medical imaging!## Rules:1. Please be courteous and professional.2. No requests for medical advice or second opinions. Please see your actual physician/provider for that!3. No advertising.4. Imaging/case submissions must have no patient identifiers.5. Imaging/case submissions should have a known finding or point of interest."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radiology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 2
-comments: 0
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 21
+posts: 9
+comments: 9
+weight: 9
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community focused on the field of medical imaging.<br><br>Rules:<br><br>1. Please be courteous and professional.<br>2. Imaging/case submissions must be de-identified.<br>3. No requests for medical advice or second opinions. Please see your actual physician/provider for that!<br>4. No advertising.
+A community for all things related to medical imaging!<br><br>## Rules:<br><br>1. Please be courteous and professional.<br>2. No requests for medical advice or second opinions. Please see your actual physician/provider for that!<br>3. No advertising.<br>4. Imaging/case submissions must have no patient identifiers.<br>5. Imaging/case submissions should have a known finding or point of interest.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A community focused on the field of medical imaging.<br><br>Rules:<br><br>1. Ple
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 21 |
+| Posts                | 9  |
+| Comments             | 9  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 17:57:05 |
-| Updated              | 2023-06-15 18:30:32 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-18 04:27:54 |
+| Last Scraped         | 2023-06-19 11:36:36 |

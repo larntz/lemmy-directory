@@ -3,7 +3,7 @@ title: "escapehungary"
 name: "escapehungary"
 description: "Üdvözlünk az EscapeHungaryn! Akár költöznél, akár külföldön élsz, gyere és oszd meg velünk történeted, kérdéseid! "
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/escapehungary"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 18:21:24 |
 | Updated              | 2023-06-12 18:21:35 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

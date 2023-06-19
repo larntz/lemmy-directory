@@ -3,13 +3,13 @@ title: "Thalassophobia"
 name: "thalassophobia"
 description: "Thalassophobia is an intense phobia or fear of large or deep water."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thalassophobia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 44
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Thalassophobia is an intense phobia or fear of large or deep water.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 44 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Thalassophobia is an intense phobia or fear of large or deep water.
 |----------------------|---|
 | Published            | 2023-06-14 18:11:04 |
 | Updated              | 2023-06-15 02:40:59 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

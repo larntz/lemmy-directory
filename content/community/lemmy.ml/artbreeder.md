@@ -3,7 +3,7 @@ title: "Artbreeder"
 name: "artbreeder"
 description: "A sublemmy for the [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) project [Artbreeder](https://www.artbreeder.com).[Icon](https://www.artbreeder.com/i?k=1afc0494a46c921c3353d8273ac7) and [banner](https://www.artbreeder.com/i?k=3bed5835afe41447af7a7731db1b)."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artbreeder"
@@ -54,4 +54,4 @@ A sublemmy for the [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_ne
 |----------------------|---|
 | Published            | 2021-06-19 17:12:00 |
 | Updated              | 2021-06-19 20:27:02 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:49 |

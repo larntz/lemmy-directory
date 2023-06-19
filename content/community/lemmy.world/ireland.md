@@ -3,19 +3,19 @@ title: "Ireland"
 name: "ireland"
 description: "An Irish community in the fediverse"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ireland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 2
+subscribers: 34
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ An Irish community in the fediverse
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
+| Subscribers          | 34 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ An Irish community in the fediverse
 |----------------------|---|
 | Published            | 2023-06-12 20:36:27 |
 | Updated              | 2023-06-12 20:41:03 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "Svensk Politik"
 name: "svenskpolitik"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/svenskpolitik"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-01 18:16:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

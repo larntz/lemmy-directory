@@ -3,7 +3,7 @@ title: "HomePod"
 name: "homepod"
 description: "The home for all things HomePod on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homepod"
@@ -54,4 +54,4 @@ The home for all things HomePod on LW.<br><br>**Rules:**<br><br>- No NSFW Conten
 |----------------------|---|
 | Published            | 2023-06-16 02:28:33 |
 | Updated              | 2023-06-16 02:35:40 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:38 |

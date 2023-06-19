@@ -3,13 +3,13 @@ title: "C Programming"
 name: "c_programming"
 description: "C:- https://www.cprogramming.com/C Lanuage Reference:- https://en.cppreference.com/w/c/language"
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/c_programming"
 host: lemmy.einval.net
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ C:<br>- https://www.cprogramming.com/<br><br>C Lanuage Reference:<br>- https://e
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ C:<br>- https://www.cprogramming.com/<br><br>C Lanuage Reference:<br>- https://e
 |----------------------|---|
 | Published            | 2023-06-05 23:27:17 |
 | Updated              | 2023-06-06 05:33:26 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

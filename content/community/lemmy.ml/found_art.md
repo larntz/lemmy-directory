@@ -3,13 +3,13 @@ title: "A place to share art you found floating around the web"
 name: "found_art"
 description: "Please, tell us who made it if even remotely possible! A link to where you found it would also be much appreciated."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/found_art"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 46
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ Please, tell us who made it if even remotely possible! A link to where you found
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 46 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Please, tell us who made it if even remotely possible! A link to where you found
 |----------------------|---|
 | Published            | 2020-05-16 22:12:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:48 |

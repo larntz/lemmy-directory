@@ -3,19 +3,19 @@ title: "Norwich"
 name: "norwich"
 description: "**A Fine City** - Norwich, Norfolk, UKUsefull Links:[ENTS24](https://www.ents24.com/whatson/near/norwich/order/date)[Eventbrite](https://www.eventbrite.com/d/united-kingdom--norwich/all-events/)[Meetup (Events)](https://www.meetup.com/find/?location=gb--norfolk--Norwich&source=EVENTS&sortField=DATETIME)[Meetup (Groups)](https://www.meetup.com/find/?location=gb--norfolk--Norwich&source=GROUPS)[Tripadvisor](https://www.tripadvisor.co.uk/Tourism-g186342-Norwich_Norfolk_East_Anglia_England-Vacations.html)[Visit Norwich](https://www.visitnorwich.co.uk/)"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/norwich"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 5
 weight: 3
-dau: 2
-wau: 4
-mau: 4
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 14:49:12 |
 | Updated              | 2023-06-15 13:19:41 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

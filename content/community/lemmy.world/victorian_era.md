@@ -3,16 +3,16 @@ title: "Victorian Era"
 name: "victorian_era"
 description: "WIP."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/victorian_era"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 1
+subscribers: 13
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ WIP.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
+| Subscribers          | 13 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ WIP.
 |----------------------|---|
 | Published            | 2023-06-10 19:45:27 |
 | Updated              | 2023-06-14 03:46:20 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

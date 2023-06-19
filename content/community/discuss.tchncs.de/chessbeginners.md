@@ -3,19 +3,19 @@ title: "Chess Beginners"
 name: "chessbeginners"
 description: "A community for beginner's playing chess.# Rules* No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.* Be respectful, especially when disagreeing. Everyone should feel welcome here.* No porn.* No Ads / Spamming.**This is a safe space for chess beginners, this includes your opponent, be respectful. Even if your opponent is not hanging around here**see also: * [!chess@lemmy.ml](https://lemmy.ml/c/chess)* [!anarchychess@sopuli.xyz](https://sopuli.xyz/c/anarchychess)"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/chessbeginners"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 71
-posts: 6
-comments: 8
-weight: 6
+subscribers: 80
+posts: 7
+comments: 9
+weight: 7
 dau: 1
-wau: 5
-mau: 5
+wau: 3
+mau: 6
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ A community for beginner's playing chess.<br><br># Rules<br>* No bigotry - inclu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 6  |
-| Comments             | 8  |
+| Subscribers          | 80 |
+| Posts                | 7  |
+| Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for beginner's playing chess.<br><br># Rules<br>* No bigotry - inclu
 |----------------------|---|
 | Published            | 2023-06-08 19:07:09 |
 | Updated              | 2023-06-11 10:18:14 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

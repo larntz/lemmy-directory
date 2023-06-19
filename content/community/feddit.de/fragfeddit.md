@@ -3,19 +3,19 @@ title: "Frag Feddit"
 name: "fragfeddit"
 description: "Wolltest du Der Leere™ schon immer einmal Fragen stellen? Tue dies hier."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fragfeddit"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1400
-posts: 70
-comments: 1029
-weight: 70
-dau: 67
-wau: 289
-mau: 303
+subscribers: 1571
+posts: 79
+comments: 1152
+weight: 79
+dau: 35
+wau: 327
+mau: 386
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Wolltest du Der Leere™ schon immer einmal Fragen stellen? Tue dies hier.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1400 |
-| Posts                | 70  |
-| Comments             | 1029  |
-| Daily Active Users   | 67  |
-| Weekly Active Users  | 289  |
-| Monthly Active Users | 303  |
+| Subscribers          | 1571 |
+| Posts                | 79  |
+| Comments             | 1152  |
+| Daily Active Users   | 35  |
+| Weekly Active Users  | 327  |
+| Monthly Active Users | 386  |
 
 <br>
 
@@ -54,4 +54,4 @@ Wolltest du Der Leere™ schon immer einmal Fragen stellen? Tue dies hier.
 |----------------------|---|
 | Published            | 2021-08-21 11:51:47 |
 | Updated              | 2021-08-30 09:14:46 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

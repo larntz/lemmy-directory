@@ -3,17 +3,17 @@ title: "Go programming language discussion"
 name: "golang"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/golang"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 551
-posts: 40
-comments: 29
-weight: 40
-dau: 1
+subscribers: 593
+posts: 41
+comments: 31
+weight: 41
+dau: 2
 wau: 13
 mau: 15
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 551 |
-| Posts                | 40  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
+| Subscribers          | 593 |
+| Posts                | 41  |
+| Comments             | 31  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 15  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-07-26 03:39:35 |
 | Updated              | 2023-05-31 22:11:44 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

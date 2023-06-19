@@ -3,7 +3,7 @@ title: "GramPals"
 name: "grampals"
 description: "Make new friends for chatting on Telegram!"
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grampals"
@@ -54,4 +54,4 @@ Make new friends for chatting on Telegram!
 |----------------------|---|
 | Published            | 2020-08-17 18:22:39 |
 | Updated              | 2021-03-16 04:11:11 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

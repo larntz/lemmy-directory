@@ -3,18 +3,18 @@ title: "Testing"
 name: "localtesting"
 description: "A local community for testing lemmy on the aussie.zone instance."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/localtesting"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
 subscribers: 15
-posts: 9
-comments: 42
-weight: 9
-dau: 4
-wau: 17
+posts: 10
+comments: 43
+weight: 10
+dau: 1
+wau: 6
 mau: 18
 instances:
 - "aussie_zone"
@@ -42,10 +42,10 @@ A local community for testing lemmy on the aussie.zone instance.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 15 |
-| Posts                | 9  |
-| Comments             | 42  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 17  |
+| Posts                | 10  |
+| Comments             | 43  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 18  |
 
 <br>
@@ -53,5 +53,5 @@ A local community for testing lemmy on the aussie.zone instance.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 07:05:23 |
-| Updated              | 2023-06-08 12:20:55 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:28:59 |
+| Last Scraped         | 2023-06-19 11:35:06 |

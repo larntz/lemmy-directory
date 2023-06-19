@@ -3,13 +3,13 @@ title: "Giappone"
 name: "giappone"
 description: "Comunità dedicata alla condivisione di materiali e notizie utili ad approfondire la conoscenza della cultura, della filosofia e della lingua giapponese.Valgono le regole dell'istanza "
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/giappone"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 53
+subscribers: 54
 posts: 15
 comments: 27
 weight: 15
@@ -41,7 +41,7 @@ Comunità dedicata alla condivisione di materiali e notizie utili ad approfondir
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
+| Subscribers          | 54 |
 | Posts                | 15  |
 | Comments             | 27  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Comunità dedicata alla condivisione di materiali e notizie utili ad approfondir
 |----------------------|---|
 | Published            | 2022-11-15 10:26:10 |
 | Updated              | 2022-11-15 10:58:49 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

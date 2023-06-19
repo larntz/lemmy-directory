@@ -3,7 +3,7 @@ title: "Food"
 name: "food"
 description: "For food related discussions like about cooking or bakingRelated: [!food_security](https://exploding-heads.com/c/food_security) "
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/food"
@@ -54,4 +54,4 @@ For food related discussions like about cooking or baking<br><br>Related: [!food
 |----------------------|---|
 | Published            | 2023-02-03 21:53:16 |
 | Updated              | 2023-02-07 19:13:51 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

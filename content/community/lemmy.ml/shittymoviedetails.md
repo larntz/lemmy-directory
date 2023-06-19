@@ -3,13 +3,13 @@ title: "ShittyMovieDetails"
 name: "shittymoviedetails"
 description: "Welcome to !ShittyMovieDetails, the place to share and celebrate the most hilariously absurd, mind-bogglingly bad, and unintentionally funny details found in movies. This community is dedicated to highlighting those moments in films that make you question the sanity of the filmmakers or leave you rolling on the floor laughing."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittymoviedetails"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 17
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Welcome to !ShittyMovieDetails, the place to share and celebrate the most hilari
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 17 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Welcome to !ShittyMovieDetails, the place to share and celebrate the most hilari
 |----------------------|---|
 | Published            | 2023-06-13 18:55:12 |
 | Updated              | 2023-06-13 20:15:17 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,16 +3,16 @@ title: "FC Cincinnati"
 name: "fccincinnati"
 description: "A community for FC Cincinnati discussion and content Make sure to check out the MLS community: https://lemmy.world/c/mls"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fccincinnati"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 6
+subscribers: 9
+posts: 7
 comments: 5
-weight: 6
+weight: 7
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ A community for FC Cincinnati discussion and content <br><br>Make sure to check 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 6  |
+| Subscribers          | 9 |
+| Posts                | 7  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ A community for FC Cincinnati discussion and content <br><br>Make sure to check 
 |----------------------|---|
 | Published            | 2023-06-12 03:41:51 |
 | Updated              | 2023-06-13 03:21:58 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

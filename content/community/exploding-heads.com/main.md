@@ -3,19 +3,19 @@ title: "Weekly Explosions Blog"
 name: "main"
 description: "Weekly Explosions BlogThis is where we blog about the articles and discussions that have been active this week."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/main"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 910
-posts: 21
-comments: 38
-weight: 21
-dau: 1
-wau: 8
-mau: 9
+subscribers: 911
+posts: 25
+comments: 65
+weight: 25
+dau: 15
+wau: 19
+mau: 22
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Weekly Explosions Blog<br><br>This is where we blog about the articles and discu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 910 |
-| Posts                | 21  |
-| Comments             | 38  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Subscribers          | 911 |
+| Posts                | 25  |
+| Comments             | 65  |
+| Daily Active Users   | 15  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Weekly Explosions Blog<br><br>This is where we blog about the articles and discu
 |----------------------|---|
 | Published            | 2022-02-27 17:20:27 |
 | Updated              | 2022-05-29 18:14:27 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

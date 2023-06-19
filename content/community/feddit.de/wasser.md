@@ -3,19 +3,19 @@ title: "Alles rund ums Wasser"
 name: "wasser"
 description: "Alles rund ums Wasser, Hydrologie, Gewässerökologie, Wasserwirtschaft, Kommunale Versorger, etc.Wenn Nachrichten auf Forschungsergebnisse verweisen gibt gerne die Primärquellen mit an.## Grenzwerte für Schadstoffe:* Rassismus 0 µg/m³* Sexismus 0 µg/m³* Homophobie 0 µg/m³* sonst. toxisches Verhalten 0 µg/m³"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wasser"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 2
-mau: 2
+subscribers: 26
+posts: 4
+comments: 10
+weight: 4
+dau: 5
+wau: 6
+mau: 6
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Alles rund ums Wasser, Hydrologie, Gewässerökologie, Wasserwirtschaft, Kommuna
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 26 |
+| Posts                | 4  |
+| Comments             | 10  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Alles rund ums Wasser, Hydrologie, Gewässerökologie, Wasserwirtschaft, Kommuna
 |----------------------|---|
 | Published            | 2023-06-13 18:23:13 |
 | Updated              | 2023-06-13 18:24:21 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,13 +3,13 @@ title: "Eco"
 name: "eco"
 description: "Ecological"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eco"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 69
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Ecological
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 69 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Ecological
 |----------------------|---|
 | Published            | 2019-06-25 12:08:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

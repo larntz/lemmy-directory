@@ -3,13 +3,13 @@ title: "Labor Wave"
 name: "laborwave"
 description: "Leftist music / art in the style of vaporwave"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/laborwave"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 136
+subscribers: 137
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ Leftist music / art in the style of vaporwave
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 136 |
+| Subscribers          | 137 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Leftist music / art in the style of vaporwave
 |----------------------|---|
 | Published            | 2019-06-01 19:03:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

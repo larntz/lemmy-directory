@@ -3,19 +3,19 @@ title: "Memes"
 name: "memes"
 description: "#### Rules:01. Be civil and nice.02. Try not to excessively repost, as a rule of thumb, wait at least 2 months to do it if you *have* to."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14926
-posts: 2854
-comments: 11981
-weight: 2854
-dau: 427
-wau: 2583
-mau: 3119
+subscribers: 16507
+posts: 3027
+comments: 13375
+weight: 3027
+dau: 391
+wau: 2530
+mau: 3540
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14926 |
-| Posts                | 2854  |
-| Comments             | 11981  |
-| Daily Active Users   | 427  |
-| Weekly Active Users  | 2583  |
-| Monthly Active Users | 3119  |
+| Subscribers          | 16507 |
+| Posts                | 3027  |
+| Comments             | 13375  |
+| Daily Active Users   | 391  |
+| Weekly Active Users  | 2530  |
+| Monthly Active Users | 3540  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-04-25 16:54:42 |
 | Updated              | 2022-01-12 13:43:29 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:48 |

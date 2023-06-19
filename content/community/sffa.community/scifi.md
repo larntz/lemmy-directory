@@ -1,12 +1,12 @@
 ---
-title: "Science Fiction" 
+title: "Science Fiction General" 
 name: "scifi"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
-actor_id: "https://dev.lemmy.sffa.community/c/scifi"
+actor_id: "https://sffa.community/c/scifi"
 host: sffa.community
 lastmod: "{[ .Updated }}"
 subscribers: 2
@@ -23,10 +23,10 @@ tags:
 
 ---
 
-# /c/Science Fiction on sffa.community
+# /c/Science Fiction General on sffa.community
 
 [[home](/)]
-[[/c/scifi 🌎](https://dev.lemmy.sffa.community/c/scifi)]
+[[/c/scifi 🌎](https://sffa.community/c/scifi)]
 [[sffa.community](/instances/sffa_community)]
 
 
@@ -52,6 +52,6 @@ Description not available.
 
 | Activity | Date |
 |----------------------|---|
-| Published            | 2023-06-15 01:11:15 |
-| Updated              | 2023-06-15 01:13:59 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Published            | 2023-06-17 22:11:17 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-19 11:35:16 |

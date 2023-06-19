@@ -3,7 +3,7 @@ title: "RSPS"
 name: "osrs"
 description: "RSPS / OSRS / RS  and other revisions "
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osrs"
@@ -54,4 +54,4 @@ RSPS / OSRS / RS  and other revisions
 |----------------------|---|
 | Published            | 2021-01-10 06:32:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

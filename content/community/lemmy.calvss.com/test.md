@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Test community please ignore"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.calvss.com/c/test"
@@ -14,7 +14,7 @@ posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_calvss_com"
@@ -45,7 +45,7 @@ Test community please ignore
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Test community please ignore
 |----------------------|---|
 | Published            | 2023-06-12 06:22:01 |
 | Updated              | 2023-06-16 04:13:36 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:10 |

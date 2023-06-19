@@ -3,19 +3,19 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Discussion about general home automation ideas and projects, home automation protocols like Z-wave, Zigbee, Matter, etc, and home automation software and hubs like HomeSeer, Home Assistant, OpenHAB, Homey."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homeautomation"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 243
-posts: 4
-comments: 11
-weight: 4
+subscribers: 330
+posts: 5
+comments: 14
+weight: 5
 dau: 1
-wau: 6
-mau: 6
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discussion about general home automation ideas and projects, home automation pro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 243 |
-| Posts                | 4  |
-| Comments             | 11  |
+| Subscribers          | 330 |
+| Posts                | 5  |
+| Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about general home automation ideas and projects, home automation pro
 |----------------------|---|
 | Published            | 2023-06-09 07:58:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,15 +3,15 @@ title: "占星与星座"
 name: "astrology"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/astrology"
 host: bbs.darkwitch.net
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-06 12:21:33 |
 | Updated              | 2023-05-06 12:31:55 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

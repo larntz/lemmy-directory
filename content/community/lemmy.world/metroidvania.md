@@ -3,19 +3,19 @@ title: "Metroidvania"
 name: "metroidvania"
 description: "Metroidvania is a subgenre of video games focused on guided non-linearity and utility-gated exploration. The term, popularized by video game critic Jeremy Parish, is a portmanteau of Metroid and Castlevania.This is a cloned community from Reddit. I intend to hand over mod support to the original mods should they choose to migrate to Lemmy."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metroidvania"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
-comments: 2
-weight: 1
-dau: 0
-wau: 1
-mau: 1
+subscribers: 15
+posts: 2
+comments: 6
+weight: 2
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Metroidvania is a subgenre of video games focused on guided non-linearity and ut
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 15 |
+| Posts                | 2  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Metroidvania is a subgenre of video games focused on guided non-linearity and ut
 |----------------------|---|
 | Published            | 2023-06-15 18:47:36 |
 | Updated              | 2023-06-15 19:16:27 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

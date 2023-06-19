@@ -3,7 +3,7 @@ title: "Açores"
 name: "acores"
 description: "Açores em Português"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/acores"
@@ -54,4 +54,4 @@ Açores em Português
 |----------------------|---|
 | Published            | 2023-06-10 21:15:21 |
 | Updated              | 2023-06-10 21:19:05 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

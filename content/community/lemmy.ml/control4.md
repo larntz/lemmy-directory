@@ -3,7 +3,7 @@ title: "Control4"
 name: "control4"
 description: "An unofficial Control4 for all of your Control4 Discussions. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/control4"
@@ -54,4 +54,4 @@ An unofficial Control4 for all of your Control4 Discussions.
 |----------------------|---|
 | Published            | 2023-06-12 01:59:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:45 |

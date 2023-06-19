@@ -3,7 +3,7 @@ title: "Detroit Lions"
 name: "detroit_lions"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/detroit_lions"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-21 22:42:20 |
 | Updated              | 2021-01-28 17:54:23 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:46 |

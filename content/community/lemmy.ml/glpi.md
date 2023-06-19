@@ -3,7 +3,7 @@ title: "Gestion Libre de Parc Informatique"
 name: "glpi"
 description: "GLPI"
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/glpi"
@@ -54,4 +54,4 @@ GLPI
 |----------------------|---|
 | Published            | 2021-10-26 08:12:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:54 |

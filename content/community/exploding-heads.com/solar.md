@@ -3,17 +3,17 @@ title: "Solar Energy"
 name: "solar"
 description: "Put solar panels on your roof and gain your independence. Much better then allowing crony capitalists to cover green fields with them"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/solar"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 37
 comments: 2
 weight: 37
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Put solar panels on your roof and gain your independence. Much better then allow
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 37  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Put solar panels on your roof and gain your independence. Much better then allow
 |----------------------|---|
 | Published            | 2022-05-23 13:35:41 |
 | Updated              | 2022-06-04 12:17:28 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

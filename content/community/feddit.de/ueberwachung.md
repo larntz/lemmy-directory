@@ -3,13 +3,13 @@ title: "Überwachung"
 name: "ueberwachung"
 description: "Bitte **keine VTs** oder ähnliches."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ueberwachung"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 142
+subscribers: 143
 posts: 55
 comments: 25
 weight: 55
@@ -41,7 +41,7 @@ Bitte **keine VTs** oder ähnliches.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 142 |
+| Subscribers          | 143 |
 | Posts                | 55  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Bitte **keine VTs** oder ähnliches.
 |----------------------|---|
 | Published            | 2021-08-24 11:26:53 |
 | Updated              | 2021-09-07 12:02:18 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,13 +3,13 @@ title: "Geopolitics"
 name: "geopol"
 description: "## WelcomeVisit us on Matrix at [#geopol:matrix.org](https://matrix.to/#/#geopol:matrix.org)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/geopol"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 155
+subscribers: 164
 posts: 88
 comments: 29
 weight: 88
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 155 |
+| Subscribers          | 164 |
 | Posts                | 88  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-08-16 14:30:12 |
 | Updated              | 2022-08-19 17:47:46 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

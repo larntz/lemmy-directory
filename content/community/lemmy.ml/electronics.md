@@ -3,19 +3,19 @@ title: "Electronics"
 name: "electronics"
 description: "Digital, analog, RF, microcontrollers, FPGAs.Theory and practice. New designs, prototypes, breadboards, hacks and mods.Show your projects, learning resources and interesting articles here."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/electronics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 284
+subscribers: 307
 posts: 6
-comments: 15
+comments: 17
 weight: 6
-dau: 2
-wau: 7
-mau: 11
+dau: 1
+wau: 4
+mau: 12
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Digital, analog, RF, microcontrollers, FPGAs.<br><br>Theory and practice. New de
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 284 |
+| Subscribers          | 307 |
 | Posts                | 6  |
-| Comments             | 15  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 11  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ Digital, analog, RF, microcontrollers, FPGAs.<br><br>Theory and practice. New de
 |----------------------|---|
 | Published            | 2020-06-30 06:58:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

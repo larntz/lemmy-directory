@@ -3,13 +3,13 @@ title: "Doom"
 name: "doom"
 description: "Rip and tear until it is done"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doom"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Rip and tear until it is done
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Rip and tear until it is done
 |----------------------|---|
 | Published            | 2023-06-12 11:44:15 |
 | Updated              | 2023-06-12 12:04:10 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

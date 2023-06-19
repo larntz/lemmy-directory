@@ -3,7 +3,7 @@ title: "Pen and Paper, aber auf deutsch"
 name: "pnp_de"
 description: "Deutschsprachige Gruppe um sich über Rollenspiele, Erzählspiele und Co. auszutauschen.German language pen and paper games community.Seid nett zueinander (und mir), haltet Euch bitte an die Standardregeln.Be kind, please follow the standard rules.Bildquelle: https://www.flickr.com/photos/141973883@N05/27703303600"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/pnp_de"
@@ -54,4 +54,4 @@ Deutschsprachige Gruppe um sich über Rollenspiele, Erzählspiele und Co. auszut
 |----------------------|---|
 | Published            | 2023-06-15 10:49:29 |
 | Updated              | 2023-06-16 14:56:06 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

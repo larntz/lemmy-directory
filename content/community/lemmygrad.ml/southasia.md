@@ -3,13 +3,13 @@ title: "South Asia"
 name: "southasia"
 description: "A community for all things related to South Asian countries.**Rules:**1: Be Comradely and Behave Well   2: No Racism, Sexism or Bigotry   3: Western propaganda is prohibited**South Asian Countries :**- Afghanistan- Bangladesh- Bhutan- India- Maldives- Nepal- Pakistan- Sri Lanka"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/southasia"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 51
+subscribers: 52
 posts: 63
 comments: 97
 weight: 63
@@ -41,7 +41,7 @@ A community for all things related to South Asian countries.<br><br>**Rules:**<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
+| Subscribers          | 52 |
 | Posts                | 63  |
 | Comments             | 97  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for all things related to South Asian countries.<br><br>**Rules:**<b
 |----------------------|---|
 | Published            | 2022-04-28 11:45:04 |
 | Updated              | 2022-06-08 16:46:49 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

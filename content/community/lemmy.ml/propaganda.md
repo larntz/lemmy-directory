@@ -3,19 +3,19 @@ title: "Propaganda"
 name: "propaganda"
 description: "Discussion of cases of propaganda around the world, both obvious and suspected."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/propaganda"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 45
 posts: 13
 comments: 9
 weight: 13
 dau: 1
-wau: 1
-mau: 2
+wau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion of cases of propaganda around the world, both obvious and suspected.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 45 |
 | Posts                | 13  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion of cases of propaganda around the world, both obvious and suspected.
 |----------------------|---|
 | Published            | 2021-04-02 08:15:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:45 |

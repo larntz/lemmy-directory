@@ -3,19 +3,19 @@ title: "Actually Useful AI"
 name: "auai"
 description: "**Welcome!**This is a community for- useful- hype-free- programming-orienteddiscussion of **Artificial Intelligence**.**What can I post?**In general, anything related to AI can be posted, but please try to post **high-quality content**.**What is explicitly not allowed?**- How I made $1000 in 30 minutes using ChatGPT - the answer will surprise you!- Ultimate ChatGPT Prompting Guide that is the 10,000th variation on As a (doctor|programmer|psychologist), explain (thing) in (style)- and anything else the mods consider crypto bro/AI bro success porn sigma grindset blogspam"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/auai"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 8
-comments: 4
-weight: 8
-dau: 1
-wau: 1
-mau: 1
+subscribers: 145
+posts: 16
+comments: 29
+weight: 16
+dau: 3
+wau: 13
+mau: 13
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 145 |
+| Posts                | 16  |
+| Comments             | 29  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 13:09:47 |
 | Updated              | 2023-06-15 13:53:15 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

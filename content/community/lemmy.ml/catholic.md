@@ -3,13 +3,13 @@ title: "Catholic"
 name: "catholic"
 description: "c/catholic s a place to present new developments in the world of Catholicism, discuss theological teachings of the Catholic Church, provide an avenue for reasonable dialogue amongst people of all beliefs, and grow in our own spirituality. Catholic Christianity offers the world the fullness of the Christian Faith.And yes I did copy/past if from reddit. And yes I know I'm lazy."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/catholic"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 5
 comments: 9
 weight: 5
@@ -41,7 +41,7 @@ c/catholic s a place to present new developments in the world of Catholicism, di
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 5  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ c/catholic s a place to present new developments in the world of Catholicism, di
 |----------------------|---|
 | Published            | 2023-01-03 23:37:16 |
 | Updated              | 2023-01-04 01:09:15 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

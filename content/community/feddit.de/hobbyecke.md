@@ -3,13 +3,13 @@ title: "Hobby-Ecke"
 name: "hobbyecke"
 description: "Dies ist ein Ort um seine Hobbys vorzustellen, Fragen zu stellen und sich auszutauschen. Es kann um alles, vom Sprühsahneverkosten, über Strohhalmsammeln bis Modelleisenbahn bauen gehen. Falls ihr nicht wisst ob eure Frage in ein spezifisches Unterlemmy passt oder eine Breite Meinung einholen wollt, ist das der richtige Ort."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hobbyecke"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Dies ist ein Ort um seine Hobbys vorzustellen, Fragen zu stellen und sich auszut
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Dies ist ein Ort um seine Hobbys vorzustellen, Fragen zu stellen und sich auszut
 |----------------------|---|
 | Published            | 2023-06-14 14:01:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

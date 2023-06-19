@@ -3,16 +3,16 @@ title: "Rotterdam"
 name: "rotterdam"
 description: "A community for everyone who is interested in Rotterdam."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/rotterdam"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 1
+subscribers: 17
+posts: 2
 comments: 2
-weight: 1
+weight: 2
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ A community for everyone who is interested in Rotterdam.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
+| Subscribers          | 17 |
+| Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ A community for everyone who is interested in Rotterdam.
 |----------------------|---|
 | Published            | 2023-06-12 14:45:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

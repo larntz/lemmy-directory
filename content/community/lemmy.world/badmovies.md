@@ -3,16 +3,16 @@ title: "Bad Movies"
 name: "badmovies"
 description: "A community for some of the worst movies ever made"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/badmovies"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 7
+subscribers: 79
+posts: 9
 comments: 3
-weight: 7
+weight: 9
 dau: 1
 wau: 4
 mau: 4
@@ -41,8 +41,8 @@ A community for some of the worst movies ever made
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 7  |
+| Subscribers          | 79 |
+| Posts                | 9  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
@@ -54,4 +54,4 @@ A community for some of the worst movies ever made
 |----------------------|---|
 | Published            | 2023-06-13 15:07:07 |
 | Updated              | 2023-06-14 02:41:28 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

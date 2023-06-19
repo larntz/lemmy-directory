@@ -1,21 +1,21 @@
 ---
-title: "requests" 
+title: "Request a subreddit" 
 name: "requests"
-description: "You can place your request for subreddits to be synced here ~(eventually)~."
+description: "Make requests for new subreddits/communities here, **using the name of the subreddit as the title**, or with a link to the subreddit.For **anything else**, go to [/c/about](/c/about)."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/requests"
 host: lemmit.online
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 4
-comments: 2
-weight: 4
-dau: 1
-wau: 2
-mau: 2
+subscribers: 7
+posts: 22
+comments: 23
+weight: 22
+dau: 8
+wau: 8
+mau: 8
 instances:
 - "lemmit_online"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/requests on lemmit.online
+# /c/Request a subreddit on lemmit.online
 
 [[home](/)]
 [[/c/requests 🌎](https://lemmit.online/c/requests)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-You can place your request for subreddits to be synced here ~(eventually)~.
+Make requests for new subreddits/communities here, **using the name of the subreddit as the title**, or with a link to the subreddit.<br><br>For **anything else**, go to [/c/about](/c/about).
 </blockquote>
 
 
@@ -41,17 +41,17 @@ You can place your request for subreddits to be synced here ~(eventually)~.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 7 |
+| Posts                | 22  |
+| Comments             | 23  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 16:43:02 |
-| Updated              | 2023-06-12 13:30:25 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Updated              | 2023-06-18 13:56:52 |
+| Last Scraped         | 2023-06-19 11:35:18 |

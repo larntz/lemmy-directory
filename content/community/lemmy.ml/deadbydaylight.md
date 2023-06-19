@@ -3,19 +3,19 @@ title: "Dead by Daylight"
 name: "deadbydaylight"
 description: "Reddit mods message to become a mod"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deadbydaylight"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
-posts: 11
-comments: 8
-weight: 11
-dau: 5
-wau: 8
-mau: 8
+subscribers: 35
+posts: 13
+comments: 24
+weight: 13
+dau: 6
+wau: 10
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Reddit mods message to become a mod
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 11  |
-| Comments             | 8  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 35 |
+| Posts                | 13  |
+| Comments             | 24  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Reddit mods message to become a mod
 |----------------------|---|
 | Published            | 2023-06-09 10:18:06 |
 | Updated              | 2023-06-09 10:56:12 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:55 |

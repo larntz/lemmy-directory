@@ -3,7 +3,7 @@ title: "Nintendo"
 name: "nintendo"
 description: "A community for everything Nintendo. News, discussions, stories etc."
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/nintendo"
@@ -54,4 +54,4 @@ A community for everything Nintendo. News, discussions, stories etc.
 |----------------------|---|
 | Published            | 2023-06-10 11:05:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:54 |

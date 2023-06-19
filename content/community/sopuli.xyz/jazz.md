@@ -3,13 +3,13 @@ title: "Jazz music & Bossa Nova"
 name: "jazz"
 description: "Let's post about good music."
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/jazz"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Let's post about good music.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Let's post about good music.
 |----------------------|---|
 | Published            | 2021-07-06 23:24:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

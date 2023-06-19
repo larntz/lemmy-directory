@@ -3,13 +3,13 @@ title: "Geschichten aus der Geschichte"
 name: "gag"
 description: "Die Community zum Podcast"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gag"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Die Community zum Podcast
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Die Community zum Podcast
 |----------------------|---|
 | Published            | 2023-06-13 13:10:29 |
 | Updated              | 2023-06-13 13:13:09 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

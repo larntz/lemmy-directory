@@ -3,13 +3,13 @@ title: "Xcode"
 name: "xcode"
 description: "The home for all things Xcode, Apple Developer IDE, on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xcode"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The home for all things Xcode, Apple Developer IDE, on LW.<br><br>**Rules:**<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The home for all things Xcode, Apple Developer IDE, on LW.<br><br>**Rules:**<br>
 |----------------------|---|
 | Published            | 2023-06-16 02:24:57 |
 | Updated              | 2023-06-16 02:26:39 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

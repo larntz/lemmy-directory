@@ -3,15 +3,15 @@ title: "Guild Wars 2"
 name: "guildwars2"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guildwars2"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 125
 posts: 6
-comments: 24
+comments: 25
 weight: 6
 dau: 3
 wau: 12
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 125 |
 | Posts                | 6  |
-| Comments             | 24  |
+| Comments             | 25  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-12-01 23:12:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

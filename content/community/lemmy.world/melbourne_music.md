@@ -3,13 +3,13 @@ title: "Melbourne Music"
 name: "melbourne_music"
 description: "A place to discuss and stay updated on Melbourne's local music scene"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/melbourne_music"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A place to discuss and stay updated on Melbourne's local music scene
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss and stay updated on Melbourne's local music scene
 |----------------------|---|
 | Published            | 2023-06-14 09:49:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

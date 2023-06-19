@@ -3,7 +3,7 @@ title: "rpi-virtuell"
 name: "rpitteam"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/rpitteam"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 15:14:56 |
 | Updated              | 2023-06-10 15:20:43 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

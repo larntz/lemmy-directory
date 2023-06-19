@@ -3,13 +3,13 @@ title: "Guns"
 name: "guns"
 description: "Anything to do with guns or politics surrounding guns, but keep it civil. Follow all applicable State/Federal laws"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/guns"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Anything to do with guns or politics surrounding guns, but keep it civil. <br><b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Anything to do with guns or politics surrounding guns, but keep it civil. <br><b
 |----------------------|---|
 | Published            | 2023-06-12 16:13:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

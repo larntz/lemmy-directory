@@ -3,7 +3,7 @@ title: "Futurama"
 name: "futurama"
 description: "Can't find r/futurama? Why not Zoidberg?"
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/futurama"
@@ -54,4 +54,4 @@ Can't find r/futurama? Why not Zoidberg?
 |----------------------|---|
 | Published            | 2023-06-07 22:19:34 |
 | Updated              | 2023-06-07 22:27:40 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:56 |

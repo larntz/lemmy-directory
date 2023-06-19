@@ -3,7 +3,7 @@ title: "Freax"
 name: "freax"
 description: "# Freax community**Rules**-  No bigotry - including racism, sexism, ableism, homophobia, or xenophobia. Code of Conduct.-    Be respectful. Everyone should feel welcome here.-    No porn.-    No Ads / Spamming.- - # # "
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freax"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-06-02 11:15:37 |
 | Updated              | 2021-06-02 16:37:10 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

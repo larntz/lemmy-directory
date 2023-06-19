@@ -3,17 +3,17 @@ title: "Free Beer and Hot Wings"
 name: "fbhw"
 description: "Fans of the Free Beer and Hot Wings nationally syndicated radio show.*We are not affiliated with the official show.*"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/fbhw"
 host: dot.surf
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 3
+posts: 4
 comments: 4
-weight: 3
-dau: 3
+weight: 4
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -42,9 +42,9 @@ Fans of the Free Beer and Hot Wings nationally syndicated radio show.<br><br>*We
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 4  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Fans of the Free Beer and Hot Wings nationally syndicated radio show.<br><br>*We
 |----------------------|---|
 | Published            | 2023-06-15 18:57:40 |
 | Updated              | 2023-06-15 19:07:28 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

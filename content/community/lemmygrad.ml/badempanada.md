@@ -3,13 +3,13 @@ title: "BadEmpanada"
 name: "badempanada"
 description: "BadEmpanada fan communityee"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/badempanada"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ BadEmpanada fan communityee
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ BadEmpanada fan communityee
 |----------------------|---|
 | Published            | 2023-06-01 19:18:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

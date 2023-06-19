@@ -3,13 +3,13 @@ title: "trek"
 name: "trek"
 description: "A place to discuss Star Trek."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/trek"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss Star Trek.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss Star Trek.
 |----------------------|---|
 | Published            | 2023-06-05 10:47:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

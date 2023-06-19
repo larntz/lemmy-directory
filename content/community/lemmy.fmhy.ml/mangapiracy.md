@@ -3,13 +3,13 @@ title: "MangaPiracy"
 name: "mangapiracy"
 description: "Discussions related to all manga sites are welcomed here, be it legal or unofficial."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/mangapiracy"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 80
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussions related to all manga sites are welcomed here, be it legal or unoffic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 80 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussions related to all manga sites are welcomed here, be it legal or unoffic
 |----------------------|---|
 | Published            | 2023-06-10 06:11:18 |
 | Updated              | 2023-06-10 22:05:23 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

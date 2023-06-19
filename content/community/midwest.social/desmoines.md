@@ -3,13 +3,13 @@ title: "Des Moines"
 name: "desmoines"
 description: "For all things Des Moines. A refuge for those that spent time in r/desmoines"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/desmoines"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 6
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ For all things Des Moines. A refuge for those that spent time in r/desmoines
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For all things Des Moines. A refuge for those that spent time in r/desmoines
 |----------------------|---|
 | Published            | 2023-06-13 16:31:15 |
 | Updated              | 2023-06-15 19:21:03 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

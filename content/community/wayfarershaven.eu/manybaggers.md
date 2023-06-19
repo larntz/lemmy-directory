@@ -3,16 +3,16 @@ title: "Many Baggers"
 name: "manybaggers"
 description: "For those who love to travel and don't limit themselves to just one bag. Inspiration: [/r/manybaggers](https://www.reddit.com/r/ManyBaggers/)See also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)Photo credit: [Arthur Edelmans](https://unsplash.com/photos/u9QuzlImpzA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/manybaggers"
 host: wayfarershaven.eu
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 1
+subscribers: 9
+posts: 2
 comments: 1
-weight: 1
+weight: 2
 dau: 2
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ For those who love to travel and don't limit themselves to just one bag. <br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
+| Subscribers          | 9 |
+| Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ For those who love to travel and don't limit themselves to just one bag. <br><br
 |----------------------|---|
 | Published            | 2023-06-11 17:30:05 |
 | Updated              | 2023-06-12 09:36:40 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

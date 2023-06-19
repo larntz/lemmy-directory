@@ -3,13 +3,13 @@ title: "Louisville, Kentucky"
 name: "louisville_kentucky"
 description: "News, art, and discussion about Louisville, Kentucky"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/louisville_kentucky"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ News, art, and discussion about Louisville, Kentucky
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ News, art, and discussion about Louisville, Kentucky
 |----------------------|---|
 | Published            | 2020-12-14 21:26:32 |
 | Updated              | 2021-01-22 16:38:25 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:57 |

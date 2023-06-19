@@ -3,19 +3,19 @@ title: "Romania"
 name: "romania"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/romania"
 host: feddit.ro
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 18
-comments: 8
-weight: 18
-dau: 4
-wau: 7
-mau: 7
+subscribers: 14
+posts: 25
+comments: 15
+weight: 25
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "feddit_ro"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 18  |
-| Comments             | 8  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 14 |
+| Posts                | 25  |
+| Comments             | 15  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 11:21:49 |
 | Updated              | 2023-06-14 12:08:29 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

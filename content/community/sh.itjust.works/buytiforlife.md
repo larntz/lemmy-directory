@@ -3,16 +3,16 @@ title: "BuyItForLife"
 name: "buytiforlife"
 description: "For practical, durable and quality made products that are made to last.Not for antiques that have survived the ages but can no longer be acquired."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/buytiforlife"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1450
-posts: 9
-comments: 105
-weight: 9
+subscribers: 1806
+posts: 10
+comments: 135
+weight: 10
 dau: 26
 wau: 36
 mau: 36
@@ -41,9 +41,9 @@ For practical, durable and quality made products that are made to last.<br>Not f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1450 |
-| Posts                | 9  |
-| Comments             | 105  |
+| Subscribers          | 1806 |
+| Posts                | 10  |
+| Comments             | 135  |
 | Daily Active Users   | 26  |
 | Weekly Active Users  | 36  |
 | Monthly Active Users | 36  |
@@ -54,4 +54,4 @@ For practical, durable and quality made products that are made to last.<br>Not f
 |----------------------|---|
 | Published            | 2023-06-09 03:36:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

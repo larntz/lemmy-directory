@@ -3,13 +3,13 @@ title: "Shack Pics"
 name: "shack_pics"
 description: "Show us your shack!"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/shack_pics"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 5
 weight: 2
@@ -41,7 +41,7 @@ Show us your shack!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Show us your shack!
 |----------------------|---|
 | Published            | 2023-06-12 20:27:30 |
 | Updated              | 2023-06-12 20:29:11 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

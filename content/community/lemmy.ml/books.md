@@ -3,19 +3,19 @@ title: "Books"
 name: "books"
 description: "Book reader community."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/books"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3641
-posts: 153
-comments: 756
-weight: 153
-dau: 74
-wau: 276
-mau: 303
+subscribers: 3947
+posts: 157
+comments: 815
+weight: 157
+dau: 22
+wau: 257
+mau: 333
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Book reader community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3641 |
-| Posts                | 153  |
-| Comments             | 756  |
-| Daily Active Users   | 74  |
-| Weekly Active Users  | 276  |
-| Monthly Active Users | 303  |
+| Subscribers          | 3947 |
+| Posts                | 157  |
+| Comments             | 815  |
+| Daily Active Users   | 22  |
+| Weekly Active Users  | 257  |
+| Monthly Active Users | 333  |
 
 <br>
 
@@ -54,4 +54,4 @@ Book reader community.
 |----------------------|---|
 | Published            | 2020-01-21 12:25:22 |
 | Updated              | 2021-01-29 02:11:23 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:37:01 |

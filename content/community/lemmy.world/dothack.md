@@ -3,7 +3,7 @@ title: "dothack | .hack"
 name: "dothack"
 description: "![](https://lemmy.world/pictrs/image/81e14c12-9a23-4b38-a5a6-0139ceffb079.jpeg)*A community for .hack fans!***Rules:**- Be careful about making reposts.- Don't downvote posts just because you disagree with them. Downvote posts that don't follow the rules.- Don't steal content you did not make and post it as yours.- Read a linked article before commenting on it.- Upvote good comments and posts. If a post is worth reading or commenting on it probably is worth an upvote.- Avoid being a jerk. Insulting other users almost never leads anywhere good.- Flaming and using foul language is not a nice way to present yourself online.- Be respectful when possible.- Remember that people have different opinions.**Self Promotion:**- You are allowed to share any content (regarding the topic of this community) that you made yourself (such as videos, articles, art...). You can share a maximum of one self-promotion post per week."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dothack"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 09:17:45 |
 | Updated              | 2023-06-14 10:16:27 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

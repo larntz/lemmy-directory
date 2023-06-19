@@ -3,13 +3,13 @@ title: "BBS - Bulletin Board Systems"
 name: "bbs"
 description: "For discussion of 70s/80s/90s BBS systems, and their modern equivalents.Questions about BBSes and their software, door games, ANSI art, and so on are welcome as are sysop advertisements.Looking for a BBS to connect to?   [The Telnet BBS Guide](https://www.telnetbbsguide.com/) is what you're after.Need a client?  [Syncterm](https://syncterm.bbsdev.net/) is available for almost every platform."
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/bbs"
 host: lemmy.uncomfortable.business
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ For discussion of 70s/80s/90s BBS systems, and their modern equivalents.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For discussion of 70s/80s/90s BBS systems, and their modern equivalents.<br><br>
 |----------------------|---|
 | Published            | 2023-06-12 00:57:53 |
 | Updated              | 2023-06-12 01:21:33 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

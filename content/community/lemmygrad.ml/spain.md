@@ -3,7 +3,7 @@ title: "Spain / España"
 name: "spain"
 description: "Por un futuro brillante teñido de rojo.All things Spain."
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/spain"
@@ -54,4 +54,4 @@ Por un futuro brillante teñido de rojo.<br><br>All things Spain.
 |----------------------|---|
 | Published            | 2020-07-14 19:34:01 |
 | Updated              | 2020-07-14 19:38:27 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-19 11:35:08 |

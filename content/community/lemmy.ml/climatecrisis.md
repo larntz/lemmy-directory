@@ -3,19 +3,19 @@ title: "The Climate Crisis"
 name: "climatecrisis"
 description: "The impacts and solutions of the Climate Crisis"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/climatecrisis"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 738
+subscribers: 753
 posts: 328
 comments: 252
 weight: 328
-dau: 1
+dau: 2
 wau: 3
-mau: 5
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The impacts and solutions of the Climate Crisis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 738 |
+| Subscribers          | 753 |
 | Posts                | 328  |
 | Comments             | 252  |
-| Daily Active Users   | 1  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 5  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ The impacts and solutions of the Climate Crisis
 |----------------------|---|
 | Published            | 2020-12-03 18:55:24 |
 | Updated              | 2022-08-20 10:58:30 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:48 |

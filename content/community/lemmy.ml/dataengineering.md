@@ -3,15 +3,15 @@ title: "Data Engineering"
 name: "dataengineering"
 description: "News and discussion on Data Emgineering topics "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dataengineering"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 32
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
 wau: 2
@@ -41,9 +41,9 @@ News and discussion on Data Emgineering topics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 32 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ News and discussion on Data Emgineering topics
 |----------------------|---|
 | Published            | 2023-06-11 05:03:09 |
 | Updated              | 2023-06-11 05:06:39 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,19 +3,19 @@ title: "Linus Tech Tips"
 name: "linustechtips"
 description: "⚠️ ***De-clickbait-ify the youtube titles or your post will be removed!***Floatplane titles are perfectly fine.LTT/LMG community. Brought to you by lttsto... Actually, no, not this time. This time it's brought to you by Lemmy, the open communities and free and open source software!*If you post videos from Youtube/LTT, please please un-clickbait the titles. (You can use the title from https://nitter.net/LTTtranslator/ but it doesn't seem to have been updated in quite some while...*)"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linustechtips"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 446
-posts: 11
-comments: 30
-weight: 11
-dau: 8
-wau: 20
-mau: 22
+subscribers: 555
+posts: 12
+comments: 37
+weight: 12
+dau: 5
+wau: 21
+mau: 27
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 446 |
-| Posts                | 11  |
-| Comments             | 30  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 22  |
+| Subscribers          | 555 |
+| Posts                | 12  |
+| Comments             | 37  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-05 13:49:31 |
 | Updated              | 2023-06-16 14:14:16 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:46 |

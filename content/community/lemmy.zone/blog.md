@@ -3,7 +3,7 @@ title: "Blog"
 name: "blog"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zone/c/blog"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 14:49:18 |
 | Updated              | 2023-06-13 14:51:08 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

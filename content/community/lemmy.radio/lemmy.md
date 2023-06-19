@@ -3,17 +3,17 @@ title: "Lemmy talk"
 name: "lemmy"
 description: "Chat/Questions about our Lemmy instance or Lemmy in general."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/lemmy"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 6
-comments: 7
+comments: 10
 weight: 6
-dau: 1
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ Chat/Questions about our Lemmy instance or Lemmy in general.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Chat/Questions about our Lemmy instance or Lemmy in general.
 |----------------------|---|
 | Published            | 2023-06-12 20:41:46 |
 | Updated              | 2023-06-13 17:14:31 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

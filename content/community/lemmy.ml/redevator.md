@@ -3,7 +3,7 @@ title: "Red-e-vator"
 name: "redevator"
 description: "A sublemmy for pro-CCP elevator enthusiasts."
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redevator"
@@ -54,4 +54,4 @@ A sublemmy for pro-CCP elevator enthusiasts.
 |----------------------|---|
 | Published            | 2022-03-14 20:27:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:58 |

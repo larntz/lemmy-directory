@@ -3,7 +3,7 @@ title: "lemmy via mg meta"
 name: "meta"
 description: "Discuss the *lemmy via mg* lemmy instance, including suggestions and criticism."
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.meridiangrp.co.uk/c/meta"
@@ -54,4 +54,4 @@ Discuss the *lemmy via mg* lemmy instance, including suggestions and criticism.
 |----------------------|---|
 | Published            | 2023-06-14 10:25:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

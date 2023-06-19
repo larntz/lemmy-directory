@@ -3,19 +3,19 @@ title: "Doujinshi"
 name: "doujinshi"
 description: "Lewd(er) manga, but not as lewd as hand holding.---**Doujinshi Sources:*** [Nhentai](https://nhentai.net/)* [Ehentai](https://e-hentai.org)"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/doujinshi"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 118
+subscribers: 198
 posts: 4
-comments: 0
+comments: 1
 weight: 4
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Lewd(er) manga, but not as lewd as hand holding.<br><br>---<br><br>**Doujinshi S
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 118 |
+| Subscribers          | 198 |
 | Posts                | 4  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Lewd(er) manga, but not as lewd as hand holding.<br><br>---<br><br>**Doujinshi S
 |----------------------|---|
 | Published            | 2023-06-13 05:10:16 |
 | Updated              | 2023-06-13 22:29:53 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

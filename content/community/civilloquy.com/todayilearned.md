@@ -3,18 +3,18 @@ title: "Today I Learned (TIL)"
 name: "todayilearned"
 description: "###### Rules1. Posts must begin with TIL.2. Posts must be about a specific fact. No TIL about [ducks]."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:00"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/todayilearned"
 host: civilloquy.com
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 120
 posts: 5
 comments: 0
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "civilloquy_com"
@@ -41,11 +41,11 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 120 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-07 14:57:53 |
 | Updated              | 2023-06-13 14:57:42 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:00 |

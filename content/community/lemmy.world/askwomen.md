@@ -3,13 +3,13 @@ title: "Ask Women"
 name: "askwomen"
 description: "Empowering Dialogue, Insights, and Support for Women Everywhere."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askwomen"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 60
 posts: 1
 comments: 5
 weight: 1
@@ -41,7 +41,7 @@ Empowering Dialogue, Insights, and Support for Women Everywhere.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 60 |
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Empowering Dialogue, Insights, and Support for Women Everywhere.
 |----------------------|---|
 | Published            | 2023-06-12 10:07:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

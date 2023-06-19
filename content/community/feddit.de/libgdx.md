@@ -3,13 +3,13 @@ title: "libgdx"
 name: "libgdx"
 description: "https://libgdx.com/"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/libgdx"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ https://libgdx.com/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ https://libgdx.com/
 |----------------------|---|
 | Published            | 2023-06-16 14:51:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

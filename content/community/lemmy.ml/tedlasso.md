@@ -3,19 +3,19 @@ title: "Ted Lasso"
 name: "tedlasso"
 description: "Rules:1. Be Polite2. See Number 1"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tedlasso"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 2
-comments: 5
-weight: 2
+subscribers: 21
+posts: 3
+comments: 7
+weight: 3
 dau: 2
-wau: 4
-mau: 4
+wau: 3
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Rules:<br>1. Be Polite<br>2. See Number 1
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 2  |
-| Comments             | 5  |
+| Subscribers          | 21 |
+| Posts                | 3  |
+| Comments             | 7  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Rules:<br>1. Be Polite<br>2. See Number 1
 |----------------------|---|
 | Published            | 2023-06-01 02:04:14 |
 | Updated              | 2023-06-12 18:49:17 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,7 +3,7 @@ title: "Florida State Seminoles"
 name: "fsuseminoles"
 description: "A community to discuss Florida State Seminoles athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/fsuseminoles"
@@ -54,4 +54,4 @@ A community to discuss Florida State Seminoles athletics.<br><br>**Looking for M
 |----------------------|---|
 | Published            | 2023-06-15 01:07:35 |
 | Updated              | 2023-06-15 01:11:22 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

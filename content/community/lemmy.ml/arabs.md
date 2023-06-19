@@ -3,13 +3,13 @@ title: "arabs"
 name: "arabs"
 description: "A community for discussing anything related to the Arab world."
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arabs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 9
 comments: 6
 weight: 9
@@ -41,7 +41,7 @@ A community for discussing anything related to the Arab world.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 9  |
 | Comments             | 6  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for discussing anything related to the Arab world.
 |----------------------|---|
 | Published            | 2021-06-17 21:59:39 |
 | Updated              | 2021-06-17 22:21:14 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:37:02 |

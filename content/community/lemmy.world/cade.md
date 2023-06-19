@@ -3,13 +3,13 @@ title: "Arcade - MAME - Cabinets - JAMMA"
 name: "cade"
 description: "MAME and coin-op alike are welcome here! Welcome to /c/cade! Formerly /r/cadeRebuild, restore or buy that dedicated arcade cabinet that you sank thousands of quarters into. * Make that MAME cabinet!* BUY - SELL - TRADE with the hivemind. (personal sales, not business to consumer) * Show off your collection. * Ask questions, get help from the experts."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cade"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 31
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ MAME and coin-op alike are welcome here! Welcome to /c/cade! Formerly /r/cade<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 31 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ MAME and coin-op alike are welcome here! Welcome to /c/cade! Formerly /r/cade<br
 |----------------------|---|
 | Published            | 2023-06-09 22:58:19 |
 | Updated              | 2023-06-09 23:00:03 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:40 |

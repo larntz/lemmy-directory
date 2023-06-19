@@ -3,19 +3,19 @@ title: "counting"
 name: "counting"
 description: "Counting's a good job mate. Challenging work.[Click here for Newest comments](counting/data_type/Comment/sort/New/page/1)**Etiquette:**1. No double-counting (don't reply to yourself).2. If the comment chain has split, continue the chain by replying to the earlier comment (go with whoever commented first). 3. Don't delete valid counts.4. Counts made by bots are not valid. Please don't use bots to count."
 type: community
-date: "2023-06-16 11:07:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/counting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
-comments: 7
+comments: 10
 weight: 1
 dau: 1
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Counting's a good job mate. Challenging work.<br><br>[Click here for Newest comm
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
-| Comments             | 7  |
+| Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Counting's a good job mate. Challenging work.<br><br>[Click here for Newest comm
 |----------------------|---|
 | Published            | 2023-06-13 14:47:46 |
 | Updated              | 2023-06-13 15:18:07 |
-| Last Scraped         | 2023-06-16 11:07:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

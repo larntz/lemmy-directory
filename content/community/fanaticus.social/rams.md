@@ -3,13 +3,13 @@ title: "Los Angeles Rams"
 name: "rams"
 description: "A community dedicated to the Los Angeles Rams.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/rams"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to the Los Angeles Rams.<br><br>**Looking for Mods!**
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 0 |
+| Subscribers          | 1 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ A community dedicated to the Los Angeles Rams.<br><br>**Looking for Mods!**
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 01:26:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 21:18:08 |
+| Last Scraped         | 2023-06-19 11:35:15 |

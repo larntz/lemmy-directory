@@ -3,7 +3,7 @@ title: "Crazy Ideas"
 name: "crazyideas"
 description: "Is your idea too crazy to work? So crazy it might work? Perfect."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crazyideas"
@@ -54,4 +54,4 @@ Is your idea too crazy to work? So crazy it might work? Perfect.
 |----------------------|---|
 | Published            | 2023-06-16 22:31:28 |
 | Updated              | 2023-06-16 22:31:37 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

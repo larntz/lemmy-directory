@@ -3,19 +3,19 @@ title: "Infrapolitics"
 name: "infrapolitics"
 description: "Infrapolitics is to politics what infrared is to light. Its domain encompasses the acts, gestures, and thoughts that are not quite political enough to be perceived as such."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/infrapolitics"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 6
-comments: 0
-weight: 6
-dau: 1
-wau: 1
-mau: 1
+subscribers: 31
+posts: 7
+comments: 1
+weight: 7
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ Infrapolitics is to politics what infrared is to light. Its domain encompasses t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 31 |
+| Posts                | 7  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Infrapolitics is to politics what infrared is to light. Its domain encompasses t
 |----------------------|---|
 | Published            | 2023-02-23 12:07:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

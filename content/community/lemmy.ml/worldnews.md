@@ -3,19 +3,19 @@ title: "World News"
 name: "worldnews"
 description: "News from around the world!# Rules:* Please only post links to actual news sources, no tabloid sites, etc* No NSFW content* No hate speech, bigotry, propaganda, etc"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/worldnews"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 11898
-posts: 3971
-comments: 10348
-weight: 3971
-dau: 142
-wau: 537
-mau: 669
+subscribers: 13420
+posts: 4064
+comments: 10912
+weight: 4064
+dau: 127
+wau: 600
+mau: 915
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ News from around the world!<br><br># Rules:<br><br>* Please only post links to a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11898 |
-| Posts                | 3971  |
-| Comments             | 10348  |
-| Daily Active Users   | 142  |
-| Weekly Active Users  | 537  |
-| Monthly Active Users | 669  |
+| Subscribers          | 13420 |
+| Posts                | 4064  |
+| Comments             | 10912  |
+| Daily Active Users   | 127  |
+| Weekly Active Users  | 600  |
+| Monthly Active Users | 915  |
 
 <br>
 
@@ -54,4 +54,4 @@ News from around the world!<br><br># Rules:<br><br>* Please only post links to a
 |----------------------|---|
 | Published            | 2019-10-18 20:41:31 |
 | Updated              | 2021-01-28 22:42:57 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:45 |

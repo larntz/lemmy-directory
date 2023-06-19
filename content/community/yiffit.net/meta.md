@@ -3,19 +3,19 @@ title: "Meta & Announcements"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/meta"
 host: yiffit.net
 lastmod: "{[ .Updated }}"
-subscribers: 97
-posts: 23
-comments: 74
-weight: 23
-dau: 9
-wau: 18
-mau: 18
+subscribers: 110
+posts: 27
+comments: 117
+weight: 27
+dau: 3
+wau: 28
+mau: 29
 instances:
 - "yiffit_net"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 23  |
-| Comments             | 74  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 18  |
+| Subscribers          | 110 |
+| Posts                | 27  |
+| Comments             | 117  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 29  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-07 23:26:45 |
-| Updated              | 2023-06-15 17:35:15 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Updated              | 2023-06-18 23:22:28 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,19 +3,19 @@ title: "Censorship"
 name: "censorship"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/censorship"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 141
+subscribers: 143
 posts: 30
-comments: 46
+comments: 47
 weight: 30
 dau: 1
 wau: 1
-mau: 7
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 141 |
+| Subscribers          | 143 |
 | Posts                | 30  |
-| Comments             | 46  |
+| Comments             | 47  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-27 19:34:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:44 |

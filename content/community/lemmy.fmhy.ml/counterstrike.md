@@ -3,7 +3,7 @@ title: "counter strike"
 name: "counterstrike"
 description: "**RULES: don't be bad**"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/counterstrike"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 20:57:45 |
 | Updated              | 2023-06-12 21:06:03 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

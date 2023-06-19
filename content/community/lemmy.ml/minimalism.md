@@ -3,19 +3,19 @@ title: "Minimalism"
 name: "minimalism"
 description: "Simplicity in architecture, design, lifestlye, music, painting, etc."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minimalism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 150
-posts: 3
-comments: 3
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+subscribers: 166
+posts: 4
+comments: 4
+weight: 4
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Simplicity in architecture, design, lifestlye, music, painting, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 166 |
+| Posts                | 4  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Simplicity in architecture, design, lifestlye, music, painting, etc.
 |----------------------|---|
 | Published            | 2020-06-28 05:37:06 |
 | Updated              | 2021-01-29 13:29:18 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:56 |

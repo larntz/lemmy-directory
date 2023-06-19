@@ -3,13 +3,13 @@ title: "Nintendo"
 name: "nintendo"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lem.lyk.pw/c/nintendo"
 host: lem.lyk.pw
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-26 15:56:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

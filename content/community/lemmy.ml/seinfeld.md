@@ -3,13 +3,13 @@ title: "Seinfeld"
 name: "seinfeld"
 description: "A community about nothing"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seinfeld"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 23
 posts: 22
 comments: 0
 weight: 22
@@ -41,7 +41,7 @@ A community about nothing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 23 |
 | Posts                | 22  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community about nothing
 |----------------------|---|
 | Published            | 2022-01-24 21:48:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

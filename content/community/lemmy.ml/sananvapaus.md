@@ -3,7 +3,7 @@ title: "Sananvapaus"
 name: "sananvapaus"
 description: "Sananvapaus liittyy kansanvaltaan, tai demokratiaan. Esimerkki demokratiasta on kun kaksi sutta ja lammas äänestävät siitä, mitä syödään lounaaksi. Orwell jo aikanaan ennusti että yleisen petoksen aikana totuuden kertomisesta tulee vallankumouksellinen teko."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sananvapaus"
@@ -54,4 +54,4 @@ Sananvapaus liittyy kansanvaltaan, tai demokratiaan. Esimerkki demokratiasta on 
 |----------------------|---|
 | Published            | 2020-05-04 18:22:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

@@ -3,7 +3,7 @@ title: "Hello"
 name: "hello"
 description: "Say hello"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funkyfish.cool/c/hello"
@@ -54,4 +54,4 @@ Say hello
 |----------------------|---|
 | Published            | 2023-06-12 17:04:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:22 |

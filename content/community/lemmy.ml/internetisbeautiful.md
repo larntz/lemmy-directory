@@ -3,16 +3,16 @@ title: "The internet is beautiful."
 name: "internetisbeautiful"
 description: "show your favorite things you have found on the internet that is amazing or beautiful."
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/internetisbeautiful"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 247
-posts: 7
-comments: 10
-weight: 7
+subscribers: 306
+posts: 8
+comments: 15
+weight: 8
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ show your favorite things you have found on the internet that is amazing or beau
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 247 |
-| Posts                | 7  |
-| Comments             | 10  |
+| Subscribers          | 306 |
+| Posts                | 8  |
+| Comments             | 15  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ show your favorite things you have found on the internet that is amazing or beau
 |----------------------|---|
 | Published            | 2021-06-27 20:02:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:45 |

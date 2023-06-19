@@ -3,13 +3,13 @@ title: "Tabletop Simulator"
 name: "tabletopsimulator"
 description: "A community dedicated to the Tabletop Simulator videogame."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tabletopsimulator"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to the Tabletop Simulator videogame.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ A community dedicated to the Tabletop Simulator videogame.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 06:10:14 |
-| Updated              | 2023-06-16 22:13:55 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Updated              | 2023-06-16 22:57:49 |
+| Last Scraped         | 2023-06-19 11:35:30 |

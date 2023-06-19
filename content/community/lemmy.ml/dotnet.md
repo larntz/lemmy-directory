@@ -3,13 +3,13 @@ title: ".NET"
 name: "dotnet"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dotnet"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 56
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 56 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-08-19 09:48:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,13 +3,13 @@ title: "Co-op"
 name: "coop"
 description: "All about co-operatives"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coop"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ All about co-operatives
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All about co-operatives
 |----------------------|---|
 | Published            | 2020-06-28 08:39:28 |
 | Updated              | 2021-01-29 13:30:51 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

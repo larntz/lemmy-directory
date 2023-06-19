@@ -3,13 +3,13 @@ title: "openHAB"
 name: "openhab"
 description: "This group is for discussing openHAB, a vendor and technology agnostic open source automation software for your home. "
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/openhab"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This group is for discussing openHAB, a vendor and technology agnostic open sour
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This group is for discussing openHAB, a vendor and technology agnostic open sour
 |----------------------|---|
 | Published            | 2023-06-13 04:03:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

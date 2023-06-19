@@ -3,19 +3,19 @@ title: "Team Fortress 2"
 name: "tf2"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tf2"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 98
+subscribers: 105
 posts: 25
-comments: 29
+comments: 30
 weight: 25
-dau: 2
-wau: 12
-mau: 15
+dau: 1
+wau: 10
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 98 |
+| Subscribers          | 105 |
 | Posts                | 25  |
-| Comments             | 29  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 15  |
+| Comments             | 30  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-26 11:55:21 |
 | Updated              | 2020-06-26 11:57:35 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

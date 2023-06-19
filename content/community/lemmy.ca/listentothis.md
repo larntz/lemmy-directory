@@ -3,16 +3,16 @@ title: "Listen to this"
 name: "listentothis"
 description: "A place to share music recommendations, especially more obscure ones that people are less likely to already know."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/listentothis"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 4
-comments: 4
-weight: 4
+subscribers: 17
+posts: 6
+comments: 8
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ A place to share music recommendations, especially more obscure ones that people
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 4  |
-| Comments             | 4  |
+| Subscribers          | 17 |
+| Posts                | 6  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A place to share music recommendations, especially more obscure ones that people
 |----------------------|---|
 | Published            | 2023-06-14 14:01:16 |
 | Updated              | 2023-06-15 16:05:01 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

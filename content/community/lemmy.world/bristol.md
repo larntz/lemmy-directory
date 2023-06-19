@@ -3,7 +3,7 @@ title: "bristol"
 name: "bristol"
 description: "Bristol, UK. The greatest bridge in the universe."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bristol"
@@ -54,4 +54,4 @@ Bristol, UK. The greatest bridge in the universe.
 |----------------------|---|
 | Published            | 2023-06-12 19:40:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,19 +3,19 @@ title: "Samsung"
 name: "samsung"
 description: "The unofficial Samsung Lemmy Community.**Rules**1. No advertising.2. Be kind.3. Be patient.4. No porn.5. Must be Samsung related."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/samsung"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 188
-posts: 10
-comments: 28
-weight: 10
-dau: 5
-wau: 21
-mau: 21
+subscribers: 233
+posts: 11
+comments: 36
+weight: 11
+dau: 2
+wau: 24
+mau: 27
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The unofficial Samsung Lemmy Community.<br><br>**Rules**<br>1. No advertising.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 188 |
-| Posts                | 10  |
-| Comments             | 28  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Subscribers          | 233 |
+| Posts                | 11  |
+| Comments             | 36  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 24  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ The unofficial Samsung Lemmy Community.<br><br>**Rules**<br>1. No advertising.<b
 |----------------------|---|
 | Published            | 2023-06-10 06:24:55 |
 | Updated              | 2023-06-10 06:45:26 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

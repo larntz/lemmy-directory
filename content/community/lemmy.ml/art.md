@@ -3,19 +3,19 @@ title: "A place to share your artwork, be it drawing, music, or something else!"
 name: "art"
 description: "Please don't share other people's art you just found! That should go over in /c/found_art instead."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/art"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 292
-posts: 32
-comments: 23
-weight: 32
+subscribers: 314
+posts: 33
+comments: 24
+weight: 33
 dau: 1
-wau: 7
-mau: 9
+wau: 6
+mau: 11
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Please don't share other people's art you just found! That should go over in /c/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 292 |
-| Posts                | 32  |
-| Comments             | 23  |
+| Subscribers          | 314 |
+| Posts                | 33  |
+| Comments             | 24  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Please don't share other people's art you just found! That should go over in /c/
 |----------------------|---|
 | Published            | 2020-05-16 21:24:36 |
 | Updated              | 2020-05-16 22:13:54 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:48 |

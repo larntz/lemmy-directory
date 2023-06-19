@@ -3,13 +3,13 @@ title: "Red Dwarf"
 name: "reddwarf"
 description: "What's up smegheads?"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddwarf"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ What's up smegheads?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ What's up smegheads?
 |----------------------|---|
 | Published            | 2023-06-12 16:08:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

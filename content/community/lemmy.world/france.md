@@ -1,21 +1,21 @@
 ---
 title: "France" 
 name: "france"
-description: "La communauté pour la France et les français partout dans le monde"
+description: "La communauté pour la France et les français partout dans le mondeAutres communautés:- https://lemmy.world/c/jardin- https://sh.itjust.works/c/cyclismeAutres communautés francophones:- https://sh.itjust.works/c/francophone- https://lemmy.ca/c/parlezvousfrVilles:- https://lemmy.world/c/lyon"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/france"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 349
-posts: 48
-comments: 413
-weight: 48
+subscribers: 522
+posts: 86
+comments: 728
+weight: 86
 dau: 46
-wau: 101
-mau: 101
+wau: 148
+mau: 148
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-La communauté pour la France et les français partout dans le monde
+La communauté pour la France et les français partout dans le monde<br><br>Autres communautés:<br>- https://lemmy.world/c/jardin<br>- https://sh.itjust.works/c/cyclisme<br><br>Autres communautés francophones:<br>- https://sh.itjust.works/c/francophone<br>- https://lemmy.ca/c/parlezvousfr<br><br>Villes:<br>- https://lemmy.world/c/lyon
 </blockquote>
 
 
@@ -41,17 +41,17 @@ La communauté pour la France et les français partout dans le monde
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 349 |
-| Posts                | 48  |
-| Comments             | 413  |
+| Subscribers          | 522 |
+| Posts                | 86  |
+| Comments             | 728  |
 | Daily Active Users   | 46  |
-| Weekly Active Users  | 101  |
-| Monthly Active Users | 101  |
+| Weekly Active Users  | 148  |
+| Monthly Active Users | 148  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 08:47:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-18 21:30:37 |
+| Last Scraped         | 2023-06-19 11:36:37 |

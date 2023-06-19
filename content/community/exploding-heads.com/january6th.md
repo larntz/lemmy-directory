@@ -3,16 +3,16 @@ title: "January 6th"
 name: "january6th"
 description: "So what really happened on January 6th?"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/january6th"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 13
-posts: 286
+posts: 288
 comments: 8
-weight: 286
+weight: 288
 dau: 1
 wau: 1
 mau: 2
@@ -42,7 +42,7 @@ So what really happened on January 6th?
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 13 |
-| Posts                | 286  |
+| Posts                | 288  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ So what really happened on January 6th?
 |----------------------|---|
 | Published            | 2022-02-28 11:49:08 |
 | Updated              | 2022-03-13 00:41:59 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

@@ -3,13 +3,13 @@ title: "Macs in the Shack"
 name: "macham"
 description: "Using Macs in the Shack"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/macham"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Using Macs in the Shack<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Using Macs in the Shack<br>
 |----------------------|---|
 | Published            | 2023-06-13 23:41:08 |
 | Updated              | 2023-06-13 23:48:43 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

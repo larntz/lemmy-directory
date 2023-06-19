@@ -3,16 +3,16 @@ title: "Speedrunning"
 name: "speedrunning"
 description: "Gotta go fast!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/speedrunning"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 4
+subscribers: 14
+posts: 5
 comments: 5
-weight: 4
+weight: 5
 dau: 2
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Gotta go fast!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 4  |
+| Subscribers          | 14 |
+| Posts                | 5  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Gotta go fast!
 |----------------------|---|
 | Published            | 2023-06-09 18:24:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

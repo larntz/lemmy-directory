@@ -3,7 +3,7 @@ title: "Albuquerque, NM"
 name: "abq"
 description: "**Welcome to Albuquerque!****Rules**1. Try not to do something we have to make a rule about."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abq"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-03 14:38:14 |
 | Updated              | 2023-06-03 14:47:53 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:45 |

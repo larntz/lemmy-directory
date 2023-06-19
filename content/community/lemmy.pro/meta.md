@@ -3,19 +3,19 @@ title: "Meta & Chat"
 name: "meta"
 description: "General topics discussion related to anything and everything over here at Lemmy.Pro. Toss in general chat too why not? :-)Be nice, no spam!"
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/meta"
 host: lemmy.pro
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 1
-mau: 1
+subscribers: 4
+posts: 4
+comments: 2
+weight: 4
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_pro"
 tags: 
@@ -41,12 +41,12 @@ General topics discussion related to anything and everything over here at Lemmy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 4 |
+| Posts                | 4  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ General topics discussion related to anything and everything over here at Lemmy.
 |----------------------|---|
 | Published            | 2023-06-12 22:24:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

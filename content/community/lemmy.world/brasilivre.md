@@ -3,7 +3,7 @@ title: "brasilivre"
 name: "brasilivre"
 description: "Um espaço para conversas amigáveis."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brasilivre"
@@ -54,4 +54,4 @@ Um espaço para conversas amigáveis.
 |----------------------|---|
 | Published            | 2023-06-12 00:05:10 |
 | Updated              | 2023-06-12 00:08:09 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

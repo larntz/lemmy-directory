@@ -3,13 +3,13 @@ title: "Eurovision Song Contest"
 name: "eurovision"
 description: "Community for discussion about the world’s music competition uniting Europe"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eurovision"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Community for discussion about the world’s music competition uniting Europe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for discussion about the world’s music competition uniting Europe
 |----------------------|---|
 | Published            | 2023-06-12 20:29:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

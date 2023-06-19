@@ -3,7 +3,7 @@ title: "Cryptocurrency Markets"
 name: "cryptomarkets"
 description: "A place for open discussion and dialogue on all subjects related to cryptocurrency trading. "
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptomarkets"
@@ -54,4 +54,4 @@ A place for open discussion and dialogue on all subjects related to cryptocurren
 |----------------------|---|
 | Published            | 2020-07-07 09:43:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:45 |

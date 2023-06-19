@@ -3,7 +3,7 @@ title: "AI Generated"
 name: "ai_generated"
 description: "For anything that was created by artificial intelligence"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ai_generated"
@@ -54,4 +54,4 @@ For anything that was created by artificial intelligence
 |----------------------|---|
 | Published            | 2023-06-03 21:15:01 |
 | Updated              | 2023-06-03 21:18:21 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

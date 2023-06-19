@@ -3,19 +3,19 @@ title: "blahaj"
 name: "blahaj"
 description: "cute IKEA trans shark :D"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/blahaj"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 1
-comments: 2
-weight: 1
-dau: 2
-wau: 3
-mau: 3
+subscribers: 36
+posts: 3
+comments: 4
+weight: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -41,12 +41,12 @@ cute IKEA trans shark :D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 36 |
+| Posts                | 3  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ cute IKEA trans shark :D
 |----------------------|---|
 | Published            | 2023-06-11 21:47:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,7 +3,7 @@ title: "ohmyzsh"
 name: "ohmyzsh"
 description: "Lemmy community for ohmyzsh users. Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ohmyzsh"
@@ -54,4 +54,4 @@ Lemmy community for ohmyzsh users. Oh-My-Zsh is an open source, community-driven
 |----------------------|---|
 | Published            | 2021-03-15 17:14:26 |
 | Updated              | 2021-03-15 23:13:38 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:43 |

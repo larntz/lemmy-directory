@@ -3,16 +3,16 @@ title: "Latinoamérica"
 name: "latinoamerica"
 description: "Un grupo para gente latina Pueden hablar en español, portugués o lo que les den la gana "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/latinoamerica"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 0
 comments: 0
-weight: 1
+weight: 0
 dau: 0
 wau: 0
 mau: 0
@@ -42,7 +42,7 @@ Un grupo para gente latina <br><br>Pueden hablar en español, portugués o lo qu
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ Un grupo para gente latina <br><br>Pueden hablar en español, portugués o lo qu
 |----------------------|---|
 | Published            | 2023-06-15 05:47:09 |
 | Updated              | 2023-06-15 06:04:17 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

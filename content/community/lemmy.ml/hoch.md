@@ -3,13 +3,13 @@ title: "History of Computer Hardware"
 name: "hoch"
 description: "a place for links and discussion about historic computing hardware"
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hoch"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 103
+subscribers: 104
 posts: 63
 comments: 8
 weight: 63
@@ -41,7 +41,7 @@ a place for links and discussion about historic computing hardware
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 103 |
+| Subscribers          | 104 |
 | Posts                | 63  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ a place for links and discussion about historic computing hardware
 |----------------------|---|
 | Published            | 2021-12-02 22:24:20 |
 | Updated              | 2023-03-28 00:23:01 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:36:59 |

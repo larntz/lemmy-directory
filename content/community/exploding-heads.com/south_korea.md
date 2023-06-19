@@ -3,7 +3,7 @@ title: "South Korea"
 name: "south_korea"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/south_korea"
@@ -11,7 +11,7 @@ host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 7
 posts: 35
-comments: 11
+comments: 12
 weight: 35
 dau: 1
 wau: 3
@@ -43,7 +43,7 @@ Description not available.
 |----------------------|---|
 | Subscribers          | 7 |
 | Posts                | 35  |
-| Comments             | 11  |
+| Comments             | 12  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-21 12:26:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

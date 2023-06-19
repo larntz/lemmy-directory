@@ -3,13 +3,13 @@ title: "Community for Russian language learners and masters"
 name: "russian"
 description: "Learning Russian? Know Russian? Here is the place to be!"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/russian"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 82
+subscribers: 83
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ Learning Russian? Know Russian? Here is the place to be!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
+| Subscribers          | 83 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Learning Russian? Know Russian? Here is the place to be!
 |----------------------|---|
 | Published            | 2019-08-25 20:33:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-19 11:35:08 |

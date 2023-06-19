@@ -3,7 +3,7 @@ title: "Fire & Rescue"
 name: "firerescue"
 description: "A place to discuss all things related to firefighting around the world."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firerescue"
@@ -54,4 +54,4 @@ A place to discuss all things related to firefighting around the world.
 |----------------------|---|
 | Published            | 2021-03-25 09:41:34 |
 | Updated              | 2021-03-25 16:49:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:57 |

@@ -3,16 +3,16 @@ title: "Speedrunning"
 name: "speedrun"
 description: "/c/Speedrun is a sub for the speedrunning community.Speedrunning is a play-through of a video game performed with the intent of completing a goal as fast as possible.[speedrun.com](http://www.speedrun.com/) "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/speedrun"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 3
+subscribers: 9
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
+| Subscribers          | 9 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 16:47:03 |
 | Updated              | 2023-06-06 16:47:16 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:37:02 |

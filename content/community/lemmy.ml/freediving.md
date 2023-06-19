@@ -3,7 +3,7 @@ title: "Freediving"
 name: "freediving"
 description: "Freediving: the art of diving in one breath. Share your experiences, questions and videos!"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freediving"
@@ -54,4 +54,4 @@ Freediving: the art of diving in one breath. Share your experiences, questions a
 |----------------------|---|
 | Published            | 2020-06-29 09:23:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

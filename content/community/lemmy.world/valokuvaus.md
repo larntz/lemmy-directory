@@ -3,7 +3,7 @@ title: "Valokuvaus"
 name: "valokuvaus"
 description: "Keskusteluryhmä valokuvista ja valokuvauksesta, sekä kuvankäsittelystä suomeksi"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/valokuvaus"
@@ -54,4 +54,4 @@ Keskusteluryhmä valokuvista ja valokuvauksesta, sekä kuvankäsittelystä suome
 |----------------------|---|
 | Published            | 2023-06-14 22:35:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,19 +3,19 @@ title: "XBOX"
 name: "xbox"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xbox"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 687
-posts: 27
-comments: 133
-weight: 27
-dau: 12
-wau: 68
-mau: 69
+subscribers: 791
+posts: 28
+comments: 140
+weight: 28
+dau: 2
+wau: 59
+mau: 73
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 687 |
-| Posts                | 27  |
-| Comments             | 133  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 68  |
-| Monthly Active Users | 69  |
+| Subscribers          | 791 |
+| Posts                | 28  |
+| Comments             | 140  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 59  |
+| Monthly Active Users | 73  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 07:33:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

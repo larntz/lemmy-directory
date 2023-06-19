@@ -3,16 +3,16 @@ title: "Gifs"
 name: "gifs"
 description: "It's pronounced Gif- Keep it civil- NSFW not allowed**How do I post gifs?**- Upload your gifs to a PixelFed instance- Post the link here!**How do I join a PixelFed instance?**- [PixelFed Servers](https://pixelfed.org/servers)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/gifs"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 92
-posts: 36
-comments: 10
-weight: 36
+subscribers: 115
+posts: 40
+comments: 11
+weight: 40
 dau: 2
 wau: 8
 mau: 8
@@ -41,9 +41,9 @@ It's pronounced Gif<br><br>- Keep it civil<br>- NSFW not allowed<br><br>**How do
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 36  |
-| Comments             | 10  |
+| Subscribers          | 115 |
+| Posts                | 40  |
+| Comments             | 11  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 8  |
 | Monthly Active Users | 8  |
@@ -54,4 +54,4 @@ It's pronounced Gif<br><br>- Keep it civil<br>- NSFW not allowed<br><br>**How do
 |----------------------|---|
 | Published            | 2023-06-12 13:43:19 |
 | Updated              | 2023-06-13 01:19:01 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

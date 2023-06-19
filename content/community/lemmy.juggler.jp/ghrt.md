@@ -3,7 +3,7 @@ title: "GitHub release tracker"
 name: "ghrt"
 description: "tateisuが追跡しているGitHub Release"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/ghrt"
@@ -54,4 +54,4 @@ tateisuが追跡しているGitHub Release
 |----------------------|---|
 | Published            | 2021-03-09 11:00:45 |
 | Updated              | 2022-01-18 23:39:42 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,7 +3,7 @@ title: "Ducks"
 name: "ducks"
 description: "DUCKS!!"
 type: community
-date: "2023-06-16 22:56:17"
+date: "2023-06-19 11:35:19"
 draft: false
 nsfw: false
 actor_id: "https://mylem.my/c/ducks"
@@ -54,4 +54,4 @@ DUCKS!!
 |----------------------|---|
 | Published            | 2023-06-13 02:09:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:17 |
+| Last Scraped         | 2023-06-19 11:35:19 |

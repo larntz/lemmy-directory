@@ -3,13 +3,13 @@ title: "post wzrost"
 name: "degrowth"
 description: "Miejsce dla różnych postwzrostowych / degrowth rzeczy, w tym sensownej krytyki"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/degrowth"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 30
 posts: 9
 comments: 3
 weight: 9
@@ -41,7 +41,7 @@ Miejsce dla różnych postwzrostowych / degrowth rzeczy, w tym sensownej krytyki
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 30 |
 | Posts                | 9  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Miejsce dla różnych postwzrostowych / degrowth rzeczy, w tym sensownej krytyki
 |----------------------|---|
 | Published            | 2021-10-14 13:04:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

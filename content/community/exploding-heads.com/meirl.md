@@ -3,13 +3,13 @@ title: "meirl"
 name: "meirl"
 description: "Basically ironic posts of yourself in real life"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/meirl"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 27
 weight: 1
@@ -41,7 +41,7 @@ Basically ironic posts of yourself in real life
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 27  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Basically ironic posts of yourself in real life
 |----------------------|---|
 | Published            | 2023-06-02 10:39:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

@@ -3,13 +3,13 @@ title: "blogging"
 name: "blogging"
 description: "Promote your Blogs here and discuss your blogging experiences. Rules:- Never mention the Blogosphere"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/blogging"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Promote your Blogs here and discuss your blogging experiences. <br><br>Rules:<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Promote your Blogs here and discuss your blogging experiences. <br><br>Rules:<br
 |----------------------|---|
 | Published            | 2023-06-14 22:13:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

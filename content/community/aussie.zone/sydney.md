@@ -3,19 +3,19 @@ title: "Sydney"
 name: "sydney"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/sydney"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 139
-posts: 5
-comments: 44
-weight: 5
-dau: 9
-wau: 21
-mau: 21
+subscribers: 181
+posts: 11
+comments: 87
+weight: 11
+dau: 12
+wau: 33
+mau: 39
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
-| Posts                | 5  |
-| Comments             | 44  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Subscribers          | 181 |
+| Posts                | 11  |
+| Comments             | 87  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 39  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 02:20:17 |
-| Updated              | 2023-06-10 07:14:49 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:28:44 |
+| Last Scraped         | 2023-06-19 11:35:06 |

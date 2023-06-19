@@ -3,13 +3,13 @@ title: "Pathfinder 1e General Discussion"
 name: "pf1general"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf1general"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 28
 posts: 2
 comments: 5
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 28 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 17:07:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

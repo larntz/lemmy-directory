@@ -3,7 +3,7 @@ title: "Waffle"
 name: "waffle"
 description: "A meme community focused on the waffled meme appearing on Youtube.The meme involves a certain video of a waffle falling over with a random unsuspecting character falling victim to the falling waffle.This is a non-serious community, waffle-related posts are also welcomed."
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waffle"
@@ -14,7 +14,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_burger_rodeo"
@@ -45,7 +45,7 @@ A meme community focused on the waffled meme appearing on Youtube.<br><br>The me
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A meme community focused on the waffled meme appearing on Youtube.<br><br>The me
 |----------------------|---|
 | Published            | 2023-06-11 05:11:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

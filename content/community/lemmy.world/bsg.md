@@ -3,13 +3,13 @@ title: "Battlestar Galactica"
 name: "bsg"
 description: "For discussion of the original 1978 series, the reimagined series of the 2000s, and other related shows and content.Rules:1. Be respectful.2. Please avoid spoilers in post titles and mention if your post or comment will have spoilers.3. No porn, ads, or spamming."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bsg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 29
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ For discussion of the original 1978 series, the reimagined series of the 2000s, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 29 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussion of the original 1978 series, the reimagined series of the 2000s, 
 |----------------------|---|
 | Published            | 2023-06-11 18:15:54 |
 | Updated              | 2023-06-11 18:22:37 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

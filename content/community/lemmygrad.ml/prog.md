@@ -3,13 +3,13 @@ title: "Programming, hacking, development"
 name: "prog"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/prog"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 81
 posts: 5
 comments: 26
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 81 |
 | Posts                | 5  |
 | Comments             | 26  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-28 00:39:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

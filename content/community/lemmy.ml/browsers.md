@@ -3,19 +3,19 @@ title: "Browsers"
 name: "browsers"
 description: "# About Community This is the community to discuss about browsers. # Browsers List**_Open Source browsers_**- [Beaker Browser](https://beakerbrowser.com/)- [Brave Browser](https://brave.com/)- [Firefox Browser](https://www.mozilla.org/firefox/new/)**_Closed Source browsers_**- [Vivaldi](https://vivaldi.com/)- [Microsoft Edge](https://www.microsoft.com/en-us/edge)- [Opera](https://www.opera.com/) - [Chrome](https://www.google.com/intl/en_ca/chrome/) (Not recommended)*_List will be updated_*"
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/browsers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 349
+subscribers: 355
 posts: 30
-comments: 226
+comments: 228
 weight: 30
 dau: 1
-wau: 1
-mau: 2
+wau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 349 |
+| Subscribers          | 355 |
 | Posts                | 30  |
-| Comments             | 226  |
+| Comments             | 228  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-02-26 00:22:40 |
 | Updated              | 2021-02-26 14:55:04 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:55 |

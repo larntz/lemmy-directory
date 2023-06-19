@@ -3,19 +3,19 @@ title: "PCGaming"
 name: "pcgaming"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pcgaming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 189
-posts: 4
-comments: 2
-weight: 4
-dau: 1
-wau: 5
-mau: 5
+subscribers: 270
+posts: 5
+comments: 8
+weight: 5
+dau: 3
+wau: 8
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 189 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 270 |
+| Posts                | 5  |
+| Comments             | 8  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 22:01:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Updated              | 2023-06-17 02:50:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

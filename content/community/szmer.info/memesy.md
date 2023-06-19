@@ -3,19 +3,19 @@ title: "memesy"
 name: "memesy"
 description: "miejsce na śmieszne obrazki opatrzone tekstem"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/memesy"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 350
-posts: 3931
-comments: 1844
-weight: 3931
-dau: 4
-wau: 11
-mau: 21
+subscribers: 357
+posts: 3949
+comments: 1863
+weight: 3949
+dau: 9
+wau: 15
+mau: 23
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ miejsce na śmieszne obrazki opatrzone tekstem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 350 |
-| Posts                | 3931  |
-| Comments             | 1844  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 21  |
+| Subscribers          | 357 |
+| Posts                | 3949  |
+| Comments             | 1863  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ miejsce na śmieszne obrazki opatrzone tekstem
 |----------------------|---|
 | Published            | 2020-06-26 20:49:58 |
 | Updated              | 2021-03-11 17:39:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

@@ -3,16 +3,16 @@ title: "Fairfax County, Virginia"
 name: "fairfaxcounty_va"
 description: "A community for Fairfax CountyA few rules for this community:- Don’t be a jerk! This isn’t the place for bigotry, provoking users, name-calling, inciting harm, harassing others, spreading malicious misinformation, and other foul behavior.- No unlawful content. We’re not looking to get in trouble.- Don’t share other’s personal information. This includes names, addresses, contact information, and private data.- Keep it “generally SFW”. Rule of thumb: if you’re willing to view it on your phone at the office, it’s probably okay.- Let’s keep it light and fun!Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/fairfaxcounty_va"
 host: dmv.social
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 7
+subscribers: 8
+posts: 8
 comments: 0
-weight: 7
+weight: 8
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community for Fairfax County<br><br>A few rules for this community:<br><br>- D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 7  |
+| Subscribers          | 8 |
+| Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community for Fairfax County<br><br>A few rules for this community:<br><br>- D
 |----------------------|---|
 | Published            | 2023-06-12 14:40:46 |
 | Updated              | 2023-06-14 19:20:24 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

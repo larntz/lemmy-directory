@@ -3,19 +3,19 @@ title: "Stardew Valley"
 name: "stardewvalley"
 description: "All things Stardew Valley."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stardewvalley"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 264
-posts: 8
-comments: 30
-weight: 8
-dau: 9
-wau: 25
-mau: 25
+subscribers: 316
+posts: 9
+comments: 35
+weight: 9
+dau: 6
+wau: 28
+mau: 31
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All things Stardew Valley.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 264 |
-| Posts                | 8  |
-| Comments             | 30  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 25  |
+| Subscribers          | 316 |
+| Posts                | 9  |
+| Comments             | 35  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 31  |
 
 <br>
 
@@ -54,4 +54,4 @@ All things Stardew Valley.
 |----------------------|---|
 | Published            | 2022-06-01 16:08:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:56 |

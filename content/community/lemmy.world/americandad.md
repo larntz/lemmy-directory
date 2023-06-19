@@ -3,13 +3,13 @@ title: "American Dad"
 name: "americandad"
 description: "Welcome Dadders!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/americandad"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 12
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Welcome Dadders!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 12 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome Dadders!
 |----------------------|---|
 | Published            | 2023-06-12 20:38:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

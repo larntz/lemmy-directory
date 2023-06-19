@@ -3,7 +3,7 @@ title: "cfb"
 name: "cfb"
 description: "CFB content for sad people"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cfb"
@@ -54,4 +54,4 @@ CFB content for sad people
 |----------------------|---|
 | Published            | 2023-06-09 14:29:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:37:02 |

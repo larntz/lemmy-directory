@@ -3,19 +3,19 @@ title: "Powerlifting"
 name: "powerlifting"
 description: "Step into the world of strength, performance, and determination. This community is a hub for powerlifters of all levels, from beginners to seasoned competitors, to come together and share their passion for the iron sport.🏋️\u200d♀️ Lift Strong: Join us in celebrating the art of powerlifting. Whether you're focused on squats, bench presses, deadlifts, or all three, this community is your platform to discuss techniques, training strategies, and personal achievements. Share your PRs, seek advice, and inspire others to reach new heights.💪 Support and Encouragement: Find a supportive network of fellow powerlifters who understand the challenges and triumphs that come with the sport. Share your progress, exchange training tips, and engage in positive discussions that will keep your motivation levels high.📚 Knowledge Exchange: Dive into the wealth of knowledge surrounding powerlifting. From nutrition and supplementation to programming and recovery, there's always something new to learn. Ask questions, share research, and explore the science behind strength development.🏆 Competition and Meet Preparation: Prepare for powerlifting meets and discuss strategies to maximize your performance on the platform. Learn from experienced competitors, share your meet experiences, and cheer each other on during competitions.🔥 Strength Beyond the Gym: Explore the impact of powerlifting on various aspects of life, including mental resilience, self-discipline, and goal-setting. Share personal stories, insights, and advice on how powerlifting can positively influence your journey both inside and outside the gym.💬 Community Connections: Connect with powerlifters from all around the world who share your passion. Build friendships, find training partners, and create a support network that will accompany you on your powerlifting journey.Whether you're a beginner seeking guidance or an experienced lifter looking to share your wisdom, this community is the place for you. Together, let's embrace the challenges, celebrate the victories, and push the boundaries of strength in the world of powerlifting!"
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/powerlifting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 6
+subscribers: 19
+posts: 5
 comments: 2
-weight: 6
+weight: 5
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Step into the world of strength, performance, and determination. This community 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 6  |
+| Subscribers          | 19 |
+| Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Step into the world of strength, performance, and determination. This community 
 |----------------------|---|
 | Published            | 2023-06-06 22:24:47 |
 | Updated              | 2023-06-10 18:06:52 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:57 |

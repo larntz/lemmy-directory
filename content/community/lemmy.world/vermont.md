@@ -3,18 +3,18 @@ title: "Vermont"
 name: "vermont"
 description: "All things related to the awesome state of Vermont!"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vermont"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 34
 posts: 3
 comments: 8
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ All things related to the awesome state of Vermont!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 34 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ All things related to the awesome state of Vermont!
 |----------------------|---|
 | Published            | 2023-06-10 16:15:05 |
 | Updated              | 2023-06-10 17:08:44 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

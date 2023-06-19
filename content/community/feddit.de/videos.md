@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/videos"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-10-02 07:18:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

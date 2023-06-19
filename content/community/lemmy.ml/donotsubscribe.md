@@ -3,7 +3,7 @@ title: "Do Not Subscribe to this Community"
 name: "donotsubscribe"
 description: "Do not read this sidebar. Read the post.This is just a troll community. Hopefully, the admins wont delete this. LOL"
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/donotsubscribe"
@@ -54,4 +54,4 @@ Do not read this sidebar. Read the post.<br><br><br>This is just a troll communi
 |----------------------|---|
 | Published            | 2021-09-15 04:23:04 |
 | Updated              | 2021-09-20 08:36:21 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:45 |

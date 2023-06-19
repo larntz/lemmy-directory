@@ -3,18 +3,18 @@ title: "football"
 name: "football"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/football"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 140
-posts: 21
+subscribers: 142
+posts: 22
 comments: 14
-weight: 21
+weight: 22
 dau: 1
-wau: 7
+wau: 4
 mau: 10
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 140 |
-| Posts                | 21  |
+| Subscribers          | 142 |
+| Posts                | 22  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-11-28 11:12:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

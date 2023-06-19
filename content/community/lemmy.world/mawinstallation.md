@@ -3,13 +3,13 @@ title: "Maw Installation - Star Wars Discussion"
 name: "mawinstallation"
 description: "A place for in-depth, in-universe discussions of the Star Wars universe.- Both Canon and Legends can be discussed. Conversations can be about all forms of media. - Keep a mature, polite, academic style tone to discussions. Put effort into both topics and responses. No memes, no low effort posts, cite your sources if possible. - Be mindful of spoilers and mark them accordingly. - No bashing. Opinions should be respectful if they hold a place in the conversation. "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mawinstallation"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for in-depth, in-universe discussions of the Star Wars universe.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 23 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for in-depth, in-universe discussions of the Star Wars universe.<br><br>
 |----------------------|---|
 | Published            | 2023-06-15 02:50:05 |
 | Updated              | 2023-06-15 03:19:09 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

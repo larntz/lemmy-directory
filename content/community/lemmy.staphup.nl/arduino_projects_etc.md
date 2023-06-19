@@ -3,13 +3,13 @@ title: "Arduino and other electronics projects info"
 name: "arduino_projects_etc"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/arduino_projects_etc"
 host: lemmy.staphup.nl
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-05-29 09:57:06 |
 | Updated              | 2023-05-31 22:31:03 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

@@ -3,13 +3,13 @@ title: "Straight Girls Playing "
 name: "straightgirlsplaying"
 description: "An alternative to r/straightgirlsplaying. Posts must contain relevant content. Do not violate any sitewide rules. For similar content visit [lesbians](https://lemmynsfw.com/c/lesbians), [girlskissing](https://lemmynsfw.com/c/girlskissing)"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/straightgirlsplaying"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 118
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ An alternative to r/straightgirlsplaying. Posts must contain relevant content. D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 118 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ An alternative to r/straightgirlsplaying. Posts must contain relevant content. D
 |----------------------|---|
 | Published            | 2023-06-14 23:23:26 |
 | Updated              | 2023-06-15 04:52:43 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

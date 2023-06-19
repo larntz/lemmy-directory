@@ -3,13 +3,13 @@ title: "Philippines"
 name: "philippines"
 description: "PH-based community for casual conversations, commentary and discussions.## Rules1. Self-promotion posts or comments that contain affiliate links will be removed without warning.2. Links in posts or comments that use “URL shorteners” (e.g. bit.ly, etc.) will be removed without warning.## Dos and don'ts1. Don't post links to websites that need any user information in order to view content (e.g. non-public Facebook posts, paywalled websites)2. Don't be a jerk. Communication through writing can be easily misinterpreted. Always assume good intent.3. Downvotes don't mean dislike! Please avoid voting if content is something you disagree with. Downvoting should be reserved to content or comments that are not related to the post or the community!4. Do cite sources. 5. Do report any post or comment that violates Lemmy's rules."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/philippines"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 11
 comments: 6
 weight: 11
@@ -41,7 +41,7 @@ PH-based community for casual conversations, commentary and discussions.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 11  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ PH-based community for casual conversations, commentary and discussions.<br><br>
 |----------------------|---|
 | Published            | 2020-06-28 02:46:00 |
 | Updated              | 2023-06-12 03:29:59 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,16 +3,16 @@ title: "Plex"
 name: "plex"
 description: "Welcome to Plex, a community dedicated to Plex, the media server/client solution for enjoying your media!"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/plex"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 552
-posts: 10
-comments: 126
-weight: 10
+subscribers: 694
+posts: 11
+comments: 138
+weight: 11
 dau: 16
 wau: 45
 mau: 45
@@ -41,9 +41,9 @@ Welcome to Plex, a community dedicated to Plex, the media server/client solution
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 552 |
-| Posts                | 10  |
-| Comments             | 126  |
+| Subscribers          | 694 |
+| Posts                | 11  |
+| Comments             | 138  |
 | Daily Active Users   | 16  |
 | Weekly Active Users  | 45  |
 | Monthly Active Users | 45  |
@@ -54,4 +54,4 @@ Welcome to Plex, a community dedicated to Plex, the media server/client solution
 |----------------------|---|
 | Published            | 2023-06-12 17:36:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

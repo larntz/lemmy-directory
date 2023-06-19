@@ -3,19 +3,19 @@ title: "BudgetKeebs"
 name: "budgetkeebs"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/budgetkeebs"
 host: seemel.ink
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 3
+subscribers: 16
+posts: 5
 comments: 4
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+weight: 5
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "seemel_ink"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
+| Subscribers          | 16 |
+| Posts                | 5  |
 | Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 17:08:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Updated              | 2023-06-18 22:14:38 |
+| Last Scraped         | 2023-06-19 11:35:14 |

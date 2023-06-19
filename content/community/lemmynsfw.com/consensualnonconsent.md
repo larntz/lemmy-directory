@@ -3,19 +3,19 @@ title: "Consensual Non-Consent"
 name: "consensualnonconsent"
 description: "ncnc or cc will be deleted, only cnc, tyvm.follow the rules of lemmynsfw.comotherwise I don't have any other rule, let me know if you want more rules."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/consensualnonconsent"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 168
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 277
+posts: 1
+comments: 2
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ ncnc or cc will be deleted, only cnc, tyvm.<br><br>follow the rules of lemmynsfw
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 168 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 277 |
+| Posts                | 1  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ ncnc or cc will be deleted, only cnc, tyvm.<br><br>follow the rules of lemmynsfw
 |----------------------|---|
 | Published            | 2023-06-12 23:26:07 |
 | Updated              | 2023-06-12 23:28:51 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

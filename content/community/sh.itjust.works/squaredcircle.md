@@ -3,16 +3,16 @@ title: "SquaredCircle"
 name: "squaredcircle"
 description: "All wrestling from all walks of the world. "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/squaredcircle"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 105
-posts: 4
-comments: 12
-weight: 4
+subscribers: 121
+posts: 5
+comments: 20
+weight: 5
 dau: 1
 wau: 7
 mau: 7
@@ -41,9 +41,9 @@ All wrestling from all walks of the world. <br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 105 |
-| Posts                | 4  |
-| Comments             | 12  |
+| Subscribers          | 121 |
+| Posts                | 5  |
+| Comments             | 20  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ All wrestling from all walks of the world. <br><br>
 |----------------------|---|
 | Published            | 2023-06-08 22:53:03 |
 | Updated              | 2023-06-08 23:08:17 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

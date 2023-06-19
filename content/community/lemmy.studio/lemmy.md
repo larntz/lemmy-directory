@@ -3,19 +3,19 @@ title: "Lemmy"
 name: "lemmy"
 description: "Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc."
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/lemmy"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 35
-posts: 10
-comments: 63
-weight: 10
-dau: 2
-wau: 17
-mau: 22
+subscribers: 40
+posts: 12
+comments: 84
+weight: 12
+dau: 8
+wau: 20
+mau: 27
 instances:
 - "lemmy_studio"
 tags: 
@@ -41,12 +41,12 @@ Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 10  |
-| Comments             | 63  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 22  |
+| Subscribers          | 40 |
+| Posts                | 12  |
+| Comments             | 84  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc.
 |----------------------|---|
 | Published            | 2023-06-05 19:33:32 |
 | Updated              | 2023-06-08 17:31:46 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

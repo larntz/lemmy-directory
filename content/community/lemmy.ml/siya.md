@@ -3,7 +3,7 @@ title: "Siya Project"
 name: "siya"
 description: ""
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/siya"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-05-31 16:43:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:54 |

@@ -3,13 +3,13 @@ title: "Witze"
 name: "witze"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/witze"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 20
 posts: 5
 comments: 7
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 20 |
 | Posts                | 5  |
 | Comments             | 7  |
 | Daily Active Users   | 7  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 00:48:16 |
 | Updated              | 2023-06-15 22:36:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

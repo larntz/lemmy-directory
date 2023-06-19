@@ -3,16 +3,16 @@ title: "streetart i wrzuty"
 name: "wrzuty"
 description: "Do publikowania ciekawych zdjęć z ulicy."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wrzuty"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 145
+subscribers: 65
+posts: 146
 comments: 54
-weight: 145
+weight: 146
 dau: 1
 wau: 1
 mau: 9
@@ -41,8 +41,8 @@ Do publikowania ciekawych zdjęć z ulicy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 145  |
+| Subscribers          | 65 |
+| Posts                | 146  |
 | Comments             | 54  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Do publikowania ciekawych zdjęć z ulicy.
 |----------------------|---|
 | Published            | 2021-07-26 12:05:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

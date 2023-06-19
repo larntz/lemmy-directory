@@ -3,19 +3,19 @@ title: "Chloë Grace Moretz"
 name: "chloegracemoretz"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/chloegracemoretz"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 0
+subscribers: 28
+posts: 5
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 5
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 0  |
+| Subscribers          | 28 |
+| Posts                | 5  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 00:52:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Updated              | 2023-06-18 14:01:24 |
+| Last Scraped         | 2023-06-19 11:35:46 |

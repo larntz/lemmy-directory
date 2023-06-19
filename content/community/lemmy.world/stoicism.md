@@ -3,19 +3,19 @@ title: "Stoicism"
 name: "stoicism"
 description: "Stoicism is a school of Hellenistic philosophy founded by Zeno of Citium in Athens in the early 3rd century BC. It is a philosophy of personal virtue ethics informed by its system of logic and its views on the natural world, asserting that the practice of virtue is both necessary and sufficient to achieve eudaimonia (happiness, lit.\u2009'good spiritedness')."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stoicism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 53
-posts: 2
-comments: 1
-weight: 2
-dau: 2
-wau: 2
-mau: 2
+subscribers: 77
+posts: 5
+comments: 3
+weight: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Stoicism is a school of Hellenistic philosophy founded by Zeno of Citium in Athe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 77 |
+| Posts                | 5  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Stoicism is a school of Hellenistic philosophy founded by Zeno of Citium in Athe
 |----------------------|---|
 | Published            | 2023-06-12 08:14:21 |
 | Updated              | 2023-06-12 12:20:28 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

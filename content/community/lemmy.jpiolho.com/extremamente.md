@@ -3,16 +3,16 @@ title: "Extremamente Desagradável"
 name: "extremamente"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/extremamente"
 host: lemmy.jpiolho.com
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 5
+posts: 7
 comments: 1
-weight: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 5  |
+| Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 08:19:59 |
 | Updated              | 2023-06-11 08:20:08 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

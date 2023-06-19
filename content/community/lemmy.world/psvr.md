@@ -3,19 +3,19 @@ title: "Playstation VR and PSVR2"
 name: "psvr"
 description: "A community for enthusiasts of the virtual reality headsets for Playstation 4 and 5, PSVR and PSVR2"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/psvr"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 10
-comments: 3
-weight: 10
-dau: 2
-wau: 4
-mau: 4
+subscribers: 50
+posts: 13
+comments: 4
+weight: 13
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for enthusiasts of the virtual reality headsets for Playstation 4 an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 10  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 50 |
+| Posts                | 13  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for enthusiasts of the virtual reality headsets for Playstation 4 an
 |----------------------|---|
 | Published            | 2023-06-13 09:18:37 |
 | Updated              | 2023-06-13 09:54:14 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

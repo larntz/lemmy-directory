@@ -3,16 +3,16 @@ title: "Discotheque(st)"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.discothe.quest/c/main"
 host: lemmy.discothe.quest
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 3
 comments: 0
-weight: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ The Default Community
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2023-06-15 10:27:18 |
 | Updated              | 2023-06-16 20:00:46 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

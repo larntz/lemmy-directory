@@ -3,17 +3,17 @@ title: "stargate"
 name: "stargate"
 description: "A place to discuss and post about the Sci-Fi tv series Stargate, Stargate Atlantis and other versions of the series."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/stargate"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 40
-posts: 4
-comments: 17
-weight: 4
-dau: 2
+subscribers: 84
+posts: 7
+comments: 35
+weight: 7
+dau: 1
 wau: 9
 mau: 9
 instances:
@@ -41,10 +41,10 @@ A place to discuss and post about the Sci-Fi tv series Stargate, Stargate Atlant
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
-| Posts                | 4  |
-| Comments             | 17  |
-| Daily Active Users   | 2  |
+| Subscribers          | 84 |
+| Posts                | 7  |
+| Comments             | 35  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
 
@@ -54,4 +54,4 @@ A place to discuss and post about the Sci-Fi tv series Stargate, Stargate Atlant
 |----------------------|---|
 | Published            | 2023-06-13 20:12:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,15 +3,15 @@ title: "Early Film and Television"
 name: "old_tv"
 description: "Early Film and Television preservation, discussion, reviews, watching parties, downloads, etc. "
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/old_tv"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 34
 posts: 8
-comments: 1
+comments: 2
 weight: 8
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Early Film and Television preservation, discussion, reviews, watching parties, d
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 34 |
 | Posts                | 8  |
-| Comments             | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Early Film and Television preservation, discussion, reviews, watching parties, d
 |----------------------|---|
 | Published            | 2021-09-17 11:59:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:56 |

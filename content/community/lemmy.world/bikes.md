@@ -3,19 +3,19 @@ title: "Bikes"
 name: "bikes"
 description: "Just keep pedaling!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bikes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 71
 posts: 4
-comments: 9
+comments: 10
 weight: 4
-dau: 2
-wau: 5
-mau: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Just keep pedaling!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 71 |
 | Posts                | 4  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 10  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Just keep pedaling!
 |----------------------|---|
 | Published            | 2023-06-12 04:34:11 |
 | Updated              | 2023-06-12 04:43:45 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

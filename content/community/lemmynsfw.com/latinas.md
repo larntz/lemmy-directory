@@ -3,13 +3,13 @@ title: "Latinas"
 name: "latinas"
 description: "Alternative to r/latinas. Posts must feature latina porn, pics, etc. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latinas"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 83
+subscribers: 131
 posts: 2
 comments: 0
 weight: 2
@@ -43,7 +43,7 @@ Alternative to r/latinas. Posts must feature latina porn, pics, etc. Do not viol
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 83 |
+| Subscribers          | 131 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Alternative to r/latinas. Posts must feature latina porn, pics, etc. Do not viol
 |----------------------|---|
 | Published            | 2023-06-14 10:28:08 |
 | Updated              | 2023-06-14 23:38:06 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

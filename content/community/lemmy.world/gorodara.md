@@ -3,7 +3,7 @@ title: "ごろごろだらだら天国"
 name: "gorodara"
 description: "ごろごろ、だらだら、楽に生きればいい♪"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gorodara"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 08:26:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:40 |

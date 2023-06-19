@@ -3,13 +3,13 @@ title: "Azores"
 name: "azores"
 description: "Discuss the Azores (Mid-Atlantic Islands) in English"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/azores"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Discuss the Azores (Mid-Atlantic Islands) in English
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discuss the Azores (Mid-Atlantic Islands) in English
 |----------------------|---|
 | Published            | 2023-06-10 21:13:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,19 +3,19 @@ title: "Mobilität der Zukunft"
 name: "mobilitaet"
 description: "Hier geht es um alles rund um umweltfreundliche und sozialverträgliche Mobilität."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mobilitaet"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 226
-posts: 17
-comments: 61
-weight: 17
+subscribers: 246
+posts: 19
+comments: 67
+weight: 19
 dau: 2
-wau: 10
-mau: 14
+wau: 13
+mau: 24
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Hier geht es um alles rund um umweltfreundliche und sozialverträgliche Mobilit�
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 226 |
-| Posts                | 17  |
-| Comments             | 61  |
+| Subscribers          | 246 |
+| Posts                | 19  |
+| Comments             | 67  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ Hier geht es um alles rund um umweltfreundliche und sozialverträgliche Mobilit�
 |----------------------|---|
 | Published            | 2022-01-04 11:03:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

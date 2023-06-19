@@ -3,18 +3,18 @@ title: "microgrowery"
 name: "microgrowery"
 description: "Place for small-scale personal use cannabis growers"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/microgrowery"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 37
 posts: 6
 comments: 32
 weight: 6
 dau: 1
-wau: 7
+wau: 5
 mau: 7
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Place for small-scale personal use cannabis growers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 37 |
 | Posts                | 6  |
 | Comments             | 32  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 5  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Place for small-scale personal use cannabis growers
 |----------------------|---|
 | Published            | 2023-06-09 23:22:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

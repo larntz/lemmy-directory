@@ -3,13 +3,13 @@ title: "Frutiger Aero"
 name: "frutiger_aero"
 description: "A community dedicated to the glossy, glassy aesthetic of the 2000s, Frutiger Aero[What is Frutiger Aero?](https://aesthetics.fandom.com/wiki/Frutiger_Aero)Also check out: [Y2K Aesthetics](/c/y2k@sopuli.xyz), a community dedicated to Frutiger Aero's precursor aesthetic"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/frutiger_aero"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ A community dedicated to the glossy, glassy aesthetic of the 2000s, Frutiger Aer
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community dedicated to the glossy, glassy aesthetic of the 2000s, Frutiger Aer
 |----------------------|---|
 | Published            | 2023-03-06 01:48:32 |
 | Updated              | 2023-06-12 09:24:36 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:32 |

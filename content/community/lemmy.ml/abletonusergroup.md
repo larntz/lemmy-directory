@@ -3,7 +3,7 @@ title: "Ableton User Group"
 name: "abletonusergroup"
 description: "Ableton community meant for asking questions, sharing advice, and collectively improving our knowledge.Not for self promotion.This is not an official Ableton page."
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abletonusergroup"
@@ -54,4 +54,4 @@ Ableton community meant for asking questions, sharing advice, and collectively i
 |----------------------|---|
 | Published            | 2023-06-03 20:25:02 |
 | Updated              | 2023-06-05 19:50:20 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:37:00 |

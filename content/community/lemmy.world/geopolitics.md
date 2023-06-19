@@ -3,19 +3,19 @@ title: "Geopolitics"
 name: "geopolitics"
 description: "A discussion of geopolitical trends from history and today.geopolitics(jē″ō-pŏl′ĭ-tĭks)*noun*    The study of the relationship among politics and geography, demography, and economics, especially with respect to the foreign policy of a nation.--"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geopolitics"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 5
-comments: 1
-weight: 5
-dau: 2
-wau: 2
-mau: 2
+subscribers: 39
+posts: 14
+comments: 2
+weight: 14
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A discussion of geopolitical trends from history and today.<br><br>geopolitics<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 39 |
+| Posts                | 14  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A discussion of geopolitical trends from history and today.<br><br>geopolitics<b
 |----------------------|---|
 | Published            | 2023-06-13 09:31:00 |
 | Updated              | 2023-06-13 09:52:54 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

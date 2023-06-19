@@ -3,19 +3,19 @@ title: "ROM Hacking"
 name: "romhacking"
 description: "Welcome to **ROM Hacking**! A Lemmy community dedicated to the art of hacked ROMs, translations, graphical swaps, bug fixes and other classic game patching!**Rules:**- Respect all users. - No download links to copyrighted ROMs, patches must be shared in IPS or similar formats. - If sharing your own Patreon/fundraiser for a ROM hacking project, please contact the mods beforehand for verification. - Homebrew titles for classic consoles are currently allowed, as Lemmy communities grow we might move this to another place in the future. - No fan games with copyrighted assets (sorry!)Happy gaming! "
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/romhacking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 29
+posts: 2
+comments: 1
+weight: 2
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to **ROM Hacking**! A Lemmy community dedicated to the art of hacked ROM
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 29 |
+| Posts                | 2  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to **ROM Hacking**! A Lemmy community dedicated to the art of hacked ROM
 |----------------------|---|
 | Published            | 2023-06-12 13:52:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

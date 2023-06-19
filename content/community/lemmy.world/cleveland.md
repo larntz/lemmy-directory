@@ -3,19 +3,19 @@ title: "All about Cleveland, Ohio"
 name: "cleveland"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cleveland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 34
-posts: 4
-comments: 5
-weight: 4
-dau: 3
-wau: 5
-mau: 7
+subscribers: 42
+posts: 5
+comments: 11
+weight: 5
+dau: 2
+wau: 10
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 4  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 7  |
+| Subscribers          | 42 |
+| Posts                | 5  |
+| Comments             | 11  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 17:47:17 |
 | Updated              | 2023-06-09 17:56:52 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

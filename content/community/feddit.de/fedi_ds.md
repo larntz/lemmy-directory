@@ -3,7 +3,7 @@ title: "Datenschutz im Fediverse"
 name: "fedi_ds"
 description: "Materialsammlung und Diskussion zur Umsetzung von Datenschutzvorgaben beim Entwickeln und Betreiben [föderierter Dienste](https://de.wikipedia.org/wiki/Fediverse).Aufgrund der Verbreitung, Fokus auf [Mastodon](https://joinmastodon.org/de), aber Beiträge zu anderen Diensten sind ebenso willkommen."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fedi_ds"
@@ -54,4 +54,4 @@ Materialsammlung und Diskussion zur Umsetzung von Datenschutzvorgaben beim Entwi
 |----------------------|---|
 | Published            | 2022-11-08 19:46:25 |
 | Updated              | 2022-11-23 22:10:35 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

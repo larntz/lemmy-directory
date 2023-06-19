@@ -3,15 +3,15 @@ title: "Ask A Russian"
 name: "askarussian"
 description: "All these questions to russians you wanted to ask!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askarussian"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 25
 posts: 2
-comments: 3
+comments: 4
 weight: 2
 dau: 1
 wau: 5
@@ -41,9 +41,9 @@ All these questions to russians you wanted to ask!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 25 |
 | Posts                | 2  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ All these questions to russians you wanted to ask!
 |----------------------|---|
 | Published            | 2023-06-12 16:18:15 |
 | Updated              | 2023-06-12 16:19:48 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

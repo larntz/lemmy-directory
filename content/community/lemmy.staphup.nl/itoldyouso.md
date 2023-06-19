@@ -3,7 +3,7 @@ title: "Stuff what turns out to be(come) reality"
 name: "itoldyouso"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/itoldyouso"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-18 08:13:24 |
 | Updated              | 2023-04-18 08:24:41 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

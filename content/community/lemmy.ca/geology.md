@@ -3,16 +3,16 @@ title: "Geology"
 name: "geology"
 description: "For all things geology, including serious discussions, memes, field photos, rockhound questions, and more. See also: [Mining](/c/mining@lemmy.ca), [Geophysics](/c/geophysics@lemmy.ca),  [Geology Careers](/c/geologycareers@lemmy.ca), and [!earthscience@mander.xyz](/c/earthscience@mander.xyz)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/geology"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 27
-posts: 8
-comments: 0
-weight: 8
+subscribers: 52
+posts: 10
+comments: 3
+weight: 10
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ For all things geology, including serious discussions, memes, field photos, rock
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 8  |
-| Comments             | 0  |
+| Subscribers          | 52 |
+| Posts                | 10  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ For all things geology, including serious discussions, memes, field photos, rock
 |----------------------|---|
 | Published            | 2023-06-12 04:21:59 |
 | Updated              | 2023-06-14 17:50:58 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

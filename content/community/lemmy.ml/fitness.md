@@ -3,13 +3,13 @@ title: "Fitness and Health"
 name: "fitness"
 description: "Give each other support and share their programs, progress and tips. Cardio or lifting. Sports or gymnastics we are all on a journey to improve.Also we have heaps of tech that help us track our fitness metrics, so feel free to discuss the tools you use.Everyone has a bad day now and then, just try again.Also check out:- /c/hiking- /c/bicycling- /c/motivation"
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fitness"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 153
+subscribers: 155
 posts: 21
 comments: 21
 weight: 21
@@ -41,7 +41,7 @@ Give each other support and share their programs, progress and tips. Cardio or l
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 153 |
+| Subscribers          | 155 |
 | Posts                | 21  |
 | Comments             | 21  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Give each other support and share their programs, progress and tips. Cardio or l
 |----------------------|---|
 | Published            | 2020-05-28 03:24:25 |
 | Updated              | 2020-06-04 03:17:16 |
-| Last Scraped         | 2023-06-16 22:57:29 |
+| Last Scraped         | 2023-06-19 11:36:48 |

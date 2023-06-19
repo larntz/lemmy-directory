@@ -3,13 +3,13 @@ title: "Techlore"
 name: "techlore"
 description: "Techlore is a source of awareness and advocacy for spreading privacy and security to the masses. We manage several communities, projects, and other content to fight for a more private world."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techlore"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Techlore is a source of awareness and advocacy for spreading privacy and securit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Techlore is a source of awareness and advocacy for spreading privacy and securit
 |----------------------|---|
 | Published            | 2020-12-30 10:16:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

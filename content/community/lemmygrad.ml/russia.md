@@ -3,19 +3,19 @@ title: "Russia"
 name: "russia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/russia"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 158
-posts: 28
+subscribers: 161
+posts: 29
 comments: 31
-weight: 28
+weight: 29
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 158 |
-| Posts                | 28  |
+| Subscribers          | 161 |
+| Posts                | 29  |
 | Comments             | 31  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-01 20:38:27 |
 | Updated              | 2022-03-01 20:42:47 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,15 +3,15 @@ title: "CCG"
 name: "ccg"
 description: "A community for card gamer enjoyers in general to talk about card gaming related things, whether it be Hearhstone, Legends of Runeterra, MTG, or anything else!I don't really care honestly, I just love playing card games and wanted to create a community for this purpose."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ccg"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 5
-comments: 22
+comments: 24
 weight: 5
 dau: 2
 wau: 7
@@ -41,9 +41,9 @@ A community for card gamer enjoyers in general to talk about card gaming related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 5  |
-| Comments             | 22  |
+| Comments             | 24  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ A community for card gamer enjoyers in general to talk about card gaming related
 |----------------------|---|
 | Published            | 2023-06-12 19:34:06 |
 | Updated              | 2023-06-13 23:08:22 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

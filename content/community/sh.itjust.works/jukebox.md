@@ -3,16 +3,16 @@ title: "Juke Box - share music"
 name: "jukebox"
 description: "Juke Box - share the music you are listening to"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/jukebox"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 83
-posts: 8
+subscribers: 92
+posts: 12
 comments: 1
-weight: 8
+weight: 12
 dau: 1
 wau: 5
 mau: 5
@@ -41,8 +41,8 @@ Juke Box - share the music you are listening to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 83 |
-| Posts                | 8  |
+| Subscribers          | 92 |
+| Posts                | 12  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
@@ -54,4 +54,4 @@ Juke Box - share the music you are listening to
 |----------------------|---|
 | Published            | 2023-06-08 11:04:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

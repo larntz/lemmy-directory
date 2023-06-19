@@ -3,17 +3,17 @@ title: "Vinyl Records"
 name: "vinyl"
 description: "Let's talk about vinyl records. News, releases, tips & tricks, and showing off your personal collection are all welcome!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/vinyl"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 6
-comments: 7
-weight: 6
-dau: 2
+subscribers: 24
+posts: 10
+comments: 12
+weight: 10
+dau: 5
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Let's talk about vinyl records. News, releases, tips & tricks, and showing off y
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
+| Subscribers          | 24 |
+| Posts                | 10  |
+| Comments             | 12  |
+| Daily Active Users   | 5  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Let's talk about vinyl records. News, releases, tips & tricks, and showing off y
 |----------------------|---|
 | Published            | 2023-06-12 17:22:08 |
 | Updated              | 2023-06-12 17:23:46 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,13 +3,13 @@ title: "France Tech"
 name: "francetech"
 description: "Tout sur la techologie en francais."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/francetech"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Tout sur la techologie en francais.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tout sur la techologie en francais.
 |----------------------|---|
 | Published            | 2020-07-23 17:57:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

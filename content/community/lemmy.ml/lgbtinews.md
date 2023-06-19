@@ -3,13 +3,13 @@ title: "LGBTI News"
 name: "lgbtinews"
 description: "Lesbian, Gay, Bisexual, Transgender & Intersex News around the world."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lgbtinews"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 86
+subscribers: 93
 posts: 24
 comments: 14
 weight: 24
@@ -41,7 +41,7 @@ Lesbian, Gay, Bisexual, Transgender & Intersex News around the world.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
+| Subscribers          | 93 |
 | Posts                | 24  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lesbian, Gay, Bisexual, Transgender & Intersex News around the world.
 |----------------------|---|
 | Published            | 2021-01-08 17:28:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

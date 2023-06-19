@@ -1,21 +1,21 @@
 ---
 title: "Container Gardening" 
 name: "containergardening"
-description: "Alternative to r/containergardening.Here you can discuss container plants, growing them, seek advice, etc..."
+description: "Alternative to r/containergardening.Here you can discuss container plants, growing them, seek advice, etc...Rules=====- No politics- No religion- Be kind to one another- Keep it related to growing stuff in containers- Just use common sense and don't be mean please"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/containergardening"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 25
 posts: 3
-comments: 15
+comments: 17
 weight: 3
-dau: 2
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "iusearchlinux_fyi"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Alternative to r/containergardening.<br><br>Here you can discuss container plants, growing them, seek advice, etc...
+Alternative to r/containergardening.<br><br>Here you can discuss container plants, growing them, seek advice, etc...<br><br>Rules<br>=====<br>- No politics<br>- No religion<br>- Be kind to one another<br>- Keep it related to growing stuff in containers<br>- Just use common sense and don't be mean please
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Alternative to r/containergardening.<br><br>Here you can discuss container plant
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 25 |
 | Posts                | 3  |
-| Comments             | 15  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 05:35:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Updated              | 2023-06-18 00:18:09 |
+| Last Scraped         | 2023-06-19 11:35:16 |

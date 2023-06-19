@@ -3,19 +3,19 @@ title: "Softies"
 name: "softies"
 description: "Flaccid and semi-erect penises"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/softies"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 2
+subscribers: 43
+posts: 3
 comments: 0
-weight: 2
-dau: 2
-wau: 2
-mau: 2
+weight: 3
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Flaccid and semi-erect penises
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 2  |
+| Subscribers          | 43 |
+| Posts                | 3  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -56,4 +56,4 @@ Flaccid and semi-erect penises
 |----------------------|---|
 | Published            | 2023-06-15 18:02:04 |
 | Updated              | 2023-06-15 18:07:07 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

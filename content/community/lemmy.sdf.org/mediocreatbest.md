@@ -3,16 +3,16 @@ title: "mediocreatbest"
 name: "mediocreatbest"
 description: "My collection of links, articles, projects, and more that I find interesting."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/mediocreatbest"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 4
+subscribers: 5
+posts: 11
 comments: 3
-weight: 4
+weight: 11
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ My collection of links, articles, projects, and more that I find interesting.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
+| Subscribers          | 5 |
+| Posts                | 11  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ My collection of links, articles, projects, and more that I find interesting.
 |----------------------|---|
 | Published            | 2023-06-12 17:03:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

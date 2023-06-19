@@ -3,16 +3,16 @@ title: "Apple Betas"
 name: "applebetas"
 description: "The home for all things Apple Betas on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applebetas"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 2
+subscribers: 8
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ The home for all things Apple Betas on LW.<br><br>**Rules:**<br><br>- No NSFW Co
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The home for all things Apple Betas on LW.<br><br>**Rules:**<br><br>- No NSFW Co
 |----------------------|---|
 | Published            | 2023-06-16 02:23:06 |
 | Updated              | 2023-06-16 02:28:21 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

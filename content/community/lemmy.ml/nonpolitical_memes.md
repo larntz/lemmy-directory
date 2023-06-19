@@ -3,13 +3,13 @@ title: "Non-Political Memes"
 name: "nonpolitical_memes"
 description: "Funny memes. No politics. Rules:1) Post memes.2) They shouldn't be political. Basically, memes here should appeal to people regardless of their political views.3) Be nice."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nonpolitical_memes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 78
 posts: 35
 comments: 11
 weight: 35
@@ -41,7 +41,7 @@ Funny memes. No politics. <br><br>Rules:<br>1) Post memes.<br>2) They shouldn't 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 78 |
 | Posts                | 35  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Funny memes. No politics. <br><br>Rules:<br>1) Post memes.<br>2) They shouldn't 
 |----------------------|---|
 | Published            | 2022-08-05 12:18:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

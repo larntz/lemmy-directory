@@ -3,7 +3,7 @@ title: "Clozemaster"
 name: "clozemaster"
 description: "Unofficial clozemaster Lemmy. more info  [here.](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/clozemaster"
@@ -54,4 +54,4 @@ Unofficial clozemaster Lemmy. more info  [here.](https://mastodon.social/@finick
 |----------------------|---|
 | Published            | 2023-05-09 13:42:07 |
 | Updated              | 2023-05-09 17:08:35 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,13 +3,13 @@ title: "Underground Gaming"
 name: "undergroundgaming"
 description: "Underground games are noncommercial games that operate outside of the games market."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undergroundgaming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 29
 posts: 8
 comments: 20
 weight: 8
@@ -41,7 +41,7 @@ Underground games are noncommercial games that operate outside of the games mark
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 29 |
 | Posts                | 8  |
 | Comments             | 20  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Underground games are noncommercial games that operate outside of the games mark
 |----------------------|---|
 | Published            | 2023-06-11 10:29:16 |
 | Updated              | 2023-06-11 11:39:10 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,16 +3,16 @@ title: "camping"
 name: "camping"
 description: "All things back-country camping!Gear discussions, destination talks and everything else within that realm"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/camping"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 219
-posts: 6
-comments: 37
-weight: 6
+subscribers: 298
+posts: 11
+comments: 51
+weight: 11
 dau: 4
 wau: 4
 mau: 4
@@ -41,9 +41,9 @@ All things back-country camping!<br>Gear discussions, destination talks and ever
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 219 |
-| Posts                | 6  |
-| Comments             | 37  |
+| Subscribers          | 298 |
+| Posts                | 11  |
+| Comments             | 51  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ All things back-country camping!<br>Gear discussions, destination talks and ever
 |----------------------|---|
 | Published            | 2023-06-13 11:26:36 |
 | Updated              | 2023-06-13 11:27:39 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

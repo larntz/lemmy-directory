@@ -3,18 +3,18 @@ title: "Africa "
 name: "africa"
 description: "A space to discuss general stuff relating to Africa. "
 type: community
-date: "2023-06-16 22:56:26"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/africa"
 host: baraza.africa
 lastmod: "{[ .Updated }}"
-subscribers: 111
-posts: 408
+subscribers: 113
+posts: 409
 comments: 145
-weight: 408
+weight: 409
 dau: 1
-wau: 4
+wau: 2
 mau: 5
 instances:
 - "baraza_africa"
@@ -41,11 +41,11 @@ A space to discuss general stuff relating to Africa.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 111 |
-| Posts                | 408  |
+| Subscribers          | 113 |
+| Posts                | 409  |
 | Comments             | 145  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ A space to discuss general stuff relating to Africa.
 |----------------------|---|
 | Published            | 2020-10-30 21:10:17 |
 | Updated              | 2021-11-28 05:07:05 |
-| Last Scraped         | 2023-06-16 22:56:26 |
+| Last Scraped         | 2023-06-19 11:35:27 |

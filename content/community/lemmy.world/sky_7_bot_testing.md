@@ -3,19 +3,19 @@ title: "dev and testing for bots"
 name: "sky_7_bot_testing"
 description: "|Op|Comp| |Date|Score| |:----|:----|:----|:----|:----|| **Leeds**|FR|H|07/12| - | | **Lyon**|FR|H|07/19| - | |**Arsenal**|FR|A|07/22| - | | **Wrexham**|FR|H|07/26| - | |**Real Madrid**|FR|A|07/27| - | "
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sky_7_bot_testing"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 3
-comments: 15
-weight: 3
+subscribers: 5
+posts: 53
+comments: 37
+weight: 53
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 15  |
+| Subscribers          | 5 |
+| Posts                | 53  |
+| Comments             | 37  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 21:25:22 |
-| Updated              | 2023-06-16 19:59:27 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-18 08:15:04 |
+| Last Scraped         | 2023-06-19 11:36:39 |

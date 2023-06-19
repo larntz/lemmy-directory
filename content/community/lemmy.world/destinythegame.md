@@ -3,13 +3,13 @@ title: "Destiny"
 name: "destinythegame"
 description: "A Community for Bungie's Looter Shooter Series"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinythegame"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A Community for Bungie's Looter Shooter Series
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A Community for Bungie's Looter Shooter Series
 |----------------------|---|
 | Published            | 2023-06-14 16:35:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

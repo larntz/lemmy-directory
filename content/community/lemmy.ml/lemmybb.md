@@ -3,13 +3,13 @@ title: "lemmyBB"
 name: "lemmybb"
 description: "Official community for [lemmyBB](https://github.com/LemmyNet/lemmyBB) frontend."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmybb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 45
 posts: 16
 comments: 44
 weight: 16
@@ -41,7 +41,7 @@ Official community for [lemmyBB](https://github.com/LemmyNet/lemmyBB) frontend.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 45 |
 | Posts                | 16  |
 | Comments             | 44  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Official community for [lemmyBB](https://github.com/LemmyNet/lemmyBB) frontend.
 |----------------------|---|
 | Published            | 2022-09-13 20:18:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:54 |

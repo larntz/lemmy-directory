@@ -3,19 +3,19 @@ title: "DATATERM Main"
 name: "main"
 description: "This is the main channel of DATATERM. Here you can post off-topic content if you want. "
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/main"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 66
-posts: 14
-comments: 114
-weight: 14
-dau: 14
-wau: 34
-mau: 34
+subscribers: 86
+posts: 15
+comments: 122
+weight: 15
+dau: 4
+wau: 38
+mau: 40
 instances:
 - "dataterm_digital"
 tags: 
@@ -41,12 +41,12 @@ This is the main channel of DATATERM. Here you can post off-topic content if you
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
-| Posts                | 14  |
-| Comments             | 114  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 34  |
+| Subscribers          | 86 |
+| Posts                | 15  |
+| Comments             | 122  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 38  |
+| Monthly Active Users | 40  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is the main channel of DATATERM. Here you can post off-topic content if you
 |----------------------|---|
 | Published            | 2023-06-11 18:42:03 |
 | Updated              | 2023-06-15 19:26:02 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

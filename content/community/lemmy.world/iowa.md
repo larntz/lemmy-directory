@@ -3,19 +3,19 @@ title: "Iowa"
 name: "iowa"
 description: "Community for the state of Iowa"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iowa"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 3
-comments: 0
-weight: 3
+subscribers: 23
+posts: 5
+comments: 1
+weight: 5
 dau: 2
-wau: 3
-mau: 3
+wau: 2
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for the state of Iowa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 3  |
-| Comments             | 0  |
+| Subscribers          | 23 |
+| Posts                | 5  |
+| Comments             | 1  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for the state of Iowa
 |----------------------|---|
 | Published            | 2023-06-11 07:17:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:40 |

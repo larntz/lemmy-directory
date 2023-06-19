@@ -3,7 +3,7 @@ title: "My constructed languages"
 name: "conlangs"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pe1uca.dev/c/conlangs"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 18:54:46 |
 | Updated              | 2023-06-06 19:06:01 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

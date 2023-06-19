@@ -3,19 +3,19 @@ title: "Kunst, Bilder & Fotografie"
 name: "kunstbilderfoto"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kunstbilderfoto"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 48
-posts: 1
+subscribers: 54
+posts: 2
 comments: 3
-weight: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 1  |
+| Subscribers          | 54 |
+| Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-02-07 07:51:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,19 +3,19 @@ title: "OKC Thunder"
 name: "thunder"
 description: "The official @lemmy.world community of the Oklahoma City Thunder."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thunder"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 1
-comments: 1
-weight: 1
+subscribers: 12
+posts: 2
+comments: 3
+weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The official @lemmy.world community of the Oklahoma City Thunder.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 1  |
+| Subscribers          | 12 |
+| Posts                | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ The official @lemmy.world community of the Oklahoma City Thunder.
 |----------------------|---|
 | Published            | 2023-06-13 01:04:16 |
 | Updated              | 2023-06-13 01:05:19 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

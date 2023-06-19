@@ -3,15 +3,15 @@ title: "Print SF"
 name: "printsf"
 description: "A community for the discussion of science fiction and speculative fiction in print. Rules:- No hate speech, bigotry, homophobia, sexism, racism, etc.- No spam or advertising- No AI generated content, posts, or comments- No piracy or suggesting or linking to piracy- No discussion or submissions of movie, TV, or game related SF"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/printsf"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 50
 posts: 3
-comments: 14
+comments: 18
 weight: 3
 dau: 2
 wau: 2
@@ -41,9 +41,9 @@ A community for the discussion of science fiction and speculative fiction in pri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 50 |
 | Posts                | 3  |
-| Comments             | 14  |
+| Comments             | 18  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ A community for the discussion of science fiction and speculative fiction in pri
 |----------------------|---|
 | Published            | 2023-06-15 03:30:41 |
 | Updated              | 2023-06-15 05:41:54 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

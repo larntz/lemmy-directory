@@ -3,19 +3,19 @@ title: "Monero"
 name: "monero"
 description: "# **What is Monero?**Monero is an open-source cryptocurrency created in April 2014 with a focus on privacy, fungibility and decentralization.## **Some resources** - The official Monero [website](https://getmonero.org) - CCS funding [proposals](https://ccs.getmonero.org) - Kovri [website](https://kovri.io) - OpenAlias [website](https://openalias.org)## **Some rules**  - Posts must be somehow related to Monero or other cryptocurrencies related to it"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/monero"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 312
-posts: 113
-comments: 58
-weight: 113
+subscribers: 317
+posts: 97
+comments: 41
+weight: 97
 dau: 1
-wau: 1
-mau: 3
+wau: 3
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 312 |
-| Posts                | 113  |
-| Comments             | 58  |
+| Subscribers          | 317 |
+| Posts                | 97  |
+| Comments             | 41  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-12-26 22:00:49 |
 | Updated              | 2021-04-28 13:37:33 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

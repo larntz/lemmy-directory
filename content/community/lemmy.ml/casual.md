@@ -3,13 +3,13 @@ title: "casual"
 name: "casual"
 description: "This is a community for casual conversationAll types of posts are allowedRemember the human"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/casual"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 113
+subscribers: 114
 posts: 22
 comments: 109
 weight: 22
@@ -41,7 +41,7 @@ This is a community for casual conversation<br><br>All types of posts are allowe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
+| Subscribers          | 114 |
 | Posts                | 22  |
 | Comments             | 109  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for casual conversation<br><br>All types of posts are allowe
 |----------------------|---|
 | Published            | 2020-07-09 22:06:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

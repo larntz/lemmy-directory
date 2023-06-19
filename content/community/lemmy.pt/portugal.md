@@ -3,19 +3,19 @@ title: "Portugal - Geral"
 name: "portugal"
 description: "Comunidade generalista para Portugal."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/portugal"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 183
-posts: 40
-comments: 118
-weight: 40
-dau: 12
-wau: 33
-mau: 33
+subscribers: 228
+posts: 42
+comments: 129
+weight: 42
+dau: 2
+wau: 41
+mau: 41
 instances:
 - "lemmy_pt"
 tags: 
@@ -41,12 +41,12 @@ Comunidade generalista para Portugal.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 183 |
-| Posts                | 40  |
-| Comments             | 118  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 33  |
+| Subscribers          | 228 |
+| Posts                | 42  |
+| Comments             | 129  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 41  |
+| Monthly Active Users | 41  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidade generalista para Portugal.
 |----------------------|---|
 | Published            | 2021-09-10 19:47:01 |
 | Updated              | 2021-09-13 10:50:41 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

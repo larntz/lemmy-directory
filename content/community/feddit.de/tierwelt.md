@@ -3,7 +3,7 @@ title: "Tierwelt"
 name: "tierwelt"
 description: "Die Community für alle Themen aus der Welt der Tiere!::: spoiler AttributionFaultier Icon erstellt von  [max.icons - Flaticon](https://www.flaticon.com/de/kostenlose-icons/faultier):::"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tierwelt"
@@ -15,7 +15,7 @@ comments: 6
 weight: 6
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "feddit_de"
 tags: 
@@ -46,7 +46,7 @@ Die Community für alle Themen aus der Welt der Tiere!<br><br><br>::: spoiler At
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Die Community für alle Themen aus der Welt der Tiere!<br><br><br>::: spoiler At
 |----------------------|---|
 | Published            | 2023-02-22 20:11:51 |
 | Updated              | 2023-03-14 21:17:21 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

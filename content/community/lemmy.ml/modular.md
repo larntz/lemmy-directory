@@ -3,13 +3,13 @@ title: "Modular Synths"
 name: "modular"
 description: "A community for modular synths of all persuasions (Eurorack, Serge, Buchla, etc...)"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modular"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 29
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ A community for modular synths of all persuasions (Eurorack, Serge, Buchla, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 29 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for modular synths of all persuasions (Eurorack, Serge, Buchla, etc.
 |----------------------|---|
 | Published            | 2021-01-10 17:33:36 |
 | Updated              | 2023-06-07 22:20:08 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "cryptocurrency"
 name: "cryptocurrency"
 description: "No posts by bots allowed - prove you're not a bot by having a post history"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cryptocurrency"
@@ -54,4 +54,4 @@ No posts by bots allowed - prove you're not a bot by having a post history
 |----------------------|---|
 | Published            | 2022-09-02 10:16:06 |
 | Updated              | 2022-09-02 10:16:51 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

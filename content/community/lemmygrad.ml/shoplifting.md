@@ -3,13 +3,13 @@ title: "Shoplifting"
 name: "shoplifting"
 description: "If the hands that made it aren't selling it, it's free. A spiritual successor to the much lamented r/shoplifting. Don't get pinched. "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shoplifting"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 182
+subscribers: 183
 posts: 12
 comments: 19
 weight: 12
@@ -41,7 +41,7 @@ If the hands that made it aren't selling it, it's free. A spiritual successor to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 182 |
+| Subscribers          | 183 |
 | Posts                | 12  |
 | Comments             | 19  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ If the hands that made it aren't selling it, it's free. A spiritual successor to
 |----------------------|---|
 | Published            | 2019-09-01 19:36:11 |
 | Updated              | 2019-09-01 19:36:40 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

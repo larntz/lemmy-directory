@@ -3,7 +3,7 @@ title: "Troll's HW italia"
 name: "trollshardware"
 description: "Nuff' said."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trollshardware"
@@ -54,4 +54,4 @@ Nuff' said.
 |----------------------|---|
 | Published            | 2023-05-04 10:10:30 |
 | Updated              | 2023-05-04 10:26:27 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:56 |

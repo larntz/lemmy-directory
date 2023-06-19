@@ -3,7 +3,7 @@ title: "Carly Rae Jepsen"
 name: "carlyraejepsen"
 description: "General Carly Rae Jepsen discussion. Run away with us! We're your type!Some basic guidelines:- Posts should be about Carly.- Thoughtful criticism is fine, but open trolling or low-effort posts like “Her music sux” will be removed.- General “Don’t be a dick” rules apply, no trolling, no being a jerk.- No NSFW."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/carlyraejepsen"
@@ -11,9 +11,9 @@ host: poptalk.scrubbles.tech
 lastmod: "{[ .Updated }}"
 subscribers: 7
 posts: 5
-comments: 5
+comments: 6
 weight: 5
-dau: 3
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -43,8 +43,8 @@ General Carly Rae Jepsen discussion. <br><br>Run away with us! We're your type!<
 |----------------------|---|
 | Subscribers          | 7 |
 | Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ General Carly Rae Jepsen discussion. <br><br>Run away with us! We're your type!<
 |----------------------|---|
 | Published            | 2023-06-14 16:27:03 |
 | Updated              | 2023-06-14 17:12:26 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

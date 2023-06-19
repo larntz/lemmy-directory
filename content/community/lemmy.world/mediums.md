@@ -3,7 +3,7 @@ title: "Mediumship"
 name: "mediums"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mediums"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 07:49:13 |
 | Updated              | 2023-06-13 07:51:09 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:40 |

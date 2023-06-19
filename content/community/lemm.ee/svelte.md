@@ -3,16 +3,16 @@ title: "Svelte & SvelteKit"
 name: "svelte"
 description: "All things Svelte and SvelteKit"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/svelte"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 4
+posts: 3
 comments: 0
-weight: 4
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ All things Svelte and SvelteKit
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 4  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ All things Svelte and SvelteKit
 |----------------------|---|
 | Published            | 2023-06-15 00:39:38 |
 | Updated              | 2023-06-16 07:10:22 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

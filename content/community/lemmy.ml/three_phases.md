@@ -3,7 +3,7 @@ title: "Electrical Engineering for power distribution, motors, and general power
 name: "three_phases"
 description: "A place to post information or ask questions for all things industrial electronics."
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/three_phases"
@@ -54,4 +54,4 @@ A place to post information or ask questions for all things industrial electroni
 |----------------------|---|
 | Published            | 2020-06-01 18:32:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

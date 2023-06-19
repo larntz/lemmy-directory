@@ -3,7 +3,7 @@ title: "Goalmie+"
 name: "goalmie"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goalmie"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-09-15 06:27:02 |
 | Updated              | 2019-11-18 10:27:47 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

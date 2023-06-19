@@ -1,21 +1,21 @@
 ---
 title: "Shitpost" 
 name: "shitpost"
-description: "The toiler where all our shit goes"
+description: "The toiler where all our shit goes.**Rules**1. Follow the instance policy, found from the sidebar on homepage (just like how you found this)2. No NSFW, loli, etc, allowed. Keep it funny but clean."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/shitpost"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 114
-posts: 6
-comments: 14
-weight: 6
-dau: 1
-wau: 13
-mau: 13
+subscribers: 181
+posts: 10
+comments: 19
+weight: 10
+dau: 2
+wau: 15
+mau: 15
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-The toiler where all our shit goes
+The toiler where all our shit goes.<br><br>**Rules**<br><br>1. Follow the instance policy, found from the sidebar on homepage (just like how you found this)<br>2. No NSFW, loli, etc, allowed. Keep it funny but clean.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ The toiler where all our shit goes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
-| Posts                | 6  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Subscribers          | 181 |
+| Posts                | 10  |
+| Comments             | 19  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 14:51:10 |
-| Updated              | 2023-06-13 15:26:13 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-17 20:55:53 |
+| Last Scraped         | 2023-06-19 11:35:02 |

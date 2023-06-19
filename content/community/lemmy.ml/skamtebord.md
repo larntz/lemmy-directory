@@ -3,7 +3,7 @@ title: "Skamtebord"
 name: "skamtebord"
 description: "When the source of humor is derived from one word or phrase"
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skamtebord"
@@ -54,4 +54,4 @@ When the source of humor is derived from one word or phrase
 |----------------------|---|
 | Published            | 2021-03-24 05:19:32 |
 | Updated              | 2021-07-24 19:51:12 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:57 |

@@ -3,7 +3,7 @@ title: "christianchannel"
 name: "catholicmemes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/catholicmemes"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-12-27 01:06:41 |
 | Updated              | 2020-12-27 01:09:31 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

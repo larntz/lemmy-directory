@@ -3,13 +3,13 @@ title: "Mahjong"
 name: "mahjong"
 description: "Community for Mahjong, but specially the japanese variation (Mahjong Riichi)!**Where to Play?*** [MahjongSoul](https://mahjongsoul.yo-star.com) (free)* [Tenhou](https://tenhou.net) (free trial)* FFXIV (free trial)**Resources*** [Riichi Wiki](https://riichi.wiki/List_of_yaku) * [Efficiency Trainer](https://euophrys.itch.io/mahjong-efficiency-trainer)*  [Riichi Books by Dana Chiba](https://dainachiba.github.io/RiichiBooks/)![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frepo.riichi.moe%2Fbackground%2Fichihime-0.png&f=1&nofb=1&ipt=d91b89f850a7817ad4d97d301db1cac607a10c3bb5ad121ac18a8825e06f3a6b&ipo=images)"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nerdcore.social/c/mahjong"
 host: lemmy.nerdcore.social
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 5
 weight: 4
@@ -41,7 +41,7 @@ Community for Mahjong, but specially the japanese variation (Mahjong Riichi)!<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community for Mahjong, but specially the japanese variation (Mahjong Riichi)!<br
 |----------------------|---|
 | Published            | 2023-06-13 20:48:27 |
 | Updated              | 2023-06-14 20:30:57 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

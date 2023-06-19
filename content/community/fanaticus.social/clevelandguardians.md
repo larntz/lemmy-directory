@@ -3,19 +3,19 @@ title: "Cleveland Guardians"
 name: "clevelandguardians"
 description: "Cloned from [r/ClevelandGuardians](https://old.reddit.com/r/ClevelandGuardians)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/clevelandguardians"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 4
-comments: 6
-weight: 4
-dau: 3
+posts: 8
+comments: 17
+weight: 8
+dau: 1
 wau: 4
-mau: 4
+mau: 5
 instances:
 - "fanaticus_social"
 tags: 
@@ -42,11 +42,11 @@ Cloned from [r/ClevelandGuardians](https://old.reddit.com/r/ClevelandGuardians)<
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 4  |
-| Comments             | 6  |
-| Daily Active Users   | 3  |
+| Posts                | 8  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cloned from [r/ClevelandGuardians](https://old.reddit.com/r/ClevelandGuardians)<
 |----------------------|---|
 | Published            | 2023-06-09 17:06:41 |
 | Updated              | 2023-06-12 16:52:24 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

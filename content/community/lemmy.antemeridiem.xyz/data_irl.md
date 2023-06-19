@@ -3,16 +3,16 @@ title: "Data irl"
 name: "data_irl"
 description: "home of funny graphs"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/data_irl"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 4
+subscribers: 51
+posts: 5
 comments: 6
-weight: 4
+weight: 5
 dau: 1
 wau: 7
 mau: 7
@@ -41,8 +41,8 @@ home of funny graphs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 4  |
+| Subscribers          | 51 |
+| Posts                | 5  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
@@ -54,4 +54,4 @@ home of funny graphs
 |----------------------|---|
 | Published            | 2023-06-10 16:58:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

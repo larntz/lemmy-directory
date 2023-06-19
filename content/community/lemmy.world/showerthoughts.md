@@ -3,19 +3,19 @@ title: "Showerthoughts"
 name: "showerthoughts"
 description: "A ~~subreddit~~ community for sharing those miniature epiphanies you have that highlight the oddities within the familiar."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/showerthoughts"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1082
-posts: 10
-comments: 38
-weight: 10
-dau: 16
-wau: 40
-mau: 40
+subscribers: 1622
+posts: 15
+comments: 62
+weight: 15
+dau: 18
+wau: 63
+mau: 65
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A ~~subreddit~~ community for sharing those miniature epiphanies you have that h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1082 |
-| Posts                | 10  |
-| Comments             | 38  |
-| Daily Active Users   | 16  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 40  |
+| Subscribers          | 1622 |
+| Posts                | 15  |
+| Comments             | 62  |
+| Daily Active Users   | 18  |
+| Weekly Active Users  | 63  |
+| Monthly Active Users | 65  |
 
 <br>
 
@@ -54,4 +54,4 @@ A ~~subreddit~~ community for sharing those miniature epiphanies you have that h
 |----------------------|---|
 | Published            | 2023-06-11 15:34:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

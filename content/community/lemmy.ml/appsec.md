@@ -3,7 +3,7 @@ title: "AppSec"
 name: "appsec"
 description: "A general discussion board for  Application Security topics"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/appsec"
@@ -54,4 +54,4 @@ A general discussion board for  Application Security topics
 |----------------------|---|
 | Published            | 2021-01-09 01:26:50 |
 | Updated              | 2021-01-09 01:31:57 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

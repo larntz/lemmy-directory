@@ -3,18 +3,18 @@ title: "Watercolor / Watercolour / Aquarelle Painting"
 name: "watercolor"
 description: "A place for all things watercolor painting. Submit your paintings, give / receive critiques. Post resources such as tutorials, ask questions, learn about and the art of watercolor!If posting another person's work, please try and credit them.  Don't take credit for another's work.  If posting your own, you can if you wish use [OC] for original content.  This is not required.Enjoy the wonderful world of watercolour painting."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watercolor"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 52
 posts: 9
 comments: 5
 weight: 9
 dau: 1
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place for all things watercolor painting. Submit your paintings, give / receiv
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 52 |
 | Posts                | 9  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ A place for all things watercolor painting. Submit your paintings, give / receiv
 |----------------------|---|
 | Published            | 2023-06-05 06:37:33 |
 | Updated              | 2023-06-15 23:00:29 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:56 |

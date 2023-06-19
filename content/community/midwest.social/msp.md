@@ -3,19 +3,19 @@ title: "Minneapolis - St. Paul Metro"
 name: "msp"
 description: "**A community for leftists and progressives within the Minneapolis - St. Paul Metro Area**, including all suburbs and exurbs."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/msp"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 88
-posts: 11
-comments: 10
-weight: 11
-dau: 8
-wau: 13
-mau: 16
+subscribers: 100
+posts: 13
+comments: 13
+weight: 13
+dau: 3
+wau: 14
+mau: 19
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 88 |
-| Posts                | 11  |
-| Comments             | 10  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 16  |
+| Subscribers          | 100 |
+| Posts                | 13  |
+| Comments             | 13  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-11-07 22:48:58 |
 | Updated              | 2022-11-08 00:33:58 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

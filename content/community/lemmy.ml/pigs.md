@@ -3,7 +3,7 @@ title: "pigs"
 name: "pigs"
 description: "A community for pet pig owners."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pigs"
@@ -54,4 +54,4 @@ A community for pet pig owners.
 |----------------------|---|
 | Published            | 2023-06-05 20:02:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

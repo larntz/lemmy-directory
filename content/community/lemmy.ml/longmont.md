@@ -3,19 +3,19 @@ title: "Longmont"
 name: "longmont"
 description: "A place to discuss all things Longmont, ColoradoRules:- Be civil and nice.- No Spam."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/longmont"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 7
-comments: 3
-weight: 7
-dau: 1
-wau: 5
-mau: 5
+subscribers: 23
+posts: 11
+comments: 9
+weight: 11
+dau: 4
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things Longmont, Colorado<br><br>Rules:<br>- Be civil and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 7  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 23 |
+| Posts                | 11  |
+| Comments             | 9  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things Longmont, Colorado<br><br>Rules:<br>- Be civil and
 |----------------------|---|
 | Published            | 2023-06-11 14:53:53 |
 | Updated              | 2023-06-11 14:54:59 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

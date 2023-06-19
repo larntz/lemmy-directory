@@ -3,19 +3,19 @@ title: "kreisvegs"
 name: "kreisvegs"
 description: "Deutschsprachig. Pro-Vegan. Circlejerk."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kreisvegs"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 106
-posts: 8
-comments: 28
-weight: 8
-dau: 1
-wau: 14
-mau: 17
+subscribers: 126
+posts: 10
+comments: 38
+weight: 10
+dau: 3
+wau: 12
+mau: 22
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Deutschsprachig. Pro-Vegan. Circlejerk.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 106 |
-| Posts                | 8  |
-| Comments             | 28  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 17  |
+| Subscribers          | 126 |
+| Posts                | 10  |
+| Comments             | 38  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Deutschsprachig. Pro-Vegan. Circlejerk.
 |----------------------|---|
 | Published            | 2023-06-05 18:48:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

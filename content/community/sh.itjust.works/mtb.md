@@ -3,13 +3,13 @@ title: "Mountain Biking"
 name: "mtb"
 description: "For all things mountain biking. If it's pedal powered (or even pedal assisted), goes on two wheels, and belongs in the dirt, it's welcome here.What isn't welcome: Hate speech, bigotry, assholery, road bikes..."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mtb"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 49
 posts: 5
 comments: 4
 weight: 5
@@ -41,7 +41,7 @@ For all things mountain biking. If it's pedal powered (or even pedal assisted), 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 49 |
 | Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For all things mountain biking. If it's pedal powered (or even pedal assisted), 
 |----------------------|---|
 | Published            | 2023-06-12 15:35:36 |
 | Updated              | 2023-06-13 13:34:55 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

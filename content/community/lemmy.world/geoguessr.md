@@ -3,19 +3,19 @@ title: "geoguessr"
 name: "geoguessr"
 description: "The place for all things GeoGuessr"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geoguessr"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 1
-comments: 1
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 7
+posts: 3
+comments: 3
+weight: 3
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The place for all things GeoGuessr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 7 |
+| Posts                | 3  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ The place for all things GeoGuessr
 |----------------------|---|
 | Published            | 2023-06-15 22:18:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

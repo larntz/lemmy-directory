@@ -3,13 +3,13 @@ title: "Pokemon Cards"
 name: "pokemoncards"
 description: "Reddit’s replacement for r/pokemoncards. Happy collecting! 1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW3. No trading/Selling4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokemoncards"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 27
 posts: 4
 comments: 2
 weight: 4
@@ -41,7 +41,7 @@ Reddit’s replacement for r/pokemoncards. Happy collecting! <br><br>1. Be respe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 27 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Reddit’s replacement for r/pokemoncards. Happy collecting! <br><br>1. Be respe
 |----------------------|---|
 | Published            | 2023-06-12 08:15:26 |
 | Updated              | 2023-06-13 18:36:45 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-19 11:36:39 |

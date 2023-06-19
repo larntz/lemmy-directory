@@ -3,7 +3,7 @@ title: "TheSaneWriter"
 name: "thesanewriter"
 description: "This is just my personal community for making posts about my profile here, announcements, and other such things."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/thesanewriter"
@@ -54,4 +54,4 @@ This is just my personal community for making posts about my profile here, annou
 |----------------------|---|
 | Published            | 2023-06-12 12:10:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:05 |

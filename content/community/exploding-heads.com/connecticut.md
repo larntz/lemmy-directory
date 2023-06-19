@@ -3,16 +3,16 @@ title: "Connecticut"
 name: "connecticut"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/connecticut"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 3
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-14 15:49:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

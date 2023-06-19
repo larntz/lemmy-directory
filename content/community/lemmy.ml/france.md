@@ -3,19 +3,19 @@ title: "La France et les français"
 name: "france"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/france"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 365
-posts: 73
-comments: 200
-weight: 73
-dau: 10
-wau: 60
-mau: 64
+subscribers: 395
+posts: 77
+comments: 218
+weight: 77
+dau: 11
+wau: 62
+mau: 72
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 365 |
-| Posts                | 73  |
-| Comments             | 200  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 60  |
-| Monthly Active Users | 64  |
+| Subscribers          | 395 |
+| Posts                | 77  |
+| Comments             | 218  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 62  |
+| Monthly Active Users | 72  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 11:54:34 |
 | Updated              | 2023-06-10 11:15:07 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:43 |

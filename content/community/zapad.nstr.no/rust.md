@@ -3,7 +3,7 @@ title: "rust"
 name: "rust"
 description: "Links and discussions relevant for users of the Rust programming language"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/rust"
@@ -54,4 +54,4 @@ Links and discussions relevant for users of the Rust programming language
 |----------------------|---|
 | Published            | 2023-06-12 21:38:32 |
 | Updated              | 2023-06-15 16:59:03 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

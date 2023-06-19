@@ -3,7 +3,7 @@ title: "Betting"
 name: "betting"
 description: "All betting related..."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/betting"
@@ -54,4 +54,4 @@ All betting related...
 |----------------------|---|
 | Published            | 2020-06-06 10:54:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

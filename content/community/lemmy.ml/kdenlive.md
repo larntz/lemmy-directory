@@ -3,13 +3,13 @@ title: "Kdenlive"
 name: "kdenlive"
 description: "A place to chat about [Kdenlive](https://kdenlive.org/en/).Share your videos and ask questions."
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kdenlive"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
+subscribers: 73
 posts: 10
 comments: 1
 weight: 10
@@ -41,7 +41,7 @@ A place to chat about [Kdenlive](https://kdenlive.org/en/).<br><br>Share your vi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
+| Subscribers          | 73 |
 | Posts                | 10  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to chat about [Kdenlive](https://kdenlive.org/en/).<br><br>Share your vi
 |----------------------|---|
 | Published            | 2020-12-03 20:22:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:36:45 |

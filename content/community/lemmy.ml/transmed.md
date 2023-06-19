@@ -3,7 +3,7 @@ title: "transmed"
 name: "transmed"
 description: ""
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/transmed"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 00:06:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

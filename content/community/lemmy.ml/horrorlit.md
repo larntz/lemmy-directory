@@ -3,18 +3,18 @@ title: "Horror Literature"
 name: "horrorlit"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/horrorlit"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 25
 posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 25 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 20:56:50 |
 | Updated              | 2023-06-10 21:33:40 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

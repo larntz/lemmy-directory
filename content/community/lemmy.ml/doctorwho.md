@@ -3,18 +3,18 @@ title: "Doctor Who"
 name: "doctorwho"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/doctorwho"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 55
 posts: 5
 comments: 1
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 55 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-29 04:34:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

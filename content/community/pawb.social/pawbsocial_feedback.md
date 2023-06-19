@@ -3,19 +3,19 @@ title: "Pawb.Social Feedback"
 name: "pawbsocial_feedback"
 description: "An official community for users of Pawb.Social services (furry.engineer, pawb.fun, and pawb.social) to provide feedback and suggestions."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/pawbsocial_feedback"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 71
-posts: 17
-comments: 136
-weight: 17
-dau: 18
+subscribers: 87
+posts: 22
+comments: 194
+weight: 22
+dau: 4
 wau: 42
-mau: 56
+mau: 60
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ An official community for users of Pawb.Social services (furry.engineer, pawb.fu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 17  |
-| Comments             | 136  |
-| Daily Active Users   | 18  |
+| Subscribers          | 87 |
+| Posts                | 22  |
+| Comments             | 194  |
+| Daily Active Users   | 4  |
 | Weekly Active Users  | 42  |
-| Monthly Active Users | 56  |
+| Monthly Active Users | 60  |
 
 <br>
 
@@ -54,4 +54,4 @@ An official community for users of Pawb.Social services (furry.engineer, pawb.fu
 |----------------------|---|
 | Published            | 2023-06-03 03:09:45 |
 | Updated              | 2023-06-16 20:38:26 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

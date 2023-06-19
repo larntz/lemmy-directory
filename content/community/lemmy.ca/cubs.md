@@ -3,7 +3,7 @@ title: "Cubs"
 name: "cubs"
 description: "The Fediverse home of the North Siders."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cubs"
@@ -54,4 +54,4 @@ The Fediverse home of the North Siders.
 |----------------------|---|
 | Published            | 2023-06-13 21:28:35 |
 | Updated              | 2023-06-14 01:26:12 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "amateurradio"
 name: "amateurradio"
 description: "Lemmy's space for amateur radio stuff."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amateurradio"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Lemmy's space for amateur radio stuff.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lemmy's space for amateur radio stuff.
 |----------------------|---|
 | Published            | 2022-02-13 10:39:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:51 |

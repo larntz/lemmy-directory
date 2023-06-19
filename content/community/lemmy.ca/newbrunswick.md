@@ -3,16 +3,16 @@ title: "New Brunswick / Nouveau-Brunswick"
 name: "newbrunswick"
 description: "**Welcome to New Brunswick's home on Lemmy!*** No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.* Be respectful. Everyone should feel welcome here.* No porn.* No ads / spamming.**Bienvenue à la communauté néo-brunswickoise de Lemmy!*** Pas d'intolérance - y comprit le racisme, le sexisme, le capacitisme, l'homophobie, la transphobie, ou la xénophobie.* Soyez respectueux•ses. Tous•tes devrait se sentir bienvenue ici. * Aucune pornographie.* Pas de promotion / spam._______________________________________**Related communities / Communautés similaires*** [!metromoncton@lemmy.ca](/c/metromoncton@lemmy.ca)_______________________________________*This is a bilingual community, feel free to participate in either French or English (or even in chiac!)*//*On est une communauté bilingue, soyez à l'aise de participer en anglais ou en français (ou même en chiac!)*"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/newbrunswick"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 10
-comments: 26
-weight: 10
+subscribers: 35
+posts: 11
+comments: 34
+weight: 11
 dau: 2
 wau: 6
 mau: 6
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 10  |
-| Comments             | 26  |
+| Subscribers          | 35 |
+| Posts                | 11  |
+| Comments             | 34  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-05 03:58:28 |
 | Updated              | 2023-06-10 15:36:37 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "Unterhaltung"
 name: "unterhaltung"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/unterhaltung"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 41
 posts: 33
 comments: 6
 weight: 33
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 41 |
 | Posts                | 33  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-18 12:03:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

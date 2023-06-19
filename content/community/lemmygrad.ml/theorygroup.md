@@ -3,13 +3,13 @@ title: "Theory Group"
 name: "theorygroup"
 description: "A community dedicated to group reading and discussion of political theory, with a particular focus on Marxist literature."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theorygroup"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to group reading and discussion of political theory, with 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community dedicated to group reading and discussion of political theory, with 
 |----------------------|---|
 | Published            | 2020-12-26 13:31:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

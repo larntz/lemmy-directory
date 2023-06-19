@@ -3,13 +3,13 @@ title: "Cringe"
 name: "cringe"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cringe"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-15 00:11:08 |
 | Updated              | 2021-12-17 04:09:43 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

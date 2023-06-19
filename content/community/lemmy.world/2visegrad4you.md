@@ -3,17 +3,17 @@ title: "2visegrad4you"
 name: "2visegrad4you"
 description: "Ultranationalistic ironic memes people from the Visegrád Group (CZ, HU, PL, SK) would agree with unironically."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2visegrad4you"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 9
+subscribers: 24
+posts: 10
 comments: 3
-weight: 9
-dau: 2
+weight: 10
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Ultranationalistic ironic memes people from the Visegrád Group (CZ, HU, PL, SK)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 9  |
+| Subscribers          | 24 |
+| Posts                | 10  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Ultranationalistic ironic memes people from the Visegrád Group (CZ, HU, PL, SK)
 |----------------------|---|
 | Published            | 2023-06-12 18:38:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

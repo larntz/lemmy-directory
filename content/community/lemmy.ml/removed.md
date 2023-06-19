@@ -3,7 +3,7 @@ title: "*removed by mod*"
 name: "removed"
 description: "A subLemmy dedicated to all of those comments on Lemmy that have been *removed by mod*. If you happen to see a comment chain of *deleted by creator* and *removed by mod*, then tag this subLemmy in a reply and post a screenshot here! We will never know what they said, but we can only speculate..."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/removed"
@@ -54,4 +54,4 @@ A subLemmy dedicated to all of those comments on Lemmy that have been *removed b
 |----------------------|---|
 | Published            | 2023-06-11 10:47:56 |
 | Updated              | 2023-06-11 10:57:48 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

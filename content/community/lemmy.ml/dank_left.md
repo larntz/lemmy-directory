@@ -3,18 +3,18 @@ title: "The place for leftist memes"
 name: "dank_left"
 description: "Welcome to the dank leftBasic rules:*No reposting.   Just don't do it. *Be respectful.   Remember the human. *Don't post content glorifying the right   This should be pretty obvious. *Keep it dank    This includes, keeping the content humorous and fresh in multiple, bizarrerie ways      Only post content that is humorous and fresh. *The notion of Leftist unity is not enforced or encouraged. It always ends with one group siliencing others."
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dank_left"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 833
+subscribers: 844
 posts: 365
 comments: 464
 weight: 365
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Welcome to the dank left<br><br>Basic rules:<br>*No reposting.<br>   Just don't 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 833 |
+| Subscribers          | 844 |
 | Posts                | 365  |
 | Comments             | 464  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Welcome to the dank left<br><br>Basic rules:<br>*No reposting.<br>   Just don't 
 |----------------------|---|
 | Published            | 2019-09-25 16:20:13 |
 | Updated              | 2021-08-16 08:38:34 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:36:47 |

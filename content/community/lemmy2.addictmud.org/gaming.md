@@ -3,7 +3,7 @@ title: "Gaming"
 name: "gaming"
 description: "Discussions of any kind of gaming that doesn't fit within another community."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy2.addictmud.org/c/gaming"
@@ -54,4 +54,4 @@ Discussions of any kind of gaming that doesn't fit within another community.
 |----------------------|---|
 | Published            | 2023-06-08 00:12:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:04 |

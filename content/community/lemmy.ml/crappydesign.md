@@ -3,13 +3,13 @@ title: "Crappy Design"
 name: "crappydesign"
 description: "Poor designs resulting from incompetence.  This covers unintentional artifacts.  (Intentionally malicious/anomalious designs belong in c/assholedesign)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crappydesign"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 223
+subscribers: 244
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ Poor designs resulting from incompetence.  This covers unintentional artifacts. 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
+| Subscribers          | 244 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Poor designs resulting from incompetence.  This covers unintentional artifacts. 
 |----------------------|---|
 | Published            | 2020-05-06 16:04:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:47 |

@@ -3,7 +3,7 @@ title: "Factions MP"
 name: "thelastofusfactions"
 description: "A community dedicated to the multiplayer component to Naughty Dog's 2013 hit game *The Last of Us*.Check out our sister sub, dedicated to the series' story mode [here](/c/thelastofus@lemmy.world)."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelastofusfactions"
@@ -54,4 +54,4 @@ A community dedicated to the multiplayer component to Naughty Dog's 2013 hit gam
 |----------------------|---|
 | Published            | 2023-06-11 02:48:18 |
 | Updated              | 2023-06-11 21:52:43 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,13 +3,13 @@ title: "i took a picture"
 name: "itookapicture"
 description: "Capturing Moments, Sharing Creativity"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/itookapicture"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Capturing Moments, Sharing Creativity
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Capturing Moments, Sharing Creativity
 |----------------------|---|
 | Published            | 2023-06-16 11:08:53 |
 | Updated              | 2023-06-16 11:45:55 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

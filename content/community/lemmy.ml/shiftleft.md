@@ -3,7 +3,7 @@ title: "ShiftLeft"
 name: "shiftleft"
 description: "![Logo](https://www.shiftleft.io/static/images/logo.svg)- [ShiftLeft Scan](https://slscan.io)- [Website](https://shiftleft.io)"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shiftleft"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-06-04 23:21:01 |
 | Updated              | 2020-06-04 23:27:41 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:59 |

@@ -3,13 +3,13 @@ title: "Stable Diffusion"
 name: "stablediffusion"
 description: "Stable Diffusion is a deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt."
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jtmn.dev/c/stablediffusion"
 host: lemmy.jtmn.dev
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. <br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. <br><
 |----------------------|---|
 | Published            | 2023-06-13 09:40:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

@@ -3,17 +3,17 @@ title: "VPNs"
 name: "vpn"
 description: "For discussion of virtual private networks (vpns), their uses, which are best, etc.Rules:Don’t be a dick"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/vpn"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 36
 posts: 1
 comments: 4
 weight: 1
-dau: 5
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ For discussion of virtual private networks (vpns), their uses, which are best, e
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 36 |
 | Posts                | 1  |
 | Comments             | 4  |
-| Daily Active Users   | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ For discussion of virtual private networks (vpns), their uses, which are best, e
 |----------------------|---|
 | Published            | 2023-06-16 07:24:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

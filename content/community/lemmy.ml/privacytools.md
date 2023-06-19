@@ -3,13 +3,13 @@ title: "Privacy Tools"
 name: "privacytools"
 description: "Non official community dedicated to the discussion of news, events, or anything related to the organization that focuses on recommending privacy respecting software and services.Useful links:Official PrivacyGuides instance: https://lemmy.ml/c/privacyguides@lemmy.one[Official website](https://privacytools.io/)[GitHub repository](https://github.com/privacytools/privacytools.io)[Matrix room](#privacy:privacytools.io)"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privacytools"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1828
+subscribers: 1844
 posts: 85
 comments: 162
 weight: 85
@@ -41,7 +41,7 @@ Non official community dedicated to the discussion of news, events, or anything 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1828 |
+| Subscribers          | 1844 |
 | Posts                | 85  |
 | Comments             | 162  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Non official community dedicated to the discussion of news, events, or anything 
 |----------------------|---|
 | Published            | 2020-02-25 15:09:30 |
 | Updated              | 2023-06-05 16:01:30 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:51 |

@@ -3,13 +3,13 @@ title: "Window Managers | Software & Workflows"
 name: "windowmanagers"
 description: "Here we talk about workflows, software, applications, and all other things related to, or work well with; window managers.Here's some ideas:You can:Share tools/softwares you use and how you set them up to be that wayask questions, help, if you have a problem or you need a certain advice relating to wms.ps: we aren't /c/unixporn. you can share screenshots. we mainly help others and discuss the productivity aspect of it.attribution: icon/bannera okubax @ flickr"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/windowmanagers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 86
+subscribers: 87
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Here we talk about workflows, software, applications, and all other things relat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
+| Subscribers          | 87 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Here we talk about workflows, software, applications, and all other things relat
 |----------------------|---|
 | Published            | 2022-04-07 09:28:55 |
 | Updated              | 2022-04-07 09:34:14 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

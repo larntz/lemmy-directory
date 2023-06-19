@@ -3,13 +3,13 @@ title: "The Garagenous Zone"
 name: "tgz"
 description: "Classics, Rat Rods, Projects, Piles, Automotive, etc"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tgz"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Classics, Rat Rods, Projects, Piles, Automotive, etc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Classics, Rat Rods, Projects, Piles, Automotive, etc
 |----------------------|---|
 | Published            | 2023-06-13 21:37:10 |
 | Updated              | 2023-06-15 21:52:36 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "OCaml"
 name: "ocaml"
 description: "[OCaml](https://ocaml.org/) is an industrial strength programming language supporting functional, imperative and object-oriented styles"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ocaml"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-10-21 16:41:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

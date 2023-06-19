@@ -3,7 +3,7 @@ title: "Elm"
 name: "elm"
 description: "A delightful language for reliable web apps"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elm"
@@ -54,4 +54,4 @@ A delightful language for reliable web apps
 |----------------------|---|
 | Published            | 2020-01-23 05:29:00 |
 | Updated              | 2021-02-03 05:21:18 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

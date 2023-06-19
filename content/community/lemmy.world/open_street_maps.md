@@ -3,13 +3,13 @@ title: "Open Street Maps"
 name: "open_street_maps"
 description: "The community for OSM mappers and contributors 🗺 "
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/open_street_maps"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The community for OSM mappers and contributors 🗺
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The community for OSM mappers and contributors 🗺
 |----------------------|---|
 | Published            | 2023-06-09 16:29:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

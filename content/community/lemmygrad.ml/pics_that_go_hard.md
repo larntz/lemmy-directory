@@ -3,19 +3,19 @@ title: "Pics That Go Hard"
 name: "pics_that_go_hard"
 description: "Community for posting pics that go hard.Rules:1. Pics must go hard."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pics_that_go_hard"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 227
-posts: 64
+subscribers: 238
+posts: 65
 comments: 189
-weight: 64
+weight: 65
 dau: 1
-wau: 5
-mau: 22
+wau: 2
+mau: 23
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Community for posting pics that go hard.<br><br>Rules:<br><br>1. Pics must go ha
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 227 |
-| Posts                | 64  |
+| Subscribers          | 238 |
+| Posts                | 65  |
 | Comments             | 189  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 22  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for posting pics that go hard.<br><br>Rules:<br><br>1. Pics must go ha
 |----------------------|---|
 | Published            | 2022-05-12 23:39:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

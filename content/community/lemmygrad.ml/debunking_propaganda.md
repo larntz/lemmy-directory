@@ -3,13 +3,13 @@ title: "Debunking Propaganda"
 name: "debunking_propaganda"
 description: "Share Links that Debunk Propaganda."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/debunking_propaganda"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 188
+subscribers: 192
 posts: 5
 comments: 9
 weight: 5
@@ -41,7 +41,7 @@ Share Links that Debunk Propaganda<br>.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 188 |
+| Subscribers          | 192 |
 | Posts                | 5  |
 | Comments             | 9  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ Share Links that Debunk Propaganda<br>.<br>
 |----------------------|---|
 | Published            | 2021-05-22 13:38:05 |
 | Updated              | 2021-05-22 14:34:48 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

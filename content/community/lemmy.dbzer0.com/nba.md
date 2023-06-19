@@ -3,7 +3,7 @@ title: "nba"
 name: "nba"
 description: "All nba related discussions"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/nba"
@@ -54,4 +54,4 @@ All nba related discussions
 |----------------------|---|
 | Published            | 2023-06-15 01:14:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

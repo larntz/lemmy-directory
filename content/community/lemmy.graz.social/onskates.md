@@ -3,17 +3,17 @@ title: "Skates"
 name: "onskates"
 description: "For everyone with wheels on their shoes.Let’s share anything from edits, feedback requests and skate spots to tips & tricks and memes."
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/onskates"
 host: lemmy.graz.social
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 2
 comments: 1
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -42,9 +42,9 @@ For everyone with wheels on their shoes.<br><br>Let’s share anything from edit
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ For everyone with wheels on their shoes.<br><br>Let’s share anything from edit
 |----------------------|---|
 | Published            | 2023-06-12 21:25:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

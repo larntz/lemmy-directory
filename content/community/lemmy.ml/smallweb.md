@@ -3,7 +3,7 @@ title: "For the small web/weird web"
 name: "smallweb"
 description: "The small web and weird web are overlapping uses of the Worldwide Web that harkens back to Web 1.0: personally-owned and non-corporate domains, text-based, and interlinked with federation or webrings."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smallweb"
@@ -54,4 +54,4 @@ The small web and weird web are overlapping uses of the Worldwide Web that harke
 |----------------------|---|
 | Published            | 2020-08-31 22:11:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "Lateinamerika"
 name: "lateinamerika"
 description: "Alles rund um Latein- und Südamerika🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lateinamerika"
@@ -54,4 +54,4 @@ Alles rund um Latein- und Südamerika<br><br>🛡 Falls du Lust hast beim Moderi
 |----------------------|---|
 | Published            | 2022-03-24 05:26:32 |
 | Updated              | 2023-06-06 17:39:32 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

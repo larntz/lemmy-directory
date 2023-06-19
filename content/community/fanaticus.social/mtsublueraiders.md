@@ -3,7 +3,7 @@ title: "Middle Tennessee Blue Raiders"
 name: "mtsublueraiders"
 description: "A community to discuss Middle Tennessee Blue Raiders athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/mtsublueraiders"
@@ -54,4 +54,4 @@ A community to discuss Middle Tennessee Blue Raiders athletics.<br><br>**Looking
 |----------------------|---|
 | Published            | 2023-06-16 00:33:43 |
 | Updated              | 2023-06-16 00:34:14 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

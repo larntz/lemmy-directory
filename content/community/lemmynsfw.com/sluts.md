@@ -3,19 +3,19 @@ title: "Sluts"
 name: "sluts"
 description: "All things Sluts. Posts must feature sluts, slutty activities, porn, pics etc. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sluts"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 102
-posts: 19
-comments: 0
-weight: 19
-dau: 1
-wau: 1
-mau: 1
+subscribers: 200
+posts: 20
+comments: 2
+weight: 20
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ All things Sluts. Posts must feature sluts, slutty activities, porn, pics etc. D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 102 |
-| Posts                | 19  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 200 |
+| Posts                | 20  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -56,4 +56,4 @@ All things Sluts. Posts must feature sluts, slutty activities, porn, pics etc. D
 |----------------------|---|
 | Published            | 2023-06-14 10:21:54 |
 | Updated              | 2023-06-14 23:41:31 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

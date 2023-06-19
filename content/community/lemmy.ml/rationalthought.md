@@ -3,13 +3,13 @@ title: "Rational Thought"
 name: "rationalthought"
 description: "Thinking rationallyrules:1. Do not be irrational"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rationalthought"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 84
+subscribers: 86
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Thinking rationally<br><br>rules:<br>1. Do not be irrational
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
+| Subscribers          | 86 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Thinking rationally<br><br>rules:<br>1. Do not be irrational
 |----------------------|---|
 | Published            | 2020-06-30 07:19:26 |
 | Updated              | 2020-06-30 07:24:21 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

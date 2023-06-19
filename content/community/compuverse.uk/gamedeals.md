@@ -3,15 +3,15 @@ title: "Game Deals"
 name: "gamedeals"
 description: "All the best deals for games, discounts, bundles etc. are all welcome!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/gamedeals"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 276
+subscribers: 311
 posts: 183
-comments: 38
+comments: 39
 weight: 183
 dau: 2
 wau: 13
@@ -41,9 +41,9 @@ All the best deals for games, discounts, bundles etc. are all welcome!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 276 |
+| Subscribers          | 311 |
 | Posts                | 183  |
-| Comments             | 38  |
+| Comments             | 39  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
@@ -54,4 +54,4 @@ All the best deals for games, discounts, bundles etc. are all welcome!
 |----------------------|---|
 | Published            | 2023-06-09 15:26:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,19 +3,19 @@ title: "Engrish"
 name: "engrish"
 description: "Skrew ups in english of any kind!"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/engrish"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 403
+subscribers: 450
 posts: 21
-comments: 53
+comments: 54
 weight: 21
-dau: 7
-wau: 38
-mau: 38
+dau: 1
+wau: 34
+mau: 39
 instances:
 - "vlemmy_net"
 tags: 
@@ -41,12 +41,12 @@ Skrew ups in english of any kind!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 403 |
+| Subscribers          | 450 |
 | Posts                | 21  |
-| Comments             | 53  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 38  |
-| Monthly Active Users | 38  |
+| Comments             | 54  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 34  |
+| Monthly Active Users | 39  |
 
 <br>
 
@@ -54,4 +54,4 @@ Skrew ups in english of any kind!
 |----------------------|---|
 | Published            | 2023-06-09 03:14:36 |
 | Updated              | 2023-06-09 03:30:23 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:05 |

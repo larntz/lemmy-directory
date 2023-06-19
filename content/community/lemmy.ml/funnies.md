@@ -3,7 +3,7 @@ title: "funnies"
 name: "funnies"
 description: "be funny"
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funnies"
@@ -54,4 +54,4 @@ be funny
 |----------------------|---|
 | Published            | 2021-05-31 21:25:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:59 |

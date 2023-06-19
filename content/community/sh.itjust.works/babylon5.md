@@ -3,16 +3,16 @@ title: "Babylon5"
 name: "babylon5"
 description: "It was the dawn of the third age of mankind. Ten years after the Earth Minbari war. The Babylon project was dream giving form. It's goal to prevent another war by creating a place where humans and aliens could work out their differences peacefully. It's a port of call. Home away from home for diplomats, hustlers, entrepreneurs, and wanders. Humans and aliens wrap in two million five hundred thousand tons of spinning metal, all alone in the night. It can be a dangerous place, but it's our last best hope for peace. This is the story of last of the Babylon stations. The year is 2258. The name of the place is Babylon 5."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/babylon5"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 75
-posts: 30
-comments: 26
-weight: 30
+subscribers: 88
+posts: 35
+comments: 28
+weight: 35
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ It was the dawn of the third age of mankind. Ten years after the Earth Minbari w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 30  |
-| Comments             | 26  |
+| Subscribers          | 88 |
+| Posts                | 35  |
+| Comments             | 28  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ It was the dawn of the third age of mankind. Ten years after the Earth Minbari w
 |----------------------|---|
 | Published            | 2023-06-11 11:18:19 |
 | Updated              | 2023-06-11 11:20:27 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

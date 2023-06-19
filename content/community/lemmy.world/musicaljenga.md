@@ -3,13 +3,13 @@ title: "Musical Jenga"
 name: "musicaljenga"
 description: "Musical collaboration via internet and apps like TikTok duets. "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/musicaljenga"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 6
 comments: 0
 weight: 6
@@ -41,7 +41,7 @@ Musical collaboration via internet and apps like TikTok duets.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Musical collaboration via internet and apps like TikTok duets.
 |----------------------|---|
 | Published            | 2023-06-13 15:30:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -1,21 +1,21 @@
 ---
 title: "Farming" 
 name: "farming"
-description: "Farm all the things!Also see:- [Animal Husbandry](/c/animal_husbandry@slrpnk.net)- [Composting](/c/composting@slrpnk.net)"
+description: "Farm all the things!Also see:- [Animal Husbandry](/c/animal_husbandry@slrpnk.net)- [Composting](/c/composting@slrpnk.net)- [!gardening@thegarden.land](/c/gardening@thegarden.land) "
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/farming"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 219
-posts: 40
-comments: 52
-weight: 40
-dau: 7
-wau: 20
-mau: 20
+subscribers: 256
+posts: 44
+comments: 71
+weight: 44
+dau: 1
+wau: 21
+mau: 27
 instances:
 - "slrpnk_net"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Farm all the things!<br><br>Also see:<br>- [Animal Husbandry](/c/animal_husbandry@slrpnk.net)<br>- [Composting](/c/composting@slrpnk.net)
+Farm all the things!<br><br>Also see:<br>- [Animal Husbandry](/c/animal_husbandry@slrpnk.net)<br>- [Composting](/c/composting@slrpnk.net)<br>- [!gardening@thegarden.land](/c/gardening@thegarden.land) 
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Farm all the things!<br><br>Also see:<br>- [Animal Husbandry](/c/animal_husbandr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 219 |
-| Posts                | 40  |
-| Comments             | 52  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 256 |
+| Posts                | 44  |
+| Comments             | 71  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 27  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2022-03-23 11:46:12 |
-| Updated              | 2023-06-16 15:41:25 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Updated              | 2023-06-18 18:12:26 |
+| Last Scraped         | 2023-06-19 11:35:28 |

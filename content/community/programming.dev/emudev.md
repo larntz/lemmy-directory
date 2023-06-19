@@ -1,21 +1,21 @@
 ---
 title: "Emulator Development" 
 name: "emudev"
-description: "Description not available."
+description: "Discuss all things related to emulators and emulator development.  Posts asking for illegal software copies (ROMs, etc.) will be removed."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/emudev"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 14
 posts: 1
-comments: 2
+comments: 3
 weight: 1
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "programming_dev"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Discuss all things related to emulators and emulator development.  <br><br>Posts asking for illegal software copies (ROMs, etc.) will be removed.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 14 |
 | Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 13:09:21 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-17 09:53:10 |
+| Last Scraped         | 2023-06-19 11:35:01 |

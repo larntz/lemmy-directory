@@ -3,13 +3,13 @@ title: "Microwave Engineering"
 name: "microwave"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/microwave"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 22
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 22 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-01 16:53:03 |
 | Updated              | 2022-01-01 19:30:11 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:56 |

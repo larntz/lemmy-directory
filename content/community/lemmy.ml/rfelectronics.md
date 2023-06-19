@@ -3,7 +3,7 @@ title: "Radio Frequency Electronucs"
 name: "rfelectronics"
 description: "Theory, Questions, construction and discussion of radio frequency electronics."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rfelectronics"
@@ -54,4 +54,4 @@ Theory, Questions, construction and discussion of radio frequency electronics.
 |----------------------|---|
 | Published            | 2023-06-04 05:47:14 |
 | Updated              | 2023-06-04 05:49:16 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

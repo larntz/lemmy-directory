@@ -3,19 +3,19 @@ title: "Spore"
 name: "spore"
 description: "Community for the 2008 Maxis game Spore, because I hadnt seen anyone else make a spore community on lemmy yet."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/spore"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 1
-comments: 3
-weight: 1
-dau: 3
-wau: 3
-mau: 3
+subscribers: 5
+posts: 2
+comments: 9
+weight: 2
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ Community for the 2008 Maxis game Spore, because I hadnt seen anyone else make a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 5 |
+| Posts                | 2  |
+| Comments             | 9  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for the 2008 Maxis game Spore, because I hadnt seen anyone else make a
 |----------------------|---|
 | Published            | 2023-06-16 17:10:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

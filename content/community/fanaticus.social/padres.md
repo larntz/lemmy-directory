@@ -3,19 +3,19 @@ title: "Padres"
 name: "padres"
 description: "Cloned from [r/Padres](https://old.reddit.com/r/Padres)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/padres"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 2
-comments: 1
-weight: 2
+posts: 6
+comments: 8
+weight: 6
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "fanaticus_social"
 tags: 
@@ -42,11 +42,11 @@ Cloned from [r/Padres](https://old.reddit.com/r/Padres)<br><br># Looking for mod
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 1  |
+| Posts                | 6  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cloned from [r/Padres](https://old.reddit.com/r/Padres)<br><br># Looking for mod
 |----------------------|---|
 | Published            | 2023-06-09 17:15:19 |
 | Updated              | 2023-06-12 16:34:27 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

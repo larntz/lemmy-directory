@@ -3,13 +3,13 @@ title: "Guerilla Warfare and the Iron Collective"
 name: "gwic"
 description: "A community so I can share and gather things for my book. "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gwic"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 63
+subscribers: 64
 posts: 7
 comments: 2
 weight: 7
@@ -41,7 +41,7 @@ A community so I can share and gather things for my book.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
+| Subscribers          | 64 |
 | Posts                | 7  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community so I can share and gather things for my book.
 |----------------------|---|
 | Published            | 2019-10-21 07:52:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

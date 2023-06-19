@@ -1,9 +1,9 @@
 ---
 title: "Exanima" 
 name: "exanima"
-description: "Everything related to Exanima and Sui Generis.Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming.Links:- [Bare Mettle](https://www.baremettle.com/)- [Steam](https://store.steampowered.com/app/362490/Exanima/)- [GOG](https://www.gog.com/en/game/exanima)"
+description: "Everything related to Exanima and Sui Generis.Links:- [Bare Mettle](https://www.baremettle.com/)- [Steam](https://store.steampowered.com/app/362490/Exanima/)- [GOG](https://www.gog.com/en/game/exanima)Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exanima"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Everything related to Exanima and Sui Generis.<br><br>Rules:<br>- No NSFW content.<br>- No hate speech or personal attacks.<br>- No spamming.<br><br>Links:<br>- [Bare Mettle](https://www.baremettle.com/)<br><br>- [Steam](https://store.steampowered.com/app/362490/Exanima/)<br><br>- [GOG](https://www.gog.com/en/game/exanima)
+Everything related to Exanima and Sui Generis.<br><br>Links:<br>- [Bare Mettle](https://www.baremettle.com/)<br><br>- [Steam](https://store.steampowered.com/app/362490/Exanima/)<br><br>- [GOG](https://www.gog.com/en/game/exanima)<br><br>Rules:<br>- No NSFW content.<br>- No hate speech or personal attacks.<br>- No spamming.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Everything related to Exanima and Sui Generis.<br><br>Rules:<br>- No NSFW conten
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 20:52:37 |
-| Updated              | 2023-06-14 22:48:24 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-17 10:18:01 |
+| Last Scraped         | 2023-06-19 11:36:38 |

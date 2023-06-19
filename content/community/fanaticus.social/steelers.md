@@ -3,7 +3,7 @@ title: "Pittsburgh Steelers"
 name: "steelers"
 description: "A community dedicated to the Pittsburgh Steelers.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/steelers"
@@ -53,5 +53,5 @@ A community dedicated to the Pittsburgh Steelers.<br><br>**Looking for Mods!**
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 01:34:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 20:29:53 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,7 +3,7 @@ title: "Bez mięsa"
 name: "bez_miesa"
 description: "Ograniczanie i rezygnacja z mięsa i innych produktów odzwierzęcych. Dla dobra zwierząt, zdrowia własnego, dla klimatu.Propaganda, przepisy, pierdoły."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/bez_miesa"
@@ -54,4 +54,4 @@ Ograniczanie i rezygnacja z mięsa i innych produktów odzwierzęcych. <br><br>D
 |----------------------|---|
 | Published            | 2021-02-01 11:43:05 |
 | Updated              | 2021-02-22 08:31:10 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

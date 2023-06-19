@@ -3,19 +3,19 @@ title: "600euro"
 name: "600euro"
 description: "Unwahre Erzählungen"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/600euro"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 119
-posts: 3
-comments: 16
-weight: 3
-dau: 8
-wau: 14
-mau: 14
+subscribers: 155
+posts: 4
+comments: 31
+weight: 4
+dau: 5
+wau: 24
+mau: 24
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Unwahre Erzählungen
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 119 |
-| Posts                | 3  |
-| Comments             | 16  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 155 |
+| Posts                | 4  |
+| Comments             | 31  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 24  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ Unwahre Erzählungen
 |----------------------|---|
 | Published            | 2023-06-12 11:47:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

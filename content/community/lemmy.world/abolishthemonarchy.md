@@ -3,13 +3,13 @@ title: "Abolish the Monarchy!"
 name: "abolishthemonarchy"
 description: "Monarchy doesn't have a place in the 21st century, it's time we got rid of it. This is a good place to discuss news, strategies, and everything else related to replacing/removing monarchs."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/abolishthemonarchy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Monarchy doesn't have a place in the 21st century, it's time we got rid of it. T
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Monarchy doesn't have a place in the 21st century, it's time we got rid of it. T
 |----------------------|---|
 | Published            | 2023-06-13 05:46:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

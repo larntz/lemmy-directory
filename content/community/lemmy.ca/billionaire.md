@@ -3,13 +3,13 @@ title: "Just billionaire things"
 name: "billionaire"
 description: "Post things your (least) fav billionaire does.This used to be the Elon Musk sub, but in an attempt to boost engagement, we have engaged a new pathway.You can post anything related to billionaires here.Tags: Tesla, paypal, spaceX, neuralink, The Boring Company."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/billionaire"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 51
 posts: 27
 comments: 3
 weight: 27
@@ -41,7 +41,7 @@ Post things your (least) fav billionaire does.<br><br>This used to be the Elon M
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 51 |
 | Posts                | 27  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post things your (least) fav billionaire does.<br><br>This used to be the Elon M
 |----------------------|---|
 | Published            | 2022-08-18 15:14:05 |
 | Updated              | 2022-08-18 16:17:04 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

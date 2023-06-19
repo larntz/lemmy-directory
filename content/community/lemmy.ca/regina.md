@@ -3,16 +3,16 @@ title: "Regina"
 name: "regina"
 description: "Regina, saskatchewanSaskatchewan sub: https://lemmy.ca/c/sask"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/regina"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 4
-comments: 5
-weight: 4
+subscribers: 21
+posts: 10
+comments: 6
+weight: 10
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ Regina, saskatchewan<br><br>Saskatchewan sub: https://lemmy.ca/c/sask
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 4  |
-| Comments             | 5  |
+| Subscribers          | 21 |
+| Posts                | 10  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Regina, saskatchewan<br><br>Saskatchewan sub: https://lemmy.ca/c/sask
 |----------------------|---|
 | Published            | 2021-10-14 02:18:19 |
 | Updated              | 2023-06-16 12:26:49 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

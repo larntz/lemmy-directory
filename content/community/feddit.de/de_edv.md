@@ -3,19 +3,19 @@ title: "de_EDV"
 name: "de_edv"
 description: "Ableger von r/de_EDV auf Lemmy.News, Diskussionen und Hilfestellung zu Hard- und SoftwareDiese Community dient als Anlaufstelle für alle IT-Interessierten, egal ob Profi oder blutiger Anfänger. Stellt eure Fragen und tauscht euch aus!Weitere IT Communitys:[!informationstechnik@feddit.de](https://feddit.de/c/informationstechnik) [!informatik@feddit.de](https://feddit.de/c/informatik) [!edv_sicherheit@feddit.de](https://feddit.de/c/edv_sicherheit) [!computerhilfe@feddit.de](https://feddit.de/c/computerhilfe) "
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/de_edv"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1466
-posts: 35
-comments: 635
-weight: 35
-dau: 103
-wau: 263
-mau: 288
+subscribers: 1677
+posts: 41
+comments: 813
+weight: 41
+dau: 48
+wau: 294
+mau: 365
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Ableger von r/de_EDV auf Lemmy.<br><br><br>News, Diskussionen und Hilfestellung 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1466 |
-| Posts                | 35  |
-| Comments             | 635  |
-| Daily Active Users   | 103  |
-| Weekly Active Users  | 263  |
-| Monthly Active Users | 288  |
+| Subscribers          | 1677 |
+| Posts                | 41  |
+| Comments             | 813  |
+| Daily Active Users   | 48  |
+| Weekly Active Users  | 294  |
+| Monthly Active Users | 365  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ableger von r/de_EDV auf Lemmy.<br><br><br>News, Diskussionen und Hilfestellung 
 |----------------------|---|
 | Published            | 2023-06-05 11:41:54 |
 | Updated              | 2023-06-14 06:40:20 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

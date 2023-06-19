@@ -3,7 +3,7 @@ title: "Kielce"
 name: "kielce"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/kielce"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-31 22:50:09 |
 | Updated              | 2021-02-16 12:07:07 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

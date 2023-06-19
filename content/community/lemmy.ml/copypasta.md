@@ -3,19 +3,19 @@ title: "I only need two buttons, CTRL-C + CTRL-V"
 name: "copypasta"
 description: "This community was made to archive copypasta."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copypasta"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 127
-posts: 37
+subscribers: 132
+posts: 38
 comments: 18
-weight: 37
+weight: 38
 dau: 1
 wau: 2
-mau: 6
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This community was made to archive copypasta.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
-| Posts                | 37  |
+| Subscribers          | 132 |
+| Posts                | 38  |
 | Comments             | 18  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 6  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community was made to archive copypasta.
 |----------------------|---|
 | Published            | 2020-02-18 01:57:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

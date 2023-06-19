@@ -3,7 +3,7 @@ title: "Chile"
 name: "chile"
 description: "Comunidad chilena en LemmyThe Chilean community in Lemmy."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chile"
@@ -54,4 +54,4 @@ Comunidad chilena en Lemmy<br>The Chilean community in Lemmy.
 |----------------------|---|
 | Published            | 2020-05-24 21:41:11 |
 | Updated              | 2021-05-08 23:19:06 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

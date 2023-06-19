@@ -3,17 +3,17 @@ title: "RCT"
 name: "rct"
 description: "Migration of the Reddit community /r/RCT. Focused on the classic roller coaster sim games, RCT1, RCT2, RCT3, RCTC and the open-source OpenRCT2."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/rct"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
+subscribers: 3
+posts: 1
+comments: 2
+weight: 1
+dau: 1
 wau: 0
 mau: 0
 instances:
@@ -41,10 +41,10 @@ Migration of the Reddit community /r/RCT. Focused on the classic roller coaster 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
+| Subscribers          | 3 |
+| Posts                | 1  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
 
@@ -54,4 +54,4 @@ Migration of the Reddit community /r/RCT. Focused on the classic roller coaster 
 |----------------------|---|
 | Published            | 2023-06-12 20:23:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

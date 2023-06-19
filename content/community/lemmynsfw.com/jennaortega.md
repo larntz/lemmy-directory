@@ -3,13 +3,13 @@ title: "Jenna Ortega"
 name: "jennaortega"
 description: "Jenna Ortega's pictures, gifs, and videos"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jennaortega"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 61
 posts: 5
 comments: 0
 weight: 5
@@ -43,7 +43,7 @@ Jenna Ortega's pictures, gifs, and videos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 61 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Jenna Ortega's pictures, gifs, and videos
 |----------------------|---|
 | Published            | 2023-06-14 10:07:12 |
 | Updated              | 2023-06-16 01:39:35 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

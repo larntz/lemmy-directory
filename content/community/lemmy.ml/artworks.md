@@ -3,13 +3,13 @@ title: "artworks"
 name: "artworks"
 description: "Sharing pieces of art that we likePaintings, drawings, sculptures"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artworks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 130
+subscribers: 134
 posts: 22
 comments: 4
 weight: 22
@@ -41,7 +41,7 @@ Sharing pieces of art that we like<br>Paintings, drawings, sculptures
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 130 |
+| Subscribers          | 134 |
 | Posts                | 22  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sharing pieces of art that we like<br>Paintings, drawings, sculptures
 |----------------------|---|
 | Published            | 2020-01-19 19:43:36 |
 | Updated              | 2021-04-30 14:39:47 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

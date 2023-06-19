@@ -3,19 +3,19 @@ title: "Support"
 name: "support"
 description: "Community for all your questions and help relating to Lemmy, VLemmy (this instance), or the Fediverse in general."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/support"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 6
-comments: 101
-weight: 6
-dau: 9
-wau: 23
-mau: 23
+subscribers: 35
+posts: 7
+comments: 115
+weight: 7
+dau: 4
+wau: 24
+mau: 24
 instances:
 - "vlemmy_net"
 tags: 
@@ -41,12 +41,12 @@ Community for all your questions and help relating to Lemmy, VLemmy (this instan
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 6  |
-| Comments             | 101  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 23  |
+| Subscribers          | 35 |
+| Posts                | 7  |
+| Comments             | 115  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 24  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for all your questions and help relating to Lemmy, VLemmy (this instan
 |----------------------|---|
 | Published            | 2023-06-09 00:04:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,7 +3,7 @@ title: "Interesting…"
 name: "interesting"
 description: "Anything and everything people may find interesting, post it here!"
 type: community
-date: "2023-06-16 22:56:01"
+date: "2023-06-19 11:34:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.lukeog.com/c/interesting"
@@ -54,4 +54,4 @@ Anything and everything people may find interesting, post it here!
 |----------------------|---|
 | Published            | 2023-06-13 12:48:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:01 |
+| Last Scraped         | 2023-06-19 11:34:59 |

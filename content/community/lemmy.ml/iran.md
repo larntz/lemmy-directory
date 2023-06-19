@@ -3,13 +3,13 @@ title: "Iran"
 name: "iran"
 description: "All things Iran-related!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iran"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 31
 comments: 8
 weight: 31
@@ -41,7 +41,7 @@ All things Iran-related!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 31  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things Iran-related!
 |----------------------|---|
 | Published            | 2020-05-03 18:35:48 |
 | Updated              | 2022-07-17 06:19:58 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

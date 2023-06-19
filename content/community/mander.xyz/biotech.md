@@ -3,19 +3,19 @@ title: "Biotechnology"
 name: "biotech"
 description: "Biology and technology to tackle the issues of the 21st century."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/biotech"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 1
+subscribers: 44
+posts: 2
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Biology and technology to tackle the issues of the 21st century.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
+| Subscribers          | 44 |
+| Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Biology and technology to tackle the issues of the 21st century.
 |----------------------|---|
 | Published            | 2023-06-09 07:33:34 |
 | Updated              | 2023-06-09 07:36:31 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

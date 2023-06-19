@@ -3,18 +3,18 @@ title: "Angels Baseball"
 name: "angelsbaseball"
 description: "Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/angelsbaseball"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "fanaticus_social"
@@ -41,11 +41,11 @@ Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)<br><br>
 |----------------------|---|
 | Published            | 2023-06-09 17:03:32 |
 | Updated              | 2023-06-12 16:30:53 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

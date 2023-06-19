@@ -3,18 +3,18 @@ title: "JPiolho's Castle"
 name: "jpiolho"
 description: "Random things that I found around that I want to share"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/jpiolho"
 host: lemmy.jpiolho.com
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 15
+posts: 19
 comments: 1
-weight: 15
+weight: 19
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_jpiolho_com"
@@ -42,10 +42,10 @@ Random things that I found around that I want to share
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 15  |
+| Posts                | 19  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Random things that I found around that I want to share
 |----------------------|---|
 | Published            | 2023-06-10 18:34:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

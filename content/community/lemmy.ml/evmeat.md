@@ -3,7 +3,7 @@ title: "Environmentally friendly meat production"
 name: "evmeat"
 description: "A place to talk about how meat production can help the environment, and ways to make meat production more environmentally friendly.Example, regenerative agricultural. Regenerative grazing.Argument in good faith will not be deleted. Sources appreciated. "
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/evmeat"
@@ -54,4 +54,4 @@ A place to talk about how meat production can help the environment, and ways to 
 |----------------------|---|
 | Published            | 2022-09-06 13:10:33 |
 | Updated              | 2022-09-06 14:00:09 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:50 |

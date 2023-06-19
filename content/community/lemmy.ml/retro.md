@@ -3,13 +3,13 @@ title: "retro"
 name: "retro"
 description: "Going back in time with computers and Internet"
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/retro"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 406
+subscribers: 413
 posts: 56
 comments: 13
 weight: 56
@@ -41,7 +41,7 @@ Going back in time with computers and Internet
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 406 |
+| Subscribers          | 413 |
 | Posts                | 56  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Going back in time with computers and Internet
 |----------------------|---|
 | Published            | 2020-01-22 23:17:50 |
 | Updated              | 2021-06-20 15:11:08 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,17 +3,17 @@ title: "indieheads"
 name: "indieheads"
 description: "To discuss independent music "
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/indieheads"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 38
 posts: 4
-comments: 7
+comments: 8
 weight: 4
-dau: 3
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ To discuss independent music
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 38 |
 | Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 3  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ To discuss independent music
 |----------------------|---|
 | Published            | 2023-06-13 18:12:33 |
 | Updated              | 2023-06-13 18:20:58 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

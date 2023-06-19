@@ -3,7 +3,7 @@ title: "amogus"
 name: "amogus"
 description: "amogus"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/amogus"
@@ -54,4 +54,4 @@ amogus
 |----------------------|---|
 | Published            | 2023-06-07 14:05:56 |
 | Updated              | 2023-06-07 14:29:47 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

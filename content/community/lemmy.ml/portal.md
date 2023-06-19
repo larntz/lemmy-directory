@@ -3,13 +3,13 @@ title: "portal"
 name: "portal"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/portal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 43
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 43 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-29 22:13:58 |
 | Updated              | 2021-04-29 22:18:11 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

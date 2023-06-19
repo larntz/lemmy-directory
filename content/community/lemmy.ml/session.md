@@ -3,13 +3,13 @@ title: "Session"
 name: "session"
 description: "A sublemmy for discussing session, getsession.org, an opensource decentralized chat application."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/session"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A sublemmy for discussing session, getsession.org, an opensource decentralized c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 14 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A sublemmy for discussing session, getsession.org, an opensource decentralized c
 |----------------------|---|
 | Published            | 2021-12-14 09:56:41 |
 | Updated              | 2021-12-15 20:40:40 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:43 |

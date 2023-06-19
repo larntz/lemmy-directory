@@ -3,13 +3,13 @@ title: "WorldNews"
 name: "worldnews"
 description: "What is happening in the world today?"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/worldnews"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 66
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ What is happening in the world today?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 66 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ What is happening in the world today?
 |----------------------|---|
 | Published            | 2023-06-08 19:14:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,19 +3,19 @@ title: "Ableton"
 name: "ableton"
 description: "Here we discuss all things Ableton Live / Push / M4L"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/ableton"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 54
-posts: 1
+subscribers: 61
+posts: 2
 comments: 1
-weight: 1
+weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ Here we discuss all things Ableton Live / Push / M4L
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 1  |
+| Subscribers          | 61 |
+| Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Here we discuss all things Ableton Live / Push / M4L
 |----------------------|---|
 | Published            | 2023-06-11 16:53:33 |
 | Updated              | 2023-06-11 17:09:10 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

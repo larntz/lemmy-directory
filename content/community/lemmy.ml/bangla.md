@@ -3,7 +3,7 @@ title: "বাংলা ভাষা"
 name: "bangla"
 description: "বাংলা ভাষায় কথা। ভাষা বা বাংলা ভাষায় অন্য যেকোনো কিছু।নিয়ম:• সব কথা বাংলায় হবে।"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bangla"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-05 17:41:41 |
 | Updated              | 2023-06-05 17:42:02 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

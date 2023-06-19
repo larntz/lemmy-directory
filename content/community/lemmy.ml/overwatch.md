@@ -3,7 +3,7 @@ title: "Overwatch"
 name: "overwatch"
 description: "Overwatch Game"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/overwatch"
@@ -54,4 +54,4 @@ Overwatch Game
 |----------------------|---|
 | Published            | 2020-02-19 16:58:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

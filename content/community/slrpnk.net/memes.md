@@ -3,19 +3,19 @@ title: "memes"
 name: "memes"
 description: "For when you need a laugh"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/memes"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 230
-posts: 36
-comments: 56
-weight: 36
-dau: 8
-wau: 31
-mau: 36
+subscribers: 282
+posts: 44
+comments: 79
+weight: 44
+dau: 6
+wau: 43
+mau: 52
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ For when you need a laugh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 230 |
-| Posts                | 36  |
-| Comments             | 56  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 31  |
-| Monthly Active Users | 36  |
+| Subscribers          | 282 |
+| Posts                | 44  |
+| Comments             | 79  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 43  |
+| Monthly Active Users | 52  |
 
 <br>
 
@@ -54,4 +54,4 @@ For when you need a laugh
 |----------------------|---|
 | Published            | 2022-03-24 21:27:06 |
 | Updated              | 2023-06-13 17:24:41 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

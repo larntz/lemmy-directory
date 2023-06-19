@@ -3,13 +3,13 @@ title: "Health questions"
 name: "healthquestions"
 description: "For health questions that you should ideally take to a professional, but can't for some reason.You should assume any advice you've received here is from some dumb dumb.Tags; Ask doctors, dr"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/healthquestions"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 22
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ For health questions that you should ideally take to a professional, but can't f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 22 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For health questions that you should ideally take to a professional, but can't f
 |----------------------|---|
 | Published            | 2022-05-19 16:43:15 |
 | Updated              | 2023-05-12 16:34:32 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:37 |

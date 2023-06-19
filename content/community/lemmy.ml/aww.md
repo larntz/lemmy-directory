@@ -3,19 +3,19 @@ title: "cute dogs, cats, and other animals"
 name: "aww"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aww"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4146
-posts: 455
-comments: 488
-weight: 455
-dau: 25
-wau: 302
-mau: 342
+subscribers: 4563
+posts: 482
+comments: 547
+weight: 482
+dau: 38
+wau: 298
+mau: 389
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4146 |
-| Posts                | 455  |
-| Comments             | 488  |
-| Daily Active Users   | 25  |
-| Weekly Active Users  | 302  |
-| Monthly Active Users | 342  |
+| Subscribers          | 4563 |
+| Posts                | 482  |
+| Comments             | 547  |
+| Daily Active Users   | 38  |
+| Weekly Active Users  | 298  |
+| Monthly Active Users | 389  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-03-15 17:42:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

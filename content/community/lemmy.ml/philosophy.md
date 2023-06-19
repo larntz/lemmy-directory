@@ -3,18 +3,18 @@ title: "Philosophy"
 name: "philosophy"
 description: "All about Philosophy. "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/philosophy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 798
+subscribers: 826
 posts: 52
 comments: 18
 weight: 52
 dau: 1
-wau: 3
+wau: 2
 mau: 8
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ All about Philosophy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 798 |
+| Subscribers          | 826 |
 | Posts                | 52  |
 | Comments             | 18  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 8  |
 
 <br>
@@ -54,4 +54,4 @@ All about Philosophy.
 |----------------------|---|
 | Published            | 2020-06-03 16:12:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

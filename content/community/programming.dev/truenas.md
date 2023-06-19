@@ -3,19 +3,19 @@ title: "TrueNAS"
 name: "truenas"
 description: "Welcome to the unofficial TrueNAS community!Here for all things TrueNAS whether you need help with your core, scale, or enterprise edition setups or if you just want to discuss random stuff pertaining to TrueNAS!"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/truenas"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 46
 posts: 2
-comments: 8
+comments: 10
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the unofficial TrueNAS community!<br><br>Here for all things TrueNAS 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 46 |
 | Posts                | 2  |
-| Comments             | 8  |
+| Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the unofficial TrueNAS community!<br><br>Here for all things TrueNAS 
 |----------------------|---|
 | Published            | 2023-06-14 00:35:51 |
 | Updated              | 2023-06-14 04:30:50 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

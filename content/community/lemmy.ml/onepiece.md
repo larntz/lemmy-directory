@@ -3,13 +3,13 @@ title: "One Piece"
 name: "onepiece"
 description: "Come here to discuss Eiichiro Oda’s long-running manga/anime series One Piece!"
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/onepiece"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Come here to discuss Eiichiro Oda’s long-running manga/anime series One Piece!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Come here to discuss Eiichiro Oda’s long-running manga/anime series One Piece!
 |----------------------|---|
 | Published            | 2021-12-21 01:30:51 |
 | Updated              | 2021-12-21 01:48:47 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:37:01 |

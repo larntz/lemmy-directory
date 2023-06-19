@@ -3,19 +3,19 @@ title: "CW Talk"
 name: "cw_talk"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/cw_talk"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 1
-comments: 3
+comments: 12
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_radio"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 1  |
-| Comments             | 3  |
+| Comments             | 12  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 20:49:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

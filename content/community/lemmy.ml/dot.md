@@ -3,7 +3,7 @@ title: "Dot Community "
 name: "dot"
 description: "An unofficial community for Dot Browser. Ask questions about it and talk with the community!"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dot"
@@ -54,4 +54,4 @@ An unofficial community for Dot Browser. Ask questions about it and talk with th
 |----------------------|---|
 | Published            | 2021-06-21 18:48:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,13 +3,13 @@ title: "Cryptpad"
 name: "cryptpad"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptpad"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-14 14:54:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:36:43 |

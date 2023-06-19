@@ -3,13 +3,13 @@ title: "DJs"
 name: "djs"
 description: "reddit.com/r/djs refugees!"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/djs"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ reddit.com/r/djs refugees!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ reddit.com/r/djs refugees!
 |----------------------|---|
 | Published            | 2023-06-12 00:57:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

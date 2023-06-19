@@ -3,13 +3,13 @@ title: "Chinese Language (中文）"
 name: "chinese"
 description: "A community for learning and discussing about the Chinese language.一個學習也討論中文的社會。"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chinese"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 49
 posts: 13
 comments: 9
 weight: 13
@@ -41,7 +41,7 @@ A community for learning and discussing about the Chinese language.<br><br>一�
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 49 |
 | Posts                | 13  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for learning and discussing about the Chinese language.<br><br>一�
 |----------------------|---|
 | Published            | 2021-03-27 08:22:21 |
 | Updated              | 2021-03-28 04:31:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:43 |

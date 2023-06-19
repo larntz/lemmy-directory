@@ -3,13 +3,13 @@ title: "The Owl House"
 name: "theowlhouse"
 description: "Us weirdos need to stick together!"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://toons.zone/c/theowlhouse"
 host: toons.zone
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Us weirdos need to stick together!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Us weirdos need to stick together!
 |----------------------|---|
 | Published            | 2023-06-09 19:34:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

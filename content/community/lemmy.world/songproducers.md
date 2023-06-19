@@ -3,13 +3,13 @@ title: "beets, beets, tasty beets,"
 name: "songproducers"
 description: "Share stuff about music production!"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/songproducers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Share stuff about music production!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Share stuff about music production!
 |----------------------|---|
 | Published            | 2023-06-10 04:46:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

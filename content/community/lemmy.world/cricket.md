@@ -3,19 +3,19 @@ title: "Cricket"
 name: "cricket"
 description: "This is a community for the game of cricket. I don't know if there's one for bugs yet. "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cricket"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 11
-comments: 12
-weight: 11
-dau: 3
-wau: 8
-mau: 9
+subscribers: 69
+posts: 21
+comments: 60
+weight: 21
+dau: 7
+wau: 17
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This is a community for the game of cricket. I don't know if there's one for bug
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 11  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Subscribers          | 69 |
+| Posts                | 21  |
+| Comments             | 60  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a community for the game of cricket. I don't know if there's one for bug
 |----------------------|---|
 | Published            | 2023-06-09 14:54:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

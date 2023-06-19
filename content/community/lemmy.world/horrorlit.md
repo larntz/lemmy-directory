@@ -3,19 +3,19 @@ title: "Horror Lit"
 name: "horrorlit"
 description: "Horror book discussion, requests, trivia, best of, worst of, etc.All-inclusive community. No bigots, please."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/horrorlit"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 1
-comments: 0
-weight: 1
+subscribers: 22
+posts: 2
+comments: 3
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Horror book discussion, requests, trivia, best of, worst of, etc.<br><br>All-inc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 22 |
+| Posts                | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Horror book discussion, requests, trivia, best of, worst of, etc.<br><br>All-inc
 |----------------------|---|
 | Published            | 2023-06-13 20:35:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,19 +3,19 @@ title: "Hacker News"
 name: "hackernews"
 description: "A mirror of Hacker News' best submissions."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.smeargle.fans/c/hackernews"
 host: lemmy.smeargle.fans
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 230
-comments: 3
-weight: 230
+subscribers: 35
+posts: 385
+comments: 8
+weight: 385
 dau: 3
-wau: 4
-mau: 4
+wau: 10
+mau: 10
 instances:
 - "lemmy_smeargle_fans"
 tags: 
@@ -41,12 +41,12 @@ A mirror of Hacker News' best submissions.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 230  |
-| Comments             | 3  |
+| Subscribers          | 35 |
+| Posts                | 385  |
+| Comments             | 8  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ A mirror of Hacker News' best submissions.
 |----------------------|---|
 | Published            | 2023-06-14 16:13:44 |
 | Updated              | 2023-06-14 16:31:02 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

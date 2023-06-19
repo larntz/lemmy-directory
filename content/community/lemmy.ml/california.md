@@ -3,18 +3,18 @@ title: "california"
 name: "california"
 description: ""
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/california"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 36
 posts: 11
 comments: 2
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 36 |
 | Posts                | 11  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-12 02:33:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:46 |

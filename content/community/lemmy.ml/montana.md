@@ -3,16 +3,16 @@ title: "Montana"
 name: "montana"
 description: "Montana the 4th largest state"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/montana"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Montana the 4th largest state
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Montana the 4th largest state
 |----------------------|---|
 | Published            | 2023-06-15 14:59:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

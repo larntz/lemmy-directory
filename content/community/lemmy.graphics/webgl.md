@@ -3,7 +3,7 @@ title: "WebGL"
 name: "webgl"
 description: "A place to discuss 3D graphics on the web."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/webgl"
@@ -54,4 +54,4 @@ A place to discuss 3D graphics on the web.
 |----------------------|---|
 | Published            | 2023-06-14 15:50:09 |
 | Updated              | 2023-06-14 16:00:22 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

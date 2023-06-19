@@ -3,13 +3,13 @@ title: "Quotes"
 name: "quotes"
 description: "quotes that you found and like to share"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/quotes"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 23
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ quotes that you found and like to share
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 23 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ quotes that you found and like to share
 |----------------------|---|
 | Published            | 2022-05-26 10:56:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

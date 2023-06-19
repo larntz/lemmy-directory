@@ -3,19 +3,19 @@ title: "Cocktails"
 name: "cocktails"
 description: "Welcome to !cocktails@midwest.social, where you can share and converse about anything cocktails and mixology.If you’re interested in participating, please subscribe.Rules:Be respectful and civil. No racism/bigotry/hateful speech."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cocktails"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 4
-comments: 19
+comments: 22
 weight: 4
-dau: 4
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Welcome to !cocktails@midwest.social, where you can share and converse about any
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 4  |
-| Comments             | 19  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 22  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to !cocktails@midwest.social, where you can share and converse about any
 |----------------------|---|
 | Published            | 2023-06-14 23:30:27 |
 | Updated              | 2023-06-16 19:52:08 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

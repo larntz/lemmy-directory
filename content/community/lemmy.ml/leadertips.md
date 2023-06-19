@@ -3,13 +3,13 @@ title: "Moderator / Leader Tips"
 name: "leadertips"
 description: "Upload your tips for how to moderator/lead here. Bonus points if it's a vaguely scientific analysis on the best ways to moderate/lead."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leadertips"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Upload your tips for how to moderator/lead here. Bonus points if it's a vaguely 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Upload your tips for how to moderator/lead here. Bonus points if it's a vaguely 
 |----------------------|---|
 | Published            | 2022-02-07 22:43:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:37:01 |

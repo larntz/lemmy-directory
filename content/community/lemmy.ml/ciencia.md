@@ -3,13 +3,13 @@ title: "Ciencia"
 name: "ciencia"
 description: "Divulgación científica, discusión de publicaciones, invitaciones a eventos científicos"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ciencia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 8
 comments: 2
 weight: 8
@@ -41,7 +41,7 @@ Divulgación científica, discusión de publicaciones, invitaciones a eventos ci
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 8  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Divulgación científica, discusión de publicaciones, invitaciones a eventos ci
 |----------------------|---|
 | Published            | 2022-01-19 10:32:18 |
 | Updated              | 2022-01-21 19:04:22 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:44 |

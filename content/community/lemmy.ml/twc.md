@@ -3,7 +3,7 @@ title: "tech workers coalition"
 name: "twc"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twc"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-22 16:56:00 |
 | Updated              | 2020-09-17 18:00:27 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:57 |

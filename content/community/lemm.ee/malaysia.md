@@ -3,13 +3,13 @@ title: "Malaysia"
 name: "malaysia"
 description: "A community for Malaysia and all things Malaysian."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/malaysia"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A community for Malaysia and all things Malaysian.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for Malaysia and all things Malaysian.
 |----------------------|---|
 | Published            | 2023-06-16 06:23:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,19 +3,19 @@ title: "Bicycling"
 name: "bicycling"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bicycling"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 380
-posts: 25
-comments: 51
-weight: 25
-dau: 4
-wau: 22
-mau: 22
+subscribers: 419
+posts: 26
+comments: 54
+weight: 26
+dau: 1
+wau: 26
+mau: 26
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 380 |
-| Posts                | 25  |
-| Comments             | 51  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
+| Subscribers          | 419 |
+| Posts                | 26  |
+| Comments             | 54  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-05-19 22:32:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

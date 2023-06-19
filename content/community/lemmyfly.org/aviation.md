@@ -3,19 +3,19 @@ title: "aviation"
 name: "aviation"
 description: "community about aviation in general"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/aviation"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 65
-posts: 7
-comments: 27
-weight: 7
+subscribers: 83
+posts: 9
+comments: 30
+weight: 9
 dau: 1
-wau: 11
-mau: 11
+wau: 12
+mau: 12
 instances:
 - "lemmyfly_org"
 tags: 
@@ -41,12 +41,12 @@ community about aviation in general
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
-| Posts                | 7  |
-| Comments             | 27  |
+| Subscribers          | 83 |
+| Posts                | 9  |
+| Comments             | 30  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ community about aviation in general
 |----------------------|---|
 | Published            | 2023-06-08 11:57:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

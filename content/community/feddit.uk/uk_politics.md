@@ -3,19 +3,19 @@ title: "UK Politics"
 name: "uk_politics"
 description: "General Discussion for politics in the UK"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/uk_politics"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 455
-posts: 15
-comments: 76
-weight: 15
-dau: 6
-wau: 51
-mau: 51
+subscribers: 592
+posts: 28
+comments: 140
+weight: 28
+dau: 24
+wau: 81
+mau: 85
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ General Discussion for politics in the UK
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 455 |
-| Posts                | 15  |
-| Comments             | 76  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 51  |
-| Monthly Active Users | 51  |
+| Subscribers          | 592 |
+| Posts                | 28  |
+| Comments             | 140  |
+| Daily Active Users   | 24  |
+| Weekly Active Users  | 81  |
+| Monthly Active Users | 85  |
 
 <br>
 
@@ -54,4 +54,4 @@ General Discussion for politics in the UK
 |----------------------|---|
 | Published            | 2023-06-09 15:33:05 |
 | Updated              | 2023-06-16 19:19:22 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

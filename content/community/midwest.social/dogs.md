@@ -3,19 +3,19 @@ title: "Dogs"
 name: "dogs"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/dogs"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 70
-posts: 7
-comments: 2
-weight: 7
-dau: 1
-wau: 2
-mau: 2
+subscribers: 76
+posts: 9
+comments: 4
+weight: 9
+dau: 3
+wau: 4
+mau: 5
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 7  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 76 |
+| Posts                | 9  |
+| Comments             | 4  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-03 16:23:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,13 +3,13 @@ title: "Hong Kong"
 name: "hongkong"
 description: "A community to discuss everything Hong Kong.Rules:1. Please add a flair in the title of every post. Example: “[News] Hong Kong murdered by cartoon bear.”, “[Culture] Hong Kong street food is amazing!”, “[Question] How many people speak Simplified Chinese in Hong Kong?”List of flairs: [News], [Culture], [Discussion], [Question], [Request], [Guide]. More will be added as time goes on.2. Follow the Lemmy Rules of Conduct."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hongkong"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ A community to discuss everything Hong Kong.<br><br>Rules:<br><br>1. Please add 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to discuss everything Hong Kong.<br><br>Rules:<br><br>1. Please add 
 |----------------------|---|
 | Published            | 2020-06-02 22:25:53 |
 | Updated              | 2020-06-03 14:36:44 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,7 +3,7 @@ title: "UK News"
 name: "uknews"
 description: "Chat about UK news here!No politics please."
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/uknews"
@@ -54,4 +54,4 @@ Chat about UK news here!<br><br>No politics please.
 |----------------------|---|
 | Published            | 2023-06-13 11:18:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:54 |

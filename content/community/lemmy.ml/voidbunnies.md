@@ -3,13 +3,13 @@ title: "Void Bunnies"
 name: "voidbunnies"
 description: "Sublemmy for black bunny content! Voids and black holes in the shape of bunnies. ⚫🐰Lemmy.world: [!voidbunnies@lemmy.world](/c/voidbunnies@lemmy.world)Originating from [r/VoidBunnies](https://old.reddit.com/r/VoidBunnies/)"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/voidbunnies"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Sublemmy for black bunny content! Voids and black holes in the shape of bunnies.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sublemmy for black bunny content! Voids and black holes in the shape of bunnies.
 |----------------------|---|
 | Published            | 2023-06-04 07:06:29 |
 | Updated              | 2023-06-14 12:48:34 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:56 |

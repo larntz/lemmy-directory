@@ -3,19 +3,19 @@ title: "VHF+"
 name: "vhf"
 description: "Everything VHF and up! FM, SSB, WSJT-X, SOTA, microwaves, there is a lot the bands 50MHz and up have to offer. "
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/vhf"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 3
-comments: 6
+comments: 12
 weight: 3
-dau: 1
-wau: 4
-mau: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_radio"
 tags: 
@@ -41,12 +41,12 @@ Everything VHF and up! <br><br>FM, SSB, WSJT-X, SOTA, microwaves, there is a lot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Comments             | 12  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything VHF and up! <br><br>FM, SSB, WSJT-X, SOTA, microwaves, there is a lot
 |----------------------|---|
 | Published            | 2023-06-13 19:12:37 |
 | Updated              | 2023-06-14 18:02:29 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

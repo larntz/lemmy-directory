@@ -3,19 +3,19 @@ title: "Philadelphia Eagles"
 name: "eagles"
 description: "NFL [!nfl@lemmy.ml](https://lemmy.ml/c/nfl) - [!nfl@lemmy.world](https://lemmy.world/c/nfl) Arizona Cardinals [!azcardinals@lemmy.ml](https://lemmy.ml/c/azcardinals) Chicago Bears [!chibears@1337lemmy.com](https://1337lemmy.com/c/chibears) Cleveland Browns [!browns@lemmy.world](https://lemmy.world/c/browns) Dallas Cowboys [!dallascowboys@lemmy.ml](https://lemmy.ml/c/dallascowboys) Denver Broncos [!denverbroncos@lemmy.ml](https://lemmy.ml/c/denverbroncos) Detroit Lions [!detroitlions@sh.itjust.works](sh.itjust.works/c/detroitlions) Green Bay Packers [!packers@sh.itjust.works](https://sh.itjust.works/c/packers) Houston Texans [!texans@lemmy.rogers-net.com](https://lemmy.rogers-net.com/c/texans) Kansas City Chiefs [!kansascitychiefs@lemmy.world](https://lemmy.world/c/kansascitychiefs) Jacksonville Jaguars [!jaguars@lemmy.ml](https://lemmy.ml/c/jaguars) Los Angeles Rams [!larams@lemmy.world](https://lemmy.world/c/larams) Minnesota Vikings [!minnesotavikings@feddit.de](https://feddit.de/c/minnesotavikings) New England Patriots [!patriots@lemmy.ml](https://lemmy.ml/c/patriots) New York Jets [!nyjets@lemmy.ml](https://lemmy.ml/c/nyjets) Philadelphia Eagles  [!eagles@lemmy.world](https://lemmy.world/c/eagles) San Francisco 49ers [!49ers@lemmy.world](https://lemmy.world/c/49ers) Seattle Seahawks [!seahawks@lemmy.ml](https://lemmy.ml/c/seahawks)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eagles"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 68
+subscribers: 75
 posts: 6
-comments: 37
+comments: 38
 weight: 6
-dau: 4
-wau: 16
-mau: 16
+dau: 1
+wau: 17
+mau: 17
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ NFL [!nfl@lemmy.ml](https://lemmy.ml/c/nfl) - [!nfl@lemmy.world](https://lemmy.w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
+| Subscribers          | 75 |
 | Posts                | 6  |
-| Comments             | 37  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 16  |
+| Comments             | 38  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ NFL [!nfl@lemmy.ml](https://lemmy.ml/c/nfl) - [!nfl@lemmy.world](https://lemmy.w
 |----------------------|---|
 | Published            | 2023-06-09 19:59:33 |
 | Updated              | 2023-06-12 12:32:18 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:39 |

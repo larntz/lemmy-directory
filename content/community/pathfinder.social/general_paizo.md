@@ -3,13 +3,13 @@ title: "General Paizo Discussion"
 name: "general_paizo"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/general_paizo"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 88
 posts: 4
 comments: 12
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 88 |
 | Posts                | 4  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 03:17:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

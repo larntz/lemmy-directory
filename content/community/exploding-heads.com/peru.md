@@ -3,16 +3,16 @@ title: "Peru"
 name: "peru"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/peru"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 4
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 4  |
+| Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-07 19:31:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

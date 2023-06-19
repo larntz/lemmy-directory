@@ -3,16 +3,16 @@ title: "Wikipedia"
 name: "wikipedia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wikipedia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 59
-posts: 14
+subscribers: 62
+posts: 15
 comments: 16
-weight: 14
+weight: 15
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 14  |
+| Subscribers          | 62 |
+| Posts                | 15  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-30 19:55:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

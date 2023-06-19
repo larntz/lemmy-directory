@@ -3,19 +3,19 @@ title: "Hmmm"
 name: "hmmm"
 description: "For all things that make you stop and go hmmm..."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hmmm"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 54
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+subscribers: 169
+posts: 8
+comments: 11
+weight: 8
+dau: 11
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For all things that make you stop and go hmmm...
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 169 |
+| Posts                | 8  |
+| Comments             | 11  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all things that make you stop and go hmmm...
 |----------------------|---|
 | Published            | 2023-06-15 01:53:02 |
 | Updated              | 2023-06-15 02:21:09 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

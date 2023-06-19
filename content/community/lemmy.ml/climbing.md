@@ -3,19 +3,19 @@ title: "Climbing"
 name: "climbing"
 description: "Discussion of all aspects of climbing from indoor bouldering to high altitude mountaineering. "
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/climbing"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 117
-posts: 19
-comments: 42
-weight: 19
-dau: 14
-wau: 24
-mau: 26
+subscribers: 145
+posts: 22
+comments: 52
+weight: 22
+dau: 2
+wau: 26
+mau: 28
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion of all aspects of climbing from indoor bouldering to high altitude mo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 117 |
-| Posts                | 19  |
-| Comments             | 42  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 26  |
+| Subscribers          | 145 |
+| Posts                | 22  |
+| Comments             | 52  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 28  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion of all aspects of climbing from indoor bouldering to high altitude mo
 |----------------------|---|
 | Published            | 2020-06-30 09:14:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

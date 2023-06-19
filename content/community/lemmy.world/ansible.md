@@ -3,13 +3,13 @@ title: "Ansible"
 name: "ansible"
 description: "# TODO"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ansible"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 22 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 01:19:11 |
 | Updated              | 2023-06-12 01:32:30 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

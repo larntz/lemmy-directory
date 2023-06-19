@@ -3,16 +3,16 @@ title: "Lemmy.film Meta"
 name: "lemmyfilm"
 description: "Meta discussion about this Lemmy instance!"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/lemmyfilm"
 host: lemmy.film
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 5
+subscribers: 22
+posts: 6
 comments: 12
-weight: 5
+weight: 6
 dau: 1
 wau: 4
 mau: 4
@@ -41,8 +41,8 @@ Meta discussion about this Lemmy instance!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 5  |
+| Subscribers          | 22 |
+| Posts                | 6  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
@@ -54,4 +54,4 @@ Meta discussion about this Lemmy instance!
 |----------------------|---|
 | Published            | 2023-06-09 15:27:02 |
 | Updated              | 2023-06-10 17:06:19 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

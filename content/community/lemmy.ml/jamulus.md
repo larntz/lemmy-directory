@@ -3,16 +3,16 @@ title: "Jamulus"
 name: "jamulus"
 description: "Community forum for fans and users of the FOSS project, Jamulus. This is not an official forum run by the developers, but a community discussion board. All are welcome."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jamulus"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 1
+subscribers: 5
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Community forum for fans and users of the FOSS project, Jamulus. This is not an 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
+| Subscribers          | 5 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Community forum for fans and users of the FOSS project, Jamulus. This is not an 
 |----------------------|---|
 | Published            | 2023-06-13 06:11:26 |
 | Updated              | 2023-06-13 21:40:55 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

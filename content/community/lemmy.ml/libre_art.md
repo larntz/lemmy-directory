@@ -3,7 +3,7 @@ title: "Libre Art"
 name: "libre_art"
 description: "Creative artwork that is under a free or copyleft license."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libre_art"
@@ -54,4 +54,4 @@ Creative artwork that is under a free or copyleft license.
 |----------------------|---|
 | Published            | 2021-01-09 04:06:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:46 |

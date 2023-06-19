@@ -3,19 +3,19 @@ title: "Feddit UK"
 name: "feddituk"
 description: "Community for the Feddit UK instance. A place to discuss bugs/issues/improvements/questions for the feddit.uk instance as well as a place to post updates"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/feddituk"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 155
-posts: 14
-comments: 174
-weight: 14
-dau: 13
-wau: 51
-mau: 51
+subscribers: 237
+posts: 15
+comments: 193
+weight: 15
+dau: 5
+wau: 61
+mau: 61
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Community for the Feddit UK instance. A place to discuss bugs/issues/improvement
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 155 |
-| Posts                | 14  |
-| Comments             | 174  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 51  |
-| Monthly Active Users | 51  |
+| Subscribers          | 237 |
+| Posts                | 15  |
+| Comments             | 193  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 61  |
+| Monthly Active Users | 61  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for the Feddit UK instance. A place to discuss bugs/issues/improvement
 |----------------------|---|
 | Published            | 2023-06-13 21:00:15 |
 | Updated              | 2023-06-16 19:16:56 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

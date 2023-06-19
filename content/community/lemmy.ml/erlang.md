@@ -3,13 +3,13 @@ title: "Erlang Programming Language"
 name: "erlang"
 description: "Discussions about Erlang and beam"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/erlang"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 14
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Discussions about Erlang and beam
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 14 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions about Erlang and beam
 |----------------------|---|
 | Published            | 2021-02-19 02:47:09 |
 | Updated              | 2021-02-19 02:48:10 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

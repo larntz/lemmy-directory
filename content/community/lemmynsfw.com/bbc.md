@@ -3,16 +3,16 @@ title: "BBC Porn"
 name: "bbc"
 description: "Girls taking BBCs "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bbc"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 145
-posts: 9
+subscribers: 188
+posts: 10
 comments: 2
-weight: 9
+weight: 10
 dau: 1
 wau: 4
 mau: 4
@@ -43,8 +43,8 @@ Girls taking BBCs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 145 |
-| Posts                | 9  |
+| Subscribers          | 188 |
+| Posts                | 10  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
@@ -56,4 +56,4 @@ Girls taking BBCs
 |----------------------|---|
 | Published            | 2023-06-12 09:12:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,13 +3,13 @@ title: "Weezer"
 name: "weezer"
 description: "A community for the American alt-rock band Weezer."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weezer"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ A community for the American alt-rock band Weezer.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for the American alt-rock band Weezer.
 |----------------------|---|
 | Published            | 2021-01-31 18:21:48 |
 | Updated              | 2023-06-07 01:58:14 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:48 |

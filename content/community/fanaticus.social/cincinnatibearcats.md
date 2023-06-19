@@ -3,7 +3,7 @@ title: "Cincinnati Bearcats"
 name: "cincinnatibearcats"
 description: "A community to discuss Cincinnati Bearcats athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/cincinnatibearcats"
@@ -54,4 +54,4 @@ A community to discuss Cincinnati Bearcats athletics.<br><br>**Looking for Mods!
 |----------------------|---|
 | Published            | 2023-06-15 00:03:17 |
 | Updated              | 2023-06-15 00:15:31 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

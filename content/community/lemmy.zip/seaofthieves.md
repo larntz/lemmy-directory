@@ -3,13 +3,13 @@ title: "Sea of Thieves"
 name: "seaofthieves"
 description: "Unofficial Sea of Thieves Community"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/seaofthieves"
 host: lemmy.zip
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Unofficial Sea of Thieves Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Unofficial Sea of Thieves Community
 |----------------------|---|
 | Published            | 2023-06-13 12:52:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

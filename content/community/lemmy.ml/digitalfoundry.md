@@ -3,7 +3,7 @@ title: "Digital Foundry"
 name: "digitalfoundry"
 description: "Digital Foundry specialises in game technology and hardware reviews, using bespoke capture and analysis tools to provide a unique look at the way games play."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalfoundry"
@@ -54,4 +54,4 @@ Digital Foundry specialises in game technology and hardware reviews, using bespo
 |----------------------|---|
 | Published            | 2023-06-14 20:39:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

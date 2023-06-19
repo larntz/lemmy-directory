@@ -3,13 +3,13 @@ title: "climatechange"
 name: "criseciv"
 description: "O clima mudou,e como a vida humana entrou numa nova era,de inseguranças e medos.Aqui não é lugar para pensar o clima,é para as mudanças climáticas que já vivemos!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/criseciv"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 75
+subscribers: 76
 posts: 56
 comments: 2
 weight: 56
@@ -41,7 +41,7 @@ O clima mudou,e como a vida humana entrou numa nova era,de inseguranças e medos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
+| Subscribers          | 76 |
 | Posts                | 56  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ O clima mudou,e como a vida humana entrou numa nova era,de inseguranças e medos
 |----------------------|---|
 | Published            | 2020-01-16 10:17:19 |
 | Updated              | 2020-01-16 10:23:32 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

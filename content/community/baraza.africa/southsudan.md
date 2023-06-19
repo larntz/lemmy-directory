@@ -3,7 +3,7 @@ title: "South Sudan"
 name: "southsudan"
 description: "A community to discuss issues and news related to South Sudan."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/southsudan"
@@ -54,4 +54,4 @@ A community to discuss issues and news related to South Sudan.
 |----------------------|---|
 | Published            | 2021-12-13 02:11:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

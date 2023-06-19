@@ -3,13 +3,13 @@ title: "Learn Programming"
 name: "learn_programming"
 description: "A place to learn programming.  Share free resources here.  Ask questions on heapoverflow.ml[Python docs](https://docs.python.org/library/index.html) ([tutorial](https://docs.python.org/tutorial/index.html))  [Javascript docs (node)](https://nodejs.org/docs/latest/api/synopsis.html)  [Hard challenges (Project Euler)](https://projecteuler.net/archives)  "
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_programming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 64
+subscribers: 67
 posts: 13
 comments: 9
 weight: 13
@@ -41,7 +41,7 @@ A place to learn programming.  <br>Share free resources here.<br>  <br>Ask quest
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
+| Subscribers          | 67 |
 | Posts                | 13  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to learn programming.  <br>Share free resources here.<br>  <br>Ask quest
 |----------------------|---|
 | Published            | 2022-01-05 03:25:26 |
 | Updated              | 2022-01-21 20:17:34 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:37:00 |

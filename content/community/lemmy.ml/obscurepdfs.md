@@ -3,7 +3,7 @@ title: "Esoteric Essays"
 name: "obscurepdfs"
 description: "Obscure Academic EssaysRules: Only post direct links to long essays about esoteric topics written with academic rigor"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/obscurepdfs"
@@ -54,4 +54,4 @@ Obscure Academic Essays<br><br>Rules: <br><br>Only post direct links to long ess
 |----------------------|---|
 | Published            | 2023-06-14 21:10:07 |
 | Updated              | 2023-06-14 21:18:44 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

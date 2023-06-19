@@ -3,19 +3,19 @@ title: "Muscle Girl Art"
 name: "musclegirlart"
 description: "For fans of muscle girl art.Rules   1. Posts must contain muscle   2. Posts must contain girl   3. Posts must contain art   4. No reposts   5. Flair posts   6. Mark NSFW posts"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/musclegirlart"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 147
-posts: 8
+subscribers: 187
+posts: 10
 comments: 0
-weight: 8
+weight: 10
 dau: 1
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ For fans of muscle girl art.<br><br>Rules<br><br>   1. Posts must contain muscle
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 147 |
-| Posts                | 8  |
+| Subscribers          | 187 |
+| Posts                | 10  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -56,4 +56,4 @@ For fans of muscle girl art.<br><br>Rules<br><br>   1. Posts must contain muscle
 |----------------------|---|
 | Published            | 2023-06-11 01:08:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

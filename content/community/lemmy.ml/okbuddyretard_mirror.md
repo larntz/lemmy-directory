@@ -3,7 +3,7 @@ title: "The OKBR Mirror "
 name: "okbuddyretard_mirror"
 description: "# NOT OFFICIALAn *automated* mirror of the official **[r/okbuddyretard](https://www.reddit.com/r/okbuddyretard) sub**, because the funny is missing from lemmy. # `No the sub isn't done yet`![](https://lemmy.ml/pictrs/image/58752396-4bf8-4db4-8aca-4a9cd78e8060.png)Made with pyhon and web scraping ❤ "
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/okbuddyretard_mirror"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 16:15:14 |
 | Updated              | 2023-06-06 16:50:18 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:37:02 |

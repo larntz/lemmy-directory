@@ -3,13 +3,13 @@ title: "Tropical Ornamental Plants"
 name: "tropical_plants"
 description: "All about tropical plants grown primarily for aesthetics. - palms- orchids- bamboo- flowering trees- aroids- gingers - and more**Absolutely No Politics**Follow Wheaton's Law![](https://mander.xyz/pictrs/image/2cc91c76-752c-45a6-9ac1-130ed0902ce9.jpeg)"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/tropical_plants"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 42
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ All about tropical plants grown primarily for aesthetics. <br><br><br>- palms<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 42 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ All about tropical plants grown primarily for aesthetics. <br><br><br>- palms<br
 |----------------------|---|
 | Published            | 2023-01-05 16:14:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

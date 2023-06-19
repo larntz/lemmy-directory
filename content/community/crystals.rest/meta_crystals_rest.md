@@ -1,18 +1,18 @@
 ---
 title: "crystals.rest [meta]" 
 name: "meta_crystals_rest"
-description: "The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
+description: "The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/meta_crystals_rest"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
 subscribers: 5
-posts: 2
-comments: 2
-weight: 2
+posts: 3
+comments: 3
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
+The meta community to talk about crystals.rest! If you have any questions, ideas, or concerns, please post them here! If you'd be interested in helping mod the pre-loaded communities, also post it here!<br><br>![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
 </blockquote>
 
 
@@ -42,8 +42,8 @@ The meta community to talk about crystals.rest! If you have any questions, ideas
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 2  |
+| Posts                | 3  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -53,5 +53,5 @@ The meta community to talk about crystals.rest! If you have any questions, ideas
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 20:03:12 |
-| Updated              | 2023-06-16 17:12:40 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Updated              | 2023-06-17 13:37:17 |
+| Last Scraped         | 2023-06-19 11:35:20 |

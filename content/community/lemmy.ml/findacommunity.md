@@ -3,19 +3,19 @@ title: "Find a Community"
 name: "findacommunity"
 description: "A community to find other communities in any of the Lemmy instances."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/findacommunity"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 401
-posts: 32
-comments: 52
-weight: 32
+subscribers: 469
+posts: 38
+comments: 58
+weight: 38
 dau: 2
-wau: 45
-mau: 48
+wau: 42
+mau: 53
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community to find other communities in any of the Lemmy instances.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 401 |
-| Posts                | 32  |
-| Comments             | 52  |
+| Subscribers          | 469 |
+| Posts                | 38  |
+| Comments             | 58  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 45  |
-| Monthly Active Users | 48  |
+| Weekly Active Users  | 42  |
+| Monthly Active Users | 53  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to find other communities in any of the Lemmy instances.
 |----------------------|---|
 | Published            | 2021-05-15 03:08:35 |
 | Updated              | 2021-06-30 18:06:40 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,16 +3,16 @@ title: "eastbay"
 name: "eastbay"
 description: "Community discussion for the San Francisco East Bay Area"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eastbay"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 6
+subscribers: 6
+posts: 9
 comments: 1
-weight: 6
+weight: 9
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Community discussion for the San Francisco East Bay Area
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 6  |
+| Subscribers          | 6 |
+| Posts                | 9  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Community discussion for the San Francisco East Bay Area
 |----------------------|---|
 | Published            | 2023-06-07 21:53:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

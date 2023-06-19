@@ -3,13 +3,13 @@ title: "Animation"
 name: "animation"
 description: "Where Imagination Comes to Life with Color, Motion, and Endless Possibilities"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animation"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Where Imagination Comes to Life with Color, Motion, and Endless Possibilities<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Where Imagination Comes to Life with Color, Motion, and Endless Possibilities<br
 |----------------------|---|
 | Published            | 2023-06-12 15:22:37 |
 | Updated              | 2023-06-16 11:41:53 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

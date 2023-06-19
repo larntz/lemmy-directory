@@ -3,13 +3,13 @@ title: "search-engines"
 name: "search_engines"
 description: "search engine software and sharing new alternative search sites."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/search_engines"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 69
 posts: 18
 comments: 23
 weight: 18
@@ -41,7 +41,7 @@ search engine software and sharing new alternative search sites.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 69 |
 | Posts                | 18  |
 | Comments             | 23  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ search engine software and sharing new alternative search sites.
 |----------------------|---|
 | Published            | 2021-02-18 05:41:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

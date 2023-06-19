@@ -3,16 +3,16 @@ title: "Dungeons and Dragons"
 name: "dnd"
 description: "A place for D&D (and related systems) discussion, rules lawyering, minmaxing, art, anecdotes, homebrew reviews, and more! No sharing of copyrighted material. Please keep it SFW. [CC licensed 5.1 D&D 5e Core Rules](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0_License_live%20links.pdf)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dnd"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 6
-comments: 0
-weight: 6
+subscribers: 42
+posts: 9
+comments: 8
+weight: 9
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ A place for D&D (and related systems) discussion, rules lawyering, minmaxing, ar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 6  |
-| Comments             | 0  |
+| Subscribers          | 42 |
+| Posts                | 9  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A place for D&D (and related systems) discussion, rules lawyering, minmaxing, ar
 |----------------------|---|
 | Published            | 2023-06-14 00:07:15 |
 | Updated              | 2023-06-14 01:03:05 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

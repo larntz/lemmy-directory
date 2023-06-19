@@ -3,19 +3,19 @@ title: "Mann aus Sachsen"
 name: "mannaussachsen"
 description: "Mann aus Sachsen tut Dinge die Mann aus Sachsen tut."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mannaussachsen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 34
 posts: 1
 comments: 2
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Mann aus Sachsen tut Dinge die Mann aus Sachsen tut.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 34 |
 | Posts                | 1  |
 | Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Mann aus Sachsen tut Dinge die Mann aus Sachsen tut.
 |----------------------|---|
 | Published            | 2023-06-15 07:26:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

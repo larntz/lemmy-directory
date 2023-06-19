@@ -3,13 +3,13 @@ title: "India"
 name: "india"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/india"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 51
 comments: 21
 weight: 51
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 51  |
 | Comments             | 21  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-04 17:25:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

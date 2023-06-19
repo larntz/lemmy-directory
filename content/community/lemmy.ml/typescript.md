@@ -3,13 +3,13 @@ title: "TypeScript"
 name: "typescript"
 description: "TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typescript"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 80
 posts: 13
 comments: 5
 weight: 13
@@ -41,7 +41,7 @@ TypeScript is a language for application-scale JavaScript development. TypeScrip
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 80 |
 | Posts                | 13  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ TypeScript is a language for application-scale JavaScript development. TypeScrip
 |----------------------|---|
 | Published            | 2021-04-05 22:00:30 |
 | Updated              | 2021-04-06 16:18:49 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

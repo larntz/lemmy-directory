@@ -3,13 +3,13 @@ title: "chessbeginners"
 name: "chessbeginners"
 description: "A place for chess beginners to seek advice and/or ask about weird pawn moves."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/chessbeginners"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 14
 posts: 1
 comments: 5
 weight: 1
@@ -41,7 +41,7 @@ A place for chess beginners to seek advice and/or ask about weird pawn moves.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 5  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for chess beginners to seek advice and/or ask about weird pawn moves.
 |----------------------|---|
 | Published            | 2023-06-14 10:00:53 |
 | Updated              | 2023-06-15 13:35:27 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

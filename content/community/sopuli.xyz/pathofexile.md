@@ -3,13 +3,13 @@ title: "Path of Exile"
 name: "pathofexile"
 description: "An online ARPG set in a fantasy world of Wraeclast. It's known for its deep character and build customization and that infamous massive passive skill tree.https://www.pathofexile.com/Logo copyright Grinding Gear Games."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/pathofexile"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ An online ARPG set in a fantasy world of Wraeclast. It's known for its deep char
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An online ARPG set in a fantasy world of Wraeclast. It's known for its deep char
 |----------------------|---|
 | Published            | 2023-05-27 06:23:46 |
 | Updated              | 2023-06-01 16:48:11 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

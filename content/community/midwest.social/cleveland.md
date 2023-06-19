@@ -3,13 +3,13 @@ title: "Cleveland"
 name: "cleveland"
 description: "Posts about Cleveland, Ohio"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cleveland"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 45
 posts: 32
 comments: 23
 weight: 32
@@ -41,7 +41,7 @@ Posts about Cleveland, Ohio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 45 |
 | Posts                | 32  |
 | Comments             | 23  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Posts about Cleveland, Ohio
 |----------------------|---|
 | Published            | 2021-09-10 15:30:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-19 11:35:29 |

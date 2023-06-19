@@ -3,19 +3,19 @@ title: "PAWG"
 name: "pawg"
 description: "**P**hat **A**ss **W**hite **G**irls"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pawg"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 258
-posts: 29
-comments: 0
-weight: 29
-dau: 2
-wau: 3
-mau: 3
+subscribers: 416
+posts: 32
+comments: 2
+weight: 32
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 258 |
-| Posts                | 29  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 416 |
+| Posts                | 32  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 00:53:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

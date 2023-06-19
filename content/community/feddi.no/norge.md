@@ -3,13 +3,13 @@ title: "norge"
 name: "norge"
 description: "Innhold på norsk Content in Norwegian"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://feddi.no/c/norge"
 host: feddi.no
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Innhold på norsk <br><br>Content in Norwegian
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Innhold på norsk <br><br>Content in Norwegian
 |----------------------|---|
 | Published            | 2023-06-10 08:46:36 |
 | Updated              | 2023-06-10 08:47:58 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

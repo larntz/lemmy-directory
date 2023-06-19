@@ -3,13 +3,13 @@ title: "Music Battlestations"
 name: "musicbattlestations"
 description: "Show off your setup here.Image posts only please!"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/musicbattlestations"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 27
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Show off your setup here.<br><br>Image posts only please!<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 27 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Show off your setup here.<br><br>Image posts only please!<br>
 |----------------------|---|
 | Published            | 2023-06-14 13:10:09 |
 | Updated              | 2023-06-14 14:18:24 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

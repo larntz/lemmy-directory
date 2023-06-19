@@ -3,19 +3,19 @@ title: "Bonsai"
 name: "bonsai"
 description: "A place to talk about bonsai plants.Share your bonsais!"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/bonsai"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 4
-comments: 11
-weight: 4
-dau: 2
-wau: 9
-mau: 9
+subscribers: 53
+posts: 5
+comments: 13
+weight: 5
+dau: 1
+wau: 12
+mau: 12
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ A place to talk about bonsai plants.<br>Share your bonsais!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 4  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 53 |
+| Posts                | 5  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to talk about bonsai plants.<br>Share your bonsais!
 |----------------------|---|
 | Published            | 2023-06-13 22:05:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

@@ -3,13 +3,13 @@ title: "Rollercoasters"
 name: "rollercoasters"
 description: "A community for discussions, news, and photos of rollercoasters."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/rollercoasters"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for discussions, news, and photos of rollercoasters.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussions, news, and photos of rollercoasters.
 |----------------------|---|
 | Published            | 2023-06-13 08:58:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

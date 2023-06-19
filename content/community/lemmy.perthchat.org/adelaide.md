@@ -3,7 +3,7 @@ title: "Adelaide"
 name: "adelaide"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/adelaide"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-13 18:51:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:28 |

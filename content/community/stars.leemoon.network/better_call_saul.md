@@ -1,19 +1,19 @@
 ---
 title: "Лучше Звони Солу" 
 name: "better_call_saul"
-description: "Description not available."
+description: "Любим вселенную BCS, а также не против обсудить BB (Breaking Bad), ввиду тесной взаимосвязанности сериалов."
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/better_call_saul"
 host: stars.leemoon.network
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 4
-comments: 4
-weight: 4
-dau: 1
+subscribers: 5
+posts: 6
+comments: 5
+weight: 6
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Любим вселенную BCS, а также не против обсудить BB (Breaking Bad), ввиду тесной взаимосвязанности сериалов.
 </blockquote>
 
 
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
+| Subscribers          | 5 |
+| Posts                | 6  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 13:11:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Updated              | 2023-06-18 12:52:07 |
+| Last Scraped         | 2023-06-19 11:35:22 |

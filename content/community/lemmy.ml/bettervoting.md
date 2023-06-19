@@ -3,7 +3,7 @@ title: "Better Voting"
 name: "bettervoting"
 description: "Discussion about better voting methods, including Approval, STAR and Ranked Choice."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bettervoting"
@@ -54,4 +54,4 @@ Discussion about better voting methods, including Approval, STAR and Ranked Choi
 |----------------------|---|
 | Published            | 2020-06-27 23:00:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

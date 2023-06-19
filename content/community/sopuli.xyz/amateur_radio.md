@@ -3,13 +3,13 @@ title: "Amateur/Ham Radio"
 name: "amateur_radio"
 description: "Your digital federated home for all things amateur radio! Discuss license exams, DXpeditions, band conditions, and new (or old) modes!"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/amateur_radio"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 26
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Your digital federated home for all things amateur radio! Discuss license exams,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 26 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Your digital federated home for all things amateur radio! Discuss license exams,
 |----------------------|---|
 | Published            | 2023-06-02 01:12:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

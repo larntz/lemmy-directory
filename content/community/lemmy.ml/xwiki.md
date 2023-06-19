@@ -3,7 +3,7 @@ title: "XWiki"
 name: "xwiki"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xwiki"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-26 01:17:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

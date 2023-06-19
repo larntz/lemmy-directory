@@ -3,16 +3,16 @@ title: "Videos"
 name: "videos"
 description: "Community for posting videos.Yhteisö videoille.Please include the video length in the title!Laita videon pituus otsikkoon!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/videos"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 298
-posts: 56
+subscribers: 313
+posts: 57
 comments: 24
-weight: 56
+weight: 57
 dau: 1
 wau: 11
 mau: 15
@@ -41,8 +41,8 @@ Community for posting videos.<br><br>Yhteisö videoille.<br><br>Please include t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 298 |
-| Posts                | 56  |
+| Subscribers          | 313 |
+| Posts                | 57  |
 | Comments             | 24  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 11  |
@@ -54,4 +54,4 @@ Community for posting videos.<br><br>Yhteisö videoille.<br><br>Please include t
 |----------------------|---|
 | Published            | 2023-02-09 20:26:43 |
 | Updated              | 2023-06-06 08:23:33 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

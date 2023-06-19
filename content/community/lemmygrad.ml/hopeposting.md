@@ -3,13 +3,13 @@ title: "Hopeposting"
 name: "hopeposting"
 description: "The place to post positive stuff, be it memes or otherwise.We will win, comrade!"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/hopeposting"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 41
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ The place to post positive stuff, be it memes or otherwise.<br><br>We will win, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 41 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ The place to post positive stuff, be it memes or otherwise.<br><br>We will win, 
 |----------------------|---|
 | Published            | 2023-05-26 19:44:37 |
 | Updated              | 2023-05-26 19:44:51 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

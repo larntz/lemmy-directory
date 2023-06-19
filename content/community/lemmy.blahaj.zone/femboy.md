@@ -3,16 +3,16 @@ title: "c/femboy"
 name: "femboy"
 description: "A SFW community for feminine boys, androgynous people, enbies, trans people, and anyone who identifies as a femboy!"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/femboy"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 0
+subscribers: 29
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ A SFW community for feminine boys, androgynous people, enbies, trans people, and
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 0  |
+| Subscribers          | 29 |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ A SFW community for feminine boys, androgynous people, enbies, trans people, and
 |----------------------|---|
 | Published            | 2023-06-13 17:31:09 |
 | Updated              | 2023-06-13 19:59:15 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

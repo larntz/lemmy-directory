@@ -3,13 +3,13 @@ title: "Generative AI"
 name: "gen_ai"
 description: "Welcome to gen-ai, feel free to post anything related to generative AI (Language models (GPT, LLama, etc.), Diffusion models (Stable Diffusion) or what ever else fits the bill)"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gen_ai"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 38
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Welcome to gen-ai, feel free to post anything related to generative AI (Language
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 38 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ Welcome to gen-ai, feel free to post anything related to generative AI (Language
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 09:56:05 |
-| Updated              | 2023-06-16 10:10:13 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Updated              | 2023-06-17 09:23:09 |
+| Last Scraped         | 2023-06-19 11:36:36 |

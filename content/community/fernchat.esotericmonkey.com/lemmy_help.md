@@ -3,7 +3,7 @@ title: "Lemmy Help"
 name: "lemmy_help"
 description: "A community to post helpful information about Lemmy."
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://fernchat.esotericmonkey.com/c/lemmy_help"
@@ -54,4 +54,4 @@ A community to post helpful information about Lemmy.
 |----------------------|---|
 | Published            | 2023-06-13 19:05:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:21 |

@@ -3,13 +3,13 @@ title: "Gemini-Protokoll und Gemtext"
 name: "gemini"
 description: "Deutschsprachige **Gemini**-CommunityDas Gemini-Protokoll ist ein Netzwerkprotokoll zum verschlüsselten Abrufen von Dokumenten über das Internet, das Einfachheit, Datenschutz und textorientierte Inhalte in den Vordergrund stellt.- [Was ist Gemini?](https://was-ist-gemini.de/)- [Was ist der Geminispace?](https://de.wikipedia.org/wiki/Geminispace)"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gemini"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 25
 posts: 19
 comments: 1
 weight: 19
@@ -41,7 +41,7 @@ Deutschsprachige **Gemini**-Community<br><br>Das Gemini-Protokoll ist ein Netzwe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 25 |
 | Posts                | 19  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Deutschsprachige **Gemini**-Community<br><br>Das Gemini-Protokoll ist ein Netzwe
 |----------------------|---|
 | Published            | 2021-09-17 11:09:36 |
 | Updated              | 2021-09-22 06:04:29 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

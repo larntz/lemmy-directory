@@ -3,13 +3,13 @@ title: "PixelFed: A free and ethical photo sharing platform."
 name: "pixelfed"
 description: "Photo sharing. For everyone.Federated image sharing platform, will it go over Instagram?"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pixelfed"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 266
+subscribers: 270
 posts: 10
 comments: 12
 weight: 10
@@ -41,7 +41,7 @@ Photo sharing. For everyone.<br><br>Federated image sharing platform, will it go
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 266 |
+| Subscribers          | 270 |
 | Posts                | 10  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Photo sharing. For everyone.<br><br>Federated image sharing platform, will it go
 |----------------------|---|
 | Published            | 2020-02-16 12:53:28 |
 | Updated              | 2021-01-27 14:55:03 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

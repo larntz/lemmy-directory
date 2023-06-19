@@ -3,19 +3,19 @@ title: "UK Public Transport"
 name: "ukpublictransport"
 description: "Just a place where you can put anything on about uk public transport . Aim to add an icon and banner soon but I aim to upload my own picture soon"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukpublictransport"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 37
 posts: 2
-comments: 11
+comments: 12
 weight: 2
-dau: 3
-wau: 8
-mau: 8
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Just a place where you can put anything on about uk public transport . Aim to ad
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 37 |
 | Posts                | 2  |
-| Comments             | 11  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Comments             | 12  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Just a place where you can put anything on about uk public transport . Aim to ad
 |----------------------|---|
 | Published            | 2023-06-15 05:26:13 |
 | Updated              | 2023-06-15 06:27:25 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

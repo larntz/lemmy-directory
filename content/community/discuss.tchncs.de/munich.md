@@ -3,18 +3,18 @@ title: "München/Munich"
 name: "munich"
 description: "Alles rund ums Thema München - Everything Munich"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/munich"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 97
+subscribers: 107
 posts: 7
-comments: 12
+comments: 13
 weight: 7
-dau: 2
-wau: 10
+dau: 1
+wau: 9
 mau: 12
 instances:
 - "discuss_tchncs_de"
@@ -41,11 +41,11 @@ Alles rund ums Thema München - Everything Munich
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 97 |
+| Subscribers          | 107 |
 | Posts                | 7  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 10  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
 | Monthly Active Users | 12  |
 
 <br>
@@ -54,4 +54,4 @@ Alles rund ums Thema München - Everything Munich
 |----------------------|---|
 | Published            | 2023-06-04 12:04:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

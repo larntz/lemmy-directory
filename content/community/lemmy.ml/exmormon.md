@@ -3,18 +3,18 @@ title: "ExMormon"
 name: "exmormon"
 description: "Place for ex-mormons, or other exitors, to support each other."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exmormon"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 3
-comments: 7
-weight: 3
+subscribers: 21
+posts: 4
+comments: 8
+weight: 4
 dau: 1
-wau: 7
+wau: 4
 mau: 7
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Place for ex-mormons, or other exitors, to support each other.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 3  |
-| Comments             | 7  |
+| Subscribers          | 21 |
+| Posts                | 4  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Place for ex-mormons, or other exitors, to support each other.
 |----------------------|---|
 | Published            | 2023-06-06 21:48:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:57 |

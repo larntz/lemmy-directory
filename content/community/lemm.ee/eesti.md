@@ -3,19 +3,19 @@ title: "Eesti (Estonia)"
 name: "eesti"
 description: "## EestiEesti uudised ja muud jutud.**Welcome to Estonia! English posts are welcome.**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/eesti"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 12
-comments: 31
-weight: 12
-dau: 2
+subscribers: 34
+posts: 14
+comments: 33
+weight: 14
+dau: 1
 wau: 9
-mau: 9
+mau: 10
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 12  |
-| Comments             | 31  |
-| Daily Active Users   | 2  |
+| Subscribers          | 34 |
+| Posts                | 14  |
+| Comments             | 33  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 10:12:07 |
 | Updated              | 2023-06-16 15:38:01 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

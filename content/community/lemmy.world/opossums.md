@@ -3,17 +3,17 @@ title: "Opossums"
 name: "opossums"
 description: "It's opossum posting time!This is an inclusive community# Rules:- No hate speech- No callouts or personal attacks- No spam- No NSFW content"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/opossums"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 105
-posts: 24
-comments: 12
-weight: 24
-dau: 8
+subscribers: 122
+posts: 27
+comments: 14
+weight: 27
+dau: 1
 wau: 13
 mau: 13
 instances:
@@ -41,10 +41,10 @@ It's opossum posting time!<br><br>This is an inclusive community<br><br># Rules:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 105 |
-| Posts                | 24  |
-| Comments             | 12  |
-| Daily Active Users   | 8  |
+| Subscribers          | 122 |
+| Posts                | 27  |
+| Comments             | 14  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
 
@@ -54,4 +54,4 @@ It's opossum posting time!<br><br>This is an inclusive community<br><br># Rules:
 |----------------------|---|
 | Published            | 2023-06-12 21:26:41 |
 | Updated              | 2023-06-14 02:30:15 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

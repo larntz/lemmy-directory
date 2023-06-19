@@ -3,19 +3,19 @@ title: "ABDL_asl"
 name: "abdl_asl"
 description: "A place to for ABDL's to connect in person.Related Lemmy’s:ABDL- https://lemmynsfw.com/c/ab_dlVideos - https://lemmynsfw.com/c/abdl_videosGirls in diapers - https://lemmynsfw.com/c/girls_in_diapersDudes in diapers -https://lemmynsfw.com/c/dudesindiapersMeeting up -https://lemmynsfw.com/c/abdl_aslDiaper Porn -https://lemmynsfw.com/c/diaperpornDiapered Trans -https://lemmynsfw.com/c/diapered_trans"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/abdl_asl"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 16
 posts: 2
-comments: 0
+comments: 1
 weight: 2
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A place to for ABDL's to connect in person.<br><br>Related Lemmy’s:<br><br>ABD
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 16 |
 | Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -56,4 +56,4 @@ A place to for ABDL's to connect in person.<br><br>Related Lemmy’s:<br><br>ABD
 |----------------------|---|
 | Published            | 2023-06-14 15:43:25 |
 | Updated              | 2023-06-14 16:27:49 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

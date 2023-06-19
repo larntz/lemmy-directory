@@ -3,19 +3,19 @@ title: "VLemmy Chat"
 name: "chat"
 description: "A place for chatting, talking about local communities, and overall just vibing in VLemmy. Follow the instance rules when chatting in here."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/chat"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 3
-comments: 68
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+subscribers: 50
+posts: 4
+comments: 105
+weight: 4
+dau: 26
+wau: 26
+mau: 26
 instances:
 - "vlemmy_net"
 tags: 
@@ -41,12 +41,12 @@ A place for chatting, talking about local communities, and overall just vibing i
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 3  |
-| Comments             | 68  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 50 |
+| Posts                | 4  |
+| Comments             | 105  |
+| Daily Active Users   | 26  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for chatting, talking about local communities, and overall just vibing i
 |----------------------|---|
 | Published            | 2023-06-15 16:16:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

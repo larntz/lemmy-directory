@@ -3,7 +3,7 @@ title: "Longmont"
 name: "longmont"
 description: "Here, we talk about Longmont, Colorado. And, probably some other stuff. Longmont Vs. NobodyKeep the bigotry, hatred, misogyny, spam, and attention seeking garbage to yourself.  "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/longmont"
@@ -54,4 +54,4 @@ Here, we talk about Longmont, Colorado. And, probably some other stuff. <br><br>
 |----------------------|---|
 | Published            | 2023-06-12 15:22:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,7 +3,7 @@ title: "AWS"
 name: "aws"
 description: "Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecten etc etc."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/aws"
@@ -54,4 +54,4 @@ Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecte
 |----------------------|---|
 | Published            | 2023-06-12 19:53:52 |
 | Updated              | 2023-06-14 08:05:22 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

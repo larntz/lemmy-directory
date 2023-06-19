@@ -3,13 +3,13 @@ title: "Wub a Dub Dub music"
 name: "dub"
 description: "how do the sound techs even DO that?"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/dub"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ how do the sound techs even DO that?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ how do the sound techs even DO that?
 |----------------------|---|
 | Published            | 2023-06-15 11:43:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

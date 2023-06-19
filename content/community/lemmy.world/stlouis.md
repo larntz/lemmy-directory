@@ -1,21 +1,21 @@
 ---
-title: "St. Louis, MO | The Lou" 
+title: "St. Louis, MO | Gateway to the West" 
 name: "stlouis"
 description: "A place for all things STL."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stlouis"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 34
-posts: 2
+subscribers: 36
+posts: 4
 comments: 2
-weight: 2
+weight: 4
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/St. Louis, MO | The Lou on lemmy.world
+# /c/St. Louis, MO | Gateway to the West on lemmy.world
 
 [[home](/)]
 [[/c/stlouis 🌎](https://lemmy.world/c/stlouis)]
@@ -41,17 +41,17 @@ A place for all things STL.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 2  |
+| Subscribers          | 36 |
+| Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-07 23:13:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Updated              | 2023-06-18 14:28:29 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,19 +3,19 @@ title: "Slovenia"
 name: "slovenia"
 description: "Visiting Slovenia and have questions? Go ahead.There is also a SI community for more local topics at [!slovenija](https://lemmy.world/c/slovenija)## Cities of Slovenia- [Ljubljana](https://lemmy.world/c/ljubljana) (capital)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slovenia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 9
 posts: 5
-comments: 12
+comments: 14
 weight: 5
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Visiting Slovenia and have questions? Go ahead.<br><br>There is also a SI commun
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 9 |
 | Posts                | 5  |
-| Comments             | 12  |
+| Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Visiting Slovenia and have questions? Go ahead.<br><br>There is also a SI commun
 |----------------------|---|
 | Published            | 2023-06-13 20:45:38 |
 | Updated              | 2023-06-16 05:41:54 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

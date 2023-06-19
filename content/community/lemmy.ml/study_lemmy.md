@@ -3,13 +3,13 @@ title: "study_lemmy"
 name: "study_lemmy"
 description: "Learn Rust by looking at Lemmy.Let's take apart Lemmy and see how it works."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/study_lemmy"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 19
 posts: 2
 comments: 10
 weight: 2
@@ -41,7 +41,7 @@ Learn Rust by looking at Lemmy.<br><br>Let's take apart Lemmy and see how it wor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 19 |
 | Posts                | 2  |
 | Comments             | 10  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Learn Rust by looking at Lemmy.<br><br>Let's take apart Lemmy and see how it wor
 |----------------------|---|
 | Published            | 2021-11-09 19:04:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,19 +3,19 @@ title: "Linux Admin : Resources for Linux SysAdmin"
 name: "linuxadmin"
 description: "General Discussion for topics for Linux SysAdmin"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/linuxadmin"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 20
+posts: 4
+comments: 1
+weight: 4
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "social_doudp_com"
 tags: 
@@ -41,12 +41,12 @@ General Discussion for topics for Linux SysAdmin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 20 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ General Discussion for topics for Linux SysAdmin
 |----------------------|---|
 | Published            | 2023-06-14 05:41:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

@@ -3,7 +3,7 @@ title: "Golf"
 name: "golf"
 description: "A place to discuss golf, I guess?"
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/golf"
@@ -54,4 +54,4 @@ A place to discuss golf, I guess?
 |----------------------|---|
 | Published            | 2023-06-09 19:16:10 |
 | Updated              | 2023-06-14 20:45:10 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,13 +3,13 @@ title: "Berserk"
 name: "berserk"
 description: "For fans of the manga Berserk and its adaptations."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/berserk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For fans of the manga Berserk and its adaptations.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For fans of the manga Berserk and its adaptations.
 |----------------------|---|
 | Published            | 2023-06-13 23:27:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

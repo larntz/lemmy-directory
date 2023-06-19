@@ -3,16 +3,16 @@ title: "Ontario"
 name: "ontario"
 description: "A place to discuss all the news and events taking place in the province of Ontario, Canada.**Rules**-   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. -   Be respectful, especially when disagreeing. Everyone should feel welcome here.-   No porn.-   No Ads / Spamming."
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ontario"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 628
-posts: 43
-comments: 71
-weight: 43
+subscribers: 694
+posts: 47
+comments: 87
+weight: 47
 dau: 15
 wau: 36
 mau: 42
@@ -41,9 +41,9 @@ A place to discuss all the news and events taking place in the province of Ontar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 628 |
-| Posts                | 43  |
-| Comments             | 71  |
+| Subscribers          | 694 |
+| Posts                | 47  |
+| Comments             | 87  |
 | Daily Active Users   | 15  |
 | Weekly Active Users  | 36  |
 | Monthly Active Users | 42  |
@@ -54,4 +54,4 @@ A place to discuss all the news and events taking place in the province of Ontar
 |----------------------|---|
 | Published            | 2021-01-12 16:19:38 |
 | Updated              | 2023-06-15 17:48:16 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

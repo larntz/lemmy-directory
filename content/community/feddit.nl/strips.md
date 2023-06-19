@@ -3,16 +3,16 @@ title: "Strips"
 name: "strips"
 description: "Comics in Dutch."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/strips"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 27
+subscribers: 28
+posts: 31
 comments: 0
-weight: 27
+weight: 31
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Comics in Dutch.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 27  |
+| Subscribers          | 28 |
+| Posts                | 31  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Comics in Dutch.
 |----------------------|---|
 | Published            | 2023-06-02 14:37:42 |
 | Updated              | 2023-06-02 16:17:48 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

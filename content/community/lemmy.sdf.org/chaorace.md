@@ -3,7 +3,7 @@ title: "Chao Island"
 name: "chaorace"
 description: "My happy place!"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/chaorace"
@@ -54,4 +54,4 @@ My happy place!
 |----------------------|---|
 | Published            | 2023-06-10 10:46:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

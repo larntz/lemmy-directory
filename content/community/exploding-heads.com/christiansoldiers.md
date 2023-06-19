@@ -3,7 +3,7 @@ title: "Christian Soldiers"
 name: "christiansoldiers"
 description: "To come"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/christiansoldiers"
@@ -54,4 +54,4 @@ To come
 |----------------------|---|
 | Published            | 2023-02-09 10:53:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

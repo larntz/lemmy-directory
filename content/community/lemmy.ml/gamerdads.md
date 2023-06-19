@@ -3,7 +3,7 @@ title: "Gamer Dads"
 name: "gamerdads"
 description: "A community for parents who enjoy gaming. Find others to game with. Chat about gaming or parent life. Rules: - No NSFW content- Parents and non parents welcome- Moms also welcome. - No sexism, racism, etc. - Be cool."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamerdads"
@@ -54,4 +54,4 @@ A community for parents who enjoy gaming. Find others to game with. Chat about g
 |----------------------|---|
 | Published            | 2023-06-12 13:47:34 |
 | Updated              | 2023-06-12 13:59:30 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,19 +3,19 @@ title: "OnePiece"
 name: "onepiece"
 description: "A community for Eiichiro Oda sensei's series One Piece. Please be wary of spoilers.[🏴\u200d☠️ OnePiece Manga on MangaPlus](https://mangaplus.shueisha.co.jp/titles/100020) [🏴\u200d☠️ OnePiece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onepiece"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 1
-comments: 0
-weight: 1
+subscribers: 12
+posts: 3
+comments: 1
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for Eiichiro Oda sensei's series One Piece. Please be wary of spoile
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 12 |
+| Posts                | 3  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for Eiichiro Oda sensei's series One Piece. Please be wary of spoile
 |----------------------|---|
 | Published            | 2023-06-14 19:38:36 |
 | Updated              | 2023-06-14 19:48:23 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

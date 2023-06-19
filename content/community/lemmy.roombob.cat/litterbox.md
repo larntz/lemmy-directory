@@ -3,7 +3,7 @@ title: "LitterBox"
 name: "litterbox"
 description: "anything to do with lemmy.roombob.cat"
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.roombob.cat/c/litterbox"
@@ -14,7 +14,7 @@ posts: 4
 comments: 3
 weight: 4
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_roombob_cat"
@@ -45,7 +45,7 @@ anything to do with lemmy.roombob.cat
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ anything to do with lemmy.roombob.cat
 |----------------------|---|
 | Published            | 2023-06-12 03:32:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:17 |

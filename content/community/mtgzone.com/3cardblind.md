@@ -3,7 +3,7 @@ title: "3-Card Blind"
 name: "3cardblind"
 description: "3-Card Blind is a casual multiplayer Magic: The Gathering format."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/3cardblind"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 23:45:44 |
 | Updated              | 2023-06-15 19:09:10 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

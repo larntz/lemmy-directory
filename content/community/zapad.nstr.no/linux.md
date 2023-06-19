@@ -3,7 +3,7 @@ title: "linux"
 name: "linux"
 description: "News and discussions relating to the Linux kernel as well as about Linux distributions like Ubuntu, Arch Linux, Debian, Gentoo, etc"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/linux"
@@ -54,4 +54,4 @@ News and discussions relating to the Linux kernel as well as about Linux distrib
 |----------------------|---|
 | Published            | 2023-06-12 21:42:42 |
 | Updated              | 2023-06-15 17:01:10 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

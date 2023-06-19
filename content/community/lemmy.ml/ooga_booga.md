@@ -3,7 +3,7 @@ title: "Ooga booga"
 name: "ooga_booga"
 description: "**ONLY** OOGA BOOGA "
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ooga_booga"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-01-10 19:18:07 |
 | Updated              | 2023-01-10 19:21:34 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

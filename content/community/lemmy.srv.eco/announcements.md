@@ -3,13 +3,13 @@ title: "🗣️ Announcements"
 name: "announcements"
 description: "Announcements from the srv.eco Lemmy team"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/announcements"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Announcements from the srv.eco Lemmy team
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Announcements from the srv.eco Lemmy team
 |----------------------|---|
 | Published            | 2023-06-11 12:52:03 |
 | Updated              | 2023-06-11 22:29:42 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

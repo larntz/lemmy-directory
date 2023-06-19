@@ -3,7 +3,7 @@ title: "Boston"
 name: "boston"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.discothe.quest/c/boston"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 06:12:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

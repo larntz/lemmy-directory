@@ -3,7 +3,7 @@ title: "Lemmy Helper - for server operators"
 name: "lemmy_helper"
 description: "For Lemmy server operators and other people running an instance. Webapp for direct interface to the PostgreSQL database to query for common issues."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_helper"
@@ -54,4 +54,4 @@ For Lemmy server operators and other people running an instance. Webapp for dire
 |----------------------|---|
 | Published            | 2023-06-15 16:26:53 |
 | Updated              | 2023-06-15 17:00:27 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

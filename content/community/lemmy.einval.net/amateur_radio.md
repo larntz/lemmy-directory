@@ -3,13 +3,13 @@ title: "Amateur Radio"
 name: "amateur_radio"
 description: "New to ham radio? Been licensed for a while? Thinking about getting into it?Welcome! Feel free to talk about the weather, your rig, and that sweet antenna you soldered together using scraps you found in the garage.**Resources:**- https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service- http://arrl.org"
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/amateur_radio"
 host: lemmy.einval.net
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ New to ham radio? Been licensed for a while? Thinking about getting into it?<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ New to ham radio? Been licensed for a while? Thinking about getting into it?<br>
 |----------------------|---|
 | Published            | 2023-06-10 18:59:27 |
 | Updated              | 2023-06-10 19:15:55 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

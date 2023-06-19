@@ -3,13 +3,13 @@ title: "[ARCHIVED] r/historymemes worst takes"
 name: "usabootlickingmemes"
 description: "A community of some of the worst takes in r/historymemes and other history memes subreddits "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/usabootlickingmemes"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 150
+subscribers: 152
 posts: 285
 comments: 1482
 weight: 285
@@ -41,7 +41,7 @@ A community of some of the worst takes in r/historymemes and other history memes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
+| Subscribers          | 152 |
 | Posts                | 285  |
 | Comments             | 1482  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community of some of the worst takes in r/historymemes and other history memes
 |----------------------|---|
 | Published            | 2022-06-09 16:45:59 |
 | Updated              | 2023-01-25 13:01:29 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,19 +3,19 @@ title: "Buffalo Bills"
 name: "bills"
 description: "A community for Buffalo Bills fans."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bills"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 47
 posts: 11
-comments: 28
+comments: 31
 weight: 11
-dau: 3
-wau: 14
-mau: 14
+dau: 1
+wau: 13
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for Buffalo Bills fans.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 47 |
 | Posts                | 11  |
-| Comments             | 28  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Comments             | 31  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for Buffalo Bills fans.
 |----------------------|---|
 | Published            | 2023-06-09 20:00:11 |
 | Updated              | 2023-06-09 20:48:19 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

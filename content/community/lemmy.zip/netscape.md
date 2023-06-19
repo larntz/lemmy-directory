@@ -3,16 +3,16 @@ title: "Netscape"
 name: "netscape"
 description: "A test alternative to r/netscape"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/netscape"
 host: lemmy.zip
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 3
+subscribers: 6
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A test alternative to r/netscape
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
+| Subscribers          | 6 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A test alternative to r/netscape
 |----------------------|---|
 | Published            | 2023-06-12 20:03:52 |
 | Updated              | 2023-06-13 02:07:01 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

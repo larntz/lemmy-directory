@@ -3,19 +3,19 @@ title: "No Man's Sky"
 name: "nomanssky"
 description: "# [Official Website](https://www.nomanssky.com/)# Purchase- [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky/)- [GOG](https://www.gog.com/game/no_mans_sky)- [Microsoft Store](https://www.microsoft.com/p/no-mans-sky/BQVQTL3PCH05)- [PlayStation Store](https://store.playstation.com/product/UP2034-PPSA02110_00-NOMANSSKYHG00001)- [Humble](https://www.humblebundle.com/store/no-mans-sky)- [Nintendo Switch](https://www.nintendo.com/store/products/no-mans-sky-switch/)# Communities- [Reddit](https://www.reddit.com/r/NoMansSkyTheGame/)- [Discord](https://discord.gg/nomanssky)"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nomanssky"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 200
-posts: 60
-comments: 19
-weight: 60
-dau: 3
-wau: 6
-mau: 8
+subscribers: 219
+posts: 61
+comments: 20
+weight: 61
+dau: 2
+wau: 7
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 200 |
-| Posts                | 60  |
-| Comments             | 19  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 8  |
+| Subscribers          | 219 |
+| Posts                | 61  |
+| Comments             | 20  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-19 13:25:09 |
 | Updated              | 2023-06-13 16:10:27 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

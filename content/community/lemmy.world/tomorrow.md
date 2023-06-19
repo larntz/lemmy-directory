@@ -3,13 +3,13 @@ title: "/r/Tomorrow"
 name: "tomorrow"
 description: "When does it come out?_Tomorrow_"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tomorrow"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ When does it come out?<br><br>_Tomorrow_
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ When does it come out?<br><br>_Tomorrow_
 |----------------------|---|
 | Published            | 2023-06-15 01:04:06 |
 | Updated              | 2023-06-15 01:09:34 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "ServiceNow"
 name: "servicenow"
 description: "A place for ServiceNow platform admins and developers.Ask questions and show off your stuff!"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/servicenow"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ A place for ServiceNow platform admins and developers.<br><br>Ask questions and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for ServiceNow platform admins and developers.<br><br>Ask questions and 
 |----------------------|---|
 | Published            | 2023-06-11 23:55:52 |
 | Updated              | 2023-06-12 00:09:06 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

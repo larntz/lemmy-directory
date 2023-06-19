@@ -3,19 +3,19 @@ title: "Greymuzzle"
 name: "greymuzzle"
 description: "Community For Well-Aged Furs (35+)"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/greymuzzle"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 46
-posts: 15
-comments: 103
-weight: 15
-dau: 6
-wau: 39
-mau: 39
+subscribers: 64
+posts: 18
+comments: 125
+weight: 18
+dau: 9
+wau: 47
+mau: 47
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ Community For Well-Aged Furs (35+)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 15  |
-| Comments             | 103  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 39  |
-| Monthly Active Users | 39  |
+| Subscribers          | 64 |
+| Posts                | 18  |
+| Comments             | 125  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 47  |
+| Monthly Active Users | 47  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community For Well-Aged Furs (35+)
 |----------------------|---|
 | Published            | 2023-06-13 00:52:43 |
 | Updated              | 2023-06-13 02:02:30 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

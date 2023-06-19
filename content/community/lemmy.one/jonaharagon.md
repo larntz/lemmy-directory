@@ -3,7 +3,7 @@ title: "Jonah Aragon"
 name: "jonaharagon"
 description: "Lemmy.one admin [u/jonah](https://lemmy.one/u/jonah)'s community for testing things out and maybe posting random personal updates 🤷\u200d♂️"
 type: community
-date: "2023-06-16 22:55:49"
+date: "2023-06-19 11:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.one/c/jonaharagon"
@@ -54,4 +54,4 @@ Lemmy.one admin [u/jonah](https://lemmy.one/u/jonah)'s community for testing thi
 |----------------------|---|
 | Published            | 2023-06-07 03:29:06 |
 | Updated              | 2023-06-07 03:31:55 |
-| Last Scraped         | 2023-06-16 22:55:49 |
+| Last Scraped         | 2023-06-19 11:34:52 |

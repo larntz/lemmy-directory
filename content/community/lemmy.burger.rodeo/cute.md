@@ -3,19 +3,19 @@ title: "Cute"
 name: "cute"
 description: "Cute stuff goes here."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/cute"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 73
-posts: 29
-comments: 29
-weight: 29
-dau: 7
-wau: 11
-mau: 16
+subscribers: 86
+posts: 37
+comments: 35
+weight: 37
+dau: 6
+wau: 12
+mau: 18
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ Cute stuff goes here.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
-| Posts                | 29  |
-| Comments             | 29  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 16  |
+| Subscribers          | 86 |
+| Posts                | 37  |
+| Comments             | 35  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cute stuff goes here.
 |----------------------|---|
 | Published            | 2023-06-04 04:41:46 |
 | Updated              | 2023-06-05 06:01:02 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:30 |

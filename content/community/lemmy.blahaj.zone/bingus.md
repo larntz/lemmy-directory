@@ -3,13 +3,13 @@ title: "bingus"
 name: "bingus"
 description: "Community for bingus lovers!!not connected to the bingus subreddit.Rules:1. Be nice"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/bingus"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Community for bingus lovers!!<br>not connected to the bingus subreddit.<br><br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for bingus lovers!!<br>not connected to the bingus subreddit.<br><br><
 |----------------------|---|
 | Published            | 2023-06-15 16:13:09 |
 | Updated              | 2023-06-15 16:17:15 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

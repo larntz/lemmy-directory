@@ -3,13 +3,13 @@ title: "test sandbox"
 name: "sandbox"
 description: "A place to play around with Lemmy functionality"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sandbox"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 5
 weight: 2
@@ -41,7 +41,7 @@ A place to play around with Lemmy functionality
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to play around with Lemmy functionality
 |----------------------|---|
 | Published            | 2023-06-10 10:14:06 |
 | Updated              | 2023-06-10 10:14:46 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

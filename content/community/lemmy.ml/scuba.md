@@ -3,15 +3,15 @@ title: "Scuba"
 name: "scuba"
 description: "A community to discuss scuba diving!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scuba"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ A community to discuss scuba diving!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A community to discuss scuba diving!
 |----------------------|---|
 | Published            | 2023-06-12 06:29:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

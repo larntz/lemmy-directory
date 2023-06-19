@@ -3,19 +3,19 @@ title: "Baden-Württemberg"
 name: "badenwuerttemberg"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/badenwuerttemberg"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 129
-posts: 16
+subscribers: 140
+posts: 17
 comments: 10
-weight: 16
-dau: 3
-wau: 3
-mau: 3
+weight: 17
+dau: 4
+wau: 9
+mau: 9
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 129 |
-| Posts                | 16  |
+| Subscribers          | 140 |
+| Posts                | 17  |
 | Comments             | 10  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-14 05:35:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

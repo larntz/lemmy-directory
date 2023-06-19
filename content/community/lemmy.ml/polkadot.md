@@ -3,7 +3,7 @@ title: "Polkadot"
 name: "polkadot"
 description: "Discuss anything related to Polkadot."
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polkadot"
@@ -54,4 +54,4 @@ Discuss anything related to Polkadot.
 |----------------------|---|
 | Published            | 2021-12-14 07:03:50 |
 | Updated              | 2021-12-15 22:31:15 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:57 |

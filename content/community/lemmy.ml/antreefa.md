@@ -3,13 +3,13 @@ title: "AnTreeFa"
 name: "antreefa"
 description: "Planting trees when no one asked. Especially when no one asked. The goal here is to promote the planting of trees, especially at a time such as now, where people in power are destroying our Earth. They may or may not be an actual connection with the Antifa mouvement. "
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antreefa"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 49
 posts: 9
 comments: 8
 weight: 9
@@ -41,7 +41,7 @@ Planting trees when no one asked. Especially when no one asked. <br><br>The goal
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 49 |
 | Posts                | 9  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Planting trees when no one asked. Especially when no one asked. <br><br>The goal
 |----------------------|---|
 | Published            | 2020-11-29 14:48:34 |
 | Updated              | 2020-11-29 14:51:33 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,19 +3,19 @@ title: "fosscad"
 name: "fosscad"
 description: "A great place to discuss 3D printed guns and other related topics."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fosscad"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 64
+posts: 3
+comments: 11
+weight: 3
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A great place to discuss 3D printed guns and other related topics.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 64 |
+| Posts                | 3  |
+| Comments             | 11  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A great place to discuss 3D printed guns and other related topics.
 |----------------------|---|
 | Published            | 2023-06-15 20:21:18 |
 | Updated              | 2023-06-15 21:45:05 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

@@ -3,13 +3,13 @@ title: "Armpit Porn"
 name: "armpit_porn_w"
 description: "Welcome to armpit porn! - Tag all posts as NSFW- Obviously no minors or noncons- Try not to repost- Only womens armpits (trying to diversify the communities here so maybe someone makes one for dudes)- Be civil, please.I have next to no experience running things so if anyone wants to mod let me know :) Enjoy!"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/armpit_porn_w"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 72
 posts: 5
 comments: 0
 weight: 5
@@ -43,7 +43,7 @@ Welcome to armpit porn! <br>- Tag all posts as NSFW<br>- Obviously no minors or 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 72 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Welcome to armpit porn! <br>- Tag all posts as NSFW<br>- Obviously no minors or 
 |----------------------|---|
 | Published            | 2023-06-11 10:48:55 |
 | Updated              | 2023-06-12 14:05:42 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

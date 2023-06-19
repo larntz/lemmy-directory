@@ -3,7 +3,7 @@ title: "NO green pass italia"
 name: "nogreenpassitalia"
 description: "dedicato a chiunque sia contro il green pass... perchè uniti è meglio!!questa discriminazione è ABOMINEVOLE"
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nogreenpassitalia"
@@ -54,4 +54,4 @@ dedicato a chiunque sia contro il green pass... perchè uniti è meglio!!<br><br
 |----------------------|---|
 | Published            | 2022-03-14 21:26:11 |
 | Updated              | 2022-03-14 21:28:15 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:37:00 |

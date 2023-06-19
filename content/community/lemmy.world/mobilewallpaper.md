@@ -1,21 +1,21 @@
 ---
 title: "Mobile Wallpaper" 
 name: "mobilewallpaper"
-description: "**Description**This is a community for sharing mobile wallpapers. Please post most accessible link for download. Websites link Pinterest require an account and login for access, so would not be ideal. Post from image hosting sites to not overload the hosting space of the lemmy.world servers. Such as:https://postimages.org/https://imgbox.comhttps://imgur.comhttps://pixelfed.social/https://www.dropbox.com/basic**Rules**- 1) Must include artist/source. The artist created the thing and should get the credit for their effort. You can use a [Google Image](https://images.google.com/) search to find the artist. If the artist is not found, put “Source unknown” in the text. - 2) Do not post NSFW content. - 3) Include the resolution in title, the [OLED] tag for true black backgrounds, and [AI] for AI-generated images. - 4) Images must be in portrait orientation or high definition enough to be zoomed and still be used as a mobile wallpaper. *(Credits: Banner from [Louis Coyle](https://dribbble.com/shots/12078823-The-Valley), icon from [Anggara](https://www.flaticon.com/free-icons/gallery))*"
+description: "**Description**This is a community for sharing mobile wallpapers. Please post most accessible link for download. Websites link Pinterest require an account and login for access, so would not be ideal. Upload images directly to post, or other direct link. **Rules**- 1) Must include artist/source. The artist created the thing and should get the credit for their effort. You can use a [Google Image](https://images.google.com/) search to find the artist. If the artist is not found, put “Source unknown” in the text. - 2) Do not post NSFW content. - 3) Include the resolution in title, the [OLED] tag for true black backgrounds, and [AI] for AI-generated images. - 4) Images must be in portrait orientation or high definition enough to be zoomed and still be used as a mobile wallpaper. *(Credits: Banner from [Louis Coyle](https://dribbble.com/shots/12078823-The-Valley), icon from [Anggara](https://www.flaticon.com/free-icons/gallery))*"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mobilewallpaper"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 540
-posts: 36
-comments: 21
-weight: 36
+subscribers: 696
+posts: 46
+comments: 35
+weight: 46
 dau: 1
-wau: 18
-mau: 21
+wau: 27
+mau: 30
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-**Description**<br><br>This is a community for sharing mobile wallpapers. <br><br>Please post most accessible link for download. Websites link Pinterest require an account and login for access, so would not be ideal. <br><br>Post from image hosting sites to not overload the hosting space of the lemmy.world servers. Such as:<br><br>https://postimages.org/<br><br>https://imgbox.com<br><br>https://imgur.com<br><br>https://pixelfed.social/<br><br>https://www.dropbox.com/basic<br><br>**Rules**<br><br>- 1) Must include artist/source. The artist created the thing and should get the credit for their effort. You can use a [Google Image](https://images.google.com/) search to find the artist. If the artist is not found, put “Source unknown” in the text. <br><br>- 2) Do not post NSFW content. <br><br>- 3) Include the resolution in title, the [OLED] tag for true black backgrounds, and [AI] for AI-generated images. <br><br>- 4) Images must be in portrait orientation or high definition enough to be zoomed and still be used as a mobile wallpaper. <br><br>*(Credits: <br>Banner from [Louis Coyle](https://dribbble.com/shots/12078823-The-Valley), <br>icon from [Anggara](https://www.flaticon.com/free-icons/gallery))*
+**Description**<br><br>This is a community for sharing mobile wallpapers. <br><br>Please post most accessible link for download. Websites link Pinterest require an account and login for access, so would not be ideal. Upload images directly to post, or other direct link. <br><br>**Rules**<br><br>- 1) Must include artist/source. The artist created the thing and should get the credit for their effort. You can use a [Google Image](https://images.google.com/) search to find the artist. If the artist is not found, put “Source unknown” in the text. <br><br>- 2) Do not post NSFW content. <br><br>- 3) Include the resolution in title, the [OLED] tag for true black backgrounds, and [AI] for AI-generated images. <br><br>- 4) Images must be in portrait orientation or high definition enough to be zoomed and still be used as a mobile wallpaper. <br><br>*(Credits: <br>Banner from [Louis Coyle](https://dribbble.com/shots/12078823-The-Valley), <br>icon from [Anggara](https://www.flaticon.com/free-icons/gallery))*
 </blockquote>
 
 
@@ -41,17 +41,17 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 540 |
-| Posts                | 36  |
-| Comments             | 21  |
+| Subscribers          | 696 |
+| Posts                | 46  |
+| Comments             | 35  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 21  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 30  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 19:08:16 |
-| Updated              | 2023-06-15 03:54:55 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Updated              | 2023-06-17 13:49:58 |
+| Last Scraped         | 2023-06-19 11:36:39 |

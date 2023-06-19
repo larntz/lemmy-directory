@@ -3,7 +3,7 @@ title: "Real Time Strategy"
 name: "rts"
 description: "For discussions about all RTS games. Everyone is welcome, Starcraft, Starcraft 2, Stormgate etc"
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/rts"
@@ -54,4 +54,4 @@ For discussions about all RTS games. Everyone is welcome, Starcraft, Starcraft 2
 |----------------------|---|
 | Published            | 2023-06-11 03:53:36 |
 | Updated              | 2023-06-11 04:21:45 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,19 +3,19 @@ title: "Healthy Living"
 name: "health"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/health"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 27
-posts: 92
-comments: 22
-weight: 92
-dau: 1
+subscribers: 29
+posts: 95
+comments: 23
+weight: 95
+dau: 2
 wau: 2
-mau: 10
+mau: 9
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 92  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
+| Subscribers          | 29 |
+| Posts                | 95  |
+| Comments             | 23  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 10  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-06-03 20:50:51 |
 | Updated              | 2022-08-06 22:23:55 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

@@ -3,13 +3,13 @@ title: "Metro Moncton, New Brunswick"
 name: "metromoncton"
 description: "Moncton, New Brunswick and surrounding communities (Dieppe, Riverview, etc)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/metromoncton"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Moncton, New Brunswick and surrounding communities (Dieppe, Riverview, etc)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Moncton, New Brunswick and surrounding communities (Dieppe, Riverview, etc)
 |----------------------|---|
 | Published            | 2023-06-09 01:48:51 |
 | Updated              | 2023-06-09 01:54:26 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

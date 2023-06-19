@@ -3,17 +3,17 @@ title: "Videos"
 name: "videos"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:31"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/videos"
 host: sowhois.gay
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 1
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 2  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 08:34:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:31 |

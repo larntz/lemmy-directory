@@ -3,16 +3,16 @@ title: "Support"
 name: "support"
 description: "Support For no.lastname.nz"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/support"
 host: no.lastname.nz
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 3
+subscribers: 2
+posts: 5
 comments: 0
-weight: 3
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Support For no.lastname.nz
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
+| Subscribers          | 2 |
+| Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Support For no.lastname.nz
 |----------------------|---|
 | Published            | 2023-06-11 01:50:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:09 |

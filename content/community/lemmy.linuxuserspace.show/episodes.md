@@ -3,13 +3,13 @@ title: "Linux User Space Episodes"
 name: "episodes"
 description: "This is where all the episodes and other videos produced by Linux User Space land. Subscribe to get all the latest!"
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.linuxuserspace.show/c/episodes"
 host: lemmy.linuxuserspace.show
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 6
 posts: 20
 comments: 0
 weight: 20
@@ -41,7 +41,7 @@ This is where all the episodes and other videos produced by Linux User Space lan
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 6 |
 | Posts                | 20  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is where all the episodes and other videos produced by Linux User Space lan
 |----------------------|---|
 | Published            | 2023-06-13 18:29:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:22 |

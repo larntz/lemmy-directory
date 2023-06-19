@@ -3,16 +3,16 @@ title: "Fanaticus Announcements"
 name: "announcements"
 description: "A place to share important news about the Fanaticus lemmy instance."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/announcements"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 17
-posts: 3
-comments: 11
-weight: 3
+posts: 4
+comments: 12
+weight: 4
 dau: 1
 wau: 4
 mau: 4
@@ -42,8 +42,8 @@ A place to share important news about the Fanaticus lemmy instance.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 17 |
-| Posts                | 3  |
-| Comments             | 11  |
+| Posts                | 4  |
+| Comments             | 12  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ A place to share important news about the Fanaticus lemmy instance.
 |----------------------|---|
 | Published            | 2023-06-09 04:00:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

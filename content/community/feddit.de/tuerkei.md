@@ -3,19 +3,19 @@ title: "Türkei"
 name: "tuerkei"
 description: "Von Deutschtürken für Deutschtürken, und alle die es werden oder die türkische Staatsbürgerschaft aufgeben wollen."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tuerkei"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Von Deutschtürken für Deutschtürken, und alle die es werden oder die türkisc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Von Deutschtürken für Deutschtürken, und alle die es werden oder die türkisc
 |----------------------|---|
 | Published            | 2023-06-16 21:48:03 |
 | Updated              | 2023-06-16 21:53:25 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

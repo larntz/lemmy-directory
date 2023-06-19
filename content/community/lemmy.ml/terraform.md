@@ -3,13 +3,13 @@ title: "Terraform"
 name: "terraform"
 description: "About Terraform by HashiCorp"
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraform"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ About Terraform by HashiCorp
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ About Terraform by HashiCorp
 |----------------------|---|
 | Published            | 2023-06-05 05:38:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:54 |

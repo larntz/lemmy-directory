@@ -3,7 +3,7 @@ title: "Nightwing"
 name: "nightwing"
 description: "A sublemmy for fans of Nightwing, aka Dick Grayson, the original Robin.![](https://lemmy.ml/pictrs/image/02221a61-a5b2-4b6f-af48-8811044cc1df.png)**Rules:**- Don't be a jerk- Please credit artwork- No pirated material"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nightwing"
@@ -54,4 +54,4 @@ A sublemmy for fans of Nightwing, aka Dick Grayson, the original Robin.<br><br>!
 |----------------------|---|
 | Published            | 2023-06-08 19:56:02 |
 | Updated              | 2023-06-11 03:43:40 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

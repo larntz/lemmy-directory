@@ -3,7 +3,7 @@ title: "Poezje"
 name: "poezje"
 description: "Miejsce do dzielenia się poezjami, swoimi, znalezionymi w sieci, anonimowymi, czyimiś (_podaj autorstwo!_)...Dopuszczane wszelkie języki świata :)  Zachęcam osoby postronne do spontanicznych tłumaczeń!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/poezje"
@@ -54,4 +54,4 @@ Miejsce do dzielenia się poezjami, swoimi, znalezionymi w sieci, anonimowymi, c
 |----------------------|---|
 | Published            | 2021-09-17 08:25:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

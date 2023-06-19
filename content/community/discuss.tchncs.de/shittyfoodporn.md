@@ -3,19 +3,19 @@ title: "shittyfoodporn"
 name: "shittyfoodporn"
 description: "A place for images of shitty foodPlease only post shitty food. "
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/shittyfoodporn"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 60
 posts: 1
-comments: 2
+comments: 4
 weight: 1
-dau: 3
-wau: 3
-mau: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ A place for images of shitty food<br><br>Please only post shitty food.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 60 |
 | Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for images of shitty food<br><br>Please only post shitty food.
 |----------------------|---|
 | Published            | 2023-06-16 01:08:00 |
 | Updated              | 2023-06-16 01:23:35 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

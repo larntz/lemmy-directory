@@ -3,7 +3,7 @@ title: "Show us your gear and talk about mods!"
 name: "guitars"
 description: " "
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guitars"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-06-28 10:39:37 |
 | Updated              | 2020-06-28 10:50:30 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

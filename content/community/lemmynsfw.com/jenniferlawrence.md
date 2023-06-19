@@ -3,13 +3,13 @@ title: "Jennifer Lawrence"
 name: "jenniferlawrence"
 description: "Jennifer Lawrence's pictures, gifs, and videos"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/jenniferlawrence"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 49
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Jennifer Lawrence's pictures, gifs, and videos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 49 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Jennifer Lawrence's pictures, gifs, and videos
 |----------------------|---|
 | Published            | 2023-06-14 07:27:19 |
 | Updated              | 2023-06-14 12:42:03 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

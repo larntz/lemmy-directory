@@ -3,7 +3,7 @@ title: "Ban Chris Shaw"
 name: "banchrisshaw"
 description: "Chris Shaw is a Mastodon user. I want to know how it shows up if we ban him. Science time!"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/banchrisshaw"
@@ -11,9 +11,9 @@ host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
 subscribers: 3
 posts: 3
-comments: 13
+comments: 15
 weight: 3
-dau: 3
+dau: 2
 wau: 5
 mau: 5
 instances:
@@ -43,8 +43,8 @@ Chris Shaw is a Mastodon user. I want to know how it shows up if we ban him. Sci
 |----------------------|---|
 | Subscribers          | 3 |
 | Posts                | 3  |
-| Comments             | 13  |
-| Daily Active Users   | 3  |
+| Comments             | 15  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ Chris Shaw is a Mastodon user. I want to know how it shows up if we ban him. Sci
 |----------------------|---|
 | Published            | 2023-06-13 22:49:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

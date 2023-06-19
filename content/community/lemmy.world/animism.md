@@ -3,19 +3,19 @@ title: "New Animism"
 name: "animism"
 description: "This community is about the belief that spirit is in everything: trees, rocks, places. It is a space for discussing strategies for environmental protection as well as personal development of mind, body and being through a more primal lifestyle."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 7
-comments: 5
-weight: 7
+subscribers: 13
+posts: 10
+comments: 9
+weight: 10
 dau: 2
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community is about the belief that spirit is in everything: trees, rocks, p
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 7  |
-| Comments             | 5  |
+| Subscribers          | 13 |
+| Posts                | 10  |
+| Comments             | 9  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is about the belief that spirit is in everything: trees, rocks, p
 |----------------------|---|
 | Published            | 2023-06-09 19:15:27 |
 | Updated              | 2023-06-11 18:09:43 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

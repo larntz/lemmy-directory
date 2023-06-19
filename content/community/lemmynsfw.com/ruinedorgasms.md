@@ -3,19 +3,19 @@ title: "Ruined Orgasms"
 name: "ruinedorgasms"
 description: "TODO"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ruinedorgasms"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 105
+posts: 4
+comments: 1
+weight: 4
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ TODO
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 105 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ TODO
 |----------------------|---|
 | Published            | 2023-06-16 03:46:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

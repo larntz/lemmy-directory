@@ -3,13 +3,13 @@ title: "Midjourney"
 name: "midjourney"
 description: "A space to share tips, questions and cool Midjourney images you've created"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/midjourney"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 66
+subscribers: 79
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ A space to share tips, questions and cool Midjourney images you've created
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
+| Subscribers          | 79 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A space to share tips, questions and cool Midjourney images you've created
 |----------------------|---|
 | Published            | 2023-06-12 07:07:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

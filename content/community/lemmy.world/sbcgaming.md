@@ -3,19 +3,19 @@ title: "SBCGaming"
 name: "sbcgaming"
 description: "A community to discuss SBC gaming!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sbcgaming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 35
 posts: 2
-comments: 1
+comments: 3
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss SBC gaming!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 35 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss SBC gaming!
 |----------------------|---|
 | Published            | 2023-06-12 20:05:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

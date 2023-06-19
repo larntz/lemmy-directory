@@ -3,19 +3,19 @@ title: "AI-Generated Futanari Porn"
 name: "aigen_futanari"
 description: "Futanari version of [/c/aigen@lemmynsfw.com](/c/aigen@lemmynsfw.com)For OC, mark it with [OC] and post your prompt, model, any LoRAs used, etc. if possible.Otherwise, share artist and source if possible."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/aigen_futanari"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 9
-comments: 0
-weight: 9
-dau: 2
-wau: 2
-mau: 2
+subscribers: 98
+posts: 17
+comments: 3
+weight: 17
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Futanari version of [/c/aigen@lemmynsfw.com](/c/aigen@lemmynsfw.com)<br><br>For 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 98 |
+| Posts                | 17  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Futanari version of [/c/aigen@lemmynsfw.com](/c/aigen@lemmynsfw.com)<br><br>For 
 |----------------------|---|
 | Published            | 2023-06-16 21:02:25 |
 | Updated              | 2023-06-16 21:33:10 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

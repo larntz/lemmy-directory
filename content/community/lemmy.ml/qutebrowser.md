@@ -3,13 +3,13 @@ title: "Qutebrowser"
 name: "qutebrowser"
 description: "The best keyboard-driven browser. For when a plugin just isn't enough."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/qutebrowser"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 48
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ The best keyboard-driven browser. For when a plugin just isn't enough.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 48 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The best keyboard-driven browser. For when a plugin just isn't enough.
 |----------------------|---|
 | Published            | 2021-03-16 17:32:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

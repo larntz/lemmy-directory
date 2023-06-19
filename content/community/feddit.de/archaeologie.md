@@ -3,13 +3,13 @@ title: "Archäologie"
 name: "archaeologie"
 description: "> Archäologie"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/archaeologie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 37
 posts: 13
 comments: 2
 weight: 13
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 37 |
 | Posts                | 13  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-09-06 05:37:00 |
 | Updated              | 2021-10-15 05:13:28 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

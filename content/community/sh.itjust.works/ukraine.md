@@ -3,13 +3,13 @@ title: "Ukraine"
 name: "ukraine"
 description: "A community about Ukraine to help you stay updated on the current events.   I'm just as new on Lemmy as most of you, so let's work together to make it great. Slava Ukraini !"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ukraine"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 91
+subscribers: 107
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A community about Ukraine to help you stay updated on the current events.   <br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
+| Subscribers          | 107 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community about Ukraine to help you stay updated on the current events.   <br>
 |----------------------|---|
 | Published            | 2023-06-09 06:26:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

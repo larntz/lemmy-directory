@@ -3,16 +3,16 @@ title: "vintech"
 name: "vintech"
 description: "This is a place for people residing in Vietnam to discuss technology -- because sometimes the local optimum for a problem is a little bit different here.No ads, political content, NSFW, and so on. Be helpful, kind, and patient."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://voltage.vn/c/vintech"
 host: voltage.vn
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 1
-comments: 0
-weight: 1
+posts: 5
+comments: 1
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ This is a place for people residing in Vietnam to discuss technology -- because 
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Posts                | 5  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ This is a place for people residing in Vietnam to discuss technology -- because 
 |----------------------|---|
 | Published            | 2023-06-14 09:14:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:25 |

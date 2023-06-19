@@ -3,19 +3,19 @@ title: "Shitposts"
 name: "shitposts"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/shitposts"
 host: lemmy.coeus.icu
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 21
-comments: 4
-weight: 21
+posts: 23
+comments: 5
+weight: 23
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_coeus_icu"
 tags: 
@@ -42,11 +42,11 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 21  |
-| Comments             | 4  |
+| Posts                | 23  |
+| Comments             | 5  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 04:31:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:21 |

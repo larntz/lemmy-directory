@@ -3,7 +3,7 @@ title: "fosscad"
 name: "fosscad"
 description: "Backup for lemmy.ml/c/fosscad"
 type: community
-date: "2023-06-16 22:56:17"
+date: "2023-06-19 11:35:19"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/fosscad"
@@ -54,4 +54,4 @@ Backup for lemmy.ml/c/fosscad
 |----------------------|---|
 | Published            | 2023-06-13 04:06:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:17 |
+| Last Scraped         | 2023-06-19 11:35:19 |

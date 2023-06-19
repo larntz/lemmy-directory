@@ -3,13 +3,13 @@ title: "VR / Virtual Reality"
 name: "virtualreality"
 description: "A community for all things VR!Vive, Oculus / Meta, Index, and even Apple Vision"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/virtualreality"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for all things VR!<br>Vive, Oculus / Meta, Index, and even Apple Vis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for all things VR!<br>Vive, Oculus / Meta, Index, and even Apple Vis
 |----------------------|---|
 | Published            | 2023-06-08 20:22:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,7 +3,7 @@ title: "Pacific Crest Trail"
 name: "pacificcresttrail"
 description: "The Pacific Crest Trail is a long distance nature trail that spans 2,650 miles across three states between Mexico to Canada."
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pacificcresttrail"
@@ -54,4 +54,4 @@ The Pacific Crest Trail is a long distance nature trail that spans 2,650 miles a
 |----------------------|---|
 | Published            | 2021-12-16 20:16:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

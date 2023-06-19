@@ -3,13 +3,13 @@ title: "JavaScript"
 name: "javascript"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/javascript"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 141
+subscribers: 199
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 141 |
+| Subscribers          | 199 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 23:16:34 |
 | Updated              | 2023-06-14 17:36:18 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

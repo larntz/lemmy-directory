@@ -3,19 +3,19 @@ title: "Telescopes"
 name: "telescopes"
 description: "Telescopes, eyepieces, mounts, reviews, charts, and more.____**Useful Links:**[Cloudy Nights](https://www.cloudynights.com/)[ScopeStuff](http://scopestuff.com)____"
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/telescopes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 28
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Telescopes, eyepieces, mounts, reviews, charts, and more.<br>____<br>**Useful Li
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 28 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Telescopes, eyepieces, mounts, reviews, charts, and more.<br>____<br>**Useful Li
 |----------------------|---|
 | Published            | 2023-06-06 22:30:25 |
 | Updated              | 2023-06-13 02:23:07 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:43 |

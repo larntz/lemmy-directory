@@ -3,19 +3,19 @@ title: "Atlanta, GA"
 name: "atlanta"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/atlanta"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 2
-comments: 8
+comments: 9
 weight: 2
-dau: 2
-wau: 5
-mau: 6
+dau: 1
+wau: 4
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 13:53:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-19 11:36:58 |

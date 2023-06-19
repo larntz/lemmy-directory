@@ -3,13 +3,13 @@ title: "The Occultist Space"
 name: "occult"
 description: "A community for the occult, mysticism, secret societies, heavy metal, and all things spooky."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/occult"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 75
+subscribers: 91
 posts: 12
 comments: 12
 weight: 12
@@ -41,7 +41,7 @@ A community for the occult, mysticism, secret societies, heavy metal, and all th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 75 |
+| Subscribers          | 91 |
 | Posts                | 12  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for the occult, mysticism, secret societies, heavy metal, and all th
 |----------------------|---|
 | Published            | 2023-06-07 09:51:51 |
 | Updated              | 2023-06-13 08:19:21 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

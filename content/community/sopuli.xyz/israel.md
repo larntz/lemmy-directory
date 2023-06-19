@@ -3,7 +3,7 @@ title: "A little board about the state of Israel"
 name: "israel"
 description: "I can't upload files for some reason in this browser, so I can't upload Israel's symbol properly."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/israel"
@@ -54,4 +54,4 @@ I can't upload files for some reason in this browser, so I can't upload Israel's
 |----------------------|---|
 | Published            | 2021-04-10 18:18:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

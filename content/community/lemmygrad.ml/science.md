@@ -3,13 +3,13 @@ title: "Science"
 name: "science"
 description: "This is a subcom related to all the sciences out there. Post anything science-related here! All articles are welcome so long as you do not post pseudoscience. This especially goes for so-called race science and other things like it. "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/science"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 91
 posts: 15
 comments: 17
 weight: 15
@@ -41,7 +41,7 @@ This is a subcom related to all the sciences out there. Post anything science-re
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 91 |
 | Posts                | 15  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a subcom related to all the sciences out there. Post anything science-re
 |----------------------|---|
 | Published            | 2020-07-24 15:20:58 |
 | Updated              | 2021-07-03 22:59:49 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

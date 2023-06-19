@@ -3,7 +3,7 @@ title: "lemuria"
 name: "lemuria"
 description: "Lemmy doesn't have the Reddit feature where you can post to your own profile, so I'll instead post here"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemuria"
@@ -54,4 +54,4 @@ Lemmy doesn't have the Reddit feature where you can post to your own profile, so
 |----------------------|---|
 | Published            | 2023-06-10 20:12:23 |
 | Updated              | 2023-06-10 20:46:52 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:56 |

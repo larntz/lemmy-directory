@@ -3,16 +3,16 @@ title: "Sysadmins for sysadmins"
 name: "bofh"
 description: "Kažkas turi tai padaryti / Somebody has to do itFotkė [camilo jimenez](https://unsplash.com/@camstejim) iš [Unsplash](https://unsplash.com/s/photos/system-administrator)  "
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bofh"
 host: group.lt
 lastmod: "{[ .Updated }}"
-subscribers: 52
-posts: 120
+subscribers: 55
+posts: 121
 comments: 14
-weight: 120
+weight: 121
 dau: 1
 wau: 1
 mau: 2
@@ -41,8 +41,8 @@ Kažkas turi tai padaryti / Somebody has to do it<br><br>Fotkė [camilo jimenez<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 120  |
+| Subscribers          | 55 |
+| Posts                | 121  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Kažkas turi tai padaryti / Somebody has to do it<br><br>Fotkė [camilo jimenez<
 |----------------------|---|
 | Published            | 2021-12-05 17:04:34 |
 | Updated              | 2022-09-25 06:24:14 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

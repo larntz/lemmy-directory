@@ -3,16 +3,16 @@ title: "Shiny Pokémon"
 name: "shinypokemon"
 description: "A community for shiny hunters, enthusiasts, and anyone else interested in the world of shiny Pokémon!"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/shinypokemon"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 2
-comments: 0
-weight: 2
+subscribers: 12
+posts: 3
+comments: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ A community for shiny hunters, enthusiasts, and anyone else interested in the wo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Subscribers          | 12 |
+| Posts                | 3  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A community for shiny hunters, enthusiasts, and anyone else interested in the wo
 |----------------------|---|
 | Published            | 2023-06-16 15:47:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

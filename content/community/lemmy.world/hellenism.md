@@ -3,7 +3,7 @@ title: "Hellenism"
 name: "hellenism"
 description: "A gathering space and support network for individuals who adhere to the various faiths within Hellenism."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hellenism"
@@ -54,4 +54,4 @@ A gathering space and support network for individuals who adhere to the various 
 |----------------------|---|
 | Published            | 2023-06-13 19:58:00 |
 | Updated              | 2023-06-13 20:05:26 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

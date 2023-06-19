@@ -3,13 +3,13 @@ title: "DIYElectronics"
 name: "tedjuan"
 description: "Writer, Tech Enthusiast #Raspberry_Pi #Arduino #DIYElectronics"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tedjuan"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Writer, Tech Enthusiast #Raspberry_Pi #Arduino #DIYElectronics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Writer, Tech Enthusiast #Raspberry_Pi #Arduino #DIYElectronics
 |----------------------|---|
 | Published            | 2022-01-08 12:17:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,13 +3,13 @@ title: "HomeTheater"
 name: "hometheater"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/hometheater"
 host: lemmy.film
 lastmod: "{[ .Updated }}"
-subscribers: 79
+subscribers: 90
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
+| Subscribers          | 90 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 02:54:45 |
 | Updated              | 2023-06-12 17:51:50 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

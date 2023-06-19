@@ -3,13 +3,13 @@ title: "Parades!"
 name: "parades"
 description: "A community that scratches that boot-stomping itch you may have! It could also be a civilian parade as well if you like.Rules-Standard don't be a little shit rules.-Parades of AES, Uncritical support, or Critical Support countries only.-No parade music videos,  that fits for a music community! (unless its to hell march, then its okay)"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/parades"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 21
 posts: 18
 comments: 10
 weight: 18
@@ -41,7 +41,7 @@ A community that scratches that boot-stomping itch you may have! It could also b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 21 |
 | Posts                | 18  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community that scratches that boot-stomping itch you may have! It could also b
 |----------------------|---|
 | Published            | 2022-04-25 08:35:07 |
 | Updated              | 2022-04-26 03:52:47 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

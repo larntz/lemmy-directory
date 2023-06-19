@@ -3,19 +3,19 @@ title: "Male Hentai"
 name: "malehentai"
 description: "A hentai community with a focus on male characters.Rules:- No photos/videos of real people. This community is for sexual art of fictional characters.- All posts must be solo male or male x male hentai. Male versions of existing characters are allowed.- No scat, vore or gore.If possible, please include the name of the artist in your post.\u00a0[SauceNAO](https://saucenao.com)\u00a0may be of use."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/malehentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 116
-posts: 15
-comments: 2
-weight: 15
-dau: 2
-wau: 6
-mau: 6
+subscribers: 164
+posts: 17
+comments: 3
+weight: 17
+dau: 3
+wau: 8
+mau: 9
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A hentai community with a focus on male characters.<br><br>Rules:<br><br>- No ph
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 116 |
-| Posts                | 15  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 164 |
+| Posts                | 17  |
+| Comments             | 3  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -56,4 +56,4 @@ A hentai community with a focus on male characters.<br><br>Rules:<br><br>- No ph
 |----------------------|---|
 | Published            | 2023-06-11 18:35:44 |
 | Updated              | 2023-06-11 19:14:41 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

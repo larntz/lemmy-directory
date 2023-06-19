@@ -3,19 +3,19 @@ title: "Community Requests."
 name: "community_requests"
 description: "This is to request dead / abandoned communities to be transferred."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/community_requests"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 342
-posts: 136
-comments: 380
-weight: 136
-dau: 4
-wau: 72
-mau: 91
+subscribers: 363
+posts: 142
+comments: 370
+weight: 142
+dau: 2
+wau: 40
+mau: 97
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is to request dead / abandoned communities to be transferred.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 342 |
-| Posts                | 136  |
-| Comments             | 380  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 72  |
-| Monthly Active Users | 91  |
+| Subscribers          | 363 |
+| Posts                | 142  |
+| Comments             | 370  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 97  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is to request dead / abandoned communities to be transferred.
 |----------------------|---|
 | Published            | 2020-05-16 19:11:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:47 |

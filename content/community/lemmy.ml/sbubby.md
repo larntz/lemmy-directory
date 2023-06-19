@@ -3,13 +3,13 @@ title: "Sbubby - logos with edited text"
 name: "sbubby"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sbubby"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 29
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 29 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-01 18:48:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

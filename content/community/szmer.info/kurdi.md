@@ -3,13 +3,13 @@ title: "Kurdî"
 name: "kurdi"
 description: ""
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/kurdi"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 90
+subscribers: 91
 posts: 329
 comments: 130
 weight: 329
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 90 |
+| Subscribers          | 91 |
 | Posts                | 329  |
 | Comments             | 130  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-31 10:58:39 |
 | Updated              | 2021-03-21 14:51:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

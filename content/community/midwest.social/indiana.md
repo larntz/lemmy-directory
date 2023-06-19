@@ -3,19 +3,19 @@ title: "Indiana"
 name: "indiana"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/indiana"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 59
-posts: 13
-comments: 27
-weight: 13
-dau: 2
-wau: 12
-mau: 18
+subscribers: 66
+posts: 15
+comments: 32
+weight: 15
+dau: 4
+wau: 14
+mau: 22
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 13  |
-| Comments             | 27  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 18  |
+| Subscribers          | 66 |
+| Posts                | 15  |
+| Comments             | 32  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-11-23 19:38:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

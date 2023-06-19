@@ -3,18 +3,18 @@ title: "Bogensport "
 name: "bogensport"
 description: "Eine Community über den Bogensport in DACH. Willkommen sind alle Klassen und Disziplinen, vom Bogenbau bis zum Verbandsregelwerk. "
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bogensport"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 6
-comments: 24
-weight: 6
-dau: 2
-wau: 5
+subscribers: 30
+posts: 7
+comments: 27
+weight: 7
+dau: 1
+wau: 4
 mau: 10
 instances:
 - "feddit_de"
@@ -41,11 +41,11 @@ Eine Community über den Bogensport in DACH. Willkommen sind alle Klassen und Di
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 6  |
-| Comments             | 24  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
+| Subscribers          | 30 |
+| Posts                | 7  |
+| Comments             | 27  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ Eine Community über den Bogensport in DACH. Willkommen sind alle Klassen und Di
 |----------------------|---|
 | Published            | 2023-06-05 17:08:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

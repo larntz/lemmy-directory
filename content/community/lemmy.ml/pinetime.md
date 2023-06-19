@@ -3,7 +3,7 @@ title: "Pinetime"
 name: "pinetime"
 description: "Created this community to share updates, thoughts, issues and promoting projects around the PineTime Watch from Pine64."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pinetime"
@@ -54,4 +54,4 @@ Created this community to share updates, thoughts, issues and promoting projects
 |----------------------|---|
 | Published            | 2023-06-13 11:01:00 |
 | Updated              | 2023-06-15 00:48:07 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

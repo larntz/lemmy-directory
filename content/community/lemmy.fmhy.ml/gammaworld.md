@@ -3,13 +3,13 @@ title: "Gamma World"
 name: "gammaworld"
 description: "Earth. After the apocalypse. Never mind the radiation, you’re gonna like it here. Your source for Gamma World & Mutant Future information in the Fediverse."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/gammaworld"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Earth. After the apocalypse. Never mind the radiation, you’re gonna like it he
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Earth. After the apocalypse. Never mind the radiation, you’re gonna like it he
 |----------------------|---|
 | Published            | 2023-06-16 12:54:13 |
 | Updated              | 2023-06-16 12:54:56 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

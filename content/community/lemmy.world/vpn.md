@@ -3,19 +3,19 @@ title: "VPN"
 name: "vpn"
 description: "A community for VPN users and those who want to know more about them."
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vpn"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 93
 posts: 1
-comments: 2
+comments: 3
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for VPN users and those who want to know more about them.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 93 |
 | Posts                | 1  |
-| Comments             | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for VPN users and those who want to know more about them.
 |----------------------|---|
 | Published            | 2023-06-11 00:50:20 |
 | Updated              | 2023-06-14 13:08:22 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-19 11:36:38 |

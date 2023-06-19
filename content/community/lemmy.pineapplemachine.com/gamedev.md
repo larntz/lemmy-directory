@@ -3,13 +3,13 @@ title: "gamedev"
 name: "gamedev"
 description: "A place to discuss and share news about video game development."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/gamedev"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 28
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss and share news about video game development.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 28 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss and share news about video game development.
 |----------------------|---|
 | Published            | 2023-06-06 18:13:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

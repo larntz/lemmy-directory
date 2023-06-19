@@ -3,7 +3,7 @@ title: "Ruqqus"
 name: "ruqqus"
 description: "Keep up with the Meta at [Ruqqus](http://ruqqus.com/)!Note: This guild is not meant to be a Ruqqus-away-from-Ruqqus. Ruqqus supports free speech to a high degree, but posting obscene content (outside the scope of discussion) won't be tolerated in this community. "
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ruqqus"
@@ -54,4 +54,4 @@ Keep up with the Meta at [Ruqqus](http://ruqqus.com/)!<br><br>Note: This guild i
 |----------------------|---|
 | Published            | 2021-04-14 23:39:52 |
 | Updated              | 2021-08-12 20:38:48 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

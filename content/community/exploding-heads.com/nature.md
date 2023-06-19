@@ -3,18 +3,18 @@ title: "Nature"
 name: "nature"
 description: "For all posts concerning the environment, natural phenomena, and even art or philosophy related to nature. "
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/nature"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 11
-posts: 12
+posts: 14
 comments: 8
-weight: 12
+weight: 14
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "exploding-heads_com"
@@ -42,10 +42,10 @@ For all posts concerning the environment, natural phenomena, and even art or phi
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 11 |
-| Posts                | 12  |
+| Posts                | 14  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ For all posts concerning the environment, natural phenomena, and even art or phi
 |----------------------|---|
 | Published            | 2023-04-04 23:32:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

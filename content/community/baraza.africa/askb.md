@@ -3,7 +3,7 @@ title: "Ask Baraza"
 name: "askb"
 description: "You will be surprised at how much depth strangers out there know about that bug you have wrestled the whole afternoon. Ask, and may be it will be answered. "
 type: community
-date: "2023-06-16 22:56:26"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/askb"
@@ -11,10 +11,10 @@ host: baraza.africa
 lastmod: "{[ .Updated }}"
 subscribers: 8
 posts: 2
-comments: 5
+comments: 6
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "baraza_africa"
@@ -43,9 +43,9 @@ You will be surprised at how much depth strangers out there know about that bug 
 |----------------------|---|
 | Subscribers          | 8 |
 | Posts                | 2  |
-| Comments             | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ You will be surprised at how much depth strangers out there know about that bug 
 |----------------------|---|
 | Published            | 2020-10-30 06:03:33 |
 | Updated              | 2021-11-28 04:36:37 |
-| Last Scraped         | 2023-06-16 22:56:26 |
+| Last Scraped         | 2023-06-19 11:35:27 |

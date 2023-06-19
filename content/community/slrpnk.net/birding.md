@@ -3,19 +3,19 @@ title: "Bird-Watching and Ornithology"
 name: "birding"
 description: "Mainly birdwatching pix and ID help; please post approximate location (country/region/at least give us a continent!) - moderators needed (eventually?)"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/birding"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 10
 posts: 3
-comments: 0
+comments: 1
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ Mainly birdwatching pix and ID help; please post approximate location (country/r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 10 |
 | Posts                | 3  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Mainly birdwatching pix and ID help; please post approximate location (country/r
 |----------------------|---|
 | Published            | 2023-06-16 15:20:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,7 +3,7 @@ title: "Politics Lounge"
 name: "politics_lounge"
 description: "Casual discussion and shitposting about day-to-day politics. Doesn't have to be insightful."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/politics_lounge"
@@ -54,4 +54,4 @@ Casual discussion and shitposting about day-to-day politics. Doesn't have to be 
 |----------------------|---|
 | Published            | 2021-09-26 21:12:31 |
 | Updated              | 2021-09-26 21:21:55 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:59 |

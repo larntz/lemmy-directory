@@ -3,19 +3,19 @@ title: "dogelore"
 name: "dogelore"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dogelore"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 11
+posts: 6
+comments: 1
+weight: 6
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 11 |
+| Posts                | 6  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 00:50:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

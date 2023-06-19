@@ -3,16 +3,16 @@ title: "music_production"
 name: "music_production"
 description: "For singers, songwriters, producers and other people who make music"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/music_production"
 host: zapad.nstr.no
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 1
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ For singers, songwriters, producers and other people who make music
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ For singers, songwriters, producers and other people who make music
 |----------------------|---|
 | Published            | 2023-06-15 15:18:03 |
 | Updated              | 2023-06-15 17:01:54 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

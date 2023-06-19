@@ -3,7 +3,7 @@ title: "Ofuro Japanese Soaking Tub - Health Benefits"
 name: "soakingtub"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/soakingtub"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-03 21:48:59 |
 | Updated              | 2022-05-04 15:37:42 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

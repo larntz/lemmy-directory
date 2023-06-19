@@ -3,19 +3,19 @@ title: "My Picture"
 name: "mypicture"
 description: "Have you ever randomly happen upon something you thought was funny, weird, crazy, or just interesting to you? Did you take a picture of it? How often do you share those pictures?Share them with this community! And share the story if it has one.Please use an image hosting website like the one below (others work too):https://postimages.org/This is to help with storage needs for the hosted server.Rules:1. No set up pictures (high quality/professionally done)2. Screenshots are allowed4. No Spam, and don't be a dick"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mypicture"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 74
 posts: 8
 comments: 16
 weight: 8
-dau: 2
-wau: 7
-mau: 7
+dau: 1
+wau: 4
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Have you ever randomly happen upon something you thought was funny, weird, crazy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 74 |
 | Posts                | 8  |
 | Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Have you ever randomly happen upon something you thought was funny, weird, crazy
 |----------------------|---|
 | Published            | 2023-06-11 19:50:49 |
 | Updated              | 2023-06-12 03:10:29 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

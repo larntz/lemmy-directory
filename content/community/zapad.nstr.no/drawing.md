@@ -3,7 +3,7 @@ title: "drawing"
 name: "drawing"
 description: "Resources and discussions about drawing. You are welcome to show off drawings you’ve made. Note that for pictures where AI has been used a separate community c/aiart exists."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/drawing"
@@ -54,4 +54,4 @@ Resources and discussions about drawing. You are welcome to show off drawings yo
 |----------------------|---|
 | Published            | 2023-06-12 22:59:20 |
 | Updated              | 2023-06-15 17:02:24 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

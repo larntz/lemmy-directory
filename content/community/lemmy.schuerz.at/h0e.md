@@ -3,7 +3,7 @@ title: "Modellbahn 1:87 Schmalspur"
 name: "h0e"
 description: "Modellbahn im Maßstab 1:87 (H0), Themenschwerpunkt Schmalspurbahnen, Bosnaspur, Meterspur, sächsische SpurweiteEinen [Blog](https://blog.schuerz.at/~/Modellbahn) gibts natürlich auch"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/h0e"
@@ -54,4 +54,4 @@ Modellbahn im Maßstab 1:87 (H0), Themenschwerpunkt Schmalspurbahnen, Bosnaspur,
 |----------------------|---|
 | Published            | 2021-02-19 06:04:32 |
 | Updated              | 2022-06-01 22:37:25 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,19 +3,19 @@ title: "Autechre"
 name: "autechre"
 description: "A community for fans of the English electronic music duo, Autechre"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/autechre"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 1
-comments: 3
-weight: 1
-dau: 3
-wau: 3
-mau: 3
+subscribers: 13
+posts: 2
+comments: 9
+weight: 2
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ A community for fans of the English electronic music duo, Autechre
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 13 |
+| Posts                | 2  |
+| Comments             | 9  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for fans of the English electronic music duo, Autechre
 |----------------------|---|
 | Published            | 2023-06-16 11:36:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

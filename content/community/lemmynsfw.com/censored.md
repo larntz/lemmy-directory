@@ -3,19 +3,19 @@ title: "Censored Porn"
 name: "censored"
 description: "Porn that is sissy-safe / censored for betas. Censored porn fetish involves covering or pixelating genitalia in order to deny the viewer.1. No underage play allowed.2. Posts must censor pussy and breasts, censoring anus and dick is optional.3. Clothing is an acceptable censor.4. Captions and gifs are welcome.5. Please keep race play within reasonable bounds. Overtly racist posts may be removed.6. Be generous with your denial."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/censored"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 7
+subscribers: 30
+posts: 10
 comments: 0
-weight: 7
+weight: 10
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Porn that is sissy-safe / censored for betas. Censored porn fetish involves cove
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 7  |
+| Subscribers          | 30 |
+| Posts                | 10  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ Porn that is sissy-safe / censored for betas. Censored porn fetish involves cove
 |----------------------|---|
 | Published            | 2023-06-16 19:00:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

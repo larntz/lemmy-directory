@@ -3,16 +3,16 @@ title: "Community Search Tips"
 name: "communitysearchtips"
 description: "Post your tips for finding Lemmy communities here!"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/communitysearchtips"
 host: lemmy.ninja
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 4
+subscribers: 4
+posts: 6
 comments: 0
-weight: 4
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Post your tips for finding Lemmy communities here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 4  |
+| Subscribers          | 4 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Post your tips for finding Lemmy communities here!
 |----------------------|---|
 | Published            | 2023-06-14 16:57:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:22 |

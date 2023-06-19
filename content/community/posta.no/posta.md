@@ -3,18 +3,18 @@ title: "Posta"
 name: "posta"
 description: "Community for discussions about this Lemmy instance."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://posta.no/c/posta"
 host: posta.no
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "posta_no"
@@ -41,11 +41,11 @@ Community for discussions about this Lemmy instance.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Community for discussions about this Lemmy instance.
 |----------------------|---|
 | Published            | 2023-06-11 15:20:53 |
 | Updated              | 2023-06-11 16:55:49 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

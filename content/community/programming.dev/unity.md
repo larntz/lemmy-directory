@@ -3,19 +3,19 @@ title: "Unity"
 name: "unity"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/unity"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 65
-posts: 6
-comments: 9
-weight: 6
-dau: 4
-wau: 5
-mau: 5
+subscribers: 85
+posts: 7
+comments: 10
+weight: 7
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
-| Posts                | 6  |
-| Comments             | 9  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 85 |
+| Posts                | 7  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 02:46:40 |
 | Updated              | 2023-06-13 02:48:07 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

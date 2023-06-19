@@ -3,13 +3,13 @@ title: "OpenStreetMap deutschsprachig"
 name: "openstreetmap_de"
 description: "Der Versuch, eine deutschsprachige Lemmy-Community für OSM aufzubauen.(TOP 1: Eine bessere Bannergrafik muss her…)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/openstreetmap_de"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 67
+subscribers: 71
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Der Versuch, eine deutschsprachige Lemmy-Community für OSM aufzubauen.<br><br>(
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
+| Subscribers          | 71 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Der Versuch, eine deutschsprachige Lemmy-Community für OSM aufzubauen.<br><br>(
 |----------------------|---|
 | Published            | 2022-12-28 13:53:43 |
 | Updated              | 2022-12-28 14:18:09 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

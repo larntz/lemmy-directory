@@ -3,7 +3,7 @@ title: "Sports science"
 name: "sports_science"
 description: "Sports science is a discipline that studies how the healthy human body works during exercise, and how sport and physical activity promote health and performance from cellular to whole body perspectives."
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/sports_science"
@@ -54,4 +54,4 @@ Sports science is a discipline that studies how the healthy human body works dur
 |----------------------|---|
 | Published            | 2022-11-09 20:23:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

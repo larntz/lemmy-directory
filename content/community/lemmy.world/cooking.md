@@ -3,19 +3,19 @@ title: "Cooking "
 name: "cooking"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cooking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 178
-posts: 5
-comments: 23
-weight: 5
-dau: 9
-wau: 14
-mau: 14
+subscribers: 280
+posts: 6
+comments: 25
+weight: 6
+dau: 3
+wau: 15
+mau: 17
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 178 |
-| Posts                | 5  |
-| Comments             | 23  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 280 |
+| Posts                | 6  |
+| Comments             | 25  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 02:57:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

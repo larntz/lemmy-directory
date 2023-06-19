@@ -1,19 +1,19 @@
 ---
 title: "Pro Wrestling" 
 name: "wrestling"
-description: "A place to respectfully discuss pro wrestling in all forms and from all promotions and eras."
+description: "A place to respectfully discuss pro wrestling from all promotions, all eras, and all styles.**Rules:**- Let people like what they like- Enjoy what you enjoy- Keep it chill"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wrestling"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 4
-comments: 2
-weight: 4
-dau: 2
+subscribers: 17
+posts: 8
+comments: 3
+weight: 8
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A place to respectfully discuss pro wrestling in all forms and from all promotions and eras.
+A place to respectfully discuss pro wrestling from all promotions, all eras, and all styles.<br><br>**Rules:**<br>- Let people like what they like<br>- Enjoy what you enjoy<br>- Keep it chill
 </blockquote>
 
 
@@ -41,10 +41,10 @@ A place to respectfully discuss pro wrestling in all forms and from all promotio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
+| Subscribers          | 17 |
+| Posts                | 8  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -53,5 +53,5 @@ A place to respectfully discuss pro wrestling in all forms and from all promotio
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 01:20:32 |
-| Updated              | 2023-06-16 02:56:01 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-17 17:09:18 |
+| Last Scraped         | 2023-06-19 11:36:37 |

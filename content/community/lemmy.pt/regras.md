@@ -3,13 +3,13 @@ title: "Regras e Código de Conduta"
 name: "regras"
 description: "Uma comunidade fechada que contém apenas as regras e código de conduta desta instância. "
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/regras"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Uma comunidade fechada que contém apenas as regras e código de conduta desta i
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Uma comunidade fechada que contém apenas as regras e código de conduta desta i
 |----------------------|---|
 | Published            | 2021-09-11 11:35:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

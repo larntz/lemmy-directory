@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "Community to talk about music and share them."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sumuun.net/c/music"
@@ -54,4 +54,4 @@ Community to talk about music and share them.
 |----------------------|---|
 | Published            | 2023-06-14 05:02:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

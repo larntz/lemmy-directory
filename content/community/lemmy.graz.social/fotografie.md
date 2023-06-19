@@ -3,7 +3,7 @@ title: "Fotografie"
 name: "fotografie"
 description: "Community rund um Fotografie"
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/fotografie"
@@ -54,4 +54,4 @@ Community rund um Fotografie
 |----------------------|---|
 | Published            | 2023-06-12 17:50:17 |
 | Updated              | 2023-06-12 17:59:43 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

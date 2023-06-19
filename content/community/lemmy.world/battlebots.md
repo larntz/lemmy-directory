@@ -3,13 +3,13 @@ title: "Battlebots"
 name: "battlebots"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battlebots"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 47
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 47 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 19:21:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

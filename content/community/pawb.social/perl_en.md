@@ -3,13 +3,13 @@ title: "Perl"
 name: "perl_en"
 description: "English-language programmers' community for those who use the Perl and/or Raku programming languagesPlease treat  [pawb.social's rules](https://pawb.social/post/100) as though they were the rules of this community, even if you're posting from another instance!"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/perl_en"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ English-language programmers' community for those who use the Perl and/or Raku p
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ English-language programmers' community for those who use the Perl and/or Raku p
 |----------------------|---|
 | Published            | 2023-06-10 14:32:06 |
 | Updated              | 2023-06-12 23:54:30 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

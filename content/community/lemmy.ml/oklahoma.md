@@ -3,13 +3,13 @@ title: "Oklahoma"
 name: "oklahoma"
 description: "A place for all things Oklahoma"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oklahoma"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place for all things Oklahoma
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for all things Oklahoma
 |----------------------|---|
 | Published            | 2023-06-07 06:56:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

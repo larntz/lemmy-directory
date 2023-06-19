@@ -3,13 +3,13 @@ title: "Girls Kissing "
 name: "girlskissing"
 description: "Alternative to r/girlskissing. All posts should feature girls kissing. Other acts are allowed but kissing should be the focus. No hardcore. "
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/girlskissing"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 184
 posts: 2
 comments: 0
 weight: 2
@@ -43,7 +43,7 @@ Alternative to r/girlskissing. All posts should feature girls kissing. Other act
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 184 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Alternative to r/girlskissing. All posts should feature girls kissing. Other act
 |----------------------|---|
 | Published            | 2023-06-15 01:05:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

@@ -3,7 +3,7 @@ title: "rodrik94"
 name: "rodrik94"
 description: "for me"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rodrik94"
@@ -54,4 +54,4 @@ for me
 |----------------------|---|
 | Published            | 2020-10-29 01:17:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:51 |

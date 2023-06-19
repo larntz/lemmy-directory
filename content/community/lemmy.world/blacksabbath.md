@@ -3,7 +3,7 @@ title: "Black Sabbath"
 name: "blacksabbath"
 description: "Sabbath bloody Sabbath!All eras of Sabbath Welcome.**Other Communities:**[Ozzy Osbourne](/c/ozzy@lemmy.world)[Dio](/c/dio@lemmy.world)[Metal](/c/metal@lemmy.world)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blacksabbath"
@@ -54,4 +54,4 @@ Sabbath bloody Sabbath!<br><br>All eras of Sabbath Welcome.<br><br>**Other Commu
 |----------------------|---|
 | Published            | 2023-06-12 08:36:32 |
 | Updated              | 2023-06-12 22:55:52 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

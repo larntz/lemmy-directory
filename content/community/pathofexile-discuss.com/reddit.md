@@ -3,18 +3,18 @@ title: "Discuss reddit.com "
 name: "reddit"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://pathofexile-discuss.com/c/reddit"
 host: pathofexile-discuss.com
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 40
 posts: 4
 comments: 19
 weight: 4
 dau: 2
-wau: 16
+wau: 14
 mau: 16
 instances:
 - "pathofexile-discuss_com"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 40 |
 | Posts                | 4  |
 | Comments             | 19  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 16  |
+| Weekly Active Users  | 14  |
 | Monthly Active Users | 16  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 23:07:45 |
 | Updated              | 2023-06-12 00:51:44 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

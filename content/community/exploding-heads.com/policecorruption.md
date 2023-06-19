@@ -3,7 +3,7 @@ title: "Police Corruption"
 name: "policecorruption"
 description: "Law enforcement has always been mistrusted by certain segments of th community - but the majority of us believed law enforcement generally tried to do the right thing despite a few bad apples.All that has changed recently. Do you trust:- FBI (highly politicized)- DOJ (selective prosecution based on politics)- CIA (plotting to take down elected leaders)- Capitol Police (beating, gasing & killing peaceful protesters)- Local Police (why were all those people allowed to burn down our cities)"
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/policecorruption"
@@ -54,4 +54,4 @@ Law enforcement has always been mistrusted by certain segments of th community -
 |----------------------|---|
 | Published            | 2022-02-27 21:44:22 |
 | Updated              | 2022-03-20 18:33:37 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-19 11:35:38 |

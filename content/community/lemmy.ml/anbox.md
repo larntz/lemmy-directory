@@ -3,7 +3,7 @@ title: "anbox - Android emulated on Linux"
 name: "anbox"
 description: "https://github.com/anbox/anboxAnbox is a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. In other words: Anbox will let you run Android on your Linux system without the slowness of virtualization.http://docs.ubports.com/en/latest/userguide/dailyuse/anbox.html"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anbox"
@@ -54,4 +54,4 @@ https://github.com/anbox/anbox<br><br>Anbox is a container-based approach to boo
 |----------------------|---|
 | Published            | 2020-08-01 22:36:11 |
 | Updated              | 2020-08-01 22:38:44 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

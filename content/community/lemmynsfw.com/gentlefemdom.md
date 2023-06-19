@@ -3,19 +3,19 @@ title: "Gentle Femdom"
 name: "gentlefemdom"
 description: "For porn, memes, and discussion of gentle female domination. F/M, F/F, and F/NB all welcome!Rules:1. Posts must be related to gentle femdom.2. Don't be a dick.3. Don't be a bigot. This includes racism, sexism, homophobia, transphobia, ableism, xenophobia, and any other variety of bigotry you can name.4. Don't kink-shame.5. Don't become the reason that a new rule is added."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gentlefemdom"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 721
-posts: 25
-comments: 23
-weight: 25
-dau: 5
-wau: 25
-mau: 25
+subscribers: 944
+posts: 33
+comments: 38
+weight: 33
+dau: 4
+wau: 35
+mau: 35
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,17 +43,17 @@ For porn, memes, and discussion of gentle female domination. F/M, F/F, and F/NB 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 721 |
-| Posts                | 25  |
-| Comments             | 23  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 25  |
+| Subscribers          | 944 |
+| Posts                | 33  |
+| Comments             | 38  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 35  |
+| Monthly Active Users | 35  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 03:41:16 |
-| Updated              | 2023-06-16 02:58:50 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Updated              | 2023-06-17 19:19:48 |
+| Last Scraped         | 2023-06-19 11:35:46 |

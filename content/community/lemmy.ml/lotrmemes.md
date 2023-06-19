@@ -3,13 +3,13 @@ title: "Memes about the Lord of the Rings universe"
 name: "lotrmemes"
 description: "The beautiful universe of J.R.R. Tolkien"
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lotrmemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 58
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ The beautiful universe of J.R.R. Tolkien
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 58 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The beautiful universe of J.R.R. Tolkien
 |----------------------|---|
 | Published            | 2020-06-30 21:23:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:36:48 |

@@ -3,18 +3,18 @@ title: "Uranium Glass"
 name: "uraniumglass"
 description: "A community for collectors of uranium glass (and other types of glowing glass too!)"
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/uraniumglass"
 host: lemmy.villa-straylight.social
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 42
 posts: 5
-comments: 16
+comments: 17
 weight: 5
-dau: 2
-wau: 9
+dau: 1
+wau: 8
 mau: 9
 instances:
 - "lemmy_villa-straylight_social"
@@ -41,11 +41,11 @@ A community for collectors of uranium glass (and other types of glowing glass to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 42 |
 | Posts                | 5  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
 | Monthly Active Users | 9  |
 
 <br>
@@ -54,4 +54,4 @@ A community for collectors of uranium glass (and other types of glowing glass to
 |----------------------|---|
 | Published            | 2023-06-11 18:36:41 |
 | Updated              | 2023-06-11 18:40:44 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

@@ -3,15 +3,15 @@ title: "Tottenham Hotspur F.C."
 name: "coys"
 description: "Tottenham Hotspur - a club that Bill Nicholson made. COME ON YOU SPURS!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coys"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 2
-comments: 2
+comments: 3
 weight: 2
 dau: 3
 wau: 3
@@ -41,9 +41,9 @@ Tottenham Hotspur - a club that Bill Nicholson made. COME ON YOU SPURS!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 2  |
-| Comments             | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Tottenham Hotspur - a club that Bill Nicholson made. COME ON YOU SPURS!
 |----------------------|---|
 | Published            | 2023-06-12 08:38:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

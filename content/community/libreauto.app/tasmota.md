@@ -3,13 +3,13 @@ title: "Tasmota"
 name: "tasmota"
 description: "This is a community for talking about all thing [Tasmota](tasmota.github.io). Tasmote is a Free and Open source custom firmware for esp type micro controllers "
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/tasmota"
 host: libreauto.app
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a community for talking about all thing [Tasmota](tasmota.github.io). Ta
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a community for talking about all thing [Tasmota](tasmota.github.io). Ta
 |----------------------|---|
 | Published            | 2023-06-12 19:38:01 |
 | Updated              | 2023-06-12 19:41:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:28 |

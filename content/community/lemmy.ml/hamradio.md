@@ -3,19 +3,19 @@ title: "Ham Radio"
 name: "hamradio"
 description: "This community is for anything related to ham/amateur radios"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hamradio"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 180
-posts: 16
-comments: 68
-weight: 16
-dau: 7
-wau: 17
-mau: 21
+subscribers: 215
+posts: 17
+comments: 76
+weight: 17
+dau: 1
+wau: 15
+mau: 22
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This community is for anything related to ham/amateur radios
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 180 |
-| Posts                | 16  |
-| Comments             | 68  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 21  |
+| Subscribers          | 215 |
+| Posts                | 17  |
+| Comments             | 76  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is for anything related to ham/amateur radios
 |----------------------|---|
 | Published            | 2021-08-12 09:13:13 |
 | Updated              | 2021-08-13 08:43:18 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:43 |

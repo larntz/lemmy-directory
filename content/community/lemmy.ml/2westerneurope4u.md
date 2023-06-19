@@ -3,19 +3,19 @@ title: "2westerneurope4u"
 name: "2westerneurope4u"
 description: "Ironic ultranationalistic memes about Western European countries (Netherlands, Luxembourg, Germany, France, Italy, Spain, Portugal, Greece, UK, Ireland, Denmark (incl. Greenland), Norway, Sweden, Finland, Iceland, Switzerland, Austria, Flanders & Wallonia) You will learn more about European culture here than anywhere else on Reddit."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2westerneurope4u"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 56
-posts: 2
-comments: 9
-weight: 2
-dau: 1
-wau: 7
-mau: 7
+subscribers: 79
+posts: 3
+comments: 10
+weight: 3
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Ironic ultranationalistic memes about Western European countries (Netherlands, L
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 2  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 79 |
+| Posts                | 3  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ironic ultranationalistic memes about Western European countries (Netherlands, L
 |----------------------|---|
 | Published            | 2023-06-04 10:58:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:51 |

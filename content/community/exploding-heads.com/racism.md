@@ -3,16 +3,16 @@ title: "Racism"
 name: "racism"
 description: "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.Martin Luther King Jr."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/racism"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 28
-posts: 296
+subscribers: 33
+posts: 297
 comments: 113
-weight: 296
+weight: 297
 dau: 1
 wau: 1
 mau: 4
@@ -41,8 +41,8 @@ I have a dream that my four little children will one day live in a nation where 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 296  |
+| Subscribers          | 33 |
+| Posts                | 297  |
 | Comments             | 113  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ I have a dream that my four little children will one day live in a nation where 
 |----------------------|---|
 | Published            | 2022-02-28 20:16:09 |
 | Updated              | 2022-03-20 22:37:44 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

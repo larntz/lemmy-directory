@@ -3,18 +3,18 @@ title: "France"
 name: "france"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/france"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 10
-posts: 38
+posts: 39
 comments: 15
-weight: 38
+weight: 39
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "exploding-heads_com"
@@ -42,10 +42,10 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 10 |
-| Posts                | 38  |
+| Posts                | 39  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-08 12:31:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

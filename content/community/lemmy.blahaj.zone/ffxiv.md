@@ -3,17 +3,17 @@ title: "Final Fantasy X|V"
 name: "ffxiv"
 description: "Community for the critically-acclaimed  MMORPG *Final Fantasy XIV*, now available with a Free Trial up to Level 60 and includes the award-winning *Heavensward* expansion with no restrictions on playtime [The Lodestone](https://na.finalfantasyxiv.com/lodestone/)"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ffxiv"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 5
-comments: 4
-weight: 5
-dau: 2
+subscribers: 33
+posts: 6
+comments: 5
+weight: 6
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Community for the critically-acclaimed  MMORPG *Final Fantasy XIV*, now availabl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
+| Subscribers          | 33 |
+| Posts                | 6  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Community for the critically-acclaimed  MMORPG *Final Fantasy XIV*, now availabl
 |----------------------|---|
 | Published            | 2023-06-12 17:38:06 |
 | Updated              | 2023-06-14 18:39:31 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,19 +3,19 @@ title: "Klimawandel"
 name: "klimawandel"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/klimawandel"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 533
-posts: 161
-comments: 228
-weight: 161
-dau: 8
-wau: 49
-mau: 59
+subscribers: 605
+posts: 166
+comments: 266
+weight: 166
+dau: 9
+wau: 67
+mau: 86
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 533 |
-| Posts                | 161  |
-| Comments             | 228  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 49  |
-| Monthly Active Users | 59  |
+| Subscribers          | 605 |
+| Posts                | 166  |
+| Comments             | 266  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 67  |
+| Monthly Active Users | 86  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-08-31 19:49:09 |
 | Updated              | 2021-09-18 06:51:32 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -1,9 +1,9 @@
 ---
 title: "Jamie Blog" 
 name: "blog"
-description: "If you've come to visit, be kind. This is just a place for me to put down my two cents written for no one in particular."
+description: "This is a community where I blog about things I'm doing. These will usually be relevant to the Fediverse, or generally just technical in nature."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://jamie.moe/c/blog"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-If you've come to visit, be kind. This is just a place for me to put down my two cents written for no one in particular.
+This is a community where I blog about things I'm doing. These will usually be relevant to the Fediverse, or generally just technical in nature.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ If you've come to visit, be kind. This is just a place for me to put down my two
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 06:50:58 |
-| Updated              | 2023-06-16 06:52:09 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Updated              | 2023-06-18 16:53:26 |
+| Last Scraped         | 2023-06-19 11:35:30 |

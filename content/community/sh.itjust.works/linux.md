@@ -1,18 +1,18 @@
 ---
 title: "Linux" 
 name: "linux"
-description: "Shit, just linux."
+description: "Shit, just linux.Use this community for anything related to linux for now, if it gets too huge maybe there will be some sort of meme/gaming/shitpost spinoff. Currently though…  [go nuts](https://www.youtube.com/watch?v=1ztjGp0aLZk)"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/linux"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 482
-posts: 3
-comments: 54
-weight: 3
+subscribers: 618
+posts: 5
+comments: 119
+weight: 5
 dau: 5
 wau: 16
 mau: 16
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Shit, just linux.
+Shit, just linux.<br><br>Use this community for anything related to linux for now, if it gets too huge maybe there will be some sort of meme/gaming/shitpost spinoff. Currently though…  [go nuts](https://www.youtube.com/watch?v=1ztjGp0aLZk)
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Shit, just linux.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 482 |
-| Posts                | 3  |
-| Comments             | 54  |
+| Subscribers          | 618 |
+| Posts                | 5  |
+| Comments             | 119  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 16  |
 | Monthly Active Users | 16  |
@@ -53,5 +53,5 @@ Shit, just linux.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 03:35:28 |
-| Updated              | 2023-06-14 00:52:16 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Updated              | 2023-06-19 00:56:49 |
+| Last Scraped         | 2023-06-19 11:35:05 |

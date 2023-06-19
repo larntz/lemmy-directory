@@ -3,7 +3,7 @@ title: "Música"
 name: "musica"
 description: "Compartilhe o que você está ouvindo!"
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/musica"
@@ -54,4 +54,4 @@ Compartilhe o que você está ouvindo!
 |----------------------|---|
 | Published            | 2023-06-14 23:22:05 |
 | Updated              | 2023-06-14 23:24:20 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:26 |

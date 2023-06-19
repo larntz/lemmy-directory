@@ -3,19 +3,19 @@ title: "Doggos That Aren't Food Motivated"
 name: "dog_doesnt_eat"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/dog_doesnt_eat"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 15
-comments: 7
-weight: 15
+subscribers: 14
+posts: 17
+comments: 14
+weight: 17
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "reddthat_com"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 15  |
-| Comments             | 7  |
+| Subscribers          | 14 |
+| Posts                | 17  |
+| Comments             | 14  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 07:19:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

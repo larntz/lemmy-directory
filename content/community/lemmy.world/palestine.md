@@ -3,19 +3,19 @@ title: "Palestine"
 name: "palestine"
 description: "A community for the discussion of all matters relating to Palestine - people, cultural, political, etc."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/palestine"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 5
 posts: 4
 comments: 0
 weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for the discussion of all matters relating to Palestine - people, cu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 5 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the discussion of all matters relating to Palestine - people, cu
 |----------------------|---|
 | Published            | 2023-06-11 09:58:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:40 |

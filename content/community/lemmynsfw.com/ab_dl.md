@@ -3,19 +3,19 @@ title: "ABDL"
 name: "ab_dl"
 description: "A new place to connect with other ABDL's. Related Lemmy's:Videos - https://lemmynsfw.com/c/abdl_videosGirls in diapers -https://lemmynsfw.com/c/girls_in_diapersDudes in diapers -https://lemmynsfw.com/c/dudesindiapersMeeting up -https://lemmynsfw.com/c/abdl_aslDiaper Porn -https://lemmynsfw.com/c/diaperpornDiapered Trans -https://lemmynsfw.com/c/diapered_trans"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ab_dl"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 34
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A new place to connect with other ABDL's. <br><br>Related Lemmy's:<br><br>Videos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 34 |
 | Posts                | 2  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ A new place to connect with other ABDL's. <br><br>Related Lemmy's:<br><br>Videos
 |----------------------|---|
 | Published            | 2023-06-14 15:39:06 |
 | Updated              | 2023-06-14 16:15:56 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

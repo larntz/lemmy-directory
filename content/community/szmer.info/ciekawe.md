@@ -3,19 +3,19 @@ title: "ciekawe"
 name: "ciekawe"
 description: "Miejsce na wszelkie internetowe odkrycia i ciekawostki, oraz wszystko co nie wiadomo, gdzie indziej miało by się znaleźć. Jeśli coś nie jest po polsku oznacz język w kwadratowych nawiasach na początku."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ciekawe"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 68
-posts: 196
-comments: 86
-weight: 196
+posts: 197
+comments: 89
+weight: 197
 dau: 1
 wau: 5
-mau: 6
+mau: 5
 instances:
 - "szmer_info"
 tags: 
@@ -42,11 +42,11 @@ Miejsce na wszelkie internetowe odkrycia i ciekawostki, oraz wszystko co nie wia
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 68 |
-| Posts                | 196  |
-| Comments             | 86  |
+| Posts                | 197  |
+| Comments             | 89  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Miejsce na wszelkie internetowe odkrycia i ciekawostki, oraz wszystko co nie wia
 |----------------------|---|
 | Published            | 2021-10-31 17:26:14 |
 | Updated              | 2021-10-31 17:27:11 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

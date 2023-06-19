@@ -3,7 +3,7 @@ title: "homebrew"
 name: "homebrew"
 description: "The sub for any brew that you do.- [recipe and batch tracking](https://brewfather.app)- [mycological cultivation tutorial](https://joyo.dev/JoYo/HomeMyco)"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homebrew"
@@ -54,4 +54,4 @@ The sub for any brew that you do.<br><br>- [recipe and batch tracking](https://b
 |----------------------|---|
 | Published            | 2023-04-19 18:36:09 |
 | Updated              | 2023-04-19 19:45:44 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:57 |

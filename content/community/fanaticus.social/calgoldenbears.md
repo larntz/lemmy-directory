@@ -1,9 +1,9 @@
 ---
-title: "California Golden Bears" 
+title: "Cal Golden Bears" 
 name: "calgoldenbears"
 description: "A community to discuss California Golden Bears athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/calgoldenbears"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/California Golden Bears on fanaticus.social
+# /c/Cal Golden Bears on fanaticus.social
 
 [[home](/)]
 [[/c/calgoldenbears 🌎](https://fanaticus.social/c/calgoldenbears)]
@@ -53,5 +53,5 @@ A community to discuss California Golden Bears athletics.<br><br>**Looking for M
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 23:58:38 |
-| Updated              | 2023-06-15 00:25:16 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 03:46:37 |
+| Last Scraped         | 2023-06-19 11:35:15 |

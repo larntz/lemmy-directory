@@ -3,19 +3,19 @@ title: "Green - An environmentalist community "
 name: "green"
 description: "This is the place to discuss environmentalism, preservation, direct action and anything related to it!---**RULES:**1- Remember the human2- Link posts should come from a reputable source3- All opinions are allowed but discussion must be in good faith---Related communities:* [/c/collapse](https://lemmy.ml/c/collapse)* [/c/antreefa](https://lemmy.ml/c/antreefa)* [/c/gardening](https://lemmy.ml/c/gardening)* [/c/eco_socialism@lemmygrad.ml](https://lemmy.ml/community/16836)* [/c/biology](https://lemmy.ml/c/biology)* [/c/criseciv](https://lemmy.ml/c/criseciv)* [/c/eco](https://lemmy.ml/c/eco)* [/c/environment@beehaw.org](https://beehaw.org/c/environment)* [SLRPNK](https://slrpnk.net/)---Unofficial Chat rooms:* [/c/green on Matrix](https://matrix.to/#/#greeen:matrix.org)* [Ecological Science and News Discord](https://discord.gg/E6WTSun)"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/green"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2856
-posts: 1207
-comments: 1914
-weight: 1207
-dau: 2
-wau: 13
-mau: 82
+subscribers: 2963
+posts: 1218
+comments: 1928
+weight: 1218
+dau: 9
+wau: 25
+mau: 92
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is the place to discuss environmentalism, preservation, direct action and a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2856 |
-| Posts                | 1207  |
-| Comments             | 1914  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 82  |
+| Subscribers          | 2963 |
+| Posts                | 1218  |
+| Comments             | 1928  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 92  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is the place to discuss environmentalism, preservation, direct action and a
 |----------------------|---|
 | Published            | 2019-05-31 14:50:13 |
 | Updated              | 2023-06-09 20:29:19 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:49 |

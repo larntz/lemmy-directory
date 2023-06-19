@@ -3,7 +3,7 @@ title: "Aberoth"
 name: "aberoth"
 description: "Lemmy community for the 8-bit browser MMORPG Aberoth![Web](https://aberoth.com) | [Steam](https://store.steampowered.com/app/354200/Aberoth/) | [Java](https://aberoth.com/download.html)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aberoth"
@@ -54,4 +54,4 @@ Lemmy community for the 8-bit browser MMORPG Aberoth!<br><br>[Web](https://abero
 |----------------------|---|
 | Published            | 2023-06-14 01:35:28 |
 | Updated              | 2023-06-14 06:38:19 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:41 |

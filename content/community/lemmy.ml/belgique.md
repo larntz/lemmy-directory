@@ -3,7 +3,7 @@ title: "Belgique"
 name: "belgique"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/belgique"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-04-24 15:54:27 |
 | Updated              | 2023-04-24 15:55:34 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

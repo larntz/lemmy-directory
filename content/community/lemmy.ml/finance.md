@@ -3,7 +3,7 @@ title: "Finance -> sub migrated"
 name: "finance"
 description: "[Transition sub to beehaw.org/c/finance - use that instead](https://beehaw.org/c/finance)If you cannot connect to it, feel free to continue using this sub"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/finance"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-11-07 08:28:47 |
 | Updated              | 2022-08-12 03:02:08 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

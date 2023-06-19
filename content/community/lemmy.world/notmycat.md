@@ -3,13 +3,13 @@ title: "Not My Cat"
 name: "notmycat"
 description: "Posts must either feature a NotMyCat, or discuss a NotMyCat."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notmycat"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 65
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Posts must either feature a NotMyCat, or discuss a NotMyCat.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 65 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Posts must either feature a NotMyCat, or discuss a NotMyCat.
 |----------------------|---|
 | Published            | 2023-06-12 19:23:06 |
 | Updated              | 2023-06-12 21:48:35 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

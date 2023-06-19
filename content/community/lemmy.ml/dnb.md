@@ -3,13 +3,13 @@ title: "Drum and Bass music"
 name: "dnb"
 description: "Everything D'n'B here!"
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dnb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 36
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Everything D'n'B here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything D'n'B here!
 |----------------------|---|
 | Published            | 2021-01-15 14:26:01 |
 | Updated              | 2021-01-15 14:35:08 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:36:45 |

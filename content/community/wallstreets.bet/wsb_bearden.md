@@ -3,7 +3,7 @@ title: "The Bears Den"
 name: "wsb_bearden"
 description: "Enjoy getting kicked in the balls? Post your bear theses, memes, gain or loss porn here."
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_bearden"
@@ -54,4 +54,4 @@ Enjoy getting kicked in the balls? Post your bear theses, memes, gain or loss po
 |----------------------|---|
 | Published            | 2023-06-14 19:17:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

@@ -3,13 +3,13 @@ title: "Elixir"
 name: "elixir"
 description: "News & discussion about [the Elixir programming language](https://elixir-lang.org/)."
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elixir"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 43
 posts: 6
 comments: 0
 weight: 6
@@ -41,7 +41,7 @@ News & discussion about [the Elixir programming language](https://elixir-lang.or
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 43 |
 | Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ News & discussion about [the Elixir programming language](https://elixir-lang.or
 |----------------------|---|
 | Published            | 2020-07-01 11:10:31 |
 | Updated              | 2021-03-29 16:13:41 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:56 |

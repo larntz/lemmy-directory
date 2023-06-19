@@ -3,13 +3,13 @@ title: "CYBERPUNK.pics"
 name: "cyberpunkpics"
 description: "CYBERPUNK.pics - a international cyberpunk'ish LGBTQIA+ friendly Pixelfed instance for edgerunners, netrunners and cyberpunks and all who want to become one. Powered by CORTEXIMPLANT.com"
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/cyberpunkpics"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 48
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ CYBERPUNK.pics - a international cyberpunk'ish LGBTQIA+ friendly Pixelfed instan
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 48 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ CYBERPUNK.pics - a international cyberpunk'ish LGBTQIA+ friendly Pixelfed instan
 |----------------------|---|
 | Published            | 2023-06-11 17:00:32 |
 | Updated              | 2023-06-11 17:01:29 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

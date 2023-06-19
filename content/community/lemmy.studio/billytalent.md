@@ -3,13 +3,13 @@ title: "Billy Talent"
 name: "billytalent"
 description: "# Welcome! This is an unofficial community for all things Billy Talent, the band. --- ## We are looking for moderators! ---##  Official websitehttp://billytalent.com/"
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/billytalent"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-16 18:31:25 |
 | Updated              | 2023-06-16 18:35:00 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

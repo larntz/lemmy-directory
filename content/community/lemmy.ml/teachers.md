@@ -3,7 +3,7 @@ title: "Teachers' forum UK"
 name: "teachers"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teachers"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-04 09:41:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

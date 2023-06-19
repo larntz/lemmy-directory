@@ -3,7 +3,7 @@ title: "Shreddit but on the fediverse"
 name: "snowboarding"
 description: "For snowboarders & those who love snowboards."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/snowboarding"
@@ -54,4 +54,4 @@ For snowboarders & those who love snowboards.
 |----------------------|---|
 | Published            | 2023-06-15 02:10:24 |
 | Updated              | 2023-06-15 02:10:31 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:39 |

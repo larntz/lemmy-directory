@@ -3,13 +3,13 @@ title: "MechMarket"
 name: "mechmarket"
 description: "A place to buy, sell, or trade your keyboard(s)"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/mechmarket"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to buy, sell, or trade your keyboard(s)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to buy, sell, or trade your keyboard(s)
 |----------------------|---|
 | Published            | 2023-06-15 17:15:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

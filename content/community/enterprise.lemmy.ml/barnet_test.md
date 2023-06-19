@@ -3,7 +3,7 @@ title: "Barnet testing"
 name: "barnet_test"
 description: "A test community for the Barnet app"
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/barnet_test"
@@ -11,7 +11,7 @@ host: enterprise.lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 1
 posts: 3
-comments: 0
+comments: 11
 weight: 3
 dau: 0
 wau: 0
@@ -43,7 +43,7 @@ A test community for the Barnet app
 |----------------------|---|
 | Subscribers          | 1 |
 | Posts                | 3  |
-| Comments             | 0  |
+| Comments             | 11  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ A test community for the Barnet app
 |----------------------|---|
 | Published            | 2023-06-16 10:27:38 |
 | Updated              | 2023-06-16 14:47:46 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

@@ -3,19 +3,19 @@ title: "Science"
 name: "science"
 description: "Subscribe to see new publications and popular science coverage of current research on your homepage---"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/science"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6547
-posts: 1161
-comments: 1153
-weight: 1161
-dau: 4
+subscribers: 6822
+posts: 1169
+comments: 1171
+weight: 1169
+dau: 5
 wau: 36
-mau: 75
+mau: 84
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Subscribe to see new publications and popular science coverage of current resear
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6547 |
-| Posts                | 1161  |
-| Comments             | 1153  |
-| Daily Active Users   | 4  |
+| Subscribers          | 6822 |
+| Posts                | 1169  |
+| Comments             | 1171  |
+| Daily Active Users   | 5  |
 | Weekly Active Users  | 36  |
-| Monthly Active Users | 75  |
+| Monthly Active Users | 84  |
 
 <br>
 
@@ -54,4 +54,4 @@ Subscribe to see new publications and popular science coverage of current resear
 |----------------------|---|
 | Published            | 2019-04-25 22:02:43 |
 | Updated              | 2021-02-15 20:55:29 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:57 |

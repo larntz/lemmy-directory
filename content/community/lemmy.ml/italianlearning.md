@@ -3,7 +3,7 @@ title: "Italian Learning"
 name: "italianlearning"
 description: "Are you learning Italian? Well, this is the place for you! Post resources, videos, strategies, explainers, and your experience related to learning Italian. "
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italianlearning"
@@ -54,4 +54,4 @@ Are you learning Italian? Well, this is the place for you! Post resources, video
 |----------------------|---|
 | Published            | 2022-05-17 14:50:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:46 |

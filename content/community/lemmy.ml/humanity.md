@@ -3,13 +3,13 @@ title: "Humanity"
 name: "humanity"
 description: "Anything that is related to humanity."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/humanity"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Anything that is related to humanity.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Anything that is related to humanity.
 |----------------------|---|
 | Published            | 2020-02-01 12:57:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:53 |

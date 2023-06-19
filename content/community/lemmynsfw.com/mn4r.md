@@ -3,13 +3,13 @@ title: "Minnesota4r"
 name: "mn4r"
 description: "Minnesota (MN) community for making adult connections and sharing NSFW content in the Twin Cities metro area, Rochester, St. Cloud, Mankato, Duluth, and all of MN. Swingers, Dogging, Hookups, Relationships, BDSM, Kinks.Please use (F) (T) and (M) etc. as appropriate.Rules1.18+2. Don't ask or post about anything illegal3. Be kind - don't be mean or rude4. Be respectful5. Don't post the same post over and over,6. No Only Fans SPAM7. Be real!"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/mn4r"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Minnesota (MN) community for making adult connections and sharing NSFW content i
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Minnesota (MN) community for making adult connections and sharing NSFW content i
 |----------------------|---|
 | Published            | 2023-06-12 22:09:44 |
 | Updated              | 2023-06-12 22:10:23 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,13 +3,13 @@ title: "Real Girls"
 name: "realgirls"
 description: "A replacement for r/realgirls. Users wishing for a verified flair can be verified by sending a pic of themselves holding a paper with your username written on it. "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/realgirls"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 160
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ A replacement for r/realgirls. Users wishing for a verified flair can be verifie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 160 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ A replacement for r/realgirls. Users wishing for a verified flair can be verifie
 |----------------------|---|
 | Published            | 2023-06-14 12:25:55 |
 | Updated              | 2023-06-14 14:48:19 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

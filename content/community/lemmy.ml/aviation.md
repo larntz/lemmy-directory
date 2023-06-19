@@ -3,19 +3,19 @@ title: "aviation"
 name: "aviation"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aviation"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 109
-posts: 19
-comments: 8
-weight: 19
+subscribers: 131
+posts: 21
+comments: 9
+weight: 21
 dau: 2
-wau: 8
-mau: 9
+wau: 6
+mau: 11
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
-| Posts                | 19  |
-| Comments             | 8  |
+| Subscribers          | 131 |
+| Posts                | 21  |
+| Comments             | 9  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 00:40:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "epic.org"
 name: "epicdotorg"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/epicdotorg"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-21 16:42:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:50 |

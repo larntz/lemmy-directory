@@ -3,16 +3,16 @@ title: "Orioles"
 name: "orioles"
 description: "Cloned from [r/Orioles](https://old.reddit.com/r/Orioles)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/orioles"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 4
+subscribers: 11
+posts: 6
 comments: 0
-weight: 4
+weight: 6
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Cloned from [r/Orioles](https://old.reddit.com/r/Orioles)<br><br># Looking for m
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 4  |
+| Subscribers          | 11 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Cloned from [r/Orioles](https://old.reddit.com/r/Orioles)<br><br># Looking for m
 |----------------------|---|
 | Published            | 2023-06-09 17:10:34 |
 | Updated              | 2023-06-12 16:32:02 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,7 +3,7 @@ title: "Total Extreme Wrestling"
 name: "tew"
 description: "The community for fans of ~~Adam Ryland's~~ Our Total Extreme Wrestling."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tew"
@@ -54,4 +54,4 @@ The community for fans of ~~Adam Ryland's~~ Our Total Extreme Wrestling.
 |----------------------|---|
 | Published            | 2020-10-12 05:36:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

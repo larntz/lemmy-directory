@@ -3,7 +3,7 @@ title: "Crafts & Trades"
 name: "crafts"
 description: "For people with actual jobs"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/crafts"
@@ -54,4 +54,4 @@ For people with actual jobs
 |----------------------|---|
 | Published            | 2022-10-23 22:18:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

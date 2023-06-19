@@ -3,13 +3,13 @@ title: "cookies"
 name: "cookies"
 description: "you can post cookies you baked, cookie recipes, anything cookie related."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cookies"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ you can post cookies you baked, cookie recipes, anything cookie related.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ you can post cookies you baked, cookie recipes, anything cookie related.
 |----------------------|---|
 | Published            | 2023-06-14 02:06:44 |
 | Updated              | 2023-06-14 02:07:57 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,19 +3,19 @@ title: "Jokes and Humor"
 name: "humor"
 description: "A broad community for text and image based jokes, humor, and memes. ---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/humor"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 3210
-posts: 88
-comments: 322
-weight: 88
-dau: 19
-wau: 189
-mau: 248
+subscribers: 3503
+posts: 100
+comments: 422
+weight: 100
+dau: 60
+wau: 220
+mau: 309
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ A broad community for text and image based jokes, humor, and memes. <br><br>---<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3210 |
-| Posts                | 88  |
-| Comments             | 322  |
-| Daily Active Users   | 19  |
-| Weekly Active Users  | 189  |
-| Monthly Active Users | 248  |
+| Subscribers          | 3503 |
+| Posts                | 100  |
+| Comments             | 422  |
+| Daily Active Users   | 60  |
+| Weekly Active Users  | 220  |
+| Monthly Active Users | 309  |
 
 <br>
 
@@ -54,4 +54,4 @@ A broad community for text and image based jokes, humor, and memes. <br><br>---<
 |----------------------|---|
 | Published            | 2023-06-02 00:44:10 |
 | Updated              | 2023-06-16 19:32:37 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

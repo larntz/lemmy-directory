@@ -3,19 +3,19 @@ title: "Firefox"
 name: "firefox"
 description: "A place to discuss the news and latest developments on the open-source browser Firefox "
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefox"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5613
-posts: 244
-comments: 873
-weight: 244
-dau: 8
-wau: 32
-mau: 54
+subscribers: 5922
+posts: 255
+comments: 937
+weight: 255
+dau: 35
+wau: 77
+mau: 96
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss the news and latest developments on the open-source browser F
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5613 |
-| Posts                | 244  |
-| Comments             | 873  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 32  |
-| Monthly Active Users | 54  |
+| Subscribers          | 5922 |
+| Posts                | 255  |
+| Comments             | 937  |
+| Daily Active Users   | 35  |
+| Weekly Active Users  | 77  |
+| Monthly Active Users | 96  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss the news and latest developments on the open-source browser F
 |----------------------|---|
 | Published            | 2019-12-29 23:03:27 |
 | Updated              | 2021-01-28 15:53:13 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:37:02 |

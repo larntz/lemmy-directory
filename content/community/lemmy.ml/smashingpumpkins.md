@@ -3,13 +3,13 @@ title: "Smashing Pumpkins"
 name: "smashingpumpkins"
 description: "A community for the American alt-rock band The Smashing Pumpkins."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smashingpumpkins"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for the American alt-rock band The Smashing Pumpkins.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for the American alt-rock band The Smashing Pumpkins.
 |----------------------|---|
 | Published            | 2023-01-25 20:37:48 |
 | Updated              | 2023-01-25 20:41:14 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

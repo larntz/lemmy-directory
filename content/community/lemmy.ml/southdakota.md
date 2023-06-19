@@ -3,7 +3,7 @@ title: "South Dakota"
 name: "southdakota"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southdakota"
@@ -14,7 +14,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 01:31:14 |
 | Updated              | 2023-06-04 02:28:08 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

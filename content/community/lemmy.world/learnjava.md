@@ -3,13 +3,13 @@ title: "Learn Java"
 name: "learnjava"
 description: "A community to discuss any issues you may have learning Java.For discussion of Java in general, please go to  [Java](/c/java@lemmy.world)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/learnjava"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community to discuss any issues you may have learning Java.<br><br>For discuss
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community to discuss any issues you may have learning Java.<br><br>For discuss
 |----------------------|---|
 | Published            | 2023-06-13 18:09:41 |
 | Updated              | 2023-06-13 18:19:19 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

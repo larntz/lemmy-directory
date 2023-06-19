@@ -3,13 +3,13 @@ title: "Computers"
 name: "computers"
 description: "For fans of computers and anything related to these.**RULES****1. No non-computer related content is allowed here.****2. No racism, homophobia, any personal or death threats, etc. Failure to follow this rule will result in a permaban.****3. Follow Lemmy's [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)**"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/computers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 38
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ For fans of computers and anything related to these.<br><br>**RULES**<br><br>**1
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 38 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For fans of computers and anything related to these.<br><br>**RULES**<br><br>**1
 |----------------------|---|
 | Published            | 2023-06-03 19:35:00 |
 | Updated              | 2023-06-03 20:15:54 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:56 |

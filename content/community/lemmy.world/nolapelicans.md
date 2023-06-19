@@ -3,7 +3,7 @@ title: "New Orleans Pelicans"
 name: "nolapelicans"
 description: "**Welcome to the Blender**Home of the New Orleans PelicansLinks:* [Official Site](https://www.nba.com/pelicans)* [Pelican Debrief](https://pelicandebrief.com/)* [Pelicans Instagram](https://www.instagram.com/pelicansnba/?hl=en)* [NBA Lemmy](https://lemmy.world/c/nba)"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nolapelicans"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 16:47:16 |
 | Updated              | 2023-06-13 17:56:07 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

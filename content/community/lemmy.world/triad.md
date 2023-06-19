@@ -3,7 +3,7 @@ title: "Triad, NC"
 name: "triad"
 description: "All about the Triad metropolitan area in North Carolina. Mainly Greensboro, Winston-Salem, and High Point."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/triad"
@@ -54,4 +54,4 @@ All about the Triad metropolitan area in North Carolina. Mainly Greensboro, Wins
 |----------------------|---|
 | Published            | 2023-06-11 16:43:09 |
 | Updated              | 2023-06-11 20:06:52 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

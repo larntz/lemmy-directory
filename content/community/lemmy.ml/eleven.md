@@ -3,7 +3,7 @@ title: "eleven"
 name: "eleven"
 description: "rules:* post title must be a yes-no question which can be reasonably answered with eleven."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eleven"
@@ -54,4 +54,4 @@ rules:<br>* post title must be a yes-no question which can be reasonably answere
 |----------------------|---|
 | Published            | 2022-04-24 16:27:35 |
 | Updated              | 2022-04-28 19:30:44 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,13 +3,13 @@ title: "Come on You Spurs"
 name: "spurs"
 description: "Potentially the new home of r/coys???"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spurs"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Potentially the new home of r/coys???
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Potentially the new home of r/coys???
 |----------------------|---|
 | Published            | 2023-06-12 11:54:23 |
 | Updated              | 2023-06-12 12:06:28 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

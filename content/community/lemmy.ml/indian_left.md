@@ -3,7 +3,7 @@ title: "Indian Left "
 name: "indian_left"
 description: "Greetings Indian comrades! Welcome to Indian Left, a place of discussion of communism in India for future revolutionaries."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indian_left"
@@ -54,4 +54,4 @@ Greetings Indian comrades! Welcome to Indian Left, a place of discussion of comm
 |----------------------|---|
 | Published            | 2020-09-07 09:40:41 |
 | Updated              | 2020-09-07 09:42:10 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:46 |

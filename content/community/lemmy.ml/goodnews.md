@@ -3,18 +3,18 @@ title: "Good News"
 name: "goodnews"
 description: "Good, positive news stories. Stuff that gives you hope for humanity.Other wholesome communities on the Threadiverse: [/m/wholesome](https://kbin.social/m/wholesome) Other news communities:* [/c/BadNews](https://lemmy.ml/c/badnews)* [/c/WorldNews](https://lemmy.ml/c/worldnews)* [/c/news @ beehaw](https://lemmy.ml/c/news@beehaw.org) "
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goodnews"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 101
 posts: 12
 comments: 8
 weight: 12
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Good, positive news stories. Stuff that gives you hope for humanity.<br><br>Othe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 101 |
 | Posts                | 12  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Good, positive news stories. Stuff that gives you hope for humanity.<br><br>Othe
 |----------------------|---|
 | Published            | 2020-05-20 06:54:09 |
 | Updated              | 2023-06-11 06:37:05 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,19 +3,19 @@ title: "Atheism"
 name: "atheism"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/atheism"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 12
-comments: 4
-weight: 12
-dau: 1
-wau: 3
-mau: 3
+subscribers: 58
+posts: 14
+comments: 5
+weight: 14
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 12  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 58 |
+| Posts                | 14  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 23:40:04 |
 | Updated              | 2023-06-13 23:31:35 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

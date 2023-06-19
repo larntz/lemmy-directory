@@ -3,16 +3,16 @@ title: "CockpitVids"
 name: "cockpitvids"
 description: "A community around videos showing cockpit operations in all forms: general aviation, airliners, military and everything in between."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/cockpitvids"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 8
+subscribers: 17
+posts: 9
 comments: 0
-weight: 8
+weight: 9
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ A community around videos showing cockpit operations in all forms: general aviat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 8  |
+| Subscribers          | 17 |
+| Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A community around videos showing cockpit operations in all forms: general aviat
 |----------------------|---|
 | Published            | 2023-06-10 19:38:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

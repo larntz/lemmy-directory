@@ -3,19 +3,19 @@ title: "Immortal Chess"
 name: "immortalchess"
 description: "This is a group which aggregates, posts, and comments on chess-related resources."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/immortalchess"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 92
-posts: 78
+subscribers: 95
+posts: 81
 comments: 143
-weight: 78
-dau: 1
+weight: 81
+dau: 2
 wau: 2
-mau: 8
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a group which aggregates, posts, and comments on chess-related resources
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 78  |
+| Subscribers          | 95 |
+| Posts                | 81  |
 | Comments             | 143  |
-| Daily Active Users   | 1  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 8  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a group which aggregates, posts, and comments on chess-related resources
 |----------------------|---|
 | Published            | 2023-02-15 18:50:18 |
 | Updated              | 2023-03-04 01:33:39 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:44 |

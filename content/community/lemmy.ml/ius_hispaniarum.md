@@ -3,17 +3,17 @@ title: "Derecho del Estado español"
 name: "ius_hispaniarum"
 description: "Una visión crítica del derecho del estado español y sus innovaciones"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ius_hispaniarum"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 6
-comments: 2
-weight: 6
-dau: 2
+posts: 9
+comments: 3
+weight: 9
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -42,9 +42,9 @@ Una visión crítica del derecho del estado español y sus innovaciones
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 6  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
+| Posts                | 9  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Una visión crítica del derecho del estado español y sus innovaciones
 |----------------------|---|
 | Published            | 2023-06-12 05:54:41 |
 | Updated              | 2023-06-12 06:32:03 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

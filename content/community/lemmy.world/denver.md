@@ -3,19 +3,19 @@ title: "Denver"
 name: "denver"
 description: "A place for discussions about Denver, CO.Rules:1. No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).2. Be respectful. Everyone should feel welcome here.3. No NSFW content.4. No Ads / Spamming.5. **Be thoughtful and helpful**: even with ‘stupid’ questions. The world won’t be made better or worse by snarky comments schooling naive newcomers on Lemmy."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/denver"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 182
-posts: 25
-comments: 86
-weight: 25
-dau: 6
-wau: 30
-mau: 30
+subscribers: 226
+posts: 47
+comments: 127
+weight: 47
+dau: 5
+wau: 37
+mau: 37
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for discussions about Denver, CO.<br><br>Rules:<br>1. No bigotry: Includ
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 182 |
-| Posts                | 25  |
-| Comments             | 86  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 30  |
-| Monthly Active Users | 30  |
+| Subscribers          | 226 |
+| Posts                | 47  |
+| Comments             | 127  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 37  |
+| Monthly Active Users | 37  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for discussions about Denver, CO.<br><br>Rules:<br>1. No bigotry: Includ
 |----------------------|---|
 | Published            | 2023-06-12 00:25:19 |
 | Updated              | 2023-06-14 04:36:29 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

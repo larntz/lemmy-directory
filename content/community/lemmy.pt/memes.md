@@ -3,13 +3,13 @@ title: "Memes"
 name: "memes"
 description: "Pão de lol"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/memes"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 53
 posts: 4
 comments: 17
 weight: 4
@@ -41,7 +41,7 @@ Pão de lol
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 53 |
 | Posts                | 4  |
 | Comments             | 17  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Pão de lol
 |----------------------|---|
 | Published            | 2023-06-11 23:50:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

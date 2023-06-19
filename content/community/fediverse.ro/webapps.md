@@ -3,13 +3,13 @@ title: "Webapps"
 name: "webapps"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/webapps"
 host: fediverse.ro
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-01-28 19:48:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

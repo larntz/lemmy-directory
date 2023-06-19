@@ -3,19 +3,19 @@ title: "PlayStation, PS1, PSX"
 name: "ps1"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps1"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 2
-comments: 2
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 11
+posts: 3
+comments: 3
+weight: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 11 |
+| Posts                | 3  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 12:57:33 |
 | Updated              | 2023-06-16 12:58:14 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

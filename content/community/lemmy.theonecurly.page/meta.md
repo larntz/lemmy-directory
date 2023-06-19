@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Local Community for discussion related to this instance."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.theonecurly.page/c/meta"
@@ -54,4 +54,4 @@ Local Community for discussion related to this instance.
 |----------------------|---|
 | Published            | 2023-06-15 13:20:46 |
 | Updated              | 2023-06-15 13:30:30 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:26 |

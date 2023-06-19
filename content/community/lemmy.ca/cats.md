@@ -3,13 +3,13 @@ title: "Cats"
 name: "cats"
 description: "Post all of your Kitty pictures here! "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cats"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 19
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Post all of your Kitty pictures here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 19 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Post all of your Kitty pictures here!
 |----------------------|---|
 | Published            | 2023-06-13 20:19:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -1,21 +1,21 @@
 ---
 title: "casual chat [crystals.rest]" 
 name: "crystals_chat"
-description: "Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
+description: "Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.![yellow crystal](http://img.misnina.com/e/cry_yellow_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/crystals_chat"
 host: crystals.rest
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 7
+posts: 5
+comments: 23
+weight: 5
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "crystals_rest"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.<br><br>![red crystal](https://misnina.neocities.org/emotes/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
+Just casual chat! Don't be a dick and just try no to get into super serious/political conversation. Not for use as a microblog, just a place to start a conversation with everyone around.<br><br>![yellow crystal](http://img.misnina.com/e/cry_yellow_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.<br><br>![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Just casual chat! Don't be a dick and just try no to get into super serious/poli
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 7 |
+| Posts                | 5  |
+| Comments             | 23  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:40:28 |
-| Updated              | 2023-06-16 17:12:09 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Updated              | 2023-06-17 13:43:16 |
+| Last Scraped         | 2023-06-19 11:35:20 |

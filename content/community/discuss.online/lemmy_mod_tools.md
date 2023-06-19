@@ -3,19 +3,19 @@ title: "Lemmy Moderation Tools"
 name: "lemmy_mod_tools"
 description: "# WelcomeI'm working on a moderation tool to work with Lemmy.I'm still in early development and discovery. This channel will update the status and respond to questions during development, testing, release, and post-release.[Join us on Matrix!](https://matrix.to/#/#lemmy_moderation_tool:discuss.online)"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:12"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/lemmy_mod_tools"
 host: discuss.online
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 4
-comments: 13
-weight: 4
-dau: 0
-wau: 0
-mau: 0
+subscribers: 44
+posts: 6
+comments: 14
+weight: 6
+dau: 1
+wau: 13
+mau: 13
 instances:
 - "discuss_online"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 4  |
-| Comments             | 13  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 44 |
+| Posts                | 6  |
+| Comments             | 14  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 12:53:28 |
 | Updated              | 2023-06-16 17:55:53 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:12 |

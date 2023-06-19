@@ -3,13 +3,13 @@ title: "Blogs"
 name: "blogs"
 description: "For Lemmy users to submit links to their blogs. We can share each other's posts using software like https://git.sr.ht/~sircmpwn/openring to amplify our voices!"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blogs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 16
 comments: 12
 weight: 16
@@ -41,7 +41,7 @@ For Lemmy users to submit links to their blogs. We can share each other's posts 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 16  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For Lemmy users to submit links to their blogs. We can share each other's posts 
 |----------------------|---|
 | Published            | 2020-07-11 00:39:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:58 |

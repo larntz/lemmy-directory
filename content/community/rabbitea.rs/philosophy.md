@@ -3,7 +3,7 @@ title: "Philosophy"
 name: "philosophy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://rabbitea.rs/c/philosophy"
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 17:06:25 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Updated              | 2023-06-17 21:41:38 |
+| Last Scraped         | 2023-06-19 11:35:21 |

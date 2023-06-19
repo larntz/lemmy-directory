@@ -3,7 +3,7 @@ title: "Antkeeping"
 name: "antkeeping"
 description: "# Community for ant keepers!# Rules:  1. No posts about killing ants  2. No posts about illegal activities, including the illegal sale of ants  3. Posting of your own videos is allowed but keep them to a minimumIcon by [Peter F. Wolf](https://unsplash.com/@peterfwolf)  "
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.xyz/c/antkeeping"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 15:03:53 |
 | Updated              | 2023-06-13 15:17:23 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:13 |

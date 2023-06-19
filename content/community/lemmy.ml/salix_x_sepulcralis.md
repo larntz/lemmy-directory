@@ -3,7 +3,7 @@ title: "Ιτιά"
 name: "salix_x_sepulcralis"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/salix_x_sepulcralis"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-01 13:07:54 |
 | Updated              | 2021-02-01 13:12:36 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

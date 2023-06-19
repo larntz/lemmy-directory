@@ -3,7 +3,7 @@ title: "Tableau"
 name: "tableau"
 description: "Data Visualization in Tableau."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tableau"
@@ -54,4 +54,4 @@ Data Visualization in Tableau.
 |----------------------|---|
 | Published            | 2019-10-17 11:51:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:37:00 |

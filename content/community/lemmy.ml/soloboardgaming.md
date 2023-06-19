@@ -3,18 +3,18 @@ title: "SoloBoardGaming"
 name: "soloboardgaming"
 description: "All about gaming Solo!"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soloboardgaming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 62
+subscribers: 66
 posts: 3
 comments: 8
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 5
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ All about gaming Solo!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
+| Subscribers          | 66 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ All about gaming Solo!
 |----------------------|---|
 | Published            | 2023-06-04 12:24:38 |
 | Updated              | 2023-06-05 10:33:20 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-19 11:36:46 |

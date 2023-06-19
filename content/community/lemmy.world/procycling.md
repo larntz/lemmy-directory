@@ -3,19 +3,19 @@ title: "procycling"
 name: "procycling"
 description: "for news and discussion of professional cycling"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/procycling"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 49
-posts: 8
-comments: 18
-weight: 8
-dau: 4
+subscribers: 57
+posts: 10
+comments: 20
+weight: 10
+dau: 1
 wau: 7
-mau: 7
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ for news and discussion of professional cycling
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 8  |
-| Comments             | 18  |
-| Daily Active Users   | 4  |
+| Subscribers          | 57 |
+| Posts                | 10  |
+| Comments             | 20  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ for news and discussion of professional cycling
 |----------------------|---|
 | Published            | 2023-06-10 18:23:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,13 +3,13 @@ title: "Darts"
 name: "darts"
 description: "About everything darts."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darts"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ About everything darts.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ About everything darts.
 |----------------------|---|
 | Published            | 2023-06-11 22:45:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

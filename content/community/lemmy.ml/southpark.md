@@ -3,13 +3,13 @@ title: "South Park"
 name: "southpark"
 description: "Unofficial South Park CommunityJust saying this is completely unmoderated (except for me obviously) "
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southpark"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 8
 comments: 3
 weight: 8
@@ -41,7 +41,7 @@ Unofficial South Park Community<br><br>Just saying this is completely unmoderate
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Unofficial South Park Community<br><br>Just saying this is completely unmoderate
 |----------------------|---|
 | Published            | 2021-05-25 19:09:50 |
 | Updated              | 2021-05-25 19:55:41 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "mod updates"
 name: "mods"
 description: "Updates from the moderator bees of the honey hive"
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://honeyhive-u4873.vm.elestio.app/c/mods"
@@ -54,4 +54,4 @@ Updates from the moderator bees of the honey hive
 |----------------------|---|
 | Published            | 2023-06-14 19:18:28 |
 | Updated              | 2023-06-14 20:26:21 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

@@ -3,7 +3,7 @@ title: "Epic Gaming Community"
 name: "epic"
 description: "Epic Community"
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/epic"
@@ -54,4 +54,4 @@ Epic Community
 |----------------------|---|
 | Published            | 2021-03-07 03:01:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:36:59 |

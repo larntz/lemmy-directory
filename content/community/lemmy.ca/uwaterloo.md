@@ -3,13 +3,13 @@ title: "University of Waterloo"
 name: "uwaterloo"
 description: "Discuss the University of Waterloo and student life here! "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/uwaterloo"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Discuss the University of Waterloo and student life here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discuss the University of Waterloo and student life here!
 |----------------------|---|
 | Published            | 2023-06-16 17:24:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "Quilting"
 name: "quilting"
 description: "A warm and supportive community to discuss the art and soul of becoming and being a quilter. Anyone who loves making or sharing finished or works in progress is welcome!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quilting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 37
 posts: 1
 comments: 9
 weight: 1
@@ -41,7 +41,7 @@ A warm and supportive community to discuss the art and soul of becoming and bein
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 37 |
 | Posts                | 1  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A warm and supportive community to discuss the art and soul of becoming and bein
 |----------------------|---|
 | Published            | 2023-06-12 18:44:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "referral codes"
 name: "referrals"
 description: " Have a referral code? Post it here. Maybe a nice fedizen will sign up with your code.Looking to sign up for X? Post that and maybe someone will send you a referral code. Using referral codes is often mutually beneficial. Both the referrer and the referree often receive a benefit.- lemmy.ca/c/poor"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/referrals"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-05-08 03:37:39 |
 | Updated              | 2023-01-27 13:40:36 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "Help"
 name: "help"
 description: "Need help with your user experience? Ask away!"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/help"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Need help with your user experience? Ask away!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Need help with your user experience? Ask away!
 |----------------------|---|
 | Published            | 2023-06-12 06:44:16 |
 | Updated              | 2023-06-12 06:44:28 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

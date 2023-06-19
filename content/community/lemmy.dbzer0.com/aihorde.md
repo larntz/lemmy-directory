@@ -3,19 +3,19 @@ title: "AI Horde"
 name: "aihorde"
 description: "Discuss the happenings around the [AI Horde](https://aihorde.net)"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/aihorde"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 29
 posts: 7
-comments: 4
+comments: 9
 weight: 7
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Discuss the happenings around the [AI Horde](https://aihorde.net)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 29 |
 | Posts                | 7  |
-| Comments             | 4  |
+| Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discuss the happenings around the [AI Horde](https://aihorde.net)
 |----------------------|---|
 | Published            | 2023-06-09 20:42:07 |
 | Updated              | 2023-06-14 12:00:16 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

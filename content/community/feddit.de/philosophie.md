@@ -3,7 +3,7 @@ title: "Philosophie"
 name: "philosophie"
 description: "errare humanum est"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/philosophie"
@@ -54,4 +54,4 @@ errare humanum est
 |----------------------|---|
 | Published            | 2021-08-23 07:50:39 |
 | Updated              | 2021-08-31 20:30:40 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,13 +3,13 @@ title: "Shower Thoughts"
 name: "shower_thoughts"
 description: "Community for rally random and casual thoughts. Be nice, no spam!"
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/shower_thoughts"
 host: lemmy.pro
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Community for rally random and casual thoughts. Be nice, no spam!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for rally random and casual thoughts. Be nice, no spam!
 |----------------------|---|
 | Published            | 2023-06-14 20:00:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

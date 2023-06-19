@@ -3,7 +3,7 @@ title: "Swimming"
 name: "swimming"
 description: "A community to discuss competitive swimming.Rules:1. Be kind2. Talk about swimming!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/swimming"
@@ -54,4 +54,4 @@ A community to discuss competitive swimming.<br><br>Rules:<br><br>1. Be kind<br>
 |----------------------|---|
 | Published            | 2023-06-12 18:55:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

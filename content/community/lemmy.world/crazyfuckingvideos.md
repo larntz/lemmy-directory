@@ -3,19 +3,19 @@ title: "Crazy Fucking Videos"
 name: "crazyfuckingvideos"
 description: "Dive into the World of Insane Videos! (No NSFW)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crazyfuckingvideos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 606
-posts: 22
-comments: 43
-weight: 22
-dau: 10
-wau: 34
-mau: 34
+subscribers: 852
+posts: 25
+comments: 49
+weight: 25
+dau: 3
+wau: 41
+mau: 41
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Dive into the World of Insane Videos! (No NSFW)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 606 |
-| Posts                | 22  |
-| Comments             | 43  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 34  |
+| Subscribers          | 852 |
+| Posts                | 25  |
+| Comments             | 49  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 41  |
+| Monthly Active Users | 41  |
 
 <br>
 
@@ -54,4 +54,4 @@ Dive into the World of Insane Videos! (No NSFW)
 |----------------------|---|
 | Published            | 2023-06-12 10:18:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

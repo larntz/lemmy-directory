@@ -3,7 +3,7 @@ title: "(Deleted)"
 name: "thesilencedones"
 description: "This community is no longer maintained sorry!"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thesilencedones"
@@ -54,4 +54,4 @@ This community is no longer maintained sorry!
 |----------------------|---|
 | Published            | 2021-02-15 23:00:31 |
 | Updated              | 2021-04-19 16:34:45 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

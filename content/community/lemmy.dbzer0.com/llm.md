@@ -3,13 +3,13 @@ title: "LLM"
 name: "llm"
 description: "Discuss about Large Language models and their clients like KoboldAI or Silly Tavern"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/llm"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 25
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discuss about Large Language models and their clients like KoboldAI or Silly Tav
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 25 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discuss about Large Language models and their clients like KoboldAI or Silly Tav
 |----------------------|---|
 | Published            | 2023-06-11 15:37:42 |
 | Updated              | 2023-06-11 15:48:31 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

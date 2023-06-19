@@ -3,19 +3,19 @@ title: "Technology"
 name: "technology"
 description: "Post articles or questions about technology"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/technology"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 787
-posts: 48
-comments: 102
-weight: 48
-dau: 1
-wau: 26
-mau: 66
+subscribers: 866
+posts: 51
+comments: 117
+weight: 51
+dau: 5
+wau: 30
+mau: 80
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Post articles or questions about technology
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 787 |
-| Posts                | 48  |
-| Comments             | 102  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 26  |
-| Monthly Active Users | 66  |
+| Subscribers          | 866 |
+| Posts                | 51  |
+| Comments             | 117  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 30  |
+| Monthly Active Users | 80  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post articles or questions about technology
 |----------------------|---|
 | Published            | 2022-09-28 16:30:28 |
 | Updated              | 2022-09-30 16:43:44 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

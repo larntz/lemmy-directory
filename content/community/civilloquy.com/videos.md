@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "For sharing and discussion of interesting videos"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:00"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/videos"
@@ -54,4 +54,4 @@ For sharing and discussion of interesting videos
 |----------------------|---|
 | Published            | 2023-06-11 13:09:20 |
 | Updated              | 2023-06-13 14:58:56 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:00 |

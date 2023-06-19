@@ -3,18 +3,18 @@ title: "Fußball"
 name: "fussball"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fussball"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 26
 posts: 7
 comments: 5
 weight: 7
 dau: 1
-wau: 5
+wau: 6
 mau: 7
 instances:
 - "feddit_de"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 26 |
 | Posts                | 7  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-01 17:59:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

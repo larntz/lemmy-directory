@@ -3,18 +3,18 @@ title: "Trees and Mushrooms"
 name: "trees"
 description: "New Zealand based trees and shrooms for medical and therapeutic use."
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/trees"
 host: no.lastname.nz
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "no_lastname_nz"
@@ -41,11 +41,11 @@ New Zealand based trees and shrooms for medical and therapeutic use.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ New Zealand based trees and shrooms for medical and therapeutic use.
 |----------------------|---|
 | Published            | 2023-06-10 01:17:59 |
 | Updated              | 2023-06-16 04:20:24 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:09 |

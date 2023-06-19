@@ -3,16 +3,16 @@ title: "TheMassive"
 name: "themassive"
 description: "The ~~Subreddit~~ Lemmy Community known as The Massive for the Columbus Crew!"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/themassive"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 3
+subscribers: 3
+posts: 4
 comments: 1
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ The ~~Subreddit~~ Lemmy Community known as The Massive for the Columbus Crew!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
+| Subscribers          | 3 |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The ~~Subreddit~~ Lemmy Community known as The Massive for the Columbus Crew!
 |----------------------|---|
 | Published            | 2023-06-13 18:13:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "Bot Test"
 name: "bottest"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/bottest"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 19:11:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:07 |

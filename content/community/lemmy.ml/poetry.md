@@ -3,13 +3,13 @@ title: "poetry"
 name: "poetry"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/poetry"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 56
 posts: 28
 comments: 7
 weight: 28
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 56 |
 | Posts                | 28  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-28 08:16:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,19 +3,19 @@ title: "Pathfinder 2e General Discussion"
 name: "pf2general"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2general"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 405
-posts: 13
-comments: 159
-weight: 13
-dau: 5
-wau: 54
-mau: 54
+subscribers: 470
+posts: 17
+comments: 197
+weight: 17
+dau: 11
+wau: 66
+mau: 71
 instances:
 - "pathfinder_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 405 |
-| Posts                | 13  |
-| Comments             | 159  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 54  |
-| Monthly Active Users | 54  |
+| Subscribers          | 470 |
+| Posts                | 17  |
+| Comments             | 197  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 66  |
+| Monthly Active Users | 71  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 07:43:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

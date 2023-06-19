@@ -3,13 +3,13 @@ title: "tvOS"
 name: "tvos"
 description: "The home for all things tvOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The home for all things tvOS on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The home for all things tvOS on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<
 |----------------------|---|
 | Published            | 2023-06-16 02:04:48 |
 | Updated              | 2023-06-16 02:13:29 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

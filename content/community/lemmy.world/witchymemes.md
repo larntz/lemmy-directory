@@ -3,19 +3,19 @@ title: "Witchy Memes"
 name: "witchymemes"
 description: ""
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/witchymemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 219
-posts: 24
-comments: 15
-weight: 24
-dau: 6
-wau: 12
-mau: 12
+subscribers: 288
+posts: 28
+comments: 18
+weight: 28
+dau: 4
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 219 |
-| Posts                | 24  |
-| Comments             | 15  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Subscribers          | 288 |
+| Posts                | 28  |
+| Comments             | 18  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 13:08:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "Learning"
 name: "learning"
 description: "For discussions related to schooling, homeschooling, education, learning in general, etc."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/learning"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ For discussions related to schooling, homeschooling, education, learning in gene
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussions related to schooling, homeschooling, education, learning in gene
 |----------------------|---|
 | Published            | 2023-02-04 23:17:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

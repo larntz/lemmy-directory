@@ -3,19 +3,19 @@ title: "devol"
 name: "devol"
 description: "gruppo devol "
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/devol"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 150
-posts: 40
-comments: 83
-weight: 40
-dau: 1
-wau: 1
-mau: 3
+subscribers: 170
+posts: 42
+comments: 86
+weight: 42
+dau: 3
+wau: 3
+mau: 5
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ gruppo devol
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
-| Posts                | 40  |
-| Comments             | 83  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
+| Subscribers          | 170 |
+| Posts                | 42  |
+| Comments             | 86  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ gruppo devol
 |----------------------|---|
 | Published            | 2022-05-11 13:22:24 |
 | Updated              | 2022-05-11 13:24:51 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

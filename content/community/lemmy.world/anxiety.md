@@ -3,13 +3,13 @@ title: "Anxiety"
 name: "anxiety"
 description: "Community for individuals with anxiety for exchange and helping each other.This is a non-judgemental community and everyone is welcome as long as you apply to the TOS and follow basic etiquette.No -isms, just be nice.Keep in mind that this does not equal an exchange with a medical/mental health professional."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/anxiety"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 52
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Community for individuals with anxiety for exchange and helping each other.<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 52 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for individuals with anxiety for exchange and helping each other.<br><
 |----------------------|---|
 | Published            | 2023-06-14 21:58:39 |
 | Updated              | 2023-06-14 22:01:26 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

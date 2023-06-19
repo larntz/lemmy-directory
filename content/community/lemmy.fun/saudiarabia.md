@@ -3,7 +3,7 @@ title: "Kingdom of Saudi Arabia"
 name: "saudiarabia"
 description: "A community for everything related to Saudi Arabia.صفحة لكل ما يخص المملكة العربية السعودية."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fun/c/saudiarabia"
@@ -54,4 +54,4 @@ A community for everything related to Saudi Arabia.<br><br>صفحة لكل ما 
 |----------------------|---|
 | Published            | 2023-06-03 02:21:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

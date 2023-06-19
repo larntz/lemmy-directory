@@ -3,7 +3,7 @@ title: "Marxism 101"
 name: "marxism101"
 description: "This community is for learning about Marxism."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:10"
 draft: false
 nsfw: false
 actor_id: "https://invariant-marxism.red/c/marxism101"
@@ -54,4 +54,4 @@ This community is for learning about Marxism.
 |----------------------|---|
 | Published            | 2023-06-08 23:55:08 |
 | Updated              | 2023-06-09 22:47:25 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:10 |

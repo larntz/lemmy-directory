@@ -3,15 +3,15 @@ title: "Denver"
 name: "denver"
 description: "Discussions and links to news, events, and happenings in Denver, CO.Rules:- No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. - Be respectful. Everyone should feel welcome here.- No NSFW content.- No Ads / Spamming.Other Denver Lemmy communities:- https://lemmy.world/c/denver- https://lemmy.world/c/nuggets"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/denver"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 42
 posts: 7
-comments: 8
+comments: 9
 weight: 7
 dau: 4
 wau: 4
@@ -41,9 +41,9 @@ Discussions and links to news, events, and happenings in Denver, CO.<br><br>Rule
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 42 |
 | Posts                | 7  |
-| Comments             | 8  |
+| Comments             | 9  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Discussions and links to news, events, and happenings in Denver, CO.<br><br>Rule
 |----------------------|---|
 | Published            | 2023-06-12 00:31:17 |
 | Updated              | 2023-06-15 17:18:17 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

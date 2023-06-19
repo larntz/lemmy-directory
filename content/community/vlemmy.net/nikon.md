@@ -3,19 +3,19 @@ title: "Nikon"
 name: "nikon"
 description: "A place to discuss all things Nikon. - Be kind, encouraging, and respectful. We are all here to get inspiration and grow as photographers.- Please include camera, lens, and settings when posting pictures.- Consider linking to an externally hosted image out of kindness to the instance. - If you are uploading and image, keep the resolution reasonable, again out of kindness to the instance. - Flag anything NSFW and keep it tasteful.Also check out the German language Nikon community:[https://feddit.de/c/nikon](https://feddit.de/c/nikon)"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/nikon"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "vlemmy_net"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things Nikon. <br><br>- Be kind, encouraging, and respect
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things Nikon. <br><br>- Be kind, encouraging, and respect
 |----------------------|---|
 | Published            | 2023-06-16 14:44:23 |
 | Updated              | 2023-06-16 15:04:59 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

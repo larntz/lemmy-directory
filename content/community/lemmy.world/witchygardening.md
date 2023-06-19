@@ -3,13 +3,13 @@ title: "Witchy Gardening"
 name: "witchygardening"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/witchygardening"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 15:48:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,19 +3,19 @@ title: "coffee"
 name: "coffee"
 description: "Everything Coffee (including latte)."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/coffee"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 74
-posts: 3
-comments: 27
-weight: 3
+subscribers: 89
+posts: 4
+comments: 32
+weight: 4
 dau: 1
-wau: 13
-mau: 13
+wau: 14
+mau: 14
 instances:
 - "latte_isnot_coffee"
 tags: 
@@ -41,12 +41,12 @@ Everything Coffee (including latte).
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
-| Posts                | 3  |
-| Comments             | 27  |
+| Subscribers          | 89 |
+| Posts                | 4  |
+| Comments             | 32  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything Coffee (including latte).
 |----------------------|---|
 | Published            | 2023-06-09 03:57:31 |
 | Updated              | 2023-06-13 05:23:25 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

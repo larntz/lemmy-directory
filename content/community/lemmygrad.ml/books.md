@@ -3,18 +3,18 @@ title: "Books"
 name: "books"
 description: "For all books - fiction and non-fiction."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/books"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 183
+subscribers: 190
 posts: 31
-comments: 251
+comments: 255
 weight: 31
-dau: 5
-wau: 11
+dau: 1
+wau: 10
 mau: 20
 instances:
 - "lemmygrad_ml"
@@ -41,11 +41,11 @@ For all books - fiction and non-fiction.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 183 |
+| Subscribers          | 190 |
 | Posts                | 31  |
-| Comments             | 251  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 11  |
+| Comments             | 255  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
 | Monthly Active Users | 20  |
 
 <br>
@@ -54,4 +54,4 @@ For all books - fiction and non-fiction.
 |----------------------|---|
 | Published            | 2022-03-15 14:10:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

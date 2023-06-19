@@ -3,13 +3,13 @@ title: "Benfica"
 name: "benfica"
 description: "A community for Sport Lisboa e Benfica"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/benfica"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for Sport Lisboa e Benfica
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for Sport Lisboa e Benfica
 |----------------------|---|
 | Published            | 2023-06-12 11:52:36 |
 | Updated              | 2023-06-14 08:57:43 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

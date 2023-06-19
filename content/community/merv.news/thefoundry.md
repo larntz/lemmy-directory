@@ -3,7 +3,7 @@ title: "The Foundry"
 name: "thefoundry"
 description: "# Raspberry Pi, Arduino, IoT"
 type: community
-date: "2023-06-16 22:55:43"
+date: "2023-06-19 11:34:46"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thefoundry"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-09-26 19:08:10 |
 | Updated              | 2022-10-01 17:34:32 |
-| Last Scraped         | 2023-06-16 22:55:43 |
+| Last Scraped         | 2023-06-19 11:34:46 |

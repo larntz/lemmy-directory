@@ -3,13 +3,13 @@ title: "Antifascist activism"
 name: "antifascism"
 description: "A place for antifascist activism on Lemmy"
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/antifascism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 207
+subscribers: 210
 posts: 29
 comments: 39
 weight: 29
@@ -41,7 +41,7 @@ A place for antifascist activism on Lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 207 |
+| Subscribers          | 210 |
 | Posts                | 29  |
 | Comments             | 39  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for antifascist activism on Lemmy
 |----------------------|---|
 | Published            | 2020-07-07 14:08:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-19 11:35:08 |

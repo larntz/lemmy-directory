@@ -3,13 +3,13 @@ title: "Remmel for Lemmy"
 name: "remmel"
 description: "Native iOS Client to Lemmy. [AppStore](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171)[Github](https://github.com/uuttff8/Lemmy-ios)"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/remmel"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 41
 posts: 10
 comments: 23
 weight: 10
@@ -41,7 +41,7 @@ Native iOS Client to Lemmy. <br>[AppStore](https://apps.apple.com/us/app/remmel-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 41 |
 | Posts                | 10  |
 | Comments             | 23  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Native iOS Client to Lemmy. <br>[AppStore](https://apps.apple.com/us/app/remmel-
 |----------------------|---|
 | Published            | 2021-02-11 12:54:51 |
 | Updated              | 2021-02-19 15:16:51 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:54 |

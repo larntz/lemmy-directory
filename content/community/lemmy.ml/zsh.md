@@ -3,13 +3,13 @@ title: "ZSH - The Z Shell on Lemmy"
 name: "zsh"
 description: "Zsh is a shell designed for interactive use, although it is also a powerful scripting languagehttps://www.zsh.org/"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zsh"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 65
+subscribers: 67
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Zsh is a shell designed for interactive use, although it is also a powerful scri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
+| Subscribers          | 67 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Zsh is a shell designed for interactive use, although it is also a powerful scri
 |----------------------|---|
 | Published            | 2020-06-30 21:08:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

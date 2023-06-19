@@ -3,18 +3,18 @@ title: "PKM Personal Knowledge Management"
 name: "pkm"
 description: "Konzepte, Methoden und Tools des pkm; deutschsprachig"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/pkm"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 116
+subscribers: 118
 posts: 9
-comments: 19
+comments: 21
 weight: 9
 dau: 1
-wau: 6
+wau: 4
 mau: 11
 instances:
 - "discuss_tchncs_de"
@@ -41,11 +41,11 @@ Konzepte, Methoden und Tools des pkm; deutschsprachig
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 116 |
+| Subscribers          | 118 |
 | Posts                | 9  |
-| Comments             | 19  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 11  |
 
 <br>
@@ -54,4 +54,4 @@ Konzepte, Methoden und Tools des pkm; deutschsprachig
 |----------------------|---|
 | Published            | 2023-06-03 11:31:12 |
 | Updated              | 2023-06-03 12:12:46 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

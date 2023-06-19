@@ -3,7 +3,7 @@ title: "Xinjiang"
 name: "xinjiang"
 description: "News and discussion related to Xinijang"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/xinjiang"
@@ -54,4 +54,4 @@ News and discussion related to Xinijang
 |----------------------|---|
 | Published            | 2022-08-21 15:19:06 |
 | Updated              | 2022-08-24 15:58:40 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

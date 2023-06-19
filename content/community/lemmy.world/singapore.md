@@ -3,19 +3,19 @@ title: "Almost anything regarding Singapore"
 name: "singapore"
 description: "Singapore related posts (any deletion by moderators WILL come with explanation)Moderation will be stepped up as the community grows.Ask Singapore related questions at !asksingapore"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/singapore"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 61
-posts: 13
-comments: 25
-weight: 13
+subscribers: 90
+posts: 19
+comments: 34
+weight: 19
 dau: 3
-wau: 20
-mau: 20
+wau: 22
+mau: 24
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Singapore related posts (any deletion by moderators WILL come with explanation)<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 13  |
-| Comments             | 25  |
+| Subscribers          | 90 |
+| Posts                | 19  |
+| Comments             | 34  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Weekly Active Users  | 22  |
+| Monthly Active Users | 24  |
 
 <br>
 
@@ -54,4 +54,4 @@ Singapore related posts (any deletion by moderators WILL come with explanation)<
 |----------------------|---|
 | Published            | 2023-06-09 09:32:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

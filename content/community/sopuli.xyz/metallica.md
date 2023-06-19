@@ -3,7 +3,7 @@ title: "Metallica"
 name: "metallica"
 description: "A gathering spot for fans of the band"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/metallica"
@@ -54,4 +54,4 @@ A gathering spot for fans of the band
 |----------------------|---|
 | Published            | 2023-06-13 10:43:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

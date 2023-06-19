@@ -3,13 +3,13 @@ title: "Black Clover"
 name: "black_clover"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/black_clover"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-01 18:00:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:53 |

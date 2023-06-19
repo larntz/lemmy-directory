@@ -3,7 +3,7 @@ title: "Coturnix Quail"
 name: "coturnix"
 description: "This community focuses on coturnix quail discussions."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coturnix"
@@ -54,4 +54,4 @@ This community focuses on coturnix quail discussions.
 |----------------------|---|
 | Published            | 2023-06-08 06:59:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

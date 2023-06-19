@@ -3,7 +3,7 @@ title: "Serious Pokémon Trades"
 name: "seriouspokemontrades"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seriouspokemontrades"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-15 00:27:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

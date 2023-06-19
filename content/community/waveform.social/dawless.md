@@ -3,18 +3,18 @@ title: "Dawless"
 name: "dawless"
 description: "Discussions about running live music setups without the use of a Digital Audio Workstation. Dawless does not mean computerless."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/dawless"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 66
+subscribers: 68
 posts: 3
 comments: 20
 weight: 3
 dau: 2
-wau: 12
+wau: 10
 mau: 12
 instances:
 - "waveform_social"
@@ -41,11 +41,11 @@ Discussions about running live music setups without the use of a Digital Audio W
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
+| Subscribers          | 68 |
 | Posts                | 3  |
 | Comments             | 20  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
+| Weekly Active Users  | 10  |
 | Monthly Active Users | 12  |
 
 <br>
@@ -54,4 +54,4 @@ Discussions about running live music setups without the use of a Digital Audio W
 |----------------------|---|
 | Published            | 2023-06-11 13:01:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

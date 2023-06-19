@@ -3,19 +3,19 @@ title: "Blahaj Lemmy Meta"
 name: "main"
 description: "Blåhaj Lemmy is a Lemmy instance attached to blahaj.zone. This is a group for questions or discussions relevant to either instance. "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/main"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 524
-posts: 34
-comments: 376
-weight: 34
-dau: 29
-wau: 153
-mau: 167
+subscribers: 594
+posts: 41
+comments: 489
+weight: 41
+dau: 31
+wau: 166
+mau: 179
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ Blåhaj Lemmy is a Lemmy instance attached to blahaj.zone. <br>This is a group f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 524 |
-| Posts                | 34  |
-| Comments             | 376  |
-| Daily Active Users   | 29  |
-| Weekly Active Users  | 153  |
-| Monthly Active Users | 167  |
+| Subscribers          | 594 |
+| Posts                | 41  |
+| Comments             | 489  |
+| Daily Active Users   | 31  |
+| Weekly Active Users  | 166  |
+| Monthly Active Users | 179  |
 
 <br>
 
@@ -54,4 +54,4 @@ Blåhaj Lemmy is a Lemmy instance attached to blahaj.zone. <br>This is a group f
 |----------------------|---|
 | Published            | 2023-01-02 14:23:33 |
 | Updated              | 2023-06-06 01:19:33 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

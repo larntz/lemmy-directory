@@ -3,19 +3,19 @@ title: "Michigan"
 name: "michigan"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/michigan"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 130
-posts: 9
-comments: 38
-weight: 9
-dau: 12
-wau: 28
-mau: 29
+subscribers: 165
+posts: 11
+comments: 42
+weight: 11
+dau: 2
+wau: 29
+mau: 32
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 130 |
-| Posts                | 9  |
-| Comments             | 38  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 28  |
-| Monthly Active Users | 29  |
+| Subscribers          | 165 |
+| Posts                | 11  |
+| Comments             | 42  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 29  |
+| Monthly Active Users | 32  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-03-16 12:51:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

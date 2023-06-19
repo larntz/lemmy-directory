@@ -3,13 +3,13 @@ title: "South Carolina"
 name: "southcarolina"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southcarolina"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-03 13:55:13 |
 | Updated              | 2023-06-03 14:39:49 |
-| Last Scraped         | 2023-06-16 22:57:29 |
+| Last Scraped         | 2023-06-19 11:36:48 |

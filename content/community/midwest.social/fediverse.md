@@ -3,19 +3,19 @@ title: "Fediverse"
 name: "fediverse"
 description: "See also:- Fedizens -> [!fedizens@lemmy.ca](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/fediverse"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 225
+subscribers: 241
 posts: 35
-comments: 62
+comments: 63
 weight: 35
 dau: 1
-wau: 7
-mau: 25
+wau: 3
+mau: 26
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ See also:<br><br>- Fedizens -> [!fedizens@lemmy.ca](https://lemmy.ca/c/fedizens)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 225 |
+| Subscribers          | 241 |
 | Posts                | 35  |
-| Comments             | 62  |
+| Comments             | 63  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 25  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ See also:<br><br>- Fedizens -> [!fedizens@lemmy.ca](https://lemmy.ca/c/fedizens)
 |----------------------|---|
 | Published            | 2022-08-13 04:07:10 |
 | Updated              | 2022-08-17 13:30:08 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

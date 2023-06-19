@@ -3,19 +3,19 @@ title: "pracownicze"
 name: "pracownicze"
 description: "wszystko co związane z zatrudnieniem"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pracownicze"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 176
+subscribers: 179
 posts: 694
 comments: 387
 weight: 694
 dau: 1
 wau: 3
-mau: 12
+mau: 11
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ wszystko co związane z zatrudnieniem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 176 |
+| Subscribers          | 179 |
 | Posts                | 694  |
 | Comments             | 387  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 12  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ wszystko co związane z zatrudnieniem
 |----------------------|---|
 | Published            | 2020-08-05 15:49:49 |
 | Updated              | 2022-05-14 08:36:56 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

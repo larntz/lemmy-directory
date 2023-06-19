@@ -3,13 +3,13 @@ title: "Might and Magic"
 name: "might_and_magic"
 description: "Everything about the ***Might and Magic*** [main series](https://en.wikipedia.org/wiki/List_of_Might_and_Magic_media#Might_and_Magic):* ***Might and Magic Book One: The Secret of the Inner Sanctum*** (1986)* ***Might and Magic II: Gates to Another World*** (1988)* ***Might and Magic III: Isles of Terra*** (1991)* ***Might and Magic IV: Clouds of Xeen*** (1992)* ***Might and Magic V: Darkside of Xeen*** (1993)* ***Might and Magic VI: The Mandate of Heaven*** (1998)* ***Might and Magic VII: For Blood and Honor*** (1999)* ***Might and Magic VIII: Day of the Destroyer*** (2000)* ***Might and Magic IX*** (2002)* ***Might & Magic X: Legacy*** (2014)"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/might_and_magic"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Everything about the ***Might and Magic*** [main series](https://en.wikipedia.or
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Everything about the ***Might and Magic*** [main series](https://en.wikipedia.or
 |----------------------|---|
 | Published            | 2023-06-14 17:09:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

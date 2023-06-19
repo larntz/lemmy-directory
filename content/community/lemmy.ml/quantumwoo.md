@@ -3,13 +3,13 @@ title: "Quantum Woo"
 name: "quantumwoo"
 description: "A fun community for discussing ideas such as:Do electrons have consciousness?Does the universe exist if we're not looking at it?Many Worlds Theory, Teleportation, Simulation Theory, etc.If a sentence has the word quantum in it, and if it is coming out of a non-physicist's mouth, you can almost be certain that there's a huge quantum of BS being dumped on your head.  - Physicist Devashish Singh, quoting a colleague [https://rationalwiki.org/wiki/Quantum_woo]()"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quantumwoo"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 58
 posts: 4
 comments: 4
 weight: 4
@@ -41,7 +41,7 @@ A fun community for discussing ideas such as:<br><br>Do electrons have conscious
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 58 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ A fun community for discussing ideas such as:<br><br>Do electrons have conscious
 |----------------------|---|
 | Published            | 2021-09-11 04:38:26 |
 | Updated              | 2021-09-11 04:48:06 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

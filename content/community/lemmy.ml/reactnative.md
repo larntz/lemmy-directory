@@ -3,13 +3,13 @@ title: "React Native"
 name: "reactnative"
 description: "Community for learning and developing mobile apps using React Native"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reactnative"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 16
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Community for learning and developing mobile apps using React Native
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 16 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Community for learning and developing mobile apps using React Native
 |----------------------|---|
 | Published            | 2023-06-11 03:56:06 |
 | Updated              | 2023-06-11 04:23:22 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

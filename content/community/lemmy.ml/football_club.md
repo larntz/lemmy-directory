@@ -3,7 +3,7 @@ title: "FIFA - All About Football"
 name: "football_club"
 description: "All About Football"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/football_club"
@@ -54,4 +54,4 @@ All About Football
 |----------------------|---|
 | Published            | 2023-02-21 14:06:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:46 |

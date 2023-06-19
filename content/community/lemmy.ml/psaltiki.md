@@ -3,7 +3,7 @@ title: "Byzantine Psalmody / Liturgical Music"
 name: "psaltiki"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psaltiki"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-17 22:25:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:36:54 |

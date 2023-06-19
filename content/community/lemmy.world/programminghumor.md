@@ -1,21 +1,21 @@
 ---
 title: "Programming Humor" 
 name: "programminghumor"
-description: "Programming Humor"
+description: "**Related Communities**[!programmerhumor@lemmy.ml](https://lemmy.world/c/programmerhumor@lemmy.ml)[!programmer_humor@programming.dev](https://lemmy.world/c/programmer_humor@programming.dev)[!programmerhumor@kbin.social](https://lemmy.world/c/programmerhumor@kbin.social)**Other Programming Communities**[!programming@beehaw.org](https://lemmy.world/c/programming@beehaw.org)[!programming@programming.dev](https://lemmy.world/c/programming@programming.dev)[!programming@lemmy.ml](https://lemmy.world/c/programming@lemmy.ml)[!programming@kbin.social](https://lemmy.world/c/programming@kbin.social)[!learn_programming@programming.dev](https://lemmy.world/c/learn_programming@programming.dev)[!functional_programming@programming.dev](https://lemmy.world/c/functional_programming@programming.dev)[!embedded_prog@lemmy.ml](https://lemmy.world/c/embedded_prog@lemmy.ml)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programminghumor"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 3
-comments: 0
-weight: 3
+subscribers: 164
+posts: 6
+comments: 1
+weight: 6
 dau: 2
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Programming Humor
+**Related Communities**<br>[!programmerhumor@lemmy.ml](https://lemmy.world/c/programmerhumor@lemmy.ml)<br>[!programmer_humor@programming.dev](https://lemmy.world/c/programmer_humor@programming.dev)<br>[!programmerhumor@kbin.social](https://lemmy.world/c/programmerhumor@kbin.social)<br><br>**Other Programming Communities**<br>[!programming@beehaw.org](https://lemmy.world/c/programming@beehaw.org)<br>[!programming@programming.dev](https://lemmy.world/c/programming@programming.dev)<br>[!programming@lemmy.ml](https://lemmy.world/c/programming@lemmy.ml)<br>[!programming@kbin.social](https://lemmy.world/c/programming@kbin.social)<br>[!learn_programming@programming.dev](https://lemmy.world/c/learn_programming@programming.dev)<br>[!functional_programming@programming.dev](https://lemmy.world/c/functional_programming@programming.dev)<br>[!embedded_prog@lemmy.ml](https://lemmy.world/c/embedded_prog@lemmy.ml)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Programming Humor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 3  |
-| Comments             | 0  |
+| Subscribers          | 164 |
+| Posts                | 6  |
+| Comments             | 1  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 19:20:04 |
-| Updated              | 2023-06-14 19:23:12 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-18 20:08:39 |
+| Last Scraped         | 2023-06-19 11:36:36 |

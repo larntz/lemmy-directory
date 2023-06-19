@@ -3,7 +3,7 @@ title: "Lemmy Wardrivers"
 name: "wardriving"
 description: "Welcome to the Lemmy Wardriving community! This is a community for those interested in wardriving, and wardriving programs such as wigle.net. Please make yourself at home and follow all discuss.tchncs.de rules. Enjoy your stay!"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/wardriving"
@@ -54,4 +54,4 @@ Welcome to the Lemmy Wardriving community! This is a community for those interes
 |----------------------|---|
 | Published            | 2023-06-15 12:52:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

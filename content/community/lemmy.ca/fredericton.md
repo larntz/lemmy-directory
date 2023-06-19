@@ -3,7 +3,7 @@ title: "Fredericton"
 name: "fredericton"
 description: "Community for Fredericton, NB and surrounding area."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fredericton"
@@ -54,4 +54,4 @@ Community for Fredericton, NB and surrounding area.
 |----------------------|---|
 | Published            | 2023-06-15 20:17:29 |
 | Updated              | 2023-06-16 21:11:30 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "MMORPG"
 name: "mmorpg"
 description: "A place to discuss MMORPGs."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mmorpg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss MMORPGs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 13 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss MMORPGs.
 |----------------------|---|
 | Published            | 2023-06-11 13:35:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

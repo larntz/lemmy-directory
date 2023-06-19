@@ -3,19 +3,19 @@ title: "Medicine"
 name: "medicine"
 description: "A community for physicians and medical professionals"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medicine"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 113
-posts: 6
-comments: 2
-weight: 6
-dau: 2
-wau: 7
-mau: 7
+subscribers: 133
+posts: 7
+comments: 4
+weight: 7
+dau: 1
+wau: 8
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for physicians and medical professionals
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
-| Posts                | 6  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 133 |
+| Posts                | 7  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for physicians and medical professionals
 |----------------------|---|
 | Published            | 2023-06-10 02:29:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

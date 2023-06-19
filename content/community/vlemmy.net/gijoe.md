@@ -3,13 +3,13 @@ title: "GI Joe"
 name: "gijoe"
 description: "A place to talk GIJoe in all forms!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/gijoe"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A place to talk GIJoe in all forms!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to talk GIJoe in all forms!
 |----------------------|---|
 | Published            | 2023-06-14 01:14:00 |
 | Updated              | 2023-06-14 01:56:30 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

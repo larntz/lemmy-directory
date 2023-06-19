@@ -3,7 +3,7 @@ title: "Harvard University"
 name: "harvard"
 description: "A community for a university in Boston. Well, not in Boston, but nearby. No, not Tufts. "
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/harvard"
@@ -54,4 +54,4 @@ A community for a university in Boston. Well, not in Boston, but nearby. No, not
 |----------------------|---|
 | Published            | 2020-06-29 21:31:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,16 +3,16 @@ title: "Camouflage"
 name: "camouflage"
 description: "All about camo! Bet you didn't see that coming!"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/camouflage"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 2
-comments: 0
-weight: 2
+subscribers: 3
+posts: 3
+comments: 1
+weight: 3
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ All about camo! Bet you didn't see that coming!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Subscribers          | 3 |
+| Posts                | 3  |
+| Comments             | 1  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ All about camo! Bet you didn't see that coming!
 |----------------------|---|
 | Published            | 2023-06-16 22:12:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,16 +3,16 @@ title: "Override Shutdown (a community for stompy robot games)"
 name: "override_shutdown"
 description: "This community is for talking about mech games. "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/override_shutdown"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 1
+subscribers: 19
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ This community is for talking about mech games.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
+| Subscribers          | 19 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ This community is for talking about mech games.
 |----------------------|---|
 | Published            | 2023-06-10 16:53:47 |
 | Updated              | 2023-06-12 05:32:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

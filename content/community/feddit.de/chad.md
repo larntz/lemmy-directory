@@ -3,19 +3,19 @@ title: "CHAD"
 name: "chad"
 description: "Community für Leute aus Deutschland, Österreich, der Schweiz und anderen Gebieten mit deutscher Sprache.Amtssprache ist Deutsch.Nicht zu verwechseln mit [!deutschland@feddit.de](https://feddit.de/c/deutschland) (nur für Kartoffeln) oder [!dach@feddit.de](https://feddit.de/c/dach) (21min [nach](https://feddit.de/post/805434) `!chad` erstellt).Eine aktive Teilnahme an !dachzwo schließt eine Teilnahme an !chad aus."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/chad"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 200
-posts: 8
-comments: 31
-weight: 8
-dau: 2
-wau: 18
-mau: 18
+subscribers: 212
+posts: 7
+comments: 35
+weight: 7
+dau: 4
+wau: 20
+mau: 20
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Community für Leute aus Deutschland, Österreich, der Schweiz und anderen Gebie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 200 |
-| Posts                | 8  |
-| Comments             | 31  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 18  |
+| Subscribers          | 212 |
+| Posts                | 7  |
+| Comments             | 35  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community für Leute aus Deutschland, Österreich, der Schweiz und anderen Gebie
 |----------------------|---|
 | Published            | 2023-06-12 09:42:31 |
 | Updated              | 2023-06-16 22:54:09 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

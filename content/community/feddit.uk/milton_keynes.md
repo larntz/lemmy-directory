@@ -3,7 +3,7 @@ title: "Milton Keynes"
 name: "milton_keynes"
 description: "Community for the City of Milton Keynes"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/milton_keynes"
@@ -13,7 +13,7 @@ subscribers: 19
 posts: 3
 comments: 16
 weight: 3
-dau: 4
+dau: 1
 wau: 7
 mau: 7
 instances:
@@ -44,7 +44,7 @@ Community for the City of Milton Keynes
 | Subscribers          | 19 |
 | Posts                | 3  |
 | Comments             | 16  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ Community for the City of Milton Keynes
 |----------------------|---|
 | Published            | 2023-06-12 08:33:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

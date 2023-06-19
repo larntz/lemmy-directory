@@ -3,19 +3,19 @@ title: "math"
 name: "math"
 description: "General community for all things mathematics on @lemmy.worldSubmit link and text posts about anything at all related to mathematics.Questions about mathematical topics are allowed, but NO HOMEWORK HELP. Communities for general math and homework help should be firmly delineated just as they were on reddit."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/math"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 6
-comments: 7
-weight: 6
-dau: 0
-wau: 3
-mau: 3
+subscribers: 63
+posts: 7
+comments: 10
+weight: 7
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ General community for all things mathematics on @lemmy.world<br><br>Submit link 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 63 |
+| Posts                | 7  |
+| Comments             | 10  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ General community for all things mathematics on @lemmy.world<br><br>Submit link 
 |----------------------|---|
 | Published            | 2023-06-15 07:16:40 |
 | Updated              | 2023-06-16 20:56:55 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

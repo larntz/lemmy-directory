@@ -3,13 +3,13 @@ title: "umsc"
 name: "usmc"
 description: "Community for the United States Marine Corps"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/usmc"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Community for the United States Marine Corps
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for the United States Marine Corps
 |----------------------|---|
 | Published            | 2023-06-12 18:54:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

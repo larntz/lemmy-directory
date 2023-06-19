@@ -3,7 +3,7 @@ title: "Khalistan"
 name: "khalistan"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/khalistan"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-07 08:37:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:37:00 |

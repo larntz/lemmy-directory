@@ -3,13 +3,13 @@ title: "Philosophy"
 name: "philosophy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/philosophy"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 113
+subscribers: 124
 posts: 9
 comments: 4
 weight: 9
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
+| Subscribers          | 124 |
 | Posts                | 9  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-26 13:17:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

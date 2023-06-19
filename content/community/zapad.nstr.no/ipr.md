@@ -3,7 +3,7 @@ title: "ipr"
 name: "ipr"
 description: "Intellectual Property Rights"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/ipr"
@@ -54,4 +54,4 @@ Intellectual Property Rights
 |----------------------|---|
 | Published            | 2023-06-15 21:46:57 |
 | Updated              | 2023-06-15 21:50:53 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

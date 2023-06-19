@@ -3,19 +3,19 @@ title: "Ambient Music Creators"
 name: "ambient"
 description: "A place for the broad spectrum of Ambient music creators to share their music, other music they love, tips, techniques, production etc."
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/ambient"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 61
 posts: 10
-comments: 24
+comments: 27
 weight: 10
-dau: 8
+dau: 2
 wau: 13
-mau: 13
+mau: 14
 instances:
 - "lemmy_studio"
 tags: 
@@ -41,12 +41,12 @@ A place for the broad spectrum of Ambient music creators to share their music, o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 61 |
 | Posts                | 10  |
-| Comments             | 24  |
-| Daily Active Users   | 8  |
+| Comments             | 27  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for the broad spectrum of Ambient music creators to share their music, o
 |----------------------|---|
 | Published            | 2023-06-08 15:16:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

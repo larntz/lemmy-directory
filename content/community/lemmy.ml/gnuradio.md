@@ -3,13 +3,13 @@ title: "gnu radio"
 name: "gnuradio"
 description: "GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnuradio"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ GNU Radio is a free & open-source software development toolkit that provides sig
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ GNU Radio is a free & open-source software development toolkit that provides sig
 |----------------------|---|
 | Published            | 2023-06-08 21:01:32 |
 | Updated              | 2023-06-08 21:08:20 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:51 |

@@ -3,19 +3,19 @@ title: "Philosophy"
 name: "philosophy"
 description: "Discussion of philosophy"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/philosophy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 152
-posts: 6
-comments: 3
-weight: 6
+subscribers: 185
+posts: 7
+comments: 4
+weight: 7
 dau: 1
 wau: 6
-mau: 6
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discussion of philosophy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 152 |
-| Posts                | 6  |
-| Comments             | 3  |
+| Subscribers          | 185 |
+| Posts                | 7  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion of philosophy
 |----------------------|---|
 | Published            | 2023-06-11 04:39:20 |
 | Updated              | 2023-06-11 06:40:18 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

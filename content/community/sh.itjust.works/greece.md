@@ -3,13 +3,13 @@ title: "Greece"
 name: "greece"
 description: "1. Topics must either be related to Greece or be in the Greek language2. No self promotion3. No inciting or promotion of violence.4. No doxxing"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/greece"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 24
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 24 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 17:41:57 |
 | Updated              | 2023-06-10 22:22:18 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

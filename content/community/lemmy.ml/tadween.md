@@ -3,7 +3,7 @@ title: "تدوين"
 name: "tadween"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tadween"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-03-01 03:22:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,19 +3,19 @@ title: "Hearts of Iron 4, Vic 2, Imperator Rome, EU4, ETC"
 name: "paradoxgames"
 description: "For discussion about paradox games and other related things."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/paradoxgames"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 328
-posts: 45
-comments: 167
-weight: 45
-dau: 3
-wau: 6
-mau: 22
+subscribers: 327
+posts: 46
+comments: 168
+weight: 46
+dau: 2
+wau: 5
+mau: 21
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ For discussion about paradox games and other related things.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 328 |
-| Posts                | 45  |
-| Comments             | 167  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 22  |
+| Subscribers          | 327 |
+| Posts                | 46  |
+| Comments             | 168  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion about paradox games and other related things.
 |----------------------|---|
 | Published            | 2019-08-24 15:03:27 |
 | Updated              | 2019-08-24 22:08:23 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-19 11:35:08 |

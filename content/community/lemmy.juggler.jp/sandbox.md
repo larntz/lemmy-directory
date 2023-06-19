@@ -3,7 +3,7 @@ title: "🏖️sandbox"
 name: "sandbox"
 description: "テスト投稿とか適当にしていきたい"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/sandbox"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-26 08:15:19 |
 | Updated              | 2021-03-04 17:20:53 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

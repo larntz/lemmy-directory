@@ -3,19 +3,19 @@ title: "Wetlander Humor"
 name: "wetlanderhumor"
 description: "Held. I intend to offer to hand this off to the WetlanderHumor team if they migrate away from Reddit."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wetlanderhumor"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 0
+subscribers: 17
+posts: 7
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 7
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Held. I intend to offer to hand this off to the WetlanderHumor team if they migr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
+| Subscribers          | 17 |
+| Posts                | 7  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Held. I intend to offer to hand this off to the WetlanderHumor team if they migr
 |----------------------|---|
 | Published            | 2023-06-14 21:13:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

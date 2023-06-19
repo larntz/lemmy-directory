@@ -3,7 +3,7 @@ title: "Lemmy instances"
 name: "lemmyinstances"
 description: "Promote Lemmy instances!"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/lemmyinstances"
@@ -14,7 +14,7 @@ posts: 4
 comments: 4
 weight: 4
 dau: 1
-wau: 6
+wau: 3
 mau: 7
 instances:
 - "lemmy_perthchat_org"
@@ -45,7 +45,7 @@ Promote Lemmy instances!
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Promote Lemmy instances!
 |----------------------|---|
 | Published            | 2023-06-02 16:18:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:28 |

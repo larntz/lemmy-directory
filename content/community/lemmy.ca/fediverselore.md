@@ -3,16 +3,16 @@ title: "FediLore + Fedidrama"
 name: "fediverselore"
 description: "Chronicle the life and tale of the fediverse (+ matrix)Largely a sublemmy about capturing drama, from fediverse spanning drama to just lemmy drama.Includes lore like how a instance got it's name, how an instance got defederated, how an admin got doxxed, fedihistory etc(New) This sub's intentions is to an archive/newspaper, as in preferably don't get into fights with each other or the ppl featured in the dramaTags: fediverse news, lemmy news, lemmyversePartners:* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)* [Sub promo](https://lemmy.ca/c/communitypromo)* [Fedizens](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fediverselore"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 556
-posts: 65
-comments: 228
-weight: 65
+subscribers: 621
+posts: 67
+comments: 237
+weight: 67
 dau: 3
 wau: 22
 mau: 48
@@ -41,9 +41,9 @@ Chronicle the life and tale of the fediverse (+ matrix)<br><br>Largely a sublemm
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 556 |
-| Posts                | 65  |
-| Comments             | 228  |
+| Subscribers          | 621 |
+| Posts                | 67  |
+| Comments             | 237  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 22  |
 | Monthly Active Users | 48  |
@@ -54,4 +54,4 @@ Chronicle the life and tale of the fediverse (+ matrix)<br><br>Largely a sublemm
 |----------------------|---|
 | Published            | 2022-08-12 02:24:46 |
 | Updated              | 2023-06-05 08:31:07 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

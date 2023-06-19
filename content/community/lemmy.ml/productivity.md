@@ -3,13 +3,13 @@ title: "Productivity"
 name: "productivity"
 description: "Working with purpose."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/productivity"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 721
+subscribers: 725
 posts: 54
 comments: 17
 weight: 54
@@ -41,7 +41,7 @@ Working with purpose.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 721 |
+| Subscribers          | 725 |
 | Posts                | 54  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Working with purpose.
 |----------------------|---|
 | Published            | 2019-05-02 16:17:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:59 |

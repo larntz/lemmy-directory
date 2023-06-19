@@ -3,13 +3,13 @@ title: "Baofeng"
 name: "baofeng"
 description: "Forum for Baofeng Radio's**___**"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/baofeng"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Forum for Baofeng Radio's<br>**___**
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Forum for Baofeng Radio's<br>**___**
 |----------------------|---|
 | Published            | 2023-06-10 10:05:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

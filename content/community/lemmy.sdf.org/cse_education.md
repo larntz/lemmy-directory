@@ -3,13 +3,13 @@ title: "Computer Science and Engineering Secondary Education"
 name: "cse_education"
 description: "This community is for educators in computer science and engineering, focusing on post-secondary (university) education, from the perspective of educators.  Adjacent fields and topics are welcome."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/cse_education"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 20
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ This community is for educators in computer science and engineering, focusing on
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community is for educators in computer science and engineering, focusing on
 |----------------------|---|
 | Published            | 2023-06-13 17:28:29 |
 | Updated              | 2023-06-13 17:39:30 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

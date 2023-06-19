@@ -3,19 +3,19 @@ title: "Meta"
 name: "meta"
 description: "Comunidad sobre la instancia misma de Feddit.cl"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/meta"
 host: feddit.cl
 lastmod: "{[ .Updated }}"
-subscribers: 33
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+subscribers: 36
+posts: 4
+comments: 2
+weight: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "feddit_cl"
 tags: 
@@ -41,12 +41,12 @@ Comunidad sobre la instancia misma de Feddit.cl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 36 |
+| Posts                | 4  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidad sobre la instancia misma de Feddit.cl
 |----------------------|---|
 | Published            | 2023-06-11 05:06:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

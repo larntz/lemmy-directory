@@ -1,19 +1,19 @@
 ---
 title: "Haiku Operating System" 
 name: "haiku"
-description: "Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels. Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets. While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a unique level of consistency that provides many conveniences, and is truly enjoyable to use by both end-users and developers alike."
+description: "Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.Haiku is an open source operating system under constant development.Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets.While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a unique level of consistency that provides many conveniences, and is truly enjoyable to use by both end-users and developers alike."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haiku"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 1
+subscribers: 8
+posts: 3
 comments: 3
-weight: 1
-dau: 2
+weight: 3
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.<br><br>Haiku is an open source operating system under constant development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels. Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets. While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a unique level of consistency that provides many conveniences, and is truly enjoyable to use by both end-users and developers alike.
+Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.<br><br>Haiku is an open source operating system under constant development.<br><br>Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels.<br><br>Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets.<br><br>While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a unique level of consistency that provides many conveniences, and is truly enjoyable to use by both end-users and developers alike.
 </blockquote>
 
 
@@ -41,10 +41,10 @@ Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.<br><br>Haik
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -53,5 +53,5 @@ Welcome to c/haiku on Lemmy! Community for all Haiku users and devs.<br><br>Haik
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 10:00:49 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Updated              | 2023-06-18 12:54:36 |
+| Last Scraped         | 2023-06-19 11:36:42 |

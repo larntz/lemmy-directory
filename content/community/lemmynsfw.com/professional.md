@@ -3,18 +3,18 @@ title: "Professional Shoots"
 name: "professional"
 description: "Pictures dedicated to professional shoots (Playboy type)"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/professional"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 367
+subscribers: 435
 posts: 4
 comments: 1
 weight: 4
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmynsfw_com"
@@ -43,11 +43,11 @@ Pictures dedicated to professional shoots (Playboy type)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 367 |
+| Subscribers          | 435 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -56,4 +56,4 @@ Pictures dedicated to professional shoots (Playboy type)
 |----------------------|---|
 | Published            | 2023-06-11 20:10:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

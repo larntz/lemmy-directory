@@ -3,19 +3,19 @@ title: "pissing"
 name: "pissing"
 description: "a place for general content of women urinatingbecause [!wetting](https://lemmynsfw.com/c/wetting) is nice but sometimes you want to see the actionunaffiliated, but you may also be interested in [!pissdrinking](https://lemmynsfw.com/c/pissdrinking)"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pissing"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 91
-posts: 9
-comments: 6
-weight: 9
+subscribers: 151
+posts: 11
+comments: 7
+weight: 11
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ a place for general content of women urinating<br><br>because [!wetting](https:/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 9  |
-| Comments             | 6  |
+| Subscribers          | 151 |
+| Posts                | 11  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -56,4 +56,4 @@ a place for general content of women urinating<br><br>because [!wetting](https:/
 |----------------------|---|
 | Published            | 2023-06-14 00:57:33 |
 | Updated              | 2023-06-14 01:17:39 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,13 +3,13 @@ title: "chat"
 name: "chat"
 description: "a place for general chat and ask questions about lemmyfly"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/chat"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ a place for general chat and ask questions about lemmyfly
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ a place for general chat and ask questions about lemmyfly
 |----------------------|---|
 | Published            | 2023-06-11 12:24:31 |
 | Updated              | 2023-06-11 12:24:43 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,19 +3,19 @@ title: "Gaming"
 name: "gaming"
 description: "Video, board, games of chance, whatever you're into - feel free to discuss it here!Weekly game recs, positive gaming news 4 times a day for the forseeable future"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/gaming"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 67
-posts: 29
-comments: 26
-weight: 29
-dau: 4
-wau: 12
-mau: 12
+subscribers: 77
+posts: 42
+comments: 44
+weight: 42
+dau: 6
+wau: 15
+mau: 19
 instances:
 - "iusearchlinux_fyi"
 tags: 
@@ -41,12 +41,12 @@ Video, board, games of chance, whatever you're into - feel free to discuss it he
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 29  |
-| Comments             | 26  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Subscribers          | 77 |
+| Posts                | 42  |
+| Comments             | 44  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Video, board, games of chance, whatever you're into - feel free to discuss it he
 |----------------------|---|
 | Published            | 2023-06-10 13:35:50 |
 | Updated              | 2023-06-11 00:34:55 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

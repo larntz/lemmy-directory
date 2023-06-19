@@ -3,13 +3,13 @@ title: "Gamers"
 name: "gamers"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-02-19 07:09:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:48 |

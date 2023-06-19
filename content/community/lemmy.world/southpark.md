@@ -3,18 +3,18 @@ title: "South Park"
 name: "southpark"
 description: "Everything related to the animated television show South Park! (Images, videos, quotes, news, articles, thoughts, trivia, etc.)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/southpark"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 48
-posts: 3
+subscribers: 56
+posts: 4
 comments: 0
-weight: 3
-dau: 2
-wau: 3
+weight: 4
+dau: 1
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ Everything related to the animated television show South Park! (Images, videos, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 3  |
+| Subscribers          | 56 |
+| Posts                | 4  |
 | Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Everything related to the animated television show South Park! (Images, videos, 
 |----------------------|---|
 | Published            | 2023-06-12 10:13:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

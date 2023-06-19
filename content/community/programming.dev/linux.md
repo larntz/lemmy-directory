@@ -3,19 +3,19 @@ title: "Linux"
 name: "linux"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/linux"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 202
-posts: 4
-comments: 27
-weight: 4
-dau: 9
-wau: 14
-mau: 14
+subscribers: 364
+posts: 8
+comments: 32
+weight: 8
+dau: 4
+wau: 21
+mau: 21
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 202 |
-| Posts                | 4  |
-| Comments             | 27  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 364 |
+| Posts                | 8  |
+| Comments             | 32  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 22:26:54 |
 | Updated              | 2023-06-13 23:26:41 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

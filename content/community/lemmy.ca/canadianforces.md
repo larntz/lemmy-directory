@@ -3,7 +3,7 @@ title: "CanadianForces"
 name: "canadianforces"
 description: "Waiting for Slappy_MC_Garglenutz to join Lemmy."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadianforces"
@@ -54,4 +54,4 @@ Waiting for Slappy_MC_Garglenutz to join Lemmy.
 |----------------------|---|
 | Published            | 2023-06-12 00:46:35 |
 | Updated              | 2023-06-12 21:48:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

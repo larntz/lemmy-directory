@@ -3,13 +3,13 @@ title: "Hacker News"
 name: "hackernews"
 description: "A mirror of Hacker News."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hackernews"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 44
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A mirror of Hacker News.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 44 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A mirror of Hacker News.
 |----------------------|---|
 | Published            | 2023-06-12 10:22:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

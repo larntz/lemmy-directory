@@ -3,7 +3,7 @@ title: "Schmalspur Modulbaugruppe"
 name: "smbg"
 description: "Schmalspur Modulbaugruppe Diskussionen"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/smbg"
@@ -54,4 +54,4 @@ Schmalspur Modulbaugruppe Diskussionen
 |----------------------|---|
 | Published            | 2021-03-23 11:06:39 |
 | Updated              | 2021-03-23 11:07:02 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

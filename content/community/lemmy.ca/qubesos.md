@@ -3,13 +3,13 @@ title: "Qubes OS"
 name: "qubesos"
 description: "Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Isolation is provided through the use of virtualization technology. This allows the segmentation of applications into secure virtual machines called qubes. Virtualization services in Qubes OS are provided by the Xen hypervisor."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/qubesos"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Qubes OS is a security-focused desktop operating system that aims to provide sec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Qubes OS is a security-focused desktop operating system that aims to provide sec
 |----------------------|---|
 | Published            | 2023-06-14 19:47:21 |
 | Updated              | 2023-06-16 00:48:28 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

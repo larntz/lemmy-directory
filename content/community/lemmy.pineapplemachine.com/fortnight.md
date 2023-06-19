@@ -3,7 +3,7 @@ title: "fortnight"
 name: "fortnight"
 description: "A place for discussion and media about Fortnight, the game by Epic Games.Get it at [www.fortnite.com](https://www.fortnite.com/)"
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/fortnight"
@@ -14,7 +14,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_pineapplemachine_com"
@@ -45,7 +45,7 @@ A place for discussion and media about Fortnight, the game by Epic Games.<br><br
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place for discussion and media about Fortnight, the game by Epic Games.<br><br
 |----------------------|---|
 | Published            | 2023-06-05 08:51:27 |
 | Updated              | 2023-06-09 08:29:36 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

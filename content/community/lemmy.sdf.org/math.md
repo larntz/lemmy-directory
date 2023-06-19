@@ -3,13 +3,13 @@ title: "math"
 name: "math"
 description: "**Interesting news and discussion centered around Mathematics**"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/math"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 43
 posts: 10
 comments: 3
 weight: 10
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 43 |
 | Posts                | 10  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 14:47:35 |
 | Updated              | 2023-06-12 17:24:58 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

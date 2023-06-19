@@ -3,7 +3,7 @@ title: "Hindustan"
 name: "hindustan"
 description: "India, that is Bharat"
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hindustan"
@@ -54,4 +54,4 @@ India, that is Bharat
 |----------------------|---|
 | Published            | 2020-09-07 07:41:27 |
 | Updated              | 2020-09-07 07:41:37 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:37:01 |

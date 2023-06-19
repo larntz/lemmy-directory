@@ -3,13 +3,13 @@ title: "Nuclear"
 name: "nuclear"
 description: "A community for discussions about nuclear physics and nuclear energyu in general.For a more specific community about nuclear power, you can also visit: https://lemmy.ml/c/nuclear_power"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nuclear"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ A community for discussions about nuclear physics and nuclear energyu in general
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussions about nuclear physics and nuclear energyu in general
 |----------------------|---|
 | Published            | 2022-11-10 10:02:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

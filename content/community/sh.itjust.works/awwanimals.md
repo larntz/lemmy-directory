@@ -3,13 +3,13 @@ title: "Aww-worthy Animals"
 name: "awwanimals"
 description: "cats and dogs and other critters that make you say aww "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/awwanimals"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ cats and dogs and other critters that make you say aww
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ cats and dogs and other critters that make you say aww
 |----------------------|---|
 | Published            | 2023-06-16 14:18:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

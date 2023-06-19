@@ -3,19 +3,19 @@ title: "Romania"
 name: "romania"
 description: "reserved"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/romania"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 33
 posts: 7
 comments: 17
 weight: 7
-dau: 1
-wau: 4
-mau: 6
+dau: 2
+wau: 5
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ reserved
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 33 |
 | Posts                | 7  |
 | Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ reserved
 |----------------------|---|
 | Published            | 2020-06-28 04:28:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

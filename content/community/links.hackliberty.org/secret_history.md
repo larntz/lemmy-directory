@@ -3,13 +3,13 @@ title: "Secret History"
 name: "secret_history"
 description: "A secret history (or shadow history) is a revisionist interpretation of either fictional or real history which is claimed to have been deliberately suppressed, forgotten, or ignored by established scholars. “Secret history” is also used to describe an alternative interpretation of documented facts which portrays a drastically different motivation or history from established historical events.#### Rules1. Don't do unto others what you don't want done unto you.2. No Porn, Gore, or NSFW content. **Instant Ban.**3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**4. Stay on topic in a community. Please reach out to an admin to create a new community."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:10"
 draft: false
 nsfw: false
 actor_id: "https://links.hackliberty.org/c/secret_history"
 host: links.hackliberty.org
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 25
 comments: 0
 weight: 25
@@ -41,7 +41,7 @@ A secret history (or shadow history) is a revisionist interpretation of either f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 25  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A secret history (or shadow history) is a revisionist interpretation of either f
 |----------------------|---|
 | Published            | 2023-02-07 03:19:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:10 |

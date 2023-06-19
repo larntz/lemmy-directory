@@ -3,7 +3,7 @@ title: "Fractals"
 name: "fractals"
 description: "r/fractals"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fractals"
@@ -54,4 +54,4 @@ r/fractals
 |----------------------|---|
 | Published            | 2023-06-12 18:18:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

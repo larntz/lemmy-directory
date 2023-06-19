@@ -3,7 +3,7 @@ title: "Real Madrid CF"
 name: "realmadrid"
 description: "Home of Real Madrid on Lemmy. Opening soon. [Real Madrid Matrix Chat](https://matrix.to/#/#realmadrid-lemmy:matrix.org)"
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/realmadrid"
@@ -54,4 +54,4 @@ Home of Real Madrid on Lemmy. Opening soon.<br><br> [Real Madrid Matrix Chat](ht
 |----------------------|---|
 | Published            | 2023-04-03 19:46:20 |
 | Updated              | 2023-06-15 22:23:56 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

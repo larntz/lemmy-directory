@@ -3,16 +3,16 @@ title: "鴉インフォメーション(運営情報)"
 name: "korako_info"
 description: "インスタンス運営に関する情報をお伝えします"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/korako_info"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 24
+posts: 25
 comments: 18
-weight: 24
+weight: 25
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 24  |
+| Posts                | 25  |
 | Comments             | 18  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-05-27 15:28:28 |
 | Updated              | 2022-12-06 01:11:55 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

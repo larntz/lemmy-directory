@@ -3,7 +3,7 @@ title: "RUST - Game"
 name: "rust_game"
 description: "News/Posts/Opinions/Art and anything relating to the game RUST! Not to be confused with the programming language.Rust is a Survival game in which you spawn on the beach naked and try not to be murdered by someone with a nailgun and 5 eokas.You can advertise your communities, post servers and discuss topics. The procedural world is the limit!"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rust_game"
@@ -54,4 +54,4 @@ News/Posts/Opinions/Art and anything relating to the game RUST! Not to be confus
 |----------------------|---|
 | Published            | 2023-06-08 00:55:19 |
 | Updated              | 2023-06-10 14:43:27 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,19 +3,19 @@ title: "Living off the grid - homesteading and self-sufficiency"
 name: "off_grid"
 description: "For anyone interested or already living off the grid, anywhere in the world. - Homesteading- Solar systems- Water management- Animal husbandryAnd how to live and thrive off the grid"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/off_grid"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 102
+subscribers: 126
 posts: 1
-comments: 8
+comments: 9
 weight: 1
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For anyone interested or already living off the grid, anywhere in the world. <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 102 |
+| Subscribers          | 126 |
 | Posts                | 1  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ For anyone interested or already living off the grid, anywhere in the world. <br
 |----------------------|---|
 | Published            | 2023-06-10 19:09:05 |
 | Updated              | 2023-06-12 08:36:25 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

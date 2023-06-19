@@ -3,13 +3,13 @@ title: "Sexy Communist"
 name: "sexy_communists"
 description: "This community is for picture of communist they don't need to BE hot they can just be regular pictures of them, meme about them are also accepted."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sexy_communists"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
+subscribers: 113
 posts: 66
 comments: 80
 weight: 66
@@ -41,7 +41,7 @@ This community is for picture of communist they don't need to BE hot they can ju
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
+| Subscribers          | 113 |
 | Posts                | 66  |
 | Comments             | 80  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community is for picture of communist they don't need to BE hot they can ju
 |----------------------|---|
 | Published            | 2020-07-20 01:10:56 |
 | Updated              | 2020-08-21 01:05:07 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,19 +3,19 @@ title: "OkBrudiMongo"
 name: "okbrudimongo"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/okbrudimongo"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 144
-posts: 7
-comments: 11
-weight: 7
-dau: 2
-wau: 8
-mau: 8
+subscribers: 165
+posts: 8
+comments: 12
+weight: 8
+dau: 1
+wau: 7
+mau: 10
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 144 |
-| Posts                | 7  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 165 |
+| Posts                | 8  |
+| Comments             | 12  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 22:20:10 |
 | Updated              | 2023-06-05 22:20:55 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

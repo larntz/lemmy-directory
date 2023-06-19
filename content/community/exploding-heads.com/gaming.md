@@ -3,19 +3,19 @@ title: "Gaming"
 name: "gaming"
 description: "game related discussion"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/gaming"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 29
 posts: 24
-comments: 17
+comments: 19
 weight: 24
-dau: 3
+dau: 2
 wau: 6
-mau: 7
+mau: 8
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ game related discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 29 |
 | Posts                | 24  |
-| Comments             | 17  |
-| Daily Active Users   | 3  |
+| Comments             | 19  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ game related discussion
 |----------------------|---|
 | Published            | 2023-02-01 19:51:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

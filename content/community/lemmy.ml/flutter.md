@@ -3,13 +3,13 @@ title: "flutter"
 name: "flutter"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flutter"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 56
 posts: 6
 comments: 0
 weight: 6
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 56 |
 | Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-29 19:38:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:47 |

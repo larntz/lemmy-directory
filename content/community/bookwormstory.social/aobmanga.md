@@ -3,13 +3,13 @@ title: "Manga - Ascendance of a Bookworm"
 name: "aobmanga"
 description: "**Navigation Links:**- [Web Novel](/c/aobwebnovel@bookwormstory.social)- [PrePub](/c/aobprepub@bookwormstory.social)- [Light Novel](/c/aoblightnovel@bookwormstory.social)- **Manga**- [Anime](/c/aobanime@bookwormstory.social)Anything related to the Ascendance of a Bookworm Manga::: spoiler  synonyms  - Ascendance of a Bookworm - Honzuki no Gekokujou - 『本好きの下剋上』:::"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/aobmanga"
 host: bookwormstory.social
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 15
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 18:45:55 |
 | Updated              | 2023-06-16 12:38:12 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

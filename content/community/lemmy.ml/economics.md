@@ -3,19 +3,19 @@ title: "Economics"
 name: "economics"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/economics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 738
+subscribers: 768
 posts: 462
-comments: 198
+comments: 200
 weight: 462
-dau: 3
-wau: 14
-mau: 25
+dau: 2
+wau: 13
+mau: 28
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 738 |
+| Subscribers          | 768 |
 | Posts                | 462  |
-| Comments             | 198  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 25  |
+| Comments             | 200  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 28  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-11-11 19:31:58 |
 | Updated              | 2021-01-28 20:24:15 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:37:02 |

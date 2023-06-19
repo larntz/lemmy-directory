@@ -3,19 +3,19 @@ title: "exmormon"
 name: "exmormon"
 description: "For those that left, are considering leaving or those who are interested in exMormonism."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/exmormon"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 28
-posts: 3
-comments: 25
-weight: 3
-dau: 3
-wau: 8
-mau: 8
+subscribers: 37
+posts: 4
+comments: 28
+weight: 4
+dau: 1
+wau: 16
+mau: 18
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ For those that left, are considering leaving or those who are interested in exMo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 3  |
-| Comments             | 25  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 37 |
+| Posts                | 4  |
+| Comments             | 28  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ For those that left, are considering leaving or those who are interested in exMo
 |----------------------|---|
 | Published            | 2023-06-10 14:10:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,7 +3,7 @@ title: "Cymraeg"
 name: "cymraeg"
 description: "Siarad yn Gymraeg yma!Speak Welsh here!"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cymraeg"
@@ -14,7 +14,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"
@@ -45,7 +45,7 @@ Siarad yn Gymraeg yma!<br>Speak Welsh here!
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Siarad yn Gymraeg yma!<br>Speak Welsh here!
 |----------------------|---|
 | Published            | 2023-06-11 03:07:40 |
 | Updated              | 2023-06-11 20:11:36 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

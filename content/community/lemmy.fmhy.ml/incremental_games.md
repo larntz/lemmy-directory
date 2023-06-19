@@ -3,17 +3,17 @@ title: "Incremental Games"
 name: "incremental_games"
 description: "Post your favorite incremental games, please link to the game itself, even if you're asking a question about it or didn't create it yourself. No previews or screenshots of unreleased games. "
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/incremental_games"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 7
 posts: 5
 comments: 2
 weight: 5
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Post your favorite incremental games, please link to the game itself, even if yo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 7 |
 | Posts                | 5  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Post your favorite incremental games, please link to the game itself, even if yo
 |----------------------|---|
 | Published            | 2023-06-16 20:00:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

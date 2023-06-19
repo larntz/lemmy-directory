@@ -3,16 +3,16 @@ title: "Biden Crime Family"
 name: "letsgobrandon"
 description: "They stole an election and installed a corrupt figurehead suffering from dementia.Who is really running the government?"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/letsgobrandon"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 280
+subscribers: 22
+posts: 281
 comments: 22
-weight: 280
+weight: 281
 dau: 1
 wau: 6
 mau: 6
@@ -41,8 +41,8 @@ They stole an election and installed a corrupt figurehead suffering from dementi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 280  |
+| Subscribers          | 22 |
+| Posts                | 281  |
 | Comments             | 22  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
@@ -54,4 +54,4 @@ They stole an election and installed a corrupt figurehead suffering from dementi
 |----------------------|---|
 | Published            | 2022-02-28 01:46:26 |
 | Updated              | 2022-11-21 19:22:26 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

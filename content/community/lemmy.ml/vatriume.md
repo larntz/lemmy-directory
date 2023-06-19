@@ -3,7 +3,7 @@ title: "vatriume"
 name: "vatriume"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vatriume"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-15 13:56:55 |
 | Updated              | 2021-02-15 14:03:46 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

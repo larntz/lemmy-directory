@@ -3,7 +3,7 @@ title: "Lemmyns"
 name: "lemmyns"
 description: "Default landing page for lemmyns.xyz"
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmyns.xyz/c/lemmyns"
@@ -54,4 +54,4 @@ Default landing page for lemmyns.xyz
 |----------------------|---|
 | Published            | 2023-06-14 20:59:12 |
 | Updated              | 2023-06-15 05:28:36 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

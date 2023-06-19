@@ -3,7 +3,7 @@ title: "Indian Art And Thinking"
 name: "indianart"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indianart"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-07 09:42:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:58 |

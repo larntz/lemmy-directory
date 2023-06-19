@@ -3,13 +3,13 @@ title: "Goldberg Emulator"
 name: "goldberg_emulator"
 description: "Imagine what Steam is open source and libre.Take it!https://mr_goldberg.gitlab.io/goldberg_emulator/"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/goldberg_emulator"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 21
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Imagine what Steam is open source and libre.<br><br>Take it!<br><br>https://mr_g
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Imagine what Steam is open source and libre.<br><br>Take it!<br><br>https://mr_g
 |----------------------|---|
 | Published            | 2021-03-05 13:13:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

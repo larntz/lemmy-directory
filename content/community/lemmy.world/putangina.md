@@ -3,7 +3,7 @@ title: "putangina"
 name: "putangina"
 description: "putangina"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/putangina"
@@ -54,4 +54,4 @@ putangina
 |----------------------|---|
 | Published            | 2023-06-11 09:36:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

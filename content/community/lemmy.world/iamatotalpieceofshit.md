@@ -3,13 +3,13 @@ title: "I Am A Total Piece of Shit"
 name: "iamatotalpieceofshit"
 description: "If you want me to transfer ownership of this community to you (I own 10 + am not trying to be a r*ddit power mod) and will moderate it responsibly, I'll give it to you."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iamatotalpieceofshit"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 63
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ If you want me to transfer ownership of this community to you (I own 10 + am not
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 63 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ If you want me to transfer ownership of this community to you (I own 10 + am not
 |----------------------|---|
 | Published            | 2023-06-12 09:39:16 |
 | Updated              | 2023-06-12 09:47:18 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

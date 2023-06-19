@@ -3,13 +3,13 @@ title: "Techmart"
 name: "techmart"
 description: "Subscribe to see more stories about technology on your homepage."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techmart"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Subscribe to see more stories about technology on your homepage.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Subscribe to see more stories about technology on your homepage.
 |----------------------|---|
 | Published            | 2022-10-09 06:37:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:43 |

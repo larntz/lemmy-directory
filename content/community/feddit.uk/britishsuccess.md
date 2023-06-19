@@ -3,19 +3,19 @@ title: "British Success"
 name: "britishsuccess"
 description: "Celebrate the best bits of being a Brit with your fellow Brits and show off our culture to the rest of the world.# Rules- Be Kind.- Be friendly.- Follow [Feddit.uk](https://feddit.uk/post/21869) site rules."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/britishsuccess"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 131
-posts: 4
+subscribers: 170
+posts: 5
 comments: 54
-weight: 4
+weight: 5
 dau: 1
-wau: 32
-mau: 32
+wau: 33
+mau: 33
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Celebrate the best bits of being a Brit with your fellow Brits and show off our 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 131 |
-| Posts                | 4  |
+| Subscribers          | 170 |
+| Posts                | 5  |
 | Comments             | 54  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 32  |
-| Monthly Active Users | 32  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Celebrate the best bits of being a Brit with your fellow Brits and show off our 
 |----------------------|---|
 | Published            | 2023-06-13 07:21:57 |
 | Updated              | 2023-06-15 20:37:34 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

@@ -3,7 +3,7 @@ title: "Rangers of Shadow Deep"
 name: "rosd"
 description: "A community dedicated to Rangers of Shadow Deep, a solo and cooperative roleplaying skirmish game by Joseph A. McCullough."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/rosd"
@@ -54,4 +54,4 @@ A community dedicated to Rangers of Shadow Deep, a solo and cooperative roleplay
 |----------------------|---|
 | Published            | 2023-06-16 06:06:38 |
 | Updated              | 2023-06-16 22:49:01 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

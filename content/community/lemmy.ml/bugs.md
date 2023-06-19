@@ -3,7 +3,7 @@ title: "Bugs in code"
 name: "bugs"
 description: "The most interesting and funniest bugs, errors and dumb code committed by developers in different programming languages"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bugs"
@@ -54,4 +54,4 @@ The most interesting and funniest bugs, errors and dumb code committed by develo
 |----------------------|---|
 | Published            | 2019-08-19 09:34:02 |
 | Updated              | 2019-08-19 09:50:30 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

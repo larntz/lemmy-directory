@@ -3,19 +3,19 @@ title: "Rochester, NY"
 name: "roc"
 description: "A community dedicated to discussion about the city of Rochester, NY. If you are a current, former, or future resident of the Greater Rochester Area you'll fit right in.[Visit us on Discord!](https://discord.gg/rochester)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roc"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 2
-comments: 5
-weight: 2
-dau: 3
+subscribers: 58
+posts: 4
+comments: 7
+weight: 4
+dau: 1
 wau: 5
-mau: 5
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to discussion about the city of Rochester, NY. If you are 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
+| Subscribers          | 58 |
+| Posts                | 4  |
+| Comments             | 7  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to discussion about the city of Rochester, NY. If you are 
 |----------------------|---|
 | Published            | 2023-06-09 19:50:13 |
 | Updated              | 2023-06-09 19:52:31 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

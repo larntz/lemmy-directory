@@ -3,18 +3,18 @@ title: "Wetshaving Server Announcements"
 name: "ws_server_announce"
 description: "This community is for official announcements from the administrators of sub.wetshaving.social."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/ws_server_announce"
 host: sub.wetshaving.social
 lastmod: "{[ .Updated }}"
 subscribers: 35
-posts: 3
+posts: 4
 comments: 10
-weight: 3
+weight: 4
 dau: 1
-wau: 5
+wau: 1
 mau: 5
 instances:
 - "sub_wetshaving_social"
@@ -42,10 +42,10 @@ This community is for official announcements from the administrators of sub.wets
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 35 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ This community is for official announcements from the administrators of sub.wets
 |----------------------|---|
 | Published            | 2023-06-10 20:27:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

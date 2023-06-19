@@ -3,7 +3,7 @@ title: "Are the Straights OK?"
 name: "arethestraightsok"
 description: "Is someone holding these poor souls hostage and forcing them to be together?Similar minority power projects:- [Shit white people say](https://lemmygrad.ml/c/shitwhitepeoplesay)"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/arethestraightsok"
@@ -54,4 +54,4 @@ Is someone holding these poor souls hostage and forcing them to be together?<br>
 |----------------------|---|
 | Published            | 2022-09-01 12:59:53 |
 | Updated              | 2022-10-05 22:12:10 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

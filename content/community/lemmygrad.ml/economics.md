@@ -3,13 +3,13 @@ title: "Economics"
 name: "economics"
 description: "A sub for discussing Marxist economics and how the bourgeois economists did us dirty."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/economics"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 104
+subscribers: 107
 posts: 34
 comments: 13
 weight: 34
@@ -41,7 +41,7 @@ A sub for discussing Marxist economics and how the bourgeois economists did us d
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 104 |
+| Subscribers          | 107 |
 | Posts                | 34  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A sub for discussing Marxist economics and how the bourgeois economists did us d
 |----------------------|---|
 | Published            | 2020-07-11 18:48:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

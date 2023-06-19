@@ -3,13 +3,13 @@ title: "Impression 3D"
 name: "impression3d"
 description: "Ici, vous pouvez poster tous les liens qui ont un rapport avec l'impression 3D"
 type: community
-date: "2023-06-16 22:55:44"
+date: "2023-06-19 11:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/impression3d"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Ici, vous pouvez poster tous les liens qui ont un rapport avec l'impression 3D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Ici, vous pouvez poster tous les liens qui ont un rapport avec l'impression 3D
 |----------------------|---|
 | Published            | 2020-11-23 18:44:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:44 |
+| Last Scraped         | 2023-06-19 11:34:48 |

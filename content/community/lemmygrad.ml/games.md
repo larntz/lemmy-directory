@@ -3,19 +3,19 @@ title: "Video Games"
 name: "games"
 description: "█▓▒░📀☭ g a m e s 💾⚧░▒▓█Tag game recommendations with [rec]. Tag your critique or commentary threads with [discussion]. Both table-top and video game content is welcome! Original content or indie/DRM free material is encouraged! Not a place for gamer gate talk or other reactionary behavior. TERFs and incels get the wall."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/games"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 813
-posts: 458
-comments: 1579
-weight: 458
-dau: 10
-wau: 45
-mau: 75
+subscribers: 858
+posts: 464
+comments: 1619
+weight: 464
+dau: 23
+wau: 59
+mau: 88
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 813 |
-| Posts                | 458  |
-| Comments             | 1579  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 45  |
-| Monthly Active Users | 75  |
+| Subscribers          | 858 |
+| Posts                | 464  |
+| Comments             | 1619  |
+| Daily Active Users   | 23  |
+| Weekly Active Users  | 59  |
+| Monthly Active Users | 88  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-09-02 23:14:20 |
 | Updated              | 2021-07-28 02:42:48 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

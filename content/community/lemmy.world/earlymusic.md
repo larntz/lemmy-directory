@@ -3,13 +3,13 @@ title: "Ancient and Early Music"
 name: "earlymusic"
 description: "A community for Medieval and Renaissance-era music (as well as music before those periods).Baroque music should be posted to [!baroque@lemmy.world](baroque@lemmy.world)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/earlymusic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for Medieval and Renaissance-era music (as well as music before thos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for Medieval and Renaissance-era music (as well as music before thos
 |----------------------|---|
 | Published            | 2023-06-12 00:43:42 |
 | Updated              | 2023-06-13 18:49:48 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

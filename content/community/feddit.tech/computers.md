@@ -3,7 +3,7 @@ title: "Computers"
 name: "computers"
 description: ""
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/computers"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 22:10:51 |
 | Updated              | 2023-06-14 22:58:27 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

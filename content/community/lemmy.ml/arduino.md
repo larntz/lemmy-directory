@@ -3,19 +3,19 @@ title: "Arduino"
 name: "arduino"
 description: "All about Arduino boards and programming."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arduino"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 196
+subscribers: 225
 posts: 8
-comments: 27
+comments: 28
 weight: 8
-dau: 5
-wau: 13
-mau: 13
+dau: 4
+wau: 16
+mau: 19
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All about Arduino boards and programming.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 196 |
+| Subscribers          | 225 |
 | Posts                | 8  |
-| Comments             | 27  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Comments             | 28  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ All about Arduino boards and programming.
 |----------------------|---|
 | Published            | 2020-06-02 19:41:01 |
 | Updated              | 2020-06-02 19:41:27 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:43 |

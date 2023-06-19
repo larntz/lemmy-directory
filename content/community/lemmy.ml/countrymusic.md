@@ -3,7 +3,7 @@ title: "Country Music"
 name: "countrymusic"
 description: "No David Allen Coe"
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/countrymusic"
@@ -54,4 +54,4 @@ No David Allen Coe
 |----------------------|---|
 | Published            | 2021-10-24 05:46:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:44 |

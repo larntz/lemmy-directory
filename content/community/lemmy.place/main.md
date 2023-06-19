@@ -3,7 +3,7 @@ title: "Lemmy.place Main Community"
 name: "main"
 description: "Only news related to the Lemmy.place server will posted here."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.place/c/main"
@@ -11,9 +11,9 @@ host: lemmy.place
 lastmod: "{[ .Updated }}"
 subscribers: 2
 posts: 2
-comments: 7
+comments: 8
 weight: 2
-dau: 1
+dau: 2
 wau: 3
 mau: 3
 instances:
@@ -43,8 +43,8 @@ Only news related to the Lemmy.place server will posted here.
 |----------------------|---|
 | Subscribers          | 2 |
 | Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
+| Comments             | 8  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Only news related to the Lemmy.place server will posted here.
 |----------------------|---|
 | Published            | 2023-06-14 01:20:48 |
 | Updated              | 2023-06-14 01:33:52 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

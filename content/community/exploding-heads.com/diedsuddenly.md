@@ -3,13 +3,13 @@ title: "Died suddenly "
 name: "diedsuddenly"
 description: "Posts made about people dying suddenly which many deem is related to covid 19 vaccine side effects "
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/diedsuddenly"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Posts made about people dying suddenly which many deem is related to covid 19 va
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Posts made about people dying suddenly which many deem is related to covid 19 va
 |----------------------|---|
 | Published            | 2023-06-10 22:10:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-19 11:35:38 |

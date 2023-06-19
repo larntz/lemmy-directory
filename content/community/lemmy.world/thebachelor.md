@@ -3,7 +3,7 @@ title: "The Bachelor"
 name: "thebachelor"
 description: "All things Bachelor Nation"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thebachelor"
@@ -54,4 +54,4 @@ All things Bachelor Nation
 |----------------------|---|
 | Published            | 2023-06-16 03:49:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

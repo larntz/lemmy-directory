@@ -3,7 +3,7 @@ title: "wireless"
 name: "wireless"
 description: "wireless"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wireless"
@@ -54,4 +54,4 @@ wireless
 |----------------------|---|
 | Published            | 2023-06-15 04:19:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:39 |

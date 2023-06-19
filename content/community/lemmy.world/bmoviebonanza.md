@@ -3,7 +3,7 @@ title: "B Movie Bonanza"
 name: "bmoviebonanza"
 description: "A place for lovers of B movies to come together and talk about them. "
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bmoviebonanza"
@@ -11,11 +11,11 @@ host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 22
 posts: 3
-comments: 3
+comments: 4
 weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -43,10 +43,10 @@ A place for lovers of B movies to come together and talk about them.
 |----------------------|---|
 | Subscribers          | 22 |
 | Posts                | 3  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for lovers of B movies to come together and talk about them.
 |----------------------|---|
 | Published            | 2023-06-10 19:43:20 |
 | Updated              | 2023-06-13 17:49:04 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:40 |

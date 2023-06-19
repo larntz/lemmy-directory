@@ -3,7 +3,7 @@ title: "Indian Communists"
 name: "indian_communists"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/indian_communists"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-04 17:09:08 |
 | Updated              | 2022-03-04 20:00:24 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

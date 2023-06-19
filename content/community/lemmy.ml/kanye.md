@@ -3,7 +3,7 @@ title: "Kanye West"
 name: "kanye"
 description: "A kanye west community"
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kanye"
@@ -54,4 +54,4 @@ A kanye west community
 |----------------------|---|
 | Published            | 2020-06-27 15:05:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:29 |
+| Last Scraped         | 2023-06-19 11:36:56 |

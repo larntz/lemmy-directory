@@ -1,21 +1,21 @@
 ---
-title: "Furry Writing, Storytime, and Worldbuilding" 
+title: "Furry Writing, Worldbuilding, and Storytime" 
 name: "furrywriting"
-description: "This is the place to share and discuss stories related to the Furry Fandom.Whether a story about your real experiences in the fandom, or a fictional story themed around anthrophomorphic animals. We also encourage discussions about worldbuilding related to anthrophomorphic animals.For rules, please follow pawb.social site-wide code of conducts."
+description: "This is the place to share and discuss about stories relating to the furry fandom.Whether the story is about your real experiences in the fandom, a fictional story themed around anthrophomorphic animals, or discussions about worldbuildings related to anthrophomorphic animals, all are welcome.For rules, please follow pawb.social site-wide code of conducts."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/furrywriting"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 37
+posts: 3
+comments: 6
+weight: 3
+dau: 4
+wau: 5
+mau: 5
 instances:
 - "pawb_social"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Furry Writing, Storytime, and Worldbuilding on pawb.social
+# /c/Furry Writing, Worldbuilding, and Storytime on pawb.social
 
 [[home](/)]
 [[/c/furrywriting 🌎](https://pawb.social/c/furrywriting)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-This is the place to share and discuss stories related to the Furry Fandom.<br><br>Whether a story about your real experiences in the fandom, or a fictional story themed around anthrophomorphic animals. We also encourage discussions about worldbuilding related to anthrophomorphic animals.<br><br>For rules, please follow pawb.social site-wide code of conducts.
+This is the place to share and discuss about stories relating to the furry fandom.<br><br>Whether the story is about your real experiences in the fandom, a fictional story themed around anthrophomorphic animals, or discussions about worldbuildings related to anthrophomorphic animals, all are welcome.<br><br>For rules, please follow pawb.social site-wide code of conducts.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ This is the place to share and discuss stories related to the Furry Fandom.<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 37 |
+| Posts                | 3  |
+| Comments             | 6  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 00:16:35 |
-| Updated              | 2023-06-16 11:29:07 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Updated              | 2023-06-17 21:59:40 |
+| Last Scraped         | 2023-06-19 11:34:55 |

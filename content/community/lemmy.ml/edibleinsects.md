@@ -3,13 +3,13 @@ title: "Edible Insects"
 name: "edibleinsects"
 description: "Talk about edible insects, entomophagy, etc"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edibleinsects"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Talk about edible insects, entomophagy, etc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Talk about edible insects, entomophagy, etc
 |----------------------|---|
 | Published            | 2023-06-03 10:54:13 |
 | Updated              | 2023-06-03 10:56:40 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

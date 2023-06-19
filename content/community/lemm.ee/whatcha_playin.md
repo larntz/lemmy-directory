@@ -3,19 +3,19 @@ title: "Whatcha Playin?"
 name: "whatcha_playin"
 description: "A place in the fediverse to talk about the games you're playing and share your thoughts on them."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcha_playin"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 30
 posts: 1
-comments: 5
+comments: 26
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 13
+mau: 13
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ A place in the fediverse to talk about the games you're playing and share your t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 30 |
 | Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 26  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place in the fediverse to talk about the games you're playing and share your t
 |----------------------|---|
 | Published            | 2023-06-15 05:19:20 |
 | Updated              | 2023-06-15 05:20:24 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

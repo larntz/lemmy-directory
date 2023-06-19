@@ -3,7 +3,7 @@ title: "Gryphon's Eyrie"
 name: "gryphonseyrie"
 description: "stuff Gryph likes to have in the Gryphon Eyrie"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gryphonseyrie"
@@ -54,4 +54,4 @@ stuff Gryph likes to have in the Gryphon Eyrie
 |----------------------|---|
 | Published            | 2021-02-28 11:47:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

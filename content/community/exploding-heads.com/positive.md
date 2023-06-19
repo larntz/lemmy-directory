@@ -3,13 +3,13 @@ title: "Positive"
 name: "positive"
 description: "Only feel good positive things"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/positive"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Only feel good positive things
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Only feel good positive things
 |----------------------|---|
 | Published            | 2023-06-16 13:14:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

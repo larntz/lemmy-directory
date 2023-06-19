@@ -3,19 +3,19 @@ title: "𝕲𝖔𝖙𝖍"
 name: "goth"
 description: "this is *very* broad umbrella goth community until we get enough content / subscribers to justify split, so * tradgoth fashion, proper original 80s goth music* goth adjacent music genres* goth adjacent fashion/culture* general macabre stuff *on top of the normal instance rules:*please make sure you add a NSFW marking for anything gorey (though Gorey is still fine :) ) please make sure links to material dealing with e.g. self-harm have appropriate content warningsplease be nice to each other. if you think something's stupid/bad, just downvote it and move on. if you think something doesn't belong in this community, messaage it to the community mods who will do any gatekeeping necessary. **this means you should not be showing up in the comments to tell someone their post is not real goth.**"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goth"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 17
-comments: 3
-weight: 17
-dau: 1
-wau: 2
-mau: 2
+subscribers: 35
+posts: 21
+comments: 5
+weight: 21
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ this is *very* broad umbrella goth community until we get enough content / subsc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 17  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 35 |
+| Posts                | 21  |
+| Comments             | 5  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ this is *very* broad umbrella goth community until we get enough content / subsc
 |----------------------|---|
 | Published            | 2020-10-21 04:53:25 |
 | Updated              | 2020-10-21 04:55:08 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:43 |

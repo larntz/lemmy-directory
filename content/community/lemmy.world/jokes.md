@@ -3,19 +3,19 @@ title: "Jokes"
 name: "jokes"
 description: "Lemmy users' attempts at being funny-Welcome to the funniest community on Lemmy! The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-1- Bigotry, sexualization of minors, and hate speech are not allowed. 2- Links of any kind are not allowed in posts. All NSFW or NSFL content must have a proper Content Warning. 3- Remember to treat your fellow users with kindness and respect. Repeated violations will result in a ban.4- Any attempts at advertising, company/personal promotion, and spamming will result in a ban. Sister Communities- [No Stupid Questions](https://lemmy.world/c/nostupidquestions)[You Should Know](https://lemmy.world/c/youshouldknow)[Mental Health](https://lemmy.world/c/mentalhealth)To partner with our community and be included here, you are free to message me or comment on our pinned post.Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time, or simply message me."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jokes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 297
-posts: 14
-comments: 17
-weight: 14
-dau: 5
-wau: 13
-mau: 13
+subscribers: 410
+posts: 19
+comments: 21
+weight: 19
+dau: 3
+wau: 16
+mau: 16
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy users' attempts at being funny<br>-<br>Welcome to the funniest community o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 297 |
-| Posts                | 14  |
-| Comments             | 17  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Subscribers          | 410 |
+| Posts                | 19  |
+| Comments             | 21  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy users' attempts at being funny<br>-<br>Welcome to the funniest community o
 |----------------------|---|
 | Published            | 2023-06-12 06:36:51 |
 | Updated              | 2023-06-14 23:14:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

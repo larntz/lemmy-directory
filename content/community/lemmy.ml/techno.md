@@ -3,13 +3,13 @@ title: "techno"
 name: "techno"
 description: "Posts about Techno music"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techno"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 6
 comments: 2
 weight: 6
@@ -41,7 +41,7 @@ Posts about Techno music
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 6  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Posts about Techno music
 |----------------------|---|
 | Published            | 2021-01-13 18:44:12 |
 | Updated              | 2021-01-13 18:44:24 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

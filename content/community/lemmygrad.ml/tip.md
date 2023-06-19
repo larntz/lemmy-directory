@@ -3,13 +3,13 @@ title: "Türkiye İşçi Partisi - Workers' Party of Turkey"
 name: "tip"
 description: "Unoffical Lemmygrad server for Workers' Party of Turkey and its members.https://tip.org.tr/https://tip.org.tr/en/"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tip"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Unoffical Lemmygrad server for Workers' Party of Turkey and its members.<br>http
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Unoffical Lemmygrad server for Workers' Party of Turkey and its members.<br>http
 |----------------------|---|
 | Published            | 2023-06-02 03:34:43 |
 | Updated              | 2023-06-02 03:46:49 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

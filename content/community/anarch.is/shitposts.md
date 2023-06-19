@@ -3,7 +3,7 @@ title: "Shitposts"
 name: "shitposts"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/shitposts"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 17:57:42 |
 | Updated              | 2023-06-11 17:57:55 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

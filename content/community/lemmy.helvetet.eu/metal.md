@@ -3,15 +3,15 @@ title: "Metal"
 name: "metal"
 description: "Also check out other metal music communities:- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal)- [!folkmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/folkmetal)- [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/metal"
 host: lemmy.helvetet.eu
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 74
 posts: 31
-comments: 3
+comments: 2
 weight: 31
 dau: 1
 wau: 5
@@ -41,9 +41,9 @@ Also check out other metal music communities:<br>- [!symphonicmetal@lemmy.helvet
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 74 |
 | Posts                | 31  |
-| Comments             | 3  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Also check out other metal music communities:<br>- [!symphonicmetal@lemmy.helvet
 |----------------------|---|
 | Published            | 2023-03-28 13:52:40 |
 | Updated              | 2023-06-10 22:51:06 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

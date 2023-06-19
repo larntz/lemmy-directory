@@ -3,19 +3,19 @@ title: "Cyberdecks"
 name: "cyberdecks"
 description: "For posting cyberdecks"
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/cyberdecks"
 host: lemmy.villa-straylight.social
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_villa-straylight_social"
 tags: 
@@ -41,12 +41,12 @@ For posting cyberdecks
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ For posting cyberdecks
 |----------------------|---|
 | Published            | 2023-06-16 01:37:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

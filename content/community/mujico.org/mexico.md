@@ -3,18 +3,18 @@ title: "México"
 name: "mexico"
 description: "Aquí empieza la patria"
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/mexico"
 host: mujico.org
 lastmod: "{[ .Updated }}"
-subscribers: 299
-posts: 212
-comments: 824
-weight: 212
+subscribers: 301
+posts: 213
+comments: 825
+weight: 213
 dau: 1
-wau: 7
+wau: 6
 mau: 10
 instances:
 - "mujico_org"
@@ -41,11 +41,11 @@ Aquí empieza la patria
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 299 |
-| Posts                | 212  |
-| Comments             | 824  |
+| Subscribers          | 301 |
+| Posts                | 213  |
+| Comments             | 825  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ Aquí empieza la patria
 |----------------------|---|
 | Published            | 2022-09-03 22:21:42 |
 | Updated              | 2022-09-03 22:50:07 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

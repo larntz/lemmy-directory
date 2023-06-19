@@ -3,7 +3,7 @@ title: "Cabo Verde - Geral"
 name: "cabo_verde"
 description: "Uma comunidade dedicada a Cabo Verde."
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/cabo_verde"
@@ -54,4 +54,4 @@ Uma comunidade dedicada a Cabo Verde.
 |----------------------|---|
 | Published            | 2023-06-11 23:31:22 |
 | Updated              | 2023-06-11 23:31:39 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

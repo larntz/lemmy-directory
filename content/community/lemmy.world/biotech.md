@@ -3,7 +3,7 @@ title: "Biotechnology - News and questions"
 name: "biotech"
 description: "AI, Genomes, New technologies. Everything goes when it comes to technology used to improve (or worsen) us humans and nature."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/biotech"
@@ -54,4 +54,4 @@ AI, Genomes, New technologies. Everything goes when it comes to technology used 
 |----------------------|---|
 | Published            | 2023-06-14 22:06:07 |
 | Updated              | 2023-06-14 22:12:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

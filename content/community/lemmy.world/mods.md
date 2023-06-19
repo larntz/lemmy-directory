@@ -3,19 +3,19 @@ title: "Lemmy Mods"
 name: "mods"
 description: "A community for mods of Lemmy to work together"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mods"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 5
-comments: 12
-weight: 5
-dau: 2
-wau: 8
-mau: 8
+subscribers: 74
+posts: 6
+comments: 13
+weight: 6
+dau: 1
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for mods of Lemmy to work together
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 5  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 74 |
+| Posts                | 6  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for mods of Lemmy to work together
 |----------------------|---|
 | Published            | 2023-06-09 21:10:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

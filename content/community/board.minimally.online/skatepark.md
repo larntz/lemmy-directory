@@ -3,19 +3,19 @@ title: "Skate Park"
 name: "skatepark"
 description: "So it goes that if one were to learn a kick flip alone it would take much longer than if they went to the skate park.This community is for asking questions, sharing recommendations and experiences, and helping each other figure things out and get stuff done."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/skatepark"
 host: board.minimally.online
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 3
 weight: 1
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "board_minimally_online"
 tags: 
@@ -41,12 +41,12 @@ So it goes that if one were to learn a kick flip alone it would take much longer
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ So it goes that if one were to learn a kick flip alone it would take much longer
 |----------------------|---|
 | Published            | 2023-06-16 16:35:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,13 +3,13 @@ title: "The Social Avenue for Chicago"
 name: "chicagomeetups"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chicagomeetups"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-26 20:20:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:48 |

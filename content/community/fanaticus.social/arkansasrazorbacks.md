@@ -3,7 +3,7 @@ title: "Arkansas Razorbacks"
 name: "arkansasrazorbacks"
 description: "A community to discuss Arkansas Razorbacks athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/arkansasrazorbacks"
@@ -54,4 +54,4 @@ A community to discuss Arkansas Razorbacks athletics.<br><br>**Looking for Mods!
 |----------------------|---|
 | Published            | 2023-06-14 23:33:01 |
 | Updated              | 2023-06-15 00:07:36 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

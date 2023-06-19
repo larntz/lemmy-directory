@@ -3,13 +3,13 @@ title: "Wyciąganie artykułów zza paywalla"
 name: "antipaywall"
 description: "Tutaj można prosić o wyciągnięcie rzeczy zza paywalla, a dobre osoby z dostępami mogą te prośby spełniać"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/antipaywall"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 79
 posts: 83
 comments: 124
 weight: 83
@@ -41,7 +41,7 @@ Tutaj można prosić o wyciągnięcie rzeczy zza paywalla, a dobre osoby z dost�
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 79 |
 | Posts                | 83  |
 | Comments             | 124  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tutaj można prosić o wyciągnięcie rzeczy zza paywalla, a dobre osoby z dost�
 |----------------------|---|
 | Published            | 2021-10-14 13:55:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

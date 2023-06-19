@@ -3,16 +3,16 @@ title: "Local Music Dump"
 name: "music"
 description: "What're you listening to?"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/music"
 host: skein.city
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 3
+posts: 4
 comments: 1
-weight: 3
+weight: 4
 dau: 2
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ What're you listening to?
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ What're you listening to?
 |----------------------|---|
 | Published            | 2023-06-13 21:56:35 |
 | Updated              | 2023-06-13 21:59:47 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

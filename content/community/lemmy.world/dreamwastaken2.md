@@ -3,13 +3,13 @@ title: "DreamWasTaken2"
 name: "dreamwastaken2"
 description: "Subreddit for free discussion of MCYT, Dream in particular. Kind of like r/DreamWasTaken, but without restrictions."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dreamwastaken2"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Subreddit for free discussion of MCYT, Dream in particular. Kind of like r/Dream
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Subreddit for free discussion of MCYT, Dream in particular. Kind of like r/Dream
 |----------------------|---|
 | Published            | 2023-06-13 08:30:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

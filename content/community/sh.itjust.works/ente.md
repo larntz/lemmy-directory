@@ -3,7 +3,7 @@ title: "ente.io Community"
 name: "ente"
 description: "ente is a photos app with a focus on security and privacy. For support queries, please raise a ticket with team@ente.io."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ente"
@@ -54,4 +54,4 @@ ente is a photos app with a focus on security and privacy. For support queries, 
 |----------------------|---|
 | Published            | 2023-06-12 16:07:17 |
 | Updated              | 2023-06-13 00:42:22 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

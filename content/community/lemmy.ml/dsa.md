@@ -3,7 +3,7 @@ title: "DSA"
 name: "dsa"
 description: "Democratic Socialists of America"
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dsa"
@@ -54,4 +54,4 @@ Democratic Socialists of America
 |----------------------|---|
 | Published            | 2021-01-29 13:33:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:44 |

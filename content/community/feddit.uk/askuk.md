@@ -3,19 +3,19 @@ title: "Ask UK"
 name: "askuk"
 description: "Community for asking and answering any question related to the life, the people or anything related to the UK. "
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/askuk"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 54
+posts: 1
+comments: 11
+weight: 1
+dau: 1
+wau: 10
+mau: 10
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Community for asking and answering any question related to the life, the people 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 54 |
+| Posts                | 1  |
+| Comments             | 11  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for asking and answering any question related to the life, the people 
 |----------------------|---|
 | Published            | 2023-06-16 14:59:57 |
 | Updated              | 2023-06-16 19:19:01 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

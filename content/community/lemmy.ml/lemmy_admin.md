@@ -3,19 +3,19 @@ title: "Lemmy Administration"
 name: "lemmy_admin"
 description: "Anything about running your own Lemmy instance. Including how to install it, maintain and customise it.Be sure to check out the docs: https://join-lemmy.org/docs/en/administration/administration.htmlIf you have any problems, describe them here and we will try to help you fixing them."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_admin"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 208
-posts: 24
-comments: 86
-weight: 24
+subscribers: 219
+posts: 26
+comments: 89
+weight: 26
 dau: 1
-wau: 15
-mau: 22
+wau: 13
+mau: 23
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Anything about running your own Lemmy instance. Including how to install it, mai
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 208 |
-| Posts                | 24  |
-| Comments             | 86  |
+| Subscribers          | 219 |
+| Posts                | 26  |
+| Comments             | 89  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 22  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ Anything about running your own Lemmy instance. Including how to install it, mai
 |----------------------|---|
 | Published            | 2020-05-24 22:39:20 |
 | Updated              | 2023-06-12 09:58:55 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

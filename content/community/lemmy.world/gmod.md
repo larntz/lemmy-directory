@@ -3,13 +3,13 @@ title: "Garry’s Mod"
 name: "gmod"
 description: "A community for everything related to the Source game Garry’s Mod (S2 S&box too)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gmod"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for everything related to the Source game Garry’s Mod (S2 S&box to
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for everything related to the Source game Garry’s Mod (S2 S&box to
 |----------------------|---|
 | Published            | 2023-06-15 14:12:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

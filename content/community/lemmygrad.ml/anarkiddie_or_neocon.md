@@ -3,7 +3,7 @@ title: "Anarkiddie or Neocon?"
 name: "anarkiddie_or_neocon"
 description: "A place to play ‘Anarkiddie or Neocon?‘, and other similar games."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anarkiddie_or_neocon"
@@ -54,4 +54,4 @@ A place to play ‘Anarkiddie or Neocon?‘, and other similar games.
 |----------------------|---|
 | Published            | 2020-10-07 15:11:43 |
 | Updated              | 2021-01-29 19:09:54 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

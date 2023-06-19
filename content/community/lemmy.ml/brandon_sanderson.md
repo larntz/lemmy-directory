@@ -3,13 +3,13 @@ title: "Branson Sanderson"
 name: "brandon_sanderson"
 description: "A place to discuss all things related to fantasy author Brandon Sanderson."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brandon_sanderson"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss all things related to fantasy author Brandon Sanderson.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss all things related to fantasy author Brandon Sanderson.
 |----------------------|---|
 | Published            | 2023-06-13 11:31:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

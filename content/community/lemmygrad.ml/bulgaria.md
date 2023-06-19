@@ -3,7 +3,7 @@ title: "Bulgaria"
 name: "bulgaria"
 description: "A subreddit about the country Bulgaria."
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/bulgaria"
@@ -54,4 +54,4 @@ A subreddit about the country Bulgaria.<br>
 |----------------------|---|
 | Published            | 2022-03-15 05:05:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:08 |

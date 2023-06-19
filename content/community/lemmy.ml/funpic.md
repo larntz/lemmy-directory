@@ -3,7 +3,7 @@ title: "Funny Pictures"
 name: "funpic"
 description: "show your funny pictures"
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funpic"
@@ -54,4 +54,4 @@ show your funny pictures
 |----------------------|---|
 | Published            | 2020-06-30 05:52:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:48 |

@@ -3,13 +3,13 @@ title: "Hollow Knight"
 name: "hollowknight"
 description: "All things Hollow Knight."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hollowknight"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 28
 posts: 4
 comments: 4
 weight: 4
@@ -41,7 +41,7 @@ All things Hollow Knight.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 28 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things Hollow Knight.
 |----------------------|---|
 | Published            | 2022-06-01 16:01:48 |
 | Updated              | 2022-06-01 16:04:26 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

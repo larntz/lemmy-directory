@@ -3,17 +3,17 @@ title: "Rat Content"
 name: "ratcontent"
 description: "This is mostly for crossposting from https://mstdn.party/@ratcontent, but I am happy if other people post too!Focus is on rats or mice in movies and TV shows. Videogames are ok if there's a cutscene that can be clipped.This isn't for posting pet rats, there's other better places for that."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ratcontent"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 59
+subscribers: 11
+posts: 61
 comments: 3
-weight: 59
-dau: 4
+weight: 61
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ This is mostly for crossposting from https://mstdn.party/@ratcontent, but I am h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 59  |
+| Subscribers          | 11 |
+| Posts                | 61  |
 | Comments             | 3  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ This is mostly for crossposting from https://mstdn.party/@ratcontent, but I am h
 |----------------------|---|
 | Published            | 2023-06-14 05:42:28 |
 | Updated              | 2023-06-14 18:21:01 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

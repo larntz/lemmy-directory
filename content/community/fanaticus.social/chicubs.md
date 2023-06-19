@@ -3,16 +3,16 @@ title: "CHI Cubs"
 name: "chicubs"
 description: "Cloned from [r/CHICubs](https://old.reddit.com/r/CHICubs)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/chicubs"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 2
-comments: 0
-weight: 2
+posts: 4
+comments: 8
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Cloned from [r/CHICubs](https://old.reddit.com/r/CHICubs)<br><br># Looking for m
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Posts                | 4  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Cloned from [r/CHICubs](https://old.reddit.com/r/CHICubs)<br><br># Looking for m
 |----------------------|---|
 | Published            | 2023-06-09 17:18:03 |
 | Updated              | 2023-06-12 16:46:10 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

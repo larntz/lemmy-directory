@@ -3,19 +3,19 @@ title: "Tabletop Place Official"
 name: "tabletop_place"
 description: "Official community for meta-discussion of The Tabletop Place, such as announcements, rules, and new community discussion."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tabletop_place"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
+subscribers: 6
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "tabletop_place"
 tags: 
@@ -41,12 +41,12 @@ Official community for meta-discussion of The Tabletop Place, such as announceme
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
+| Subscribers          | 6 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Official community for meta-discussion of The Tabletop Place, such as announceme
 |----------------------|---|
 | Published            | 2023-06-16 21:40:12 |
 | Updated              | 2023-06-16 22:12:14 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

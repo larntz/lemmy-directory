@@ -3,16 +3,16 @@ title: "Space Engineers"
 name: "space_engineers"
 description: "Community for players of the game Space Engineers"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/space_engineers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 2
+subscribers: 8
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Community for players of the game Space Engineers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Community for players of the game Space Engineers
 |----------------------|---|
 | Published            | 2023-06-13 09:13:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

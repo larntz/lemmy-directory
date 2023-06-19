@@ -1,21 +1,21 @@
 ---
 title: "Guitar Pedals" 
 name: "guitarpedals"
-description: "This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes! Head on over to c/guitars to discuss more six-string (+/- a few strings) related pictures and topics.  Guitar pedal icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/guitar-pedal)  Banner from [Sweetwater's Largest Pedalboard](https://www.sweetwater.com/insync/how-did-it-sound-playing-through-the-worlds-largest-guitar-effect-pedalboard/)"
+description: "This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes! Head on over to [!guitars](https://lemmy.world/c/guitars)  to discuss more six-string (+/- a few strings) related pictures and topics.  Guitar pedal icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/guitar-pedal)  Banner from [Sweetwater's Largest Pedalboard](https://www.sweetwater.com/insync/how-did-it-sound-playing-through-the-worlds-largest-guitar-effect-pedalboard/)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/guitarpedals"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 1
-comments: 7
-weight: 1
-dau: 0
-wau: 3
-mau: 3
+subscribers: 46
+posts: 6
+comments: 34
+weight: 6
+dau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes! Head on over to c/guitars to discuss more six-string (+/- a few strings) related pictures and topics.<br>  <br>Guitar pedal icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/guitar-pedal)  <br>Banner from [Sweetwater's Largest Pedalboard](https://www.sweetwater.com/insync/how-did-it-sound-playing-through-the-worlds-largest-guitar-effect-pedalboard/)
+This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes! Head on over to [!guitars](https://lemmy.world/c/guitars)  to discuss more six-string (+/- a few strings) related pictures and topics.<br>  <br>Guitar pedal icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/guitar-pedal)  <br>Banner from [Sweetwater's Largest Pedalboard](https://www.sweetwater.com/insync/how-did-it-sound-playing-through-the-worlds-largest-guitar-effect-pedalboard/)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ This community is for the discussion and appreciation of Guitar Pedals. Post you
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 1  |
-| Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 46 |
+| Posts                | 6  |
+| Comments             | 34  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 23:09:11 |
-| Updated              | 2023-06-15 01:07:40 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-18 17:58:20 |
+| Last Scraped         | 2023-06-19 11:36:36 |

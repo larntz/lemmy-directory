@@ -3,19 +3,19 @@ title: "Lemmy App Development "
 name: "lemmydev"
 description: "A place for Lemmy builders to chat about building apps, clients, tools and bots for the Lemmy platform. **On-Topic**:* programming questions related to the Lemmy platform* sharing your ideas, WIP, or released Lemmy-related work**Off-Topic**:* general programming questions unrelated to Lemmy* feature requests for developers* sharing or promoting work not related to Lemmy"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lemmydev"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 3
-comments: 2
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+subscribers: 97
+posts: 4
+comments: 24
+weight: 4
+dau: 6
+wau: 11
+mau: 11
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ A place for Lemmy builders to chat about building apps, clients, tools and bots 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 97 |
+| Posts                | 4  |
+| Comments             | 24  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for Lemmy builders to chat about building apps, clients, tools and bots 
 |----------------------|---|
 | Published            | 2023-06-12 18:05:39 |
 | Updated              | 2023-06-12 21:39:51 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

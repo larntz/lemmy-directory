@@ -3,13 +3,13 @@ title: "Comrade4Comrade"
 name: "comrade4comrade"
 description: "A place to find comrades in or around your location to meet and organize."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/comrade4comrade"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
+subscribers: 113
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ A place to find comrades in or around your location to meet and organize.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
+| Subscribers          | 113 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ A place to find comrades in or around your location to meet and organize.
 |----------------------|---|
 | Published            | 2019-10-24 19:35:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

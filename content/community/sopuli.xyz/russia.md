@@ -3,17 +3,17 @@ title: "Russia"
 name: "russia"
 description: "News and discussion related to Russia"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/russia"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 37
-comments: 12
-weight: 37
-dau: 2
+subscribers: 25
+posts: 39
+comments: 13
+weight: 39
+dau: 1
 wau: 2
 mau: 10
 instances:
@@ -41,10 +41,10 @@ News and discussion related to Russia
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 37  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
+| Subscribers          | 25 |
+| Posts                | 39  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 10  |
 
@@ -54,4 +54,4 @@ News and discussion related to Russia
 |----------------------|---|
 | Published            | 2022-08-21 15:53:12 |
 | Updated              | 2022-08-21 16:01:13 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

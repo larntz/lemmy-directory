@@ -3,13 +3,13 @@ title: "MTB"
 name: "mtb"
 description: "Alles rund um das Thema Mountainbike."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mtb"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Alles rund um das Thema Mountainbike.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Alles rund um das Thema Mountainbike.
 |----------------------|---|
 | Published            | 2022-09-27 18:07:27 |
 | Updated              | 2022-10-28 08:26:26 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

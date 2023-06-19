@@ -3,19 +3,19 @@ title: "Liverpool FC"
 name: "liverpoolfc"
 description: "- Be polite- Stay on topic- In Klopp we trust- You'll Never Walk Alone"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/liverpoolfc"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 72
-posts: 19
-comments: 25
-weight: 19
-dau: 5
-wau: 15
-mau: 15
+subscribers: 87
+posts: 29
+comments: 33
+weight: 29
+dau: 3
+wau: 20
+mau: 20
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
-| Posts                | 19  |
-| Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 87 |
+| Posts                | 29  |
+| Comments             | 33  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 17:09:27 |
 | Updated              | 2023-06-16 06:45:08 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

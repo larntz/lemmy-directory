@@ -3,13 +3,13 @@ title: "Wholesome"
 name: "wholesome"
 description: "Embrace the Power of Wholesome: Nurturing Hearts, Inspiring Smiles, and Spreading Joy"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wholesome"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 31
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Embrace the Power of Wholesome: Nurturing Hearts, Inspiring Smiles, and Spreadin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 31 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Embrace the Power of Wholesome: Nurturing Hearts, Inspiring Smiles, and Spreadin
 |----------------------|---|
 | Published            | 2023-06-12 12:47:57 |
 | Updated              | 2023-06-16 11:33:17 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

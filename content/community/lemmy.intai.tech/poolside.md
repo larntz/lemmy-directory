@@ -3,16 +3,16 @@ title: "Poolside"
 name: "poolside"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/poolside"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
 subscribers: 5
-posts: 9
+posts: 12
 comments: 1
-weight: 9
+weight: 12
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 5 |
-| Posts                | 9  |
+| Posts                | 12  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 16:10:46 |
 | Updated              | 2023-06-11 16:14:39 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,13 +3,13 @@ title: "New York City"
 name: "nyc"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nyc"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 93
+subscribers: 101
 posts: 9
 comments: 5
 weight: 9
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 93 |
+| Subscribers          | 101 |
 | Posts                | 9  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 02:44:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:56 |

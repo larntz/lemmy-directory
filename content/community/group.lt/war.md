@@ -3,16 +3,16 @@ title: "War in Ukraine"
 name: "war"
 description: "War is organized murder and nothing else."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/war"
 host: group.lt
 lastmod: "{[ .Updated }}"
-subscribers: 234
-posts: 67
-comments: 16
-weight: 67
+subscribers: 298
+posts: 80
+comments: 27
+weight: 80
 dau: 3
 wau: 14
 mau: 14
@@ -41,9 +41,9 @@ War is organized murder and nothing else.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 234 |
-| Posts                | 67  |
-| Comments             | 16  |
+| Subscribers          | 298 |
+| Posts                | 80  |
+| Comments             | 27  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 14  |
@@ -54,4 +54,4 @@ War is organized murder and nothing else.
 |----------------------|---|
 | Published            | 2022-02-26 08:47:56 |
 | Updated              | 2022-02-26 22:01:12 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

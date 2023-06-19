@@ -3,19 +3,19 @@ title: "Nikon"
 name: "nikon"
 description: "Community für Fotofreunde mit Fokus auf Produkten von und für Nikon-Kameras.Gerne auch Präsentation von *eigenen* Fotos (Dabei bitte verwendete Kamera, Objektiv und ggfs. Einstellungen dazuschreiben)Bitte haltet Euch an die Regeln und den gesunden Menschenverstand."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nikon"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 11
+posts: 2
+comments: 7
+weight: 2
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Community für Fotofreunde mit Fokus auf Produkten von und für Nikon-Kameras.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 11 |
+| Posts                | 2  |
+| Comments             | 7  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community für Fotofreunde mit Fokus auf Produkten von und für Nikon-Kameras.<b
 |----------------------|---|
 | Published            | 2023-06-12 13:48:14 |
 | Updated              | 2023-06-12 14:21:37 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

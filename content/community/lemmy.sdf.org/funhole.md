@@ -3,13 +3,13 @@ title: "Funhole"
 name: "funhole"
 description: "Welcome to Funhole! The first and only hole on SDF exclusively for fun content! Are you a content creator? Then come post your content and join the fun!"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/funhole"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 6
 comments: 2
 weight: 6
@@ -41,7 +41,7 @@ Welcome to Funhole! The first and only hole on SDF exclusively for fun content! 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 6  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to Funhole! The first and only hole on SDF exclusively for fun content! 
 |----------------------|---|
 | Published            | 2023-06-08 02:29:25 |
 | Updated              | 2023-06-10 02:24:52 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

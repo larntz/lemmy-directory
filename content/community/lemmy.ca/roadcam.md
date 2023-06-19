@@ -3,13 +3,13 @@ title: "Roadcam"
 name: "roadcam"
 description: "Footage of interesting road situations. **Rules:**- English titles only please.- Don't post walking footage, dummy.**Info:**- Currently just about anything is allowed: any vehicles, images or videos, compilations, etc. Any content is good at this point."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/roadcam"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Footage of interesting road situations. <br><br>**Rules:**<br><br>- English titl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Footage of interesting road situations. <br><br>**Rules:**<br><br>- English titl
 |----------------------|---|
 | Published            | 2023-06-10 02:39:20 |
 | Updated              | 2023-06-10 02:49:19 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

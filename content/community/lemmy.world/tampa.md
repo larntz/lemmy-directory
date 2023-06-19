@@ -3,18 +3,18 @@ title: "Tampa"
 name: "tampa"
 description: "The official community of Tampa Bay, home of the Buccaneers, Lightning, Rays, Gasparilla Pirate Festival, historic Ybor City, pristine Clearwater Beach, Hooters, Outback Steakhouse, hot moms, alligators, manatees, skunk apes and more! "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tampa"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 19
+subscribers: 49
+posts: 20
 comments: 13
-weight: 19
-dau: 2
-wau: 9
+weight: 20
+dau: 1
+wau: 3
 mau: 9
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ The official community of Tampa Bay, home of the Buccaneers, Lightning, Rays, Ga
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 19  |
+| Subscribers          | 49 |
+| Posts                | 20  |
 | Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 9  |
 
 <br>
@@ -54,4 +54,4 @@ The official community of Tampa Bay, home of the Buccaneers, Lightning, Rays, Ga
 |----------------------|---|
 | Published            | 2023-06-09 17:23:03 |
 | Updated              | 2023-06-10 18:17:52 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,17 +3,17 @@ title: "All Original Recipes"
 name: "all_original_recipes"
 description: "A community for sharing recipes created in your own kitchen!One rule: posted recipes must be something you created in your kitchen. AKA OC only. "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/all_original_recipes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 67
 posts: 4
-comments: 5
+comments: 6
 weight: 4
-dau: 4
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ A community for sharing recipes created in your own kitchen!<br><br>One rule: po
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 67 |
 | Posts                | 4  |
-| Comments             | 5  |
-| Daily Active Users   | 4  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ A community for sharing recipes created in your own kitchen!<br><br>One rule: po
 |----------------------|---|
 | Published            | 2023-06-15 01:13:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

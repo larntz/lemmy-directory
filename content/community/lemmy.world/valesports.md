@@ -3,19 +3,19 @@ title: "VALORANT Esports"
 name: "valesports"
 description: "## A community for all things esports for Riot Games' tactical shooter, VALORANT.Rebuilding the VALORANT Competitive community in lemmy. Discuss the latest VCT matches, pro players, and industry happenings.Not affiliated with Riot Games.**Rules**1. No spam, targeted harassment, or doxxing.2. Remember the human.3. No spam.If need be, message me on lemmy or go through matrix through my profile for secure messaging. ![](https://lemmy.world/pictrs/image/735331a9-5375-44c8-aa45-c7f5b885ac0d.png)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/valesports"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
-posts: 11
-comments: 14
-weight: 11
-dau: 1
-wau: 5
-mau: 5
+subscribers: 32
+posts: 17
+comments: 27
+weight: 17
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 11  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 32 |
+| Posts                | 17  |
+| Comments             | 27  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 20:57:24 |
 | Updated              | 2023-06-13 03:22:39 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

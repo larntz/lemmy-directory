@@ -3,13 +3,13 @@ title: "chapotraphouse"
 name: "chapotraphouse"
 description: "chapotraphouse"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chapotraphouse"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 404
+subscribers: 406
 posts: 50
 comments: 68
 weight: 50
@@ -41,7 +41,7 @@ chapotraphouse
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 404 |
+| Subscribers          | 406 |
 | Posts                | 50  |
 | Comments             | 68  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ chapotraphouse
 |----------------------|---|
 | Published            | 2019-08-29 09:48:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,19 +3,19 @@ title: "Stuttgart"
 name: "stuttgart"
 description: "Alles über den Kessel!"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/stuttgart"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 28
 posts: 2
 comments: 4
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Alles über den Kessel!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 28 |
 | Posts                | 2  |
 | Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Alles über den Kessel!
 |----------------------|---|
 | Published            | 2023-06-16 07:21:33 |
 | Updated              | 2023-06-16 07:29:24 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

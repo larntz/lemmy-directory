@@ -3,13 +3,13 @@ title: "Dicks In Chicks"
 name: "dicksinchicks"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/dicksinchicks"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 383
+subscribers: 520
 posts: 8
 comments: 4
 weight: 8
@@ -43,7 +43,7 @@ Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. No AI A
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 383 |
+| Subscribers          | 520 |
 | Posts                | 8  |
 | Comments             | 4  |
 | Daily Active Users   | 4  |
@@ -56,4 +56,4 @@ Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. No AI A
 |----------------------|---|
 | Published            | 2023-06-12 18:52:34 |
 | Updated              | 2023-06-13 02:15:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

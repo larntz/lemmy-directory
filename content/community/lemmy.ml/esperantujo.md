@@ -3,13 +3,13 @@ title: "Esperantujo"
 name: "esperantujo"
 description: ""
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esperantujo"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-08-18 10:57:23 |
 | Updated              | 2022-08-18 12:52:11 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

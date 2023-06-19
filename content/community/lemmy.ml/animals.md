@@ -3,13 +3,13 @@ title: "animals"
 name: "animals"
 description: "all the animals"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animals"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ all the animals<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ all the animals<br>
 |----------------------|---|
 | Published            | 2020-12-16 11:46:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

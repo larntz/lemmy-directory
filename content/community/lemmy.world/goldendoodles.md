@@ -3,13 +3,13 @@ title: "GoldenDoodles"
 name: "goldendoodles"
 description: "A community to discuss the Golden Doodle dog breed"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldendoodles"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community to discuss the Golden Doodle dog breed
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to discuss the Golden Doodle dog breed
 |----------------------|---|
 | Published            | 2023-06-12 20:50:48 |
 | Updated              | 2023-06-12 20:56:34 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

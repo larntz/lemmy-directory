@@ -3,13 +3,13 @@ title: "ADHD Memes"
 name: "adhdmemes"
 description: "Sharing hilarious memes about the joys and struggles of ADHD.___**Rules**- be nice and respectful to your fellow users- no trolling or harassment- avoid reposting memes- no political content"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adhdmemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 51
+subscribers: 59
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ Sharing hilarious memes about the joys and struggles of ADHD.<br>___<br>**Rules*
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
+| Subscribers          | 59 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sharing hilarious memes about the joys and struggles of ADHD.<br>___<br>**Rules*
 |----------------------|---|
 | Published            | 2023-06-09 22:57:30 |
 | Updated              | 2023-06-14 22:22:11 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

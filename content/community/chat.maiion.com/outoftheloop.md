@@ -1,15 +1,15 @@
 ---
 title: "c/OutOfTheLoop" 
 name: "outoftheloop"
-description: "Description not available."
+description: "Life happens and we cannot keep up with what everyone's on about. Please share those trends over here!********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/outoftheloop"
 host: chat.maiion.com
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Life happens and we cannot keep up with what everyone's on about. Please share those trends over here!<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 06:04:47 |
-| Updated              | 2023-06-16 04:21:30 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Updated              | 2023-06-17 05:56:39 |
+| Last Scraped         | 2023-06-19 11:35:26 |

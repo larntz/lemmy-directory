@@ -3,13 +3,13 @@ title: "Gay Fisting"
 name: "gayfisting"
 description: "A place for porn and discussion of men fisting men"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gayfisting"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 28
 posts: 3
 comments: 1
 weight: 3
@@ -43,7 +43,7 @@ A place for porn and discussion of men fisting men
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 28 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ A place for porn and discussion of men fisting men
 |----------------------|---|
 | Published            | 2023-06-13 13:15:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

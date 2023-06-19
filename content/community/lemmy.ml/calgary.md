@@ -3,16 +3,16 @@ title: "City of Calgary Alberta and South Alberta"
 name: "calgary"
 description: "City of Calgary Alberta and South Alberta towns"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/calgary"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 4
+posts: 7
 comments: 0
-weight: 4
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ City of Calgary Alberta and South Alberta towns
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 4  |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ City of Calgary Alberta and South Alberta towns
 |----------------------|---|
 | Published            | 2020-06-28 23:20:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:56 |

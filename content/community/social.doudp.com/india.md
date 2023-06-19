@@ -1,21 +1,21 @@
 ---
 title: "Official India community on Lemmy" 
 name: "india"
-description: "General Discussion for topics related to India"
+description: "## Welcome To IndiaIndia, officially the **Republic of India (Bhārat Gaṇarājya)**It is the seventh-largest country by area, the most populous country in the world, and the most populous democracy."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/india"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 3
+subscribers: 14
+posts: 11
 comments: 5
-weight: 3
-dau: 3
-wau: 3
-mau: 3
+weight: 11
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "social_doudp_com"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-General Discussion for topics related to India
+## Welcome To India<br><br>India, officially the **Republic of India (Bhārat Gaṇarājya)**<br><br>It is the seventh-largest country by area, the most populous country in the world, and the most populous democracy.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ General Discussion for topics related to India
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 3  |
+| Subscribers          | 14 |
+| Posts                | 11  |
 | Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 05:34:45 |
-| Updated              | 2023-06-14 06:11:40 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Updated              | 2023-06-18 12:28:21 |
+| Last Scraped         | 2023-06-19 11:35:24 |

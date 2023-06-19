@@ -3,19 +3,19 @@ title: "Cigars"
 name: "cigars"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cigars"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 2
-comments: 2
-weight: 2
-dau: 1
-wau: 2
-mau: 2
+subscribers: 8
+posts: 3
+comments: 3
+weight: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 8 |
+| Posts                | 3  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 00:52:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:51 |

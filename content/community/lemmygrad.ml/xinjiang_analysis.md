@@ -3,13 +3,13 @@ title: "Xinjiang Analysis"
 name: "xinjiang_analysis"
 description: "A space for sharing info and discussing the Xinjiang Uygur Autonomous Region (XUAR) of China and its people"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/xinjiang_analysis"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 51
 posts: 11
 comments: 23
 weight: 11
@@ -41,7 +41,7 @@ A space for sharing info and discussing the Xinjiang Uygur Autonomous Region (XU
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 51 |
 | Posts                | 11  |
 | Comments             | 23  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A space for sharing info and discussing the Xinjiang Uygur Autonomous Region (XU
 |----------------------|---|
 | Published            | 2020-10-14 15:01:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-19 11:35:08 |

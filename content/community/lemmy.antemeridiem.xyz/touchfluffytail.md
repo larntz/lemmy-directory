@@ -3,13 +3,13 @@ title: "Touch Fluffy Tail"
 name: "touchfluffytail"
 description: "Post kemonos with fluffy tails, simple as. Each submission must have an original source link, and optionally a booru link as well"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/touchfluffytail"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Post kemonos with fluffy tails, simple as. <br><br>Each submission must have an 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post kemonos with fluffy tails, simple as. <br><br>Each submission must have an 
 |----------------------|---|
 | Published            | 2023-06-14 00:04:21 |
 | Updated              | 2023-06-14 00:14:34 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

@@ -3,13 +3,13 @@ title: "horrorliterature"
 name: "horrorliterature"
 description: "Open minded space to discuss the darker side of speculative fiction "
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/horrorliterature"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Open minded space to discuss the darker side of speculative fiction
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Open minded space to discuss the darker side of speculative fiction
 |----------------------|---|
 | Published            | 2023-06-05 03:39:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

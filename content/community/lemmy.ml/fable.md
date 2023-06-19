@@ -3,7 +3,7 @@ title: "Fable"
 name: "fable"
 description: "Not affiliated with r/Fable.Created by The Fable Historianhttps://www.thefablehistorian.com"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fable"
@@ -54,4 +54,4 @@ Not affiliated with r/Fable.<br><br>Created by The Fable Historian<br>https://ww
 |----------------------|---|
 | Published            | 2023-06-14 04:07:45 |
 | Updated              | 2023-06-15 03:45:50 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:43 |

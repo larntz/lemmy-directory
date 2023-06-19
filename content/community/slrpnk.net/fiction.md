@@ -3,19 +3,19 @@ title: "Fiction"
 name: "fiction"
 description: "Solarpunk themed fiction. Books, short stories, movies, games... pretty much anything you can dream of!"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/fiction"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 79
-posts: 11
-comments: 28
-weight: 11
-dau: 10
-wau: 13
-mau: 13
+subscribers: 94
+posts: 12
+comments: 29
+weight: 12
+dau: 2
+wau: 12
+mau: 14
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ Solarpunk themed fiction. Books, short stories, movies, games... pretty much any
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 11  |
-| Comments             | 28  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Subscribers          | 94 |
+| Posts                | 12  |
+| Comments             | 29  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Solarpunk themed fiction. Books, short stories, movies, games... pretty much any
 |----------------------|---|
 | Published            | 2023-01-03 02:03:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

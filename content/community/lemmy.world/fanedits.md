@@ -3,13 +3,13 @@ title: "Fanedits"
 name: "fanedits"
 description: "A community for faneditors, fanedits, preservation projects, etc."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fanedits"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for faneditors, fanedits, preservation projects, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for faneditors, fanedits, preservation projects, etc.
 |----------------------|---|
 | Published            | 2023-06-15 18:46:27 |
 | Updated              | 2023-06-16 13:28:19 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

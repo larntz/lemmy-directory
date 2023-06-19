@@ -3,19 +3,19 @@ title: "Art Share🎨"
 name: "artshare"
 description: "This is a friendly community for everyone who wants to share their art with the world! Everyone is welcomed 🎨"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/artshare"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 465
-posts: 41
-comments: 88
-weight: 41
-dau: 13
-wau: 67
-mau: 67
+subscribers: 592
+posts: 45
+comments: 101
+weight: 45
+dau: 4
+wau: 71
+mau: 72
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This is a friendly community for everyone who wants to share their art with the 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 465 |
-| Posts                | 41  |
-| Comments             | 88  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 67  |
-| Monthly Active Users | 67  |
+| Subscribers          | 592 |
+| Posts                | 45  |
+| Comments             | 101  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 71  |
+| Monthly Active Users | 72  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a friendly community for everyone who wants to share their art with the 
 |----------------------|---|
 | Published            | 2023-06-12 01:45:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

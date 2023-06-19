@@ -3,13 +3,13 @@ title: "Meta Quest Pro"
 name: "questpro"
 description: "General discussion about Meta's Quest Pro line of VR/MR headsets."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/questpro"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ General discussion about Meta's Quest Pro line of VR/MR headsets.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ General discussion about Meta's Quest Pro line of VR/MR headsets.
 |----------------------|---|
 | Published            | 2023-06-13 15:01:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

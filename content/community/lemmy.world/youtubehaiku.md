@@ -3,19 +3,19 @@ title: "Youtube Haiku "
 name: "youtubehaiku"
 description: "YoutubeHaiku: A place to share the best videos UNDER 30 seconds! Videos 14 seconds and under are known as Haiku videos and 15-30 seconds are Poetry! You can also share Meme videos up to 30 seconds long under the appropriate [Meme] tag!Rules:1 | No channel spam or excessive self-promotion.- You can promote your channel with a video, but only post the same channel once per week.2 | A Haiku is any poetic video under 14 seconds.- Use the [Haiku] tag in your title3 | Poetry videos can be 15-30 seconds.- Use the [Poetry] tag in your title4 | No scripted Television or Movie content.5 | Reposts will be removed (6 month limit).6 | Don't be a dick.7 | You will be perma-banned for posting spoilers.8 | No videos involving death (NSFL Nature).9 | Memes must have [Meme] tag in title."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/youtubehaiku"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 260
-posts: 55
-comments: 10
-weight: 55
-dau: 2
-wau: 12
-mau: 12
+subscribers: 291
+posts: 64
+comments: 12
+weight: 64
+dau: 1
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ YoutubeHaiku: A place to share the best videos UNDER 30 seconds! Videos 14 secon
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 260 |
-| Posts                | 55  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
+| Subscribers          | 291 |
+| Posts                | 64  |
+| Comments             | 12  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ YoutubeHaiku: A place to share the best videos UNDER 30 seconds! Videos 14 secon
 |----------------------|---|
 | Published            | 2023-06-12 09:04:14 |
 | Updated              | 2023-06-12 09:18:26 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

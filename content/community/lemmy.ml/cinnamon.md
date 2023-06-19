@@ -3,13 +3,13 @@ title: "Cinnamon Desktop Environment"
 name: "cinnamon"
 description: "Lemmy community for discussion of the Cinnamon desktop environment.https://cinnamon-spices.linuxmint.com/# Rules- Before posting please make sure that your post is SFW as this community is meant to be PG-13 if your post does not follow this rule it will be removed.- When posting in this community you must follow the Lemmy platform rules.- We do not tolerate offensive discussions or any harassment in this community.- Posts must relate to Linux and the Cinnamon desktop environment."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cinnamon"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Lemmy community for discussion of the Cinnamon desktop environment.<br>https://c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Lemmy community for discussion of the Cinnamon desktop environment.<br>https://c
 |----------------------|---|
 | Published            | 2022-01-26 04:56:23 |
 | Updated              | 2022-01-26 19:33:07 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

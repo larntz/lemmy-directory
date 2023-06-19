@@ -3,7 +3,7 @@ title: "Fancy Goldfish"
 name: "fancygoldfish"
 description: "A community for passionate fancy goldfish owners"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/fancygoldfish"
@@ -54,4 +54,4 @@ A community for passionate fancy goldfish owners
 |----------------------|---|
 | Published            | 2023-06-14 14:41:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

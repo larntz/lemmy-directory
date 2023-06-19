@@ -3,13 +3,13 @@ title: "Chat"
 name: "general"
 description: "General chat about anything at all"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.today/c/general"
 host: lemmy.today
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 4
 comments: 9
 weight: 4
@@ -41,7 +41,7 @@ General chat about anything at all
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 4  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ General chat about anything at all
 |----------------------|---|
 | Published            | 2023-06-11 13:12:58 |
 | Updated              | 2023-06-13 16:17:16 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:03 |

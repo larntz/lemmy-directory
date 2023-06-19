@@ -3,19 +3,19 @@ title: "Off topic"
 name: "offtopic"
 description: "This community is for NZ discussion about non-NZ things, or anything that doesn't fit in another community."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/offtopic"
 host: lemmy.nz
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 7
-comments: 24
-weight: 7
+subscribers: 59
+posts: 8
+comments: 25
+weight: 8
 dau: 8
-wau: 14
-mau: 14
+wau: 21
+mau: 21
 instances:
 - "lemmy_nz"
 tags: 
@@ -41,12 +41,12 @@ This community is for NZ discussion about non-NZ things, or anything that doesn'
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 7  |
-| Comments             | 24  |
+| Subscribers          | 59 |
+| Posts                | 8  |
+| Comments             | 25  |
 | Daily Active Users   | 8  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is for NZ discussion about non-NZ things, or anything that doesn'
 |----------------------|---|
 | Published            | 2023-06-12 00:38:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:56 |

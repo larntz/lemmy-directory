@@ -3,13 +3,13 @@ title: "Grooveboxes, workstations and more!"
 name: "grooveboxes"
 description: "If you want to chat about grooveboxes, workstations or other do-it-all music production gear, feel free to chat about it here!Self-promotion is totally okay as long as you aren't just going absolutely crazy with it. :)"
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/grooveboxes"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 24
 weight: 2
@@ -41,7 +41,7 @@ If you want to chat about grooveboxes, workstations or other do-it-all music pro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 24  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ If you want to chat about grooveboxes, workstations or other do-it-all music pro
 |----------------------|---|
 | Published            | 2023-06-13 04:17:48 |
 | Updated              | 2023-06-13 04:23:00 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

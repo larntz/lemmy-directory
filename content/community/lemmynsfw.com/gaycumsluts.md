@@ -3,19 +3,19 @@ title: "Gay Cum Sluts"
 name: "gaycumsluts"
 description: "A channel for gay cum-related content."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gaycumsluts"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 8
+subscribers: 46
+posts: 10
 comments: 0
-weight: 8
-dau: 1
-wau: 1
-mau: 1
+weight: 10
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,17 +43,17 @@ A channel for gay cum-related content.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 8  |
+| Subscribers          | 46 |
+| Posts                | 10  |
 | Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 17:55:16 |
-| Updated              | 2023-06-16 18:03:24 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Updated              | 2023-06-17 09:11:05 |
+| Last Scraped         | 2023-06-19 11:35:45 |

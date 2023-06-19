@@ -3,16 +3,16 @@ title: "Massachusetts"
 name: "massachusetts"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/massachusetts"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 27
+posts: 28
 comments: 5
-weight: 27
+weight: 28
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 27  |
+| Posts                | 28  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-19 13:39:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

@@ -3,19 +3,19 @@ title: "Bees and Beekeeping"
 name: "beekeeping"
 description: "This community is all about bees and beekeeping. Your one-stop shop for best beekeeping practices supported by science, exciting new bee research, beekeeping Q&A, etc.  The focus is primarily on keeping *Apis mellifera*, but discussion of all bee species, even if they aren't managed by beekeepers, is welcome. "
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/beekeeping"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 3
-comments: 4
-weight: 3
-dau: 0
-wau: 0
-mau: 0
+subscribers: 17
+posts: 4
+comments: 9
+weight: 4
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ This community is all about bees and beekeeping. Your one-stop shop for best bee
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 17 |
+| Posts                | 4  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is all about bees and beekeeping. Your one-stop shop for best bee
 |----------------------|---|
 | Published            | 2023-06-16 04:17:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

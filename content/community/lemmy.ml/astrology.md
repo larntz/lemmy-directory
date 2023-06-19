@@ -3,7 +3,7 @@ title: "Astrology"
 name: "astrology"
 description: "Dedicated to showing how astrology is lies"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/astrology"
@@ -54,4 +54,4 @@ Dedicated to showing how astrology is lies
 |----------------------|---|
 | Published            | 2020-07-21 03:52:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

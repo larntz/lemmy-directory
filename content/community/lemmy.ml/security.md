@@ -3,19 +3,19 @@ title: "Security"
 name: "security"
 description: "ConfidentialityIntegrityAvailability"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/security"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3368
-posts: 533
-comments: 493
-weight: 533
-dau: 1
+subscribers: 3424
+posts: 534
+comments: 495
+weight: 534
+dau: 2
 wau: 8
-mau: 14
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Confidentiality<br>Integrity<br>Availability
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3368 |
-| Posts                | 533  |
-| Comments             | 493  |
-| Daily Active Users   | 1  |
+| Subscribers          | 3424 |
+| Posts                | 534  |
+| Comments             | 495  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 8  |
-| Monthly Active Users | 14  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Confidentiality<br>Integrity<br>Availability
 |----------------------|---|
 | Published            | 2019-12-18 18:49:26 |
 | Updated              | 2021-02-11 18:15:54 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:55 |

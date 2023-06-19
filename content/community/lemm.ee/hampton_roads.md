@@ -3,19 +3,19 @@ title: "Hampton Roads"
 name: "hampton_roads"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/hampton_roads"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 1
+subscribers: 3
+posts: 2
 comments: 2
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+weight: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
+| Subscribers          | 3 |
+| Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 22:26:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

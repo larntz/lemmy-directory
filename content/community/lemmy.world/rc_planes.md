@@ -3,13 +3,13 @@ title: "RC Airplanes"
 name: "rc_planes"
 description: "Building, flying, and the inevitable repairing of powered and unpowered winged RC airplanes.Icon credit: [Quadcopter icons created by bsd - Flaticon](https://www.flaticon.com/free-icons/quadcopter)"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rc_planes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Building, flying, and the inevitable repairing of powered and unpowered winged R
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Building, flying, and the inevitable repairing of powered and unpowered winged R
 |----------------------|---|
 | Published            | 2023-06-12 12:54:26 |
 | Updated              | 2023-06-12 13:33:23 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

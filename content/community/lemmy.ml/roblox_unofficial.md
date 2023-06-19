@@ -3,13 +3,13 @@ title: "Roblox (Unofficial)"
 name: "roblox_unofficial"
 description: "Hello there, **Fediverse user**! This is the unofficial Roblox community on Lemmy, ran by [@gmate8@lemmy.ml](https://lemmy.ml/u/gmate8) and moderated by my best friend, LegalAndy360. If you have any **questions**, regarding how Lemmy works, or just want some shoutout, don't hesitate to message us! You can find us on Mastodon too!"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roblox_unofficial"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 71
 comments: 31
 weight: 71
@@ -41,7 +41,7 @@ Hello there, **Fediverse user**! This is the unofficial Roblox community on Lemm
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 71  |
 | Comments             | 31  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hello there, **Fediverse user**! This is the unofficial Roblox community on Lemm
 |----------------------|---|
 | Published            | 2021-05-22 16:29:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

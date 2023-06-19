@@ -3,13 +3,13 @@ title: "SwitchPiracy"
 name: "switchpiracy"
 description: "All things related to Switch Piracy."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/switchpiracy"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 89
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ All things related to Switch Piracy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 89 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ All things related to Switch Piracy.
 |----------------------|---|
 | Published            | 2023-06-12 09:36:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,7 +3,7 @@ title: "The City"
 name: "thecity"
 description: "Discussion around this instance of Lemmy."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/thecity"
@@ -54,4 +54,4 @@ Discussion around this instance of Lemmy.
 |----------------------|---|
 | Published            | 2023-06-12 22:19:32 |
 | Updated              | 2023-06-13 22:08:42 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

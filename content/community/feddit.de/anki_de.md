@@ -3,13 +3,13 @@ title: "Anki - Deutschland"
 name: "anki_de"
 description: "Für die deutsche Anki Community 📱 "
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/anki_de"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Für die deutsche Anki Community 📱
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Für die deutsche Anki Community 📱
 |----------------------|---|
 | Published            | 2023-06-13 18:27:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

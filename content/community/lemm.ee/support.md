@@ -3,19 +3,19 @@ title: "Support (lemm.ee)"
 name: "support"
 description: "## lemm.ee SupportYou can make a post here if you're looking for support with any issues! "
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/support"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 33
-posts: 7
-comments: 33
-weight: 7
+subscribers: 56
+posts: 12
+comments: 63
+weight: 12
 dau: 5
-wau: 14
-mau: 14
+wau: 26
+mau: 26
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 7  |
-| Comments             | 33  |
+| Subscribers          | 56 |
+| Posts                | 12  |
+| Comments             | 63  |
 | Daily Active Users   | 5  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 20:40:17 |
 | Updated              | 2023-06-16 15:38:22 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,13 +3,13 @@ title: "JAV"
 name: "jav"
 description: "All Jav porn related "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jav"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 268
+subscribers: 332
 posts: 19
 comments: 0
 weight: 19
@@ -43,7 +43,7 @@ All Jav porn related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 268 |
+| Subscribers          | 332 |
 | Posts                | 19  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ All Jav porn related
 |----------------------|---|
 | Published            | 2023-06-12 04:02:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

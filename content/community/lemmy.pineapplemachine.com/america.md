@@ -3,7 +3,7 @@ title: "america"
 name: "america"
 description: "A place to share news about the United States of America and to poke fun at how frightful of a place it is."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/america"
@@ -54,4 +54,4 @@ A place to share news about the United States of America and to poke fun at how 
 |----------------------|---|
 | Published            | 2023-06-05 08:54:58 |
 | Updated              | 2023-06-05 10:31:09 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

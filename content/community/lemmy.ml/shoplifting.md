@@ -3,7 +3,7 @@ title: "Shoplifting "
 name: "shoplifting"
 description: "No big retail shills"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shoplifting"
@@ -54,4 +54,4 @@ No big retail shills
 |----------------------|---|
 | Published            | 2022-03-25 11:06:34 |
 | Updated              | 2022-06-06 18:34:28 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

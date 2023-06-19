@@ -3,7 +3,7 @@ title: "Italia"
 name: "italia"
 description: "Community in italiano per italiani! Ovviamente persone che stanno imparando la lingua sono ben accette.Le regole del sub sono le solite: evitate di danneggiare gli altri e cercate di essere costruttivi. Per ora è ammesso qualsiasi tipo di contenuto riguardante l’Italia!"
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italia"
@@ -54,4 +54,4 @@ Community in italiano per italiani! Ovviamente persone che stanno imparando la l
 |----------------------|---|
 | Published            | 2020-05-18 04:42:45 |
 | Updated              | 2022-03-08 14:49:28 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:58 |

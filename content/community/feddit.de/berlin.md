@@ -3,19 +3,19 @@ title: "Berlin"
 name: "berlin"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/berlin"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 247
-posts: 29
-comments: 48
-weight: 29
-dau: 5
-wau: 13
-mau: 24
+subscribers: 286
+posts: 33
+comments: 61
+weight: 33
+dau: 8
+wau: 29
+mau: 39
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 247 |
-| Posts                | 29  |
-| Comments             | 48  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 24  |
+| Subscribers          | 286 |
+| Posts                | 33  |
+| Comments             | 61  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 29  |
+| Monthly Active Users | 39  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-14 05:39:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

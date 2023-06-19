@@ -3,13 +3,13 @@ title: "Literatura"
 name: "literatura"
 description: "Um local para partilhar boas leituras e discutir qualquer tipo de assunto relacionado com o mundo dos livros."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/literatura"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Um local para partilhar boas leituras e discutir qualquer tipo de assunto relaci
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Um local para partilhar boas leituras e discutir qualquer tipo de assunto relaci
 |----------------------|---|
 | Published            | 2021-09-10 19:55:48 |
 | Updated              | 2021-09-13 12:00:34 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

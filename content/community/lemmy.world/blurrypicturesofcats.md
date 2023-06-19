@@ -3,19 +3,19 @@ title: "Blurry Pictures of Cats"
 name: "blurrypicturesofcats"
 description: "Blurry pictures of cats"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blurrypicturesofcats"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 142
-posts: 13
-comments: 14
-weight: 13
-dau: 3
-wau: 15
-mau: 15
+subscribers: 183
+posts: 16
+comments: 15
+weight: 16
+dau: 1
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Blurry pictures of cats
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 142 |
-| Posts                | 13  |
-| Comments             | 14  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Subscribers          | 183 |
+| Posts                | 16  |
+| Comments             | 15  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Blurry pictures of cats
 |----------------------|---|
 | Published            | 2023-06-13 14:53:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

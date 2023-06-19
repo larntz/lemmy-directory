@@ -3,19 +3,19 @@ title: "Lesen"
 name: "lesen_de"
 description: "Alles rund um Bücher, Autoren, und Verlage.Alle Genres und alle Gebiete willkommen!"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lesen_de"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 2
 comments: 7
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "feddit_de"
 tags: 
@@ -41,17 +41,17 @@ Alles rund um Bücher, Autoren, und Verlage.<br>Alle Genres und alle Gebiete wil
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 09:38:29 |
-| Updated              | 2023-06-16 10:42:10 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Updated              | 2023-06-19 08:36:10 |
+| Last Scraped         | 2023-06-19 11:35:39 |

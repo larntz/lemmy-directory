@@ -3,7 +3,7 @@ title: "Bali"
 name: "bali"
 description: "Welcome to Bali, Indonesia!**INFO**- please be civil and kind- no spam"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bali"
@@ -54,4 +54,4 @@ Welcome to Bali, Indonesia!<br><br>**INFO**<br><br>- please be civil and kind<br
 |----------------------|---|
 | Published            | 2023-06-11 19:24:24 |
 | Updated              | 2023-06-12 15:55:32 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:46 |

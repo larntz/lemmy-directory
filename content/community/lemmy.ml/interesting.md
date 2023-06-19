@@ -3,13 +3,13 @@ title: "Interesting"
 name: "interesting"
 description: "For all the things that mildly interest you. Basically the same as [r/mildlyinteresting](https://reddit.com/r/mildlyinteresting) on Reddit.Temporary rules:1. The title must describe the image.2. Don't repost often."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/interesting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ For all the things that mildly interest you. Basically the same as [r/mildlyinte
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For all the things that mildly interest you. Basically the same as [r/mildlyinte
 |----------------------|---|
 | Published            | 2021-02-28 21:56:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:59 |

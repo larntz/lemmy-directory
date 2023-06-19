@@ -3,13 +3,13 @@ title: "My Little Pony"
 name: "mylittlepony"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mylittlepony"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 36
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 36 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-01 22:43:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

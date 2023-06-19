@@ -3,13 +3,13 @@ title: "Jobs / careers / work"
 name: "jobs"
 description: "Anything related to jobs. **Related:**lemmy.ml/c/jobpostings -> Post job listings here!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jobs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 57
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ Anything related to jobs. <br><br>**Related:**<br><br>lemmy.ml/c/jobpostings -> 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 57 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Anything related to jobs. <br><br>**Related:**<br><br>lemmy.ml/c/jobpostings -> 
 |----------------------|---|
 | Published            | 2021-10-17 03:54:35 |
 | Updated              | 2021-12-09 08:36:35 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

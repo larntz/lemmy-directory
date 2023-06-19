@@ -3,13 +3,13 @@ title: "Unity 2D"
 name: "unity2d"
 description: "A community for news, tutorials, feedback, resources, and conversations related to **2D** or **2.5D** game development using the **Unity** game engine."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unity2d"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 8
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ A community for news, tutorials, feedback, resources, and conversations related 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 8 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for news, tutorials, feedback, resources, and conversations related 
 |----------------------|---|
 | Published            | 2023-06-02 16:59:05 |
 | Updated              | 2023-06-02 17:02:41 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:45 |

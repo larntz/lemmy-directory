@@ -3,7 +3,7 @@ title: "Sanna Marin Fanclub"
 name: "sannamarinfanclub"
 description: "Fan club for Finnish Prime Minister [Sanna Marin](https://sannamarin.net/in-english/)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/sannamarinfanclub"
@@ -54,4 +54,4 @@ Fan club for Finnish Prime Minister [Sanna Marin](https://sannamarin.net/in-engl
 |----------------------|---|
 | Published            | 2023-06-09 12:32:04 |
 | Updated              | 2023-06-09 12:42:07 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

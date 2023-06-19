@@ -3,13 +3,13 @@ title: "low-resolution-memes"
 name: "lowresmemes"
 description: "low res memes.   post image size."
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lowresmemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 8
 comments: 5
 weight: 8
@@ -41,7 +41,7 @@ low res memes.   <br>post image size.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 8  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ low res memes.   <br>post image size.
 |----------------------|---|
 | Published            | 2021-03-03 00:39:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:37:01 |

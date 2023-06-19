@@ -3,7 +3,7 @@ title: "c/hicago"
 name: "hicago"
 description: "Chicago news and such"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hicago"
@@ -54,4 +54,4 @@ Chicago news and such
 |----------------------|---|
 | Published            | 2020-06-27 23:56:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

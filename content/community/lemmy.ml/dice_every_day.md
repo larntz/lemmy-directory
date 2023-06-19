@@ -3,19 +3,19 @@ title: "Rolling Dice Every Day"
 name: "dice_every_day"
 description: "I'm going to roll a dice every dayYou can donate here and help fund more dice: https://ko-fi.com/dice_every_day"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dice_every_day"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 13
-comments: 46
-weight: 13
-dau: 1
+subscribers: 16
+posts: 16
+comments: 52
+weight: 16
+dau: 2
 wau: 3
-mau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ I'm going to roll a dice every day<br><br>You can donate here and help fund more
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 13  |
-| Comments             | 46  |
-| Daily Active Users   | 1  |
+| Subscribers          | 16 |
+| Posts                | 16  |
+| Comments             | 52  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ I'm going to roll a dice every day<br><br>You can donate here and help fund more
 |----------------------|---|
 | Published            | 2023-06-04 18:07:13 |
 | Updated              | 2023-06-06 19:55:03 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:47 |

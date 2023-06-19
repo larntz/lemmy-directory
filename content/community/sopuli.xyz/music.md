@@ -3,17 +3,17 @@ title: "Music"
 name: "music"
 description: "Posting tunes and general music discussion"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/music"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 239
-posts: 143
-comments: 61
-weight: 143
-dau: 2
+subscribers: 246
+posts: 145
+comments: 67
+weight: 145
+dau: 1
 wau: 9
 mau: 19
 instances:
@@ -41,10 +41,10 @@ Posting tunes and general music discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 239 |
-| Posts                | 143  |
-| Comments             | 61  |
-| Daily Active Users   | 2  |
+| Subscribers          | 246 |
+| Posts                | 145  |
+| Comments             | 67  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 19  |
 
@@ -54,4 +54,4 @@ Posting tunes and general music discussion
 |----------------------|---|
 | Published            | 2021-04-19 20:51:12 |
 | Updated              | 2021-12-11 12:14:31 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

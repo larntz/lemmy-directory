@@ -3,19 +3,19 @@ title: "Lemmy Support"
 name: "lemmy_support"
 description: "Support / questions about Lemmy.[Matrix Space: #lemmy-space](https://matrix.to/#/#lemmy-space:matrix.org)"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_support"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2287
-posts: 806
-comments: 4335
-weight: 806
-dau: 88
-wau: 458
-mau: 681
+subscribers: 2447
+posts: 850
+comments: 4534
+weight: 850
+dau: 65
+wau: 477
+mau: 759
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Support / questions about Lemmy.<br><br>[Matrix Space: #lemmy-space](https://mat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2287 |
-| Posts                | 806  |
-| Comments             | 4335  |
-| Daily Active Users   | 88  |
-| Weekly Active Users  | 458  |
-| Monthly Active Users | 681  |
+| Subscribers          | 2447 |
+| Posts                | 850  |
+| Comments             | 4534  |
+| Daily Active Users   | 65  |
+| Weekly Active Users  | 477  |
+| Monthly Active Users | 759  |
 
 <br>
 
@@ -54,4 +54,4 @@ Support / questions about Lemmy.<br><br>[Matrix Space: #lemmy-space](https://mat
 |----------------------|---|
 | Published            | 2019-04-25 16:53:06 |
 | Updated              | 2023-06-14 21:24:21 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:37:02 |

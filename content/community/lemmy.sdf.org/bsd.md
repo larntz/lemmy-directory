@@ -3,13 +3,13 @@ title: "Berkeley Software Distrobution"
 name: "bsd"
 description: "This community is for people to discuss and share anything BSD/Unix related.While it's not intended to be a unixporn clone, screenshots of cool setup's are welcome. "
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/bsd"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 35
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This community is for people to discuss and share anything BSD/Unix related.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 35 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This community is for people to discuss and share anything BSD/Unix related.<br>
 |----------------------|---|
 | Published            | 2023-06-08 01:45:04 |
 | Updated              | 2023-06-08 01:56:23 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

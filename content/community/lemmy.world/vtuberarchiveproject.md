@@ -3,7 +3,7 @@ title: "The VTuber Archive Project"
 name: "vtuberarchiveproject"
 description: "Still under construction"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vtuberarchiveproject"
@@ -54,4 +54,4 @@ Still under construction
 |----------------------|---|
 | Published            | 2023-06-12 04:40:11 |
 | Updated              | 2023-06-15 13:48:42 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

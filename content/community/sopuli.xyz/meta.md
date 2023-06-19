@@ -3,17 +3,17 @@ title: "Meta"
 name: "meta"
 description: "Yhteisö instanssia koskeville tiedotuksille, palautteelle, metakeskustelulle ja avulle. Katso myös [UKK](https://sopuli.xyz/post/13531)!Community for announcements regarding the instance, feedback, meta discussion and help. Check the [FAQ](https://sopuli.xyz/post/13531) also!Users needing support can also come to our [Matrix Space](https://matrix.to/#/!SJfHjWlTugnKyonyQi:matrix.org?via=matrix.org).Tukea tarvitsevat käyttäjät voivat myös tulla [Matrix-tilaamme](https://matrix.to/#/!SJfHjWlTugnKyonyQi:matrix.org?via=matrix.org)."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/meta"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 284
-posts: 52
-comments: 308
-weight: 52
-dau: 11
+subscribers: 289
+posts: 57
+comments: 333
+weight: 57
+dau: 6
 wau: 85
 mau: 108
 instances:
@@ -41,10 +41,10 @@ Yhteisö instanssia koskeville tiedotuksille, palautteelle, metakeskustelulle ja
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 284 |
-| Posts                | 52  |
-| Comments             | 308  |
-| Daily Active Users   | 11  |
+| Subscribers          | 289 |
+| Posts                | 57  |
+| Comments             | 333  |
+| Daily Active Users   | 6  |
 | Weekly Active Users  | 85  |
 | Monthly Active Users | 108  |
 
@@ -54,4 +54,4 @@ Yhteisö instanssia koskeville tiedotuksille, palautteelle, metakeskustelulle ja
 |----------------------|---|
 | Published            | 2021-02-01 16:02:47 |
 | Updated              | 2023-06-15 06:42:11 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

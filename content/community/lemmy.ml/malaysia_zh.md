@@ -3,7 +3,7 @@ title: "Malaysia 中文 🇲🇾"
 name: "malaysia_zh"
 description: "A Mandarin-speaking community for Malaysians.huh? se mo? wo pu ce tau 😩"
 type: community
-date: "2023-06-16 11:07:31"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/malaysia_zh"
@@ -54,4 +54,4 @@ A Mandarin-speaking community for Malaysians.<br><br>huh? se mo? wo pu ce tau �
 |----------------------|---|
 | Published            | 2023-06-09 02:12:10 |
 | Updated              | 2023-06-09 02:22:13 |
-| Last Scraped         | 2023-06-16 11:07:31 |
+| Last Scraped         | 2023-06-19 11:36:45 |

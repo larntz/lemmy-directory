@@ -3,15 +3,15 @@ title: "UsenetTalk"
 name: "usenettalk"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/usenettalk"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 30
 posts: 2
-comments: 10
+comments: 23
 weight: 2
 dau: 4
 wau: 7
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 30 |
 | Posts                | 2  |
-| Comments             | 10  |
+| Comments             | 23  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 17:10:35 |
 | Updated              | 2023-06-15 17:21:24 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

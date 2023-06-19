@@ -3,7 +3,7 @@ title: "Plural"
 name: "plural"
 description: "A community for those who plural people of all origins"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/plural"
@@ -54,4 +54,4 @@ A community for those who plural people of all origins
 |----------------------|---|
 | Published            | 2023-06-16 02:18:42 |
 | Updated              | 2023-06-16 02:37:55 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

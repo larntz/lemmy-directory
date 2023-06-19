@@ -3,19 +3,19 @@ title: "MTG"
 name: "mtg"
 description: "#### Magic: the Gathering discussionGeneral discussion, questions, and media related to Magic: the Gathering that doesn't fit within a more specific community. Our equivalent of /r/magicTCG!"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/mtg"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 232
-posts: 22
-comments: 171
-weight: 22
-dau: 30
-wau: 56
-mau: 56
+subscribers: 283
+posts: 23
+comments: 193
+weight: 23
+dau: 5
+wau: 58
+mau: 61
 instances:
 - "mtgzone_com"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 232 |
-| Posts                | 22  |
-| Comments             | 171  |
-| Daily Active Users   | 30  |
-| Weekly Active Users  | 56  |
-| Monthly Active Users | 56  |
+| Subscribers          | 283 |
+| Posts                | 23  |
+| Comments             | 193  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 58  |
+| Monthly Active Users | 61  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 19:27:54 |
 | Updated              | 2023-06-14 16:39:53 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

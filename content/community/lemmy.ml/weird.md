@@ -3,13 +3,13 @@ title: "That's Weirddd!"
 name: "weird"
 description: "It's really is"
 type: community
-date: "2023-06-16 11:07:34"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weird"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 46
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ It's really is
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 46 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ It's really is
 |----------------------|---|
 | Published            | 2020-10-22 04:51:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:34 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "Laughable(?)content "
 name: "funny_memes"
 description: "This will be a thread of possible funny or laughable jokes or clips I find."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.picote.ch/c/funny_memes"
@@ -54,4 +54,4 @@ This will be a thread of possible funny or laughable jokes or clips I find.
 |----------------------|---|
 | Published            | 2023-06-14 21:24:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

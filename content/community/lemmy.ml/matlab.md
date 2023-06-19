@@ -3,7 +3,7 @@ title: "MATLAB"
 name: "matlab"
 description: "Official MATLAB & Simulink community"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/matlab"
@@ -54,4 +54,4 @@ Official MATLAB & Simulink community<br>
 |----------------------|---|
 | Published            | 2023-06-08 18:03:59 |
 | Updated              | 2023-06-08 18:06:34 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:50 |

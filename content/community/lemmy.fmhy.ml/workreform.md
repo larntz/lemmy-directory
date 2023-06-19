@@ -3,13 +3,13 @@ title: "Work Reform as it always should have been"
 name: "workreform"
 description: "This is the landing page for Lemmy's Work Reform"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/workreform"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is the landing page for Lemmy's Work Reform
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 12 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is the landing page for Lemmy's Work Reform
 |----------------------|---|
 | Published            | 2023-06-13 16:25:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

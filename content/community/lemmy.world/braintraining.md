@@ -3,13 +3,13 @@ title: "Brain Training"
 name: "braintraining"
 description: "sublemmy in development - You are still free to post brain exercises, progression, experimentation, general talk and memes here! Moderated and owned by a fluffy old stuffed doll, may give moderation and even adminship to those willing to contribute here c: "
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/braintraining"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ sublemmy in development - You are still free to post brain exercises, progressio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ sublemmy in development - You are still free to post brain exercises, progressio
 |----------------------|---|
 | Published            | 2023-06-12 20:54:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:42 |

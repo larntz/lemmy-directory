@@ -3,16 +3,16 @@ title: "BecomeMe"
 name: "becomeme"
 description: "Social Experiment. Become Me. What I see, you see."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/becomeme"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 31
-comments: 3
-weight: 31
+subscribers: 7
+posts: 110
+comments: 11
+weight: 110
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ Social Experiment. Become Me. What I see, you see.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 31  |
-| Comments             | 3  |
+| Subscribers          | 7 |
+| Posts                | 110  |
+| Comments             | 11  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Social Experiment. Become Me. What I see, you see.
 |----------------------|---|
 | Published            | 2023-06-15 18:13:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

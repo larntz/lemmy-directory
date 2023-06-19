@@ -3,16 +3,16 @@ title: "gry"
 name: "gry"
 description: "Hejko gracze i graczki!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/gry"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 77
-posts: 68
+posts: 72
 comments: 68
-weight: 68
+weight: 72
 dau: 1
 wau: 5
 mau: 5
@@ -42,7 +42,7 @@ Hejko gracze i graczki!
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 77 |
-| Posts                | 68  |
+| Posts                | 72  |
 | Comments             | 68  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
@@ -54,4 +54,4 @@ Hejko gracze i graczki!
 |----------------------|---|
 | Published            | 2020-09-21 19:37:32 |
 | Updated              | 2023-01-22 10:26:38 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

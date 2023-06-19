@@ -3,19 +3,19 @@ title: "Padres"
 name: "padres"
 description: "A Fediverse community dedicated to the San Diego Padres baseball organization.Rules:1) Be nice2) Have fun3) LFGSD4) Fuck. The. Dodgers."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/padres"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 4
 weight: 3
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A Fediverse community dedicated to the San Diego Padres baseball organization.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 3  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A Fediverse community dedicated to the San Diego Padres baseball organization.<b
 |----------------------|---|
 | Published            | 2023-06-11 07:57:56 |
 | Updated              | 2023-06-11 16:40:06 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,18 +3,18 @@ title: "Schaut bei c/dach vorbei! "
 name: "_de"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/_de"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 35
 posts: 2
 comments: 6
 weight: 2
 dau: 3
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "feddit_de"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 35 |
 | Posts                | 2  |
 | Comments             | 6  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 07:41:17 |
 | Updated              | 2023-06-12 15:19:11 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

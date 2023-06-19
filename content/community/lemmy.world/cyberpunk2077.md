@@ -3,19 +3,19 @@ title: "Cyberpunk 2077"
 name: "cyberpunk2077"
 description: "Everything Cyberpunk 2077**Rules**1. Be cool.No racism, sexism, homophobia, transphobia etc.2. Mark spoilers and NSFW"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cyberpunk2077"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 183
-posts: 8
-comments: 16
-weight: 8
-dau: 2
-wau: 14
-mau: 14
+subscribers: 287
+posts: 12
+comments: 41
+weight: 12
+dau: 10
+wau: 25
+mau: 25
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Everything Cyberpunk 2077<br><br>**Rules**<br><br>1. Be cool.<br>No racism, sexi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 183 |
-| Posts                | 8  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 287 |
+| Posts                | 12  |
+| Comments             | 41  |
+| Daily Active Users   | 10  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything Cyberpunk 2077<br><br>**Rules**<br><br>1. Be cool.<br>No racism, sexi
 |----------------------|---|
 | Published            | 2023-06-13 02:43:51 |
 | Updated              | 2023-06-16 10:50:50 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,7 +3,7 @@ title: "Monerochan"
 name: "monerochan"
 description: "A community dedicated to sharing artwork of sweet lady monero chan.Please consider donating! Visit monerochan.art for more information."
 type: community
-date: "2023-06-16 22:55:51"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/monerochan"
@@ -14,7 +14,7 @@ posts: 6
 comments: 7
 weight: 6
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "monero_house"
@@ -45,7 +45,7 @@ A community dedicated to sharing artwork of sweet lady monero chan.<br><br>Pleas
 | Posts                | 6  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A community dedicated to sharing artwork of sweet lady monero chan.<br><br>Pleas
 |----------------------|---|
 | Published            | 2023-02-17 00:41:10 |
 | Updated              | 2023-02-17 15:56:36 |
-| Last Scraped         | 2023-06-16 22:55:51 |
+| Last Scraped         | 2023-06-19 11:34:53 |

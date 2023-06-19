@@ -3,17 +3,17 @@ title: "bostonbruins"
 name: "bostonbruins"
 description: "**Rules:**- Be decent to one another**Links:**- [Bruins Homepage](https://www.nhl.com/bruins)- [Bruins Pro Shop](https://bostonproshop.com/shop-bruins/)-  [Bruins Wikipedia](https://en.wikipedia.org/wiki/Boston_Bruins)"
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/bostonbruins"
 host: lemmy.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 4
 comments: 5
 weight: 4
-dau: 3
+dau: 1
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 4  |
 | Comments             | 5  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 02:55:30 |
 | Updated              | 2023-06-14 04:26:30 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:21 |

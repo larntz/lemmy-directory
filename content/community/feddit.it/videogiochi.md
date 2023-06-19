@@ -3,19 +3,19 @@ title: "Videogiochi"
 name: "videogiochi"
 description: "Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme. "
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/videogiochi"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 162
-posts: 44
-comments: 82
-weight: 44
-dau: 1
-wau: 1
-mau: 2
+subscribers: 172
+posts: 46
+comments: 88
+weight: 46
+dau: 2
+wau: 5
+mau: 6
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 162 |
-| Posts                | 44  |
-| Comments             | 82  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Subscribers          | 172 |
+| Posts                | 46  |
+| Comments             | 88  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme.
 |----------------------|---|
 | Published            | 2022-05-17 21:25:35 |
 | Updated              | 2022-05-19 08:14:22 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

@@ -3,7 +3,7 @@ title: "norway"
 name: "norway"
 description: "English and Norwegian discussions and links relating to visiting or staying in Norway"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/norway"
@@ -54,4 +54,4 @@ English and Norwegian discussions and links relating to visiting or staying in N
 |----------------------|---|
 | Published            | 2023-06-12 21:40:56 |
 | Updated              | 2023-06-15 17:06:58 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

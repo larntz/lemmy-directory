@@ -3,7 +3,7 @@ title: "Architecture"
 name: "architecture"
 description: "Community for people who like buildings."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/architecture"
@@ -54,4 +54,4 @@ Community for people who like buildings.
 |----------------------|---|
 | Published            | 2023-06-11 18:34:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

@@ -3,19 +3,19 @@ title: "keyboards"
 name: "keyboards"
 description: "Discussion on all things keyboards "
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/keyboards"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 2
-comments: 16
-weight: 2
-dau: 2
-wau: 9
-mau: 9
+subscribers: 111
+posts: 6
+comments: 40
+weight: 6
+dau: 6
+wau: 13
+mau: 13
 instances:
 - "lemmy_sdf_org"
 tags: 
@@ -41,12 +41,12 @@ Discussion on all things keyboards
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 2  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 111 |
+| Posts                | 6  |
+| Comments             | 40  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion on all things keyboards
 |----------------------|---|
 | Published            | 2023-06-11 21:04:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

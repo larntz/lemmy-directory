@@ -3,7 +3,7 @@ title: "SANGHA"
 name: "sangha"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sangha"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-07-05 22:34:42 |
 | Updated              | 2022-07-08 16:08:35 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

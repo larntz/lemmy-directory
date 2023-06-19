@@ -3,13 +3,13 @@ title: "The Netherlands"
 name: "the_netherlands"
 description: "A Dutch page for the english speakers in the Netherlands :)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_netherlands"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 25
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A Dutch page for the english speakers in the Netherlands :)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 25 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A Dutch page for the english speakers in the Netherlands :)
 |----------------------|---|
 | Published            | 2023-06-10 14:16:45 |
 | Updated              | 2023-06-11 12:19:19 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

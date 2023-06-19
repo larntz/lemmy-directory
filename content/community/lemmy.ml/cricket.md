@@ -3,13 +3,13 @@ title: "Cricket"
 name: "cricket"
 description: "Clean bowled!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cricket"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 22
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ Clean bowled!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 22 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Clean bowled!
 |----------------------|---|
 | Published            | 2020-12-23 05:41:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

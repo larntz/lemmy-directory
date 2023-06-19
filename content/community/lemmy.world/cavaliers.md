@@ -1,18 +1,18 @@
 ---
 title: "Cleveland Cavaliers" 
 name: "cavaliers"
-description: "Rules:1) Be Respectful2) Keep everything Cavs related"
+description: "![](https://lemmy.world/pictrs/image/ed0b7aeb-9860-4153-9d02-973dc31c159a.jpeg)Rules:1) Be Respectful2) Keep everything Cavs related"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cavaliers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 1
-comments: 0
-weight: 1
+subscribers: 6
+posts: 3
+comments: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Rules:<br><br>1) Be Respectful<br><br>2) Keep everything Cavs related
+![](https://lemmy.world/pictrs/image/ed0b7aeb-9860-4153-9d02-973dc31c159a.jpeg)<br><br>Rules:<br><br>1) Be Respectful<br><br>2) Keep everything Cavs related
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Rules:<br><br>1) Be Respectful<br><br>2) Keep everything Cavs related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 6 |
+| Posts                | 3  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -53,5 +53,5 @@ Rules:<br><br>1) Be Respectful<br><br>2) Keep everything Cavs related
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 19:26:35 |
-| Updated              | 2023-06-16 22:32:41 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Updated              | 2023-06-17 18:04:24 |
+| Last Scraped         | 2023-06-19 11:36:36 |

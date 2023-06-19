@@ -3,19 +3,19 @@ title: "OTA DTV"
 name: "otadtv"
 description: "Stats"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/otadtv"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 3
-comments: 1
+comments: 2
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Stats
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 3  |
-| Comments             | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Stats
 |----------------------|---|
 | Published            | 2023-06-15 16:24:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

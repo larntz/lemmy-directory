@@ -3,7 +3,7 @@ title: "The tie dye fellowship"
 name: "thetiedyefellowship"
 description: "A community for lovers of tie dye."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/thetiedyefellowship"
@@ -54,4 +54,4 @@ A community for lovers of tie dye.
 |----------------------|---|
 | Published            | 2023-06-14 16:33:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

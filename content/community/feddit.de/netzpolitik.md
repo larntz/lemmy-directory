@@ -3,19 +3,19 @@ title: "Netzpolitik"
 name: "netzpolitik"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/netzpolitik"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 774
+subscribers: 834
 posts: 116
-comments: 128
+comments: 131
 weight: 116
-dau: 4
-wau: 13
-mau: 19
+dau: 1
+wau: 12
+mau: 26
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 774 |
+| Subscribers          | 834 |
 | Posts                | 116  |
-| Comments             | 128  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 19  |
+| Comments             | 131  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 26  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-08-31 21:12:14 |
 | Updated              | 2021-09-17 22:11:07 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

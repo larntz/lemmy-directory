@@ -3,7 +3,7 @@ title: "legoyoda"
 name: "legoyoda"
 description: "**A community for your favorite lego yoda memes!**"
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/legoyoda"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-11-26 09:49:00 |
 | Updated              | 2020-11-26 09:54:26 |
-| Last Scraped         | 2023-06-16 22:57:29 |
+| Last Scraped         | 2023-06-19 11:36:49 |

@@ -3,19 +3,19 @@ title: "Java"
 name: "java"
 description: "For discussing Java, the JVM, languages that run on the JVM, and other related technologies."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/java"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 95
-posts: 5
-comments: 35
-weight: 5
-dau: 6
-wau: 9
-mau: 9
+subscribers: 152
+posts: 6
+comments: 49
+weight: 6
+dau: 7
+wau: 21
+mau: 21
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ For discussing Java, the JVM, languages that run on the JVM, and other related t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 95 |
-| Posts                | 5  |
-| Comments             | 35  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 152 |
+| Posts                | 6  |
+| Comments             | 49  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussing Java, the JVM, languages that run on the JVM, and other related t
 |----------------------|---|
 | Published            | 2023-06-13 13:09:33 |
 | Updated              | 2023-06-15 21:57:56 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

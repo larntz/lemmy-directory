@@ -3,13 +3,13 @@ title: "Trashy"
 name: "trashy"
 description: "Alternative to r/trashy, and related subs. Post trashy porn, pics, trashy girls, etc. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/trashy"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 94
+subscribers: 150
 posts: 5
 comments: 0
 weight: 5
@@ -43,7 +43,7 @@ Alternative to r/trashy, and related subs. Post trashy porn, pics, trashy girls,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
+| Subscribers          | 150 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Alternative to r/trashy, and related subs. Post trashy porn, pics, trashy girls,
 |----------------------|---|
 | Published            | 2023-06-14 10:30:34 |
 | Updated              | 2023-06-14 23:45:45 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

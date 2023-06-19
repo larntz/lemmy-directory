@@ -3,13 +3,13 @@ title: "DIY Audio"
 name: "diyaudio"
 description: "A place for everyone who likes to tinker with DIY audio projects, or just fix/upgrade his/hers old amp, receiver, CD player, speakers, etc."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/diyaudio"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 31
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for everyone who likes to tinker with DIY audio projects, or just fix/up
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 31 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place for everyone who likes to tinker with DIY audio projects, or just fix/up
 |----------------------|---|
 | Published            | 2023-06-09 16:13:19 |
 | Updated              | 2023-06-09 16:21:13 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

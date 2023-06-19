@@ -3,7 +3,7 @@ title: "Local testing on lemmy.click"
 name: "localtesting"
 description: "For testing on lemmy.click only. No actual content."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.click/c/localtesting"
@@ -54,4 +54,4 @@ For testing on lemmy.click only. No actual content.
 |----------------------|---|
 | Published            | 2023-06-05 03:03:36 |
 | Updated              | 2023-06-05 17:42:24 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

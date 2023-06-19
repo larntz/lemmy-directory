@@ -3,19 +3,19 @@ title: "Sourdough baking"
 name: "sourdough"
 description: "Sourdough baking"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sourdough"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 102
+subscribers: 132
 posts: 6
-comments: 14
+comments: 16
 weight: 6
 dau: 2
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Sourdough baking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 102 |
+| Subscribers          | 132 |
 | Posts                | 6  |
-| Comments             | 14  |
+| Comments             | 16  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Sourdough baking
 |----------------------|---|
 | Published            | 2023-06-12 09:46:18 |
 | Updated              | 2023-06-12 11:33:05 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

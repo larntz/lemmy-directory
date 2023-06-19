@@ -3,13 +3,13 @@ title: "Clan Malkavian"
 name: "malkavian"
 description: "Welcome to the Madness Network.**Rules:**1. Fishmalks will be ridiculed.2. Fishmalks ***will be ridiculed***.3. Don't wake Malkav.4. Fuck Baba Yaga6. I forgot what 8 was for!7. You can listen to the voices, but if you start answering back, you might be a Malkav! Here's your sign, get'er dead.5. Schlemiel! Schlimazel! Hasenpfeffer Incorporated8.All Rules will be enforced, maybe, probably, can you spare some change?"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malkavian"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 2
 comments: 10
 weight: 2
@@ -41,7 +41,7 @@ Welcome to the Madness Network.<br><br>**Rules:**<br>1. Fishmalks will be ridicu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 2  |
 | Comments             | 10  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Welcome to the Madness Network.<br><br>**Rules:**<br>1. Fishmalks will be ridicu
 |----------------------|---|
 | Published            | 2023-06-12 18:59:43 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,13 +3,13 @@ title: "Learning Bass Playing"
 name: "learning_bass"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learning_bass"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 23
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 23 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-03-22 21:52:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:43 |

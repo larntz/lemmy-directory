@@ -3,13 +3,13 @@ title: "MoreMoreTankieChapo is a Marxist-Leninist place dedicated to theory, wor
 name: "mmtc"
 description: "1. Don’t be an asshole2. No reactionary content 3. No sectarianism "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/mmtc"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 206
+subscribers: 211
 posts: 27
 comments: 40
 weight: 27
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 206 |
+| Subscribers          | 211 |
 | Posts                | 27  |
 | Comments             | 40  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-10 20:10:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

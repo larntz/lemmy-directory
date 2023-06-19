@@ -3,17 +3,17 @@ title: "Colorado"
 name: "colorado"
 description: "A community for all things Colorado! Whether you're a local or just curious about the best state, you're welcome here.RULES:No insults or uncivil behaviorNo hate speechNo Fake NewsNo Trolling (within reason)No ExtremismMemes allowedNSFW should be marked as such"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/colorado"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 53
+subscribers: 60
 posts: 19
-comments: 16
+comments: 17
 weight: 19
-dau: 2
+dau: 1
 wau: 12
 mau: 12
 instances:
@@ -41,10 +41,10 @@ A community for all things Colorado! <br><br>Whether you're a local or just curi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 53 |
+| Subscribers          | 60 |
 | Posts                | 19  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
 
@@ -54,4 +54,4 @@ A community for all things Colorado! <br><br>Whether you're a local or just curi
 |----------------------|---|
 | Published            | 2023-06-10 19:11:36 |
 | Updated              | 2023-06-10 20:10:48 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

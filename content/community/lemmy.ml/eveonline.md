@@ -3,13 +3,13 @@ title: "EVE Online"
 name: "eveonline"
 description: "Rules1. No bigotry.2. Don't be a dick to others."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eveonline"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Rules<br>1. No bigotry.<br>2. Don't be a dick to others.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Rules<br>1. No bigotry.<br>2. Don't be a dick to others.
 |----------------------|---|
 | Published            | 2021-05-03 23:30:22 |
 | Updated              | 2021-05-03 23:37:01 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:56 |

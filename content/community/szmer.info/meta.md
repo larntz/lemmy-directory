@@ -3,19 +3,19 @@ title: "metaszmery"
 name: "meta"
 description: "społeczność dotycząca samej platformy - problemy, informacje, takie tam. [Wątek do powitań](https://szmer.info/post/10555) - powiedz coś o sobie! :)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/meta"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 123
-posts: 69
-comments: 377
-weight: 69
-dau: 4
-wau: 7
-mau: 7
+subscribers: 127
+posts: 70
+comments: 385
+weight: 70
+dau: 3
+wau: 9
+mau: 9
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ społeczność dotycząca samej platformy - problemy, informacje, takie tam. <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 123 |
-| Posts                | 69  |
-| Comments             | 377  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 127 |
+| Posts                | 70  |
+| Comments             | 385  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ społeczność dotycząca samej platformy - problemy, informacje, takie tam. <br
 |----------------------|---|
 | Published            | 2020-06-27 09:28:19 |
 | Updated              | 2022-07-19 10:46:48 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

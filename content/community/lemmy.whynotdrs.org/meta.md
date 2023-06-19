@@ -3,7 +3,7 @@ title: "Ⓜ️ Instance Meta Discussion"
 name: "meta"
 description: "Use this community for any instance meta discussion, including as a space to raise issues with any community moderation practices that you have been prevented from discussing in-community"
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/meta"
@@ -54,4 +54,4 @@ Use this community for any instance meta discussion, including as a space to rai
 |----------------------|---|
 | Published            | 2023-06-13 06:58:06 |
 | Updated              | 2023-06-13 15:27:02 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

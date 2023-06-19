@@ -3,7 +3,7 @@ title: "D Programming Language"
 name: "dlang"
 description: "Community for the [D programming language](https://dlang.org/)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dlang"
@@ -54,4 +54,4 @@ Community for the [D programming language](https://dlang.org/)
 |----------------------|---|
 | Published            | 2021-04-21 09:23:05 |
 | Updated              | 2021-12-06 15:54:24 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

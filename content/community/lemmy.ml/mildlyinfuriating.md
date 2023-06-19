@@ -3,13 +3,13 @@ title: "Mildly Infuriating"
 name: "mildlyinfuriating"
 description: "For those who desire the mildly infuriating.Please refrain from reposting memes. It's a new community we do not need recycled content! Thanks! Unhappy posting!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mildlyinfuriating"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 89
+subscribers: 95
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ For those who desire the mildly infuriating.<br>Please refrain from reposting me
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 89 |
+| Subscribers          | 95 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For those who desire the mildly infuriating.<br>Please refrain from reposting me
 |----------------------|---|
 | Published            | 2023-06-07 21:21:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:45 |

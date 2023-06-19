@@ -3,19 +3,19 @@ title: "IdiotsInCars"
 name: "idiotsincars"
 description: "This ~~subreddit~~ community is devoted to the lovable idiots who do hilarious, idiot things in their idiot cars (or trucks, motorcycles, tractors, or other vehicle). We honor them with gifs, videos, images, and laughter."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/idiotsincars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 469
+subscribers: 657
 posts: 6
-comments: 15
+comments: 18
 weight: 6
-dau: 4
-wau: 15
-mau: 15
+dau: 1
+wau: 18
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This ~~subreddit~~ community is devoted to the lovable idiots who do hilarious, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 469 |
+| Subscribers          | 657 |
 | Posts                | 6  |
-| Comments             | 15  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 15  |
+| Comments             | 18  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ This ~~subreddit~~ community is devoted to the lovable idiots who do hilarious, 
 |----------------------|---|
 | Published            | 2023-06-12 16:29:56 |
 | Updated              | 2023-06-13 14:59:54 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

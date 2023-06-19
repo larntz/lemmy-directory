@@ -1,21 +1,21 @@
 ---
 title: "LibreOffice" 
 name: "libreoffice"
-description: "Description not available."
+description: "LibreOffice is a free and powerful office suite.- [Ask and Answer](https://ask.libreoffice.org/)- [LibreOffice](https://www.libreoffice.org/)- [LibreOffice Community, get involved](https://www.libreoffice.org/community/get-involved/)- [The Document Foundation, TDF](https://www.documentfoundation.org/)"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/libreoffice"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 23
 posts: 2
-comments: 1
+comments: 4
 weight: 2
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+LibreOffice is a free and powerful office suite.<br><br>- [Ask and Answer](https://ask.libreoffice.org/)<br>- [LibreOffice](https://www.libreoffice.org/)<br>- [LibreOffice Community, get involved](https://www.libreoffice.org/community/get-involved/)<br>- [The Document Foundation, TDF](https://www.documentfoundation.org/)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 23 |
 | Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 18:18:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Updated              | 2023-06-17 18:25:11 |
+| Last Scraped         | 2023-06-19 11:34:55 |

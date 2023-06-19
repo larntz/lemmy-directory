@@ -3,13 +3,13 @@ title: "Cloud Storage"
 name: "cloudstorage"
 description: "Welcome to cloudstorage"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/cloudstorage"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Welcome to cloudstorage
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 23 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to cloudstorage
 |----------------------|---|
 | Published            | 2023-06-10 21:01:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

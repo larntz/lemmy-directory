@@ -3,13 +3,13 @@ title: "Dogecoin"
 name: "dogecoin"
 description: "Dogecoin on Lemmy! "
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dogecoin"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Dogecoin on Lemmy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Dogecoin on Lemmy!
 |----------------------|---|
 | Published            | 2023-06-11 16:58:10 |
 | Updated              | 2023-06-11 16:59:27 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

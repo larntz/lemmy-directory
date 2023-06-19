@@ -3,16 +3,16 @@ title: "Predictions"
 name: "predictions"
 description: "What do you think will happen in the future? Share it here "
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/predictions"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 5
-comments: 3
-weight: 5
+subscribers: 19
+posts: 7
+comments: 5
+weight: 7
 dau: 3
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ What do you think will happen in the future? Share it here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 5  |
-| Comments             | 3  |
+| Subscribers          | 19 |
+| Posts                | 7  |
+| Comments             | 5  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ What do you think will happen in the future? Share it here
 |----------------------|---|
 | Published            | 2023-01-28 14:05:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

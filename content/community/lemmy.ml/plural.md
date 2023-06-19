@@ -3,7 +3,7 @@ title: "Plural"
 name: "plural"
 description: "A community for those who have a community in their head. Whether you have DID or OSDD, are a tulpa or tulpamancer, soulbond, or just know that you aren't alone in your body, this is the place to be."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plural"
@@ -54,4 +54,4 @@ A community for those who have a community in their head. Whether you have DID o
 |----------------------|---|
 | Published            | 2023-06-07 20:57:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,19 +3,19 @@ title: "DankLeft"
 name: "dankleft"
 description: "Lemmygrad community for the subreddit DankLeftRules:**1.No frogs.**No neo-nazis, fascists, nazbols, reactionaries, ancaps, MAGAt-brains, TERFs, bigots, brocialists, or brigaders.**2.Left unity is enforced here.**No leftist infighting. If you're here to stir trouble or taunt the other side of the left, you're out.**3. Use common sense.**No personal information, harrassment, calls for violence, etc.**4.Posts must be memes, not twitter screenshots.**Memes must be about leftist movements, theory, societal issues, or political opponents. These specific content rules apply:No outrage posts; crossposts from rightwing subreddits with an angry title added to themNo Twitter screencaps without a punchlineNo content in defense of war criminals like Obama and Clinton, or neoliberals like Beto and Trump**5.Be dank; don't be not-dank****6.No pro-Democrat and no Pro-republican memes or advocacy (excepting Progressives)**Don't meme or advocate for the American right-wing warhawks of the US Democratic and Republican parties. DankLeft is a socialist community."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/dankleft"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 319
+subscribers: 327
 posts: 118
-comments: 50
+comments: 54
 weight: 118
-dau: 1
-wau: 3
-mau: 4
+dau: 2
+wau: 5
+mau: 6
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Lemmygrad community for the subreddit DankLeft<br><br>Rules:<br><br>**1.<br>No f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 319 |
+| Subscribers          | 327 |
 | Posts                | 118  |
-| Comments             | 50  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
+| Comments             | 54  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmygrad community for the subreddit DankLeft<br><br>Rules:<br><br>**1.<br>No f
 |----------------------|---|
 | Published            | 2021-01-27 00:05:32 |
 | Updated              | 2021-01-27 10:09:50 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-19 11:35:08 |

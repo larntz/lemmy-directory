@@ -3,13 +3,13 @@ title: "selfhosted"
 name: "selfhosted"
 description: "A place to discuss selfhosted options, in the same manner as r/selfhosted.  This community is in honour of their legacy.eKeep it respectful - we all want to help each other out.A great resource to look for selfhosted services is the ubiquitous [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)I am aiming to setup a repalcement for reddits instance, and if the current mods would like to take over, please come and join me!  "
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/selfhosted"
 host: lemmy.perthchat.org
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A place to discuss selfhosted options, in the same manner as r/selfhosted.  This
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss selfhosted options, in the same manner as r/selfhosted.  This
 |----------------------|---|
 | Published            | 2023-06-12 06:19:37 |
 | Updated              | 2023-06-12 06:27:55 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:28 |

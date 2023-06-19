@@ -3,7 +3,7 @@ title: "One Piece"
 name: "one_piece"
 description: "Feel free to discuss about one of the greatest anime ever, ONE PIECE!Please tag posts containing spoilers."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/one_piece"
@@ -54,4 +54,4 @@ Feel free to discuss about one of the greatest anime ever, ONE PIECE!<br>Please 
 |----------------------|---|
 | Published            | 2021-02-20 05:07:31 |
 | Updated              | 2021-02-20 05:25:44 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:59 |

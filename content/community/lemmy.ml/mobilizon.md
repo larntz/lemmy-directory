@@ -3,7 +3,7 @@ title: "Mobilizon"
 name: "mobilizon"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mobilizon"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-10-20 07:17:14 |
 | Updated              | 2021-06-22 11:32:27 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

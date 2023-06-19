@@ -3,7 +3,7 @@ title: "Exodus privacy"
 name: "exodus"
 description: "https://exodus-privacy.eu.org/en/"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exodus"
@@ -54,4 +54,4 @@ https://exodus-privacy.eu.org/en/
 |----------------------|---|
 | Published            | 2021-06-17 17:57:56 |
 | Updated              | 2021-06-17 17:59:30 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

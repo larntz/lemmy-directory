@@ -3,7 +3,7 @@ title: "Predator"
 name: "predator"
 description: "For fans of the intergalactic bad-ass hunter of the science fiction horror film series, games and comics. Dark Mode recommended.**Rules:**- Don't be an @sshole- Official products only- No piracy- No fetishizing in any manner"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/predator"
@@ -54,4 +54,4 @@ For fans of the intergalactic bad-ass hunter of the science fiction horror film 
 |----------------------|---|
 | Published            | 2023-06-07 01:58:14 |
 | Updated              | 2023-06-11 03:43:12 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

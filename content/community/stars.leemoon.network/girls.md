@@ -3,19 +3,19 @@ title: "Girls"
 name: "girls"
 description: "Здесь публикуются няшные аниме-девочки :3Эротика разрешена, но должна быть помечена как NSFW"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/girls"
 host: stars.leemoon.network
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 13
-comments: 3
-weight: 13
-dau: 1
-wau: 4
-mau: 4
+subscribers: 12
+posts: 19
+comments: 5
+weight: 19
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "stars_leemoon_network"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 13  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 12 |
+| Posts                | 19  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 15:19:34 |
 | Updated              | 2023-06-14 16:36:03 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:22 |

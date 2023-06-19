@@ -3,13 +3,13 @@ title: "AndroidDev's community"
 name: "androiddev"
 description: "News for Android developers with the who, what, where when, and how of the Android community. Probably mostly the how. Here, you'll find: - News for Android developers - Thoughtful, informative articles - Insightful talks and presentations - Useful libraries - Handy tools - Open-source applications for studyinghttps://developer.android.com/"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androiddev"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 45
 posts: 9
 comments: 0
 weight: 9
@@ -41,7 +41,7 @@ News for Android developers with the who, what, where when, and how of the Andro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 45 |
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ News for Android developers with the who, what, where when, and how of the Andro
 |----------------------|---|
 | Published            | 2020-05-24 00:05:27 |
 | Updated              | 2020-05-24 00:22:56 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

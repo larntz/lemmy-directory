@@ -3,13 +3,13 @@ title: "Fotografie"
 name: "fotografie"
 description: "Eine Gemeinschaft für fotografierende Menschen"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fotografie"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Eine Gemeinschaft für fotografierende Menschen
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Eine Gemeinschaft für fotografierende Menschen
 |----------------------|---|
 | Published            | 2023-06-03 07:53:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

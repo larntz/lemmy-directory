@@ -3,13 +3,13 @@ title: "lakers"
 name: "lakers"
 description: "lakers"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lakers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 46
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ lakers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 46 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ lakers
 |----------------------|---|
 | Published            | 2023-06-11 08:20:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

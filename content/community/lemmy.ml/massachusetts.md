@@ -3,13 +3,13 @@ title: "Massachusetts "
 name: "massachusetts"
 description: "Now there's a Massachusetts page!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/massachusetts"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Now there's a Massachusetts page!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Now there's a Massachusetts page!
 |----------------------|---|
 | Published            | 2023-06-13 01:27:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,19 +3,19 @@ title: "The Elder Scrolls"
 name: "tes"
 description: "For everything Tamriel**Other Communities:**[Skyrim](https://lemmy.world/c/skyrim@lemmy.world)_________________________________________[The Elder Scrolls Lore](https://lemmy.world/c/teslore@lemmy.world)[Skyrim Mods](https://lemmy.world/c/skyrimmods@lemmy.world)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 174
-posts: 3
-comments: 8
-weight: 3
-dau: 2
-wau: 7
-mau: 7
+subscribers: 235
+posts: 4
+comments: 10
+weight: 4
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For everything Tamriel<br><br>**Other Communities:**<br><br>[Skyrim](https://lem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 174 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 235 |
+| Posts                | 4  |
+| Comments             | 10  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ For everything Tamriel<br><br>**Other Communities:**<br><br>[Skyrim](https://lem
 |----------------------|---|
 | Published            | 2023-06-12 11:05:37 |
 | Updated              | 2023-06-12 22:17:38 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

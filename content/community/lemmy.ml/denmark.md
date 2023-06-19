@@ -3,7 +3,7 @@ title: "Denmark"
 name: "denmark"
 description: "Community of danish people"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/denmark"
@@ -54,4 +54,4 @@ Community of danish people
 |----------------------|---|
 | Published            | 2020-06-01 23:25:14 |
 | Updated              | 2023-06-09 12:50:44 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:59 |

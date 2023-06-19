@@ -3,13 +3,13 @@ title: "Tucson Politics"
 name: "tucsonpolitics"
 description: "Tucson politics only. National coverage only allowed if it directly pertains to a Tucson politician or issue. "
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/tucsonpolitics"
 host: tucson.social
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 8
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Tucson politics only. National coverage only allowed if it directly pertains to 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 8 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tucson politics only. National coverage only allowed if it directly pertains to 
 |----------------------|---|
 | Published            | 2023-06-12 05:11:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

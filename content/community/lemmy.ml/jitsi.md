@@ -3,13 +3,13 @@ title: "Jitsi"
 name: "jitsi"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jitsi"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 44
 posts: 4
 comments: 2
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 44 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-16 20:34:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

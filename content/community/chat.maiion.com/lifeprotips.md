@@ -1,15 +1,15 @@
 ---
 title: "c/LifeProTips" 
 name: "lifeprotips"
-description: "Description not available."
+description: "All of us live different lives, but there are aspects of life some of us have endured countless times. What are your life pro tips?********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/lifeprotips"
 host: chat.maiion.com
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+All of us live different lives, but there are aspects of life some of us have endured countless times. What are your life pro tips?<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 05:57:14 |
-| Updated              | 2023-06-16 03:38:42 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Updated              | 2023-06-17 06:09:43 |
+| Last Scraped         | 2023-06-19 11:35:26 |

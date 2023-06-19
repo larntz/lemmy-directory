@@ -3,7 +3,7 @@ title: "Slim people hate"
 name: "slimpeoplehate"
 description: "Ever see a slim person and just hate how bony they look? Seeing their thin legs and arms is sickening."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slimpeoplehate"
@@ -54,4 +54,4 @@ Ever see a slim person and just hate how bony they look? Seeing their thin legs 
 |----------------------|---|
 | Published            | 2023-06-13 19:56:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:42 |

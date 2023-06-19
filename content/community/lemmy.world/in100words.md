@@ -3,13 +3,13 @@ title: "Answer in Exactly 100 words"
 name: "in100words"
 description: "Answer any question/prompt in exactly 100 words. Your answer can be a rant, story, poem, essay, anything, as long as it is exactly 100 words. Rules:--------* Top level comments should be exactly 100 words. Check your word count [here](https://wordcounter.net/)Have fun!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/in100words"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 19
 posts: 6
 comments: 16
 weight: 6
@@ -41,7 +41,7 @@ Answer any question/prompt in exactly 100 words. Your answer can be a rant, stor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 19 |
 | Posts                | 6  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Answer any question/prompt in exactly 100 words. Your answer can be a rant, stor
 |----------------------|---|
 | Published            | 2023-06-14 04:32:10 |
 | Updated              | 2023-06-14 04:38:59 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

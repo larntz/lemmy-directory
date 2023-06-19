@@ -3,13 +3,13 @@ title: "Firewater"
 name: "firewater"
 description: "The home to all things home distilling!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firewater"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 19
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ The home to all things home distilling!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 19 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The home to all things home distilling!
 |----------------------|---|
 | Published            | 2023-06-15 06:17:47 |
 | Updated              | 2023-06-15 06:39:11 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

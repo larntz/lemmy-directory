@@ -3,16 +3,16 @@ title: "Lemmy.cat"
 name: "lemmy_cat"
 description: "Qualsevol cosa sobre la instància lemmy.cat."
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/lemmy_cat"
 host: lemmy.cat
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 1
+subscribers: 15
+posts: 2
 comments: 1
-weight: 1
+weight: 2
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Qualsevol cosa sobre la instància lemmy.cat.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
+| Subscribers          | 15 |
+| Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Qualsevol cosa sobre la instància lemmy.cat.
 |----------------------|---|
 | Published            | 2023-06-13 14:09:33 |
 | Updated              | 2023-06-13 14:12:15 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

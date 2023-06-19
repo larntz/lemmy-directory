@@ -3,16 +3,16 @@ title: "Star Trek"
 name: "startrek"
 description: "A community for all things Star Trek.::: spoiler spoilerJaneway is a murderer. :::"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/startrek"
 host: possumpat.io
 lastmod: "{[ .Updated }}"
-subscribers: 297
-posts: 13
-comments: 72
-weight: 13
+subscribers: 334
+posts: 17
+comments: 90
+weight: 17
 dau: 8
 wau: 23
 mau: 23
@@ -41,9 +41,9 @@ A community for all things Star Trek.<br><br>::: spoiler spoiler<br>Janeway is a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 297 |
-| Posts                | 13  |
-| Comments             | 72  |
+| Subscribers          | 334 |
+| Posts                | 17  |
+| Comments             | 90  |
 | Daily Active Users   | 8  |
 | Weekly Active Users  | 23  |
 | Monthly Active Users | 23  |
@@ -54,4 +54,4 @@ A community for all things Star Trek.<br><br>::: spoiler spoiler<br>Janeway is a
 |----------------------|---|
 | Published            | 2023-06-08 17:58:39 |
 | Updated              | 2023-06-08 23:44:25 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:54 |

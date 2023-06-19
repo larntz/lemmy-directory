@@ -3,13 +3,13 @@ title: "Face Fucking"
 name: "facefucking"
 description: "Alternative r/facefucking and related subs. Posts post contain face fucking pics, vids, etc. Also see !facefuck@lemmynsfw.com"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/facefucking"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 64
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Alternative r/facefucking and related subs. Posts post contain face fucking pics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 64 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Alternative r/facefucking and related subs. Posts post contain face fucking pics
 |----------------------|---|
 | Published            | 2023-06-15 00:21:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:45 |

@@ -3,13 +3,13 @@ title: "Windows 10"
 name: "windows10"
 description: "Welcome to the largest community for Microsoft Windows 10, the world's most popular computer operating system!  feel free to discuss everything about Windows 10!. But, keep it civil please"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windows10"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 42
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to the largest community for Microsoft Windows 10, the world's most popu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 42 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome to the largest community for Microsoft Windows 10, the world's most popu
 |----------------------|---|
 | Published            | 2023-06-10 13:19:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:38 |

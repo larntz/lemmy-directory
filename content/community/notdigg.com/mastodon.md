@@ -3,7 +3,7 @@ title: "Mastodon"
 name: "mastodon"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/mastodon"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 22:57:13 |
 | Updated              | 2023-06-13 23:13:48 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

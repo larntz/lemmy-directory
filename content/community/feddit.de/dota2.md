@@ -3,19 +3,19 @@ title: "dota2"
 name: "dota2"
 description: "Eine deutsche Dota 2 Community."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dota2"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 2
-comments: 6
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+subscribers: 18
+posts: 3
+comments: 7
+weight: 3
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Eine deutsche Dota 2 Community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 18 |
+| Posts                | 3  |
+| Comments             | 7  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Eine deutsche Dota 2 Community.
 |----------------------|---|
 | Published            | 2023-06-16 08:46:57 |
 | Updated              | 2023-06-16 08:59:47 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,19 +3,19 @@ title: "New Communities"
 name: "new_communities"
 description: "Have you created a new community and you would like to share it with others? Advertise it here!It is **not necessary** that the community is hosted in this instance!"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/new_communities"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 10
 posts: 3
 comments: 0
 weight: 3
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Have you created a new community and you would like to share it with others? Adv
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Have you created a new community and you would like to share it with others? Adv
 |----------------------|---|
 | Published            | 2023-06-15 19:14:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

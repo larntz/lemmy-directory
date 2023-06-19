@@ -3,13 +3,13 @@ title: "News"
 name: "news"
 description: "A place to post news stories"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/news"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 62
 posts: 6
 comments: 2
 weight: 6
@@ -41,7 +41,7 @@ A place to post news stories
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 62 |
 | Posts                | 6  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to post news stories
 |----------------------|---|
 | Published            | 2022-09-24 12:40:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

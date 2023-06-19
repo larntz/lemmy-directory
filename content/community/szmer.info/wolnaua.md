@@ -3,16 +3,16 @@ title: "wolna Ukraina"
 name: "wolnaua"
 description: "Społeczność dotycząca naszej sąsiadki o pięknych tradycjach wolnościowych, która od kilku ładnych lat jest w stanie wojny. Aż dziw, że dopiero teraz powstaje tu taka społeczność :)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolnaua"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 84
-posts: 994
+subscribers: 86
+posts: 995
 comments: 434
-weight: 994
+weight: 995
 dau: 1
 wau: 2
 mau: 3
@@ -41,8 +41,8 @@ Społeczność dotycząca naszej sąsiadki o pięknych tradycjach wolnościowych
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 994  |
+| Subscribers          | 86 |
+| Posts                | 995  |
 | Comments             | 434  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Społeczność dotycząca naszej sąsiadki o pięknych tradycjach wolnościowych
 |----------------------|---|
 | Published            | 2022-02-18 20:31:52 |
 | Updated              | 2022-02-18 20:33:23 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

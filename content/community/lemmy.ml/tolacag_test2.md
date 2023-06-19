@@ -3,7 +3,7 @@ title: "another test, ignore!"
 name: "tolacag_test2"
 description: "ignore!"
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tolacag_test2"
@@ -54,4 +54,4 @@ ignore!
 |----------------------|---|
 | Published            | 2020-10-16 23:08:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

@@ -3,13 +3,13 @@ title: "suggestions for lemmy"
 name: "lemmysuggestions"
 description: "have a good idea for our website? post here to suggest"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmysuggestions"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 173
+subscribers: 175
 posts: 34
 comments: 129
 weight: 34
@@ -41,7 +41,7 @@ have a good idea for our website? post here to suggest
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 173 |
+| Subscribers          | 175 |
 | Posts                | 34  |
 | Comments             | 129  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ have a good idea for our website? post here to suggest
 |----------------------|---|
 | Published            | 2019-08-25 19:47:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,13 +3,13 @@ title: "GitLab is open source software to collaborate on code. "
 name: "gitlab"
 description: "GitLab is open source software to collaborate on code. Create projects and repositories, manage access and do code reviews.**Another great git community:**[GIT - Github, Gitea, Gitlabs. Everything git](https://lemmy.ml/c/everything_git)"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gitlab"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 95
+subscribers: 97
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ GitLab is open source software to collaborate on code. Create projects and repos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 95 |
+| Subscribers          | 97 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ GitLab is open source software to collaborate on code. Create projects and repos
 |----------------------|---|
 | Published            | 2021-04-19 15:16:16 |
 | Updated              | 2021-04-19 16:15:27 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:49 |

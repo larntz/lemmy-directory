@@ -1,18 +1,18 @@
 ---
-title: "Today I learned" 
+title: "Today I Learned (TIL)" 
 name: "todayilearned"
-description: "You learn something new every day; what did *you* learn today?Submit interesting and **specific facts** that you just found out (not broad information you looked up, TodayILearned is not [/r/wikipedia](/c/wikipedia)."
+description: "You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/todayilearned"
 host: lemmit.online
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 56
+subscribers: 4
+posts: 45
 comments: 0
-weight: 56
+weight: 45
 dau: 0
 wau: 0
 mau: 0
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Today I learned on lemmit.online
+# /c/Today I Learned (TIL) on lemmit.online
 
 [[home](/)]
 [[/c/todayilearned 🌎](https://lemmit.online/c/todayilearned)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-You learn something new every day; what did *you* learn today?<br><br>Submit interesting and **specific facts** that you just found out (not broad information you looked up, TodayILearned is not [/r/wikipedia](/c/wikipedia).
+You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.
 </blockquote>
 
 
@@ -41,8 +41,8 @@ You learn something new every day; what did *you* learn today?<br><br>Submit int
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 56  |
+| Subscribers          | 4 |
+| Posts                | 45  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ You learn something new every day; what did *you* learn today?<br><br>Submit int
 |----------------------|---|
 | Published            | 2023-06-16 16:27:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

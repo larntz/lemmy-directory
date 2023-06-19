@@ -3,16 +3,16 @@ title: "Economy"
 name: "economy"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/economy"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 14
-posts: 144
+posts: 145
 comments: 5
-weight: 144
+weight: 145
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 14 |
-| Posts                | 144  |
+| Posts                | 145  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-28 12:48:39 |
 | Updated              | 2022-07-02 18:27:39 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-19 11:35:38 |

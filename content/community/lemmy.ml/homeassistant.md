@@ -3,19 +3,19 @@ title: "Homeassistant"
 name: "homeassistant"
 description: "Community to discuss home automation as it relates to https://www.home-assistant.io/"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeassistant"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 364
+subscribers: 394
 posts: 12
-comments: 30
+comments: 34
 weight: 12
-dau: 4
-wau: 12
-mau: 15
+dau: 2
+wau: 13
+mau: 17
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Community to discuss home automation as it relates to https://www.home-assistant
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 364 |
+| Subscribers          | 394 |
 | Posts                | 12  |
-| Comments             | 30  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 15  |
+| Comments             | 34  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community to discuss home automation as it relates to https://www.home-assistant
 |----------------------|---|
 | Published            | 2020-04-15 15:45:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:57 |

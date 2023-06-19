@@ -3,7 +3,7 @@ title: "Kubernetes Help"
 name: "k8s_help"
 description: "Community for getting help with running Lemmy on Kubernetes.I'll try to answer all questions here, feel free to ask me questions!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jlh.name/c/k8s_help"
@@ -54,4 +54,4 @@ Community for getting help with running Lemmy on Kubernetes.<br><br>I'll try to 
 |----------------------|---|
 | Published            | 2023-06-14 10:55:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,17 +3,17 @@ title: "Amiga"
 name: "amiga"
 description: "Community for all things Commodore Amiga related."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/amiga"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 99
-posts: 19
-comments: 33
-weight: 19
-dau: 4
+subscribers: 110
+posts: 20
+comments: 49
+weight: 20
+dau: 2
 wau: 9
 mau: 9
 instances:
@@ -41,10 +41,10 @@ Community for all things Commodore Amiga related.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
-| Posts                | 19  |
-| Comments             | 33  |
-| Daily Active Users   | 4  |
+| Subscribers          | 110 |
+| Posts                | 20  |
+| Comments             | 49  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
 
@@ -54,4 +54,4 @@ Community for all things Commodore Amiga related.
 |----------------------|---|
 | Published            | 2023-06-01 18:28:28 |
 | Updated              | 2023-06-01 18:37:10 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

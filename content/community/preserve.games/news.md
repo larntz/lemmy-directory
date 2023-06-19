@@ -3,19 +3,19 @@ title: "News"
 name: "news"
 description: "Game preservation news"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/news"
 host: preserve.games
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 2
-comments: 3
-weight: 2
+subscribers: 4
+posts: 4
+comments: 5
+weight: 4
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "preserve_games"
 tags: 
@@ -41,12 +41,12 @@ Game preservation news
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 3  |
+| Subscribers          | 4 |
+| Posts                | 4  |
+| Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Game preservation news
 |----------------------|---|
 | Published            | 2023-06-13 00:03:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:29 |

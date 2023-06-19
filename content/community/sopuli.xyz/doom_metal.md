@@ -3,16 +3,16 @@ title: "Doom Metal"
 name: "doom_metal"
 description: "A community dedicated to the slow and heavy."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/doom_metal"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 6
+subscribers: 14
+posts: 7
 comments: 4
-weight: 6
+weight: 7
 dau: 4
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ A community dedicated to the slow and heavy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 6  |
+| Subscribers          | 14 |
+| Posts                | 7  |
 | Comments             | 4  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ A community dedicated to the slow and heavy.
 |----------------------|---|
 | Published            | 2023-06-14 16:27:42 |
 | Updated              | 2023-06-14 16:40:40 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

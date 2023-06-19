@@ -3,19 +3,19 @@ title: "Hentai - BDSM"
 name: "hentaibdsm"
 description: "Hentai with BDSM in it.  No snuff. "
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hentaibdsm"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 204
-posts: 9
-comments: 9
-weight: 9
-dau: 2
-wau: 5
-mau: 5
+subscribers: 374
+posts: 15
+comments: 15
+weight: 15
+dau: 1
+wau: 13
+mau: 13
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Hentai with BDSM in it.  No snuff.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 204 |
-| Posts                | 9  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 374 |
+| Posts                | 15  |
+| Comments             | 15  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -56,4 +56,4 @@ Hentai with BDSM in it.  No snuff.
 |----------------------|---|
 | Published            | 2023-06-12 23:39:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

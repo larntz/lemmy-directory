@@ -3,19 +3,19 @@ title: "DOOM"
 name: "doom"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/doom"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
-posts: 16
-comments: 30
-weight: 16
-dau: 1
-wau: 2
-mau: 5
+subscribers: 120
+posts: 17
+comments: 34
+weight: 17
+dau: 3
+wau: 9
+mau: 13
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 16  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
+| Subscribers          | 120 |
+| Posts                | 17  |
+| Comments             | 34  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-05-19 16:47:09 |
 | Updated              | 2021-05-19 16:51:22 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:37:02 |

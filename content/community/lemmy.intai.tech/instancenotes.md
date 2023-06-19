@@ -3,16 +3,16 @@ title: "Lemmy Instance Admin | Mod Notes"
 name: "instancenotes"
 description: "Notes from mods and admins on setting up and running Fediverse App Instances from Lemmy to Mastadon to Matrix and More. "
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/instancenotes"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Notes from mods and admins on setting up and running Fediverse App Instances fro
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Notes from mods and admins on setting up and running Fediverse App Instances fro
 |----------------------|---|
 | Published            | 2023-06-13 01:23:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,13 +3,13 @@ title: "Philadelphia Sixers"
 name: "sixers"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sixers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 32
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 32 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 19:59:53 |
 | Updated              | 2023-06-09 20:38:42 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

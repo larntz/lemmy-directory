@@ -3,13 +3,13 @@ title: "pokemongo"
 name: "pokemongo"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokemongo"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 56
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 56 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 07:17:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

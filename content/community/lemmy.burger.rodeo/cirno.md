@@ -3,19 +3,19 @@ title: "cirno"
 name: "cirno"
 description: "cirno"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/cirno"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 43
-posts: 45
-comments: 15
-weight: 45
-dau: 1
+subscribers: 47
+posts: 52
+comments: 18
+weight: 52
+dau: 2
 wau: 6
-mau: 11
+mau: 13
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ cirno
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 45  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
+| Subscribers          | 47 |
+| Posts                | 52  |
+| Comments             | 18  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
-| Monthly Active Users | 11  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ cirno
 |----------------------|---|
 | Published            | 2023-06-06 04:58:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:30 |

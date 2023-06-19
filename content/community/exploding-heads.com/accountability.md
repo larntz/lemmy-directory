@@ -3,13 +3,13 @@ title: "Accountability"
 name: "accountability"
 description: "Without accountability, our corrupt politicians, public officials, law enforcement officers, tech tyrants and crony capitalists - are just going to keep doing it."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/accountability"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 5
 posts: 33
 comments: 0
 weight: 33
@@ -41,7 +41,7 @@ Without accountability, our corrupt politicians, public officials, law enforceme
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 5 |
 | Posts                | 33  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Without accountability, our corrupt politicians, public officials, law enforceme
 |----------------------|---|
 | Published            | 2022-03-02 16:02:16 |
 | Updated              | 2022-03-20 22:32:09 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-19 11:35:38 |

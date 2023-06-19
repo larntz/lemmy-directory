@@ -3,16 +3,16 @@ title: "Military Intelligence Ha Ha Ha!!!"
 name: "militaryintelligence"
 description: "Military Intelligence - The ultimate oxymoron at the Pentagon and on Capitol Hill.We are for a strong military that is:- loyal-  well led, - well trained, - better equipped then our competitors, - obeys the constitution,- is subject to civilian leadership- is used sparingly,- fights to win, then gets out.We are not for stupidity. Too much of what the military does falls outside of these bounds, and as much as we love the military - they must be called out for it."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/militaryintelligence"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 185
+subscribers: 7
+posts: 186
 comments: 3
-weight: 185
+weight: 186
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Military Intelligence - The ultimate oxymoron at the Pentagon and on Capitol Hil
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 185  |
+| Subscribers          | 7 |
+| Posts                | 186  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Military Intelligence - The ultimate oxymoron at the Pentagon and on Capitol Hil
 |----------------------|---|
 | Published            | 2022-02-28 00:45:11 |
 | Updated              | 2023-02-08 10:47:12 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

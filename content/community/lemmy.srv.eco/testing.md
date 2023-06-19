@@ -3,7 +3,7 @@ title: "🧪 Testing"
 name: "testing"
 description: "Place to run tests"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/testing"
@@ -54,4 +54,4 @@ Place to run tests
 |----------------------|---|
 | Published            | 2023-06-11 15:33:21 |
 | Updated              | 2023-06-11 22:28:34 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

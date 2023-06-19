@@ -3,13 +3,13 @@ title: "Partizle Support"
 name: "support"
 description: "Questions and answers for the Partizle instance"
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/support"
 host: partizle.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Questions and answers for the Partizle instance
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Questions and answers for the Partizle instance
 |----------------------|---|
 | Published            | 2023-06-13 16:37:03 |
 | Updated              | 2023-06-14 17:24:48 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:02 |

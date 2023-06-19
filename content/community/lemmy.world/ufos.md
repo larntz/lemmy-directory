@@ -3,19 +3,19 @@ title: "UFOs"
 name: "ufos"
 description: "This community is for discussion surrounding UFOs and Extraterrestrials."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ufos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 134
-posts: 8
-comments: 11
-weight: 8
-dau: 2
-wau: 6
-mau: 6
+subscribers: 200
+posts: 11
+comments: 19
+weight: 11
+dau: 1
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ This community is for discussion surrounding UFOs and Extraterrestrials.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 8  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 200 |
+| Posts                | 11  |
+| Comments             | 19  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ This community is for discussion surrounding UFOs and Extraterrestrials.
 |----------------------|---|
 | Published            | 2023-06-13 22:46:39 |
 | Updated              | 2023-06-13 23:24:17 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

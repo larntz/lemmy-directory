@@ -3,19 +3,19 @@ title: "Seattle Mariners"
 name: "seattlemariners"
 description: "A place to discuss Seattle Mariners"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seattlemariners"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 3
-comments: 4
-weight: 3
+subscribers: 25
+posts: 6
+comments: 19
+weight: 6
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss Seattle Mariners
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 3  |
-| Comments             | 4  |
+| Subscribers          | 25 |
+| Posts                | 6  |
+| Comments             | 19  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss Seattle Mariners
 |----------------------|---|
 | Published            | 2023-06-13 14:32:23 |
 | Updated              | 2023-06-13 15:08:23 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

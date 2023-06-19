@@ -3,13 +3,13 @@ title: "Lists"
 name: "lists"
 description: "To make lists similar to Awesome Lists."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lists"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ To make lists similar to Awesome Lists.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ To make lists similar to Awesome Lists.
 |----------------------|---|
 | Published            | 2023-01-29 18:44:35 |
 | Updated              | 2023-01-29 18:45:59 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

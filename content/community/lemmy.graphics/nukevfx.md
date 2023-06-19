@@ -3,7 +3,7 @@ title: "Nuke"
 name: "nukevfx"
 description: "This is an unofficial community for Nuke compositors to share tips, tricks, and inspiration with each other. Nuke is a nodal compositing software commonly used in feature film and commercials, developed by The Foundry.Looking for a more general compositing community? Check out [c/compositing](lemmy.graphics/c/compositing)!"
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/nukevfx"
@@ -54,4 +54,4 @@ This is an unofficial community for Nuke compositors to share tips, tricks, and 
 |----------------------|---|
 | Published            | 2023-06-12 20:16:10 |
 | Updated              | 2023-06-13 03:12:24 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

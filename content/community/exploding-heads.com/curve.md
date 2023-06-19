@@ -3,7 +3,7 @@ title: "Crypto - Curve (CRV)"
 name: "curve"
 description: "Curve uses multiple cryptocurrencies to operate an automated market making service focused on stablecoins (cryptocurrencies programmed to mimic other assets). Curve (CRV) is an Ethereum token that powers Curve.fi. The protocol is designed to make it easy to swap between ERC-20 tokens, such as stablecoins (like USDC and DAI) and Ethereum-based Bitcoin tokens (like WBTC and renBTC). Most of the protocol’s liquidity pools are made up of similar assets.The CRV token can be locked for various periods of time (up to 4 years) in order to vote on governance and claim protocol fees as a reward.[Website](https://curve.fi/)[Whitepaper](https://curve.fi/whitepaper)"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/curve"
@@ -54,4 +54,4 @@ Curve uses multiple cryptocurrencies to operate an automated market making servi
 |----------------------|---|
 | Published            | 2022-05-15 16:10:51 |
 | Updated              | 2022-05-15 16:26:55 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

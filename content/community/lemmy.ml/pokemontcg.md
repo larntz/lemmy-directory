@@ -3,7 +3,7 @@ title: "PokemonTCG"
 name: "pokemontcg"
 description: "A community for players of the Pokemon Trading Card Game to show off pulls and discuss the game.Treat others with respect Stay on topicSealed content must be part of a collection**Dont:** promote, sell/trade/buy, post referrals, beg for codes, beg for authentication help, advocate pack weighing"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pokemontcg"
@@ -54,4 +54,4 @@ A community for players of the Pokemon Trading Card Game to show off pulls and d
 |----------------------|---|
 | Published            | 2023-06-07 18:07:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

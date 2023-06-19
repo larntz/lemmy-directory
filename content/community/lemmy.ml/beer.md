@@ -3,19 +3,19 @@ title: "Beer"
 name: "beer"
 description: "This is a place for beer lovers of all levels to come together and share their love of beer."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beer"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 27
 posts: 2
 comments: 5
 weight: 2
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a place for beer lovers of all levels to come together and share their l
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 27 |
 | Posts                | 2  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a place for beer lovers of all levels to come together and share their l
 |----------------------|---|
 | Published            | 2023-06-09 00:37:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:45 |

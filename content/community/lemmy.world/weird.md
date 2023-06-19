@@ -3,13 +3,13 @@ title: "Weird"
 name: "weird"
 description: "For all things weird."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weird"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ For all things weird.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For all things weird.
 |----------------------|---|
 | Published            | 2023-06-12 06:37:28 |
 | Updated              | 2023-06-12 21:36:53 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

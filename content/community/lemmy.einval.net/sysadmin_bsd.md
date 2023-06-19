@@ -3,7 +3,7 @@ title: "Systems Administration (BSD)"
 name: "sysadmin_bsd"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/sysadmin_bsd"
@@ -14,8 +14,8 @@ posts: 1
 comments: 2
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "lemmy_einval_net"
 tags: 
@@ -45,8 +45,8 @@ Description not available.
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 23:31:29 |
 | Updated              | 2023-06-06 14:14:57 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

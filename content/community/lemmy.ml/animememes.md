@@ -3,13 +3,13 @@ title: "AnimeMemes"
 name: "animememes"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animememes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 68
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 68 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-27 19:07:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

@@ -3,7 +3,7 @@ title: "Privacy"
 name: "privacy"
 description: "A community for Lemmy users interested in privacyRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/privacy"
@@ -54,4 +54,4 @@ A community for Lemmy users interested in privacy<br><br>Rules:<br>1. Be civil<b
 |----------------------|---|
 | Published            | 2023-06-13 14:04:27 |
 | Updated              | 2023-06-15 14:52:09 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

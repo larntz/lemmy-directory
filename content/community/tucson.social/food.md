@@ -3,13 +3,13 @@ title: "Tucson Food"
 name: "food"
 description: "Whether you want to try a different 2AM Taco shop or want to show off your summer ratatouille con chile verde this is the place for you!"
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/food"
 host: tucson.social
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Whether you want to try a different 2AM Taco shop or want to show off your summe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Whether you want to try a different 2AM Taco shop or want to show off your summe
 |----------------------|---|
 | Published            | 2023-06-12 06:14:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

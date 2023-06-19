@@ -3,13 +3,13 @@ title: "Guns"
 name: "guns"
 description: "Share pictures of guns and ask questions about them."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/guns"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 40
 posts: 9
 comments: 2
 weight: 9
@@ -41,7 +41,7 @@ Share pictures of guns and ask questions about them.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 40 |
 | Posts                | 9  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Share pictures of guns and ask questions about them.
 |----------------------|---|
 | Published            | 2021-09-01 20:37:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

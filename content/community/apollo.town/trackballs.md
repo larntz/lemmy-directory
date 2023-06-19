@@ -3,18 +3,18 @@ title: "Trackballs "
 name: "trackballs"
 description: "We’re all about that spherical input device here. "
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/trackballs"
 host: apollo.town
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 17
 posts: 3
 comments: 10
 weight: 3
 dau: 1
-wau: 7
+wau: 3
 mau: 7
 instances:
 - "apollo_town"
@@ -41,11 +41,11 @@ We’re all about that spherical input device here.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 17 |
 | Posts                | 3  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ We’re all about that spherical input device here.
 |----------------------|---|
 | Published            | 2023-06-09 20:16:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

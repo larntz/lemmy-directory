@@ -3,7 +3,7 @@ title: "Attack on Titan 進撃の巨人, Shingeki no Kyojin"
 name: "attackontitan"
 description: "A community for Attack on Titan 進撃の巨人, Shingeki no Kyojin!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/attackontitan"
@@ -54,4 +54,4 @@ A community for Attack on Titan 進撃の巨人, Shingeki no Kyojin!
 |----------------------|---|
 | Published            | 2023-06-13 23:26:33 |
 | Updated              | 2023-06-13 23:53:59 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

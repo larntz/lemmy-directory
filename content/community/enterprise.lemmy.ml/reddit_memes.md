@@ -3,7 +3,7 @@ title: "Reddit r/memes"
 name: "reddit_memes"
 description: "Reddit r/memes new post dumped to Lemmy (it's an experiment)"
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/reddit_memes"
@@ -54,4 +54,4 @@ Reddit r/memes new post dumped to Lemmy (it's an experiment)
 |----------------------|---|
 | Published            | 2023-06-10 09:48:48 |
 | Updated              | 2023-06-10 11:53:14 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

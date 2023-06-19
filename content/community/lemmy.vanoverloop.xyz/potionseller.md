@@ -3,7 +3,7 @@ title: "Potion Seller"
 name: "potionseller"
 description: "The (public) Potion Seller community."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vanoverloop.xyz/c/potionseller"
@@ -54,4 +54,4 @@ The (public) Potion Seller community.
 |----------------------|---|
 | Published            | 2023-06-10 14:22:40 |
 | Updated              | 2023-06-10 14:26:16 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:07 |

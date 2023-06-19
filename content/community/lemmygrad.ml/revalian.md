@@ -3,7 +3,7 @@ title: "Revalian / Lenguollu Rŭoleku"
 name: "revalian"
 description: "Revalian is a language that is based on Jan Steenbergen's Vozgian language but is a Romance language rather than being Slavic.Rŭoleku lenguu, kue derivatu lengualla Vŭozdšeka Janje Steenbergenje, ot lenguu Rumaneku, lenguonkontra Slovekonkontra est, est."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/revalian"
@@ -54,4 +54,4 @@ Revalian is a language that is based on Jan Steenbergen's Vozgian language but i
 |----------------------|---|
 | Published            | 2023-04-11 03:17:03 |
 | Updated              | 2023-04-13 20:43:28 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

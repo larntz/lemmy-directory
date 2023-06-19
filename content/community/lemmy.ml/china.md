@@ -3,19 +3,19 @@ title: "China, 中国"
 name: "china"
 description: "# EnglishThis is a forum dedicated to China, Chinese culture Chinese language, and Chinese people.**[Our Matrix chat](https://matrix.to/#/#chinachat:matrix.org?via=matrix.org)**### Rules:* Be civil, be respectful, don't attack other users* No racism, sinophobia, or other bigotry allowed* No misinformation* Follow all other Lemmy rules# 中文这是一个专门讨论中国、中国文化、中国语言和中国人的论坛。**[我们在 Matrix 的聊天室](https://matrix.to/#/#chinachat:matrix.org?via=matrix.org)**### 规则:* 要文明，要尊重，不要攻击其他用户* 不允许有种族主义、仇视中国人或其他偏执行为* 不允许故意提供错误信息* 遵守 Lemmy 的所有其他规则-----### Related communities **/** 相关的互联网论坛* [!china@lemmygrad.ml](https://lemmygrad.ml/c/china)* [!chinese@lemmy.ml](https://lemmy.ml/c/chinese) -----Community icon by [CustomDesign](http://www.myiconfinder.com/CustomDesign) on MYICONFINDER, licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/china"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 481
-posts: 921
-comments: 951
-weight: 921
-dau: 2
-wau: 11
-mau: 28
+subscribers: 493
+posts: 926
+comments: 957
+weight: 926
+dau: 4
+wau: 13
+mau: 33
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 481 |
-| Posts                | 921  |
-| Comments             | 951  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 28  |
+| Subscribers          | 493 |
+| Posts                | 926  |
+| Comments             | 957  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-06-04 01:25:50 |
 | Updated              | 2022-05-02 13:21:28 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

@@ -3,13 +3,13 @@ title: "Blind"
 name: "blind"
 description: "A community for blind and visually impaired people."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blind"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for blind and visually impaired people.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for blind and visually impaired people.
 |----------------------|---|
 | Published            | 2023-06-12 10:49:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

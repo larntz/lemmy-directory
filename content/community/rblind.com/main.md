@@ -3,19 +3,19 @@ title: "main"
 name: "main"
 description: "The main community at rblind.com, for discussion of all things blindness."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://rblind.com/c/main"
 host: rblind.com
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 8
-comments: 25
-weight: 8
+subscribers: 18
+posts: 12
+comments: 46
+weight: 12
 dau: 3
-wau: 10
-mau: 10
+wau: 14
+mau: 14
 instances:
 - "rblind_com"
 tags: 
@@ -41,12 +41,12 @@ The main community at rblind.com, for discussion of all things blindness.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 8  |
-| Comments             | 25  |
+| Subscribers          | 18 |
+| Posts                | 12  |
+| Comments             | 46  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ The main community at rblind.com, for discussion of all things blindness.
 |----------------------|---|
 | Published            | 2023-06-14 04:54:56 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:24 |

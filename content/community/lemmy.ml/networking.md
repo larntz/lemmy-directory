@@ -3,13 +3,13 @@ title: "Network Engineering"
 name: "networking"
 description: "For all things enterprise network engineering, architecture, and design.Rules:1. Be kind2. No home networking3. No low effort questions (use Google first)"
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/networking"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 27
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ For all things enterprise network engineering, architecture, and design.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 27 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For all things enterprise network engineering, architecture, and design.<br><br>
 |----------------------|---|
 | Published            | 2023-06-05 20:12:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:44 |

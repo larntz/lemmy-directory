@@ -3,16 +3,16 @@ title: "Amateur Radio"
 name: "amateurradio"
 description: "Welcome to our vibrant community of amateur radio operators who are passionate about exploring the airwaves and connecting with fellow hams around the globe. Whether you're a seasoned operator or just starting your ham radio journey, this is the perfect place to amplify your knowledge, share experiences, and have a blast while doing it.Rules:1. Be respectful2. Stay on topic3. Provide Helpful and Accurate Information4. No Illegal or Harmful Activities5. Do not share personal information6. Use Clear and Descriptive Titles7. Report Inappropriate Content"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/amateurradio"
 host: lemmy.ko4abp.com
 lastmod: "{[ .Updated }}"
-subscribers: 61
-posts: 10
-comments: 66
-weight: 10
+subscribers: 69
+posts: 11
+comments: 71
+weight: 11
 dau: 6
 wau: 12
 mau: 12
@@ -41,9 +41,9 @@ Welcome to our vibrant community of amateur radio operators who are passionate a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 10  |
-| Comments             | 66  |
+| Subscribers          | 69 |
+| Posts                | 11  |
+| Comments             | 71  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
@@ -54,4 +54,4 @@ Welcome to our vibrant community of amateur radio operators who are passionate a
 |----------------------|---|
 | Published            | 2023-06-09 19:15:18 |
 | Updated              | 2023-06-09 23:50:06 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:07 |

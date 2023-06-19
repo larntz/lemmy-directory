@@ -3,19 +3,19 @@ title: "Modern"
 name: "modern"
 description: "**Modern format discussion**Modern is a non-rotating format that allows all cards that have been printed in a core or expansion set from the origination of the modern card, or 8th Edition. Additional supplemental sets printed specifically for Modern are also allowed.Read more at [Modern's official website](https://magic.wizards.com/en/formats/modern)."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/modern"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 42
 posts: 2
-comments: 3
+comments: 8
 weight: 2
-dau: 1
-wau: 3
-mau: 3
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "mtgzone_com"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 42 |
 | Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 8  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 20:05:59 |
 | Updated              | 2023-06-14 18:00:37 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

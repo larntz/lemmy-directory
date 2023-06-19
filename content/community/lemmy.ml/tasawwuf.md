@@ -3,7 +3,7 @@ title: "Tasawwuf"
 name: "tasawwuf"
 description: "Islam and Tasawwuf/Tasavvuf Sufismus"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tasawwuf"
@@ -54,4 +54,4 @@ Islam and Tasawwuf/Tasavvuf Sufismus
 |----------------------|---|
 | Published            | 2021-06-24 16:51:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

@@ -3,7 +3,7 @@ title: "Ville de Québec/ Québec City "
 name: "villedequebec"
 description: "Un sublemmine pour tout ce qui concerne la ville de Québec et les environs A sublemmy for everything about Quebec City and surrounding areas "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/villedequebec"
@@ -11,7 +11,7 @@ host: lemmy.ca
 lastmod: "{[ .Updated }}"
 subscribers: 18
 posts: 7
-comments: 0
+comments: 1
 weight: 7
 dau: 1
 wau: 1
@@ -43,7 +43,7 @@ Un sublemmine pour tout ce qui concerne la ville de Québec et les environs <br>
 |----------------------|---|
 | Subscribers          | 18 |
 | Posts                | 7  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Un sublemmine pour tout ce qui concerne la ville de Québec et les environs <br>
 |----------------------|---|
 | Published            | 2023-06-11 23:44:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

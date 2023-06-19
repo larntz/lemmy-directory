@@ -3,19 +3,19 @@ title: "LGBTQ+"
 name: "lgbtq_plus"
 description: "All forms of queer news and culture. Nonsectarian and non-exclusionary.See also this community's sister subs [Feminism](https://beehaw.org/c/feminism), [Neurodivergence](https://beehaw.org/c/neurodivergence), [Disability](https://beehaw.org/c/disability), and [POC](https://beehaw.org/c/poc)---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/lgbtq_plus"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 2899
-posts: 341
-comments: 1279
-weight: 341
-dau: 113
-wau: 353
-mau: 475
+subscribers: 3184
+posts: 359
+comments: 1439
+weight: 359
+dau: 60
+wau: 340
+mau: 542
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ All forms of queer news and culture. Nonsectarian and non-exclusionary.<br><br>S
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2899 |
-| Posts                | 341  |
-| Comments             | 1279  |
-| Daily Active Users   | 113  |
-| Weekly Active Users  | 353  |
-| Monthly Active Users | 475  |
+| Subscribers          | 3184 |
+| Posts                | 359  |
+| Comments             | 1439  |
+| Daily Active Users   | 60  |
+| Weekly Active Users  | 340  |
+| Monthly Active Users | 542  |
 
 <br>
 
@@ -54,4 +54,4 @@ All forms of queer news and culture. Nonsectarian and non-exclusionary.<br><br>S
 |----------------------|---|
 | Published            | 2022-01-29 02:47:16 |
 | Updated              | 2023-06-15 17:26:54 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

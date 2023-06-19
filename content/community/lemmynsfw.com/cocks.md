@@ -3,19 +3,19 @@ title: "Cocks"
 name: "cocks"
 description: "This is a community dedicated to all cock lovers."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cocks"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 62
-posts: 4
-comments: 3
-weight: 4
-dau: 4
-wau: 8
-mau: 8
+subscribers: 142
+posts: 13
+comments: 8
+weight: 13
+dau: 3
+wau: 17
+mau: 17
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ This is a community dedicated to all cock lovers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 142 |
+| Posts                | 13  |
+| Comments             | 8  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
@@ -56,4 +56,4 @@ This is a community dedicated to all cock lovers.
 |----------------------|---|
 | Published            | 2023-06-13 05:34:19 |
 | Updated              | 2023-06-15 19:12:45 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

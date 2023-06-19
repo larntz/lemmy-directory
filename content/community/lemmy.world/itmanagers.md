@@ -3,7 +3,7 @@ title: "IT Managers"
 name: "itmanagers"
 description: "A place for IT Managers to help other IT Managers"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/itmanagers"
@@ -54,4 +54,4 @@ A place for IT Managers to help other IT Managers
 |----------------------|---|
 | Published            | 2023-06-14 00:54:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

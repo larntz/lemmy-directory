@@ -3,18 +3,18 @@ title: "Indie Country"
 name: "indiecountry"
 description: "For lovers of country music you won't hear on the radioFor lovers of bluegrass make sure to stop by at !bluegrass@lemmy.world"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiecountry"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 12
+subscribers: 17
+posts: 13
 comments: 13
-weight: 12
+weight: 13
 dau: 2
-wau: 5
+wau: 4
 mau: 5
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ For lovers of country music you won't hear on the radio<br>For lovers of bluegra
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 12  |
+| Subscribers          | 17 |
+| Posts                | 13  |
 | Comments             | 13  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ For lovers of country music you won't hear on the radio<br>For lovers of bluegra
 |----------------------|---|
 | Published            | 2023-06-10 01:59:03 |
 | Updated              | 2023-06-15 19:28:38 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,17 +3,17 @@ title: "Fall Guys"
 name: "fall_guys"
 description: "A community for all your Fall Guys needs."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fall_guys"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 5
 comments: 4
 weight: 5
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ A community for all your Fall Guys needs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 5  |
 | Comments             | 4  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ A community for all your Fall Guys needs.
 |----------------------|---|
 | Published            | 2023-06-15 18:55:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

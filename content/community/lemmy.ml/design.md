@@ -3,16 +3,16 @@ title: "Design"
 name: "design"
 description: "Artistic and industrial design"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/design"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 97
-posts: 7
+subscribers: 101
+posts: 8
 comments: 10
-weight: 7
+weight: 8
 dau: 1
 wau: 2
 mau: 3
@@ -41,8 +41,8 @@ Artistic and industrial design
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 7  |
+| Subscribers          | 101 |
+| Posts                | 8  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Artistic and industrial design
 |----------------------|---|
 | Published            | 2020-06-28 06:33:07 |
 | Updated              | 2021-01-29 13:29:44 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

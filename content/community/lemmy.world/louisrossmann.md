@@ -3,19 +3,19 @@ title: "Louis Rossmann: Unofficial Community"
 name: "louisrossmann"
 description: "Community for fans/supporters of Louis Rossmann and his work.## About Louis RossmannLouis Rossmann is a repair shop owner and a vocal supporter of the Right To Repair movement. He runs a YouTube channel with a variety of content - from board repair videos, to news and updates in the technology space.His insightful and reasonable opinions on technology and product ownership tend to attract a lot of attention.## Community Guidelines1. Be nice2. Respect others' perspectives3. Follow the rules of the instance we're hosted on: https://mastodon.world/about*Seeking additional moderators - please message if you think you'd be a good fit, or if you have experience moderating communities in general!*"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/louisrossmann"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 3
-comments: 0
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+subscribers: 20
+posts: 5
+comments: 2
+weight: 5
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for fans/supporters of Louis Rossmann and his work.<br><br>## About Lo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 20 |
+| Posts                | 5  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for fans/supporters of Louis Rossmann and his work.<br><br>## About Lo
 |----------------------|---|
 | Published            | 2023-06-14 11:12:35 |
 | Updated              | 2023-06-14 11:30:05 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

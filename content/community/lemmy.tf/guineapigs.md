@@ -3,13 +3,13 @@ title: "Guinea Pigs"
 name: "guineapigs"
 description: "A place to post pictures and talk about Guinea Pigs."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tf/c/guineapigs"
 host: lemmy.tf
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 8
 comments: 2
 weight: 8
@@ -41,7 +41,7 @@ A place to post pictures and talk about Guinea Pigs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 8  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to post pictures and talk about Guinea Pigs.
 |----------------------|---|
 | Published            | 2023-06-14 11:03:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

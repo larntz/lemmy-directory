@@ -3,13 +3,13 @@ title: "Expats in China"
 name: "chinalife"
 description: "A community for current and potential expats living in the People's Republic of China. Ask questions and find advice about shopping, getting around, paying bills, choosing services, housing, technology, and adjusting to a new lifestyle in one of the most fascinating countries on Earth."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/chinalife"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A community for current and potential expats living in the People's Republic of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for current and potential expats living in the People's Republic of 
 |----------------------|---|
 | Published            | 2023-06-13 01:18:15 |
 | Updated              | 2023-06-13 01:19:24 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

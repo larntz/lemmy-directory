@@ -3,7 +3,7 @@ title: "Journalism"
 name: "journalism"
 description: "Remember when journalists used to investigate and report the facts."
 type: community
-date: "2023-06-16 11:06:38"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/journalism"
@@ -54,4 +54,4 @@ Remember when journalists used to investigate and report the facts.
 |----------------------|---|
 | Published            | 2022-02-27 23:25:06 |
 | Updated              | 2022-03-13 01:05:19 |
-| Last Scraped         | 2023-06-16 11:06:38 |
+| Last Scraped         | 2023-06-19 11:35:38 |

@@ -3,13 +3,13 @@ title: "Small dogs"
 name: "small_dogs"
 description: "~small~ dogs"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/small_dogs"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-05-07 16:18:07 |
 | Updated              | 2023-05-07 19:00:30 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

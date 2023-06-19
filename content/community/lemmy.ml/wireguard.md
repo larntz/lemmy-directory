@@ -3,13 +3,13 @@ title: "WireGuard"
 name: "wireguard"
 description: "WireGuard - A fast, modern, secure VPN tunnel"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wireguard"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 21
 posts: 1
 comments: -1
 weight: 1
@@ -41,7 +41,7 @@ WireGuard - A fast, modern, secure VPN tunnel
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | -1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ WireGuard - A fast, modern, secure VPN tunnel
 |----------------------|---|
 | Published            | 2023-06-09 12:19:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,7 +3,7 @@ title: "India"
 name: "hinduism"
 description: "Official Lemmy page for India "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hinduism"
@@ -54,4 +54,4 @@ Official Lemmy page for India
 |----------------------|---|
 | Published            | 2023-06-13 22:35:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

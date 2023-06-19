@@ -3,17 +3,17 @@ title: "tarot"
 name: "tarot"
 description: "A Lemmy community dedicated to all things Tarot related"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tarot"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 1
+subscribers: 17
+posts: 2
 comments: 1
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ A Lemmy community dedicated to all things Tarot related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
+| Subscribers          | 17 |
+| Posts                | 2  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ A Lemmy community dedicated to all things Tarot related
 |----------------------|---|
 | Published            | 2023-06-14 06:13:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

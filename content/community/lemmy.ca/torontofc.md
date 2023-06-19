@@ -3,16 +3,16 @@ title: "Toronto FC"
 name: "torontofc"
 description: "**Rules**-   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. -   Be respectful, especially when disagreeing. Everyone should feel welcome here.-   No porn.-   No Ads / Spamming."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/torontofc"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 5
+subscribers: 6
+posts: 6
 comments: 1
-weight: 5
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 5  |
+| Subscribers          | 6 |
+| Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 21:26:49 |
 | Updated              | 2023-06-15 17:51:20 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

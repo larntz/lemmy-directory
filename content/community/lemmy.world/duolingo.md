@@ -3,18 +3,18 @@ title: "Duolingo"
 name: "duolingo"
 description: "All things Duolingo related! "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duolingo"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 71
-posts: 8
+subscribers: 96
+posts: 9
 comments: 9
-weight: 8
-dau: 3
-wau: 10
+weight: 9
+dau: 1
+wau: 9
 mau: 10
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ All things Duolingo related!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 8  |
+| Subscribers          | 96 |
+| Posts                | 9  |
 | Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ All things Duolingo related!
 |----------------------|---|
 | Published            | 2023-06-12 10:16:29 |
 | Updated              | 2023-06-12 10:30:17 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

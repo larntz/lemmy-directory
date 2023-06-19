@@ -3,16 +3,16 @@ title: "music"
 name: "music"
 description: "Talk about bands, artists, albums and songs"
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/music"
 host: zapad.nstr.no
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 3
+subscribers: 4
+posts: 4
 comments: 1
-weight: 3
+weight: 4
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Talk about bands, artists, albums and songs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
+| Subscribers          | 4 |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Talk about bands, artists, albums and songs
 |----------------------|---|
 | Published            | 2023-06-12 21:28:14 |
 | Updated              | 2023-06-15 17:01:36 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

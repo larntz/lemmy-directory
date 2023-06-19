@@ -3,13 +3,13 @@ title: "GenZedongRU"
 name: "genzedongru"
 description: "**GenZedong** для **Русско-говорящих** товарищей.🇷🇺🇨🇺🇨🇳"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongru"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-03-27 15:13:17 |
 | Updated              | 2022-03-28 03:28:55 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,13 +3,13 @@ title: "GNU's Not Unix"
 name: "gnu"
 description: "GNU related news and discussion."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnu"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 526
+subscribers: 525
 posts: 6
 comments: 1
 weight: 6
@@ -41,7 +41,7 @@ GNU related news and discussion.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 526 |
+| Subscribers          | 525 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ GNU related news and discussion.
 |----------------------|---|
 | Published            | 2019-10-02 21:40:20 |
 | Updated              | 2019-10-02 21:51:38 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:37:02 |

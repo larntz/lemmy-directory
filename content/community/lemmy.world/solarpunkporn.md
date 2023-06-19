@@ -3,7 +3,7 @@ title: "SolarpunkPorn"
 name: "solarpunkporn"
 description: "A community for the posting and celebration of solarpunk/eco futurist buildings and technology, real or imagined.AI Art, provided it still follows Lemmy.world rules and is in the theme of this sub (solarpunk, eco futurism, etc) is expressly allowed here."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/solarpunkporn"
@@ -54,4 +54,4 @@ A community for the posting and celebration of solarpunk/eco futurist buildings 
 |----------------------|---|
 | Published            | 2023-06-12 17:53:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

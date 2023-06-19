@@ -3,7 +3,7 @@ title: "Android Studio"
 name: "androidstudio"
 description: "A sublemmy where Android Studio users can talk."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidstudio"
@@ -54,4 +54,4 @@ A sublemmy where Android Studio users can talk.
 |----------------------|---|
 | Published            | 2021-12-14 19:56:47 |
 | Updated              | 2021-12-16 02:42:03 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:58 |

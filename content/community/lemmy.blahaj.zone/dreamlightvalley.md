@@ -3,19 +3,19 @@ title: "Disney Dreamlight Valley"
 name: "dreamlightvalley"
 description: "Everything Disney Dreamlight Valley.Disney Dreamlight Valley is a hybrid between a life simulator and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new. Coming Free To Play in 2023 to PS5, Xbox Series X/S, PS4, Xbox One, Switch, PC, and Mac. # Sister Communities:[!dreamlightvalley@lemmy.world](https://lemmy.world/c/dreamlightvalley)# Rules:1. Follow the instance rules and don't be rude. We're here to have fun and make new memories! 💖  2. No porn/NSFW. This *is* a family game.  3. Tag spoilers with [SPOILERS] and use spoiler tags within the post.  "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/dreamlightvalley"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
 subscribers: 11
-posts: 10
-comments: 6
-weight: 10
+posts: 12
+comments: 13
+weight: 12
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -42,11 +42,11 @@ Everything Disney Dreamlight Valley.<br><br>Disney Dreamlight Valley is a hybrid
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 11 |
-| Posts                | 10  |
-| Comments             | 6  |
+| Posts                | 12  |
+| Comments             | 13  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything Disney Dreamlight Valley.<br><br>Disney Dreamlight Valley is a hybrid
 |----------------------|---|
 | Published            | 2023-06-11 09:40:03 |
 | Updated              | 2023-06-16 09:07:40 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

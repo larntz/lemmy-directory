@@ -3,19 +3,19 @@ title: "Horror"
 name: "horror"
 description: "A place to discuss all things related to the horror genre, share your favourite content, and discover new content!# Rules* This community accepts content relating to: Big name horror franchises, indie horror, creepypasta and Nosleep stories, horror ARGs, and the like!* Fictional works only, no true crime or events that actually happened.* Be civil and respectful* Mark all spoilers* Don't post NSFW or obscene content* Advertising or sharing your own content *is* allowed, but don't do it incessantly."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/horror"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 541
-posts: 56
-comments: 87
-weight: 56
-dau: 7
-wau: 33
-mau: 43
+subscribers: 617
+posts: 57
+comments: 100
+weight: 57
+dau: 8
+wau: 36
+mau: 52
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss all things related to the horror genre, share your favourite 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 541 |
-| Posts                | 56  |
-| Comments             | 87  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 43  |
+| Subscribers          | 617 |
+| Posts                | 57  |
+| Comments             | 100  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 52  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss all things related to the horror genre, share your favourite 
 |----------------------|---|
 | Published            | 2022-07-28 18:57:06 |
 | Updated              | 2022-07-28 19:00:57 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

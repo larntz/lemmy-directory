@@ -3,7 +3,7 @@ title: "Cisco"
 name: "cisco"
 description: "For all your Cisco networking"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/cisco"
@@ -54,4 +54,4 @@ For all your Cisco networking
 |----------------------|---|
 | Published            | 2023-06-14 14:45:45 |
 | Updated              | 2023-06-14 14:46:50 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

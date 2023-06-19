@@ -3,7 +3,7 @@ title: "Thrash Metal"
 name: "thrashmetal"
 description: "Spectrum of Death"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thrashmetal"
@@ -54,4 +54,4 @@ Spectrum of Death
 |----------------------|---|
 | Published            | 2020-01-26 16:05:07 |
 | Updated              | 2020-12-17 18:40:49 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

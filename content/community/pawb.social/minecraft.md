@@ -3,15 +3,15 @@ title: "Minecraft"
 name: "minecraft"
 description: "A general community for content related to Minecraft. Can be related to vanilla Minecraft, modded Minecraft, technical Minecraft, Minecraft YouTubers, et cetera."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/minecraft"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 39
 posts: 4
-comments: 3
+comments: 4
 weight: 4
 dau: 1
 wau: 5
@@ -41,9 +41,9 @@ A general community for content related to Minecraft. Can be related to vanilla 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 39 |
 | Posts                | 4  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ A general community for content related to Minecraft. Can be related to vanilla 
 |----------------------|---|
 | Published            | 2023-06-11 23:42:03 |
 | Updated              | 2023-06-11 23:44:53 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

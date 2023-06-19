@@ -3,7 +3,7 @@ title: "Azure discussion"
 name: "azure"
 description: "Azure!"
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/azure"
@@ -54,4 +54,4 @@ Azure!
 |----------------------|---|
 | Published            | 2020-06-28 06:00:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

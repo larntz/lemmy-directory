@@ -3,7 +3,7 @@ title: "Internet of Things (IoT)"
 name: "iot"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/iot"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 22:34:37 |
 | Updated              | 2023-06-14 23:47:30 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

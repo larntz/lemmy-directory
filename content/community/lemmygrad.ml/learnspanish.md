@@ -3,13 +3,13 @@ title: "Learning Spanish for Deplorable Tankies"
 name: "learnspanish"
 description: "# Rules:1. Don't be rude1. Speak Spanish sometimes"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/learnspanish"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 58
 posts: 12
 comments: 156
 weight: 12
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 58 |
 | Posts                | 12  |
 | Comments             | 156  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-02 16:31:57 |
 | Updated              | 2023-01-25 10:02:21 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,13 +3,13 @@ title: "automation"
 name: "automation"
 description: "a place to share and discuss ideas about automation"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/automation"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ a place to share and discuss ideas about automation<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ a place to share and discuss ideas about automation<br>
 |----------------------|---|
 | Published            | 2020-10-05 13:48:55 |
 | Updated              | 2021-04-18 08:39:39 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

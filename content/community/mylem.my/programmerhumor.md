@@ -3,18 +3,18 @@ title: "ProgrammerHumor"
 name: "programmerhumor"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:17"
+date: "2023-06-19 11:35:19"
 draft: false
 nsfw: false
 actor_id: "https://mylem.my/c/programmerhumor"
 host: mylem.my
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "mylem_my"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 17:17:24 |
 | Updated              | 2023-06-11 17:17:49 |
-| Last Scraped         | 2023-06-16 22:56:17 |
+| Last Scraped         | 2023-06-19 11:35:19 |

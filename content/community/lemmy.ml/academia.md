@@ -3,7 +3,7 @@ title: "Academia"
 name: "academia"
 description: "A community for academics and students to talk or inquire about work and life in academia."
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/academia"
@@ -54,4 +54,4 @@ A community for academics and students to talk or inquire about work and life in
 |----------------------|---|
 | Published            | 2021-03-27 09:08:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

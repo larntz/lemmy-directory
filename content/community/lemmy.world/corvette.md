@@ -3,16 +3,16 @@ title: "Corvette - All Generations"
 name: "corvette"
 description: "Lemmy community for Chevrolet Corvette Enthusiast "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/corvette"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 1
+subscribers: 6
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Lemmy community for Chevrolet Corvette Enthusiast
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
+| Subscribers          | 6 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Lemmy community for Chevrolet Corvette Enthusiast
 |----------------------|---|
 | Published            | 2023-06-12 15:35:45 |
 | Updated              | 2023-06-12 15:43:55 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:41 |

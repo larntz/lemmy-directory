@@ -3,19 +3,19 @@ title: "Science"
 name: "science"
 description: "For science related discussions"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/science"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 13
+posts: 14
 comments: 10
-weight: 13
+weight: 14
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "exploding-heads_com"
 tags: 
@@ -42,11 +42,11 @@ For science related discussions
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 13  |
+| Posts                | 14  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ For science related discussions
 |----------------------|---|
 | Published            | 2023-02-03 20:40:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

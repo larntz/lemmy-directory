@@ -3,17 +3,17 @@ title: "XMPP"
 name: "xmpp"
 description: "[XMPP](https://xmpp.org/about/) (aka Jabber) is the community-owned standard for real-time federated messaging.[For a quick start click here](https://joinjabber.org/docs/)[JoinJabber.org support chat](https://joinjabber.org/support)[JoinJabber.org admin support chat](https://chat.joinjabber.org/#/guest?join=servers)[XMPP.net Provider List](https://providers.xmpp.net/)[Also see JoinJabber.org FAQ](https://joinjabber.org/docs/faqs/)"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/xmpp"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 4
-comments: 1
-weight: 4
-dau: 1
+subscribers: 23
+posts: 5
+comments: 2
+weight: 5
+dau: 2
 wau: 2
 mau: 4
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
+| Subscribers          | 23 |
+| Posts                | 5  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 19:45:45 |
 | Updated              | 2023-06-13 23:29:31 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

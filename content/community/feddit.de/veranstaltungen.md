@@ -3,7 +3,7 @@ title: "Veranstaltungen"
 name: "veranstaltungen"
 description: "Bitte ergänzt das Datum einer Veranstaltung, sofern es nicht aus Titel/Beschreibung hervorgeht!"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/veranstaltungen"
@@ -54,4 +54,4 @@ Bitte ergänzt das Datum einer Veranstaltung, sofern es nicht aus Titel/Beschrei
 |----------------------|---|
 | Published            | 2021-09-20 22:35:51 |
 | Updated              | 2021-10-22 06:35:11 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

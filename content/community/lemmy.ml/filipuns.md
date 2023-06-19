@@ -3,7 +3,7 @@ title: "filipuns"
 name: "filipuns"
 description: "Filipino Puniverse"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/filipuns"
@@ -54,4 +54,4 @@ Filipino Puniverse
 |----------------------|---|
 | Published            | 2023-06-12 09:18:05 |
 | Updated              | 2023-06-12 09:24:18 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

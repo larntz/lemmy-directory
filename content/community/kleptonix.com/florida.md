@@ -1,9 +1,9 @@
 ---
 title: "Florida" 
 name: "florida"
-description: "Hub for all things Florida including politics, news, and general discussion.Banner image is of Hallandale Beach, FL.Remember to follow the rules!"
+description: "Florida-specific news, announcements, and discussion.Banner is of Hallandale Beach, FL."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/florida"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Hub for all things Florida including politics, news, and general discussion.<br><br>Banner image is of Hallandale Beach, FL.<br><br>Remember to follow the rules!
+Florida-specific news, announcements, and discussion.<br><br>Banner is of Hallandale Beach, FL.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Hub for all things Florida including politics, news, and general discussion.<br>
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 02:12:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Updated              | 2023-06-18 01:26:13 |
+| Last Scraped         | 2023-06-19 11:35:24 |

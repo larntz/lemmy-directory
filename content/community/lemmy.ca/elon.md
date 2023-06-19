@@ -3,7 +3,7 @@ title: "Elon -> sub moving"
 name: "elon"
 description: "Moved to https://lemmy.ca/c/billionaire"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/elon"
@@ -54,4 +54,4 @@ Moved to https://lemmy.ca/c/billionaire
 |----------------------|---|
 | Published            | 2022-05-14 16:45:41 |
 | Updated              | 2023-01-27 13:08:35 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

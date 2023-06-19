@@ -3,13 +3,13 @@ title: "Mating Press"
 name: "matingpress"
 description: "A porn community dedicated to the Mating Press."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/matingpress"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 39
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ A porn community dedicated to the Mating Press.<br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 39 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ A porn community dedicated to the Mating Press.<br><br>
 |----------------------|---|
 | Published            | 2023-06-13 17:25:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,19 +3,19 @@ title: "Drenthe"
 name: "drenthe"
 description: "Welkom in Drenthe!"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/drenthe"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 6
+posts: 2
+comments: 2
+weight: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "feddit_nl"
 tags: 
@@ -41,12 +41,12 @@ Welkom in Drenthe!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 6 |
+| Posts                | 2  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welkom in Drenthe!
 |----------------------|---|
 | Published            | 2023-06-14 07:54:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

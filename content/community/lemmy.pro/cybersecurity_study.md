@@ -3,16 +3,16 @@ title: "Cybersecurity Education and Learning"
 name: "cybersecurity_study"
 description: "A community for the discussion of cybersecurity training, education, learning, certifications and similar. Be nice, no spam!"
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/cybersecurity_study"
 host: lemmy.pro
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 2
+subscribers: 8
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community for the discussion of cybersecurity training, education, learning, c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community for the discussion of cybersecurity training, education, learning, c
 |----------------------|---|
 | Published            | 2023-06-12 13:22:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:20 |

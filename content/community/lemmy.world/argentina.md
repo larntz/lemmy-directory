@@ -3,19 +3,19 @@ title: "Argentina"
 name: "argentina"
 description: "Comunidad argentina en lemmy.world**Reglas**- Nada de discriminación (racismo, misoginia, homofobia, transfobia, xenofobia, etc)- Sean respetuosos, especialmente cuando expresen desacuerdo. Que todos se sientan bienvenidos.- Nada de porno- Nada de ads / spamIcono gentileza de https://www.iconfinder.com/jerrylow"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/argentina"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 4
-comments: 22
-weight: 4
-dau: 3
-wau: 10
-mau: 10
+subscribers: 33
+posts: 6
+comments: 40
+weight: 6
+dau: 5
+wau: 13
+mau: 13
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Comunidad argentina en lemmy.world<br><br>**Reglas**<br>- Nada de discriminació
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 4  |
-| Comments             | 22  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Subscribers          | 33 |
+| Posts                | 6  |
+| Comments             | 40  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidad argentina en lemmy.world<br><br>**Reglas**<br>- Nada de discriminació
 |----------------------|---|
 | Published            | 2023-06-12 01:45:05 |
 | Updated              | 2023-06-12 02:04:54 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

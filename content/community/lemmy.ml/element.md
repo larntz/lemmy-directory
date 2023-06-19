@@ -3,7 +3,7 @@ title: "Element"
 name: "element"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/element"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-05-13 09:43:28 |
 | Updated              | 2021-05-15 19:33:36 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:55 |

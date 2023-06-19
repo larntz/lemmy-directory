@@ -3,7 +3,7 @@ title: "PH Finance"
 name: "phfinance"
 description: "Contains topics about personal finance, business finance, or even the PH finance industry as a whole."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phfinance"
@@ -54,4 +54,4 @@ Contains topics about personal finance, business finance, or even the PH finance
 |----------------------|---|
 | Published            | 2023-06-11 13:26:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

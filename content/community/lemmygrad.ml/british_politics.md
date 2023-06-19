@@ -3,19 +3,19 @@ title: "British Politics"
 name: "british_politics"
 description: "Discussion Community for talking about British Politics from a left wing view"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/british_politics"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 2
+subscribers: 52
+posts: 3
 comments: -5
-weight: 2
-dau: 7
+weight: 3
+dau: 1
 wau: 1
-mau: 4
+mau: 1
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion Community for talking about British Politics from a left wing view
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 2  |
+| Subscribers          | 52 |
+| Posts                | 3  |
 | Comments             | -5  |
-| Daily Active Users   | 7  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion Community for talking about British Politics from a left wing view
 |----------------------|---|
 | Published            | 2020-07-12 21:44:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

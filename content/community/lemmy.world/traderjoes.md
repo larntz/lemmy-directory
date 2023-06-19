@@ -1,15 +1,15 @@
 ---
 title: "Trader Joe's Unofficial" 
 name: "traderjoes"
-description: "Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. This is the first lemmy community I have created. Please make suggestions or volunteer to mod(is that even a thing here?)"
+description: "Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. This is the first lemmy community I have created. Please make suggestions or volunteer to mod."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/traderjoes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 68
+subscribers: 75
 posts: 3
 comments: 2
 weight: 3
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. <br><br>This is the first lemmy community I have created. Please make suggestions or volunteer to mod(is that even a thing here?)
+Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. <br><br>This is the first lemmy community I have created. Please make suggestions or volunteer to mod.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Completely unofficial community for all things Trader Joe's. Sign art, reviews o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
+| Subscribers          | 75 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ Completely unofficial community for all things Trader Joe's. Sign art, reviews o
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 19:07:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-17 17:55:48 |
+| Last Scraped         | 2023-06-19 11:36:37 |

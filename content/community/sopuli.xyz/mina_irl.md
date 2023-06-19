@@ -3,13 +3,13 @@ title: "Minä irl"
 name: "mina_irl"
 description: "Suomalaisten tunteiden tulkkiSamannimisen aliredditin sopuliversio.Säännöt olkoon siis samat:# Säännöt:- Postauksen otsikko: minä irl tai muunnelma- Postauksien pitää olla suomenkielisiä tai suomalaisuuteen liittyviä- Postaukset kuvina- Ei ulkoisia linkkejä (paitsi imgur ja muut kuvan jako sivustot), esim. uutiset kuvina- Repostaus on syntiä- Ei mitään sopimatonta, kuten esim. vähemmistöjä loukkaavaa tai rasistista sisältöä "
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/mina_irl"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Suomalaisten tunteiden tulkki<br><br><br><br>Samannimisen aliredditin sopulivers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Suomalaisten tunteiden tulkki<br><br><br><br>Samannimisen aliredditin sopulivers
 |----------------------|---|
 | Published            | 2023-06-07 19:43:06 |
 | Updated              | 2023-06-11 17:33:39 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,7 +3,7 @@ title: "Montana"
 name: "montana"
 description: "A place to discuss everything related to the Treasure State"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/montana"
@@ -54,4 +54,4 @@ A place to discuss everything related to the Treasure State
 |----------------------|---|
 | Published            | 2023-06-12 20:11:35 |
 | Updated              | 2023-06-12 20:15:31 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:42 |

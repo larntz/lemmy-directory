@@ -3,19 +3,19 @@ title: "Hardware"
 name: "hardware"
 description: "This is a community dedicated to the hardware aspect of technology, from PC parts, to gadgets, to servers, to industrial control equipment, to semiconductors.Rules:* Posts must be relevant to electronic hardware* No NSFW content* No hate speech, bigotry, etc "
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hardware"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2002
-posts: 160
-comments: 124
-weight: 160
-dau: 4
-wau: 20
-mau: 36
+subscribers: 2144
+posts: 170
+comments: 136
+weight: 170
+dau: 8
+wau: 23
+mau: 47
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a community dedicated to the hardware aspect of technology, from PC part
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2002 |
-| Posts                | 160  |
-| Comments             | 124  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 36  |
+| Subscribers          | 2144 |
+| Posts                | 170  |
+| Comments             | 136  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 47  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a community dedicated to the hardware aspect of technology, from PC part
 |----------------------|---|
 | Published            | 2020-02-27 19:39:00 |
 | Updated              | 2021-01-25 18:52:45 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,19 +3,19 @@ title: "childfree"
 name: "childfree"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/childfree"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 112
-posts: 4
-comments: 25
-weight: 4
-dau: 3
-wau: 20
-mau: 20
+subscribers: 189
+posts: 5
+comments: 39
+weight: 5
+dau: 6
+wau: 25
+mau: 27
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 4  |
-| Comments             | 25  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 189 |
+| Posts                | 5  |
+| Comments             | 39  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 00:06:59 |
 | Updated              | 2023-06-13 06:37:16 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

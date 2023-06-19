@@ -3,19 +3,19 @@ title: "Podcasts en català"
 name: "podcasts_en_catala"
 description: "Diu «podcasts», però crec que s'hauria d'acceptar qualsevol casta de publicació periòdica"
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/podcasts_en_catala"
 host: lemmy.cat
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 2
+subscribers: 5
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_cat"
 tags: 
@@ -41,12 +41,12 @@ Diu «podcasts», però crec que s'hauria d'acceptar qualsevol casta de publicac
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
+| Subscribers          | 5 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Diu «podcasts», però crec que s'hauria d'acceptar qualsevol casta de publicac
 |----------------------|---|
 | Published            | 2023-06-15 20:04:18 |
 | Updated              | 2023-06-15 20:05:12 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

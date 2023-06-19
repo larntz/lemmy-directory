@@ -3,19 +3,19 @@ title: "Guild Wars"
 name: "guildwars"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/guildwars"
 host: lemmy.wtf
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 5
+posts: 1
+comments: 6
+weight: 1
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_wtf"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 5 |
+| Posts                | 1  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 19:50:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Updated              | 2023-06-19 08:11:11 |
+| Last Scraped         | 2023-06-19 11:35:18 |

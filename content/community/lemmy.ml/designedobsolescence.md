@@ -3,7 +3,7 @@ title: "Designed Obsolescence"
 name: "designedobsolescence"
 description: "Electronic goods don't die naturally anymore - especially if they have software or networking capability.  They are sabotaged deliberately by their creators."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/designedobsolescence"
@@ -54,4 +54,4 @@ Electronic goods don't die naturally anymore - especially if they have software 
 |----------------------|---|
 | Published            | 2020-07-13 21:21:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

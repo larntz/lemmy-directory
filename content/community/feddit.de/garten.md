@@ -3,19 +3,19 @@ title: "Alles über den Garten"
 name: "garten"
 description: "Balkon, Terrasse, Fensterbank, Regal- oder klassischer Garten? Hier seid richtig! Teilt Bilder, diskutiert, holt euch Tipps und lasst uns zusammen gärtnern!"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/garten"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 31
 posts: 4
 comments: 8
 weight: 4
-dau: 4
-wau: 6
-mau: 6
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Balkon, Terrasse, Fensterbank, Regal- oder klassischer Garten? Hier seid richtig
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 31 |
 | Posts                | 4  |
 | Comments             | 8  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Balkon, Terrasse, Fensterbank, Regal- oder klassischer Garten? Hier seid richtig
 |----------------------|---|
 | Published            | 2023-06-12 18:32:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

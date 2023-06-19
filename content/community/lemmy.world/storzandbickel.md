@@ -3,7 +3,7 @@ title: "Storz and Bickel Products"
 name: "storzandbickel"
 description: "A place to discuss Storz and Bickel Products, Crafty(+). Mighty(+), Plenty, and Volcano Hybrid, Classic, and Digit."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/storzandbickel"
@@ -54,4 +54,4 @@ A place to discuss Storz and Bickel Products, Crafty(+). Mighty(+), Plenty, and 
 |----------------------|---|
 | Published            | 2023-06-12 15:50:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

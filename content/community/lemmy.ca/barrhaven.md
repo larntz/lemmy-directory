@@ -3,16 +3,16 @@ title: "Barrhaven"
 name: "barrhaven"
 description: "The Paris of Eastern Ontario"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/barrhaven"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ The Paris of Eastern Ontario
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The Paris of Eastern Ontario
 |----------------------|---|
 | Published            | 2023-06-12 19:25:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "DataHoarders"
 name: "datahoarders"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/datahoarders"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 68
+subscribers: 84
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
+| Subscribers          | 84 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 12:38:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,19 +3,19 @@ title: "reluctantstraightman"
 name: "reluctantstraightman"
 description: "Erotic stories by u/reluctantstraightmanLinks: [Patreon](https://www.patreon.com/reluctantman)[Substack](https://reluctantman.substack.com/)"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/reluctantstraightman"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 4
-comments: 2
-weight: 4
+subscribers: 49
+posts: 5
+comments: 6
+weight: 5
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Erotic stories by u/reluctantstraightman<br><br>Links:<br><br> [Patreon](https:/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 4  |
-| Comments             | 2  |
+| Subscribers          | 49 |
+| Posts                | 5  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Erotic stories by u/reluctantstraightman<br><br>Links:<br><br> [Patreon](https:/
 |----------------------|---|
 | Published            | 2023-06-13 12:33:31 |
 | Updated              | 2023-06-13 12:56:41 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

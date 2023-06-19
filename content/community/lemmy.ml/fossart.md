@@ -3,13 +3,13 @@ title: "FOSS Art"
 name: "fossart"
 description: "A community for art made with, and artists who create with FOSS, and discussions about said art and software"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fossart"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 169
+subscribers: 173
 posts: 21
 comments: 27
 weight: 21
@@ -41,7 +41,7 @@ A community for art made with, and artists who create with FOSS, and discussions
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 169 |
+| Subscribers          | 173 |
 | Posts                | 21  |
 | Comments             | 27  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for art made with, and artists who create with FOSS, and discussions
 |----------------------|---|
 | Published            | 2021-02-28 21:56:23 |
 | Updated              | 2021-09-21 21:02:40 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

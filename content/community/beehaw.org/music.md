@@ -3,19 +3,19 @@ title: "Music"
 name: "music"
 description: "Discussion about all things music, music production, and the music industry. Your own music is also acceptable here.---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/music"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 3865
-posts: 401
-comments: 1370
-weight: 401
-dau: 69
-wau: 555
-mau: 716
+subscribers: 4245
+posts: 480
+comments: 1561
+weight: 480
+dau: 50
+wau: 526
+mau: 799
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ Discussion about all things music, music production, and the music industry. You
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3865 |
-| Posts                | 401  |
-| Comments             | 1370  |
-| Daily Active Users   | 69  |
-| Weekly Active Users  | 555  |
-| Monthly Active Users | 716  |
+| Subscribers          | 4245 |
+| Posts                | 480  |
+| Comments             | 1561  |
+| Daily Active Users   | 50  |
+| Weekly Active Users  | 526  |
+| Monthly Active Users | 799  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about all things music, music production, and the music industry. You
 |----------------------|---|
 | Published            | 2022-01-28 16:09:28 |
 | Updated              | 2023-06-15 17:07:19 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

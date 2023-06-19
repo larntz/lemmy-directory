@@ -3,13 +3,13 @@ title: "➕ Community Requests"
 name: "community_requests"
 description: "A place to request the creation of new communities"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/community_requests"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 12
 weight: 1
@@ -41,7 +41,7 @@ A place to request the creation of new communities
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to request the creation of new communities
 |----------------------|---|
 | Published            | 2023-06-11 14:37:13 |
 | Updated              | 2023-06-11 22:32:26 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,19 +3,19 @@ title: "eero"
 name: "eero"
 description: "A place to have discussions, ask for help, and share new ideas related to the eero mesh Wi-Fi system."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eero"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 52
 posts: 5
-comments: 16
+comments: 22
 weight: 5
-dau: 1
-wau: 6
-mau: 10
+dau: 2
+wau: 8
+mau: 12
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to have discussions, ask for help, and share new ideas related to the ee
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 52 |
 | Posts                | 5  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 10  |
+| Comments             | 22  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to have discussions, ask for help, and share new ideas related to the ee
 |----------------------|---|
 | Published            | 2023-05-31 22:40:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:58 |

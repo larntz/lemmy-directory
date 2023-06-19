@@ -3,19 +3,19 @@ title: "SEGA"
 name: "sega"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sega"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 1
-comments: 3
-weight: 1
+subscribers: 28
+posts: 2
+comments: 4
+weight: 2
 dau: 1
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 1  |
-| Comments             | 3  |
+| Subscribers          | 28 |
+| Posts                | 2  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 22:19:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Updated              | 2023-06-17 09:41:08 |
+| Last Scraped         | 2023-06-19 11:36:38 |

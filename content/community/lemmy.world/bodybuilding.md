@@ -3,13 +3,13 @@ title: "bodybuilding"
 name: "bodybuilding"
 description: "bodybuilding"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bodybuilding"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 27
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ bodybuilding
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 27 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ bodybuilding
 |----------------------|---|
 | Published            | 2023-06-09 19:54:40 |
 | Updated              | 2023-06-09 20:35:35 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:42 |

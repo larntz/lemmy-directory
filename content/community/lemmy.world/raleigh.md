@@ -3,19 +3,19 @@ title: "Raleigh"
 name: "raleigh"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/raleigh"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 36
 posts: 6
-comments: 9
+comments: 11
 weight: 6
 dau: 1
-wau: 8
-mau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 36 |
 | Posts                | 6  |
-| Comments             | 9  |
+| Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 01:27:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

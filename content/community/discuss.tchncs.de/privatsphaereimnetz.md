@@ -3,19 +3,19 @@ title: "PrivatsphäreImNetz"
 name: "privatsphaereimnetz"
 description: "Eine Linksammlung zu deutschsprachigen Artikeln über: Chatkontrolle (Umgehung von Verschlüsselung, Online-Ausweispflicht...), IP-Überwachung, DNS-Überwachung, biometrische Überwachung, Cloud-Überwachung, Fluggastdatensammlung, Gesundheitsdatensammlung, Staatstrojaner, Tracking, ... außerdem wahrscheinlich irgendwann das Abknallen von Brieftauben und andere Maßnahmen, die verhindern sollen, dass Menschen vertraulich kommunizieren können. Auch hier: https://social.anoxinon.de/@privatsphaereimnetz"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/privatsphaereimnetz"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 78
-posts: 6
-comments: 4
-weight: 6
-dau: 1
-wau: 3
-mau: 3
+subscribers: 103
+posts: 7
+comments: 5
+weight: 7
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Eine Linksammlung zu deutschsprachigen Artikeln über: Chatkontrolle (Umgehung v
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 6  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 103 |
+| Posts                | 7  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Eine Linksammlung zu deutschsprachigen Artikeln über: Chatkontrolle (Umgehung v
 |----------------------|---|
 | Published            | 2023-06-12 14:09:24 |
 | Updated              | 2023-06-14 06:35:24 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

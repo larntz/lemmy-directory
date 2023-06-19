@@ -3,19 +3,19 @@ title: "How To Use Lemmy"
 name: "howto"
 description: "Helpful posts about how to use Lemmy"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/howto"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 65
 posts: 2
-comments: 15
+comments: 17
 weight: 2
-dau: 1
+dau: 2
 wau: 7
-mau: 7
+mau: 8
 instances:
 - "latte_isnot_coffee"
 tags: 
@@ -41,12 +41,12 @@ Helpful posts about how to use Lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 65 |
 | Posts                | 2  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
+| Comments             | 17  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Helpful posts about how to use Lemmy
 |----------------------|---|
 | Published            | 2023-06-09 03:06:19 |
 | Updated              | 2023-06-09 16:47:28 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,13 +3,13 @@ title: "A place to discuss, dissect and study misinformation campaigns."
 name: "narrative"
 description: "This is a place to discuss, dissect and study misinformation campaigns in an attempt to figure out why specific groups are saying specific lies. "
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/narrative"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ This is a place to discuss, dissect and study misinformation campaigns in an att
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a place to discuss, dissect and study misinformation campaigns in an att
 |----------------------|---|
 | Published            | 2021-05-25 01:57:33 |
 | Updated              | 2021-05-25 02:37:10 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

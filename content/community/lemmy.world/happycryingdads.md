@@ -3,7 +3,7 @@ title: "Happy Crying Dads"
 name: "happycryingdads"
 description: "Post of crying dads that will tears to your eyes"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/happycryingdads"
@@ -54,4 +54,4 @@ Post of crying dads that will tears to your eyes
 |----------------------|---|
 | Published            | 2023-06-15 21:20:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

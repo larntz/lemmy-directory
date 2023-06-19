@@ -3,7 +3,7 @@ title: "Emerson Media"
 name: "emersonmedia"
 description: "**Emerson Media** is a satirical news site that mimics the treatment of third world nations by Western media and flips it against the West instead."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/emersonmedia"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-09-28 06:33:26 |
 | Updated              | 2021-09-28 12:23:34 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

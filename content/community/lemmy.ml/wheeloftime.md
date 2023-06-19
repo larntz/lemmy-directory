@@ -3,19 +3,19 @@ title: "Wheel of Time"
 name: "wheeloftime"
 description: "Discussion of the Wheel of Time Books and Show."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wheeloftime"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 48
-posts: 4
-comments: 19
-weight: 4
-dau: 3
-wau: 7
-mau: 7
+subscribers: 56
+posts: 6
+comments: 20
+weight: 6
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion of the Wheel of Time Books and Show.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 4  |
-| Comments             | 19  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 56 |
+| Posts                | 6  |
+| Comments             | 20  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion of the Wheel of Time Books and Show.
 |----------------------|---|
 | Published            | 2023-06-01 14:13:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

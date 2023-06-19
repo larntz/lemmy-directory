@@ -3,7 +3,7 @@ title: "ABB FIA Formula E Championship"
 name: "formulae"
 description: "https://results.fiaformulae.com/"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/formulae"
@@ -54,4 +54,4 @@ https://results.fiaformulae.com/
 |----------------------|---|
 | Published            | 2020-06-05 18:27:22 |
 | Updated              | 2020-06-05 21:40:12 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

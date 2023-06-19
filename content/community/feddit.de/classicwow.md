@@ -3,13 +3,13 @@ title: "World of Warcraft Classic"
 name: "classicwow"
 description: "Home for World of Warcraft Classic and World of Warcraft WotLK Classic"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/classicwow"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 17
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Home for World of Warcraft Classic and World of Warcraft WotLK Classic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 17 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Home for World of Warcraft Classic and World of Warcraft WotLK Classic
 |----------------------|---|
 | Published            | 2023-06-12 10:10:26 |
 | Updated              | 2023-06-12 10:17:52 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

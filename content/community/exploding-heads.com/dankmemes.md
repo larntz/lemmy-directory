@@ -3,19 +3,19 @@ title: "Dank memes"
 name: "dankmemes"
 description: "Bruh"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/dankmemes"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 48
-posts: 54
-comments: 39
-weight: 54
-dau: 5
-wau: 8
-mau: 9
+subscribers: 67
+posts: 57
+comments: 46
+weight: 57
+dau: 4
+wau: 12
+mau: 13
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Bruh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 54  |
-| Comments             | 39  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Subscribers          | 67 |
+| Posts                | 57  |
+| Comments             | 46  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -54,4 +54,4 @@ Bruh
 |----------------------|---|
 | Published            | 2023-02-03 11:13:43 |
 | Updated              | 2023-02-03 12:09:16 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

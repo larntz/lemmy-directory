@@ -3,13 +3,13 @@ title: "Murdered By Words"
 name: "murderedbywords"
 description: "Next time, remember the golden rule: Do unto others as you would have others do unto you. I bet you wouldn't feel very good if a screenshot of you being insulted were posted somewhere called murdered by words"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/murderedbywords"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 33
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Next time, remember the golden rule: Do unto others as you would have others do 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 33 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Next time, remember the golden rule: Do unto others as you would have others do 
 |----------------------|---|
 | Published            | 2023-06-12 09:37:52 |
 | Updated              | 2023-06-12 09:48:40 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

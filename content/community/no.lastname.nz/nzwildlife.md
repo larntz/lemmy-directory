@@ -3,19 +3,19 @@ title: "New Zealand Wildlife"
 name: "nzwildlife"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/nzwildlife"
 host: no.lastname.nz
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 7
-comments: 10
-weight: 7
-dau: 1
-wau: 8
-mau: 8
+subscribers: 30
+posts: 13
+comments: 17
+weight: 13
+dau: 3
+wau: 9
+mau: 9
 instances:
 - "no_lastname_nz"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 7  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 30 |
+| Posts                | 13  |
+| Comments             | 17  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 01:20:22 |
-| Updated              | 2023-06-15 06:09:20 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Updated              | 2023-06-19 08:10:21 |
+| Last Scraped         | 2023-06-19 11:35:09 |

@@ -3,13 +3,13 @@ title: "Communism"
 name: "leftwingmusic"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftwingmusic"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 45
 posts: 8
 comments: 1
 weight: 8
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 45 |
 | Posts                | 8  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-23 02:21:43 |
 | Updated              | 2022-08-26 22:21:13 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

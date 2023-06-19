@@ -3,13 +3,13 @@ title: "Survivors of Child Abuse"
 name: "survivorschildabuse"
 description: "Venting and support! Please keep it SFW."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/survivorschildabuse"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Venting and support! Please keep it SFW.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Venting and support! Please keep it SFW.
 |----------------------|---|
 | Published            | 2021-02-15 00:51:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

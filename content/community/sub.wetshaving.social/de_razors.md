@@ -3,7 +3,7 @@ title: "Double Edge Razors"
 name: "de_razors"
 description: "A community to discuss double edge razors in depthe"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/de_razors"
@@ -14,7 +14,7 @@ posts: 2
 comments: 9
 weight: 2
 dau: 1
-wau: 8
+wau: 6
 mau: 8
 instances:
 - "sub_wetshaving_social"
@@ -45,7 +45,7 @@ A community to discuss double edge razors in depthe
 | Posts                | 2  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 8  |
 
 <br>
@@ -54,4 +54,4 @@ A community to discuss double edge razors in depthe
 |----------------------|---|
 | Published            | 2023-06-10 00:51:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

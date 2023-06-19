@@ -3,13 +3,13 @@ title: "Politics"
 name: "politics"
 description: "A community for ~~US~~ politics"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/politics"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 61
 posts: 7
 comments: 5
 weight: 7
@@ -41,7 +41,7 @@ A community for ~~US~~ politics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 61 |
 | Posts                | 7  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for ~~US~~ politics
 |----------------------|---|
 | Published            | 2023-06-13 23:34:58 |
 | Updated              | 2023-06-15 01:09:22 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

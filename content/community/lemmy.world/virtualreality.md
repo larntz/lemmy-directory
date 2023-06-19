@@ -3,19 +3,19 @@ title: "Virtual Reality"
 name: "virtualreality"
 description: "General interest board for all things VR, MR, XR, etc. "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virtualreality"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 122
-posts: 5
-comments: 17
-weight: 5
-dau: 5
-wau: 9
-mau: 9
+subscribers: 162
+posts: 7
+comments: 19
+weight: 7
+dau: 1
+wau: 11
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ General interest board for all things VR, MR, XR, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
-| Posts                | 5  |
-| Comments             | 17  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 162 |
+| Posts                | 7  |
+| Comments             | 19  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ General interest board for all things VR, MR, XR, etc.
 |----------------------|---|
 | Published            | 2023-06-13 15:33:15 |
 | Updated              | 2023-06-13 15:36:11 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

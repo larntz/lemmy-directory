@@ -3,13 +3,13 @@ title: "kelowna"
 name: "kelowna"
 description: "Okanagan and beyond"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kelowna"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ Okanagan and beyond
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Okanagan and beyond
 |----------------------|---|
 | Published            | 2021-12-16 23:57:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

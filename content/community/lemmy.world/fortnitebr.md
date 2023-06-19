@@ -3,7 +3,7 @@ title: "Fortnite BR"
 name: "fortnitebr"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fortnitebr"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:33:26 |
 | Updated              | 2023-06-09 20:37:23 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

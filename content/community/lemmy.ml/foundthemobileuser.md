@@ -3,7 +3,7 @@ title: "Found the mobile user"
 name: "foundthemobileuser"
 description: "When someone capitalises the first letter of a community name ex: R/, C/, S/ etc."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foundthemobileuser"
@@ -54,4 +54,4 @@ When someone capitalises the first letter of a community name ex: R/, C/, S/ etc
 |----------------------|---|
 | Published            | 2023-06-04 06:34:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

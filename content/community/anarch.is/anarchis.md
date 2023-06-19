@@ -3,7 +3,7 @@ title: "Anarch.is"
 name: "anarchis"
 description: "For instance-wide announcements and discussions about the instance."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/anarchis"
@@ -14,7 +14,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "anarch_is"
@@ -45,7 +45,7 @@ For instance-wide announcements and discussions about the instance.
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ For instance-wide announcements and discussions about the instance.
 |----------------------|---|
 | Published            | 2023-06-11 17:46:23 |
 | Updated              | 2023-06-11 19:08:46 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

@@ -3,15 +3,15 @@ title: "Permaculture "
 name: "permaculture"
 description: "What permaculture projects are you working on?  Any cool designs you've seen recently?"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/permaculture"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 10
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ What permaculture projects are you working on?  Any cool designs you've seen rec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 10 |
 | Posts                | 2  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ What permaculture projects are you working on?  Any cool designs you've seen rec
 |----------------------|---|
 | Published            | 2023-06-16 21:05:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

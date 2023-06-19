@@ -3,13 +3,13 @@ title: "Mets"
 name: "mets"
 description: "Let’s go Mets! Mets’ new home on the Fediverse. 1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mets"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 13
 posts: 4
 comments: 7
 weight: 4
@@ -41,7 +41,7 @@ Let’s go Mets! Mets’ new home on the Fediverse. <br><br>1. Be respectful (no
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 13 |
 | Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Let’s go Mets! Mets’ new home on the Fediverse. <br><br>1. Be respectful (no
 |----------------------|---|
 | Published            | 2023-06-12 22:44:05 |
 | Updated              | 2023-06-13 18:46:57 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

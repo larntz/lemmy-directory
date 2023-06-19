@@ -3,19 +3,19 @@ title: "Starfield"
 name: "starfield"
 description: "Discussion about Starfield by Bethesda Game Studios"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starfield"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 36
 posts: 4
-comments: 3
+comments: 5
 weight: 4
-dau: 2
-wau: 5
-mau: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Discussion about Starfield by Bethesda Game Studios
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 36 |
 | Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about Starfield by Bethesda Game Studios
 |----------------------|---|
 | Published            | 2023-06-10 21:22:41 |
 | Updated              | 2023-06-10 21:24:52 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

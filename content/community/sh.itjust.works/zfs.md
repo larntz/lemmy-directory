@@ -3,13 +3,13 @@ title: "ZFS"
 name: "zfs"
 description: "A lemmy community for ZFS, Previously: The Zettabyte File System."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/zfs"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 51
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ A lemmy community for ZFS, Previously: The Zettabyte File System.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 51 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A lemmy community for ZFS, Previously: The Zettabyte File System.
 |----------------------|---|
 | Published            | 2023-06-08 12:18:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

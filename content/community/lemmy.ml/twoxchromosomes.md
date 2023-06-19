@@ -3,13 +3,13 @@ title: "twoxchromosomes"
 name: "twoxchromosomes"
 description: "All people are welcome here"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twoxchromosomes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 25
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ All people are welcome here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 25 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ All people are welcome here
 |----------------------|---|
 | Published            | 2023-06-13 21:25:34 |
 | Updated              | 2023-06-15 08:03:10 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

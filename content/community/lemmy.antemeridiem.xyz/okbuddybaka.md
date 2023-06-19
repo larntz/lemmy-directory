@@ -3,19 +3,19 @@ title: "okbuddybaka"
 name: "okbuddybaka"
 description: "ohayou gozaimasu post stupid anime memes baka"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/okbuddybaka"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 97
-posts: 23
-comments: 30
-weight: 23
-dau: 4
-wau: 11
-mau: 11
+subscribers: 141
+posts: 29
+comments: 34
+weight: 29
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "lemmy_antemeridiem_xyz"
 tags: 
@@ -41,12 +41,12 @@ ohayou gozaimasu post stupid anime memes baka
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 23  |
-| Comments             | 30  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Subscribers          | 141 |
+| Posts                | 29  |
+| Comments             | 34  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ ohayou gozaimasu post stupid anime memes baka
 |----------------------|---|
 | Published            | 2023-06-10 17:29:01 |
 | Updated              | 2023-06-13 16:33:38 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

@@ -3,7 +3,7 @@ title: "Military is when iPhone"
 name: "militaryiswheniphone"
 description: "![](https://lemmy.ml/pictrs/image/9dce0e64-4ef8-4b97-8c64-e375ea7e9f3d.png)"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/militaryiswheniphone"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-08 15:36:36 |
 | Updated              | 2023-06-08 15:41:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

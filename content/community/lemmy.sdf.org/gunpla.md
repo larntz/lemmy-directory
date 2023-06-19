@@ -3,7 +3,7 @@ title: "gunpla"
 name: "gunpla"
 description: "For fans and builders of Mobile Suit Gundam plastic models.#### Rules- Be positive- Gunpla is freedom- All skill levels welcome, from your first build to custom painted resin upgraded beasts"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/gunpla"
@@ -54,4 +54,4 @@ For fans and builders of Mobile Suit Gundam plastic models.<br><br>#### Rules<br
 |----------------------|---|
 | Published            | 2023-06-12 15:14:40 |
 | Updated              | 2023-06-15 06:15:13 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

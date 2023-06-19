@@ -3,15 +3,15 @@ title: "TransLater"
 name: "translater"
 description: "A community for trans folk who transitioned or are transitioning later in life.Bigotry is not welcome. Please report any occurrences of homophobia, transphobia or other exclusionary content, and it will be removed! Users posting bigoted material will be perma banned/suspended."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/translater"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 54
 posts: 1
-comments: 5
+comments: 8
 weight: 1
 dau: 1
 wau: 4
@@ -41,9 +41,9 @@ A community for trans folk who transitioned or are transitioning later in life.<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 54 |
 | Posts                | 1  |
-| Comments             | 5  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ A community for trans folk who transitioned or are transitioning later in life.<
 |----------------------|---|
 | Published            | 2023-06-13 05:50:01 |
 | Updated              | 2023-06-14 06:05:07 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,7 +3,7 @@ title: "The Dark Tower"
 name: "dark_tower"
 description: "Discussion of all things that serve the beam."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/dark_tower"
@@ -54,4 +54,4 @@ Discussion of all things that serve the beam.
 |----------------------|---|
 | Published            | 2023-06-11 15:39:32 |
 | Updated              | 2023-06-12 14:55:14 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

@@ -3,7 +3,7 @@ title: "Manchester City"
 name: "mcfc"
 description: "For the fans of Manchester City Football Club."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/mcfc"
@@ -14,7 +14,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_uk"
@@ -45,7 +45,7 @@ For the fans of Manchester City Football Club.
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ For the fans of Manchester City Football Club.
 |----------------------|---|
 | Published            | 2023-06-11 10:37:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

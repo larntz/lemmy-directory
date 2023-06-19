@@ -3,13 +3,13 @@ title: "Madden Football"
 name: "madden"
 description: "A place to discuss the game we all love to hate. Keep it clean please"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/madden"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss the game we all love to hate. Keep it clean please
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss the game we all love to hate. Keep it clean please
 |----------------------|---|
 | Published            | 2023-06-14 19:23:57 |
 | Updated              | 2023-06-14 19:26:21 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

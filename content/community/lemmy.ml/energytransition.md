@@ -3,7 +3,7 @@ title: "Energy Transition and Democracy"
 name: "energytransition"
 description: "Energia Trantsizio Demokratikoari buruzko berriak eta artikulu zientifikoakNoticias y artículos científico sobre Transición Energética y DemocraciaNews and scientific papers about Energy Transition and Democracy"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/energytransition"
@@ -54,4 +54,4 @@ Energia Trantsizio Demokratikoari buruzko berriak eta artikulu zientifikoak<br>N
 |----------------------|---|
 | Published            | 2020-08-11 07:38:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

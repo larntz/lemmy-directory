@@ -3,18 +3,18 @@ title: "LaTeX"
 name: "latex"
 description: "Community dedicated to the [LaTeX](https://www.latex-project.org/) markup language."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/latex"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 73
+subscribers: 76
 posts: 4
-comments: 7
+comments: 8
 weight: 4
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Community dedicated to the [LaTeX](https://www.latex-project.org/) markup langua
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 73 |
+| Subscribers          | 76 |
 | Posts                | 4  |
-| Comments             | 7  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Community dedicated to the [LaTeX](https://www.latex-project.org/) markup langua
 |----------------------|---|
 | Published            | 2020-08-11 19:28:39 |
 | Updated              | 2021-05-01 20:35:58 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

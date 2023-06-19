@@ -3,19 +3,19 @@ title: "LEGO"
 name: "lego"
 description: "Show off your Lego, discuss your MOC's and builds, and talk news and upcoming sets here!**Rules** 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. 2    Be respectful, especially when disagreeing. Everyone should feel welcome here.3    No porn.4    No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lego"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 474
-posts: 18
-comments: 46
-weight: 18
-dau: 4
-wau: 27
-mau: 27
+subscribers: 620
+posts: 24
+comments: 73
+weight: 24
+dau: 3
+wau: 36
+mau: 36
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Show off your Lego, discuss your MOC's and builds, and talk news and upcoming se
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 474 |
-| Posts                | 18  |
-| Comments             | 46  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 27  |
-| Monthly Active Users | 27  |
+| Subscribers          | 620 |
+| Posts                | 24  |
+| Comments             | 73  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 36  |
 
 <br>
 
@@ -54,4 +54,4 @@ Show off your Lego, discuss your MOC's and builds, and talk news and upcoming se
 |----------------------|---|
 | Published            | 2023-06-11 11:40:25 |
 | Updated              | 2023-06-11 11:41:01 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "WTF"
 name: "wtf"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wtf"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 518
+subscribers: 646
 posts: 3
 comments: 9
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 518 |
+| Subscribers          | 646 |
 | Posts                | 3  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:32:37 |
 | Updated              | 2023-06-09 20:39:25 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

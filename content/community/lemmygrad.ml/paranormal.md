@@ -3,13 +3,13 @@ title: "Paranormal"
 name: "paranormal"
 description: "An experimental community to discuss the paranormal from a Marxist perspective."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/paranormal"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ An experimental community to discuss the paranormal from a Marxist perspective.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ An experimental community to discuss the paranormal from a Marxist perspective.
 |----------------------|---|
 | Published            | 2020-10-16 08:26:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

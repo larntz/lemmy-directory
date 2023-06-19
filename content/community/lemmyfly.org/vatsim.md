@@ -3,15 +3,15 @@ title: "Vatsim"
 name: "vatsim"
 description: "anything related to flying online using Vatsim"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/vatsim"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 1
 wau: 2
@@ -41,9 +41,9 @@ anything related to flying online using Vatsim
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 2  |
-| Comments             | 0  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ anything related to flying online using Vatsim
 |----------------------|---|
 | Published            | 2023-06-14 11:27:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

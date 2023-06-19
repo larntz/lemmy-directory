@@ -3,13 +3,13 @@ title: "MSP"
 name: "msp"
 description: "Community for IT Managed Services Providers"
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msp"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for IT Managed Services Providers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for IT Managed Services Providers
 |----------------------|---|
 | Published            | 2023-06-05 10:27:40 |
 | Updated              | 2023-06-05 10:28:48 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,13 +3,13 @@ title: "furry_irl but on Lemmy"
 name: "furry_irl"
 description: "Welcome to furry_irl, Lemmy edition!"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/furry_irl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 64
+subscribers: 72
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Welcome to furry_irl, Lemmy edition!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
+| Subscribers          | 72 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to furry_irl, Lemmy edition!
 |----------------------|---|
 | Published            | 2020-06-08 00:40:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

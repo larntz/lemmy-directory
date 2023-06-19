@@ -3,7 +3,7 @@ title: "Kung Fu"
 name: "kungfu"
 description: "Kung Fu - 功夫  An English community dedicated to the Material Arts style.Logo from Pixabay, banner from Unsplash"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kungfu"
@@ -54,4 +54,4 @@ Kung Fu - 功夫  <br>An English community dedicated to the Material Arts style.
 |----------------------|---|
 | Published            | 2023-05-26 18:59:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

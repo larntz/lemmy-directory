@@ -3,19 +3,19 @@ title: "Bobiverse"
 name: "bobiverse"
 description: "A place to discuss the Bobiverse book series by Dennis E. Taylor    Click  [Here](http://dennisetaylor.org/status-of-things/) go to Dennis' Status Of Things page for the latest news on Book 5 of the Bobiverse series.      Credit to Reddit User geuis for the icon image"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bobiverse"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 46
 posts: 3
-comments: 9
+comments: 11
 weight: 3
-dau: 2
-wau: 8
-mau: 8
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss the Bobiverse book series by Dennis E. Taylor  <br>  <br>Clic
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 46 |
 | Posts                | 3  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Comments             | 11  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss the Bobiverse book series by Dennis E. Taylor  <br>  <br>Clic
 |----------------------|---|
 | Published            | 2023-06-12 19:01:55 |
 | Updated              | 2023-06-14 23:45:15 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

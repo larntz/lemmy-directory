@@ -3,19 +3,19 @@ title: "Proxmox"
 name: "proxmox"
 description: "Proxmox VE is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform. With the integrated web-based user interface you can manage VMs and containers, high availability for clusters, or the integrated disaster recovery tools with ease.[Proxmox VE Official site](https://www.proxmox.com/en/proxmox-ve)[K3S on Proxmox LXC](https://garrettmills.dev/blog/2022/04/18/Rancher-K3s-Kubernetes-on-Proxmox-Container/)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/proxmox"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 1
-mau: 1
+subscribers: 56
+posts: 2
+comments: 11
+weight: 2
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Proxmox VE is a complete, open-source server management platform for enterprise 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 56 |
+| Posts                | 2  |
+| Comments             | 11  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Proxmox VE is a complete, open-source server management platform for enterprise 
 |----------------------|---|
 | Published            | 2023-06-15 00:23:42 |
 | Updated              | 2023-06-15 00:35:55 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

@@ -3,7 +3,7 @@ title: "WinKDE"
 name: "winkde"
 description: "The KDE Plasma Desktop, simplified."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/winkde"
@@ -54,4 +54,4 @@ The KDE Plasma Desktop, simplified.
 |----------------------|---|
 | Published            | 2021-09-03 01:39:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

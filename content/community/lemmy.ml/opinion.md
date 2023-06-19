@@ -3,7 +3,7 @@ title: "Opinion"
 name: "opinion"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opinion"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-10-01 20:16:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

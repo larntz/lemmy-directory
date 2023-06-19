@@ -3,7 +3,7 @@ title: "Suomi"
 name: "fin"
 description: "Testiyhteisö"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fin"
@@ -54,4 +54,4 @@ Testiyhteisö
 |----------------------|---|
 | Published            | 2021-01-23 15:04:07 |
 | Updated              | 2021-01-23 15:26:36 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:53 |

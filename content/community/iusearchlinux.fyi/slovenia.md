@@ -3,7 +3,7 @@ title: "Slovenia"
 name: "slovenia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/slovenia"
@@ -11,11 +11,11 @@ host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
 subscribers: 5
 posts: 6
-comments: 13
+comments: 16
 weight: 6
-dau: 4
-wau: 5
-mau: 5
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "iusearchlinux_fyi"
 tags: 
@@ -43,10 +43,10 @@ Description not available.
 |----------------------|---|
 | Subscribers          | 5 |
 | Posts                | 6  |
-| Comments             | 13  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 16  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 08:34:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

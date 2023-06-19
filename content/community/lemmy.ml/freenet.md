@@ -3,7 +3,7 @@ title: "Freenet"
 name: "freenet"
 description: "https://freenet.org/"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freenet"
@@ -54,4 +54,4 @@ https://freenet.org/
 |----------------------|---|
 | Published            | 2023-06-16 17:37:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

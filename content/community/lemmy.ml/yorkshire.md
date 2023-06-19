@@ -3,7 +3,7 @@ title: "Yorkshire"
 name: "yorkshire"
 description: "News, conversation and humour from Yorkshire, England"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yorkshire"
@@ -54,4 +54,4 @@ News, conversation and humour from Yorkshire, England
 |----------------------|---|
 | Published            | 2021-02-26 13:50:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:49 |

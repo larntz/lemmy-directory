@@ -3,7 +3,7 @@ title: "Szkolenia i Webinary"
 name: "szkolenia_webinary"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/szkolenia_webinary"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-16 17:40:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

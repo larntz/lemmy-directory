@@ -3,7 +3,7 @@ title: "Post Fascists Trying To Organise"
 name: "hogwatch"
 description: "A place for posting what the piggies are up to. Post any screenshots / threads relating to fascist organising. Inspired by a politically-illiterate infiltrator. Thanks for the idea!"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/hogwatch"
@@ -54,4 +54,4 @@ A place for posting what the piggies are up to. Post any screenshots / threads r
 |----------------------|---|
 | Published            | 2022-03-27 04:05:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

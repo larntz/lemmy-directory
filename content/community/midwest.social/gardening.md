@@ -3,19 +3,19 @@ title: "Gardening"
 name: "gardening"
 description: "A community to discuss gardening"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/gardening"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 223
-posts: 12
+subscribers: 254
+posts: 13
 comments: 51
-weight: 12
+weight: 13
 dau: 1
-wau: 17
-mau: 27
+wau: 7
+mau: 28
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss gardening
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
-| Posts                | 12  |
+| Subscribers          | 254 |
+| Posts                | 13  |
 | Comments             | 51  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 27  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 28  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss gardening
 |----------------------|---|
 | Published            | 2023-06-03 11:26:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

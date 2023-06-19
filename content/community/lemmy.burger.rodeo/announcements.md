@@ -3,19 +3,19 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements/Changelogs go here."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/announcements"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 62
+subscribers: 70
 posts: 20
-comments: 177
+comments: 187
 weight: 20
-dau: 3
-wau: 48
-mau: 55
+dau: 2
+wau: 40
+mau: 58
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,17 +41,17 @@ Announcements/Changelogs go here.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 62 |
+| Subscribers          | 70 |
 | Posts                | 20  |
-| Comments             | 177  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 48  |
-| Monthly Active Users | 55  |
+| Comments             | 187  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 40  |
+| Monthly Active Users | 58  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-05 15:58:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Updated              | 2023-06-18 19:54:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

@@ -3,7 +3,7 @@ title: "community for Marxists and leftcommunists of all stripes"
 name: "leftcommunism"
 description: "Be nice. No defense of China, Cuba, et al. This is a place for Marxists. Articles ok please write something about it in the body. No low effort shitting posts and no wreckers just post good memes thanks"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftcommunism"
@@ -54,4 +54,4 @@ Be nice. No defense of China, Cuba, et al. This is a place for Marxists. Article
 |----------------------|---|
 | Published            | 2019-09-04 18:35:24 |
 | Updated              | 2019-09-06 09:18:45 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

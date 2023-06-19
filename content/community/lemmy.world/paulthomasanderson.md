@@ -3,16 +3,16 @@ title: "Paul Thomas Anderson"
 name: "paulthomasanderson"
 description: "A Place for Fans to Gather and Discuss All Things Paul Thomas Anderson."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paulthomasanderson"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 9
+posts: 10
 comments: 0
-weight: 9
+weight: 10
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ A Place for Fans to Gather and Discuss All Things Paul Thomas Anderson.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 9  |
+| Posts                | 10  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A Place for Fans to Gather and Discuss All Things Paul Thomas Anderson.
 |----------------------|---|
 | Published            | 2023-06-12 04:28:19 |
 | Updated              | 2023-06-12 04:38:41 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

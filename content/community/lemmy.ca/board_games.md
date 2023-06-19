@@ -3,15 +3,15 @@ title: "Board Games"
 name: "board_games"
 description: "Welcome to board_games! A new and emerging community for information, and discussion about modern board games.  Come discuss your favorite games and discover new ones!"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/board_games"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 135
+subscribers: 157
 posts: 4
-comments: 42
+comments: 44
 weight: 4
 dau: 4
 wau: 18
@@ -41,9 +41,9 @@ Welcome to board_games! A new and emerging community for information, and discus
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 135 |
+| Subscribers          | 157 |
 | Posts                | 4  |
-| Comments             | 42  |
+| Comments             | 44  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 18  |
 | Monthly Active Users | 18  |
@@ -54,4 +54,4 @@ Welcome to board_games! A new and emerging community for information, and discus
 |----------------------|---|
 | Published            | 2023-06-10 19:50:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

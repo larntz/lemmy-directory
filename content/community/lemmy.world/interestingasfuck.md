@@ -3,13 +3,13 @@ title: "interestingasfuck"
 name: "interestingasfuck"
 description: "interestingasfuck"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/interestingasfuck"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 81
+subscribers: 97
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ interestingasfuck
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 81 |
+| Subscribers          | 97 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ interestingasfuck
 |----------------------|---|
 | Published            | 2023-06-11 09:27:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,18 +3,18 @@ title: "Soccer, The World's Game"
 name: "soccer"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soccer"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 673
-posts: 130
+subscribers: 711
+posts: 131
 comments: 134
-weight: 130
+weight: 131
 dau: 4
-wau: 51
+wau: 27
 mau: 65
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 673 |
-| Posts                | 130  |
+| Subscribers          | 711 |
+| Posts                | 131  |
 | Comments             | 134  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 51  |
+| Weekly Active Users  | 27  |
 | Monthly Active Users | 65  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-10-16 17:48:28 |
 | Updated              | 2023-06-09 17:44:23 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:56 |

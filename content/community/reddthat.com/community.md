@@ -3,19 +3,19 @@ title: "Reddthat Community"
 name: "community"
 description: "For all chit chat relating to the Reddthat community."
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/community"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 9
 posts: 3
-comments: 8
+comments: 12
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "reddthat_com"
 tags: 
@@ -41,12 +41,12 @@ For all chit chat relating to the Reddthat community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 9 |
 | Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 12  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all chit chat relating to the Reddthat community.
 |----------------------|---|
 | Published            | 2023-06-15 09:29:58 |
 | Updated              | 2023-06-15 21:33:45 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

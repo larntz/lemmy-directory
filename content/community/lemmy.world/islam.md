@@ -3,7 +3,7 @@ title: "Islam"
 name: "islam"
 description: "A forum to discuss the major world religion in all its facets"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/islam"
@@ -54,4 +54,4 @@ A forum to discuss the major world religion in all its facets
 |----------------------|---|
 | Published            | 2023-06-14 13:07:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

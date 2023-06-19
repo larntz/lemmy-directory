@@ -3,17 +3,17 @@ title: "Not interesting..."
 name: "notinteresting"
 description: "Welcome to /c/NotInteresting! This is an alternative to the subreddit /r/NotInteresting on Reddit.This is a community for things that are not interesting at all.Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notinteresting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 20
 posts: 2
 comments: 5
 weight: 2
-dau: 4
+dau: 3
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ Welcome to /c/NotInteresting! This is an alternative to the subreddit /r/NotInte
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 5  |
-| Daily Active Users   | 4  |
+| Daily Active Users   | 3  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ Welcome to /c/NotInteresting! This is an alternative to the subreddit /r/NotInte
 |----------------------|---|
 | Published            | 2023-06-14 08:58:48 |
 | Updated              | 2023-06-15 06:39:36 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

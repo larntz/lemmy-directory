@@ -3,7 +3,7 @@ title: "Fig.Systems"
 name: "figsystems"
 description: "Default CommunityRules:- Keep it civil"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/figsystems"
@@ -14,7 +14,7 @@ posts: 2
 comments: 9
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "fig_systems"
@@ -45,7 +45,7 @@ Default Community<br><br>Rules:<br>- Keep it civil
 | Posts                | 2  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ Default Community<br><br>Rules:<br>- Keep it civil
 |----------------------|---|
 | Published            | 2023-06-09 02:15:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:09 |

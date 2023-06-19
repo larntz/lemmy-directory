@@ -3,7 +3,7 @@ title: "Tricked"
 name: "tricked"
 description: "dont buy nitro"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tricked"
@@ -54,4 +54,4 @@ dont buy nitro
 |----------------------|---|
 | Published            | 2022-04-26 07:25:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

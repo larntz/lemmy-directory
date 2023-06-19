@@ -3,19 +3,19 @@ title: "Yuri"
 name: "yuri"
 description: "A community to discuss and share your  thoughts on yuri media, such as anime, manga, and light novels."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yuri"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 135
-posts: 6
-comments: 23
-weight: 6
-dau: 7
-wau: 14
-mau: 14
+subscribers: 159
+posts: 7
+comments: 24
+weight: 7
+dau: 1
+wau: 12
+mau: 15
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss and share your  thoughts on yuri media, such as anime, ma
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 135 |
-| Posts                | 6  |
-| Comments             | 23  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 159 |
+| Posts                | 7  |
+| Comments             | 24  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss and share your  thoughts on yuri media, such as anime, ma
 |----------------------|---|
 | Published            | 2023-06-06 14:40:54 |
 | Updated              | 2023-06-10 10:14:27 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:40 |

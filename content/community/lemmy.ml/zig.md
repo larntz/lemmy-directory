@@ -3,13 +3,13 @@ title: "Zig"
 name: "zig"
 description: "The Zig programming language"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zig"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 32
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The Zig programming language
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 32 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The Zig programming language
 |----------------------|---|
 | Published            | 2021-02-26 13:38:11 |
 | Updated              | 2021-02-26 13:40:26 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

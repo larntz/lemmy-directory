@@ -3,19 +3,19 @@ title: "stories_gonewild"
 name: "stories_gonewild"
 description: "A place to share your erotic real-life stories, the moments that you want to remember for ever, your kinky experiences, and much more"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/stories_gonewild"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 221
+subscribers: 317
 posts: 2
-comments: 7
+comments: 8
 weight: 2
-dau: 5
-wau: 6
-mau: 6
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A place to share your erotic real-life stories, the moments that you want to rem
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 221 |
+| Subscribers          | 317 |
 | Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -56,4 +56,4 @@ A place to share your erotic real-life stories, the moments that you want to rem
 |----------------------|---|
 | Published            | 2023-06-12 12:01:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

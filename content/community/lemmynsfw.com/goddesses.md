@@ -3,17 +3,17 @@ title: "goddesses"
 name: "goddesses"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/goddesses"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 7
-comments: 0
-weight: 7
-dau: 2
+subscribers: 132
+posts: 8
+comments: 1
+weight: 8
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -43,10 +43,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
+| Subscribers          | 132 |
+| Posts                | 8  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 14:40:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

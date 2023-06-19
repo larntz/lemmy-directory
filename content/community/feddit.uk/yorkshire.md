@@ -3,13 +3,13 @@ title: "Yorkshire"
 name: "yorkshire"
 description: "A community for discussion of all things related to Yorkshire or places in Yorkshire.Rules:- No racism, xenophobia, homophobia, transphobia, etc.- No spam (a bit of promoting is OK if it's related to Yorkshire, but don't take the piss).  - Posts must be relevant to Yorkshire in some way.- No harassment or abuse.- Don't be a dick. "
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/yorkshire"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 28
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ A community for discussion of all things related to Yorkshire or places in Yorks
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 28 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussion of all things related to Yorkshire or places in Yorks
 |----------------------|---|
 | Published            | 2023-06-14 06:15:43 |
 | Updated              | 2023-06-15 12:07:02 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

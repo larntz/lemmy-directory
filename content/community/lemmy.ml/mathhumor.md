@@ -3,13 +3,13 @@ title: "Math Humor"
 name: "mathhumor"
 description: "Who says math isn't funny? This is a community dedicated to mathematical comedy!Rules:* Posts should contain some amount of math(s)* No NSFW content* No hate speech, bigotry, etcCommunity icon by [Icon Arts](https://www.iconfinder.com/3iconarts), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)"
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mathhumor"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 229
+subscribers: 237
 posts: 39
 comments: 26
 weight: 39
@@ -41,7 +41,7 @@ Who says math isn't funny? This is a community dedicated to mathematical comedy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 229 |
+| Subscribers          | 237 |
 | Posts                | 39  |
 | Comments             | 26  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Who says math isn't funny? This is a community dedicated to mathematical comedy!
 |----------------------|---|
 | Published            | 2020-05-05 04:20:21 |
 | Updated              | 2021-02-07 19:27:34 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:53 |

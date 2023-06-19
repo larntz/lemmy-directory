@@ -3,19 +3,19 @@ title: "Ai Dreamscape"
 name: "aiart"
 description: "Welcome to our online community for AI-generated art! Join artists and enthusiasts in sharing and exploring captivating creations born from the fusion of human imagination and AI algorithms. Showcase your artwork, engage in discussions, and discover the limitless possibilities at the intersection of art and artificial intelligence."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aiart"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 0
+subscribers: 26
+posts: 6
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 6
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to our online community for AI-generated art! Join artists and enthusias
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
+| Subscribers          | 26 |
+| Posts                | 6  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to our online community for AI-generated art! Join artists and enthusias
 |----------------------|---|
 | Published            | 2023-06-14 16:12:21 |
 | Updated              | 2023-06-16 17:18:13 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

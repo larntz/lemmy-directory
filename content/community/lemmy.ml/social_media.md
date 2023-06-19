@@ -3,18 +3,18 @@ title: "Social Media"
 name: "social_media"
 description: "A place for discussing social media."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/social_media"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 41
+subscribers: 42
 posts: 5
 comments: 10
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place for discussing social media.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
+| Subscribers          | 42 |
 | Posts                | 5  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place for discussing social media.
 |----------------------|---|
 | Published            | 2021-02-18 10:26:06 |
 | Updated              | 2021-02-24 18:32:04 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

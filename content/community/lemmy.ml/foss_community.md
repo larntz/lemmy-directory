@@ -3,7 +3,7 @@ title: "FOSS Community "
 name: "foss_community"
 description: "**FOSS Community.**Talk about Open Source, alternatives to proprietary software, and privacy!"
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foss_community"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-04-19 15:52:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

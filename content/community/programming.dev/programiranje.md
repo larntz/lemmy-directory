@@ -3,19 +3,19 @@ title: "Programiranje"
 name: "programiranje"
 description: "Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa istim."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/programiranje"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 9
 posts: 2
-comments: 0
+comments: 1
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa ist
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 9 |
 | Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa ist
 |----------------------|---|
 | Published            | 2023-06-15 19:28:34 |
 | Updated              | 2023-06-16 09:56:20 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

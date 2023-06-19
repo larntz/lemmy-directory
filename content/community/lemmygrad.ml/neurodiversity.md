@@ -3,19 +3,19 @@ title: "Neurodiversity"
 name: "neurodiversity"
 description: "Anything and everything on neurodiversity."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/neurodiversity"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 196
-posts: 15
-comments: 46
-weight: 15
-dau: 1
-wau: 1
-mau: 1
+subscribers: 201
+posts: 16
+comments: 54
+weight: 16
+dau: 8
+wau: 8
+mau: 8
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Anything and everything on neurodiversity.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 196 |
-| Posts                | 15  |
-| Comments             | 46  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 201 |
+| Posts                | 16  |
+| Comments             | 54  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Anything and everything on neurodiversity.
 |----------------------|---|
 | Published            | 2021-02-09 08:21:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

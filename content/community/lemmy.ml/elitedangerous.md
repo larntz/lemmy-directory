@@ -3,13 +3,13 @@ title: "Elite Dangerous on Lemmy"
 name: "elitedangerous"
 description: "An unofficial community for Frontier Software's Elite Dangerous videogame"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elitedangerous"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ An unofficial community for Frontier Software's Elite Dangerous videogame
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An unofficial community for Frontier Software's Elite Dangerous videogame
 |----------------------|---|
 | Published            | 2023-06-12 19:38:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

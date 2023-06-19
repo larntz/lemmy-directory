@@ -3,19 +3,19 @@ title: "Astronomy"
 name: "astronomy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/astronomy"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 318
-posts: 13
-comments: 20
-weight: 13
-dau: 9
-wau: 10
-mau: 12
+subscribers: 363
+posts: 15
+comments: 22
+weight: 15
+dau: 3
+wau: 18
+mau: 21
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 318 |
-| Posts                | 13  |
-| Comments             | 20  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 12  |
+| Subscribers          | 363 |
+| Posts                | 15  |
+| Comments             | 22  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-27 08:03:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

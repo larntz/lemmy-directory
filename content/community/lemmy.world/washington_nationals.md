@@ -3,13 +3,13 @@ title: "Washington Nationals"
 name: "washington_nationals"
 description: "First in war, first in peace... 2019 Major League Baseball champions."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washington_nationals"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ First in war, first in peace... 2019 Major League Baseball champions.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ First in war, first in peace... 2019 Major League Baseball champions.
 |----------------------|---|
 | Published            | 2023-06-12 18:42:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

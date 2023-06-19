@@ -3,13 +3,13 @@ title: "health"
 name: "health"
 description: ""
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/health"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 42
 posts: 53
 comments: 13
 weight: 53
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 42 |
 | Posts                | 53  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-07-05 19:02:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:47 |

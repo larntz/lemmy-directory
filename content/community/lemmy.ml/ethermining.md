@@ -3,7 +3,7 @@ title: "Ethereum Mining"
 name: "ethermining"
 description: "Discussion of mining the cryptocurrency **Ethereum**."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ethermining"
@@ -54,4 +54,4 @@ Discussion of mining the cryptocurrency **Ethereum**.
 |----------------------|---|
 | Published            | 2021-04-22 06:14:45 |
 | Updated              | 2021-04-22 06:15:01 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

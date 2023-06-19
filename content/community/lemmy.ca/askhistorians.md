@@ -3,13 +3,13 @@ title: "Ask historians"
 name: "askhistorians"
 description: "The excellent r/AskHistorians is [not moving over to the fediverse](https://www.reddit.com/r/AskHistorians/comments/1495wpj/askhistorians_is_back_up_but_currently_restricted/). Until they find another venue, please: 1. summarize questions in the title using the most important keywords first,2. cite your reliable sources when answering questions, and3. check and challenge citations when reading."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/askhistorians"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 22
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The excellent r/AskHistorians is [not moving over to the fediverse](https://www.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 22 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The excellent r/AskHistorians is [not moving over to the fediverse](https://www.
 |----------------------|---|
 | Published            | 2023-06-13 19:44:38 |
 | Updated              | 2023-06-16 08:44:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

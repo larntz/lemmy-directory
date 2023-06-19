@@ -3,13 +3,13 @@ title: "New Orleans"
 name: "neworleans"
 description: "Get your Cosmic Brownies here!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neworleans"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 16
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Get your Cosmic Brownies here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Get your Cosmic Brownies here!
 |----------------------|---|
 | Published            | 2023-06-14 02:32:48 |
 | Updated              | 2023-06-15 19:27:43 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

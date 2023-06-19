@@ -3,7 +3,7 @@ title: "purchase advice"
 name: "buy"
 description: "Ask about good products here.Always state your country and budget.Research before you post so you know what you want."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buy"
@@ -54,4 +54,4 @@ Ask about good products here.<br><br>Always state your country and budget.<br><b
 |----------------------|---|
 | Published            | 2021-02-05 22:45:17 |
 | Updated              | 2021-02-05 22:51:35 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

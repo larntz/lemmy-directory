@@ -3,7 +3,7 @@ title: "New Jersey"
 name: "new_jersey"
 description: "Anything and everything pertaining to the best state in the US."
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.borlax.com/c/new_jersey"
@@ -54,4 +54,4 @@ Anything and everything pertaining to the best state in the US.
 |----------------------|---|
 | Published            | 2023-06-10 03:02:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:02 |

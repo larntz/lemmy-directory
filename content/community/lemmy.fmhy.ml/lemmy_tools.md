@@ -3,19 +3,19 @@ title: "Tools, sites and apps for lemmy"
 name: "lemmy_tools"
 description: "Tools, sites and apps for lemmy"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/lemmy_tools"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 5
-comments: 0
-weight: 5
-dau: 3
-wau: 3
-mau: 3
+subscribers: 83
+posts: 7
+comments: 3
+weight: 7
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -41,12 +41,12 @@ Tools, sites and apps for lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 83 |
+| Posts                | 7  |
+| Comments             | 3  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Tools, sites and apps for lemmy
 |----------------------|---|
 | Published            | 2023-06-16 16:42:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

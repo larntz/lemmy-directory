@@ -3,19 +3,19 @@ title: "What Could Go Wrong"
 name: "whatcouldgowrong"
 description: "Videos of stupid decisions and their consequences"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcouldgowrong"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 95
 posts: 3
-comments: 4
+comments: 8
 weight: 3
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ Videos of stupid decisions and their consequences
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 95 |
 | Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Comments             | 8  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Videos of stupid decisions and their consequences
 |----------------------|---|
 | Published            | 2023-06-16 13:41:47 |
 | Updated              | 2023-06-16 19:27:11 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

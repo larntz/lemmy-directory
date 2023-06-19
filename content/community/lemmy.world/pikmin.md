@@ -3,19 +3,19 @@ title: "Pikmin"
 name: "pikmin"
 description: "This community is for all Pikmin lovers."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pikmin"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 7
-comments: 3
-weight: 7
+subscribers: 23
+posts: 9
+comments: 5
+weight: 9
 dau: 2
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ This community is for all Pikmin lovers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 7  |
-| Comments             | 3  |
+| Subscribers          | 23 |
+| Posts                | 9  |
+| Comments             | 5  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 05:17:43 |
-| Updated              | 2023-06-13 05:19:56 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-18 06:10:37 |
+| Last Scraped         | 2023-06-19 11:36:40 |

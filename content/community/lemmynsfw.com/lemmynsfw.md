@@ -3,19 +3,19 @@ title: "Lemmy NSFW"
 name: "lemmynsfw"
 description: "Updates about lemmynsfw.com"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/lemmynsfw"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 2094
-posts: 8
-comments: 338
-weight: 8
-dau: 42
-wau: 150
-mau: 150
+subscribers: 2686
+posts: 11
+comments: 531
+weight: 11
+dau: 31
+wau: 196
+mau: 210
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -41,12 +41,12 @@ Updates about lemmynsfw.com
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2094 |
-| Posts                | 8  |
-| Comments             | 338  |
-| Daily Active Users   | 42  |
-| Weekly Active Users  | 150  |
-| Monthly Active Users | 150  |
+| Subscribers          | 2686 |
+| Posts                | 11  |
+| Comments             | 531  |
+| Daily Active Users   | 31  |
+| Weekly Active Users  | 196  |
+| Monthly Active Users | 210  |
 
 <br>
 
@@ -54,4 +54,4 @@ Updates about lemmynsfw.com
 |----------------------|---|
 | Published            | 2023-06-10 22:46:29 |
 | Updated              | 2023-06-11 09:22:51 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

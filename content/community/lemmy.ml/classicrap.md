@@ -3,13 +3,13 @@ title: "Classic Rap"
 name: "classicrap"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/classicrap"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 19
 comments: 0
 weight: 19
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 19  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-02 02:59:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:58 |

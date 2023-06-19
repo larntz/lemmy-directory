@@ -3,13 +3,13 @@ title: "creative"
 name: "creative"
 description: "Everything arts and craft or generally creative."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/creative"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 8
 comments: 3
 weight: 8
@@ -41,7 +41,7 @@ Everything arts and craft or generally creative.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything arts and craft or generally creative.
 |----------------------|---|
 | Published            | 2021-05-15 22:51:09 |
 | Updated              | 2021-05-22 12:21:20 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

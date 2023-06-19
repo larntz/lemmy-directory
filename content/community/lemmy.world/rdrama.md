@@ -3,13 +3,13 @@ title: "rdrama"
 name: "rdrama"
 description: "safe space for Marsey enjoyers"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rdrama"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ safe space for Marsey enjoyers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ safe space for Marsey enjoyers
 |----------------------|---|
 | Published            | 2023-06-12 14:58:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

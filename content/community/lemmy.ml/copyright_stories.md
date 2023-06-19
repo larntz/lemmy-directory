@@ -3,13 +3,13 @@ title: "Copyright Stories"
 name: "copyright_stories"
 description: "A place to share stories centered around copyright."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copyright_stories"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 7
 comments: 0
 weight: 7
@@ -41,7 +41,7 @@ A place to share stories centered around copyright.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share stories centered around copyright.
 |----------------------|---|
 | Published            | 2020-10-25 19:11:50 |
 | Updated              | 2021-02-24 17:10:10 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:54 |

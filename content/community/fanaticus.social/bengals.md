@@ -3,7 +3,7 @@ title: "Cincinnati Bengals"
 name: "bengals"
 description: "A community dedicated to the Cincinnati Bengals.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/bengals"
@@ -53,5 +53,5 @@ A community dedicated to the Cincinnati Bengals.<br><br>**Looking for Mods!**
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 01:35:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 20:26:24 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,16 +3,16 @@ title: "Cunnilingus"
 name: "cunnilingus"
 description: "Pussy licking"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cunnilingus"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 3
+subscribers: 86
+posts: 6
 comments: 0
-weight: 3
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ Pussy licking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 3  |
+| Subscribers          | 86 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -55,5 +55,5 @@ Pussy licking
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 21:03:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Updated              | 2023-06-17 20:59:24 |
+| Last Scraped         | 2023-06-19 11:35:45 |

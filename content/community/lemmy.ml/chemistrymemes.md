@@ -3,19 +3,19 @@ title: "Chemistry memes"
 name: "chemistrymemes"
 description: "For all the chemistry memes and cursed chemistry"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chemistrymemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 2
-comments: 0
-weight: 2
+subscribers: 10
+posts: 3
+comments: 2
+weight: 3
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ For all the chemistry memes and cursed chemistry
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Subscribers          | 10 |
+| Posts                | 3  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all the chemistry memes and cursed chemistry
 |----------------------|---|
 | Published            | 2023-06-09 13:06:18 |
 | Updated              | 2023-06-09 13:11:19 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

@@ -3,19 +3,19 @@ title: "Mujico"
 name: "mujico"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mujico"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 30
 posts: 4
-comments: 19
+comments: 23
 weight: 4
-dau: 6
-wau: 9
-mau: 9
+dau: 1
+wau: 11
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 30 |
 | Posts                | 4  |
-| Comments             | 19  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 23  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 21:48:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

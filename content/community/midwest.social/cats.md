@@ -3,19 +3,19 @@ title: "Cats"
 name: "cats"
 description: "Post pictures of cute cats! Also feel free to ask questions about cats."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cats"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 891
-posts: 107
-comments: 116
-weight: 107
-dau: 2
-wau: 64
-mau: 88
+subscribers: 1004
+posts: 118
+comments: 147
+weight: 118
+dau: 18
+wau: 57
+mau: 109
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Post pictures of cute cats! Also feel free to ask questions about cats.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 891 |
-| Posts                | 107  |
-| Comments             | 116  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 64  |
-| Monthly Active Users | 88  |
+| Subscribers          | 1004 |
+| Posts                | 118  |
+| Comments             | 147  |
+| Daily Active Users   | 18  |
+| Weekly Active Users  | 57  |
+| Monthly Active Users | 109  |
 
 <br>
 
@@ -54,4 +54,4 @@ Post pictures of cute cats! Also feel free to ask questions about cats.
 |----------------------|---|
 | Published            | 2021-08-06 02:10:51 |
 | Updated              | 2023-06-10 15:07:14 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,19 +3,19 @@ title: "ik_ihe"
 name: "ik_ihe"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/ik_ihe"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 178
-posts: 13
-comments: 24
-weight: 13
-dau: 11
-wau: 19
-mau: 19
+subscribers: 210
+posts: 14
+comments: 32
+weight: 14
+dau: 8
+wau: 25
+mau: 25
 instances:
 - "feddit_nl"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 178 |
-| Posts                | 13  |
-| Comments             | 24  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
+| Subscribers          | 210 |
+| Posts                | 14  |
+| Comments             | 32  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 22:40:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

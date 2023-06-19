@@ -3,17 +3,17 @@ title: "GenshinGays"
 name: "genshingays"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/genshingays"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 13
 posts: 3
 comments: 2
 weight: 3
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 13 |
 | Posts                | 3  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 15:05:12 |
 | Updated              | 2023-06-14 15:13:47 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

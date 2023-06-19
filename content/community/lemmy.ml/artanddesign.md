@@ -3,13 +3,13 @@ title: "Libre Art & Design"
 name: "artanddesign"
 description: "Everything opensource and libre regarding visual art and design!"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artanddesign"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 152
+subscribers: 155
 posts: 89
 comments: 75
 weight: 89
@@ -41,7 +41,7 @@ Everything opensource and libre regarding visual art and design!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 152 |
+| Subscribers          | 155 |
 | Posts                | 89  |
 | Comments             | 75  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything opensource and libre regarding visual art and design!
 |----------------------|---|
 | Published            | 2021-04-24 12:10:20 |
 | Updated              | 2021-12-24 03:05:36 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

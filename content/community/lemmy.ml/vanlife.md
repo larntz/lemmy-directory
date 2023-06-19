@@ -3,13 +3,13 @@ title: "Vanlife"
 name: "vanlife"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vanlife"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 44
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 44 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-14 06:36:15 |
 | Updated              | 2020-08-14 06:36:24 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

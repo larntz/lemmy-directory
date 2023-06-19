@@ -3,19 +3,19 @@ title: "Virtual Synthesizers"
 name: "vst"
 description: "Community for all things related to Virtual Synthesizers"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/vst"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 0
+subscribers: 43
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ Community for all things related to Virtual Synthesizers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 0  |
+| Subscribers          | 43 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for all things related to Virtual Synthesizers
 |----------------------|---|
 | Published            | 2023-06-11 17:49:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

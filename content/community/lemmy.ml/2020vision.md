@@ -3,7 +3,7 @@ title: "Kanye West for President of these United States"
 name: "2020vision"
 description: "Yeezy 2020. Biden is a finger-banging child sniffer. Trump is... Trump. There gotta be a better way. That better way is Kanye. "
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2020vision"
@@ -54,4 +54,4 @@ Yeezy 2020. Biden is a finger-banging child sniffer. Trump is... Trump. There go
 |----------------------|---|
 | Published            | 2020-07-10 04:49:55 |
 | Updated              | 2020-07-10 04:50:46 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:46 |

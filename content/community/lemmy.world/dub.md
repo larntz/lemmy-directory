@@ -3,13 +3,13 @@ title: "Dub Music"
 name: "dub"
 description: "music that sounds bigger than the sound system it's playing on"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dub"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ music that sounds bigger than the sound system it's playing on
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ music that sounds bigger than the sound system it's playing on
 |----------------------|---|
 | Published            | 2023-06-14 20:52:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

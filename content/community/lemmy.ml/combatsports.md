@@ -3,16 +3,16 @@ title: "Combat Sports"
 name: "combatsports"
 description: "A place for combat sports enthusiasts. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/combatsports"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 3
+subscribers: 8
+posts: 4
 comments: 2
-weight: 3
+weight: 4
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ A place for combat sports enthusiasts.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
+| Subscribers          | 8 |
+| Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A place for combat sports enthusiasts.
 |----------------------|---|
 | Published            | 2023-06-10 16:04:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

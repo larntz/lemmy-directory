@@ -3,16 +3,16 @@ title: "Spider-Man"
 name: "spiderman"
 description: "Welcome to our Spider-Man community, a web-slinging hub for fans of all things related toour favorite wall-crawler. Whether you're a fan of the classic comics, the many movieadaptations, the iconic animation series, or just love Spider-Man, you've foundthe right place. Our aim is to build a friendly and vibrant community where we can discussshare, and enjoy all aspects of the Spider-Man universe and multiverse together. New fans, long-time enthusiasts, and everyone in between are welcome here. Let's celebrate our shared love forthe amazing Spider-Man together!Here is some rules just to keep the community a fun and safe place for our visitors and regulars!1. Be Respectful: Everyone has a right to their opinions. We are all for debates about characters and potential battles but don't be rude because someone disagrees with you.2. Stay On Topic: All posts and comments should be related to Spider-Man. If it's Marvel related it must include Spider-man in someway. 3. NO SPOILERS without warning: When new Spider-Man content is released a post dedicated to talking about it with a clear spoiler warning can be created.4. No Illegal Content: Sharing Pirated material, illegal streams or encouring behavior is not allowed. There are other communities for that.5. No Hate Speech, Harassment, or Bullying: We strive to maintain a friendly and inclusive environment. Any form of this behavior will be an instant ban. 6. No NSFW content: This is a family-friendly community, let's keep it that way. "
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/spiderman"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 1
-comments: 5
-weight: 1
+subscribers: 50
+posts: 3
+comments: 14
+weight: 3
 dau: 1
 wau: 1
 mau: 3
@@ -41,9 +41,9 @@ Welcome to our Spider-Man community, a web-slinging hub for fans of all things r
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 1  |
-| Comments             | 5  |
+| Subscribers          | 50 |
+| Posts                | 3  |
+| Comments             | 14  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
@@ -53,5 +53,5 @@ Welcome to our Spider-Man community, a web-slinging hub for fans of all things r
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 14:25:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-18 15:39:51 |
+| Last Scraped         | 2023-06-19 11:35:02 |

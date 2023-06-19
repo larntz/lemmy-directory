@@ -3,13 +3,13 @@ title: "Dinosaurs"
 name: "dinosaurs"
 description: "Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allowed."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinosaurs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 22
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 22 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allo
 |----------------------|---|
 | Published            | 2021-03-24 21:02:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

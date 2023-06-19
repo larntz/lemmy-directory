@@ -3,13 +3,13 @@ title: "Werder Bremen"
 name: "svw"
 description: "Eine grün-weiße Community für den Verein am Osterdeich"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/svw"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Eine grün-weiße Community für den Verein am Osterdeich
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Eine grün-weiße Community für den Verein am Osterdeich
 |----------------------|---|
 | Published            | 2023-06-05 10:54:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

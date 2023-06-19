@@ -3,19 +3,19 @@ title: "Costco"
 name: "costco"
 description: "For fans of Costco"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/costco"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 633
-posts: 5
-comments: 53
-weight: 5
-dau: 12
-wau: 46
-mau: 46
+subscribers: 762
+posts: 6
+comments: 58
+weight: 6
+dau: 6
+wau: 52
+mau: 52
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For fans of Costco
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 633 |
-| Posts                | 5  |
-| Comments             | 53  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 46  |
-| Monthly Active Users | 46  |
+| Subscribers          | 762 |
+| Posts                | 6  |
+| Comments             | 58  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 52  |
+| Monthly Active Users | 52  |
 
 <br>
 
@@ -54,4 +54,4 @@ For fans of Costco
 |----------------------|---|
 | Published            | 2023-06-12 18:13:38 |
 | Updated              | 2023-06-13 03:00:51 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,16 +3,16 @@ title: "No Context"
 name: "nocontext"
 description: "Funny quotes with zero context"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nocontext"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 3
+subscribers: 16
+posts: 7
 comments: 0
-weight: 3
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Funny quotes with zero context
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
+| Subscribers          | 16 |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Funny quotes with zero context
 |----------------------|---|
 | Published            | 2023-06-16 19:55:13 |
 | Updated              | 2023-06-16 22:36:05 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

@@ -3,13 +3,13 @@ title: "Florida"
 name: "florida"
 description: "Florida issues related community"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/florida"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Florida issues related community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Florida issues related community
 |----------------------|---|
 | Published            | 2023-06-07 14:24:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

@@ -3,13 +3,13 @@ title: "Wikidata & GLAM"
 name: "wikidata"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:43"
+date: "2023-06-19 11:34:46"
 draft: false
 nsfw: false
 actor_id: "https://code4lib.net/c/wikidata"
 host: code4lib.net
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 6
 comments: 0
 weight: 6
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-02-06 13:36:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:43 |
+| Last Scraped         | 2023-06-19 11:34:46 |

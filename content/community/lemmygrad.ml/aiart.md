@@ -3,19 +3,19 @@ title: "AI Art"
 name: "aiart"
 description: "This is a commumity for generating AI Art. To generate a picture mention the bot in the comments and give it your prompt.The image model currently being used is AI Forever's Kandinsky 2.# UpdateAll users can create new posts again. The art bot now only generates art in the comments of the pinned art thread."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/aiart"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 39
 posts: 60
 comments: 885
 weight: 60
 dau: 1
 wau: 1
-mau: 7
+mau: 6
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a commumity for generating AI Art. To generate a picture mention the bot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 39 |
 | Posts                | 60  |
 | Comments             | 885  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a commumity for generating AI Art. To generate a picture mention the bot
 |----------------------|---|
 | Published            | 2023-04-18 18:16:19 |
 | Updated              | 2023-04-23 06:12:55 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

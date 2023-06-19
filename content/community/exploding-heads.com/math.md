@@ -3,13 +3,13 @@ title: "Math"
 name: "math"
 description: "Discussions related to mathematics"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/math"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Discussions related to mathematics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions related to mathematics
 |----------------------|---|
 | Published            | 2023-02-02 21:10:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

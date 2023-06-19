@@ -3,7 +3,7 @@ title: "Bali"
 name: "bali"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/bali"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 01:29:32 |
 | Updated              | 2023-06-13 05:41:12 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

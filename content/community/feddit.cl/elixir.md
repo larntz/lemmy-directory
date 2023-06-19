@@ -3,17 +3,17 @@ title: "Elixir Chile"
 name: "elixir"
 description: "El lenguaje de programación más bacán"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/elixir"
 host: feddit.cl
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 9
+subscribers: 4
+posts: 17
 comments: 1
-weight: 9
-dau: 2
+weight: 17
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ El lenguaje de programación más bacán
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 9  |
+| Subscribers          | 4 |
+| Posts                | 17  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ El lenguaje de programación más bacán
 |----------------------|---|
 | Published            | 2023-06-14 21:59:54 |
 | Updated              | 2023-06-16 14:06:30 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

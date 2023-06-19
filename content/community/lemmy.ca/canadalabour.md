@@ -1,18 +1,18 @@
 ---
 title: "Canadian Labour Movements" 
 name: "canadalabour"
-description: "Who wants to start a labour movement(s)?Logo: Logo of the Confederation of Canadian Unions by portpass19 is licensed under [Creative Commons Attribution-Share Alike 3.0 Unported license.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)"
+description: "Who wants to start a labour movement?Logo: Logo of the Confederation of Canadian Unions by portpass19 is licensed under [Creative Commons Attribution-Share Alike 3.0 Unported license.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadalabour"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 7
-comments: 4
-weight: 7
+subscribers: 64
+posts: 17
+comments: 8
+weight: 17
 dau: 1
 wau: 2
 mau: 2
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Who wants to start a labour movement(s)?<br><br>Logo: Logo of the Confederation of Canadian Unions by portpass19 is licensed under [Creative Commons Attribution-Share Alike 3.0 Unported license.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+Who wants to start a labour movement?<br><br>Logo: Logo of the Confederation of Canadian Unions by portpass19 is licensed under [Creative Commons Attribution-Share Alike 3.0 Unported license.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Who wants to start a labour movement(s)?<br><br>Logo: Logo of the Confederation 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 7  |
-| Comments             | 4  |
+| Subscribers          | 64 |
+| Posts                | 17  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -53,5 +53,5 @@ Who wants to start a labour movement(s)?<br><br>Logo: Logo of the Confederation 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2022-03-31 01:50:32 |
-| Updated              | 2023-06-16 21:38:40 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Updated              | 2023-06-18 00:02:59 |
+| Last Scraped         | 2023-06-19 11:35:36 |

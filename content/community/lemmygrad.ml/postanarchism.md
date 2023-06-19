@@ -3,13 +3,13 @@ title: "post anarchist community"
 name: "postanarchism"
 description: "Post-Anarchism is an anarchist ideology that focuses on post-structualism and the abolition of work, ideology, and politics, transcending the traditional left-right ideologs."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/postanarchism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 27
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ Post-Anarchism is an anarchist ideology that focuses on post-structualism and th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 27 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Post-Anarchism is an anarchist ideology that focuses on post-structualism and th
 |----------------------|---|
 | Published            | 2021-12-24 04:06:03 |
 | Updated              | 2021-12-24 04:08:38 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

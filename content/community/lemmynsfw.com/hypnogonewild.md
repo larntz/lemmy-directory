@@ -3,13 +3,13 @@ title: "HypnoGoneWild"
 name: "hypnogonewild"
 description: "Post your hypnosis related content here!"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hypnogonewild"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 137
+subscribers: 174
 posts: 1
 comments: 0
 weight: 1
@@ -43,7 +43,7 @@ Post your hypnosis related content here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 137 |
+| Subscribers          | 174 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Post your hypnosis related content here!
 |----------------------|---|
 | Published            | 2023-06-12 16:32:45 |
 | Updated              | 2023-06-12 17:39:29 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

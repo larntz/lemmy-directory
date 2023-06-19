@@ -3,13 +3,13 @@ title: "📜 History"
 name: "history"
 description: "A place to discuss the history of events, places, people and more"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/history"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A place to discuss the history of events, places, people and more
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss the history of events, places, people and more
 |----------------------|---|
 | Published            | 2023-06-14 23:30:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

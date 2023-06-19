@@ -3,19 +3,19 @@ title: "Meta"
 name: "meta"
 description: "Discussion about the aussie.zone instance itself"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/meta"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 129
-posts: 37
-comments: 246
-weight: 37
-dau: 29
-wau: 68
-mau: 69
+subscribers: 159
+posts: 44
+comments: 277
+weight: 44
+dau: 9
+wau: 64
+mau: 76
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Discussion about the aussie.zone instance itself
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 129 |
-| Posts                | 37  |
-| Comments             | 246  |
-| Daily Active Users   | 29  |
-| Weekly Active Users  | 68  |
-| Monthly Active Users | 69  |
+| Subscribers          | 159 |
+| Posts                | 44  |
+| Comments             | 277  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 64  |
+| Monthly Active Users | 76  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 07:09:26 |
-| Updated              | 2023-06-08 12:21:29 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:28:33 |
+| Last Scraped         | 2023-06-19 11:35:06 |

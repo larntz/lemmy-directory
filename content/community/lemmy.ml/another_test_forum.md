@@ -3,7 +3,7 @@ title: "for testing purposes"
 name: "another_test_forum"
 description: ""
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/another_test_forum"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2019-04-26 00:46:30 |
 | Updated              | 2019-04-26 00:49:20 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

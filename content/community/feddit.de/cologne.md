@@ -3,19 +3,19 @@ title: "Köln (Cologne)"
 name: "cologne"
 description: "Community für und über alles was die Stadt Köln und alles Drumherum betrifft. Nicht Parfüm. Community about all things related to the city of Cologne, Germany. Not to be confused with colognes/fragrances.Logo from https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wappen_Koeln.svg/340px-Wappen_Koeln.svg.png"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/cologne"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 44
-posts: 9
-comments: 8
-weight: 9
-dau: 2
-wau: 11
-mau: 11
+subscribers: 67
+posts: 11
+comments: 18
+weight: 11
+dau: 5
+wau: 15
+mau: 15
 instances:
 - "feddit_de"
 tags: 
@@ -41,17 +41,17 @@ Community für und über alles was die Stadt Köln und alles Drumherum betrifft.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 9  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Subscribers          | 67 |
+| Posts                | 11  |
+| Comments             | 18  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 08:01:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Updated              | 2023-06-18 17:02:28 |
+| Last Scraped         | 2023-06-19 11:35:39 |

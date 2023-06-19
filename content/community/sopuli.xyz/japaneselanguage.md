@@ -3,17 +3,17 @@ title: "Japanese Language"
 name: "japaneselanguage"
 description: "ようこそJapaneseLanguageへ！日本語に興味を持てば、どうぞ登録して勉強しましょう！日本語に関係するどのテーマ、質問でも大歓迎します。This is a community dedicated to the Japanese language. Feel free to come in and ask questions or post your thoughts and opinions about this beautiful language."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/japaneselanguage"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 123
-posts: 11
-comments: 29
-weight: 11
-dau: 3
+subscribers: 165
+posts: 14
+comments: 36
+weight: 14
+dau: 6
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 123 |
-| Posts                | 11  |
-| Comments             | 29  |
-| Daily Active Users   | 3  |
+| Subscribers          | 165 |
+| Posts                | 14  |
+| Comments             | 36  |
+| Daily Active Users   | 6  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-06 08:34:20 |
 | Updated              | 2023-06-11 09:57:53 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

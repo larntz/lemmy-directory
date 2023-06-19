@@ -3,13 +3,13 @@ title: "Chemistry"
 name: "chemistry"
 description: ""
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chemistry"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-12-14 08:54:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:37:00 |

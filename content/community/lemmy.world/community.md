@@ -3,13 +3,13 @@ title: "Six Seasons and a Lemmy"
 name: "community"
 description: "Worry not, Rexxiters - Greendale has a new home!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/community"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 12
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Worry not, Rexxiters - Greendale has a new home!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 12 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Worry not, Rexxiters - Greendale has a new home!
 |----------------------|---|
 | Published            | 2023-06-13 21:56:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

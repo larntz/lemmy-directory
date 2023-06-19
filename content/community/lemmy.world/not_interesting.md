@@ -3,18 +3,18 @@ title: "not_interesting"
 name: "not_interesting"
 description: "For all things that are not interesting."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/not_interesting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 118
+subscribers: 130
 posts: 3
 comments: 15
 weight: 3
 dau: 4
-wau: 10
+wau: 4
 mau: 10
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ For all things that are not interesting.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 118 |
+| Subscribers          | 130 |
 | Posts                | 3  |
 | Comments             | 15  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 10  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 10  |
 
 <br>
@@ -54,4 +54,4 @@ For all things that are not interesting.
 |----------------------|---|
 | Published            | 2023-06-11 17:40:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,7 +3,7 @@ title: "Criminal Justice (USA)"
 name: "criminal_justice_usa"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/criminal_justice_usa"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 23:29:31 |
 | Updated              | 2023-06-06 14:11:58 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

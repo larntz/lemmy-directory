@@ -3,7 +3,7 @@ title: "Publishing"
 name: "publishing"
 description: "Discussion place for issues related to publishing like technology, copyright, software, theory, books and more."
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/publishing"
@@ -54,4 +54,4 @@ Discussion place for issues related to publishing like technology, copyright, so
 |----------------------|---|
 | Published            | 2019-05-31 20:17:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:57 |

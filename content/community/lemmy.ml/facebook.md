@@ -3,13 +3,13 @@ title: "Facebook"
 name: "facebook"
 description: "Discussions related to Facebook- https://facebook.com"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/facebook"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 31
 posts: 16
 comments: 15
 weight: 16
@@ -41,7 +41,7 @@ Discussions related to Facebook<br><br>- https://facebook.com
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 31 |
 | Posts                | 16  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussions related to Facebook<br><br>- https://facebook.com
 |----------------------|---|
 | Published            | 2020-06-29 00:08:45 |
 | Updated              | 2023-06-10 01:19:09 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:57 |

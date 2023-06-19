@@ -3,7 +3,7 @@ title: "Opole"
 name: "opole"
 description: "Integracja, komunikacja."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/opole"
@@ -54,4 +54,4 @@ Integracja, komunikacja.
 |----------------------|---|
 | Published            | 2021-04-06 03:33:11 |
 | Updated              | 2021-12-30 16:51:47 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

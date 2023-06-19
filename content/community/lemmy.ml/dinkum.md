@@ -3,7 +3,7 @@ title: "Dinkum"
 name: "dinkum"
 description: "For discussion around the game Dinkum."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinkum"
@@ -54,4 +54,4 @@ For discussion around the game Dinkum.
 |----------------------|---|
 | Published            | 2023-06-15 01:33:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

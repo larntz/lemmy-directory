@@ -3,7 +3,7 @@ title: "Budgies"
 name: "budgies"
 description: "Everything around budgies. Advice, discussions, pictures, videos."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/budgies"
@@ -54,4 +54,4 @@ Everything around budgies. Advice, discussions, pictures, videos.
 |----------------------|---|
 | Published            | 2023-06-08 12:16:35 |
 | Updated              | 2023-06-11 19:22:46 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

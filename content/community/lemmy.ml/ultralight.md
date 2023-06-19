@@ -3,16 +3,16 @@ title: "ultralight"
 name: "ultralight"
 description: "Ultralight Backpacking!"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ultralight"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 4
-comments: 20
-weight: 4
+subscribers: 47
+posts: 8
+comments: 24
+weight: 8
 dau: 1
 wau: 9
 mau: 9
@@ -41,9 +41,9 @@ Ultralight Backpacking!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 4  |
-| Comments             | 20  |
+| Subscribers          | 47 |
+| Posts                | 8  |
+| Comments             | 24  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ Ultralight Backpacking!
 |----------------------|---|
 | Published            | 2020-06-29 23:54:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

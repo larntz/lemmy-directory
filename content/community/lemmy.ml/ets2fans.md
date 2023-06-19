@@ -3,7 +3,7 @@ title: "Euro Truck Simulator 2"
 name: "ets2fans"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ets2fans"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-19 09:42:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

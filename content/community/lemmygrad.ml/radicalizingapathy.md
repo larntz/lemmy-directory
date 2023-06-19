@@ -3,13 +3,13 @@ title: "Radicalizing the apathetic"
 name: "radicalizingapathy"
 description: "A place to discuss experiences, strategies, or progress made radicalizing those close to us to Marxism."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/radicalizingapathy"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 18
 posts: 4
 comments: 15
 weight: 4
@@ -41,7 +41,7 @@ A place to discuss experiences, strategies, or progress made radicalizing those 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 18 |
 | Posts                | 4  |
 | Comments             | 15  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss experiences, strategies, or progress made radicalizing those 
 |----------------------|---|
 | Published            | 2023-06-04 00:26:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

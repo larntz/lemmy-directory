@@ -3,19 +3,19 @@ title: "RISC-V"
 name: "riscv"
 description: "RISC-V (pronounced risk-five) is a license-free, modular, extensible instruction set architecture (ISA).riscv.org[Youtube](https://www.youtube.com/channel/UC5gLmcFuvdGbajs4VL-WU3g) | [Twitter](https://twitter.com/risc_v)[Matrix space](https://matrix.to/#/#riscv:matrix.org)"
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/riscv"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 283
-posts: 57
-comments: 41
-weight: 57
-dau: 3
+subscribers: 298
+posts: 58
+comments: 42
+weight: 58
+dau: 2
 wau: 6
-mau: 7
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ RISC-V (pronounced risk-five) is a license-free, modular, extensible instruction
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 283 |
-| Posts                | 57  |
-| Comments             | 41  |
-| Daily Active Users   | 3  |
+| Subscribers          | 298 |
+| Posts                | 58  |
+| Comments             | 42  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 6  |
-| Monthly Active Users | 7  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ RISC-V (pronounced risk-five) is a license-free, modular, extensible instruction
 |----------------------|---|
 | Published            | 2021-02-17 10:51:44 |
 | Updated              | 2022-07-02 12:32:40 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

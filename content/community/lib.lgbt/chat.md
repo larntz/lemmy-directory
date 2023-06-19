@@ -3,15 +3,15 @@ title: "chat"
 name: "chat"
 description: "General chit-chat for lib dot lgbt.Tell us who you are; why you're here; what you're up to today; or, really, anything."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://lib.lgbt/c/chat"
 host: lib.lgbt
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 5
-comments: 27
+comments: 34
 weight: 5
 dau: 3
 wau: 9
@@ -41,9 +41,9 @@ General chit-chat for lib dot lgbt.<br><br>Tell us who you are; why you're here;
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 5  |
-| Comments             | 27  |
+| Comments             | 34  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ General chit-chat for lib dot lgbt.<br><br>Tell us who you are; why you're here;
 |----------------------|---|
 | Published            | 2023-06-11 17:56:40 |
 | Updated              | 2023-06-13 17:46:54 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:18 |

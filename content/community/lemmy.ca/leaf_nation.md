@@ -3,16 +3,16 @@ title: "Toronto Maple Leafs"
 name: "leaf_nation"
 description: "*Be polite. A reminder: Fan's is obviously a short form for 'Fanatics' so disagree politely. No flaming and/or Racism.*"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/leaf_nation"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 43
-posts: 9
-comments: 15
-weight: 9
+subscribers: 56
+posts: 10
+comments: 17
+weight: 10
 dau: 4
 wau: 7
 mau: 7
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 9  |
-| Comments             | 15  |
+| Subscribers          | 56 |
+| Posts                | 10  |
+| Comments             | 17  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-10-06 17:10:56 |
 | Updated              | 2023-06-13 21:07:09 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:37 |

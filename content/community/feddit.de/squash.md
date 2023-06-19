@@ -3,13 +3,13 @@ title: "Squash"
 name: "squash"
 description: "A community discussing everything about squash (the sport, not the fruit)Icon taken from  https://commons.wikimedia.org/wiki/File:Squash_Ball_Dunlop_Revelation_Pro_2.jpg and made transparentBanner image is public domain, made by Colin Woodcock (https://www.publicdomainpictures.net/en/view-image.php?image=200446&picture=squash-court-t)"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/squash"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community discussing everything about squash (the sport, not the fruit)<br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community discussing everything about squash (the sport, not the fruit)<br><br
 |----------------------|---|
 | Published            | 2023-06-08 06:56:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,15 +3,15 @@ title: "Meta"
 name: "meta"
 description: "Discussion regarding partizle.com"
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/meta"
 host: partizle.com
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 39
 posts: 7
-comments: 20
+comments: 24
 weight: 7
 dau: 6
 wau: 9
@@ -41,9 +41,9 @@ Discussion regarding partizle.com
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 39 |
 | Posts                | 7  |
-| Comments             | 20  |
+| Comments             | 24  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ Discussion regarding partizle.com
 |----------------------|---|
 | Published            | 2023-06-07 16:55:19 |
 | Updated              | 2023-06-13 18:03:42 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:02 |

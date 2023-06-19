@@ -3,7 +3,7 @@ title: "GDPR (RGPD) / Apply LegalTech to Defend European Dataprivacy Rights"
 name: "dataprivacy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dataprivacy"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-29 15:01:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

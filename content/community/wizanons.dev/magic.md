@@ -1,18 +1,18 @@
 ---
 title: "Magic" 
 name: "magic"
-description: "Magic, Mysticism, and Psychedelics!Psychonauts welcome!"
+description: "Magic, Mysticism, and Psychedelics!Psychonauts welcome!Discussion on Psilocybin mushrooms, LSD, MDMA, Mescaline, DMT, and Ayahuasca. News on therapies very encouraged!Rules:1. Be nice, I want to encourage playful safe spaces.2. No sourcing, It's illegal in the US."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/magic"
 host: wizanons.dev
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 5
-comments: 0
-weight: 5
+subscribers: 15
+posts: 6
+comments: 10
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Magic, Mysticism, and Psychedelics!<br><br>Psychonauts welcome!
+Magic, Mysticism, and Psychedelics!<br><br>Psychonauts welcome!<br><br>Discussion on Psilocybin mushrooms, LSD, MDMA, Mescaline, DMT, and Ayahuasca. News on therapies very encouraged!<br><br>Rules:<br>1. Be nice, I want to encourage playful safe spaces.<br>2. No sourcing, It's illegal in the US.
 </blockquote>
 
 
@@ -41,9 +41,9 @@ Magic, Mysticism, and Psychedelics!<br><br>Psychonauts welcome!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 5  |
-| Comments             | 0  |
+| Subscribers          | 15 |
+| Posts                | 6  |
+| Comments             | 10  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -53,5 +53,5 @@ Magic, Mysticism, and Psychedelics!<br><br>Psychonauts welcome!
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 21:06:15 |
-| Updated              | 2023-06-13 03:37:39 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Updated              | 2023-06-18 14:17:43 |
+| Last Scraped         | 2023-06-19 11:35:21 |

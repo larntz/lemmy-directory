@@ -3,19 +3,19 @@ title: "Australian Politics"
 name: "australianpolitics"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/australianpolitics"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 273
-posts: 8
-comments: 41
-weight: 8
-dau: 2
+subscribers: 338
+posts: 11
+comments: 56
+weight: 11
+dau: 6
 wau: 27
-mau: 27
+mau: 35
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 273 |
-| Posts                | 8  |
-| Comments             | 41  |
-| Daily Active Users   | 2  |
+| Subscribers          | 338 |
+| Posts                | 11  |
+| Comments             | 56  |
+| Daily Active Users   | 6  |
 | Weekly Active Users  | 27  |
-| Monthly Active Users | 27  |
+| Monthly Active Users | 35  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 02:43:55 |
-| Updated              | 2023-06-12 03:23:54 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:28:49 |
+| Last Scraped         | 2023-06-19 11:35:06 |

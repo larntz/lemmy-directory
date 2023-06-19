@@ -3,19 +3,19 @@ title: "PHP"
 name: "php"
 description: "Welcome to /c/php! This is a community for PHP developers and enthusiasts to share and discuss anything related to PHP. From the latest updates and tutorials, to your burning questions and amazing personal projects, we welcome all contributions.Let's foster an environment of respect, learning, and mutual growth. Whether you're an experienced PHP developer, a beginner, or just interested in learning more about PHP, we're glad to have you here!Let's code, learn, and grow together!"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/php"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 71
 posts: 2
-comments: 17
+comments: 24
 weight: 2
 dau: 3
-wau: 4
-mau: 4
+wau: 7
+mau: 7
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Welcome to /c/php! This is a community for PHP developers and enthusiasts to sha
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 71 |
 | Posts                | 2  |
-| Comments             | 17  |
+| Comments             | 24  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to /c/php! This is a community for PHP developers and enthusiasts to sha
 |----------------------|---|
 | Published            | 2023-06-13 21:04:30 |
 | Updated              | 2023-06-15 01:58:04 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

@@ -3,19 +3,19 @@ title: "Swift"
 name: "swift"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/swift"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 2
+subscribers: 49
+posts: 4
 comments: 3
-weight: 2
-dau: 2
-wau: 2
-mau: 2
+weight: 4
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 2  |
+| Subscribers          | 49 |
+| Posts                | 4  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 04:44:51 |
 | Updated              | 2023-06-13 04:46:22 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

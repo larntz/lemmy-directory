@@ -1,9 +1,9 @@
 ---
 title: "c/PersonalFinance" 
 name: "personalfinance"
-description: "Description not available."
+description: "Is there a proper way to handle money? This is the place where you can share ideas on how to budget, save money, invest, and make financial plans and decisions for the future.********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/personalfinance"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Is there a proper way to handle money? This is the place where you can share ideas on how to budget, save money, invest, and make financial plans and decisions for the future.<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 06:09:27 |
-| Updated              | 2023-06-16 05:17:56 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Updated              | 2023-06-17 04:39:41 |
+| Last Scraped         | 2023-06-19 11:35:26 |

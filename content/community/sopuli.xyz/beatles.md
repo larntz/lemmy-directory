@@ -3,13 +3,13 @@ title: "Beatles"
 name: "beatles"
 description: "A community for Beatles fans! Share you favourite songs, covers, memes, artwork, theories, interviews, gossips and more here :)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/beatles"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 25
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ A community for Beatles fans! Share you favourite songs, covers, memes, artwork,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 25 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for Beatles fans! Share you favourite songs, covers, memes, artwork,
 |----------------------|---|
 | Published            | 2023-06-09 01:38:32 |
 | Updated              | 2023-06-10 22:01:47 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

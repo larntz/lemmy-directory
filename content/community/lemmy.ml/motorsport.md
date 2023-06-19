@@ -3,18 +3,18 @@ title: "Motorsport"
 name: "motorsport"
 description: "Discussion of all things motorsport!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/motorsport"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 144
-posts: 9
+subscribers: 154
+posts: 10
 comments: 55
-weight: 9
+weight: 10
 dau: 1
-wau: 17
+wau: 7
 mau: 22
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Discussion of all things motorsport!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 144 |
-| Posts                | 9  |
+| Subscribers          | 154 |
+| Posts                | 10  |
 | Comments             | 55  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 17  |
+| Weekly Active Users  | 7  |
 | Monthly Active Users | 22  |
 
 <br>
@@ -54,4 +54,4 @@ Discussion of all things motorsport!
 |----------------------|---|
 | Published            | 2023-06-02 18:37:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:37:02 |

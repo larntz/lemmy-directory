@@ -3,13 +3,13 @@ title: "Censorship on Reddit"
 name: "censorship_reddit"
 description: "Observatory of content that was censored on Reddit.  Copy your posts that were censored in Reddit here.  We can then collectively analyze whether the post was civil, whether it broke rules, and get an idea of the impact of Reddit censorship.  We can also discuss the societal impact of Reddit's style of silent & blind censorship, such that authors often does not even know they were censored."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/censorship_reddit"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 457
+subscribers: 456
 posts: 16
 comments: 41
 weight: 16
@@ -41,7 +41,7 @@ Observatory of content that was censored on Reddit.  Copy your posts that were c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 457 |
+| Subscribers          | 456 |
 | Posts                | 16  |
 | Comments             | 41  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Observatory of content that was censored on Reddit.  Copy your posts that were c
 |----------------------|---|
 | Published            | 2019-11-13 13:40:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:55 |

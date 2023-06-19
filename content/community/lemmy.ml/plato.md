@@ -3,7 +3,7 @@ title: "Plato"
 name: "plato"
 description: "A sublemmy for the app game Plato."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plato"
@@ -54,4 +54,4 @@ A sublemmy for the app game Plato.
 |----------------------|---|
 | Published            | 2021-12-14 10:00:41 |
 | Updated              | 2021-12-15 21:38:56 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:45 |

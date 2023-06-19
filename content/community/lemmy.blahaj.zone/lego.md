@@ -3,13 +3,13 @@ title: "LEGO"
 name: "lego"
 description: "Reports, news, pics, videos, discussions, content, and more from a bricked world."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lego"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 41
 posts: 2
 comments: 13
 weight: 2
@@ -41,7 +41,7 @@ Reports, news, pics, videos, discussions, content, and more from a bricked world
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 41 |
 | Posts                | 2  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Reports, news, pics, videos, discussions, content, and more from a bricked world
 |----------------------|---|
 | Published            | 2023-06-11 15:22:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

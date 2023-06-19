@@ -3,13 +3,13 @@ title: "nature"
 name: "nature"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nature"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 38
 posts: 14
 comments: 4
 weight: 14
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 38 |
 | Posts                | 14  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-29 07:49:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:58 |

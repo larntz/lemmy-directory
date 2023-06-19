@@ -3,13 +3,13 @@ title: "Indian"
 name: "indian"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/indian"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 56
 posts: 2
 comments: 1
 weight: 2
@@ -43,7 +43,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 56 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 07:39:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

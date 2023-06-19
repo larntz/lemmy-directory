@@ -3,13 +3,13 @@ title: "If you like this..."
 name: "ifyoulikethis"
 description: "A place to share favorite creations with the intentions to find similar creations! May it be music, art, fashion, etc! Basically this is a recommendation hangout lol.Rules: Don't be a jerk and follow site rulesExample: If you like X, then you'll like Y which is similar to X. Check it out here:"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ifyoulikethis"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A place to share favorite creations with the intentions to find similar creation
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to share favorite creations with the intentions to find similar creation
 |----------------------|---|
 | Published            | 2023-02-05 23:37:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-19 11:35:08 |

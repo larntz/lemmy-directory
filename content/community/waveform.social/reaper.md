@@ -3,19 +3,19 @@ title: "Reaper"
 name: "reaper"
 description: "Discussions about the Digital Audio Workstation: Reaper"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/reaper"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 20
 posts: 2
-comments: 5
+comments: 7
 weight: 2
-dau: 5
-wau: 5
-mau: 5
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "waveform_social"
 tags: 
@@ -41,12 +41,12 @@ Discussions about the Digital Audio Workstation: Reaper
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 20 |
 | Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 7  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions about the Digital Audio Workstation: Reaper
 |----------------------|---|
 | Published            | 2023-06-14 15:39:32 |
 | Updated              | 2023-06-15 23:42:30 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

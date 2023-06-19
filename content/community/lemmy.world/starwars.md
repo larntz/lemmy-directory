@@ -3,19 +3,19 @@ title: "/c/StarWars: A long time ago in a galaxy far, far away...."
 name: "starwars"
 description: "A long time ago in a galaxy far, far away....A community for anything about Star Wars, Legends, cannon, the movies, shows and etcRules:1. * Keep the community on topic2. * Follow Lemmy site rules3. * Spoiler warnings for recent shows are required, please put [Spoiler] in your post title when making a post.4. * No heated arguments, slap fights or uncivil comments."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/starwars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 145
+subscribers: 175
 posts: 3
-comments: 0
+comments: 2
 weight: 3
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A long time ago in a galaxy far, far away....<br><br>A community for anything ab
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 145 |
+| Subscribers          | 175 |
 | Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A long time ago in a galaxy far, far away....<br><br>A community for anything ab
 |----------------------|---|
 | Published            | 2023-06-09 21:53:53 |
 | Updated              | 2023-06-10 19:26:55 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,13 +3,13 @@ title: "Köln"
 name: "koeln"
 description: "[Eine Community für die beste Stadt am Rhein!](https://feddit.de/c/cologne)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/koeln"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 08:47:54 |
 | Updated              | 2023-06-14 16:40:43 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

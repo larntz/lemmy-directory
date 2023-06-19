@@ -3,19 +3,19 @@ title: "Heavy Mind"
 name: "heavymind"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heavymind"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 16
-comments: 10
-weight: 16
-dau: 1
-wau: 3
-mau: 3
+subscribers: 26
+posts: 21
+comments: 14
+weight: 21
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 16  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 26 |
+| Posts                | 21  |
+| Comments             | 14  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 21:55:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

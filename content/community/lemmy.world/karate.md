@@ -3,13 +3,13 @@ title: "Karate"
 name: "karate"
 description: "Non-style specific community for all forms of martial arts from the island of Okinawa"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/karate"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Non-style specific community for all forms of martial arts from the island of Ok
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Non-style specific community for all forms of martial arts from the island of Ok
 |----------------------|---|
 | Published            | 2023-06-14 08:58:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

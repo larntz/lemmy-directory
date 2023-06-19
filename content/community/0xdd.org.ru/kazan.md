@@ -3,7 +3,7 @@ title: "Kazan city related"
 name: "kazan"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:44"
+date: "2023-06-19 11:34:47"
 draft: false
 nsfw: false
 actor_id: "https://0xdd.org.ru/c/kazan"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-15 06:14:22 |
 | Updated              | 2023-03-26 19:32:16 |
-| Last Scraped         | 2023-06-16 22:55:44 |
+| Last Scraped         | 2023-06-19 11:34:47 |

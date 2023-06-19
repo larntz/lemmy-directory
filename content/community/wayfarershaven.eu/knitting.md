@@ -3,13 +3,13 @@ title: "Knitting"
 name: "knitting"
 description: "Inspired by [/r/knitting](https://www.reddit.com/r/knitting/)Resources:* [/r/knitting](https://www.reddit.com/r/knitting/)* RavelryBanner credit: [Paul Hanaoka](https://unsplash.com/@plhnk)"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/knitting"
 host: wayfarershaven.eu
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Inspired by [/r/knitting](https://www.reddit.com/r/knitting/)<br><br>Resources:<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Inspired by [/r/knitting](https://www.reddit.com/r/knitting/)<br><br>Resources:<
 |----------------------|---|
 | Published            | 2023-06-11 13:17:38 |
 | Updated              | 2023-06-11 15:41:35 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

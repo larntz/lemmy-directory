@@ -3,19 +3,19 @@ title: "Science Fiction"
 name: "sciencefiction"
 description: "A community for all things science fiction. Books, TV Shows, Movies and more. Not sure where to begin? Click here for a brief guide on where to start.  [Science Fiction Books -Getting Started-](https://lemmy.world/post/108004)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sciencefiction"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 684
-posts: 9
-comments: 125
-weight: 9
-dau: 32
-wau: 79
-mau: 79
+subscribers: 1103
+posts: 10
+comments: 154
+weight: 10
+dau: 7
+wau: 104
+mau: 104
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for all things science fiction. Books, TV Shows, Movies and more. <b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 684 |
-| Posts                | 9  |
-| Comments             | 125  |
-| Daily Active Users   | 32  |
-| Weekly Active Users  | 79  |
-| Monthly Active Users | 79  |
+| Subscribers          | 1103 |
+| Posts                | 10  |
+| Comments             | 154  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 104  |
+| Monthly Active Users | 104  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for all things science fiction. Books, TV Shows, Movies and more. <b
 |----------------------|---|
 | Published            | 2023-06-13 01:47:35 |
 | Updated              | 2023-06-14 16:49:02 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

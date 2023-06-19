@@ -3,7 +3,7 @@ title: "The Netherlands"
 name: "thenetherlands"
 description: "Everything about the netherlands"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thenetherlands"
@@ -54,4 +54,4 @@ Everything about the netherlands
 |----------------------|---|
 | Published            | 2020-06-28 11:43:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

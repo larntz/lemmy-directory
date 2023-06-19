@@ -3,7 +3,7 @@ title: "New College of Florida"
 name: "newcollegeofflorida"
 description: "Pre-Desantis takeover NCF discussion. "
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/newcollegeofflorida"
@@ -54,4 +54,4 @@ Pre-Desantis takeover NCF discussion.
 |----------------------|---|
 | Published            | 2023-06-13 15:21:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

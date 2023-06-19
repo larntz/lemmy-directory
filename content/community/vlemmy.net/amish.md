@@ -3,7 +3,7 @@ title: "Amish"
 name: "amish"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/amish"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 16:19:39 |
 | Updated              | 2023-06-14 13:29:31 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:05 |

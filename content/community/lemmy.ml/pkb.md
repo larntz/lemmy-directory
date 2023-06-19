@@ -3,19 +3,19 @@ title: "Personal Knowledgebases"
 name: "pkb"
 description: "From the commonplace book to the zettelkasten to the personal wiki, and everything in between. Technology-focused content and practice-based content both welcome. While we're still small, screenshots of your notes that you're particularly proud of are also welcome!"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pkb"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 107
+subscribers: 110
 posts: 28
-comments: 16
+comments: 17
 weight: 28
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ From the commonplace book to the zettelkasten to the personal wiki, and everythi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 107 |
+| Subscribers          | 110 |
 | Posts                | 28  |
-| Comments             | 16  |
+| Comments             | 17  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ From the commonplace book to the zettelkasten to the personal wiki, and everythi
 |----------------------|---|
 | Published            | 2020-05-29 19:57:56 |
 | Updated              | 2020-08-06 19:04:32 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:47 |

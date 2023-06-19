@@ -1,21 +1,21 @@
 ---
 title: "Technology" 
 name: "technology"
-description: "Its a new technology subreddit. Bring the content. ALL the content!Rules:1. No bigotry2. No spam3. Mostly tech related content.Mod apps are open for anyone who wants to scour the internet for cool articles to post."
+description: "Its a new technology community. Bring the content. ALL the content!Rules:1. No bigotry2. No spam3. Mostly tech related content.Mod apps are open for anyone who wants to scour the internet for cool articles to post."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/technology"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 633
-posts: 21
-comments: 95
-weight: 21
-dau: 79
-wau: 87
-mau: 87
+subscribers: 1592
+posts: 35
+comments: 148
+weight: 35
+dau: 29
+wau: 142
+mau: 143
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Its a new technology subreddit. Bring the content. ALL the content!<br><br>Rules:<br>1. No bigotry<br>2. No spam<br>3. Mostly tech related content.<br><br>Mod apps are open for anyone who wants to scour the internet for cool articles to post.
+Its a new technology community. Bring the content. ALL the content!<br><br>Rules:<br>1. No bigotry<br>2. No spam<br>3. Mostly tech related content.<br><br>Mod apps are open for anyone who wants to scour the internet for cool articles to post.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Its a new technology subreddit. Bring the content. ALL the content!<br><br>Rules
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 633 |
-| Posts                | 21  |
-| Comments             | 95  |
-| Daily Active Users   | 79  |
-| Weekly Active Users  | 87  |
-| Monthly Active Users | 87  |
+| Subscribers          | 1592 |
+| Posts                | 35  |
+| Comments             | 148  |
+| Daily Active Users   | 29  |
+| Weekly Active Users  | 142  |
+| Monthly Active Users | 143  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 02:16:17 |
-| Updated              | 2023-06-16 04:19:01 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Updated              | 2023-06-19 04:03:26 |
+| Last Scraped         | 2023-06-19 11:36:37 |

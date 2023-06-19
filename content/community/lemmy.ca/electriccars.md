@@ -3,15 +3,15 @@ title: "Electric Cars"
 name: "electriccars"
 description: "Discussion of EVs and the technology around them"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/electriccars"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 177
+subscribers: 225
 posts: 6
-comments: 36
+comments: 40
 weight: 6
 dau: 1
 wau: 19
@@ -41,9 +41,9 @@ Discussion of EVs and the technology around them
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 177 |
+| Subscribers          | 225 |
 | Posts                | 6  |
-| Comments             | 36  |
+| Comments             | 40  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 19  |
 | Monthly Active Users | 19  |
@@ -54,4 +54,4 @@ Discussion of EVs and the technology around them
 |----------------------|---|
 | Published            | 2023-06-08 20:26:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

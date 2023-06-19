@@ -1,21 +1,21 @@
 ---
 title: "SNOOcalypse - document, discuss, and promote the downfall of Reddit." 
 name: "snoocalypse"
-description: "This community welcomes anyone who wants to see reddit dot com gone, or at least losing its current relevance in the internet. Nuke the Snoo!Rules:1. Follow Lemmy global rules. 2. Do not promote here anything that is illegal.3. Keep it on-topic. 4. Don't be stupid, noisy, obnoxious or obtuse (S.N.O.O.)5. Have fun!When sharing links with news or other time-sensitive content, please [consider archiving them and providing a link](https://archive.ph/) alongside the news. "
+description: "This community welcomes anyone who wants to see reddit dot com gone, or at least losing its current relevance in the internet. Nuke the Snoo!Rules:1. Follow Lemmy global rules. 2. Do not promote here anything that is illegal.3. Keep it on-topic. 4. Don't be stupid, noisy, obnoxious or obtuse (S.N.O.O.)5. Have fun!When sharing links with news or other time-sensitive content, please consider [to archive them and provide a link for the archived version](https://archive.ph/) alongside the original one. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/snoocalypse"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1136
-posts: 56
-comments: 390
-weight: 56
-dau: 75
-wau: 220
-mau: 227
+subscribers: 1508
+posts: 79
+comments: 573
+weight: 79
+dau: 50
+wau: 300
+mau: 313
 instances:
 - "lemmy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-This community welcomes anyone who wants to see reddit dot com gone, or at least losing its current relevance in the internet. Nuke the Snoo!<br><br>Rules:<br><br>1. Follow Lemmy global rules. <br>2. Do not promote here anything that is illegal.<br>3. Keep it on-topic. <br>4. Don't be stupid, noisy, obnoxious or obtuse (S.N.O.O.)<br>5. Have fun!<br><br>When sharing links with news or other time-sensitive content, please [consider archiving them and providing a link](https://archive.ph/) alongside the news. 
+This community welcomes anyone who wants to see reddit dot com gone, or at least losing its current relevance in the internet. Nuke the Snoo!<br><br>Rules:<br><br>1. Follow Lemmy global rules. <br>2. Do not promote here anything that is illegal.<br>3. Keep it on-topic. <br>4. Don't be stupid, noisy, obnoxious or obtuse (S.N.O.O.)<br>5. Have fun!<br><br>When sharing links with news or other time-sensitive content, please consider [to archive them and provide a link for the archived version](https://archive.ph/) alongside the original one. 
 </blockquote>
 
 
@@ -41,17 +41,17 @@ This community welcomes anyone who wants to see reddit dot com gone, or at least
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1136 |
-| Posts                | 56  |
-| Comments             | 390  |
-| Daily Active Users   | 75  |
-| Weekly Active Users  | 220  |
-| Monthly Active Users | 227  |
+| Subscribers          | 1508 |
+| Posts                | 79  |
+| Comments             | 573  |
+| Daily Active Users   | 50  |
+| Weekly Active Users  | 300  |
+| Monthly Active Users | 313  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-06 00:43:40 |
-| Updated              | 2023-06-16 22:40:45 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Updated              | 2023-06-16 23:04:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

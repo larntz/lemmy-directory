@@ -3,16 +3,16 @@ title: "Fractal Field Painting"
 name: "fractal_field_paint"
 description: "A community for the display and discussion of artwork created using various fractal field techniques. Please be civil, and only post your own work or document the work of others!"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/fractal_field_paint"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 4
+subscribers: 29
+posts: 6
 comments: 0
-weight: 4
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community for the display and discussion of artwork created using various frac
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 4  |
+| Subscribers          | 29 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community for the display and discussion of artwork created using various frac
 |----------------------|---|
 | Published            | 2023-06-11 14:25:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

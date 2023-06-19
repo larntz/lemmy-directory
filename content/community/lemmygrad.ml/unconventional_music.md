@@ -3,13 +3,13 @@ title: "Non-Mainstream Music"
 name: "unconventional_music"
 description: "This is a community dedicated to music that wasn't made for mass consumption but ended up being absolute bangers. Hard to explain what I mean so I'll put some examples:- [Con un porrito en la mano](https://yewtu.be/watch?v=sTtDgFT1qCc)- [The Epic Of Gilgamesh In Sumerian](https://yewtu.be/watch?v=QUcTsFe1PVs)- [Мен – тыва мен - Anthem of the Tuva Republic (Russia)](https://yewtu.be/watch?v=xoc2EC3LA60)- [Conocer las señales de advertencia de un ataque cerebral](https://yewtu.be/watch?v=xFZd25aUs30)"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/unconventional_music"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 9
 comments: 7
 weight: 9
@@ -41,7 +41,7 @@ This is a community dedicated to music that wasn't made for mass consumption but
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 9  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community dedicated to music that wasn't made for mass consumption but
 |----------------------|---|
 | Published            | 2023-02-14 16:05:42 |
 | Updated              | 2023-05-29 07:20:46 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-19 11:35:08 |

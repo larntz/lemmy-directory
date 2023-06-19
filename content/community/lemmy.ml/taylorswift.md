@@ -3,7 +3,7 @@ title: "Taylor Swift"
 name: "taylorswift"
 description: "A community for the swifties.for the *_so casually cruel_*  **_blondie_** in the name of being honest ❣️"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/taylorswift"
@@ -54,4 +54,4 @@ A community for the swifties.<br><br>for the *_so casually cruel_*  **_blondie_*
 |----------------------|---|
 | Published            | 2021-08-06 02:11:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:37:02 |

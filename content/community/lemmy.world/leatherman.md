@@ -3,19 +3,19 @@ title: "Leatherman"
 name: "leatherman"
 description: "A community for the famed multitool company Leatherman. We can all anxiously wait for the ARC to release together!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leatherman"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 3
+posts: 1
+comments: 2
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for the famed multitool company Leatherman. We can all anxiously wai
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 3 |
+| Posts                | 1  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the famed multitool company Leatherman. We can all anxiously wai
 |----------------------|---|
 | Published            | 2023-06-15 14:15:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "gopher"
 name: "gopher"
 description: "All about Gopher protocol and software : https://en.wikipedia.org/wiki/Gopher_(protocol)"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gopher"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ All about Gopher protocol and software : https://en.wikipedia.org/wiki/Gopher_(p
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All about Gopher protocol and software : https://en.wikipedia.org/wiki/Gopher_(p
 |----------------------|---|
 | Published            | 2020-07-04 16:19:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

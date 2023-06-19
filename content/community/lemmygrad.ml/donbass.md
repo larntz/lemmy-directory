@@ -3,19 +3,19 @@ title: "Donbass, DPR and LPR"
 name: "donbass"
 description: "For Donbass republics that did not support the Kiev right-wing coup in 2014.Read [this ](https://lemmygrad.ml/post/278755)and [this ](https://lemmygrad.ml/post/278827)please.Banner: LPR flag"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/donbass"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 148
+subscribers: 152
 posts: 119
-comments: 517
+comments: 520
 weight: 119
-dau: 2
-wau: 5
-mau: 10
+dau: 3
+wau: 4
+mau: 11
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ For Donbass republics that did not support the Kiev right-wing coup in 2014.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 148 |
+| Subscribers          | 152 |
 | Posts                | 119  |
-| Comments             | 517  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 10  |
+| Comments             | 520  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ For Donbass republics that did not support the Kiev right-wing coup in 2014.<br>
 |----------------------|---|
 | Published            | 2022-06-13 21:00:52 |
 | Updated              | 2022-07-10 13:18:04 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

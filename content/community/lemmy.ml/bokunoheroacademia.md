@@ -3,7 +3,7 @@ title: "Boku No Hero Academia"
 name: "bokunoheroacademia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bokunoheroacademia"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 22:34:13 |
 | Updated              | 2023-06-06 22:35:53 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:37:01 |

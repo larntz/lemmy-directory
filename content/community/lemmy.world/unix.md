@@ -3,7 +3,7 @@ title: "UNIX"
 name: "unix"
 description: "Discussion for all things UNIX related (unofficial)"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unix"
@@ -54,4 +54,4 @@ Discussion for all things UNIX related (unofficial)
 |----------------------|---|
 | Published            | 2023-06-10 11:33:40 |
 | Updated              | 2023-06-10 11:33:52 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

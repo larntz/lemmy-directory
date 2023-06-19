@@ -3,7 +3,7 @@ title: "Ensemble Stars!!"
 name: "ensemblestars"
 description: "Community about the mobile rhythm gacha game Ensemble Stars!!"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ensemblestars"
@@ -54,4 +54,4 @@ Community about the mobile rhythm gacha game Ensemble Stars!!
 |----------------------|---|
 | Published            | 2023-06-13 04:24:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

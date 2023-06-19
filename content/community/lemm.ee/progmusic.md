@@ -3,19 +3,19 @@ title: "Progressive music"
 name: "progmusic"
 description: "A place to share and discuss new and overlooked music that is progressive in both senses of the word; forward thinking music that pushes the boundaries of its genre, and music that utilizes unusual time signatures, harmonies, scales and song structures. "
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/progmusic"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 3
-comments: 0
-weight: 3
-dau: 1
-wau: 1
-mau: 1
+subscribers: 27
+posts: 9
+comments: 3
+weight: 9
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ A place to share and discuss new and overlooked music that is progressive in bot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 27 |
+| Posts                | 9  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to share and discuss new and overlooked music that is progressive in bot
 |----------------------|---|
 | Published            | 2023-06-14 12:00:30 |
 | Updated              | 2023-06-14 20:56:58 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

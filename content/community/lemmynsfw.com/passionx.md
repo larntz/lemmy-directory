@@ -3,19 +3,19 @@ title: "Passionate / Sensual / Sexy / Woman friendly / Couples friendly"
 name: "passionx"
 description: "A place for pictures and video that is depicts sensual enjoyment of each partner. Female friendly & couples friendly, focusing on passion, mutual pleasure and enjoyment."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/passionx"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 96
 posts: 0
 comments: 0
 weight: 0
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A place for pictures and video that is depicts sensual enjoyment of each partner
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 96 |
 | Posts                | 0  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -56,4 +56,4 @@ A place for pictures and video that is depicts sensual enjoyment of each partner
 |----------------------|---|
 | Published            | 2023-06-14 13:22:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:45 |

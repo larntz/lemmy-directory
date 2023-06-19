@@ -3,19 +3,19 @@ title: "連合テスト用"
 name: "federation_test_c"
 description: "連合のテスト用ですうちと連合できるかどうかテストする際に使用してください。好きに使っていただいて大丈夫です。"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/federation_test_c"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 23
 posts: 30
 comments: 41
 weight: 30
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lm_korako_me"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 23 |
 | Posts                | 30  |
 | Comments             | 41  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-11-24 00:22:22 |
 | Updated              | 2023-03-02 07:45:21 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

@@ -3,7 +3,7 @@ title: "Roll call"
 name: "opirollcall"
 description: "Roll callLimit your posts to: location + if you **are** a friend or you **need** a friend"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opirollcall"
@@ -54,4 +54,4 @@ Roll call<br><br>Limit your posts to: <br>location + if you **are** a friend or 
 |----------------------|---|
 | Published            | 2022-03-12 06:02:58 |
 | Updated              | 2022-03-12 06:28:17 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:53 |

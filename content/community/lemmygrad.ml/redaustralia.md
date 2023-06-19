@@ -3,13 +3,13 @@ title: "Red Australia!"
 name: "redaustralia"
 description: "Dedicated to communist and leftist discussion centred around Australia.Memes are allowed too!"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/redaustralia"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 30
 posts: 4
 comments: 21
 weight: 4
@@ -41,7 +41,7 @@ Dedicated to communist and leftist discussion centred around Australia.<br><br>M
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 30 |
 | Posts                | 4  |
 | Comments             | 21  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dedicated to communist and leftist discussion centred around Australia.<br><br>M
 |----------------------|---|
 | Published            | 2020-10-21 03:13:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

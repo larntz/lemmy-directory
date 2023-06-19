@@ -3,19 +3,19 @@ title: "DeGoogle Yourself"
 name: "degoogle"
 description: "Here you may post anything with the DeGooge movement!!! Enjoy killing Google's Empire!!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/degoogle"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2390
-posts: 79
-comments: 188
-weight: 79
-dau: 4
-wau: 35
-mau: 35
+subscribers: 2462
+posts: 80
+comments: 192
+weight: 80
+dau: 1
+wau: 28
+mau: 37
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Here you may post anything with the DeGooge movement!!! Enjoy killing Google's E
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2390 |
-| Posts                | 79  |
-| Comments             | 188  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 35  |
-| Monthly Active Users | 35  |
+| Subscribers          | 2462 |
+| Posts                | 80  |
+| Comments             | 192  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 37  |
 
 <br>
 
@@ -54,4 +54,4 @@ Here you may post anything with the DeGooge movement!!! Enjoy killing Google's E
 |----------------------|---|
 | Published            | 2020-02-06 04:52:52 |
 | Updated              | 2020-08-31 00:56:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

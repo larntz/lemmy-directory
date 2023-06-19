@@ -3,7 +3,7 @@ title: "Enlisted"
 name: "enlisted"
 description: "For the video game Enlisted "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/enlisted"
@@ -54,4 +54,4 @@ For the video game Enlisted
 |----------------------|---|
 | Published            | 2023-06-12 21:52:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

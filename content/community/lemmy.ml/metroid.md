@@ -3,13 +3,13 @@ title: "Metroid"
 name: "metroid"
 description: "Welcome to c/Metroid! Feel free to post any* news, questions, art, cosplay or anything else relating to the Metroid franchise!*NSFW art/cosplay must be tagged. No nudism of any kind allowed."
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metroid"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 45
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Welcome to c/Metroid! Feel free to post any* news, questions, art, cosplay or an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 45 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to c/Metroid! Feel free to post any* news, questions, art, cosplay or an
 |----------------------|---|
 | Published            | 2021-02-22 14:42:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

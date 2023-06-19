@@ -3,19 +3,19 @@ title: "DIY Simulators. Simracing, Flight simulators and more"
 name: "diysimulators"
 description: "Discussion about diy simulator related projects.Examples are simrigs, OpenFFBoard, OSW, motion systems, button plates, cockpits...Show and discuss your simulators and peripherals here"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/diysimulators"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 43
-posts: 9
-comments: 26
-weight: 9
-dau: 3
-wau: 7
-mau: 7
+subscribers: 57
+posts: 10
+comments: 31
+weight: 10
+dau: 1
+wau: 10
+mau: 10
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Discussion about diy simulator related projects.<br><br>Examples are simrigs, Op
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 9  |
-| Comments             | 26  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 57 |
+| Posts                | 10  |
+| Comments             | 31  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion about diy simulator related projects.<br><br>Examples are simrigs, Op
 |----------------------|---|
 | Published            | 2023-06-13 19:40:00 |
 | Updated              | 2023-06-15 20:54:02 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

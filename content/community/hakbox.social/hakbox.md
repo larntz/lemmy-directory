@@ -3,7 +3,7 @@ title: "HakBox"
 name: "hakbox"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/hakbox"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 17:14:39 |
 | Updated              | 2023-06-10 19:27:11 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

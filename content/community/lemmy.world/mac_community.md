@@ -3,19 +3,19 @@ title: "Mac"
 name: "mac_community"
 description: "The home for all things Mac on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mac_community"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 2
-comments: 0
-weight: 2
+subscribers: 22
+posts: 3
+comments: 2
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The home for all things Mac on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Subscribers          | 22 |
+| Posts                | 3  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ The home for all things Mac on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<b
 |----------------------|---|
 | Published            | 2023-06-16 01:57:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

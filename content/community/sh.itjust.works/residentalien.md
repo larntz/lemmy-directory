@@ -3,13 +3,13 @@ title: "Resident Alien"
 name: "residentalien"
 description: "For Fans of the Syfy TV series"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/residentalien"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ For Fans of the Syfy TV series
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For Fans of the Syfy TV series
 |----------------------|---|
 | Published            | 2023-06-10 23:42:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

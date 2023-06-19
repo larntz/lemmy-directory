@@ -3,18 +3,18 @@ title: "Bitwig"
 name: "bitwig"
 description: "Bitwig is the music performance software from Berlin"
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bitwig"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Bitwig is the music performance software from Berlin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 6  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Bitwig is the music performance software from Berlin
 |----------------------|---|
 | Published            | 2023-01-11 21:10:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:47 |

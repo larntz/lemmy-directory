@@ -3,19 +3,19 @@ title: "cats"
 name: "cats"
 description: "Cats!!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/cats"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 3
+subscribers: 41
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 4
-mau: 4
+mau: 5
 instances:
 - "latte_isnot_coffee"
 tags: 
@@ -41,12 +41,12 @@ Cats!!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 3  |
+| Subscribers          | 41 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cats!!
 |----------------------|---|
 | Published            | 2023-06-09 14:43:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,19 +3,19 @@ title: "Cosplay Girls"
 name: "cosplay_girls"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cosplay_girls"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 1003
-posts: 38
-comments: 13
-weight: 38
-dau: 4
-wau: 17
-mau: 17
+subscribers: 1364
+posts: 51
+comments: 26
+weight: 51
+dau: 13
+wau: 29
+mau: 31
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1003 |
-| Posts                | 38  |
-| Comments             | 13  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Subscribers          | 1364 |
+| Posts                | 51  |
+| Comments             | 26  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 29  |
+| Monthly Active Users | 31  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 20:39:35 |
 | Updated              | 2023-06-11 20:39:39 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,19 +3,19 @@ title: "CSS"
 name: "css"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/css"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 0
+subscribers: 56
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 0  |
+| Subscribers          | 56 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 06:02:48 |
 | Updated              | 2023-06-13 06:04:17 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

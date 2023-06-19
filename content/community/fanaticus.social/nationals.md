@@ -3,16 +3,16 @@ title: "Nationals"
 name: "nationals"
 description: "Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nationals"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 2
-comments: 2
-weight: 2
+subscribers: 5
+posts: 5
+comments: 11
+weight: 5
 dau: 2
 wau: 2
 mau: 2
@@ -41,9 +41,9 @@ Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)<br><br># Looking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 2  |
+| Subscribers          | 5 |
+| Posts                | 5  |
+| Comments             | 11  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)<br><br># Looking
 |----------------------|---|
 | Published            | 2023-06-09 17:21:28 |
 | Updated              | 2023-06-12 18:45:11 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

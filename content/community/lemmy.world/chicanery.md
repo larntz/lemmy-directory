@@ -3,16 +3,16 @@ title: "Chicanery"
 name: "chicanery"
 description: "is he stupid?"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicanery"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 6
+subscribers: 20
+posts: 8
 comments: 2
-weight: 6
+weight: 8
 dau: 2
 wau: 4
 mau: 4
@@ -41,8 +41,8 @@ is he stupid?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 6  |
+| Subscribers          | 20 |
+| Posts                | 8  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 4  |
@@ -54,4 +54,4 @@ is he stupid?
 |----------------------|---|
 | Published            | 2023-06-13 14:43:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

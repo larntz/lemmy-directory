@@ -3,7 +3,7 @@ title: "Glasgow"
 name: "glasgow"
 description: "https://glasgow.social"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/glasgow"
@@ -54,4 +54,4 @@ https://glasgow.social
 |----------------------|---|
 | Published            | 2020-01-27 10:21:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:37:00 |

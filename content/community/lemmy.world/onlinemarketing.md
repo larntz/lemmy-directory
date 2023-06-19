@@ -3,7 +3,7 @@ title: "Online Marketing & Digital Marketing"
 name: "onlinemarketing"
 description: "Welcome to Online Marketing! Please keep discussion relevant to any of the many fields of online and digital marketing, i.e. SEO, Advertising, Social Media Marketing, Tagging, etcetera."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onlinemarketing"
@@ -54,4 +54,4 @@ Welcome to Online Marketing! Please keep discussion relevant to any of the many 
 |----------------------|---|
 | Published            | 2023-06-12 08:28:33 |
 | Updated              | 2023-06-12 08:29:32 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

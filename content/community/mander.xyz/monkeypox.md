@@ -3,7 +3,7 @@ title: "monkeypox"
 name: "monkeypox"
 description: "Hopefully monkeypox won't be a big deal and I can delete this sublemmy"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/monkeypox"
@@ -54,4 +54,4 @@ Hopefully monkeypox won't be a big deal and I can delete this sublemmy
 |----------------------|---|
 | Published            | 2022-05-22 09:11:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

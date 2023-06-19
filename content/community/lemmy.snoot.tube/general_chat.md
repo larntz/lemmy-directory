@@ -3,7 +3,7 @@ title: "General Chat"
 name: "general_chat"
 description: "like a truck you can keep piling posts on."
 type: community
-date: "2023-06-16 22:56:17"
+date: "2023-06-19 11:35:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/general_chat"
@@ -54,4 +54,4 @@ like a truck you can keep piling posts on.
 |----------------------|---|
 | Published            | 2023-06-12 04:05:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:17 |
+| Last Scraped         | 2023-06-19 11:35:19 |

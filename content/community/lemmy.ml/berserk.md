@@ -3,13 +3,13 @@ title: "all talk related to Kentaro Miura's Berserk."
 name: "berserk"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/berserk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-12 19:29:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:58 |

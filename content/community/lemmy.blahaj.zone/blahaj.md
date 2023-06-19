@@ -3,19 +3,19 @@ title: "Blåhaj"
 name: "blahaj"
 description: "Your space for all things Blåhaj! "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/blahaj"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 387
-posts: 16
-comments: 54
-weight: 16
-dau: 8
-wau: 47
-mau: 49
+subscribers: 445
+posts: 17
+comments: 65
+weight: 17
+dau: 1
+wau: 46
+mau: 50
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ Your space for all things Blåhaj!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 387 |
-| Posts                | 16  |
-| Comments             | 54  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 47  |
-| Monthly Active Users | 49  |
+| Subscribers          | 445 |
+| Posts                | 17  |
+| Comments             | 65  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 46  |
+| Monthly Active Users | 50  |
 
 <br>
 
@@ -54,4 +54,4 @@ Your space for all things Blåhaj!
 |----------------------|---|
 | Published            | 2023-02-17 08:22:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

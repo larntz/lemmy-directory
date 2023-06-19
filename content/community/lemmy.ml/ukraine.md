@@ -3,19 +3,19 @@ title: "Україна | Ukraine 🇺🇦"
 name: "ukraine"
 description: "#### Welcome to Ukraine!#### Ласкаво просимо в Україну!"
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ukraine"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 619
-posts: 291
-comments: 262
-weight: 291
-dau: 28
-wau: 64
-mau: 75
+subscribers: 674
+posts: 316
+comments: 300
+weight: 316
+dau: 7
+wau: 76
+mau: 88
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 619 |
-| Posts                | 291  |
-| Comments             | 262  |
-| Daily Active Users   | 28  |
-| Weekly Active Users  | 64  |
-| Monthly Active Users | 75  |
+| Subscribers          | 674 |
+| Posts                | 316  |
+| Comments             | 300  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 76  |
+| Monthly Active Users | 88  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-04-30 22:41:18 |
 | Updated              | 2022-05-02 10:43:24 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:37:01 |

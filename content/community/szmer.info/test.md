@@ -3,7 +3,7 @@ title: "community testowe"
 name: "test"
 description: "community po to, żeby wstawiać tutaj testowe posty"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/test"
@@ -54,4 +54,4 @@ community po to, żeby wstawiać tutaj testowe posty
 |----------------------|---|
 | Published            | 2020-06-27 16:15:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

@@ -3,13 +3,13 @@ title: "3D Printing"
 name: "3d_printing"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3d_printing"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 82
+subscribers: 86
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
+| Subscribers          | 86 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-09 04:17:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

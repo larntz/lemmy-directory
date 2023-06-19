@@ -3,17 +3,17 @@ title: "Latex"
 name: "latex"
 description: "Latex, rubber, & shiny things!"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latex"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 8
-comments: 2
-weight: 8
-dau: 4
+subscribers: 112
+posts: 12
+comments: 3
+weight: 12
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -43,10 +43,10 @@ Latex, rubber, & shiny things!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 8  |
-| Comments             | 2  |
-| Daily Active Users   | 4  |
+| Subscribers          | 112 |
+| Posts                | 12  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -56,4 +56,4 @@ Latex, rubber, & shiny things!
 |----------------------|---|
 | Published            | 2023-06-16 00:38:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

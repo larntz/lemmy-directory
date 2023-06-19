@@ -3,13 +3,13 @@ title: "Art"
 name: "art"
 description: "A place for art, artists, and art lovers.Rules are as usual - Don't be a jerk, Don't try to sell stuff, and don't post porn."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/art"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 23
 posts: 5
 comments: 14
 weight: 5
@@ -41,7 +41,7 @@ A place for art, artists, and art lovers.<br><br>Rules are as usual - Don't be a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 23 |
 | Posts                | 5  |
 | Comments             | 14  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place for art, artists, and art lovers.<br><br>Rules are as usual - Don't be a
 |----------------------|---|
 | Published            | 2023-06-13 14:13:38 |
 | Updated              | 2023-06-13 21:00:32 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

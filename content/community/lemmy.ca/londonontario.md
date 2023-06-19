@@ -3,13 +3,13 @@ title: "London Ontario"
 name: "londonontario"
 description: "Community for London Ontario"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/londonontario"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for London Ontario
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for London Ontario
 |----------------------|---|
 | Published            | 2023-06-12 03:18:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-19 11:35:36 |

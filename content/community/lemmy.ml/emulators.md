@@ -3,13 +3,13 @@ title: "Emulators"
 name: "emulators"
 description: "A place to talk about console emulators"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emulators"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 127
+subscribers: 130
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ A place to talk about console emulators
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
+| Subscribers          | 130 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to talk about console emulators
 |----------------------|---|
 | Published            | 2020-05-31 16:21:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

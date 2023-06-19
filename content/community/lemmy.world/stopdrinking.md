@@ -1,21 +1,21 @@
 ---
 title: "Stop Drinking" 
 name: "stopdrinking"
-description: "A lemmy.world community for all those who want to talk about stopping drinking alcohol. I can't be arsed to actually moderate this, so please be nice. "
+description: "This is a place to motivate each other to control or stop drinking. We welcome anyone who wishes to join in by asking for advice, sharing our experiences and stories, or just encouraging someone who is trying to quit or cut down. Please post only when sober; you’re welcome to read in the meanwhile."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stopdrinking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 80
-posts: 11
-comments: 96
-weight: 11
-dau: 9
-wau: 22
-mau: 22
+subscribers: 114
+posts: 15
+comments: 140
+weight: 15
+dau: 5
+wau: 27
+mau: 27
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A lemmy.world community for all those who want to talk about stopping drinking alcohol. I can't be arsed to actually moderate this, so please be nice. 
+This is a place to motivate each other to control or stop drinking. We welcome anyone who wishes to join in by asking for advice, sharing our experiences and stories, or just encouraging someone who is trying to quit or cut down. Please post only when sober; you’re welcome to read in the meanwhile.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A lemmy.world community for all those who want to talk about stopping drinking a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 11  |
-| Comments             | 96  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
+| Subscribers          | 114 |
+| Posts                | 15  |
+| Comments             | 140  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 27  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 01:14:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-19 02:00:21 |
+| Last Scraped         | 2023-06-19 11:36:37 |

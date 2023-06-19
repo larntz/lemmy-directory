@@ -3,13 +3,13 @@ title: "Sonic the Hedgehog"
 name: "sonic"
 description: "Sonic the Hedgehog community on Lemmygrad.Hello to all twelve Sonic fans here"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sonic"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 23
 posts: 6
 comments: 8
 weight: 6
@@ -41,7 +41,7 @@ Sonic the Hedgehog community on Lemmygrad.<br><br>Hello to all twelve Sonic fans
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 23 |
 | Posts                | 6  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sonic the Hedgehog community on Lemmygrad.<br><br>Hello to all twelve Sonic fans
 |----------------------|---|
 | Published            | 2022-10-15 22:05:17 |
 | Updated              | 2022-12-06 20:23:26 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

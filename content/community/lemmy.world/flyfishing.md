@@ -3,13 +3,13 @@ title: "Fly Fishing"
 name: "flyfishing"
 description: "This is a community for anglers who pursue, or wish to pursue, their favorite fish with fly tackle. Whether you throw a 2-weight on bluelines for brook trout or a double-hander for steelhead or chase tarpon with a 12-weight, your contributions and questions will be welcomed and appreciated!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/flyfishing"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a community for anglers who pursue, or wish to pursue, their favorite fi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a community for anglers who pursue, or wish to pursue, their favorite fi
 |----------------------|---|
 | Published            | 2023-06-13 14:24:47 |
 | Updated              | 2023-06-13 15:26:02 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

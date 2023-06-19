@@ -3,7 +3,7 @@ title: "Hey Stripes"
 name: "heystripes"
 description: "Hockey refcam videos. Bringing you closer to the beer league hockey game than ever before!"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heystripes"
@@ -54,4 +54,4 @@ Hockey refcam videos. Bringing you closer to the beer league hockey game than ev
 |----------------------|---|
 | Published            | 2023-06-12 21:33:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

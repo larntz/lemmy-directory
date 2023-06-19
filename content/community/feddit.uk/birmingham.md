@@ -3,13 +3,13 @@ title: "Brum"
 name: "birmingham"
 description: "For discussion about Birmingham including the surrounding West Midlands area. Discuss all things from news, travel, culture, and general life around Birmingham!Rules and other welcoming info can be found [here](https://feddit.uk/post/1)"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/birmingham"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ For discussion about Birmingham including the surrounding West Midlands area. Di
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For discussion about Birmingham including the surrounding West Midlands area. Di
 |----------------------|---|
 | Published            | 2023-06-13 06:11:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

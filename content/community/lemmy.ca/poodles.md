@@ -3,7 +3,7 @@ title: "Poodles"
 name: "poodles"
 description: "Poodles of Lemmy!"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/poodles"
@@ -54,4 +54,4 @@ Poodles of Lemmy!
 |----------------------|---|
 | Published            | 2023-06-11 19:32:08 |
 | Updated              | 2023-06-14 19:08:40 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

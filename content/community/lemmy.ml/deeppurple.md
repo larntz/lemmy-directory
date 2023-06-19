@@ -3,7 +3,7 @@ title: "Deep Purple"
 name: "deeppurple"
 description: "Community to discuss all things related to Deep Purple."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deeppurple"
@@ -54,4 +54,4 @@ Community to discuss all things related to Deep Purple.
 |----------------------|---|
 | Published            | 2021-01-24 17:59:40 |
 | Updated              | 2021-01-25 17:46:38 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:45 |

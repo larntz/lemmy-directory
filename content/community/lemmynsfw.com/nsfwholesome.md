@@ -3,13 +3,13 @@ title: "Wholesome porn"
 name: "nsfwholesome"
 description: "Who said porn can't ever be wholesome? post your sappy romance, that silly art piece that makes you go aww and then blush real hard in the same minute. remember, consent is the most romantic act of them all! [FURRIES WELCOME}{HENTAI WELCOME}{ANYTHING LESS THAN DUBCON WILL BE SNIPED ON SIGHT}{ALL SEXUALITIES WELCOME}{ALL*  KINKS WELCOME}+except *those* kinks. you know the ones"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfwholesome"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 134
+subscribers: 214
 posts: 1
 comments: 0
 weight: 1
@@ -43,7 +43,7 @@ Who said porn can't ever be wholesome? post your sappy romance, that silly art p
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
+| Subscribers          | 214 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Who said porn can't ever be wholesome? post your sappy romance, that silly art p
 |----------------------|---|
 | Published            | 2023-06-14 20:10:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

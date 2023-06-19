@@ -3,13 +3,13 @@ title: "Faux Cyrillic"
 name: "fauxcyrillic"
 description: "People attempting to make Cyrillic look like the Latin alphabetRules1. Posts must contain faux Cyrillic2. Be respectful3. No explicit content4. Follow the  [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fauxcyrillic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ People attempting to make Cyrillic look like the Latin alphabet<br><br>Rules<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ People attempting to make Cyrillic look like the Latin alphabet<br><br>Rules<br>
 |----------------------|---|
 | Published            | 2023-06-12 00:34:41 |
 | Updated              | 2023-06-12 01:30:47 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

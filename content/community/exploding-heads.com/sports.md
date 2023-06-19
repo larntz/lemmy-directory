@@ -3,19 +3,19 @@ title: "Sports"
 name: "sports"
 description: "Sport and physical game related discussion"
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/sports"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 9
-posts: 93
+posts: 97
 comments: 10
-weight: 93
-dau: 1
+weight: 97
+dau: 2
 wau: 3
-mau: 3
+mau: 4
 instances:
 - "exploding-heads_com"
 tags: 
@@ -42,11 +42,11 @@ Sport and physical game related discussion
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 9 |
-| Posts                | 93  |
+| Posts                | 97  |
 | Comments             | 10  |
-| Daily Active Users   | 1  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Sport and physical game related discussion
 |----------------------|---|
 | Published            | 2023-02-01 22:15:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

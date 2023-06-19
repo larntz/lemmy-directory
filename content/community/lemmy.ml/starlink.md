@@ -3,13 +3,13 @@ title: "Starlink"
 name: "starlink"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starlink"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 28
 posts: 5
 comments: 1
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 28 |
 | Posts                | 5  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-02-13 01:12:21 |
 | Updated              | 2021-02-13 07:19:51 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

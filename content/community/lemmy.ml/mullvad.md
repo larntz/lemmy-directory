@@ -3,13 +3,13 @@ title: "Mullvad VPN"
 name: "mullvad"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mullvad"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 47
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 47 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-14 08:57:33 |
 | Updated              | 2021-12-14 10:11:38 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:46 |

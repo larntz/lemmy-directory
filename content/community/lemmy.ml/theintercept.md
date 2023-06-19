@@ -3,13 +3,13 @@ title: "The Intercept"
 name: "theintercept"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theintercept"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 46
 posts: 5
 comments: 6
 weight: 5
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 46 |
 | Posts                | 5  |
 | Comments             | 6  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-06-26 12:41:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

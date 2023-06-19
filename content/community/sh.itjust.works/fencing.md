@@ -3,13 +3,13 @@ title: "Fencing"
 name: "fencing"
 description: "Fencing"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fencing"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 6
 weight: 1
@@ -41,7 +41,7 @@ Fencing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 6  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Fencing
 |----------------------|---|
 | Published            | 2023-06-12 15:22:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

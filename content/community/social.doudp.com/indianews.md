@@ -3,16 +3,16 @@ title: "India News"
 name: "indianews"
 description: "News Related to India"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/indianews"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
 subscribers: 8
-posts: 3
+posts: 8
 comments: 0
-weight: 3
+weight: 8
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ News Related to India
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 8 |
-| Posts                | 3  |
+| Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -53,5 +53,5 @@ News Related to India
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 06:49:48 |
-| Updated              | 2023-06-15 07:22:52 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Updated              | 2023-06-18 12:13:27 |
+| Last Scraped         | 2023-06-19 11:35:24 |

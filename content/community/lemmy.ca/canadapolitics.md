@@ -3,16 +3,16 @@ title: "CanadaPolitics"
 name: "canadapolitics"
 description: "Placeholder for any r/CanadaPolitics refugees"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadapolitics"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 249
-posts: 16
-comments: 37
-weight: 16
+subscribers: 307
+posts: 23
+comments: 50
+weight: 23
 dau: 5
 wau: 15
 mau: 16
@@ -41,9 +41,9 @@ Placeholder for any r/CanadaPolitics refugees
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 249 |
-| Posts                | 16  |
-| Comments             | 37  |
+| Subscribers          | 307 |
+| Posts                | 23  |
+| Comments             | 50  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 15  |
 | Monthly Active Users | 16  |
@@ -54,4 +54,4 @@ Placeholder for any r/CanadaPolitics refugees
 |----------------------|---|
 | Published            | 2023-06-07 05:02:43 |
 | Updated              | 2023-06-07 16:41:37 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

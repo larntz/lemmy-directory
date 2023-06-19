@@ -3,13 +3,13 @@ title: "Alkmaar"
 name: "alkmaar"
 description: "Welkom in de community voor Alkmaar, de mooiste stad van Nederland :)De perfecte plek om te klagen over files en wegwerkzaamheden.- [Actuele evenementen in Alkmaar](https://alkmaarprachtstad.nl/evenementen-1)*Lief doen ok*"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/alkmaar"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ Welkom in de community voor Alkmaar, de mooiste stad van Nederland :)<br><br>De 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Welkom in de community voor Alkmaar, de mooiste stad van Nederland :)<br><br>De 
 |----------------------|---|
 | Published            | 2023-06-12 04:05:38 |
 | Updated              | 2023-06-14 13:14:31 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

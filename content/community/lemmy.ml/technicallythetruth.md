@@ -3,7 +3,7 @@ title: "Technically The Truth"
 name: "technicallythetruth"
 description: "For information that is technically true but far from the expected answer."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technicallythetruth"
@@ -54,4 +54,4 @@ For information that is technically true but far from the expected answer.
 |----------------------|---|
 | Published            | 2023-06-09 15:15:17 |
 | Updated              | 2023-06-09 15:15:26 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

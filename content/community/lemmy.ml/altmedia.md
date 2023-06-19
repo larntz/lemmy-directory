@@ -3,13 +3,13 @@ title: "Alt Media"
 name: "altmedia"
 description: "Discussion of independent or alternate sources of content to the establishment media. Designed with mostly political mass media in mind, but other alternatives are also welcome."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/altmedia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 36
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ Discussion of independent or alternate sources of content to the establishment m
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion of independent or alternate sources of content to the establishment m
 |----------------------|---|
 | Published            | 2020-05-11 19:59:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:56 |

@@ -3,13 +3,13 @@ title: "Minimalismus"
 name: "minimalismus"
 description: "Community rund um das Thema Minimalismus. Egal, ob es um den Lebensstil, das Leben aus dem Rucksack oder den digitalen Minimalismus geht, alle Themen sind willkommen."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/minimalismus"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 24
 posts: 1
 comments: 9
 weight: 1
@@ -41,7 +41,7 @@ Community rund um das Thema Minimalismus. <br>Egal, ob es um den Lebensstil, das
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 24 |
 | Posts                | 1  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community rund um das Thema Minimalismus. <br>Egal, ob es um den Lebensstil, das
 |----------------------|---|
 | Published            | 2023-06-14 07:06:37 |
 | Updated              | 2023-06-14 07:24:41 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

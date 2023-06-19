@@ -3,13 +3,13 @@ title: "Tattoos"
 name: "tattoos"
 description: "A community for posts relating to tattoosRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tattoos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community for posts relating to tattoos<br><br>Rules:<br>1. Be civil<br>2. No 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for posts relating to tattoos<br><br>Rules:<br>1. Be civil<br>2. No 
 |----------------------|---|
 | Published            | 2023-06-13 15:01:32 |
 | Updated              | 2023-06-15 14:51:17 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

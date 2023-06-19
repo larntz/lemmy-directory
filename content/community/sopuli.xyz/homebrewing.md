@@ -3,15 +3,15 @@ title: "Homebrewing - Beer, Mead, Wine, Cider"
 name: "homebrewing"
 description: "A community dedicated to homebrewing beer, mead, wine, cider and everything in between. If it ferments, bring it over here.Share recipes, ideas, ask for feedback or just advice._______Some starting points for beginners:[Introduction to Beer Brewing](https://sopuli.xyz/post/676210)[Brewing software](https://sopuli.xyz/post/644899)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/homebrewing"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 414
+subscribers: 444
 posts: 18
-comments: 149
+comments: 165
 weight: 18
 dau: 21
 wau: 25
@@ -41,9 +41,9 @@ A community dedicated to homebrewing beer, mead, wine, cider and everything in b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 414 |
+| Subscribers          | 444 |
 | Posts                | 18  |
-| Comments             | 149  |
+| Comments             | 165  |
 | Daily Active Users   | 21  |
 | Weekly Active Users  | 25  |
 | Monthly Active Users | 25  |
@@ -54,4 +54,4 @@ A community dedicated to homebrewing beer, mead, wine, cider and everything in b
 |----------------------|---|
 | Published            | 2023-06-04 18:58:19 |
 | Updated              | 2023-06-13 10:20:36 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

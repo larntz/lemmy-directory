@@ -3,17 +3,17 @@ title: "Joplin"
 name: "joplinapp"
 description: "Unofficial community of Joplin - an open source note-taking appCapture your thoughts and securely access them from any device___- Official Forums: https://discourse.joplinapp.org/- Subreddit: https://www.reddit.com/r/joplinapp/___Features:- 🔗 sync via NextCloud, Dropbox, OneDrive, Syncthing, WebDAV- 🌐 web clipper extension- 🛡️ end-to-end encryption- ✏️ Markdown support- ✅ built-in todo manager- 📱 runs on every desktop and mobile OS"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/joplinapp"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 117
+subscribers: 134
 posts: 6
-comments: 15
+comments: 16
 weight: 6
-dau: 3
+dau: 1
 wau: 14
 mau: 14
 instances:
@@ -41,10 +41,10 @@ Unofficial community of Joplin - an open source note-taking app<br><br>Capture y
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 117 |
+| Subscribers          | 134 |
 | Posts                | 6  |
-| Comments             | 15  |
-| Daily Active Users   | 3  |
+| Comments             | 16  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 14  |
 
@@ -54,4 +54,4 @@ Unofficial community of Joplin - an open source note-taking app<br><br>Capture y
 |----------------------|---|
 | Published            | 2023-06-08 11:15:19 |
 | Updated              | 2023-06-08 11:56:47 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,19 +3,19 @@ title: "90's Music"
 name: "90smusic"
 description: "From Grunge to Gangsta Rap and everything in between! Post a song and let's talk about it!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/90smusic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 11
-comments: 5
-weight: 11
-dau: 4
-wau: 7
-mau: 7
+subscribers: 108
+posts: 18
+comments: 7
+weight: 18
+dau: 2
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ From Grunge to Gangsta Rap and everything in between! Post a song and let's talk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 11  |
-| Comments             | 5  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 108 |
+| Posts                | 18  |
+| Comments             | 7  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ From Grunge to Gangsta Rap and everything in between! Post a song and let's talk
 |----------------------|---|
 | Published            | 2023-06-12 20:33:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,19 +3,19 @@ title: "Anti-Jokes"
 name: "antijokes"
 description: "https://en.wikipedia.org/wiki/Anti-humor"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:31"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/antijokes"
 host: sowhois.gay
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 5
-comments: 2
-weight: 5
-dau: 2
-wau: 2
-mau: 2
+subscribers: 2
+posts: 6
+comments: 3
+weight: 6
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "sowhois_gay"
 tags: 
@@ -41,12 +41,12 @@ https://en.wikipedia.org/wiki/Anti-humor
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 5  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 2 |
+| Posts                | 6  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ https://en.wikipedia.org/wiki/Anti-humor
 |----------------------|---|
 | Published            | 2023-06-16 10:25:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:31 |

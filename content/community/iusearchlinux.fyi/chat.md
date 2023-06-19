@@ -3,19 +3,19 @@ title: "chat"
 name: "chat"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/chat"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 11
-comments: 86
-weight: 11
-dau: 12
+subscribers: 33
+posts: 15
+comments: 122
+weight: 15
+dau: 5
 wau: 21
-mau: 21
+mau: 23
 instances:
 - "iusearchlinux_fyi"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 11  |
-| Comments             | 86  |
-| Daily Active Users   | 12  |
+| Subscribers          | 33 |
+| Posts                | 15  |
+| Comments             | 122  |
+| Daily Active Users   | 5  |
 | Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 20:10:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

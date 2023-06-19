@@ -3,7 +3,7 @@ title: "Backup for /r/BlackWolfFeed"
 name: "blackwolffeed"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/blackwolffeed"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-11 22:44:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

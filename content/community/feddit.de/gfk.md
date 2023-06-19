@@ -3,13 +3,13 @@ title: "Gewaltfreie Kommunikation"
 name: "gfk"
 description: "Für alles, was im weiteren Sinne mit Gewaltfreier Kommunikation nach Marhshall B. Rosenberg zu tun hat."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gfk"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 50
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ Für alles, was im weiteren Sinne mit Gewaltfreier Kommunikation nach Marhshall 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 50 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Für alles, was im weiteren Sinne mit Gewaltfreier Kommunikation nach Marhshall 
 |----------------------|---|
 | Published            | 2022-09-26 11:48:23 |
 | Updated              | 2022-09-26 12:42:20 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

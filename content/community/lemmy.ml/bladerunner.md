@@ -1,15 +1,15 @@
 ---
 title: "Blade Runner" 
 name: "bladerunner"
-description: "A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian science fiction action film directed by Ridley Scott and starring Harrison Ford, Rutger Hauer, and Sean Young - and it’s sequel directed by Denis Villeneuve. **Rules:**- Respect your fellow humans and please keep posts relevant to the Blade Runner universe- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc."
+description: "A sublemmy dedicated to Blade Runner, Blade Runner 2049, the upcoming Amazon show, and any comics.**Rules:**- Respect your fellow humans and please keep posts relevant to the Blade Runner universe- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bladerunner"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian science fiction action film directed by Ridley Scott and starring Harrison Ford, Rutger Hauer, and Sean Young - and it’s sequel directed by Denis Villeneuve. <br><br>**Rules:**<br>- Respect your fellow humans and please keep posts relevant to the Blade Runner universe<br>- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc.
+A sublemmy dedicated to Blade Runner, Blade Runner 2049, the upcoming Amazon show, and any comics.<br><br>**Rules:**<br>- Respect your fellow humans and please keep posts relevant to the Blade Runner universe<br>- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ A sublemmy dedicated to Blade Runner and Blade Runner 2049. The 1982 dystopian s
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-03 18:04:02 |
-| Updated              | 2023-06-11 03:40:34 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Updated              | 2023-06-18 18:45:56 |
+| Last Scraped         | 2023-06-19 11:36:44 |

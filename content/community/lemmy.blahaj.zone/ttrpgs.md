@@ -3,19 +3,19 @@ title: "TTRPGs"
 name: "ttrpgs"
 description: "A community for tabletop gaming of all kinds#ttrpg #rpg #rpgs #BoardGames"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ttrpgs"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 579
-posts: 18
-comments: 131
-weight: 18
-dau: 6
-wau: 63
-mau: 63
+subscribers: 688
+posts: 24
+comments: 164
+weight: 24
+dau: 3
+wau: 65
+mau: 65
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ A community for tabletop gaming of all kinds<br><br>#ttrpg #rpg #rpgs #BoardGame
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 579 |
-| Posts                | 18  |
-| Comments             | 131  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 63  |
-| Monthly Active Users | 63  |
+| Subscribers          | 688 |
+| Posts                | 24  |
+| Comments             | 164  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 65  |
+| Monthly Active Users | 65  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for tabletop gaming of all kinds<br><br>#ttrpg #rpg #rpgs #BoardGame
 |----------------------|---|
 | Published            | 2023-01-05 21:19:42 |
 | Updated              | 2023-06-15 02:11:42 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

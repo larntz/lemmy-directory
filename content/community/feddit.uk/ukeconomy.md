@@ -3,19 +3,19 @@ title: "UK Economy "
 name: "ukeconomy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukeconomy"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 60
-posts: 6
-comments: 20
-weight: 6
-dau: 5
-wau: 13
-mau: 13
+subscribers: 90
+posts: 8
+comments: 24
+weight: 8
+dau: 1
+wau: 17
+mau: 17
 instances:
 - "feddit_uk"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 6  |
-| Comments             | 20  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Subscribers          | 90 |
+| Posts                | 8  |
+| Comments             | 24  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 17  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 19:16:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Updated              | 2023-06-17 16:09:01 |
+| Last Scraped         | 2023-06-19 11:35:14 |

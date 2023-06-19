@@ -3,7 +3,7 @@ title: "Redmi Note 8 Pro Lemmy"
 name: "redminote8pro"
 description: "All about the Redmi Note 8 Pro!Moderated by the same mods who ran r/RedmiNote8Pro 🔥"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/redminote8pro"
@@ -54,4 +54,4 @@ All about the Redmi Note 8 Pro!<br><br>Moderated by the same mods who ran r/Redm
 |----------------------|---|
 | Published            | 2023-06-11 14:22:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,13 +3,13 @@ title: "Beet the Meatles!"
 name: "beatlescirclejerk"
 description: "The Beatles are literally the most popular and influential band of all times, but few people are aware of the incredible meme potential that they have...-some guy from youtube idk"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beatlescirclejerk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 31
 comments: 10
 weight: 31
@@ -41,7 +41,7 @@ The Beatles are literally the most popular and influential band of all times, bu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 31  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The Beatles are literally the most popular and influential band of all times, bu
 |----------------------|---|
 | Published            | 2022-08-30 19:15:24 |
 | Updated              | 2022-08-30 19:17:21 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

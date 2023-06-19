@@ -3,13 +3,13 @@ title: "Blursed Images"
 name: "blursed_images"
 description: "For that images that hit just the sweetspot"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blursed_images"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 36
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ For that images that hit just the sweetspot
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 36 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For that images that hit just the sweetspot
 |----------------------|---|
 | Published            | 2023-06-13 11:09:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

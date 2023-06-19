@@ -3,7 +3,7 @@ title: "Visions of Chaos"
 name: "visionsofchaos"
 description: "https://softology.pro/voc.htmVisions of Chaos is an all-in-one machine learning and chaos theory sandbox for Windows. It is simple enough for people who do not understand the mathematics behind it, but advanced enough for enthusiasts to tweak and customise to their needs. "
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/visionsofchaos"
@@ -54,4 +54,4 @@ https://softology.pro/voc.htm<br><br>Visions of Chaos is an all-in-one machine l
 |----------------------|---|
 | Published            | 2023-06-07 23:33:45 |
 | Updated              | 2023-06-07 23:46:48 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:43 |

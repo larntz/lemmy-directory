@@ -3,7 +3,7 @@ title: "Please go home Akutsu San"
 name: "akutsu_san"
 description: "Community for the Akutsu-San mangaAlternate titles: Please go home Akutsu san, Kaette Kudasai Akutsu San"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/akutsu_san"
@@ -54,4 +54,4 @@ Community for the Akutsu-San manga<br><br>Alternate titles: Please go home Akuts
 |----------------------|---|
 | Published            | 2023-06-13 05:59:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:46 |

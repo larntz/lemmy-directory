@@ -3,7 +3,7 @@ title: "Clone High"
 name: "clonehigh"
 description: "Way way back in the 1980s, secret government employees dug up famous guys and ladies and made amusing genetic copies. Now the clones are sexy teens. They're gonna make it if they try.This community is for fans of Clone High, the 2002-03 MTV adult animation cult hit and its 2023 revival on HBO Max."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/clonehigh"
@@ -54,4 +54,4 @@ Way way back in the 1980s, secret government employees dug up famous guys and la
 |----------------------|---|
 | Published            | 2023-04-21 21:29:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:59 |

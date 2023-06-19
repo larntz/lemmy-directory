@@ -3,13 +3,13 @@ title: "Hotwife"
 name: "hotwife"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hotwife"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 118
 posts: 2
 comments: 0
 weight: 2
@@ -43,7 +43,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 118 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 08:09:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

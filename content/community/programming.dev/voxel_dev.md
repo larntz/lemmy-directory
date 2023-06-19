@@ -3,16 +3,16 @@ title: "Voxel Game Dev"
 name: "voxel_dev"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/voxel_dev"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 4
+subscribers: 24
+posts: 7
 comments: 0
-weight: 4
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 4  |
+| Subscribers          | 24 |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 12:56:01 |
 | Updated              | 2023-06-14 13:42:46 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

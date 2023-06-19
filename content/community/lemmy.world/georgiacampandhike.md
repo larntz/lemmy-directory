@@ -3,17 +3,17 @@ title: "Georgia Camp and Hike"
 name: "georgiacampandhike"
 description: "Just creating a Lemmy substitute for the GeorgiaCampAndHike subreddit. This is for camping and hiking in the U.S. state of Georgia.# Rules1. Please be nice. No bigotry, racism, sexism, etc.2. Keep posts related to Georgia and it's immediate surrounding states.3. Will add more rules as necessary.# ModerationTotally up for allowing others to moderate this as it grows. I just created this community to have a place to go. -/u/jecht360# Related Communities* [Atlanta](https://lemmy.world/c/atlanta)* [Georgia](https://lemmy.world/c/georgia)* [Camping and Hiking at links.dartboard.social](https://lemmy.world/c/campingandhiking@links.dartboard.social)* [Hiking](https://lemmy.world/c/hiking)* [Outdoors at lemmy.ml](https://lemmy.world/c/outdoors@lemmy.ml)* [Camping](https://lemmy.world/c/camping)* [Camping at sh.itjustworks](https://lemmy.world/c/camping@sh.itjust.works)* [Ultralight at lemmy.ml](https://lemmy.world/c/ultralight@lemmy.ml)* [Make Your Own Gear](https://lemmy.world/c/myog)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/georgiacampandhike"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 4
+subscribers: 9
+posts: 6
 comments: 2
-weight: 4
-dau: 2
+weight: 6
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ Just creating a Lemmy substitute for the GeorgiaCampAndHike subreddit. This is f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 4  |
+| Subscribers          | 9 |
+| Posts                | 6  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ Just creating a Lemmy substitute for the GeorgiaCampAndHike subreddit. This is f
 |----------------------|---|
 | Published            | 2023-06-14 19:36:10 |
 | Updated              | 2023-06-16 13:24:24 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

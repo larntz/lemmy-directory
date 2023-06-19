@@ -3,18 +3,18 @@ title: "guitar"
 name: "guitar"
 description: "Community to discuss all things related to guitar"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guitar"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 103
+subscribers: 111
 posts: 8
 comments: 3
 weight: 8
 dau: 1
-wau: 5
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Community to discuss all things related to guitar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 103 |
+| Subscribers          | 111 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ Community to discuss all things related to guitar
 |----------------------|---|
 | Published            | 2020-04-15 15:44:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:47 |

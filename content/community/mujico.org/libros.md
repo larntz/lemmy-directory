@@ -3,7 +3,7 @@ title: "Biblioteca del Bienestar"
 name: "libros"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/libros"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-09 01:55:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

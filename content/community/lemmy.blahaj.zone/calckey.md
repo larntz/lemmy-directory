@@ -3,19 +3,19 @@ title: "Calckey"
 name: "calckey"
 description: "An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to Mastodonhttps://codeberg.org/calckey#Calckey"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/calckey"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 110
+subscribers: 118
 posts: 13
 comments: 11
 weight: 13
 dau: 1
-wau: 4
-mau: 11
+wau: 3
+mau: 10
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 110 |
+| Subscribers          | 118 |
 | Posts                | 13  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to 
 |----------------------|---|
 | Published            | 2023-01-29 02:11:47 |
 | Updated              | 2023-02-03 04:29:57 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

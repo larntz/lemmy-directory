@@ -3,7 +3,7 @@ title: "BestofLemmy -> sub migrated"
 name: "bestoflemmy"
 description: "[Transition sub to lemmy.ca/c/bestofthefediverse - use that instead](https://lemmy.ca/c/bestofthefediverse)If you cannot connect to it, feel free to continue using this sub"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestoflemmy"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-01-26 17:30:01 |
 | Updated              | 2022-08-12 03:03:09 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,13 +3,13 @@ title: "Unity Engine"
 name: "unity"
 description: "Welcome to the Unity3D/2D community on Lemmy! Talk about development, share tutorials, and post your projects here!"
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unity"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Welcome to the Unity3D/2D community on Lemmy! Talk about development, share tuto
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to the Unity3D/2D community on Lemmy! Talk about development, share tuto
 |----------------------|---|
 | Published            | 2021-01-25 06:41:04 |
 | Updated              | 2021-01-25 06:49:04 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

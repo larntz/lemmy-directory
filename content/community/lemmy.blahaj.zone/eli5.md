@@ -3,13 +3,13 @@ title: "Explain Like I'm Five | ELI5"
 name: "eli5"
 description: "Explain Like I'm FiveThere are no silly questions, only silly answers.No racism, bigotry and general unpleasantness.Ask away!"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/eli5"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 195
+subscribers: 236
 posts: 2
 comments: 6
 weight: 2
@@ -41,7 +41,7 @@ Explain Like I'm Five<br><br>There are no silly questions, only silly answers.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 195 |
+| Subscribers          | 236 |
 | Posts                | 2  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Explain Like I'm Five<br><br>There are no silly questions, only silly answers.<b
 |----------------------|---|
 | Published            | 2023-06-12 11:32:29 |
 | Updated              | 2023-06-13 09:16:55 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

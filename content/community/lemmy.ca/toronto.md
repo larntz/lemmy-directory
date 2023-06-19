@@ -3,16 +3,16 @@ title: "Toronto"
 name: "toronto"
 description: "#### Toronto, Ontario, Canada##### Friends:- [!Ontario](https://lemmy.ca/c/ontario)- [!AskTO](https://lemmy.ca/c/askto)##### [Support lemmy.ca](https://lemmy.ca/post/654216)"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/toronto"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 366
-posts: 31
-comments: 107
-weight: 31
+subscribers: 430
+posts: 34
+comments: 116
+weight: 34
 dau: 6
 wau: 36
 mau: 38
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 366 |
-| Posts                | 31  |
-| Comments             | 107  |
+| Subscribers          | 430 |
+| Posts                | 34  |
+| Comments             | 116  |
 | Daily Active Users   | 6  |
 | Weekly Active Users  | 36  |
 | Monthly Active Users | 38  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-03-10 18:59:43 |
 | Updated              | 2023-06-14 14:29:37 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

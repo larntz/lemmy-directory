@@ -1,21 +1,21 @@
 ---
 title: "Self Hosted" 
 name: "selfhosted"
-description: "A place to discuss anything Selfhosting.### Rules- Follow Burggit Rules- On-Topic: Make sure your topic is related to selfhosting.- Don’t post one-liner posts with no media (if applicable), troll attempts, or upvotes farming attempts.- Please use the appropriate title. This means when posting, use something like [Service name] post title. Or a good descriptive title like that.Rules will be expanded if need be.*This is a revival of the selfhosted community on Burggit. The original community was deleted by its owner.*"
+description: "A place to discuss anything Selfhosting.### Rules- Follow Burggit Rules- On-Topic: Make sure your topic is related to selfhosting.- Don’t post one-liner posts with no media (if applicable), troll attempts, or upvotes farming attempts.Rules will be expanded if need be.*This is a revival of the selfhosted community on Burggit. The original community was deleted by its owner.*"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/selfhosted"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 3
-comments: 3
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+subscribers: 13
+posts: 5
+comments: 10
+weight: 5
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A place to discuss anything Selfhosting.<br><br>### Rules<br>- Follow Burggit Rules<br><br>- On-Topic: Make sure your topic is related to selfhosting.<br><br>- Don’t post one-liner posts with no media (if applicable), troll attempts, or upvotes farming attempts.<br><br>- Please use the appropriate title. This means when posting, use something like [Service name] post title. Or a good descriptive title like that.<br><br>Rules will be expanded if need be.<br><br><br><br><br>*This is a revival of the selfhosted community on Burggit. The original community was deleted by its owner.*
+A place to discuss anything Selfhosting.<br><br>### Rules<br>- Follow Burggit Rules<br><br>- On-Topic: Make sure your topic is related to selfhosting.<br><br>- Don’t post one-liner posts with no media (if applicable), troll attempts, or upvotes farming attempts.<br><br>Rules will be expanded if need be.<br><br><br><br><br>*This is a revival of the selfhosted community on Burggit. The original community was deleted by its owner.*
 </blockquote>
 
 
@@ -41,17 +41,17 @@ A place to discuss anything Selfhosting.<br><br>### Rules<br>- Follow Burggit Ru
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 13 |
+| Posts                | 5  |
+| Comments             | 10  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 20:35:27 |
-| Updated              | 2023-06-15 22:07:22 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Updated              | 2023-06-18 20:00:42 |
+| Last Scraped         | 2023-06-19 11:35:30 |

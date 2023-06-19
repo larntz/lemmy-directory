@@ -3,7 +3,7 @@ title: "Nigeria"
 name: "nigeria"
 description: "A space to discuss news and issues related to Nigeria. "
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/nigeria"
@@ -54,4 +54,4 @@ A space to discuss news and issues related to Nigeria.
 |----------------------|---|
 | Published            | 2021-06-04 23:44:59 |
 | Updated              | 2021-11-28 02:07:57 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

@@ -3,7 +3,7 @@ title: "Duke Blue Devils"
 name: "dukebluedevils"
 description: "A community to discuss Duke Blue Devils athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/dukebluedevils"
@@ -54,4 +54,4 @@ A community to discuss Duke Blue Devils athletics.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-15 00:54:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

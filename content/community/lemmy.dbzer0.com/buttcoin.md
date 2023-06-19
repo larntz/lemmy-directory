@@ -3,17 +3,17 @@ title: "Buttcoin"
 name: "buttcoin"
 description: "This community was initially created as a failover for [Buttcoin](https://www.reddit.com/r/Buttcoin). However the mods created instead a kbin instance which you can [find here](/c/Buttcoin@kbin.social)As such, I'm disabling this community in order to provide a centralized location."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/buttcoin"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 27
 posts: 4
 comments: 7
 weight: 4
-dau: 3
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ This community was initially created as a failover for [Buttcoin](https://www.re
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 27 |
 | Posts                | 4  |
 | Comments             | 7  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ This community was initially created as a failover for [Buttcoin](https://www.re
 |----------------------|---|
 | Published            | 2023-06-12 01:55:02 |
 | Updated              | 2023-06-16 15:27:26 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

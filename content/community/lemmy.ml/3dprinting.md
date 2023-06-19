@@ -3,19 +3,19 @@ title: "3D Printing"
 name: "3dprinting"
 description: "For everyhting 3D printing related.Please be excellent to each other :)Icon by  [Freepik](https://www.flaticon.com/authors/freepik), Banner photo by [Thiago Medeiros Araujo](https://unsplash.com/@tmedeiros)"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3dprinting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1608
-posts: 52
-comments: 216
-weight: 52
-dau: 15
-wau: 81
-mau: 87
+subscribers: 1830
+posts: 57
+comments: 253
+weight: 57
+dau: 12
+wau: 86
+mau: 120
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ For everyhting 3D printing related.<br><br>Please be excellent to each other :)<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1608 |
-| Posts                | 52  |
-| Comments             | 216  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 81  |
-| Monthly Active Users | 87  |
+| Subscribers          | 1830 |
+| Posts                | 57  |
+| Comments             | 253  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 86  |
+| Monthly Active Users | 120  |
 
 <br>
 
@@ -54,4 +54,4 @@ For everyhting 3D printing related.<br><br>Please be excellent to each other :)<
 |----------------------|---|
 | Published            | 2020-11-17 21:53:52 |
 | Updated              | 2020-11-17 22:15:22 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:46 |

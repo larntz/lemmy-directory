@@ -3,19 +3,19 @@ title: "IPv6"
 name: "ipv6"
 description: "IPv6 Discussions"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ipv6"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+subscribers: 19
+posts: 2
+comments: 15
+weight: 2
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,17 +41,17 @@ IPv6 Discussions
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 19 |
+| Posts                | 2  |
+| Comments             | 15  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 22:43:45 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Updated              | 2023-06-19 03:17:33 |
+| Last Scraped         | 2023-06-19 11:36:36 |

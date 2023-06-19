@@ -3,19 +3,19 @@ title: "Open Source"
 name: "opensource"
 description: "All about open source! Feel free to ask questions, and share news, and interesting stuff!# Useful Links* [Open Source Initiative](https://opensource.org/)* [Free Software Foundation](https://www.fsf.org/)* [Electronic Frontier Foundation](https://www.eff.org/)* [Software Freedom Conservancy](https://sfconservancy.org/)* [It's FOSS](https://itsfoss.com/)# Rules* Posts must be relevant to the open source ideology* No NSFW content* No hate speech, bigotry, etc # Related Communities* [!libre_culture@lemmy.ml](https://lemmy.ml/c/libre_culture) * [!libre_software@lemmy.ml](https://lemmy.ml/c/libre_software) * [!libre_hardware@lemmy.ml](https://lemmy.ml/c/libre_hardware) * [!linux@lemmy.ml](https://lemmy.ml/c/linux) * [!technology@lemmy.ml](https://lemmy.ml/c/technology) Community icon from opensource.org, but we are not affiliated with them. "
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opensource"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12854
-posts: 1546
-comments: 5584
-weight: 1546
+subscribers: 13508
+posts: 1554
+comments: 5669
+weight: 1554
 dau: 28
-wau: 199
-mau: 511
+wau: 179
+mau: 528
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ All about open source! Feel free to ask questions, and share news, and interesti
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12854 |
-| Posts                | 1546  |
-| Comments             | 5584  |
+| Subscribers          | 13508 |
+| Posts                | 1554  |
+| Comments             | 5669  |
 | Daily Active Users   | 28  |
-| Weekly Active Users  | 199  |
-| Monthly Active Users | 511  |
+| Weekly Active Users  | 179  |
+| Monthly Active Users | 528  |
 
 <br>
 
@@ -54,4 +54,4 @@ All about open source! Feel free to ask questions, and share news, and interesti
 |----------------------|---|
 | Published            | 2019-08-19 09:43:37 |
 | Updated              | 2022-11-08 08:48:52 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:51 |

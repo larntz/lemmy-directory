@@ -3,19 +3,19 @@ title: "Addons 4 Kodi"
 name: "addons4kodi"
 description: "Saving for exodus "
 type: community
-date: "2023-06-16 22:57:29"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/addons4kodi"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
-posts: 4
-comments: 23
-weight: 4
+subscribers: 67
+posts: 15
+comments: 28
+weight: 15
 dau: 1
-wau: 10
-mau: 10
+wau: 16
+mau: 16
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Saving for exodus
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 4  |
-| Comments             | 23  |
+| Subscribers          | 67 |
+| Posts                | 15  |
+| Comments             | 28  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Saving for exodus
 |----------------------|---|
 | Published            | 2022-01-04 03:39:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:29 |
+| Last Scraped         | 2023-06-19 11:36:56 |

@@ -3,7 +3,7 @@ title: "Fox Plushies"
 name: "foxplushies"
 description: "For photos of fox plushies in just about any situation you can imagine."
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helios42.de/c/foxplushies"
@@ -54,4 +54,4 @@ For photos of fox plushies in just about any situation you can imagine.
 |----------------------|---|
 | Published            | 2023-06-05 20:32:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:57 |

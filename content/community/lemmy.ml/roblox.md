@@ -3,19 +3,19 @@ title: "Roblox"
 name: "roblox"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roblox"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 2
-comments: 15
-weight: 2
-dau: 1
-wau: 1
-mau: 2
+subscribers: 19
+posts: 3
+comments: 17
+weight: 3
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Subscribers          | 19 |
+| Posts                | 3  |
+| Comments             | 17  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-07-20 04:41:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:57 |

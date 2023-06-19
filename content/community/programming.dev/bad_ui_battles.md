@@ -3,13 +3,13 @@ title: "Bad UI Battles"
 name: "bad_ui_battles"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/bad_ui_battles"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 68
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 68 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 22:25:22 |
 | Updated              | 2023-06-13 23:50:05 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

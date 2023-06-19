@@ -3,18 +3,18 @@ title: "Mathematics"
 name: "mathematics"
 description: "A community for discussing mathematics and developments in mathematics."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mathematics"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 169
-posts: 46
+subscribers: 180
+posts: 47
 comments: 13
-weight: 46
+weight: 47
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A community for discussing mathematics and developments in mathematics.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 169 |
-| Posts                | 46  |
+| Subscribers          | 180 |
+| Posts                | 47  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A community for discussing mathematics and developments in mathematics.
 |----------------------|---|
 | Published            | 2021-12-29 13:25:36 |
 | Updated              | 2021-12-29 13:26:30 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:37:00 |

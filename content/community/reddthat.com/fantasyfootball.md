@@ -3,13 +3,13 @@ title: "Fantasy Football"
 name: "fantasyfootball"
 description: "A community for discussing fantasy football."
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/fantasyfootball"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for discussing fantasy football.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussing fantasy football.
 |----------------------|---|
 | Published            | 2023-06-10 17:20:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

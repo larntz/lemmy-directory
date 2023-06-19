@@ -3,13 +3,13 @@ title: "Content Outside Lemmy"
 name: "offlemmycontent"
 description: "Basically a community aimed for sharing content outside Lemmy.For people who are not confortable on accessing websites filled with trackers and cookies everywhere. If you are a super hero that access websites like that i ask you kindly to share it's content with us.Oh, and remember to link the original address and author. Not that we are going to access this address anyway if it is filled with trackers, it is just to give credit to the original content and author."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/offlemmycontent"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Basically a community aimed for sharing content outside Lemmy.<br>For people who
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Basically a community aimed for sharing content outside Lemmy.<br>For people who
 |----------------------|---|
 | Published            | 2021-07-20 12:15:15 |
 | Updated              | 2021-09-03 15:47:58 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

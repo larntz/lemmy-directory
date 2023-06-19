@@ -3,13 +3,13 @@ title: "Wheel of Time - TV Show on Amazon Prime"
 name: "wotshow"
 description: "This is an unofficial group for fans of the Wheel of Time TV show.  Let's keep the toxicity to a minimum and just enjoy it."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wotshow"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 26
 posts: 2
 comments: 11
 weight: 2
@@ -41,7 +41,7 @@ This is an unofficial group for fans of the Wheel of Time TV show.  Let's keep t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 26 |
 | Posts                | 2  |
 | Comments             | 11  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ This is an unofficial group for fans of the Wheel of Time TV show.  Let's keep t
 |----------------------|---|
 | Published            | 2023-06-07 11:34:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,19 +3,19 @@ title: "EDM, Techno, Hardstyle, etc"
 name: "edm"
 description: "Everything that goes doof doof, slaps, or makes you go to lala land. Hardstyle, Trance, PsyTrance, Dubstep, HardHouse, DnB, Dance, House and anything in-between.https://en.m.wikipedia.org/wiki/List_of_electronic_music_genres"
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/edm"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 6
+subscribers: 3
+posts: 7
 comments: 0
-weight: 6
+weight: 7
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "reddthat_com"
 tags: 
@@ -41,12 +41,12 @@ Everything that goes doof doof, slaps, or makes you go to lala land. <br><br>Har
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 6  |
+| Subscribers          | 3 |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything that goes doof doof, slaps, or makes you go to lala land. <br><br>Har
 |----------------------|---|
 | Published            | 2023-06-15 10:18:13 |
 | Updated              | 2023-06-15 21:29:41 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

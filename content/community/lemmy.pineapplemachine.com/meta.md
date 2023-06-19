@@ -3,13 +3,13 @@ title: "meta"
 name: "meta"
 description: "Info and announcements about the instance."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/meta"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 6
 comments: 23
 weight: 6
@@ -41,7 +41,7 @@ Info and announcements about the instance.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 6  |
 | Comments             | 23  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Info and announcements about the instance.
 |----------------------|---|
 | Published            | 2023-06-05 10:50:28 |
 | Updated              | 2023-06-08 20:55:50 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

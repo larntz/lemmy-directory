@@ -3,13 +3,13 @@ title: "birds_arent_real"
 name: "birds_arent_real"
 description: "they're not"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/birds_arent_real"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ they're not
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ they're not
 |----------------------|---|
 | Published            | 2023-06-12 18:29:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

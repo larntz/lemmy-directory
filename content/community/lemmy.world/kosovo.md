@@ -3,7 +3,7 @@ title: "Kosovo"
 name: "kosovo"
 description: "Official subreddit for Kosovo"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kosovo"
@@ -54,4 +54,4 @@ Official subreddit for Kosovo
 |----------------------|---|
 | Published            | 2023-06-13 00:09:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

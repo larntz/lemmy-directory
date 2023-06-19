@@ -3,13 +3,13 @@ title: "Commodore 64"
 name: "commodore_64"
 description: "A community for those who love the Commodore 64, the best selling personal computer of all time.  Fans of the original, collectors, modders, and clone builders are welcome."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/commodore_64"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for those who love the Commodore 64, the best selling personal compu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for those who love the Commodore 64, the best selling personal compu
 |----------------------|---|
 | Published            | 2023-06-14 23:23:40 |
 | Updated              | 2023-06-16 22:34:12 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,19 +3,19 @@ title: "Ask STEAM Science/Engineering"
 name: "askstem"
 description: "Ask STEAM (Science, Technology, Engineering, Art, Math)Technical discussion broadly."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/askstem"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 6
-comments: 5
-weight: 6
-dau: 1
-wau: 1
-mau: 1
+subscribers: 23
+posts: 7
+comments: 13
+weight: 7
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Ask STEAM (Science, Technology, Engineering, Art, Math)<br>Technical discussion 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 23 |
+| Posts                | 7  |
+| Comments             | 13  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ask STEAM (Science, Technology, Engineering, Art, Math)<br>Technical discussion 
 |----------------------|---|
 | Published            | 2022-07-26 00:56:46 |
 | Updated              | 2022-07-28 18:57:09 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

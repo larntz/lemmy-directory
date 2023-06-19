@@ -3,13 +3,13 @@ title: "AWS"
 name: "aws"
 description: "A community for news, discussions and knowledge sharing about Amazon Web Services."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nerdcore.social/c/aws"
 host: lemmy.nerdcore.social
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 7
 posts: 21
 comments: 0
 weight: 21
@@ -41,7 +41,7 @@ A community for news, discussions and knowledge sharing about Amazon Web Service
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 7 |
 | Posts                | 21  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for news, discussions and knowledge sharing about Amazon Web Service
 |----------------------|---|
 | Published            | 2023-06-14 18:31:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

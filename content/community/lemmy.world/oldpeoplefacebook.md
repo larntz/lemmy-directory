@@ -3,13 +3,13 @@ title: "Old Person(s) FaceBook"
 name: "oldpeoplefacebook"
 description: "This is LE POGGERS community to make fun of LE DUMB BOOMERS who use FaceBook!!!!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oldpeoplefacebook"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is LE POGGERS community to make fun of LE DUMB BOOMERS who use FaceBook!!!!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 15 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is LE POGGERS community to make fun of LE DUMB BOOMERS who use FaceBook!!!!
 |----------------------|---|
 | Published            | 2023-06-12 10:02:31 |
 | Updated              | 2023-06-12 10:04:21 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

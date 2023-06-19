@@ -3,17 +3,17 @@ title: "Software Gore"
 name: "softwaregore"
 description: "Welcome to /c/SoftwareGore! This is an alternative to the subreddit /r/SoftwareGore on Reddit.This is a community where you can poke fun at nasty software. Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/softwaregore"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 81
+subscribers: 160
 posts: 4
 comments: 14
 weight: 4
-dau: 8
+dau: 1
 wau: 11
 mau: 11
 instances:
@@ -41,10 +41,10 @@ Welcome to /c/SoftwareGore! This is an alternative to the subreddit /r/SoftwareG
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 81 |
+| Subscribers          | 160 |
 | Posts                | 4  |
 | Comments             | 14  |
-| Daily Active Users   | 8  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 11  |
 | Monthly Active Users | 11  |
 
@@ -54,4 +54,4 @@ Welcome to /c/SoftwareGore! This is an alternative to the subreddit /r/SoftwareG
 |----------------------|---|
 | Published            | 2023-06-12 11:15:08 |
 | Updated              | 2023-06-15 06:19:21 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

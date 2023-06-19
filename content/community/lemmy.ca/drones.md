@@ -3,13 +3,13 @@ title: "Drones"
 name: "drones"
 description: "Discussion of drones - Unmanned Aerial Vehicles and the flying thereof."
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/drones"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussion of drones - Unmanned Aerial Vehicles and the flying thereof.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 15 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussion of drones - Unmanned Aerial Vehicles and the flying thereof.
 |----------------------|---|
 | Published            | 2021-01-31 23:30:44 |
 | Updated              | 2021-01-31 23:31:06 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,7 +3,7 @@ title: "Suomi"
 name: "suomi"
 description: "Yhteisö suomalaisille suomeksi"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/suomi"
@@ -54,4 +54,4 @@ Yhteisö suomalaisille suomeksi
 |----------------------|---|
 | Published            | 2023-06-14 22:25:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

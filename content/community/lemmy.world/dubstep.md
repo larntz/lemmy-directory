@@ -3,7 +3,7 @@ title: "Dubstep"
 name: "dubstep"
 description: "A place for lovers of bass music."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dubstep"
@@ -54,4 +54,4 @@ A place for lovers of bass music.
 |----------------------|---|
 | Published            | 2023-06-16 19:21:42 |
 | Updated              | 2023-06-16 19:25:02 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

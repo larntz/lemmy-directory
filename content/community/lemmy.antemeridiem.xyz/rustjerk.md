@@ -3,19 +3,19 @@ title: "Rust Jerk"
 name: "rustjerk"
 description: "Rust programming language but with more **crab**HQ of Go and C++ haters"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/rustjerk"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 3
-comments: 1
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+subscribers: 32
+posts: 4
+comments: 2
+weight: 4
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_antemeridiem_xyz"
 tags: 
@@ -41,12 +41,12 @@ Rust programming language but with more **crab**<br><br>HQ of Go and C++ haters
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 32 |
+| Posts                | 4  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Rust programming language but with more **crab**<br><br>HQ of Go and C++ haters
 |----------------------|---|
 | Published            | 2023-06-10 16:51:56 |
 | Updated              | 2023-06-14 22:34:09 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

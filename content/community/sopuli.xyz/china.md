@@ -3,16 +3,16 @@ title: "China"
 name: "china"
 description: "Genuine news and discussion about China"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/china"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
 subscribers: 26
-posts: 41
+posts: 42
 comments: 4
-weight: 41
+weight: 42
 dau: 1
 wau: 2
 mau: 3
@@ -42,7 +42,7 @@ Genuine news and discussion about China
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 26 |
-| Posts                | 41  |
+| Posts                | 42  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Genuine news and discussion about China
 |----------------------|---|
 | Published            | 2022-08-21 15:06:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,13 +3,13 @@ title: "Non-Profits - who profits?"
 name: "nonprofits"
 description: "A lot of people seem to make an awful lot of money out of non-profits and get gold plated perks to boot."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/nonprofits"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 8
 posts: 69
 comments: 1
 weight: 69
@@ -41,7 +41,7 @@ A lot of people seem to make an awful lot of money out of non-profits and get go
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 8 |
 | Posts                | 69  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A lot of people seem to make an awful lot of money out of non-profits and get go
 |----------------------|---|
 | Published            | 2022-03-12 17:33:09 |
 | Updated              | 2022-03-13 00:53:25 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

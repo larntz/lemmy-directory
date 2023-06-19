@@ -3,13 +3,13 @@ title: "Acoustic Guitar"
 name: "acousticguitar"
 description: "This community is for the love and appreciation of the acoustic guitar! Feel free to post photos and videos of your acoustic guitar(s), and any videos of you playing that you'd like to upload. Rules: Be kind."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acousticguitar"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 17
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ This community is for the love and appreciation of the acoustic guitar! Feel fre
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 17 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community is for the love and appreciation of the acoustic guitar! Feel fre
 |----------------------|---|
 | Published            | 2023-06-13 12:43:42 |
 | Updated              | 2023-06-14 23:00:45 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

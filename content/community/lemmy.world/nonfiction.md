@@ -3,13 +3,13 @@ title: "Nonfiction"
 name: "nonfiction"
 description: "A sublemmy for nonfiction text discussion - all kinds of nonfiction welcome no matter the topic or format. Basic rules of good-faith acting apply. With nonfiction things could get contentious but please be respectful during disagreements. "
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nonfiction"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 25
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A sublemmy for nonfiction text discussion - all kinds of nonfiction welcome no m
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 25 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A sublemmy for nonfiction text discussion - all kinds of nonfiction welcome no m
 |----------------------|---|
 | Published            | 2023-06-12 22:21:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

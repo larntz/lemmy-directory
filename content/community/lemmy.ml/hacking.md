@@ -3,18 +3,18 @@ title: "Hacking"
 name: "hacking"
 description: "This is the community for all things hacking and cybersecurity, try keeping it legal. That said I don't take any responsibility for anything that happens/comes from this group but I will try being the best mod that I can to prevent anything from happening."
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hacking"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 789
+subscribers: 814
 posts: 47
 comments: 35
 weight: 47
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ This is the community for all things hacking and cybersecurity, try keeping it l
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 789 |
+| Subscribers          | 814 |
 | Posts                | 47  |
 | Comments             | 35  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ This is the community for all things hacking and cybersecurity, try keeping it l
 |----------------------|---|
 | Published            | 2020-06-02 06:43:18 |
 | Updated              | 2020-06-04 08:38:27 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:37:01 |

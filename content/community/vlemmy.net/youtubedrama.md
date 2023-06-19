@@ -3,13 +3,13 @@ title: "Content Creators, Drama, and Self-Destruction"
 name: "youtubedrama"
 description: "all the juicy drama from all of the content creating websites. youtube, twitch, wherever, it just needs to be juicy"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/youtubedrama"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 10
 posts: 1
 comments: 9
 weight: 1
@@ -41,7 +41,7 @@ all the juicy drama from all of the content creating websites. youtube, twitch, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 9  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ all the juicy drama from all of the content creating websites. youtube, twitch, 
 |----------------------|---|
 | Published            | 2023-06-15 12:03:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

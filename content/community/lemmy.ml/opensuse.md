@@ -3,19 +3,19 @@ title: "openSUSE"
 name: "opensuse"
 description: "The makers' choice for sysadmins, developers and desktop users.www.opensuse.orgopenSUSE (IPA: oʊpənˈsuːzə) is a project that serves to promote the use of free and open-source software.openSUSE is well known for its Linux distributions, mainly Tumbleweed, a tested rolling release, and Leap, a distribution with long-term support."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opensuse"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 101
+subscribers: 109
 posts: 1
-comments: 15
+comments: 16
 weight: 1
 dau: 2
 wau: 5
-mau: 10
+mau: 11
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The makers' choice for sysadmins, developers and desktop users.<br><br>www.opens
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 101 |
+| Subscribers          | 109 |
 | Posts                | 1  |
-| Comments             | 15  |
+| Comments             | 16  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
-| Monthly Active Users | 10  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ The makers' choice for sysadmins, developers and desktop users.<br><br>www.opens
 |----------------------|---|
 | Published            | 2022-05-01 16:30:18 |
 | Updated              | 2022-05-01 17:00:37 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:52 |

@@ -3,19 +3,19 @@ title: "Broken Babes"
 name: "brokenbabes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/brokenbabes"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 84
-posts: 1
-comments: 3
-weight: 1
-dau: 3
-wau: 4
-mau: 4
+subscribers: 213
+posts: 2
+comments: 4
+weight: 2
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 213 |
+| Posts                | 2  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -56,4 +56,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 21:00:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

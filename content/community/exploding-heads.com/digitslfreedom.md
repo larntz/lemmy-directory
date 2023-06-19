@@ -3,19 +3,19 @@ title: "Digital Freedom"
 name: "digitslfreedom"
 description: "Governments, Big Business, & Tyrants are using technology to control and censor you. Here we discuss how to break free."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/digitslfreedom"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 157
-posts: 1061
-comments: 628
-weight: 1061
-dau: 3
-wau: 23
-mau: 29
+subscribers: 185
+posts: 1070
+comments: 636
+weight: 1070
+dau: 4
+wau: 28
+mau: 36
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Governments, Big Business, & Tyrants are using technology to control and censor 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 157 |
-| Posts                | 1061  |
-| Comments             | 628  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 29  |
+| Subscribers          | 185 |
+| Posts                | 1070  |
+| Comments             | 636  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 36  |
 
 <br>
 
@@ -54,4 +54,4 @@ Governments, Big Business, & Tyrants are using technology to control and censor 
 |----------------------|---|
 | Published            | 2022-03-13 21:37:02 |
 | Updated              | 2022-03-20 18:18:49 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

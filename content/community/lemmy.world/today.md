@@ -3,7 +3,7 @@ title: "Today"
 name: "today"
 description: "Embrace the Present, Seize the Day, and Make Every Moment Count"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/today"
@@ -54,4 +54,4 @@ Embrace the Present, Seize the Day, and Make Every Moment Count
 |----------------------|---|
 | Published            | 2023-06-12 12:37:48 |
 | Updated              | 2023-06-16 11:29:48 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

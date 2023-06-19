@@ -3,13 +3,13 @@ title: "10grans"
 name: "10grans"
 description: "The only currency that supplies Friendship, Finance, & Fun all at the same time.https://10grans.cash/"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/10grans"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The only currency that supplies Friendship, Finance, & Fun all at the same time.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The only currency that supplies Friendship, Finance, & Fun all at the same time.
 |----------------------|---|
 | Published            | 2021-02-18 22:41:52 |
 | Updated              | 2021-02-18 22:47:58 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

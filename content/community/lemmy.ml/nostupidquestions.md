@@ -3,13 +3,13 @@ title: "No Stupid Questions"
 name: "nostupidquestions"
 description: "There are no stupid questions. Follow site rules. Don't be a fascist."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nostupidquestions"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 337
+subscribers: 345
 posts: 19
 comments: 82
 weight: 19
@@ -41,7 +41,7 @@ There are no stupid questions. <br><br>Follow site rules. <br><br>Don't be a fas
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 337 |
+| Subscribers          | 345 |
 | Posts                | 19  |
 | Comments             | 82  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ There are no stupid questions. <br><br>Follow site rules. <br><br>Don't be a fas
 |----------------------|---|
 | Published            | 2020-07-19 10:58:27 |
 | Updated              | 2020-07-20 14:56:39 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:47 |

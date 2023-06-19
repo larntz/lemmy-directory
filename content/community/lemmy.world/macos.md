@@ -3,17 +3,17 @@ title: "macOS"
 name: "macos"
 description: "The home for all things macOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macos"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 40
 posts: 2
 comments: 2
 weight: 2
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ The home for all things macOS on LW.<br><br>**Rules:**<br><br>- No NSFW Content.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 40 |
 | Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ The home for all things macOS on LW.<br><br>**Rules:**<br><br>- No NSFW Content.
 |----------------------|---|
 | Published            | 2023-06-16 01:39:00 |
 | Updated              | 2023-06-16 01:39:13 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

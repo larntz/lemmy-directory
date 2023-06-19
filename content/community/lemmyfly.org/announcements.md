@@ -3,7 +3,7 @@ title: "announcements"
 name: "announcements"
 description: "Channel for announcements about the lemmyfly.org instance"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/announcements"
@@ -54,4 +54,4 @@ Channel for announcements about the lemmyfly.org instance
 |----------------------|---|
 | Published            | 2023-06-11 11:26:41 |
 | Updated              | 2023-06-11 12:26:46 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

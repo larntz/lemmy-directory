@@ -3,18 +3,18 @@ title: "Ethereum"
 name: "ethereum"
 description: "Next-generation platform for decentralised applications. Dive in at [ethereum.org](ethereum.org)"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethereum"
 host: diggit.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 22
 posts: 5
 comments: 13
 weight: 5
-dau: 3
-wau: 7
+dau: 1
+wau: 6
 mau: 7
 instances:
 - "diggit_xyz"
@@ -41,11 +41,11 @@ Next-generation platform for decentralised applications. Dive in at [ethereum.or
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 22 |
 | Posts                | 5  |
 | Comments             | 13  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Next-generation platform for decentralised applications. Dive in at [ethereum.or
 |----------------------|---|
 | Published            | 2023-06-11 07:35:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

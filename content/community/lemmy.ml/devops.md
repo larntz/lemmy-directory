@@ -3,13 +3,13 @@ title: "DevOps"
 name: "devops"
 description: "Development & operations"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/devops"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 447
+subscribers: 467
 posts: 26
 comments: 3
 weight: 26
@@ -41,7 +41,7 @@ Development & operations
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 447 |
+| Subscribers          | 467 |
 | Posts                | 26  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Development & operations
 |----------------------|---|
 | Published            | 2019-08-19 09:46:01 |
 | Updated              | 2019-08-19 09:46:20 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

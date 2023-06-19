@@ -3,7 +3,7 @@ title: "Deutsche Dinge (auf Deutsch)."
 name: "deutschland"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deutschland"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-05-01 10:06:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

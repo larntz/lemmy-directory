@@ -3,18 +3,18 @@ title: "Rare Pepes"
 name: "rarepepes"
 description: "Only the most rarest pepes please. "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rarepepes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 21
 posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ Only the most rarest pepes please.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 21 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Only the most rarest pepes please.
 |----------------------|---|
 | Published            | 2023-06-11 23:30:11 |
 | Updated              | 2023-06-11 23:41:06 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

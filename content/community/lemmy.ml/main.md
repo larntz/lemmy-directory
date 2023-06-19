@@ -3,19 +3,19 @@ title: "main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/main"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 83
 posts: 3
 comments: 3
 weight: 3
 dau: 2
-wau: 3
-mau: 3
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 83 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-30 13:51:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:48 |

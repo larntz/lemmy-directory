@@ -3,16 +3,16 @@ title: "Fate Series"
 name: "fate"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fate"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 0
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 0  |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-16 05:18:04 |
 | Updated              | 2022-04-16 05:22:42 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

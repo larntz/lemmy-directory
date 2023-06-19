@@ -3,13 +3,13 @@ title: "Trolley Memes"
 name: "trolley_memes"
 description: "The best genre there is."
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trolley_memes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 12
 comments: 2
 weight: 12
@@ -41,7 +41,7 @@ The best genre there is.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 12  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The best genre there is.
 |----------------------|---|
 | Published            | 2022-06-15 14:46:36 |
 | Updated              | 2022-06-16 18:12:41 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:45 |

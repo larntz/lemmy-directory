@@ -3,13 +3,13 @@ title: "Polska to stan wyjątkowy umysłu. "
 name: "sekcja"
 description: "Kiedyś mówiło się, że co prawda siedzimy w obozie, ale w naszym baraku jest najweselej. Dzisiaj wydaje się, że odbudowa baraku ruszyła pełną parą, ale już wcale nie jest wesoło.Już nic nie wiem o tej Polsce. Może jak tu pozbieram(y) co bardziej szczególne jej objawy, to się czegoś dowiemy. Nie wiem, czy chcę się dowiedzieć.-------------Recyklowana z niezaistniałej Sekcji obniżania poziomu cukru"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sekcja"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 40
 posts: 21
 comments: 13
 weight: 21
@@ -41,7 +41,7 @@ Kiedyś mówiło się, że co prawda siedzimy w obozie, ale w naszym baraku jest
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 40 |
 | Posts                | 21  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Kiedyś mówiło się, że co prawda siedzimy w obozie, ale w naszym baraku jest
 |----------------------|---|
 | Published            | 2021-10-13 07:16:30 |
 | Updated              | 2021-12-02 15:39:45 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

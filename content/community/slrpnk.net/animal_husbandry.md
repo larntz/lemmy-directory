@@ -3,19 +3,19 @@ title: "Radical Animal Husbandry"
 name: "animal_husbandry"
 description: "Animal raising with a environmentally-conscious, high welfare, ethical solarpunk lean. Topics may include:-Home-reared meat animals-Raising animals for sustainable fibers (alpaca, sheep, etc)-Using every part of an animal-Sharing what your animals produce with your community-Preservation of heritage animal breeds"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/animal_husbandry"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 2
+subscribers: 19
+posts: 3
 comments: 2
-weight: 2
-dau: 3
-wau: 3
-mau: 3
+weight: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ Animal raising with a environmentally-conscious, high welfare, ethical solarpunk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 2  |
+| Subscribers          | 19 |
+| Posts                | 3  |
 | Comments             | 2  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Animal raising with a environmentally-conscious, high welfare, ethical solarpunk
 |----------------------|---|
 | Published            | 2023-06-13 12:34:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

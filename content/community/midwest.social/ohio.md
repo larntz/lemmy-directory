@@ -3,19 +3,19 @@ title: "Ohio"
 name: "ohio"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/ohio"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 180
-posts: 37
-comments: 90
-weight: 37
-dau: 4
-wau: 18
-mau: 30
+subscribers: 196
+posts: 38
+comments: 96
+weight: 38
+dau: 2
+wau: 13
+mau: 33
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 180 |
-| Posts                | 37  |
-| Comments             | 90  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 30  |
+| Subscribers          | 196 |
+| Posts                | 38  |
+| Comments             | 96  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-12 15:57:36 |
 | Updated              | 2023-06-15 19:17:50 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-19 11:35:29 |

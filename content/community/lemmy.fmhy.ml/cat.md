@@ -1,20 +1,20 @@
 ---
 title: "Cats" 
 name: "cat"
-description: "meow"
+description: "The community for everything cats. Meow!! 🐾"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/cat"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 163
-posts: 6
-comments: 12
-weight: 6
+subscribers: 207
+posts: 32
+comments: 36
+weight: 32
 dau: 1
-wau: 6
+wau: 3
 mau: 7
 instances:
 - "lemmy_fmhy_ml"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-meow
+The community for everything cats. Meow!! 🐾
 </blockquote>
 
 
@@ -41,11 +41,11 @@ meow
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 163 |
-| Posts                | 6  |
-| Comments             | 12  |
+| Subscribers          | 207 |
+| Posts                | 32  |
+| Comments             | 36  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -53,5 +53,5 @@ meow
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 13:56:45 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-18 18:53:26 |
+| Last Scraped         | 2023-06-19 11:35:02 |

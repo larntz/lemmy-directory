@@ -3,16 +3,16 @@ title: "Minnesota Twins"
 name: "minnesotatwins"
 description: "Cloned from [r/MinnesotaTwins](https://old.reddit.com/r/MinnesotaTwins)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/minnesotatwins"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2
-comments: 0
-weight: 2
+posts: 6
+comments: 8
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Cloned from [r/MinnesotaTwins](https://old.reddit.com/r/MinnesotaTwins)<br><br>#
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
+| Posts                | 6  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Cloned from [r/MinnesotaTwins](https://old.reddit.com/r/MinnesotaTwins)<br><br>#
 |----------------------|---|
 | Published            | 2023-06-09 17:06:00 |
 | Updated              | 2023-06-12 16:32:54 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

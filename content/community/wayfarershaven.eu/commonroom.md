@@ -3,16 +3,16 @@ title: "Common Room "
 name: "commonroom"
 description: "Pull up a chair and have a chat!"
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/commonroom"
 host: wayfarershaven.eu
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2
-comments: 7
-weight: 2
+posts: 3
+comments: 10
+weight: 3
 dau: 2
 wau: 2
 mau: 2
@@ -42,8 +42,8 @@ Pull up a chair and have a chat!
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 7  |
+| Posts                | 3  |
+| Comments             | 10  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ Pull up a chair and have a chat!
 |----------------------|---|
 | Published            | 2023-06-11 11:25:58 |
 | Updated              | 2023-06-11 15:38:39 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

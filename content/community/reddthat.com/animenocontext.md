@@ -3,7 +3,7 @@ title: "animenocontext"
 name: "animenocontext"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/animenocontext"
@@ -14,8 +14,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "reddthat_com"
 tags: 
@@ -45,8 +45,8 @@ Description not available.
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 10:04:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,7 +3,7 @@ title: "Wetshaving Server Discussion"
 name: "ws_server_discussion"
 description: "The purpose of this community is for members of the sub.wetshaving.social community to discuss issues and ask questions about the server. All sitewide rules apply. In general, any posts by users not from the sub.wetshaving.social Lemmy or posts not about the server will be removed."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/ws_server_discussion"
@@ -14,7 +14,7 @@ posts: 3
 comments: 7
 weight: 3
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "sub_wetshaving_social"
@@ -45,7 +45,7 @@ The purpose of this community is for members of the sub.wetshaving.social commun
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ The purpose of this community is for members of the sub.wetshaving.social commun
 |----------------------|---|
 | Published            | 2023-06-10 20:26:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

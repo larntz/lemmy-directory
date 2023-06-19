@@ -3,13 +3,13 @@ title: "python"
 name: "python"
 description: "Die deutschsprachige Community für Python"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/python"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Die deutschsprachige Community für Python
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die deutschsprachige Community für Python
 |----------------------|---|
 | Published            | 2023-06-13 11:35:15 |
 | Updated              | 2023-06-14 07:04:46 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

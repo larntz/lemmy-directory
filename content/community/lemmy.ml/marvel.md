@@ -3,16 +3,16 @@ title: "Marvel"
 name: "marvel"
 description: "For everything related to Marvel"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvel"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 77
-posts: 1
+subscribers: 96
+posts: 3
 comments: 1
-weight: 1
+weight: 3
 dau: 1
 wau: 5
 mau: 5
@@ -41,8 +41,8 @@ For everything related to Marvel
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 1  |
+| Subscribers          | 96 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
@@ -54,4 +54,4 @@ For everything related to Marvel
 |----------------------|---|
 | Published            | 2021-12-15 08:24:24 |
 | Updated              | 2023-06-10 15:17:22 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:45 |

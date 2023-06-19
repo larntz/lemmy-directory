@@ -3,15 +3,15 @@ title: "Social Democracy"
 name: "socdem"
 description: "**Everything regarding social democracy as a political movement.**As described on wikipedia:*Social democracy is a political, social and economic philosophy within socialism. As a policy regime, it is described by academics as advocating economic and social interventions to promote social justice within the framework of a liberal-democratic polity and a capitalist-oriented mixed economy.*Social democracy is often confused with [democratic socialism](https://en.wikipedia.org/wiki/Democratic_socialism) which is it's own thing.---To make this a usefull and a positive environment we ask you:- to post related social democracy and politics- to be respectful, honest and argue in good faith---While being a open minded group we don’t allow these following transgressions:- posting NSFW content.- partaking in harassment, bigotry, hate-speech, Racism or other types of toxic behaviour.- posting questionable material that push conspiracies or propaganda. ---Social democracy [flag](https://www.reddit.com/r/vexillology/comments/lawj47/social_democracy_flag/) by [CreativeCodingcat4](https://www.reddit.com/user/CreativeCodingCat/)"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socdem"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 53
 posts: 11
-comments: 7
+comments: 6
 weight: 11
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 53 |
 | Posts                | 11  |
-| Comments             | 7  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-02 18:19:04 |
 | Updated              | 2021-06-03 18:08:14 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

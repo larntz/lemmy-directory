@@ -3,17 +3,17 @@ title: "/dev/null"
 name: "devnull"
 description: "Dump your curio here!Any content you find interesting is welcome. "
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/devnull"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 23
 posts: 4
 comments: 2
 weight: 4
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ Dump your curio here!<br><br>Any content you find interesting is welcome. <br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 23 |
 | Posts                | 4  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ Dump your curio here!<br><br>Any content you find interesting is welcome. <br>
 |----------------------|---|
 | Published            | 2023-06-15 09:02:56 |
 | Updated              | 2023-06-15 09:43:01 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

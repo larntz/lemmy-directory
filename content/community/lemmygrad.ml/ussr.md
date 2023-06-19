@@ -3,13 +3,13 @@ title: "USSR"
 name: "ussr"
 description: "bby i miss you, where are you USSR?*_Read 30 years ago__*"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ussr"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 200
+subscribers: 202
 posts: 4
 comments: 9
 weight: 4
@@ -41,7 +41,7 @@ bby i miss you, where are you USSR?<br>*_Read 30 years ago__*
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 200 |
+| Subscribers          | 202 |
 | Posts                | 4  |
 | Comments             | 9  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ bby i miss you, where are you USSR?<br>*_Read 30 years ago__*
 |----------------------|---|
 | Published            | 2021-05-04 00:36:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

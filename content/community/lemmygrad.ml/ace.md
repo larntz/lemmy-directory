@@ -3,19 +3,19 @@ title: "Asexual"
 name: "ace"
 description: ""
 type: community
-date: "2023-06-16 11:06:10"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ace"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 62
 posts: 28
 comments: 130
 weight: 28
 dau: 1
 wau: 3
-mau: 21
+mau: 19
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 62 |
 | Posts                | 28  |
 | Comments             | 130  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
-| Monthly Active Users | 21  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-03-24 08:16:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:10 |
+| Last Scraped         | 2023-06-19 11:35:08 |

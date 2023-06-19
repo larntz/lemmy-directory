@@ -3,13 +3,13 @@ title: "Free Speech"
 name: "free_speech"
 description: "Post here for discussions about free speech, press freedoms etc.. or share related articles and links"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/free_speech"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Post here for discussions about free speech, press freedoms etc.. or share relat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Post here for discussions about free speech, press freedoms etc.. or share relat
 |----------------------|---|
 | Published            | 2020-12-28 06:34:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:49 |

@@ -3,13 +3,13 @@ title: "Men who knit"
 name: "menwhoknit"
 description: "A place for men who knit, all styles and levels of skill welcome.No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.Be respectful. Everyone should feel welcome here."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/menwhoknit"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for men who knit, all styles and levels of skill welcome.<br><br>No bigo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for men who knit, all styles and levels of skill welcome.<br><br>No bigo
 |----------------------|---|
 | Published            | 2023-06-14 10:47:18 |
 | Updated              | 2023-06-14 11:27:18 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

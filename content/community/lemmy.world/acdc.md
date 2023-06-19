@@ -3,7 +3,7 @@ title: "AC/DC"
 name: "acdc"
 description: "It's a long way to the top"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acdc"
@@ -54,4 +54,4 @@ It's a long way to the top
 |----------------------|---|
 | Published            | 2023-06-12 12:22:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

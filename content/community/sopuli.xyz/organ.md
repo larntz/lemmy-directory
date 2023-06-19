@@ -3,13 +3,13 @@ title: "Pipe Organ"
 name: "organ"
 description: "Discussion about the king of instruments"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/organ"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 13
 comments: 1
 weight: 13
@@ -41,7 +41,7 @@ Discussion about the king of instruments
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 13  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion about the king of instruments
 |----------------------|---|
 | Published            | 2022-12-22 14:13:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:32 |

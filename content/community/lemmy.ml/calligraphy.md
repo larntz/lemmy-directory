@@ -3,7 +3,7 @@ title: "Calligraphy, The Art of Beautiful Handwriting"
 name: "calligraphy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/calligraphy"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-09-07 09:34:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:45 |

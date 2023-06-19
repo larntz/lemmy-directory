@@ -3,7 +3,7 @@ title: "Anarcho-Traa"
 name: "anarcho_traaa"
 description: "Anarchist trans memes and discussion, TERFs will be bricked on sight"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anarcho_traaa"
@@ -54,4 +54,4 @@ Anarchist trans memes and discussion, TERFs will be bricked on sight
 |----------------------|---|
 | Published            | 2019-08-25 09:07:51 |
 | Updated              | 2019-08-25 09:11:20 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

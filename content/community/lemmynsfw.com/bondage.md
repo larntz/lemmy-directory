@@ -3,19 +3,19 @@ title: "Bondage"
 name: "bondage"
 description: "A community about pictures and videos of bound females"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bondage"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 279
-posts: 4
-comments: 1
-weight: 4
+subscribers: 430
+posts: 8
+comments: 3
+weight: 8
 dau: 1
-wau: 6
-mau: 6
+wau: 8
+mau: 8
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ A community about pictures and videos of bound females
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 279 |
-| Posts                | 4  |
-| Comments             | 1  |
+| Subscribers          | 430 |
+| Posts                | 8  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -56,4 +56,4 @@ A community about pictures and videos of bound females
 |----------------------|---|
 | Published            | 2023-06-12 13:14:21 |
 | Updated              | 2023-06-16 10:26:33 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,13 +3,13 @@ title: "War Mongers"
 name: "warmongers"
 description: "Too many politicians have never seen a war they were not in favor of.After all how else are they going to fund their buddies in the Military Industrial Complex"
 type: community
-date: "2023-06-15 17:37:30"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/warmongers"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 11
 posts: 84
 comments: 5
 weight: 84
@@ -41,7 +41,7 @@ Too many politicians have never seen a war they were not in favor of.<br><br>Aft
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 11 |
 | Posts                | 84  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Too many politicians have never seen a war they were not in favor of.<br><br>Aft
 |----------------------|---|
 | Published            | 2022-03-02 17:44:06 |
 | Updated              | 2022-03-20 20:29:34 |
-| Last Scraped         | 2023-06-15 17:37:30 |
+| Last Scraped         | 2023-06-19 11:35:38 |

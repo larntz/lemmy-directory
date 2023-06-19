@@ -3,16 +3,16 @@ title: "Awesome-*"
 name: "awesome"
 description: "A collection of awesome lists and awesome-like lists."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://innernet.link/c/awesome"
 host: innernet.link
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 12
+posts: 13
 comments: 0
-weight: 12
+weight: 13
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ A collection of awesome lists and awesome-like lists.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 12  |
+| Posts                | 13  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A collection of awesome lists and awesome-like lists.
 |----------------------|---|
 | Published            | 2023-06-12 00:50:38 |
 | Updated              | 2023-06-12 01:29:13 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

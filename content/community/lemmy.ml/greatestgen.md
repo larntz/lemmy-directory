@@ -3,7 +3,7 @@ title: "Greatest Generation"
 name: "greatestgen"
 description: "Welcome to the Greatest Generation! Most of us are not WWII vets, but we like all things to Star Trek and dick jokes!"
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greatestgen"
@@ -54,4 +54,4 @@ Welcome to the Greatest Generation! Most of us are not WWII vets, but we like al
 |----------------------|---|
 | Published            | 2022-11-07 00:16:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:46 |

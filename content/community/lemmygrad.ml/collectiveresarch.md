@@ -3,13 +3,13 @@ title: "Collective Research"
 name: "collectiveresarch"
 description: "Community dedicated to the production of research, quality posts and gathering of information"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/collectiveresarch"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 83
+subscribers: 85
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ Community dedicated to the production of research, quality posts and gathering o
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 83 |
+| Subscribers          | 85 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community dedicated to the production of research, quality posts and gathering o
 |----------------------|---|
 | Published            | 2020-05-14 08:15:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

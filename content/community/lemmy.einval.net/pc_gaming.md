@@ -3,16 +3,16 @@ title: "PC Gaming"
 name: "pc_gaming"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/pc_gaming"
 host: lemmy.einval.net
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 4
+subscribers: 25
+posts: 5
 comments: 5
-weight: 4
+weight: 5
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 4  |
+| Subscribers          | 25 |
+| Posts                | 5  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-06 01:13:11 |
 | Updated              | 2023-06-06 14:10:19 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

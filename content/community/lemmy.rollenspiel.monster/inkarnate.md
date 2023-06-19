@@ -3,7 +3,7 @@ title: "Inkarnate"
 name: "inkarnate"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/inkarnate"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-04-15 11:16:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,19 +3,19 @@ title: "Beehaw Support"
 name: "support"
 description: "Support and meta community for Beehaw. Ask your questions about the community, technical issues, and other such things here.A brief FAQ for lurkers and new users can be found [here](https://beehaw.org/post/452132).Our [June 2023 financial update is here](https://beehaw.org/post/428209).For a refresher on our philosophy, see also [What is Beehaw?](https://beehaw.org/post/107014), [Beehaw is a Community](https://beehaw.org/post/140733), and [A few thoughts on Beehaw's design](https://beehaw.org/post/439918) ([second half](https://beehaw.org/comment/84235)).---This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/support"
 host: beehaw.org
 lastmod: "{[ .Updated }}"
-subscribers: 1414
-posts: 204
-comments: 3783
-weight: 204
-dau: 186
-wau: 836
-mau: 1149
+subscribers: 1564
+posts: 226
+comments: 4221
+weight: 226
+dau: 53
+wau: 926
+mau: 1323
 instances:
 - "beehaw_org"
 tags: 
@@ -41,12 +41,12 @@ Support and meta community for Beehaw. Ask your questions about the community, t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1414 |
-| Posts                | 204  |
-| Comments             | 3783  |
-| Daily Active Users   | 186  |
-| Weekly Active Users  | 836  |
-| Monthly Active Users | 1149  |
+| Subscribers          | 1564 |
+| Posts                | 226  |
+| Comments             | 4221  |
+| Daily Active Users   | 53  |
+| Weekly Active Users  | 926  |
+| Monthly Active Users | 1323  |
 
 <br>
 
@@ -54,4 +54,4 @@ Support and meta community for Beehaw. Ask your questions about the community, t
 |----------------------|---|
 | Published            | 2022-01-28 12:49:35 |
 | Updated              | 2023-06-15 17:01:56 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

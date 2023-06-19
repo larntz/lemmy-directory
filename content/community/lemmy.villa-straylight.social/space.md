@@ -3,13 +3,13 @@ title: "Space"
 name: "space"
 description: "A community for sharing all things related to space science and exploration"
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/space"
 host: lemmy.villa-straylight.social
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 24
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community for sharing all things related to space science and exploration
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 24 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for sharing all things related to space science and exploration
 |----------------------|---|
 | Published            | 2023-06-11 03:30:30 |
 | Updated              | 2023-06-11 03:37:07 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

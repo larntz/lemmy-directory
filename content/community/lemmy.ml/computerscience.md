@@ -3,13 +3,13 @@ title: "computerscience"
 name: "computerscience"
 description: "A community platform to talk about the many subfields of computer science. We welcome the discussion of:- Theoretical computer science - The design and analysis of algorithms- Compiler and programming language design- Type theory- Network theory- Classical artificial intelligence -- heuristic search, automated planning, and so on.- And many more subfields!This community is not for the computer science major, or for programming or homework questions."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/computerscience"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community platform to talk about the many subfields of computer science. We we
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community platform to talk about the many subfields of computer science. We we
 |----------------------|---|
 | Published            | 2023-06-03 23:02:21 |
 | Updated              | 2023-06-04 05:52:15 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:48 |

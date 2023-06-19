@@ -3,13 +3,13 @@ title: "Kraków"
 name: "krk"
 description: "dawna stolica p*laków"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/krk"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 53
 posts: 55
 comments: 30
 weight: 55
@@ -41,7 +41,7 @@ dawna stolica p*laków
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 53 |
 | Posts                | 55  |
 | Comments             | 30  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ dawna stolica p*laków
 |----------------------|---|
 | Published            | 2020-09-26 11:04:52 |
 | Updated              | 2021-03-20 22:51:07 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

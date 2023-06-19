@@ -3,19 +3,19 @@ title: "Engineering Managers"
 name: "engineering_managers"
 description: "Discussion, rants, questions, and more about engineering management."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/engineering_managers"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 2
-comments: 7
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+subscribers: 66
+posts: 4
+comments: 23
+weight: 4
+dau: 3
+wau: 15
+mau: 15
 instances:
 - "programming_dev"
 tags: 
@@ -41,17 +41,17 @@ Discussion, rants, questions, and more about engineering management.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 66 |
+| Posts                | 4  |
+| Comments             | 23  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 15  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 03:30:33 |
-| Updated              | 2023-06-16 12:32:04 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-19 03:32:29 |
+| Last Scraped         | 2023-06-19 11:35:01 |

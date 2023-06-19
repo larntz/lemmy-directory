@@ -3,19 +3,19 @@ title: "Caffè Italia"
 name: "caffeitalia"
 description: "Caffé italia è la community dove poter parlar di tutto quello che non ha una community specifica in feddit.it"
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/caffeitalia"
 host: feddit.it
 lastmod: "{[ .Updated }}"
-subscribers: 87
-posts: 2
-comments: 123
-weight: 2
-dau: 7
-wau: 34
-mau: 34
+subscribers: 103
+posts: 4
+comments: 155
+weight: 4
+dau: 20
+wau: 48
+mau: 48
 instances:
 - "feddit_it"
 tags: 
@@ -41,12 +41,12 @@ Caffé italia è la community dove poter parlar di tutto quello che non ha una c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
-| Posts                | 2  |
-| Comments             | 123  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 34  |
+| Subscribers          | 103 |
+| Posts                | 4  |
+| Comments             | 155  |
+| Daily Active Users   | 20  |
+| Weekly Active Users  | 48  |
+| Monthly Active Users | 48  |
 
 <br>
 
@@ -54,4 +54,4 @@ Caffé italia è la community dove poter parlar di tutto quello che non ha una c
 |----------------------|---|
 | Published            | 2023-06-11 12:54:31 |
 | Updated              | 2023-06-13 09:54:18 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

@@ -3,18 +3,18 @@ title: "Let's discuss the National Basketball Association"
 name: "nba"
 description: "We're consolidating, head over to https://lemmy.world/c/nba"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nba"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 192
+subscribers: 193
 posts: 25
-comments: 49
+comments: 50
 weight: 25
 dau: 1
-wau: 27
+wau: 19
 mau: 33
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ We're consolidating, head over to https://lemmy.world/c/nba
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 192 |
+| Subscribers          | 193 |
 | Posts                | 25  |
-| Comments             | 49  |
+| Comments             | 50  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 27  |
+| Weekly Active Users  | 19  |
 | Monthly Active Users | 33  |
 
 <br>
@@ -54,4 +54,4 @@ We're consolidating, head over to https://lemmy.world/c/nba
 |----------------------|---|
 | Published            | 2020-06-28 11:07:04 |
 | Updated              | 2023-06-15 20:51:47 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:57 |

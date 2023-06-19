@@ -3,19 +3,19 @@ title: "Big Dick Hentai"
 name: "bigdickhentai"
 description: "For hentai focused on big dicks.Please follow instance rules.If possible, include the (artist) and [title/franchise] in the post title.Message me if you're interested in being a mod. "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bigdickhentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 68
-posts: 35
-comments: 3
-weight: 35
-dau: 1
-wau: 3
-mau: 3
+subscribers: 122
+posts: 42
+comments: 4
+weight: 42
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,17 +43,17 @@ For hentai focused on big dicks.<br><br>Please follow instance rules.<br><br>If 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 35  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 122 |
+| Posts                | 42  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 09:23:05 |
-| Updated              | 2023-06-16 22:05:58 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Updated              | 2023-06-18 00:45:56 |
+| Last Scraped         | 2023-06-19 11:35:45 |

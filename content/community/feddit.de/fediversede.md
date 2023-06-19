@@ -3,19 +3,19 @@ title: "Fediverse"
 name: "fediversede"
 description: "Beiträge zum Fediverse in Deutsch"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fediversede"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 743
-posts: 91
-comments: 553
-weight: 91
+subscribers: 820
+posts: 95
+comments: 588
+weight: 95
 dau: 10
-wau: 58
-mau: 68
+wau: 53
+mau: 82
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Beiträge zum Fediverse in Deutsch
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 743 |
-| Posts                | 91  |
-| Comments             | 553  |
+| Subscribers          | 820 |
+| Posts                | 95  |
+| Comments             | 588  |
 | Daily Active Users   | 10  |
-| Weekly Active Users  | 58  |
-| Monthly Active Users | 68  |
+| Weekly Active Users  | 53  |
+| Monthly Active Users | 82  |
 
 <br>
 
@@ -54,4 +54,4 @@ Beiträge zum Fediverse in Deutsch
 |----------------------|---|
 | Published            | 2021-12-02 14:46:35 |
 | Updated              | 2021-12-02 14:50:31 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

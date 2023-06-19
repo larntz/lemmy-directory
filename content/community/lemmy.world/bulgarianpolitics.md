@@ -3,7 +3,7 @@ title: "Bulgarian politics"
 name: "bulgarianpolitics"
 description: "Bilingual place for news and discussion about Bulgarian politics.Двуезично място за новини и дискусии за българската политика."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bulgarianpolitics"
@@ -54,4 +54,4 @@ Bilingual place for news and discussion about Bulgarian politics.<br><br>Дву�
 |----------------------|---|
 | Published            | 2023-06-14 08:33:03 |
 | Updated              | 2023-06-15 12:41:52 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

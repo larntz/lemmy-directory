@@ -3,19 +3,19 @@ title: "Cast Iron"
 name: "castiron"
 description: "A community for cast iron cookware.  Recipes, care, restoration, identification, etc.  Rules: Be helpful when you can, be respectful always, and keep cooking bacon.More rules may come as the community grows, but for now, I'll remove spam or anything obviously mean-spirited, and leave it at that.Related Communities:[!forgediron@lemmy.world](/c/forgediron@lemmy.world) [!sourdough@lemmy.world](/c/sourdough@lemmy.world) [!cooking@lemmy.world](/c/cooking@lemmy.world) "
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/castiron"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 2
-comments: 13
-weight: 2
-dau: 6
-wau: 6
-mau: 6
+subscribers: 81
+posts: 7
+comments: 32
+weight: 7
+dau: 5
+wau: 16
+mau: 16
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for cast iron cookware.  Recipes, care, restoration, identification,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 2  |
-| Comments             | 13  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 81 |
+| Posts                | 7  |
+| Comments             | 32  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for cast iron cookware.  Recipes, care, restoration, identification,
 |----------------------|---|
 | Published            | 2023-06-15 15:31:05 |
 | Updated              | 2023-06-16 20:38:34 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

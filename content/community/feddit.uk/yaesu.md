@@ -3,18 +3,18 @@ title: "Yaesu Amateur Radio"
 name: "yaesu"
 description: "**A home for Yaesu radio fans and friends.**Come chat about anything yaesu related. Other ham related communities include. * [!icom@feddit.uk](https://feddit.uk/c/icom) * [!hamradio@lemmy.ml](https://lemmy.ml/c/hamradio) * [!amateur_radio@sh.itjust.works](https://sh.itjust.works/c/amateur_radio) We also have* [!cbradio@feddit.uk](https://feddit.uk/c/cbradio) Please let me know if you find anymore."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/yaesu"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "feddit_uk"
@@ -41,11 +41,11 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 11:17:38 |
 | Updated              | 2023-06-11 12:39:46 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

@@ -3,19 +3,19 @@ title: "K-On! — Ho-kago Tea Time, Wakaba Girls, Shuffle"
 name: "kon"
 description: "Community for K-On discussion and related content!# Rules- Follow Lemmy.ml's rules and [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).- **Be respectful.**- **No NSFW content.***Pornographic content is against Lemmy.ml's rules.*- **Properly Source Fanart.**  *If you are not linking directly to the artwork's source (which is preferred) you must provide a link to the source in the comments.*- **No Illegal Content***Please do not link to any unofficial means of obtaining official content, such as episodes or games.*- **Try to avoid reposting***Make an attempt to be sure that what you’re posting hasn’t been posted before.*"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kon"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 2
+subscribers: 8
+posts: 5
 comments: 0
-weight: 2
-dau: 0
-wau: 0
-mau: 0
+weight: 5
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Community for K-On discussion and related content!<br><br># Rules<br><br>- Follo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
+| Subscribers          | 8 |
+| Posts                | 5  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for K-On discussion and related content!<br><br># Rules<br><br>- Follo
 |----------------------|---|
 | Published            | 2023-06-16 18:31:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,13 +3,13 @@ title: "Chinese Books and Literature"
 name: "chinesebooks"
 description: "Discussion about literature originally written in Chinese, and discussion about related topics."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/chinesebooks"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Discussion about literature originally written in Chinese, and discussion about 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussion about literature originally written in Chinese, and discussion about 
 |----------------------|---|
 | Published            | 2023-06-16 00:45:54 |
 | Updated              | 2023-06-16 01:19:32 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

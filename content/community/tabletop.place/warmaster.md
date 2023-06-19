@@ -3,7 +3,7 @@ title: "Warmaster"
 name: "warmaster"
 description: "A community dedicated to Warmaster, the mass-battle fantasy wargame by Games Workshop. While the game is no longer officially supported, a fanmade 2nd edition is currently available for free, known as Warmaster Revolution."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/warmaster"
@@ -54,4 +54,4 @@ A community dedicated to Warmaster, the mass-battle fantasy wargame by Games Wor
 |----------------------|---|
 | Published            | 2023-06-16 06:22:02 |
 | Updated              | 2023-06-16 22:38:28 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

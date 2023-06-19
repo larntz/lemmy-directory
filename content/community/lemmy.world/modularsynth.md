@@ -3,7 +3,7 @@ title: "Modular Synth"
 name: "modularsynth"
 description: "A place to discuss and share all things modular synthesis. Rules:1. No porn.2. No bigotry, hate speech.3. No ads / spamming.4. No conspiracies Be kind to each other. -"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modularsynth"
@@ -54,4 +54,4 @@ A place to discuss and share all things modular synthesis. <br><br>Rules:<br>1. 
 |----------------------|---|
 | Published            | 2023-06-12 18:02:12 |
 | Updated              | 2023-06-12 18:47:34 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,13 +3,13 @@ title: "Brasil"
 name: "brasil"
 description: "Primeira cmunidade brasileira do Lemmy."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brasil"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 53
 posts: 31
 comments: 9
 weight: 31
@@ -41,7 +41,7 @@ Primeira cmunidade brasileira do Lemmy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 53 |
 | Posts                | 31  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Primeira cmunidade brasileira do Lemmy.
 |----------------------|---|
 | Published            | 2020-06-01 22:35:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:47 |

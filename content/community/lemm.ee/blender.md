@@ -3,13 +3,13 @@ title: "Blender"
 name: "blender"
 description: "Blender is an open-source 3D software for modeling, animation and more! You can download it at blender.org"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/blender"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 33
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Blender is an open-source 3D software for modeling, animation and more! You can 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 33 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Blender is an open-source 3D software for modeling, animation and more! You can 
 |----------------------|---|
 | Published            | 2023-06-15 16:45:38 |
 | Updated              | 2023-06-15 16:58:01 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

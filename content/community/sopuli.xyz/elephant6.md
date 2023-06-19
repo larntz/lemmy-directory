@@ -3,7 +3,7 @@ title: "The Elephant 6 Collective"
 name: "elephant6"
 description: "A community focused on the [Elephant 6 collective.](https://en.wikipedia.org/wiki/Elephant_6) Discussion can also be about bands in the collective, such as Neutral Milk Hotel, Olivia Tremor Control and Apples In Stereo, as well as any others. Enjoy!Note: Not associated with E6 or r/elephant6"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/elephant6"
@@ -54,4 +54,4 @@ A community focused on the [Elephant 6 collective.](https://en.wikipedia.org/wik
 |----------------------|---|
 | Published            | 2022-09-17 18:19:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:32 |

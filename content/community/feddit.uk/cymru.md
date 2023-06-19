@@ -3,13 +3,13 @@ title: "Cymru"
 name: "cymru"
 description: "Popeth Cymru.Everything Wales."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/cymru"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Popeth Cymru.<br><br>Everything Wales.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Popeth Cymru.<br><br>Everything Wales.
 |----------------------|---|
 | Published            | 2023-06-16 05:48:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

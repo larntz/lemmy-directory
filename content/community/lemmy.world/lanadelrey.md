@@ -3,13 +3,13 @@ title: "Lana Del Rey 🎶🌹👑"
 name: "lanadelrey"
 description: "A community for fans of the Coney Island Queen.*All things LDR*—Talk about music, rumors, theories, opinions, videos, photoshoots, poetry, and more!**Rules:**- Be nice even if you disagree.- Criticism is okay, but no trolling or low-effort posts.- This is not a community for spreading hate and negativity.- No NSFW.- No spam.- No advertisment.- No violence.- Discuss about her music, not her looks.- No illegal material. It's okay to talk about leaked songs, but direct links are to be avoided.-----You may also like:- [!popheads@poptalk.scrubbles.tech]( https://lemmy.world/c/popheads@poptalk.scrubbles.tech)- [!taylorswift@poptalk.scrubbles.tech](https://lemmy.world/c/taylorswift@poptalk.scrubbles.tech)- [!hiphopheads@sopuli.xy](https://lemmy.world/c/hiphopheads@sopuli.xy)- [!music@beehaw.org](https://lemmy.world/c/music@beehaw.org)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lanadelrey"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 13
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ A community for fans of the Coney Island Queen.<br><br>*All things LDR*—Talk a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for fans of the Coney Island Queen.<br><br>*All things LDR*—Talk a
 |----------------------|---|
 | Published            | 2023-06-14 13:21:08 |
 | Updated              | 2023-06-14 16:21:49 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

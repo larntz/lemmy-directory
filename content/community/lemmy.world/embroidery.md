@@ -3,13 +3,13 @@ title: "Embroidery"
 name: "embroidery"
 description: "For embroidery enthusiasts, especially those coming from /r/embroidery!- No nsfw unless it's embroidered please- No hate of any kind allowed - Be a good human "
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/embroidery"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For embroidery enthusiasts, especially those coming from /r/embroidery!<br><br>-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For embroidery enthusiasts, especially those coming from /r/embroidery!<br><br>-
 |----------------------|---|
 | Published            | 2023-06-16 12:58:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

@@ -3,13 +3,13 @@ title: "Schnauzers"
 name: "schnauzers"
 description: "Everyone loves a schnauzer!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/schnauzers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 17
 posts: 4
 comments: 3
 weight: 4
@@ -41,7 +41,7 @@ Everyone loves a schnauzer!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 17 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Everyone loves a schnauzer!
 |----------------------|---|
 | Published            | 2023-06-12 17:38:40 |
 | Updated              | 2023-06-12 17:53:58 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

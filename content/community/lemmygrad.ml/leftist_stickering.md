@@ -3,13 +3,13 @@ title: "Leftist Stickering"
 name: "leftist_stickering"
 description: "A place to post leftist stickers you find in the wild. Bonus points if you cover up existing right wing stickers with your stickers.Be aware that pictures from phones contain metadata and that you might want to delete that before posting."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftist_stickering"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 30
 posts: 6
 comments: 17
 weight: 6
@@ -41,7 +41,7 @@ A place to post leftist stickers you find in the wild. Bonus points if you cover
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 30 |
 | Posts                | 6  |
 | Comments             | 17  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to post leftist stickers you find in the wild. Bonus points if you cover
 |----------------------|---|
 | Published            | 2022-08-28 10:29:10 |
 | Updated              | 2022-08-28 10:38:19 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

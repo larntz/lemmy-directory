@@ -3,13 +3,13 @@ title: "Seattle, WA"
 name: "seattle"
 description: "of the four corners of the mainland, you've got to admit we've got a good case for ourselves"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seattle"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
+subscribers: 131
 posts: 15
 comments: 11
 weight: 15
@@ -41,7 +41,7 @@ of the four corners of the mainland, you've got to admit we've got a good case f
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
+| Subscribers          | 131 |
 | Posts                | 15  |
 | Comments             | 11  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ of the four corners of the mainland, you've got to admit we've got a good case f
 |----------------------|---|
 | Published            | 2020-07-01 01:57:38 |
 | Updated              | 2020-08-07 05:24:21 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

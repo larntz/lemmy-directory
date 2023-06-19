@@ -3,13 +3,13 @@ title: "Veganism"
 name: "veganism"
 description: "This community is about veganism. Its aim is to be inclusive.Vegans and non-vegans are welcomed here and diversity of opinions is encouraged, as long as it leads to healthy, constructive and respectful debates.Moderation intends to be light, but please remember that this is a community about veganism, antispeciesism, helping people understand what they are, sharing thoughts about animal rights and ethics, vegan tips and tricks and stuff like that and not a place to promote other diets or lifestyles. You know what I mean."
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/veganism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 42
+subscribers: 45
 posts: 6
 comments: 11
 weight: 6
@@ -41,7 +41,7 @@ This community is about veganism. Its aim is to be inclusive.<br>Vegans and non-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
+| Subscribers          | 45 |
 | Posts                | 6  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community is about veganism. Its aim is to be inclusive.<br>Vegans and non-
 |----------------------|---|
 | Published            | 2022-06-09 07:20:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:36:58 |

@@ -3,7 +3,7 @@ title: "Bot Test"
 name: "bottest"
 description: "Use this community to test bots. You may want to block this community unless you enjoy bot spam."
 type: community
-date: "2023-06-15 17:28:38"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/bottest"
@@ -15,7 +15,7 @@ comments: 289
 weight: 16
 dau: 2
 wau: 2
-mau: 3
+mau: 2
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -46,7 +46,7 @@ Use this community to test bots. You may want to block this community unless you
 | Comments             | 289  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Use this community to test bots. You may want to block this community unless you
 |----------------------|---|
 | Published            | 2022-12-06 22:07:35 |
 | Updated              | 2022-12-08 14:00:17 |
-| Last Scraped         | 2023-06-15 17:28:38 |
+| Last Scraped         | 2023-06-19 11:35:08 |

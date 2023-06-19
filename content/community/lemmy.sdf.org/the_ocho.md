@@ -3,13 +3,13 @@ title: "The Ocho"
 name: "the_ocho"
 description: "ESPN 8's live coverage of uncommon sports from around the world"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/the_ocho"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ ESPN 8's live coverage of uncommon sports from around the world
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ ESPN 8's live coverage of uncommon sports from around the world
 |----------------------|---|
 | Published            | 2023-06-13 14:28:32 |
 | Updated              | 2023-06-13 14:58:25 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

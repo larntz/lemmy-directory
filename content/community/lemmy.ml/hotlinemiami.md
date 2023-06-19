@@ -3,13 +3,13 @@ title: "Hotline Miami"
 name: "hotlinemiami"
 description: "Everything related to Devolver Digital's cult classic game Hotline Miami and its sequel, Hotline Miami 2: Wrong Number."
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hotlinemiami"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Everything related to Devolver Digital's cult classic game Hotline Miami and its
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Everything related to Devolver Digital's cult classic game Hotline Miami and its
 |----------------------|---|
 | Published            | 2019-10-16 22:16:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:43 |

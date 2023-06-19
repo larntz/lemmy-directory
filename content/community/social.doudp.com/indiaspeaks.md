@@ -3,16 +3,16 @@ title: "IndiaSpeaks Community"
 name: "indiaspeaks"
 description: "IndiaSpeaks Community"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/indiaspeaks"
 host: social.doudp.com
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 1
+posts: 8
 comments: 0
-weight: 1
+weight: 8
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ IndiaSpeaks Community
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 1  |
+| Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ IndiaSpeaks Community
 |----------------------|---|
 | Published            | 2023-06-14 05:35:35 |
 | Updated              | 2023-06-14 06:11:55 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

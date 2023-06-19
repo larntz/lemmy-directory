@@ -3,19 +3,19 @@ title: "For all your programming needs"
 name: "coding"
 description: "A community to discuss programming and or related topics"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/coding"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 329
+subscribers: 333
 posts: 29
-comments: 123
+comments: 125
 weight: 29
-dau: 1
-wau: 1
-mau: 2
+dau: 2
+wau: 2
+mau: 4
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss programming and or related topics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 329 |
+| Subscribers          | 333 |
 | Posts                | 29  |
-| Comments             | 123  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Comments             | 125  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss programming and or related topics
 |----------------------|---|
 | Published            | 2019-08-24 15:23:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

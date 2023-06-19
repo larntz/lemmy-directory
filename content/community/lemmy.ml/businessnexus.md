@@ -3,7 +3,7 @@ title: "Business Nexus "
 name: "businessnexus"
 description: "Official Business Nexus lemmy community."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/businessnexus"
@@ -54,4 +54,4 @@ Official Business Nexus lemmy community.
 |----------------------|---|
 | Published            | 2023-06-16 07:03:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -3,13 +3,13 @@ title: "☭CNN☭"
 name: "commienewsnetwork"
 description: "Post news about subjects involving communism here!The rules:- 1:posts must contain communist subjects.   + AES nations, parties, advancements, polls, opinion pieces, etc.- 2:Zero racism, ableism, homophobia and transphobia of any kind.   + News containing these topics is allowed, but being reactionary is going to grant you a one way ban. - 3:Follow TOS pls :(  + No calling for violence, harassment, doxxing and all of that"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/commienewsnetwork"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 115
 posts: 4
 comments: 11
 weight: 4
@@ -41,7 +41,7 @@ Post news about subjects involving communism here!<br><br>The rules:<br>- 1:post
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 115 |
 | Posts                | 4  |
 | Comments             | 11  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Post news about subjects involving communism here!<br><br>The rules:<br>- 1:post
 |----------------------|---|
 | Published            | 2020-08-12 19:56:55 |
 | Updated              | 2020-08-13 09:15:13 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

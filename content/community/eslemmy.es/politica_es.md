@@ -3,19 +3,19 @@ title: "Política española"
 name: "politica_es"
 description: "Noticias, debates y todo lo relacionado con la política española, europea y mundial (que obviamente afecte al territorio español).# ¡Buscamos moderadores!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/politica_es"
 host: eslemmy.es
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 9
+posts: 3
+comments: 1
+weight: 3
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "eslemmy_es"
 tags: 
@@ -41,12 +41,12 @@ Noticias, debates y todo lo relacionado con la política española, europea y mu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 9 |
+| Posts                | 3  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Noticias, debates y todo lo relacionado con la política española, europea y mu
 |----------------------|---|
 | Published            | 2023-06-16 19:05:00 |
 | Updated              | 2023-06-16 19:07:49 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

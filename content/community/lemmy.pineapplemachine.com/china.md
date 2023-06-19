@@ -3,7 +3,7 @@ title: "china"
 name: "china"
 description: "A place to share news about the People's Republic of China and to poke fun at how frightful of a place it is."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/china"
@@ -54,4 +54,4 @@ A place to share news about the People's Republic of China and to poke fun at ho
 |----------------------|---|
 | Published            | 2023-06-07 16:04:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

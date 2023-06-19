@@ -3,7 +3,7 @@ title: "Turntables"
 name: "turntables"
 description: "Discuss turntables (record players). Mods of r/turntables welcome to take over here."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/turntables"
@@ -54,4 +54,4 @@ Discuss turntables (record players). <br><br>Mods of r/turntables welcome to tak
 |----------------------|---|
 | Published            | 2023-06-14 00:36:09 |
 | Updated              | 2023-06-14 17:00:33 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,19 +3,19 @@ title: "LemmyNet"
 name: "about_lemmy"
 description: "A community about Lemmy and related projects: https://github.com/LemmyNet"
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/about_lemmy"
 host: feddit.nl
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 3
-comments: 0
-weight: 3
-dau: 0
-wau: 0
-mau: 0
+subscribers: 9
+posts: 6
+comments: 3
+weight: 6
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "feddit_nl"
 tags: 
@@ -41,12 +41,12 @@ A community about Lemmy and related projects: https://github.com/LemmyNet
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 9 |
+| Posts                | 6  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community about Lemmy and related projects: https://github.com/LemmyNet
 |----------------------|---|
 | Published            | 2023-06-16 18:17:58 |
 | Updated              | 2023-06-16 18:18:11 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

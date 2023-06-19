@@ -3,13 +3,13 @@ title: "DARLING in the FRANXX"
 name: "darlinginthefranxx"
 description: "The community for the anime and manga series DARLING in the FRANXX (DarliFra)."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darlinginthefranxx"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The community for the anime and manga series DARLING in the FRANXX (DarliFra).
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The community for the anime and manga series DARLING in the FRANXX (DarliFra).
 |----------------------|---|
 | Published            | 2023-06-13 05:07:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-19 11:36:38 |

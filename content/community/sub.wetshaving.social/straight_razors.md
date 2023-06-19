@@ -3,16 +3,16 @@ title: "Straight Razors"
 name: "straight_razors"
 description: "Straight razor use, honing and restoration"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/straight_razors"
 host: sub.wetshaving.social
 lastmod: "{[ .Updated }}"
 subscribers: 12
-posts: 2
-comments: 3
-weight: 2
+posts: 3
+comments: 11
+weight: 3
 dau: 1
 wau: 3
 mau: 3
@@ -42,8 +42,8 @@ Straight razor use, honing and restoration
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 12 |
-| Posts                | 2  |
-| Comments             | 3  |
+| Posts                | 3  |
+| Comments             | 11  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Straight razor use, honing and restoration
 |----------------------|---|
 | Published            | 2023-06-13 14:44:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

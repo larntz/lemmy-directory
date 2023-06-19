@@ -3,7 +3,7 @@ title: "Brandenburg"
 name: "brandenburg"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:37"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brandenburg"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-12-26 13:35:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |
+| Last Scraped         | 2023-06-19 11:36:59 |

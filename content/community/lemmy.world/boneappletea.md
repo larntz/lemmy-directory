@@ -3,13 +3,13 @@ title: "Bone Apple Tea"
 name: "boneappletea"
 description: "A community for funny phonetic misspellings of words or phrases. Bonus points if this misspelling comprises actual words, like this community’s namesake:Bon appétit —> Bone apple tea"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boneappletea"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 106
 posts: 6
 comments: 0
 weight: 6
@@ -41,7 +41,7 @@ A community for funny phonetic misspellings of words or phrases. Bonus points if
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 106 |
 | Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for funny phonetic misspellings of words or phrases. Bonus points if
 |----------------------|---|
 | Published            | 2023-06-13 22:09:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

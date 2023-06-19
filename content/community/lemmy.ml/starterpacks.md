@@ -3,13 +3,13 @@ title: "/c/starterpacks"
 name: "starterpacks"
 description: "Home of starterpacks!"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starterpacks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 48
 posts: 6
 comments: 10
 weight: 6
@@ -41,7 +41,7 @@ Home of starterpacks!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 48 |
 | Posts                | 6  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Home of starterpacks!
 |----------------------|---|
 | Published            | 2020-02-18 13:55:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

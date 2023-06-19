@@ -3,13 +3,13 @@ title: "pkm "
 name: "pkm"
 description: "Methoden und Tools des Personal Knowledge Managements haben sich in den letzten Jahren gewandelt. Hier sind Hinweise dazu gefragt."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pkm"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 8
 comments: 8
 weight: 8
@@ -41,7 +41,7 @@ Methoden und Tools des Personal Knowledge Managements haben sich in den letzten 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 8  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Methoden und Tools des Personal Knowledge Managements haben sich in den letzten 
 |----------------------|---|
 | Published            | 2023-04-16 13:17:16 |
 | Updated              | 2023-04-17 08:12:08 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

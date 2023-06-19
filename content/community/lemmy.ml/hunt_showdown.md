@@ -3,18 +3,18 @@ title: "Hunt: Showdown"
 name: "hunt_showdown"
 description: "A place for news, updates, and general discussion about the videogame Hunt: Showdown.All platforms welcome."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hunt_showdown"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place for news, updates, and general discussion about the videogame Hunt: Show
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A place for news, updates, and general discussion about the videogame Hunt: Show
 |----------------------|---|
 | Published            | 2023-06-05 17:56:03 |
 | Updated              | 2023-06-05 18:58:22 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:48 |

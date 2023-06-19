@@ -3,18 +3,18 @@ title: "polyamory"
 name: "polyamory"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/polyamory"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_de"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 06:09:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

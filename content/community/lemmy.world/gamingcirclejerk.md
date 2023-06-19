@@ -3,19 +3,19 @@ title: "gamingcirclejerk"
 name: "gamingcirclejerk"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gamingcirclejerk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 5
-comments: 2
-weight: 5
-dau: 1
-wau: 4
-mau: 4
+subscribers: 121
+posts: 7
+comments: 4
+weight: 7
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 5  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 121 |
+| Posts                | 7  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 11:16:15 |
 | Updated              | 2023-06-16 13:50:30 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

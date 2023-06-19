@@ -3,13 +3,13 @@ title: "Shiba Inu"
 name: "shiba"
 description: "This is a community for the dog breed Shiba Inu, aka Doge.This has nothing to do with cryptocurrency, and those posts will be removed."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shiba"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 18
 comments: 4
 weight: 18
@@ -41,7 +41,7 @@ This is a community for the dog breed Shiba Inu, aka Doge.<br><br>This has nothi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 18  |
 | Comments             | 4  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ This is a community for the dog breed Shiba Inu, aka Doge.<br><br>This has nothi
 |----------------------|---|
 | Published            | 2023-06-12 12:24:00 |
 | Updated              | 2023-06-12 12:26:11 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

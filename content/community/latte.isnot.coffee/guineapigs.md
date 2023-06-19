@@ -3,19 +3,19 @@ title: "Guinea Pigs"
 name: "guineapigs"
 description: "Community for Guinea Pig lovers"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/guineapigs"
 host: latte.isnot.coffee
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 14
-comments: 16
-weight: 14
-dau: 2
-wau: 6
-mau: 6
+subscribers: 36
+posts: 15
+comments: 20
+weight: 15
+dau: 3
+wau: 8
+mau: 9
 instances:
 - "latte_isnot_coffee"
 tags: 
@@ -41,12 +41,12 @@ Community for Guinea Pig lovers
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 14  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 36 |
+| Posts                | 15  |
+| Comments             | 20  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Guinea Pig lovers
 |----------------------|---|
 | Published            | 2023-06-10 04:46:35 |
 | Updated              | 2023-06-10 04:49:21 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

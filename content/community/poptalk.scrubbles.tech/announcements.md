@@ -3,13 +3,13 @@ title: "PopTalk Announcements"
 name: "announcements"
 description: "General mod posts and announcements "
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/announcements"
 host: poptalk.scrubbles.tech
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ General mod posts and announcements
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ General mod posts and announcements
 |----------------------|---|
 | Published            | 2023-06-02 21:47:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

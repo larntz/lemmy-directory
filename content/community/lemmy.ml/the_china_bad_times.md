@@ -3,13 +3,13 @@ title: "The China Bad Times"
 name: "the_china_bad_times"
 description: "The China Bad Times, but in Lemmy!"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/the_china_bad_times"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The China Bad Times, but in Lemmy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The China Bad Times, but in Lemmy!
 |----------------------|---|
 | Published            | 2022-08-30 21:49:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

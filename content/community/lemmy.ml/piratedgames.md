@@ -3,13 +3,13 @@ title: "Pirated Games"
 name: "piratedgames"
 description: "Welcome to the r/PiratedGames subreddit, talk about pirated games and new cracks!"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/piratedgames"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 78
+subscribers: 88
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to the r/PiratedGames subreddit, talk about pirated games and new cracks
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 78 |
+| Subscribers          | 88 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to the r/PiratedGames subreddit, talk about pirated games and new cracks
 |----------------------|---|
 | Published            | 2022-08-23 08:29:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

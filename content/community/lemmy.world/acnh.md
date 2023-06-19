@@ -3,17 +3,17 @@ title: "Animal Crossing New Horizons"
 name: "acnh"
 description: "A community for Animal Crossing New Horizons. Post anything about ACNH here!"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acnh"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 171
+subscribers: 192
 posts: 6
 comments: 13
 weight: 6
-dau: 2
+dau: 1
 wau: 7
 mau: 8
 instances:
@@ -41,10 +41,10 @@ A community for Animal Crossing New Horizons. Post anything about ACNH here!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 171 |
+| Subscribers          | 192 |
 | Posts                | 6  |
 | Comments             | 13  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 8  |
 
@@ -54,4 +54,4 @@ A community for Animal Crossing New Horizons. Post anything about ACNH here!
 |----------------------|---|
 | Published            | 2023-06-06 23:56:45 |
 | Updated              | 2023-06-07 13:02:25 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,16 +3,16 @@ title: "LaTeX"
 name: "latex"
 description: "A community for the LaTeX typesetting language."
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/latex"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 4
-comments: 9
-weight: 4
+subscribers: 43
+posts: 5
+comments: 12
+weight: 5
 dau: 2
 wau: 2
 mau: 2
@@ -41,9 +41,9 @@ A community for the LaTeX typesetting language.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 4  |
-| Comments             | 9  |
+| Subscribers          | 43 |
+| Posts                | 5  |
+| Comments             | 12  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ A community for the LaTeX typesetting language.
 |----------------------|---|
 | Published            | 2023-06-11 04:48:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-19 11:35:36 |

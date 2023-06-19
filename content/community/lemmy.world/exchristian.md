@@ -3,19 +3,19 @@ title: "exchristian"
 name: "exchristian"
 description: "A place for the deconverted to come together in the fediverse."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exchristian"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 1
-comments: 2
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+subscribers: 39
+posts: 2
+comments: 5
+weight: 2
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for the deconverted to come together in the fediverse.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 39 |
+| Posts                | 2  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for the deconverted to come together in the fediverse.
 |----------------------|---|
 | Published            | 2023-06-13 02:15:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

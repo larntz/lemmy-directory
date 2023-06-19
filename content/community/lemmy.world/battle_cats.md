@@ -3,13 +3,13 @@ title: "Battlecats"
 name: "battle_cats"
 description: "Post your cattle cats related questions, advice and s posts on this friendly sub with a community of battle cats fans"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battle_cats"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Post your cattle cats related questions, advice and s posts on this friendly sub
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post your cattle cats related questions, advice and s posts on this friendly sub
 |----------------------|---|
 | Published            | 2023-06-14 21:31:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

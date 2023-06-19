@@ -3,7 +3,7 @@ title: "Afghanistan"
 name: "afghanistan"
 description: "## خوش آمدیدEverything about Afghanistan."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afghanistan"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-08-18 10:44:10 |
 | Updated              | 2022-05-19 00:40:47 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

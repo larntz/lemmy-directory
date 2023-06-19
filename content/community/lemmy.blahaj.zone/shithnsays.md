@@ -3,13 +3,13 @@ title: "Shit Hacker News Says"
 name: "shithnsays"
 description: "Basically just post bad takes from HN here in the format of Shit Reddit Says if you remember it."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/shithnsays"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Basically just post bad takes from HN here in the format of Shit Reddit Says if 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Basically just post bad takes from HN here in the format of Shit Reddit Says if 
 |----------------------|---|
 | Published            | 2023-06-13 14:27:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -1,9 +1,9 @@
 ---
 title: "AWS" 
 name: "aws"
-description: "Hub for all things AWS including EC2, ECS, Lambda, and much more.This is mostly a place for news but can also be used for discussion and support/questions."
+description: "The best place to talk about AWS, including EC2, ECS, Lambda, and much more.Please familiarize yourself with [AWS's documentation](https://docs.aws.amazon.com/index.html) before posting support questions here."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/aws"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Hub for all things AWS including EC2, ECS, Lambda, and much more.<br><br>This is mostly a place for news but can also be used for discussion and support/questions.
+The best place to talk about AWS, including EC2, ECS, Lambda, and much more.<br><br>Please familiarize yourself with [AWS's documentation](https://docs.aws.amazon.com/index.html) before posting support questions here.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Hub for all things AWS including EC2, ECS, Lambda, and much more.<br><br>This is
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 13:13:17 |
-| Updated              | 2023-06-15 13:28:34 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-19 11:35:24 |

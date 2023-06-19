@@ -3,13 +3,13 @@ title: "Immich - High performance self-hosted photo and video backup solution"
 name: "immich"
 description: "To discuss the use of [Immich](https://github.com/immich-app/immich)"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/immich"
 host: lemmy.perthchat.org
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ To discuss the use of [Immich](https://github.com/immich-app/immich)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ To discuss the use of [Immich](https://github.com/immich-app/immich)
 |----------------------|---|
 | Published            | 2023-06-14 04:51:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,13 +3,13 @@ title: "Suggestions to the owners to what to add next."
 name: "communitysuggestions"
 description: "Got a suggestion? POST HERE :D"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/communitysuggestions"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 182
+subscribers: 183
 posts: 34
 comments: 138
 weight: 34
@@ -41,7 +41,7 @@ Got a suggestion? POST HERE :D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 182 |
+| Subscribers          | 183 |
 | Posts                | 34  |
 | Comments             | 138  |
 | Daily Active Users   | 6  |
@@ -54,4 +54,4 @@ Got a suggestion? POST HERE :D
 |----------------------|---|
 | Published            | 2019-08-24 15:10:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,13 +3,13 @@ title: "👋 Introductions"
 name: "introductions"
 description: "A place for new members to introduce themselves and meet each other"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/introductions"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ A place for new members to introduce themselves and meet each other
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for new members to introduce themselves and meet each other
 |----------------------|---|
 | Published            | 2023-06-11 14:34:54 |
 | Updated              | 2023-06-11 22:29:09 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

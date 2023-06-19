@@ -3,15 +3,15 @@ title: "London (ON)"
 name: "london"
 description: "A community for general discussion about the city of London, Ontario.Official website: https://london.ca/"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/london"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 43
 posts: 28
-comments: 5
+comments: 7
 weight: 28
 dau: 1
 wau: 4
@@ -41,9 +41,9 @@ A community for general discussion about the city of London, Ontario.<br><br>Off
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 43 |
 | Posts                | 28  |
-| Comments             | 5  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ A community for general discussion about the city of London, Ontario.<br><br>Off
 |----------------------|---|
 | Published            | 2022-01-15 23:23:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

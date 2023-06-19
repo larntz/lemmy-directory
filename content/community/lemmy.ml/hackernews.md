@@ -3,13 +3,13 @@ title: "Hackernews"
 name: "hackernews"
 description: "I will make a bot that mirrors hackernews posts to here"
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackernews"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ I will make a bot that mirrors hackernews posts to here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ I will make a bot that mirrors hackernews posts to here
 |----------------------|---|
 | Published            | 2021-03-20 12:04:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:59 |

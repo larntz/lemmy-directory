@@ -3,17 +3,17 @@ title: "Outer Wilds"
 name: "outerwilds"
 description: "Outer Wilds is an exploration game about curiosity, roasting marshmallows, and unravelling the mysteries of the cosmos.Explore an alien world of campfire tunes and celestial wonders that evolve over time. Investigate tales of quantum phenomena and launch probes into the depths of space. The answers are there for those who seek them.Fasten your hiking boots, check your oxygen and fuel levels, and venture into the unknown.**Rule 1:** All spoilers must be spoiler marked, do not post spoilers in titles."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/outerwilds"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 42
-posts: 3
-comments: 8
-weight: 3
-dau: 2
+subscribers: 52
+posts: 4
+comments: 15
+weight: 4
+dau: 1
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ Outer Wilds is an exploration game about curiosity, roasting marshmallows, and u
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
+| Subscribers          | 52 |
+| Posts                | 4  |
+| Comments             | 15  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ Outer Wilds is an exploration game about curiosity, roasting marshmallows, and u
 |----------------------|---|
 | Published            | 2023-06-11 19:11:27 |
 | Updated              | 2023-06-11 19:17:25 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

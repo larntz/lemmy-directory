@@ -3,16 +3,16 @@ title: "Progressive Metal Music"
 name: "progmetal"
 description: "Community for progressive metal music, please share some songs and bands you enjoy or discuss anything regarding the progmetal scene.Prog rock also welcome to post here, but the main focus of the community should be progmetal.Some other music communities: https://beehaw.org/post/516009"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/progmetal"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 265
-posts: 38
-comments: 140
-weight: 38
+subscribers: 305
+posts: 45
+comments: 147
+weight: 45
 dau: 5
 wau: 37
 mau: 37
@@ -41,9 +41,9 @@ Community for progressive metal music, please share some songs and bands you enj
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 265 |
-| Posts                | 38  |
-| Comments             | 140  |
+| Subscribers          | 305 |
+| Posts                | 45  |
+| Comments             | 147  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 37  |
 | Monthly Active Users | 37  |
@@ -54,4 +54,4 @@ Community for progressive metal music, please share some songs and bands you enj
 |----------------------|---|
 | Published            | 2023-06-10 16:47:35 |
 | Updated              | 2023-06-13 19:05:44 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

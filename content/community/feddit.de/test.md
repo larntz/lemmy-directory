@@ -3,19 +3,19 @@ title: "Test"
 name: "test"
 description: "Test Community"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/test"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 41
-comments: 139
-weight: 41
-dau: 4
-wau: 39
-mau: 42
+subscribers: 46
+posts: 46
+comments: 146
+weight: 46
+dau: 5
+wau: 31
+mau: 52
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Test Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 41  |
-| Comments             | 139  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 39  |
-| Monthly Active Users | 42  |
+| Subscribers          | 46 |
+| Posts                | 46  |
+| Comments             | 146  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 31  |
+| Monthly Active Users | 52  |
 
 <br>
 
@@ -54,4 +54,4 @@ Test Community
 |----------------------|---|
 | Published            | 2022-01-02 23:30:17 |
 | Updated              | 2022-01-04 20:36:32 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

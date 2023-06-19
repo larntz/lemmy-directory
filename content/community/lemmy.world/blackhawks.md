@@ -3,19 +3,19 @@ title: "blackhawks"
 name: "blackhawks"
 description: "A community to discuss the Chicago Blackhawks"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackhawks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 8
 posts: 2
-comments: 7
+comments: 11
 weight: 2
-dau: 3
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss the Chicago Blackhawks
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 8 |
 | Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 11  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss the Chicago Blackhawks
 |----------------------|---|
 | Published            | 2023-06-15 16:30:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

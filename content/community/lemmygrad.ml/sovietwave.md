@@ -3,13 +3,13 @@ title: "Sovietwave"
 name: "sovietwave"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sovietwave"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 72
 posts: 23
 comments: 7
 weight: 23
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 72 |
 | Posts                | 23  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-03-29 19:20:34 |
 | Updated              | 2022-04-03 14:17:58 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,19 +3,19 @@ title: "Wimmelbilder"
 name: "wimmelbilder"
 description: "Wimmelbilder on Lemmy.Relax, Zoom-in, Enjoy.- Credit the original artist where possible.- 1 Post, 1 Image- High Resolution *Work in Progress*"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wimmelbilder"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 33
-posts: 6
+subscribers: 49
+posts: 8
 comments: 2
-weight: 6
+weight: 8
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Wimmelbilder on Lemmy.<br><br>Relax, Zoom-in, Enjoy.<br><br>- Credit the origina
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 6  |
+| Subscribers          | 49 |
+| Posts                | 8  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Wimmelbilder on Lemmy.<br><br>Relax, Zoom-in, Enjoy.<br><br>- Credit the origina
 |----------------------|---|
 | Published            | 2023-06-11 09:44:33 |
 | Updated              | 2023-06-13 08:10:47 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

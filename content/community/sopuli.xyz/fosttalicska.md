@@ -3,13 +3,13 @@ title: "FostTalicska - A fostok tárháza"
 name: "fosttalicska"
 description: "Az r/fosttalicska Lemmy verziója. PirosAranyMikrobi bácsi nem lesz itt egy ideig, de nyugodtan fostoljátok ki magatokat. :DÖrömmel átadom a stafétát az egyik eredeti talicskás modnak."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/fosttalicska"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ Az r/fosttalicska Lemmy verziója. PirosAranyMikrobi bácsi nem lesz itt egy ide
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Az r/fosttalicska Lemmy verziója. PirosAranyMikrobi bácsi nem lesz itt egy ide
 |----------------------|---|
 | Published            | 2023-06-14 21:39:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

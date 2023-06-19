@@ -3,13 +3,13 @@ title: "3D Modeling"
 name: "3dmodeling"
 description: "A community for 3D modelers of all kinds! Share your favorite tips and tricks for Maya, 3DS Max, Blender, Houdini, and more."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/3dmodeling"
 host: lemmy.graphics
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community for 3D modelers of all kinds! Share your favorite tips and tricks fo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for 3D modelers of all kinds! Share your favorite tips and tricks fo
 |----------------------|---|
 | Published            | 2023-06-12 20:17:06 |
 | Updated              | 2023-06-14 14:04:59 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

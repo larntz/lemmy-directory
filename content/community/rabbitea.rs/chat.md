@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "Relaxed section for discussion and questions about Rabbitea.rs as an instance, technical support, and any other things that don't fit anywhere else.This is also the place to propose new communities for the instance."
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://rabbitea.rs/c/chat"
@@ -54,4 +54,4 @@ Relaxed section for discussion and questions about Rabbitea.rs as an instance, t
 |----------------------|---|
 | Published            | 2023-06-13 17:05:45 |
 | Updated              | 2023-06-13 22:01:12 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:21 |

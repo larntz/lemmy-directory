@@ -3,7 +3,7 @@ title: "Limburg"
 name: "limburg"
 description: "This subreddit is about everything Limburg. Not just the Netherlands or Belgium part but even the people from the Duchy of Limburg are welcome."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/limburg"
@@ -54,4 +54,4 @@ This subreddit is about everything Limburg. Not just the Netherlands or Belgium 
 |----------------------|---|
 | Published            | 2023-06-13 21:23:47 |
 | Updated              | 2023-06-13 21:40:30 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

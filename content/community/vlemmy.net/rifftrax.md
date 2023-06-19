@@ -3,13 +3,13 @@ title: "Rifftrax"
 name: "rifftrax"
 description: "Rifftrax makes fun of bad movies. It's made up of the former stars of Mystery Science Theater 3000; Mike Nelson, Bill Corbett and Kevin Murphy."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/rifftrax"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Rifftrax makes fun of bad movies. It's made up of the former stars of Mystery Sc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Rifftrax makes fun of bad movies. It's made up of the former stars of Mystery Sc
 |----------------------|---|
 | Published            | 2023-06-12 23:39:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

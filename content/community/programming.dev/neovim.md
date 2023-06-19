@@ -3,19 +3,19 @@ title: "Neovim"
 name: "neovim"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/neovim"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 132
-posts: 8
-comments: 21
-weight: 8
-dau: 4
-wau: 6
-mau: 6
+subscribers: 225
+posts: 10
+comments: 27
+weight: 10
+dau: 3
+wau: 16
+mau: 16
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 132 |
-| Posts                | 8  |
-| Comments             | 21  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 225 |
+| Posts                | 10  |
+| Comments             | 27  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 16:43:44 |
 | Updated              | 2023-06-13 16:48:46 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

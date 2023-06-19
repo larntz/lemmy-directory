@@ -3,13 +3,13 @@ title: "Men's Liberation"
 name: "mensliberation"
 description: "Men at the top of society enforce a system (patriarchy) that ends up repressing the average man. [Ex](https://lemmy.ca/post/152500)We're like men's right groups, but without the misogyny."
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mensliberation"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 40
 posts: 10
 comments: 1
 weight: 10
@@ -41,7 +41,7 @@ Men at the top of society enforce a system (patriarchy) that ends up repressing 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 40 |
 | Posts                | 10  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Men at the top of society enforce a system (patriarchy) that ends up repressing 
 |----------------------|---|
 | Published            | 2022-05-26 10:44:02 |
 | Updated              | 2022-05-26 14:11:09 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,7 +3,7 @@ title: "Anprim"
 name: "anarcoprimitivismo"
 description: "O anarco-primitivismo é uma crítica anarquista das origens e do progresso da civilização. De acordo com o anarco-primitivismo, a mudança (entre outras coisas) de caçador-coletor para subsistência agrícola deu origem a estratificação social, coerção, alienação e superpopulação."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarcoprimitivismo"
@@ -54,4 +54,4 @@ O anarco-primitivismo é uma crítica anarquista das origens e do progresso da c
 |----------------------|---|
 | Published            | 2019-05-01 11:47:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

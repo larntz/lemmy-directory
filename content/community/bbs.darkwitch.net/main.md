@@ -3,15 +3,15 @@ title: "灵异世界"
 name: "main"
 description: "一切灵异玄学话题"
 type: community
-date: "2023-06-16 22:55:53"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/main"
 host: bbs.darkwitch.net
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 7
-comments: 6
+comments: 7
 weight: 7
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 7  |
-| Comments             | 6  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-04-25 20:56:17 |
 | Updated              | 2023-05-06 13:33:29 |
-| Last Scraped         | 2023-06-16 22:55:53 |
+| Last Scraped         | 2023-06-19 11:34:54 |

@@ -3,19 +3,19 @@ title: "Knitting"
 name: "knitting"
 description: "A place to show off your knitting, ask questions, and share your favorite patterns."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/knitting"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 293
-posts: 8
-comments: 51
-weight: 8
-dau: 7
-wau: 33
-mau: 33
+subscribers: 386
+posts: 14
+comments: 99
+weight: 14
+dau: 9
+wau: 37
+mau: 50
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to show off your knitting, ask questions, and share your favorite patter
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 293 |
-| Posts                | 8  |
-| Comments             | 51  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 33  |
+| Subscribers          | 386 |
+| Posts                | 14  |
+| Comments             | 99  |
+| Daily Active Users   | 9  |
+| Weekly Active Users  | 37  |
+| Monthly Active Users | 50  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to show off your knitting, ask questions, and share your favorite patter
 |----------------------|---|
 | Published            | 2023-06-10 17:49:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

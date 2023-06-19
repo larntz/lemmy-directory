@@ -3,7 +3,7 @@ title: "Coilguns"
 name: "coilguns"
 description: "All about that magnetic acceleration. For all things related to real world sci-fi weaponry, theory, or hobbyist projects. "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coilguns"
@@ -54,4 +54,4 @@ All about that magnetic acceleration. <br><br>For all things related to real wor
 |----------------------|---|
 | Published            | 2023-06-15 20:07:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

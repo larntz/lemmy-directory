@@ -3,13 +3,13 @@ title: "dolls"
 name: "dolls"
 description: "Community for all types of dolls: fashion dolls, ball-jointed dolls, hinge-jointed dolls."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dolls"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Community for all types of dolls: fashion dolls, ball-jointed dolls, hinge-joint
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community for all types of dolls: fashion dolls, ball-jointed dolls, hinge-joint
 |----------------------|---|
 | Published            | 2023-06-14 16:32:25 |
 | Updated              | 2023-06-14 16:33:46 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

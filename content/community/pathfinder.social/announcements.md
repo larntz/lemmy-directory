@@ -3,19 +3,19 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/announcements"
 host: pathfinder.social
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 64
 posts: 2
-comments: 22
+comments: 26
 weight: 2
 dau: 1
-wau: 8
-mau: 9
+wau: 9
+mau: 11
 instances:
 - "pathfinder_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 64 |
 | Posts                | 2  |
-| Comments             | 22  |
+| Comments             | 26  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-04 06:58:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:56 |

@@ -3,13 +3,13 @@ title: "test_comm_1"
 name: "test_comm_1"
 description: "hntshnt"
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/test_comm_1"
 host: voyager.lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 7
 comments: 12
 weight: 7
@@ -41,7 +41,7 @@ hntshnt
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 7  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ hntshnt
 |----------------------|---|
 | Published            | 2023-06-10 12:05:29 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

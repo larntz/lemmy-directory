@@ -3,13 +3,13 @@ title: "Environment"
 name: "environment"
 description: "A community about our environment. All interesting links, discussions, and pictures are welcome here."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/environment"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 93
 posts: 22
 comments: 9
 weight: 22
@@ -41,7 +41,7 @@ A community about our environment. All interesting links, discussions, and pictu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 93 |
 | Posts                | 22  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community about our environment. All interesting links, discussions, and pictu
 |----------------------|---|
 | Published            | 2023-01-10 19:11:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,7 +3,7 @@ title: "JUGENDARBEIT"
 name: "jugendarbeit"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jugendarbeit"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-01-12 10:41:25 |
 | Updated              | 2021-02-08 14:57:13 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

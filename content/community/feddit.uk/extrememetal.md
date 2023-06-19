@@ -3,19 +3,19 @@ title: "Extreme Metal"
 name: "extrememetal"
 description: "Blasts and Skrams!Death Metal/Black Metal/Grindcore/Powerviolence/Fastcore/Hardcore PunkThis is an inclusive commuity, no nazi/nsbm stuff please."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/extrememetal"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 17
-posts: 17
-comments: 2
-weight: 17
-dau: 2
-wau: 3
-mau: 3
+subscribers: 27
+posts: 19
+comments: 3
+weight: 19
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Blasts and Skrams!<br><br>Death Metal/Black Metal/Grindcore/Powerviolence/Fastco
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 17  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 27 |
+| Posts                | 19  |
+| Comments             | 3  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Blasts and Skrams!<br><br>Death Metal/Black Metal/Grindcore/Powerviolence/Fastco
 |----------------------|---|
 | Published            | 2023-06-12 21:43:45 |
 | Updated              | 2023-06-12 21:49:47 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

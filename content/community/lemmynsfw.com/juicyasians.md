@@ -3,19 +3,19 @@ title: "juicyasians"
 name: "juicyasians"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/juicyasians"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 93
-posts: 5
-comments: 1
-weight: 5
-dau: 1
-wau: 1
-mau: 1
+subscribers: 229
+posts: 16
+comments: 2
+weight: 16
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 93 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 229 |
+| Posts                | 16  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 15:25:26 |
 | Updated              | 2023-06-16 20:24:57 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:45 |

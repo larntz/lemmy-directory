@@ -3,13 +3,13 @@ title: "RaumZeitLabor e.V."
 name: "rzl"
 description: "Hacker- und Makerspace auf 200m². Digitalkultur im Rhein-Neckar-Dreieck.- [Homepage des RZL](https://raumzeitlabor.de/)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rzl"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Hacker- und Makerspace auf 200m². Digitalkultur im Rhein-Neckar-Dreieck.<br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Hacker- und Makerspace auf 200m². Digitalkultur im Rhein-Neckar-Dreieck.<br><br
 |----------------------|---|
 | Published            | 2022-09-13 21:07:43 |
 | Updated              | 2022-09-14 09:00:14 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,13 +3,13 @@ title: "Destinycirclejerk"
 name: "destinycirclejerk"
 description: "r/destinycirclejerk reborn: the fomo must live on"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinycirclejerk"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 27
 posts: 8
 comments: 5
 weight: 8
@@ -41,7 +41,7 @@ r/destinycirclejerk reborn: the fomo must live on
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 27 |
 | Posts                | 8  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ r/destinycirclejerk reborn: the fomo must live on
 |----------------------|---|
 | Published            | 2023-06-14 11:17:35 |
 | Updated              | 2023-06-14 16:19:48 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

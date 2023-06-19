@@ -3,19 +3,19 @@ title: "Random"
 name: "random"
 description: "For everything else that we might want to talk about but just doesn't *quite* fit in anywhere else."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/random"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 51
-posts: 3
-comments: 6
-weight: 3
-dau: 3
-wau: 8
-mau: 8
+subscribers: 70
+posts: 4
+comments: 8
+weight: 4
+dau: 1
+wau: 10
+mau: 10
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ For everything else that we might want to talk about but just doesn't *quite* fi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 70 |
+| Posts                | 4  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ For everything else that we might want to talk about but just doesn't *quite* fi
 |----------------------|---|
 | Published            | 2023-06-12 23:39:09 |
 | Updated              | 2023-06-13 01:58:25 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

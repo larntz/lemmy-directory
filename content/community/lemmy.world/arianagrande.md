@@ -3,13 +3,13 @@ title: "Ariana Grande"
 name: "arianagrande"
 description: "A place to talk about Ariana, her music, and generally anything about her :)This is a discussion sub so please don't post lewd photos of her."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arianagrande"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to talk about Ariana, her music, and generally anything about her :)<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to talk about Ariana, her music, and generally anything about her :)<br>
 |----------------------|---|
 | Published            | 2023-06-13 15:35:26 |
 | Updated              | 2023-06-13 17:51:03 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

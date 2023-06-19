@@ -3,19 +3,19 @@ title: "BROWNTOWN"
 name: "browntown"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.browntown.dev/c/browntown"
 host: lemmy.browntown.dev
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
-comments: 0
+comments: 2
 weight: 1
-dau: 0
-wau: 2
-mau: 2
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_browntown_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-15 02:09:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:27 |

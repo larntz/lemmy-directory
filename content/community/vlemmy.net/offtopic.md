@@ -3,19 +3,19 @@ title: "offtopic"
 name: "offtopic"
 description: "General Community for off topic discussions, rants, how your week is, whatever you like."
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/offtopic"
 host: vlemmy.net
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 32
 posts: 3
-comments: 66
+comments: 72
 weight: 3
-dau: 13
-wau: 24
-mau: 24
+dau: 17
+wau: 42
+mau: 42
 instances:
 - "vlemmy_net"
 tags: 
@@ -41,12 +41,12 @@ General Community for off topic discussions, rants, how your week is, whatever y
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 32 |
 | Posts                | 3  |
-| Comments             | 66  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 24  |
+| Comments             | 72  |
+| Daily Active Users   | 17  |
+| Weekly Active Users  | 42  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ General Community for off topic discussions, rants, how your week is, whatever y
 |----------------------|---|
 | Published            | 2023-06-09 04:47:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:05 |

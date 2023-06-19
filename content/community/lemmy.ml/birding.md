@@ -3,16 +3,16 @@ title: "Birding"
 name: "birding"
 description: "News, photos, and discussion related to birds, ornithology, and the birding / birdwatching hobby.What is this bird? questions are fine for now, but we may move them to a separate community if they begin to crowd out the other content."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birding"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 12
+subscribers: 73
+posts: 14
 comments: 4
-weight: 12
+weight: 14
 dau: 1
 wau: 3
 mau: 4
@@ -41,8 +41,8 @@ News, photos, and discussion related to birds, ornithology, and the birding / bi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 12  |
+| Subscribers          | 73 |
+| Posts                | 14  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ News, photos, and discussion related to birds, ornithology, and the birding / bi
 |----------------------|---|
 | Published            | 2020-06-28 00:10:24 |
 | Updated              | 2021-01-25 21:33:13 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:46 |

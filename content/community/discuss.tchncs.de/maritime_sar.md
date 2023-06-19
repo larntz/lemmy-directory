@@ -1,21 +1,21 @@
 ---
 title: "Maritime SAR" 
 name: "maritime_sar"
-description: "This subreddit is all about Search and Rescue operations at Sea.It's all about:- volunteer organizations, their missions and their training- navy or coast guard vessels in a SAR context- emergencies at sea- rescue equipment and best practicesRemember to be excellent to each other - safe sailing!"
+description: "This community is all about Search and Rescue operations at Sea.It's all about:- volunteer organizations, their missions and their training- navy or coast guard vessels in a SAR context- emergencies at sea- rescue equipment and best practicesRemember to be excellent to each other - safe sailing!"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/maritime_sar"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 4
-comments: 0
-weight: 4
-dau: 1
-wau: 1
-mau: 1
+subscribers: 12
+posts: 6
+comments: 1
+weight: 6
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-This subreddit is all about Search and Rescue operations at Sea.<br><br>It's all about:<br>- volunteer organizations, their missions and their training<br>- navy or coast guard vessels in a SAR context<br>- emergencies at sea<br>- rescue equipment and best practices<br><br>Remember to be excellent to each other - safe sailing!
+This community is all about Search and Rescue operations at Sea.<br><br>It's all about:<br>- volunteer organizations, their missions and their training<br>- navy or coast guard vessels in a SAR context<br>- emergencies at sea<br>- rescue equipment and best practices<br><br>Remember to be excellent to each other - safe sailing!
 </blockquote>
 
 
@@ -41,17 +41,17 @@ This subreddit is all about Search and Rescue operations at Sea.<br><br>It's all
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 12 |
+| Posts                | 6  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 20:29:53 |
-| Updated              | 2023-06-11 20:56:46 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Updated              | 2023-06-17 21:07:23 |
+| Last Scraped         | 2023-06-19 11:34:55 |

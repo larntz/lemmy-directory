@@ -3,19 +3,19 @@ title: "Minnesota Wild Hockey"
 name: "wildhockey"
 description: "Lemmy community for Minnesota Wild hockey fans."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wildhockey"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 27
 posts: 3
-comments: 7
+comments: 8
 weight: 3
-dau: 2
-wau: 8
-mau: 8
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Lemmy community for Minnesota Wild hockey fans.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 27 |
 | Posts                | 3  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy community for Minnesota Wild hockey fans.
 |----------------------|---|
 | Published            | 2023-06-13 02:47:23 |
 | Updated              | 2023-06-13 18:18:14 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

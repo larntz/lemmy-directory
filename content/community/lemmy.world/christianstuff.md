@@ -3,13 +3,13 @@ title: "christian stuff"
 name: "christianstuff"
 description: "christian things -  pics, videos, blogs, articles, Bible study, etc "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/christianstuff"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 46
 comments: 0
 weight: 46
@@ -41,7 +41,7 @@ christian things -  pics, videos, blogs, articles, Bible study, etc <br><br><br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 46  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ christian things -  pics, videos, blogs, articles, Bible study, etc <br><br><br>
 |----------------------|---|
 | Published            | 2023-06-14 20:31:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:39 |

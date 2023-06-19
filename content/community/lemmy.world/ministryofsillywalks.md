@@ -3,13 +3,13 @@ title: "Ministry of Silly Walks"
 name: "ministryofsillywalks"
 description: "Be silly."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ministryofsillywalks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 19
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Be silly.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 19 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Be silly.
 |----------------------|---|
 | Published            | 2023-06-12 14:04:04 |
 | Updated              | 2023-06-12 14:10:20 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

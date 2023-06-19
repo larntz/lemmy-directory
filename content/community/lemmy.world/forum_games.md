@@ -3,19 +3,19 @@ title: "Forum Games"
 name: "forum_games"
 description: "A chill place play forum games with others in the community. Feel free to join an existing game or create your own!"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/forum_games"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 45
 posts: 3
-comments: 49
+comments: 58
 weight: 3
-dau: 4
-wau: 9
-mau: 9
+dau: 1
+wau: 10
+mau: 11
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A chill place play forum games with others in the community. Feel free to join a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 45 |
 | Posts                | 3  |
-| Comments             | 49  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 58  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ A chill place play forum games with others in the community. Feel free to join a
 |----------------------|---|
 | Published            | 2023-06-11 19:25:15 |
 | Updated              | 2023-06-14 03:14:37 |
-| Last Scraped         | 2023-06-16 11:07:18 |
+| Last Scraped         | 2023-06-19 11:36:39 |

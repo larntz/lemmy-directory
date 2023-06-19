@@ -3,13 +3,13 @@ title: "Sysadmin"
 name: "sysadmin"
 description: "Community that caters to those interested in computer system administration."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/sysadmin"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 30
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community that caters to those interested in computer system administration.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 30 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community that caters to those interested in computer system administration.
 |----------------------|---|
 | Published            | 2023-06-11 00:24:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

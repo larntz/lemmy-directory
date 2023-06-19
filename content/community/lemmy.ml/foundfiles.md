@@ -3,7 +3,7 @@ title: "Found Files"
 name: "foundfiles"
 description: "A place to share odd digital artifacts from archive.org and other online archives"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foundfiles"
@@ -54,4 +54,4 @@ A place to share odd digital artifacts from archive.org and other online archive
 |----------------------|---|
 | Published            | 2021-08-12 06:56:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:53 |

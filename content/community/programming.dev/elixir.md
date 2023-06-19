@@ -3,19 +3,19 @@ title: "Elixir"
 name: "elixir"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/elixir"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 2
-comments: 0
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 35
+posts: 3
+comments: 3
+weight: 3
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 35 |
+| Posts                | 3  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 09:46:58 |
 | Updated              | 2023-06-14 09:51:58 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

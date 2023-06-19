@@ -3,19 +3,19 @@ title: "Odysee - Share Videos Freely"
 name: "odysee"
 description: "Odysee, a video website built by LBRY Inc. using their LBRY protocol, entered beta in September 2020 and officially launched that December.# Rules   - No harassment  - Video Promoting is allowed    - No spamming   - Stay friendly  -  Follow the lemmy.ml instance rules# Related Communities: - [!lbry_community@lemmy.ml](https://lemmy.ml/c/lbry_community) # If you see a rule-breaker please DM the mods!"
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/odysee"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 223
-posts: 22
-comments: 59
-weight: 22
+subscribers: 228
+posts: 23
+comments: 60
+weight: 23
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Odysee, a video website built by LBRY Inc. using their LBRY protocol, entered be
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
-| Posts                | 22  |
-| Comments             | 59  |
+| Subscribers          | 228 |
+| Posts                | 23  |
+| Comments             | 60  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Odysee, a video website built by LBRY Inc. using their LBRY protocol, entered be
 |----------------------|---|
 | Published            | 2021-04-13 11:33:57 |
 | Updated              | 2022-03-31 10:37:11 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

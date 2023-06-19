@@ -3,19 +3,19 @@ title: "A Boring Dystopia"
 name: "aboringdystopia"
 description: "Pictures, Videos, Articles showing just how boring it is to live in a dystopic society, or with signs of a dystopic society.**Rules (Subject to Change)**--Be a Decent Human Being--Posting news articles: include the source name and exact title from article in your post title--Posts must have something to do with the topic--Zero tolerance for Racism/Sexism/Ableism/etc.--No NSFW content--Abide by the rules of lemmy.world"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aboringdystopia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 257
-posts: 17
-comments: 22
-weight: 17
-dau: 15
-wau: 19
-mau: 19
+subscribers: 632
+posts: 23
+comments: 73
+weight: 23
+dau: 13
+wau: 56
+mau: 56
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Pictures, Videos, Articles showing just how boring it is to live in a dystopic s
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 257 |
-| Posts                | 17  |
-| Comments             | 22  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
+| Subscribers          | 632 |
+| Posts                | 23  |
+| Comments             | 73  |
+| Daily Active Users   | 13  |
+| Weekly Active Users  | 56  |
+| Monthly Active Users | 56  |
 
 <br>
 
@@ -54,4 +54,4 @@ Pictures, Videos, Articles showing just how boring it is to live in a dystopic s
 |----------------------|---|
 | Published            | 2023-06-13 14:40:41 |
 | Updated              | 2023-06-13 14:52:10 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

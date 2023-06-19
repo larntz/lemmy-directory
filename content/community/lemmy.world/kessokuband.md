@@ -3,13 +3,13 @@ title: "Kessoku Band"
 name: "kessokuband"
 description: "The scream of the soul that shakes the heavens! Come! Let's grasp the crown of victory! Create a legend, Kessoku Band!!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kessokuband"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The scream of the soul that shakes the heavens! Come! Let's grasp the crown of v
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The scream of the soul that shakes the heavens! Come! Let's grasp the crown of v
 |----------------------|---|
 | Published            | 2023-06-13 04:26:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,13 +3,13 @@ title: "GenZedongArchive"
 name: "genzedongarchive"
 description: "Saving GenZedong's history, anything from links, PDFs, & posts"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongarchive"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 48
+subscribers: 49
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Saving GenZedong's history, anything from links, PDFs, & posts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 48 |
+| Subscribers          | 49 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Saving GenZedong's history, anything from links, PDFs, & posts
 |----------------------|---|
 | Published            | 2022-03-23 23:23:40 |
 | Updated              | 2022-03-23 23:26:24 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

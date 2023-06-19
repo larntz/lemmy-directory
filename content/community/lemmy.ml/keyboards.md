@@ -3,13 +3,13 @@ title: "Computer Keyboards"
 name: "keyboards"
 description: "hardware, customization and typing"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/keyboards"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 172
+subscribers: 174
 posts: 10
 comments: 25
 weight: 10
@@ -41,7 +41,7 @@ hardware, customization and typing
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 172 |
+| Subscribers          | 174 |
 | Posts                | 10  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ hardware, customization and typing
 |----------------------|---|
 | Published            | 2020-03-31 09:03:34 |
 | Updated              | 2023-05-25 17:16:42 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

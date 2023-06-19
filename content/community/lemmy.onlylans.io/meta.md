@@ -3,17 +3,17 @@ title: "Meta (lemmy.onlylans.io)"
 name: "meta"
 description: "Discussions about the lemmy.onlylans.io instance and how to get started with Lemmy."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.onlylans.io/c/meta"
 host: lemmy.onlylans.io
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 3
+posts: 4
 comments: 5
-weight: 3
-dau: 2
+weight: 4
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -42,9 +42,9 @@ Discussions about the lemmy.onlylans.io instance and how to get started with Lem
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 3  |
+| Posts                | 4  |
 | Comments             | 5  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Discussions about the lemmy.onlylans.io instance and how to get started with Lem
 |----------------------|---|
 | Published            | 2023-06-12 23:26:08 |
 | Updated              | 2023-06-12 23:40:22 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

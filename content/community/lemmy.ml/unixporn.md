@@ -3,19 +3,19 @@ title: "Unix porn"
 name: "unixporn"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unixporn"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4447
-posts: 170
-comments: 528
-weight: 170
-dau: 11
-wau: 80
-mau: 90
+subscribers: 4696
+posts: 175
+comments: 547
+weight: 175
+dau: 6
+wau: 77
+mau: 100
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4447 |
-| Posts                | 170  |
-| Comments             | 528  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 80  |
-| Monthly Active Users | 90  |
+| Subscribers          | 4696 |
+| Posts                | 175  |
+| Comments             | 547  |
+| Daily Active Users   | 6  |
+| Weekly Active Users  | 77  |
+| Monthly Active Users | 100  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-05-03 17:46:46 |
 | Updated              | 2021-02-15 00:49:44 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:36:56 |

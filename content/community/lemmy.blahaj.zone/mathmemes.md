@@ -3,13 +3,13 @@ title: "Math Memes"
 name: "mathmemes"
 description: "Memes related to mathematics.**Rules:**    1: Memes must be related to mathematics in some way.    2: No bigotry of any kind.    "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/mathmemes"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 108
+subscribers: 129
 posts: 6
 comments: 5
 weight: 6
@@ -41,7 +41,7 @@ Memes related to mathematics.<br><br>**Rules:**    <br>1: Memes must be related 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 108 |
+| Subscribers          | 129 |
 | Posts                | 6  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Memes related to mathematics.<br><br>**Rules:**    <br>1: Memes must be related 
 |----------------------|---|
 | Published            | 2023-06-11 15:16:45 |
 | Updated              | 2023-06-11 15:36:45 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

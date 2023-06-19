@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:19"
 draft: false
 nsfw: false
 actor_id: "https://stanx.page/c/test"
@@ -14,7 +14,7 @@ posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "stanx_page"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 00:57:26 |
 | Updated              | 2023-06-12 11:16:52 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Last Scraped         | 2023-06-19 11:35:19 |

@@ -3,18 +3,18 @@ title: "magicalgirls"
 name: "magicalgirls"
 description: "A Lemmy for fans of Magical Girl/Mahou Shoujo. Please remember to read the rules in the sidebar:- Respect One Another. Super Simple Stuff Here.- No Hate Speech. - No NSFW/Porn/Hentai.- No Pirating Material.- Credit Fanworks."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magicalgirls"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 24
+subscribers: 25
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ A Lemmy for fans of Magical Girl/Mahou Shoujo. Please remember to read the rules
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
+| Subscribers          | 25 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A Lemmy for fans of Magical Girl/Mahou Shoujo. Please remember to read the rules
 |----------------------|---|
 | Published            | 2023-06-10 13:47:44 |
 | Updated              | 2023-06-11 07:50:58 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

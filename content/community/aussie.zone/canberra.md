@@ -3,19 +3,19 @@ title: "Canberra"
 name: "canberra"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/canberra"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 3
-comments: 11
-weight: 3
+subscribers: 66
+posts: 11
+comments: 17
+weight: 11
 dau: 1
 wau: 10
-mau: 10
+mau: 14
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 3  |
-| Comments             | 11  |
+| Subscribers          | 66 |
+| Posts                | 11  |
+| Comments             | 17  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Monthly Active Users | 14  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 02:45:04 |
-| Updated              | 2023-06-12 10:51:35 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:29:18 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,13 +3,13 @@ title: "Makeup for All"
 name: "makeupforall"
 description: "Makeup can be a form of self expression and an art. Share your personal style, costumes, cosplay, techniques, and more."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/makeupforall"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 4
 comments: 5
 weight: 4
@@ -41,7 +41,7 @@ Makeup can be a form of self expression and an art. Share your personal style, c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Makeup can be a form of self expression and an art. Share your personal style, c
 |----------------------|---|
 | Published            | 2022-08-21 14:57:57 |
 | Updated              | 2022-08-21 21:16:21 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,7 +3,7 @@ title: "Fumo"
 name: "fumo"
 description: "A place for people to share pictures of their soft girlsdiscord.gg/fumofumo"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fumo"
@@ -54,4 +54,4 @@ A place for people to share pictures of their soft girls<br><br>discord.gg/fumof
 |----------------------|---|
 | Published            | 2023-06-15 20:15:17 |
 | Updated              | 2023-06-16 00:38:10 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,13 +3,13 @@ title: "Linguistics"
 name: "linguistics"
 description: "A place to discuss all things related to specific languages, language in general, or the field of linguistics, which is the scientific study of language."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/linguistics"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 194
+subscribers: 195
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ A place to discuss all things related to specific languages, language in general
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 194 |
+| Subscribers          | 195 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to discuss all things related to specific languages, language in general
 |----------------------|---|
 | Published            | 2019-08-25 17:56:48 |
 | Updated              | 2019-08-25 17:57:12 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-19 11:35:08 |

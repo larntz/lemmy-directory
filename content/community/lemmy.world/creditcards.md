@@ -3,19 +3,19 @@ title: "Credit Cards"
 name: "creditcards"
 description: "A community for discussing any aspect of credit cards. It is important to pay them in full and on time.  Please ask questions and contribute to the knowledge surrounding credit cards**Rules**- No-thing Nefarious. This applies to any posts where we suspect anything potentially illegal or fraudulent, and may include buying/selling tradelines.- No Referrals. No links; no codes. Don’t post them; don’t hint at offering them; don’t ask for them. Use rankt.com. This includes any behavior that could be deemed fishing for referrals.- No PM’ing Referrals. Spamming other users will get you banned.- No Link Shorteners.- Self-promotional posts must be pre-approved by a mod. Such posts are generally unwelcome. We may make an exception if it’s truly unique and helpful.Be nice. (Don’t be a dick.)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/creditcards"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 2
-mau: 2
+subscribers: 25
+posts: 4
+comments: 7
+weight: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for discussing any aspect of credit cards. It is important to pay th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 25 |
+| Posts                | 4  |
+| Comments             | 7  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussing any aspect of credit cards. It is important to pay th
 |----------------------|---|
 | Published            | 2023-06-15 02:34:08 |
 | Updated              | 2023-06-15 06:36:58 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

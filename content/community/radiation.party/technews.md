@@ -3,16 +3,16 @@ title: "TechNews"
 name: "technews"
 description: "Aggregated tech news. "
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:34:59"
 draft: false
 nsfw: false
 actor_id: "https://radiation.party/c/technews"
 host: radiation.party
 lastmod: "{[ .Updated }}"
-subscribers: 477
-posts: 1427
-comments: 158
-weight: 1427
+subscribers: 661
+posts: 1685
+comments: 210
+weight: 1685
 dau: 23
 wau: 56
 mau: 56
@@ -41,9 +41,9 @@ Aggregated tech news.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 477 |
-| Posts                | 1427  |
-| Comments             | 158  |
+| Subscribers          | 661 |
+| Posts                | 1685  |
+| Comments             | 210  |
 | Daily Active Users   | 23  |
 | Weekly Active Users  | 56  |
 | Monthly Active Users | 56  |
@@ -54,4 +54,4 @@ Aggregated tech news.
 |----------------------|---|
 | Published            | 2023-06-08 13:53:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:34:59 |

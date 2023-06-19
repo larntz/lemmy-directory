@@ -3,7 +3,7 @@ title: "All things agile"
 name: "agile"
 description: "Agile, lean, Scrum, Less, SAFe, portfolio management..."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/agile"
@@ -54,4 +54,4 @@ Agile, lean, Scrum, Less, SAFe, portfolio management...
 |----------------------|---|
 | Published            | 2020-06-29 08:52:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

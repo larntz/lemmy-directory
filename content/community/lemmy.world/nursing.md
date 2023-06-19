@@ -3,13 +3,13 @@ title: "Nursing"
 name: "nursing"
 description: "Issues and trends in the nursing community"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nursing"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Issues and trends in the nursing community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 14 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Issues and trends in the nursing community
 |----------------------|---|
 | Published            | 2023-06-12 15:47:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

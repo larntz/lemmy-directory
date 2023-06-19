@@ -3,13 +3,13 @@ title: "Mitch Hedberg "
 name: "mitchhedberg"
 description: "All things Mitch! "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mitchhedberg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ All things Mitch!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things Mitch!
 |----------------------|---|
 | Published            | 2023-06-11 18:10:50 |
 | Updated              | 2023-06-11 22:11:19 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

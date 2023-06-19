@@ -3,19 +3,19 @@ title: "Reading, the biggest town."
 name: "reading"
 description: "A community for the town of Reading."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/reading"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 32
 posts: 5
-comments: 16
+comments: 17
 weight: 5
-dau: 2
-wau: 10
-mau: 10
+dau: 1
+wau: 11
+mau: 11
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ A community for the town of Reading.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 32 |
 | Posts                | 5  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 17  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the town of Reading.
 |----------------------|---|
 | Published            | 2023-06-13 09:26:44 |
 | Updated              | 2023-06-13 11:04:22 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

@@ -3,16 +3,16 @@ title: "StellarCastle"
 name: "stellar_castle"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://forum.stellarcastle.net/c/stellar_castle"
 host: forum.stellarcastle.net
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 21:08:39 |
 | Updated              | 2023-06-16 00:55:05 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:24 |

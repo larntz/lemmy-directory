@@ -3,19 +3,19 @@ title: "aww"
 name: "aww"
 description: "A place with minimal rules for stuff that makes you go awww! Feel free to post pics, gifs, or videos of cats, dogs, babies, or anything cute."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aww"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1420
-posts: 35
-comments: 81
-weight: 35
-dau: 9
-wau: 68
-mau: 68
+subscribers: 2015
+posts: 46
+comments: 102
+weight: 46
+dau: 8
+wau: 91
+mau: 91
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place with minimal rules for stuff that makes you go awww! Feel free to post p
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1420 |
-| Posts                | 35  |
-| Comments             | 81  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 68  |
-| Monthly Active Users | 68  |
+| Subscribers          | 2015 |
+| Posts                | 46  |
+| Comments             | 102  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 91  |
+| Monthly Active Users | 91  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place with minimal rules for stuff that makes you go awww! Feel free to post p
 |----------------------|---|
 | Published            | 2023-06-11 05:19:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,19 +3,19 @@ title: "InternetIsBeautiful"
 name: "internetisbeautiful"
 description: "A place for your preferably unique useful or fun sites and kind of a bookmark manager for me :p"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/internetisbeautiful"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 7
-comments: 0
-weight: 7
-dau: 1
-wau: 1
-mau: 1
+subscribers: 236
+posts: 12
+comments: 11
+weight: 12
+dau: 5
+wau: 12
+mau: 12
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ A place for your preferably unique useful or fun sites and kind of a bookmark ma
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 236 |
+| Posts                | 12  |
+| Comments             | 11  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for your preferably unique useful or fun sites and kind of a bookmark ma
 |----------------------|---|
 | Published            | 2023-06-13 11:44:18 |
 | Updated              | 2023-06-13 11:47:19 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

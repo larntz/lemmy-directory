@@ -1,9 +1,9 @@
 ---
 title: "vermont" 
 name: "vermont"
-description: "Community focused on the state of Vermont.Shitposting and memes welcome!**Rules**- Don't be a dick"
+description: "Community focused on the state of Vermont.**Rules**- Don't be a dick**Links** - [Vermont Craigslist](https://vermont.craigslist.org/) - [State of Vermont Homepage](https://vermont.craigslist.org/) **News** -  [NBC5](https://www.mynbc5.com/) -  [WXAC](https://www.wcax.com) -  [Vermont Public](https://www.vermontpublic.org/) -  [VTDigger](https://vtdigger.org/) -  [myChamplainValley](https://www.mychamplainvalley.com/)"
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/vermont"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Community focused on the state of Vermont.<br><br>Shitposting and memes welcome!<br><br>**Rules**<br><br>- Don't be a dick
+Community focused on the state of Vermont.<br><br>**Rules**<br><br>- Don't be a dick<br><br>**Links**<br><br> - [Vermont Craigslist](https://vermont.craigslist.org/)<br> - [State of Vermont Homepage](https://vermont.craigslist.org/)<br> <br>**News**<br> -  [NBC5](https://www.mynbc5.com/)<br> -  [WXAC](https://www.wcax.com)<br> -  [Vermont Public](https://www.vermontpublic.org/)<br> -  [VTDigger](https://vtdigger.org/)<br> -  [myChamplainValley](https://www.mychamplainvalley.com/)
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Community focused on the state of Vermont.<br><br>Shitposting and memes welcome!
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 17:46:45 |
-| Updated              | 2023-06-14 04:33:52 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Updated              | 2023-06-17 15:16:26 |
+| Last Scraped         | 2023-06-19 11:35:21 |

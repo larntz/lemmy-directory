@@ -3,18 +3,18 @@ title: "VfL Osnabrück"
 name: "vflosnabrueck"
 description: "Die Community zum VfL Osnabrück"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vflosnabrueck"
 host: feddit.de
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_de"
@@ -42,10 +42,10 @@ Die Community zum VfL Osnabrück
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Die Community zum VfL Osnabrück
 |----------------------|---|
 | Published            | 2023-06-09 14:32:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

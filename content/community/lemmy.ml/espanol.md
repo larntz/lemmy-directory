@@ -3,19 +3,19 @@ title: "Ñ (todo en español)"
 name: "espanol"
 description: "Comunidad para publicar cualquier cosa (noticias, preguntas, memes, comics, arte, etc.) en el idioma español.Community for all things (news, questions, memes, comics, art, etc.) in spanish language."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/espanol"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 122
+subscribers: 124
 posts: 17
-comments: 12
+comments: 13
 weight: 17
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Comunidad para publicar cualquier cosa (noticias, preguntas, memes, comics, arte
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
+| Subscribers          | 124 |
 | Posts                | 17  |
-| Comments             | 12  |
+| Comments             | 13  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunidad para publicar cualquier cosa (noticias, preguntas, memes, comics, arte
 |----------------------|---|
 | Published            | 2019-08-22 21:00:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:56 |

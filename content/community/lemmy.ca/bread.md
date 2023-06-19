@@ -3,16 +3,16 @@ title: "Bread"
 name: "bread"
 description: "A day without bread is like a day without sun"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bread"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 84
-posts: 4
-comments: 16
-weight: 4
+subscribers: 113
+posts: 8
+comments: 19
+weight: 8
 dau: 5
 wau: 10
 mau: 10
@@ -41,9 +41,9 @@ A day without bread is like a day without sun
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 4  |
-| Comments             | 16  |
+| Subscribers          | 113 |
+| Posts                | 8  |
+| Comments             | 19  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 10  |
 | Monthly Active Users | 10  |
@@ -54,4 +54,4 @@ A day without bread is like a day without sun
 |----------------------|---|
 | Published            | 2023-06-09 18:38:10 |
 | Updated              | 2023-06-09 18:38:22 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

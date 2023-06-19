@@ -3,13 +3,13 @@ title: "Birds Aren't Real"
 name: "birdsarentreal"
 description: "A PLACE ONLY FOR THE MOST WOKE AMONG US. The birds work for the bourgeoisie."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birdsarentreal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 38
+subscribers: 39
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A PLACE ONLY FOR THE MOST WOKE AMONG US. The birds work for the bourgeoisie.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
+| Subscribers          | 39 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A PLACE ONLY FOR THE MOST WOKE AMONG US. The birds work for the bourgeoisie.
 |----------------------|---|
 | Published            | 2021-02-16 09:23:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

@@ -3,7 +3,7 @@ title: "Dads"
 name: "dads"
 description: "A community for dads. Dadvice, dad jokes, soon-to-be dads, grandads, moms. Come and join us. Talk, complain, joke, share, and relish in the company of other dads who know what you're going through!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/dads"
@@ -54,4 +54,4 @@ A community for dads. Dadvice, dad jokes, soon-to-be dads, grandads, moms. Come 
 |----------------------|---|
 | Published            | 2023-06-12 12:18:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:07 |

@@ -3,7 +3,7 @@ title: "ultralight"
 name: "ultralight"
 description: "Overnight wilderness hiking with a pack <10lbs. Ask yourself: Do I really need that?"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultralight"
@@ -54,4 +54,4 @@ Overnight wilderness hiking with a pack <10lbs. Ask yourself: Do I really need t
 |----------------------|---|
 | Published            | 2023-06-15 18:20:04 |
 | Updated              | 2023-06-15 18:25:19 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

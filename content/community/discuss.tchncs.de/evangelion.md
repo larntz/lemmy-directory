@@ -3,13 +3,13 @@ title: "Neon Genesis Evangelion"
 name: "evangelion"
 description: "Evangelion discussion, news, and related content about Khara and merchandise"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/evangelion"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 18
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Evangelion discussion, news, and related content about Khara and merchandise
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 18 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Evangelion discussion, news, and related content about Khara and merchandise
 |----------------------|---|
 | Published            | 2023-06-12 05:36:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

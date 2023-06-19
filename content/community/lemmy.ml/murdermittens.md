@@ -3,7 +3,7 @@ title: "MurderMittens - Catto Claws"
 name: "murdermittens"
 description: "A community dedicated to cats with their claws out, ready for wreckage.RULES:- Claws must be showing.- No text over images.- No NSFW. No gore. No murder.- No cat harassment.- Non-feline murder mittens are welcome.- Be friendly to your fellow humans. "
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/murdermittens"
@@ -54,4 +54,4 @@ A community dedicated to cats with their claws out, ready for wreckage.<br><br><
 |----------------------|---|
 | Published            | 2023-06-06 08:24:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

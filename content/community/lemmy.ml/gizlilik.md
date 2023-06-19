@@ -3,7 +3,7 @@ title: "Gizlilik"
 name: "gizlilik"
 description: "# **Dijital çağda gizlilik ve özgürlük**Turkish privacy subreddit"
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gizlilik"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-01-08 10:52:34 |
 | Updated              | 2022-01-08 13:44:43 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:43 |

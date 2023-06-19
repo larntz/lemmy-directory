@@ -3,7 +3,7 @@ title: "Lemmy für Deutschsprechende"
 name: "dach"
 description: "Gedacht als Equivalent zu /r/de"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dach"
@@ -54,4 +54,4 @@ Gedacht als Equivalent zu /r/de
 |----------------------|---|
 | Published            | 2020-06-25 02:15:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:37:01 |

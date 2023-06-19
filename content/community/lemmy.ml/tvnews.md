@@ -3,13 +3,13 @@ title: "TV News"
 name: "tvnews"
 description: "The place for discussion articles regarding TV schedules, renewals, cancelations, greenlights, etc."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tvnews"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 19
 posts: 13
 comments: 0
 weight: 13
@@ -41,7 +41,7 @@ The place for discussion articles regarding TV schedules, renewals, cancelations
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 19 |
 | Posts                | 13  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The place for discussion articles regarding TV schedules, renewals, cancelations
 |----------------------|---|
 | Published            | 2020-05-11 13:35:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

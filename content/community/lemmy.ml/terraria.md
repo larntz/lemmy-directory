@@ -3,19 +3,19 @@ title: "Terraria"
 name: "terraria"
 description: "A community for the best game in the world, Terraria."
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraria"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 94
-posts: 5
-comments: 15
-weight: 5
+subscribers: 107
+posts: 6
+comments: 18
+weight: 6
 dau: 1
-wau: 2
-mau: 4
+wau: 3
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community for the best game in the world, Terraria.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 94 |
-| Posts                | 5  |
-| Comments             | 15  |
+| Subscribers          | 107 |
+| Posts                | 6  |
+| Comments             | 18  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the best game in the world, Terraria.
 |----------------------|---|
 | Published            | 2023-06-06 02:31:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:43 |

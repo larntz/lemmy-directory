@@ -3,17 +3,17 @@ title: "Productivity"
 name: "productivity"
 description: "Tips & trips to be more productive and get stuff done!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/productivity"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 182
+subscribers: 255
 posts: 8
 comments: 30
 weight: 8
-dau: 5
+dau: 1
 wau: 18
 mau: 18
 instances:
@@ -41,10 +41,10 @@ Tips & trips to be more productive and get stuff done!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 182 |
+| Subscribers          | 255 |
 | Posts                | 8  |
 | Comments             | 30  |
-| Daily Active Users   | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 18  |
 | Monthly Active Users | 18  |
 
@@ -54,4 +54,4 @@ Tips & trips to be more productive and get stuff done!
 |----------------------|---|
 | Published            | 2023-06-12 14:34:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,19 +3,19 @@ title: "Perth"
 name: "perth"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/perth"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 5
-comments: 27
-weight: 5
-dau: 3
+subscribers: 92
+posts: 6
+comments: 37
+weight: 6
+dau: 1
 wau: 14
-mau: 14
+mau: 16
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 5  |
-| Comments             | 27  |
-| Daily Active Users   | 3  |
+| Subscribers          | 92 |
+| Posts                | 6  |
+| Comments             | 37  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Monthly Active Users | 16  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 02:44:02 |
-| Updated              | 2023-06-10 07:13:25 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:29:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

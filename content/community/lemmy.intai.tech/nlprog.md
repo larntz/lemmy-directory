@@ -1,18 +1,18 @@
 ---
-title: "Natural Language Programming | Prompting" 
+title: "Natural Language Programming | Prompting (chatGPT)" 
 name: "nlprog"
 description: "Prompting and Practices"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/nlprog"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 25
-comments: 3
-weight: 25
+subscribers: 17
+posts: 27
+comments: 6
+weight: 27
 dau: 1
 wau: 2
 mau: 2
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Natural Language Programming | Prompting on lemmy.intai.tech
+# /c/Natural Language Programming | Prompting (chatGPT) on lemmy.intai.tech
 
 [[home](/)]
 [[/c/nlprog 🌎](https://lemmy.intai.tech/c/nlprog)]
@@ -41,9 +41,9 @@ Prompting and Practices
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 25  |
-| Comments             | 3  |
+| Subscribers          | 17 |
+| Posts                | 27  |
+| Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -53,5 +53,5 @@ Prompting and Practices
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 04:50:04 |
-| Updated              | 2023-06-13 01:38:52 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-19 05:57:57 |
+| Last Scraped         | 2023-06-19 11:35:16 |

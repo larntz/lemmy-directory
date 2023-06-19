@@ -3,16 +3,16 @@ title: "Radsport - Alles rund um den Profi-Zirkus"
 name: "radsport"
 description: "News und Palaver rund um das Geschehen im professionellen Radsport-Zirkus.**Regeln:**- Be excellent to each other"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/radsport"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
+subscribers: 8
+posts: 3
 comments: 0
-weight: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ News und Palaver rund um das Geschehen im professionellen Radsport-Zirkus.<br><b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
+| Subscribers          | 8 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ News und Palaver rund um das Geschehen im professionellen Radsport-Zirkus.<br><b
 |----------------------|---|
 | Published            | 2023-06-16 12:34:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

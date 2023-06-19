@@ -3,7 +3,7 @@ title: "Hungary"
 name: "hun"
 description: "discussion of hungary-_-"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hun"
@@ -54,4 +54,4 @@ discussion of hungary<br>-_-
 |----------------------|---|
 | Published            | 2022-04-06 16:47:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

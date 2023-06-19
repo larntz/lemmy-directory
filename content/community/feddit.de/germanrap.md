@@ -3,13 +3,13 @@ title: "GermanRap"
 name: "germanrap"
 description: "Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germanrap"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 16 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt.
 |----------------------|---|
 | Published            | 2023-06-14 07:33:21 |
 | Updated              | 2023-06-14 07:34:41 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

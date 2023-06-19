@@ -3,7 +3,7 @@ title: "Aprilia"
 name: "aprilia"
 description: "A place to celebrate Aprilia Motorcycles"
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/aprilia"
@@ -54,4 +54,4 @@ A place to celebrate Aprilia Motorcycles
 |----------------------|---|
 | Published            | 2023-06-15 06:08:42 |
 | Updated              | 2023-06-15 06:26:00 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:26 |

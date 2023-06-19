@@ -3,16 +3,16 @@ title: "Crochet"
 name: "crochet"
 description: "A place for all who enjoy the art of crochet "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/crochet"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 120
-posts: 13
-comments: 55
-weight: 13
+subscribers: 155
+posts: 17
+comments: 84
+weight: 17
 dau: 5
 wau: 19
 mau: 19
@@ -41,9 +41,9 @@ A place for all who enjoy the art of crochet
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 120 |
-| Posts                | 13  |
-| Comments             | 55  |
+| Subscribers          | 155 |
+| Posts                | 17  |
+| Comments             | 84  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 19  |
 | Monthly Active Users | 19  |
@@ -54,4 +54,4 @@ A place for all who enjoy the art of crochet
 |----------------------|---|
 | Published            | 2023-06-07 17:34:47 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "Model Makers"
 name: "modelmakers"
 description: "WIP community dedicated to the hobby of plastic model kit building and painting.Gunpla, Warhammer, RPG minis, model cars/planes/trains, all is welcome! Share your latest builds/WIPs and discuss the art of plastic model building!**Rules**-Be kind!-Credit the builder"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modelmakers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 25
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ WIP community dedicated to the hobby of plastic model kit building and painting.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 25 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ WIP community dedicated to the hobby of plastic model kit building and painting.
 |----------------------|---|
 | Published            | 2023-06-11 02:51:11 |
 | Updated              | 2023-06-11 05:06:52 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

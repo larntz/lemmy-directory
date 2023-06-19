@@ -3,13 +3,13 @@ title: "StockMarket"
 name: "stockmarket"
 description: "Stock market news, Trading, investing, long term, short term traders, daytrading, technical analysis, fundamental analysis and more."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stockmarket"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 27
 posts: 8
 comments: 0
 weight: 8
@@ -41,7 +41,7 @@ Stock market news, Trading, investing, long term, short term traders, daytrading
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 27 |
 | Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Stock market news, Trading, investing, long term, short term traders, daytrading
 |----------------------|---|
 | Published            | 2020-08-26 16:26:05 |
 | Updated              | 2020-08-26 16:27:30 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:44 |

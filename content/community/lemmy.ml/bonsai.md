@@ -3,13 +3,13 @@ title: "Bonsai (盆栽)"
 name: "bonsai"
 description: "Bonsai is a Japanese art form which utilizes cultivation techniques to produce, in containers, small trees that mimic the shape and scale of full size trees. Similar practices exist in other cultures, including the Chinese tradition of penzai or penjing from which the art originated, and the miniature living landscapes of Vietnamese Hòn non bộ. The Japanese tradition dates back over a thousand years.We also have a Matrix room: #bonsai:matrix.org"
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bonsai"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 55
+subscribers: 58
 posts: 2
 comments: 17
 weight: 2
@@ -41,7 +41,7 @@ Bonsai is a Japanese art form which utilizes cultivation techniques to produce, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 55 |
+| Subscribers          | 58 |
 | Posts                | 2  |
 | Comments             | 17  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Bonsai is a Japanese art form which utilizes cultivation techniques to produce, 
 |----------------------|---|
 | Published            | 2020-11-25 10:36:46 |
 | Updated              | 2021-06-28 18:35:51 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

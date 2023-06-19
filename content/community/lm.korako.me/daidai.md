@@ -3,16 +3,16 @@ title: "ドラゴンクエストダイの大冒険"
 name: "daidai"
 description: "[デルムリン丼](https://mstdn.delmulin.com)のブックマーク等。"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/daidai"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2750
+posts: 2761
 comments: 0
-weight: 2750
+weight: 2761
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2750  |
+| Posts                | 2761  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-13 07:45:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

@@ -3,19 +3,19 @@ title: "test"
 name: "test"
 description: "This is a community for testing various functionality including bots, moderator actions, and other features."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/test"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 9
-comments: 2
-weight: 9
+subscribers: 3
+posts: 10
+comments: 10
+weight: 10
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "fanaticus_social"
 tags: 
@@ -41,12 +41,12 @@ This is a community for testing various functionality including bots, moderator 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 9  |
-| Comments             | 2  |
+| Subscribers          | 3 |
+| Posts                | 10  |
+| Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a community for testing various functionality including bots, moderator 
 |----------------------|---|
 | Published            | 2023-06-11 16:40:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

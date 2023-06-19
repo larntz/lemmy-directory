@@ -3,7 +3,7 @@ title: "luckystarr"
 name: "luckystarr"
 description: "If it interests me, it should interest you.Anything I like and want to remember.Anything you unknowingly wanted to know for a long time."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/luckystarr"
@@ -54,4 +54,4 @@ If it interests me, it should interest you.<br><br>Anything I like and want to r
 |----------------------|---|
 | Published            | 2023-06-12 20:23:28 |
 | Updated              | 2023-06-12 20:31:57 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

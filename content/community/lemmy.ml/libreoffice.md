@@ -3,13 +3,13 @@ title: "LibreOffice"
 name: "libreoffice"
 description: "Community to discuss LibreOffice, new features, etc.You can also discuss Apache OpenOffice here."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libreoffice"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 234
+subscribers: 238
 posts: 99
 comments: 29
 weight: 99
@@ -41,7 +41,7 @@ Community to discuss LibreOffice, new features, etc.<br>You can also discuss Apa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 234 |
+| Subscribers          | 238 |
 | Posts                | 99  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community to discuss LibreOffice, new features, etc.<br>You can also discuss Apa
 |----------------------|---|
 | Published            | 2021-01-14 17:21:19 |
 | Updated              | 2021-11-29 16:30:44 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:46 |

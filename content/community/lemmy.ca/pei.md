@@ -3,16 +3,16 @@ title: "Prince Edward Island"
 name: "pei"
 description: "Just a small place for residents of Prince Edward Island to talk about the news and issues facing our province, share photos, suggest places to eat and anything else PEI related you'd like to post"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pei"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 6
+subscribers: 16
+posts: 7
 comments: 12
-weight: 6
+weight: 7
 dau: 3
 wau: 6
 mau: 6
@@ -41,8 +41,8 @@ Just a small place for residents of Prince Edward Island to talk about the news 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 6  |
+| Subscribers          | 16 |
+| Posts                | 7  |
 | Comments             | 12  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 6  |
@@ -54,4 +54,4 @@ Just a small place for residents of Prince Edward Island to talk about the news 
 |----------------------|---|
 | Published            | 2023-06-09 00:46:53 |
 | Updated              | 2023-06-09 00:58:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

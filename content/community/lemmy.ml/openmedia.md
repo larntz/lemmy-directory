@@ -3,13 +3,13 @@ title: "Open Media"
 name: "openmedia"
 description: "A place for **open-source software** and discourse surrounding the media industry."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openmedia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 92
+subscribers: 94
 posts: 3
 comments: 19
 weight: 3
@@ -41,7 +41,7 @@ A place for **open-source software** and discourse surrounding the media industr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 92 |
+| Subscribers          | 94 |
 | Posts                | 3  |
 | Comments             | 19  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for **open-source software** and discourse surrounding the media industr
 |----------------------|---|
 | Published            | 2022-03-13 12:52:38 |
 | Updated              | 2022-03-13 13:23:02 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

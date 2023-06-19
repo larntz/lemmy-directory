@@ -3,19 +3,19 @@ title: "Cum Haters"
 name: "cumhaters"
 description: "Women who really don't look like they want to take that facial."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cumhaters"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 210
-posts: 24
+subscribers: 315
+posts: 30
 comments: 3
-weight: 24
+weight: 30
 dau: 1
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Women who really don't look like they want to take that facial.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 210 |
-| Posts                | 24  |
+| Subscribers          | 315 |
+| Posts                | 30  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -56,4 +56,4 @@ Women who really don't look like they want to take that facial.
 |----------------------|---|
 | Published            | 2023-06-13 13:24:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

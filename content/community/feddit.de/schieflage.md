@@ -3,13 +3,13 @@ title: "Schieflage"
 name: "schieflage"
 description: "Forum zum Projekt Schieflage"
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/schieflage"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Forum zum Projekt Schieflage
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Forum zum Projekt Schieflage
 |----------------------|---|
 | Published            | 2023-04-16 12:07:19 |
 | Updated              | 2023-04-16 16:32:12 |
-| Last Scraped         | 2023-06-16 11:06:39 |
+| Last Scraped         | 2023-06-19 11:35:39 |

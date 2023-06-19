@@ -3,19 +3,19 @@ title: "Animemes"
 name: "animemes"
 description: "A place for anime memes! Still a WIPA backup community in the event Reddit goes downhill even further. Join and post on this outpost if you'd like to contribute!**Provisional Rules**- Memes are encouraged to be related to weeb culture and should make an attempt at humor. Humor is subjective, of course, but at least try to make an attempt. Meta references are allowed.- No politics, karma whoring, advertising/promotion, or keyboard fights. Take your drama elsewhere.- Include the anime/source name in the title (*e.g. [Anime Name] Meme title*). There is currently no functionality to flair spoilers, so viewers are to exercise their discretion in opening posts.- **NSFW rule: Mark your post as NSFW if it contains explicit sex or gratuitous nudity. When in doubt, NSFW it for the browsing safety of your fellow users.**"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/animemes"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 30
+subscribers: 41
 posts: 8
-comments: 22
+comments: 24
 weight: 8
-dau: 2
-wau: 6
-mau: 6
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ A place for anime memes! Still a WIP<br><br>A backup community in the event Redd
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
+| Subscribers          | 41 |
 | Posts                | 8  |
-| Comments             | 22  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Comments             | 24  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for anime memes! Still a WIP<br><br>A backup community in the event Redd
 |----------------------|---|
 | Published            | 2023-06-11 12:42:47 |
 | Updated              | 2023-06-16 17:33:07 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

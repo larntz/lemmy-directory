@@ -3,19 +3,19 @@ title: "kpop"
 name: "kpop"
 description: "For all things kpop!"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kpop"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 7
-comments: 8
-weight: 7
-dau: 2
-wau: 3
-mau: 3
+subscribers: 34
+posts: 10
+comments: 14
+weight: 10
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For all things kpop!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 7  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 34 |
+| Posts                | 10  |
+| Comments             | 14  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ For all things kpop!
 |----------------------|---|
 | Published            | 2023-06-15 15:58:44 |
 | Updated              | 2023-06-16 14:13:13 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

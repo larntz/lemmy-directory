@@ -3,17 +3,17 @@ title: "Language Learning"
 name: "languagelearning"
 description: "A community all about learning languages!Other Lemmy language communities: [Japanese](https://sopuli.xyz/c/japaneselanguage) [Chinese](https://sopuli.xyz/c/chinese@lemmy.ml)[Duolingo](https://sopuli.xyz/c/duolingo@lemmy.ml)Other communities outside Lemmy:[Unilang](https://forum.unilang.org) [A language learners' forum](https://forum.language-learners.org/) "
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/languagelearning"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 50
+subscribers: 64
 posts: 6
-comments: 24
+comments: 27
 weight: 6
-dau: 2
+dau: 1
 wau: 7
 mau: 7
 instances:
@@ -41,10 +41,10 @@ A community all about learning languages!<br><br>Other Lemmy language communitie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 50 |
+| Subscribers          | 64 |
 | Posts                | 6  |
-| Comments             | 24  |
-| Daily Active Users   | 2  |
+| Comments             | 27  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
 
@@ -54,4 +54,4 @@ A community all about learning languages!<br><br>Other Lemmy language communitie
 |----------------------|---|
 | Published            | 2023-06-10 20:59:59 |
 | Updated              | 2023-06-16 18:41:33 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

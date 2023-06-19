@@ -3,16 +3,16 @@ title: "LEMMiNO"
 name: "lemmino"
 description: "Official community for LEMMiNO."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmino"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
+subscribers: 5
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Official community for LEMMiNO.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
+| Subscribers          | 5 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Official community for LEMMiNO.
 |----------------------|---|
 | Published            | 2023-06-09 00:29:33 |
 | Updated              | 2023-06-09 00:32:25 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-19 11:36:43 |

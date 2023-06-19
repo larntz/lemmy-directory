@@ -3,7 +3,7 @@ title: "Hamm (Westfalen)"
 name: "hamm"
 description: "Eine Gemeinschaft für die Stadt Hamm. Schreibt etwas nettes über die Stadt oder kotzt Euch über sie aus. Gründe gibt es genug."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hamm"
@@ -54,4 +54,4 @@ Eine Gemeinschaft für die Stadt Hamm. Schreibt etwas nettes über die Stadt ode
 |----------------------|---|
 | Published            | 2023-06-12 10:07:35 |
 | Updated              | 2023-06-15 08:58:55 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

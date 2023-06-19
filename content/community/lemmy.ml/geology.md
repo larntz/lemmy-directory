@@ -1,15 +1,15 @@
 ---
 title: "geology" 
 name: "geology"
-description: "A community devoted to all things Geology"
+description: "A community devoted to learning about geology."
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geology"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 1
 weight: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community devoted to all things Geology
+A community devoted to learning about geology.
 </blockquote>
 
 
@@ -41,7 +41,7 @@ A community devoted to all things Geology
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ A community devoted to all things Geology
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 19:29:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Updated              | 2023-06-17 02:33:46 |
+| Last Scraped         | 2023-06-19 11:36:47 |

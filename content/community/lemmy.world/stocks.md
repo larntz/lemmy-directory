@@ -3,19 +3,19 @@ title: "Stocks"
 name: "stocks"
 description: "A community for discussing stocks.Rules:1. No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).2. Be respectful. Everyone should feel welcome here.3. No NSFW content.4. No Ads / Spamming.5. **Be thoughtful and helpful**: even with ‘stupid’ questions. The world won’t be made better or worse by snarky comments schooling naive newcomers on Lemmy."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stocks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 79
-posts: 24
-comments: 7
-weight: 24
-dau: 3
-wau: 6
-mau: 6
+subscribers: 106
+posts: 25
+comments: 8
+weight: 25
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for discussing stocks.<br><br>Rules:<br>1. No bigotry: Including rac
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 24  |
-| Comments             | 7  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 106 |
+| Posts                | 25  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for discussing stocks.<br><br>Rules:<br>1. No bigotry: Including rac
 |----------------------|---|
 | Published            | 2023-06-12 05:53:27 |
 | Updated              | 2023-06-14 04:35:45 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

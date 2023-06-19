@@ -3,19 +3,19 @@ title: "Red Sox"
 name: "redsox"
 description: "Cloned from [r/RedSox](https://old.reddit.com/r/RedSox)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/redsox"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 16
+posts: 5
+comments: 2
+weight: 5
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "fanaticus_social"
 tags: 
@@ -41,12 +41,12 @@ Cloned from [r/RedSox](https://old.reddit.com/r/RedSox)<br><br># Looking for mod
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 16 |
+| Posts                | 5  |
+| Comments             | 2  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cloned from [r/RedSox](https://old.reddit.com/r/RedSox)<br><br># Looking for mod
 |----------------------|---|
 | Published            | 2023-06-09 17:12:43 |
 | Updated              | 2023-06-12 16:48:21 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

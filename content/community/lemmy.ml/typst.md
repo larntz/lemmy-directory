@@ -3,13 +3,13 @@ title: "typst"
 name: "typst"
 description: "A sleek, cli typography program."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typst"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ A sleek, cli typography program.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A sleek, cli typography program.
 |----------------------|---|
 | Published            | 2023-05-18 16:53:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

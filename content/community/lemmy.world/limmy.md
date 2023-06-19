@@ -3,19 +3,19 @@ title: "Limmy on Lemmy"
 name: "limmy"
 description: "For fans of Scottish comedian/streamer Brian Limmy Limond.I am a fan of Limmy and made this for the meme of it_____________________________________________________Limmy's socials:* [Twtich](https://www.twitch.tv/limmy)* [Twitter](https://twitter.com/DaftLimmy)* [Youtube](https://www.youtube.com/@DaftLimmy)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/limmy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 2
-mau: 2
+subscribers: 23
+posts: 3
+comments: 2
+weight: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ For fans of Scottish comedian/streamer Brian Limmy Limond.<br><br>I am a fan of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 23 |
+| Posts                | 3  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ For fans of Scottish comedian/streamer Brian Limmy Limond.<br><br>I am a fan of 
 |----------------------|---|
 | Published            | 2023-06-13 15:15:16 |
 | Updated              | 2023-06-13 16:55:05 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

@@ -3,19 +3,19 @@ title: "jellyfish"
 name: "jellyfish"
 description: "A place to discuss and appreciate jellyfish!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jellyfish"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 5
-comments: 3
-weight: 5
-dau: 3
-wau: 3
-mau: 3
+subscribers: 23
+posts: 8
+comments: 4
+weight: 8
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss and appreciate jellyfish!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 23 |
+| Posts                | 8  |
+| Comments             | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss and appreciate jellyfish!
 |----------------------|---|
 | Published            | 2023-06-14 04:37:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

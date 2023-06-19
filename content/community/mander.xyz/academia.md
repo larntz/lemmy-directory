@@ -3,19 +3,19 @@ title: "Academia"
 name: "academia"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/academia"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 84
-posts: 8
-comments: 6
-weight: 8
-dau: 1
-wau: 4
-mau: 4
+subscribers: 121
+posts: 18
+comments: 18
+weight: 18
+dau: 5
+wau: 12
+mau: 14
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 8  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 121 |
+| Posts                | 18  |
+| Comments             | 18  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-02-03 22:26:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

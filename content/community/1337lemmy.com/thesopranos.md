@@ -3,15 +3,15 @@ title: "The Sopranos"
 name: "thesopranos"
 description: "Lemmy community dedicated to the HBO hit TV series, The Sopranos."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/thesopranos"
 host: 1337lemmy.com
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 3
-comments: 8
+comments: 9
 weight: 3
 dau: 4
 wau: 5
@@ -41,9 +41,9 @@ Lemmy community dedicated to the HBO hit TV series, The Sopranos.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 3  |
-| Comments             | 8  |
+| Comments             | 9  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ Lemmy community dedicated to the HBO hit TV series, The Sopranos.
 |----------------------|---|
 | Published            | 2023-06-05 23:52:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

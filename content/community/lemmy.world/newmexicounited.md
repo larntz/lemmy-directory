@@ -3,7 +3,7 @@ title: "New Mexico United"
 name: "newmexicounited"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newmexicounited"
@@ -14,7 +14,7 @@ posts: 4
 comments: 0
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 23:27:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

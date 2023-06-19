@@ -3,13 +3,13 @@ title: "Linux"
 name: "linux"
 description: "Everyone's favourite penguin-powered OS!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/linux"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Everyone's favourite penguin-powered OS!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Everyone's favourite penguin-powered OS!
 |----------------------|---|
 | Published            | 2023-06-08 20:20:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

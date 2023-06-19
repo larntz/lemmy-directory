@@ -3,19 +3,19 @@ title: "Utah Jazz"
 name: "utahjazz"
 description: "Community dedicated to the discussion and fandom of the Utah Jazz, NBA Franchise team, and players. #TakeNote"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/utahjazz"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 0
+subscribers: 11
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community dedicated to the discussion and fandom of the Utah Jazz, NBA Franchise
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
+| Subscribers          | 11 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community dedicated to the discussion and fandom of the Utah Jazz, NBA Franchise
 |----------------------|---|
 | Published            | 2023-06-12 20:59:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-19 11:36:38 |

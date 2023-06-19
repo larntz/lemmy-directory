@@ -3,16 +3,16 @@ title: "Corrupt Politicians"
 name: "corruptpoliticians"
 description: "Share and discuss reports of Corrupt Politicians and political practices."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/corruptpoliticians"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 396
+subscribers: 31
+posts: 398
 comments: 84
-weight: 396
+weight: 398
 dau: 1
 wau: 1
 mau: 3
@@ -41,8 +41,8 @@ Share and discuss reports of Corrupt Politicians and political practices.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 396  |
+| Subscribers          | 31 |
+| Posts                | 398  |
 | Comments             | 84  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Share and discuss reports of Corrupt Politicians and political practices.
 |----------------------|---|
 | Published            | 2022-02-27 21:27:07 |
 | Updated              | 2022-03-13 00:50:30 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

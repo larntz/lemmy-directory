@@ -3,16 +3,16 @@ title: "signs"
 name: "signs"
 description: "signs of all kinds, whether shitty, funny, well-designed, or whatever::: spoiler rules1. must be a sign___:::Proudly moderated by![](https://lemmy.ml/pictrs/image/d1730102-1e16-408c-be73-ad4258fc4732.png)"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/signs"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 21
+subscribers: 11
+posts: 22
 comments: 2
-weight: 21
+weight: 22
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ signs of all kinds, whether shitty, funny, well-designed, or whatever<br><br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 21  |
+| Subscribers          | 11 |
+| Posts                | 22  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ signs of all kinds, whether shitty, funny, well-designed, or whatever<br><br><br
 |----------------------|---|
 | Published            | 2023-06-09 12:44:22 |
 | Updated              | 2023-06-11 21:36:11 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:47 |

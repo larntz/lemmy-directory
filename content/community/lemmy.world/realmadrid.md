@@ -3,16 +3,16 @@ title: "Real Madrid"
 name: "realmadrid"
 description: "Home of the 14 times European Champions. Hala Madrid!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realmadrid"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 4
+subscribers: 6
+posts: 11
 comments: 0
-weight: 4
+weight: 11
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Home of the 14 times European Champions. Hala Madrid!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 4  |
+| Subscribers          | 6 |
+| Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Home of the 14 times European Champions. Hala Madrid!
 |----------------------|---|
 | Published            | 2023-06-15 10:17:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

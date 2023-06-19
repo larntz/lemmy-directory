@@ -3,19 +3,19 @@ title: "Fediverse"
 name: "fediverse"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/fediverse"
 host: bolha.social
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 19
 posts: 5
 comments: 12
 weight: 5
 dau: 2
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "bolha_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 19 |
 | Posts                | 5  |
 | Comments             | 12  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-21 11:35:08 |
 | Updated              | 2022-12-21 11:36:11 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

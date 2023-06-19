@@ -3,13 +3,13 @@ title: "History"
 name: "history"
 description: "This is the general history subcom. Anything relating to history is welcome here. Doesn't have to be Marxist, though it certainly can be. So join in on the discussion and let's learn more. "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/history"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 139
+subscribers: 142
 posts: 70
 comments: 58
 weight: 70
@@ -41,7 +41,7 @@ This is the general history subcom. Anything relating to history is welcome here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
+| Subscribers          | 142 |
 | Posts                | 70  |
 | Comments             | 58  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ This is the general history subcom. Anything relating to history is welcome here
 |----------------------|---|
 | Published            | 2020-07-23 16:00:57 |
 | Updated              | 2021-06-27 16:08:10 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

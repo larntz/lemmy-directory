@@ -3,13 +3,13 @@ title: "Pozilei"
 name: "pozilei"
 description: "Ihr wisst selbst, warum Ihr hier seid."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pozilei"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Ihr wisst selbst, warum Ihr hier seid.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Ihr wisst selbst, warum Ihr hier seid.
 |----------------------|---|
 | Published            | 2023-06-14 19:22:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,13 +3,13 @@ title: "Stalin? Get the tanks!"
 name: "stalingetthetanks"
 description: "For when you see fashie shit in ex-Eastern-Bloc countries"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stalingetthetanks"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
+subscribers: 35
 posts: 4
 comments: 23
 weight: 4
@@ -41,7 +41,7 @@ For when you see fashie shit in ex-Eastern-Bloc countries
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
+| Subscribers          | 35 |
 | Posts                | 4  |
 | Comments             | 23  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For when you see fashie shit in ex-Eastern-Bloc countries
 |----------------------|---|
 | Published            | 2022-10-19 19:59:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

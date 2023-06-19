@@ -3,19 +3,19 @@ title: "FlipperZero"
 name: "flipperzero"
 description: "Flipper Zero is a portable multi-tool for pentesters and geeks in Tamagotchi body. It loves to hack digital stuff around such as radio protocols, access control systems, hardware and more. It's fully opensource and customizable so you can extend it in whatever way you like."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:12"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/flipperzero"
 host: discuss.online
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 0
+subscribers: 4
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "discuss_online"
 tags: 
@@ -41,12 +41,12 @@ Flipper Zero is a portable multi-tool for pentesters and geeks in Tamagotchi bod
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
+| Subscribers          | 4 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Flipper Zero is a portable multi-tool for pentesters and geeks in Tamagotchi bod
 |----------------------|---|
 | Published            | 2023-06-16 20:37:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:12 |

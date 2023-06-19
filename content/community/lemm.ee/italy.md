@@ -3,13 +3,13 @@ title: "italy"
 name: "italy"
 description: "Lemmy Italy - Italia Welcome everyone! This is a place to post and discuss anything related to Italy. We also speak English!"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/italy"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Lemmy Italy - Italia Welcome everyone! This is a place to post and discuss anyth
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Lemmy Italy - Italia Welcome everyone! This is a place to post and discuss anyth
 |----------------------|---|
 | Published            | 2023-06-14 14:52:38 |
 | Updated              | 2023-06-14 14:53:36 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,7 +3,7 @@ title: "Julia programming language"
 name: "julia"
 description: "Community for Julia programming language."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/julia"
@@ -54,4 +54,4 @@ Community for Julia programming language.
 |----------------------|---|
 | Published            | 2020-04-25 08:12:47 |
 | Updated              | 2021-12-13 20:25:24 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:58 |

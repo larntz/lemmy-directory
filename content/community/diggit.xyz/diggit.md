@@ -3,7 +3,7 @@ title: "Diggit"
 name: "diggit"
 description: "The official Diggit community. Your go-to place for Diggit updates, announcements, and news."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/diggit"
@@ -13,8 +13,8 @@ subscribers: 5
 posts: 5
 comments: 16
 weight: 5
-dau: 2
-wau: 5
+dau: 1
+wau: 3
 mau: 5
 instances:
 - "diggit_xyz"
@@ -44,8 +44,8 @@ The official Diggit community. Your go-to place for Diggit updates, announcement
 | Subscribers          | 5 |
 | Posts                | 5  |
 | Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ The official Diggit community. Your go-to place for Diggit updates, announcement
 |----------------------|---|
 | Published            | 2023-06-11 07:41:02 |
 | Updated              | 2023-06-11 07:41:14 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

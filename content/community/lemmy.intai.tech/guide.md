@@ -1,15 +1,15 @@
 ---
-title: "Guides | How To" 
+title: "Artificial Intelligence - Guides | How To" 
 name: "guide"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/guide"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 14
 posts: 10
 comments: 1
 weight: 10
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Guides | How To on lemmy.intai.tech
+# /c/Artificial Intelligence - Guides | How To on lemmy.intai.tech
 
 [[home](/)]
 [[/c/guide 🌎](https://lemmy.intai.tech/c/guide)]
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 14 |
 | Posts                | 10  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 01:58:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 20:06:25 |
+| Last Scraped         | 2023-06-19 11:35:16 |

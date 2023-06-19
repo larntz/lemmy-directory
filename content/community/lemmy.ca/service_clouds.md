@@ -3,13 +3,13 @@ title: "Service Clouds: AWS, Azure, GCP, etc."
 name: "service_clouds"
 description: "A community for discussions related to all cloud service providers and the tools of the trade.**Related Communities:**Platforms- [Kubernetes](https://lemmy.ca/c/kubernetes@lemmy.ml)Infrastructure Orchestration- [Terraform](https://lemmy.ml/c/terraform)Programming- [Powershell](https://programming.dev/c/powershell)- [Python](https://lemmy.ca/c/python@programming.dev)- [Go](https://lemmy.ca/c/golang@lemmy.ml)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/service_clouds"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 10
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ A community for discussions related to all cloud service providers and the tools
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community for discussions related to all cloud service providers and the tools
 |----------------------|---|
 | Published            | 2023-06-16 07:15:32 |
 | Updated              | 2023-06-16 08:34:39 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

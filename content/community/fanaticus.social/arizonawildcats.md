@@ -3,7 +3,7 @@ title: "Arizona Wildcats"
 name: "arizonawildcats"
 description: "A community to discuss Arizona Wildcats athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/arizonawildcats"
@@ -54,4 +54,4 @@ A community to discuss Arizona Wildcats athletics.<br><br>**Looking for Mods!**
 |----------------------|---|
 | Published            | 2023-06-14 23:12:57 |
 | Updated              | 2023-06-15 00:18:18 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,7 +3,7 @@ title: "American Girl Dolls"
 name: "americangirl"
 description: "Rules: No racism, homophobia, transphobia, or harassment"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/americangirl"
@@ -54,4 +54,4 @@ Rules: No racism, homophobia, transphobia, or harassment
 |----------------------|---|
 | Published            | 2023-06-10 01:10:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

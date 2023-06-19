@@ -3,13 +3,13 @@ title: "Hamilton Ontario"
 name: "hamilton"
 description: "Community for Hamilton Ontario"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hamilton"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for Hamilton Ontario
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for Hamilton Ontario
 |----------------------|---|
 | Published            | 2023-06-12 09:12:42 |
 | Updated              | 2023-06-12 09:13:21 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,7 +3,7 @@ title: "Mototcycles"
 name: "motorcycles"
 description: "This community is for all things motorcycle related. At a later point and with enough traction gained, we can branch out into multiple smaller and more specific communities, but for now I am trying to recreate one of the subreddits that I miss the most. "
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/motorcycles"
@@ -14,7 +14,7 @@ posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_de"
@@ -45,7 +45,7 @@ This community is for all things motorcycle related. At a later point and with e
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ This community is for all things motorcycle related. At a later point and with e
 |----------------------|---|
 | Published            | 2023-06-11 16:04:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

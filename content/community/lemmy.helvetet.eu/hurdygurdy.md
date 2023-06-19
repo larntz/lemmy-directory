@@ -3,13 +3,13 @@ title: "Hurdy Gurdy"
 name: "hurdygurdy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/hurdygurdy"
 host: lemmy.helvetet.eu
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 8
 comments: 0
 weight: 8
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-03-30 19:53:06 |
 | Updated              | 2023-03-31 15:49:17 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,7 +3,7 @@ title: "mail clients"
 name: "mail"
 description: "mail clients/readers (also news/usenet, self-hosting)"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/mail"
@@ -54,4 +54,4 @@ mail clients/readers (also news/usenet, self-hosting)
 |----------------------|---|
 | Published            | 2023-06-12 19:29:13 |
 | Updated              | 2023-06-15 07:14:30 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

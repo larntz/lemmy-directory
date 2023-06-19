@@ -3,18 +3,18 @@ title: "TeslaMotors"
 name: "teslamotors"
 description: "Tesla (formerly Tesla Motors) is a tech company based in Palo Alto, California with a mission to accelerate the world's transition to sustainable energy. Developing products across the complete energy life cycle, from solar production and battery storage, to all-electric vehicles heavily focused on autonomy."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teslamotors"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 65
-posts: 5
+subscribers: 76
+posts: 6
 comments: 0
-weight: 5
+weight: 6
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Tesla (formerly Tesla Motors) is a tech company based in Palo Alto, California w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
-| Posts                | 5  |
+| Subscribers          | 76 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Tesla (formerly Tesla Motors) is a tech company based in Palo Alto, California w
 |----------------------|---|
 | Published            | 2020-08-24 15:46:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

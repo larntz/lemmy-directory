@@ -3,18 +3,18 @@ title: "Oregon"
 name: "oregon"
 description: "Oregon's Lemmy Community."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oregon"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 68
 posts: 2
 comments: 2
 weight: 2
 dau: 3
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ Oregon's Lemmy Community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 68 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Oregon's Lemmy Community.
 |----------------------|---|
 | Published            | 2023-06-11 22:45:23 |
 | Updated              | 2023-06-12 00:19:35 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

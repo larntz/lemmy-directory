@@ -3,13 +3,13 @@ title: "DJI"
 name: "dji"
 description: "A community for discussion of all things related to DJI drones and equipment.Rules:- No hate speech, racism, sexism, bigotry, homophobia, etc- No spamming or advertising- No NSFW- Be respectful- No advocating not following local drone laws"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dji"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A community for discussion of all things related to DJI drones and equipment.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 17 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussion of all things related to DJI drones and equipment.<br
 |----------------------|---|
 | Published            | 2023-06-10 21:42:01 |
 | Updated              | 2023-06-11 04:53:03 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

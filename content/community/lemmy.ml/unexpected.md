@@ -3,13 +3,13 @@ title: "Unexpected !?"
 name: "unexpected"
 description: "This community  is for unexpected twists in videos and gifs"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unexpected"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 99
+subscribers: 110
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ This community  is for unexpected twists in videos and gifs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 99 |
+| Subscribers          | 110 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This community  is for unexpected twists in videos and gifs
 |----------------------|---|
 | Published            | 2021-03-07 09:43:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

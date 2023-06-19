@@ -3,7 +3,7 @@ title: "Plain Text Accounting"
 name: "plaintextaccounting"
 description: "Ledger, hledger, Beancount, etc."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/plaintextaccounting"
@@ -54,4 +54,4 @@ Ledger, hledger, Beancount, etc.
 |----------------------|---|
 | Published            | 2023-06-16 13:02:17 |
 | Updated              | 2023-06-16 13:09:07 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

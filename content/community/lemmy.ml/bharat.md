@@ -3,7 +3,7 @@ title: "भारत"
 name: "bharat"
 description: "नमस्कार ।  Country community by/of/for Indians/desis/bhartiyas/whatever else we are known as.  Rules : polite and do not spam."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bharat"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-06-12 23:59:38 |
 | Updated              | 2022-09-30 18:38:26 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

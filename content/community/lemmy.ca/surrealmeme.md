@@ -3,13 +3,13 @@ title: "Surreal meme"
 name: "surrealmeme"
 description: "Only surreal meme"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrealmeme"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ Only surreal meme
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Only surreal meme
 |----------------------|---|
 | Published            | 2023-06-14 13:03:08 |
 | Updated              | 2023-06-14 19:50:52 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

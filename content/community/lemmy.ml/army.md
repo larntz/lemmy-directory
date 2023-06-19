@@ -3,7 +3,7 @@ title: "army"
 name: "army"
 description: "Not a direct mirror of https://www.reddit.com/r/army/ but providing an Army community on lemmyIf your post could be answered by your NCO or Google, do that first.Ensure your posts encourage discussion. No non-army memes, low effort posts, reposts or crossposts This is not a pro-military circlejerk, but please have some sources to base the more controversial topics on.We don't all know what a 12V or a 35Q or a 94L is. Post the description along with your obscure MOS code."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/army"
@@ -54,4 +54,4 @@ Not a direct mirror of https://www.reddit.com/r/army/ but providing an Army comm
 |----------------------|---|
 | Published            | 2021-11-07 01:27:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,7 +3,7 @@ title: "Հայաստան"
 name: "armenia"
 description: "## Join* [#hayastan:matrix.org](https://matrix.to/#/#hayastan:matrix.org)"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/armenia"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-07-17 06:11:54 |
 | Updated              | 2022-07-17 06:18:08 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:55 |

@@ -1,21 +1,21 @@
 ---
 title: "FutaCum" 
 name: "futacum"
-description: "Rules:1: Post must contain Futanari 2: Post must contain cum (Precum counts if clearly visible)3: No Ai generated art4: No spam5: Lolli is discouraged"
+description: "Rules:1: Post must contain Futanari 2: Post must contain cum (Precum counts if clearly visible)3: No Ai generated art4: No spam5: No Lolli Contetn"
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/futacum"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 24
-posts: 8
-comments: 0
-weight: 8
-dau: 1
-wau: 1
-mau: 1
+subscribers: 104
+posts: 31
+comments: 1
+weight: 31
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -35,7 +35,7 @@ tags:
 ## Description 
 🚨 NSFW 🚨
 <blockquote class="description">
-Rules:<br>1: Post must contain Futanari <br>2: Post must contain cum (Precum counts if clearly visible)<br>3: No Ai generated art<br>4: No spam<br>5: Lolli is discouraged
+Rules:<br>1: Post must contain Futanari <br>2: Post must contain cum (Precum counts if clearly visible)<br>3: No Ai generated art<br>4: No spam<br>5: No Lolli Contetn
 </blockquote>
 
 
@@ -43,17 +43,17 @@ Rules:<br>1: Post must contain Futanari <br>2: Post must contain cum (Precum cou
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 104 |
+| Posts                | 31  |
+| Comments             | 1  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 02:21:55 |
-| Updated              | 2023-06-16 18:09:07 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Updated              | 2023-06-18 20:53:14 |
+| Last Scraped         | 2023-06-19 11:35:45 |

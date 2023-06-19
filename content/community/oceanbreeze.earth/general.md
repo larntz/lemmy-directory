@@ -3,7 +3,7 @@ title: "general"
 name: "general"
 description: "anything goes"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/general"
@@ -14,7 +14,7 @@ posts: 9
 comments: 0
 weight: 9
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "oceanbreeze_earth"
@@ -45,7 +45,7 @@ anything goes
 | Posts                | 9  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ anything goes
 |----------------------|---|
 | Published            | 2023-06-09 21:55:39 |
 | Updated              | 2023-06-09 21:55:54 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

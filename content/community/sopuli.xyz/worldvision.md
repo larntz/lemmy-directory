@@ -3,7 +3,7 @@ title: "Worldvision"
 name: "worldvision"
 description: "A community to share non-internationally famous songs.Rules: 1. No English songs2. No songs which are worldwide famous.Una comunidad para anunciar músicas no internacionalmente famosasReglas: 1. Sin músicas inglesas2. Sin músicas qui son famosas a través del mundoKomunumo por anonci muzikojn ne internacie famajnReguloj: 1. Neniu muziko anglalingve2. Neniu muziko internacie fama"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/worldvision"
@@ -54,4 +54,4 @@ A community to share non-internationally famous songs.<br>Rules: 1. No English s
 |----------------------|---|
 | Published            | 2023-06-03 10:53:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

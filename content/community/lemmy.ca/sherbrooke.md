@@ -3,7 +3,7 @@ title: "Sherbrooke"
 name: "sherbrooke"
 description: "Communauté de la ville de Sherbrooke"
 type: community
-date: "2023-06-16 11:06:37"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/sherbrooke"
@@ -54,4 +54,4 @@ Communauté de la ville de Sherbrooke
 |----------------------|---|
 | Published            | 2023-06-12 00:25:16 |
 | Updated              | 2023-06-12 00:37:18 |
-| Last Scraped         | 2023-06-16 11:06:37 |
+| Last Scraped         | 2023-06-19 11:35:36 |

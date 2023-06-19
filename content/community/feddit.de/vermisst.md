@@ -3,7 +3,7 @@ title: "Vermisst"
 name: "vermisst"
 description: "Community für alles rund um Vermisstenfälle.Neue Fälle, gelöste Fälle, Coldcases - Alles ist hier willkommen.Bitte geht respektvoll mit den Fällen und deren betroffenen um. "
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vermisst"
@@ -54,4 +54,4 @@ Community für alles rund um Vermisstenfälle.<br>Neue Fälle, gelöste Fälle, 
 |----------------------|---|
 | Published            | 2023-06-12 07:16:26 |
 | Updated              | 2023-06-12 07:18:48 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

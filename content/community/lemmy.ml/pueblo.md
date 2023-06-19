@@ -3,7 +3,7 @@ title: "Pueblo"
 name: "pueblo"
 description: "Pueblo, Colorado"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pueblo"
@@ -54,4 +54,4 @@ Pueblo, Colorado
 |----------------------|---|
 | Published            | 2020-11-26 18:43:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:59 |

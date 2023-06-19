@@ -3,7 +3,7 @@ title: "FEZ"
 name: "fez"
 description: "A community for Polytron's FEZ, the dimension-bending puzzle-platformer adventure"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fez"
@@ -54,4 +54,4 @@ A community for Polytron's FEZ, the dimension-bending puzzle-platformer adventur
 |----------------------|---|
 | Published            | 2023-06-06 08:28:21 |
 | Updated              | 2023-06-06 08:28:36 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:37:01 |

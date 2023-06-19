@@ -3,13 +3,13 @@ title: "JurassicPark"
 name: "jurassicpark"
 description: "Jurassic Park movie and discussion"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jurassicpark"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Jurassic Park movie and discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Jurassic Park movie and discussion
 |----------------------|---|
 | Published            | 2020-06-04 14:06:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

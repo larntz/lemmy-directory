@@ -3,7 +3,7 @@ title: "Wichita, Kansas"
 name: "wichita"
 description: "A sublemmy for discussing issues relating to the biggest city in Kansas: Wichita. I assume this sub will be inactive for a while until we get some more users on Lemmy, but don't let that stop you from helping to start the party."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wichita"
@@ -14,7 +14,7 @@ posts: 4
 comments: 0
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ A sublemmy for discussing issues relating to the biggest city in Kansas: Wichita
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A sublemmy for discussing issues relating to the biggest city in Kansas: Wichita
 |----------------------|---|
 | Published            | 2021-07-27 16:54:22 |
 | Updated              | 2021-10-04 04:35:13 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

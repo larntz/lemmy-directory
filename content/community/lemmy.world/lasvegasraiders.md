@@ -3,13 +3,13 @@ title: "Las Vegas Raiders"
 name: "lasvegasraiders"
 description: "[!lasvegasraiders@lemmy.world](https://lemmy.world/c/lasvegasraiders) The primary community is lemmy.world/c/raiders. Please post there."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lasvegasraiders"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 01:57:28 |
 | Updated              | 2023-06-13 02:31:39 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:41 |

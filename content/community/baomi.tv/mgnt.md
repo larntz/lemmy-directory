@@ -3,7 +3,7 @@ title: "站务管理"
 name: "mgnt"
 description: "站务管理区，用于张贴公告以及讨论本站建设事宜"
 type: community
-date: "2023-06-16 22:55:52"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://baomi.tv/c/mgnt"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-10-28 05:18:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:52 |
+| Last Scraped         | 2023-06-19 11:34:53 |

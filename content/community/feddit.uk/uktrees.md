@@ -3,17 +3,17 @@ title: "UK Trees"
 name: "uktrees"
 description: "The British HempireTHIS SUBLEMMY IS NOT FOR FINDING HOOKUPS. YOU WILL BE BANNED.Sublemmy for UKTrees communityFurthermore, same rules apply as main feddit.uk instance.Would like to bring in some more mods, if enough users join and this becomes popular. Message me if interested!"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/uktrees"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 45
+subscribers: 56
 posts: 4
-comments: 12
+comments: 15
 weight: 4
-dau: 2
+dau: 1
 wau: 8
 mau: 8
 instances:
@@ -41,10 +41,10 @@ The British Hempire<br><br>THIS SUBLEMMY IS NOT FOR FINDING HOOKUPS. YOU WILL BE
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
+| Subscribers          | 56 |
 | Posts                | 4  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
+| Comments             | 15  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 8  |
 | Monthly Active Users | 8  |
 
@@ -54,4 +54,4 @@ The British Hempire<br><br>THIS SUBLEMMY IS NOT FOR FINDING HOOKUPS. YOU WILL BE
 |----------------------|---|
 | Published            | 2023-06-12 20:39:55 |
 | Updated              | 2023-06-13 11:22:52 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

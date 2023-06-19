@@ -3,19 +3,19 @@ title: "BuildaPC"
 name: "buildapc"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buildapc"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 136
+subscribers: 192
 posts: 3
-comments: 4
+comments: 6
 weight: 3
-dau: 3
-wau: 6
-mau: 6
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 136 |
+| Subscribers          | 192 |
 | Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 22:07:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

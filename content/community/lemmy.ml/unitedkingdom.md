@@ -3,19 +3,19 @@ title: "The United Kingdom of Great Britain and Northern Ireland"
 name: "unitedkingdom"
 description: "For the United Kingdom of Great Britain (England, Scotland, Wales) and Northern Ireland; News, Politics, Economics, Society, Business, Culture, discussion and anything else UK related."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unitedkingdom"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 401
-posts: 95
-comments: 40
-weight: 95
-dau: 4
-wau: 23
-mau: 30
+subscribers: 421
+posts: 97
+comments: 42
+weight: 97
+dau: 3
+wau: 16
+mau: 33
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ For the United Kingdom of Great Britain (England, Scotland, Wales) and Northern 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 401 |
-| Posts                | 95  |
-| Comments             | 40  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 30  |
+| Subscribers          | 421 |
+| Posts                | 97  |
+| Comments             | 42  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ For the United Kingdom of Great Britain (England, Scotland, Wales) and Northern 
 |----------------------|---|
 | Published            | 2021-02-26 13:49:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

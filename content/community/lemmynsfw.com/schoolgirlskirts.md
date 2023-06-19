@@ -3,13 +3,13 @@ title: "SchoolgirlSkirts - Plaid is rad"
 name: "schoolgirlskirts"
 description: "18+, obviously. This sub is about the article of clothing, not schoolgirls (unless they happen to be 18+). No real school settings.We define a schoolgirl skirt to be a plaid, pleated, short-to-medium-length skirt. Dark solid colors are allowed. Other minor variations may be acceptable at moderator discretion.    Must feature a girl wearing a schoolgirl skirt.    No Japanese schoolgirl/sailor uniforms.    No filters, blurs, photoshops, or alter-ations, or blurry/degraded media.    No face-hiding spam.    No extreme content or gross stuff.    Straight or lesbian content only.    The fine print rules include no excessive reposts and don't be rude."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/schoolgirlskirts"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 150
+subscribers: 243
 posts: 7
 comments: 2
 weight: 7
@@ -43,7 +43,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 150 |
+| Subscribers          | 243 |
 | Posts                | 7  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 20:07:16 |
 | Updated              | 2023-06-16 02:53:05 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

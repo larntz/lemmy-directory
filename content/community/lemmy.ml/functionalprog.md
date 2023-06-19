@@ -3,13 +3,13 @@ title: "Functional Programming"
 name: "functionalprog"
 description: "Idris, Haskell, Elm, Mercury, etc. and sometimes even functional programming paradigms in imperative languages"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/functionalprog"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 88
+subscribers: 91
 posts: 5
 comments: 3
 weight: 5
@@ -41,7 +41,7 @@ Idris, Haskell, Elm, Mercury, etc. and sometimes even functional programming par
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 88 |
+| Subscribers          | 91 |
 | Posts                | 5  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Idris, Haskell, Elm, Mercury, etc. and sometimes even functional programming par
 |----------------------|---|
 | Published            | 2020-08-24 15:25:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,13 +3,13 @@ title: "The Elder Scrolls Online Community on Lemmy"
 name: "elderscrollsonline"
 description: "Discussions about The Elder Scrolls Online. Talk about lore, builds, sets, events, server status etc."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elderscrollsonline"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Discussions about The Elder Scrolls Online. Talk about lore, builds, sets, event
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Discussions about The Elder Scrolls Online. Talk about lore, builds, sets, event
 |----------------------|---|
 | Published            | 2023-06-15 08:54:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

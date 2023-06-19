@@ -3,13 +3,13 @@ title: "Lubuntu"
 name: "lubuntu"
 description: "a community for Lubuntu users"
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lubuntu"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ a community for Lubuntu users
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ a community for Lubuntu users
 |----------------------|---|
 | Published            | 2021-03-13 10:03:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

@@ -3,7 +3,7 @@ title: "ebay"
 name: "ebay"
 description: "Ebay sucks"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ebay"
@@ -54,4 +54,4 @@ Ebay sucks
 |----------------------|---|
 | Published            | 2023-04-03 08:06:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

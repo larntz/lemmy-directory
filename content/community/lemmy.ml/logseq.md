@@ -1,21 +1,21 @@
 ---
 title: "Logseq" 
 name: "logseq"
-description: "Logseq.com"
+description: "* Website: https://logseq.com* Forum: https://discuss.logseq.com* Source Code: https://github.com/logseq/logseqLogseq is a knowledge management and collaboration platform. It focuses on privacy, longevity, and user control. Logseq offers a range of powerful tools for knowledge management, collaboration, PDF annotation, and task management with support for multiple file formats, including Markdown and Org-mode, and various features for organizing and structuring your notes.Logseq's Whiteboard feature lets you organize your knowledge and ideas using a spatial canvas with shapes, drawings, website embeds, and connectors. You can visually group and link your notes and external media (such as videos and images), enabling visual thinkers to compose, remix, annotate, and connect content from their knowledge base and emerging thoughts in a new way.In addition to its core features, Logseq has a growing ecosystem of plugins and themes that enable a wide range of workflows and customization options. Mobile apps are also available, providing access to most of the features of the desktop application. Whether you're a student, a professional, or anyone who values a clear and organized approach to managing your ideas and notes, Logseq is an excellent choice for anyone looking to improve their productivity and streamline their workflow."
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/logseq"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 23
+posts: 4
+comments: 1
+weight: 4
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Logseq.com
+* Website: https://logseq.com<br>* Forum: https://discuss.logseq.com<br>* Source Code: https://github.com/logseq/logseq<br><br>Logseq is a knowledge management and collaboration platform. It focuses on privacy, longevity, and user control. Logseq offers a range of powerful tools for knowledge management, collaboration, PDF annotation, and task management with support for multiple file formats, including Markdown and Org-mode, and various features for organizing and structuring your notes.<br><br>Logseq's Whiteboard feature lets you organize your knowledge and ideas using a spatial canvas with shapes, drawings, website embeds, and connectors. You can visually group and link your notes and external media (such as videos and images), enabling visual thinkers to compose, remix, annotate, and connect content from their knowledge base and emerging thoughts in a new way.<br><br>In addition to its core features, Logseq has a growing ecosystem of plugins and themes that enable a wide range of workflows and customization options. Mobile apps are also available, providing access to most of the features of the desktop application. Whether you're a student, a professional, or anyone who values a clear and organized approach to managing your ideas and notes, Logseq is an excellent choice for anyone looking to improve their productivity and streamline their workflow.
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Logseq.com
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 23 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2022-11-02 11:21:11 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Updated              | 2023-06-18 08:46:16 |
+| Last Scraped         | 2023-06-19 11:36:52 |

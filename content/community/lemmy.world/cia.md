@@ -1,21 +1,21 @@
 ---
 title: "CIA" 
 name: "cia"
-description: "Description not available."
+description: "Fighting Communism since 1921!Rules-NO commies, ESPECIALLY tankies. You socdems are alright, but know that you're on thin ice!"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 0
+subscribers: 5
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Fighting Communism since 1921!<br><br>Rules<br>-NO commies, ESPECIALLY tankies. You socdems are alright, but know that you're on thin ice!
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
+| Subscribers          | 5 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 23:15:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-18 12:59:54 |
+| Last Scraped         | 2023-06-19 11:36:38 |

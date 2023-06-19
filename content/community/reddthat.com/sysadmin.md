@@ -3,19 +3,19 @@ title: "sysadmin"
 name: "sysadmin"
 description: "/c/sysadminFor things like: - Why is it dns?- Why would I buy cisco when I can save money on X?"
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/sysadmin"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 29
-posts: 8
+subscribers: 45
+posts: 9
 comments: 7
-weight: 8
+weight: 9
 dau: 3
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "reddthat_com"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 8  |
+| Subscribers          | 45 |
+| Posts                | 9  |
 | Comments             | 7  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 05:28:17 |
 | Updated              | 2023-06-13 19:31:03 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

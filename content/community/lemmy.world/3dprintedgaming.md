@@ -3,19 +3,19 @@ title: "3D-printed Gaming"
 name: "3dprintedgaming"
 description: "The very beginning of a great collaboration, full of 3D-printing hobbyists, pros, gamers, and fans of all genres across the board. No politics, religion, or spam, please. Let's make this THE place to come to for amazing prints, awesome paintingjobs, printing requests, design ideas, and so much more! "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/3dprintedgaming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 4
-comments: 3
-weight: 4
-dau: 2
-wau: 3
-mau: 3
+subscribers: 32
+posts: 5
+comments: 5
+weight: 5
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The very beginning of a great collaboration, full of 3D-printing hobbyists, pros
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 32 |
+| Posts                | 5  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ The very beginning of a great collaboration, full of 3D-printing hobbyists, pros
 |----------------------|---|
 | Published            | 2023-06-13 23:43:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

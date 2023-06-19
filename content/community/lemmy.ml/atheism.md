@@ -3,19 +3,19 @@ title: "Atheism"
 name: "atheism"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/atheism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 601
-posts: 87
-comments: 79
-weight: 87
+subscribers: 666
+posts: 90
+comments: 89
+weight: 90
 dau: 3
-wau: 16
-mau: 23
+wau: 26
+mau: 36
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 601 |
-| Posts                | 87  |
-| Comments             | 79  |
+| Subscribers          | 666 |
+| Posts                | 90  |
+| Comments             | 89  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 23  |
+| Weekly Active Users  | 26  |
+| Monthly Active Users | 36  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 20:56:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:37:02 |

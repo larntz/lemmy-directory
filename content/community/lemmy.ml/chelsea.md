@@ -3,7 +3,7 @@ title: "Chelsea FC"
 name: "chelsea"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chelsea"
@@ -14,7 +14,7 @@ posts: 4
 comments: 2
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-05-15 19:45:51 |
 | Updated              | 2021-05-15 19:53:46 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

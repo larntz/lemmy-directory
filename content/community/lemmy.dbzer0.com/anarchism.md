@@ -3,19 +3,19 @@ title: "Anarchism"
 name: "anarchism"
 description: "Discuss anarchist praxis and philosophy."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/anarchism"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 91
 posts: 2
-comments: 5
+comments: 8
 weight: 2
-dau: 3
-wau: 5
-mau: 5
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Discuss anarchist praxis and philosophy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 91 |
 | Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Comments             | 8  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discuss anarchist praxis and philosophy.
 |----------------------|---|
 | Published            | 2023-06-09 20:44:21 |
 | Updated              | 2023-06-12 00:48:19 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,19 +3,19 @@ title: "ChatGPT"
 name: "chatgpt"
 description: "Unofficial ChatGPT community to discuss anything ChatGPT"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chatgpt"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 946
-posts: 18
-comments: 46
-weight: 18
-dau: 15
-wau: 28
-mau: 28
+subscribers: 1287
+posts: 23
+comments: 55
+weight: 23
+dau: 7
+wau: 36
+mau: 38
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Unofficial ChatGPT community to discuss anything ChatGPT
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 946 |
-| Posts                | 18  |
-| Comments             | 46  |
-| Daily Active Users   | 15  |
-| Weekly Active Users  | 28  |
-| Monthly Active Users | 28  |
+| Subscribers          | 1287 |
+| Posts                | 23  |
+| Comments             | 55  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 38  |
 
 <br>
 
@@ -54,4 +54,4 @@ Unofficial ChatGPT community to discuss anything ChatGPT
 |----------------------|---|
 | Published            | 2023-06-11 01:50:05 |
 | Updated              | 2023-06-11 05:08:46 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "Genealogy 101"
 name: "genealogy"
 description: "For those interested in genealogy - tips, tricks, requests and general discussions."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/genealogy"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For those interested in genealogy - tips, tricks, requests and general discussio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For those interested in genealogy - tips, tricks, requests and general discussio
 |----------------------|---|
 | Published            | 2023-06-14 20:49:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,19 +3,19 @@ title: "Animemes"
 name: "animemes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animemes"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 526
-posts: 26
-comments: 18
-weight: 26
-dau: 1
-wau: 16
-mau: 19
+subscribers: 607
+posts: 28
+comments: 24
+weight: 28
+dau: 5
+wau: 20
+mau: 25
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 526 |
-| Posts                | 26  |
-| Comments             | 18  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 19  |
+| Subscribers          | 607 |
+| Posts                | 28  |
+| Comments             | 24  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 20  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-27 19:01:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:02 |

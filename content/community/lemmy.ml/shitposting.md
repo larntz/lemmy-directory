@@ -3,18 +3,18 @@ title: "shitposting"
 name: "shitposting"
 description: "Rules•1.  No Doxxing •2. No TikTok reposts•3. No Harassing •4. Post Gore at your own discretion, Depends if its funny or just gore to be an edgelord. "
 type: community
-date: "2023-06-16 22:57:46"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitposting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 323
-posts: 26
+subscribers: 335
+posts: 27
 comments: 7
-weight: 26
+weight: 27
 dau: 1
-wau: 5
+wau: 3
 mau: 9
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Rules<br>•1.  No Doxxing <br>•2. No TikTok reposts<br>•3. No Harassing <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 323 |
-| Posts                | 26  |
+| Subscribers          | 335 |
+| Posts                | 27  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 9  |
 
 <br>
@@ -54,4 +54,4 @@ Rules<br>•1.  No Doxxing <br>•2. No TikTok reposts<br>•3. No Harassing <br
 |----------------------|---|
 | Published            | 2021-03-21 01:01:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:46 |
+| Last Scraped         | 2023-06-19 11:36:46 |

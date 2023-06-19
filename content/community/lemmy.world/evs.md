@@ -3,19 +3,19 @@ title: "Electric Vehicles"
 name: "evs"
 description: "Volts make things happen!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/evs"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 61
-posts: 6
-comments: 6
-weight: 6
-dau: 4
-wau: 6
-mau: 6
+subscribers: 121
+posts: 13
+comments: 9
+weight: 13
+dau: 2
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Volts make things happen!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 6  |
-| Comments             | 6  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 121 |
+| Posts                | 13  |
+| Comments             | 9  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Volts make things happen!
 |----------------------|---|
 | Published            | 2023-06-12 04:37:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

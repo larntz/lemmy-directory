@@ -3,7 +3,7 @@ title: "Volcano Vaporizer"
 name: "volcanovaporizer"
 description: "A place to discuss the Volcano Vaporizer by Storz and Bickel"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/volcanovaporizer"
@@ -54,4 +54,4 @@ A place to discuss the Volcano Vaporizer by Storz and Bickel
 |----------------------|---|
 | Published            | 2023-06-12 15:51:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

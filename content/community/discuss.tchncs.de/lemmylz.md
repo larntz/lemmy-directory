@@ -3,19 +3,19 @@ title: "Lehrerzimmer"
 name: "lemmylz"
 description: "Eine Community für alle, die sich für das Lehren und die Lehrenden interessieren."
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/lemmylz"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 4
-comments: 11
-weight: 4
-dau: 2
-wau: 6
-mau: 6
+subscribers: 36
+posts: 5
+comments: 19
+weight: 5
+dau: 4
+wau: 7
+mau: 9
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ Eine Community für alle, die sich für das Lehren und die Lehrenden interessier
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 4  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 36 |
+| Posts                | 5  |
+| Comments             | 19  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Eine Community für alle, die sich für das Lehren und die Lehrenden interessier
 |----------------------|---|
 | Published            | 2023-06-10 14:08:43 |
 | Updated              | 2023-06-14 06:08:15 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

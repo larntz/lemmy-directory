@@ -3,13 +3,13 @@ title: "Tarot"
 name: "tarot"
 description: "Dedicated to showing how tarot reading is BS."
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tarot"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Dedicated to showing how tarot reading is BS.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dedicated to showing how tarot reading is BS.
 |----------------------|---|
 | Published            | 2020-07-21 03:52:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:47 |

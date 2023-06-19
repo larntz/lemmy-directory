@@ -3,7 +3,7 @@ title: "Juega Eve Online"
 name: "juega_eve_online"
 description: "MMORPG-RTS ambientado en el espacio.Aplicaciones en www.workeve.online"
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/juega_eve_online"
@@ -54,4 +54,4 @@ MMORPG-RTS ambientado en el espacio.<br>Aplicaciones en www.workeve.online
 |----------------------|---|
 | Published            | 2021-06-11 20:52:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,16 +3,16 @@ title: "ぷーざ個人のブクマ"
 name: "pooza"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/pooza"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 207
+posts: 209
 comments: 0
-weight: 207
+weight: 209
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 207  |
+| Posts                | 209  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-04-14 08:43:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

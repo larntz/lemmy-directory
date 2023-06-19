@@ -3,16 +3,16 @@ title: "Electric Cars"
 name: "electriccars"
 description: "All things EV related. News, ownership stories, tips and tricks all around Electric vehicles"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/electriccars"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 1
-comments: 0
-weight: 1
+subscribers: 24
+posts: 2
+comments: 3
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,9 +41,9 @@ All things EV related. News, ownership stories, tips and tricks all around Elect
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 24 |
+| Posts                | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ All things EV related. News, ownership stories, tips and tricks all around Elect
 |----------------------|---|
 | Published            | 2023-06-13 22:26:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

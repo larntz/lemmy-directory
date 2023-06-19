@@ -3,16 +3,16 @@ title: "cats"
 name: "cats"
 description: "A place to talk about and post pictures of cats"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cats"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1687
-posts: 70
-comments: 198
-weight: 70
+subscribers: 1986
+posts: 84
+comments: 228
+weight: 84
 dau: 59
 wau: 78
 mau: 78
@@ -41,9 +41,9 @@ A place to talk about and post pictures of cats
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1687 |
-| Posts                | 70  |
-| Comments             | 198  |
+| Subscribers          | 1986 |
+| Posts                | 84  |
+| Comments             | 228  |
 | Daily Active Users   | 59  |
 | Weekly Active Users  | 78  |
 | Monthly Active Users | 78  |
@@ -53,5 +53,5 @@ A place to talk about and post pictures of cats
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 23:19:21 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Updated              | 2023-06-17 05:37:51 |
+| Last Scraped         | 2023-06-19 11:35:05 |

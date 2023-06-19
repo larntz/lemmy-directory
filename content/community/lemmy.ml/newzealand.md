@@ -3,18 +3,18 @@ title: "Aotearoa New Zealand"
 name: "newzealand"
 description: "Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, local resources & events, all around the motu!- Please ensure submissions are directly related to Aotearoa NZ- Te Reo welcome & encouraged!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newzealand"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 65
+subscribers: 66
 posts: 7
 comments: 9
 weight: 7
 dau: 1
-wau: 3
+wau: 1
 mau: 7
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, l
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
+| Subscribers          | 66 |
 | Posts                | 7  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 7  |
 
 <br>
@@ -54,4 +54,4 @@ Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, l
 |----------------------|---|
 | Published            | 2020-06-28 05:17:18 |
 | Updated              | 2021-03-24 23:11:30 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

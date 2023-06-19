@@ -3,7 +3,7 @@ title: "PlasmaTrap"
 name: "plasmatrap"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.plasmatrap.com/c/plasmatrap"
@@ -14,7 +14,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_plasmatrap_com"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 23:06:12 |
 | Updated              | 2023-06-10 23:07:05 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

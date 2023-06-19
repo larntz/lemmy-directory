@@ -3,7 +3,7 @@ title: "rationalism"
 name: "rationalism"
 description: "rationalism"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rationalism"
@@ -54,4 +54,4 @@ rationalism
 |----------------------|---|
 | Published            | 2023-06-11 07:12:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

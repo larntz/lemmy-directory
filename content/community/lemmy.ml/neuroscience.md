@@ -3,13 +3,13 @@ title: "neuroscience"
 name: "neuroscience"
 description: "Neuroscience - A place to discuss research and news.Rules:1. Never give or take medical advice in this community. Posts regarding personal health are not allowed; the only exception is in regards to clincal assessment or case studies.2. Feel free to post research articles or questions regarding **academic** pursuits. Articles related to neuropsychology, neurology, neuroanatomy, and related fields are acceptable, under the condition that they are related to neuroscience in some capacity.3. Keep discussions reasonable and civil. Discussing dissenting views that are somewhat well established in publications is acceptable. "
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/neuroscience"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 37
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ Neuroscience - A place to discuss research and news.<br><br>Rules:<br><br>1. Nev
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 37 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Neuroscience - A place to discuss research and news.<br><br>Rules:<br><br>1. Nev
 |----------------------|---|
 | Published            | 2020-08-07 03:46:26 |
 | Updated              | 2020-08-07 04:14:30 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:44 |

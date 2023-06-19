@@ -3,7 +3,7 @@ title: "Forgejo"
 name: "forgejo"
 description: "https://forgejo.org/"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forgejo"
@@ -54,4 +54,4 @@ https://forgejo.org/
 |----------------------|---|
 | Published            | 2023-06-16 16:34:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

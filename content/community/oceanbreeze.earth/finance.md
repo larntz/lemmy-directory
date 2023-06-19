@@ -3,7 +3,7 @@ title: "finance"
 name: "finance"
 description: "financial understanding"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/finance"
@@ -54,4 +54,4 @@ financial understanding
 |----------------------|---|
 | Published            | 2023-06-09 22:24:14 |
 | Updated              | 2023-06-10 22:30:30 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

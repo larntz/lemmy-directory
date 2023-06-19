@@ -3,13 +3,13 @@ title: "Shitposting"
 name: "shitposting"
 description: "Shitpost lemmy community"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/shitposting"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 213
+subscribers: 220
 posts: 11
 comments: 10
 weight: 11
@@ -41,7 +41,7 @@ Shitpost lemmy community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 213 |
+| Subscribers          | 220 |
 | Posts                | 11  |
 | Comments             | 10  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Shitpost lemmy community
 |----------------------|---|
 | Published            | 2023-05-14 19:39:14 |
 | Updated              | 2023-05-14 19:47:46 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

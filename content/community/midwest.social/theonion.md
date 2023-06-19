@@ -3,19 +3,19 @@ title: "The Onion"
 name: "theonion"
 description: "A place to share and discuss stories from The Onion and Clickhole."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/theonion"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 140
-posts: 22
-comments: 9
-weight: 22
-dau: 1
-wau: 5
-mau: 6
+subscribers: 159
+posts: 23
+comments: 10
+weight: 23
+dau: 2
+wau: 6
+mau: 7
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A place to share and discuss stories from The Onion and Clickhole.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 140 |
-| Posts                | 22  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
+| Subscribers          | 159 |
+| Posts                | 23  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to share and discuss stories from The Onion and Clickhole.
 |----------------------|---|
 | Published            | 2021-12-12 01:04:53 |
 | Updated              | 2021-12-12 01:07:38 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,7 +3,7 @@ title: "news"
 name: "news"
 description: "A place for sharing and discussing news from around the world."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/news"
@@ -14,7 +14,7 @@ posts: 5
 comments: 2
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_pineapplemachine_com"
@@ -45,7 +45,7 @@ A place for sharing and discussing news from around the world.
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A place for sharing and discussing news from around the world.
 |----------------------|---|
 | Published            | 2023-06-05 08:55:42 |
 | Updated              | 2023-06-05 09:26:33 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

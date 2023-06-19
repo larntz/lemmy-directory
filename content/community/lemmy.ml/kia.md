@@ -3,13 +3,13 @@ title: "KIA-Community"
 name: "kia"
 description: "For Kia Motors Owners- EV6, Telluride, Optima, Forte, Sorento, Cadenza, Quoris, Sportage, Soul, Rio, K3, K5, K7, K900"
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For Kia Motors Owners- EV6, Telluride, Optima, Forte, Sorento, Cadenza, Quoris, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 7 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For Kia Motors Owners- EV6, Telluride, Optima, Forte, Sorento, Cadenza, Quoris, 
 |----------------------|---|
 | Published            | 2023-06-05 09:02:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:43 |

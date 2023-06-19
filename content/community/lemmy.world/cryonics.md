@@ -3,7 +3,7 @@ title: "cryonics"
 name: "cryonics"
 description: "All things cryonics related!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cryonics"
@@ -54,4 +54,4 @@ All things cryonics related!
 |----------------------|---|
 | Published            | 2023-06-14 22:25:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

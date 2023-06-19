@@ -3,19 +3,19 @@ title: "Fediverse"
 name: "fediverse"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fediverse"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1730
-posts: 12
-comments: 67
-weight: 12
-dau: 11
-wau: 51
-mau: 54
+subscribers: 2112
+posts: 18
+comments: 89
+weight: 18
+dau: 3
+wau: 68
+mau: 74
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1730 |
-| Posts                | 12  |
-| Comments             | 67  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 51  |
-| Monthly Active Users | 54  |
+| Subscribers          | 2112 |
+| Posts                | 18  |
+| Comments             | 89  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 68  |
+| Monthly Active Users | 74  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-01 08:28:03 |
 | Updated              | 2023-06-01 11:40:22 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

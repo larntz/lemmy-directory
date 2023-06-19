@@ -3,13 +3,13 @@ title: "3D Printed Miniatures"
 name: "3dprintedminis"
 description: "A community dedicated to the art of 3D modeling and 3D printing miniatures (FDM and resin) and related terrain and accessories for tabletop gaming."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/3dprintedminis"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to the art of 3D modeling and 3D printing miniatures (FDM 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community dedicated to the art of 3D modeling and 3D printing miniatures (FDM 
 |----------------------|---|
 | Published            | 2023-06-16 06:07:33 |
 | Updated              | 2023-06-16 22:47:49 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

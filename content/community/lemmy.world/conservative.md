@@ -3,19 +3,19 @@ title: "conservative"
 name: "conservative"
 description: "A community to discuss conservative politics and views. Rules:1. No racism or bigotry.2. Be civil: disagreements happen, but that doesn't provide the right to personally insult others.3. No spam posting.4. Submission headline should match the article title (don't cherry-pick information from the title to fit your agenda).5. Shitposts and memes are allowed until they prove to be a problem. They can and will be removed at moderator discretion.6. No trolling. "
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/conservative"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 114
-posts: 34
-comments: 363
-weight: 34
-dau: 25
-wau: 107
-mau: 107
+subscribers: 152
+posts: 40
+comments: 357
+weight: 40
+dau: 7
+wau: 113
+mau: 113
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community to discuss conservative politics and views. <br><br>Rules:<br><br>1.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
-| Posts                | 34  |
-| Comments             | 363  |
-| Daily Active Users   | 25  |
-| Weekly Active Users  | 107  |
-| Monthly Active Users | 107  |
+| Subscribers          | 152 |
+| Posts                | 40  |
+| Comments             | 357  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 113  |
+| Monthly Active Users | 113  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community to discuss conservative politics and views. <br><br>Rules:<br><br>1.
 |----------------------|---|
 | Published            | 2023-06-09 20:31:09 |
 | Updated              | 2023-06-15 12:13:56 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:39 |

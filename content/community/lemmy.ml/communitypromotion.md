@@ -3,7 +3,7 @@ title: "Promo -> sub migrating"
 name: "communitypromotion"
 description: "Migrating to https://lemmy.ca/c/communitypromo"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/communitypromotion"
@@ -54,4 +54,4 @@ Migrating to https://lemmy.ca/c/communitypromo
 |----------------------|---|
 | Published            | 2022-01-26 17:32:33 |
 | Updated              | 2022-08-18 16:00:52 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:50 |

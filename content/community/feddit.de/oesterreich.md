@@ -3,19 +3,19 @@ title: "Österreich"
 name: "oesterreich"
 description: "Alles zur Republik ÖsterreichMods gesucht, einfach per PN melden."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oesterreich"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 134
-posts: 23
-comments: 29
-weight: 23
-dau: 1
+subscribers: 140
+posts: 24
+comments: 32
+weight: 24
+dau: 2
 wau: 15
-mau: 16
+mau: 18
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Alles zur Republik Österreich<br><br>Mods gesucht, einfach per PN melden.<br><b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 23  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
+| Subscribers          | 140 |
+| Posts                | 24  |
+| Comments             | 32  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 15  |
-| Monthly Active Users | 16  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Alles zur Republik Österreich<br><br>Mods gesucht, einfach per PN melden.<br><b
 |----------------------|---|
 | Published            | 2021-10-09 18:15:17 |
 | Updated              | 2021-10-10 10:57:36 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

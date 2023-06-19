@@ -3,19 +3,19 @@ title: "Spiele"
 name: "spiele"
 description: "Video- und Gesellschaftsspiele."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/spiele"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 416
+subscribers: 454
 posts: 45
-comments: 98
+comments: 102
 weight: 45
-dau: 3
-wau: 54
-mau: 56
+dau: 2
+wau: 34
+mau: 66
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Video- und Gesellschaftsspiele.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 416 |
+| Subscribers          | 454 |
 | Posts                | 45  |
-| Comments             | 98  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 54  |
-| Monthly Active Users | 56  |
+| Comments             | 102  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 34  |
+| Monthly Active Users | 66  |
 
 <br>
 
@@ -54,4 +54,4 @@ Video- und Gesellschaftsspiele.
 |----------------------|---|
 | Published            | 2021-08-30 12:41:35 |
 | Updated              | 2021-09-10 16:15:18 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

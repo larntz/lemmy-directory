@@ -1,9 +1,9 @@
 ---
 title: "Western Sydney" 
 name: "western_sydney"
-description: "Description not available."
+description: "For all things Western Sydney!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/western_sydney"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+For all things Western Sydney!
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 12:22:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Updated              | 2023-06-17 08:07:23 |
+| Last Scraped         | 2023-06-19 11:35:31 |

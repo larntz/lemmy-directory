@@ -3,16 +3,16 @@ title: "C# Programming"
 name: "csharp_programming"
 description: "C#:- https://learn.microsoft.com/en-us/dotnet/csharp/C# Language Reference:- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/C# Packages:- https://nuget.org/"
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/csharp_programming"
 host: lemmy.einval.net
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 0
+subscribers: 21
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0
@@ -41,8 +41,8 @@ C#:<br>- https://learn.microsoft.com/en-us/dotnet/csharp/<br><br>C# Language Ref
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 0  |
+| Subscribers          | 21 |
+| Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
@@ -54,4 +54,4 @@ C#:<br>- https://learn.microsoft.com/en-us/dotnet/csharp/<br><br>C# Language Ref
 |----------------------|---|
 | Published            | 2023-06-09 05:21:45 |
 | Updated              | 2023-06-09 13:57:10 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

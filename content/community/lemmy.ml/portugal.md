@@ -3,7 +3,7 @@ title: "Portugal"
 name: "portugal"
 description: "Comunidade dedicada a Portugal, em Português, Inglês ou em qualquer outra língua."
 type: community
-date: "2023-06-16 22:57:27"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/portugal"
@@ -54,4 +54,4 @@ Comunidade dedicada a Portugal, em Português, Inglês ou em qualquer outra lín
 |----------------------|---|
 | Published            | 2020-01-31 16:03:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:27 |
+| Last Scraped         | 2023-06-19 11:36:46 |

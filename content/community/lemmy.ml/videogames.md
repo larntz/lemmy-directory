@@ -3,13 +3,13 @@ title: "Video Games"
 name: "videogames"
 description: "This community is focused on discussing video games as a form of art, and as pieces of media in a historical context.#### Rules:01. No news unless extremely necessary, that kind of content is generally better in [/c/gaming](https://lemmy.ml/c/gaming)."
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/videogames"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 204
+subscribers: 208
 posts: 25
 comments: 29
 weight: 25
@@ -41,7 +41,7 @@ This community is focused on discussing video games as a form of art, and as pie
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 204 |
+| Subscribers          | 208 |
 | Posts                | 25  |
 | Comments             | 29  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ This community is focused on discussing video games as a form of art, and as pie
 |----------------------|---|
 | Published            | 2021-05-26 02:49:18 |
 | Updated              | 2021-06-29 16:28:38 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

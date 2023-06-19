@@ -3,19 +3,19 @@ title: "boardgames"
 name: "boardgames"
 description: "Everything boardgames "
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/boardgames"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 1451
-posts: 42
-comments: 416
-weight: 42
-dau: 40
-wau: 130
-mau: 142
+subscribers: 1693
+posts: 52
+comments: 580
+weight: 52
+dau: 55
+wau: 181
+mau: 211
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Everything boardgames
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1451 |
-| Posts                | 42  |
-| Comments             | 416  |
-| Daily Active Users   | 40  |
-| Weekly Active Users  | 130  |
-| Monthly Active Users | 142  |
+| Subscribers          | 1693 |
+| Posts                | 52  |
+| Comments             | 580  |
+| Daily Active Users   | 55  |
+| Weekly Active Users  | 181  |
+| Monthly Active Users | 211  |
 
 <br>
 
@@ -54,4 +54,4 @@ Everything boardgames
 |----------------------|---|
 | Published            | 2023-06-03 22:14:06 |
 | Updated              | 2023-06-03 22:37:30 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

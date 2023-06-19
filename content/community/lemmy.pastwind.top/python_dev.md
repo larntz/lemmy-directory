@@ -3,7 +3,7 @@ title: "Python Dev"
 name: "python_dev"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pastwind.top/c/python_dev"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 07:32:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:12 |

@@ -3,7 +3,7 @@ title: "Class Action Park"
 name: "classactionpark"
 description: "Theme park attractions gone wrong"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/classactionpark"
@@ -54,4 +54,4 @@ Theme park attractions gone wrong
 |----------------------|---|
 | Published            | 2023-06-16 11:26:33 |
 | Updated              | 2023-06-16 11:26:40 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

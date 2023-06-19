@@ -3,18 +3,18 @@ title: "Doodle Dogs"
 name: "doodledogs"
 description: "A place for owners of dogs that are poodle mixes"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doodledogs"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 4
 comments: 2
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ A place for owners of dogs that are poodle mixes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 4  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place for owners of dogs that are poodle mixes
 |----------------------|---|
 | Published            | 2023-06-10 19:57:11 |
 | Updated              | 2023-06-13 03:46:19 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

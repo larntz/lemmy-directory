@@ -3,18 +3,18 @@ title: "games"
 name: "games"
 description: "A place for general discussion and news about video games."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/games"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 54
 posts: 8
 comments: 3
 weight: 8
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_pineapplemachine_com"
@@ -41,11 +41,11 @@ A place for general discussion and news about video games.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 54 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ A place for general discussion and news about video games.
 |----------------------|---|
 | Published            | 2023-06-05 08:53:25 |
 | Updated              | 2023-06-05 10:38:07 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

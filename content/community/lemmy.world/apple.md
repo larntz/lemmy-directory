@@ -3,19 +3,19 @@ title: "Apple"
 name: "apple"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apple"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 806
-posts: 5
-comments: 48
-weight: 5
-dau: 10
-wau: 38
-mau: 38
+subscribers: 1011
+posts: 7
+comments: 59
+weight: 7
+dau: 4
+wau: 44
+mau: 48
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 806 |
-| Posts                | 5  |
-| Comments             | 48  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 38  |
-| Monthly Active Users | 38  |
+| Subscribers          | 1011 |
+| Posts                | 7  |
+| Comments             | 59  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 44  |
+| Monthly Active Users | 48  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 20:16:21 |
 | Updated              | 2023-06-09 21:03:26 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

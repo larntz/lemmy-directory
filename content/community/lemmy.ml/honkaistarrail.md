@@ -3,19 +3,19 @@ title: "Honkai: Star Rail"
 name: "honkaistarrail"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/honkaistarrail"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 65
-posts: 3
-comments: 17
-weight: 3
-dau: 7
-wau: 12
-mau: 13
+subscribers: 81
+posts: 9
+comments: 22
+weight: 9
+dau: 4
+wau: 17
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 65 |
-| Posts                | 3  |
-| Comments             | 17  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 13  |
+| Subscribers          | 81 |
+| Posts                | 9  |
+| Comments             | 22  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-07 20:47:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

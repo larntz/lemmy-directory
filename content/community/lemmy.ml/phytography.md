@@ -3,16 +3,16 @@ title: "Phytography"
 name: "phytography"
 description: "A place to share plant pictures!"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/phytography"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 11
+subscribers: 19
+posts: 12
 comments: 1
-weight: 11
+weight: 12
 dau: 2
 wau: 2
 mau: 4
@@ -41,8 +41,8 @@ A place to share plant pictures!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 11  |
+| Subscribers          | 19 |
+| Posts                | 12  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A place to share plant pictures!
 |----------------------|---|
 | Published            | 2023-06-02 00:04:38 |
 | Updated              | 2023-06-02 00:45:35 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:45 |

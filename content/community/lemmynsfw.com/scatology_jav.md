@@ -3,16 +3,16 @@ title: "Scatology JAV"
 name: "scatology_jav"
 description: "Scatology is a genre of JAV (Japanese Adult Video) that focuses on defecation and sex acts that involve poop (e.g., dirty anal, dirty atm, accidental poop during orgasm, eating poop, smearing, panty pooping, dirty enemas, etc.). Japanese scatology is the most professionally produced scat porn globally. This community has potential to be the premiere English-language webforum to discuss and share scatology content. [Track recent and upcoming Scatology JAV releases on JAVLibrary.](https://www.javlibrary.com/en/vl_genre.php?g=aq3a)"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/scatology_jav"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 10
+subscribers: 16
+posts: 11
 comments: 0
-weight: 10
+weight: 11
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ Scatology is a genre of JAV (Japanese Adult Video) that focuses on defecation an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 10  |
+| Subscribers          | 16 |
+| Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -56,4 +56,4 @@ Scatology is a genre of JAV (Japanese Adult Video) that focuses on defecation an
 |----------------------|---|
 | Published            | 2023-06-13 02:58:27 |
 | Updated              | 2023-06-13 03:06:57 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

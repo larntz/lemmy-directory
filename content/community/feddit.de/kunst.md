@@ -3,18 +3,18 @@ title: "Kunst"
 name: "kunst"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kunst"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 58
+subscribers: 64
 posts: 14
 comments: 9
 weight: 14
 dau: 3
-wau: 4
+wau: 3
 mau: 6
 instances:
 - "feddit_de"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 58 |
+| Subscribers          | 64 |
 | Posts                | 14  |
 | Comments             | 9  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 3  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-03 21:35:17 |
 | Updated              | 2021-09-04 05:13:16 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

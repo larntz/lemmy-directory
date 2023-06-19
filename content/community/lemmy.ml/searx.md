@@ -3,13 +3,13 @@ title: "Searx - Self-hosted meta search engine "
 name: "searx"
 description: "Searx - Self-hosted meta search enginePlease use English. "
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/searx"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 161
+subscribers: 165
 posts: 3
 comments: 3
 weight: 3
@@ -41,7 +41,7 @@ Searx - Self-hosted meta search engine<br><br>Please use English.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 161 |
+| Subscribers          | 165 |
 | Posts                | 3  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Searx - Self-hosted meta search engine<br><br>Please use English.
 |----------------------|---|
 | Published            | 2020-06-30 20:17:56 |
 | Updated              | 2022-11-20 16:58:17 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

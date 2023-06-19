@@ -3,13 +3,13 @@ title: "Subnautica "
 name: "subnautica"
 description: "For the video game Subnautica "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/subnautica"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ For the video game Subnautica
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For the video game Subnautica
 |----------------------|---|
 | Published            | 2023-06-12 21:53:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

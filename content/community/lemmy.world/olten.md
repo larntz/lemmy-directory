@@ -3,7 +3,7 @@ title: "Olten"
 name: "olten"
 description: "A community dedicated to the beautiful city of Olten in Switzerland"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/olten"
@@ -54,4 +54,4 @@ A community dedicated to the beautiful city of Olten in Switzerland
 |----------------------|---|
 | Published            | 2023-06-16 11:50:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

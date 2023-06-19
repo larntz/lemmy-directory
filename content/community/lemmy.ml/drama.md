@@ -3,16 +3,16 @@ title: "drama"
 name: "drama"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/drama"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 2
+subscribers: 10
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
+| Subscribers          | 10 |
+| Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-03-28 09:32:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,16 +3,16 @@ title: "70's Music"
 name: "70smusic"
 description: "Disco, Folk, Funk, Country, whatever you can vibe to! Post a song and let's talk about it!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/70smusic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 26
-posts: 7
+subscribers: 30
+posts: 8
 comments: 4
-weight: 7
+weight: 8
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ Disco, Folk, Funk, Country, whatever you can vibe to! Post a song and let's talk
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 7  |
+| Subscribers          | 30 |
+| Posts                | 8  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ Disco, Folk, Funk, Country, whatever you can vibe to! Post a song and let's talk
 |----------------------|---|
 | Published            | 2023-06-12 20:28:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

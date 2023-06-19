@@ -3,7 +3,7 @@ title: "Joko eta jolasak"
 name: "joko_jolasak"
 description: "Bideojokoak, rol jolasak, mahai-jokoak eta abar aipatzeko gunea."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/joko_jolasak"
@@ -54,4 +54,4 @@ Bideojokoak, rol jolasak, mahai-jokoak eta abar aipatzeko gunea.
 |----------------------|---|
 | Published            | 2020-12-30 19:23:30 |
 | Updated              | 2020-12-30 19:30:28 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

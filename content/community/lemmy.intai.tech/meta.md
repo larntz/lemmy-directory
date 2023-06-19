@@ -3,16 +3,16 @@ title: "Meta"
 name: "meta"
 description: "Community, Fediverse, General Non ML/AI Discussion"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/meta"
 host: lemmy.intai.tech
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 55
-comments: 18
-weight: 55
+subscribers: 16
+posts: 62
+comments: 21
+weight: 62
 dau: 1
 wau: 7
 mau: 7
@@ -41,9 +41,9 @@ Community, Fediverse, General Non ML/AI Discussion
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 55  |
-| Comments             | 18  |
+| Subscribers          | 16 |
+| Posts                | 62  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ Community, Fediverse, General Non ML/AI Discussion
 |----------------------|---|
 | Published            | 2023-06-11 05:18:31 |
 | Updated              | 2023-06-13 05:26:02 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

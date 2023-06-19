@@ -3,7 +3,7 @@ title: "Mastodon Solidarity Network"
 name: "msn"
 description: "A sub for building an online collective of activists working in committees related to community Defense, Mutual Aid, Accountability/Restorative Justice, Education and Healthcare.  We aim to create dual power in our society to address these things on our own without the help of a derelict government that has no interest in taking on the problems that poor and working people experience.  "
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msn"
@@ -54,4 +54,4 @@ A sub for building an online collective of activists working in committees relat
 |----------------------|---|
 | Published            | 2021-01-09 02:44:02 |
 | Updated              | 2021-01-09 02:50:55 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

@@ -3,15 +3,15 @@ title: "Prusa Research"
 name: "prusa"
 description: "A Community for discussing all things related to specifically Prusa Researchs 3D Printers like the MK3, MK4, Mini and XL"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prusa"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 38
 posts: 2
-comments: 4
+comments: 2
 weight: 2
 dau: 1
 wau: 2
@@ -41,9 +41,9 @@ A Community for discussing all things related to specifically Prusa Researchs 3D
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 38 |
 | Posts                | 2  |
-| Comments             | 4  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
@@ -54,4 +54,4 @@ A Community for discussing all things related to specifically Prusa Researchs 3D
 |----------------------|---|
 | Published            | 2023-06-11 09:53:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

@@ -1,15 +1,15 @@
 ---
 title: "CRT Gaming" 
 name: "crtgaming"
-description: "inactive for now. i can't even upload images lmao"
+description: "inactive for now. i can't even upload images lmaosee https://kbin.social/m/CRTs for now"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/crtgaming"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-inactive for now. i can't even upload images lmao
+inactive for now. i can't even upload images lmao<br><br>see https://kbin.social/m/CRTs for now
 </blockquote>
 
 
@@ -41,7 +41,7 @@ inactive for now. i can't even upload images lmao
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -53,5 +53,5 @@ inactive for now. i can't even upload images lmao
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 18:19:21 |
-| Updated              | 2023-06-16 18:20:28 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Updated              | 2023-06-17 13:09:28 |
+| Last Scraped         | 2023-06-19 11:35:02 |

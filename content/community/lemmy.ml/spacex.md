@@ -3,18 +3,18 @@ title: "SpaceX"
 name: "spacex"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spacex"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 96
+subscribers: 101
 posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 6
+wau: 5
 mau: 6
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 96 |
+| Subscribers          | 101 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 5  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-27 04:15:32 |
 | Updated              | 2023-06-12 04:04:27 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:47 |

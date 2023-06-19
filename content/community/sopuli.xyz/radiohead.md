@@ -3,13 +3,13 @@ title: "Radiohead"
 name: "radiohead"
 description: "d bst onln cmmnty fr my bnd --thmWelcome to c/radiohead, the Lemmy community for the undisputed best band that has ever been, or will be.Feel free to post any content about Radiohead and related projects (EOB, Philip's projects, Junun, The Smile of course etc) here. It's lonely in these parts for now, so I'm counting on you to fill it up. So as an incentive, **I will change the icon to something more becoming after we hit 25 subscribers. I will change the banner to something more apposite after we hit 50 subscribers.***Confused by Lemmy, or unsure how to sign up? [Sign up](https://sopuli.xyz/signup) to this instance -- only takes a minute!*"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/radiohead"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 42
 posts: 6
 comments: 8
 weight: 6
@@ -41,7 +41,7 @@ d bst onln cmmnty fr my bnd --thm<br><br>Welcome to c/radiohead, the Lemmy commu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 42 |
 | Posts                | 6  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ d bst onln cmmnty fr my bnd --thm<br><br>Welcome to c/radiohead, the Lemmy commu
 |----------------------|---|
 | Published            | 2023-06-11 19:36:13 |
 | Updated              | 2023-06-11 19:43:25 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

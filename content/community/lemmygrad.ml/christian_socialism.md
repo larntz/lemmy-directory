@@ -3,13 +3,13 @@ title: "Christian Socialism"
 name: "christian_socialism"
 description: "A space for Christians on lemmygrad."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/christian_socialism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ A space for Christians on lemmygrad.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A space for Christians on lemmygrad.
 |----------------------|---|
 | Published            | 2022-03-24 08:15:16 |
 | Updated              | 2022-03-24 08:17:09 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,7 +3,7 @@ title: "Artefacts"
 name: "artefacts"
 description: "Images of interesting artefacts"
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/artefacts"
@@ -54,4 +54,4 @@ Images of interesting artefacts
 |----------------------|---|
 | Published            | 2023-06-11 18:55:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

@@ -3,13 +3,13 @@ title: "Guns"
 name: "guns"
 description: "Talk about any kind of firearms, accessories, laws, etc."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/guns"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 32
 posts: 3
 comments: 9
 weight: 3
@@ -41,7 +41,7 @@ Talk about any kind of firearms, accessories, laws, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 32 |
 | Posts                | 3  |
 | Comments             | 9  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Talk about any kind of firearms, accessories, laws, etc.
 |----------------------|---|
 | Published            | 2023-06-13 16:25:04 |
 | Updated              | 2023-06-13 21:49:28 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

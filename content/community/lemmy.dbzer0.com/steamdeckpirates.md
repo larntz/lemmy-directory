@@ -3,19 +3,19 @@ title: "SteamDeckPirates"
 name: "steamdeckpirates"
 description: "Discuss piracy on Valve's portable handheld - the Steam Deck."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/steamdeckpirates"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 121
+posts: 3
+comments: 2
+weight: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_dbzer0_com"
 tags: 
@@ -41,12 +41,12 @@ Discuss piracy on Valve's portable handheld - the Steam Deck.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 121 |
+| Posts                | 3  |
+| Comments             | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discuss piracy on Valve's portable handheld - the Steam Deck.
 |----------------------|---|
 | Published            | 2023-06-10 20:28:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

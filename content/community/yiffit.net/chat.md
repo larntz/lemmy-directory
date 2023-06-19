@@ -1,21 +1,21 @@
 ---
 title: "Furry Chat" 
 name: "chat"
-description: "Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon client to post here directly, or post directly via any Lemmy instance."
+description: "Yiffit chat! Talk about anything you want here.Mention @chat@yiffit.net from your favorite Fediverse / Mastodon client to post here directly, or post directly via any Lemmy instance.Community Icon (CC-BY-NC-SA) [Tom Fischbach](https://twokinds.keenspot.com/)"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/chat"
 host: yiffit.net
 lastmod: "{[ .Updated }}"
-subscribers: 136
-posts: 29
-comments: 160
-weight: 29
-dau: 14
-wau: 59
-mau: 60
+subscribers: 168
+posts: 33
+comments: 222
+weight: 33
+dau: 23
+wau: 60
+mau: 73
 instances:
 - "yiffit_net"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon client to post here directly, or post directly via any Lemmy instance.
+Yiffit chat! <br>Talk about anything you want here.<br><br>Mention @chat@yiffit.net from your favorite Fediverse / Mastodon client to post here directly, or post directly via any Lemmy instance.<br><br>Community Icon (CC-BY-NC-SA) [Tom Fischbach](https://twokinds.keenspot.com/)
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Yiffit chat! Mention @chat@yiffit.net from your favorite Fediverse / Mastodon cl
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 136 |
-| Posts                | 29  |
-| Comments             | 160  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 59  |
-| Monthly Active Users | 60  |
+| Subscribers          | 168 |
+| Posts                | 33  |
+| Comments             | 222  |
+| Daily Active Users   | 23  |
+| Weekly Active Users  | 60  |
+| Monthly Active Users | 73  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-08 17:32:47 |
-| Updated              | 2023-06-15 17:26:44 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Updated              | 2023-06-18 23:01:42 |
+| Last Scraped         | 2023-06-19 11:35:08 |

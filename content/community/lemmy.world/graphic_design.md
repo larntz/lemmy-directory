@@ -3,13 +3,13 @@ title: "Graphic Design"
 name: "graphic_design"
 description: "All things graphic design!"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/graphic_design"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ All things graphic design!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ All things graphic design!
 |----------------------|---|
 | Published            | 2023-06-16 20:15:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

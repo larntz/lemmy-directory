@@ -3,13 +3,13 @@ title: "iOSGaming"
 name: "iosgaming"
 description: "iOS Gaming News, Discussion and Recommendations.Rules:1. keep it civil2. no Piracy please"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iosgaming"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 48
 posts: 5
 comments: 2
 weight: 5
@@ -41,7 +41,7 @@ iOS Gaming News, Discussion and Recommendations.<br>Rules:<br>1. keep it civil<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 48 |
 | Posts                | 5  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ iOS Gaming News, Discussion and Recommendations.<br>Rules:<br>1. keep it civil<b
 |----------------------|---|
 | Published            | 2023-06-11 01:20:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

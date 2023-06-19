@@ -3,13 +3,13 @@ title: "Bananas For Scale"
 name: "bananas_for_scale"
 description: "Show your objects by using a banana to show scale!"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/bananas_for_scale"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 76
+subscribers: 78
 posts: 7
 comments: 13
 weight: 7
@@ -41,7 +41,7 @@ Show your objects by using a banana to show scale!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 76 |
+| Subscribers          | 78 |
 | Posts                | 7  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Show your objects by using a banana to show scale!
 |----------------------|---|
 | Published            | 2021-02-07 17:57:20 |
 | Updated              | 2021-12-06 11:20:13 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

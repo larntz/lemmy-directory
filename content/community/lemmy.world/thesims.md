@@ -3,19 +3,19 @@ title: "The Sims"
 name: "thesims"
 description: "Community for the The Sims game, all versions! **Rules:**- Flair all NSFW posts and sensitive topics.- Piracy is allowed but if you get a fine or a virus it's on you.- This is a safe space for LGBTQ+- Be a nice human being.**Links:**- [How to get The Sims 4](https://lemmy.world/post/94123)- [Sims 4: What to buy?](https://lemmy.world/post/90856)- [CarlSims4Guide](https://www.carls-sims-4-guide.com)- [CarlSims3Guide](https://www.carls-sims-3-guide.com)- [ModTheSims](https://modthesims.info)![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fsims%2Fimages%2F1%2F1c%2FPlumbbob.gif%2Frevision%2Flatest%3Fcb%3D20130319190616%26path-prefix%3Dsv&f=1&nofb=1&ipt=2f7afe4e5235965690eb16ea6e3aa0fc4d67125fb1c661035490b88dda8ab675&ipo=images) ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg4.wikia.nocookie.net%2F__cb20130528075827%2Fadventuretimewithfinnandjake%2Fimages%2F5%2F5d%2FSylveon.gif&f=1&nofb=1&ipt=ec67c35622a2a308996ae4a460082b978706a2f671914e739d50adeeb76da8c4&ipo=images)"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesims"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 187
+subscribers: 214
 posts: 10
-comments: 33
+comments: 37
 weight: 10
-dau: 3
-wau: 18
-mau: 18
+dau: 1
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for the The Sims game, all versions! <br><br>**Rules:**<br>- Flair all
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 187 |
+| Subscribers          | 214 |
 | Posts                | 10  |
-| Comments             | 33  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 18  |
+| Comments             | 37  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for the The Sims game, all versions! <br><br>**Rules:**<br>- Flair all
 |----------------------|---|
 | Published            | 2023-06-12 17:32:51 |
 | Updated              | 2023-06-13 15:30:37 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

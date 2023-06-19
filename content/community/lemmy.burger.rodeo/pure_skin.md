@@ -3,7 +3,7 @@ title: "Pure Skin"
 name: "pure_skin"
 description: "This community has the premise that people can be split into two groups: pure skins and inklings (tattooed people). All inklings are stupid and criminal.**Rules**- All posts must either  - celebrate the beauty of pure untainted skin or,  - make fun of inklings (tattooed people) and point out their stupidity and/or criminality- No fun of tribal tattoos! Seriously.Obviously, this is all satire! Or is it?"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/pure_skin"
@@ -54,4 +54,4 @@ This community has the premise that people can be split into two groups: pure sk
 |----------------------|---|
 | Published            | 2023-06-07 19:30:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

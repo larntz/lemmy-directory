@@ -3,19 +3,19 @@ title: "hydrohomies"
 name: "hydrohomies"
 description: "Stay hydrated homies.Refuge for homies who quit reddit!"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hydrohomies"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 73
 posts: 6
-comments: 15
+comments: 17
 weight: 6
-dau: 1
-wau: 9
-mau: 9
+dau: 4
+wau: 14
+mau: 14
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Stay hydrated homies.<br><br>Refuge for homies who quit reddit!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 73 |
 | Posts                | 6  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Comments             | 17  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Stay hydrated homies.<br><br>Refuge for homies who quit reddit!
 |----------------------|---|
 | Published            | 2023-06-10 20:24:52 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

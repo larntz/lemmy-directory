@@ -3,17 +3,17 @@ title: "twitch"
 name: "twitch"
 description: "A place to discuss the streaming website twitch.tv."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/twitch"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 18
 posts: 2
 comments: 2
 weight: 2
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ A place to discuss the streaming website twitch.tv.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 18 |
 | Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ A place to discuss the streaming website twitch.tv.
 |----------------------|---|
 | Published            | 2023-06-05 08:56:49 |
 | Updated              | 2023-06-05 09:29:15 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

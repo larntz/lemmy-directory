@@ -3,13 +3,13 @@ title: "Social Media History"
 name: "smhistory"
 description: "Social Media History discussion.Some historic perspective on (mostly) electric media systems, medium generations.Social Media lore and discussion about changes in society tastes, legality, popularity, presentation technology, the change from desktop webapps to smartphone apps, etc"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smhistory"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 4
 comments: 1
 weight: 4
@@ -41,7 +41,7 @@ Social Media History discussion.<br>Some historic perspective on (mostly) electr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Social Media History discussion.<br>Some historic perspective on (mostly) electr
 |----------------------|---|
 | Published            | 2023-06-09 13:59:12 |
 | Updated              | 2023-06-09 14:09:23 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:50 |

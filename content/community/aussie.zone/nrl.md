@@ -3,19 +3,19 @@ title: "NRL"
 name: "nrl"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/nrl"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 21
-posts: 5
+subscribers: 28
+posts: 7
 comments: 2
-weight: 5
-dau: 3
-wau: 4
-mau: 4
+weight: 7
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "aussie_zone"
 tags: 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 5  |
+| Subscribers          | 28 |
+| Posts                | 7  |
 | Comments             | 2  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 10:18:31 |
-| Updated              | 2023-06-12 10:45:45 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:29:39 |
+| Last Scraped         | 2023-06-19 11:35:06 |

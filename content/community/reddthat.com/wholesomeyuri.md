@@ -3,19 +3,19 @@ title: "Wholesome Yuri"
 name: "wholesomeyuri"
 description: "A place for adorable, blushy, cute, fluffy, gentle, giggly, happy, heartfelt, loving, peaceful, safe, silly yuri."
 type: community
-date: "2023-06-16 22:56:06"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/wholesomeyuri"
 host: reddthat.com
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 4
-comments: 0
-weight: 4
-dau: 1
-wau: 1
-mau: 1
+subscribers: 44
+posts: 8
+comments: 1
+weight: 8
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "reddthat_com"
 tags: 
@@ -41,12 +41,12 @@ A place for adorable, blushy, cute, fluffy, gentle, giggly, happy, heartfelt, lo
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 44 |
+| Posts                | 8  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for adorable, blushy, cute, fluffy, gentle, giggly, happy, heartfelt, lo
 |----------------------|---|
 | Published            | 2023-06-13 13:18:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:06 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,19 +3,19 @@ title: "Feddit.dk"
 name: "fedditdk"
 description: "Et meta-forum for nyheder, meddelelser og debatter omkring Feddit.dk i sig selv.Man er også velkommen til at poste her hvis der ikke er nogen andre fællesskaber der passer."
 type: community
-date: "2023-06-16 22:55:47"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/fedditdk"
 host: feddit.dk
 lastmod: "{[ .Updated }}"
-subscribers: 293
-posts: 50
-comments: 954
-weight: 50
-dau: 33
-wau: 121
-mau: 146
+subscribers: 317
+posts: 56
+comments: 1035
+weight: 56
+dau: 37
+wau: 113
+mau: 162
 instances:
 - "feddit_dk"
 tags: 
@@ -41,12 +41,12 @@ Et meta-forum for nyheder, meddelelser og debatter omkring Feddit.dk i sig selv.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 293 |
-| Posts                | 50  |
-| Comments             | 954  |
-| Daily Active Users   | 33  |
-| Weekly Active Users  | 121  |
-| Monthly Active Users | 146  |
+| Subscribers          | 317 |
+| Posts                | 56  |
+| Comments             | 1035  |
+| Daily Active Users   | 37  |
+| Weekly Active Users  | 113  |
+| Monthly Active Users | 162  |
 
 <br>
 
@@ -54,4 +54,4 @@ Et meta-forum for nyheder, meddelelser og debatter omkring Feddit.dk i sig selv.
 |----------------------|---|
 | Published            | 2023-04-29 10:50:47 |
 | Updated              | 2023-06-13 10:54:28 |
-| Last Scraped         | 2023-06-16 22:55:47 |
+| Last Scraped         | 2023-06-19 11:34:49 |

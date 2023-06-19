@@ -3,13 +3,13 @@ title: "Ruby Programming Language"
 name: "ruby"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ruby"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 86
+subscribers: 88
 posts: 38
 comments: 1
 weight: 38
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
+| Subscribers          | 88 |
 | Posts                | 38  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-23 05:28:15 |
 | Updated              | 2021-01-29 02:08:31 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

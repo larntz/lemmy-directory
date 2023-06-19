@@ -3,7 +3,7 @@ title: "..surf meta"
 name: "meta"
 description: "Chat about dot.surf lemmy instance and related"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/meta"
@@ -54,4 +54,4 @@ Chat about dot.surf lemmy instance and related
 |----------------------|---|
 | Published            | 2023-06-15 19:14:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

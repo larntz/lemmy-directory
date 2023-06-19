@@ -1,9 +1,9 @@
 ---
 title: "Fortnite" 
 name: "fortnite"
-description: "For discussion of Epic's popular game Fortnite"
+description: "For discussion of Epic's popular game FortniteThis community is not affiliated with Epic in any respect."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:00"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/fortnite"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-For discussion of Epic's popular game Fortnite
+For discussion of Epic's popular game Fortnite<br><br>This community is not affiliated with Epic in any respect.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ For discussion of Epic's popular game Fortnite
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 02:20:17 |
-| Updated              | 2023-06-15 15:27:53 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Updated              | 2023-06-17 18:58:09 |
+| Last Scraped         | 2023-06-19 11:35:00 |

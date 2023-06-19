@@ -3,7 +3,7 @@ title: "Deutschsprachige IPFire Community (Test)"
 name: "ipfire"
 description: "Seitenleiste bla bli blub"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ipfire"
@@ -54,4 +54,4 @@ Seitenleiste bla bli blub
 |----------------------|---|
 | Published            | 2022-02-03 21:09:16 |
 | Updated              | 2022-09-24 16:22:18 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

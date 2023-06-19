@@ -3,17 +3,17 @@ title: "spirituality"
 name: "spirituality"
 description: "A place for spiritual discussion of all kinds. All faiths and beliefs welcome."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spirituality"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 1
+subscribers: 15
+posts: 2
 comments: 2
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ A place for spiritual discussion of all kinds. All faiths and beliefs welcome.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
+| Subscribers          | 15 |
+| Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ A place for spiritual discussion of all kinds. All faiths and beliefs welcome.
 |----------------------|---|
 | Published            | 2023-06-14 06:18:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:38 |

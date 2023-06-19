@@ -3,13 +3,13 @@ title: "Mainz"
 name: "mainz"
 description: "Die Community für die Stadt Mainz am Rhein."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mainz"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 4
 weight: 2
@@ -41,7 +41,7 @@ Die Community für die Stadt Mainz am Rhein.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Die Community für die Stadt Mainz am Rhein.
 |----------------------|---|
 | Published            | 2023-06-14 07:46:26 |
 | Updated              | 2023-06-14 09:07:50 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

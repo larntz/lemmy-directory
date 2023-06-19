@@ -3,13 +3,13 @@ title: "Investing"
 name: "investing"
 description: "For substantive discussion of investing media, primarily the stock market###### Rules1. *No personal investing advice.* No one here is your investment manager. You should not rely on any recommendations made in this community. We make no guarantees as to the accuracy of the claims made by users hereof.2. *No self-promotion.* No shilling. No referral links. Linking to articles you have written is fine as long as they have something interesting to say and are otherwise high-quality, but they will be given extra scrutiny."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:00"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/investing"
 host: civilloquy.com
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ For substantive discussion of investing media, primarily the stock market<br><br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For substantive discussion of investing media, primarily the stock market<br><br
 |----------------------|---|
 | Published            | 2023-06-06 20:02:23 |
 | Updated              | 2023-06-13 14:58:16 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:00 |

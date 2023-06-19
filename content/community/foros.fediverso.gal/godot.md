@@ -3,13 +3,13 @@ title: "Godot"
 name: "godot"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:47"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/godot"
 host: foros.fediverso.gal
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-24 14:31:14 |
 | Updated              | 2022-12-24 14:31:25 |
-| Last Scraped         | 2023-06-16 22:55:47 |
+| Last Scraped         | 2023-06-19 11:34:49 |

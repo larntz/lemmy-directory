@@ -3,13 +3,13 @@ title: "Mac Gaming"
 name: "macgaming"
 description: "New Mac Gaming while Reddit dies"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/macgaming"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ New Mac Gaming while Reddit dies
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ New Mac Gaming while Reddit dies
 |----------------------|---|
 | Published            | 2023-06-14 16:51:20 |
 | Updated              | 2023-06-14 16:56:04 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

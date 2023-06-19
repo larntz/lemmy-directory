@@ -3,7 +3,7 @@ title: "Alabama Crimson Tide"
 name: "alabamacrimsontide"
 description: "A community to discuss Alabama Crimson Tide athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/alabamacrimsontide"
@@ -54,4 +54,4 @@ A community to discuss Alabama Crimson Tide athletics.<br><br>**Looking for Mods
 |----------------------|---|
 | Published            | 2023-06-14 23:10:11 |
 | Updated              | 2023-06-15 00:05:55 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

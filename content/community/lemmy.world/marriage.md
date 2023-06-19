@@ -1,15 +1,15 @@
 ---
 title: "Marriage" 
 name: "marriage"
-description: "Discuss anything and everything related to marriage. Feel free to ask for advice, bitch about your in-laws, share your experience, or chit-chat about marriage and serious long term relationships!Rules:1. Be respectful to each other2. Bigotry is not allowed here3. Don't post identifying personal information4. No spamming5. Don't post porn"
+description: "Discuss anything and everything related to marriage. Feel free to ask for advice, vent, brag about your engagement, bitch about your in-laws, share your experience, or chit-chat about marriage and serious long term relationships!Rules:1. Be respectful to each other2. Bigotry is not allowed here3. Don't post identifying personal information4. No spamming5. Don't post porn"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/marriage"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 9
 posts: 1
 comments: 1
 weight: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Discuss anything and everything related to marriage. Feel free to ask for advice, bitch about your in-laws, share your experience, or chit-chat about marriage and serious long term relationships!<br><br>Rules:<br>1. Be respectful to each other<br>2. Bigotry is not allowed here<br>3. Don't post identifying personal information<br>4. No spamming<br>5. Don't post porn<br><br>
+Discuss anything and everything related to marriage. Feel free to ask for advice, vent, brag about your engagement, bitch about your in-laws, share your experience, or chit-chat about marriage and serious long term relationships!<br><br>Rules:<br>1. Be respectful to each other<br>2. Bigotry is not allowed here<br>3. Don't post identifying personal information<br>4. No spamming<br>5. Don't post porn<br><br>
 </blockquote>
 
 
@@ -41,7 +41,7 @@ Discuss anything and everything related to marriage. Feel free to ask for advice
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ Discuss anything and everything related to marriage. Feel free to ask for advice
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 02:14:29 |
-| Updated              | 2023-06-16 00:12:03 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-16 23:12:43 |
+| Last Scraped         | 2023-06-19 11:36:37 |

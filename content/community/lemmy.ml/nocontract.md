@@ -3,16 +3,16 @@ title: "NoContract"
 name: "nocontract"
 description: "Discussion on cell phone plans and MNVO'sRules:1. Be civil and nice2. No SPAM"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nocontract"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 5
-comments: 9
-weight: 5
+subscribers: 26
+posts: 6
+comments: 10
+weight: 6
 dau: 4
 wau: 7
 mau: 7
@@ -41,9 +41,9 @@ Discussion on cell phone plans and MNVO's<br><br>Rules:<br>1. Be civil and nice<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 5  |
-| Comments             | 9  |
+| Subscribers          | 26 |
+| Posts                | 6  |
+| Comments             | 10  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ Discussion on cell phone plans and MNVO's<br><br>Rules:<br>1. Be civil and nice<
 |----------------------|---|
 | Published            | 2023-06-11 13:54:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

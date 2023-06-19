@@ -3,7 +3,7 @@ title: "Tulln"
 name: "tulln"
 description: ""
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/tulln"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-10-12 13:32:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

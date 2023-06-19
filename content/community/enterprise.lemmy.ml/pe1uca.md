@@ -3,7 +3,7 @@ title: "¡El pe1uca sabe!"
 name: "pe1uca"
 description: "Mi comunidad de prueba :P"
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/pe1uca"
@@ -54,4 +54,4 @@ Mi comunidad de prueba :P
 |----------------------|---|
 | Published            | 2023-06-08 22:35:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

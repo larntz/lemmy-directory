@@ -3,13 +3,13 @@ title: "Stop Drinking"
 name: "stopdrinking"
 description: "This is a place to motivate each other to control or stop drinking. We welcome anyone who wishes to join in by asking for advice, sharing our experiences and stories, or just encouraging someone who is trying to quit or cut down. Please post only when sober; you’re welcome to read in the meanwhile."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stopdrinking"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ This is a place to motivate each other to control or stop drinking. We welcome a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 5 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a place to motivate each other to control or stop drinking. We welcome a
 |----------------------|---|
 | Published            | 2023-06-13 18:34:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

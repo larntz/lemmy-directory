@@ -3,13 +3,13 @@ title: "Board and Tabletop Games"
 name: "boardgames"
 description: "This community centers around tabletop, role-playing, board, and card games of all kinds. This is a Safe For Work Community1. No hate speech, flaming, or harassment.2. No pornography3. No encouraging illegal behavior"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:03"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/boardgames"
 host: prime8s.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This community centers around tabletop, role-playing, board, and card games of a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This community centers around tabletop, role-playing, board, and card games of a
 |----------------------|---|
 | Published            | 2023-06-07 15:50:21 |
 | Updated              | 2023-06-07 23:15:06 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:03 |

@@ -3,19 +3,19 @@ title: "Homelab"
 name: "homelab"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cloudhub.social/c/homelab"
 host: lemmy.cloudhub.social
 lastmod: "{[ .Updated }}"
-subscribers: 127
-posts: 4
-comments: 41
-weight: 4
-dau: 1
-wau: 9
-mau: 14
+subscribers: 152
+posts: 5
+comments: 45
+weight: 5
+dau: 3
+wau: 10
+mau: 18
 instances:
 - "lemmy_cloudhub_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
-| Posts                | 4  |
-| Comments             | 41  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 14  |
+| Subscribers          | 152 |
+| Posts                | 5  |
+| Comments             | 45  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 10:11:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

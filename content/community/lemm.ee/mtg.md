@@ -3,7 +3,7 @@ title: "Magic the Gathering"
 name: "mtg"
 description: "A community to discuss Magic the Gathering cards, decks, and whatever else"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mtg"
@@ -54,4 +54,4 @@ A community to discuss Magic the Gathering cards, decks, and whatever else
 |----------------------|---|
 | Published            | 2023-06-10 00:05:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,18 +3,18 @@ title: "Computer War Games"
 name: "computerwargames"
 description: "**A place to talk about War Games**From Gary Grigsby to John Tiller, Matrix, Slytherine, and many other developers and companies, this is to the place to take about these interests!Talk tactics, strategy, whatever you wish, just keep it clean.**Rules**Wheaton's Law is in effect"
 type: community
-date: "2023-06-16 22:56:07"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/computerwargames"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 20
 posts: 4
 comments: 18
 weight: 4
 dau: 2
-wau: 12
+wau: 8
 mau: 12
 instances:
 - "lemmygrad_ml"
@@ -41,11 +41,11 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 20 |
 | Posts                | 4  |
 | Comments             | 18  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
+| Weekly Active Users  | 8  |
 | Monthly Active Users | 12  |
 
 <br>
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 13:38:16 |
 | Updated              | 2023-06-14 17:24:35 |
-| Last Scraped         | 2023-06-16 22:56:07 |
+| Last Scraped         | 2023-06-19 11:35:08 |

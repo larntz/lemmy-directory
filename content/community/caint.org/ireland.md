@@ -3,19 +3,19 @@ title: "ireland"
 name: "ireland"
 description: "Ireland on the fediverse / Éire ar an fediverse"
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://caint.org/c/ireland"
 host: caint.org
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 2
+posts: 4
+comments: 1
+weight: 4
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "caint_org"
 tags: 
@@ -41,12 +41,12 @@ Ireland on the fediverse / Éire ar an fediverse
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 2 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ireland on the fediverse / Éire ar an fediverse
 |----------------------|---|
 | Published            | 2023-06-13 19:49:48 |
 | Updated              | 2023-06-14 13:13:43 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

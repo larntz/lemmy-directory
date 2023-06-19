@@ -3,13 +3,13 @@ title: "Raspberry Pi ideas / projects"
 name: "raspberrypi"
 description: "Ideas/demos for hardware / software integration on raspberry pi"
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/raspberrypi"
 host: quex.cc
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 35
 posts: 8
 comments: 7
 weight: 8
@@ -41,7 +41,7 @@ Ideas/demos for hardware / software integration on raspberry pi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 35 |
 | Posts                | 8  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Ideas/demos for hardware / software integration on raspberry pi
 |----------------------|---|
 | Published            | 2023-06-06 17:53:10 |
 | Updated              | 2023-06-13 01:09:11 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

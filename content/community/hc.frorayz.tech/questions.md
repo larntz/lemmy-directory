@@ -3,7 +3,7 @@ title: "Questions"
 name: "questions"
 description: "Ask any questions about Hunter College here~"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:12"
 draft: false
 nsfw: false
 actor_id: "https://hc.frorayz.tech/c/questions"
@@ -54,4 +54,4 @@ Ask any questions about Hunter College here~
 |----------------------|---|
 | Published            | 2023-06-09 07:13:40 |
 | Updated              | 2023-06-13 03:08:46 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:12 |

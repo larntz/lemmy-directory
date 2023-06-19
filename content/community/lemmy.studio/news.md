@@ -3,19 +3,19 @@ title: "News"
 name: "news"
 description: "Community for sharing music-related news: album releases, new software/hardware, concerts, etc."
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/news"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 3
+subscribers: 19
+posts: 4
 comments: 7
-weight: 3
+weight: 4
 dau: 1
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "lemmy_studio"
 tags: 
@@ -41,12 +41,12 @@ Community for sharing music-related news: album releases, new software/hardware,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
+| Subscribers          | 19 |
+| Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for sharing music-related news: album releases, new software/hardware,
 |----------------------|---|
 | Published            | 2023-06-07 21:14:07 |
 | Updated              | 2023-06-07 21:17:34 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

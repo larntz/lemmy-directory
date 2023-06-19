@@ -3,13 +3,13 @@ title: "OnePlus"
 name: "oneplus"
 description: "Share news, opinions or questions relating to OnePlus."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oneplus"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 20
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Share news, opinions or questions relating to OnePlus.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 20 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Share news, opinions or questions relating to OnePlus.
 |----------------------|---|
 | Published            | 2021-12-15 01:19:04 |
 | Updated              | 2021-12-15 21:48:40 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:37:00 |

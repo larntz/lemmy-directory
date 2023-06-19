@@ -3,19 +3,19 @@ title: "User Experience"
 name: "uxdesign"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uxdesign"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 3
+subscribers: 22
+posts: 4
 comments: 1
-weight: 3
-dau: 2
-wau: 2
-mau: 2
+weight: 4
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 3  |
+| Subscribers          | 22 |
+| Posts                | 4  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-07-21 08:07:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:36:44 |

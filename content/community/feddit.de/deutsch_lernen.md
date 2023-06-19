@@ -3,19 +3,19 @@ title: "Deutsch Als Fremdsprache"
 name: "deutsch_lernen"
 description: "Ein Forum für alle DeutschlernerInnenViel SpaßA forum for people learning German.Only language learning forum I could find on lemmy :)"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/deutsch_lernen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 3
-comments: 4
-weight: 3
-dau: 1
-wau: 3
-mau: 3
+subscribers: 25
+posts: 4
+comments: 10
+weight: 4
+dau: 3
+wau: 8
+mau: 8
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Ein Forum für alle DeutschlernerInnen<br>Viel Spaß<br><br>A forum for people l
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 25 |
+| Posts                | 4  |
+| Comments             | 10  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Ein Forum für alle DeutschlernerInnen<br>Viel Spaß<br><br>A forum for people l
 |----------------------|---|
 | Published            | 2023-06-13 16:50:51 |
 | Updated              | 2023-06-13 19:23:52 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

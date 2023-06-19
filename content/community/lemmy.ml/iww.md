@@ -3,13 +3,13 @@ title: "industrial workers of the world"
 name: "iww"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iww"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 39
 posts: 19
 comments: 3
 weight: 19
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 39 |
 | Posts                | 19  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-07-22 16:56:32 |
 | Updated              | 2021-01-01 23:25:45 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

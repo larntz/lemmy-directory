@@ -3,7 +3,7 @@ title: "Translations - any language2language welcome"
 name: "translations"
 description: "Discussions and projects about instance-related translations. Any language welcome. (*cf.* note) Any level welcome: you are encouraged to use tags like  [expert]/[amateur]/[automatic] if appropriate.note: English only as *lingua franca*, no linguistic imperialism intended."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/translations"
@@ -54,4 +54,4 @@ Discussions and projects about instance-related translations. Any language welco
 |----------------------|---|
 | Published            | 2020-06-29 19:19:55 |
 | Updated              | 2020-06-29 19:27:20 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

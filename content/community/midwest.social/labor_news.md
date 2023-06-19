@@ -3,18 +3,18 @@ title: "Labor News"
 name: "labor_news"
 description: "A community primarily for posting news about the US labor movement."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/labor_news"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 54
 posts: 6
 comments: 5
 weight: 6
-dau: 2
-wau: 4
+dau: 1
+wau: 2
 mau: 5
 instances:
 - "midwest_social"
@@ -41,11 +41,11 @@ A community primarily for posting news about the US labor movement.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 54 |
 | Posts                | 6  |
 | Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ A community primarily for posting news about the US labor movement.
 |----------------------|---|
 | Published            | 2023-06-07 14:57:04 |
 | Updated              | 2023-06-07 14:58:52 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

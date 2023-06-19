@@ -3,13 +3,13 @@ title: "Debian|Devuan (FR)"
 name: "deb_fr"
 description: "Promotions d'articles et autres informations en FRançais à-propos de Debian et Devuan. ----⇒ 3 forums :- **[Debian-Facile](https://debian-facile.org)**- **debian-fr**.([org](https://debian-fr.org)|[xyz](https://debian-fr.xyz))⇒ Site Officiel Debian : - le [Wiki FR](https://wiki.debian.org/fr/FrontPage) ⇒ Site Officiel Devuan : - https://www.devuan.org/ *(en anglais)*----*( [@hucste](https://lemmy.ml/u/hucste) est **administrateur** de la communauté “debian-fr.org”)*"
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deb_fr"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 35
 comments: 4
 weight: 35
@@ -41,7 +41,7 @@ Promotions d'articles et autres informations en FRançais à-propos de Debian et
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 35  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Promotions d'articles et autres informations en FRançais à-propos de Debian et
 |----------------------|---|
 | Published            | 2021-09-11 20:50:05 |
 | Updated              | 2021-09-23 09:17:30 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:45 |

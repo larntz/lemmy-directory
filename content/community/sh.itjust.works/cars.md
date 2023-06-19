@@ -3,13 +3,13 @@ title: "Cars"
 name: "cars"
 description: "Cars!"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cars"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Cars!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Cars!
 |----------------------|---|
 | Published            | 2023-06-12 03:04:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,13 +3,13 @@ title: "Racism"
 name: "racism"
 description: "A long overdue community for documenting cases of racism and race-related issues!"
 type: community
-date: "2023-06-15 17:37:02"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/racism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 33
 posts: 8
 comments: 6
 weight: 8
@@ -41,7 +41,7 @@ A long overdue community for documenting cases of racism and race-related issues
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 33 |
 | Posts                | 8  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A long overdue community for documenting cases of racism and race-related issues
 |----------------------|---|
 | Published            | 2021-02-20 00:06:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |
+| Last Scraped         | 2023-06-19 11:35:08 |

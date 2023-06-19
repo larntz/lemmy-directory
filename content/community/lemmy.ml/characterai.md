@@ -3,16 +3,16 @@ title: "Character AI"
 name: "characterai"
 description: "Unofficial Community for character.ai"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/characterai"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 1
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Unofficial Community for character.ai
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Unofficial Community for character.ai
 |----------------------|---|
 | Published            | 2023-06-02 08:58:10 |
 | Updated              | 2023-06-02 21:09:20 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

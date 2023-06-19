@@ -3,13 +3,13 @@ title: "Fungi"
 name: "fungi"
 description: "A place to discuss all things fungi! Post your pics, ID requests, and general banter about fungis.Please keep all posts respectful and civil."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fungi"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss all things fungi! <br><br>Post your pics, ID requests, and ge
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss all things fungi! <br><br>Post your pics, ID requests, and ge
 |----------------------|---|
 | Published            | 2023-06-09 23:30:37 |
 | Updated              | 2023-06-09 23:32:06 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

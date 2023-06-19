@@ -3,7 +3,7 @@ title: "Civilloquy Meta"
 name: "meta"
 description: "For discussion about Civilloquy itself"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:00"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/meta"
@@ -54,4 +54,4 @@ For discussion about Civilloquy itself
 |----------------------|---|
 | Published            | 2023-06-06 17:17:57 |
 | Updated              | 2023-06-13 14:59:05 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:00 |

@@ -3,13 +3,13 @@ title: "Margate"
 name: "margate"
 description: "All news, stories and entertainment/restaurants etc. in Margate, UK"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/margate"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ All news, stories and entertainment/restaurants etc. in Margate, UK
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ All news, stories and entertainment/restaurants etc. in Margate, UK
 |----------------------|---|
 | Published            | 2023-06-14 10:01:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

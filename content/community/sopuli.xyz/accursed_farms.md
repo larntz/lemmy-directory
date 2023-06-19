@@ -3,13 +3,13 @@ title: "Accursed Farms - Scott Ross's fan community"
 name: "accursed_farms"
 description: "Scott Ross's dead games (games as a service) news, strange games, holiday spirit games, whimsical reviews, the voice of Gordon Freeman, and, eventually, The Movie."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/accursed_farms"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Scott Ross's dead games (games as a service) news, strange games, holiday spirit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Scott Ross's dead games (games as a service) news, strange games, holiday spirit
 |----------------------|---|
 | Published            | 2021-04-12 15:34:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

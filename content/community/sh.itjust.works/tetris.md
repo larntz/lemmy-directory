@@ -3,13 +3,13 @@ title: "Tetris"
 name: "tetris"
 description: "Welcome. All forms of our favorite block stacking game may be discuss (official and unofficial)"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tetris"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 2
 weight: 1
@@ -41,7 +41,7 @@ Welcome. All forms of our favorite block stacking game may be discuss (official 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Welcome. All forms of our favorite block stacking game may be discuss (official 
 |----------------------|---|
 | Published            | 2023-06-14 02:48:33 |
 | Updated              | 2023-06-14 14:59:25 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

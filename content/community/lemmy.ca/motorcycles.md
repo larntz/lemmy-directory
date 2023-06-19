@@ -3,13 +3,13 @@ title: "motorcycles"
 name: "motorcycles"
 description: "Anything on two wheels. And some on three!"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/motorcycles"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Anything on two wheels. And some on three!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Anything on two wheels. And some on three!
 |----------------------|---|
 | Published            | 2023-06-12 21:00:57 |
 | Updated              | 2023-06-16 17:03:13 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

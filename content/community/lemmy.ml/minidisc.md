@@ -3,13 +3,13 @@ title: "Minidisc"
 name: "minidisc"
 description: "For minidisc enthusiasts!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minidisc"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For minidisc enthusiasts!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For minidisc enthusiasts!
 |----------------------|---|
 | Published            | 2023-06-02 22:00:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

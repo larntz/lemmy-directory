@@ -3,13 +3,13 @@ title: "Leaves"
 name: "leaves"
 description: "People smoking weed when they want without recrimination? Good. Not being able to stop smoking weed even when you want to? Bad.This community is for practical discussions about how to stop smoking if you've decided to and support in staying stopped from your fellow leaves. The only requirement for being here is that you have decided it's time to quit for good.- - -**Note** I created this community because it didn't exist yet and needed to vent. If anybody wants to take over, be my guest."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leaves"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ People smoking weed when they want without recrimination? Good. Not being able t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ People smoking weed when they want without recrimination? Good. Not being able t
 |----------------------|---|
 | Published            | 2023-06-02 18:42:27 |
 | Updated              | 2023-06-03 10:04:29 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:36:45 |

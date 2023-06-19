@@ -3,16 +3,16 @@ title: "ドラゴンクエスト10"
 name: "dqx_online"
 description: "DQXオンライン、オフラインに関する情報、感想などはこちらにどうぞ、短文でもOK"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/dqx_online"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
 subscribers: 7
-posts: 10
+posts: 11
 comments: 3
-weight: 10
+weight: 11
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ DQXオンライン、オフラインに関する情報、感想などはこち�
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 7 |
-| Posts                | 10  |
+| Posts                | 11  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ DQXオンライン、オフラインに関する情報、感想などはこち�
 |----------------------|---|
 | Published            | 2022-11-04 07:16:00 |
 | Updated              | 2023-05-29 00:56:46 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

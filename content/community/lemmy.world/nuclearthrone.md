@@ -1,9 +1,9 @@
 ---
 title: "Nuclear Throne" 
 name: "nuclearthrone"
-description: "Community for all things Nuclear Throne!**Rules**1. keep posts on topic2. be nice3. No NSFW content**Links**[Discord](https://discord.gg/nt)[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)[ThroneButt](https://thronebutt.com/)"
+description: "Community for all things Nuclear Throne!**Rules**1. keep posts on topic2. be nice3. No NSFW content**Links**[Official Discord](https://discord.gg/nt)[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)[ThroneButt](https://thronebutt.com/)"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nuclearthrone"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Community for all things Nuclear Throne!<br><br>**Rules**<br>1. keep posts on topic<br>2. be nice<br>3. No NSFW content<br><br>**Links**<br><br>[Discord](https://discord.gg/nt)<br><br>[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)<br><br>[ThroneButt](https://thronebutt.com/)
+Community for all things Nuclear Throne!<br><br>**Rules**<br>1. keep posts on topic<br>2. be nice<br>3. No NSFW content<br><br>**Links**<br><br>[Official Discord](https://discord.gg/nt)<br><br>[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)<br><br>[ThroneButt](https://thronebutt.com/)
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Community for all things Nuclear Throne!<br><br>**Rules**<br>1. keep posts on to
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-16 12:52:38 |
-| Updated              | 2023-06-16 13:16:15 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Updated              | 2023-06-17 02:12:07 |
+| Last Scraped         | 2023-06-19 11:36:37 |

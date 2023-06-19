@@ -3,18 +3,18 @@ title: "TrueSTL"
 name: "truestl"
 description: "A place for Elder Scrolls ~~lore discussion,~~ schizo and hornyposting"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/truestl"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 43
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_antemeridiem_xyz"
@@ -41,11 +41,11 @@ A place for Elder Scrolls ~~lore discussion,~~ schizo and hornyposting
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 43 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place for Elder Scrolls ~~lore discussion,~~ schizo and hornyposting
 |----------------------|---|
 | Published            | 2023-06-10 17:06:58 |
 | Updated              | 2023-06-10 20:20:01 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

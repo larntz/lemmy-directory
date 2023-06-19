@@ -3,13 +3,13 @@ title: "fish"
 name: "fish"
 description: "Everything about the friendly interactive shell"
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fish"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Everything about the friendly interactive shell
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Everything about the friendly interactive shell
 |----------------------|---|
 | Published            | 2020-05-22 21:48:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:55 |

@@ -3,19 +3,19 @@ title: "Albuquerque, NM"
 name: "abq"
 description: "## **Rules**1. Try not to do anything we need to make a rule about. It will be named after you."
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/abq"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 3
-comments: 1
-weight: 3
+subscribers: 13
+posts: 4
+comments: 3
+weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 1  |
+| Subscribers          | 13 |
+| Posts                | 4  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 23:42:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:17 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,16 +3,16 @@ title: "Youtube Oddities"
 name: "youtube_oddities"
 description: "Notice any strange videos? Something that might fall into the ARG category? Something extremely disturbing? Want to share someone covering mysteries? Post about it, ask about it, come across something new here.Please note, this community is not for meme videos. Please ensure your topic does not already exist or that it hasn't been posted by using the search function."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/youtube_oddities"
 host: iusearchlinux.fyi
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 2
+subscribers: 14
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Notice any strange videos? Something that might fall into the ARG category? Some
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
+| Subscribers          | 14 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Notice any strange videos? Something that might fall into the ARG category? Some
 |----------------------|---|
 | Published            | 2023-06-16 11:41:47 |
 | Updated              | 2023-06-16 11:43:08 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

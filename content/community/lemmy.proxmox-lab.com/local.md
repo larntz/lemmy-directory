@@ -3,7 +3,7 @@ title: "Local Community"
 name: "local"
 description: "A Community for people on this instance"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.proxmox-lab.com/c/local"
@@ -54,4 +54,4 @@ A Community for people on this instance
 |----------------------|---|
 | Published            | 2023-06-13 21:00:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:22 |

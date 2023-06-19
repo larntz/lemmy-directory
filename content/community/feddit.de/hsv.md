@@ -3,7 +3,7 @@ title: "HSV"
 name: "hsv"
 description: "nur der HSV"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hsv"
@@ -54,4 +54,4 @@ nur der HSV
 |----------------------|---|
 | Published            | 2023-06-03 19:31:44 |
 | Updated              | 2023-06-03 19:51:11 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

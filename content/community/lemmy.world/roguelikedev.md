@@ -3,17 +3,17 @@ title: "roguelikedev"
 name: "roguelikedev"
 description: "A community of roguelike developers. Discuss work-in-progress roguelikes and a broad range of roguelike development topics."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roguelikedev"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 20
 posts: 2
 comments: 2
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ A community of roguelike developers. Discuss work-in-progress roguelikes and a b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ A community of roguelike developers. Discuss work-in-progress roguelikes and a b
 |----------------------|---|
 | Published            | 2023-06-13 11:22:08 |
 | Updated              | 2023-06-13 11:25:08 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:39 |

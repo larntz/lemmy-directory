@@ -3,19 +3,19 @@ title: "Sysadmin"
 name: "sysadmin"
 description: "A community dedicated to the profession of IT Systems Administration"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sysadmin"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1209
-posts: 12
-comments: 53
-weight: 12
-dau: 4
-wau: 34
-mau: 34
+subscribers: 1492
+posts: 13
+comments: 65
+weight: 13
+dau: 3
+wau: 31
+mau: 39
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to the profession of IT Systems Administration
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1209 |
-| Posts                | 12  |
-| Comments             | 53  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 34  |
+| Subscribers          | 1492 |
+| Posts                | 13  |
+| Comments             | 65  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 31  |
+| Monthly Active Users | 39  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to the profession of IT Systems Administration
 |----------------------|---|
 | Published            | 2023-06-07 23:14:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,13 +3,13 @@ title: "Army"
 name: "army"
 description: "The worlds official un-official army community"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/army"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ The worlds official un-official army community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ The worlds official un-official army community
 |----------------------|---|
 | Published            | 2023-06-16 14:35:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

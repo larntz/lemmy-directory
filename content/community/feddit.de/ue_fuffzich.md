@@ -3,13 +3,13 @@ title: "Ü50"
 name: "ue_fuffzich"
 description: "Deutschsprachige Community für Leute über 50. Alles was nützlich und interessant für unsere Altersgruppe ist (keine Politik, keine Kontaktbörse)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ue_fuffzich"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 19
 posts: 8
 comments: 10
 weight: 8
@@ -41,7 +41,7 @@ Deutschsprachige Community für Leute über 50. Alles was nützlich und interess
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 19 |
 | Posts                | 8  |
 | Comments             | 10  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ Deutschsprachige Community für Leute über 50. Alles was nützlich und interess
 |----------------------|---|
 | Published            | 2023-06-08 18:02:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

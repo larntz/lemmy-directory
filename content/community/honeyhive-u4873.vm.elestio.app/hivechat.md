@@ -3,7 +3,7 @@ title: "Hive Chat"
 name: "hivechat"
 description: "A local place to chat with other members of this instance"
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://honeyhive-u4873.vm.elestio.app/c/hivechat"
@@ -54,4 +54,4 @@ A local place to chat with other members of this instance
 |----------------------|---|
 | Published            | 2023-06-15 03:35:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

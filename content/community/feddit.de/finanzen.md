@@ -3,19 +3,19 @@ title: "finanzen"
 name: "finanzen"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/finanzen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 488
-posts: 22
-comments: 156
-weight: 22
-dau: 14
-wau: 54
-mau: 55
+subscribers: 569
+posts: 25
+comments: 184
+weight: 25
+dau: 11
+wau: 75
+mau: 83
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 488 |
-| Posts                | 22  |
-| Comments             | 156  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 54  |
-| Monthly Active Users | 55  |
+| Subscribers          | 569 |
+| Posts                | 25  |
+| Comments             | 184  |
+| Daily Active Users   | 11  |
+| Weekly Active Users  | 75  |
+| Monthly Active Users | 83  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 22:23:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

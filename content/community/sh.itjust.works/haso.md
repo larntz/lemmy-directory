@@ -3,15 +3,15 @@ title: "Humans are Space Orcs"
 name: "haso"
 description: "Humans are Space Orcs is a community for everyone to share their favourite posts, memes, short stories or art which features aliens reacting to ridiculous or strange things about humanity or aliens being terrified of humanity."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/haso"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 34
 posts: 3
-comments: 2
+comments: 3
 weight: 3
 dau: 0
 wau: 0
@@ -41,9 +41,9 @@ Humans are Space Orcs is a community for everyone to share their favourite posts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 34 |
 | Posts                | 3  |
-| Comments             | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ Humans are Space Orcs is a community for everyone to share their favourite posts
 |----------------------|---|
 | Published            | 2023-06-13 16:28:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

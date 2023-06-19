@@ -3,13 +3,13 @@ title: "Writing"
 name: "writing"
 description: "Discuss writing, post craft resources, ask for feedback, etc!No misconduct, including: harassment, abuse, assault, bullying, illegal activity, or discrimination.**Follow all sh.itjust.works rules.**"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/writing"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 106
+subscribers: 127
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ Discuss writing, post craft resources, ask for feedback, etc!<br><br>No miscondu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 106 |
+| Subscribers          | 127 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Discuss writing, post craft resources, ask for feedback, etc!<br><br>No miscondu
 |----------------------|---|
 | Published            | 2023-06-09 00:00:05 |
 | Updated              | 2023-06-09 00:39:11 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

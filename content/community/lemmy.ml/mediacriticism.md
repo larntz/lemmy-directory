@@ -3,13 +3,13 @@ title: "Media Criticism"
 name: "mediacriticism"
 description: "A discussion about framing of stories by the media."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mediacriticism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 10
 comments: 2
 weight: 10
@@ -41,7 +41,7 @@ A discussion about framing of stories by the media.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 10  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A discussion about framing of stories by the media.
 |----------------------|---|
 | Published            | 2021-02-16 14:52:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:56 |

@@ -3,13 +3,13 @@ title: "you must read"
 name: "youmustread"
 description: "thought provoking books, essays, and other writing that people should read to radically change the way they think about something."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youmustread"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ thought provoking books, essays, and other writing that people should read to ra
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ thought provoking books, essays, and other writing that people should read to ra
 |----------------------|---|
 | Published            | 2021-05-29 00:08:26 |
 | Updated              | 2021-05-29 00:09:02 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

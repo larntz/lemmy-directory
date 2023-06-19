@@ -3,16 +3,16 @@ title: "footy"
 name: "footy"
 description: "Discussion of all things related to football."
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/footy"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 9
+subscribers: 17
+posts: 10
 comments: 33
-weight: 9
+weight: 10
 dau: 3
 wau: 8
 mau: 8
@@ -41,8 +41,8 @@ Discussion of all things related to football.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 9  |
+| Subscribers          | 17 |
+| Posts                | 10  |
 | Comments             | 33  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 8  |
@@ -54,4 +54,4 @@ Discussion of all things related to football.
 |----------------------|---|
 | Published            | 2023-06-13 15:27:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

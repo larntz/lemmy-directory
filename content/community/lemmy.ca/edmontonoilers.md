@@ -3,13 +3,13 @@ title: "Edmonton Oilers"
 name: "edmontonoilers"
 description: "A place to discuss everything Oilers, old and new. News and highlights, trade and signing rumours and ideas, stats and contracts, from the serious to the lighthearted.[c/Hockey](https://lemmy.ca/c/hockey)[c/Edmonton](https://lemmy.ca/c/edmonton)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/edmontonoilers"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 27
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ A place to discuss everything Oilers, old and new. News and highlights, trade an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 27 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss everything Oilers, old and new. News and highlights, trade an
 |----------------------|---|
 | Published            | 2023-06-12 23:35:16 |
 | Updated              | 2023-06-14 22:20:37 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

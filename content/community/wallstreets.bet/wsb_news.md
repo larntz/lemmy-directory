@@ -3,13 +3,13 @@ title: "Got something? Tell WSB."
 name: "wsb_news"
 description: "Source that intel."
 type: community
-date: "2023-06-16 22:56:24"
+date: "2023-06-19 11:35:25"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_news"
 host: wallstreets.bet
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Source that intel.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Source that intel.
 |----------------------|---|
 | Published            | 2023-06-13 19:22:46 |
 | Updated              | 2023-06-13 19:23:12 |
-| Last Scraped         | 2023-06-16 22:56:24 |
+| Last Scraped         | 2023-06-19 11:35:25 |

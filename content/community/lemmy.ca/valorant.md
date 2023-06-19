@@ -3,7 +3,7 @@ title: "VALORANT"
 name: "valorant"
 description: "VALORANT is a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/valorant"
@@ -54,4 +54,4 @@ VALORANT is a 5v5 character-based tactical FPS where precise gunplay meets uniqu
 |----------------------|---|
 | Published            | 2023-06-13 06:18:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

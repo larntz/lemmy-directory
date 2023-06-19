@@ -3,13 +3,13 @@ title: "Dark BRANDON"
 name: "darkbrandon"
 description: "[Join our Discord](https://discord.gg/NPjvDywf7P)Help Prevent Malarkey by volunteering for candidates.Rules-All posts must be DarkBRANDON content. Stay on topic.-No trolling or harassing other users.-No reposts.-No product links except official DB merch.-Do not glorify violence, death or use dehumanizing speech-No Bigotry / Nazi Imagery-Follow the lemmy content policy/rules"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darkbrandon"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-16 07:56:27 |
 | Updated              | 2023-06-16 07:57:54 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

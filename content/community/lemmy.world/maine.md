@@ -3,19 +3,19 @@ title: "Maine"
 name: "maine"
 description: "A Lemmy community for the great state of Maine!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maine"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 2
-comments: 3
-weight: 2
+subscribers: 32
+posts: 3
+comments: 4
+weight: 3
 dau: 2
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A Lemmy community for the great state of Maine!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 2  |
-| Comments             | 3  |
+| Subscribers          | 32 |
+| Posts                | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A Lemmy community for the great state of Maine!
 |----------------------|---|
 | Published            | 2023-06-12 18:13:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

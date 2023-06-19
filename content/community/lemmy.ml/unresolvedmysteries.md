@@ -3,18 +3,18 @@ title: "Unresolved Mysteries"
 name: "unresolvedmysteries"
 description: "A place to discuss true crime and unresolved mysteries. Theories and speculation welcome."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unresolvedmysteries"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 87
-posts: 7
-comments: 16
-weight: 7
+subscribers: 96
+posts: 8
+comments: 17
+weight: 8
 dau: 4
-wau: 6
+wau: 4
 mau: 6
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place to discuss true crime and unresolved mysteries. Theories and speculation
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
-| Posts                | 7  |
-| Comments             | 16  |
+| Subscribers          | 96 |
+| Posts                | 8  |
+| Comments             | 17  |
 | Daily Active Users   | 4  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ A place to discuss true crime and unresolved mysteries. Theories and speculation
 |----------------------|---|
 | Published            | 2023-06-09 16:03:19 |
 | Updated              | 2023-06-09 16:08:08 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

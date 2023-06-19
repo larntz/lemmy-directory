@@ -3,19 +3,19 @@ title: "Pacific Northwest - OR,WA,BC"
 name: "pnw"
 description: "Discussion specific to the Pacific Northwest.  News, events, general topics. Simple rules:1) Content related to the Pacific Northwest only.  News, sports, political movements, etc.2) Don't be a dick.3) No NSFW content. "
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pnw"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 418
-posts: 10
-comments: 52
-weight: 10
-dau: 5
-wau: 28
-mau: 28
+subscribers: 493
+posts: 22
+comments: 63
+weight: 22
+dau: 7
+wau: 25
+mau: 33
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Discussion specific to the Pacific Northwest.  News, events, general topics. <br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 418 |
-| Posts                | 10  |
-| Comments             | 52  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 28  |
-| Monthly Active Users | 28  |
+| Subscribers          | 493 |
+| Posts                | 22  |
+| Comments             | 63  |
+| Daily Active Users   | 7  |
+| Weekly Active Users  | 25  |
+| Monthly Active Users | 33  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussion specific to the Pacific Northwest.  News, events, general topics. <br
 |----------------------|---|
 | Published            | 2023-06-09 22:31:51 |
 | Updated              | 2023-06-12 14:34:37 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

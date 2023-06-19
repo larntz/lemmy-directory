@@ -3,13 +3,13 @@ title: "Video games"
 name: "videogames"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:46"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/videogames"
 host: fedibb.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 12 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-11-04 12:16:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:46 |
+| Last Scraped         | 2023-06-19 11:34:49 |

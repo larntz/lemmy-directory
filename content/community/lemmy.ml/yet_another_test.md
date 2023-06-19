@@ -3,7 +3,7 @@ title: "fff"
 name: "yet_another_test"
 description: "www"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yet_another_test"
@@ -54,4 +54,4 @@ www
 |----------------------|---|
 | Published            | 2019-04-26 01:04:06 |
 | Updated              | 2019-04-26 01:09:07 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

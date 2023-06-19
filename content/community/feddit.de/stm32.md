@@ -3,7 +3,7 @@ title: "STM32"
 name: "stm32"
 description: "A community about software and hardware development based on the ARM based STM32 microcontrollers."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/stm32"
@@ -54,4 +54,4 @@ A community about software and hardware development based on the ARM based STM32
 |----------------------|---|
 | Published            | 2023-06-13 11:41:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

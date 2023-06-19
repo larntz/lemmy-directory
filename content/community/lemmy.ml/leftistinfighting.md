@@ -3,19 +3,19 @@ title: "Leftist Infighting"
 name: "leftistinfighting"
 description: "This is a safe space to call each other tankies and libs."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftistinfighting"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 67
 posts: 6
 comments: 76
 weight: 6
-dau: 1
-wau: 7
-mau: 13
+dau: 3
+wau: 6
+mau: 15
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ This is a safe space to call each other tankies and libs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 67 |
 | Posts                | 6  |
 | Comments             | 76  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 13  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ This is a safe space to call each other tankies and libs.
 |----------------------|---|
 | Published            | 2023-06-02 22:25:34 |
 | Updated              | 2023-06-02 22:31:05 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:44 |

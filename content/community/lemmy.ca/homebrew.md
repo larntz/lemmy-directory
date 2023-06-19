@@ -3,13 +3,13 @@ title: "Homebrew"
 name: "homebrew"
 description: "Dedicated to all homebrewing. Beer, wine, high alcohol and more!"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/homebrew"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 24
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Dedicated to all homebrewing. Beer, wine, high alcohol and more!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 24 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dedicated to all homebrewing. Beer, wine, high alcohol and more!
 |----------------------|---|
 | Published            | 2023-06-10 19:34:31 |
 | Updated              | 2023-06-11 17:09:58 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

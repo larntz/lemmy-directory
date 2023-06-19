@@ -3,19 +3,19 @@ title: "Soccer"
 name: "soccer"
 description: "Welcome to !soccer@midwest.social, where you can share and converse about the different things happening about soccer all over the world!If you’re interested in participating, please subscribe.RulesBe respectful and civil. No racism/bigotry/hateful speech.Post anything related to the soccer world."
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/soccer"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 36
-posts: 5
+subscribers: 39
+posts: 7
 comments: 6
-weight: 5
+weight: 7
 dau: 1
-wau: 2
-mau: 6
+wau: 3
+mau: 7
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Welcome to !soccer@midwest.social, where you can share and converse about the di
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 5  |
+| Subscribers          | 39 |
+| Posts                | 7  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to !soccer@midwest.social, where you can share and converse about the di
 |----------------------|---|
 | Published            | 2022-12-27 21:55:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-19 11:35:29 |

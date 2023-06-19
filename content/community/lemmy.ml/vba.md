@@ -3,7 +3,7 @@ title: "VBA"
 name: "vba"
 description: "All about VBA coding."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vba"
@@ -54,4 +54,4 @@ All about VBA coding.
 |----------------------|---|
 | Published            | 2019-10-17 11:34:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:45 |

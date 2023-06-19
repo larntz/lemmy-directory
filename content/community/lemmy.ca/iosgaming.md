@@ -3,13 +3,13 @@ title: "iOS Gaming"
 name: "iosgaming"
 description: "Welcome to iOS Gaming. iOS Gaming News, Discussion and Recommendations."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/iosgaming"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Welcome to iOS Gaming. <br><br>iOS Gaming News, Discussion and Recommendations.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to iOS Gaming. <br><br>iOS Gaming News, Discussion and Recommendations.
 |----------------------|---|
 | Published            | 2023-06-13 06:32:33 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

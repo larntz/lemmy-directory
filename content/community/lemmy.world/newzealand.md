@@ -3,16 +3,16 @@ title: "New Zealand"
 name: "newzealand"
 description: "A community for New Zealanders to hangout"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newzealand"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 2
+subscribers: 14
+posts: 4
 comments: 1
-weight: 2
+weight: 4
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ A community for New Zealanders to hangout
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
+| Subscribers          | 14 |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A community for New Zealanders to hangout
 |----------------------|---|
 | Published            | 2023-06-12 22:21:01 |
 | Updated              | 2023-06-12 22:22:55 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

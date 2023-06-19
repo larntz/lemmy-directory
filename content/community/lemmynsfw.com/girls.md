@@ -3,13 +3,13 @@ title: "Girls"
 name: "girls"
 description: "Posts must contain NSFW girl pics, vids, etc. Do not break any sitewide rules. "
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/girls"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 71
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ Posts must contain NSFW girl pics, vids, etc. Do not break any sitewide rules.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 71 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ Posts must contain NSFW girl pics, vids, etc. Do not break any sitewide rules.
 |----------------------|---|
 | Published            | 2023-06-15 00:14:44 |
 | Updated              | 2023-06-15 00:16:03 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

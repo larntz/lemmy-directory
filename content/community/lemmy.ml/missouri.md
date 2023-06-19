@@ -3,19 +3,19 @@ title: "Missouri | The Show-Me State"
 name: "missouri"
 description: "A place for discussion on all things MO."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missouri"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 8
 comments: 3
 weight: 8
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place for discussion on all things MO.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for discussion on all things MO.
 |----------------------|---|
 | Published            | 2023-06-02 20:54:06 |
 | Updated              | 2023-06-08 23:22:28 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:57 |

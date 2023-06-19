@@ -3,13 +3,13 @@ title: "IPTV"
 name: "iptv"
 description: "To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere. No promotion of paid services."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iptv"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 61
+subscribers: 62
 posts: 4
 comments: 5
 weight: 4
@@ -41,7 +41,7 @@ To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 61 |
+| Subscribers          | 62 |
 | Posts                | 4  |
 | Comments             | 5  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere.
 |----------------------|---|
 | Published            | 2022-02-09 20:04:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

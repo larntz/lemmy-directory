@@ -3,17 +3,17 @@ title: "Adventure Time"
 name: "adventuretime"
 description: "Come on and grab your friends!Discussion about Adventure Time, the cartoon network series."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/adventuretime"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
-comments: 0
-weight: 1
-dau: 0
+subscribers: 10
+posts: 4
+comments: 1
+weight: 4
+dau: 1
 wau: 0
 mau: 0
 instances:
@@ -41,10 +41,10 @@ Come on and grab your friends!<br><br>Discussion about Adventure Time, the carto
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
+| Subscribers          | 10 |
+| Posts                | 4  |
+| Comments             | 1  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
 
@@ -54,4 +54,4 @@ Come on and grab your friends!<br><br>Discussion about Adventure Time, the carto
 |----------------------|---|
 | Published            | 2023-06-16 07:15:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

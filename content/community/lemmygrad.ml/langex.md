@@ -3,7 +3,7 @@ title: "Language exchange"
 name: "langex"
 description: "Community for people of different languages to diminish the borders between us. Share language learning books, your experiences trying to learn new languages, the difficulties, methods, or your interest of languages in general, their history, the cultural relationship, the philosophical inquiry of language and thought, the relationship between language and class society, you name it. "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/langex"
@@ -54,4 +54,4 @@ Community for people of different languages to diminish the borders between us. 
 |----------------------|---|
 | Published            | 2022-01-16 07:14:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

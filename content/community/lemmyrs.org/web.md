@@ -3,13 +3,13 @@ title: "Rust: Web Development"
 name: "web"
 description: "[Developing]# GoalDiscussions about using Rust for Web Development."
 type: community
-date: "2023-06-16 22:56:04"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/web"
 host: lemmyrs.org
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 25
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 25 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 04:26:54 |
 | Updated              | 2023-06-15 04:43:38 |
-| Last Scraped         | 2023-06-16 22:56:04 |
+| Last Scraped         | 2023-06-19 11:35:01 |

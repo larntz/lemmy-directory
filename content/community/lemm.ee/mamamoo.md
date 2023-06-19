@@ -3,13 +3,13 @@ title: "MAMAMOO"
 name: "mamamoo"
 description: "4 member girl group from South KoreaSolar ☀️, Moon Byul ⭐️, Whee In 💨, Hwa Sa 🌺"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mamamoo"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 13:05:43 |
 | Updated              | 2023-06-10 13:14:41 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

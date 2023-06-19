@@ -3,13 +3,13 @@ title: "Noam Chomsky"
 name: "chomsky"
 description: "This is a place to share and discuss content related to History, Politics, Media, Anarchism, Linguistics, Cognitive Science, Free Speech and everything else by people familiar with, or interested in learning about, Noam Chomsky."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chomsky"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 145
+subscribers: 148
 posts: 25
 comments: 13
 weight: 25
@@ -41,7 +41,7 @@ This is a place to share and discuss content related to History, Politics, Media
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 145 |
+| Subscribers          | 148 |
 | Posts                | 25  |
 | Comments             | 13  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ This is a place to share and discuss content related to History, Politics, Media
 |----------------------|---|
 | Published            | 2020-06-02 11:42:53 |
 | Updated              | 2021-02-05 17:37:13 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:45 |

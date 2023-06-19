@@ -3,13 +3,13 @@ title: "Starcitizen"
 name: "starcitizen"
 description: "All Star Citizen discussions are welcomed here ! "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/starcitizen"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ All Star Citizen discussions are welcomed here !
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ All Star Citizen discussions are welcomed here !
 |----------------------|---|
 | Published            | 2023-06-12 18:58:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

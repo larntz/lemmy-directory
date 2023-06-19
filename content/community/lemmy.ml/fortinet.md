@@ -3,7 +3,7 @@ title: "Fortinet"
 name: "fortinet"
 description: "Discussing all things Fortinet."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fortinet"
@@ -54,4 +54,4 @@ Discussing all things Fortinet.
 |----------------------|---|
 | Published            | 2023-06-08 11:34:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:47 |

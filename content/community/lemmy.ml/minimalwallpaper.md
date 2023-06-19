@@ -3,13 +3,13 @@ title: "MinimalWallpaper"
 name: "minimalwallpaper"
 description: "Wallpapers that have a simple and minimalist design. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minimalwallpaper"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Wallpapers that have a simple and minimalist design.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Wallpapers that have a simple and minimalist design.
 |----------------------|---|
 | Published            | 2021-04-13 04:56:52 |
 | Updated              | 2021-04-13 18:15:22 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

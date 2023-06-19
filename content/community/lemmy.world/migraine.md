@@ -3,19 +3,19 @@ title: "Migraine"
 name: "migraine"
 description: "Community for support, conversation, and healing among migraine sufferers."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/migraine"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 3
-comments: 3
-weight: 3
-dau: 0
-wau: 3
-mau: 3
+subscribers: 29
+posts: 6
+comments: 11
+weight: 6
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Community for support, conversation, and healing among migraine sufferers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 29 |
+| Posts                | 6  |
+| Comments             | 11  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for support, conversation, and healing among migraine sufferers.
 |----------------------|---|
 | Published            | 2023-06-15 00:16:23 |
 | Updated              | 2023-06-15 03:25:01 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

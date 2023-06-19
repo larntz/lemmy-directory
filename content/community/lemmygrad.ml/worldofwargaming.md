@@ -3,7 +3,7 @@ title: "Wargaming anyone? "
 name: "worldofwargaming"
 description: "Any people playing WoT, WoWs (does WoWp still exist?) here? "
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/worldofwargaming"
@@ -54,4 +54,4 @@ Any people playing WoT, WoWs (does WoWp still exist?) here?
 |----------------------|---|
 | Published            | 2020-11-15 21:26:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

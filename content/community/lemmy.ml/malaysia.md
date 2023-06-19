@@ -3,18 +3,18 @@ title: "Malaysia"
 name: "malaysia"
 description: "Komuniti untuk orang Malaysia dan lain bagi perbincangan hal-hal negara. Berbagai-bagai topik dibenarkan.A community for Malaysians and others to discuss about the country. A wide variety of topics is allowed."
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/malaysia"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 34
 posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Komuniti untuk orang Malaysia dan lain bagi perbincangan hal-hal negara. Berbaga
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 34 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Komuniti untuk orang Malaysia dan lain bagi perbincangan hal-hal negara. Berbaga
 |----------------------|---|
 | Published            | 2020-07-13 08:28:47 |
 | Updated              | 2021-03-27 15:19:53 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:46 |

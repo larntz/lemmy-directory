@@ -3,7 +3,7 @@ title: "Tasmania"
 name: "tasmania"
 description: "Tasmania - best place on Earth"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/tasmania"
@@ -14,7 +14,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_nine-hells_net"
@@ -45,7 +45,7 @@ Tasmania - best place on Earth
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Tasmania - best place on Earth
 |----------------------|---|
 | Published            | 2023-06-10 11:16:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

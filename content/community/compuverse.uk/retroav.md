@@ -3,16 +3,16 @@ title: "Retro Audio / Visual"
 name: "retroav"
 description: "A community for audio visual discussion. Topics like VHS, BetaMax, even more obscure formats like LaserDisc are all perfect fits for this community."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/retroav"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 14
-posts: 1
+subscribers: 15
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community for audio visual discussion. Topics like VHS, BetaMax, even more obs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
+| Subscribers          | 15 |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community for audio visual discussion. Topics like VHS, BetaMax, even more obs
 |----------------------|---|
 | Published            | 2023-06-09 18:10:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

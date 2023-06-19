@@ -3,13 +3,13 @@ title: "I want to learn"
 name: "iwanttolearn"
 description: "A community of those who want to learn about something but doesn't nearly know where to start. Idea inspired by  [the subreddit of the same name](https://www.reddit.com/r/iwanttolearn)"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iwanttolearn"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community of those who want to learn about something but doesn't nearly know w
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community of those who want to learn about something but doesn't nearly know w
 |----------------------|---|
 | Published            | 2023-05-15 16:57:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

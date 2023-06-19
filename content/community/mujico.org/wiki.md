@@ -3,7 +3,7 @@ title: "HuachiNet - Wiki"
 name: "wiki"
 description: "Wiki para usar la HuachiNet"
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/wiki"
@@ -54,4 +54,4 @@ Wiki para usar la HuachiNet
 |----------------------|---|
 | Published            | 2022-09-08 00:40:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

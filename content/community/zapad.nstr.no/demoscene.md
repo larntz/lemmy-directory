@@ -3,7 +3,7 @@ title: "demoscene"
 name: "demoscene"
 description: "All about the demoscene, an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audiovisual presentations. The purpose of a demo is to show off programming, visual art, and musical skills."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/demoscene"
@@ -54,4 +54,4 @@ All about the demoscene, an international computer art subculture focused on pro
 |----------------------|---|
 | Published            | 2023-06-15 21:11:14 |
 | Updated              | 2023-06-15 21:12:39 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

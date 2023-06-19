@@ -3,19 +3,19 @@ title: "Aurora Store"
 name: "aurorastore"
 description: "Aurora Store is an alternative to Google Play Store. This is a support chat for Aurora Store. This room is currently bridged with Telegram at t.me/AuroraSupport• Website: https://auroraoss.com• Downloads: https://files.auroraoss.com• Translate: https://envs.sh/wC• Aurora Droid: https://matrix.to/#/#AuroraDroid:auroraoss.com• Aurora OSS Discussion: https://matrix.to/#/#AuroraOSS:auroraoss.com• Aurora Off-Topic Discussion: https://matrix.to/#/#AuroraOT:auroraoss.com"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aurorastore"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 82
+subscribers: 85
 posts: 3
 comments: 2
 weight: 3
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Aurora Store is an alternative to Google Play Store. This is a support chat for 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 82 |
+| Subscribers          | 85 |
 | Posts                | 3  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Aurora Store is an alternative to Google Play Store. This is a support chat for 
 |----------------------|---|
 | Published            | 2021-06-15 16:40:51 |
 | Updated              | 2021-06-15 16:42:06 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

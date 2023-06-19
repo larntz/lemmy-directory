@@ -3,13 +3,13 @@ title: "DGG"
 name: "dgg"
 description: "Dest"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dgg"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Dest
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Dest
 |----------------------|---|
 | Published            | 2023-06-11 08:10:23 |
 | Updated              | 2023-06-13 01:06:17 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

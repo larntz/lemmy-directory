@@ -3,19 +3,19 @@ title: "hairypussy"
 name: "hairypussy"
 description: "Please attempt only hairy pussy and not legs/armsCheck out [!hairy@lemmynsfw.com](https://lemmynsfw.com/c/hairy) "
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hairypussy"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 224
-posts: 9
-comments: 6
-weight: 9
-dau: 3
-wau: 3
-mau: 3
+subscribers: 334
+posts: 25
+comments: 11
+weight: 25
+dau: 8
+wau: 12
+mau: 12
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Please attempt only hairy pussy and not legs/arms<br><br>Check out [!hairy@lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 224 |
-| Posts                | 9  |
-| Comments             | 6  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Subscribers          | 334 |
+| Posts                | 25  |
+| Comments             | 11  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -56,4 +56,4 @@ Please attempt only hairy pussy and not legs/arms<br><br>Check out [!hairy@lemmy
 |----------------------|---|
 | Published            | 2023-06-12 14:46:33 |
 | Updated              | 2023-06-12 18:21:57 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

@@ -3,17 +3,17 @@ title: "GeForceNow"
 name: "geforcenow"
 description: "Welcome to *the* community for GeForceNow subscribers on Lemmy! "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geforcenow"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 39
 posts: 3
 comments: 6
 weight: 3
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:
@@ -41,10 +41,10 @@ Welcome to *the* community for GeForceNow subscribers on Lemmy!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 39 |
 | Posts                | 3  |
 | Comments             | 6  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
 
@@ -54,4 +54,4 @@ Welcome to *the* community for GeForceNow subscribers on Lemmy!
 |----------------------|---|
 | Published            | 2023-06-12 10:38:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

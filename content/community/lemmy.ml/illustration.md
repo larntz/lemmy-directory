@@ -3,13 +3,13 @@ title: "Illustration: A place for your art"
 name: "illustration"
 description: "Post your illustration work here. I'll try to codify some ground rules as this community evolves."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/illustration"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Post your illustration work here. I'll try to codify some ground rules as this c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Post your illustration work here. I'll try to codify some ground rules as this c
 |----------------------|---|
 | Published            | 2023-06-15 15:44:21 |
 | Updated              | 2023-06-16 18:49:47 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

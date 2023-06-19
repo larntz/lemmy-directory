@@ -3,16 +3,16 @@ title: "Loading Ready Run"
 name: "loadingreadyrun"
 description: "An (unofficial) community for discussing all things LRR."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/loadingreadyrun"
 host: lemmy.nrd.li
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 9
+posts: 10
 comments: 2
-weight: 9
+weight: 10
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ An (unofficial) community for discussing all things LRR.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 9  |
+| Posts                | 10  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ An (unofficial) community for discussing all things LRR.
 |----------------------|---|
 | Published            | 2023-06-10 19:50:39 |
 | Updated              | 2023-06-11 02:25:36 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

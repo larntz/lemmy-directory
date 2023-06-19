@@ -3,19 +3,19 @@ title: "Tja"
 name: "tja"
 description: "Was willste machen."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tja"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 128
+subscribers: 132
 posts: 3
 comments: 2
 weight: 3
-dau: 1
-wau: 3
-mau: 3
+dau: 2
+wau: 2
+mau: 4
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Was willste machen.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 128 |
+| Subscribers          | 132 |
 | Posts                | 3  |
 | Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Was willste machen.
 |----------------------|---|
 | Published            | 2023-06-05 15:57:25 |
 | Updated              | 2023-06-12 07:29:21 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

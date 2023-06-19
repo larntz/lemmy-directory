@@ -3,13 +3,13 @@ title: "Intellectual Dark Web"
 name: "idw"
 description: "Intellectual Dark Web"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/idw"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Intellectual Dark Web
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Intellectual Dark Web
 |----------------------|---|
 | Published            | 2023-06-12 23:28:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

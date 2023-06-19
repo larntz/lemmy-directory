@@ -3,13 +3,13 @@ title: "Meet People on Lemmy!"
 name: "meetpeople"
 description: "Meet cool people from all around the world! -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/meetpeople"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Meet cool people from all around the world! <br>-<br>This community is subject t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Meet cool people from all around the world! <br>-<br>This community is subject t
 |----------------------|---|
 | Published            | 2023-06-12 02:29:18 |
 | Updated              | 2023-06-13 01:12:30 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

@@ -3,15 +3,15 @@ title: "Servarr"
 name: "servarr"
 description: "Community to discuss the *arr stack, such as Sonarr, Radarr, Lidar etc.Getting started: https://wiki.servarr.com/"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/servarr"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 291
+subscribers: 332
 posts: 5
-comments: 44
+comments: 45
 weight: 5
 dau: 7
 wau: 13
@@ -41,9 +41,9 @@ Community to discuss the *arr stack, such as Sonarr, Radarr, Lidar etc.<br><br>G
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 291 |
+| Subscribers          | 332 |
 | Posts                | 5  |
-| Comments             | 44  |
+| Comments             | 45  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 13  |
@@ -54,4 +54,4 @@ Community to discuss the *arr stack, such as Sonarr, Radarr, Lidar etc.<br><br>G
 |----------------------|---|
 | Published            | 2023-06-09 00:11:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

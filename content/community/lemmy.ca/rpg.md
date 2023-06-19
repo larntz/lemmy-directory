@@ -3,16 +3,16 @@ title: "Role Playing Games"
 name: "rpg"
 description: "For the discussion of Tabletop Role Playing Games"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rpg"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 253
-posts: 5
-comments: 47
-weight: 5
+subscribers: 289
+posts: 8
+comments: 52
+weight: 8
 dau: 7
 wau: 22
 mau: 23
@@ -41,9 +41,9 @@ For the discussion of Tabletop Role Playing Games
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 253 |
-| Posts                | 5  |
-| Comments             | 47  |
+| Subscribers          | 289 |
+| Posts                | 8  |
+| Comments             | 52  |
 | Daily Active Users   | 7  |
 | Weekly Active Users  | 22  |
 | Monthly Active Users | 23  |
@@ -54,4 +54,4 @@ For the discussion of Tabletop Role Playing Games
 |----------------------|---|
 | Published            | 2023-06-06 14:55:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

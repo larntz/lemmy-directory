@@ -3,19 +3,19 @@ title: "Blog"
 name: "blog"
 description: "Comunicados do adm"
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/blog"
 host: sub.rdls.dev
 lastmod: "{[ .Updated }}"
-subscribers: 1
-posts: 3
-comments: 0
-weight: 3
-dau: 1
-wau: 1
-mau: 1
+subscribers: 2
+posts: 5
+comments: 1
+weight: 5
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "sub_rdls_dev"
 tags: 
@@ -41,12 +41,12 @@ Comunicados do adm
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 2 |
+| Posts                | 5  |
+| Comments             | 1  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Comunicados do adm
 |----------------------|---|
 | Published            | 2023-06-14 04:03:09 |
 | Updated              | 2023-06-14 15:08:00 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:26 |

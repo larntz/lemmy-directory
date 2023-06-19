@@ -3,13 +3,13 @@ title: "Fantasy Football"
 name: "fantasyfootball"
 description: "For the time being copying the rules from the subreddit:1. No individual threads of any kind specific to your team or league.2. Don't post standalone Player/Game Discussion threads when a Game or Postgame Thread is active3. Keep the subreddit on topic and quality up. No memes, irrelevant media or spam.4. Search or check new before posting5. Be respectful6. Avoid posting circlejerk or reaction threads7. Report content that breaks the rules8. No posts about referral or premium content9. No extreme bets, wagers, etc"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/fantasyfootball"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 11
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ For the time being copying the rules from the subreddit:<br><br>1. No individual
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For the time being copying the rules from the subreddit:<br><br>1. No individual
 |----------------------|---|
 | Published            | 2023-06-13 19:13:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

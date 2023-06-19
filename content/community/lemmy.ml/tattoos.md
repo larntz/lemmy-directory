@@ -3,19 +3,19 @@ title: "Tattoos"
 name: "tattoos"
 description: "A place to discuss everything related to tattoos.### RULES:- Do not advertise a shop (however you can advertise an artist)- Follow lemmy.ml rules### Credits:Icon based on a photo by [Lucas Lenzi](https://unsplash.com/@lucaslenzi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tattoo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)Banner based on a photo by [Kristian Angelo](https://unsplash.com/@kgadia87?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tattoo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  "
 type: community
-date: "2023-06-16 22:57:31"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tattoos"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 193
-posts: 13
-comments: 25
-weight: 13
-dau: 1
-wau: 13
-mau: 13
+subscribers: 228
+posts: 14
+comments: 35
+weight: 14
+dau: 2
+wau: 17
+mau: 20
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss everything related to tattoos.<br><br>### RULES:<br>- Do not 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 193 |
-| Posts                | 13  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
+| Subscribers          | 228 |
+| Posts                | 14  |
+| Comments             | 35  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 20  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss everything related to tattoos.<br><br>### RULES:<br>- Do not 
 |----------------------|---|
 | Published            | 2021-05-27 21:49:35 |
 | Updated              | 2021-11-19 14:37:50 |
-| Last Scraped         | 2023-06-16 22:57:31 |
+| Last Scraped         | 2023-06-19 11:36:58 |

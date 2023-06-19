@@ -3,16 +3,16 @@ title: "Dallas Stars"
 name: "dallasstars"
 description: "Let's go Stars!RELATED COMMUNITIEShttps://lemmy.ca/c/hockeyGUIDELINESPosts should be related to the Dallas Stars and it's farm clubs.Empathy is valued hereAll rules for the lemmy.world instance apply, as always. See: https://mastodon.world/about#"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dallasstars"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 9
+subscribers: 6
+posts: 10
 comments: 0
-weight: 9
+weight: 10
 dau: 1
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Let's go Stars!<br><br>RELATED COMMUNITIES<br><br>https://lemmy.ca/c/hockey<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 9  |
+| Subscribers          | 6 |
+| Posts                | 10  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Let's go Stars!<br><br>RELATED COMMUNITIES<br><br>https://lemmy.ca/c/hockey<br><
 |----------------------|---|
 | Published            | 2023-06-14 12:55:06 |
 | Updated              | 2023-06-15 20:57:45 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

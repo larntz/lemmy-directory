@@ -3,19 +3,19 @@ title: "SpicyChat.AI"
 name: "spicychatai"
 description: "Community for https://spicychat.ai/Feel free to share bots you like or have made, or screenshots of fun interactions you've had."
 type: community
-date: "2023-06-16 22:56:40"
+date: "2023-06-19 11:35:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/spicychatai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 33
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Community for https://spicychat.ai/<br><br>Feel free to share bots you like or h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 33 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -56,4 +56,4 @@ Community for https://spicychat.ai/<br><br>Feel free to share bots you like or h
 |----------------------|---|
 | Published            | 2023-06-16 16:15:49 |
 | Updated              | 2023-06-16 17:05:18 |
-| Last Scraped         | 2023-06-16 22:56:40 |
+| Last Scraped         | 2023-06-19 11:35:45 |

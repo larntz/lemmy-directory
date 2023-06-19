@@ -3,7 +3,7 @@ title: "The Führer is pleased."
 name: "thefuhrerispleased"
 description: "Nazis rewriting history to suit their mass murdering ideology. Oh I'm sorry, that never happened!"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/thefuhrerispleased"
@@ -54,4 +54,4 @@ Nazis rewriting history to suit their mass murdering ideology. Oh I'm sorry, tha
 |----------------------|---|
 | Published            | 2019-08-28 00:07:43 |
 | Updated              | 2020-03-25 05:35:46 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

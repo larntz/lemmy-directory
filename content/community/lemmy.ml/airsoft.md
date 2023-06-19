@@ -3,7 +3,7 @@ title: "Airsoft"
 name: "airsoft"
 description: "All things airsoft!"
 type: community
-date: "2023-06-16 22:57:26"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/airsoft"
@@ -54,4 +54,4 @@ All things airsoft!
 |----------------------|---|
 | Published            | 2021-08-04 00:32:12 |
 | Updated              | 2021-08-06 23:07:25 |
-| Last Scraped         | 2023-06-16 22:57:26 |
+| Last Scraped         | 2023-06-19 11:36:46 |

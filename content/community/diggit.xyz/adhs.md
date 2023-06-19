@@ -3,16 +3,16 @@ title: "ADHS"
 name: "adhs"
 description: "Deutschsprachige ADHS Community"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/adhs"
 host: diggit.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 2
+subscribers: 5
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Deutschsprachige ADHS Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
+| Subscribers          | 5 |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Deutschsprachige ADHS Community
 |----------------------|---|
 | Published            | 2023-06-15 13:34:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

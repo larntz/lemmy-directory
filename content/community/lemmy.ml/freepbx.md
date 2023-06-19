@@ -3,7 +3,7 @@ title: "FreePBX"
 name: "freepbx"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freepbx"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-05 09:40:43 |
 | Updated              | 2023-06-05 10:04:51 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

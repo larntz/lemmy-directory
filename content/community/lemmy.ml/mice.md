@@ -3,13 +3,13 @@ title: "Computer Mice"
 name: "mice"
 description: "After a long and difficult debate of if this community should be for mouse furries or computer mouse enthusiasts, the latter has been chosen.No Racist Jerk Ninja allowed."
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mice"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 20
+subscribers: 19
 posts: 9
 comments: 6
 weight: 9
@@ -41,7 +41,7 @@ After a long and difficult debate of if this community should be for mouse furri
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
+| Subscribers          | 19 |
 | Posts                | 9  |
 | Comments             | 6  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ After a long and difficult debate of if this community should be for mouse furri
 |----------------------|---|
 | Published            | 2022-07-22 21:10:42 |
 | Updated              | 2022-07-22 21:26:04 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:58 |

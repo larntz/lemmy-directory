@@ -3,13 +3,13 @@ title: "columbus "
 name: "columbus"
 description: "Thoughts and questions about Columbus, Ohio"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/columbus"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 35
 posts: 4
 comments: 4
 weight: 4
@@ -41,7 +41,7 @@ Thoughts and questions about Columbus, Ohio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 35 |
 | Posts                | 4  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Thoughts and questions about Columbus, Ohio
 |----------------------|---|
 | Published            | 2023-06-11 18:41:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

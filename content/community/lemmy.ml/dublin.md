@@ -3,13 +3,13 @@ title: "Dublin"
 name: "dublin"
 description: "Temporary c/Dublin community while the mods from r/Dublin don't officially move to Lemmy."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dublin"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 5
 comments: 4
 weight: 5
@@ -41,7 +41,7 @@ Temporary c/Dublin community while the mods from r/Dublin don't officially move 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Temporary c/Dublin community while the mods from r/Dublin don't officially move 
 |----------------------|---|
 | Published            | 2023-06-13 15:12:22 |
 | Updated              | 2023-06-13 15:13:51 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

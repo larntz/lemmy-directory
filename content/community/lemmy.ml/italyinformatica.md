@@ -3,7 +3,7 @@ title: "ItalyInformatica"
 name: "italyinformatica"
 description: "Il punto di riferimento per gli informatici italiani"
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italyinformatica"
@@ -54,4 +54,4 @@ Il punto di riferimento per gli informatici italiani
 |----------------------|---|
 | Published            | 2023-06-06 11:49:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:36:47 |

@@ -3,19 +3,19 @@ title: "tech"
 name: "tech"
 description: "A place for general news and discussions about technology and tech companies.When sharing news articles or other media, please provide a descriptive, non-clickbait title."
 type: community
-date: "2023-06-16 22:55:57"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/tech"
 host: lemmy.pineapplemachine.com
 lastmod: "{[ .Updated }}"
-subscribers: 70
+subscribers: 73
 posts: 13
-comments: 8
+comments: 9
 weight: 13
-dau: 3
-wau: 7
-mau: 8
+dau: 1
+wau: 6
+mau: 9
 instances:
 - "lemmy_pineapplemachine_com"
 tags: 
@@ -41,12 +41,12 @@ A place for general news and discussions about technology and tech companies.<br
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 70 |
+| Subscribers          | 73 |
 | Posts                | 13  |
-| Comments             | 8  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for general news and discussions about technology and tech companies.<br
 |----------------------|---|
 | Published            | 2023-06-05 08:53:55 |
 | Updated              | 2023-06-07 07:57:07 |
-| Last Scraped         | 2023-06-16 22:55:57 |
+| Last Scraped         | 2023-06-19 11:34:57 |

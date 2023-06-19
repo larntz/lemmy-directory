@@ -3,13 +3,13 @@ title: "Singapore"
 name: "singapore"
 description: "Sunset pictures and daily threads?"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://beer.andma.la/c/singapore"
 host: beer.andma.la
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 2
 weight: 2
@@ -41,7 +41,7 @@ Sunset pictures and daily threads?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 2  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Sunset pictures and daily threads?
 |----------------------|---|
 | Published            | 2023-06-12 10:02:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

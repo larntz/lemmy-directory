@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "Open Chat / Interviews"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/chat"
@@ -54,4 +54,4 @@ Open Chat / Interviews
 |----------------------|---|
 | Published            | 2023-01-13 20:56:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

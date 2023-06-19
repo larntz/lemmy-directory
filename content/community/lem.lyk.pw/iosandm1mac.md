@@ -3,7 +3,7 @@ title: "iOS and M1 Mac"
 name: "iosandm1mac"
 description: "iOS and M1 Mac"
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lem.lyk.pw/c/iosandm1mac"
@@ -54,4 +54,4 @@ iOS and M1 Mac
 |----------------------|---|
 | Published            | 2023-05-27 03:14:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

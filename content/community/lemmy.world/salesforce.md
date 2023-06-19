@@ -3,7 +3,7 @@ title: "Salesforce"
 name: "salesforce"
 description: "A community for Salesforce enthusiasts, professionals, and users to chat all things SFDC (help, releases, info, certs, ect.) (not affiliated)"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/salesforce"
@@ -54,4 +54,4 @@ A community for Salesforce enthusiasts, professionals, and users to chat all thi
 |----------------------|---|
 | Published            | 2023-06-12 15:11:03 |
 | Updated              | 2023-06-12 15:25:37 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

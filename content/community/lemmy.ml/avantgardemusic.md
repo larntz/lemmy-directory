@@ -3,13 +3,13 @@ title: "Avant Garde / Left-field Music"
 name: "avantgardemusic"
 description: "A community for sharing & discussing any kind of left-field/avant-garde music."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/avantgardemusic"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 8
 comments: 3
 weight: 8
@@ -41,7 +41,7 @@ A community for sharing & discussing any kind of left-field/avant-garde music.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 8  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for sharing & discussing any kind of left-field/avant-garde music.
 |----------------------|---|
 | Published            | 2021-01-21 17:24:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,7 +3,7 @@ title: "The Laptops Community"
 name: "laptops"
 description: "Welcome to /c/Laptops!This is a place for the Lemmy Community to discuss about laptops. Talk about new and exciting laptop launches, share your laptop setups, ask for support, provide assistance and more.To talk about gaming laptops, please head over to the [Gaming Laptops Community](https://lemmy.world/c/gaminglaptops). This community is only appropriate for non-gaming laptops."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/laptops"
@@ -54,4 +54,4 @@ Welcome to /c/Laptops!<br><br>This is a place for the Lemmy Community to discuss
 |----------------------|---|
 | Published            | 2023-06-12 10:07:19 |
 | Updated              | 2023-06-15 06:42:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:41 |

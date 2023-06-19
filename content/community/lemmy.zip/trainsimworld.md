@@ -3,7 +3,7 @@ title: "TrainSimWorld"
 name: "trainsimworld"
 description: "A community to discuss Train Sim World "
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/trainsimworld"
@@ -54,4 +54,4 @@ A community to discuss Train Sim World
 |----------------------|---|
 | Published            | 2023-06-14 21:57:47 |
 | Updated              | 2023-06-14 22:00:45 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

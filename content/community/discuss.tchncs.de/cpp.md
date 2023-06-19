@@ -3,19 +3,19 @@ title: "C++"
 name: "cpp"
 description: "A place for C++ programmers discuss articles and news about programming in C++ and the language itself"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/cpp"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 56
-posts: 3
-comments: 2
-weight: 3
-dau: 1
-wau: 4
-mau: 4
+subscribers: 89
+posts: 6
+comments: 9
+weight: 6
+dau: 5
+wau: 10
+mau: 10
 instances:
 - "discuss_tchncs_de"
 tags: 
@@ -41,12 +41,12 @@ A place for C++ programmers discuss articles and news about programming in C++ a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 89 |
+| Posts                | 6  |
+| Comments             | 9  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for C++ programmers discuss articles and news about programming in C++ a
 |----------------------|---|
 | Published            | 2023-06-12 05:28:55 |
 | Updated              | 2023-06-12 05:43:35 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

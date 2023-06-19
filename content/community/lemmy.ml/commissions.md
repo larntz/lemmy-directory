@@ -3,13 +3,13 @@ title: "commissions"
 name: "commissions"
 description: "Advertise your art commissions here! Both clients and artists!"
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commissions"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Advertise your art commissions here! Both clients and artists!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Advertise your art commissions here! Both clients and artists!
 |----------------------|---|
 | Published            | 2021-05-15 22:02:19 |
 | Updated              | 2021-05-15 22:04:36 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:37:00 |

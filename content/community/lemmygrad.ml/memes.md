@@ -3,19 +3,19 @@ title: "Memes"
 name: "memes"
 description: "Good memes, bad memes, unite towards a united front."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/memes"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2317
-posts: 1128
-comments: 4017
-weight: 1128
+subscribers: 2384
+posts: 1136
+comments: 4055
+weight: 1136
 dau: 13
-wau: 56
-mau: 93
+wau: 63
+mau: 105
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ Good memes, bad memes, unite towards a united front.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2317 |
-| Posts                | 1128  |
-| Comments             | 4017  |
+| Subscribers          | 2384 |
+| Posts                | 1136  |
+| Comments             | 4055  |
 | Daily Active Users   | 13  |
-| Weekly Active Users  | 56  |
-| Monthly Active Users | 93  |
+| Weekly Active Users  | 63  |
+| Monthly Active Users | 105  |
 
 <br>
 
@@ -54,4 +54,4 @@ Good memes, bad memes, unite towards a united front.
 |----------------------|---|
 | Published            | 2019-08-24 15:00:27 |
 | Updated              | 2021-02-20 17:11:26 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

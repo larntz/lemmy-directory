@@ -3,19 +3,19 @@ title: "zzz"
 name: "zzz"
 description: "Sleeping/Dreaming Discussions and Memes"
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/zzz"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 7
+subscribers: 23
+posts: 8
 comments: 5
-weight: 7
+weight: 8
 dau: 1
-wau: 3
-mau: 6
+wau: 2
+mau: 7
 instances:
 - "lemmy_blahaj_zone"
 tags: 
@@ -41,12 +41,12 @@ Sleeping/Dreaming Discussions and Memes
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 7  |
+| Subscribers          | 23 |
+| Posts                | 8  |
 | Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Sleeping/Dreaming Discussions and Memes
 |----------------------|---|
 | Published            | 2023-06-07 23:24:15 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

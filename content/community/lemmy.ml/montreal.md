@@ -3,13 +3,13 @@ title: "Montreal"
 name: "montreal"
 description: "Pour tout ce qui concerne Montréal, les montréalais/es.Des propos haineux, abusifs, sexistes, *phobiques, etc. ne sont pas tolérés.--For anything concerning Montréal or Montrealers. Hate speech, abuse, sexism, *phobia aren't tolerated. "
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/montreal"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 16
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Pour tout ce qui concerne Montréal, les montréalais/es.<br><br>Des propos hain
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 16 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Pour tout ce qui concerne Montréal, les montréalais/es.<br><br>Des propos hain
 |----------------------|---|
 | Published            | 2020-07-12 21:11:15 |
 | Updated              | 2020-07-12 22:08:24 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

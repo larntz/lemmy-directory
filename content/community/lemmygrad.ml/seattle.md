@@ -3,13 +3,13 @@ title: "The PNW's Lemmy"
 name: "seattle"
 description: "The PNW's Lemmy"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/seattle"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 35
+subscribers: 36
 posts: 11
 comments: 7
 weight: 11
@@ -41,7 +41,7 @@ The PNW's Lemmy
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 35 |
+| Subscribers          | 36 |
 | Posts                | 11  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The PNW's Lemmy
 |----------------------|---|
 | Published            | 2019-09-01 21:43:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

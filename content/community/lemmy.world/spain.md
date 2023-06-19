@@ -3,19 +3,19 @@ title: "All things Spain"
 name: "spain"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spain"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 87
+subscribers: 102
 posts: 3
-comments: 46
+comments: 47
 weight: 3
-dau: 5
-wau: 17
-mau: 17
+dau: 1
+wau: 16
+mau: 18
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 87 |
+| Subscribers          | 102 |
 | Posts                | 3  |
-| Comments             | 46  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
+| Comments             | 47  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 19:10:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

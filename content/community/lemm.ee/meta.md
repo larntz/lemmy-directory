@@ -3,19 +3,19 @@ title: "Meta (lemm.ee)"
 name: "meta"
 description: "## lemm.ee MetaThis is a community for discussion about this particular Lemmy instance.News and updates about lemm.ee will be posted here, so if that's something that interests you, make sure to subscribe!If you need help with anything, please post in [!support](https://lemm.ee/c/support) instead."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/meta"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 250
-posts: 34
-comments: 408
-weight: 34
-dau: 64
-wau: 154
-mau: 154
+subscribers: 366
+posts: 43
+comments: 616
+weight: 43
+dau: 63
+wau: 231
+mau: 250
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 250 |
-| Posts                | 34  |
-| Comments             | 408  |
-| Daily Active Users   | 64  |
-| Weekly Active Users  | 154  |
-| Monthly Active Users | 154  |
+| Subscribers          | 366 |
+| Posts                | 43  |
+| Comments             | 616  |
+| Daily Active Users   | 63  |
+| Weekly Active Users  | 231  |
+| Monthly Active Users | 250  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-09 08:52:25 |
 | Updated              | 2023-06-16 15:37:32 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

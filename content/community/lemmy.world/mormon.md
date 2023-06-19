@@ -3,7 +3,7 @@ title: "Mormon - All About Mormonism"
 name: "mormon"
 description: "c/Mormon is a community for discussing Mormonism. People of all faiths (or lack of faith) are welcome to join to discuss topics relating to Mormonism.#### Rules1. Follow [the lemmy.world rules](https://mastodon.world/about)1. No NSFW1. No personal attacks1. No doxing1. No spamming1. No politics"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mormon"
@@ -54,4 +54,4 @@ c/Mormon is a community for discussing Mormonism. <br><br>People of all faiths (
 |----------------------|---|
 | Published            | 2023-06-14 22:00:22 |
 | Updated              | 2023-06-14 22:27:42 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:39 |

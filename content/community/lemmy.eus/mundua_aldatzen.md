@@ -3,7 +3,7 @@ title: "Lanerako prestakuntza eta orientabidea"
 name: "mundua_aldatzen"
 description: ""
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/mundua_aldatzen"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-25 18:59:06 |
 | Updated              | 2021-04-25 19:15:08 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,13 +3,13 @@ title: "Health"
 name: "health"
 description: "A community about human health and fitness. All health topics are welcomed here, from mental health to dieting to reproductive health. ____**Rules**- Surveys are not allowed- Pictures are not allowed"
 type: community
-date: "2023-06-16 11:06:31"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/health"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 41
 posts: 7
 comments: 1
 weight: 7
@@ -41,7 +41,7 @@ A community about human health and fitness. All health topics are welcomed here,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 41 |
 | Posts                | 7  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community about human health and fitness. All health topics are welcomed here,
 |----------------------|---|
 | Published            | 2023-01-12 21:09:22 |
 | Updated              | 2023-01-13 15:36:06 |
-| Last Scraped         | 2023-06-16 11:06:31 |
+| Last Scraped         | 2023-06-19 11:35:29 |

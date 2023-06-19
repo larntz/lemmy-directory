@@ -1,9 +1,9 @@
 ---
-title: "Training | Fine Tuning" 
+title: "Machine Learning - Training | Fine Tuning" 
 name: "train"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/train"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Training | Fine Tuning on lemmy.intai.tech
+# /c/Machine Learning - Training | Fine Tuning on lemmy.intai.tech
 
 [[home](/)]
 [[/c/train 🌎](https://lemmy.intai.tech/c/train)]
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-13 01:47:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 20:04:44 |
+| Last Scraped         | 2023-06-19 11:35:16 |

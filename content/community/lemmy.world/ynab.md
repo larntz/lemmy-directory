@@ -3,19 +3,19 @@ title: "YNAB"
 name: "ynab"
 description: "Welcome to YNAB! This community is dedicated to the discussion on the popular budget software You Need A Budget. We welcome any posts here regarding YNAB. Feel free to post your questions, budget strategies & advice."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ynab"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 34
 posts: 3
-comments: 6
+comments: 10
 weight: 3
 dau: 3
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Welcome to YNAB! This community is dedicated to the discussion on the popular bu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 34 |
 | Posts                | 3  |
-| Comments             | 6  |
+| Comments             | 10  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to YNAB! This community is dedicated to the discussion on the popular bu
 |----------------------|---|
 | Published            | 2023-06-14 17:03:44 |
 | Updated              | 2023-06-14 17:04:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

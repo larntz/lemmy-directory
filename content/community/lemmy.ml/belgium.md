@@ -3,13 +3,13 @@ title: "Belgium"
 name: "belgium"
 description: "This is a mostly English forum covering Belgium."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/belgium"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 33
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ This is a mostly English forum covering Belgium.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 33 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a mostly English forum covering Belgium.
 |----------------------|---|
 | Published            | 2019-12-20 19:32:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

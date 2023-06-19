@@ -3,16 +3,16 @@ title: "Belleville Ontario"
 name: "belleville"
 description: "The sister community of [r/BellevilleOntario](https://www.reddit.com/r/BellevilleOntario)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/belleville"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 4
+posts: 5
 comments: 4
-weight: 4
+weight: 5
 dau: 0
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ The sister community of [r/BellevilleOntario](https://www.reddit.com/r/Bellevill
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 4  |
+| Posts                | 5  |
 | Comments             | 4  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The sister community of [r/BellevilleOntario](https://www.reddit.com/r/Bellevill
 |----------------------|---|
 | Published            | 2023-06-13 19:53:40 |
 | Updated              | 2023-06-13 23:59:47 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

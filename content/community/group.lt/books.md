@@ -3,16 +3,16 @@ title: "Books"
 name: "books"
 description: "All about the books"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/books"
 host: group.lt
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 36
+subscribers: 37
+posts: 37
 comments: 6
-weight: 36
+weight: 37
 dau: 1
 wau: 1
 mau: 4
@@ -41,8 +41,8 @@ All about the books<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 36  |
+| Subscribers          | 37 |
+| Posts                | 37  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ All about the books<br>
 |----------------------|---|
 | Published            | 2022-03-03 22:06:54 |
 | Updated              | 2022-03-11 17:47:26 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

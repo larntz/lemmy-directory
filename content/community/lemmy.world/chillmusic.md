@@ -3,17 +3,17 @@ title: "Chill Music"
 name: "chillmusic"
 description: "relaxing music, chillwave, etc.https://en.wikipedia.org/wiki/Chill-out_musicPlease post links to music that are accessible without a paid account, such as youtube, soundcloud, etc."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chillmusic"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 7
+subscribers: 14
+posts: 11
 comments: 1
-weight: 7
-dau: 3
+weight: 11
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ relaxing music, chillwave, etc.<br>https://en.wikipedia.org/wiki/Chill-out_music
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 7  |
+| Subscribers          | 14 |
+| Posts                | 11  |
 | Comments             | 1  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ relaxing music, chillwave, etc.<br>https://en.wikipedia.org/wiki/Chill-out_music
 |----------------------|---|
 | Published            | 2023-06-16 12:27:34 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

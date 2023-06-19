@@ -3,13 +3,13 @@ title: "The Lenin Wiki"
 name: "theleninwiki"
 description: "Welcome To The Lemmygrad For The Website, The Lenin Wikihttps://sites.google.com/stu.gusd.net/theleninwiki/home"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theleninwiki"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 166
+subscribers: 169
 posts: 2
 comments: 6
 weight: 2
@@ -41,7 +41,7 @@ Welcome To The Lemmygrad For The Website, The Lenin Wiki<br>https://sites.google
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 166 |
+| Subscribers          | 169 |
 | Posts                | 2  |
 | Comments             | 6  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ Welcome To The Lemmygrad For The Website, The Lenin Wiki<br>https://sites.google
 |----------------------|---|
 | Published            | 2021-04-17 19:32:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

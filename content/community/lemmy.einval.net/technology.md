@@ -3,19 +3,19 @@ title: "Technology"
 name: "technology"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/technology"
 host: lemmy.einval.net
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_einval_net"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 18:58:39 |
 | Updated              | 2023-06-10 19:21:24 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:57 |

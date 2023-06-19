@@ -3,7 +3,7 @@ title: "San Diego Padres"
 name: "padres"
 description: "Lemmy home of the Friar Faithful!"
 type: community
-date: "2023-06-16 22:57:22"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/padres"
@@ -54,4 +54,4 @@ Lemmy home of the Friar Faithful!
 |----------------------|---|
 | Published            | 2023-06-01 05:08:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:22 |
+| Last Scraped         | 2023-06-19 11:36:45 |

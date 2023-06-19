@@ -3,13 +3,13 @@ title: "ShittyGameDetails"
 name: "shittygamedetails"
 description: "From the creator of r/ShittyGameDetails. Discover a place where you can explore and appreciate the intricacies of your favorite games with breathtaking attention to detail."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittygamedetails"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 15
 posts: 3
 comments: 4
 weight: 3
@@ -41,7 +41,7 @@ From the creator of r/ShittyGameDetails. Discover a place where you can explore 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 15 |
 | Posts                | 3  |
 | Comments             | 4  |
 | Daily Active Users   | 4  |
@@ -54,4 +54,4 @@ From the creator of r/ShittyGameDetails. Discover a place where you can explore 
 |----------------------|---|
 | Published            | 2023-06-13 15:07:49 |
 | Updated              | 2023-06-13 16:15:17 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

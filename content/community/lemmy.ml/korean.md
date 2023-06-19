@@ -3,7 +3,7 @@ title: "Korean"
 name: "korean"
 description: "안녕하세요!Official Lemmy community for learning the Korean language and culture.Use common sense, don't be an asshole, you know the drill."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/korean"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-02-13 14:59:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

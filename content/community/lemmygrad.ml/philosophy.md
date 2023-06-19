@@ -3,13 +3,13 @@ title: "Philosophy"
 name: "philosophy"
 description: "For everything and anything pertaining to philosophy."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/philosophy"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 7
 comments: 23
 weight: 7
@@ -41,7 +41,7 @@ For everything and anything pertaining to philosophy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 7  |
 | Comments             | 23  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For everything and anything pertaining to philosophy.
 |----------------------|---|
 | Published            | 2021-07-28 01:45:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

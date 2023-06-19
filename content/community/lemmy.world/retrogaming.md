@@ -3,19 +3,19 @@ title: "RetroGaming"
 name: "retrogaming"
 description: "Vintage gaming community."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retrogaming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3618
-posts: 44
-comments: 376
-weight: 44
-dau: 29
-wau: 233
-mau: 257
+subscribers: 4285
+posts: 57
+comments: 424
+weight: 57
+dau: 15
+wau: 245
+mau: 290
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Vintage gaming community.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3618 |
-| Posts                | 44  |
-| Comments             | 376  |
-| Daily Active Users   | 29  |
-| Weekly Active Users  | 233  |
-| Monthly Active Users | 257  |
+| Subscribers          | 4285 |
+| Posts                | 57  |
+| Comments             | 424  |
+| Daily Active Users   | 15  |
+| Weekly Active Users  | 245  |
+| Monthly Active Users | 290  |
 
 <br>
 
@@ -54,4 +54,4 @@ Vintage gaming community.
 |----------------------|---|
 | Published            | 2023-06-04 14:15:34 |
 | Updated              | 2023-06-11 14:37:41 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

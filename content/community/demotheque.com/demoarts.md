@@ -3,16 +3,16 @@ title: "DemoArts"
 name: "demoarts"
 description: "A community conserning releases on the [DemoArts](https://demoarts.media) website"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://demotheque.com/c/demoarts"
 host: demotheque.com
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 25
-comments: 2
-weight: 25
+posts: 26
+comments: 1
+weight: 26
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ A community conserning releases on the [DemoArts](https://demoarts.media) websit
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 25  |
-| Comments             | 2  |
+| Posts                | 26  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ A community conserning releases on the [DemoArts](https://demoarts.media) websit
 |----------------------|---|
 | Published            | 2023-04-08 22:40:58 |
 | Updated              | 2023-04-11 19:30:31 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

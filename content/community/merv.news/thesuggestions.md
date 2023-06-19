@@ -3,7 +3,7 @@ title: "The Suggestions"
 name: "thesuggestions"
 description: "Suggest changes or additions to merv.news"
 type: community
-date: "2023-06-16 22:55:43"
+date: "2023-06-19 11:34:46"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thesuggestions"
@@ -54,4 +54,4 @@ Suggest changes or additions to merv.news
 |----------------------|---|
 | Published            | 2022-10-01 18:17:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:43 |
+| Last Scraped         | 2023-06-19 11:34:46 |

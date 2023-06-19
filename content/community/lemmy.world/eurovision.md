@@ -3,13 +3,13 @@ title: "Eurovision Song Contest"
 name: "eurovision"
 description: "A place for all fans of the Eurovision Song Contest :DPlease be friendly and welcoming :)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eurovision"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for all fans of the Eurovision Song Contest :D<br><br>Please be friendly
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for all fans of the Eurovision Song Contest :D<br><br>Please be friendly
 |----------------------|---|
 | Published            | 2023-06-14 18:18:25 |
 | Updated              | 2023-06-14 18:22:56 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

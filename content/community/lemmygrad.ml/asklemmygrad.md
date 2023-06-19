@@ -3,19 +3,19 @@ title: "Ask Lemmygrad"
 name: "asklemmygrad"
 description: "A place to ask questions of Lemmygrad's best and brightest"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/asklemmygrad"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 63
+subscribers: 71
 posts: 9
-comments: 71
+comments: 79
 weight: 9
-dau: 2
-wau: 33
-mau: 33
+dau: 5
+wau: 34
+mau: 34
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ A place to ask questions of Lemmygrad's best and brightest
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 63 |
+| Subscribers          | 71 |
 | Posts                | 9  |
-| Comments             | 71  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 33  |
+| Comments             | 79  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 34  |
+| Monthly Active Users | 34  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to ask questions of Lemmygrad's best and brightest
 |----------------------|---|
 | Published            | 2022-10-21 00:05:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

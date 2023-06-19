@@ -3,13 +3,13 @@ title: "Linus Tech Tips"
 name: "linustechtips"
 description: "The unofficial but officially recognized community discussing the latest LinusTechTips, TechQuickie and other LinusMediaGroup content. Come and join us today!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linustechtips"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The unofficial but officially recognized community discussing the latest LinusTe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 9 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The unofficial but officially recognized community discussing the latest LinusTe
 |----------------------|---|
 | Published            | 2023-06-13 23:23:11 |
 | Updated              | 2023-06-13 23:55:40 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

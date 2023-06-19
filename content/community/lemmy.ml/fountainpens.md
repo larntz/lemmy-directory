@@ -3,13 +3,13 @@ title: "Fountain pens"
 name: "fountainpens"
 description: "Anything fountain pen: fountain pens, paper, inks, etc..."
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fountainpens"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 38
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Anything fountain pen: fountain pens, paper, inks, etc...
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 38 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Anything fountain pen: fountain pens, paper, inks, etc...
 |----------------------|---|
 | Published            | 2020-01-30 22:35:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "Azeon's Test Place"
 name: "azeontest"
 description: "Just a place for me to test things."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/azeontest"
@@ -54,4 +54,4 @@ Just a place for me to test things.
 |----------------------|---|
 | Published            | 2023-06-09 12:23:56 |
 | Updated              | 2023-06-09 12:31:30 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:37:00 |

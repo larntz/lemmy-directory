@@ -3,7 +3,7 @@ title: "logophilia"
 name: "logophilia"
 description: "A subreddit for interesting words and those (nerds) who deal in them.Please only posts words with an accompanying URL from a respectable dictionary source. Examples include Oxford Dictionary, Merriam Webster, Wiktionary (if sourced), and Collins Dictionary."
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/logophilia"
@@ -54,4 +54,4 @@ A subreddit for interesting words and those (nerds) who deal in them.<br><br>Ple
 |----------------------|---|
 | Published            | 2023-06-09 19:45:58 |
 | Updated              | 2023-06-09 20:12:54 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-19 11:36:45 |

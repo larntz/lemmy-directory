@@ -3,13 +3,13 @@ title: "Cleveland"
 name: "cleveland"
 description: "Cleveland, Ohio"
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cleveland"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 19
 posts: 6
 comments: 8
 weight: 6
@@ -41,7 +41,7 @@ Cleveland, Ohio
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 19 |
 | Posts                | 6  |
 | Comments             | 8  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Cleveland, Ohio
 |----------------------|---|
 | Published            | 2021-02-26 18:50:07 |
 | Updated              | 2021-02-26 18:54:22 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

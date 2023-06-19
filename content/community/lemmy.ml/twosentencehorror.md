@@ -3,13 +3,13 @@ title: "Two Sentence Horror"
 name: "twosentencehorror"
 description: "Write a scary story in two sentences!## Rules* **At most two sentences.** The recommended (but not mandatory) format is one sentence in the post title and the second one in the post body.* **Make an attempt to tell a story.** Your sentences should connect to each other in a narrative.* **Make an attempt to make the story a scary or creepy one.** No jokes or memes.* **No sexualization of minors in any way.*** **Follow general lemmy.ml rules**"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twosentencehorror"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 80
+subscribers: 88
 posts: 8
 comments: 6
 weight: 8
@@ -41,7 +41,7 @@ Write a scary story in two sentences!<br><br>## Rules<br><br>* **At most two sen
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 80 |
+| Subscribers          | 88 |
 | Posts                | 8  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Write a scary story in two sentences!<br><br>## Rules<br><br>* **At most two sen
 |----------------------|---|
 | Published            | 2021-10-18 19:37:45 |
 | Updated              | 2021-10-18 19:43:04 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

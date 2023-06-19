@@ -3,19 +3,19 @@ title: "RuPaul's Drag Race"
 name: "rpdr"
 description: "A forum for the TV series: *Rupaul's Drag Race* and its spin-offs"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rpdr"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 26
 posts: 4
-comments: 4
+comments: 8
 weight: 4
-dau: 2
-wau: 3
-mau: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A forum for the TV series: *Rupaul's Drag Race* and its spin-offs
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 26 |
 | Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 8  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ A forum for the TV series: *Rupaul's Drag Race* and its spin-offs
 |----------------------|---|
 | Published            | 2023-06-15 00:23:36 |
 | Updated              | 2023-06-15 00:40:36 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

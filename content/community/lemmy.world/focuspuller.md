@@ -3,19 +3,19 @@ title: "Focus Puller"
 name: "focuspuller"
 description: "A space for camera assistants to discuss, ask questions, and share knowledge (*and horror stories*)."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/focuspuller"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 11
-comments: 4
-weight: 11
-dau: 2
-wau: 2
-mau: 2
+posts: 19
+comments: 9
+weight: 19
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -42,16 +42,16 @@ A space for camera assistants to discuss, ask questions, and share knowledge (*a
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 11  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Posts                | 19  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 03:40:32 |
-| Updated              | 2023-06-16 05:43:06 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-17 02:54:03 |
+| Last Scraped         | 2023-06-19 11:36:40 |

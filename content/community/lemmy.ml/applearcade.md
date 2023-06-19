@@ -3,13 +3,13 @@ title: "Apple Arcade"
 name: "applearcade"
 description: "An unofficial community to discuss Apple Arcade games and the service as a whole."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/applearcade"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ An unofficial community to discuss Apple Arcade games and the service as a whole
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 21 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An unofficial community to discuss Apple Arcade games and the service as a whole
 |----------------------|---|
 | Published            | 2023-06-06 15:02:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

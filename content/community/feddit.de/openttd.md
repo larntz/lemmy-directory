@@ -3,13 +3,13 @@ title: "OpenTTD"
 name: "openttd"
 description: "In dieser Community geht es um alle Themen rund um [OpenTTD](https://www.openttd.org/). Bitte Netiquette beachten!"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/openttd"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 23
 posts: 4
 comments: 0
 weight: 4
@@ -41,7 +41,7 @@ In dieser Community geht es um alle Themen rund um [OpenTTD](https://www.openttd
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 23 |
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ In dieser Community geht es um alle Themen rund um [OpenTTD](https://www.openttd
 |----------------------|---|
 | Published            | 2023-02-23 16:21:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

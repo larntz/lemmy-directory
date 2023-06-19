@@ -3,13 +3,13 @@ title: "USA | United states of America"
 name: "usa"
 description: ""
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/usa"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 39
+subscribers: 40
 posts: 21
 comments: 6
 weight: 21
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 39 |
+| Subscribers          | 40 |
 | Posts                | 21  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-07-09 07:57:52 |
 | Updated              | 2023-01-30 17:19:17 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

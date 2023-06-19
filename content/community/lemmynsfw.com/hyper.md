@@ -3,13 +3,13 @@ title: "Hyper: as big as fiction will allow"
 name: "hyper"
 description: "Drawings and animations of _hyper_ contentEssentially drawings of people with impossibly large breasts, or penises, or something like that.We're talking double the size of someone's head to room-filling to larger than the planet.Drawn/rendered content only.  Not for photos or videos taken with cameras."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hyper"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 48
 posts: 1
 comments: 0
 weight: 1
@@ -43,7 +43,7 @@ Drawings and animations of _hyper_ content<br><br>Essentially drawings of people
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 48 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Drawings and animations of _hyper_ content<br><br>Essentially drawings of people
 |----------------------|---|
 | Published            | 2023-06-13 00:12:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

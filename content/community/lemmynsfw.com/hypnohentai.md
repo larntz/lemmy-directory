@@ -3,13 +3,13 @@ title: "Hypno Hentai"
 name: "hypnohentai"
 description: "If you love erotic hypnotism themed hentai, doujinshi, manga, or hentai videos, this is the place for you!Icon by EtlabsotweJoin us at https://discord.gg/hypnohentai"
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hypnohentai"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 91
+subscribers: 127
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ If you love erotic hypnotism themed hentai, doujinshi, manga, or hentai videos, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
+| Subscribers          | 127 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ If you love erotic hypnotism themed hentai, doujinshi, manga, or hentai videos, 
 |----------------------|---|
 | Published            | 2023-06-12 21:21:26 |
 | Updated              | 2023-06-12 21:23:14 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

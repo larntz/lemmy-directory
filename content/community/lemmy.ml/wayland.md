@@ -3,13 +3,13 @@ title: "Wayland"
 name: "wayland"
 description: "# !WaylandAnything to do about Wayland and things built around it.## Related Communities- [!swaywm@lemmy.ml](https://lemmy.ml/c/swaywm)- [!linux@lemmy.ml](https://lemmy.ml/c/linux)- [!opensource@lemmy.ml](https://lemmy.ml/c/opensource)- [!unixporn@lemmy.ml](https://lemmy.ml/c/unixporn)"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wayland"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 114
+subscribers: 118
 posts: 6
 comments: 10
 weight: 6
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 114 |
+| Subscribers          | 118 |
 | Posts                | 6  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-11 05:01:19 |
 | Updated              | 2021-08-24 00:21:12 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:43 |

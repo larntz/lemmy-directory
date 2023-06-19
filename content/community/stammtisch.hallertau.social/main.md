@@ -3,7 +3,7 @@ title: "Stammtisch Hallertau"
 name: "main"
 description: "Stammtisch Hallertau"
 type: community
-date: "2023-06-16 22:55:49"
+date: "2023-06-19 11:34:51"
 draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/main"
@@ -54,4 +54,4 @@ Stammtisch Hallertau
 |----------------------|---|
 | Published            | 2021-01-18 11:00:26 |
 | Updated              | 2021-03-01 12:50:55 |
-| Last Scraped         | 2023-06-16 22:55:49 |
+| Last Scraped         | 2023-06-19 11:34:51 |

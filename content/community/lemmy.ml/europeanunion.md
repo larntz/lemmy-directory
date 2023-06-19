@@ -3,18 +3,18 @@ title: "European Union 🇪🇺"
 name: "europeanunion"
 description: ""
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europeanunion"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 64
+subscribers: 67
 posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
+| Subscribers          | 67 |
 | Posts                | 7  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-05-02 10:48:03 |
 | Updated              | 2022-05-02 10:55:23 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:43 |

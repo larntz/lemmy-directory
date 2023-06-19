@@ -3,7 +3,7 @@ title: "Antiespezismoa"
 name: "antiespezismoa"
 description: "Interneten **antiespezismoa**ri buruz eta hari lotutako gaiei buruz **euskaraz** mintzatzeko tokia.Eztabaidak, berriak, hausnarketak, esperientziak, sorkuntzak... **partekatzeko sortua!**"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/antiespezismoa"
@@ -54,4 +54,4 @@ Interneten **antiespezismoa**ri buruz eta hari lotutako gaiei buruz **euskaraz**
 |----------------------|---|
 | Published            | 2020-12-05 15:34:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

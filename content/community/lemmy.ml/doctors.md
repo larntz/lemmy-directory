@@ -3,7 +3,7 @@ title: "Discussion Portal for Doctors"
 name: "doctors"
 description: "Community of doctors from around the world to talk about everything"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/doctors"
@@ -54,4 +54,4 @@ Community of doctors from around the world to talk about everything
 |----------------------|---|
 | Published            | 2020-06-28 00:04:06 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

@@ -3,13 +3,13 @@ title: "(safe)Unsecure"
 name: "saugumas"
 description: "(un)Security"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/saugumas"
 host: group.lt
 lastmod: "{[ .Updated }}"
-subscribers: 31
+subscribers: 32
 posts: 91
 comments: 11
 weight: 91
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
+| Subscribers          | 32 |
 | Posts                | 91  |
 | Comments             | 11  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-12-05 09:53:45 |
 | Updated              | 2022-05-19 17:39:02 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

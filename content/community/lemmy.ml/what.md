@@ -3,7 +3,7 @@ title: "What"
 name: "what"
 description: "A sublemmy for things that you need to re-read to understand the stupidity and just absurd things in general."
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/what"
@@ -54,4 +54,4 @@ A sublemmy for things that you need to re-read to understand the stupidity and j
 |----------------------|---|
 | Published            | 2021-12-14 21:59:48 |
 | Updated              | 2021-12-16 23:49:47 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:36:54 |

@@ -3,13 +3,13 @@ title: "Eyebleach"
 name: "eyebleach"
 description: "Refresh Your Eyes, Find Instant Relief"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eyebleach"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Refresh Your Eyes, Find Instant Relief
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Refresh Your Eyes, Find Instant Relief
 |----------------------|---|
 | Published            | 2023-06-16 11:11:14 |
 | Updated              | 2023-06-16 11:47:29 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

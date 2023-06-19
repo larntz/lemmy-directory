@@ -3,7 +3,7 @@ title: "SpreadSheetEnthusiasts"
 name: "personalstatistics"
 description: "A welcoming stats community!📬 Do you have cool spreadsheets?📜 Show us your graphs!"
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/personalstatistics"
@@ -54,4 +54,4 @@ A welcoming stats community!<br><br>📬 Do you have cool spreadsheets?<br><br>�
 |----------------------|---|
 | Published            | 2021-08-12 20:24:09 |
 | Updated              | 2022-05-24 17:11:16 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:59 |

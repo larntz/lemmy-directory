@@ -3,17 +3,17 @@ title: "Vegan"
 name: "vegan"
 description: "A community to discuss anything related to veganism."
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/vegan"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 66
+subscribers: 82
 posts: 7
-comments: 9
+comments: 10
 weight: 7
-dau: 1
+dau: 2
 wau: 5
 mau: 10
 instances:
@@ -41,10 +41,10 @@ A community to discuss anything related to veganism.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 66 |
+| Subscribers          | 82 |
 | Posts                | 7  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 10  |
 
@@ -54,4 +54,4 @@ A community to discuss anything related to veganism.
 |----------------------|---|
 | Published            | 2023-06-06 07:58:44 |
 | Updated              | 2023-06-12 19:28:23 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,13 +3,13 @@ title: "Allgemeines in Graz"
 name: "main"
 description: "Foto: © Bwag/CC-BY-SA-4.0 "
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/main"
 host: lemmy.graz.social
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 30
 posts: 3
 comments: 8
 weight: 3
@@ -41,7 +41,7 @@ Foto: © Bwag/CC-BY-SA-4.0
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 30 |
 | Posts                | 3  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Foto: © Bwag/CC-BY-SA-4.0
 |----------------------|---|
 | Published            | 2022-09-25 08:35:38 |
 | Updated              | 2022-09-25 19:01:33 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

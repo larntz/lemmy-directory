@@ -3,16 +3,16 @@ title: "Poznań"
 name: "poznan"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/poznan"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 39
-posts: 71
-comments: 19
-weight: 71
+posts: 72
+comments: 20
+weight: 72
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 39 |
-| Posts                | 71  |
-| Comments             | 19  |
+| Posts                | 72  |
+| Comments             | 20  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-10-23 08:41:29 |
 | Updated              | 2021-03-19 15:14:08 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

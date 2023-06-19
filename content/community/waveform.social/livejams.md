@@ -3,13 +3,13 @@ title: "Live Jams"
 name: "livejams"
 description: "Share links to videos of live synth performances."
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/livejams"
 host: waveform.social
 lastmod: "{[ .Updated }}"
-subscribers: 36
+subscribers: 37
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Share links to videos of live synth performances.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 36 |
+| Subscribers          | 37 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Share links to videos of live synth performances.
 |----------------------|---|
 | Published            | 2023-06-11 13:07:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

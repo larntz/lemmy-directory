@@ -3,13 +3,13 @@ title: "Nürnberg"
 name: "nuernberg"
 description: "Die Lemmy-Community für Nürnberg."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nuernberg"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Die Lemmy-Community für Nürnberg.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Die Lemmy-Community für Nürnberg.
 |----------------------|---|
 | Published            | 2023-06-12 11:07:16 |
 | Updated              | 2023-06-12 11:12:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,7 +3,7 @@ title: "metamoot"
 name: "metamoot"
 description: "A place for meta conversations and announcements about moot.place"
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://moot.place/c/metamoot"
@@ -54,4 +54,4 @@ A place for meta conversations and announcements about moot.place
 |----------------------|---|
 | Published            | 2023-06-13 15:12:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

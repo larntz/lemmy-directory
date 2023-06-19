@@ -3,13 +3,13 @@ title: "Western Chicago Suburbs"
 name: "western_chicago_suburbs"
 description: "Hello! This is a place for anything and everything suburban and western about Chicagoland. "
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/western_chicago_suburbs"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Hello! This is a place for anything and everything suburban and western about Ch
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 14 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Hello! This is a place for anything and everything suburban and western about Ch
 |----------------------|---|
 | Published            | 2023-06-13 17:15:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

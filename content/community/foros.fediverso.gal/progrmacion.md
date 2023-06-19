@@ -3,7 +3,7 @@ title: "Programación"
 name: "progrmacion"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:48"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/progrmacion"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-12-17 12:40:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:48 |
+| Last Scraped         | 2023-06-19 11:34:49 |

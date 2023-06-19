@@ -3,16 +3,16 @@ title: "Anna Kendrick"
 name: "annakendrick"
 description: "Anna Kendrick's pictures, gifs, and videos"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/annakendrick"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 3
+subscribers: 51
+posts: 5
 comments: 0
-weight: 3
+weight: 5
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Anna Kendrick's pictures, gifs, and videos
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 3  |
+| Subscribers          | 51 |
+| Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ Anna Kendrick's pictures, gifs, and videos
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 10:40:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Updated              | 2023-06-17 03:45:07 |
+| Last Scraped         | 2023-06-19 11:35:46 |

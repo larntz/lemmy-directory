@@ -3,13 +3,13 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/main"
 host: lemmy.cat
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 168
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The Default Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 168 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2023-06-13 13:01:27 |
 | Updated              | 2023-06-13 14:10:45 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

@@ -3,7 +3,7 @@ title: "Visualization"
 name: "visualizations"
 description: "A space to share and discuss interesting visualization ideas and outcomes. "
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/visualizations"
@@ -54,4 +54,4 @@ A space to share and discuss interesting visualization ideas and outcomes.
 |----------------------|---|
 | Published            | 2020-11-16 05:09:13 |
 | Updated              | 2021-11-28 03:26:43 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:27 |

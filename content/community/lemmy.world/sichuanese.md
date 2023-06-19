@@ -3,7 +3,7 @@ title: "Sichuanese"
 name: "sichuanese"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sichuanese"
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 05:51:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Updated              | 2023-06-17 19:29:31 |
+| Last Scraped         | 2023-06-19 11:36:42 |

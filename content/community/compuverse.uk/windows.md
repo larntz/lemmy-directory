@@ -3,13 +3,13 @@ title: "Windows"
 name: "windows"
 description: "A community to discuss all things Windows."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/windows"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community to discuss all things Windows.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to discuss all things Windows.
 |----------------------|---|
 | Published            | 2023-06-10 17:05:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

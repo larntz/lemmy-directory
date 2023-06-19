@@ -3,13 +3,13 @@ title: "Hollywood"
 name: "hollywood"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/hollywood"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 5 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-08-06 14:56:31 |
 | Updated              | 2022-08-06 19:23:38 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

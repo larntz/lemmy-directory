@@ -3,7 +3,7 @@ title: "A community entirely dedicated to showing HTTP errors on websites you fr
 name: "httperrors"
 description: "Feel free to show off screenshots of HTTP errors!Just three rules:- Don't overuse this community.- Try to minify the posts containing screenshots of 404 errors- Have fun :)"
 type: community
-date: "2023-06-16 22:57:25"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/httperrors"
@@ -54,4 +54,4 @@ Feel free to show off screenshots of HTTP errors!<br><br>Just three rules:<br>- 
 |----------------------|---|
 | Published            | 2019-09-07 14:52:05 |
 | Updated              | 2019-09-07 14:52:15 |
-| Last Scraped         | 2023-06-16 22:57:25 |
+| Last Scraped         | 2023-06-19 11:36:44 |

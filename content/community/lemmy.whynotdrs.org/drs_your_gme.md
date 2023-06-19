@@ -3,19 +3,19 @@ title: "DRS Your GME"
 name: "drs_your_gme"
 description: "ΔΡΣ Central"
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/drs_your_gme"
 host: lemmy.whynotdrs.org
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 7
-comments: 26
-weight: 7
-dau: 6
-wau: 8
-mau: 8
+subscribers: 31
+posts: 9
+comments: 29
+weight: 9
+dau: 2
+wau: 10
+mau: 10
 instances:
 - "lemmy_whynotdrs_org"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 7  |
-| Comments             | 26  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 31 |
+| Posts                | 9  |
+| Comments             | 29  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 18:46:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

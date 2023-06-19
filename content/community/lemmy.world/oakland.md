@@ -3,17 +3,17 @@ title: "Oakland"
 name: "oakland"
 description: "## AboutA place to discuss all things Oakland## Rules1- No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. 2- Be respectful. Everyone should feel welcome here. 3- No NSFW content. 4- No Ads / Spamming. ## Related Communities[California](https://lemmy.world/c/california)[Bay Area](https://lemmy.world/c/bayarea) [San Francisco Bay Area](https://sh.itjust.works/c/bayarea) ***"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oakland"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 20
-posts: 22
+subscribers: 23
+posts: 31
 comments: 3
-weight: 22
-dau: 1
+weight: 31
+dau: 2
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 22  |
+| Subscribers          | 23 |
+| Posts                | 31  |
 | Comments             | 3  |
-| Daily Active Users   | 1  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-11 01:30:55 |
 | Updated              | 2023-06-15 18:27:33 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

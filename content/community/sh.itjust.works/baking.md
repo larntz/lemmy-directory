@@ -3,13 +3,13 @@ title: "Baking"
 name: "baking"
 description: "All bakers welcome! Talk about what you made, what you want to make or what you need help with! "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/baking"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ All bakers welcome! Talk about what you made, what you want to make or what you 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 19 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ All bakers welcome! Talk about what you made, what you want to make or what you 
 |----------------------|---|
 | Published            | 2023-06-12 19:46:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

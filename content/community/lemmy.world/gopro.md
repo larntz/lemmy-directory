@@ -3,17 +3,17 @@ title: "GoPro"
 name: "gopro"
 description: "Community for all things GoPro. News, tips and everything else."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gopro"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 1
+subscribers: 3
+posts: 2
 comments: 0
-weight: 1
-dau: 0
+weight: 2
+dau: 1
 wau: 1
 mau: 1
 instances:
@@ -41,10 +41,10 @@ Community for all things GoPro. News, tips and everything else.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
+| Subscribers          | 3 |
+| Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
 
@@ -54,4 +54,4 @@ Community for all things GoPro. News, tips and everything else.
 |----------------------|---|
 | Published            | 2023-06-13 19:26:24 |
 | Updated              | 2023-06-13 21:46:57 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

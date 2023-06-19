@@ -3,19 +3,19 @@ title: "Aotearoa"
 name: "aotearoa"
 description: "An alternative c/NewZealand One rule:- Don't be a dick"
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/aotearoa"
 host: no.lastname.nz
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 0
+subscribers: 7
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "no_lastname_nz"
 tags: 
@@ -41,12 +41,12 @@ An alternative c/NewZealand <br><br>One rule:<br><br>- Don't be a dick
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
+| Subscribers          | 7 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ An alternative c/NewZealand <br><br>One rule:<br><br>- Don't be a dick
 |----------------------|---|
 | Published            | 2023-06-09 00:37:57 |
 | Updated              | 2023-06-13 08:08:05 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:09 |

@@ -3,7 +3,7 @@ title: "(Unofficial) Wholesome Games"
 name: "wholesomegames"
 description: "Inspired by [Wholesome Games](https://www.wholesomegames.com/) ([Twitter](https://twitter.com/_wholesomegames), [Steam curator](https://store.steampowered.com/curator/35411526/)). For discussion / content related to games that are cute, friendly, compassionate, cozy. "
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wholesomegames"
@@ -54,4 +54,4 @@ Inspired by [Wholesome Games](https://www.wholesomegames.com/) ([Twitter](https:
 |----------------------|---|
 | Published            | 2020-06-15 19:01:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:37:00 |

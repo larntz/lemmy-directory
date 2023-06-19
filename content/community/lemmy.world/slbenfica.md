@@ -3,7 +3,7 @@ title: "SL Benfica"
 name: "slbenfica"
 description: "A community for Sport Lisboa e Benfica"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slbenfica"
@@ -54,4 +54,4 @@ A community for Sport Lisboa e Benfica<br>
 |----------------------|---|
 | Published            | 2023-06-14 11:10:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,19 +3,19 @@ title: "DATATERM"
 name: "datatermdigital"
 description: "Someone still has to think of something here"
 type: community
-date: "2023-06-16 22:56:16"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/datatermdigital"
 host: dataterm.digital
 lastmod: "{[ .Updated }}"
-subscribers: 96
-posts: 7
-comments: 43
-weight: 7
+subscribers: 129
+posts: 13
+comments: 64
+weight: 13
 dau: 1
-wau: 23
-mau: 23
+wau: 33
+mau: 38
 instances:
 - "dataterm_digital"
 tags: 
@@ -41,12 +41,12 @@ Someone still has to think of something here
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 96 |
-| Posts                | 7  |
-| Comments             | 43  |
+| Subscribers          | 129 |
+| Posts                | 13  |
+| Comments             | 64  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 23  |
+| Weekly Active Users  | 33  |
+| Monthly Active Users | 38  |
 
 <br>
 
@@ -54,4 +54,4 @@ Someone still has to think of something here
 |----------------------|---|
 | Published            | 2023-06-11 17:04:09 |
 | Updated              | 2023-06-11 19:04:41 |
-| Last Scraped         | 2023-06-16 22:56:16 |
+| Last Scraped         | 2023-06-19 11:35:18 |

@@ -3,13 +3,13 @@ title: "Ocean"
 name: "ocean"
 description: "Discussion, photos, art, science of the largest bodies of water"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ocean"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 26
 posts: 4
 comments: 7
 weight: 4
@@ -41,7 +41,7 @@ Discussion, photos, art, science of the largest bodies of water
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 26 |
 | Posts                | 4  |
 | Comments             | 7  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ Discussion, photos, art, science of the largest bodies of water
 |----------------------|---|
 | Published            | 2023-06-13 04:07:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

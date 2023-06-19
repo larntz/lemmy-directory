@@ -3,19 +3,19 @@ title: "Godot"
 name: "godot"
 description: "Welcome to the programming.dev Godot community!This is a place where you can discuss and get support for the Godot game engine as well as post things relating to it!Feel free to start posts in here relating to the engine to start filling up the space for the people migrating over to the fediverse!## Links- [Godot Engine](https://godotengine.org/)- [GitHub](https://github.com/godotengine/godot)- [Modding GitHub](https://github.com/GodotModding)- [Godot Forums](https://godotforums.org/)- [Mastodon](https://mastodon.gamedev.place/@godotengine)Banner from  [Godot Design](https://github.com/godotengine/godot-design)"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/godot"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 497
-posts: 39
-comments: 147
-weight: 39
-dau: 20
-wau: 44
-mau: 44
+subscribers: 656
+posts: 46
+comments: 178
+weight: 46
+dau: 15
+wau: 65
+mau: 70
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the programming.dev Godot community!<br><br>This is a place where you
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 497 |
-| Posts                | 39  |
-| Comments             | 147  |
-| Daily Active Users   | 20  |
-| Weekly Active Users  | 44  |
-| Monthly Active Users | 44  |
+| Subscribers          | 656 |
+| Posts                | 46  |
+| Comments             | 178  |
+| Daily Active Users   | 15  |
+| Weekly Active Users  | 65  |
+| Monthly Active Users | 70  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the programming.dev Godot community!<br><br>This is a place where you
 |----------------------|---|
 | Published            | 2023-06-11 01:11:36 |
 | Updated              | 2023-06-13 01:29:34 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

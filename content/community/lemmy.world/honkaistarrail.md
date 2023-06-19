@@ -3,7 +3,7 @@ title: "Honkai Star Rail"
 name: "honkaistarrail"
 description: "Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that takes players on a cosmic adventure across the stars. Hop aboard the Astral Express and experience the galaxy's infinite wonders on this journey filled with adventure and thrill."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/honkaistarrail"
@@ -54,4 +54,4 @@ Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that tak
 |----------------------|---|
 | Published            | 2023-06-13 23:59:54 |
 | Updated              | 2023-06-14 00:01:37 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

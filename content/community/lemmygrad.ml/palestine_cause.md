@@ -3,7 +3,7 @@ title: "Palestine"
 name: "palestine_cause"
 description: "From the river to the sea, Palestine shall be free."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/palestine_cause"
@@ -54,4 +54,4 @@ From the river to the sea, Palestine shall be free.
 |----------------------|---|
 | Published            | 2022-04-18 20:46:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

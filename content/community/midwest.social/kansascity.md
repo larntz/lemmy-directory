@@ -3,19 +3,19 @@ title: "Kansas City"
 name: "kansascity"
 description: "Community dedicated to the Kansas City metro area. This includes Kansas City, Missouri, as well as suburbs in both Kansas and Missouri."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kansascity"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 57
-posts: 6
-comments: 16
-weight: 6
-dau: 8
-wau: 13
-mau: 14
+subscribers: 70
+posts: 11
+comments: 24
+weight: 11
+dau: 3
+wau: 17
+mau: 18
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ Community dedicated to the Kansas City metro area. This includes Kansas City, Mi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
-| Posts                | 6  |
-| Comments             | 16  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 14  |
+| Subscribers          | 70 |
+| Posts                | 11  |
+| Comments             | 24  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 17  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community dedicated to the Kansas City metro area. This includes Kansas City, Mi
 |----------------------|---|
 | Published            | 2022-05-15 20:56:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

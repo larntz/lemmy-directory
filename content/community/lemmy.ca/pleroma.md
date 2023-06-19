@@ -3,13 +3,13 @@ title: "Pleroma"
 name: "pleroma"
 description: "Also see:* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)* [Fedizens](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pleroma"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Also see:<br>* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Also see:<br>* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)<
 |----------------------|---|
 | Published            | 2022-07-22 15:06:47 |
 | Updated              | 2022-08-26 13:27:34 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

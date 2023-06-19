@@ -3,13 +3,13 @@ title: "Thanks I Hate It"
 name: "tihi"
 description: "For the horrendous and terrible"
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tihi"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 177
+subscribers: 185
 posts: 14
 comments: 7
 weight: 14
@@ -41,7 +41,7 @@ For the horrendous and terrible
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 177 |
+| Subscribers          | 185 |
 | Posts                | 14  |
 | Comments             | 7  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ For the horrendous and terrible
 |----------------------|---|
 | Published            | 2020-02-18 13:53:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:55 |

@@ -3,19 +3,19 @@ title: "Left Piracy"
 name: "leftpiracy"
 description: "A piracy / sharing community for leftists."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftpiracy"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 1371
-posts: 67
-comments: 376
-weight: 67
-dau: 2
+subscribers: 1410
+posts: 68
+comments: 377
+weight: 68
+dau: 1
 wau: 21
-mau: 31
+mau: 32
 instances:
 - "lemmygrad_ml"
 tags: 
@@ -41,12 +41,12 @@ A piracy / sharing community for leftists.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1371 |
-| Posts                | 67  |
-| Comments             | 376  |
-| Daily Active Users   | 2  |
+| Subscribers          | 1410 |
+| Posts                | 68  |
+| Comments             | 377  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 21  |
-| Monthly Active Users | 31  |
+| Monthly Active Users | 32  |
 
 <br>
 
@@ -54,4 +54,4 @@ A piracy / sharing community for leftists.
 |----------------------|---|
 | Published            | 2019-08-22 18:48:01 |
 | Updated              | 2020-08-06 19:07:22 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

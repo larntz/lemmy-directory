@@ -3,7 +3,7 @@ title: "Cosmos General"
 name: "cosmos_general"
 description: "A place to discuss the Cosmos blockchain, or general Cosmos related blockchains. "
 type: community
-date: "2023-06-16 22:56:15"
+date: "2023-06-19 11:35:17"
 draft: false
 nsfw: false
 actor_id: "https://theotter.social/c/cosmos_general"
@@ -54,4 +54,4 @@ A place to discuss the Cosmos blockchain, or general Cosmos related blockchains.
 |----------------------|---|
 | Published            | 2023-06-11 15:03:37 |
 | Updated              | 2023-06-11 16:53:10 |
-| Last Scraped         | 2023-06-16 22:56:15 |
+| Last Scraped         | 2023-06-19 11:35:17 |

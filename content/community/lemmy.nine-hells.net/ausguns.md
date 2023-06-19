@@ -3,7 +3,7 @@ title: "AusGuns"
 name: "ausguns"
 description: "A place for Australian sporting shooters and hunters"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/ausguns"
@@ -54,4 +54,4 @@ A place for Australian sporting shooters and hunters
 |----------------------|---|
 | Published            | 2023-06-10 23:31:13 |
 | Updated              | 2023-06-12 04:32:44 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

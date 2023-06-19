@@ -3,13 +3,13 @@ title: "Learn the Chinese language"
 name: "learnchinese"
 description: "A place to learn Chinese - writing, reading, speaking, listeningThe only rule: no posts about how hard it is to learn Chinese.Useful resources can be found [here](https://lemmygrad.ml/post/174923).Immersion resources can be found [here](https://lemmygrad.ml/post/174942)."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/learnchinese"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 192
+subscribers: 194
 posts: 15
 comments: 66
 weight: 15
@@ -41,7 +41,7 @@ A place to learn Chinese - writing, reading, speaking, listening<br><br>The only
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 192 |
+| Subscribers          | 194 |
 | Posts                | 15  |
 | Comments             | 66  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to learn Chinese - writing, reading, speaking, listening<br><br>The only
 |----------------------|---|
 | Published            | 2022-03-24 05:01:48 |
 | Updated              | 2022-03-25 13:40:39 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

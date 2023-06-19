@@ -3,16 +3,16 @@ title: "Music"
 name: "music"
 description: "A community to talk about music: great albums, favorite bands, etc."
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/music"
 host: lemmy.studio
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 3
+subscribers: 4
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A community to talk about music: great albums, favorite bands, etc.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
+| Subscribers          | 4 |
+| Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A community to talk about music: great albums, favorite bands, etc.
 |----------------------|---|
 | Published            | 2023-06-15 20:04:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

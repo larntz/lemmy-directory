@@ -3,18 +3,18 @@ title: "Creative Cooking"
 name: "creativecooking"
 description: "A place to post videos, pictures, recipes or other things relating to creative cooking.Did you have a limited number of items in your fridge and wanted to see what you could do with them?Did you just want to experiment with an interesting idea you had?Or did you perhaps want to try cooking on a severely crippled budget?Regardless of the reason, that's what this community is for! Fun recipes/experiments involving food!**Meant for genuine posts, meme posts will be removed.**"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/creativecooking"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 9
+subscribers: 24
+posts: 10
 comments: 13
-weight: 9
+weight: 10
 dau: 1
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "lemmy_burger_rodeo"
@@ -41,11 +41,11 @@ A place to post videos, pictures, recipes or other things relating to creative c
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 9  |
+| Subscribers          | 24 |
+| Posts                | 10  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ A place to post videos, pictures, recipes or other things relating to creative c
 |----------------------|---|
 | Published            | 2023-06-05 02:23:16 |
 | Updated              | 2023-06-09 21:37:55 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

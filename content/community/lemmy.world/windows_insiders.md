@@ -3,13 +3,13 @@ title: "Windows Insiders"
 name: "windows_insiders"
 description: "A place to talk about the Windows Insiders program, new releases, bugs, etc.. It isn't for general Windows troubleshooting, but for Insider releases. Official Site: https://www.microsoft.com/en-us/windowsinsider/Channels:Canary - Preview the latest and greatest early in the development cycle. Possibly unstable, some things may not work yet. For highly technical users.Dev - Rough edges and low stability. For enthusiasts. Beta - More reliable, updates are validated by Microsoft. For early adopters. Release Preview - Most stable, one step below commercial release. Good for commercial and home users wanting to try it before it's released. "
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windows_insiders"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 21
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to talk about the Windows Insiders program, new releases, bugs, etc.. It
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 21 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to talk about the Windows Insiders program, new releases, bugs, etc.. It
 |----------------------|---|
 | Published            | 2023-06-14 15:05:57 |
 | Updated              | 2023-06-15 21:11:23 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

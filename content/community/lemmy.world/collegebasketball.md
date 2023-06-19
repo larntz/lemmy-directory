@@ -3,19 +3,19 @@ title: "NCAA Basketball"
 name: "collegebasketball"
 description: "Your central location for college hoops!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/collegebasketball"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 1
-comments: 0
-weight: 1
+subscribers: 15
+posts: 4
+comments: 1
+weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Your central location for college hoops!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 15 |
+| Posts                | 4  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Your central location for college hoops!
 |----------------------|---|
 | Published            | 2023-06-13 14:51:35 |
 | Updated              | 2023-06-13 16:40:38 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

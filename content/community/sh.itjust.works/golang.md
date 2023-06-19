@@ -3,13 +3,13 @@ title: "Golang"
 name: "golang"
 description: "A place to talk about all things golang."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/golang"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 50
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to talk about all things golang.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 50 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to talk about all things golang.
 |----------------------|---|
 | Published            | 2023-06-08 23:15:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

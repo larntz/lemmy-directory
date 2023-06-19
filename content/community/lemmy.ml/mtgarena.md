@@ -3,7 +3,7 @@ title: "MTG:Arena"
 name: "mtgarena"
 description: "Community for **magic the gathering: arena** fans"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mtgarena"
@@ -54,4 +54,4 @@ Community for **magic the gathering: arena** fans
 |----------------------|---|
 | Published            | 2023-06-13 21:23:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Last Scraped         | 2023-06-19 11:36:42 |

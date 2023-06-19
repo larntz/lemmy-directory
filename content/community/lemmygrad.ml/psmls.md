@@ -3,13 +3,13 @@ title: "The People's School of Marxist-Leninist Studies"
 name: "psmls"
 description: "The People’s School for Marxist-Leninist Studies (PSMLS) has the sole goal of educating the working class to prepare to build socialism in the United States of America (USA). Our team of talented teachers runs an interactive classroom focused on openness and clear understanding.Free Classes every Tue/Thu at 8 PM ESTFind us on [YouTube!](https://www.youtube.com/channel/UCNLORxbPEwf98GlydIahIEg)Or chech out our [Website!](https://peoplesschool.org/about/)"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/psmls"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 60
+subscribers: 61
 posts: 21
 comments: 4
 weight: 21
@@ -41,7 +41,7 @@ The People’s School for Marxist-Leninist Studies (PSMLS) has the sole goal of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
+| Subscribers          | 61 |
 | Posts                | 21  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The People’s School for Marxist-Leninist Studies (PSMLS) has the sole goal of 
 |----------------------|---|
 | Published            | 2022-05-22 21:58:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,7 +3,7 @@ title: "Mindshare"
 name: "mindshare"
 description: "Official announcements from the Mindshare team"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:11"
 draft: false
 nsfw: false
 actor_id: "https://mindshare.space/c/mindshare"
@@ -54,4 +54,4 @@ Official announcements from the Mindshare team
 |----------------------|---|
 | Published            | 2023-06-09 03:38:43 |
 | Updated              | 2023-06-09 04:31:34 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:11 |

@@ -3,19 +3,19 @@ title: "Pauper"
 name: "pauper"
 description: "#### Pauper format discussionThe most accessible format! In Pauper, all cards in your deck must have been released at common rarity in a Magic\u202fset or product.Read more at [Pauper's official website](https://magic.wizards.com/en/formats/pauper)---"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/pauper"
 host: mtgzone.com
 lastmod: "{[ .Updated }}"
-subscribers: 15
-posts: 2
+subscribers: 18
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "mtgzone_com"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
+| Subscribers          | 18 |
+| Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 13:28:36 |
 | Updated              | 2023-06-16 15:51:40 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

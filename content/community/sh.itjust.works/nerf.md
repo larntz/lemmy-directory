@@ -3,13 +3,13 @@ title: "Nerf/Blaster Tag"
 name: "nerf"
 description: "A community like r/nerf for lovers of foam flinging, blaster modding, and everything related to the hobby of nerf/blaster tag!"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nerf"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ A community like r/nerf for lovers of foam flinging, blaster modding, and everyt
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community like r/nerf for lovers of foam flinging, blaster modding, and everyt
 |----------------------|---|
 | Published            | 2023-06-14 21:23:52 |
 | Updated              | 2023-06-15 04:18:25 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

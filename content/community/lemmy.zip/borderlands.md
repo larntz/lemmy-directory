@@ -3,16 +3,16 @@ title: "Borderlands"
 name: "borderlands"
 description: "The Borderlands game franchise, including all DLC, sequels, pre-sequels, and re-pre-sequels."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/borderlands"
 host: lemmy.zip
 lastmod: "{[ .Updated }}"
-subscribers: 25
-posts: 5
+subscribers: 31
+posts: 7
 comments: 0
-weight: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ The Borderlands game franchise, including all DLC, sequels, pre-sequels, and re-
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 5  |
+| Subscribers          | 31 |
+| Posts                | 7  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The Borderlands game franchise, including all DLC, sequels, pre-sequels, and re-
 |----------------------|---|
 | Published            | 2023-06-13 14:47:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:15 |

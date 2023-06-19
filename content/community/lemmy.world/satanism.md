@@ -3,13 +3,13 @@ title: "Satanism"
 name: "satanism"
 description: "A Lemmy community to discuss SatanismATTENTION: If any of the /r/satanism mods move over here and would like to take over, please DM me and I will be happy to transfer it to you."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/satanism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 56
+subscribers: 69
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ A Lemmy community to discuss Satanism<br><br>ATTENTION: If any of the /r/satanis
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
+| Subscribers          | 69 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A Lemmy community to discuss Satanism<br><br>ATTENTION: If any of the /r/satanis
 |----------------------|---|
 | Published            | 2023-06-12 19:35:48 |
 | Updated              | 2023-06-12 19:53:55 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:40 |

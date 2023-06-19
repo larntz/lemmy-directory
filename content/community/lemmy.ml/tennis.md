@@ -3,7 +3,7 @@ title: "tennis"
 name: "tennis"
 description: "Tennis News & Discussion"
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tennis"
@@ -54,4 +54,4 @@ Tennis News & Discussion
 |----------------------|---|
 | Published            | 2021-01-19 16:43:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:53 |

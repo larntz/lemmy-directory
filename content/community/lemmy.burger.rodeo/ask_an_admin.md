@@ -3,19 +3,19 @@ title: "Ask An Admin"
 name: "ask_an_admin"
 description: "Have a question specifically for Burggit staff? This is for those.### Rules:- Follow Burggit rules.- Only post questions relating to Burggit and/or its operation. Troll, Joke or similar non-serious questions will not be answered and might be removed."
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/ask_an_admin"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 7
-posts: 2
-comments: 5
-weight: 2
-dau: 2
-wau: 4
-mau: 4
+subscribers: 9
+posts: 4
+comments: 13
+weight: 4
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ Have a question specifically for Burggit staff? This is for those.<br><br>### Ru
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 9 |
+| Posts                | 4  |
+| Comments             | 13  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Have a question specifically for Burggit staff? This is for those.<br><br>### Ru
 |----------------------|---|
 | Published            | 2023-06-15 02:19:37 |
 | Updated              | 2023-06-15 21:21:05 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

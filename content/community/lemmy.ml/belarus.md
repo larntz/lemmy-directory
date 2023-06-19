@@ -3,7 +3,7 @@ title: "Беларусь | Belarus 🇧🇾"
 name: "belarus"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:37"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/belarus"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-05-02 10:37:55 |
 | Updated              | 2022-05-02 10:41:34 |
-| Last Scraped         | 2023-06-16 22:57:37 |
+| Last Scraped         | 2023-06-19 11:37:00 |

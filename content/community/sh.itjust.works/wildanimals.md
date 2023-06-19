@@ -3,13 +3,13 @@ title: "Animals in the Wild"
 name: "wildanimals"
 description: "photos and videos of wild animals (wild as in non domestic, not as in berserk)"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wildanimals"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ photos and videos of wild animals (wild as in non domestic, not as in berserk)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ photos and videos of wild animals (wild as in non domestic, not as in berserk)
 |----------------------|---|
 | Published            | 2023-06-16 05:08:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

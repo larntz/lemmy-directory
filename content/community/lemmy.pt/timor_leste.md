@@ -3,7 +3,7 @@ title: "Timor Leste - Geral"
 name: "timor_leste"
 description: "Comunidade dedicada a Timor."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/timor_leste"
@@ -54,4 +54,4 @@ Comunidade dedicada a Timor.
 |----------------------|---|
 | Published            | 2021-09-11 15:21:19 |
 | Updated              | 2021-09-13 10:57:35 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

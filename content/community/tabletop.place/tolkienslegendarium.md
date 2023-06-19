@@ -3,13 +3,13 @@ title: "Tolkien's Legendarium"
 name: "tolkienslegendarium"
 description: "A community dedicated to Tolkien's Legendarium, from the Lord of the Rings, to the Silmarillion, and all of the expanded literature by J.R.R. Tolkien and his estate. This community has a standard for post quality and generally frowns upon joke, memes, and low effort post. While you do not have to be an academic or Tolkien scholar, serious discussion is encouraged, and discussion of third-party media discouraged."
 type: community
-date: "2023-06-16 22:56:31"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tolkienslegendarium"
 host: tabletop.place
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to Tolkien's Legendarium, from the Lord of the Rings, to t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community dedicated to Tolkien's Legendarium, from the Lord of the Rings, to t
 |----------------------|---|
 | Published            | 2023-06-16 06:09:42 |
 | Updated              | 2023-06-16 22:22:08 |
-| Last Scraped         | 2023-06-16 22:56:31 |
+| Last Scraped         | 2023-06-19 11:35:30 |

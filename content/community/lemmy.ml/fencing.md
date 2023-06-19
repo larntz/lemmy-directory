@@ -3,7 +3,7 @@ title: "Fencing"
 name: "fencing"
 description: "Fencing community"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fencing"
@@ -54,4 +54,4 @@ Fencing community
 |----------------------|---|
 | Published            | 2020-04-30 16:15:55 |
 | Updated              | 2023-06-12 13:35:33 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:44 |

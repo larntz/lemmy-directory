@@ -3,7 +3,7 @@ title: "Welcome"
 name: "hello"
 description: "Come say hi!"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/hello"
@@ -14,7 +14,7 @@ posts: 2
 comments: 8
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_podycust_co_uk"
@@ -45,7 +45,7 @@ Come say hi!
 | Posts                | 2  |
 | Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ Come say hi!
 |----------------------|---|
 | Published            | 2023-06-02 14:37:11 |
 | Updated              | 2023-06-10 11:09:10 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:54 |

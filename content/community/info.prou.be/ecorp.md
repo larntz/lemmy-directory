@@ -3,7 +3,7 @@ title: "Capitalisme de la vigilància i el control social"
 name: "ecorp"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/ecorp"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-02-12 18:54:22 |
 | Updated              | 2022-02-12 19:33:32 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

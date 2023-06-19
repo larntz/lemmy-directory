@@ -3,13 +3,13 @@ title: "/f/Latinoamerica"
 name: "latinoamerica"
 description: "Toda información relevante  en la región"
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/latinoamerica"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 48
 posts: 28
 comments: 0
 weight: 28
@@ -41,7 +41,7 @@ Toda información relevante  en la región
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 48 |
 | Posts                | 28  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Toda información relevante  en la región
 |----------------------|---|
 | Published            | 2020-01-31 10:51:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:54 |

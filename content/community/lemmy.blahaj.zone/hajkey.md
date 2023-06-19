@@ -3,13 +3,13 @@ title: "Hajkey"
 name: "hajkey"
 description: "Hajkey (pronounced something like Hi-Key)A fork of Calckey, from the folk behind blahaj.zone "
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/hajkey"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Hajkey (pronounced something like Hi-Key)<br><br>A fork of Calckey, from the fol
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Hajkey (pronounced something like Hi-Key)<br><br>A fork of Calckey, from the fol
 |----------------------|---|
 | Published            | 2023-06-14 03:58:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

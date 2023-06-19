@@ -3,13 +3,13 @@ title: "Fuck the Colonists"
 name: "anti_colonialism"
 description: "This is a community for discussing colonialism, both historic and current, and its effects. RULES:- No justifying or defending colonialism - No defence for right-independence movements that side with imperial powers or against geopolitical enemies of imperialism (ex. Taiwan, Israel)- Follow site rules"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anti_colonialism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 113
+subscribers: 115
 posts: 55
 comments: 118
 weight: 55
@@ -41,7 +41,7 @@ This is a community for discussing colonialism, both historic and current, and i
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 113 |
+| Subscribers          | 115 |
 | Posts                | 55  |
 | Comments             | 118  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ This is a community for discussing colonialism, both historic and current, and i
 |----------------------|---|
 | Published            | 2022-09-17 17:23:30 |
 | Updated              | 2022-09-22 01:28:33 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

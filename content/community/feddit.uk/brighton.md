@@ -3,15 +3,15 @@ title: "Brighton"
 name: "brighton"
 description: "Welcome Brightonians and visitors alike!No abuse, no doxxing, no spam."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/brighton"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 14
 posts: 2
-comments: 3
+comments: 7
 weight: 2
 dau: 1
 wau: 3
@@ -41,9 +41,9 @@ Welcome Brightonians and visitors alike!<br><br>No abuse, no doxxing, no spam.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 14 |
 | Posts                | 2  |
-| Comments             | 3  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
@@ -54,4 +54,4 @@ Welcome Brightonians and visitors alike!<br><br>No abuse, no doxxing, no spam.
 |----------------------|---|
 | Published            | 2023-06-12 14:39:08 |
 | Updated              | 2023-06-12 17:06:34 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

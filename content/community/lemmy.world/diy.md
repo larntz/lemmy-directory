@@ -3,18 +3,18 @@ title: "DIY"
 name: "diy"
 description: "For DIY - this is also a placeholder."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/diy"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 151
+subscribers: 170
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ For DIY - this is also a placeholder.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 151 |
+| Subscribers          | 170 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ For DIY - this is also a placeholder.
 |----------------------|---|
 | Published            | 2023-06-12 01:31:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

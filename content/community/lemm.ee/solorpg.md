@@ -3,19 +3,19 @@ title: "Playing Tabletop Roleplaying Games Alone"
 name: "solorpg"
 description: "**Welcome to the SoloRPG community!**Some people prefer to play their tabletop roleplaying games alone, to avoid the drama and scheduling issues of traditional group games, while others play solo because they're unable to find a group to play with.Whatever your case may be, you're more than welcome here to discuss your experiences as well as ask any questions that you might have.For an introduction to this style of play, read [Why Play Roleplaying Games Alone](https://lemm.ee/post/69164)."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/solorpg"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 18
 posts: 3
-comments: 1
+comments: 3
 weight: 3
-dau: 3
-wau: 3
-mau: 3
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 18 |
 | Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Comments             | 3  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 11:36:35 |
 | Updated              | 2023-06-15 18:00:51 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

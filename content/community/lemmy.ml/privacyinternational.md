@@ -3,7 +3,7 @@ title: "Privacy International"
 name: "privacyinternational"
 description: "http://privacyinternational.org"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privacyinternational"
@@ -54,4 +54,4 @@ http://privacyinternational.org
 |----------------------|---|
 | Published            | 2021-06-23 13:12:07 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

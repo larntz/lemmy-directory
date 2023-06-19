@@ -3,7 +3,7 @@ title: "Network Neutrality"
 name: "netneutrality"
 description: "discussion about network neutrality"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netneutrality"
@@ -54,4 +54,4 @@ discussion about network neutrality
 |----------------------|---|
 | Published            | 2020-03-28 15:33:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:59 |

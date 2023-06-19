@@ -3,16 +3,16 @@ title: "Testing 3"
 name: "test"
 description: "Hmm, for fun, doing some testing here."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/test"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 6
-comments: 1
-weight: 6
+subscribers: 11
+posts: 8
+comments: 4
+weight: 8
 dau: 1
 wau: 4
 mau: 4
@@ -41,9 +41,9 @@ Hmm, for fun, doing some testing here.<br>
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 6  |
-| Comments             | 1  |
+| Subscribers          | 11 |
+| Posts                | 8  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Hmm, for fun, doing some testing here.<br>
 |----------------------|---|
 | Published            | 2020-12-13 00:18:49 |
 | Updated              | 2023-06-11 05:09:56 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

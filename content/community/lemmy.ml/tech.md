@@ -3,7 +3,7 @@ title: "/tech/"
 name: "tech"
 description: "Tech board.1. This board is SFW.2. Use common sense."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech"
@@ -54,4 +54,4 @@ Tech board.<br>1. This board is SFW.<br>2. Use common sense.<br>
 |----------------------|---|
 | Published            | 2020-07-17 05:35:26 |
 | Updated              | 2020-07-20 18:51:37 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

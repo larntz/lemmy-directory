@@ -3,7 +3,7 @@ title: "Vexillography"
 name: "vexillography"
 description: "A community for vexillography.[Vexillography](https://wikipedia.org/wiki/Vexillography) is the art and practice of designing flags; it is different, though related, from Vexillology.## Rules1. Posts should be relevant to Vexillography."
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vexillography"
@@ -54,4 +54,4 @@ A community for vexillography.<br><br>[Vexillography](https://wikipedia.org/wiki
 |----------------------|---|
 | Published            | 2022-02-09 00:40:25 |
 | Updated              | 2022-07-14 06:10:38 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:48 |

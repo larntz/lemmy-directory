@@ -3,13 +3,13 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "A place for the discussion of all things related to the electronic synthesis of sound."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/synthesizers"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 1
 weight: 3
@@ -41,7 +41,7 @@ A place for the discussion of all things related to the electronic synthesis of 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 2 |
 | Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for the discussion of all things related to the electronic synthesis of 
 |----------------------|---|
 | Published            | 2023-06-14 09:43:38 |
 | Updated              | 2023-06-16 12:47:19 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

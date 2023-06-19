@@ -3,7 +3,7 @@ title: "books"
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/books"
@@ -14,7 +14,7 @@ posts: 4
 comments: 0
 weight: 4
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "oceanbreeze_earth"
@@ -45,7 +45,7 @@ Description not available.
 | Posts                | 4  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 21:19:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

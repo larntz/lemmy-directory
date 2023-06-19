@@ -3,7 +3,7 @@ title: "Philadelphia Eagles"
 name: "eagles"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eagles"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-12-16 21:06:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:55 |

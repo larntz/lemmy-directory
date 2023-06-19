@@ -3,15 +3,15 @@ title: "Libertarian Discussion"
 name: "libertarian"
 description: "Place for discussion from a Libertarian perspective, meaning less top-down control and more individual liberty. In general, the intent is discussion about issues and not a discussion on libertarianism itself or any of its branches.Be sure to respect the instance rules, and please keep discussion civil and backed by high quality sources where possible."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/libertarian"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 14
 posts: 3
-comments: 12
+comments: 26
 weight: 3
 dau: 1
 wau: 1
@@ -41,9 +41,9 @@ Place for discussion from a Libertarian perspective, meaning less top-down contr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 14 |
 | Posts                | 3  |
-| Comments             | 12  |
+| Comments             | 26  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ Place for discussion from a Libertarian perspective, meaning less top-down contr
 |----------------------|---|
 | Published            | 2023-06-12 16:37:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

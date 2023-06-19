@@ -3,19 +3,19 @@ title: "Fleshlight"
 name: "fleshlights"
 description: "Discussion and posts of guys using fleshlights or other similar toys. Please tag OC and be 18+ as well as follow instance rules.Sister communities* [!penis@lemmynsfw.com](/c/lemmynsfw.com) - For appreciators of all things penis. (OC welcome)* [!nudedudes@lemmynsfw.com](/c/nudedudes@lemmynsfw.com) - An OC focused sub for male nudity* [!foreskin@lemmynsfw.com](/c/foreskin@lemmynsfw.com) - For hoodie lovers. (OC welcome)* [!lemmycums@lemmynsfw.com](/c/lemmycums@lemmynsfw.com) - Similar to r/redditorcum, OC focused.* [!massivecock@lemmynsfw.com](/c/massivecock@lemmynsfw.com) - large penises and those who love them (OC focused)Gay male focused sister communities* [!gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com) - Gay oriented nude sub in the spirit of r/gaybrosgonewild (OC focused)* [!gayporn@lemmynsfw.com](/c/gayporn@lemmynsfw.com) - dudes who like dudes!* [!gayporngifs@lemmynsfw.com](/c/gayporngifs@lemmynsfw.com) -GIFs of the gay porn variety."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/fleshlights"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 122
+subscribers: 158
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Discussion and posts of guys using fleshlights or other similar toys. Please tag
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 122 |
+| Subscribers          | 158 |
 | Posts                | 2  |
-| Comments             | 1  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -56,4 +56,4 @@ Discussion and posts of guys using fleshlights or other similar toys. Please tag
 |----------------------|---|
 | Published            | 2023-06-12 03:00:46 |
 | Updated              | 2023-06-14 00:14:45 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

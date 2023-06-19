@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "The main community for discussions about how this server is maintained."
 type: community
-date: "2023-06-16 22:56:26"
+date: "2023-06-19 11:35:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/main"
@@ -14,8 +14,8 @@ posts: 0
 comments: 0
 weight: 0
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmyunchained_net"
 tags: 
@@ -45,8 +45,8 @@ The main community for discussions about how this server is maintained.
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ The main community for discussions about how this server is maintained.
 |----------------------|---|
 | Published            | 2023-06-15 06:19:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:26 |
+| Last Scraped         | 2023-06-19 11:35:27 |

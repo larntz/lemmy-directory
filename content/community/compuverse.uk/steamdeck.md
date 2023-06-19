@@ -3,13 +3,13 @@ title: "Steam Deck"
 name: "steamdeck"
 description: "A community dedicated to the Steam Deck!"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/steamdeck"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community dedicated to the Steam Deck!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A community dedicated to the Steam Deck!
 |----------------------|---|
 | Published            | 2023-06-09 19:13:10 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

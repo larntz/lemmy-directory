@@ -3,7 +3,7 @@ title: "Duck"
 name: "duck"
 description: "For all duck lovers"
 type: community
-date: "2023-06-16 22:57:40"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/duck"
@@ -54,4 +54,4 @@ For all duck lovers
 |----------------------|---|
 | Published            | 2021-03-24 14:18:11 |
 | Updated              | 2021-07-24 19:57:26 |
-| Last Scraped         | 2023-06-16 22:57:40 |
+| Last Scraped         | 2023-06-19 11:36:56 |

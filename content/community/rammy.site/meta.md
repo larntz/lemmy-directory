@@ -3,15 +3,15 @@ title: "Meta"
 name: "meta"
 description: "Information and questions about this Lemmy instance."
 type: community
-date: "2023-06-16 22:56:17"
+date: "2023-06-19 11:35:18"
 draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/meta"
 host: rammy.site
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 9
 posts: 5
-comments: 22
+comments: 25
 weight: 5
 dau: 5
 wau: 12
@@ -41,9 +41,9 @@ Information and questions about this Lemmy instance.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 9 |
 | Posts                | 5  |
-| Comments             | 22  |
+| Comments             | 25  |
 | Daily Active Users   | 5  |
 | Weekly Active Users  | 12  |
 | Monthly Active Users | 12  |
@@ -54,4 +54,4 @@ Information and questions about this Lemmy instance.
 |----------------------|---|
 | Published            | 2023-06-12 00:09:39 |
 | Updated              | 2023-06-13 21:20:10 |
-| Last Scraped         | 2023-06-16 22:56:17 |
+| Last Scraped         | 2023-06-19 11:35:18 |

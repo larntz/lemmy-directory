@@ -3,13 +3,13 @@ title: "Elder Scrolls Online"
 name: "elderscrollsonline"
 description: "Community for The Elder Scrolls Online, an MMO developed by Zenimax Online. "
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/elderscrollsonline"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Community for The Elder Scrolls Online, an MMO developed by Zenimax Online.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 15 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Community for The Elder Scrolls Online, an MMO developed by Zenimax Online.
 |----------------------|---|
 | Published            | 2023-06-12 18:57:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

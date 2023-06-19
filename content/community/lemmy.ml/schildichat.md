@@ -3,7 +3,7 @@ title: "SchildiChat "
 name: "schildichat"
 description: "**Unofficial community**SchildiChat is a Matrix client based on Element with a more traditional instant messaging experience.- [GitHub](https://github.com/SchildiChat/)- [Website](https://schildi.chat)"
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/schildichat"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-04-30 01:56:58 |
 | Updated              | 2021-04-30 12:51:45 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:54 |

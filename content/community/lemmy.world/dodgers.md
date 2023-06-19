@@ -3,13 +3,13 @@ title: "Los Angeles Dodgers"
 name: "dodgers"
 description: "The home of Clayton KershawBorn and raised in Brooklyn, currently thriving in Los Angeles, and living rent free in San Francisco, San Diego, Arizona, and sometimes Colorado.https://www.mlb.com/dodgers/schedule/"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dodgers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ The home of Clayton Kershaw<br><br>Born and raised in Brooklyn, currently thrivi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ The home of Clayton Kershaw<br><br>Born and raised in Brooklyn, currently thrivi
 |----------------------|---|
 | Published            | 2023-06-12 05:05:19 |
 | Updated              | 2023-06-12 05:24:02 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

@@ -3,7 +3,7 @@ title: "Medieval history"
 name: "medieval"
 description: "Everything that has to do with medieval history!There is one guideline for this group:- Try to keep things reasonably historical/authentic"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/medieval"
@@ -54,4 +54,4 @@ Everything that has to do with medieval history!<br><br>There is one guideline f
 |----------------------|---|
 | Published            | 2021-05-01 17:51:43 |
 | Updated              | 2021-05-01 20:05:40 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:58 |

@@ -1,15 +1,15 @@
 ---
 title: "Shoestring Travel" 
 name: "shoestring"
-description: "A community to share information and ask questions about travelling on a budget. "
+description: "A community to share information and ask questions about travelling on a budget. Other travel communities:[Travel](https://lemmy.world/c/travel)[Award Travel](https://lemmy.world/c/awardtravel) [Travel Photography](https://lemmy.world/c/travelphotography) [One Bag](https://wayfarershaven.eu/c/onebag) [Her One Bag](https://wayfarershaven.eu/c/heronebag)[Solo Travel](https://wayfarershaven.eu/c/solotravel)"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shoestring"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A community to share information and ask questions about travelling on a budget. 
+A community to share information and ask questions about travelling on a budget. <br><br>Other travel communities:<br><br>[Travel](https://lemmy.world/c/travel)<br><br>[Award Travel](https://lemmy.world/c/awardtravel)<br> <br>[Travel Photography](https://lemmy.world/c/travelphotography) <br><br>[One Bag](https://wayfarershaven.eu/c/onebag) <br><br>[Her One Bag](https://wayfarershaven.eu/c/heronebag)<br><br>[Solo Travel](https://wayfarershaven.eu/c/solotravel)
 </blockquote>
 
 
@@ -41,7 +41,7 @@ A community to share information and ask questions about travelling on a budget.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 13 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -53,5 +53,5 @@ A community to share information and ask questions about travelling on a budget.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 15:35:11 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Updated              | 2023-06-17 10:49:05 |
+| Last Scraped         | 2023-06-19 11:36:37 |

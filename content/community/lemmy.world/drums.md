@@ -3,19 +3,19 @@ title: "Drums"
 name: "drums"
 description: "A place for drummers and anyone who wants to talk about drums"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drums"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
-posts: 2
-comments: 7
-weight: 2
+subscribers: 22
+posts: 3
+comments: 9
+weight: 3
 dau: 2
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for drummers and anyone who wants to talk about drums
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 7  |
+| Subscribers          | 22 |
+| Posts                | 3  |
+| Comments             | 9  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for drummers and anyone who wants to talk about drums
 |----------------------|---|
 | Published            | 2023-06-12 15:56:45 |
 | Updated              | 2023-06-12 16:05:59 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,16 +3,16 @@ title: "SDF Amateur Radio Club"
 name: "sdfarc"
 description: "SDF's Amateur Radio Club (Ham Radio)"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sdfarc"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 112
-posts: 8
-comments: 24
-weight: 8
+subscribers: 135
+posts: 9
+comments: 28
+weight: 9
 dau: 1
 wau: 14
 mau: 18
@@ -41,9 +41,9 @@ SDF's Amateur Radio Club (Ham Radio)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 8  |
-| Comments             | 24  |
+| Subscribers          | 135 |
+| Posts                | 9  |
+| Comments             | 28  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 14  |
 | Monthly Active Users | 18  |
@@ -54,4 +54,4 @@ SDF's Amateur Radio Club (Ham Radio)
 |----------------------|---|
 | Published            | 2023-06-06 23:38:35 |
 | Updated              | 2023-06-06 23:46:07 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

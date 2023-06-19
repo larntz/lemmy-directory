@@ -3,13 +3,13 @@ title: "chicago bears"
 name: "chibears"
 description: "Lemmy home to the Chicago Bears - a professional American football team based in Chicago, Illinois. "
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/chibears"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Lemmy home to the Chicago Bears - a professional American football team based in
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Lemmy home to the Chicago Bears - a professional American football team based in
 |----------------------|---|
 | Published            | 2023-06-14 22:45:09 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

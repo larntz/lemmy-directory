@@ -3,19 +3,19 @@ title: "Bristol, UK"
 name: "bristol"
 description: "Community for Bristol and Bristol related activities. Local events, meet-ups etc."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bristol"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 22
-posts: 7
-comments: 7
-weight: 7
+subscribers: 24
+posts: 10
+comments: 9
+weight: 10
 dau: 1
-wau: 7
-mau: 7
+wau: 9
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Community for Bristol and Bristol related activities. Local events, meet-ups etc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 7  |
-| Comments             | 7  |
+| Subscribers          | 24 |
+| Posts                | 10  |
+| Comments             | 9  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for Bristol and Bristol related activities. Local events, meet-ups etc
 |----------------------|---|
 | Published            | 2023-06-10 18:18:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

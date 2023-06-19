@@ -3,13 +3,13 @@ title: "Tails"
 name: "tails"
 description: "Tails is a portable operating system that protects your privacy and helps you avoid censorship. https://tails.boum.org/index.en.html"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tails"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 90
+subscribers: 91
 posts: 26
 comments: 9
 weight: 26
@@ -41,7 +41,7 @@ Tails is a portable operating system that protects your privacy and helps you av
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 90 |
+| Subscribers          | 91 |
 | Posts                | 26  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Tails is a portable operating system that protects your privacy and helps you av
 |----------------------|---|
 | Published            | 2020-06-29 12:23:49 |
 | Updated              | 2021-05-08 23:43:03 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:45 |

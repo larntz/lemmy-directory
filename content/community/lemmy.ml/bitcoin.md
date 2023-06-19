@@ -3,19 +3,19 @@ title: "Bitcoin"
 name: "bitcoin"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bitcoin"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 422
-posts: 65
-comments: 55
-weight: 65
+subscribers: 453
+posts: 66
+comments: 63
+weight: 66
 dau: 3
-wau: 9
-mau: 12
+wau: 11
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 422 |
-| Posts                | 65  |
-| Comments             | 55  |
+| Subscribers          | 453 |
+| Posts                | 66  |
+| Comments             | 63  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 12  |
+| Weekly Active Users  | 11  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-18 02:04:16 |
 | Updated              | 2021-01-29 02:07:29 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

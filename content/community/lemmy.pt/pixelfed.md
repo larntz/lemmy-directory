@@ -3,7 +3,7 @@ title: "Pixelfed"
 name: "pixelfed"
 description: "Criada a pensar na partilha de fotos e links de capturas de users Portugueses presentes na Pixelfed.*This is not the official pixelfed community, this is a Portuguese group stored in lemmy.pt, dedicated to share pixelfed portuguese member photos with the comunity. #Portugal , #pixelfed , #photo , #share "
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/pixelfed"
@@ -54,4 +54,4 @@ Criada a pensar na partilha de fotos e links de capturas de users Portugueses pr
 |----------------------|---|
 | Published            | 2021-10-21 19:32:29 |
 | Updated              | 2021-10-21 20:01:54 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

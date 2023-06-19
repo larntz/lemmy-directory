@@ -3,16 +3,16 @@ title: "zdrowie i opieka medyczna"
 name: "zdrowie_i_op_med"
 description: "tworzę taką społeczność, bo brakuje takiej zbiorczej dot. zagadnienia"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/zdrowie_i_op_med"
 host: szmer.info
 lastmod: "{[ .Updated }}"
 subscribers: 18
-posts: 49
+posts: 50
 comments: 13
-weight: 49
+weight: 50
 dau: 1
 wau: 1
 mau: 4
@@ -42,7 +42,7 @@ tworzę taką społeczność, bo brakuje takiej zbiorczej dot. zagadnienia
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 18 |
-| Posts                | 49  |
+| Posts                | 50  |
 | Comments             | 13  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tworzę taką społeczność, bo brakuje takiej zbiorczej dot. zagadnienia
 |----------------------|---|
 | Published            | 2022-12-23 11:44:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

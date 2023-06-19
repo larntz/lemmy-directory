@@ -3,19 +3,19 @@ title: "Covid-19"
 name: "covid"
 description: "Covid19 is much more then a virus. - To many it has been a tool to grab power over the masses, - To others it has been a money making machine, - Others mourn the loss of family and friends to the virus or its treatment protocols- Many fear the biggest catastrophe is still to come from the long tail effects of the vaccines aka gene therapy. Covid has destroyed the trust many had in government, the medical establishment, their doctors and pharmacists, and main stream media."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/covid"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 902
-comments: 94
-weight: 902
+subscribers: 36
+posts: 905
+comments: 97
+weight: 905
 dau: 3
-wau: 4
-mau: 7
+wau: 5
+mau: 8
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ Covid19 is much more then a virus. <br>- To many it has been a tool to grab powe
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 902  |
-| Comments             | 94  |
+| Subscribers          | 36 |
+| Posts                | 905  |
+| Comments             | 97  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 7  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Covid19 is much more then a virus. <br>- To many it has been a tool to grab powe
 |----------------------|---|
 | Published            | 2022-02-27 23:06:10 |
 | Updated              | 2022-03-13 00:36:35 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

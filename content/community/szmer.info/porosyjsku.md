@@ -3,7 +3,7 @@ title: "русский язык / po rosyjsku"
 name: "porosyjsku"
 description: "Społeczność do szerowania info, artykułów itp. oraz materiałów do nauki rosyjskiego. (Opis po rosyjsku wkrótce) "
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/porosyjsku"
@@ -54,4 +54,4 @@ Społeczność do szerowania info, artykułów itp. oraz materiałów do nauki r
 |----------------------|---|
 | Published            | 2022-04-12 11:15:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

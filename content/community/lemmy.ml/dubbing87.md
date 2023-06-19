@@ -3,7 +3,7 @@ title: "Dubbing and music"
 name: "dubbing87"
 description: "Dubbing from https://www.locutortv.com/background-music-instrumental-background-instrumental-music-free-download-music-video/ "
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dubbing87"
@@ -54,4 +54,4 @@ Dubbing from https://www.locutortv.com/background-music-instrumental-background-
 |----------------------|---|
 | Published            | 2020-04-10 17:03:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:44 |

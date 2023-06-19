@@ -3,19 +3,19 @@ title: "Quake"
 name: "quake"
 description: "A community for id Software's Quake series."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quake"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 24
+posts: 5
+comments: 4
+weight: 5
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A community for id Software's Quake series.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 24 |
+| Posts                | 5  |
+| Comments             | 4  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for id Software's Quake series.
 |----------------------|---|
 | Published            | 2023-06-13 21:35:45 |
 | Updated              | 2023-06-13 21:41:19 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

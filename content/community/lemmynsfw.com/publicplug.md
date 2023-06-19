@@ -3,16 +3,16 @@ title: "Publicplug"
 name: "publicplug"
 description: "Buttplugs worn in public"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/publicplug"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 139
-posts: 2
+subscribers: 197
+posts: 6
 comments: 0
-weight: 2
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -43,8 +43,8 @@ Buttplugs worn in public
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
-| Posts                | 2  |
+| Subscribers          | 197 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -56,4 +56,4 @@ Buttplugs worn in public
 |----------------------|---|
 | Published            | 2023-06-13 09:15:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

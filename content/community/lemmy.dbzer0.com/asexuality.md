@@ -3,13 +3,13 @@ title: "Asexuality"
 name: "asexuality"
 description: "Asexuality is a sexual orientation where a person doesn't experience sexual attraction towards anyone. This is a place for asexuals, aromantics, or those who are questioning and in between. "
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/asexuality"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Asexuality is a sexual orientation where a person doesn't experience sexual attr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Asexuality is a sexual orientation where a person doesn't experience sexual attr
 |----------------------|---|
 | Published            | 2023-06-13 14:18:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

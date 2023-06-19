@@ -3,19 +3,19 @@ title: "Teach Programming"
 name: "teach_programming"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/teach_programming"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 49
-posts: 1
-comments: 3
-weight: 1
+subscribers: 70
+posts: 3
+comments: 5
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 1  |
-| Comments             | 3  |
+| Subscribers          | 70 |
+| Posts                | 3  |
+| Comments             | 5  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 04:51:55 |
 | Updated              | 2023-06-13 05:23:20 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

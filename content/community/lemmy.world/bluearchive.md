@@ -3,13 +3,13 @@ title: "Blue Archive"
 name: "bluearchive"
 description: "Blue Archive is a RPG mobile title developed by NAT GAMES, Published by Nexon KR (Global) and Yostar (Japan). The player will be a teacher that leads their students into various incidents around the city."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bluearchive"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Blue Archive is a RPG mobile title developed by NAT GAMES, Published by Nexon KR
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Blue Archive is a RPG mobile title developed by NAT GAMES, Published by Nexon KR
 |----------------------|---|
 | Published            | 2023-06-13 05:00:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:39 |

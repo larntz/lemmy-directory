@@ -3,13 +3,13 @@ title: "Machinist"
 name: "machinist"
 description: "From Newcomers to Old Timers, a community united by the Industry of Machining"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/machinist"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 7
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ From Newcomers to Old Timers, a community united by the Industry of Machining
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 7 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ From Newcomers to Old Timers, a community united by the Industry of Machining
 |----------------------|---|
 | Published            | 2023-06-15 18:34:36 |
 | Updated              | 2023-06-15 18:36:09 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

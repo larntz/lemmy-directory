@@ -3,13 +3,13 @@ title: "Communities Worth Following"
 name: "lemmyfinds"
 description: "This is a place for sharing and discussing interesting communities and resources you find across the fediverse. You can post them here no matter how niche they are, if you find them interesting.- Be descriptive. What is the community about?- Explain why you find it interesting, if applicable- No NSFW posts please- Remember: all local rules apply"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/lemmyfinds"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 23
+subscribers: 35
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ This is a place for sharing and discussing interesting communities and resources
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
+| Subscribers          | 35 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ This is a place for sharing and discussing interesting communities and resources
 |----------------------|---|
 | Published            | 2023-06-12 15:05:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

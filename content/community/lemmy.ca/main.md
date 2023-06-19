@@ -3,16 +3,16 @@ title: "Lemmy.ca's Main Community"
 name: "main"
 description: "Welcome to lemmy.ca's c/main!Since everyone on lemmy.ca gets subscribed here, this is the place to chat about the goings on at lemmy.ca, support-type items, suggestions, etc.Sidebar updated Sept 7, 2021"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/main"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 1211
-posts: 72
-comments: 723
-weight: 72
+subscribers: 1284
+posts: 78
+comments: 787
+weight: 78
 dau: 48
 wau: 188
 mau: 231
@@ -41,9 +41,9 @@ Welcome to lemmy.ca's c/main!<br><br>Since everyone on lemmy.ca gets subscribed 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1211 |
-| Posts                | 72  |
-| Comments             | 723  |
+| Subscribers          | 1284 |
+| Posts                | 78  |
+| Comments             | 787  |
 | Daily Active Users   | 48  |
 | Weekly Active Users  | 188  |
 | Monthly Active Users | 231  |
@@ -54,4 +54,4 @@ Welcome to lemmy.ca's c/main!<br><br>Since everyone on lemmy.ca gets subscribed 
 |----------------------|---|
 | Published            | 2020-12-12 23:56:39 |
 | Updated              | 2023-04-04 17:47:20 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:37 |

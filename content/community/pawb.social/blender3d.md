@@ -1,19 +1,19 @@
 ---
 title: "Blender 3D" 
 name: "blender3d"
-description: "For Furry blender users. Post blender news, your art, other people art, etc..."
+description: "For Furry blender users. Post blender news, your art, other people's art, etc..."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/blender3d"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 21
+subscribers: 28
 posts: 4
 comments: 3
 weight: 4
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-For Furry blender users. Post blender news, your art, other people art, etc...
+For Furry blender users. Post blender news, your art, other people's art, etc...
 </blockquote>
 
 
@@ -41,10 +41,10 @@ For Furry blender users. Post blender news, your art, other people art, etc...
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 21 |
+| Subscribers          | 28 |
 | Posts                | 4  |
 | Comments             | 3  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -53,5 +53,5 @@ For Furry blender users. Post blender news, your art, other people art, etc...
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 22:31:44 |
-| Updated              | 2023-06-15 14:50:40 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Updated              | 2023-06-17 01:30:44 |
+| Last Scraped         | 2023-06-19 11:34:55 |

@@ -3,7 +3,7 @@ title: "FIU Panthers"
 name: "fiupanthers"
 description: "A community to discuss Florida International University Panthers athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/fiupanthers"
@@ -54,4 +54,4 @@ A community to discuss Florida International University Panthers athletics.<br><
 |----------------------|---|
 | Published            | 2023-06-15 01:03:22 |
 | Updated              | 2023-06-15 01:16:54 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

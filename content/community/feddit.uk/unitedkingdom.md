@@ -3,19 +3,19 @@ title: "United Kingdom"
 name: "unitedkingdom"
 description: "Main community for the Feddit UK instance"
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/unitedkingdom"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 634
-posts: 17
-comments: 141
-weight: 17
+subscribers: 789
+posts: 18
+comments: 191
+weight: 18
 dau: 9
-wau: 65
-mau: 67
+wau: 77
+mau: 92
 instances:
 - "feddit_uk"
 tags: 
@@ -41,12 +41,12 @@ Main community for the Feddit UK instance
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 634 |
-| Posts                | 17  |
-| Comments             | 141  |
+| Subscribers          | 789 |
+| Posts                | 18  |
+| Comments             | 191  |
 | Daily Active Users   | 9  |
-| Weekly Active Users  | 65  |
-| Monthly Active Users | 67  |
+| Weekly Active Users  | 77  |
+| Monthly Active Users | 92  |
 
 <br>
 
@@ -54,4 +54,4 @@ Main community for the Feddit UK instance
 |----------------------|---|
 | Published            | 2023-06-09 08:42:38 |
 | Updated              | 2023-06-16 19:15:20 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

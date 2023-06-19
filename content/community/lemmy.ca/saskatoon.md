@@ -3,16 +3,16 @@ title: "Saskatoon"
 name: "saskatoon"
 description: "A community about Saskatoon, SaskatchewanRelated communities: * [!sask@lemmy.ca](https://lemmy.ca/c/sask) * [!regina@lemmy.ca](https://lemmy.ca/c/regina) "
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/saskatoon"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 9
+subscribers: 22
+posts: 12
 comments: 4
-weight: 9
+weight: 12
 dau: 2
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ A community about Saskatoon, Saskatchewan<br><br>Related communities: <br>* [!sa
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 9  |
+| Subscribers          | 22 |
+| Posts                | 12  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ A community about Saskatoon, Saskatchewan<br><br>Related communities: <br>* [!sa
 |----------------------|---|
 | Published            | 2023-06-12 16:49:21 |
 | Updated              | 2023-06-14 16:43:23 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

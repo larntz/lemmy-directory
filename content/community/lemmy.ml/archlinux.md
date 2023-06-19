@@ -3,19 +3,19 @@ title: "Archlinux"
 name: "archlinux"
 description: "The beloved lightweight distro"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/archlinux"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2180
-posts: 81
-comments: 186
-weight: 81
-dau: 37
-wau: 72
-mau: 77
+subscribers: 2441
+posts: 82
+comments: 204
+weight: 82
+dau: 4
+wau: 84
+mau: 91
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ The beloved lightweight distro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2180 |
-| Posts                | 81  |
-| Comments             | 186  |
-| Daily Active Users   | 37  |
-| Weekly Active Users  | 72  |
-| Monthly Active Users | 77  |
+| Subscribers          | 2441 |
+| Posts                | 82  |
+| Comments             | 204  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 84  |
+| Monthly Active Users | 91  |
 
 <br>
 
@@ -54,4 +54,4 @@ The beloved lightweight distro
 |----------------------|---|
 | Published            | 2020-01-18 07:52:48 |
 | Updated              | 2021-01-28 16:12:50 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:46 |

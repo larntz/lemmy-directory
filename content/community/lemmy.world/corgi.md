@@ -3,13 +3,13 @@ title: "Corgi"
 name: "corgi"
 description: "Corgi!"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/corgi"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 106
+subscribers: 125
 posts: 4
 comments: 14
 weight: 4
@@ -41,7 +41,7 @@ Corgi!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 106 |
+| Subscribers          | 125 |
 | Posts                | 4  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Corgi!
 |----------------------|---|
 | Published            | 2023-06-12 20:46:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

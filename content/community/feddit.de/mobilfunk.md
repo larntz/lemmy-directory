@@ -3,7 +3,7 @@ title: "Mobilfunk"
 name: "mobilfunk"
 description: "Alles rund um Mobilfunktarife und Endgeräte"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mobilfunk"
@@ -54,4 +54,4 @@ Alles rund um Mobilfunktarife und Endgeräte
 |----------------------|---|
 | Published            | 2023-06-05 13:00:43 |
 | Updated              | 2023-06-12 07:29:32 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

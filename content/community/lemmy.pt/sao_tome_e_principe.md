@@ -3,7 +3,7 @@ title: "São Tomé e Príncipe - Geral"
 name: "sao_tome_e_principe"
 description: "Espaço dedicado a São Tomé e Príncipe."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/sao_tome_e_principe"
@@ -54,4 +54,4 @@ Espaço dedicado a São Tomé e Príncipe.
 |----------------------|---|
 | Published            | 2021-09-11 15:22:24 |
 | Updated              | 2021-09-13 10:58:32 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

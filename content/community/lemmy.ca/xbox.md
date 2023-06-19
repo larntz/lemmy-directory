@@ -3,16 +3,16 @@ title: "Xbox"
 name: "xbox"
 description: "A community for fans of all things Xbox."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/xbox"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 52
-posts: 7
-comments: 8
-weight: 7
+subscribers: 56
+posts: 8
+comments: 11
+weight: 8
 dau: 3
 wau: 5
 mau: 5
@@ -41,9 +41,9 @@ A community for fans of all things Xbox.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 7  |
-| Comments             | 8  |
+| Subscribers          | 56 |
+| Posts                | 8  |
+| Comments             | 11  |
 | Daily Active Users   | 3  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ A community for fans of all things Xbox.
 |----------------------|---|
 | Published            | 2023-06-09 04:27:05 |
 | Updated              | 2023-06-09 04:27:54 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

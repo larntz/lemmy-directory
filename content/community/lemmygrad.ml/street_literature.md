@@ -3,13 +3,13 @@ title: "street_literature"
 name: "street_literature"
 description: "This is meant to be a community focused on communist tracts, pamphlets, and handouts.  Specifically: How to create them, who has existing pamphlets to link, pamphlets and their use in the past.  This is an ML community, but anarchist material is acceptable for related subjects."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/street_literature"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 28
 posts: 6
 comments: 10
 weight: 6
@@ -41,7 +41,7 @@ This is meant to be a community focused on communist tracts, pamphlets, and hand
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 28 |
 | Posts                | 6  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ This is meant to be a community focused on communist tracts, pamphlets, and hand
 |----------------------|---|
 | Published            | 2022-08-16 04:51:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

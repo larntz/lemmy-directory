@@ -3,16 +3,16 @@ title: "Speedrun video games"
 name: "speedrun"
 description: "Speedrunning video games"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/speedrun"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 41
-posts: 5
+subscribers: 56
+posts: 6
 comments: 0
-weight: 5
+weight: 6
 dau: 2
 wau: 2
 mau: 2
@@ -41,8 +41,8 @@ Speedrunning video games
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 5  |
+| Subscribers          | 56 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Speedrunning video games
 |----------------------|---|
 | Published            | 2023-06-09 23:11:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

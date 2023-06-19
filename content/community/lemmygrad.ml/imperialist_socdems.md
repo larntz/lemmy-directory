@@ -3,7 +3,7 @@ title: "Imperialist Socdems"
 name: "imperialist_socdems"
 description: "A community for posting about the trash politics of imperial-core social democrats."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/imperialist_socdems"
@@ -54,4 +54,4 @@ A community for posting about the trash politics of imperial-core social democra
 |----------------------|---|
 | Published            | 2022-10-27 14:00:06 |
 | Updated              | 2022-10-27 14:00:17 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

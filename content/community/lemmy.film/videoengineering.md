@@ -3,15 +3,15 @@ title: "Video Engineering"
 name: "videoengineering"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/videoengineering"
 host: lemmy.film
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 48
 posts: 2
-comments: 2
+comments: 3
 weight: 2
 dau: 1
 wau: 4
@@ -41,9 +41,9 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 48 |
 | Posts                | 2  |
-| Comments             | 2  |
+| Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-07 04:01:10 |
 | Updated              | 2023-06-12 17:36:03 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

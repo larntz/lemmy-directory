@@ -3,16 +3,16 @@ title: "Notícies"
 name: "noticies"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:40"
+date: "2023-06-19 11:34:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/noticies"
 host: lemmy.cat
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 1
+subscribers: 8
+posts: 0
 comments: 0
-weight: 1
+weight: 0
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
+| Subscribers          | 8 |
+| Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 13:54:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:40 |
+| Last Scraped         | 2023-06-19 11:34:43 |

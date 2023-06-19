@@ -3,13 +3,13 @@ title: "Discussion"
 name: "discussion"
 description: "A place for General discussion within the Psychedelia.ink communities."
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://psychedelia.ink/c/discussion"
 host: psychedelia.ink
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place for General discussion within the Psychedelia.ink communities.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for General discussion within the Psychedelia.ink communities.
 |----------------------|---|
 | Published            | 2023-06-13 21:31:45 |
 | Updated              | 2023-06-16 00:47:47 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:22 |

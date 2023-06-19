@@ -3,7 +3,7 @@ title: "Subway Tooter"
 name: "subway_tooter"
 description: "Subway Tooter について。"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/subway_tooter"
@@ -54,4 +54,4 @@ Subway Tooter について。
 |----------------------|---|
 | Published            | 2020-12-15 22:43:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

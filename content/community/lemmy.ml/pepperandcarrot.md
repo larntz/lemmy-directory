@@ -3,7 +3,7 @@ title: "Pepper&Carrot"
 name: "pepperandcarrot"
 description: "read about Pepper, a young witch; her pet cat Carrot; and their friends living on the magical planet Hereva in a libre webcomic by David Revoy and supported by fans with monetary donations, fan art, suggested plots, and derived works!https://peppercarrot.comhttps://davidrevoy.com"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pepperandcarrot"
@@ -54,4 +54,4 @@ read about Pepper, a young witch; her pet cat Carrot; and their friends living o
 |----------------------|---|
 | Published            | 2020-06-29 23:07:13 |
 | Updated              | 2020-07-01 22:20:13 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:47 |

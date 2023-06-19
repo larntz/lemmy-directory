@@ -1,21 +1,21 @@
 ---
-title: "Foxes" 
+title: "Fox pics" 
 name: "foxes"
 description: "Post pictures, art and anything about foxes! "
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foxes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 18
+posts: 4
+comments: 2
+weight: 4
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Foxes on lemmy.world
+# /c/Fox pics on lemmy.world
 
 [[home](/)]
 [[/c/foxes 🌎](https://lemmy.world/c/foxes)]
@@ -41,17 +41,17 @@ Post pictures, art and anything about foxes!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Subscribers          | 18 |
+| Posts                | 4  |
+| Comments             | 2  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 11:09:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-17 18:31:54 |
+| Last Scraped         | 2023-06-19 11:36:38 |

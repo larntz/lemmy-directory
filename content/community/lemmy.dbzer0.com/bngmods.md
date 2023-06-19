@@ -3,17 +3,17 @@ title: "bngmods.com"
 name: "bngmods"
 description: "**This is for the site BNGMODS.com A Beamng Drive Mods site**When posting mods **do not** use, Modsfire/SharemodsOnedrive, GoogleDrive/MediaFire, ETCare allowed"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/bngmods"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 26
 posts: 21
 comments: 1
 weight: 21
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 26 |
 | Posts                | 21  |
 | Comments             | 1  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-14 00:01:56 |
 | Updated              | 2023-06-14 00:14:16 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

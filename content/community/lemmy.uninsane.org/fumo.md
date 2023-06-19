@@ -3,7 +3,7 @@ title: "Fumo Posting"
 name: "fumo"
 description: "post fumos. that’s the only rule."
 type: community
-date: "2023-06-16 22:55:51"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uninsane.org/c/fumo"
@@ -54,4 +54,4 @@ post fumos. that’s the only rule.
 |----------------------|---|
 | Published            | 2023-06-09 20:30:08 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 22:55:51 |
+| Last Scraped         | 2023-06-19 11:34:53 |

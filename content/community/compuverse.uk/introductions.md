@@ -3,16 +3,16 @@ title: "Introductions"
 name: "introductions"
 description: "A community for introducing yourself, and letting know people what makes *you* tick!A throwback to the forums of yesteryear."
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/introductions"
 host: compuverse.uk
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 4
-comments: 7
-weight: 4
+subscribers: 4
+posts: 7
+comments: 9
+weight: 7
 dau: 1
 wau: 5
 mau: 5
@@ -41,9 +41,9 @@ A community for introducing yourself, and letting know people what makes *you* t
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 7  |
+| Subscribers          | 4 |
+| Posts                | 7  |
+| Comments             | 9  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 5  |
 | Monthly Active Users | 5  |
@@ -54,4 +54,4 @@ A community for introducing yourself, and letting know people what makes *you* t
 |----------------------|---|
 | Published            | 2023-06-09 07:20:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

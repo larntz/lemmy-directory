@@ -3,13 +3,13 @@ title: "Bahn: Fahrgäste, Eisenbahner und Bahn-Interessierte"
 name: "bahn"
 description: "Das Original von Reddit (/r/Bahn)Deutschsprachige Community für Diskussionen über Züge, Bahnunternehmen und dem öffentlichen Verkehr (z.B. Verspätungen, Preise, Fahrpläne und Neuigkeiten)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bahn"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 43
+subscribers: 49
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ Das Original von Reddit (/r/Bahn)<br><br>Deutschsprachige Community für Diskuss
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 43 |
+| Subscribers          | 49 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Das Original von Reddit (/r/Bahn)<br><br>Deutschsprachige Community für Diskuss
 |----------------------|---|
 | Published            | 2023-06-10 15:39:14 |
 | Updated              | 2023-06-12 08:31:44 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

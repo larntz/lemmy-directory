@@ -3,13 +3,13 @@ title: "geral"
 name: "geral"
 description: "Cenas "
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://fadoverso.pt/c/geral"
 host: fadoverso.pt
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 11
 comments: 23
 weight: 11
@@ -41,7 +41,7 @@ Cenas
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 11  |
 | Comments             | 23  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Cenas
 |----------------------|---|
 | Published            | 2023-06-13 15:56:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

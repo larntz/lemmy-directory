@@ -3,7 +3,7 @@ title: "FluxChat"
 name: "fluxchat"
 description: "A decentralized, peer-to-peer, encrypted chat application."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fluxchat"
@@ -54,4 +54,4 @@ A decentralized, peer-to-peer, encrypted chat application.
 |----------------------|---|
 | Published            | 2023-06-16 08:29:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

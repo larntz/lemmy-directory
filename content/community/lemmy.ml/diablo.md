@@ -3,19 +3,19 @@ title: "Diablo"
 name: "diablo"
 description: "An alternative source for Diablo related news and discussions on the fediverse. Stay awhile and listen!"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diablo"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 178
+subscribers: 207
 posts: 7
-comments: 26
+comments: 33
 weight: 7
-dau: 6
-wau: 14
-mau: 15
+dau: 1
+wau: 19
+mau: 23
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ An alternative source for Diablo related news and discussions on the fediverse. 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 178 |
+| Subscribers          | 207 |
 | Posts                | 7  |
-| Comments             | 26  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 15  |
+| Comments             | 33  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 19  |
+| Monthly Active Users | 23  |
 
 <br>
 
@@ -54,4 +54,4 @@ An alternative source for Diablo related news and discussions on the fediverse. 
 |----------------------|---|
 | Published            | 2023-06-03 23:37:56 |
 | Updated              | 2023-06-03 23:42:39 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

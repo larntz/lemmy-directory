@@ -3,16 +3,16 @@ title: "FreeBSD"
 name: "freebsd"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freebsd"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 222
-posts: 27
+subscribers: 228
+posts: 28
 comments: 19
-weight: 27
+weight: 28
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 222 |
-| Posts                | 27  |
+| Subscribers          | 228 |
+| Posts                | 28  |
 | Comments             | 19  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-07-26 03:18:46 |
 | Updated              | 2021-04-20 07:36:22 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

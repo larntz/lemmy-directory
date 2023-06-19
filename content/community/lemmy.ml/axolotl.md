@@ -3,13 +3,13 @@ title: "Axolotl - A cross-plattform Signal client"
 name: "axolotl"
 description: "A place to discuss the news and latest developments to the cross-platform Signal client."
 type: community
-date: "2023-06-16 22:57:34"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/axolotl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 44
+subscribers: 45
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A place to discuss the news and latest developments to the cross-platform Signal
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 44 |
+| Subscribers          | 45 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to discuss the news and latest developments to the cross-platform Signal
 |----------------------|---|
 | Published            | 2021-03-06 19:07:01 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:34 |
+| Last Scraped         | 2023-06-19 11:36:54 |

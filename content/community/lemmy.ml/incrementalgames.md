@@ -3,13 +3,13 @@ title: "Incremental Games"
 name: "incrementalgames"
 description: "A community for everything related to incremental games.Join our [Matrix room](https://matrix.to/#/#IdleGames:matrix.org)!"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/incrementalgames"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 13
+subscribers: 15
 posts: 1
 comments: 4
 weight: 1
@@ -41,7 +41,7 @@ A community for everything related to incremental games.<br><br>Join our [Matrix
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A community for everything related to incremental games.<br><br>Join our [Matrix
 |----------------------|---|
 | Published            | 2021-12-20 21:15:03 |
 | Updated              | 2021-12-20 21:20:14 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:46 |

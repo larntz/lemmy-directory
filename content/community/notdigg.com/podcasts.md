@@ -3,19 +3,19 @@ title: "Podcasts"
 name: "podcasts"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:21"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/podcasts"
 host: notdigg.com
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 1
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "notdigg_com"
 tags: 
@@ -42,11 +42,11 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 18:44:57 |
 | Updated              | 2023-06-13 23:12:33 |
-| Last Scraped         | 2023-06-16 22:56:21 |
+| Last Scraped         | 2023-06-19 11:35:23 |

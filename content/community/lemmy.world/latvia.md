@@ -3,7 +3,7 @@ title: "Latvia"
 name: "latvia"
 description: "All Things Latvian!"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/latvia"
@@ -54,4 +54,4 @@ All Things Latvian!
 |----------------------|---|
 | Published            | 2023-06-13 16:19:23 |
 | Updated              | 2023-06-13 16:28:42 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

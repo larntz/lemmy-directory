@@ -3,16 +3,16 @@ title: "Ethereum"
 name: "ethereum"
 description: "Lemmy community dedicated to Ethereum.Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.[Learn more about Ethereum](https://ethereum.org/en/)Community Rules:- No Spam- No Ads- No promotions of trading groups, courses, signals etc.- No price speculation- No pumping, shilling, or FUD"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ethereum"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
-posts: 2
+subscribers: 16
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Lemmy community dedicated to Ethereum.<br><br>Ethereum is the community-run tech
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 2  |
+| Subscribers          | 16 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Lemmy community dedicated to Ethereum.<br><br>Ethereum is the community-run tech
 |----------------------|---|
 | Published            | 2023-06-14 09:40:47 |
 | Updated              | 2023-06-14 09:48:56 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

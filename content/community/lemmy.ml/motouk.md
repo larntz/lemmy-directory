@@ -3,7 +3,7 @@ title: "MotoUK"
 name: "motouk"
 description: "A space where motorcycle riders can talk about riding in the UK"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/motouk"
@@ -54,4 +54,4 @@ A space where motorcycle riders can talk about riding in the UK
 |----------------------|---|
 | Published            | 2023-06-10 04:51:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

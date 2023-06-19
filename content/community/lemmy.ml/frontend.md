@@ -3,13 +3,13 @@ title: "Frontend Web Development"
 name: "frontend"
 description: "Community to discuss stuff all things related to frontend web development. (sharing resources, discussion etc.)"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frontend"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 76
+subscribers: 82
 posts: 7
 comments: 6
 weight: 7
@@ -41,7 +41,7 @@ Community to discuss stuff all things related to frontend web development. (shar
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 76 |
+| Subscribers          | 82 |
 | Posts                | 7  |
 | Comments             | 6  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community to discuss stuff all things related to frontend web development. (shar
 |----------------------|---|
 | Published            | 2021-01-25 10:09:54 |
 | Updated              | 2021-01-25 20:16:53 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

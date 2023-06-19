@@ -3,19 +3,19 @@ title: "Trap"
 name: "trap"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trap"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 32
-posts: 9
-comments: 8
-weight: 9
-dau: 1
-wau: 9
-mau: 9
+subscribers: 39
+posts: 12
+comments: 10
+weight: 12
+dau: 2
+wau: 8
+mau: 10
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 9  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
+| Subscribers          | 39 |
+| Posts                | 12  |
+| Comments             | 10  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 07:18:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

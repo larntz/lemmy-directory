@@ -3,13 +3,13 @@ title: "Music"
 name: "music"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:46"
+date: "2023-06-19 11:34:49"
 draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/music"
 host: fedibb.ml
 lastmod: "{[ .Updated }}"
-subscribers: 32
+subscribers: 34
 posts: 4
 comments: 29
 weight: 4
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 32 |
+| Subscribers          | 34 |
 | Posts                | 4  |
 | Comments             | 29  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-11-04 12:16:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:46 |
+| Last Scraped         | 2023-06-19 11:34:49 |

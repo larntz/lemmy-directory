@@ -3,13 +3,13 @@ title: "Personal Knowledge Management Systems"
 name: "pkms"
 description: "Personal Knowledge Management Systems!pkmsPersonal Knowledge Management (PKM) includes methods and tools used for individuals to classify, store, and organize the information they experience in their daily lives. There are a few objectives to this, including improving memory/recollection and creativity/idea creation.Personal Knowledge Management Systems (PKMS) include methods like the Zettlekasten System and digital tools such as [[Roam Research]].[Discord](https://discord.gg/pavxaKVq7N)"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/pkms"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 15
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ Personal Knowledge Management Systems<br>!pkms<br>Personal Knowledge Management 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 15 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Personal Knowledge Management Systems<br>!pkms<br>Personal Knowledge Management 
 |----------------------|---|
 | Published            | 2023-06-14 14:47:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

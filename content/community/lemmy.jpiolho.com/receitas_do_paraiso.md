@@ -3,16 +3,16 @@ title: "Receitas do Paraiso"
 name: "receitas_do_paraiso"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/receitas_do_paraiso"
 host: lemmy.jpiolho.com
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 2
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2
@@ -42,7 +42,7 @@ Description not available.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 09:30:59 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

@@ -1,18 +1,18 @@
 ---
 title: "HybridHuman" 
 name: "hybridhumanpiracy"
-description: "**Cool kids club!**Discord invite: https://discord.gg/d9wsgPrJxKGuilded invite: https://www.guilded.gg/i/k1b1l87pAllmylinks:https://allmylinks.com/hybridhuman**Rule #1 - Be civil:** Insulting others is not allowed. Users that show abusive/toxic behavior will be expelled from our server.**Rule #2 - English only:** As of now, only English is allowed in our text channels. It's okay to mention a few words from other languages, but you must mainly use English to chat.**Rule #3 - Not safe for work:** No NSFW posts are allowed, this also means no NSFW profile picture.**Rule #6 - Pirated content:** No posting of copyrighted content. Encode links with https://www.base64decode.org"
+description: "**Cool kids club for Emulation!**Discord invite: https://discord.gg/d9wsgPrJxKGuilded invite: https://www.guilded.gg/i/k1b1l87pAllmylinks:https://allmylinks.com/hybridhuman**Rule #1 - Be civil:** Insulting others is not allowed. Users that show abusive/toxic behavior will be expelled from our server.**Rule #2 - English only:** As of now, only English is allowed in our text channels. It's okay to mention a few words from other languages, but you must mainly use English to chat.**Rule #3 - Not safe for work:** No NSFW posts are allowed, this also means no NSFW profile picture.**Rule #6 - Pirated content:** No posting of copyrighted content. Encode links with https://www.base64decode.org**Note** Please keep your post relevant to console Emulation & or Piracy."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/hybridhumanpiracy"
 host: lemmy.dbzer0.com
 lastmod: "{[ .Updated }}"
-subscribers: 6
-posts: 2
+subscribers: 9
+posts: 10
 comments: 0
-weight: 2
+weight: 10
 dau: 1
 wau: 1
 mau: 1
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-**Cool kids club!**<br><br>Discord invite: <br>https://discord.gg/d9wsgPrJxK<br><br>Guilded invite: https://www.guilded.gg/i/k1b1l87p<br><br>Allmylinks:<br>https://allmylinks.com/hybridhuman<br><br>**Rule #1 - Be civil:** Insulting others is not allowed. Users that show abusive/toxic behavior will be expelled from our server.<br><br>**Rule #2 - English only:** As of now, only English is allowed in our text channels. It's okay to mention a few words from other languages, but you must mainly use English to chat.<br><br>**Rule #3 - Not safe for work:** No NSFW posts are allowed, this also means no NSFW profile picture.<br><br>**Rule #6 - Pirated content:** No posting of copyrighted content. Encode links with https://www.base64decode.org
+**Cool kids club for Emulation!**<br><br>Discord invite: <br>https://discord.gg/d9wsgPrJxK<br><br>Guilded invite: https://www.guilded.gg/i/k1b1l87p<br><br>Allmylinks:<br>https://allmylinks.com/hybridhuman<br><br>**Rule #1 - Be civil:** Insulting others is not allowed. Users that show abusive/toxic behavior will be expelled from our server.<br><br>**Rule #2 - English only:** As of now, only English is allowed in our text channels. It's okay to mention a few words from other languages, but you must mainly use English to chat.<br><br>**Rule #3 - Not safe for work:** No NSFW posts are allowed, this also means no NSFW profile picture.<br><br>**Rule #6 - Pirated content:** No posting of copyrighted content. Encode links with https://www.base64decode.org<br><br>**Note** Please keep your post relevant to console Emulation & or Piracy.
 </blockquote>
 
 
@@ -41,8 +41,8 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
+| Subscribers          | 9 |
+| Posts                | 10  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -53,5 +53,5 @@ tags:
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 15:10:01 |
-| Updated              | 2023-06-15 21:28:27 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-18 15:10:27 |
+| Last Scraped         | 2023-06-19 11:35:16 |

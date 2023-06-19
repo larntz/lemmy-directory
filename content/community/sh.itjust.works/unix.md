@@ -3,16 +3,16 @@ title: "unix like operating system lovers"
 name: "unix"
 description: "This is a community that is only for nerds  jk.everyone who doesn't scare when seeing UNIX terminal welcome!rules:1. don't make comments that branch out from the main topic too much, at least please somehow relate to it.2. retro operating systems, e.g. discussion about them, is strictly forbidden, please make a retro community instead.3. please be nice for others."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/unix"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1022
-posts: 11
-comments: 199
-weight: 11
+subscribers: 1217
+posts: 13
+comments: 222
+weight: 13
 dau: 33
 wau: 101
 mau: 101
@@ -41,9 +41,9 @@ This is a community that is only for nerds  jk.<br>everyone who doesn't scare wh
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1022 |
-| Posts                | 11  |
-| Comments             | 199  |
+| Subscribers          | 1217 |
+| Posts                | 13  |
+| Comments             | 222  |
 | Daily Active Users   | 33  |
 | Weekly Active Users  | 101  |
 | Monthly Active Users | 101  |
@@ -54,4 +54,4 @@ This is a community that is only for nerds  jk.<br>everyone who doesn't scare wh
 |----------------------|---|
 | Published            | 2023-06-07 16:39:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:06 |

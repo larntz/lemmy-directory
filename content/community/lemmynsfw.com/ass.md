@@ -3,19 +3,19 @@ title: "ass"
 name: "ass"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. Women Ass only!3. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that4. Self-Promotion is allowed! Mark Original Content with [OC] or [F]Check out [!anal@lemmynsfw.com](https://lemmynsfw.com/c/anal) for anal content!"
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ass"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 952
-posts: 33
-comments: 55
-weight: 33
-dau: 21
-wau: 39
-mau: 39
+subscribers: 1354
+posts: 81
+comments: 83
+weight: 81
+dau: 19
+wau: 63
+mau: 63
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. Women A
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 952 |
-| Posts                | 33  |
-| Comments             | 55  |
-| Daily Active Users   | 21  |
-| Weekly Active Users  | 39  |
-| Monthly Active Users | 39  |
+| Subscribers          | 1354 |
+| Posts                | 81  |
+| Comments             | 83  |
+| Daily Active Users   | 19  |
+| Weekly Active Users  | 63  |
+| Monthly Active Users | 63  |
 
 <br>
 
@@ -56,4 +56,4 @@ Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. Women A
 |----------------------|---|
 | Published            | 2023-06-12 14:12:05 |
 | Updated              | 2023-06-13 02:09:42 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

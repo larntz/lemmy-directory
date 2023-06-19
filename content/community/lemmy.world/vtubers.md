@@ -3,19 +3,19 @@ title: "vTubers"
 name: "vtubers"
 description: "A place for all things vtuber"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vtubers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 3
+subscribers: 11
+posts: 5
 comments: 0
-weight: 3
-dau: 1
-wau: 2
-mau: 2
+weight: 5
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place for all things vtuber
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
+| Subscribers          | 11 |
+| Posts                | 5  |
 | Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for all things vtuber
 |----------------------|---|
 | Published            | 2023-06-12 16:20:54 |
 | Updated              | 2023-06-13 09:09:29 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

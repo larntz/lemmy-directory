@@ -3,7 +3,7 @@ title: "HeGetSus"
 name: "hegetsus"
 description: "GAY SEX IS AWESOME AND COOLrun by the same mods as the sub on Reddit. "
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hegetsus"
@@ -54,4 +54,4 @@ GAY SEX IS AWESOME AND COOL<br><br>run by the same mods as the sub on Reddit.
 |----------------------|---|
 | Published            | 2023-06-06 00:37:37 |
 | Updated              | 2023-06-06 00:38:19 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

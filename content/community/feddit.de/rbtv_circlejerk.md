@@ -3,19 +3,19 @@ title: "rbtv_cj"
 name: "rbtv_circlejerk"
 description: "Willkommen zum Rocketbeans Circlejerk!"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rbtv_circlejerk"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 2
-comments: 3
-weight: 2
-dau: 2
-wau: 5
-mau: 5
+subscribers: 26
+posts: 6
+comments: 9
+weight: 6
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Willkommen zum Rocketbeans Circlejerk!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 26 |
+| Posts                | 6  |
+| Comments             | 9  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 7  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Willkommen zum Rocketbeans Circlejerk!
 |----------------------|---|
 | Published            | 2023-06-14 15:19:36 |
 | Updated              | 2023-06-14 15:20:21 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

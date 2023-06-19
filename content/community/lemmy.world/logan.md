@@ -3,7 +3,7 @@ title: "Logan"
 name: "logan"
 description: "A community about Logan Utah and the surrounding communities"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/logan"
@@ -54,4 +54,4 @@ A community about Logan Utah and the surrounding communities
 |----------------------|---|
 | Published            | 2023-06-16 06:01:06 |
 | Updated              | 2023-06-16 06:15:29 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,13 +3,13 @@ title: "Brigade For Foss"
 name: "brigadeforfoss"
 description: "Want to do some Chaotic Good? Welcome to Brigade for FOSS! Post links to alternative websites where you're encouraging FOSS for people to come brigade📜 Rules:📫 Posts must be FOSS related🌄 Don't overbrigade - If the brigade is big, stick to upvoting the top quality posts rather than adding noise🏡 Be intelligent with your brigade - Don't post on new accounts or in communities you're not usually active in😼 Have fun!"
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brigadeforfoss"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 15
+subscribers: 16
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Want to do some Chaotic Good? Welcome to Brigade for FOSS! Post links to alterna
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 15 |
+| Subscribers          | 16 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Want to do some Chaotic Good? Welcome to Brigade for FOSS! Post links to alterna
 |----------------------|---|
 | Published            | 2022-04-18 07:28:48 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

@@ -3,7 +3,7 @@ title: "Filmiki i podcasty"
 name: "filmikiipodcasty"
 description: "Tutaj wrzucamy info o najnowszych filmikach z breadtube'a oraz lewackich podcastach, po polsku i nie tylko."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/filmikiipodcasty"
@@ -54,4 +54,4 @@ Tutaj wrzucamy info o najnowszych filmikach z breadtube'a oraz lewackich podcast
 |----------------------|---|
 | Published            | 2021-04-15 16:48:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

@@ -3,19 +3,19 @@ title: "zerowaste"
 name: "zerowaste"
 description: "Discussing ways to reduce waste and build community! Celebrate thrift as a virtue, talk about creative ways to make do, or show off how you reused something! "
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/zerowaste"
 host: slrpnk.net
 lastmod: "{[ .Updated }}"
-subscribers: 264
-posts: 11
-comments: 37
-weight: 11
-dau: 2
-wau: 6
-mau: 9
+subscribers: 310
+posts: 12
+comments: 47
+weight: 12
+dau: 8
+wau: 10
+mau: 15
 instances:
 - "slrpnk_net"
 tags: 
@@ -41,12 +41,12 @@ Discussing ways to reduce waste and build community! <br><br>Celebrate thrift as
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 264 |
-| Posts                | 11  |
-| Comments             | 37  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 9  |
+| Subscribers          | 310 |
+| Posts                | 12  |
+| Comments             | 47  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 10  |
+| Monthly Active Users | 15  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussing ways to reduce waste and build community! <br><br>Celebrate thrift as
 |----------------------|---|
 | Published            | 2022-03-24 22:35:41 |
 | Updated              | 2023-06-07 22:27:50 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

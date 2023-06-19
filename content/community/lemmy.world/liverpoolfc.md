@@ -3,19 +3,19 @@ title: "Liverpool Football Club"
 name: "liverpoolfc"
 description: "Placeholder for the reddit migration. Former reddit mods requested to take over."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liverpoolfc"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 38
-posts: 13
-comments: 8
-weight: 13
+subscribers: 55
+posts: 27
+comments: 11
+weight: 27
 dau: 2
-wau: 6
-mau: 6
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Placeholder for the reddit migration. Former reddit mods requested to take over.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 13  |
-| Comments             | 8  |
+| Subscribers          | 55 |
+| Posts                | 27  |
+| Comments             | 11  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Placeholder for the reddit migration. Former reddit mods requested to take over.
 |----------------------|---|
 | Published            | 2023-06-12 16:44:47 |
 | Updated              | 2023-06-12 16:45:51 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

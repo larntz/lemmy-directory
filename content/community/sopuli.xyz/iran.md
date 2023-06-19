@@ -3,13 +3,13 @@ title: "Iran"
 name: "iran"
 description: "### All things Iran-related.⇒ Matrix: [#iri:matrix.org](https://matrix.to/#/#iri:matrix.org)"
 type: community
-date: "2023-06-16 11:06:34"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/iran"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 13
 comments: 3
 weight: 13
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 13  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-08-21 14:52:00 |
 | Updated              | 2023-01-05 06:12:46 |
-| Last Scraped         | 2023-06-16 11:06:34 |
+| Last Scraped         | 2023-06-19 11:35:33 |

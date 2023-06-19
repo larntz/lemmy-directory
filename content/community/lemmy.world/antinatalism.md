@@ -3,13 +3,13 @@ title: "Antinatalism"
 name: "antinatalism"
 description: "Welcome to our antinatalist discussion community, a space devoted to exploring and discussing the philosophical position of antinatalism. Here, we delve into the belief that procreation is morally wrong, focusing on the ethical, ecological, and societal aspects that surround this perspective. We encourage respectful dialogues, intellectual curiosity, and an open-minded approach towards understanding the implications and challenges of antinatalism in our world."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/antinatalism"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Welcome to our antinatalist discussion community, a space devoted to exploring a
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Welcome to our antinatalist discussion community, a space devoted to exploring a
 |----------------------|---|
 | Published            | 2023-06-16 06:05:37 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:38 |

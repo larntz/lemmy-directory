@@ -1,21 +1,21 @@
 ---
 title: "Dwarf Fortress" 
 name: "dwarffortress"
-description: "All things related to Dwarf Fortress.- [Bay12Games](http://www.bay12games.com/dwarves/)- [Steam Page](https://store.steampowered.com/app/975370/Dwarf_Fortress/)STRIKE THE EARTH! "
+description: "All things related to Dwarf Fortress.Official links: - [Bay12Games](http://www.bay12games.com/dwarves/)- [Steam Page](https://store.steampowered.com/app/975370/Dwarf_Fortress/)- [Bay12Forums](http://www.bay12forums.com/smf/index.php)More dwarven communities:- [Dwarf Fortress at Kbin.social](https://kbin.social/m/DwarfFortress)STRIKE THE EARTH! "
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dwarffortress"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 183
-posts: 9
-comments: 23
-weight: 9
-dau: 5
-wau: 19
-mau: 20
+subscribers: 211
+posts: 10
+comments: 28
+weight: 10
+dau: 2
+wau: 16
+mau: 21
 instances:
 - "lemmy_ml"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-All things related to Dwarf Fortress.<br><br>- [Bay12Games](http://www.bay12games.com/dwarves/)<br>- [Steam Page](https://store.steampowered.com/app/975370/Dwarf_Fortress/)<br><br>STRIKE THE EARTH! 
+All things related to Dwarf Fortress.<br><br>Official links: <br>- [Bay12Games](http://www.bay12games.com/dwarves/)<br>- [Steam Page](https://store.steampowered.com/app/975370/Dwarf_Fortress/)<br>- [Bay12Forums](http://www.bay12forums.com/smf/index.php)<br><br>More dwarven communities:<br>- [Dwarf Fortress at Kbin.social](https://kbin.social/m/DwarfFortress)<br><br>STRIKE THE EARTH! 
 </blockquote>
 
 
@@ -41,17 +41,17 @@ All things related to Dwarf Fortress.<br><br>- [Bay12Games](http://www.bay12game
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 183 |
-| Posts                | 9  |
-| Comments             | 23  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 20  |
+| Subscribers          | 211 |
+| Posts                | 10  |
+| Comments             | 28  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 21  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-02 15:23:30 |
-| Updated              | 2023-06-02 15:27:14 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Updated              | 2023-06-17 22:45:44 |
+| Last Scraped         | 2023-06-19 11:36:43 |

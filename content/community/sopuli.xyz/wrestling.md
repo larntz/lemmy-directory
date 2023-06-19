@@ -3,13 +3,13 @@ title: "Wrestling"
 name: "wrestling"
 description: "A place to chill and talk about professional wrestling; old and new. WWE, AEW and more!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/wrestling"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 59
+subscribers: 63
 posts: 13
 comments: 10
 weight: 13
@@ -41,7 +41,7 @@ A place to chill and talk about professional wrestling; old and new. WWE, AEW an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 59 |
+| Subscribers          | 63 |
 | Posts                | 13  |
 | Comments             | 10  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ A place to chill and talk about professional wrestling; old and new. WWE, AEW an
 |----------------------|---|
 | Published            | 2023-04-24 19:42:17 |
 | Updated              | 2023-04-25 03:41:30 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,19 +3,19 @@ title: "Scala"
 name: "scala"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/scala"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 41
-posts: 4
-comments: 13
-weight: 4
-dau: 2
-wau: 7
-mau: 7
+subscribers: 53
+posts: 5
+comments: 16
+weight: 5
+dau: 3
+wau: 8
+mau: 9
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 4  |
-| Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Subscribers          | 53 |
+| Posts                | 5  |
+| Comments             | 16  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-09 18:29:06 |
 | Updated              | 2023-06-12 21:29:32 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

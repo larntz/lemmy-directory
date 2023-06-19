@@ -3,13 +3,13 @@ title: "Guns for Leftists"
 name: "firearms"
 description: "For sharing and discussing about firearms. Rules;- Follow site rules- No Anti-Gun Rhetoric- No Conservative memes"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/firearms"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 766
+subscribers: 775
 posts: 81
 comments: 243
 weight: 81
@@ -41,7 +41,7 @@ For sharing and discussing about firearms. <br><br>Rules;<br>- Follow site rules
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 766 |
+| Subscribers          | 775 |
 | Posts                | 81  |
 | Comments             | 243  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For sharing and discussing about firearms. <br><br>Rules;<br>- Follow site rules
 |----------------------|---|
 | Published            | 2019-08-22 05:26:11 |
 | Updated              | 2022-09-10 02:14:46 |
-| Last Scraped         | 2023-06-16 11:06:11 |
+| Last Scraped         | 2023-06-19 11:35:08 |

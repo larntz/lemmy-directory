@@ -3,13 +3,13 @@ title: "Composting"
 name: "composting"
 description: "A place to talk about decomposing materials into compost."
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/composting"
 host: lemmy.srv.eco
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ A place to talk about decomposing materials into compost.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place to talk about decomposing materials into compost.
 |----------------------|---|
 | Published            | 2023-06-16 18:45:44 |
 | Updated              | 2023-06-16 21:21:52 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

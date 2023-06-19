@@ -3,13 +3,13 @@ title: "Jogos de tabuleiro"
 name: "jogos_tabuleiro"
 description: "Um cantinho para os verdadeiros nerds 🙃"
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/jogos_tabuleiro"
 host: lemmy.pt
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Um cantinho para os verdadeiros nerds 🙃
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 13 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Um cantinho para os verdadeiros nerds 🙃
 |----------------------|---|
 | Published            | 2021-09-10 19:54:12 |
 | Updated              | 2021-09-13 13:20:21 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

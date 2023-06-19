@@ -3,19 +3,19 @@ title: "Kubernetes"
 name: "kubernetes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/kubernetes"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 46
-posts: 1
-comments: 3
-weight: 1
-dau: 2
-wau: 2
-mau: 2
+subscribers: 80
+posts: 4
+comments: 5
+weight: 4
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Subscribers          | 80 |
+| Posts                | 4  |
+| Comments             | 5  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 17:33:02 |
 | Updated              | 2023-06-14 19:01:18 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

@@ -3,19 +3,19 @@ title: "Aufmüpfig"
 name: "aufmuepfig"
 description: "Willkommen bei **Aufmüpfig**! Eine Plattform für rebellische Geister, erschreckende Ideen und verwegene Memes. Gemeinsam setzen wir uns für soziale Gerechtigkeit, Antikapitalismus, Antifaschismus, Queerfeminismus, Klimagerechtigkeit und eine bessere Welt ein. Schließ dich uns an und werde Teil dieser aufmüpfigen Community!"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/aufmuepfig"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 485
-posts: 62
-comments: 338
-weight: 62
-dau: 36
-wau: 75
-mau: 99
+subscribers: 528
+posts: 67
+comments: 394
+weight: 67
+dau: 19
+wau: 94
+mau: 136
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Willkommen bei **Aufmüpfig**! Eine Plattform für rebellische Geister, erschrec
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 485 |
-| Posts                | 62  |
-| Comments             | 338  |
-| Daily Active Users   | 36  |
-| Weekly Active Users  | 75  |
-| Monthly Active Users | 99  |
+| Subscribers          | 528 |
+| Posts                | 67  |
+| Comments             | 394  |
+| Daily Active Users   | 19  |
+| Weekly Active Users  | 94  |
+| Monthly Active Users | 136  |
 
 <br>
 
@@ -54,4 +54,4 @@ Willkommen bei **Aufmüpfig**! Eine Plattform für rebellische Geister, erschrec
 |----------------------|---|
 | Published            | 2023-06-04 14:41:27 |
 | Updated              | 2023-06-10 22:22:19 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

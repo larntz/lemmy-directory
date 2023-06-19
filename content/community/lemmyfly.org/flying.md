@@ -3,17 +3,17 @@ title: "flying"
 name: "flying"
 description: "community all about real life flying"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/flying"
 host: lemmyfly.org
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 60
 posts: 6
 comments: 7
 weight: 6
-dau: 2
+dau: 1
 wau: 6
 mau: 6
 instances:
@@ -41,10 +41,10 @@ community all about real life flying
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 60 |
 | Posts                | 6  |
 | Comments             | 7  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 6  |
 | Monthly Active Users | 6  |
 
@@ -54,4 +54,4 @@ community all about real life flying
 |----------------------|---|
 | Published            | 2023-06-08 11:57:19 |
 | Updated              | 2023-06-12 11:33:04 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:06 |

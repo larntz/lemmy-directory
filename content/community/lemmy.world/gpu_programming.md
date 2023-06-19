@@ -3,19 +3,19 @@ title: "GPU_programming"
 name: "gpu_programming"
 description: "Programming Lemmy instance focused on GPUs. CUDA, OpenCL, ROCm, DirectX, Vulkan are all on subject here."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gpu_programming"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 4
-comments: 0
-weight: 4
-dau: 0
-wau: 1
-mau: 1
+subscribers: 12
+posts: 5
+comments: 2
+weight: 5
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Programming Lemmy instance focused on GPUs. CUDA, OpenCL, ROCm, DirectX, Vulkan 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Subscribers          | 12 |
+| Posts                | 5  |
+| Comments             | 2  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Programming Lemmy instance focused on GPUs. CUDA, OpenCL, ROCm, DirectX, Vulkan 
 |----------------------|---|
 | Published            | 2023-06-15 19:31:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

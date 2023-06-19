@@ -3,19 +3,19 @@ title: "RollerCoasters"
 name: "rollercoasters"
 description: "A place to talk about roller coasters"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/rollercoasters"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 56
-posts: 16
-comments: 50
-weight: 16
-dau: 8
-wau: 20
-mau: 20
+subscribers: 80
+posts: 19
+comments: 60
+weight: 19
+dau: 4
+wau: 18
+mau: 22
 instances:
 - "lemm_ee"
 tags: 
@@ -41,12 +41,12 @@ A place to talk about roller coasters
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 16  |
-| Comments             | 50  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 80 |
+| Posts                | 19  |
+| Comments             | 60  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 22  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to talk about roller coasters
 |----------------------|---|
 | Published            | 2023-06-09 15:39:46 |
 | Updated              | 2023-06-14 15:12:23 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:16 |

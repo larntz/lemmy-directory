@@ -3,13 +3,13 @@ title: "SOTA"
 name: "sota"
 description: "Community to discuss Summits on the Air"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/sota"
 host: lemmy.radio
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 3
 weight: 2
@@ -41,7 +41,7 @@ Community to discuss Summits on the Air
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 2  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Community to discuss Summits on the Air
 |----------------------|---|
 | Published            | 2023-06-12 19:25:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:20 |

@@ -3,19 +3,19 @@ title: "Psychedelics"
 name: "psychdphil"
 description: "Rules in organic flux, just like our sense of reality."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psychdphil"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 56
 posts: 4
 comments: 3
 weight: 4
 dau: 1
 wau: 4
-mau: 4
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Rules in organic flux, just like our sense of reality.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 56 |
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Rules in organic flux, just like our sense of reality.
 |----------------------|---|
 | Published            | 2021-02-20 00:21:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

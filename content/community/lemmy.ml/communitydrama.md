@@ -3,13 +3,13 @@ title: "Community Drama"
 name: "communitydrama"
 description: "A community focusing on the drama between Communities on lemmy!Like r/subredditdrama, if you are wanting to compare it something.Will be always looking for more mods in future if things get hectic!"
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/communitydrama"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A community focusing on the drama between Communities on lemmy!<br><br>Like r/su
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 18 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community focusing on the drama between Communities on lemmy!<br><br>Like r/su
 |----------------------|---|
 | Published            | 2023-06-09 20:03:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

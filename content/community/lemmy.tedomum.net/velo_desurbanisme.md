@@ -3,7 +3,7 @@ title: "VéloDésurbanisme"
 name: "velo_desurbanisme"
 description: "Des ressources pour construire des argumentaires pro-vélo et désurbanisme."
 type: community
-date: "2023-06-16 22:55:44"
+date: "2023-06-19 11:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/velo_desurbanisme"
@@ -54,4 +54,4 @@ Des ressources pour construire des argumentaires pro-vélo et désurbanisme.
 |----------------------|---|
 | Published            | 2020-08-09 19:58:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:44 |
+| Last Scraped         | 2023-06-19 11:34:48 |

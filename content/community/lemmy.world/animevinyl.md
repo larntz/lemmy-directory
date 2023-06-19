@@ -3,7 +3,7 @@ title: "AnimeVinyl"
 name: "animevinyl"
 description: "A place for anything related to Anime vinyl. Announcements, rare finds, trading, collection posts. Go wild!"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animevinyl"
@@ -54,4 +54,4 @@ A place for anything related to Anime vinyl. Announcements, rare finds, trading,
 |----------------------|---|
 | Published            | 2023-06-11 18:10:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:42 |

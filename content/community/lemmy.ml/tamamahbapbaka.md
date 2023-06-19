@@ -3,7 +3,7 @@ title: "tamamahbapbaka"
 name: "tamamahbapbaka"
 description: "tamamahbapbaka"
 type: community
-date: "2023-06-16 22:57:38"
+date: "2023-06-19 11:37:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tamamahbapbaka"
@@ -54,4 +54,4 @@ tamamahbapbaka
 |----------------------|---|
 | Published            | 2020-06-03 10:53:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:38 |
+| Last Scraped         | 2023-06-19 11:37:00 |

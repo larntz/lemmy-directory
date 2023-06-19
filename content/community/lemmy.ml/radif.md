@@ -3,7 +3,7 @@ title: "Persian Classical and Other Modal Music"
 name: "radif"
 description: "This is dedicated to persian classical music (radif), but the odd non-persian or non-classical tune is fine too, as long as it's modal music.  Relax, have fun, enjoy."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radif"
@@ -54,4 +54,4 @@ This is dedicated to persian classical music (radif), but the odd non-persian or
 |----------------------|---|
 | Published            | 2021-02-17 10:15:40 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

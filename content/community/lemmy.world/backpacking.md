@@ -3,13 +3,13 @@ title: "backpacking"
 name: "backpacking"
 description: "backpacking"
 type: community
-date: "2023-06-15 17:38:04"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/backpacking"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 27
+subscribers: 30
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ backpacking
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 27 |
+| Subscribers          | 30 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ backpacking
 |----------------------|---|
 | Published            | 2023-06-11 05:56:04 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:38:04 |
+| Last Scraped         | 2023-06-19 11:36:38 |

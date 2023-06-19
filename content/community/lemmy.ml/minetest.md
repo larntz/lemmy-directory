@@ -3,19 +3,19 @@ title: "Minetest community"
 name: "minetest"
 description: "**Minetest** is an infinite-world block sandbox game and a game engine, inspired by *Infiniminer*, *Minecraft* and the like.The community is about the great and open source sandbox game writed in Lua, Minetest. Feel free to call players for a multiplayer game or publish your project of a mod and everthing related.[Download](https://www.minetest.net/#features) the game. Check out the [wiki](https://wiki.minetest.net/Main_Page)."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minetest"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 225
-posts: 65
+subscribers: 231
+posts: 67
 comments: 65
-weight: 65
+weight: 67
 dau: 1
-wau: 1
-mau: 6
+wau: 2
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 225 |
-| Posts                | 65  |
+| Subscribers          | 231 |
+| Posts                | 67  |
 | Comments             | 65  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 6  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-10-31 10:27:23 |
 | Updated              | 2022-07-13 02:06:29 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

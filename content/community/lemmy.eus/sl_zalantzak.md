@@ -3,7 +3,7 @@ title: "Software Libre Zalantzak"
 name: "sl_zalantzak"
 description: "Software librearen inguruko zalantzak eta eztabaidak gauzatzeko gunea, euskaraz._____Foro hau txaten luzapena da (biak elkarrekin lotuta daude):+ Matrix:  [#SoftwareLibreZalantzak:librezale.eus](https://matrix.to/#/!AjMYHDlyYwDULZeuzz:matrix.org?via=sindominio.net&via=librezale.eus&via=matrix.org)+ Telegram: https://t.me/SoftwareLibreZalantzak"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/sl_zalantzak"
@@ -15,7 +15,7 @@ comments: 121
 weight: 80
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "lemmy_eus"
 tags: 
@@ -46,7 +46,7 @@ Software librearen inguruko zalantzak eta eztabaidak gauzatzeko gunea, euskaraz.
 | Comments             | 121  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ Software librearen inguruko zalantzak eta eztabaidak gauzatzeko gunea, euskaraz.
 |----------------------|---|
 | Published            | 2020-12-03 09:44:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

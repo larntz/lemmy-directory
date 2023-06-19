@@ -3,13 +3,13 @@ title: "Magick"
 name: "magick"
 description: "Magick in all forms"
 type: community
-date: "2023-06-16 22:56:27"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/magick"
 host: group.lt
 lastmod: "{[ .Updated }}"
-subscribers: 17
+subscribers: 23
 posts: 23
 comments: 1
 weight: 23
@@ -41,7 +41,7 @@ Magick in all forms
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 17 |
+| Subscribers          | 23 |
 | Posts                | 23  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Magick in all forms
 |----------------------|---|
 | Published            | 2022-04-24 18:55:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:27 |
+| Last Scraped         | 2023-06-19 11:35:28 |

@@ -3,13 +3,13 @@ title: "Astoria"
 name: "astorianyc"
 description: "For discussions about one of the greatest neighborhoods in Queens. "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/astorianyc"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ For discussions about one of the greatest neighborhoods in Queens.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For discussions about one of the greatest neighborhoods in Queens.
 |----------------------|---|
 | Published            | 2023-06-14 03:10:04 |
 | Updated              | 2023-06-14 03:17:21 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,7 +3,7 @@ title: "SwordArtOnline"
 name: "swordartonline"
 description: "Discussion about Sword Art Online"
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swordartonline"
@@ -54,4 +54,4 @@ Discussion about Sword Art Online
 |----------------------|---|
 | Published            | 2022-02-11 03:15:01 |
 | Updated              | 2022-05-04 22:15:43 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:45 |

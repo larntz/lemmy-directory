@@ -3,18 +3,18 @@ title: "History"
 name: "history"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:28"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/history"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 830
+subscribers: 876
 posts: 223
 comments: 170
 weight: 223
 dau: 1
-wau: 13
+wau: 11
 mau: 22
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 830 |
+| Subscribers          | 876 |
 | Posts                | 223  |
 | Comments             | 170  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
+| Weekly Active Users  | 11  |
 | Monthly Active Users | 22  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-01-12 04:54:34 |
 | Updated              | 2020-08-17 17:47:41 |
-| Last Scraped         | 2023-06-16 22:57:28 |
+| Last Scraped         | 2023-06-19 11:36:57 |

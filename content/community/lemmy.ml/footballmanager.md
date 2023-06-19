@@ -3,19 +3,19 @@ title: "Football Manager"
 name: "footballmanager"
 description: "A community dedicated to the discussion of the Football Manager series of games, developed by SI and published by Sega. RULES:1) Be civil, there is no room here fro Racism, Homophobia, Transphobia or any other hateful or offensive remarks.2)No advertising or spamming.3)No NSFW content."
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/footballmanager"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 1
-comments: 1
-weight: 1
+subscribers: 7
+posts: 2
+comments: 2
+weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community dedicated to the discussion of the Football Manager series of games,
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
+| Subscribers          | 7 |
+| Posts                | 2  |
+| Comments             | 2  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community dedicated to the discussion of the Football Manager series of games,
 |----------------------|---|
 | Published            | 2023-06-10 00:43:42 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:47 |

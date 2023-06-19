@@ -3,19 +3,19 @@ title: "San Jose Sharks"
 name: "sanjosesharks"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/sanjosesharks"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 9
-posts: 3
-comments: 5
-weight: 3
-dau: 2
-wau: 5
-mau: 5
+subscribers: 13
+posts: 4
+comments: 6
+weight: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "fanaticus_social"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 13 |
+| Posts                | 4  |
+| Comments             | 6  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-13 01:27:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

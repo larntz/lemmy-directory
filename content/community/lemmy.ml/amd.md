@@ -3,19 +3,19 @@ title: "AMD"
 name: "amd"
 description: "AMD news, hardware reviews and analysis and discussions"
 type: community
-date: "2023-06-16 11:07:32"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amd"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 153
-posts: 11
-comments: 11
-weight: 11
+subscribers: 190
+posts: 12
+comments: 13
+weight: 12
 dau: 3
-wau: 3
-mau: 3
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ AMD news, hardware reviews and analysis and discussions
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 153 |
-| Posts                | 11  |
-| Comments             | 11  |
+| Subscribers          | 190 |
+| Posts                | 12  |
+| Comments             | 13  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ AMD news, hardware reviews and analysis and discussions
 |----------------------|---|
 | Published            | 2020-06-28 01:34:04 |
 | Updated              | 2020-06-28 01:37:39 |
-| Last Scraped         | 2023-06-16 11:07:32 |
+| Last Scraped         | 2023-06-19 11:36:47 |

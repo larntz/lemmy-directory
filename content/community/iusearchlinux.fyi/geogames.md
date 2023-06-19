@@ -3,7 +3,7 @@ title: "geo games"
 name: "geogames"
 description: "community for geo games like geoguessr, geotastic or geobingo and more"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/geogames"
@@ -14,7 +14,7 @@ posts: 2
 comments: 10
 weight: 2
 dau: 1
-wau: 6
+wau: 1
 mau: 6
 instances:
 - "iusearchlinux_fyi"
@@ -45,7 +45,7 @@ community for geo games like geoguessr, geotastic or geobingo and more
 | Posts                | 2  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ community for geo games like geoguessr, geotastic or geobingo and more
 |----------------------|---|
 | Published            | 2023-06-10 18:24:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

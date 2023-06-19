@@ -3,19 +3,19 @@ title: "Italia"
 name: "italia"
 description: "**Benvenuti su !Italia**Welcome to !Italia"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/italia"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 11
-posts: 2
+subscribers: 13
+posts: 3
 comments: 0
-weight: 2
-dau: 0
-wau: 1
-mau: 1
+weight: 3
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
+| Subscribers          | 13 |
+| Posts                | 3  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 16:59:10 |
 | Updated              | 2023-06-15 18:32:19 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:38 |

@@ -3,19 +3,19 @@ title: "Wisconsin"
 name: "wisconsin"
 description: "A community for the state of Wisconsin.All news, pictures, discussions, and interesting links are welcome here. ___Banner: [Wikimedia User:Royalbroil ](https://commons.wikimedia.org/w/index.php?curid=1893957) CC BY-SA 2.5"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/wisconsin"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 139
-posts: 118
-comments: 46
-weight: 118
-dau: 4
-wau: 8
-mau: 20
+subscribers: 158
+posts: 121
+comments: 54
+weight: 121
+dau: 5
+wau: 14
+mau: 27
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ A community for the state of Wisconsin.<br><br>All news, pictures, discussions, 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 139 |
-| Posts                | 118  |
-| Comments             | 46  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 20  |
+| Subscribers          | 158 |
+| Posts                | 121  |
+| Comments             | 54  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community for the state of Wisconsin.<br><br>All news, pictures, discussions, 
 |----------------------|---|
 | Published            | 2022-12-04 02:55:27 |
 | Updated              | 2022-12-20 15:01:48 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

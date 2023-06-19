@@ -3,13 +3,13 @@ title: "EverQuest"
 name: "everquest1"
 description: "A community for discussing the original EverQuest game. Live servers, TLPs, and emulated server discussions are all welcome."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/everquest1"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 11
 posts: 3
 comments: 2
 weight: 3
@@ -41,7 +41,7 @@ A community for discussing the original EverQuest game. Live servers, TLPs, and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 11 |
 | Posts                | 3  |
 | Comments             | 2  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for discussing the original EverQuest game. Live servers, TLPs, and 
 |----------------------|---|
 | Published            | 2023-06-12 15:38:39 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,19 +3,19 @@ title: "Fermentation"
 name: "fermentation"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/fermentation"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 109
+subscribers: 129
 posts: 11
-comments: 40
+comments: 48
 weight: 11
-dau: 6
-wau: 10
-mau: 10
+dau: 3
+wau: 18
+mau: 19
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 109 |
+| Subscribers          | 129 |
 | Posts                | 11  |
-| Comments             | 40  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Comments             | 48  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 18  |
+| Monthly Active Users | 19  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-09-08 23:55:35 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

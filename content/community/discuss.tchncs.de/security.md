@@ -3,18 +3,18 @@ title: "Sicherheit in der Informationstechnik"
 name: "security"
 description: "Sicher ist sicher."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/security"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 82
 posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "discuss_tchncs_de"
@@ -41,11 +41,11 @@ Sicher ist sicher.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 82 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Sicher ist sicher.
 |----------------------|---|
 | Published            | 2023-06-08 10:49:25 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

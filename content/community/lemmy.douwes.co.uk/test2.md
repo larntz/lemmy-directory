@@ -3,7 +3,7 @@ title: "test2"
 name: "test2"
 description: "another test"
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test2"
@@ -54,4 +54,4 @@ another test
 |----------------------|---|
 | Published            | 2023-06-12 19:19:31 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:54 |

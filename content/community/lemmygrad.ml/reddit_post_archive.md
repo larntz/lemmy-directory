@@ -3,13 +3,13 @@ title: "Reddit Good Post Archive"
 name: "reddit_post_archive"
 description: "Archiving good Reddit posts in case of censorship."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/reddit_post_archive"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 181
+subscribers: 182
 posts: 34
 comments: 64
 weight: 34
@@ -41,7 +41,7 @@ Archiving good Reddit posts in case of censorship.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 181 |
+| Subscribers          | 182 |
 | Posts                | 34  |
 | Comments             | 64  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Archiving good Reddit posts in case of censorship.
 |----------------------|---|
 | Published            | 2019-10-16 05:16:25 |
 | Updated              | 2019-10-16 05:40:26 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

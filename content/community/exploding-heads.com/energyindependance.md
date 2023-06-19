@@ -3,19 +3,19 @@ title: "Energy Independence"
 name: "energyindependance"
 description: "The long-held goal of “energy independence”—which is not to say that we did not import or export energy, but that we produced more energy than we used."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/energyindependance"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 492
+subscribers: 32
+posts: 493
 comments: 77
-weight: 492
+weight: 493
 dau: 1
-wau: 2
-mau: 4
+wau: 1
+mau: 3
 instances:
 - "exploding-heads_com"
 tags: 
@@ -41,12 +41,12 @@ The long-held goal of “energy independence”—which is not to say that we di
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 492  |
+| Subscribers          | 32 |
+| Posts                | 493  |
 | Comments             | 77  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ The long-held goal of “energy independence”—which is not to say that we di
 |----------------------|---|
 | Published            | 2022-02-27 23:58:48 |
 | Updated              | 2022-12-20 02:48:09 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

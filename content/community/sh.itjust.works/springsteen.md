@@ -3,13 +3,13 @@ title: "Bruce Springsteen"
 name: "springsteen"
 description: "For fans of BruceKeep it kosher "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/springsteen"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For fans of Bruce<br><br>Keep it kosher
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 3 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ For fans of Bruce<br><br>Keep it kosher
 |----------------------|---|
 | Published            | 2023-06-15 16:51:00 |
 | Updated              | 2023-06-16 09:30:45 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

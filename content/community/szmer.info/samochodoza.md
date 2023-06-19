@@ -3,13 +3,13 @@ title: "Samochodoza"
 name: "samochodoza"
 description: "Społeczność ludzi wkurzonych miejską samochodozą. Dzielimy się jej licznymi objawami oraz tworzymy sposoby na jej zwalczanie"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/samochodoza"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 47
 posts: 61
 comments: 30
 weight: 61
@@ -41,7 +41,7 @@ Społeczność ludzi wkurzonych miejską samochodozą. Dzielimy się jej licznym
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 47 |
 | Posts                | 61  |
 | Comments             | 30  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Społeczność ludzi wkurzonych miejską samochodozą. Dzielimy się jej licznym
 |----------------------|---|
 | Published            | 2021-03-15 13:43:19 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

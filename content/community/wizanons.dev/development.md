@@ -3,19 +3,19 @@ title: "Development"
 name: "development"
 description: "Any development work! Show off your magic skills!"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/development"
 host: wizanons.dev
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 2
-comments: 3
+comments: 4
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "wizanons_dev"
 tags: 
@@ -41,12 +41,12 @@ Any development work! Show off your magic skills!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 2  |
-| Comments             | 3  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 3  |
+| Monthly Active Users | 3  |
 
 <br>
 
@@ -54,4 +54,4 @@ Any development work! Show off your magic skills!
 |----------------------|---|
 | Published            | 2023-06-11 19:32:58 |
 | Updated              | 2023-06-11 21:14:31 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

@@ -3,13 +3,13 @@ title: "documentaryfilms"
 name: "documentaryfilms"
 description: "A community to discuss,share and review documentary films."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/documentaryfilms"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 112
+subscribers: 115
 posts: 20
 comments: 7
 weight: 20
@@ -41,7 +41,7 @@ A community to discuss,share and review documentary films.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 112 |
+| Subscribers          | 115 |
 | Posts                | 20  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community to discuss,share and review documentary films.
 |----------------------|---|
 | Published            | 2020-06-29 02:50:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,16 +3,16 @@ title: "Gym Memes"
 name: "gymmemes"
 description: "to be browsed in the squat rack"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gymmemes"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 45
-posts: 10
+subscribers: 54
+posts: 11
 comments: 0
-weight: 10
+weight: 11
 dau: 1
 wau: 3
 mau: 3
@@ -41,8 +41,8 @@ to be browsed in the squat rack
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 10  |
+| Subscribers          | 54 |
+| Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
@@ -54,4 +54,4 @@ to be browsed in the squat rack
 |----------------------|---|
 | Published            | 2023-06-12 10:34:02 |
 | Updated              | 2023-06-12 13:38:46 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

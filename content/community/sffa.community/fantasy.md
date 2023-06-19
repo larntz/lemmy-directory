@@ -1,15 +1,15 @@
 ---
-title: "Fantasy" 
+title: "Fantasy General" 
 name: "fantasy"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
-actor_id: "https://dev.lemmy.sffa.community/c/fantasy"
+actor_id: "https://sffa.community/c/fantasy"
 host: sffa.community
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -23,10 +23,10 @@ tags:
 
 ---
 
-# /c/Fantasy on sffa.community
+# /c/Fantasy General on sffa.community
 
 [[home](/)]
-[[/c/fantasy 🌎](https://dev.lemmy.sffa.community/c/fantasy)]
+[[/c/fantasy 🌎](https://sffa.community/c/fantasy)]
 [[sffa.community](/instances/sffa_community)]
 
 
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -52,6 +52,6 @@ Description not available.
 
 | Activity | Date |
 |----------------------|---|
-| Published            | 2023-06-15 01:10:09 |
-| Updated              | 2023-06-15 01:13:38 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Published            | 2023-06-17 22:10:33 |
+| Updated              | 1969-12-31 19:00:00 |
+| Last Scraped         | 2023-06-19 11:35:16 |

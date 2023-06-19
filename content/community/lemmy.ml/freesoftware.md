@@ -3,13 +3,13 @@ title: "Free Software"
 name: "freesoftware"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freesoftware"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 195
+subscribers: 207
 posts: 11
 comments: 0
 weight: 11
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 195 |
+| Subscribers          | 207 |
 | Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-08-25 00:35:02 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

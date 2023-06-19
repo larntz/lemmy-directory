@@ -3,13 +3,13 @@ title: "Hardcore"
 name: "hardcore"
 description: "music for strange people"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hardcore"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 18
+subscribers: 20
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ music for strange people
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
+| Subscribers          | 20 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ music for strange people
 |----------------------|---|
 | Published            | 2023-06-01 12:13:55 |
 | Updated              | 2023-06-01 18:29:19 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

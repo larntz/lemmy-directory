@@ -3,13 +3,13 @@ title: "OaklandAthletics"
 name: "oaklandathletics"
 description: "Cloned from [r/OaklandAthletics](https://old.reddit.com/r/OaklandAthletics)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/oaklandathletics"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Cloned from [r/OaklandAthletics](https://old.reddit.com/r/OaklandAthletics)<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Cloned from [r/OaklandAthletics](https://old.reddit.com/r/OaklandAthletics)<br><
 |----------------------|---|
 | Published            | 2023-06-09 17:05:05 |
 | Updated              | 2023-06-12 16:53:16 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

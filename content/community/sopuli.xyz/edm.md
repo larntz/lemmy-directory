@@ -3,7 +3,7 @@ title: "Electronic Dance Music"
 name: "edm"
 description: "Your home for everything EDM on the Fediverse. Remember to keep it PLUR!"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/edm"
@@ -54,4 +54,4 @@ Your home for everything EDM on the Fediverse. Remember to keep it PLUR!
 |----------------------|---|
 | Published            | 2023-06-13 03:21:00 |
 | Updated              | 2023-06-13 03:23:39 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

@@ -3,19 +3,19 @@ title: "Tee"
 name: "tee"
 description: "**Herzlich Willkommen!**Diese Community richtet sich an alle Freunde des Tees. Nicht nur Diskussionen zum echten Tee (Camellia sinensis) sind möglich, sondern auch zu Kräuter-, Früchte- und anderen Tees. Zeige uns deine Lieblingssorten, dein Teegeschirr oder diskutiere über Anbaugebiete, Sorten und Zubereitungsarten.**Regeln**Es gelten selbstverständlich die allgemeinen Regeln von Feddit.de, bei Bedarf werden eigene Community-Regeln eingeführt.**Leckere Communities**[Kaffee](https://feddit.de/c/kaffee) [Kochen](https://feddit.de/c/kochen)**Credits**Banner: [Unsplash](https://unsplash.com/de/fotos/hIY-acW8e3w), Icon: [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=48156939)"
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tee"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 81
+subscribers: 90
 posts: 3
 comments: 32
 weight: 3
-dau: 1
-wau: 26
-mau: 26
+dau: 2
+wau: 27
+mau: 27
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 81 |
+| Subscribers          | 90 |
 | Posts                | 3  |
 | Comments             | 32  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 26  |
-| Monthly Active Users | 26  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 27  |
+| Monthly Active Users | 27  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-10 19:22:59 |
 | Updated              | 2023-06-10 19:33:03 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,19 +3,19 @@ title: "T-Mobile Unofficial Sublemmy"
 name: "t_mobile"
 description: "Related subs:* [T-Mobile Home Internet](!tmobileisp)"
 type: community
-date: "2023-06-16 22:57:41"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/t_mobile"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 18
-posts: 2
-comments: 2
-weight: 2
-dau: 1
-wau: 4
-mau: 4
+subscribers: 22
+posts: 6
+comments: 7
+weight: 6
+dau: 4
+wau: 5
+mau: 7
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Related subs:<br>* [T-Mobile Home Internet](!tmobileisp)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 22 |
+| Posts                | 6  |
+| Comments             | 7  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ Related subs:<br>* [T-Mobile Home Internet](!tmobileisp)
 |----------------------|---|
 | Published            | 2023-06-07 18:01:44 |
 | Updated              | 2023-06-15 15:06:46 |
-| Last Scraped         | 2023-06-16 22:57:41 |
+| Last Scraped         | 2023-06-19 11:36:45 |

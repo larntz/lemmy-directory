@@ -3,19 +3,19 @@ title: "Cyberpunk"
 name: "cyberpunk"
 description: "A place for discussion of all things cyberpunk (not primarily Cyberpunk 2077)"
 type: community
-date: "2023-06-16 22:55:59"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/cyberpunk"
 host: lemmy.villa-straylight.social
 lastmod: "{[ .Updated }}"
-subscribers: 98
-posts: 10
-comments: 37
-weight: 10
-dau: 6
+subscribers: 113
+posts: 11
+comments: 39
+weight: 11
+dau: 1
 wau: 14
-mau: 15
+mau: 16
 instances:
 - "lemmy_villa-straylight_social"
 tags: 
@@ -41,12 +41,12 @@ A place for discussion of all things cyberpunk (not primarily Cyberpunk 2077)
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 98 |
-| Posts                | 10  |
-| Comments             | 37  |
-| Daily Active Users   | 6  |
+| Subscribers          | 113 |
+| Posts                | 11  |
+| Comments             | 39  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 14  |
-| Monthly Active Users | 15  |
+| Monthly Active Users | 16  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for discussion of all things cyberpunk (not primarily Cyberpunk 2077)
 |----------------------|---|
 | Published            | 2023-06-06 02:21:57 |
 | Updated              | 2023-06-06 05:03:03 |
-| Last Scraped         | 2023-06-16 22:55:59 |
+| Last Scraped         | 2023-06-19 11:34:58 |

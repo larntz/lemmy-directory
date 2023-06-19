@@ -3,13 +3,13 @@ title: "Promoting_open-source_projects"
 name: "promote_open_source"
 description: "If you have a great idea or build something you really like to share that will help others. Like a website keeping track of some analytics. "
 type: community
-date: "2023-06-16 22:57:24"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/promote_open_source"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 158
+subscribers: 160
 posts: 9
 comments: 7
 weight: 9
@@ -41,7 +41,7 @@ If you have a great idea or build something you really like to share that will h
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 158 |
+| Subscribers          | 160 |
 | Posts                | 9  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ If you have a great idea or build something you really like to share that will h
 |----------------------|---|
 | Published            | 2020-01-18 14:28:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:24 |
+| Last Scraped         | 2023-06-19 11:36:46 |

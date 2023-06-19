@@ -3,13 +3,13 @@ title: "Politically Incorrect Memes"
 name: "polxmemes"
 description: "A place for politically incorrect memes. That's all"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/polxmemes"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place for politically incorrect memes. That's all
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A place for politically incorrect memes. That's all
 |----------------------|---|
 | Published            | 2023-06-16 13:43:15 |
 | Updated              | 2023-06-16 14:08:13 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

@@ -3,7 +3,7 @@ title: "Beginner Woodworking"
 name: "beginnerwoodworking"
 description: "The go-to place for those who are new to woodworking."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beginnerwoodworking"
@@ -54,4 +54,4 @@ The go-to place for those who are new to woodworking.<br>
 |----------------------|---|
 | Published            | 2023-06-12 15:48:19 |
 | Updated              | 2023-06-12 15:49:12 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:43 |

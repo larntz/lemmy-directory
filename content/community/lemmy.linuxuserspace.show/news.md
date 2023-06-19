@@ -3,17 +3,17 @@ title: "Linux, Open Source and Tech News"
 name: "news"
 description: "This is where all the News about all the things Linux and Linux adjacent goes."
 type: community
-date: "2023-06-16 22:56:20"
+date: "2023-06-19 11:35:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.linuxuserspace.show/c/news"
 host: lemmy.linuxuserspace.show
 lastmod: "{[ .Updated }}"
-subscribers: 2
-posts: 7
+subscribers: 18
+posts: 19
 comments: 0
-weight: 7
-dau: 1
+weight: 19
+dau: 2
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ This is where all the News about all the things Linux and Linux adjacent goes.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 7  |
+| Subscribers          | 18 |
+| Posts                | 19  |
 | Comments             | 0  |
-| Daily Active Users   | 1  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ This is where all the News about all the things Linux and Linux adjacent goes.
 |----------------------|---|
 | Published            | 2023-06-13 18:37:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:20 |
+| Last Scraped         | 2023-06-19 11:35:22 |

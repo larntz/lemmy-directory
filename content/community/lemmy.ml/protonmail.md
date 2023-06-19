@@ -3,15 +3,15 @@ title: "Protonmail"
 name: "protonmail"
 description: "Place to discuss and share information about Protonmail."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/protonmail"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 805
+subscribers: 835
 posts: 31
-comments: 31
+comments: 33
 weight: 31
 dau: 1
 wau: 4
@@ -41,9 +41,9 @@ Place to discuss and share information about Protonmail.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 805 |
+| Subscribers          | 835 |
 | Posts                | 31  |
-| Comments             | 31  |
+| Comments             | 33  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ Place to discuss and share information about Protonmail.
 |----------------------|---|
 | Published            | 2020-02-16 21:53:28 |
 | Updated              | 2020-12-23 23:40:39 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:57 |

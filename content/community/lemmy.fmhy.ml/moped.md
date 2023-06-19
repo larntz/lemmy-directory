@@ -3,19 +3,19 @@ title: "Moped"
 name: "moped"
 description: "A community based around mopeds and nopeds (modern scooters that look a lot like mopeds). Preferably no scooter posts in this community.And of course, be nice and civil. Don't be mean to scooter posters, just tell them politely what the difference between a moped and a scooter is."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/moped"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 4
-posts: 1
-comments: 0
-weight: 1
+subscribers: 6
+posts: 3
+comments: 1
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_fmhy_ml"
 tags: 
@@ -41,12 +41,12 @@ A community based around mopeds and nopeds (modern scooters that look a lot like
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
+| Subscribers          | 6 |
+| Posts                | 3  |
+| Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ A community based around mopeds and nopeds (modern scooters that look a lot like
 |----------------------|---|
 | Published            | 2023-06-15 07:15:54 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

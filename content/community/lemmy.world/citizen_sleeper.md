@@ -3,19 +3,19 @@ title: "Citizen Sleeper"
 name: "citizen_sleeper"
 description: "For discussion & questions on the Citizen Sleeper game series, developed by Jump Over The Age and published by Fellow Traveller. Play Citizen Sleeper on PC (Steam, Game Pass), Mac, Playstation, Switch, or Xbox!"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/citizen_sleeper"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
 subscribers: 1
-posts: 1
+posts: 2
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 
@@ -42,11 +42,11 @@ For discussion & questions on the Citizen Sleeper game series, developed by Jump
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 1 |
-| Posts                | 1  |
+| Posts                | 2  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion & questions on the Citizen Sleeper game series, developed by Jump
 |----------------------|---|
 | Published            | 2023-06-16 22:34:27 |
 | Updated              | 2023-06-16 22:38:01 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

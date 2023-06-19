@@ -3,13 +3,13 @@ title: "Tutanota - unofficial Tutanota community"
 name: "tutanota"
 description: "An **unofficial** community for Tutanota users.Tutanota is an open-source (client source code only) email provider based in Hanover, Germany.https://github.com/tutao/tutanotahttps://tutanota.com/"
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tutanota"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 91
+subscribers: 92
 posts: 6
 comments: 10
 weight: 6
@@ -41,7 +41,7 @@ An **unofficial** community for Tutanota users.<br><br>Tutanota is an open-sourc
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 91 |
+| Subscribers          | 92 |
 | Posts                | 6  |
 | Comments             | 10  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ An **unofficial** community for Tutanota users.<br><br>Tutanota is an open-sourc
 |----------------------|---|
 | Published            | 2021-10-19 18:05:25 |
 | Updated              | 2021-10-20 09:57:19 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:51 |

@@ -3,13 +3,13 @@ title: "JournalingDE"
 name: "journalingde"
 description: "Ein deutscher Subreddit über das führen eines handschriftlichen Journals / Tagebuchs. Bitte beachtet, dass es in dieser Community um das führen handschriftlicher Journals geht und nicht um das führen digitaler Journals."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/journalingde"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Ein deutscher Subreddit über das führen eines handschriftlichen Journals / Tag
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Ein deutscher Subreddit über das führen eines handschriftlichen Journals / Tag
 |----------------------|---|
 | Published            | 2023-06-04 16:27:12 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

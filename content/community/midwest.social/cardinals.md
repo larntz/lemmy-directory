@@ -3,19 +3,19 @@ title: "cardinals"
 name: "cardinals"
 description: "For discussion of the St Louis Cardinals"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cardinals"
 host: midwest.social
 lastmod: "{[ .Updated }}"
-subscribers: 30
-posts: 10
-comments: 19
-weight: 10
+subscribers: 33
+posts: 11
+comments: 21
+weight: 11
 dau: 1
 wau: 10
-mau: 10
+mau: 11
 instances:
 - "midwest_social"
 tags: 
@@ -41,12 +41,12 @@ For discussion of the St Louis Cardinals
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 10  |
-| Comments             | 19  |
+| Subscribers          | 33 |
+| Posts                | 11  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
+| Monthly Active Users | 11  |
 
 <br>
 
@@ -54,4 +54,4 @@ For discussion of the St Louis Cardinals
 |----------------------|---|
 | Published            | 2023-06-02 03:58:20 |
 | Updated              | 2023-06-10 16:31:19 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

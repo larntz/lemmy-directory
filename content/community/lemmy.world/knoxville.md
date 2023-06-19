@@ -3,13 +3,13 @@ title: "Knoxville"
 name: "knoxville"
 description: "Knoxville TN. We are welcoming to all. "
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/knoxville"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ Knoxville TN. We are welcoming to all.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 9 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Knoxville TN. We are welcoming to all.
 |----------------------|---|
 | Published            | 2023-06-11 23:28:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

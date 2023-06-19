@@ -3,13 +3,13 @@ title: "I've got an idea! "
 name: "pieceofmind"
 description: "Write down whatever simple idea you have here- For stories, games, drawings and whatnot- if you feel like you can make something out of it, even if simple, just leave some words down and let many and you use it in their work! Adminship can be transferred, community still getting developed -Nanachi "
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pieceofmind"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 12
+subscribers: 14
 posts: 8
 comments: 0
 weight: 8
@@ -41,7 +41,7 @@ Write down whatever simple idea you have here- For stories, games, drawings and 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 12 |
+| Subscribers          | 14 |
 | Posts                | 8  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Write down whatever simple idea you have here- For stories, games, drawings and 
 |----------------------|---|
 | Published            | 2023-06-12 21:28:30 |
 | Updated              | 2023-06-14 11:03:41 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:40 |

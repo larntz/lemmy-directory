@@ -3,16 +3,16 @@ title: "Anti Facebook"
 name: "antifacebook"
 description: "The title says it all.Posts which are not related to Facebook will be removed."
 type: community
-date: "2023-06-16 22:57:23"
+date: "2023-06-19 11:36:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antifacebook"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 52
-posts: 26
+subscribers: 57
+posts: 27
 comments: 14
-weight: 26
+weight: 27
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ The title says it all.<br><br>Posts which are not related to Facebook will be re
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 26  |
+| Subscribers          | 57 |
+| Posts                | 27  |
 | Comments             | 14  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ The title says it all.<br><br>Posts which are not related to Facebook will be re
 |----------------------|---|
 | Published            | 2021-10-21 06:48:36 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:23 |
+| Last Scraped         | 2023-06-19 11:36:46 |

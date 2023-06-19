@@ -3,15 +3,15 @@ title: "Seattle Seahawks"
 name: "seahawks"
 description: "This is a Community for the fans of the Seattle Seahawks. We discuss news, stats and other Seahawks topics."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seahawks"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 29
+subscribers: 35
 posts: 7
-comments: 10
+comments: 13
 weight: 7
 dau: 2
 wau: 7
@@ -41,9 +41,9 @@ This is a Community for the fans of the Seattle Seahawks. We discuss news, stats
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 29 |
+| Subscribers          | 35 |
 | Posts                | 7  |
-| Comments             | 10  |
+| Comments             | 13  |
 | Daily Active Users   | 2  |
 | Weekly Active Users  | 7  |
 | Monthly Active Users | 7  |
@@ -54,4 +54,4 @@ This is a Community for the fans of the Seattle Seahawks. We discuss news, stats
 |----------------------|---|
 | Published            | 2023-06-11 02:52:28 |
 | Updated              | 2023-06-11 14:53:29 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:42 |

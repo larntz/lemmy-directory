@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Community for meta posts about MoneroHouse.___Community icon by DinosoftLabs - Flaticon"
 type: community
-date: "2023-06-16 22:55:51"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/meta"
@@ -14,8 +14,8 @@ posts: 16
 comments: 115
 weight: 16
 dau: 1
-wau: 20
-mau: 24
+wau: 15
+mau: 25
 instances:
 - "monero_house"
 tags: 
@@ -45,8 +45,8 @@ Community for meta posts about MoneroHouse.<br>___<br>Community icon by Dinosoft
 | Posts                | 16  |
 | Comments             | 115  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 24  |
+| Weekly Active Users  | 15  |
+| Monthly Active Users | 25  |
 
 <br>
 
@@ -54,4 +54,4 @@ Community for meta posts about MoneroHouse.<br>___<br>Community icon by Dinosoft
 |----------------------|---|
 | Published            | 2023-02-18 16:09:38 |
 | Updated              | 2023-02-19 15:48:38 |
-| Last Scraped         | 2023-06-16 22:55:51 |
+| Last Scraped         | 2023-06-19 11:34:53 |

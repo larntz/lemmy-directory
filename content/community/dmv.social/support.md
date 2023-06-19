@@ -3,19 +3,19 @@ title: "dmv.social Support"
 name: "support"
 description: "Support for issues related to dmv.socialPlease ensure your post contains:1. What issue are you facing or what error occurred?2. What did you try to do before the issue happened?3. What were you expecting to happen instead?"
 type: community
-date: "2023-06-16 22:56:18"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/support"
 host: dmv.social
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 0
+subscribers: 4
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "dmv_social"
 tags: 
@@ -41,17 +41,17 @@ Support for issues related to dmv.social<br><br><br>Please ensure your post cont
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
+| Subscribers          | 4 |
+| Posts                | 1  |
 | Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 1  |
+| Monthly Active Users | 1  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 22:11:43 |
-| Updated              | 2023-06-14 22:14:30 |
-| Last Scraped         | 2023-06-16 22:56:18 |
+| Updated              | 2023-06-17 01:07:24 |
+| Last Scraped         | 2023-06-19 11:35:20 |

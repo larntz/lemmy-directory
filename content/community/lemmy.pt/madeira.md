@@ -3,7 +3,7 @@ title: "Madeira"
 name: "madeira"
 description: "Comunidade madeirense."
 type: community
-date: "2023-06-16 22:56:22"
+date: "2023-06-19 11:35:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/madeira"
@@ -54,4 +54,4 @@ Comunidade madeirense.
 |----------------------|---|
 | Published            | 2021-09-25 21:24:25 |
 | Updated              | 2023-06-07 19:17:18 |
-| Last Scraped         | 2023-06-16 22:56:22 |
+| Last Scraped         | 2023-06-19 11:35:23 |

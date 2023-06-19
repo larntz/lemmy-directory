@@ -3,13 +3,13 @@ title: "Class Warfare"
 name: "classwarfare"
 description: "Don't be a dick"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/classwarfare"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 211
+subscribers: 212
 posts: 13
 comments: 4
 weight: 13
@@ -41,7 +41,7 @@ Don't be a dick
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 211 |
+| Subscribers          | 212 |
 | Posts                | 13  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Don't be a dick
 |----------------------|---|
 | Published            | 2019-09-05 20:04:23 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

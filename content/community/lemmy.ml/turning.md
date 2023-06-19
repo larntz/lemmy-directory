@@ -3,13 +3,13 @@ title: "Turning"
 name: "turning"
 description: "We take square stuff and make it round! The corner for all things woodturning. If you have questions, projects, updates, gripes, or any other spiny wood related thing. Here is the place to post it.We love to see your projects (Both successes and failures)"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/turning"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 7
 posts: 5
 comments: 3
 weight: 5
@@ -41,7 +41,7 @@ We take square stuff and make it round! <br><br>The corner for all things woodtu
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 7 |
 | Posts                | 5  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ We take square stuff and make it round! <br><br>The corner for all things woodtu
 |----------------------|---|
 | Published            | 2023-06-01 00:11:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

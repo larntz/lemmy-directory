@@ -3,7 +3,7 @@ title: "please visit /c/ruinromance"
 name: "abandonedporn"
 description: "This is a placeholder community - you're probably looking for [!ruinromance@lemmy.ml](https://lemmy.ml/c/ruinromance) "
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abandonedporn"
@@ -54,4 +54,4 @@ This is a placeholder community - you're probably looking for [!ruinromance@lemm
 |----------------------|---|
 | Published            | 2021-09-28 13:27:18 |
 | Updated              | 2021-11-03 09:09:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,18 +3,18 @@ title: "Personal Knowledge Management Systems (PKMS)"
 name: "pkms"
 description: "A place for people to discuss Personal Knowledge Management Systems (PKMS) such as Building a Second Brain (BASB), Obsidian, and more."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-19 11:35:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/pkms"
 host: lemmy.blahaj.zone
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 2
+subscribers: 84
+posts: 4
 comments: 25
-weight: 2
+weight: 4
 dau: 1
-wau: 10
+wau: 8
 mau: 12
 instances:
 - "lemmy_blahaj_zone"
@@ -41,11 +41,11 @@ A place for people to discuss Personal Knowledge Management Systems (PKMS) such 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 2  |
+| Subscribers          | 84 |
+| Posts                | 4  |
 | Comments             | 25  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
+| Weekly Active Users  | 8  |
 | Monthly Active Users | 12  |
 
 <br>
@@ -54,4 +54,4 @@ A place for people to discuss Personal Knowledge Management Systems (PKMS) such 
 |----------------------|---|
 | Published            | 2023-06-07 23:42:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |
+| Last Scraped         | 2023-06-19 11:35:28 |

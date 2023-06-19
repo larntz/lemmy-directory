@@ -3,13 +3,13 @@ title: "LIFX"
 name: "lifx"
 description: "A community space for discussion about all things LIFX."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifx"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ A community space for discussion about all things LIFX.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 3 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community space for discussion about all things LIFX.
 |----------------------|---|
 | Published            | 2023-06-10 02:59:53 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:48 |

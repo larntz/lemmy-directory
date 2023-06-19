@@ -3,7 +3,7 @@ title: "Jreg"
 name: "jreg"
 description: "All hail our anti-centrist saviorhttps://www.youtube.com/user/flavacrava"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jreg"
@@ -54,4 +54,4 @@ All hail our anti-centrist savior<br><br>https://www.youtube.com/user/flavacrava
 |----------------------|---|
 | Published            | 2019-08-25 23:02:29 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

@@ -3,13 +3,13 @@ title: "Subaru"
 name: "subaru"
 description: "Automotive Community for anything related to Subaru."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/subaru"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 26
 posts: 0
 comments: -1
 weight: 0
@@ -41,7 +41,7 @@ Automotive Community for anything related to Subaru.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 26 |
 | Posts                | 0  |
 | Comments             | -1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Automotive Community for anything related to Subaru.
 |----------------------|---|
 | Published            | 2023-06-14 15:31:46 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

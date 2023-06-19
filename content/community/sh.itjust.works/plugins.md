@@ -3,16 +3,16 @@ title: "Lemmy Plugins & Userscripts"
 name: "plugins"
 description: "A general repository for user scripts and plugins used to enhance the Lemmy browsing experience.Post (or cross-post) your favorite Lemmy enhancements here! **General posting suggestions:**- Preface the submission with the type of enhancement - ex: [UserScript].- Include a screenshot of the enhancement in use (where possible)- Indicate the requirements for use (eg, greasemonkey, stylus, etc.)Thanks!"
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/plugins"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 223
-posts: 16
-comments: 163
-weight: 16
+subscribers: 312
+posts: 22
+comments: 213
+weight: 22
 dau: 0
 wau: 0
 mau: 0
@@ -41,9 +41,9 @@ A general repository for user scripts and plugins used to enhance the Lemmy brow
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 223 |
-| Posts                | 16  |
-| Comments             | 163  |
+| Subscribers          | 312 |
+| Posts                | 22  |
+| Comments             | 213  |
 | Daily Active Users   | 0  |
 | Weekly Active Users  | 0  |
 | Monthly Active Users | 0  |
@@ -54,4 +54,4 @@ A general repository for user scripts and plugins used to enhance the Lemmy brow
 |----------------------|---|
 | Published            | 2023-06-13 17:59:34 |
 | Updated              | 2023-06-13 19:35:32 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

@@ -3,7 +3,7 @@ title: "Boston College Eagles"
 name: "bostoncollegeeagles"
 description: "A community to discuss Boston College Eagles athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/bostoncollegeeagles"
@@ -54,4 +54,4 @@ A community to discuss Boston College Eagles athletics.<br><br>**Looking for Mod
 |----------------------|---|
 | Published            | 2023-06-14 23:49:40 |
 | Updated              | 2023-06-15 00:14:53 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

@@ -3,19 +3,19 @@ title: "Conservatives Only"
 name: "conservativesonly"
 description: "**A place for Conservatives to discuss political and cultural issues.  Non Conservatives may comment unless it is apparent that they only came here to harass others who do not share their viewpoints**"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/conservativesonly"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 23
-posts: 33
-comments: 81
-weight: 33
-dau: 16
-wau: 42
-mau: 42
+subscribers: 46
+posts: 50
+comments: 74
+weight: 50
+dau: 2
+wau: 52
+mau: 52
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 33  |
-| Comments             | 81  |
-| Daily Active Users   | 16  |
-| Weekly Active Users  | 42  |
-| Monthly Active Users | 42  |
+| Subscribers          | 46 |
+| Posts                | 50  |
+| Comments             | 74  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 52  |
+| Monthly Active Users | 52  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 01:41:32 |
 | Updated              | 2023-06-15 01:44:09 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

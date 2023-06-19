@@ -3,13 +3,13 @@ title: "Vexillology - The Study of Flags"
 name: "vexology_lemmygrad"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vexology_lemmygrad"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 130
+subscribers: 133
 posts: 27
 comments: 55
 weight: 27
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 130 |
+| Subscribers          | 133 |
 | Posts                | 27  |
 | Comments             | 55  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-07-23 15:45:20 |
 | Updated              | 2022-03-25 16:05:16 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

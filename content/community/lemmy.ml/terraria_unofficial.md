@@ -3,16 +3,16 @@ title: "Terraria Unofficial"
 name: "terraria_unofficial"
 description: "Hello! Welcome to the ***unofficial*** terraria community, this community is ran entirely by fans, no developers are involved in this. Have fun!"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraria_unofficial"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 16
-posts: 2
+subscribers: 19
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ Hello! Welcome to the ***unofficial*** terraria community, this community is ran
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 2  |
+| Subscribers          | 19 |
+| Posts                | 3  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Hello! Welcome to the ***unofficial*** terraria community, this community is ran
 |----------------------|---|
 | Published            | 2022-05-05 08:21:27 |
 | Updated              | 2022-05-05 08:25:14 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

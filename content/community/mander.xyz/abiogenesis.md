@@ -3,19 +3,19 @@ title: "Abiogenesis"
 name: "abiogenesis"
 description: "Discussions about research on the origin of life"
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/abiogenesis"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 26
+subscribers: 27
 posts: 11
 comments: 0
 weight: 11
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Discussions about research on the origin of life
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 26 |
+| Subscribers          | 27 |
 | Posts                | 11  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Discussions about research on the origin of life
 |----------------------|---|
 | Published            | 2022-03-21 07:41:30 |
 | Updated              | 2022-03-21 07:45:35 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:29 |

@@ -3,18 +3,18 @@ title: "AFL: Australian Football League"
 name: "afl"
 description: "A community dedicated to discussing AFL, AFLW, and grassroots footy."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afl"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 36
 posts: 65
 comments: 12
 weight: 65
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A community dedicated to discussing AFL, AFLW, and grassroots footy.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 36 |
 | Posts                | 65  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 3  |
 
 <br>
@@ -54,4 +54,4 @@ A community dedicated to discussing AFL, AFLW, and grassroots footy.
 |----------------------|---|
 | Published            | 2023-03-14 07:19:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:56 |

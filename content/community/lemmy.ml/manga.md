@@ -3,19 +3,19 @@ title: "Manga"
 name: "manga"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:44"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/manga"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 737
-posts: 60
-comments: 127
-weight: 60
-dau: 18
-wau: 64
-mau: 71
+subscribers: 871
+posts: 69
+comments: 156
+weight: 69
+dau: 5
+wau: 68
+mau: 79
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 737 |
-| Posts                | 60  |
-| Comments             | 127  |
-| Daily Active Users   | 18  |
-| Weekly Active Users  | 64  |
-| Monthly Active Users | 71  |
+| Subscribers          | 871 |
+| Posts                | 69  |
+| Comments             | 156  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 68  |
+| Monthly Active Users | 79  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-03 06:48:09 |
 | Updated              | 2022-04-20 21:14:13 |
-| Last Scraped         | 2023-06-16 22:57:44 |
+| Last Scraped         | 2023-06-19 11:36:45 |

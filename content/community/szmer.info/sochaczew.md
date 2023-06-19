@@ -3,7 +3,7 @@ title: "sochaczew"
 name: "sochaczew"
 description: "Społeczność związana z Sochaczewem.Prosimy o wpisy w jakikolwiek sposób związane z tym miastem."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sochaczew"
@@ -54,4 +54,4 @@ Społeczność związana z Sochaczewem.<br>Prosimy o wpisy w jakikolwiek sposób
 |----------------------|---|
 | Published            | 2021-11-28 14:41:40 |
 | Updated              | 2021-12-05 13:23:26 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

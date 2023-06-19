@@ -3,13 +3,13 @@ title: "Consumerism"
 name: "consumerism"
 description: "Anything consumption related. Including foodFeel free to post items that are practical, durable and high quality made that are made to last.Reviews etc are fine here.Can post anti consumerism things here too"
 type: community
-date: "2023-06-16 22:56:35"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/consumerism"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 12
 posts: 3
 comments: 0
 weight: 3
@@ -41,7 +41,7 @@ Anything consumption related. Including food<br><br>Feel free to post items that
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 12 |
 | Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Anything consumption related. Including food<br><br>Feel free to post items that
 |----------------------|---|
 | Published            | 2022-07-30 16:03:01 |
 | Updated              | 2022-07-30 16:04:09 |
-| Last Scraped         | 2023-06-16 22:56:35 |
+| Last Scraped         | 2023-06-19 11:35:36 |

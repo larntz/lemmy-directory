@@ -3,16 +3,16 @@ title: "Japanese Metal"
 name: "japanese_metal"
 description: "**A community dedicated to Japanese Rock and Metal.**Since we're metalheads, we're civilized and don't need extensive rules -- hopefully.    For now, the only rule is:   - Be a cool person.*Partnered communities:*[Metal Community](/c/metal@lemmy.world)   [Japanese Music](/c/japanesemusic@feddit.de)   "
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/japanese_metal"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 69
-posts: 15
-comments: 44
-weight: 15
+subscribers: 84
+posts: 17
+comments: 47
+weight: 17
 dau: 4
 wau: 4
 mau: 4
@@ -41,9 +41,9 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 15  |
-| Comments             | 44  |
+| Subscribers          | 84 |
+| Posts                | 17  |
+| Comments             | 47  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 4  |
 | Monthly Active Users | 4  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-12 23:46:15 |
 | Updated              | 2023-06-16 00:26:24 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

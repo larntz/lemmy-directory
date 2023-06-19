@@ -1,9 +1,9 @@
 ---
-title: "Meme" 
+title: "Artificial Intelligence - Meme" 
 name: "meme"
 description: "AI Meme Things"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/meme"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Meme on lemmy.intai.tech
+# /c/Artificial Intelligence - Meme on lemmy.intai.tech
 
 [[home](/)]
 [[/c/meme 🌎](https://lemmy.intai.tech/c/meme)]
@@ -53,5 +53,5 @@ AI Meme Things
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 16:21:49 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Updated              | 2023-06-17 20:04:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

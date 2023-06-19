@@ -3,13 +3,13 @@ title: "Crafts "
 name: "crafts"
 description: "The place to share your creations! -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crafts"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ The place to share your creations! <br>-<br>This community is subject to the rul
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 9 |
+| Subscribers          | 10 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ The place to share your creations! <br>-<br>This community is subject to the rul
 |----------------------|---|
 | Published            | 2023-06-12 02:49:54 |
 | Updated              | 2023-06-12 07:22:22 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:41 |

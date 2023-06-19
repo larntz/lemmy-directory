@@ -3,13 +3,13 @@ title: "Sigmarxism"
 name: "sigmarxism"
 description: "Because Warhammer is cool and reactionaries shouldn't get to have all the fun."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sigmarxism"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 127
+subscribers: 129
 posts: 11
 comments: 56
 weight: 11
@@ -41,7 +41,7 @@ Because Warhammer is cool and reactionaries shouldn't get to have all the fun.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 127 |
+| Subscribers          | 129 |
 | Posts                | 11  |
 | Comments             | 56  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Because Warhammer is cool and reactionaries shouldn't get to have all the fun.
 |----------------------|---|
 | Published            | 2019-08-24 13:18:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

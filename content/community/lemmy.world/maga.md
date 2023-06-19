@@ -3,19 +3,19 @@ title: "Make America Great Again!"
 name: "maga"
 description: "A friendly community for Patriotic Americans"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maga"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 10
-posts: 14
-comments: 27
-weight: 14
-dau: 4
-wau: 20
-mau: 20
+subscribers: 17
+posts: 15
+comments: 29
+weight: 15
+dau: 1
+wau: 21
+mau: 21
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A friendly community for Patriotic Americans
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 14  |
-| Comments             | 27  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 20  |
+| Subscribers          | 17 |
+| Posts                | 15  |
+| Comments             | 29  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 21  |
+| Monthly Active Users | 21  |
 
 <br>
 
@@ -54,4 +54,4 @@ A friendly community for Patriotic Americans
 |----------------------|---|
 | Published            | 2023-06-12 20:45:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:39 |

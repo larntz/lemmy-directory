@@ -3,16 +3,16 @@ title: "はぬマーク&メモ"
 name: "hanumark"
 description: "適当に投稿していきます"
 type: community
-date: "2023-06-16 22:55:41"
+date: "2023-06-19 11:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/hanumark"
 host: lm.korako.me
 lastmod: "{[ .Updated }}"
 subscribers: 4
-posts: 43
-comments: 20
-weight: 43
+posts: 44
+comments: 21
+weight: 44
 dau: 1
 wau: 1
 mau: 1
@@ -42,8 +42,8 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 4 |
-| Posts                | 43  |
-| Comments             | 20  |
+| Posts                | 44  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
 | Monthly Active Users | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-12-03 10:52:53 |
 | Updated              | 2023-01-28 18:52:59 |
-| Last Scraped         | 2023-06-16 22:55:41 |
+| Last Scraped         | 2023-06-19 11:34:44 |

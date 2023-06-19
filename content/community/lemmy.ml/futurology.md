@@ -3,19 +3,19 @@ title: "Futurology"
 name: "futurology"
 description: "Description not available."
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/futurology"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 985
-posts: 63
-comments: 64
-weight: 63
+subscribers: 1046
+posts: 65
+comments: 65
+weight: 65
 dau: 3
-wau: 4
-mau: 14
+wau: 8
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 985 |
-| Posts                | 63  |
-| Comments             | 64  |
+| Subscribers          | 1046 |
+| Posts                | 65  |
+| Comments             | 65  |
 | Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 14  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-06-28 03:00:58 |
 | Updated              | 2021-02-09 19:16:32 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

@@ -3,7 +3,7 @@ title: "Lounge"
 name: "lounge"
 description: "Anything goes here~"
 type: community
-date: "2023-06-16 22:56:10"
+date: "2023-06-19 11:35:12"
 draft: false
 nsfw: false
 actor_id: "https://hc.frorayz.tech/c/lounge"
@@ -54,4 +54,4 @@ Anything goes here~
 |----------------------|---|
 | Published            | 2023-06-09 05:20:39 |
 | Updated              | 2023-06-13 03:07:20 |
-| Last Scraped         | 2023-06-16 22:56:10 |
+| Last Scraped         | 2023-06-19 11:35:12 |

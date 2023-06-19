@@ -3,13 +3,13 @@ title: "Klassische Antike"
 name: "antike"
 description: "Alles, was mit den Sprachen, Literaturen, Geschichte und Artefakten der alten Griechen und Römer zu tun hat.Das community icon ist [hier](https://commons.wikimedia.org/wiki/File:Euripides,_archetype_350-325_BC,_Plaster_cast,_Hostinn%C3%A9,_188470.jpg)."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/antike"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 20
 posts: 3
 comments: 7
 weight: 3
@@ -41,7 +41,7 @@ Alles, was mit den Sprachen, Literaturen, Geschichte und Artefakten der alten Gr
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 20 |
 | Posts                | 3  |
 | Comments             | 7  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Alles, was mit den Sprachen, Literaturen, Geschichte und Artefakten der alten Gr
 |----------------------|---|
 | Published            | 2023-06-05 12:50:07 |
 | Updated              | 2023-06-05 12:55:59 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

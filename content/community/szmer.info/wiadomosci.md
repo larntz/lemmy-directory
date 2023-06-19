@@ -3,19 +3,19 @@ title: "wiadomosci"
 name: "wiadomosci"
 description: "W tej społeczności zamieszczamy artykuły.Regulamin: 1.  Twój link zostanie usunięty jeśli:- jest memem, skrinem, linkiem do Twittera, nie ma odnośnika- artykułem za mytościaną2. W kwestiach niewypisanych w tym regulaminie mają zastosowanie zasady portalu szmer.info"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wiadomosci"
 host: szmer.info
 lastmod: "{[ .Updated }}"
-subscribers: 60
-posts: 430
-comments: 210
-weight: 430
-dau: 1
-wau: 3
-mau: 6
+subscribers: 65
+posts: 433
+comments: 211
+weight: 433
+dau: 3
+wau: 5
+mau: 7
 instances:
 - "szmer_info"
 tags: 
@@ -41,12 +41,12 @@ W tej społeczności zamieszczamy artykuły.<br><br>Regulamin: <br>1.  Twój lin
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 430  |
-| Comments             | 210  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 6  |
+| Subscribers          | 65 |
+| Posts                | 433  |
+| Comments             | 211  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 5  |
+| Monthly Active Users | 7  |
 
 <br>
 
@@ -54,4 +54,4 @@ W tej społeczności zamieszczamy artykuły.<br><br>Regulamin: <br>1.  Twój lin
 |----------------------|---|
 | Published            | 2021-08-01 08:01:50 |
 | Updated              | 2023-02-28 13:31:26 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

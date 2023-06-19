@@ -3,7 +3,7 @@ title: "Smoking"
 name: "smoking"
 description: "Let's smoke some meat"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/smoking"
@@ -54,4 +54,4 @@ Let's smoke some meat
 |----------------------|---|
 | Published            | 2023-06-13 17:13:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Last Scraped         | 2023-06-19 11:35:05 |

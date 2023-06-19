@@ -1,9 +1,9 @@
 ---
 title: "edited videos & content" 
 name: "edited_content"
-description: "A place to discuss edited content. This includes the typical longer form content, let's plays, and shorts/tiktoks. Only semi-edited VODs maybe not so much, but there are usecases.You can talk about the general contents, or questions about editing software, techniques, or posting your inspirations are all welcome here.**Rules**![crystal icon](https://misnina.neocities.org/emotes/cry_cr_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.![crystal icon](https://misnina.neocities.org/emotes/cry_cr_1x.png) Self promotion -> [/c/selfpromotion](https://crystals.rest/c/selfpromotion)"
+description: "A place to discuss edited content. This includes the typical longer form content, let's plays, and shorts/tiktoks. Only semi-edited VODs maybe not so much, but there are usecases.You can talk about the general contents, or questions about editing software, techniques, or posting your inspirations are all welcome here.**Rules**![crystal icon](http://img.misnina.com/e/cry_cr_1x.png) Self promotion -> [!selfpromotion](/c/selfpromotion@crystals.rest)![yellow crystal](http://img.misnina.com/e/cry_yellow_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:20"
 draft: false
 nsfw: false
 actor_id: "https://crystals.rest/c/edited_content"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-A place to discuss edited content. This includes the typical longer form content, let's plays, and shorts/tiktoks. Only semi-edited VODs maybe not so much, but there are usecases.<br>You can talk about the general contents, or questions about editing software, techniques, or posting your inspirations are all welcome here.<br><br>**Rules**<br><br>![crystal icon](https://misnina.neocities.org/emotes/cry_cr_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.<br><br>![crystal icon](https://misnina.neocities.org/emotes/cry_cr_1x.png) Self promotion -> [/c/selfpromotion](https://crystals.rest/c/selfpromotion)<br><br>
+A place to discuss edited content. This includes the typical longer form content, let's plays, and shorts/tiktoks. Only semi-edited VODs maybe not so much, but there are usecases.<br>You can talk about the general contents, or questions about editing software, techniques, or posting your inspirations are all welcome here.<br><br>**Rules**<br><br>![crystal icon](http://img.misnina.com/e/cry_cr_1x.png) Self promotion -> [!selfpromotion](/c/selfpromotion@crystals.rest)<br><br>![yellow crystal](http://img.misnina.com/e/cry_yellow_1x.png) Direct NSFW content cannot be linked, but you may link to the creator's general channels or socials and tell everyone where to go.<br><br>![red crystal](http://img.misnina.com/e/cry_red_1x.png)  **No NFTS, cryptocurrency, or AI related content**
 </blockquote>
 
 
@@ -53,5 +53,5 @@ A place to discuss edited content. This includes the typical longer form content
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 10:00:31 |
-| Updated              | 2023-06-16 16:50:50 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Updated              | 2023-06-17 13:44:04 |
+| Last Scraped         | 2023-06-19 11:35:20 |

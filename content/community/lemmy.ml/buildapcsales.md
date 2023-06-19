@@ -3,18 +3,18 @@ title: "Build a PC Sales - つ ◕_◕ ༽つ Low prices take my energy つ ◕_
 name: "buildapcsales"
 description: "A community for links to products that are on sale at various websites. Monitors, cables, processors, video cards, fans, cooling, cases, accessories, anything for a PC build."
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buildapcsales"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 162
+subscribers: 182
 posts: 5
 comments: 3
 weight: 5
 dau: 1
-wau: 6
+wau: 4
 mau: 6
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A community for links to products that are on sale at various websites. Monitors
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 162 |
+| Subscribers          | 182 |
 | Posts                | 5  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
+| Weekly Active Users  | 4  |
 | Monthly Active Users | 6  |
 
 <br>
@@ -54,4 +54,4 @@ A community for links to products that are on sale at various websites. Monitors
 |----------------------|---|
 | Published            | 2023-06-07 06:01:21 |
 | Updated              | 2023-06-07 06:01:53 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:36:44 |

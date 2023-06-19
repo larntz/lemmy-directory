@@ -3,19 +3,19 @@ title: "Mander"
 name: "mander"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/mander"
 host: mander.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 7
-comments: 42
-weight: 7
-dau: 2
-wau: 4
-mau: 4
+subscribers: 80
+posts: 10
+comments: 68
+weight: 10
+dau: 5
+wau: 28
+mau: 30
 instances:
 - "mander_xyz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 7  |
-| Comments             | 42  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Subscribers          | 80 |
+| Posts                | 10  |
+| Comments             | 68  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 28  |
+| Monthly Active Users | 30  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-01-29 11:07:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |
+| Last Scraped         | 2023-06-19 11:35:30 |

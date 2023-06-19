@@ -3,19 +3,19 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-16 22:55:44"
+date: "2023-06-19 11:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/main"
 host: lemmy.tedomum.net
 lastmod: "{[ .Updated }}"
-subscribers: 663
+subscribers: 664
 posts: 17
-comments: 4
+comments: 5
 weight: 17
-dau: 3
-wau: 13
-mau: 41
+dau: 2
+wau: 14
+mau: 42
 instances:
 - "lemmy_tedomum_net"
 tags: 
@@ -41,12 +41,12 @@ The Default Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 663 |
+| Subscribers          | 664 |
 | Posts                | 17  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 41  |
+| Comments             | 5  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Default Community
 |----------------------|---|
 | Published            | 2020-01-07 09:36:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:44 |
+| Last Scraped         | 2023-06-19 11:34:48 |

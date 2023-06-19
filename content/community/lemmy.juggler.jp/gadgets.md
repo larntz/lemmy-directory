@@ -3,7 +3,7 @@ title: "⌚ガジェット"
 name: "gadgets"
 description: "ガジェット関連の記事を収集します"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/gadgets"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-01-29 15:19:54 |
 | Updated              | 2021-03-19 13:43:52 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

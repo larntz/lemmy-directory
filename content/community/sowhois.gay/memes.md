@@ -3,7 +3,7 @@ title: "Memes"
 name: "memes"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:31"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/memes"
@@ -13,7 +13,7 @@ subscribers: 2
 posts: 13
 comments: 48
 weight: 13
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -44,7 +44,7 @@ Description not available.
 | Subscribers          | 2 |
 | Posts                | 13  |
 | Comments             | 48  |
-| Daily Active Users   | 3  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-16 04:04:20 |
 | Updated              | 2023-06-16 04:07:54 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:31 |

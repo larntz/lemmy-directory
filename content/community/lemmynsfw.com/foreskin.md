@@ -3,19 +3,19 @@ title: "Foreskin"
 name: "foreskin"
 description: "All foreskin is welcome (provided its 18+ and follows this instance rules!)tag OC and be respectful!Sister communities* [!penis@lemmynsfw.com](/c/lemmynsfw.com) - For appreciators of all things penis. (OC welcome)* [!fleshlights@lemmynsfw.com](/c/fleshlights@lemmynsfw.com) - Fleshlight discussion and usage (OC welcome)* [!nudedudes@lemmynsfw.com](/c/nudedudes@lemmynsfw.com) - An OC focused sub for male nudity* [!lemmycums@lemmynsfw.com](/c/lemmycums@lemmynsfw.com) - Similar to r/redditorcum, OC focused.* [!massivecock@lemmynsfw.com](/c/massivecock@lemmynsfw.com) - large penises and those who love them (OC focused)Gay male focused sister communities* [!gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com) - Gay oriented nude sub in the spirit of r/gaybrosgonewild (OC focused)* [!gayporn@lemmynsfw.com](/c/gayporn@lemmynsfw.com) - dudes who like dudes!* [!gayporngifs@lemmynsfw.com](/c/gayporngifs@lemmynsfw.com) -GIFs of the gay porn variety."
 type: community
-date: "2023-06-16 11:06:42"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/foreskin"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 79
-posts: 9
-comments: 2
-weight: 9
-dau: 2
-wau: 8
-mau: 8
+subscribers: 123
+posts: 12
+comments: 5
+weight: 12
+dau: 5
+wau: 13
+mau: 13
 instances:
 - "lemmynsfw_com"
 tags: 
@@ -43,12 +43,12 @@ All foreskin is welcome (provided its 18+ and follows this instance rules!)<br><
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 9  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 123 |
+| Posts                | 12  |
+| Comments             | 5  |
+| Daily Active Users   | 5  |
+| Weekly Active Users  | 13  |
+| Monthly Active Users | 13  |
 
 <br>
 
@@ -56,4 +56,4 @@ All foreskin is welcome (provided its 18+ and follows this instance rules!)<br><
 |----------------------|---|
 | Published            | 2023-06-12 02:59:06 |
 | Updated              | 2023-06-14 00:15:39 |
-| Last Scraped         | 2023-06-16 11:06:42 |
+| Last Scraped         | 2023-06-19 11:35:46 |

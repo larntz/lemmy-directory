@@ -1,9 +1,9 @@
 ---
 title: "c/Games" 
 name: "games"
-description: "Description not available."
+description: "Is there a new upcoming game on PlayStation, Xbox, Nintendo, or PC? This is where gamers discuss everything from release dates to game mechanics!********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/games"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+Is there a new upcoming game on PlayStation, Xbox, Nintendo, or PC? This is where gamers discuss everything from release dates to game mechanics!<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
 </blockquote>
 
 
@@ -53,5 +53,5 @@ Description not available.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-15 03:07:35 |
-| Updated              | 2023-06-15 23:59:04 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Updated              | 2023-06-17 05:23:23 |
+| Last Scraped         | 2023-06-19 11:35:26 |

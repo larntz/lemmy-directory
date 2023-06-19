@@ -3,13 +3,13 @@ title: "Vaporwave aesthetic "
 name: "vaporwave"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vaporwave"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 118
+subscribers: 119
 posts: 1
 comments: 1
 weight: 1
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 118 |
+| Subscribers          | 119 |
 | Posts                | 1  |
 | Comments             | 1  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-04-02 14:02:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

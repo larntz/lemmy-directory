@@ -1,9 +1,9 @@
 ---
 title: "The Goblin's Notebook" 
 name: "goblinsnotebook"
-description: "https://www.the-goblin.net"
+description: "Description not available."
 type: community
-date: "2023-06-16 22:56:23"
+date: "2023-06-19 11:35:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.the-goblin.net/c/goblinsnotebook"
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-https://www.the-goblin.net
+Description not available.
 </blockquote>
 
 
@@ -54,4 +54,4 @@ https://www.the-goblin.net
 |----------------------|---|
 | Published            | 2023-06-14 09:47:22 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:23 |
+| Last Scraped         | 2023-06-19 11:35:24 |

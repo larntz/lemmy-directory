@@ -3,19 +3,19 @@ title: "Tāmaki Makaurau / Auckland"
 name: "auckland"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/auckland"
 host: lemmy.nz
 lastmod: "{[ .Updated }}"
-subscribers: 47
+subscribers: 61
 posts: 3
-comments: 8
+comments: 12
 weight: 3
-dau: 6
-wau: 7
-mau: 7
+dau: 1
+wau: 9
+mau: 10
 instances:
 - "lemmy_nz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 47 |
+| Subscribers          | 61 |
 | Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
+| Comments             | 12  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 10  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-12 00:50:09 |
 | Updated              | 2023-06-12 23:50:08 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:56 |

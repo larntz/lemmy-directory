@@ -1,21 +1,21 @@
 ---
-title: "GMEAustralia" 
+title: "GME Australia" 
 name: "gmeaustralia"
-description: "Description not available."
+description: "backup zoo"
 type: community
-date: "2023-06-16 22:56:09"
+date: "2023-06-19 11:35:06"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gmeaustralia"
 host: aussie.zone
 lastmod: "{[ .Updated }}"
-subscribers: 8
-posts: 5
-comments: 0
-weight: 5
+subscribers: 13
+posts: 10
+comments: 4
+weight: 10
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 4
 instances:
 - "aussie_zone"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/GMEAustralia on aussie.zone
+# /c/GME Australia on aussie.zone
 
 [[home](/)]
 [[/c/gmeaustralia 🌎](https://aussie.zone/c/gmeaustralia)]
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Description not available.
+backup zoo
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 5  |
-| Comments             | 0  |
+| Subscribers          | 13 |
+| Posts                | 10  |
+| Comments             | 4  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
+| Weekly Active Users  | 4  |
+| Monthly Active Users | 4  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-14 07:19:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:09 |
+| Updated              | 2023-06-18 15:29:48 |
+| Last Scraped         | 2023-06-19 11:35:06 |

@@ -3,13 +3,13 @@ title: "Foreskin Restoration"
 name: "foreskin_restoration"
 description: "Post restoration progress photos, discussions about foreskin restoration, etc.This is a NSFW sub, dick pics are allowed."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/foreskin_restoration"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1
@@ -43,7 +43,7 @@ Post restoration progress photos, discussions about foreskin restoration, etc.<b
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 13 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -56,4 +56,4 @@ Post restoration progress photos, discussions about foreskin restoration, etc.<b
 |----------------------|---|
 | Published            | 2023-06-15 03:26:11 |
 | Updated              | 2023-06-15 03:49:31 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

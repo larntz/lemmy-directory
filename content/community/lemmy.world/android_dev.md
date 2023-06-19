@@ -3,13 +3,13 @@ title: "AndroidDev"
 name: "android_dev"
 description: "News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source![Join our Discord](https://discord.gg/qWAQg2txPg)"
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/android_dev"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ News for Android developers with the who, what, where, when and how of the Andro
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 6 |
+| Subscribers          | 8 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ News for Android developers with the who, what, where, when and how of the Andro
 |----------------------|---|
 | Published            | 2023-06-13 07:27:51 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |
+| Last Scraped         | 2023-06-19 11:36:38 |

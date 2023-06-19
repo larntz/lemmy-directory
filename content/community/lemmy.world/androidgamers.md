@@ -3,13 +3,13 @@ title: "Android Gamers"
 name: "androidgamers"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/androidgamers"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 22
+subscribers: 29
 posts: 3
 comments: 5
 weight: 3
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 22 |
+| Subscribers          | 29 |
 | Posts                | 3  |
 | Comments             | 5  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 22:18:23 |
 | Updated              | 2023-06-14 22:19:40 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:36 |

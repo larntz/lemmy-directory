@@ -3,19 +3,19 @@ title: "Comic Books"
 name: "comicbooks"
 description: "A place to discuss comic books of all types, from old to new, Big 2 to indie, and everything in between"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/comicbooks"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 119
-posts: 5
-comments: 17
-weight: 5
-dau: 3
-wau: 11
-mau: 11
+subscribers: 164
+posts: 6
+comments: 19
+weight: 6
+dau: 2
+wau: 14
+mau: 14
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ A place to discuss comic books of all types, from old to new, Big 2 to indie, an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 119 |
-| Posts                | 5  |
-| Comments             | 17  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Subscribers          | 164 |
+| Posts                | 6  |
+| Comments             | 19  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 14  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place to discuss comic books of all types, from old to new, Big 2 to indie, an
 |----------------------|---|
 | Published            | 2023-06-13 12:05:49 |
 | Updated              | 2023-06-13 12:11:01 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

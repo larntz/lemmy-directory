@@ -3,13 +3,13 @@ title: "Left Urbanism"
 name: "left_urbanism"
 description: "A community for urbanists on the Left to talk about public housing, transit, class and power structures, racism, gentrification and I guess zoning?"
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/left_urbanism"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 230
+subscribers: 239
 posts: 120
 comments: 110
 weight: 120
@@ -41,7 +41,7 @@ A community for urbanists on the Left to talk about public housing, transit, cla
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 230 |
+| Subscribers          | 239 |
 | Posts                | 120  |
 | Comments             | 110  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for urbanists on the Left to talk about public housing, transit, cla
 |----------------------|---|
 | Published            | 2020-02-18 01:13:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:44 |

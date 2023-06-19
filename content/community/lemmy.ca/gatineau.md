@@ -3,7 +3,7 @@ title: "Gatineau, Québec"
 name: "gatineau"
 description: "A Lemmy community for the city of Gatineau, Quebec.---Une communauté Lemmy pour la ville de Gatineau, Québec."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/gatineau"
@@ -54,4 +54,4 @@ A Lemmy community for the city of Gatineau, Quebec.<br><br>---<br><br>Une commun
 |----------------------|---|
 | Published            | 2023-06-14 17:35:42 |
 | Updated              | 2023-06-14 17:37:45 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Last Scraped         | 2023-06-19 11:35:36 |

@@ -3,13 +3,13 @@ title: "Thai Natural Language Processing"
 name: "thainlp"
 description: "ชุมชนผู้สนใจการประมวลผลภาษาธรรมชาติ (natural language processing) ในภาษาไทย และแบ่งปันความรู้ตามแนวทางซอฟต์แวร์เสรีและข้อมูลเปิดมีงานพบปะแลกเปลี่ยนชื่อ Thai NLP Meetupไม่เกี่ยวข้องกับบริษัทหรือสถาบันใด ๆ#ThaiNLP"
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thainlp"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 28
+subscribers: 29
 posts: 30
 comments: 9
 weight: 30
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 28 |
+| Subscribers          | 29 |
 | Posts                | 30  |
 | Comments             | 9  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-18 07:55:47 |
 | Updated              | 2021-05-18 08:02:47 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:54 |

@@ -3,13 +3,13 @@ title: "iPad"
 name: "ipad"
 description: "The home for all things iPad on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ipad"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ The home for all things iPad on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 14 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ The home for all things iPad on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<
 |----------------------|---|
 | Published            | 2023-06-16 01:34:43 |
 | Updated              | 2023-06-16 01:35:10 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:36 |

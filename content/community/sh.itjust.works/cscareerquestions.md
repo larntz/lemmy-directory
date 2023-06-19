@@ -3,13 +3,13 @@ title: "CS Career Questions"
 name: "cscareerquestions"
 description: "Rules:1. Be welcoming - Not everyone is a 10 YOE senior engineer. Let's all help each other.2. No memes - Refer to the Programmer Humor community."
 type: community
-date: "2023-06-16 22:56:05"
+date: "2023-06-19 11:35:05"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cscareerquestions"
 host: sh.itjust.works
 lastmod: "{[ .Updated }}"
-subscribers: 52
+subscribers: 67
 posts: 1
 comments: 6
 weight: 1
@@ -41,7 +41,7 @@ Rules:<br>1. Be welcoming - Not everyone is a 10 YOE senior engineer. Let's all 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 52 |
+| Subscribers          | 67 |
 | Posts                | 1  |
 | Comments             | 6  |
 | Daily Active Users   | 3  |
@@ -54,4 +54,4 @@ Rules:<br>1. Be welcoming - Not everyone is a 10 YOE senior engineer. Let's all 
 |----------------------|---|
 | Published            | 2023-06-12 15:28:43 |
 | Updated              | 2023-06-12 15:33:08 |
-| Last Scraped         | 2023-06-16 22:56:05 |
+| Last Scraped         | 2023-06-19 11:35:05 |

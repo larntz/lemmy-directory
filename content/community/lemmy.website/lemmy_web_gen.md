@@ -3,17 +3,17 @@ title: "Lemmy.Website General"
 name: "lemmy_web_gen"
 description: "**Welcome!**"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.website/c/lemmy_web_gen"
 host: lemmy.website
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 1
+subscribers: 4
+posts: 2
 comments: 2
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 2
 mau: 2
 instances:
@@ -41,10 +41,10 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
+| Subscribers          | 4 |
+| Posts                | 2  |
 | Comments             | 2  |
-| Daily Active Users   | 2  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 2  |
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-13 01:41:56 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

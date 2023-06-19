@@ -3,13 +3,13 @@ title: "Town of Salem"
 name: "townofsalem"
 description: "A community for the Mafia-based social deduction murder mystery game Town of Salem by BlankMediaGames and its sequel, Town of Salem 2.Not officially affiliated with BlankMediaGames."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/townofsalem"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 3
 weight: 1
@@ -41,7 +41,7 @@ A community for the Mafia-based social deduction murder mystery game Town of Sal
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 10 |
+| Subscribers          | 11 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ A community for the Mafia-based social deduction murder mystery game Town of Sal
 |----------------------|---|
 | Published            | 2023-06-08 18:27:50 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:56 |

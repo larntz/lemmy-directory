@@ -3,13 +3,13 @@ title: "Artificial Intelligence "
 name: "artificialintelligence"
 description: "Chat about and share AI stuff"
 type: community
-date: "2023-06-16 22:56:02"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/artificialintelligence"
 host: lemmy.sdf.org
 lastmod: "{[ .Updated }}"
-subscribers: 7
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2
@@ -41,7 +41,7 @@ Chat about and share AI stuff
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 7 |
+| Subscribers          | 11 |
 | Posts                | 2  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Chat about and share AI stuff
 |----------------------|---|
 | Published            | 2023-06-14 01:50:45 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:02 |
+| Last Scraped         | 2023-06-19 11:35:02 |

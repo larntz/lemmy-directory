@@ -3,19 +3,19 @@ title: "Game Development"
 name: "gamedev"
 description: "TTRPGs, video games, role play."
 type: community
-date: "2023-06-16 22:55:55"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/gamedev"
 host: pawb.social
 lastmod: "{[ .Updated }}"
-subscribers: 74
-posts: 1
-comments: 6
-weight: 1
+subscribers: 84
+posts: 2
+comments: 7
+weight: 2
 dau: 1
 wau: 2
-mau: 3
+mau: 4
 instances:
 - "pawb_social"
 tags: 
@@ -41,12 +41,12 @@ TTRPGs, video games, role play.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
-| Posts                | 1  |
-| Comments             | 6  |
+| Subscribers          | 84 |
+| Posts                | 2  |
+| Comments             | 7  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
+| Monthly Active Users | 4  |
 
 <br>
 
@@ -54,4 +54,4 @@ TTRPGs, video games, role play.
 |----------------------|---|
 | Published            | 2023-06-04 23:11:20 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:55 |
+| Last Scraped         | 2023-06-19 11:34:55 |

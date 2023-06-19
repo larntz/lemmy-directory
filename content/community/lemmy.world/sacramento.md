@@ -3,13 +3,13 @@ title: "Sacramento"
 name: "sacramento"
 description: "A forum about Sacramento, for Sacramento."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sacramento"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A forum about Sacramento, for Sacramento.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 16 |
+| Subscribers          | 17 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A forum about Sacramento, for Sacramento.
 |----------------------|---|
 | Published            | 2023-06-11 01:24:05 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |
+| Last Scraped         | 2023-06-19 11:36:41 |

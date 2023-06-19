@@ -3,13 +3,13 @@ title: "sci fi"
 name: "scifi"
 description: "Enter the Realm of Imagination: Exploring the Wonders of Science Fiction and Beyond"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scifi"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 19
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Enter the Realm of Imagination: Exploring the Wonders of Science Fiction and Bey
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 19 |
+| Subscribers          | 23 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Enter the Realm of Imagination: Exploring the Wonders of Science Fiction and Bey
 |----------------------|---|
 | Published            | 2023-06-12 12:50:38 |
 | Updated              | 2023-06-16 11:39:27 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:38 |

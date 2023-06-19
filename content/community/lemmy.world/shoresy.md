@@ -3,7 +3,7 @@ title: "Shoresy"
 name: "shoresy"
 description: "Give your balls a tug and join the unofficial reddit community for fans of Shoresy, the spin-off from Reilly and Jonesy's mom's favourite TV show, Letterkenny."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shoresy"
@@ -54,4 +54,4 @@ Give your balls a tug and join the unofficial reddit community for fans of Shore
 |----------------------|---|
 | Published            | 2023-06-13 18:14:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:41 |

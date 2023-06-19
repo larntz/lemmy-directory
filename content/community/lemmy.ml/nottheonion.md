@@ -3,19 +3,19 @@ title: "Not the Onion"
 name: "nottheonion"
 description: "For true stories that are so ridiculous, that you could have sworn it was an !theonion worthy story."
 type: community
-date: "2023-06-16 22:57:21"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nottheonion"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 335
-posts: 11
-comments: 18
-weight: 11
-dau: 3
-wau: 21
-mau: 21
+subscribers: 432
+posts: 14
+comments: 31
+weight: 14
+dau: 12
+wau: 31
+mau: 32
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ For true stories that are so ridiculous, that you could have sworn it was an !th
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 335 |
-| Posts                | 11  |
-| Comments             | 18  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
+| Subscribers          | 432 |
+| Posts                | 14  |
+| Comments             | 31  |
+| Daily Active Users   | 12  |
+| Weekly Active Users  | 31  |
+| Monthly Active Users | 32  |
 
 <br>
 
@@ -54,4 +54,4 @@ For true stories that are so ridiculous, that you could have sworn it was an !th
 |----------------------|---|
 | Published            | 2022-12-15 12:37:21 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:21 |
+| Last Scraped         | 2023-06-19 11:36:45 |

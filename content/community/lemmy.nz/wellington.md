@@ -3,19 +3,19 @@ title: "Te Upoko o te Ika a Māui / Wellington"
 name: "wellington"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:56"
+date: "2023-06-19 11:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/wellington"
 host: lemmy.nz
 lastmod: "{[ .Updated }}"
-subscribers: 110
-posts: 11
-comments: 182
-weight: 11
-dau: 13
-wau: 40
-mau: 40
+subscribers: 123
+posts: 13
+comments: 187
+weight: 13
+dau: 4
+wau: 23
+mau: 43
 instances:
 - "lemmy_nz"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 110 |
-| Posts                | 11  |
-| Comments             | 182  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 40  |
+| Subscribers          | 123 |
+| Posts                | 13  |
+| Comments             | 187  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 23  |
+| Monthly Active Users | 43  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-10 02:48:37 |
 | Updated              | 2023-06-12 00:53:35 |
-| Last Scraped         | 2023-06-16 22:55:56 |
+| Last Scraped         | 2023-06-19 11:34:56 |

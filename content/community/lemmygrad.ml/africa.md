@@ -3,13 +3,13 @@ title: "Africa"
 name: "africa"
 description: "African news and politics"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/africa"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 72
+subscribers: 75
 posts: 43
 comments: 41
 weight: 43
@@ -41,7 +41,7 @@ African news and politics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 72 |
+| Subscribers          | 75 |
 | Posts                | 43  |
 | Comments             | 41  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ African news and politics
 |----------------------|---|
 | Published            | 2020-07-23 18:17:32 |
 | Updated              | 2021-02-23 17:23:38 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

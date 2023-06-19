@@ -3,18 +3,18 @@ title: "Inkscape Vector Graphics"
 name: "inkscape_vectors"
 description: "Share artwork, ask questions or just chat about the Inkscape Vector application or others too. Unofficial community. Keep it friendly."
 type: community
-date: "2023-06-16 22:56:12"
+date: "2023-06-19 11:35:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/inkscape_vectors"
 host: feddit.uk
 lastmod: "{[ .Updated }}"
-subscribers: 11
+subscribers: 16
 posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "feddit_uk"
@@ -41,11 +41,11 @@ Share artwork, ask questions or just chat about the Inkscape Vector application 
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 11 |
+| Subscribers          | 16 |
 | Posts                | 1  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Share artwork, ask questions or just chat about the Inkscape Vector application 
 |----------------------|---|
 | Published            | 2023-06-11 16:52:56 |
 | Updated              | 2023-06-11 16:56:17 |
-| Last Scraped         | 2023-06-16 22:56:12 |
+| Last Scraped         | 2023-06-19 11:35:14 |

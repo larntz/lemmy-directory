@@ -3,13 +3,13 @@ title: "CopyPasta"
 name: "copypasta"
 description: "Control C + V"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/copypasta"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 34
+subscribers: 35
 posts: 9
 comments: 43
 weight: 9
@@ -41,7 +41,7 @@ Control C + V
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 34 |
+| Subscribers          | 35 |
 | Posts                | 9  |
 | Comments             | 43  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Control C + V
 |----------------------|---|
 | Published            | 2022-04-12 15:37:57 |
 | Updated              | 2022-04-12 15:38:08 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

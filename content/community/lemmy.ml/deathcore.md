@@ -3,16 +3,16 @@ title: "Deathcore"
 name: "deathcore"
 description: "A community for Deathcore music enthusiasts.Post content about Deathcore or Deathcore adjacent music (because let's not get too picky about genres).And be nice too each other.Check out other metal music communities:- [!metal@lemmy.ml](https://lemmy.ml/c/metal) - [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!blackmetal@lemmy.ml](https://lemmy.ml/c/blackmetal) - [!blackmetal@feddit.de](https://feddit.de/c/blackmetal) - [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal) - [!doommetal@lemmy.ml](https://lemmy.ml/c/doommetal) - [!melodicdeathmetal@lemmy.ml](https://lemmy.ml/c/melodicdeathmetal) - [!metalcore@lemmy.ml](https://lemmy.ml/c/metalcore) - [!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) - [!thrashmetal@lemmy.ml](https://lemmy.ml/c/thrashmetal) For Memes:- [!metalmemes@lemmy.world](https://lemmy.world/c/metalmemes)"
 type: community
-date: "2023-06-16 22:57:33"
+date: "2023-06-19 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deathcore"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 33
-posts: 31
-comments: 16
-weight: 31
+subscribers: 35
+posts: 39
+comments: 17
+weight: 39
 dau: 4
 wau: 9
 mau: 9
@@ -41,9 +41,9 @@ A community for Deathcore music enthusiasts.<br><br>Post content about Deathcore
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 31  |
-| Comments             | 16  |
+| Subscribers          | 35 |
+| Posts                | 39  |
+| Comments             | 17  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 9  |
 | Monthly Active Users | 9  |
@@ -54,4 +54,4 @@ A community for Deathcore music enthusiasts.<br><br>Post content about Deathcore
 |----------------------|---|
 | Published            | 2023-06-01 16:13:29 |
 | Updated              | 2023-06-13 12:15:14 |
-| Last Scraped         | 2023-06-16 22:57:33 |
+| Last Scraped         | 2023-06-19 11:36:52 |

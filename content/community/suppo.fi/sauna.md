@@ -3,13 +3,13 @@ title: "Sauna"
 name: "sauna"
 description: "Saunaposting  A place to discuss saunas."
 type: community
-date: "2023-06-16 22:56:00"
+date: "2023-06-19 11:34:59"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/sauna"
 host: suppo.fi
 lastmod: "{[ .Updated }}"
-subscribers: 37
+subscribers: 43
 posts: 10
 comments: 9
 weight: 10
@@ -41,7 +41,7 @@ Saunaposting  <br>A place to discuss saunas.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 37 |
+| Subscribers          | 43 |
 | Posts                | 10  |
 | Comments             | 9  |
 | Daily Active Users   | 2  |
@@ -54,4 +54,4 @@ Saunaposting  <br>A place to discuss saunas.
 |----------------------|---|
 | Published            | 2023-06-06 12:18:55 |
 | Updated              | 2023-06-14 15:22:18 |
-| Last Scraped         | 2023-06-16 22:56:00 |
+| Last Scraped         | 2023-06-19 11:34:59 |

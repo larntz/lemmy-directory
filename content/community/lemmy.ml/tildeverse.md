@@ -3,13 +3,13 @@ title: "tildeverse"
 name: "tildeverse"
 description: " we're a loose association of like-minded tilde communities. if you're interested in learning about *nix (linux, unix, bsd, etc) come check out our member tildes and sign up!tildes are pubnixes in the spirit of tilde.club, which was created in 2014 by paul ford.member status in the tildeverse mainly involves some level of engagement or presence on irc; all other systems are independent.stop by our irc network (or use our web client) and hang out."
 type: community
-date: "2023-06-16 22:57:43"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tildeverse"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 13 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-12-09 13:53:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:43 |
+| Last Scraped         | 2023-06-19 11:37:01 |

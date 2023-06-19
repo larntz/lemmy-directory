@@ -3,16 +3,16 @@ title: "Woodworking"
 name: "woodworking"
 description: "A handmade home for woodworkers and admirers of woodworkers."
 type: community
-date: "2023-06-16 22:56:34"
+date: "2023-06-19 11:35:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/woodworking"
 host: lemmy.ca
 lastmod: "{[ .Updated }}"
-subscribers: 1239
-posts: 36
-comments: 308
-weight: 36
+subscribers: 1431
+posts: 46
+comments: 388
+weight: 46
 dau: 39
 wau: 94
 mau: 96
@@ -41,9 +41,9 @@ A handmade home for woodworkers and admirers of woodworkers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1239 |
-| Posts                | 36  |
-| Comments             | 308  |
+| Subscribers          | 1431 |
+| Posts                | 46  |
+| Comments             | 388  |
 | Daily Active Users   | 39  |
 | Weekly Active Users  | 94  |
 | Monthly Active Users | 96  |
@@ -53,5 +53,5 @@ A handmade home for woodworkers and admirers of woodworkers.
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-07 18:23:26 |
-| Updated              | 2023-06-07 19:45:28 |
-| Last Scraped         | 2023-06-16 22:56:34 |
+| Updated              | 2023-06-19 04:24:16 |
+| Last Scraped         | 2023-06-19 11:35:36 |

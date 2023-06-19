@@ -1,21 +1,21 @@
 ---
 title: "Dungeons and Dragons" 
 name: "dnd"
-description: "Lemmy community for discussion of all things Dungeons and Dragons!**Basic Rules (Subject to Change)**--Be a Decent Human Being--Credit OC content (self or otherwise)--Posting news articles: include the source name and exact title from article--Posts must have something to do with Dungeons and Dragons--Zero tolerance for Racism/Sexism/Ableism/etc.--No NSFW content--Abide by the rules of lemmy.world"
+description: "Lemmy community for discussion of all things Dungeons and Dragons!**Associated Communities***- [Tabletop Miniatures](https://lemmy.world/c/tabletopminis)- [Battlemaps](https://lemmy.world/c/battlemaps)- [Fantasy e.g. books stories, etc.](https://lemmy.world/c/fantasy@lemmy.ml)- [Worldbuilding](https://lemmy.world/c/worldbuilding)- [Tyranny of Dragons](https://lemmy.world/c/tyranny_of_dragons)- [Critical Role](https://lemmy.world/c/criticalrole)- [NADDPOD](https://lemmy.world/c/naddpod)*Please Follow the rules of these individual communities, not all of them are strictly DnD related, but may be of interest to DnD Fans**Basic Rules (Subject to Change)**- Be a Decent Human Being- Credit OC content (self or otherwise)- Posting news articles: include the source name and exact title from article- Posts must have something to do with Dungeons and Dragons- Zero tolerance for Racism/Sexism/Ableism/etc.- No NSFW content- Abide by the rules of lemmy.world"
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dnd"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 1800
-posts: 42
-comments: 271
-weight: 42
-dau: 37
-wau: 142
-mau: 142
+subscribers: 2306
+posts: 61
+comments: 384
+weight: 61
+dau: 44
+wau: 179
+mau: 183
 instances:
 - "lemmy_world"
 tags: 
@@ -33,7 +33,7 @@ tags:
 ## Description 
 
 <blockquote class="description">
-Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Basic Rules (Subject to Change)**<br><br>--Be a Decent Human Being<br><br>--Credit OC content (self or otherwise)<br><br>--Posting news articles: include the source name and exact title from article<br><br>--Posts must have something to do with Dungeons and Dragons<br><br>--Zero tolerance for Racism/Sexism/Ableism/etc.<br><br>--No NSFW content<br><br>--Abide by the rules of lemmy.world
+Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Associated Communities***<br><br>- [Tabletop Miniatures](https://lemmy.world/c/tabletopminis)<br>- [Battlemaps](https://lemmy.world/c/battlemaps)<br>- [Fantasy e.g. books stories, etc.](https://lemmy.world/c/fantasy@lemmy.ml)<br>- [Worldbuilding](https://lemmy.world/c/worldbuilding)<br>- [Tyranny of Dragons](https://lemmy.world/c/tyranny_of_dragons)<br>- [Critical Role](https://lemmy.world/c/criticalrole)<br>- [NADDPOD](https://lemmy.world/c/naddpod)<br><br>*Please Follow the rules of these individual communities, not all of them are strictly DnD related, but may be of interest to DnD Fans<br><br>**Basic Rules (Subject to Change)**<br><br>- Be a Decent Human Being<br>- Credit OC content (self or otherwise)<br>- Posting news articles: include the source name and exact title from article<br>- Posts must have something to do with Dungeons and Dragons<br>- Zero tolerance for Racism/Sexism/Ableism/etc.<br>- No NSFW content<br>- Abide by the rules of lemmy.world
 </blockquote>
 
 
@@ -41,17 +41,17 @@ Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Basi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1800 |
-| Posts                | 42  |
-| Comments             | 271  |
-| Daily Active Users   | 37  |
-| Weekly Active Users  | 142  |
-| Monthly Active Users | 142  |
+| Subscribers          | 2306 |
+| Posts                | 61  |
+| Comments             | 384  |
+| Daily Active Users   | 44  |
+| Weekly Active Users  | 179  |
+| Monthly Active Users | 183  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-10 20:25:41 |
-| Updated              | 2023-06-16 03:53:34 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Updated              | 2023-06-19 04:28:29 |
+| Last Scraped         | 2023-06-19 11:36:37 |

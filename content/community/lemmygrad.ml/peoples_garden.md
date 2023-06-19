@@ -3,13 +3,13 @@ title: "The People's Garden"
 name: "peoples_garden"
 description: "This is a community for discussing farming and gardening by MLs."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/peoples_garden"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 40
+subscribers: 42
 posts: 4
 comments: 8
 weight: 4
@@ -41,7 +41,7 @@ This is a community for discussing farming and gardening by MLs.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 40 |
+| Subscribers          | 42 |
 | Posts                | 4  |
 | Comments             | 8  |
 | Daily Active Users   | 5  |
@@ -54,4 +54,4 @@ This is a community for discussing farming and gardening by MLs.
 |----------------------|---|
 | Published            | 2022-07-27 02:22:28 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

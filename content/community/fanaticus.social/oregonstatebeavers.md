@@ -3,7 +3,7 @@ title: "Oregon State Beavers"
 name: "oregonstatebeavers"
 description: "A community to discuss Oregon State Beavers athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/oregonstatebeavers"
@@ -54,4 +54,4 @@ A community to discuss Oregon State Beavers athletics.<br><br>**Looking for Mods
 |----------------------|---|
 | Published            | 2023-06-16 01:42:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

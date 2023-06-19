@@ -3,17 +3,17 @@ title: "PH LGBT+ Community"
 name: "phlgbt"
 description: "PH LGBT+ Community"
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-19 11:36:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phlgbt"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 8
+subscribers: 10
 posts: 3
-comments: 2
+comments: 5
 weight: 3
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:
@@ -41,10 +41,10 @@ PH LGBT+ Community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 8 |
+| Subscribers          | 10 |
 | Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 3  |
+| Comments             | 5  |
+| Daily Active Users   | 1  |
 | Weekly Active Users  | 3  |
 | Monthly Active Users | 3  |
 
@@ -53,5 +53,5 @@ PH LGBT+ Community
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-12 04:07:46 |
-| Updated              | 2023-06-13 15:57:41 |
-| Last Scraped         | 2023-06-16 22:57:18 |
+| Updated              | 2023-06-17 13:20:39 |
+| Last Scraped         | 2023-06-19 11:36:41 |

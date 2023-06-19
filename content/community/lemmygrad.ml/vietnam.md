@@ -3,7 +3,7 @@ title: "Vietnam"
 name: "vietnam"
 description: "Links:https://en.prolewiki.org/wiki/Socialist_Republic_of_Vietnamhttps://en.prolewiki.org/wiki/Communist_Party_of_Vietnamhttps://en.prolewiki.org/wiki/Ho_Chi_Minhhttps://en.prolewiki.org/wiki/Nguyễn_Phú_Trọnghttps://en.prolewiki.org/wiki/Nhân_Dânhttps://yewtu.be/channel/UCN4l7I2RxGBJ3i_EFi1SzuA/videos"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vietnam"
@@ -54,4 +54,4 @@ Links:<br><br>https://en.prolewiki.org/wiki/Socialist_Republic_of_Vietnam<br><br
 |----------------------|---|
 | Published            | 2023-02-24 14:33:29 |
 | Updated              | 2023-02-24 14:37:57 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:09 |

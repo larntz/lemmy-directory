@@ -3,19 +3,19 @@ title: "Technology News"
 name: "technology"
 description: "News about technology including science, engineering, companies, and gaming. Please post links to articles (preferably not paywalled).Must be relatively recent articles."
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:30"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/technology"
 host: lemmy.burger.rodeo
 lastmod: "{[ .Updated }}"
-subscribers: 41
-posts: 9
-comments: 28
-weight: 9
+subscribers: 49
+posts: 11
+comments: 35
+weight: 11
 dau: 2
-wau: 11
-mau: 11
+wau: 12
+mau: 14
 instances:
 - "lemmy_burger_rodeo"
 tags: 
@@ -41,12 +41,12 @@ News about technology including science, engineering, companies, and gaming. Ple
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 9  |
-| Comments             | 28  |
+| Subscribers          | 49 |
+| Posts                | 11  |
+| Comments             | 35  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ News about technology including science, engineering, companies, and gaming. Ple
 |----------------------|---|
 | Published            | 2023-06-09 19:59:48 |
 | Updated              | 2023-06-13 19:13:03 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:30 |

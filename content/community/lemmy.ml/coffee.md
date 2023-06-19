@@ -3,19 +3,19 @@ title: "Coffee"
 name: "coffee"
 description: "# The Magical FruitThe Oromo people would customarily plant a coffee tree on the graves of powerful sorcerers. They believed that the first coffee bush sprang up from the tears that the god of heaven shed over the corpse of a dead sorcerer."
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coffee"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 758
-posts: 24
-comments: 123
-weight: 24
-dau: 13
-wau: 39
-mau: 41
+subscribers: 870
+posts: 30
+comments: 161
+weight: 30
+dau: 8
+wau: 53
+mau: 63
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ tags:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 758 |
-| Posts                | 24  |
-| Comments             | 123  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 39  |
-| Monthly Active Users | 41  |
+| Subscribers          | 870 |
+| Posts                | 30  |
+| Comments             | 161  |
+| Daily Active Users   | 8  |
+| Weekly Active Users  | 53  |
+| Monthly Active Users | 63  |
 
 <br>
 
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-05-14 21:06:49 |
 | Updated              | 2021-02-14 13:19:31 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:57 |

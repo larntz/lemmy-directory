@@ -3,16 +3,16 @@ title: "Cancer"
 name: "cancer"
 description: "Some interesting links should you or a loved one ever get Cancer."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cancer"
 host: exploding-heads.com
 lastmod: "{[ .Updated }}"
 subscribers: 12
-posts: 16
+posts: 17
 comments: 0
-weight: 16
+weight: 17
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Some interesting links should you or a loved one ever get Cancer.
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 12 |
-| Posts                | 16  |
+| Posts                | 17  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Some interesting links should you or a loved one ever get Cancer.
 |----------------------|---|
 | Published            | 2022-03-03 07:37:39 |
 | Updated              | 2022-03-20 21:29:35 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:38 |

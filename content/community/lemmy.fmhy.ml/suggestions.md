@@ -3,16 +3,16 @@ title: "Instance Suggestions"
 name: "suggestions"
 description: "Submit suggestions related to improving the community!"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/suggestions"
 host: lemmy.fmhy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 335
-posts: 4
-comments: 20
-weight: 4
+subscribers: 378
+posts: 5
+comments: 21
+weight: 5
 dau: 1
 wau: 13
 mau: 14
@@ -41,9 +41,9 @@ Submit suggestions related to improving the community!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 335 |
-| Posts                | 4  |
-| Comments             | 20  |
+| Subscribers          | 378 |
+| Posts                | 5  |
+| Comments             | 21  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 13  |
 | Monthly Active Users | 14  |
@@ -54,4 +54,4 @@ Submit suggestions related to improving the community!
 |----------------------|---|
 | Published            | 2023-06-08 08:48:14 |
 | Updated              | 2023-06-09 11:18:43 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:02 |

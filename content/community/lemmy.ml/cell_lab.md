@@ -3,7 +3,7 @@ title: "Cell Lab"
 name: "cell_lab"
 description: "A community about the game [cell lab](https://www.cell-lab.net/), share your experiments and designs, as well as genes, screenshots, short videos. "
 type: community
-date: "2023-06-16 22:57:19"
+date: "2023-06-19 11:37:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cell_lab"
@@ -54,4 +54,4 @@ A community about the game [cell lab](https://www.cell-lab.net/), share your exp
 |----------------------|---|
 | Published            | 2023-06-12 15:00:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:19 |
+| Last Scraped         | 2023-06-19 11:37:01 |

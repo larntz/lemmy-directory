@@ -3,7 +3,7 @@ title: "Tell Nerds"
 name: "tell"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://haynerds.com/c/tell"
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-08 18:18:34 |
 | Updated              | 2023-06-09 16:21:34 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

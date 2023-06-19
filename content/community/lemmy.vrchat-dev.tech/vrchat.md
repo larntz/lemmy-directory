@@ -3,13 +3,13 @@ title: "VRChat"
 name: "vrchat"
 description: "Discussion related to VRChat"
 type: community
-date: "2023-06-16 22:55:58"
+date: "2023-06-19 11:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vrchat-dev.tech/c/vrchat"
 host: lemmy.vrchat-dev.tech
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 22
 posts: 17
 comments: 4
 weight: 17
@@ -41,7 +41,7 @@ Discussion related to VRChat
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 22 |
 | Posts                | 17  |
 | Comments             | 4  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Discussion related to VRChat
 |----------------------|---|
 | Published            | 2023-06-05 21:57:22 |
 | Updated              | 2023-06-12 22:39:42 |
-| Last Scraped         | 2023-06-16 22:55:58 |
+| Last Scraped         | 2023-06-19 11:34:58 |

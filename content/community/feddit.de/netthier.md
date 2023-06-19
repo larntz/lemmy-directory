@@ -3,13 +3,13 @@ title: "Nett hier."
 name: "netthier"
 description: "Nett hier. Aber waren Sie schon mal in Baden-Württemberg?"
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/netthier"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Nett hier. Aber waren Sie schon mal in Baden-Württemberg?
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 4 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Nett hier. Aber waren Sie schon mal in Baden-Württemberg?
 |----------------------|---|
 | Published            | 2023-06-12 07:48:38 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:37 |
+| Last Scraped         | 2023-06-19 11:35:39 |

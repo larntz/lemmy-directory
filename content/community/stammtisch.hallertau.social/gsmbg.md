@@ -3,7 +3,7 @@ title: "Grundschule Mainburg"
 name: "gsmbg"
 description: ""
 type: community
-date: "2023-06-16 22:55:49"
+date: "2023-06-19 11:34:51"
 draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/gsmbg"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2021-05-05 15:07:27 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:49 |
+| Last Scraped         | 2023-06-19 11:34:51 |

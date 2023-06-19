@@ -3,18 +3,18 @@ title: "Torrent Trackers"
 name: "torrent_trackers"
 description: "A place to share our favorite torrent websites.Please indicate if the website is **[private]** this means that you need an account or an invitation to download a .torrent or **[public]** which means that we have free access to the torrents. The general language **[INT]** for international or **[FR] [EN] [DE]** ... If the tracker is specialized **[Music] [Movies]** or **[General]**If it asks for an invitation to join, add: **[Invitation]**Example:**domain.tld [Public] [General] [INT]**Other Example:**domain.tld [Private] [Movies] [FR] [Invitation]**"
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/torrent_trackers"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 171
-posts: 24
+subscribers: 210
+posts: 25
 comments: 16
-weight: 24
+weight: 25
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A place to share our favorite torrent websites.<br><br>Please indicate if the we
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 171 |
-| Posts                | 24  |
+| Subscribers          | 210 |
+| Posts                | 25  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ A place to share our favorite torrent websites.<br><br>Please indicate if the we
 |----------------------|---|
 | Published            | 2021-04-20 14:07:48 |
 | Updated              | 2021-04-23 22:13:01 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-19 11:36:45 |

@@ -3,16 +3,16 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:55:38"
+date: "2023-06-19 11:34:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/test"
 host: voyager.lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
-posts: 5
+subscribers: 6
+posts: 6
 comments: 129
-weight: 5
+weight: 6
 dau: 4
 wau: 5
 mau: 5
@@ -41,8 +41,8 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 5  |
+| Subscribers          | 6 |
+| Posts                | 6  |
 | Comments             | 129  |
 | Daily Active Users   | 4  |
 | Weekly Active Users  | 5  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 22:04:16 |
 | Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-16 22:55:38 |
+| Last Scraped         | 2023-06-19 11:34:42 |

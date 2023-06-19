@@ -3,19 +3,19 @@ title: "Python"
 name: "python"
 description: "Welcome to the Python community!"
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/python"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 369
-posts: 18
-comments: 29
-weight: 18
-dau: 6
-wau: 14
-mau: 14
+subscribers: 581
+posts: 22
+comments: 47
+weight: 22
+dau: 15
+wau: 36
+mau: 36
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Welcome to the Python community!
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 369 |
-| Posts                | 18  |
-| Comments             | 29  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
+| Subscribers          | 581 |
+| Posts                | 22  |
+| Comments             | 47  |
+| Daily Active Users   | 15  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 36  |
 
 <br>
 
@@ -54,4 +54,4 @@ Welcome to the Python community!
 |----------------------|---|
 | Published            | 2023-06-12 23:51:06 |
 | Updated              | 2023-06-13 01:54:47 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

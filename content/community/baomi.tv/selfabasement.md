@@ -3,7 +3,7 @@ title: "卑病院"
 name: "selfabasement"
 description: "来自reddit的难民"
 type: community
-date: "2023-06-16 22:55:52"
+date: "2023-06-19 11:34:53"
 draft: false
 nsfw: false
 actor_id: "https://baomi.tv/c/selfabasement"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2022-11-27 05:22:57 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:52 |
+| Last Scraped         | 2023-06-19 11:34:53 |

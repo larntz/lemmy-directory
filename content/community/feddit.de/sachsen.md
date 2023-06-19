@@ -3,19 +3,19 @@ title: "Sachsen"
 name: "sachsen"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:38"
+date: "2023-06-19 11:35:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/sachsen"
 host: feddit.de
 lastmod: "{[ .Updated }}"
-subscribers: 46
+subscribers: 49
 posts: 17
 comments: 9
 weight: 17
-dau: 2
-wau: 4
-mau: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "feddit_de"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 46 |
+| Subscribers          | 49 |
 | Posts                | 17  |
 | Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 6  |
+| Monthly Active Users | 6  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2021-09-14 12:04:16 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:38 |
+| Last Scraped         | 2023-06-19 11:35:39 |

@@ -3,7 +3,7 @@ title: "Police Violence"
 name: "policeviolence"
 description: "The violence imposed on citizens has exploded as tyrants have tried to take our freedom. Think the Canadian Trucker's Convoy, January 6th rally, FBI breaking down doors based on politics . . . It the police lose the confidence of the average citizen, we will all be in a very bad place.Time to hold bad cops and those that give them their marching orders accountable."
 type: community
-date: "2023-06-16 22:56:36"
+date: "2023-06-19 11:35:38"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/policeviolence"
@@ -14,7 +14,7 @@ posts: 14
 comments: 1
 weight: 14
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "exploding-heads_com"
@@ -45,7 +45,7 @@ The violence imposed on citizens has exploded as tyrants have tried to take our 
 | Posts                | 14  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ The violence imposed on citizens has exploded as tyrants have tried to take our 
 |----------------------|---|
 | Published            | 2022-02-27 21:42:28 |
 | Updated              | 2022-03-26 15:38:14 |
-| Last Scraped         | 2023-06-16 22:56:36 |
+| Last Scraped         | 2023-06-19 11:35:38 |

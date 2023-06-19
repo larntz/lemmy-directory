@@ -3,19 +3,19 @@ title: "Metalcore"
 name: "metalcore"
 description: "Lemmy metalcore community"
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metalcore"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 64
-posts: 29
-comments: 23
-weight: 29
-dau: 6
-wau: 8
-mau: 8
+subscribers: 79
+posts: 44
+comments: 28
+weight: 44
+dau: 3
+wau: 9
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Lemmy metalcore community
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 29  |
-| Comments             | 23  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 79 |
+| Posts                | 44  |
+| Comments             | 28  |
+| Daily Active Users   | 3  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
@@ -54,4 +54,4 @@ Lemmy metalcore community
 |----------------------|---|
 | Published            | 2020-01-27 15:33:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:43 |

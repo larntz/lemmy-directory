@@ -3,19 +3,19 @@ title: "Mastodon"
 name: "mastodon"
 description: "Decentralised and open source social network.https://joinmastodon.org/"
 type: community
-date: "2023-06-16 22:57:42"
+date: "2023-06-19 11:36:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mastodon"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 2592
-posts: 94
-comments: 290
-weight: 94
-dau: 3
+subscribers: 2671
+posts: 96
+comments: 295
+weight: 96
+dau: 2
 wau: 17
-mau: 27
+mau: 30
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Decentralised and open source social network.<br><br>https://joinmastodon.org/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2592 |
-| Posts                | 94  |
-| Comments             | 290  |
-| Daily Active Users   | 3  |
+| Subscribers          | 2671 |
+| Posts                | 96  |
+| Comments             | 295  |
+| Daily Active Users   | 2  |
 | Weekly Active Users  | 17  |
-| Monthly Active Users | 27  |
+| Monthly Active Users | 30  |
 
 <br>
 
@@ -54,4 +54,4 @@ Decentralised and open source social network.<br><br>https://joinmastodon.org/
 |----------------------|---|
 | Published            | 2019-11-13 20:53:58 |
 | Updated              | 2022-12-18 15:16:21 |
-| Last Scraped         | 2023-06-16 22:57:42 |
+| Last Scraped         | 2023-06-19 11:36:58 |

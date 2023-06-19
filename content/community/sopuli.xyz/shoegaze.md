@@ -3,16 +3,16 @@ title: "Shoegaze"
 name: "shoegaze"
 description: "A place for us to talk about shoegaze or any related genre**Other related communities**[indieheads](https://lemmy.ml/c/indieheads)[emo](https://lemmy.ml/c/emo)"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:32"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/shoegaze"
 host: sopuli.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 5
-posts: 5
+subscribers: 6
+posts: 6
 comments: 0
-weight: 5
+weight: 6
 dau: 1
 wau: 1
 mau: 1
@@ -41,8 +41,8 @@ A place for us to talk about shoegaze or any related genre<br><br>**Other relate
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 5  |
+| Subscribers          | 6 |
+| Posts                | 6  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ A place for us to talk about shoegaze or any related genre<br><br>**Other relate
 |----------------------|---|
 | Published            | 2023-06-12 17:01:15 |
 | Updated              | 2023-06-15 14:51:25 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:32 |

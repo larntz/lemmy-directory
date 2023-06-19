@@ -3,7 +3,7 @@ title: "Pagan Proles"
 name: "paganproles"
 description: "Contemporary paganism from a working class, socialist and revolutionary perspective. "
 type: community
-date: "2023-06-16 11:07:36"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paganproles"
@@ -54,4 +54,4 @@ Contemporary paganism from a working class, socialist and revolutionary perspect
 |----------------------|---|
 | Published            | 2019-08-17 23:29:44 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:36 |
+| Last Scraped         | 2023-06-19 11:36:59 |

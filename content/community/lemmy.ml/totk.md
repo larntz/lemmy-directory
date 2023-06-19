@@ -3,18 +3,18 @@ title: "TearsOfTheKingdom"
 name: "totk"
 description: "A community to share and discuss news and information about the Legend of Zelda: Tears of the Kingdom"
 type: community
-date: "2023-06-16 22:57:45"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/totk"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 264
+subscribers: 291
 posts: 6
-comments: 26
+comments: 27
 weight: 6
 dau: 5
-wau: 14
+wau: 11
 mau: 21
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ A community to share and discuss news and information about the Legend of Zelda:
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 264 |
+| Subscribers          | 291 |
 | Posts                | 6  |
-| Comments             | 26  |
+| Comments             | 27  |
 | Daily Active Users   | 5  |
-| Weekly Active Users  | 14  |
+| Weekly Active Users  | 11  |
 | Monthly Active Users | 21  |
 
 <br>
@@ -54,4 +54,4 @@ A community to share and discuss news and information about the Legend of Zelda:
 |----------------------|---|
 | Published            | 2023-06-05 03:02:13 |
 | Updated              | 2023-06-05 03:08:42 |
-| Last Scraped         | 2023-06-16 22:57:45 |
+| Last Scraped         | 2023-06-19 11:36:43 |

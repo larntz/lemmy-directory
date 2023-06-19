@@ -3,13 +3,13 @@ title: "Puella Magi Madoka Magica"
 name: "madokamagica"
 description: "A place to discuss everything related to Puella Magi Madoka Magica and post fanarts, memes etc."
 type: community
-date: "2023-06-16 22:56:11"
+date: "2023-06-19 11:35:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/madokamagica"
 host: lemmy.antemeridiem.xyz
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss everything related to Puella Magi Madoka Magica and post fana
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss everything related to Puella Magi Madoka Magica and post fana
 |----------------------|---|
 | Published            | 2023-06-11 12:19:32 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:11 |
+| Last Scraped         | 2023-06-19 11:35:13 |

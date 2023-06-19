@@ -3,18 +3,18 @@ title: "Porter Robinson"
 name: "porterrobinson"
 description: "Everything we need is already here !"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/porterrobinson"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 13
-posts: 3
+subscribers: 14
+posts: 4
 comments: 1
-weight: 3
+weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"
@@ -41,11 +41,11 @@ Everything we need is already here !
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 3  |
+| Subscribers          | 14 |
+| Posts                | 4  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Everything we need is already here !
 |----------------------|---|
 | Published            | 2023-06-11 22:20:01 |
 | Updated              | 2023-06-11 22:38:44 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Last Scraped         | 2023-06-19 11:36:40 |

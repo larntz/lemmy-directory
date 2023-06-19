@@ -3,19 +3,19 @@ title: "Minecraft Discussion / News"
 name: "minecraft"
 description: "Description not available."
 type: community
-date: "2023-06-15 17:29:36"
+date: "2023-06-19 11:36:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraft"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 511
-posts: 36
-comments: 38
-weight: 36
-dau: 4
-wau: 9
-mau: 10
+subscribers: 558
+posts: 39
+comments: 44
+weight: 39
+dau: 1
+wau: 12
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 511 |
-| Posts                | 36  |
-| Comments             | 38  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 10  |
+| Subscribers          | 558 |
+| Posts                | 39  |
+| Comments             | 44  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 14  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2019-10-16 22:47:40 |
 | Updated              | 2019-10-16 22:48:11 |
-| Last Scraped         | 2023-06-15 17:29:36 |
+| Last Scraped         | 2023-06-19 11:36:48 |

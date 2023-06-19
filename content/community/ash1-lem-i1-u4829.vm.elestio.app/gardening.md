@@ -3,19 +3,19 @@ title: "Gardening"
 name: "gardening"
 description: "A place for gardening and plant pics"
 type: community
-date: "2023-06-16 22:56:19"
+date: "2023-06-19 11:35:21"
 draft: false
 nsfw: false
 actor_id: "https://thegarden.land/c/gardening"
 host: ash1-lem-i1-u4829.vm.elestio.app
 lastmod: "{[ .Updated }}"
-subscribers: 259
-posts: 21
-comments: 112
-weight: 21
-dau: 14
-wau: 34
-mau: 34
+subscribers: 360
+posts: 31
+comments: 190
+weight: 31
+dau: 16
+wau: 60
+mau: 60
 instances:
 - "ash1-lem-i1-u4829_vm_elestio_app"
 tags: 
@@ -41,12 +41,12 @@ A place for gardening and plant pics
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 259 |
-| Posts                | 21  |
-| Comments             | 112  |
-| Daily Active Users   | 14  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 34  |
+| Subscribers          | 360 |
+| Posts                | 31  |
+| Comments             | 190  |
+| Daily Active Users   | 16  |
+| Weekly Active Users  | 60  |
+| Monthly Active Users | 60  |
 
 <br>
 
@@ -54,4 +54,4 @@ A place for gardening and plant pics
 |----------------------|---|
 | Published            | 2023-06-13 13:41:03 |
 | Updated              | 2023-06-13 15:09:54 |
-| Last Scraped         | 2023-06-16 22:56:19 |
+| Last Scraped         | 2023-06-19 11:35:21 |

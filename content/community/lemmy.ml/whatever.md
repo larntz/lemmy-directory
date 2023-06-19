@@ -3,13 +3,13 @@ title: "share all kinds of videos, images, texts and more"
 name: "whatever"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:39"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whatever"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 71
+subscribers: 72
 posts: 29
 comments: 16
 weight: 29
@@ -41,7 +41,7 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
+| Subscribers          | 72 |
 | Posts                | 29  |
 | Comments             | 16  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2020-03-07 23:23:14 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:39 |
+| Last Scraped         | 2023-06-19 11:36:59 |

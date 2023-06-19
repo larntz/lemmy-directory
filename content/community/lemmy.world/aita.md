@@ -3,19 +3,19 @@ title: "AITA"
 name: "aita"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:14"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aita"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 981
+subscribers: 1233
 posts: 3
-comments: 48
+comments: 49
 weight: 3
-dau: 8
-wau: 41
-mau: 41
+dau: 1
+wau: 36
+mau: 42
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 981 |
+| Subscribers          | 1233 |
 | Posts                | 3  |
-| Comments             | 48  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 41  |
-| Monthly Active Users | 41  |
+| Comments             | 49  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 36  |
+| Monthly Active Users | 42  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-11 21:01:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:14 |
+| Last Scraped         | 2023-06-19 11:36:37 |

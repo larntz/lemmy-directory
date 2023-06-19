@@ -3,16 +3,16 @@ title: "Nightwave Plaza"
 name: "nightwave_plaza"
 description: "[Nightwave Plaza](https://plaza.one/) is an online vaporwave music radio. This is an unofficial community for Vaporwave music enjoyers and creators."
 type: community
-date: "2023-06-16 22:56:25"
+date: "2023-06-19 11:35:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/nightwave_plaza"
 host: lemmyfi.com
 lastmod: "{[ .Updated }}"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ tags:
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 3 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2023-06-15 20:25:53 |
 | Updated              | 2023-06-15 20:48:58 |
-| Last Scraped         | 2023-06-16 22:56:25 |
+| Last Scraped         | 2023-06-19 11:35:26 |

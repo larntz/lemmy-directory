@@ -3,19 +3,19 @@ title: "White Sox"
 name: "whitesox"
 description: "Cloned from [r/WhiteSox](https://old.reddit.com/r/WhiteSox)# Looking for mods!"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/whitesox"
 host: fanaticus.social
 lastmod: "{[ .Updated }}"
 subscribers: 6
-posts: 1
-comments: 3
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+posts: 4
+comments: 19
+weight: 4
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "fanaticus_social"
 tags: 
@@ -42,11 +42,11 @@ Cloned from [r/WhiteSox](https://old.reddit.com/r/WhiteSox)<br><br># Looking for
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
+| Posts                | 4  |
+| Comments             | 19  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 2  |
 
 <br>
 
@@ -54,4 +54,4 @@ Cloned from [r/WhiteSox](https://old.reddit.com/r/WhiteSox)<br><br># Looking for
 |----------------------|---|
 | Published            | 2023-06-09 17:07:41 |
 | Updated              | 2023-06-12 16:45:31 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

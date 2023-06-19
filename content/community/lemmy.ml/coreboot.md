@@ -3,13 +3,13 @@ title: "Coreboot"
 name: "coreboot"
 description: "coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.With the separation of hardware initialization and later boot logic, coreboot can scale from specialized applications that run directly from firmware, run operating systems in flash, load custom bootloaders or implement firmware standards, like PC BIOS services or UEFI.--------------------http://www.coreboot.org/-----[#coreboot](irc://irc.freenode.net/coreboot) on irc.freenode.net[mailing lists](http://www.coreboot.org/Mailinglist)"
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coreboot"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ coreboot is a Free Software project aimed at replacing the proprietary BIOS (fir
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 5 |
+| Subscribers          | 6 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ coreboot is a Free Software project aimed at replacing the proprietary BIOS (fir
 |----------------------|---|
 | Published            | 2023-06-04 22:55:18 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:54 |

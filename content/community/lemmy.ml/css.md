@@ -3,7 +3,7 @@ title: "css"
 name: "css"
 description: "A place to share and discuss CSS ideas and resources. "
 type: community
-date: "2023-06-16 22:57:32"
+date: "2023-06-19 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/css"
@@ -54,4 +54,4 @@ A place to share and discuss CSS ideas and resources.
 |----------------------|---|
 | Published            | 2021-02-10 03:02:26 |
 | Updated              | 2021-02-24 17:01:40 |
-| Last Scraped         | 2023-06-16 22:57:32 |
+| Last Scraped         | 2023-06-19 11:36:57 |

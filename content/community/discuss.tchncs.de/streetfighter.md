@@ -3,13 +3,13 @@ title: "streetfighter"
 name: "streetfighter"
 description: "Everything about Street Fighter welcome."
 type: community
-date: "2023-06-16 22:55:54"
+date: "2023-06-19 11:34:55"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/streetfighter"
 host: discuss.tchncs.de
 lastmod: "{[ .Updated }}"
-subscribers: 2
+subscribers: 6
 posts: 5
 comments: 0
 weight: 5
@@ -41,7 +41,7 @@ Everything about Street Fighter welcome.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 2 |
+| Subscribers          | 6 |
 | Posts                | 5  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Everything about Street Fighter welcome.
 |----------------------|---|
 | Published            | 2023-06-14 09:17:13 |
 | Updated              | 2023-06-15 08:49:58 |
-| Last Scraped         | 2023-06-16 22:55:54 |
+| Last Scraped         | 2023-06-19 11:34:55 |

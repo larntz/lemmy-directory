@@ -3,7 +3,7 @@ title: "MSW Media"
 name: "mswmedia"
 description: "For all MSW Media podcasts including but not limited to The Daily Beans, Jack, and Cleanup on Aisle 45"
 type: community
-date: "2023-06-16 22:57:12"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mswmedia"
@@ -54,4 +54,4 @@ For all MSW Media podcasts including but not limited to The Daily Beans, Jack, a
 |----------------------|---|
 | Published            | 2023-06-16 08:32:30 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:12 |
+| Last Scraped         | 2023-06-19 11:36:37 |

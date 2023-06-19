@@ -3,7 +3,7 @@ title: "doll"
 name: "doll"
 description: "ドールのこと"
 type: community
-date: "2023-06-16 22:56:29"
+date: "2023-06-19 11:35:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/doll"
@@ -54,4 +54,4 @@ tags:
 |----------------------|---|
 | Published            | 2020-12-15 22:47:04 |
 | Updated              | 2021-01-26 08:42:45 |
-| Last Scraped         | 2023-06-16 22:56:29 |
+| Last Scraped         | 2023-06-19 11:35:29 |

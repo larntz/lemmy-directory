@@ -3,7 +3,7 @@ title: "historie / news / worldwide"
 name: "civilization"
 description: "takie tam anegdoty społeczno-cywilizacyjne ¯_(ツ)_/¯"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:33"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/civilization"
@@ -54,4 +54,4 @@ takie tam anegdoty społeczno-cywilizacyjne ¯_(ツ)_/¯
 |----------------------|---|
 | Published            | 2020-10-13 12:36:55 |
 | Updated              | 2021-03-20 22:54:05 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:33 |

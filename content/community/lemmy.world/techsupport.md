@@ -3,19 +3,19 @@ title: "techsupport"
 name: "techsupport"
 description: "The Lemmy community will help you with your tech problems and questions about anything here. Do not be shy, we will try to help you.If something works or if you find a solution to your problem let us know it will be greatly apreciated.**Rules**: instance rules"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/techsupport"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 71
-posts: 4
-comments: 16
-weight: 4
-dau: 3
-wau: 6
-mau: 6
+subscribers: 145
+posts: 7
+comments: 32
+weight: 7
+dau: 1
+wau: 12
+mau: 12
 instances:
 - "lemmy_world"
 tags: 
@@ -41,12 +41,12 @@ The Lemmy community will help you with your tech problems and questions about an
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 4  |
-| Comments             | 16  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
+| Subscribers          | 145 |
+| Posts                | 7  |
+| Comments             | 32  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 12  |
+| Monthly Active Users | 12  |
 
 <br>
 
@@ -54,4 +54,4 @@ The Lemmy community will help you with your tech problems and questions about an
 |----------------------|---|
 | Published            | 2023-06-13 10:16:01 |
 | Updated              | 2023-06-16 01:03:49 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

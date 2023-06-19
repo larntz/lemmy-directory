@@ -1,21 +1,21 @@
 ---
-title: "Chinese language" 
+title: "Chinese language 中文 漢語" 
 name: "chinese"
 description: "Discussions and resources for studying or learning about Chinese languages (Mandarin, Cantonese, Hokkien, Hakka, Classical Chinese, etc.)."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-19 11:36:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chinese"
 host: lemmy.world
 lastmod: "{[ .Updated }}"
-subscribers: 31
-posts: 6
-comments: 7
-weight: 6
-dau: 3
-wau: 8
-mau: 8
+subscribers: 36
+posts: 10
+comments: 9
+weight: 10
+dau: 1
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# /c/Chinese language on lemmy.world
+# /c/Chinese language 中文 漢語 on lemmy.world
 
 [[home](/)]
 [[/c/chinese 🌎](https://lemmy.world/c/chinese)]
@@ -41,17 +41,17 @@ Discussions and resources for studying or learning about Chinese languages (Mand
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
+| Subscribers          | 36 |
+| Posts                | 10  |
+| Comments             | 9  |
+| Daily Active Users   | 1  |
+| Weekly Active Users  | 9  |
+| Monthly Active Users | 9  |
 
 <br>
 
 | Activity | Date |
 |----------------------|---|
 | Published            | 2023-06-11 05:04:28 |
-| Updated              | 2023-06-11 07:00:42 |
-| Last Scraped         | 2023-06-16 22:57:16 |
+| Updated              | 2023-06-17 02:38:51 |
+| Last Scraped         | 2023-06-19 11:36:40 |

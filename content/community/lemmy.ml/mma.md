@@ -3,19 +3,19 @@ title: "Mixed Martial Arts"
 name: "mma"
 description: "Mixed Martial Arts"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mma"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 86
-posts: 13
-comments: 26
-weight: 13
-dau: 5
-wau: 12
-mau: 13
+subscribers: 105
+posts: 16
+comments: 33
+weight: 16
+dau: 4
+wau: 16
+mau: 18
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Mixed Martial Arts
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 13  |
-| Comments             | 26  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 13  |
+| Subscribers          | 105 |
+| Posts                | 16  |
+| Comments             | 33  |
+| Daily Active Users   | 4  |
+| Weekly Active Users  | 16  |
+| Monthly Active Users | 18  |
 
 <br>
 
@@ -54,4 +54,4 @@ Mixed Martial Arts
 |----------------------|---|
 | Published            | 2020-06-28 06:27:41 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

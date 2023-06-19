@@ -3,13 +3,13 @@ title: "Wholesome"
 name: "wholesome"
 description: "Wholesome content"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/wholesome"
 host: lemmygrad.ml
 lastmod: "{[ .Updated }}"
-subscribers: 54
+subscribers: 55
 posts: 7
 comments: 12
 weight: 7
@@ -41,7 +41,7 @@ Wholesome content
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 54 |
+| Subscribers          | 55 |
 | Posts                | 7  |
 | Comments             | 12  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Wholesome content
 |----------------------|---|
 | Published            | 2020-07-06 18:49:24 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

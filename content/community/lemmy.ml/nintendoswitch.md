@@ -3,18 +3,18 @@ title: "Nintendo Switch"
 name: "nintendoswitch"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nintendoswitch"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 116
+subscribers: 125
 posts: 1
 comments: 4
 weight: 1
 dau: 2
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 116 |
+| Subscribers          | 125 |
 | Posts                | 1  |
 | Comments             | 4  |
 | Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 5  |
 
 <br>
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2022-02-07 22:00:13 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

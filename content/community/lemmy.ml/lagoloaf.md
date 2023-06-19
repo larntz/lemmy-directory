@@ -3,7 +3,7 @@ title: "Lagoloaf"
 name: "lagoloaf"
 description: "Got a bunny? Does it loaf? Take a pic, share it here.Banner Art & Icons by [/u/_pank0](https://www.reddit.com/u/_pank0)RULES* be nice (don't be nasty)* be cool (ensure the subject of your content is a bunny)* fresh loaves only (original and new content preferred)* take it easy (enjoy)Lemmy.world: [!lagoloaf@lemmy.world](/c/lagoloaf@lemmy.world)Originally from [r/Lagoloaf](https://old.reddit.com/r/lagoloaf/) on reddit."
 type: community
-date: "2023-06-16 11:07:35"
+date: "2023-06-19 11:36:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lagoloaf"
@@ -14,7 +14,7 @@ posts: 4
 comments: 3
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"
@@ -45,7 +45,7 @@ Got a bunny? Does it loaf? Take a pic, share it here.<br><br>Banner Art & Icons 
 | Posts                | 4  |
 | Comments             | 3  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
+| Weekly Active Users  | 1  |
 | Monthly Active Users | 2  |
 
 <br>
@@ -54,4 +54,4 @@ Got a bunny? Does it loaf? Take a pic, share it here.<br><br>Banner Art & Icons 
 |----------------------|---|
 | Published            | 2023-06-04 16:30:26 |
 | Updated              | 2023-06-14 12:51:09 |
-| Last Scraped         | 2023-06-16 11:07:35 |
+| Last Scraped         | 2023-06-19 11:36:59 |

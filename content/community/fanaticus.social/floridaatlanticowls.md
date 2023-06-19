@@ -3,7 +3,7 @@ title: "FAU Owls"
 name: "floridaatlanticowls"
 description: "A community to discuss Florida Atlantic Owls athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-19 11:35:15"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/floridaatlanticowls"
@@ -54,4 +54,4 @@ A community to discuss Florida Atlantic Owls athletics.<br><br>**Looking for Mod
 |----------------------|---|
 | Published            | 2023-06-15 01:01:23 |
 | Updated              | 2023-06-15 01:15:39 |
-| Last Scraped         | 2023-06-16 22:56:14 |
+| Last Scraped         | 2023-06-19 11:35:15 |

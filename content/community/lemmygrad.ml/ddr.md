@@ -3,7 +3,7 @@ title: "DDR"
 name: "ddr"
 description: "Kommet, Genossen"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-19 11:35:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ddr"
@@ -54,4 +54,4 @@ Kommet, Genossen
 |----------------------|---|
 | Published            | 2022-03-23 16:01:11 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |
+| Last Scraped         | 2023-06-19 11:35:08 |

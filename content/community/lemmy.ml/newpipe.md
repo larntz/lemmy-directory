@@ -3,16 +3,16 @@ title: "Newpipe"
 name: "newpipe"
 description: "Website : https://newpipe.netBlog : https://newpipe.net/blog/Github : https://github.com/TeamNewPipe/NewPipeDonate : https://newpipe.net/donate/"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newpipe"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 722
-posts: 23
-comments: 62
-weight: 23
+subscribers: 742
+posts: 24
+comments: 66
+weight: 24
 dau: 1
 wau: 2
 mau: 11
@@ -41,9 +41,9 @@ Website : https://newpipe.net<br><br>Blog : https://newpipe.net/blog/<br><br>Git
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 722 |
-| Posts                | 23  |
-| Comments             | 62  |
+| Subscribers          | 742 |
+| Posts                | 24  |
+| Comments             | 66  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 2  |
 | Monthly Active Users | 11  |
@@ -54,4 +54,4 @@ Website : https://newpipe.net<br><br>Blog : https://newpipe.net/blog/<br><br>Git
 |----------------------|---|
 | Published            | 2021-06-15 13:24:12 |
 | Updated              | 2021-06-15 16:37:41 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:44 |

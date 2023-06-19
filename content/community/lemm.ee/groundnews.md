@@ -3,13 +3,13 @@ title: "Ground News"
 name: "groundnews"
 description: "Examining biases and breaking echo chambers. Please don't post links to news sites, use the Ground News (or AllSides) that provide bias analysis."
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/groundnews"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 14
+subscribers: 15
 posts: 2
 comments: 1
 weight: 2
@@ -41,7 +41,7 @@ Examining biases and breaking echo chambers. Please don't post links to news sit
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 14 |
+| Subscribers          | 15 |
 | Posts                | 2  |
 | Comments             | 1  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ Examining biases and breaking echo chambers. Please don't post links to news sit
 |----------------------|---|
 | Published            | 2023-06-12 17:02:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

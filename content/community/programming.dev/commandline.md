@@ -3,19 +3,19 @@ title: "commandline"
 name: "commandline"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-19 11:35:01"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/commandline"
 host: programming.dev
 lastmod: "{[ .Updated }}"
-subscribers: 74
-posts: 2
-comments: 9
-weight: 2
-dau: 5
-wau: 5
-mau: 5
+subscribers: 129
+posts: 3
+comments: 12
+weight: 3
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "programming_dev"
 tags: 
@@ -41,12 +41,12 @@ Description not available.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 74 |
-| Posts                | 2  |
-| Comments             | 9  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
+| Subscribers          | 129 |
+| Posts                | 3  |
+| Comments             | 12  |
+| Daily Active Users   | 2  |
+| Weekly Active Users  | 8  |
+| Monthly Active Users | 8  |
 
 <br>
 
@@ -54,4 +54,4 @@ Description not available.
 |----------------------|---|
 | Published            | 2023-06-14 23:13:08 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:03 |
+| Last Scraped         | 2023-06-19 11:35:01 |

@@ -3,13 +3,13 @@ title: "Boudoir"
 name: "boudoir"
 description: "A community for boudoir photographers."
 type: community
-date: "2023-06-16 22:56:41"
+date: "2023-06-19 11:35:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/boudoir"
 host: lemmynsfw.com
 lastmod: "{[ .Updated }}"
-subscribers: 25
+subscribers: 43
 posts: 0
 comments: 0
 weight: 0
@@ -43,7 +43,7 @@ A community for boudoir photographers.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 25 |
+| Subscribers          | 43 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -56,4 +56,4 @@ A community for boudoir photographers.
 |----------------------|---|
 | Published            | 2023-06-14 10:45:58 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:41 |
+| Last Scraped         | 2023-06-19 11:35:46 |

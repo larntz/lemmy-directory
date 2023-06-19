@@ -3,13 +3,13 @@ title: "Today I Fucked Up"
 name: "todayifuckedup"
 description: "Hesitating between [!tifu](https://lemmy.ml/c/tifu) or [!todayifuckedup](https://lemmy.ml/c/todayifuckedup)."
 type: community
-date: "2023-06-16 22:57:36"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/todayifuckedup"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ Hesitating between [!tifu](https://lemmy.ml/c/tifu) or [!todayifuckedup](https:/
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 4 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ Hesitating between [!tifu](https://lemmy.ml/c/tifu) or [!todayifuckedup](https:/
 |----------------------|---|
 | Published            | 2023-06-09 14:13:11 |
 | Updated              | 2023-06-09 14:17:10 |
-| Last Scraped         | 2023-06-16 22:57:36 |
+| Last Scraped         | 2023-06-19 11:36:55 |

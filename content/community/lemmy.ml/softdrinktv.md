@@ -3,16 +3,16 @@ title: "SOFTDRINKTV Community"
 name: "softdrinktv"
 description: "Official Lemmy community for [SOFTDRINKTV.](https://youtube.com/softdrinktv)"
 type: community
-date: "2023-06-16 11:07:30"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/softdrinktv"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
 subscribers: 2
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1
@@ -42,7 +42,7 @@ Official Lemmy community for [SOFTDRINKTV.](https://youtube.com/softdrinktv)<br>
 | Activity | Count  |
 |----------------------|---|
 | Subscribers          | 2 |
-| Posts                | 2  |
+| Posts                | 3  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
 | Weekly Active Users  | 1  |
@@ -54,4 +54,4 @@ Official Lemmy community for [SOFTDRINKTV.](https://youtube.com/softdrinktv)<br>
 |----------------------|---|
 | Published            | 2023-06-10 17:34:03 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:30 |
+| Last Scraped         | 2023-06-19 11:36:45 |

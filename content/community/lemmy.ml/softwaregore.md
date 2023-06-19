@@ -3,19 +3,19 @@ title: "Poke fun at nasty software"
 name: "softwaregore"
 description: "Poke fun at nasty software"
 type: community
-date: "2023-06-16 22:57:30"
+date: "2023-06-19 11:36:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/softwaregore"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 77
+subscribers: 78
 posts: 12
-comments: 7
+comments: 8
 weight: 12
 dau: 1
-wau: 4
-mau: 4
+wau: 2
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 
@@ -41,12 +41,12 @@ Poke fun at nasty software
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 77 |
+| Subscribers          | 78 |
 | Posts                | 12  |
-| Comments             | 7  |
+| Comments             | 8  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
+| Weekly Active Users  | 2  |
+| Monthly Active Users | 5  |
 
 <br>
 
@@ -54,4 +54,4 @@ Poke fun at nasty software
 |----------------------|---|
 | Published            | 2020-06-06 19:17:49 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:30 |
+| Last Scraped         | 2023-06-19 11:36:45 |

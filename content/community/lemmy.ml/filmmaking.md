@@ -3,7 +3,7 @@ title: "Filmmaking"
 name: "filmmaking"
 description: "For all things related to filmmaking!"
 type: community
-date: "2023-06-16 22:57:20"
+date: "2023-06-19 11:36:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/filmmaking"
@@ -54,4 +54,4 @@ For all things related to filmmaking!
 |----------------------|---|
 | Published            | 2023-06-10 16:17:33 |
 | Updated              | 2023-06-10 16:17:51 |
-| Last Scraped         | 2023-06-16 22:57:20 |
+| Last Scraped         | 2023-06-19 11:36:43 |

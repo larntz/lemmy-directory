@@ -3,18 +3,18 @@ title: "Magic: The Gathering"
 name: "magicthegathering"
 description: "Community dedicated to the discussion of news, tournaments, gameplay, deckbuilding, strategy, lore, and more about Magic: The Gathering, the digital and tabletop card trading card game.#### Rules:1.  Keep content on-topic.2. Use [Scryfall](https://scryfall.com/) when linking to cards. "
 type: community
-date: "2023-06-16 11:07:33"
+date: "2023-06-19 11:36:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/magicthegathering"
 host: lemmy.ml
 lastmod: "{[ .Updated }}"
-subscribers: 57
+subscribers: 58
 posts: 10
 comments: 15
 weight: 10
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"
@@ -41,11 +41,11 @@ Community dedicated to the discussion of news, tournaments, gameplay, deckbuildi
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 57 |
+| Subscribers          | 58 |
 | Posts                | 10  |
 | Comments             | 15  |
 | Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
+| Weekly Active Users  | 2  |
 | Monthly Active Users | 4  |
 
 <br>
@@ -54,4 +54,4 @@ Community dedicated to the discussion of news, tournaments, gameplay, deckbuildi
 |----------------------|---|
 | Published            | 2021-06-29 15:14:46 |
 | Updated              | 2021-06-29 16:34:05 |
-| Last Scraped         | 2023-06-16 11:07:33 |
+| Last Scraped         | 2023-06-19 11:36:47 |

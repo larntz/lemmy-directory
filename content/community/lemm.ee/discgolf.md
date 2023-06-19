@@ -3,13 +3,13 @@ title: "Disc golf"
 name: "discgolf"
 description: "A place to discuss anything disc golf related"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/discgolf"
 host: lemm.ee
 lastmod: "{[ .Updated }}"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
@@ -41,7 +41,7 @@ A place to discuss anything disc golf related
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 3 |
+| Subscribers          | 5 |
 | Posts                | 0  |
 | Comments             | 0  |
 | Daily Active Users   | 0  |
@@ -54,4 +54,4 @@ A place to discuss anything disc golf related
 |----------------------|---|
 | Published            | 2023-06-14 07:50:26 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

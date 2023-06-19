@@ -3,7 +3,7 @@ title: "Highdeas"
 name: "highdeas"
 description: "A place to share any ideas you have while high!This is a weed sub, be nice."
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-19 11:36:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/highdeas"
@@ -54,4 +54,4 @@ A place to share any ideas you have while high!<br><br>This is a weed sub, be ni
 |----------------------|---|
 | Published            | 2023-06-14 04:14:55 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:13 |
+| Last Scraped         | 2023-06-19 11:36:37 |

@@ -3,13 +3,13 @@ title: "lemmus"
 name: "lemmus"
 description: "For all posts related to the lemmus.org instance."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-19 11:35:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmus.org/c/lemmus"
 host: lemmus.org
 lastmod: "{[ .Updated }}"
-subscribers: 1
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1
@@ -41,7 +41,7 @@ For all posts related to the lemmus.org instance.
 
 | Activity | Count  |
 |----------------------|---|
-| Subscribers          | 1 |
+| Subscribers          | 4 |
 | Posts                | 1  |
 | Comments             | 0  |
 | Daily Active Users   | 1  |
@@ -54,4 +54,4 @@ For all posts related to the lemmus.org instance.
 |----------------------|---|
 | Published            | 2023-06-15 02:32:17 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |
+| Last Scraped         | 2023-06-19 11:35:31 |

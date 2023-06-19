@@ -3,7 +3,7 @@ title: "DeFi - Decentralized Finance"
 name: "defi"
 description: "News, articles and discussions about decentralized financial protocols on any blockchain"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-19 11:35:16"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/defi"
@@ -54,4 +54,4 @@ News, articles and discussions about decentralized financial protocols on any bl
 |----------------------|---|
 | Published            | 2023-06-13 06:05:02 |
 | Updated              | 2023-06-13 06:09:58 |
-| Last Scraped         | 2023-06-16 22:56:13 |
+| Last Scraped         | 2023-06-19 11:35:16 |

@@ -3,7 +3,7 @@ title: "Glap"
 name: "glap"
 description: "Sublemmy for Glap.IO and its spin-offs."
 type: community
-date: "2023-06-16 22:57:35"
+date: "2023-06-19 11:36:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/glap"
@@ -54,4 +54,4 @@ Sublemmy for Glap.IO and its spin-offs.
 |----------------------|---|
 | Published            | 2021-11-12 19:58:00 |
 | Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:35 |
+| Last Scraped         | 2023-06-19 11:36:55 |
