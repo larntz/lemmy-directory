@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nonviolence"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-07 18:00:05"
+published: "2021-05-07 17:58:34"
 subscribers: 15
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Nonviolence on lemmy.ml
-
-[[home](/)]
-[[/c/nonviolence 🌎](https://lemmy.ml/c/nonviolence)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-07 17:58:34 |
-| Updated              | 2021-05-07 18:00:05 |
-| Last Scraped         | 2023-06-16 22:57:38 |

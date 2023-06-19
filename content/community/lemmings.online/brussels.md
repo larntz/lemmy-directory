@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/brussels"
 host: lemmings.online
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 08:46:47"
+published: "2023-06-14 08:34:58"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmings_online"
 
 ---
-
-# /c/Belgium - Brussels on lemmings.online
-
-[[home](/)]
-[[/c/brussels 🌎](https://lemmings.online/c/brussels)]
-[[lemmings.online](/instances/lemmings_online)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 08:34:58 |
-| Updated              | 2023-06-14 08:46:47 |
-| Last Scraped         | 2023-06-19 11:35:24 |

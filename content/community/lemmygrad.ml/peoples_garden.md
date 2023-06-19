@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/peoples_garden"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-07-27 02:22:28"
 subscribers: 42
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/The People's Garden on lemmygrad.ml
-
-[[home](/)]
-[[/c/peoples_garden 🌎](https://lemmygrad.ml/c/peoples_garden)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for discussing farming and gardening by MLs.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-27 02:22:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yet_another_test"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2019-04-26 01:09:07"
+published: "2019-04-26 01:04:06"
 subscribers: 9
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/fff on lemmy.ml
-
-[[home](/)]
-[[/c/yet_another_test 🌎](https://lemmy.ml/c/yet_another_test)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-www
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-04-26 01:04:06 |
-| Updated              | 2019-04-26 01:09:07 |
-| Last Scraped         | 2023-06-19 11:36:44 |

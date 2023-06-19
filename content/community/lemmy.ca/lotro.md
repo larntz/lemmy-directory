@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/lotro"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 18:42:45"
+published: "2023-06-16 21:24:16"
 subscribers: 13
 posts: 4
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Lord of the Rings Online on lemmy.ca
-
-[[home](/)]
-[[/c/lotro 🌎](https://lemmy.ca/c/lotro)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss Standing Stone Games' MMO set in Middle Earth. Come smoke some pipe-weed and share some stories.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 21:24:16 |
-| Updated              | 2023-06-17 18:42:45 |
-| Last Scraped         | 2023-06-19 11:35:36 |

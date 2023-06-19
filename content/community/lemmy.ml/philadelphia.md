@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/philadelphia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-30 00:07:40"
 subscribers: 19
 posts: 4
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Philadelphia on lemmy.ml
-
-[[home](/)]
-[[/c/philadelphia 🌎](https://lemmy.ml/c/philadelphia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All things content and discussion regarding The City of Brotherly Love.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-30 00:07:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

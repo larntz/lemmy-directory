@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/feet"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 23:45:52"
+published: "2023-06-12 22:43:52"
 subscribers: 171
 posts: 41
 comments: 8
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/feet on lemmynsfw.com
-
-[[home](/)]
-[[/c/feet 🌎](https://lemmynsfw.com/c/feet)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Anything goes women's feet
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 171 |
-| Posts                | 41  |
-| Comments             | 8  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:43:52 |
-| Updated              | 2023-06-16 23:45:52 |
-| Last Scraped         | 2023-06-19 11:35:46 |

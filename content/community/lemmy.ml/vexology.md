@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vexology"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-04-13 04:04:29"
 subscribers: 17
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Vexology - The Study of Flags on lemmy.ml
-
-[[home](/)]
-[[/c/vexology 🌎](https://lemmy.ml/c/vexology)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For Flag Enthusiasts 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-13 04:04:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

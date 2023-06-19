@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/identifythis"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-11-22 16:15:58"
 subscribers: 38
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/We help you identify things on lemmygrad.ml
-
-[[home](/)]
-[[/c/identifythis 🌎](https://lemmygrad.ml/c/identifythis)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is to help you identify things. General purpose (music, books, series, flags, people...) but no NSFW and no nefarious purposes.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-22 16:15:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

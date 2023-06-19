@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/transformation_sfw"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 17:32:57"
 subscribers: 49
 posts: 16
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/Transformation SFW on pawb.social
-
-[[home](/)]
-[[/c/transformation_sfw 🌎](https://pawb.social/c/transformation_sfw)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Safe-For-Work TF art!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 16  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 17:32:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

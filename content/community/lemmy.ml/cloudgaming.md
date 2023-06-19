@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cloudgaming"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-05-26 12:19:00"
 subscribers: 33
 posts: 5
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cloud Gaming & Game Streaming on lemmy.ml
-
-[[home](/)]
-[[/c/cloudgaming 🌎](https://lemmy.ml/c/cloudgaming)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All topics related to Game Streaming are welcome including Stadia, GeForce NOW, Steam Link and so on.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 5  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-26 12:19:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:46 |

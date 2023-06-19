@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/noelmiller"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-17 22:00:51"
+published: "2021-12-15 03:18:45"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Noel Miller on lemmy.ml
-
-[[home](/)]
-[[/c/noelmiller 🌎](https://lemmy.ml/c/noelmiller)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-15 03:18:45 |
-| Updated              | 2021-12-17 22:00:51 |
-| Last Scraped         | 2023-06-19 11:36:53 |

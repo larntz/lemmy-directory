@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/auto_repair"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 12:53:08"
+published: "2023-06-13 12:32:16"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Automotive Repair on lemmy.world
-
-[[home](/)]
-[[/c/auto_repair 🌎](https://lemmy.world/c/auto_repair)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-In the shop, under the hood, and between the valves. A place for showcasing busted knuckles, discussing the regrettable career choice, and finding out where the tick noise is coming from.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:32:16 |
-| Updated              | 2023-06-13 12:53:08 |
-| Last Scraped         | 2023-06-19 11:36:40 |

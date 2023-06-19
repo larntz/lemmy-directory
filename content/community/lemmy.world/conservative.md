@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/conservative"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 12:13:56"
+published: "2023-06-09 20:31:09"
 subscribers: 152
 posts: 40
 comments: 357
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/conservative on lemmy.world
-
-[[home](/)]
-[[/c/conservative 🌎](https://lemmy.world/c/conservative)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss conservative politics and views. <br><br>Rules:<br><br>1. No racism or bigotry.<br><br>2. Be civil: disagreements happen, but that doesn't provide the right to personally insult others.<br><br>3. No spam posting.<br><br>4. Submission headline should match the article title (don't cherry-pick information from the title to fit your agenda).<br><br>5. Shitposts and memes are allowed until they prove to be a problem. They can and will be removed at moderator discretion.<br><br>6. No trolling. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 152 |
-| Posts                | 40  |
-| Comments             | 357  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 113  |
-| Monthly Active Users | 113  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:31:09 |
-| Updated              | 2023-06-15 12:13:56 |
-| Last Scraped         | 2023-06-19 11:36:39 |

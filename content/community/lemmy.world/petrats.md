@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/petrats"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 15:11:36"
 subscribers: 18
 posts: 7
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Pet Rats on lemmy.world
-
-[[home](/)]
-[[/c/petrats 🌎](https://lemmy.world/c/petrats)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for pet rats!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 7  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:11:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_dystopia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-26 13:14:44"
+published: "2020-10-22 17:36:47"
 subscribers: 60
 posts: 10
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tech Dystopia on lemmy.ml
-
-[[home](/)]
-[[/c/tech_dystopia 🌎](https://lemmy.ml/c/tech_dystopia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Bad, tech. Bad!<br><br>Chronicling our society's downwards slide towards becoming a technological dystopia.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 10  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-22 17:36:47 |
-| Updated              | 2021-01-26 13:14:44 |
-| Last Scraped         | 2023-06-19 11:36:46 |

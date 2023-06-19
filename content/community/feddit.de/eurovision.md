@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eurovision"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 20:29:04"
 subscribers: 18
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Eurovision Song Contest on feddit.de
-
-[[home](/)]
-[[/c/eurovision 🌎](https://feddit.de/c/eurovision)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for discussion about the world’s music competition uniting Europe
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:29:04 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

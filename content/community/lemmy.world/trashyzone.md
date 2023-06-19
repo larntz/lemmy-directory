@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trashyzone"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 16:35:01"
+published: "2023-06-11 17:32:10"
 subscribers: 134
 posts: 7
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Trashy Zone on lemmy.world
-
-[[home](/)]
-[[/c/trashyzone 🌎](https://lemmy.world/c/trashyzone)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-You are about to enter another dimension. A dimension not only of sight and sound, but of mind. A terrifying journey into the depths of human depravity. Next stop, the Trashy Zone.<br><br>Following these rules will increase your odds of making it out of the trashy zone alive.<br><br>1. Be nice. Rude, aggressive and antagonistic commentors will be made leave. <br><br>2. I don't want a classist definition of trashy being this subs main interpretation of trashyness. Posts depicting decadent displays of wealth are encouraged <br><br>3. The five patron saints of the trashy zone are Charlie, Mac, Dennis, Dee and Frank from IASIP. Please pay homage to them whenever possible.<br><br>4. No overly dark topics like sa or child abuse. I want a light tone to this place. What consistutes too dark is currently up to moderator discretion.<br><br>5. Once this server hits 5k subs a community discussion post will be created. Ideas to build this community will be shared and discussed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 7  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:32:10 |
-| Updated              | 2023-06-15 16:35:01 |
-| Last Scraped         | 2023-06-19 11:36:39 |

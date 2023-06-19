@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/motorcycles"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 15:46:31"
+published: "2023-06-10 15:39:30"
 subscribers: 32
 posts: 7
 comments: 28
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/Motorcycles on lemmy.sdf.org
-
-[[home](/)]
-[[/c/motorcycles 🌎](https://lemmy.sdf.org/c/motorcycles)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Bikes, gear, wrenching, trips, news, and motorcycle related discussions
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 7  |
-| Comments             | 28  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:39:30 |
-| Updated              | 2023-06-10 15:46:31 |
-| Last Scraped         | 2023-06-19 11:35:02 |

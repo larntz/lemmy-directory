@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hackintosh"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:35:59"
+published: "2023-06-12 17:00:08"
 subscribers: 28
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Hackintosh on lemmy.world
-
-[[home](/)]
-[[/c/hackintosh 🌎](https://lemmy.world/c/hackintosh)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-[Hackintosh Guide](https://caizhiyuan.gitee.io/opencore-install-guide/). If anyone is a moderator for the actual r/hackintosh, please message me.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:00:08 |
-| Updated              | 2023-06-14 16:35:59 |
-| Last Scraped         | 2023-06-19 11:36:39 |

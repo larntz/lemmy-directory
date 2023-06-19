@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kiel"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 08:25:31"
+published: "2023-06-06 08:21:43"
 subscribers: 21
 posts: 7
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Kiel - Landeshauptstadt on discuss.tchncs.de
-
-[[home](/)]
-[[/c/kiel 🌎](https://discuss.tchncs.de/c/kiel)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Interessantes, skuriles und witziges um und aus der Landeshauptstadt zwischen den Meeren.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 7  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 08:21:43 |
-| Updated              | 2023-06-06 08:25:31 |
-| Last Scraped         | 2023-06-19 11:34:55 |

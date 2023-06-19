@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ireland"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 20:41:03"
+published: "2023-06-12 20:36:27"
 subscribers: 34
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ireland on lemmy.world
-
-[[home](/)]
-[[/c/ireland 🌎](https://lemmy.world/c/ireland)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-An Irish community in the fediverse
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:36:27 |
-| Updated              | 2023-06-12 20:41:03 |
-| Last Scraped         | 2023-06-19 11:36:39 |

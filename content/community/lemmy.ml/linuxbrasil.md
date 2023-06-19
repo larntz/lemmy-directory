@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxbrasil"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-24 20:13:00"
+published: "2021-02-24 19:52:51"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/LinuxBrasil on lemmy.ml
-
-[[home](/)]
-[[/c/linuxbrasil 🌎](https://lemmy.ml/c/linuxbrasil)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunidade brasileira dedicada para amantes de sistemas GNU/Linux e da liberdade de código aberto.<br><br>-------------//---------------<br>Regras:<br>- Probido racismo<br>- Probido homofobia<br>- Probido intolerância de qualquer natureza<br>- Probido preconceito<br>- Proibido todo tipo de pornografia, inclusive hentai<br>- Divulgação de software com código proprietário<br>-------------//---------------<br><br><br>Artista do Icon da comunidade não foi identificado, quem souber, por favor avisar a moderação.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-24 19:52:51 |
-| Updated              | 2021-02-24 20:13:00 |
-| Last Scraped         | 2023-06-19 11:36:59 |

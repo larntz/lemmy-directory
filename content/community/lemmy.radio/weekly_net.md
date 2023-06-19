@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/weekly_net"
 host: lemmy.radio
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 01:34:22"
 subscribers: 7
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_radio"
 
 ---
-
-# /c/Weekly Net on lemmy.radio
-
-[[home](/)]
-[[/c/weekly_net 🌎](https://lemmy.radio/c/weekly_net)]
-[[lemmy.radio](/instances/lemmy_radio)]
-
-
-## Description 
-
-<blockquote class="description">
-Weekly updates to discuss what your working on, amateur radio news, and general discord. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:34:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:20 |

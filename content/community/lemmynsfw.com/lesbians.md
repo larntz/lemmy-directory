@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lesbians"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:51:36"
+published: "2023-06-14 10:31:28"
 subscribers: 391
 posts: 14
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Lesbians on lemmynsfw.com
-
-[[home](/)]
-[[/c/lesbians 🌎](https://lemmynsfw.com/c/lesbians)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A replacement for Reddit’s r/lesbians. Posts should feature lesbians, and not break any sitewide or common sense rules.<br>Visit [girlskissing](https://lemmynsfw.com/c/girlskissing), [straightgirlsplaying](https://lemmynsfw.com/c/straightgirlsplaying), for similar content. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 391 |
-| Posts                | 14  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:31:28 |
-| Updated              | 2023-06-15 04:51:36 |
-| Last Scraped         | 2023-06-19 11:35:45 |

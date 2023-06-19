@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mainz"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:07:50"
+published: "2023-06-14 07:46:26"
 subscribers: 11
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Mainz on feddit.de
-
-[[home](/)]
-[[/c/mainz 🌎](https://feddit.de/c/mainz)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Die Community für die Stadt Mainz am Rhein.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:46:26 |
-| Updated              | 2023-06-14 09:07:50 |
-| Last Scraped         | 2023-06-19 11:35:39 |

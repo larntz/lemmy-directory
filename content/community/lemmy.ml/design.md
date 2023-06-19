@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/design"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:29:44"
+published: "2020-06-28 06:33:07"
 subscribers: 101
 posts: 8
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Design on lemmy.ml
-
-[[home](/)]
-[[/c/design 🌎](https://lemmy.ml/c/design)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Artistic and industrial design
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 101 |
-| Posts                | 8  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 06:33:07 |
-| Updated              | 2021-01-29 13:29:44 |
-| Last Scraped         | 2023-06-19 11:36:45 |

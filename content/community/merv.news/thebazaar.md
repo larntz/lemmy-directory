@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thebazaar"
 host: merv.news
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-01 17:34:14"
+published: "2022-10-01 17:12:16"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "merv_news"
 
 ---
-
-# /c/The Bazaar on merv.news
-
-[[home](/)]
-[[/c/thebazaar 🌎](https://merv.news/c/thebazaar)]
-[[merv.news](/instances/merv_news)]
-
-
-## Description 
-
-<blockquote class="description">
-# Item swapping, trading, etc
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-10-01 17:12:16 |
-| Updated              | 2022-10-01 17:34:14 |
-| Last Scraped         | 2023-06-19 11:34:46 |

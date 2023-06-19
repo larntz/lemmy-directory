@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hongkong"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-03 14:36:44"
+published: "2020-06-02 22:25:53"
 subscribers: 17
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Hong Kong on lemmy.ml
-
-[[home](/)]
-[[/c/hongkong 🌎](https://lemmy.ml/c/hongkong)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss everything Hong Kong.<br><br>Rules:<br><br>1. Please add a flair in the title of every post. Example: “[News] Hong Kong murdered by cartoon bear.”, “[Culture] Hong Kong street food is amazing!”, “[Question] How many people speak Simplified Chinese in Hong Kong?”<br><br>List of flairs: [News], [Culture], [Discussion], [Question], [Request], [Guide]. More will be added as time goes on.<br><br>2. Follow the Lemmy Rules of Conduct.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-02 22:25:53 |
-| Updated              | 2020-06-03 14:36:44 |
-| Last Scraped         | 2023-06-19 11:36:45 |

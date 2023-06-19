@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/amateurradio"
 host: lemmy.ko4abp.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 23:50:06"
+published: "2023-06-09 19:15:18"
 subscribers: 69
 posts: 11
 comments: 71
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ko4abp_com"
 
 ---
-
-# /c/Amateur Radio on lemmy.ko4abp.com
-
-[[home](/)]
-[[/c/amateurradio 🌎](https://lemmy.ko4abp.com/c/amateurradio)]
-[[lemmy.ko4abp.com](/instances/lemmy_ko4abp_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to our vibrant community of amateur radio operators who are passionate about exploring the airwaves and connecting with fellow hams around the globe. Whether you're a seasoned operator or just starting your ham radio journey, this is the perfect place to amplify your knowledge, share experiences, and have a blast while doing it.<br><br>Rules:<br>1. Be respectful<br>2. Stay on topic<br>3. Provide Helpful and Accurate Information<br>4. No Illegal or Harmful Activities<br>5. Do not share personal information<br>6. Use Clear and Descriptive Titles<br>7. Report Inappropriate Content
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 11  |
-| Comments             | 71  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:15:18 |
-| Updated              | 2023-06-09 23:50:06 |
-| Last Scraped         | 2023-06-19 11:35:07 |

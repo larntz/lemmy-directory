@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/olediwallpapers"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 01:15:32"
+published: "2023-06-13 01:00:32"
 subscribers: 7
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/OLED iWallpapers on lemmy.world
-
-[[home](/)]
-[[/c/olediwallpapers 🌎](https://lemmy.world/c/olediwallpapers)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for post OLED friendly background for mobile devices.<br><br>If you have the source make sure to post that.<br><br>Please use an image hosting website like the one below (others work too):<br><br>https://postimages.org/<br><br>Rules:<br><br>1. Wallpapers must be OLED friendly<br><br>2. Wallpapers must be side appropriate for smart phones<br><br>3. No spamming<br><br>4. Don't be a dick 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:00:32 |
-| Updated              | 2023-06-13 01:15:32 |
-| Last Scraped         | 2023-06-19 11:36:39 |

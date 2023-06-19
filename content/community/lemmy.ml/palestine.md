@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/palestine"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-10 13:28:50"
+published: "2020-06-02 23:18:50"
 subscribers: 86
 posts: 41
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Palestine on lemmy.ml
-
-[[home](/)]
-[[/c/palestine 🌎](https://lemmy.ml/c/palestine)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss everything Palestine.<br><br>#### Rules:<br><br>01. Posts can be in Arabic or English.<br><br>02. Please add a flair in the title of every post. Example: “[News] Israel annexes the West Bank ”, “[Culture] Musakhan is the nicest food in the world!”, “[Question] How many Palestinians live in Jordan?”<br><br>List of flairs:<br>[News] [Culture] [Discussion] [Question] [Request] [Guide]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 41  |
-| Comments             | 17  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-02 23:18:50 |
-| Updated              | 2021-12-10 13:28:50 |
-| Last Scraped         | 2023-06-19 11:36:44 |

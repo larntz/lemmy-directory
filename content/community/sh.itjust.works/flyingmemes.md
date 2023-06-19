@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/flyingmemes"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 18:59:10"
 subscribers: 3
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/FlyingMemes on sh.itjust.works
-
-[[home](/)]
-[[/c/flyingmemes 🌎](https://sh.itjust.works/c/flyingmemes)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to post dank meme's about flying aircraft and whirlybirds.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 18:59:10 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

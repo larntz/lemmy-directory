@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/romania"
 host: feddit.ro
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:08:29"
+published: "2023-06-14 11:21:49"
 subscribers: 14
 posts: 25
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "feddit_ro"
 
 ---
-
-# /c/Romania on feddit.ro
-
-[[home](/)]
-[[/c/romania 🌎](https://feddit.ro/c/romania)]
-[[feddit.ro](/instances/feddit_ro)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 25  |
-| Comments             | 15  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 11:21:49 |
-| Updated              | 2023-06-14 12:08:29 |
-| Last Scraped         | 2023-06-19 11:35:25 |

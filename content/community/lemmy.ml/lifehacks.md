@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifehacks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-08 15:38:45"
+published: "2021-02-13 09:26:07"
 subscribers: 285
 posts: 12
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/lifehacks on lemmy.ml
-
-[[home](/)]
-[[/c/lifehacks 🌎](https://lemmy.ml/c/lifehacks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**productivity tips+tricks &ideas.**    <br>     <br><br>*You might also check out:*   <br>[Life pro tips(lpt)](https://lemmy.ca/c/lpt)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 285 |
-| Posts                | 12  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-13 09:26:07 |
-| Updated              | 2022-08-08 15:38:45 |
-| Last Scraped         | 2023-06-19 11:37:01 |

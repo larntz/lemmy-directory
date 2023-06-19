@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/canada"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-21 07:55:54"
+published: "2020-02-17 07:21:09"
 subscribers: 736
 posts: 534
 comments: 331
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Canada on lemmy.ml
-
-[[home](/)]
-[[/c/canada 🌎](https://lemmy.ml/c/canada)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# English<br>This is a community dedicated to Canada and Canadians!<br><br>### Rules<br>* Posts must be relevant to Canada or Canadians<br>* No misinformation<br>* No NSFW content<br>* No hate speech, bigotry, etc <br><br>-----<br><br># Français<br>Il s'agit d'une communauté dédiée au Canada et aux Canadiens !<br><br>### Règles<br>* Les postes doivent être pertinentes pour le Canada ou les Canadiens<br>* Pas de désinformation<br>* Pas de contenu NSFW<br>* Pas de discours de haine, de sectarisme, etc. <br><br>-----<br><br>### Related Communities **/** Communautés associées<br>* [!canada@lemmygrad.ml](https://lemmygrad.ml/c/canada)<br>* [!quebec@lemmygrad.ml](https://lemmygrad.ml/c/quebec)<br>* [lemmy.ca](https://lemmy.ca)<br><br>-----<br><br>Community icon by [CustomDesign](http://www.myiconfinder.com/CustomDesign) on MYICONFINDER, licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 736 |
-| Posts                | 534  |
-| Comments             | 331  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 35  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-17 07:21:09 |
-| Updated              | 2022-02-21 07:55:54 |
-| Last Scraped         | 2023-06-19 11:37:02 |

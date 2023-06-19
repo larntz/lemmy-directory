@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/szkolenia_webinary"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-04-16 17:40:53"
 subscribers: 45
 posts: 10
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Szkolenia i Webinary on szmer.info
-
-[[home](/)]
-[[/c/szkolenia_webinary 🌎](https://szmer.info/c/szkolenia_webinary)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 10  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-16 17:40:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

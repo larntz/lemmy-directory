@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/rollercoasters"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:12:23"
+published: "2023-06-09 15:39:46"
 subscribers: 80
 posts: 19
 comments: 60
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/RollerCoasters on lemm.ee
-
-[[home](/)]
-[[/c/rollercoasters 🌎](https://lemm.ee/c/rollercoasters)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to talk about roller coasters
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 19  |
-| Comments             | 60  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 15:39:46 |
-| Updated              | 2023-06-14 15:12:23 |
-| Last Scraped         | 2023-06-19 11:35:16 |

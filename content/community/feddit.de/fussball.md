@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fussball"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-09-01 17:59:50"
 subscribers: 26
 posts: 7
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Fußball on feddit.de
-
-[[home](/)]
-[[/c/fussball 🌎](https://feddit.de/c/fussball)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 7  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-01 17:59:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

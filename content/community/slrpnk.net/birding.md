@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/birding"
 host: slrpnk.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 15:20:24"
 subscribers: 10
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "slrpnk_net"
 
 ---
-
-# /c/Bird-Watching and Ornithology on slrpnk.net
-
-[[home](/)]
-[[/c/birding 🌎](https://slrpnk.net/c/birding)]
-[[slrpnk.net](/instances/slrpnk_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Mainly birdwatching pix and ID help; please post approximate location (country/region/at least give us a continent!) - moderators needed (eventually?)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 15:20:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

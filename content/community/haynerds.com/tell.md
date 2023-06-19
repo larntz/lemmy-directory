@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://haynerds.com/c/tell"
 host: haynerds.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 16:21:34"
+published: "2023-06-08 18:18:34"
 subscribers: 1
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "haynerds_com"
 
 ---
-
-# /c/Tell Nerds on haynerds.com
-
-[[home](/)]
-[[/c/tell 🌎](https://haynerds.com/c/tell)]
-[[haynerds.com](/instances/haynerds_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:18:34 |
-| Updated              | 2023-06-09 16:21:34 |
-| Last Scraped         | 2023-06-19 11:35:16 |

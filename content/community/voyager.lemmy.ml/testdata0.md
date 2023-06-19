@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/testdata0"
 host: voyager.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-13 14:47:59"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "voyager_lemmy_ml"
 
 ---
-
-# /c/Test Data 0 on voyager.lemmy.ml
-
-[[home](/)]
-[[/c/testdata0 🌎](https://voyager.lemmy.ml/c/testdata0)]
-[[voyager.lemmy.ml](/instances/voyager_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:47:59 |
-| Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-19 11:34:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/veracrypt"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 07:01:30"
 subscribers: 9
 posts: 6
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Veracrypt on lemmy.world
-
-[[home](/)]
-[[/c/veracrypt 🌎](https://lemmy.world/c/veracrypt)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-VeraCrypt: Free Disk Encryption Software, a fork of TrueCrypt.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 07:01:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/melonsense"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-23 16:55:17"
+published: "2021-08-23 01:26:18"
 subscribers: 7
 posts: 12
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/MelonSense on lemmy.ml
-
-[[home](/)]
-[[/c/melonsense 🌎](https://lemmy.ml/c/melonsense)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to melonsense<br><br>**RULES___**<br><br>1: No Cursing<br><br>2: No Hate Speech/Racisim Be nice<br><br>3: Be True to you no filters<br><br>4: have fun<br><br>also you dont have to but please join my matrix element room https://matrix.to/#/#M3elonSens3:matrix.org
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 12  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-23 01:26:18 |
-| Updated              | 2021-08-23 16:55:17 |
-| Last Scraped         | 2023-06-19 11:36:46 |

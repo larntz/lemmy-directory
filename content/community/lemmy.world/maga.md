@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maga"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 20:45:28"
 subscribers: 17
 posts: 15
 comments: 29
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Make America Great Again! on lemmy.world
-
-[[home](/)]
-[[/c/maga 🌎](https://lemmy.world/c/maga)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A friendly community for Patriotic Americans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 15  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:45:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:39 |

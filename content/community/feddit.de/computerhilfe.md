@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/computerhilfe"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-30 09:10:54"
+published: "2021-08-21 08:30:08"
 subscribers: 107
 posts: 5
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Computerhilfe on feddit.de
-
-[[home](/)]
-[[/c/computerhilfe 🌎](https://feddit.de/c/computerhilfe)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Hilfe für Dinge am Computer.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 107 |
-| Posts                | 5  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-21 08:30:08 |
-| Updated              | 2021-08-30 09:10:54 |
-| Last Scraped         | 2023-06-19 11:35:39 |

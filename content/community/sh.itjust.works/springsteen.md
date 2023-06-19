@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/springsteen"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 09:30:45"
+published: "2023-06-15 16:51:00"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Bruce Springsteen on sh.itjust.works
-
-[[home](/)]
-[[/c/springsteen 🌎](https://sh.itjust.works/c/springsteen)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-For fans of Bruce<br><br>Keep it kosher 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 16:51:00 |
-| Updated              | 2023-06-16 09:30:45 |
-| Last Scraped         | 2023-06-19 11:35:05 |

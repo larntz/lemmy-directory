@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/virtualreality"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 18:24:39"
 subscribers: 91
 posts: 3
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/Virtual Reality on pawb.social
-
-[[home](/)]
-[[/c/virtualreality 🌎](https://pawb.social/c/virtualreality)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-post about news - show off your projects, worlds or avatars - share some social VR photos and game screenshots<br><br>SFW only.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 3  |
-| Comments             | 13  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 18:24:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

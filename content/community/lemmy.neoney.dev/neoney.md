@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.neoney.dev/c/neoney"
 host: lemmy.neoney.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 08:10:59"
+published: "2023-06-15 08:10:45"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_neoney_dev"
 
 ---
-
-# /c/neoney's blog on lemmy.neoney.dev
-
-[[home](/)]
-[[/c/neoney 🌎](https://lemmy.neoney.dev/c/neoney)]
-[[lemmy.neoney.dev](/instances/lemmy_neoney_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Hi!<br>This is my personal community that I will use as a blog, to share interesting information, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 08:10:45 |
-| Updated              | 2023-06-15 08:10:59 |
-| Last Scraped         | 2023-06-19 11:35:26 |

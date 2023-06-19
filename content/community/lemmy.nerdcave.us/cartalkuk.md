@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nerdcave.us/c/cartalkuk"
 host: lemmy.nerdcave.us
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 02:12:04"
+published: "2023-06-17 02:10:46"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nerdcave_us"
 
 ---
-
-# /c/Car Talk UK on lemmy.nerdcave.us
-
-[[home](/)]
-[[/c/cartalkuk 🌎](https://lemmy.nerdcave.us/c/cartalkuk)]
-[[lemmy.nerdcave.us](/instances/lemmy_nerdcave_us)]
-
-
-## Description 
-
-<blockquote class="description">
-A Community to discuss all things cars - UK based!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 02:10:46 |
-| Updated              | 2023-06-17 02:12:04 |
-| Last Scraped         | 2023-06-19 11:35:30 |

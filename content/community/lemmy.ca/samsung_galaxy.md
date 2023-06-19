@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/samsung_galaxy"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 22:24:15"
+published: "2023-06-07 21:45:47"
 subscribers: 25
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Samsung Galaxy on lemmy.ca
-
-[[home](/)]
-[[/c/samsung_galaxy 🌎](https://lemmy.ca/c/samsung_galaxy)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-This is an unofficial sublemmy for discussing and sharing information about the Samsung Galaxy line of phones.<br><br>Rules:<br>- No NSFW<br>- Be respectful<br>- Stay on topic<br>- English and french only (Can't moderate other languages. If you speak another language and want to mod send me a message [@arch_linux_user@lemmy.ca](https://lemmy.ca/u/arch_linux_user))<br>- Self promotion is allowed only if on topic and if disclosed clearly. Low-effort or low-value self-promotion will be removed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 21:45:47 |
-| Updated              | 2023-06-07 22:24:15 |
-| Last Scraped         | 2023-06-19 11:35:36 |

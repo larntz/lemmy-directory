@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tabletopsimulator"
 host: tabletop.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:57:49"
+published: "2023-06-16 06:10:14"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tabletop_place"
 
 ---
-
-# /c/Tabletop Simulator on tabletop.place
-
-[[home](/)]
-[[/c/tabletopsimulator 🌎](https://tabletop.place/c/tabletopsimulator)]
-[[tabletop.place](/instances/tabletop_place)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the Tabletop Simulator videogame.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:10:14 |
-| Updated              | 2023-06-16 22:57:49 |
-| Last Scraped         | 2023-06-19 11:35:30 |

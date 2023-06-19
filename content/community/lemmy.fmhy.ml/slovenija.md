@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/slovenija"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 18:12:56"
+published: "2023-06-13 10:08:19"
 subscribers: 8
 posts: 4
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Naš biser 'zpod Triglava, Slovenija! on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/slovenija 🌎](https://lemmy.fmhy.ml/c/slovenija)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
------------ SLOVENŠČINA -----------<br><br>/c/slovenija je splošna skupnost za tiste, ki imajo radi Slovenijo, Slovence in Slovenke.<br><br>Pravila:<br>- /c/slovenija je **SFW** skupnost. Prosimo, ne objavljajte nič nevarnega.<br>- Dovoljena jezika sta slovenščina in angleščina.<br>- Spoštujte pravila FMHY adminov, bodite zdrave pameti.<br>- Brez diskriminacije. Verjamem, da sem to pravilo ločil od prejšnjega, ampak z dobrim razlogom.<br><br>--------------- ENGLISH ----------------<br><br>/c/slovenija is a general community for those who like Slovenia and Slovenes.<br><br>Rules:<br>- /c/slovenija is a **SFW** community. Please refrain from posting non-work-safe content.<br>- Only Slovenian/Slovene and English are allowed.<br>- Abide by the rules set by the FMHY admins, have common sense.<br>- No discrimination. I'm aware that I've separated this rule from above, but it's for a good reason.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 4  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 10:08:19 |
-| Updated              | 2023-06-18 18:12:56 |
-| Last Scraped         | 2023-06-19 11:35:02 |

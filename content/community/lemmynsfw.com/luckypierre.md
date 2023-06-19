@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/luckypierre"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 19:56:26"
+published: "2023-06-12 18:48:32"
 subscribers: 77
 posts: 6
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Lucky Pierre on lemmynsfw.com
-
-[[home](/)]
-[[/c/luckypierre 🌎](https://lemmynsfw.com/c/luckypierre)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-The person in the middle position of a three person threesome. To achieve the status of Lucky Pierre they must be both penetrated by the person behind them and penetrating the person in front of them simultaneously.<br><br>Male, female, trans, non-binary - as long as someone is penetrating while being penetrated, *all are welcome here*.<br><br>**Rules**:    <br>Lucky Pierre’s only - Video/GIF/Image must contain within it itself the position “Lucky Pierre.”<br><br>Threesomes - the position generally requires three participants - Couple and Solo content is only allowed at moderators discretion, if it fits the subreddit’s intent.<br><br>Requests / Source meta posts are not permitted; please keep those to the posts themselves.<br><br>The title of the post is to contain the type of threesome; [MMF], [MMM], [MTT], [FFF], [MFF], [MTF], etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:48:32 |
-| Updated              | 2023-06-12 19:56:26 |
-| Last Scraped         | 2023-06-19 11:35:46 |

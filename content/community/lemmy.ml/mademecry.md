@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mademecry"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 14:56:54"
+published: "2023-06-09 14:53:59"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Made Me Cry on lemmy.ml
-
-[[home](/)]
-[[/c/mademecry 🌎](https://lemmy.ml/c/mademecry)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[!mademecry](https://lemmy.ml/c/mademecry) is for any content that may have got to you and made you cry or well up.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 14:53:59 |
-| Updated              | 2023-06-09 14:56:54 |
-| Last Scraped         | 2023-06-19 11:36:43 |

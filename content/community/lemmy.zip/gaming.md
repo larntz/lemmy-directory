@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/gaming"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 11:17:31"
 subscribers: 81
 posts: 3
 comments: 29
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Gaming on lemmy.zip
-
-[[home](/)]
-[[/c/gaming 🌎](https://lemmy.zip/c/gaming)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy.zip Gaming
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 81 |
-| Posts                | 3  |
-| Comments             | 29  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 25  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 11:17:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

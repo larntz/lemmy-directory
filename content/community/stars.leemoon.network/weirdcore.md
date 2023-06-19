@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/weirdcore"
 host: stars.leemoon.network
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 13:21:34"
 subscribers: 4
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "stars_leemoon_network"
 
 ---
-
-# /c/weirdcore/dreamcore/backrooms on stars.leemoon.network
-
-[[home](/)]
-[[/c/weirdcore 🌎](https://stars.leemoon.network/c/weirdcore)]
-[[stars.leemoon.network](/instances/stars_leemoon_network)]
-
-
-## Description 
-
-<blockquote class="description">
-*weirdcore pics...*
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:21:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:22 |

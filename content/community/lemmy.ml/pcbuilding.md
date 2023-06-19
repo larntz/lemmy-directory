@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pcbuilding"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-28 22:07:46"
+published: "2020-03-02 05:51:25"
 subscribers: 154
 posts: 23
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Custom PC Building on lemmy.ml
-
-[[home](/)]
-[[/c/pcbuilding 🌎](https://lemmy.ml/c/pcbuilding)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community dedicated to building custom computers of all shapes, sizes and performance classes, mostly from off-the-self parts, but custom fabrication is of course also welcome.<br><br>Rules:<br>* Content must be relevant to custom PC building, PC hardware, or performance and benchmarks thereof.<br>* No NSFW content.<br>* No bigotry, hate speech, etc.<br><br>Community icon by [Abderraouf omara](https://www.iconfinder.com/3ab2ou), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 154 |
-| Posts                | 23  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-03-02 05:51:25 |
-| Updated              | 2021-01-28 22:07:46 |
-| Last Scraped         | 2023-06-19 11:36:52 |

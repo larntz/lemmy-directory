@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/libreboot"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 19:20:58"
+published: "2023-06-11 19:11:58"
 subscribers: 62
 posts: 5
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Libreboot on sopuli.xyz
-
-[[home](/)]
-[[/c/libreboot 🌎](https://sopuli.xyz/c/libreboot)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A Lemmy community for [Libreboot](http://libreboot.org/), the essential firmware for fully liberating your laptop! <br><br>Libreboot is a free (libre) BIOS/UEFI replacement. Based on coreboot, the aim is to distribute low-level boot firmware that is 100% free software, and easy to use.<br><br>Post questions, issues, victories, defeats and more here! <br><br>If you'd like to help me with (or fully take over) moderation, just let me know! 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 62 |
-| Posts                | 5  |
-| Comments             | 21  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:11:58 |
-| Updated              | 2023-06-11 19:20:58 |
-| Last Scraped         | 2023-06-19 11:35:32 |

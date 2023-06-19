@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/giac"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 14:22:42"
+published: "2023-06-14 14:29:58"
 subscribers: 5
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/GIAC on infosec.pub
-
-[[home](/)]
-[[/c/giac 🌎](https://infosec.pub/c/giac)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing SANS GIAC security certifications and their associated courses. <br><br>Please keep posts related to the community topic and respectful towards others. No sharing or distributing course or certification exam content in accordance with SANS / GIAC policy. Requests for extra practice exams are more than welcome.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:29:58 |
-| Updated              | 2023-06-16 14:22:42 |
-| Last Scraped         | 2023-06-16 22:55:53 |

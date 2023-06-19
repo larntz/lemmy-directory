@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tenseislime"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 21:39:01"
+published: "2023-06-07 21:35:41"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/That Time I Got Reincarnated as a Slime on lemmy.ml
-
-[[home](/)]
-[[/c/tenseislime 🌎](https://lemmy.ml/c/tenseislime)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The go-to SubLemmy for That Time I Got Reincarnated as a Slime (tensei slime)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 21:35:41 |
-| Updated              | 2023-06-07 21:39:01 |
-| Last Scraped         | 2023-06-19 11:36:44 |

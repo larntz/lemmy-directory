@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/washingtonwizards"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:57:46"
+published: "2023-06-10 18:59:09"
 subscribers: 17
 posts: 10
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Washington Wizards on lemmy.world
-
-[[home](/)]
-[[/c/washingtonwizards 🌎](https://lemmy.world/c/washingtonwizards)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Rules (under construction)<br><br>1 -  Treat others as you'd like to be treated<br><br>2 - preface article links with the author's last name in square brackets, like [Robbins] ...<br><br>3 - Do not editorialize article titles or tweets/toots.  Copy the article title or tweet/toot exactly as the author wrote it.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 10  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 18:59:09 |
-| Updated              | 2023-06-10 22:57:46 |
-| Last Scraped         | 2023-06-16 22:57:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/video"
 host: baraza.africa
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-28 04:29:22"
+published: "2020-10-30 05:44:27"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "baraza_africa"
 
 ---
-
-# /c/Video on baraza.africa
-
-[[home](/)]
-[[/c/video 🌎](https://baraza.africa/c/video)]
-[[baraza.africa](/instances/baraza_africa)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a space to share video links. Funny clips, news, and all that shebang. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-30 05:44:27 |
-| Updated              | 2021-11-28 04:29:22 |
-| Last Scraped         | 2023-06-19 11:35:27 |

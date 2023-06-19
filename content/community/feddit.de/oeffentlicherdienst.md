@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oeffentlicherdienst"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:29:01"
+published: "2023-06-05 13:05:43"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Öffentlicher Dienst on feddit.de
-
-[[home](/)]
-[[/c/oeffentlicherdienst 🌎](https://feddit.de/c/oeffentlicherdienst)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles rund um das Arbeitsleben und mehr im öffentlichen Dienst und Beamtentum
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 13:05:43 |
-| Updated              | 2023-06-12 07:29:01 |
-| Last Scraped         | 2023-06-19 11:35:39 |

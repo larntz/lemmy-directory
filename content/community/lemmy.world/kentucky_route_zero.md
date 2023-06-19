@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kentucky_route_zero"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 17:04:26"
+published: "2023-06-17 17:02:25"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Kentucky Route Zero on lemmy.world
-
-[[home](/)]
-[[/c/kentucky_route_zero 🌎](https://lemmy.world/c/kentucky_route_zero)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion & questions of the magical realism point-and-click adventure game, Kentucky Route Zero.<br><br>Developed by Cardboard Computer & published by Annapurna Interactive.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 17:02:25 |
-| Updated              | 2023-06-17 17:04:26 |
-| Last Scraped         | 2023-06-19 11:36:36 |

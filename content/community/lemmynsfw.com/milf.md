@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/milf"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 09:59:26"
+published: "2023-06-15 09:39:16"
 subscribers: 200
 posts: 23
 comments: 6
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/milf - for the lovers of an older lady on lemmynsfw.com
-
-[[home](/)]
-[[/c/milf 🌎](https://lemmynsfw.com/c/milf)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Just pictures of older women.  No spam, no yonger girls.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 200 |
-| Posts                | 23  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 09:39:16 |
-| Updated              | 2023-06-15 09:59:26 |
-| Last Scraped         | 2023-06-19 11:35:45 |

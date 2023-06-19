@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/ulmwarhawks"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 03:45:01"
+published: "2023-06-15 23:01:43"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/ULM Warhawks on fanaticus.social
-
-[[home](/)]
-[[/c/ulmwarhawks 🌎](https://fanaticus.social/c/ulmwarhawks)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Louisiana-Monroe Warhawks athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 23:01:43 |
-| Updated              | 2023-06-17 03:45:01 |
-| Last Scraped         | 2023-06-19 11:35:15 |

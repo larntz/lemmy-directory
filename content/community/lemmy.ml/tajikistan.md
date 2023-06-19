@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tajikistan"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-17 06:15:25"
+published: "2020-05-03 18:44:56"
 subscribers: 5
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tajikistan on lemmy.ml
-
-[[home](/)]
-[[/c/tajikistan 🌎](https://lemmy.ml/c/tajikistan)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## Xush Omaded<br>Axbor, gap, muziqī, suratho, va hazoru yak mayda chuyda oid ba Tojikiston. Hama marhamat!<br><br>#### Join<br><br>* [#tajikistan:matrix.org](https://matrix.to/#/#tajikistan:matrix.org)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-05-03 18:44:56 |
-| Updated              | 2022-07-17 06:15:25 |
-| Last Scraped         | 2023-06-19 11:36:43 |

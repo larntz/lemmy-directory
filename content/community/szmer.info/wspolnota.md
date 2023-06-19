@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wspolnota"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-23 10:39:44"
+published: "2020-05-07 16:04:44"
 subscribers: 1655
 posts: 1046
 comments: 1822
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/wspólnota on szmer.info
-
-[[home](/)]
-[[/c/wspolnota 🌎](https://szmer.info/c/wspolnota)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-O Szmerze - domyślna społeczność platformy
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1655 |
-| Posts                | 1046  |
-| Comments             | 1822  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 34  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-05-07 16:04:44 |
-| Updated              | 2023-01-23 10:39:44 |
-| Last Scraped         | 2023-06-19 11:35:33 |

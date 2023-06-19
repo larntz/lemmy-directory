@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hamilton"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 09:13:21"
+published: "2023-06-12 09:12:42"
 subscribers: 16
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Hamilton Ontario on lemmy.ca
-
-[[home](/)]
-[[/c/hamilton 🌎](https://lemmy.ca/c/hamilton)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Hamilton Ontario
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 09:12:42 |
-| Updated              | 2023-06-12 09:13:21 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/unzensiert"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 15:28:09"
+published: "2023-06-05 22:15:50"
 subscribers: 57
 posts: 8
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Unzensiert on feddit.de
-
-[[home](/)]
-[[/c/unzensiert 🌎](https://feddit.de/c/unzensiert)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Auf Reddit unter [reddit.com/r/ich_unzensiert](https://www.reddit.com/r/ich_unzensiert) zu finden. Auf Feddit als !unzensiert.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 57 |
-| Posts                | 8  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 22:15:50 |
-| Updated              | 2023-06-06 15:28:09 |
-| Last Scraped         | 2023-06-19 11:35:39 |

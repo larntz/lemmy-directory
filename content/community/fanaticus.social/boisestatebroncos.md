@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/boisestatebroncos"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 00:08:59"
+published: "2023-06-14 23:44:17"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Boise State Broncos on fanaticus.social
-
-[[home](/)]
-[[/c/boisestatebroncos 🌎](https://fanaticus.social/c/boisestatebroncos)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Boise State Broncos athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:44:17 |
-| Updated              | 2023-06-15 00:08:59 |
-| Last Scraped         | 2023-06-19 11:35:15 |

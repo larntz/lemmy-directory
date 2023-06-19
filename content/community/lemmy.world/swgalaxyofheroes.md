@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swgalaxyofheroes"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:22:21"
+published: "2023-06-14 15:22:06"
 subscribers: 8
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Star Wars: Galaxy of Heroes on lemmy.world
-
-[[home](/)]
-[[/c/swgalaxyofheroes 🌎](https://lemmy.world/c/swgalaxyofheroes)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Star Wars: Galaxy of Heroes is a mobile collectible RPG game set in a cantina in a distant corner of the Star Wars galaxy, where people of varying species compete in simulated holographic battles involving notable figures throughout Star Wars history for fame and fortune.<br><br>-[Official Site](https://www.ea.com/games/starwars/galaxy-of-heroes)-<br><br>-[Official Forums](https://forums.galaxy-of-heroes.starwars.ea.com/)-<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:22:06 |
-| Updated              | 2023-06-14 15:22:21 |
-| Last Scraped         | 2023-06-19 11:36:39 |

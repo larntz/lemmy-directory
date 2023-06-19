@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copypasta"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-02-18 01:57:15"
 subscribers: 132
 posts: 38
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/I only need two buttons, CTRL-C + CTRL-V on lemmy.ml
-
-[[home](/)]
-[[/c/copypasta 🌎](https://lemmy.ml/c/copypasta)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community was made to archive copypasta.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 132 |
-| Posts                | 38  |
-| Comments             | 18  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-18 01:57:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

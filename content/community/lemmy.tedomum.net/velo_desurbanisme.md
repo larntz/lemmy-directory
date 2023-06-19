@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/velo_desurbanisme"
 host: lemmy.tedomum.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-08-09 19:58:16"
 subscribers: 11
 posts: 4
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_tedomum_net"
 
 ---
-
-# /c/VéloDésurbanisme on lemmy.tedomum.net
-
-[[home](/)]
-[[/c/velo_desurbanisme 🌎](https://lemmy.tedomum.net/c/velo_desurbanisme)]
-[[lemmy.tedomum.net](/instances/lemmy_tedomum_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Des ressources pour construire des argumentaires pro-vélo et désurbanisme.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-09 19:58:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:48 |

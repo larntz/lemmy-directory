@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/louisville_kentucky"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-22 16:38:25"
+published: "2020-12-14 21:26:32"
 subscribers: 18
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Louisville, Kentucky on lemmy.ml
-
-[[home](/)]
-[[/c/louisville_kentucky 🌎](https://lemmy.ml/c/louisville_kentucky)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-News, art, and discussion about Louisville, Kentucky
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-14 21:26:32 |
-| Updated              | 2021-01-22 16:38:25 |
-| Last Scraped         | 2023-06-19 11:36:57 |

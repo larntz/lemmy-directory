@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tutanota"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-20 09:57:19"
+published: "2021-10-19 18:05:25"
 subscribers: 92
 posts: 6
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tutanota - unofficial Tutanota community on lemmy.ml
-
-[[home](/)]
-[[/c/tutanota 🌎](https://lemmy.ml/c/tutanota)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-An **unofficial** community for Tutanota users.<br><br>Tutanota is an open-source (client source code only) email provider based in Hanover, Germany.<br><br>https://github.com/tutao/tutanota<br><br>https://tutanota.com/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 6  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-19 18:05:25 |
-| Updated              | 2021-10-20 09:57:19 |
-| Last Scraped         | 2023-06-19 11:36:51 |

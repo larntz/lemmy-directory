@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arduino"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-02 19:41:27"
+published: "2020-06-02 19:41:01"
 subscribers: 225
 posts: 8
 comments: 28
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Arduino on lemmy.ml
-
-[[home](/)]
-[[/c/arduino 🌎](https://lemmy.ml/c/arduino)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All about Arduino boards and programming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 225 |
-| Posts                | 8  |
-| Comments             | 28  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-02 19:41:01 |
-| Updated              | 2020-06-02 19:41:27 |
-| Last Scraped         | 2023-06-19 11:36:43 |

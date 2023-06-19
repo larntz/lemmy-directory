@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lpotl"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 00:53:07"
+published: "2023-06-10 16:56:07"
 subscribers: 59
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Last Podcast on the Left on lemmy.world
-
-[[home](/)]
-[[/c/lpotl 🌎](https://lemmy.world/c/lpotl)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial group for fans of the [Last Podcast on the Left](https://www.lastpodcastontheleft.com/). Kind of a work in progress.<br><br>#### Rules<br>1. Don't be a dick.<br>2. Keep it on topic, LPTOL-related talk only.<br><br>#### Links<br>* [Last Podcast on the Left](https://open.spotify.com/show/3yZg2MCkf31pPXiG4nznrg) on Spotify
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 16:56:07 |
-| Updated              | 2023-06-11 00:53:07 |
-| Last Scraped         | 2023-06-19 11:36:40 |

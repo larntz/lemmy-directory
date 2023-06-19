@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/blowbang"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 06:42:06"
+published: "2023-06-13 11:15:53"
 subscribers: 244
 posts: 3
 comments: 6
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Blowbang on lemmynsfw.com
-
-[[home](/)]
-[[/c/blowbang 🌎](https://lemmynsfw.com/c/blowbang)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-blowbang
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 244 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:15:53 |
-| Updated              | 2023-06-19 06:42:06 |
-| Last Scraped         | 2023-06-19 11:35:46 |

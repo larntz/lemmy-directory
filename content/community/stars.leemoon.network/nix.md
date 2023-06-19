@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/nix"
 host: stars.leemoon.network
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 13:52:39"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "stars_leemoon_network"
 
 ---
-
-# /c/NixOS / Nix on stars.leemoon.network
-
-[[home](/)]
-[[/c/nix 🌎](https://stars.leemoon.network/c/nix)]
-[[stars.leemoon.network](/instances/stars_leemoon_network)]
-
-
-## Description 
-
-<blockquote class="description">
-Non-official Nix(OS) community in Fediverse.<br><br>Useful links:<br>search.nixos.org<br>nixos.wiki<br>https://nixos.org/learn.html
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:52:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:22 |

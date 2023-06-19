@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gatewaytapes"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 04:44:40"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Gateway Tapes on lemm.ee
-
-[[home](/)]
-[[/c/gatewaytapes 🌎](https://lemm.ee/c/gatewaytapes)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A gateway for self-discovery and go beyond time-space
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:44:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nitter"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-22 14:36:26"
+published: "2021-06-22 14:32:15"
 subscribers: 46
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Nitter on lemmy.ml
-
-[[home](/)]
-[[/c/nitter 🌎](https://lemmy.ml/c/nitter)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Github : https://github.com/zedeus/nitter<br><br>Website : https://nitter.net/<br><br>Matrix : https://matrix.to/#/#nitter:matrix.org
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-22 14:32:15 |
-| Updated              | 2021-06-22 14:36:26 |
-| Last Scraped         | 2023-06-19 11:36:43 |

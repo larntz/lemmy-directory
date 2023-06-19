@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/thots"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 20:21:12"
 subscribers: 290
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Thots on lemmynsfw.com
-
-[[home](/)]
-[[/c/thots 🌎](https://lemmynsfw.com/c/thots)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Dedicated to girls that are trying to get our attention!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 290 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:21:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

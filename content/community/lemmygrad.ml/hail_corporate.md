@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/hail_corporate"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-18 20:10:53"
+published: "2022-09-17 19:02:33"
 subscribers: 16
 posts: 1
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Hail Corporate on lemmygrad.ml
-
-[[home](/)]
-[[/c/hail_corporate 🌎](https://lemmygrad.ml/c/hail_corporate)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 32  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-17 19:02:33 |
-| Updated              | 2022-09-18 20:10:53 |
-| Last Scraped         | 2023-06-19 11:35:08 |

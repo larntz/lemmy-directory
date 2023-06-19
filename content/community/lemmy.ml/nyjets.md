@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nyjets"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-01 22:11:31"
 subscribers: 20
 posts: 5
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/New York Jets on lemmy.ml
-
-[[home](/)]
-[[/c/nyjets 🌎](https://lemmy.ml/c/nyjets)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-01 22:11:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:44 |

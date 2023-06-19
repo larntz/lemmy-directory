@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macmiller"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 06:00:24"
+published: "2023-06-13 05:59:45"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mac Miller on lemmy.world
-
-[[home](/)]
-[[/c/macmiller 🌎](https://lemmy.world/c/macmiller)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Mac Miller!<br><br>Just be nice<br><br>Most dope forever
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:59:45 |
-| Updated              | 2023-06-13 06:00:24 |
-| Last Scraped         | 2023-06-19 11:36:40 |

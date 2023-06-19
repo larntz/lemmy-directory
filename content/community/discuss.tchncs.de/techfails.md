@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/techfails"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:42:01"
+published: "2023-06-13 16:52:06"
 subscribers: 84
 posts: 5
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Tech Fails on discuss.tchncs.de
-
-[[home](/)]
-[[/c/techfails 🌎](https://discuss.tchncs.de/c/techfails)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-## Oof<br>&nbsp;<br><br>mangled devices  <br>corporate bungling  <br>tech support horror stories  <br>software gore  <br>tech TIFUs  <br>iiiiiiitttttttttttt  <br>planning meeting defenestration  <br>crushed cto dreams  <br> \u00a0 \u00a0 \u00a0 …and the like.<br><br>&nbsp;
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 5  |
-| Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:52:06 |
-| Updated              | 2023-06-13 23:42:01 |
-| Last Scraped         | 2023-06-19 11:34:55 |

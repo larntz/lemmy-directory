@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/balletflats"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 23:25:12"
 subscribers: 10
 posts: 4
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Ballet Flats on lemmynsfw.com
-
-[[home](/)]
-[[/c/balletflats 🌎](https://lemmynsfw.com/c/balletflats)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Images, gifs, and video of women wearing ballet flats. **(Note: [ballet flats](https://en.wikipedia.org/wiki/Ballet_flat), not actual [ballet shoes/slippers](https://en.wikipedia.org/wiki/Ballet_shoe))**<br><br>This includes outright porn as well as simply images of beautiful feet in (or around) ballet flats.<br><br>Toe cleavage shots are especially welcome!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 23:25:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:45 |

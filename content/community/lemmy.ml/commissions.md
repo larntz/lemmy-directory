@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commissions"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-15 22:04:36"
+published: "2021-05-15 22:02:19"
 subscribers: 10
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/commissions on lemmy.ml
-
-[[home](/)]
-[[/c/commissions 🌎](https://lemmy.ml/c/commissions)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Advertise your art commissions here! Both clients and artists!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-15 22:02:19 |
-| Updated              | 2021-05-15 22:04:36 |
-| Last Scraped         | 2023-06-19 11:37:00 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://federated.community/c/federated_community"
 host: federated.community
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 19:28:55"
+published: "2023-06-12 17:51:02"
 subscribers: 7
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "federated_community"
 
 ---
-
-# /c/Federated Community on federated.community
-
-[[home](/)]
-[[/c/federated_community 🌎](https://federated.community/c/federated_community)]
-[[federated.community](/instances/federated_community)]
-
-
-## Description 
-
-<blockquote class="description">
-The official Lemmy community for [federated.community](https://federated.community).<br><br>Moderated by the Federated Community staff.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:51:02 |
-| Updated              | 2023-06-12 19:28:55 |
-| Last Scraped         | 2023-06-19 11:35:29 |

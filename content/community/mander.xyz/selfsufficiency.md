@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/selfsufficiency"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-04 16:26:00"
 subscribers: 61
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Self sufficiency on mander.xyz
-
-[[home](/)]
-[[/c/selfsufficiency 🌎](https://mander.xyz/c/selfsufficiency)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions about achieving self-sufficiency
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-04 16:26:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

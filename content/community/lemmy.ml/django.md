@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/django"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 00:04:14"
+published: "2020-01-24 23:13:27"
 subscribers: 67
 posts: 18
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Django Web Framework on lemmy.ml
-
-[[home](/)]
-[[/c/django 🌎](https://lemmy.ml/c/django)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community dedicated to the Django Web Framework for Python.<br><br>Useful links:<br>* [Django Website](https://www.djangoproject.com/)<br>* [Django Documentation](https://docs.djangoproject.com/)<br>* [Django Source Code](https://github.com/django/django)<br><br>Rules:<br>* Posts must be relevant to Django<br>* No NSFW content<br>* No hate speech, bigotry, etc <br><br>Community icon from [vscode-django](https://github.com/vscode-django/vscode-django), licensed under the [MIT license](https://opensource.org/licenses/MIT)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 18  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-24 23:13:27 |
-| Updated              | 2021-01-29 00:04:14 |
-| Last Scraped         | 2023-06-19 11:36:47 |

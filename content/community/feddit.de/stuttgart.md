@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/stuttgart"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 07:29:24"
+published: "2023-06-16 07:21:33"
 subscribers: 28
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Stuttgart on feddit.de
-
-[[home](/)]
-[[/c/stuttgart 🌎](https://feddit.de/c/stuttgart)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles über den Kessel!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:21:33 |
-| Updated              | 2023-06-16 07:29:24 |
-| Last Scraped         | 2023-06-19 11:35:39 |

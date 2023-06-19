@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/gry"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-22 10:26:38"
+published: "2020-09-21 19:37:32"
 subscribers: 77
 posts: 72
 comments: 68
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/gry on szmer.info
-
-[[home](/)]
-[[/c/gry 🌎](https://szmer.info/c/gry)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Hejko gracze i graczki!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 72  |
-| Comments             | 68  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-09-21 19:37:32 |
-| Updated              | 2023-01-22 10:26:38 |
-| Last Scraped         | 2023-06-19 11:35:33 |

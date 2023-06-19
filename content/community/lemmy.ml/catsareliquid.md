@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/catsareliquid"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-15 18:13:20"
+published: "2021-02-15 00:15:30"
 subscribers: 154
 posts: 8
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cats Are Liquid on lemmy.ml
-
-[[home](/)]
-[[/c/catsareliquid 🌎](https://lemmy.ml/c/catsareliquid)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Photograph required, please.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 154 |
-| Posts                | 8  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-15 00:15:30 |
-| Updated              | 2021-02-15 18:13:20 |
-| Last Scraped         | 2023-06-19 11:36:58 |

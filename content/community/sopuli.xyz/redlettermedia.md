@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/redlettermedia"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-04-12 15:29:15"
 subscribers: 32
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Red Letter Media fan board on sopuli.xyz
-
-[[home](/)]
-[[/c/redlettermedia 🌎](https://sopuli.xyz/c/redlettermedia)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Endless TRAAAAASH!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-12 15:29:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

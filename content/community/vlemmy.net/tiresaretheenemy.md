@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/tiresaretheenemy"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:29:03"
+published: "2023-06-11 22:22:49"
 subscribers: 31
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/TiresAreTheEnemy on vlemmy.net
-
-[[home](/)]
-[[/c/tiresaretheenemy 🌎](https://vlemmy.net/c/tiresaretheenemy)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Tires are the enemy. Always remember that.<br><br>Don't trust them, don't turn your back on them, and do not invite them into your home.<br><br>Stay safe out there folks.<br><br>---<br>Rules:<br><br>-All of the standard VLemmy rules apply here<br><br>-This is not a gore channel. Do not show serious injuries, blood and especially not death.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:22:49 |
-| Updated              | 2023-06-12 11:29:03 |
-| Last Scraped         | 2023-06-19 11:35:05 |

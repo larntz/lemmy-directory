@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tsuki_games"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 11:57:10"
+published: "2023-06-17 11:56:33"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Tsuki Adventure and Odyssey on lemmy.world
-
-[[home](/)]
-[[/c/tsuki_games 🌎](https://lemmy.world/c/tsuki_games)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Join if you love this lovely bunny!<br>You can post anything related to the games:<br>Tsuki Odyssey<br>Tsuki Adventure<br>Tsuki Adventure 2<br><br>No hate speech, be nice!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 11:56:33 |
-| Updated              | 2023-06-17 11:57:10 |
-| Last Scraped         | 2023-06-19 11:36:36 |

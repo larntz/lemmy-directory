@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mikimatsubara"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 09:32:27"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Miki Matsubara on lemm.ee
-
-[[home](/)]
-[[/c/mikimatsubara 🌎](https://lemm.ee/c/mikimatsubara)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 09:32:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

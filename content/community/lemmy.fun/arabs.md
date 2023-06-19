@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fun/c/arabs"
 host: lemmy.fun
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-03 02:48:03"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fun"
 
 ---
-
-# /c/Arabs on lemmy.fun
-
-[[home](/)]
-[[/c/arabs 🌎](https://lemmy.fun/c/arabs)]
-[[lemmy.fun](/instances/lemmy_fun)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all Arabs all over the world :) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 02:48:03 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

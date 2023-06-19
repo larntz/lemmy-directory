@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jackandjill"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 17:02:49"
 subscribers: 88
 posts: 2
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Jack and Jill on lemmynsfw.com
-
-[[home](/)]
-[[/c/jackandjill 🌎](https://lemmynsfw.com/c/jackandjill)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Dedicated to self pleasure with a partner. <br><br>Photos, GIFs, drawings, and videos of mutual masturbation involving men (Jacking) AND women (Jilling).<br><br>Please be sure your submission has at least one member of each gender playing with their (or each other's) naughty bits at the same time.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 88 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 17:02:49 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

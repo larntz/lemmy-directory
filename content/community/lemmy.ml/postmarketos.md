@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postmarketos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 06:53:40"
+published: "2021-02-18 20:51:03"
 subscribers: 479
 posts: 90
 comments: 76
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/postmarketOS on lemmy.ml
-
-[[home](/)]
-[[/c/postmarketos 🌎](https://lemmy.ml/c/postmarketos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please do not ask here if we could port your device. We won't go and buy your device just to do the port. But you can try [porting yourself](https://wiki.postmarketos.org/wiki/Porting_to_a_new_device), it is not that hard and we will help you wherever you get stuck in the [chat](https://wiki.postmarketos.org/wiki/Matrix_and_IRC). If that is not an option for you, consider sending a device to a community member who agrees to do the porting for you (check the [milestones](https://wiki.postmarketos.org/wiki/Milestones)) or simply add it to the [wish list](https://wiki.postmarketos.org/wiki/Device_Wishlist).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 479 |
-| Posts                | 90  |
-| Comments             | 76  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-18 20:51:03 |
-| Updated              | 2023-06-08 06:53:40 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commandandconquer"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-16 18:31:21"
+published: "2021-02-17 08:49:06"
 subscribers: 6
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Command & Conquer on lemmy.ml
-
-[[home](/)]
-[[/c/commandandconquer 🌎](https://lemmy.ml/c/commandandconquer)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Command & Conquer community](https://cnc.community/)<br><br>[C&C Wiki](https://cnc.fandom.com/wiki/)<br><br>Related websites  <br>cncnz.com  <br>cncnet.org  <br>cnc-online.net
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-17 08:49:06 |
-| Updated              | 2021-04-16 18:31:21 |
-| Last Scraped         | 2023-06-16 22:57:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southdakota"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 02:28:08"
+published: "2023-06-04 01:31:14"
 subscribers: 5
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/South Dakota on lemmy.ml
-
-[[home](/)]
-[[/c/southdakota 🌎](https://lemmy.ml/c/southdakota)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 01:31:14 |
-| Updated              | 2023-06-04 02:28:08 |
-| Last Scraped         | 2023-06-19 11:36:46 |

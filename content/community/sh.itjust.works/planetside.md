@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/planetside"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 08:45:41"
+published: "2023-06-12 08:45:04"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/planetside on sh.itjust.works
-
-[[home](/)]
-[[/c/planetside 🌎](https://sh.itjust.works/c/planetside)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-tbd
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 08:45:04 |
-| Updated              | 2023-06-12 08:45:41 |
-| Last Scraped         | 2023-06-19 11:35:05 |

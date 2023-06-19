@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/howardplayzofadmin"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:12:14"
+published: "2023-06-13 22:00:28"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/LA Casa De Howard on pawb.social
-
-[[home](/)]
-[[/c/howardplayzofadmin 🌎](https://pawb.social/c/howardplayzofadmin)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-This community has some possible inappropriate involve
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 22:00:28 |
-| Updated              | 2023-06-13 23:12:14 |
-| Last Scraped         | 2023-06-19 11:34:55 |

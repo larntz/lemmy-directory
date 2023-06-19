@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/showerthoughts"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:02:11"
+published: "2023-06-09 05:12:07"
 subscribers: 572
 posts: 4
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/ShowerThoughts on sh.itjust.works
-
-[[home](/)]
-[[/c/showerthoughts 🌎](https://sh.itjust.works/c/showerthoughts)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Sometimes we have those little epiphanies in the shower.. sometimes they come from other places. This is a home for those epiphanies.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 572 |
-| Posts                | 4  |
-| Comments             | 18  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 05:12:07 |
-| Updated              | 2023-06-10 22:02:11 |
-| Last Scraped         | 2023-06-19 11:35:06 |

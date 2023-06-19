@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://haynerds.com/c/news"
 host: haynerds.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 16:33:07"
+published: "2023-06-08 18:17:35"
 subscribers: 2
 posts: 23
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "haynerds_com"
 
 ---
-
-# /c/News on haynerds.com
-
-[[home](/)]
-[[/c/news 🌎](https://haynerds.com/c/news)]
-[[haynerds.com](/instances/haynerds_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 23  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:17:35 |
-| Updated              | 2023-06-09 16:33:07 |
-| Last Scraped         | 2023-06-19 11:35:16 |

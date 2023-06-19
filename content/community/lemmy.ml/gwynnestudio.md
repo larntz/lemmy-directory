@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gwynnestudio"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-15 14:45:41"
+published: "2021-07-18 02:23:40"
 subscribers: 12
 posts: 5
 comments: 34
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Gwynne on lemmy.ml
-
-[[home](/)]
-[[/c/gwynnestudio 🌎](https://lemmy.ml/c/gwynnestudio)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 5  |
-| Comments             | 34  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-18 02:23:40 |
-| Updated              | 2021-08-15 14:45:41 |
-| Last Scraped         | 2023-06-19 11:36:44 |

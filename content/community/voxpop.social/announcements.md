@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://voxpop.social/c/announcements"
 host: voxpop.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:18:26"
+published: "2023-06-12 04:03:02"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "voxpop_social"
 
 ---
-
-# /c/VoxPop Announcements on voxpop.social
-
-[[home](/)]
-[[/c/announcements 🌎](https://voxpop.social/c/announcements)]
-[[voxpop.social](/instances/voxpop_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to VoxPop Announcements! This is your hub for the latest updates, improvements, and changes across VoxPop. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:03:02 |
-| Updated              | 2023-06-12 15:18:26 |
-| Last Scraped         | 2023-06-19 11:35:09 |

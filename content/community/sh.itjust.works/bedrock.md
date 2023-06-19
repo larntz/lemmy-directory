@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bedrock"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 12:24:12"
 subscribers: 20
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Bedrock linux on sh.itjust.works
-
-[[home](/)]
-[[/c/bedrock 🌎](https://sh.itjust.works/c/bedrock)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A lemmy community for the bedrock linux distribution  <br>[bedrock linux website](https://bedrocklinux.org/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 12:24:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

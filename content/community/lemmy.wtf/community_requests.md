@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/community_requests"
 host: lemmy.wtf
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 22:35:22"
+published: "2023-06-11 21:09:11"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_wtf"
 
 ---
-
-# /c/Community Requests on lemmy.wtf
-
-[[home](/)]
-[[/c/community_requests 🌎](https://lemmy.wtf/c/community_requests)]
-[[lemmy.wtf](/instances/lemmy_wtf)]
-
-
-## Description 
-
-<blockquote class="description">
-You can request a new community or dead / abandoned communities to be transferred.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:09:11 |
-| Updated              | 2023-06-11 22:35:22 |
-| Last Scraped         | 2023-06-19 11:35:18 |

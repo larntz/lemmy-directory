@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/okbuddychicanery"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 09:50:31"
 subscribers: 27
 posts: 9
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Breaking Bad, Better Call Saul & El Camino shitposting community on sh.itjust.works
-
-[[home](/)]
-[[/c/okbuddychicanery 🌎](https://sh.itjust.works/c/okbuddychicanery)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy's equivalent to r/okbuddychicanery subreddit. A place to share brain damaged memes about the Vinceverse.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 9  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 09:50:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

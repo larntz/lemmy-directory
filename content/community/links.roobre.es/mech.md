@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://links.roobre.es/c/mech"
 host: links.roobre.es
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-16 12:08:14"
+published: "2022-05-15 11:24:07"
 subscribers: 7
 posts: 82
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "links_roobre_es"
 
 ---
-
-# /c/⚙️ Workshop on links.roobre.es
-
-[[home](/)]
-[[/c/mech 🌎](https://links.roobre.es/c/mech)]
-[[links.roobre.es](/instances/links_roobre_es)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 82  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-15 11:24:07 |
-| Updated              | 2023-01-16 12:08:14 |
-| Last Scraped         | 2023-06-19 11:35:29 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hiphop"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 19:08:36"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/Hip-Hop Culture on lemmy.sdf.org
-
-[[home](/)]
-[[/c/hiphop 🌎](https://lemmy.sdf.org/c/hiphop)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-All things hip-hop related. Lyricism, rap, culture, MC, DJ, graf writers, b-boys and dancers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:08:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:02 |

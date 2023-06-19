@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.theonecurly.page/c/meta"
 host: lemmy.theonecurly.page
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 13:30:30"
+published: "2023-06-15 13:20:46"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_theonecurly_page"
 
 ---
-
-# /c/Meta on lemmy.theonecurly.page
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.theonecurly.page/c/meta)]
-[[lemmy.theonecurly.page](/instances/lemmy_theonecurly_page)]
-
-
-## Description 
-
-<blockquote class="description">
-Local Community for discussion related to this instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:20:46 |
-| Updated              | 2023-06-15 13:30:30 |
-| Last Scraped         | 2023-06-19 11:35:26 |

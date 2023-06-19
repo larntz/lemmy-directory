@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/algerie"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-21 09:44:29"
+published: "2023-04-21 09:18:49"
 subscribers: 8
 posts: 11
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Algérie on lemmy.ml
-
-[[home](/)]
-[[/c/algerie 🌎](https://lemmy.ml/c/algerie)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#**Commnauté Algérie**<br><br>Destinée à recevoir tout article ou discussion à propos de l’Algérie.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 11  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-21 09:18:49 |
-| Updated              | 2023-04-21 09:44:29 |
-| Last Scraped         | 2023-06-19 11:36:44 |

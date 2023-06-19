@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/classactionpark"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:26:40"
+published: "2023-06-16 11:26:33"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Class Action Park on lemmy.zip
-
-[[home](/)]
-[[/c/classactionpark 🌎](https://lemmy.zip/c/classactionpark)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-Theme park attractions gone wrong
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 11:26:33 |
-| Updated              | 2023-06-16 11:26:40 |
-| Last Scraped         | 2023-06-19 11:35:15 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/plants"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-05-20 09:52:34"
 subscribers: 82
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Plants on mander.xyz
-
-[[home](/)]
-[[/c/plants 🌎](https://mander.xyz/c/plants)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 82 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-20 09:52:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

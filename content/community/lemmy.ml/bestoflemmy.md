@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestoflemmy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-12 03:03:09"
+published: "2022-01-26 17:30:01"
 subscribers: 40
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/BestofLemmy -> sub migrated on lemmy.ml
-
-[[home](/)]
-[[/c/bestoflemmy 🌎](https://lemmy.ml/c/bestoflemmy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Transition sub to lemmy.ca/c/bestofthefediverse - use that instead](https://lemmy.ca/c/bestofthefediverse)<br><br>If you cannot connect to it, feel free to continue using this sub
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 40 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-26 17:30:01 |
-| Updated              | 2022-08-12 03:03:09 |
-| Last Scraped         | 2023-06-19 11:36:45 |

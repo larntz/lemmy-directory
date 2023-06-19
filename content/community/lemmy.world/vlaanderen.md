@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vlaanderen"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:22:54"
+published: "2023-06-10 21:26:12"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Vlaanderen on lemmy.world
-
-[[home](/)]
-[[/c/vlaanderen 🌎](https://lemmy.world/c/vlaanderen)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:26:12 |
-| Updated              | 2023-06-12 07:22:54 |
-| Last Scraped         | 2023-06-19 11:36:41 |

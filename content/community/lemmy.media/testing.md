@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.media/c/testing"
 host: lemmy.media
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:07:54"
+published: "2023-06-13 10:46:35"
 subscribers: 2
 posts: 3
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_media"
 
 ---
-
-# /c/Test on lemmy.media
-
-[[home](/)]
-[[/c/testing 🌎](https://lemmy.media/c/testing)]
-[[lemmy.media](/instances/lemmy_media)]
-
-
-## Description 
-
-<blockquote class="description">
-A community used only for testing. Posting is restricted to moderators only.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 10:46:35 |
-| Updated              | 2023-06-13 23:07:54 |
-| Last Scraped         | 2023-06-19 11:35:22 |

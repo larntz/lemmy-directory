@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/amish"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 12:34:01"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Amish on lemmy.zip
-
-[[home](/)]
-[[/c/amish 🌎](https://lemmy.zip/c/amish)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to Amish
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:34:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/montreal"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-12 22:08:24"
+published: "2020-07-12 21:11:15"
 subscribers: 16
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Montreal on lemmy.ml
-
-[[home](/)]
-[[/c/montreal 🌎](https://lemmy.ml/c/montreal)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Pour tout ce qui concerne Montréal, les montréalais/es.<br><br>Des propos haineux, abusifs, sexistes, *phobiques, etc. ne sont pas tolérés.<br><br>--<br><br>For anything concerning Montréal or Montrealers. <br><br>Hate speech, abuse, sexism, *phobia aren't tolerated. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-12 21:11:15 |
-| Updated              | 2020-07-12 22:08:24 |
-| Last Scraped         | 2023-06-19 11:36:44 |

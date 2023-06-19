@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ochlokracja"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-10-14 11:40:43"
 subscribers: 85
 posts: 9
 comments: 72
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Elo, precz z elitami on szmer.info
-
-[[home](/)]
-[[/c/ochlokracja 🌎](https://szmer.info/c/ochlokracja)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 85 |
-| Posts                | 9  |
-| Comments             | 72  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-14 11:40:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

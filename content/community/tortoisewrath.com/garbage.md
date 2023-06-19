@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tortoisewrath.com/c/garbage"
 host: tortoisewrath.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 05:02:11"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tortoisewrath_com"
 
 ---
-
-# /c/this is where i put my garbage on tortoisewrath.com
-
-[[home](/)]
-[[/c/garbage 🌎](https://tortoisewrath.com/c/garbage)]
-[[tortoisewrath.com](/instances/tortoisewrath_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:02:11 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

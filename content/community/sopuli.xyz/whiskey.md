@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/whiskey"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 15:54:24"
+published: "2023-06-07 19:27:28"
 subscribers: 62
 posts: 6
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Whiskey on sopuli.xyz
-
-[[home](/)]
-[[/c/whiskey 🌎](https://sopuli.xyz/c/whiskey)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-# Welcome!<br>Hi and welcome to whiskey! A place where we discuss, review, and read articles about whiskey. Any style goes, including Bourbon, Scotch, Rye, Wheat, Canadian, Irish, White Dogs, and everything in between. Please consult the guides and rules before posting<br><br>## Rules<br>1. Be respectful of discourse<br>2. No Trading/Buying Alcohol<br>3. No Valuation/Dating Bottle Requests<br>4. No Advertising/Spam<br>5. No URL shorteners (bit.ly, tinyurl, etc)/Affiliate Links.<br>6. No NSFW submission
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 62 |
-| Posts                | 6  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 19:27:28 |
-| Updated              | 2023-06-09 15:54:24 |
-| Last Scraped         | 2023-06-19 11:35:32 |

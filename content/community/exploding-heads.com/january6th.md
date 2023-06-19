@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/january6th"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-13 00:41:59"
+published: "2022-02-28 11:49:08"
 subscribers: 13
 posts: 288
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/January 6th on exploding-heads.com
-
-[[home](/)]
-[[/c/january6th 🌎](https://exploding-heads.com/c/january6th)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-So what really happened on January 6th?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 288  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-28 11:49:08 |
-| Updated              | 2022-03-13 00:41:59 |
-| Last Scraped         | 2023-06-19 11:35:38 |

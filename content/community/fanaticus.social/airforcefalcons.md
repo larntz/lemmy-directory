@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/airforcefalcons"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 00:08:00"
+published: "2023-06-14 23:06:58"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Air Force Falcons on fanaticus.social
-
-[[home](/)]
-[[/c/airforcefalcons 🌎](https://fanaticus.social/c/airforcefalcons)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Air Force Falcons athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:06:58 |
-| Updated              | 2023-06-15 00:08:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

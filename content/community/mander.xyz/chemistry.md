@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/chemistry"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-12-19 11:29:50"
 subscribers: 162
 posts: 15
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Chemistry on mander.xyz
-
-[[home](/)]
-[[/c/chemistry 🌎](https://mander.xyz/c/chemistry)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 162 |
-| Posts                | 15  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-19 11:29:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

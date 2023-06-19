@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/offtopic"
 host: lemmy.nz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 00:38:54"
 subscribers: 59
 posts: 8
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nz"
 
 ---
-
-# /c/Off topic on lemmy.nz
-
-[[home](/)]
-[[/c/offtopic 🌎](https://lemmy.nz/c/offtopic)]
-[[lemmy.nz](/instances/lemmy_nz)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for NZ discussion about non-NZ things, or anything that doesn't fit in another community.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 8  |
-| Comments             | 25  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 21  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:38:54 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

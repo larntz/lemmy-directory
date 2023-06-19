@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mets"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:46:57"
+published: "2023-06-12 22:44:05"
 subscribers: 13
 posts: 4
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mets on lemmy.world
-
-[[home](/)]
-[[/c/mets 🌎](https://lemmy.world/c/mets)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Let’s go Mets! Mets’ new home on the Fediverse. <br><br>1. Be respectful (no hate, racism, anti LGBTIQIA)<br><br>2. No NSFW<br><br>4. No chat spamming/intentional reposts<br><br>5. Have fun!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:44:05 |
-| Updated              | 2023-06-13 18:46:57 |
-| Last Scraped         | 2023-06-19 11:36:39 |

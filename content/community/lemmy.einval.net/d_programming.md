@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/d_programming"
 host: lemmy.einval.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 13:56:23"
+published: "2023-06-05 23:32:07"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_einval_net"
 
 ---
-
-# /c/D Programming on lemmy.einval.net
-
-[[home](/)]
-[[/c/d_programming 🌎](https://lemmy.einval.net/c/d_programming)]
-[[lemmy.einval.net](/instances/lemmy_einval_net)]
-
-
-## Description 
-
-<blockquote class="description">
-D:<br>- https://dlang.org/<br><br>D Language Reference:<br>- https://dlang.org/spec/spec.html<br><br>D(sub) package index:<br>- https://code.dlang.org/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 23:32:07 |
-| Updated              | 2023-06-06 13:56:23 |
-| Last Scraped         | 2023-06-19 11:34:57 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gamers"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-08-20 19:17:31"
 subscribers: 627
 posts: 99
 comments: 279
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/the most oppressed minority on lemmygrad.ml
-
-[[home](/)]
-[[/c/gamers 🌎](https://lemmygrad.ml/c/gamers)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 627 |
-| Posts                | 99  |
-| Comments             | 279  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-20 19:17:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:09 |

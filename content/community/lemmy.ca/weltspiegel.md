@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/weltspiegel"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-19 00:03:16"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Weltspiegel on lemmy.ca
-
-[[home](/)]
-[[/c/weltspiegel 🌎](https://lemmy.ca/c/weltspiegel)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-🌍🗞️ Deutschsprachige Nachrichtenmeldungen zu Geschehnissen *außerhalb* Europas und Nordamerikas.<br><br>Kein Rassismus, kein Sexismus. Niemals.<br><br>Titelbild: DALL-E
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 00:03:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:36 |

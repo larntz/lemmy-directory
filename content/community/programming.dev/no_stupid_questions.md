@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/no_stupid_questions"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:07:49"
+published: "2023-06-12 23:39:02"
 subscribers: 93
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/No Stupid Questions on programming.dev
-
-[[home](/)]
-[[/c/no_stupid_questions 🌎](https://programming.dev/c/no_stupid_questions)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 93 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 23:39:02 |
-| Updated              | 2023-06-13 03:07:49 |
-| Last Scraped         | 2023-06-19 11:35:01 |

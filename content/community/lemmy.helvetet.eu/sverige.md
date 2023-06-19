@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/sverige"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-01 17:23:23"
+published: "2023-04-01 17:22:20"
 subscribers: 107
 posts: 19
 comments: 29
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Sverige on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/sverige 🌎](https://lemmy.helvetet.eu/c/sverige)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-En svensk gemenskap
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 107 |
-| Posts                | 19  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-01 17:22:20 |
-| Updated              | 2023-04-01 17:23:23 |
-| Last Scraped         | 2023-06-19 11:35:28 |

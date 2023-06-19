@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/funny"
 host: latte.isnot.coffee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 08:27:08"
 subscribers: 41
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "latte_isnot_coffee"
 
 ---
-
-# /c/funny on latte.isnot.coffee
-
-[[home](/)]
-[[/c/funny 🌎](https://latte.isnot.coffee/c/funny)]
-[[latte.isnot.coffee](/instances/latte_isnot_coffee)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 08:27:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

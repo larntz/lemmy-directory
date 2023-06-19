@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/animepics"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 00:18:40"
+published: "2023-06-07 04:17:28"
 subscribers: 417
 posts: 105
 comments: 82
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Anime & Pics on reddthat.com
-
-[[home](/)]
-[[/c/animepics 🌎](https://reddthat.com/c/animepics)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the discussion of anything surrounding anime, manga, manhwa, light novels, visual novels, and hentai.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 417 |
-| Posts                | 105  |
-| Comments             | 82  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 29  |
-| Monthly Active Users | 38  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 04:17:28 |
-| Updated              | 2023-06-10 00:18:40 |
-| Last Scraped         | 2023-06-19 11:35:02 |

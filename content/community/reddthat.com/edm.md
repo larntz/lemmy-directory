@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/edm"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 21:29:41"
+published: "2023-06-15 10:18:13"
 subscribers: 3
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/EDM, Techno, Hardstyle, etc on reddthat.com
-
-[[home](/)]
-[[/c/edm 🌎](https://reddthat.com/c/edm)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything that goes doof doof, slaps, or makes you go to lala land. <br><br>Hardstyle, Trance, PsyTrance, Dubstep, HardHouse, DnB, Dance, House and anything in-between.<br><br>https://en.m.wikipedia.org/wiki/List_of_electronic_music_genres
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 10:18:13 |
-| Updated              | 2023-06-15 21:29:41 |
-| Last Scraped         | 2023-06-19 11:35:02 |

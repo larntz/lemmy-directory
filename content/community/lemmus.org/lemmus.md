@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmus.org/c/lemmus"
 host: lemmus.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 02:32:17"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmus_org"
 
 ---
-
-# /c/lemmus on lemmus.org
-
-[[home](/)]
-[[/c/lemmus 🌎](https://lemmus.org/c/lemmus)]
-[[lemmus.org](/instances/lemmus_org)]
-
-
-## Description 
-
-<blockquote class="description">
-For all posts related to the lemmus.org instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 02:32:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:31 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dccomics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-07 13:05:36"
+published: "2020-06-28 15:49:23"
 subscribers: 44
 posts: 9
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/DCcomics on lemmy.ml
-
-[[home](/)]
-[[/c/dccomics 🌎](https://lemmy.ml/c/dccomics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for anything DC related whether that be the comics, movies, television shows, cartoons, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 9  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 15:49:23 |
-| Updated              | 2020-07-07 13:05:36 |
-| Last Scraped         | 2023-06-19 11:36:46 |

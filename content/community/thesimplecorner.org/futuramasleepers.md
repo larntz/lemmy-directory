@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/futuramasleepers"
 host: thesimplecorner.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:47:35"
+published: "2023-06-10 01:02:04"
 subscribers: 25
 posts: 2
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "thesimplecorner_org"
 
 ---
-
-# /c/FuturamaSleepers on thesimplecorner.org
-
-[[home](/)]
-[[/c/futuramasleepers 🌎](https://thesimplecorner.org/c/futuramasleepers)]
-[[thesimplecorner.org](/instances/thesimplecorner_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Good News Everyone!<br><br>Discuss the show you never knew other people fell asleep to! 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:02:04 |
-| Updated              | 2023-06-15 01:47:35 |
-| Last Scraped         | 2023-06-19 11:35:13 |

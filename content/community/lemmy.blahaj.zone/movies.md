@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/movies"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 14:06:45"
+published: "2023-06-11 14:01:42"
 subscribers: 41
 posts: 2
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/Movies @ Blahaj on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/movies 🌎](https://lemmy.blahaj.zone/c/movies)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 2  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 14:01:42 |
-| Updated              | 2023-06-11 14:06:45 |
-| Last Scraped         | 2023-06-19 11:35:28 |

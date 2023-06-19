@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tartaria"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-11-18 17:06:23"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tartaria on lemmy.ml
-
-[[home](/)]
-[[/c/tartaria 🌎](https://lemmy.ml/c/tartaria)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Maybe the History we've been told is a lie! Were some ancient buildings built by a different race and their true history was covered up? Did ancient peoples have advanced forms of technology that have now been forgotten? Was the massive kingdom of Tartaria visible on ancient maps much more advanced than we realize? This sub is an open forum for collaborative discussion of all topics Tartaria related, including Mud Flood, Tesla, AntiquiTech, Free Energy, Conspiracies, Hidden History, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-18 17:06:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:53 |

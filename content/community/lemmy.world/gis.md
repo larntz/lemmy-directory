@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gis"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 01:59:36"
+published: "2023-06-12 01:39:26"
 subscribers: 45
 posts: 3
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Geographic Information Systems on lemmy.world
-
-[[home](/)]
-[[/c/gis 🌎](https://lemmy.world/c/gis)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things GIS (Geographic Information Systems) -- QGIS, ESRI, and more.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 3  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 01:39:26 |
-| Updated              | 2023-06-12 01:59:36 |
-| Last Scraped         | 2023-06-16 22:57:15 |

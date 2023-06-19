@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/portugues"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-13 11:34:19"
+published: "2021-09-10 19:48:14"
 subscribers: 26
 posts: 11
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/Português on lemmy.pt
-
-[[home](/)]
-[[/c/portugues 🌎](https://lemmy.pt/c/portugues)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Um lugar para qualquer tipo de discussão sobre a nossa Língua Portuguesa.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 11  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-10 19:48:14 |
-| Updated              | 2021-09-13 11:34:19 |
-| Last Scraped         | 2023-06-19 11:35:23 |

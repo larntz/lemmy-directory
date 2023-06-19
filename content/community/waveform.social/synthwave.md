@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/synthwave"
 host: waveform.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 12:47:48"
 subscribers: 17
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "waveform_social"
 
 ---
-
-# /c/Synthwave on waveform.social
-
-[[home](/)]
-[[/c/synthwave 🌎](https://waveform.social/c/synthwave)]
-[[waveform.social](/instances/waveform_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Synthwave AKA Outrun is an electronic music genre based on the music associated with action, science-fiction, and horror film soundtracks of the 1980s.<br><br>Let's use this place to post our favourite Synthwave tracks, discuss upcoming releases, show off our own efforts and discuss production techniques!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:47:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:17 |

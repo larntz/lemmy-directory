@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/samsung_galaxy_s22"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 15:10:28"
+published: "2023-06-18 15:03:15"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Samsung Galaxy S22 on lemmy.ml
-
-[[home](/)]
-[[/c/samsung_galaxy_s22 🌎](https://lemmy.ml/c/samsung_galaxy_s22)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community dedicated to news, discussion, and questions about the Galaxy S22 series and related Samsung products.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 15:03:15 |
-| Updated              | 2023-06-18 15:10:28 |
-| Last Scraped         | 2023-06-19 11:36:39 |

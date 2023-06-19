@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/unket"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 11:16:13"
+published: "2023-06-15 09:13:11"
 subscribers: 1
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/unket on sh.itjust.works
-
-[[home](/)]
-[[/c/unket 🌎](https://sh.itjust.works/c/unket)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Välkommen till unket, lemmys motsvarighet till /r/unket, fast unknare.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 09:13:11 |
-| Updated              | 2023-06-15 11:16:13 |
-| Last Scraped         | 2023-06-19 11:35:05 |

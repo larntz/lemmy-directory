@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alcoholicbuddhists"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 20:04:03"
+published: "2023-06-11 01:51:51"
 subscribers: 6
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Alcoholic Buddhists on lemmy.world
-
-[[home](/)]
-[[/c/alcoholicbuddhists 🌎](https://lemmy.world/c/alcoholicbuddhists)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A sub for Buddhists trying to drink less to none.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 01:51:51 |
-| Updated              | 2023-06-17 20:04:03 |
-| Last Scraped         | 2023-06-19 11:36:41 |

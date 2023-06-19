@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.keychat.org/c/test"
 host: lemmy.keychat.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 17:42:55"
 subscribers: 1
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_keychat_org"
 
 ---
-
-# /c/Test on lemmy.keychat.org
-
-[[home](/)]
-[[/c/test 🌎](https://lemmy.keychat.org/c/test)]
-[[lemmy.keychat.org](/instances/lemmy_keychat_org)]
-
-
-## Description 
-
-<blockquote class="description">
-for testing
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:42:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |

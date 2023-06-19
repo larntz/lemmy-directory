@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cymraeg"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 20:11:36"
+published: "2023-06-11 03:07:40"
 subscribers: 7
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Cymraeg on lemmy.world
-
-[[home](/)]
-[[/c/cymraeg 🌎](https://lemmy.world/c/cymraeg)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Siarad yn Gymraeg yma!<br>Speak Welsh here!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 03:07:40 |
-| Updated              | 2023-06-11 20:11:36 |
-| Last Scraped         | 2023-06-19 11:36:42 |

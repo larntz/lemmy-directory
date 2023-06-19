@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/niepokoj"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-27 19:58:34"
+published: "2021-04-27 19:36:54"
 subscribers: 29
 posts: 60
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Niepokój on szmer.info
-
-[[home](/)]
-[[/c/niepokoj 🌎](https://szmer.info/c/niepokoj)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Dla wszystkich, którzy potrzebują się podzielić horrorami w swoich głowach - tym, co nie pozwala spać, tłumi optymizm, motywuje do buntu, straszy, złości i smuci.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 60  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-27 19:36:54 |
-| Updated              | 2021-04-27 19:58:34 |
-| Last Scraped         | 2023-06-19 11:35:33 |

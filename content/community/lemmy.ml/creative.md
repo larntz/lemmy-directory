@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/creative"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-22 12:21:20"
+published: "2021-05-15 22:51:09"
 subscribers: 29
 posts: 8
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/creative on lemmy.ml
-
-[[home](/)]
-[[/c/creative 🌎](https://lemmy.ml/c/creative)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything arts and craft or generally creative.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 8  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-15 22:51:09 |
-| Updated              | 2021-05-22 12:21:20 |
-| Last Scraped         | 2023-06-19 11:36:59 |

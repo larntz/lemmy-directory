@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sigmarxism"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-08-24 13:18:18"
 subscribers: 129
 posts: 11
 comments: 56
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Sigmarxism on lemmygrad.ml
-
-[[home](/)]
-[[/c/sigmarxism 🌎](https://lemmygrad.ml/c/sigmarxism)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Because Warhammer is cool and reactionaries shouldn't get to have all the fun.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 129 |
-| Posts                | 11  |
-| Comments             | 56  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-24 13:18:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

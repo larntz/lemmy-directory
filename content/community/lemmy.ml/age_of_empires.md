@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/age_of_empires"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-19 17:53:45"
+published: "2020-10-01 14:07:57"
 subscribers: 32
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Age of Empires on lemmy.ml
-
-[[home](/)]
-[[/c/age_of_empires 🌎](https://lemmy.ml/c/age_of_empires)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Age of Empires Lemmy community! All AoE games are welcome here!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-01 14:07:57 |
-| Updated              | 2021-05-19 17:53:45 |
-| Last Scraped         | 2023-06-19 11:36:48 |

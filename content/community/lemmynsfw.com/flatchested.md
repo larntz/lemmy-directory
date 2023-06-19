@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/flatchested"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 05:03:12"
+published: "2023-06-18 03:35:54"
 subscribers: 60
 posts: 4
 comments: 4
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Flatchested18 on lemmynsfw.com
-
-[[home](/)]
-[[/c/flatchested 🌎](https://lemmynsfw.com/c/flatchested)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Females - flatchested<br><br>Emphasis is on flatness appearance, not necessarily on bra cup sizes.<br><br>Feel free to let me know if you want to help moderate here.<br><br>r/Flatchested18
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 03:35:54 |
-| Updated              | 2023-06-18 05:03:12 |
-| Last Scraped         | 2023-06-19 11:35:45 |

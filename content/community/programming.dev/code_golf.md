@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/code_golf"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 04:16:33"
+published: "2023-06-16 03:19:24"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Code Golf on programming.dev
-
-[[home](/)]
-[[/c/code_golf 🌎](https://programming.dev/c/code_golf)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 03:19:24 |
-| Updated              | 2023-06-16 04:16:33 |
-| Last Scraped         | 2023-06-19 11:35:01 |

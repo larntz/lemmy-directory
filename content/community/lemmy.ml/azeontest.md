@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/azeontest"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 12:31:30"
+published: "2023-06-09 12:23:56"
 subscribers: 1
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Azeon's Test Place on lemmy.ml
-
-[[home](/)]
-[[/c/azeontest 🌎](https://lemmy.ml/c/azeontest)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Just a place for me to test things.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 12:23:56 |
-| Updated              | 2023-06-09 12:31:30 |
-| Last Scraped         | 2023-06-19 11:37:00 |

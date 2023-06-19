@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuckoldcaptions"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 05:58:19"
 subscribers: 98
 posts: 8
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Cuckold and Hotwife Captions on lemmynsfw.com
-
-[[home](/)]
-[[/c/cuckoldcaptions 🌎](https://lemmynsfw.com/c/cuckoldcaptions)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A space for cuckoldry, hotwifing, and related captions.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 98 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:58:19 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:45 |

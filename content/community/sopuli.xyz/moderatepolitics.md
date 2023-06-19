@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/moderatepolitics"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-04-15 00:20:57"
 subscribers: 49
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Moderate Politics on sopuli.xyz
-
-[[home](/)]
-[[/c/moderatepolitics 🌎](https://sopuli.xyz/c/moderatepolitics)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for a wide range of opinions to be expressed in a moderate fashion.<br><br># Rules<br>## Civil discourse<br>Do not engage in personal attacks or insults against any person or group. Comment on content, policies, and actions. Do not accuse fellow commenters of being intentionally misleading or disingenuous; assume good faith at all times.<br><br>## Submission Requirements<br>* Starter comments - All links must have a starter comment posted within 30 minutes. It must contain at least 2 of these 3 elements: (1) a brief summary in your own words, (2) your opinion of the topic, (3) a starter question/discussion point.<br>* Editorialized Titles - Link Posts must use the title of the linked article.<br>* Media Posts - Link Posts to images, videos, memes, screenshots, and social media are not permitted.<br><br>## No Violent Content<br>Do not post content that encourages, glorifies, incites, or calls for violence or physical harm against an individual or a group of people. Certain types of content that are worthy of discussion (e.g. educational, newsworthy, artistic, satire, documentary, etc.) may be exempt. Ensure you provide context to the viewer so the reason for posting is clear.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-15 00:20:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

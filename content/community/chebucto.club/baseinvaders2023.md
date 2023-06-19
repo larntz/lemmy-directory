@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/baseinvaders2023"
 host: chebucto.club
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-05-26 01:48:04"
 subscribers: 1
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "chebucto_club"
 
 ---
-
-# /c/Base Invaders - Tuesdays on chebucto.club
-
-[[home](/)]
-[[/c/baseinvaders2023 🌎](https://chebucto.club/c/baseinvaders2023)]
-[[chebucto.club](/instances/chebucto_club)]
-
-
-## Description 
-
-<blockquote class="description">
-A space for Base Invaders players to organize, discuss games, check if players on other teams can fill in, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-26 01:48:04 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gaybros"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 19:23:13"
+published: "2023-06-12 22:08:19"
 subscribers: 136
 posts: 6
 comments: 33
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/GayBros on lemmy.world
-
-[[home](/)]
-[[/c/gaybros 🌎](https://lemmy.world/c/gaybros)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-###### Rules:<br><br>- Remember the human. <br>- We are all bros here;<br>- This is not a porn community. <br><br>------<br><br>If you want a porn related community, check out [/c/gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com). Their sidebar also has other nsfw communities. You have to edit your settings though, if you want to see NSFW content. Without enabling that option (in your account settings), you won't even see the posts.<br><br>------<br><br>Logo design credit goes to [@snowe@programming.dev](https://programming.dev/comment/77886)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 136 |
-| Posts                | 6  |
-| Comments             | 33  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:08:19 |
-| Updated              | 2023-06-18 19:23:13 |
-| Last Scraped         | 2023-06-19 11:36:37 |

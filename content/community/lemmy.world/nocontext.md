@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nocontext"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:36:05"
+published: "2023-06-16 19:55:13"
 subscribers: 16
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/No Context on lemmy.world
-
-[[home](/)]
-[[/c/nocontext 🌎](https://lemmy.world/c/nocontext)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Funny quotes with zero context
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 19:55:13 |
-| Updated              | 2023-06-16 22:36:05 |
-| Last Scraped         | 2023-06-19 11:36:36 |

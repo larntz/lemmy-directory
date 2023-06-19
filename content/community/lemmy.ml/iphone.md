@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iphone"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-05 02:29:57"
+published: "2020-06-29 07:53:19"
 subscribers: 352
 posts: 11
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/iPhone on lemmy.ml
-
-[[home](/)]
-[[/c/iphone 🌎](https://lemmy.ml/c/iphone)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 352 |
-| Posts                | 11  |
-| Comments             | 18  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 07:53:19 |
-| Updated              | 2021-05-05 02:29:57 |
-| Last Scraped         | 2023-06-19 11:36:46 |

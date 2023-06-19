@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/trupijad"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-08-20 09:57:06"
 subscribers: 15
 posts: 4
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Trupi Jad - Magazyn  on szmer.info
-
-[[home](/)]
-[[/c/trupijad 🌎](https://szmer.info/c/trupijad)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Magazyn Strasznie Kulturalny
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-20 09:57:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

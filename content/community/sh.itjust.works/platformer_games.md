@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/platformer_games"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 17:32:14"
+published: "2023-06-12 17:03:00"
 subscribers: 34
 posts: 4
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Platformer Games on sh.itjust.works
-
-[[home](/)]
-[[/c/platformer_games 🌎](https://sh.itjust.works/c/platformer_games)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to platformer games, both 2d and 3d. From your Marios and Sonics all the way to your Shovel Knights and Celestes.<br><br>Rules:<br>* No discussions of piracy or other illegal stuffs.<br>* No breaking sh.itjust.works instance rules.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:03:00 |
-| Updated              | 2023-06-12 17:32:14 |
-| Last Scraped         | 2023-06-19 11:35:05 |

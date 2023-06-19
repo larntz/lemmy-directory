@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reddit"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-08-23 09:57:07"
 subscribers: 8340
 posts: 373
 comments: 5956
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Reddit on lemmy.ml
-
-[[home](/)]
-[[/c/reddit 🌎](https://lemmy.ml/c/reddit)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8340 |
-| Posts                | 373  |
-| Comments             | 5956  |
-| Daily Active Users   | 400  |
-| Weekly Active Users  | 2068  |
-| Monthly Active Users | 2539  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-23 09:57:07 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

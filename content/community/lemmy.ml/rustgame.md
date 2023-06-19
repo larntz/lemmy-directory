@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rustgame"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:48:57"
+published: "2023-06-12 06:53:11"
 subscribers: 4
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/RustGame on lemmy.ml
-
-[[home](/)]
-[[/c/rustgame 🌎](https://lemmy.ml/c/rustgame)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to Facepunch's Rust game
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 06:53:11 |
-| Updated              | 2023-06-12 12:48:57 |
-| Last Scraped         | 2023-06-19 11:37:01 |

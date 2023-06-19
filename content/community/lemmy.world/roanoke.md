@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roanoke"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:37:23"
+published: "2023-06-15 18:46:24"
 subscribers: 3
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Roanoke, VA on lemmy.world
-
-[[home](/)]
-[[/c/roanoke 🌎](https://lemmy.world/c/roanoke)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A space for all things Roanoke, VA.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 18:46:24 |
-| Updated              | 2023-06-16 20:37:23 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motorhead"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:47:13"
+published: "2023-06-12 16:34:23"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Motörhead on lemmy.world
-
-[[home](/)]
-[[/c/motorhead 🌎](https://lemmy.world/c/motorhead)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Only way to feel the noise is when it's good and loud<br><br>**Other Communities:**<br><br>[Metal](https://lemmy.world/c/metal@lemmy.world)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:34:23 |
-| Updated              | 2023-06-12 21:47:13 |
-| Last Scraped         | 2023-06-19 11:36:41 |

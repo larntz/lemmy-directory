@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/camping"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 11:27:39"
+published: "2023-06-13 11:26:36"
 subscribers: 298
 posts: 11
 comments: 51
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/camping on sh.itjust.works
-
-[[home](/)]
-[[/c/camping 🌎](https://sh.itjust.works/c/camping)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-All things back-country camping!<br>Gear discussions, destination talks and everything else within that realm
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 298 |
-| Posts                | 11  |
-| Comments             | 51  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:26:36 |
-| Updated              | 2023-06-13 11:27:39 |
-| Last Scraped         | 2023-06-19 11:35:05 |

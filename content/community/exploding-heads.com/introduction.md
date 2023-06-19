@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/introduction"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-05-31 11:04:35"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Introductions on exploding-heads.com
-
-[[home](/)]
-[[/c/introduction 🌎](https://exploding-heads.com/c/introduction)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Introduce yourself, tell everyone things about you we might want to know
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-31 11:04:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

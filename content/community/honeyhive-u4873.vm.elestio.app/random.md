@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://honeyhive-u4873.vm.elestio.app/c/random"
 host: honeyhive-u4873.vm.elestio.app
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 21:03:37"
+published: "2023-06-14 19:17:55"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "honeyhive-u4873_vm_elestio_app"
 
 ---
-
-# /c/random on honeyhive-u4873.vm.elestio.app
-
-[[home](/)]
-[[/c/random 🌎](https://honeyhive-u4873.vm.elestio.app/c/random)]
-[[honeyhive-u4873.vm.elestio.app](/instances/honeyhive-u4873_vm_elestio_app)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for content that doesn't fit in our other communities
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:17:55 |
-| Updated              | 2023-06-14 21:03:37 |
-| Last Scraped         | 2023-06-19 11:35:25 |

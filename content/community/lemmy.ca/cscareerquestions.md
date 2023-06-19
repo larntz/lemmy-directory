@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cscareerquestions"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 08:54:43"
 subscribers: 8
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/CS Career Questions Canada on lemmy.ca
-
-[[home](/)]
-[[/c/cscareerquestions 🌎](https://lemmy.ca/c/cscareerquestions)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-# About<br>A community for those with questions about working in the tech industry or in a CS/dev/programmer related job specifically in Canada.<br><br># Rules<br>1. Posts must relate to Canada<br>2. Posts must relate to careers in computer science or tech<br>3. No Harassment, Violence, Trolling, or Humble Bragging<br>4. No Sexism<br>5. No Low effort posts<br>6. No spam, self-promotion, or advertising<br>7. Any AMAs, formal surveys and other data collection must be approved my mods<br>8. Name & Shames are only for behavior that is blatantly unethical, illegal, or exceptionally shitty.<br>9. No sexist, racist, homophobic, transphobic or other hate spreading content<br>10. No misinformation<br><br># Want to ask a question?<br>1. Read the Rules<br>2. Search for the post<br>3. If you can't find it, post<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 08:54:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:36 |

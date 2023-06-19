@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arting"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-07 05:21:53"
+published: "2020-05-30 05:36:36"
 subscribers: 28
 posts: 10
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Visual artists' community on lemmy.ml
-
-[[home](/)]
-[[/c/arting 🌎](https://lemmy.ml/c/arting)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please be sure to source and credit any resources shared that you didn't make yourself (on top of the usual copyright concerns). <br><br>A community for people making digital and traditional visual art; illustration is welcome, graphic design probably case-by-case. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 10  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-05-30 05:36:36 |
-| Updated              | 2020-08-07 05:21:53 |
-| Last Scraped         | 2023-06-19 11:36:55 |

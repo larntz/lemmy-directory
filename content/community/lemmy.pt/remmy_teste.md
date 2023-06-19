@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/remmy_teste"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 00:01:44"
+published: "2021-10-10 15:49:59"
 subscribers: 5
 posts: 8
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/testes remmy on lemmy.pt
-
-[[home](/)]
-[[/c/remmy_teste 🌎](https://lemmy.pt/c/remmy_teste)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunidade de testes para a biblioteca [remmy](https://sr.ht/~tmpod/remmy).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 8  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-10 15:49:59 |
-| Updated              | 2023-06-12 00:01:44 |
-| Last Scraped         | 2023-06-19 11:35:23 |

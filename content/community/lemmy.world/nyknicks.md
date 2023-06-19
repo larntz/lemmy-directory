@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyknicks"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 20:20:34"
+published: "2023-06-13 20:03:52"
 subscribers: 28
 posts: 16
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/NY Knicks on lemmy.world
-
-[[home](/)]
-[[/c/nyknicks 🌎](https://lemmy.world/c/nyknicks)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Yerrrrr<br><br>**Rules**<br><br>-No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. <br><br>-Be respectful, especially when disagreeing. Everyone should feel welcome here.<br><br>-No porn<br><br>-No Ads / Spamming.<br><br>For general NBA chat or a list of all the other team subs head to https://lemmy.world/c/nba----
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 16  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 20:03:52 |
-| Updated              | 2023-06-13 20:20:34 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/modern"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:00:37"
+published: "2023-06-09 20:05:59"
 subscribers: 42
 posts: 2
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Modern on mtgzone.com
-
-[[home](/)]
-[[/c/modern 🌎](https://mtgzone.com/c/modern)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Modern format discussion**<br><br>Modern is a non-rotating format that allows all cards that have been printed in a core or expansion set from the origination of the modern card, or 8th Edition. Additional supplemental sets printed specifically for Modern are also allowed.<br><br>Read more at [Modern's official website](https://magic.wizards.com/en/formats/modern).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:05:59 |
-| Updated              | 2023-06-14 18:00:37 |
-| Last Scraped         | 2023-06-19 11:35:14 |

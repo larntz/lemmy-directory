@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/elon"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-27 13:08:35"
+published: "2022-05-14 16:45:41"
 subscribers: 22
 posts: 23
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Elon -> sub moving on lemmy.ca
-
-[[home](/)]
-[[/c/elon 🌎](https://lemmy.ca/c/elon)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Moved to https://lemmy.ca/c/billionaire
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 23  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-14 16:45:41 |
-| Updated              | 2023-01-27 13:08:35 |
-| Last Scraped         | 2023-06-19 11:35:36 |

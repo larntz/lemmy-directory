@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stringer"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-01-14 23:49:01"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/A blogging platform for the decentralized web on lemmy.ml
-
-[[home](/)]
-[[/c/stringer 🌎](https://lemmy.ml/c/stringer)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for the ActivityPub powered blogging platform Stringer.<br><br>- [Website](https://stringer.blog)<br>- [Mastodon](https://mastodon.social/@stringerblog)<br>- [Matrix](https://matrix.to/#/#stringer:matrix.org)<br>- [Code](https://codeberg.org/Stringer/stringer-web)<br>- [Support / Help](https://codeberg.org/Stringer/stringer-web/issues)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-14 23:49:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

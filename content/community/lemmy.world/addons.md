@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/addons"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:17:49"
+published: "2023-06-12 14:59:00"
 subscribers: 41
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Add-ons on lemmy.world
-
-[[home](/)]
-[[/c/addons 🌎](https://lemmy.world/c/addons)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing extensions and scripts that enhance your web browsing experience.<br><br>While this community is primarily aimed at browser extensions (Add-ons), discussion about userscripts and userstyles is also allowed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:59:00 |
-| Updated              | 2023-06-12 15:17:49 |
-| Last Scraped         | 2023-06-19 11:36:40 |

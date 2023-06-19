@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukmedicalcannabis"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 03:37:08"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/UK Medical Cannabis on feddit.uk
-
-[[home](/)]
-[[/c/ukmedicalcannabis 🌎](https://feddit.uk/c/ukmedicalcannabis)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Cannabis prescriptions became legal in the UK in 2018. This is a place for those seeking advice and to share information, knowledge & news about legal medical cannabis obtained by a prescription as well as the clinics and pharmacies that provide it. This is also a community, where patients can come together and forge friendships with others who share similar experiences.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 03:37:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

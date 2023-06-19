@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/meta"
 host: lemmyrs.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 03:24:56"
+published: "2023-06-07 07:51:12"
 subscribers: 91
 posts: 11
 comments: 65
@@ -22,36 +23,3 @@ tags:
 - "lemmyrs_org"
 
 ---
-
-# /c/LemmyRS: Meta on lemmyrs.org
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmyrs.org/c/meta)]
-[[lemmyrs.org](/instances/lemmyrs_org)]
-
-
-## Description 
-
-<blockquote class="description">
-# Goal<br><br>Meta is primarily to talk about the state of lemmyrs.org and the communities within it.<br><br>Potential moderator(s) and administrator(s) shall use this to discuss responsibilities.<br><br># Rules [Developing]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 11  |
-| Comments             | 65  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 07:51:12 |
-| Updated              | 2023-06-18 03:24:56 |
-| Last Scraped         | 2023-06-19 11:35:01 |

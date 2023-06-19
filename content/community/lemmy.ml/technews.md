@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technews"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-01 12:41:34"
+published: "2021-06-22 16:46:59"
 subscribers: 520
 posts: 215
 comments: 210
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tech News on lemmy.ml
-
-[[home](/)]
-[[/c/technews 🌎](https://lemmy.ml/c/technews)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## What is this?<br>A new place to discuss Tech News<br>## Rules <br>1. No NSFW content<br>2. No conspiracy theory articles <br>3. No politics unless it involves tech <br>4. Don't be mean! <br>5. Nothing illegal can be posted here because it's illegal!<br>## Who runs this lemmy community?<br>Me! Sandro Linux, a youtuber who does tech news videos as well as other tech videos<br>## Will any of these articles be used in your show?<br>If they are good yes :)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 520 |
-| Posts                | 215  |
-| Comments             | 210  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-22 16:46:59 |
-| Updated              | 2022-05-01 12:41:34 |
-| Last Scraped         | 2023-06-16 22:57:45 |

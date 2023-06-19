@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/china_irl"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 03:38:09"
+published: "2023-06-12 03:16:28"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/China IRL on lemmy.world
-
-[[home](/)]
-[[/c/china_irl 🌎](https://lemmy.world/c/china_irl)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-也许最后的时刻到了<br><br>我没有留下遗嘱<br><br>只留下笔，<br><br>给我的母亲<br><br><br>我并不是英雄<br><br>在没有英雄的年代里<br><br>我只想做一个人<br><br><br>                   宁静的地平线<br><br> <br>分开了<br><br>生者和死者的行列<br><br>我只能选择天空<br><br>决不跪在地上<br><br>以显出刽子手们的高大<br><br>好阻挡自由的风<br><br>从星星的弹孔里<br><br>将流出血红的黎明<br><br><br># 请尽量使用中文进行交流
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 03:16:28 |
-| Updated              | 2023-06-12 03:38:09 |
-| Last Scraped         | 2023-06-19 11:36:42 |

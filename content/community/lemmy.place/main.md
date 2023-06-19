@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.place/c/main"
 host: lemmy.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 01:33:52"
+published: "2023-06-14 01:20:48"
 subscribers: 2
 posts: 2
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_place"
 
 ---
-
-# /c/Lemmy.place Main Community on lemmy.place
-
-[[home](/)]
-[[/c/main 🌎](https://lemmy.place/c/main)]
-[[lemmy.place](/instances/lemmy_place)]
-
-
-## Description 
-
-<blockquote class="description">
-Only news related to the Lemmy.place server will posted here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:20:48 |
-| Updated              | 2023-06-14 01:33:52 |
-| Last Scraped         | 2023-06-19 11:35:23 |

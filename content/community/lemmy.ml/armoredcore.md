@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/armoredcore"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-23 00:14:23"
+published: "2021-03-23 00:10:34"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Armored Core on lemmy.ml
-
-[[home](/)]
-[[/c/armoredcore 🌎](https://lemmy.ml/c/armoredcore)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-23 00:10:34 |
-| Updated              | 2021-03-23 00:14:23 |
-| Last Scraped         | 2023-06-19 11:36:46 |

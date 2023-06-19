@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ultralight"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-29 23:54:59"
 subscribers: 47
 posts: 8
 comments: 24
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ultralight on lemmy.ml
-
-[[home](/)]
-[[/c/ultralight 🌎](https://lemmy.ml/c/ultralight)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Ultralight Backpacking!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 8  |
-| Comments             | 24  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 23:54:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:46 |

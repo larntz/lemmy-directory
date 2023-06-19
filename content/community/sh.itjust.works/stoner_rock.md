@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/stoner_rock"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 19:49:46"
+published: "2023-06-11 18:59:43"
 subscribers: 84
 posts: 13
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/stoner_rock on sh.itjust.works
-
-[[home](/)]
-[[/c/stoner_rock 🌎](https://sh.itjust.works/c/stoner_rock)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for stoner, doom, heavy blues, psych and just good rock n roll.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 13  |
-| Comments             | 18  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:59:43 |
-| Updated              | 2023-06-14 19:49:46 |
-| Last Scraped         | 2023-06-19 11:35:05 |

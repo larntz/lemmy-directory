@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/egg_irl"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-08-12 20:22:06"
 subscribers: 121
 posts: 7
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/egg_irl on lemmy.ml
-
-[[home](/)]
-[[/c/egg_irl 🌎](https://lemmy.ml/c/egg_irl)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Memes about people who haven't discovered that they're transgender
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 121 |
-| Posts                | 7  |
-| Comments             | 13  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-12 20:22:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:47 |

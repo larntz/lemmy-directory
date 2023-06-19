@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/veloren"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-28 13:30:17"
+published: "2019-08-17 22:53:27"
 subscribers: 137
 posts: 43
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Veloren on lemmy.ml
-
-[[home](/)]
-[[/c/veloren 🌎](https://lemmy.ml/c/veloren)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Veloren is a community-developed multiplayer voxel RPG written in Rust. It takes inspiration from Cube World, Legend of Zelda, and Dwarf Fortress.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 137 |
-| Posts                | 43  |
-| Comments             | 13  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-17 22:53:27 |
-| Updated              | 2021-01-28 13:30:17 |
-| Last Scraped         | 2023-06-16 11:07:32 |

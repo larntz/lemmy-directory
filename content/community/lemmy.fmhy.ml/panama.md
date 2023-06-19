@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/panama"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 18:51:43"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Panama on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/panama 🌎](https://lemmy.fmhy.ml/c/panama)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:51:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/purism"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-15 15:45:16"
+published: "2021-06-13 14:40:28"
 subscribers: 34
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Purism on lemmy.ml
-
-[[home](/)]
-[[/c/purism 🌎](https://lemmy.ml/c/purism)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-13 14:40:28 |
-| Updated              | 2021-06-15 15:45:16 |
-| Last Scraped         | 2023-06-19 11:36:44 |

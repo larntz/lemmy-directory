@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lef.li/c/armbian"
 host: lef.li
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 14:59:55"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lef_li"
 
 ---
-
-# /c/Armbian on lef.li
-
-[[home](/)]
-[[/c/armbian 🌎](https://lef.li/c/armbian)]
-[[lef.li](/instances/lef_li)]
-
-
-## Description 
-
-<blockquote class="description">
-Linux for ARM development boards
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 14:59:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:27 |

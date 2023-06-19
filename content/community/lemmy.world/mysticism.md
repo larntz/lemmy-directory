@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mysticism"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:15:41"
+published: "2023-06-12 07:56:07"
 subscribers: 31
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mysticism on lemmy.world
-
-[[home](/)]
-[[/c/mysticism 🌎](https://lemmy.world/c/mysticism)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for mysticism and spirituality.<br><br>Mysticism is the pursuit of communion with, identity with, or conscious awareness of an ultimate reality, divinity, spiritual truth, or God through direct experience, intuition, instinct or insight.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:56:07 |
-| Updated              | 2023-06-12 12:15:41 |
-| Last Scraped         | 2023-06-19 11:36:40 |

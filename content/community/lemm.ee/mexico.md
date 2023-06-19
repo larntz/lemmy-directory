@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mexico"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 04:47:05"
 subscribers: 7
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Mexico on lemm.ee
-
-[[home](/)]
-[[/c/mexico 🌎](https://lemm.ee/c/mexico)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-Una comunidad en donde puedes hablar y discutir sobre todo lo relacionado a Mexico
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:47:05 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

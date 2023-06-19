@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/stlouisblues"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 04:39:59"
 subscribers: 9
 posts: 2
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/St. Louis Blues on midwest.social
-
-[[home](/)]
-[[/c/stlouisblues 🌎](https://midwest.social/c/stlouisblues)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion regarding to the NHL hockey team, the St Louis Blues
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 04:39:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |

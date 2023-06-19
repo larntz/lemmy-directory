@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dutchfire"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 23:45:51"
+published: "2023-06-10 23:45:16"
 subscribers: 12
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/DutchFire on lemmy.ml
-
-[[home](/)]
-[[/c/dutchfire 🌎](https://lemmy.ml/c/dutchfire)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-De opvolger van /r/DutchFIRE
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 23:45:16 |
-| Updated              | 2023-06-10 23:45:51 |
-| Last Scraped         | 2023-06-19 11:36:44 |

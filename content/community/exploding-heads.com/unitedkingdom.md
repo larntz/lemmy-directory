@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/unitedkingdom"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-08-07 18:45:10"
 subscribers: 23
 posts: 133
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/United Kingdom on exploding-heads.com
-
-[[home](/)]
-[[/c/unitedkingdom 🌎](https://exploding-heads.com/c/unitedkingdom)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 133  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-07 18:45:10 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

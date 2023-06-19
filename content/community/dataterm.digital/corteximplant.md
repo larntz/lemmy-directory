@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/corteximplant"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 19:52:22"
+published: "2023-06-11 16:59:22"
 subscribers: 56
 posts: 2
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/CORTEX IMPLANT on dataterm.digital
-
-[[home](/)]
-[[/c/corteximplant 🌎](https://dataterm.digital/c/corteximplant)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-The Official Sub for the [CORTEX IMPLANT](https://corteximplant.com) Community. Discuss problems, feedback and wishes here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 2  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:59:22 |
-| Updated              | 2023-06-11 19:52:22 |
-| Last Scraped         | 2023-06-19 11:35:18 |

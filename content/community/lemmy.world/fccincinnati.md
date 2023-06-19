@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fccincinnati"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:21:58"
+published: "2023-06-12 03:41:51"
 subscribers: 9
 posts: 7
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/FC Cincinnati on lemmy.world
-
-[[home](/)]
-[[/c/fccincinnati 🌎](https://lemmy.world/c/fccincinnati)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for FC Cincinnati discussion and content <br><br>Make sure to check out the MLS community:<br> https://lemmy.world/c/mls
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 7  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 03:41:51 |
-| Updated              | 2023-06-13 03:21:58 |
-| Last Scraped         | 2023-06-19 11:36:42 |

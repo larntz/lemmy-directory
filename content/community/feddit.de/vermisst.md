@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vermisst"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:18:48"
+published: "2023-06-12 07:16:26"
 subscribers: 5
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Vermisst on feddit.de
-
-[[home](/)]
-[[/c/vermisst 🌎](https://feddit.de/c/vermisst)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Community für alles rund um Vermisstenfälle.<br>Neue Fälle, gelöste Fälle, Coldcases - Alles ist hier willkommen.<br><br>Bitte geht respektvoll mit den Fällen und deren betroffenen um. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:16:26 |
-| Updated              | 2023-06-12 07:18:48 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxadmin"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-14 08:59:16"
+published: "2022-01-13 18:44:46"
 subscribers: 91
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Linux Admin: Expanding Linux SysAdmin Knowledge on lemmy.ml
-
-[[home](/)]
-[[/c/linuxadmin 🌎](https://lemmy.ml/c/linuxadmin)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Expanding Linux SysAdmin Knowledge
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-13 18:44:46 |
-| Updated              | 2022-01-14 08:59:16 |
-| Last Scraped         | 2023-06-19 11:36:43 |

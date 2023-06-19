@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/asslick"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 07:05:31"
+published: "2023-06-14 23:21:50"
 subscribers: 38
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/asslick on lemmynsfw.com
-
-[[home](/)]
-[[/c/asslick 🌎](https://lemmynsfw.com/c/asslick)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-An alternative to r/asslick. Posts must contain relevant content of F/F or F/M ass licking. Do not violate sitewide rules. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:21:50 |
-| Updated              | 2023-06-15 07:05:31 |
-| Last Scraped         | 2023-06-19 11:35:46 |

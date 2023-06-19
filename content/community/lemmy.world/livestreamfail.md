@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/livestreamfail"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:54:54"
+published: "2023-06-11 21:38:20"
 subscribers: 68
 posts: 5
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Livestream Fails on lemmy.world
-
-[[home](/)]
-[[/c/livestreamfail 🌎](https://lemmy.world/c/livestreamfail)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:38:20 |
-| Updated              | 2023-06-15 22:54:54 |
-| Last Scraped         | 2023-06-19 11:36:39 |

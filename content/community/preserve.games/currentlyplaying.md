@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/currentlyplaying"
 host: preserve.games
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 00:07:19"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "preserve_games"
 
 ---
-
-# /c/Currently Playing on preserve.games
-
-[[home](/)]
-[[/c/currentlyplaying 🌎](https://preserve.games/c/currentlyplaying)]
-[[preserve.games](/instances/preserve_games)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a place where you can talk about games you're currently playing, rant about Diablo 4, or praise the good games you like!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 00:07:19 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

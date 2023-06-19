@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/punjab"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-23 14:27:32"
+published: "2021-05-22 09:04:38"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Punjab on lemmy.ml
-
-[[home](/)]
-[[/c/punjab 🌎](https://lemmy.ml/c/punjab)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for people of Punjab, regardless of which state claims their land
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-22 09:04:38 |
-| Updated              | 2021-05-23 14:27:32 |
-| Last Scraped         | 2023-06-16 22:57:29 |

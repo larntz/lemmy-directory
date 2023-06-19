@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/support"
 host: lemmy.nz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-03 03:47:57"
 subscribers: 84
 posts: 37
 comments: 359
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nz"
 
 ---
-
-# /c/Support on lemmy.nz
-
-[[home](/)]
-[[/c/support 🌎](https://lemmy.nz/c/support)]
-[[lemmy.nz](/instances/lemmy_nz)]
-
-
-## Description 
-
-<blockquote class="description">
-Ask your questions here
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 84 |
-| Posts                | 37  |
-| Comments             | 359  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 57  |
-| Monthly Active Users | 67  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 03:47:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

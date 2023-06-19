@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fantasy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-28 08:51:12"
 subscribers: 877
 posts: 18
 comments: 216
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Fantasy books, stories, &c on lemmy.ml
-
-[[home](/)]
-[[/c/fantasy 🌎](https://lemmy.ml/c/fantasy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 877 |
-| Posts                | 18  |
-| Comments             | 216  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 49  |
-| Monthly Active Users | 79  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 08:51:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:37:02 |

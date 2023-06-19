@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/microbiology"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 01:39:31"
 subscribers: 30
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Microbiology on mander.xyz
-
-[[home](/)]
-[[/c/microbiology 🌎](https://mander.xyz/c/microbiology)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Wee beasties and the scientists who love them<br><br>- microbiology<br>- virology<br>- microbial ecology <br>- microbiomes<br>- pathogens
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:39:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/machloje_pis"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-07 20:54:05"
+published: "2021-03-17 12:08:25"
 subscribers: 53
 posts: 469
 comments: 107
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Machloje i przekręty PiSowców on szmer.info
-
-[[home](/)]
-[[/c/machloje_pis 🌎](https://szmer.info/c/machloje_pis)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Jest jeszcze społeczność o przekrętach opozycji:<br><br>https://szmer.info/c/platformaobywatelska
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 469  |
-| Comments             | 107  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-17 12:08:25 |
-| Updated              | 2023-05-07 20:54:05 |
-| Last Scraped         | 2023-06-16 22:56:32 |

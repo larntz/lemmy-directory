@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shoplifting"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-06 18:34:28"
+published: "2022-03-25 11:06:34"
 subscribers: 20
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Shoplifting  on lemmy.ml
-
-[[home](/)]
-[[/c/shoplifting 🌎](https://lemmy.ml/c/shoplifting)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-No big retail shills
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-25 11:06:34 |
-| Updated              | 2022-06-06 18:34:28 |
-| Last Scraped         | 2023-06-19 11:36:47 |

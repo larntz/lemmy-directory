@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/jenniferlawrence"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:42:03"
+published: "2023-06-14 07:27:19"
 subscribers: 49
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Jennifer Lawrence on lemmynsfw.com
-
-[[home](/)]
-[[/c/jenniferlawrence 🌎](https://lemmynsfw.com/c/jenniferlawrence)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Jennifer Lawrence's pictures, gifs, and videos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:27:19 |
-| Updated              | 2023-06-14 12:42:03 |
-| Last Scraped         | 2023-06-19 11:35:46 |

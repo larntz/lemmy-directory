@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radarr"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:45:02"
+published: "2023-06-15 04:13:16"
 subscribers: 16
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Radarr on lemmy.world
-
-[[home](/)]
-[[/c/radarr 🌎](https://lemmy.world/c/radarr)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Sonarr community. <br><br>Feel free to post anything related to Sonarr.<br><br>[Radarr website](https://radarr.video)<br><br>[Radarr Dockerhub](https://hub.docker.com/r/linuxserver/radarr)<br><br>[Trash Guides](https://trash-guides.info/)<br><br>[Sonarr community](https://lemmy.world/c/sonarr)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:13:16 |
-| Updated              | 2023-06-16 01:45:02 |
-| Last Scraped         | 2023-06-19 11:36:37 |

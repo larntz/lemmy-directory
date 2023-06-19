@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/christian_socialism"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-24 08:17:09"
+published: "2022-03-24 08:15:16"
 subscribers: 26
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Christian Socialism on lemmygrad.ml
-
-[[home](/)]
-[[/c/christian_socialism 🌎](https://lemmygrad.ml/c/christian_socialism)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A space for Christians on lemmygrad.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-24 08:15:16 |
-| Updated              | 2022-03-24 08:17:09 |
-| Last Scraped         | 2023-06-19 11:35:08 |

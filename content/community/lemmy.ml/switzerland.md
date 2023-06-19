@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switzerland"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-15 21:46:56"
+published: "2021-12-14 22:15:56"
 subscribers: 32
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Switzerland on lemmy.ml
-
-[[home](/)]
-[[/c/switzerland 🌎](https://lemmy.ml/c/switzerland)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Post news, opinions or upcoming events relating to Switzerland.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 22:15:56 |
-| Updated              | 2021-12-15 21:46:56 |
-| Last Scraped         | 2023-06-19 11:36:44 |

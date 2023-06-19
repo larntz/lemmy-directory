@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://occult.social/c/communityads"
 host: occult.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 10:19:14"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "occult_social"
 
 ---
-
-# /c/Introduce your community on occult.social
-
-[[home](/)]
-[[/c/communityads 🌎](https://occult.social/c/communityads)]
-[[occult.social](/instances/occult_social)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is to show people your own Fediverse communities.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:19:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

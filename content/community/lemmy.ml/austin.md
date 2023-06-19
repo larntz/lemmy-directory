@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/austin"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-28 13:13:41"
+published: "2020-06-30 05:06:38"
 subscribers: 17
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/City (and future commune) of Austin, TX on lemmy.ml
-
-[[home](/)]
-[[/c/austin 🌎](https://lemmy.ml/c/austin)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-30 05:06:38 |
-| Updated              | 2021-03-28 13:13:41 |
-| Last Scraped         | 2023-06-19 11:36:45 |

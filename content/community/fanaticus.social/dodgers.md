@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/dodgers"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:47:06"
+published: "2023-06-09 17:14:11"
 subscribers: 5
 posts: 8
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Dodgers on fanaticus.social
-
-[[home](/)]
-[[/c/dodgers 🌎](https://fanaticus.social/c/dodgers)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [r/Dodgers](https://old.reddit.com/r/Dodgers)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:14:11 |
-| Updated              | 2023-06-12 16:47:06 |
-| Last Scraped         | 2023-06-19 11:35:15 |

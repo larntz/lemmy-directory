@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.house/c/privacy"
 host: monero.house
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-20 01:24:25"
+published: "2023-02-20 01:11:07"
 subscribers: 25
 posts: 7
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "monero_house"
 
 ---
-
-# /c/Privacy on monero.house
-
-[[home](/)]
-[[/c/privacy 🌎](https://monero.house/c/privacy)]
-[[monero.house](/instances/monero_house)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for privacy!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 7  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-20 01:11:07 |
-| Updated              | 2023-02-20 01:24:25 |
-| Last Scraped         | 2023-06-19 11:34:53 |

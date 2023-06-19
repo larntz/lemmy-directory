@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/shittyfoodporn"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:23:35"
+published: "2023-06-16 01:08:00"
 subscribers: 60
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/shittyfoodporn on discuss.tchncs.de
-
-[[home](/)]
-[[/c/shittyfoodporn 🌎](https://discuss.tchncs.de/c/shittyfoodporn)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for images of shitty food<br><br>Please only post shitty food. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 01:08:00 |
-| Updated              | 2023-06-16 01:23:35 |
-| Last Scraped         | 2023-06-19 11:34:55 |

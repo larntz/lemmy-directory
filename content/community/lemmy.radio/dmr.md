@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/dmr"
 host: lemmy.radio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:49:52"
+published: "2023-06-12 13:47:50"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_radio"
 
 ---
-
-# /c/DMR on lemmy.radio
-
-[[home](/)]
-[[/c/dmr 🌎](https://lemmy.radio/c/dmr)]
-[[lemmy.radio](/instances/lemmy_radio)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:47:50 |
-| Updated              | 2023-06-12 18:49:52 |
-| Last Scraped         | 2023-06-19 11:35:20 |

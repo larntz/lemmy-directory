@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/livestreamfail"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 22:45:46"
+published: "2023-06-12 22:25:00"
 subscribers: 33
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Live Stream Fail (LSF) on sh.itjust.works
-
-[[home](/)]
-[[/c/livestreamfail 🌎](https://sh.itjust.works/c/livestreamfail)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to /c/LivestreamFail: the place for almost anything livestream related. No moderators of this subreddit work for Twitch or any streaming platforms.<br><br># Rules<br><br>1. **Be respectful:** We want this community to be a fun and welcoming place for everyone. Please be respectful to your fellow community members and avoid personal attacks, hate speech, or any other form of discrimination.<br><br>2. **Stay on topic:** This community is dedicated to live streaming fails and related content. Please keep your posts and comments relevant to the topic at hand.<br><br>3. **No self-promotion:** While we encourage sharing content from other creators, please refrain from promoting your own content or channels. This includes links to your own streams or social media profiles.<br><br>4. **No reposts:** Before posting, please check to make sure that the content you're sharing hasn't already been posted. Duplicate posts will be removed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:25:00 |
-| Updated              | 2023-06-12 22:45:46 |
-| Last Scraped         | 2023-06-19 11:35:05 |

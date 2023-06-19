@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.kemomimi.fans/c/random"
 host: lemmy.kemomimi.fans
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 08:07:06"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_kemomimi_fans"
 
 ---
-
-# /c/random posting on lemmy.kemomimi.fans
-
-[[home](/)]
-[[/c/random 🌎](https://lemmy.kemomimi.fans/c/random)]
-[[lemmy.kemomimi.fans](/instances/lemmy_kemomimi_fans)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 08:07:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:25 |

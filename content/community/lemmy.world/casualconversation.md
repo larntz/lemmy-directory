@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/casualconversation"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:19:32"
+published: "2023-06-11 01:20:47"
 subscribers: 380
 posts: 8
 comments: 42
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Casual Conversation on lemmy.world
-
-[[home](/)]
-[[/c/casualconversation 🌎](https://lemmy.world/c/casualconversation)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Share a story, ask a question, or start a conversation about (almost) anything you desire. Maybe you'll make some friends in the process.<br>***<br><br>**RULES**<br><br>-Be respectful: We have zero tolerance for harassment, hate speech, bigotry, and/or trolling<br><br>-Encourage conversation in your post<br><br>-Don’t post to vent, complain, or express sadness<br><br>-Avoid topics of negative mental health and hardship<br><br>-Avoid posting about problems with relationships, medical or mental health, and legal issues<br><br>-Avoid controversial topics<br><br>-Keep it clean and SFW: No illegal content or anything gross and inappropriate<br><br>-No solicitation such as ads, promotional content, spam, surveys etc.<br><br>-Respect privacy: Don’t ask for or share any personal information
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 380 |
-| Posts                | 8  |
-| Comments             | 42  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 30  |
-| Monthly Active Users | 30  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 01:20:47 |
-| Updated              | 2023-06-12 21:19:32 |
-| Last Scraped         | 2023-06-16 22:57:15 |

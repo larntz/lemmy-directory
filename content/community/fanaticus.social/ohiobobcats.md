@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/ohiobobcats"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 01:31:33"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Ohio Bobcats on fanaticus.social
-
-[[home](/)]
-[[/c/ohiobobcats 🌎](https://fanaticus.social/c/ohiobobcats)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Ohio Bobcats athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 01:31:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://ymmel.nl/c/nec"
 host: ymmel.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 07:38:38"
+published: "2023-06-14 06:56:44"
 subscribers: 1
 posts: 2
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "ymmel_nl"
 
 ---
-
-# /c/N.E.C. Nijmegen on ymmel.nl
-
-[[home](/)]
-[[/c/nec 🌎](https://ymmel.nl/c/nec)]
-[[ymmel.nl](/instances/ymmel_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Over de mooiste club uit Gelderland: N.E.C.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 06:56:44 |
-| Updated              | 2023-06-15 07:38:38 |
-| Last Scraped         | 2023-06-19 11:35:22 |

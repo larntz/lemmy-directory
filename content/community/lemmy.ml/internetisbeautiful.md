@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/internetisbeautiful"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-06-27 20:02:44"
 subscribers: 306
 posts: 8
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The internet is beautiful. on lemmy.ml
-
-[[home](/)]
-[[/c/internetisbeautiful 🌎](https://lemmy.ml/c/internetisbeautiful)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-show your favorite things you have found on the internet that is amazing or beautiful.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 306 |
-| Posts                | 8  |
-| Comments             | 15  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-27 20:02:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

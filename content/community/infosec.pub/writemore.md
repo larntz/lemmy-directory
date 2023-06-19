@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/writemore"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:13:00"
+published: "2023-06-14 16:20:08"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/WriteMore on infosec.pub
-
-[[home](/)]
-[[/c/writemore 🌎](https://infosec.pub/c/writemore)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:20:08 |
-| Updated              | 2023-06-14 18:13:00 |
-| Last Scraped         | 2023-06-16 22:55:53 |

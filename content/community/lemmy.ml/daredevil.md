@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/daredevil"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 03:41:41"
+published: "2023-06-07 02:27:45"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Daredevil on lemmy.ml
-
-[[home](/)]
-[[/c/daredevil 🌎](https://lemmy.ml/c/daredevil)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A sublemmy for discussion of the Marvel character Daredevil.<br><br>**Rules:**<br>- Be civil<br>- Credit artists when possible<br>- No spoilers or piracy<br>- No posts unrelated to Daredevil
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 02:27:45 |
-| Updated              | 2023-06-11 03:41:41 |
-| Last Scraped         | 2023-06-19 11:36:46 |

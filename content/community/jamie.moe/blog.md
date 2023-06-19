@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://jamie.moe/c/blog"
 host: jamie.moe
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 16:53:26"
+published: "2023-06-16 06:50:58"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "jamie_moe"
 
 ---
-
-# /c/Jamie Blog on jamie.moe
-
-[[home](/)]
-[[/c/blog 🌎](https://jamie.moe/c/blog)]
-[[jamie.moe](/instances/jamie_moe)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community where I blog about things I'm doing. These will usually be relevant to the Fediverse, or generally just technical in nature.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:50:58 |
-| Updated              | 2023-06-18 16:53:26 |
-| Last Scraped         | 2023-06-19 11:35:30 |

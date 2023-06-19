@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ananace.dev/c/helmcharts"
 host: lemmy.ananace.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:04:51"
+published: "2023-06-11 11:37:53"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ananace_dev"
 
 ---
-
-# /c/Personal Helm Charts on lemmy.ananace.dev
-
-[[home](/)]
-[[/c/helmcharts 🌎](https://lemmy.ananace.dev/c/helmcharts)]
-[[lemmy.ananace.dev](/instances/lemmy_ananace_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-## [My Helm Charts](https://gitlab.com/ananace/charts)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 11:37:53 |
-| Updated              | 2023-06-14 07:04:51 |
-| Last Scraped         | 2023-06-19 11:35:17 |

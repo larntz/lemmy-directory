@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pico8"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:34:08"
+published: "2023-06-15 04:31:50"
 subscribers: 14
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/PICO8 on lemmy.world
-
-[[home](/)]
-[[/c/pico8 🌎](https://lemmy.world/c/pico8)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss the PICO-8 Fantasy Console from [Lexaloffle](https://www.lexaloffle.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:31:50 |
-| Updated              | 2023-06-15 04:34:08 |
-| Last Scraped         | 2023-06-19 11:36:37 |

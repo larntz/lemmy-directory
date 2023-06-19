@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/football"
 host: lemmy.glasgow.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-12-03 23:21:35"
 subscribers: 1
 posts: 1038
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_glasgow_social"
 
 ---
-
-# /c/Football on lemmy.glasgow.social
-
-[[home](/)]
-[[/c/football 🌎](https://lemmy.glasgow.social/c/football)]
-[[lemmy.glasgow.social](/instances/lemmy_glasgow_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1038  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-03 23:21:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |

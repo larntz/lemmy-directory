@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/loveland"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:55:49"
+published: "2023-06-12 21:34:15"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Loveland, CO on infosec.pub
-
-[[home](/)]
-[[/c/loveland 🌎](https://infosec.pub/c/loveland)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Loveland, Colorado
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:34:15 |
-| Updated              | 2023-06-12 21:55:49 |
-| Last Scraped         | 2023-06-16 22:55:53 |

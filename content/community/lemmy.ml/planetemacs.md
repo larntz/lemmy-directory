@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/planetemacs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-13 04:36:30"
+published: "2021-04-13 04:20:46"
 subscribers: 76
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Planet Emacs: Emacs News, Packages, Articles, Videos & more on lemmy.ml
-
-[[home](/)]
-[[/c/planetemacs 🌎](https://lemmy.ml/c/planetemacs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Emacs News, Packages, Articles, Videos, Events & more** <br><br>This is a sister community of <br>1. [/c/emacs](https://lemmy.ml/c/emacs)<br>2. [/c/orgmode](https://lemmy.ml/c/orgmode)<br>3. [/c/spacemacs](https://lemmy.ml/c/spacemacs) <br>4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-13 04:20:46 |
-| Updated              | 2021-04-13 04:36:30 |
-| Last Scraped         | 2023-06-19 11:37:01 |

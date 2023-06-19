@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alcohol"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 21:55:42"
+published: "2021-01-28 21:46:35"
 subscribers: 35
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Alcohol on lemmy.ml
-
-[[home](/)]
-[[/c/alcohol 🌎](https://lemmy.ml/c/alcohol)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for discussion and recommendation of any kind of alcoholic beverages, its history and related topics.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-28 21:46:35 |
-| Updated              | 2021-01-29 21:55:42 |
-| Last Scraped         | 2023-06-19 11:36:54 |

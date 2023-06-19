@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/excel"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 06:49:56"
+published: "2023-06-13 06:49:09"
 subscribers: 9
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Excel is Cool! on lemmy.ml
-
-[[home](/)]
-[[/c/excel 🌎](https://lemmy.ml/c/excel)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Prove to the world Excel is cool!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 06:49:09 |
-| Updated              | 2023-06-13 06:49:56 |
-| Last Scraped         | 2023-06-19 11:36:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/warhammer40k"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 09:58:09"
+published: "2023-06-12 20:38:22"
 subscribers: 27
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Warhammer 40K on lemmy.ml
-
-[[home](/)]
-[[/c/warhammer40k 🌎](https://lemmy.ml/c/warhammer40k)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for anything and everything 40K related.<br><br>Please respect the rules of Lemmy.<br><br>Feel free to post text posts, battle reports, mini pics and anything else you want.<br><br>The only thing I ask is not to spam
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:38:22 |
-| Updated              | 2023-06-13 09:58:09 |
-| Last Scraped         | 2023-06-19 11:36:42 |

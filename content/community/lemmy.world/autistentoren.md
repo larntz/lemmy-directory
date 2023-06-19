@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/autistentoren"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 19:56:58"
+published: "2023-06-18 19:52:08"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/AutistenToren on lemmy.world
-
-[[home](/)]
-[[/c/autistentoren 🌎](https://lemmy.world/c/autistentoren)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-memes relating to the only good faculty<br><br>- post original content, nothing illegal<br>- keep it gezellig, no blatant defamation<br>- respect rules of TU and its services
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 19:52:08 |
-| Updated              | 2023-06-18 19:56:58 |
-| Last Scraped         | 2023-06-19 11:36:35 |

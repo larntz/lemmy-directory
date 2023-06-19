@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/untold_stories"
 host: lemmy.staphup.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-04 22:35:30"
+published: "2023-05-04 22:34:35"
 subscribers: 12
 posts: 6
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_staphup_nl"
 
 ---
-
-# /c/Stories not heard in mainstream media on lemmy.staphup.nl
-
-[[home](/)]
-[[/c/untold_stories 🌎](https://lemmy.staphup.nl/c/untold_stories)]
-[[lemmy.staphup.nl](/instances/lemmy_staphup_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 6  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-04 22:34:35 |
-| Updated              | 2023-05-04 22:35:30 |
-| Last Scraped         | 2023-06-19 11:34:57 |

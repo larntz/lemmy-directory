@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/fediverse"
 host: bolha.social
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-21 11:36:11"
+published: "2022-12-21 11:35:08"
 subscribers: 19
 posts: 5
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "bolha_social"
 
 ---
-
-# /c/Fediverse on bolha.social
-
-[[home](/)]
-[[/c/fediverse 🌎](https://bolha.social/c/fediverse)]
-[[bolha.social](/instances/bolha_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 5  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-21 11:35:08 |
-| Updated              | 2022-12-21 11:36:11 |
-| Last Scraped         | 2023-06-19 11:34:44 |

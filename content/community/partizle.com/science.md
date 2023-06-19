@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/science"
 host: partizle.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 21:57:44"
+published: "2023-06-07 15:23:23"
 subscribers: 51
 posts: 5
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "partizle_com"
 
 ---
-
-# /c/Science on partizle.com
-
-[[home](/)]
-[[/c/science 🌎](https://partizle.com/c/science)]
-[[partizle.com](/instances/partizle_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Science and research topics.<br><br>Research which is primarily political or low-quality discouraged.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 5  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 15:23:23 |
-| Updated              | 2023-06-13 21:57:44 |
-| Last Scraped         | 2023-06-19 11:35:02 |

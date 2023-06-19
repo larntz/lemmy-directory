@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waffle"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 05:11:50"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/Waffle on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/waffle 🌎](https://burggit.moe/c/waffle)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-A meme community focused on the waffled meme appearing on Youtube.<br><br>The meme involves a certain video of a waffle falling over with a random unsuspecting character falling victim to the falling waffle.<br><br>This is a non-serious community, waffle-related posts are also welcomed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:11:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

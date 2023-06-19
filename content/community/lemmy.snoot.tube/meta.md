@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/meta"
 host: lemmy.snoot.tube
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 19:31:15"
 subscribers: 1
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_snoot_tube"
 
 ---
-
-# /c/lemmy snoot.tube meta on lemmy.snoot.tube
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.snoot.tube/c/meta)]
-[[lemmy.snoot.tube](/instances/lemmy_snoot_tube)]
-
-
-## Description 
-
-<blockquote class="description">
-about lemmy.snoot.tube
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:31:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

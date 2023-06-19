@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/digitalprivacy"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-09-10 05:25:18"
 subscribers: 42
 posts: 6
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Digital Privacy on lemmygrad.ml
-
-[[home](/)]
-[[/c/digitalprivacy 🌎](https://lemmygrad.ml/c/digitalprivacy)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-With corporations like Google, Facebook, Discord, etc. taking over more and more of people's lives, the issue of digital privacy is becoming more and more relevant.<br><br>This is a community for anything related to digital privacy. From discussing the violation of digital privacy, to discussing technical details of solutions to digital privacy issues.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 6  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-10 05:25:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

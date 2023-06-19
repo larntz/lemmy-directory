@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/leopardsatemyface"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:28:17"
+published: "2023-06-13 17:27:29"
 subscribers: 48
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Leopards Ate My Face on reddthat.com
-
-[[home](/)]
-[[/c/leopardsatemyface 🌎](https://reddthat.com/c/leopardsatemyface)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 17:27:29 |
-| Updated              | 2023-06-13 17:28:17 |
-| Last Scraped         | 2023-06-19 11:35:02 |

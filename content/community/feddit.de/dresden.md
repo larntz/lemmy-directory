@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dresden"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 07:56:55"
+published: "2023-06-09 17:59:01"
 subscribers: 48
 posts: 11
 comments: 61
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Dresden on feddit.de
-
-[[home](/)]
-[[/c/dresden 🌎](https://feddit.de/c/dresden)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles rund um Dresden in Sachsen, Deutschland:<br>* Bitte nur Posts, die einen Dresden-Bezug haben<br>* Haltet euch an feddits Regeln<br>* Höflich bleiben<br>***<br>Everything about Dresden in Saxony, Germany<br>* Please only posts that have a Dresden reference<br>* Follow feddits rules<br>* Stay polite<br>***<br>Icon: Stadtwappen Dresden, erstellt von Carsten Braune, 15.02.2007, [Gemeinfrei]( https://commons.wikimedia.org/w/index.php?curid=1678867)<br><br>Banner: Dresden Nachtpanorama, erstellt von Kolossos - Own work, 05.05.2007, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=2092763)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 11  |
-| Comments             | 61  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:59:01 |
-| Updated              | 2023-06-10 07:56:55 |
-| Last Scraped         | 2023-06-19 11:35:39 |

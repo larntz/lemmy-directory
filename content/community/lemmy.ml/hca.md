@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hca"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-20 07:07:58"
+published: "2022-01-20 07:03:40"
 subscribers: 29
 posts: 7
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Herman Cain Awards on lemmy.ml
-
-[[home](/)]
-[[/c/hca 🌎](https://lemmy.ml/c/hca)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The real life results of not being responsible about COVID. Please do not celebrate the death of anyone, it is in bad taste. Some shit might be clearly copied from the reddit version, fuckin sue me
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 7  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-20 07:03:40 |
-| Updated              | 2022-01-20 07:07:58 |
-| Last Scraped         | 2023-06-19 11:36:45 |

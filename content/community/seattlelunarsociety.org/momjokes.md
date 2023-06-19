@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://seattlelunarsociety.org/c/momjokes"
 host: seattlelunarsociety.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:18:22"
+published: "2023-06-14 05:05:57"
 subscribers: 28
 posts: 53
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "seattlelunarsociety_org"
 
 ---
-
-# /c/Jokes You Can Tell Your Mom on seattlelunarsociety.org
-
-[[home](/)]
-[[/c/momjokes 🌎](https://seattlelunarsociety.org/c/momjokes)]
-[[seattlelunarsociety.org](/instances/seattlelunarsociety_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Clean jokes (or cleaned-up jokes) that your Mom would like.  <br><br>NO:<br>- F-bombs<br>- Heavy use of expletives<br>- Racism<br>- LGBTQ slurs<br><br>Humor is universal and laughter should be shared by everyone, without excluding or belittling others.  <br><br>It doesn't have to be crass to be funny.  Take the high road.  Your Mom would be proud of you. :)<br><br>Dad jokes are OK here too, and you can find more of those here: https://lemmy.world/c/dadjokes
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 53  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 05:05:57 |
-| Updated              | 2023-06-15 04:18:22 |
-| Last Scraped         | 2023-06-19 11:35:17 |

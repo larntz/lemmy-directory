@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/motorcitykitties"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:51:22"
+published: "2023-06-09 17:08:33"
 subscribers: 2
 posts: 5
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Motor City Kitties on fanaticus.social
-
-[[home](/)]
-[[/c/motorcitykitties 🌎](https://fanaticus.social/c/motorcitykitties)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Detroit TIgers community<br><br>Cloned from [r/MotorCityKitties](https://old.reddit.com/r/MotorCityKitties)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 5  |
-| Comments             | 6  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:08:33 |
-| Updated              | 2023-06-12 16:51:22 |
-| Last Scraped         | 2023-06-19 11:35:15 |

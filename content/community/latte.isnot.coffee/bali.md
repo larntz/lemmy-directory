@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/bali"
 host: latte.isnot.coffee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 05:41:12"
+published: "2023-06-12 01:29:32"
 subscribers: 2
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "latte_isnot_coffee"
 
 ---
-
-# /c/Bali on latte.isnot.coffee
-
-[[home](/)]
-[[/c/bali 🌎](https://latte.isnot.coffee/c/bali)]
-[[latte.isnot.coffee](/instances/latte_isnot_coffee)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 01:29:32 |
-| Updated              | 2023-06-13 05:41:12 |
-| Last Scraped         | 2023-06-19 11:35:06 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ufo"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-24 14:35:50"
+published: "2022-05-17 19:07:50"
 subscribers: 14
 posts: 5
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/UFOs on exploding-heads.com
-
-[[home](/)]
-[[/c/ufo 🌎](https://exploding-heads.com/c/ufo)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Do aliens exist? <br><br>Hundreds of pictures and videos of UFOs are taken every year and enthusiasts believe many of them could be proof or even a hidden conspiracy. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-17 19:07:50 |
-| Updated              | 2022-05-24 14:35:50 |
-| Last Scraped         | 2023-06-19 11:35:38 |

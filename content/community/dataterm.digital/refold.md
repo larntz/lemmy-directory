@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/refold"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 07:48:44"
+published: "2023-06-16 06:00:53"
 subscribers: 30
 posts: 7
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/Refold on dataterm.digital
-
-[[home](/)]
-[[/c/refold 🌎](https://dataterm.digital/c/refold)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-An unofficial Refold community @ [DATATERM](https://dataterm.digital/). <br><br>This is a small part of the language learning community but all language learners are welcome as this applies to all languages!<br><br>**What is Refold?**<br>> Refold is a method for learning to have an instinct in a language -- so, to be able to use it naturally to express your thoughts and ideas, rather than learning to translate like is taught in schools – Ben @ Refold (2023)<br><br>Refold uses immersion and exposure to the language to achieve that goal of learning a language. *If you like binging **Netflix** and **Youtube**, reading **novels** or **gaming**, then you're in the right place!*<br><br>**Videos About Refold:**<br>- [Refold in 3 Minutes](https://youtu.be/TEixkDTK3oA)<br>- [REFOLD: ¿GRATIS y MEJOR que otros MÉTODOS para aprender INGLÉS?](https://www.youtube.com/watch?v=TwBaKlGp6e8)<br><br>Useful Links:<br>- [Refold Website](https://refold.la/)<br>- [Refold Patreon](https://www.patreon.com/refold)<br>- [Refold Discord](https://refold.la/join/)<br>- [Refold Youtube](https://www.youtube.com/@Refold)<br>- [Refold Roadmap](https://refold.la/simplified)<br><br>Links to Other Lanugage Communities:<br>TBA<br><br>**Rules of this instance:**<br>https://dataterm.digital/legal<br><br>**Community rules:**<br>(I may add new rules at a later date but this covers it for now.)<br>- Read the instance rules and then read these ones.<br>- No posts asking for translations. e.g How do I say X?<br>- No pirated materials! (We all love a bit of bootleg content but there are other platfomrms to share it on if you wish. I'm just trying to cover our ass.)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 7  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:00:53 |
-| Updated              | 2023-06-16 07:48:44 |
-| Last Scraped         | 2023-06-19 11:35:18 |

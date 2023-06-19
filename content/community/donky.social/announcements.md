@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://donky.social/c/announcements"
 host: donky.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 05:56:55"
+published: "2023-06-04 05:56:47"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "donky_social"
 
 ---
-
-# /c/Announcements on donky.social
-
-[[home](/)]
-[[/c/announcements 🌎](https://donky.social/c/announcements)]
-[[donky.social](/instances/donky_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Announcements for this situation of this instance
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 05:56:47 |
-| Updated              | 2023-06-04 05:56:55 |
-| Last Scraped         | 2023-06-16 11:05:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/data"
 host: mujico.org
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-04 17:51:04"
+published: "2022-09-04 17:42:20"
 subscribers: 180
 posts: 45
 comments: 305
@@ -22,36 +23,3 @@ tags:
 - "mujico_org"
 
 ---
-
-# /c/Data on mujico.org
-
-[[home](/)]
-[[/c/data 🌎](https://mujico.org/c/data)]
-[[mujico.org](/instances/mujico_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Estadísticas, análisis y visualización de datos.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 180 |
-| Posts                | 45  |
-| Comments             | 305  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-04 17:42:20 |
-| Updated              | 2022-09-04 17:51:04 |
-| Last Scraped         | 2023-06-19 11:34:43 |

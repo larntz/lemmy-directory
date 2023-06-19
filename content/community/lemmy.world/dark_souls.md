@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dark_souls"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 12:30:38"
 subscribers: 172
 posts: 7
 comments: 43
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Darksouls world on lemmy.world
-
-[[home](/)]
-[[/c/dark_souls 🌎](https://lemmy.world/c/dark_souls)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything related to darksouls.  It was my favorite place on reddit so im trying to recreate it. Just dont be a dick
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 172 |
-| Posts                | 7  |
-| Comments             | 43  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 12:30:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

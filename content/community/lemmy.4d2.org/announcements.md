@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.4d2.org/c/announcements"
 host: lemmy.4d2.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 11:39:48"
 subscribers: 2
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_4d2_org"
 
 ---
-
-# /c/Announcements on lemmy.4d2.org
-
-[[home](/)]
-[[/c/announcements 🌎](https://lemmy.4d2.org/c/announcements)]
-[[lemmy.4d2.org](/instances/lemmy_4d2_org)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for announcements about lemmy.4d2.org from the admins.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 11:39:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

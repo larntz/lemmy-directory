@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/found_paper"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 03:51:49"
+published: "2023-06-15 00:15:02"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Found Paper on lemmy.world
-
-[[home](/)]
-[[/c/found_paper 🌎](https://lemmy.world/c/found_paper)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Rules:<br><br>1. Post pictures of paper only.<br>2. Paper must be paper that was found in some manner.<br>3. Remove or blur out sensitive personal details if any are visible.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:15:02 |
-| Updated              | 2023-06-15 03:51:49 |
-| Last Scraped         | 2023-06-19 11:36:38 |

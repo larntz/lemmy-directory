@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/poolside"
 host: lemmy.intai.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 16:14:39"
+published: "2023-06-11 16:10:46"
 subscribers: 5
 posts: 12
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_intai_tech"
 
 ---
-
-# /c/Poolside on lemmy.intai.tech
-
-[[home](/)]
-[[/c/poolside 🌎](https://lemmy.intai.tech/c/poolside)]
-[[lemmy.intai.tech](/instances/lemmy_intai_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 12  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:10:46 |
-| Updated              | 2023-06-11 16:14:39 |
-| Last Scraped         | 2023-06-19 11:35:16 |

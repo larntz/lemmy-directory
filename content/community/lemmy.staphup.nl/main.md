@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/main"
 host: lemmy.staphup.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-27 05:35:31"
+published: "2022-11-06 19:31:35"
 subscribers: 3
 posts: 13
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_staphup_nl"
 
 ---
-
-# /c/The Default Community on lemmy.staphup.nl
-
-[[home](/)]
-[[/c/main 🌎](https://lemmy.staphup.nl/c/main)]
-[[lemmy.staphup.nl](/instances/lemmy_staphup_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-The Default Community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 13  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-06 19:31:35 |
-| Updated              | 2023-04-27 05:35:31 |
-| Last Scraped         | 2023-06-19 11:34:57 |

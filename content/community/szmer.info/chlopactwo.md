@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/chlopactwo"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-29 11:42:45"
+published: "2021-07-29 11:41:39"
 subscribers: 25
 posts: 40
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/chłopactwo on szmer.info
-
-[[home](/)]
-[[/c/chlopactwo 🌎](https://szmer.info/c/chlopactwo)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Dziewczyny mają feminizm (i [!femi@szmer.info](https://szmer.info/c/femi) ), my z braku lepszego terminu mamy chłopactwo.<br><br>Poruszają Cię te kwestie? Chcesz moderować tą społeczność? Daj znać!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 40  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-29 11:41:39 |
-| Updated              | 2021-07-29 11:42:45 |
-| Last Scraped         | 2023-06-19 11:35:33 |

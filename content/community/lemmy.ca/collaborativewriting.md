@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/collaborativewriting"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-07-24 00:53:21"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Collaborative Fiction on lemmy.ca
-
-[[home](/)]
-[[/c/collaborativewriting 🌎](https://lemmy.ca/c/collaborativewriting)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Who wants to write a story together? Something like someone begins a story as a post and other users reply extending that story or just commenting on something they think is cool.<br><br>https://en.wikipedia.org/wiki/Collaborative_writing<br><br>A simple goal would be a short story or poem with 10 back and forths.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-24 00:53:21 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:37 |

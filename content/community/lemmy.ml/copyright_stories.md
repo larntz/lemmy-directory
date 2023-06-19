@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copyright_stories"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-24 17:10:10"
+published: "2020-10-25 19:11:50"
 subscribers: 27
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Copyright Stories on lemmy.ml
-
-[[home](/)]
-[[/c/copyright_stories 🌎](https://lemmy.ml/c/copyright_stories)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share stories centered around copyright.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-25 19:11:50 |
-| Updated              | 2021-02-24 17:10:10 |
-| Last Scraped         | 2023-06-19 11:36:54 |

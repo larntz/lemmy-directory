@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nachdenkseiten"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-05 16:43:37"
+published: "2022-09-27 07:39:52"
 subscribers: 18
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Nachdenkseiten die kritische Webseite on feddit.de
-
-[[home](/)]
-[[/c/nachdenkseiten 🌎](https://feddit.de/c/nachdenkseiten)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Politik Kritisch/ehrlich betrachtet<br>Glaube nicht alles was du liesst<br>Frage nach<br>Stelle kritische Fragen <br>etc.<br>Buch von Albrecht Müller sehr empfehlenswert.  <br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-27 07:39:52 |
-| Updated              | 2022-12-05 16:43:37 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/keyboards"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-25 17:16:42"
+published: "2020-03-31 09:03:34"
 subscribers: 174
 posts: 10
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Computer Keyboards on lemmy.ml
-
-[[home](/)]
-[[/c/keyboards 🌎](https://lemmy.ml/c/keyboards)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-hardware, customization and typing
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 174 |
-| Posts                | 10  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-03-31 09:03:34 |
-| Updated              | 2023-05-25 17:16:42 |
-| Last Scraped         | 2023-06-19 11:36:47 |

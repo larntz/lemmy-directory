@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ciencia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-21 19:04:22"
+published: "2022-01-19 10:32:18"
 subscribers: 9
 posts: 8
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ciencia on lemmy.ml
-
-[[home](/)]
-[[/c/ciencia 🌎](https://lemmy.ml/c/ciencia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Divulgación científica, discusión de publicaciones, invitaciones a eventos científicos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 8  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-19 10:32:18 |
-| Updated              | 2022-01-21 19:04:22 |
-| Last Scraped         | 2023-06-19 11:36:44 |

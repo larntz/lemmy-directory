@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://occult.social/c/announcements"
 host: occult.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 10:17:53"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "occult_social"
 
 ---
-
-# /c/Announcements on occult.social
-
-[[home](/)]
-[[/c/announcements 🌎](https://occult.social/c/announcements)]
-[[occult.social](/instances/occult_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:17:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

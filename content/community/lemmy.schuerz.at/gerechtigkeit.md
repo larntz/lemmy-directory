@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/gerechtigkeit"
 host: lemmy.schuerz.at
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-02 20:19:42"
+published: "2021-10-27 13:36:41"
 subscribers: 7
 posts: 8
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_schuerz_at"
 
 ---
-
-# /c/Gerechtigkeit bei Arbeit und Vermögen on lemmy.schuerz.at
-
-[[home](/)]
-[[/c/gerechtigkeit 🌎](https://lemmy.schuerz.at/c/gerechtigkeit)]
-[[lemmy.schuerz.at](/instances/lemmy_schuerz_at)]
-
-
-## Description 
-
-<blockquote class="description">
-Dies ist eine Community die sich mit dem Thema der Gerechtigkeit von Arbeit, Einkommen und Vermögen beschäftigt.<br><br>- Wie ist das alles verteilt?<br>- Wie könnte es gerechter sein?<br>- Welche Wege werden gegangen?<br>- Welche Lösungen und Wege dorthin gibt es?<br><br><br>(Icon: [Scale Icon Clip Art , royalty ](https://www.freeiconspng.com/img/424) )
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 8  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-27 13:36:41 |
-| Updated              | 2022-10-02 20:19:42 |
-| Last Scraped         | 2023-06-19 11:35:28 |

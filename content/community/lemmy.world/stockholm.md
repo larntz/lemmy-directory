@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stockholm"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 08:44:16"
+published: "2023-06-16 08:43:58"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Stockholm on lemmy.world
-
-[[home](/)]
-[[/c/stockholm 🌎](https://lemmy.world/c/stockholm)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything related to Stockholm, Sweden.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 08:43:58 |
-| Updated              | 2023-06-16 08:44:16 |
-| Last Scraped         | 2023-06-19 11:36:37 |

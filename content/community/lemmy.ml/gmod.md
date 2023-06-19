@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gmod"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-18 17:41:53"
+published: "2021-01-18 17:40:42"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Garry's Mod on lemmy.ml
-
-[[home](/)]
-[[/c/gmod 🌎](https://lemmy.ml/c/gmod)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-18 17:40:42 |
-| Updated              | 2021-01-18 17:41:53 |
-| Last Scraped         | 2023-06-19 11:36:54 |

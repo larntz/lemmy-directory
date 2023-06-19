@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hamburg"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:23:21"
+published: "2023-06-04 12:23:08"
 subscribers: 52
 posts: 2
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Hamburg on discuss.tchncs.de
-
-[[home](/)]
-[[/c/hamburg 🌎](https://discuss.tchncs.de/c/hamburg)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Eine Community für die Freie und Hansestadt Hamburg<br><br>All are welcome (except fascists, of course)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 2  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 12:23:08 |
-| Updated              | 2023-06-12 11:23:21 |
-| Last Scraped         | 2023-06-19 11:34:55 |

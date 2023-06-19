@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/comicbooks"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 13:50:58"
+published: "2023-06-13 13:35:01"
 subscribers: 12
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Comic Books on lemmy.ca
-
-[[home](/)]
-[[/c/comicbooks 🌎](https://lemmy.ca/c/comicbooks)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A lemmy community for fans of comic books, graphic novels, and digital comics. Reddit refugees welcome!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:35:01 |
-| Updated              | 2023-06-16 13:50:58 |
-| Last Scraped         | 2023-06-19 11:35:36 |

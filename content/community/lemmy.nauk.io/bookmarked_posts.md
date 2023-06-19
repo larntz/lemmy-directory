@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nauk.io/c/bookmarked_posts"
 host: lemmy.nauk.io
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 18:23:57"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nauk_io"
 
 ---
-
-# /c/Bookmarked Posts on lemmy.nauk.io
-
-[[home](/)]
-[[/c/bookmarked_posts 🌎](https://lemmy.nauk.io/c/bookmarked_posts)]
-[[lemmy.nauk.io](/instances/lemmy_nauk_io)]
-
-
-## Description 
-
-<blockquote class="description">
-A selection of good posts I found around the fediverse.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 18:23:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

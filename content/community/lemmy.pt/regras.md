@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/regras"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-09-11 11:35:28"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/Regras e Código de Conduta on lemmy.pt
-
-[[home](/)]
-[[/c/regras 🌎](https://lemmy.pt/c/regras)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Uma comunidade fechada que contém apenas as regras e código de conduta desta instância. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-11 11:35:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:23 |

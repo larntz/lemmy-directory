@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/java"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:17:17"
+published: "2023-06-13 18:05:55"
 subscribers: 22
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/The Java Programming Language on lemmy.world
-
-[[home](/)]
-[[/c/java 🌎](https://lemmy.world/c/java)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of Java and java-related technologies. This includes things like:<br>- J2EE/JakartaEE<br>- Spring<br>- Micronaut<br>- Helidon<br>- Quarkus<br><br>For assistance learning Java, please go to  [Learn Java](/c/learnjava@lemmy.world)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 18:05:55 |
-| Updated              | 2023-06-13 18:17:17 |
-| Last Scraped         | 2023-06-19 11:36:40 |

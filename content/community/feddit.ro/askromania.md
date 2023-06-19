@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/askromania"
 host: feddit.ro
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 15:42:38"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_ro"
 
 ---
-
-# /c/AskRomania on feddit.ro
-
-[[home](/)]
-[[/c/askromania 🌎](https://feddit.ro/c/askromania)]
-[[feddit.ro](/instances/feddit_ro)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 15:42:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:25 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/php"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:14:21"
+published: "2023-06-12 09:05:59"
 subscribers: 92
 posts: 5
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/PHP on lemmy.world
-
-[[home](/)]
-[[/c/php 🌎](https://lemmy.world/c/php)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-&lt;?<br><br>namespace lemmyphp;<br><br>/* <br><br>Welcome to the PHP community on Lemmy<br><br>#Rules:<br><br>1:  Soon(TM)<br><br><br>#Helpful stuff:<br><br> [PHP Documentation](https://www.php.net/docs.php)<br><br> [Composer](https://getcomposer.org/doc/00-intro.md)<br><br>[PHP Standards](https://www.php-fig.org/psr/) <br><br>#Common frameworks:<br><br> [Symfony](https://symfony.com/doc/current/getting_started/index.html)<br><br> [Larvel](https://laravel.com/docs/) <br><br>*/<br><br><br>echo  Welcome;
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 5  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 09:05:59 |
-| Updated              | 2023-06-12 11:14:21 |
-| Last Scraped         | 2023-06-19 11:36:39 |

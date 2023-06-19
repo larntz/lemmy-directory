@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmyui"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-04-08 22:25:43"
 subscribers: 65
 posts: 9
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Lemmy UI | Theming, UX, UI, CSS, Bootstrap V4. on lemmy.ml
-
-[[home](/)]
-[[/c/lemmyui 🌎](https://lemmy.ml/c/lemmyui)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-We theme a lot. Because. Why not. It's aesthetic.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 65 |
-| Posts                | 9  |
-| Comments             | 21  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-08 22:25:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:57 |

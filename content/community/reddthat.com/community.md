@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/community"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 21:33:45"
+published: "2023-06-15 09:29:58"
 subscribers: 9
 posts: 3
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Reddthat Community on reddthat.com
-
-[[home](/)]
-[[/c/community 🌎](https://reddthat.com/c/community)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-For all chit chat relating to the Reddthat community.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 12  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 09:29:58 |
-| Updated              | 2023-06-15 21:33:45 |
-| Last Scraped         | 2023-06-19 11:35:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/uwu"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:15:23"
+published: "2023-06-14 07:18:23"
 subscribers: 11
 posts: 1
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/UwU was das :3 on feddit.de
-
-[[home](/)]
-[[/c/uwu 🌎](https://feddit.de/c/uwu)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-| >///< |
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:18:23 |
-| Updated              | 2023-06-14 14:15:23 |
-| Last Scraped         | 2023-06-19 11:35:39 |

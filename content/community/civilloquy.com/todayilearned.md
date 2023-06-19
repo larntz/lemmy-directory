@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/todayilearned"
 host: civilloquy.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 14:57:42"
+published: "2023-06-07 14:57:53"
 subscribers: 120
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "civilloquy_com"
 
 ---
-
-# /c/Today I Learned (TIL) on civilloquy.com
-
-[[home](/)]
-[[/c/todayilearned 🌎](https://civilloquy.com/c/todayilearned)]
-[[civilloquy.com](/instances/civilloquy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-###### Rules<br><br>1. Posts must begin with TIL.<br>2. Posts must be about a specific fact. No TIL about [ducks].
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 120 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 14:57:53 |
-| Updated              | 2023-06-13 14:57:42 |
-| Last Scraped         | 2023-06-19 11:35:00 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/logic_studio"
 host: waveform.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 00:51:27"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "waveform_social"
 
 ---
-
-# /c/Logic on waveform.social
-
-[[home](/)]
-[[/c/logic_studio 🌎](https://waveform.social/c/logic_studio)]
-[[waveform.social](/instances/waveform_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:51:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ubc"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:37:10"
+published: "2023-06-06 06:09:30"
 subscribers: 4
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/CLOSED - University of British Columbia on sopuli.xyz
-
-[[home](/)]
-[[/c/ubc 🌎](https://sopuli.xyz/c/ubc)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is being redirected here: <br><br>https://lemmy.ca/c/ubc<br><br>However if you would prefer to use this community (or if you would like to repurpose this community for something else), please let me know! For now, I've set it to moderator posts only in order to reduce headaches for sopuli.xyz admins since I may miss rule breaking content. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 06:09:30 |
-| Updated              | 2023-06-11 11:37:10 |
-| Last Scraped         | 2023-06-19 11:35:32 |

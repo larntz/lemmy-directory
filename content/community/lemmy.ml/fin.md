@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fin"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-23 15:26:36"
+published: "2021-01-23 15:04:07"
 subscribers: 11
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Suomi on lemmy.ml
-
-[[home](/)]
-[[/c/fin 🌎](https://lemmy.ml/c/fin)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Testiyhteisö
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-23 15:04:07 |
-| Updated              | 2021-01-23 15:26:36 |
-| Last Scraped         | 2023-06-19 11:36:53 |

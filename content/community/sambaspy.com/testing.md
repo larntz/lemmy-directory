@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sambaspy.com/c/testing"
 host: sambaspy.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 20:45:12"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sambaspy_com"
 
 ---
-
-# /c/Testing on sambaspy.com
-
-[[home](/)]
-[[/c/testing 🌎](https://sambaspy.com/c/testing)]
-[[sambaspy.com](/instances/sambaspy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:45:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:07 |

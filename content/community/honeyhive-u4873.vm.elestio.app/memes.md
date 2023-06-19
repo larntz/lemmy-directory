@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://honeyhive-u4873.vm.elestio.app/c/memes"
 host: honeyhive-u4873.vm.elestio.app
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 19:18:48"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "honeyhive-u4873_vm_elestio_app"
 
 ---
-
-# /c/memes on honeyhive-u4873.vm.elestio.app
-
-[[home](/)]
-[[/c/memes 🌎](https://honeyhive-u4873.vm.elestio.app/c/memes)]
-[[honeyhive-u4873.vm.elestio.app](/instances/honeyhive-u4873_vm_elestio_app)]
-
-
-## Description 
-
-<blockquote class="description">
-Only the best meme content
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:18:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:25 |

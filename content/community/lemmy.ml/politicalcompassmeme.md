@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/politicalcompassmeme"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-29 21:37:10"
+published: "2020-06-29 21:36:15"
 subscribers: 12
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Next on spez's chopping block on lemmy.ml
-
-[[home](/)]
-[[/c/politicalcompassmeme 🌎](https://lemmy.ml/c/politicalcompassmeme)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 21:36:15 |
-| Updated              | 2020-06-29 21:37:10 |
-| Last Scraped         | 2023-06-16 11:07:37 |

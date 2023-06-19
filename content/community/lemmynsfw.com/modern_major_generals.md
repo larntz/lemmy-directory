@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/modern_major_generals"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 14:34:02"
+published: "2023-06-17 14:33:28"
 subscribers: 6
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Modern Major Generals on lemmynsfw.com
-
-[[home](/)]
-[[/c/modern_major_generals 🌎](https://lemmynsfw.com/c/modern_major_generals)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Husky Fuckers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 14:33:28 |
-| Updated              | 2023-06-17 14:34:02 |
-| Last Scraped         | 2023-06-19 11:35:45 |

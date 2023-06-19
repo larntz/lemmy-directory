@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/food"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 05:03:07"
+published: "2023-06-11 01:43:30"
 subscribers: 103
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Food on lemmy.world
-
-[[home](/)]
-[[/c/food 🌎](https://lemmy.world/c/food)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Food 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 103 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 01:43:30 |
-| Updated              | 2023-06-11 05:03:07 |
-| Last Scraped         | 2023-06-16 22:57:15 |

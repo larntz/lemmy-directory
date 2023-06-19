@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bettercallsaul"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 03:57:33"
 subscribers: 9
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Better Call Saul! on lemmy.world
-
-[[home](/)]
-[[/c/bettercallsaul 🌎](https://lemmy.world/c/bettercallsaul)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Did you know you have rights? The Constitution says you do, and so do I. I believe that until proven guilty, every man, woman and child is innocent. And that's why I fight for you, Albuquerque!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 03:57:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:38 |

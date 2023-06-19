@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.starlightkel.xyz/c/grandcanyon"
 host: lemmy.starlightkel.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-07 09:22:54"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_starlightkel_xyz"
 
 ---
-
-# /c/Grand Canyon on lemmy.starlightkel.xyz
-
-[[home](/)]
-[[/c/grandcanyon 🌎](https://lemmy.starlightkel.xyz/c/grandcanyon)]
-[[lemmy.starlightkel.xyz](/instances/lemmy_starlightkel_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 09:22:54 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:02 |

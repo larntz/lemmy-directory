@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldendoodles"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 20:56:34"
+published: "2023-06-12 20:50:48"
 subscribers: 9
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/GoldenDoodles on lemmy.world
-
-[[home](/)]
-[[/c/goldendoodles 🌎](https://lemmy.world/c/goldendoodles)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss the Golden Doodle dog breed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:50:48 |
-| Updated              | 2023-06-12 20:56:34 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/leipzig"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 08:44:50"
+published: "2021-08-20 01:28:48"
 subscribers: 52
 posts: 24
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Leipzig on lemmy.ca
-
-[[home](/)]
-[[/c/leipzig 🌎](https://lemmy.ca/c/leipzig)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Forum für Anwohner:innen und Liebhaber:innen der Stadt Leipzig.<br>Kein Rassismus, kein Sexismus. Niemals.<br>[Foto](https://flic.kr/p/28h2L61): Dennis Lamczak<br><br>🟢⚪<br>[!sachsen@feddit.de](https://feddit.de/c/sachsen) <br><br>⚫🔴🟡<br>[!deutschland@feddit.de](https://feddit.de/c/deutschland) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 24  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-20 01:28:48 |
-| Updated              | 2023-06-15 08:44:50 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrealmeme"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 19:50:52"
+published: "2023-06-14 13:03:08"
 subscribers: 11
 posts: 7
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Surreal meme on lemmy.ca
-
-[[home](/)]
-[[/c/surrealmeme 🌎](https://lemmy.ca/c/surrealmeme)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Only surreal meme
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 7  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:03:08 |
-| Updated              | 2023-06-14 19:50:52 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/books"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 02:11:23"
+published: "2020-01-21 12:25:22"
 subscribers: 3947
 posts: 157
 comments: 815
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Books on lemmy.ml
-
-[[home](/)]
-[[/c/books 🌎](https://lemmy.ml/c/books)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Book reader community.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3947 |
-| Posts                | 157  |
-| Comments             | 815  |
-| Daily Active Users   | 22  |
-| Weekly Active Users  | 257  |
-| Monthly Active Users | 333  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-21 12:25:22 |
-| Updated              | 2021-01-29 02:11:23 |
-| Last Scraped         | 2023-06-19 11:37:01 |

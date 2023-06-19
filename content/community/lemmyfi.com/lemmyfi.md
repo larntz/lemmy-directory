@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/lemmyfi"
 host: lemmyfi.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:09:44"
+published: "2023-06-15 05:10:12"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyfi_com"
 
 ---
-
-# /c/Lemmyfi Info on lemmyfi.com
-
-[[home](/)]
-[[/c/lemmyfi 🌎](https://lemmyfi.com/c/lemmyfi)]
-[[lemmyfi.com](/instances/lemmyfi_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion and info posts regarding lemmyfi.com
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:10:12 |
-| Updated              | 2023-06-15 20:09:44 |
-| Last Scraped         | 2023-06-19 11:35:26 |

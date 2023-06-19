@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/lemmyeus_galdetu"
 host: lemmy.eus
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-01-15 17:17:24"
 subscribers: 13
 posts: 5
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "lemmy_eus"
 
 ---
-
-# /c/Lemmy.eus galdetu on lemmy.eus
-
-[[home](/)]
-[[/c/lemmyeus_galdetu 🌎](https://lemmy.eus/c/lemmyeus_galdetu)]
-[[lemmy.eus](/instances/lemmy_eus)]
-
-
-## Description 
-
-<blockquote class="description">
-Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 5  |
-| Comments             | 19  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-15 17:17:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

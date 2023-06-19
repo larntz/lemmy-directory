@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/introductions"
 host: compuverse.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 07:20:46"
 subscribers: 4
 posts: 7
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "compuverse_uk"
 
 ---
-
-# /c/Introductions on compuverse.uk
-
-[[home](/)]
-[[/c/introductions 🌎](https://compuverse.uk/c/introductions)]
-[[compuverse.uk](/instances/compuverse_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for introducing yourself, and letting know people what makes *you* tick!<br><br>A throwback to the forums of yesteryear.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 7  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 07:20:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

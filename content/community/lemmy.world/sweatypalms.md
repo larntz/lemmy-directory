@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sweatypalms"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:43:19"
+published: "2023-06-16 10:52:13"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/SweatyPalms on lemmy.world
-
-[[home](/)]
-[[/c/sweatypalms 🌎](https://lemmy.world/c/sweatypalms)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Sharing Heart-Pounding Moments, One Palmsweat at a Time
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 10:52:13 |
-| Updated              | 2023-06-16 11:43:19 |
-| Last Scraped         | 2023-06-19 11:36:36 |

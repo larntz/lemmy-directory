@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/cities_skylines"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 13:44:27"
 subscribers: 12
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/Cities Skylines on dataterm.digital
-
-[[home](/)]
-[[/c/cities_skylines 🌎](https://dataterm.digital/c/cities_skylines)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-Fan community for Cities Skylines 1 & 2 by [Colossal Order](https://colossalorder.fi/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:44:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

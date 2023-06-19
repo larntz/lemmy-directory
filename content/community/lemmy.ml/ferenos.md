@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ferenos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-14 06:18:39"
+published: "2022-01-14 06:14:10"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Feren OS on lemmy.ml
-
-[[home](/)]
-[[/c/ferenos 🌎](https://lemmy.ml/c/ferenos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about Feren OS <br>https://ferenos.weebly.com/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-14 06:14:10 |
-| Updated              | 2022-01-14 06:18:39 |
-| Last Scraped         | 2023-06-19 11:36:44 |

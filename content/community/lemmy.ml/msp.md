@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msp"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 10:28:48"
+published: "2023-06-05 10:27:40"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/MSP on lemmy.ml
-
-[[home](/)]
-[[/c/msp 🌎](https://lemmy.ml/c/msp)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for IT Managed Services Providers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 10:27:40 |
-| Updated              | 2023-06-05 10:28:48 |
-| Last Scraped         | 2023-06-19 11:36:46 |

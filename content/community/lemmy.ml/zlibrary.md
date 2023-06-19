@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zlibrary"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-15 16:46:42"
+published: "2022-11-15 15:24:02"
 subscribers: 83
 posts: 14
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/zlibrary on lemmy.ml
-
-[[home](/)]
-[[/c/zlibrary 🌎](https://lemmy.ml/c/zlibrary)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Contributions and Suggestions<br><br>**DO NOT USE THE FOLLOWING SITES!** <br>- z-lib is <br><br>**Official Links**:<br>- zlibrary Official Tor (.onion) Link<br>http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/<br>- zlibrary Pirate Library Torrents, Tor (.onion) Link<br>http://2urmf2mk2dhmz4km522u4yfy2ynbzkbejf2cvmpcbzhpffvcuksrz6ad.onion/zlib-downloads.html<br><br>**Best zlibrary Alternatives**<br>- https://libgen.is/<br>- https://www.pdfdrive.com/<br>- https://www.lbryworm.com/<br><br>**Official Tor Project Download**<br>- https://www.torproject.org/download/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 83 |
-| Posts                | 14  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-15 15:24:02 |
-| Updated              | 2022-11-15 16:46:42 |
-| Last Scraped         | 2023-06-19 11:36:46 |

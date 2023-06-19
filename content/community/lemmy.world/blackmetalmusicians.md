@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackmetalmusicians"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 17:44:10"
+published: "2023-06-11 17:41:15"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Black Metal Musicians on lemmy.world
-
-[[home](/)]
-[[/c/blackmetalmusicians 🌎](https://lemmy.world/c/blackmetalmusicians)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions around creating Black Metal music.<br><br>*Other Communities for Listeners of Black Metal*<br>- [!blackmetal@lemmy.ml](/c/blackmetal@lemmy.ml)<br>- [!rawblackmetal@lemmy.world](/c/rawblackmetal@lemmy.world)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:41:15 |
-| Updated              | 2023-06-11 17:44:10 |
-| Last Scraped         | 2023-06-16 22:57:17 |

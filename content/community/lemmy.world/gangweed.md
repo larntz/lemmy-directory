@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gangweed"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 04:00:34"
+published: "2023-06-13 03:58:33"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/GangWeed on lemmy.world
-
-[[home](/)]
-[[/c/gangweed 🌎](https://lemmy.world/c/gangweed)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-We live in a society.<br><br>Slonk gang weed every day.<br><br>Trans rights are human rights.<br><br>Bottom text.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 03:58:33 |
-| Updated              | 2023-06-13 04:00:34 |
-| Last Scraped         | 2023-06-19 11:36:42 |

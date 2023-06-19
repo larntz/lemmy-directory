@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/discoelysium"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 15:12:32"
 subscribers: 38
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Disco Elysium on lemmy.zip
-
-[[home](/)]
-[[/c/discoelysium 🌎](https://lemmy.zip/c/discoelysium)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Disco Elysium, the isometric detective RPG
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:12:32 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

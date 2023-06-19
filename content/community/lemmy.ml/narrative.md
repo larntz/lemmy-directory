@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/narrative"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-25 02:37:10"
+published: "2021-05-25 01:57:33"
 subscribers: 19
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/A place to discuss, dissect and study misinformation campaigns. on lemmy.ml
-
-[[home](/)]
-[[/c/narrative 🌎](https://lemmy.ml/c/narrative)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a place to discuss, dissect and study misinformation campaigns in an attempt to figure out why specific groups are saying specific lies. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-25 01:57:33 |
-| Updated              | 2021-05-25 02:37:10 |
-| Last Scraped         | 2023-06-19 11:36:46 |

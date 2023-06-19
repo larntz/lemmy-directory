@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/longfurbies"
 host: possumpat.io
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 23:19:32"
+published: "2023-06-07 18:12:27"
 subscribers: 20
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "possumpat_io"
 
 ---
-
-# /c/Long Furbies on possumpat.io
-
-[[home](/)]
-[[/c/longfurbies 🌎](https://possumpat.io/c/longfurbies)]
-[[possumpat.io](/instances/possumpat_io)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for posting fanart, crafts, and weird creations based on the (in)famous electronic toy of the late 90's.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 18:12:27 |
-| Updated              | 2023-06-09 23:19:32 |
-| Last Scraped         | 2023-06-19 11:34:54 |

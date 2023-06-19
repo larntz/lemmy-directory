@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/daidai"
 host: lm.korako.me
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-04-13 07:45:42"
 subscribers: 3
 posts: 2761
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lm_korako_me"
 
 ---
-
-# /c/ドラゴンクエストダイの大冒険 on lm.korako.me
-
-[[home](/)]
-[[/c/daidai 🌎](https://lm.korako.me/c/daidai)]
-[[lm.korako.me](/instances/lm_korako_me)]
-
-
-## Description 
-
-<blockquote class="description">
-[デルムリン丼](https://mstdn.delmulin.com)のブックマーク等。
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2761  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-13 07:45:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:44 |

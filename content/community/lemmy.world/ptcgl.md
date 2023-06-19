@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ptcgl"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:23:26"
+published: "2023-06-11 07:22:14"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/ptcgl - Pokemon Trading Card Game Live on lemmy.world
-
-[[home](/)]
-[[/c/ptcgl 🌎](https://lemmy.world/c/ptcgl)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Pokémon Trading Card Game Live 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:22:14 |
-| Updated              | 2023-06-11 07:23:26 |
-| Last Scraped         | 2023-06-19 11:36:41 |

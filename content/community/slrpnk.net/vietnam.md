@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/vietnam"
 host: slrpnk.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:48:10"
+published: "2023-06-06 01:34:07"
 subscribers: 9
 posts: 7
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "slrpnk_net"
 
 ---
-
-# /c/Việt Nam on slrpnk.net
-
-[[home](/)]
-[[/c/vietnam 🌎](https://slrpnk.net/c/vietnam)]
-[[slrpnk.net](/instances/slrpnk_net)]
-
-
-## Description 
-
-<blockquote class="description">
-# Cộng đồng văn hoá Việt<br><br>Đây là nơi để bàn luận về văn hoá, ngôn ngữ, các địa điểm và tất cả những gì khác nữa liên quan tới Việt Nam.<br><br>## Nội quy<br><br>1. Cư xử lịch sự<br>2. Không đăng quảng cáo<br>3. Viết tiếng Việt đúng chính tả (có dấu), kể cả trong ngôn ngữ khác<br><br>---<br><br># Vietnamese culture community<br><br>This is a place for discussing the Vietnamese culture, language, and locations, and anything else related.<br><br>## Rules<br><br>1. Be civil<br>2. Don't post advertisements<br>3. Spell Vietnamese words correctly (with diacritics)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 7  |
-| Comments             | 14  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 01:34:07 |
-| Updated              | 2023-06-14 09:48:10 |
-| Last Scraped         | 2023-06-19 11:35:28 |

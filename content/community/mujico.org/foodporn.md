@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/foodporn"
 host: mujico.org
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-08 18:34:49"
+published: "2022-09-08 16:10:08"
 subscribers: 104
 posts: 24
 comments: 64
@@ -22,36 +23,3 @@ tags:
 - "mujico_org"
 
 ---
-
-# /c/El mal del puerco on mujico.org
-
-[[home](/)]
-[[/c/foodporn 🌎](https://mujico.org/c/foodporn)]
-[[mujico.org](/instances/mujico_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Si existe es señal de que se puede empanizar
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 104 |
-| Posts                | 24  |
-| Comments             | 64  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-08 16:10:08 |
-| Updated              | 2022-10-08 18:34:49 |
-| Last Scraped         | 2023-06-19 11:34:43 |

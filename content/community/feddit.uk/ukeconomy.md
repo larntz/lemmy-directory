@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukeconomy"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 16:09:01"
+published: "2023-06-13 19:16:48"
 subscribers: 90
 posts: 8
 comments: 24
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/UK Economy  on feddit.uk
-
-[[home](/)]
-[[/c/ukeconomy 🌎](https://feddit.uk/c/ukeconomy)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 90 |
-| Posts                | 8  |
-| Comments             | 24  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 17  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:16:48 |
-| Updated              | 2023-06-17 16:09:01 |
-| Last Scraped         | 2023-06-19 11:35:14 |

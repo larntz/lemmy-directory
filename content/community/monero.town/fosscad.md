@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.town/c/fosscad"
 host: monero.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 04:06:39"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "monero_town"
 
 ---
-
-# /c/fosscad on monero.town
-
-[[home](/)]
-[[/c/fosscad 🌎](https://monero.town/c/fosscad)]
-[[monero.town](/instances/monero_town)]
-
-
-## Description 
-
-<blockquote class="description">
-Backup for lemmy.ml/c/fosscad
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:06:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

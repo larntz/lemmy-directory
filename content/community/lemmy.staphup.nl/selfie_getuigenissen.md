@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/selfie_getuigenissen"
 host: lemmy.staphup.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:39:40"
+published: "2023-05-11 10:13:35"
 subscribers: 2
 posts: 192
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_staphup_nl"
 
 ---
-
-# /c/Jezus LEEFT. Nederlandse getuigenissen 🙌 on lemmy.staphup.nl
-
-[[home](/)]
-[[/c/selfie_getuigenissen 🌎](https://lemmy.staphup.nl/c/selfie_getuigenissen)]
-[[lemmy.staphup.nl](/instances/lemmy_staphup_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 192  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-11 10:13:35 |
-| Updated              | 2023-06-14 07:39:40 |
-| Last Scraped         | 2023-06-19 11:34:57 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/gunpla"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:15:13"
+published: "2023-06-12 15:14:40"
 subscribers: 9
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/gunpla on lemmy.sdf.org
-
-[[home](/)]
-[[/c/gunpla 🌎](https://lemmy.sdf.org/c/gunpla)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-For fans and builders of Mobile Suit Gundam plastic models.<br><br>#### Rules<br>- Be positive<br>- Gunpla is freedom<br>- All skill levels welcome, from your first build to custom painted resin upgraded beasts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:14:40 |
-| Updated              | 2023-06-15 06:15:13 |
-| Last Scraped         | 2023-06-19 11:35:02 |

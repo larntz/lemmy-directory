@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wec"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:06:01"
+published: "2023-06-14 13:47:01"
 subscribers: 17
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/World Endurance Championship on feddit.de
-
-[[home](/)]
-[[/c/wec 🌎](https://feddit.de/c/wec)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the World Endurance Championship community.<br><br>Please keep discussions civil, respect other’s opinions, and keep it friendly.<br><br>Thanks!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:47:01 |
-| Updated              | 2023-06-14 14:06:01 |
-| Last Scraped         | 2023-06-19 11:35:39 |

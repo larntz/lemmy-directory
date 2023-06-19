@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/skookum"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 18:13:17"
 subscribers: 32
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Skookum on discuss.tchncs.de
-
-[[home](/)]
-[[/c/skookum 🌎](https://discuss.tchncs.de/c/skookum)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-This is intended as a place where people come to learn, or teach. (Or have a chuckle out in the shop)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:13:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/twitch"
 host: lemmy.pineapplemachine.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 09:29:15"
+published: "2023-06-05 08:56:49"
 subscribers: 18
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pineapplemachine_com"
 
 ---
-
-# /c/twitch on lemmy.pineapplemachine.com
-
-[[home](/)]
-[[/c/twitch 🌎](https://lemmy.pineapplemachine.com/c/twitch)]
-[[lemmy.pineapplemachine.com](/instances/lemmy_pineapplemachine_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss the streaming website twitch.tv.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 08:56:49 |
-| Updated              | 2023-06-05 09:29:15 |
-| Last Scraped         | 2023-06-19 11:34:57 |

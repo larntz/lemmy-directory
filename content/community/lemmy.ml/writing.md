@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/writing"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-25 14:40:01"
+published: "2021-02-25 13:05:48"
 subscribers: 161
 posts: 12
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Writing on lemmy.ml
-
-[[home](/)]
-[[/c/writing 🌎](https://lemmy.ml/c/writing)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share ideas and resources about writing. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 161 |
-| Posts                | 12  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-25 13:05:48 |
-| Updated              | 2021-02-25 14:40:01 |
-| Last Scraped         | 2023-06-16 11:07:33 |

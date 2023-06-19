@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/androidgamers"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:19:40"
+published: "2023-06-14 22:18:23"
 subscribers: 29
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Android Gamers on lemmy.world
-
-[[home](/)]
-[[/c/androidgamers 🌎](https://lemmy.world/c/androidgamers)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 22:18:23 |
-| Updated              | 2023-06-14 22:19:40 |
-| Last Scraped         | 2023-06-19 11:36:36 |

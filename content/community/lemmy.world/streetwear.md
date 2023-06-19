@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/streetwear"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 05:37:05"
+published: "2023-06-17 02:48:07"
 subscribers: 77
 posts: 6
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Streetwear on lemmy.world
-
-[[home](/)]
-[[/c/streetwear 🌎](https://lemmy.world/c/streetwear)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Fashion rooted in youth subcultures. Find us on Discord! https://discord.gg/streetwear
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 6  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 02:48:07 |
-| Updated              | 2023-06-17 05:37:05 |
-| Last Scraped         | 2023-06-19 11:36:36 |

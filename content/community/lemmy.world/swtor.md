@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swtor"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 08:37:30"
+published: "2023-06-12 19:02:07"
 subscribers: 28
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Star Wars: The Old Republic on lemmy.world
-
-[[home](/)]
-[[/c/swtor 🌎](https://lemmy.world/c/swtor)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Star Wars: The Old Republic
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:02:07 |
-| Updated              | 2023-06-14 08:37:30 |
-| Last Scraped         | 2023-06-19 11:36:40 |

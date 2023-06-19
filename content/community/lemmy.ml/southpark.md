@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southpark"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-25 19:55:41"
+published: "2021-05-25 19:09:50"
 subscribers: 33
 posts: 8
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/South Park on lemmy.ml
-
-[[home](/)]
-[[/c/southpark 🌎](https://lemmy.ml/c/southpark)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial South Park Community<br><br>Just saying this is completely unmoderated (except for me obviously) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 8  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-25 19:09:50 |
-| Updated              | 2021-05-25 19:55:41 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/detrashed"
 host: lemmy.srv.eco
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:28:29"
+published: "2023-06-15 16:54:11"
 subscribers: 4
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_srv_eco"
 
 ---
-
-# /c/🗑️ DeTrashed on lemmy.srv.eco
-
-[[home](/)]
-[[/c/detrashed 🌎](https://lemmy.srv.eco/c/detrashed)]
-[[lemmy.srv.eco](/instances/lemmy_srv_eco)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 16:54:11 |
-| Updated              | 2023-06-15 17:28:29 |
-| Last Scraped         | 2023-06-19 11:35:29 |

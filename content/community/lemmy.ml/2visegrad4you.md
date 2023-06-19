@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2visegrad4you"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-03 02:52:22"
 subscribers: 7
 posts: 7
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/2visegrad4you on lemmy.ml
-
-[[home](/)]
-[[/c/2visegrad4you 🌎](https://lemmy.ml/c/2visegrad4you)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is the Lemmy home for r/2visegrad4you, the community for ironic memes about the V4.<br><br>Currently modded by u/SubArcticTundra aka [@SubArcticTundra@lemmy.ml](https://lemmy.ml/u/SubArcticTundra). Happy to hand over to subreddit mods if you message me. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 7  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 02:52:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/programming"
 host: civilloquy.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:43:27"
+published: "2023-06-06 21:13:14"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "civilloquy_com"
 
 ---
-
-# /c/Programming on civilloquy.com
-
-[[home](/)]
-[[/c/programming 🌎](https://civilloquy.com/c/programming)]
-[[civilloquy.com](/instances/civilloquy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of programming<br><br>###### See Also<br><br>* [!rustlang@lemmyrs.org](https://civilloquy.com/c/rustlang@lemmyrs.org)<br>* [Codidact Software Development Q&A](https://software.codidact.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 21:13:14 |
-| Updated              | 2023-06-14 15:43:27 |
-| Last Scraped         | 2023-06-19 11:35:00 |

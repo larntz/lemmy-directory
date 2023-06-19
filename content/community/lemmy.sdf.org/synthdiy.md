@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/synthdiy"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 10:26:01"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/synthdiy on lemmy.sdf.org
-
-[[home](/)]
-[[/c/synthdiy 🌎](https://lemmy.sdf.org/c/synthdiy)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Building, modifying and repairing synthesizers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 10:26:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:02 |

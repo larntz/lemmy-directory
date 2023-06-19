@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/divolt"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 09:15:48"
+published: "2023-06-06 22:28:10"
 subscribers: 177
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Divolt & Revolt  on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/divolt 🌎](https://lemmy.fmhy.ml/c/divolt)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Talk about Divolt, the chat room for FMHY and piracy! (And Revolt, the software it uses)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 177 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 22:28:10 |
-| Updated              | 2023-06-08 09:15:48 |
-| Last Scraped         | 2023-06-19 11:35:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/samsunggalaxy"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:29:43"
+published: "2023-06-05 12:02:00"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Samsung Galaxy on feddit.de
-
-[[home](/)]
-[[/c/samsunggalaxy 🌎](https://feddit.de/c/samsunggalaxy)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-All about Samsung's Galaxy phones
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 12:02:00 |
-| Updated              | 2023-06-12 07:29:43 |
-| Last Scraped         | 2023-06-19 11:35:39 |

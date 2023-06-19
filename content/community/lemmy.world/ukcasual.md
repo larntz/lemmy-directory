@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ukcasual"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:26:18"
+published: "2023-06-06 11:58:10"
 subscribers: 2121
 posts: 65
 comments: 1530
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/UKCasual on lemmy.world
-
-[[home](/)]
-[[/c/ukcasual 🌎](https://lemmy.world/c/ukcasual)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A friendly place to chat. <br><br>No politics please. Don't be a dick.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2121 |
-| Posts                | 65  |
-| Comments             | 1530  |
-| Daily Active Users   | 98  |
-| Weekly Active Users  | 444  |
-| Monthly Active Users | 501  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 11:58:10 |
-| Updated              | 2023-06-15 19:26:18 |
-| Last Scraped         | 2023-06-19 11:36:39 |

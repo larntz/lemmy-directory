@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/ruger"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 01:25:08"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Ruger on vlemmy.net
-
-[[home](/)]
-[[/c/ruger 🌎](https://vlemmy.net/c/ruger)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything to do with Ruger firearms
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:25:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

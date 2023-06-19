@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/deadwood"
 host: ka.tet42.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 02:27:56"
+published: "2023-06-11 18:38:13"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "ka_tet42_org"
 
 ---
-
-# /c/Deadwood on ka.tet42.org
-
-[[home](/)]
-[[/c/deadwood 🌎](https://ka.tet42.org/c/deadwood)]
-[[ka.tet42.org](/instances/ka_tet42_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to fucking Deadwood!<br><br>Discussion of the Deadwood HBO series.<br><br># Rules<br><br>1. Don't be a hoople-head.<br><br>2. Wo-wo-wo-woah, you got a stagecoach to catch or somethin' huh? Slow... the fuck up.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:38:13 |
-| Updated              | 2023-06-12 02:27:56 |
-| Last Scraped         | 2023-06-19 11:35:17 |

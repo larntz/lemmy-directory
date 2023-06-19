@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.house/c/infotech"
 host: monero.house
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-19 15:56:56"
 subscribers: 13
 posts: 8
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "monero_house"
 
 ---
-
-# /c/Info-Tech on monero.house
-
-[[home](/)]
-[[/c/infotech 🌎](https://monero.house/c/infotech)]
-[[monero.house](/instances/monero_house)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for more general IT-related topics ranging from hardware to software over news, OpSec and more!<br>___<br>Community icon by rukanicon - Flaticon
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 8  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-19 15:56:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:53 |

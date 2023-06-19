@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/groundnews"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 17:02:26"
 subscribers: 15
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Ground News on lemm.ee
-
-[[home](/)]
-[[/c/groundnews 🌎](https://lemm.ee/c/groundnews)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-Examining biases and breaking echo chambers. Please don't post links to news sites, use the Ground News (or AllSides) that provide bias analysis.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:02:26 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

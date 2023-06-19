@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/badmovies"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 02:41:28"
+published: "2023-06-13 15:07:07"
 subscribers: 79
 posts: 9
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Bad Movies on lemmy.world
-
-[[home](/)]
-[[/c/badmovies 🌎](https://lemmy.world/c/badmovies)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for some of the worst movies ever made
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 9  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:07:07 |
-| Updated              | 2023-06-14 02:41:28 |
-| Last Scraped         | 2023-06-19 11:36:37 |

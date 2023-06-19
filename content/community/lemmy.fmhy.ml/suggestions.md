@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/suggestions"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 11:18:43"
+published: "2023-06-08 08:48:14"
 subscribers: 378
 posts: 5
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Instance Suggestions on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/suggestions 🌎](https://lemmy.fmhy.ml/c/suggestions)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Submit suggestions related to improving the community!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 378 |
-| Posts                | 5  |
-| Comments             | 21  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 14  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 08:48:14 |
-| Updated              | 2023-06-09 11:18:43 |
-| Last Scraped         | 2023-06-19 11:35:02 |

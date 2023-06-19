@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/synthesizers"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 12:47:19"
+published: "2023-06-14 09:43:38"
 subscribers: 2
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Synthesizers on lemm.ee
-
-[[home](/)]
-[[/c/synthesizers 🌎](https://lemm.ee/c/synthesizers)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for the discussion of all things related to the electronic synthesis of sound.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:43:38 |
-| Updated              | 2023-06-16 12:47:19 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/learnmachinelearning"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 01:15:30"
+published: "2023-06-12 06:22:32"
 subscribers: 144
 posts: 14
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Learn Machine Learning on sh.itjust.works
-
-[[home](/)]
-[[/c/learnmachinelearning 🌎](https://sh.itjust.works/c/learnmachinelearning)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome! This is a place for people to learn more about machine learning techniques in a practical way, discuss applications and ask questions.<br><br>Example questions:<br>- Should I use a deep neural network for my audio classification task?<br>- I'm working with a small dataset, what can I do to make my model generalize well?<br>- Is there a library available that implements function X in language Y?<br>- I want to learn more about the math behind machine learning technique A, where should I start?<br><br>Please do:<br>- Be kind to new people<br>- Post guides and tutorials that you find helpful<br>- Link to open/free sources instead of paywalled when possible<br><br>Please don't:<br>- Post news articles / memes (there are other machine learning/AI communities for this)<br><br>Other communities in this area:<br>- [aiapps@lemmy.intai.tech](/c/aiapps@lemmy.intai.tech)<br>- [guide@lemmy.intai.tech](/c/guide@lemmy.intai.tech)<br>- [machinelearning@lemmy.ml](/c/machinelearning@lemmy.ml)<br>- [artificial_intel@lemmy.ml](/c/artificial_intel@lemmy.ml)<br><br>Similar subreddits: r/MLquestions, r/askmachinelearning, r/learnmachinelearning
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 144 |
-| Posts                | 14  |
-| Comments             | 26  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 06:22:32 |
-| Updated              | 2023-06-14 01:15:30 |
-| Last Scraped         | 2023-06-19 11:35:05 |

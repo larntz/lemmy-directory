@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frightful_five"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:25:49"
+published: "2020-06-28 05:04:56"
 subscribers: 41
 posts: 12
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Anti-FAANG/Big Tech on lemmy.ml
-
-[[home](/)]
-[[/c/frightful_five 🌎](https://lemmy.ml/c/frightful_five)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Anti-Alphabet (Google), Amazon, Apple, Facebook, and Microsoft and other Big Tech (Netflix, Twitter, Uber)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 12  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 05:04:56 |
-| Updated              | 2021-01-29 13:25:49 |
-| Last Scraped         | 2023-06-19 11:36:43 |

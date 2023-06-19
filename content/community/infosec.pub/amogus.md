@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/amogus"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-07 15:26:55"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Amogus ඞඞඞ on infosec.pub
-
-[[home](/)]
-[[/c/amogus 🌎](https://infosec.pub/c/amogus)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-When the Lemmy community is SUS 😳
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 15:26:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:53 |

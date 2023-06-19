@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spacex"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:04:27"
+published: "2020-06-27 04:15:32"
 subscribers: 101
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SpaceX on lemmy.ml
-
-[[home](/)]
-[[/c/spacex 🌎](https://lemmy.ml/c/spacex)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 101 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-27 04:15:32 |
-| Updated              | 2023-06-12 04:04:27 |
-| Last Scraped         | 2023-06-19 11:36:47 |

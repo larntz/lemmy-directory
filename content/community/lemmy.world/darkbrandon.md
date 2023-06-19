@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darkbrandon"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 07:57:54"
+published: "2023-06-16 07:56:27"
 subscribers: 8
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dark BRANDON on lemmy.world
-
-[[home](/)]
-[[/c/darkbrandon 🌎](https://lemmy.world/c/darkbrandon)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-[Join our Discord](https://discord.gg/NPjvDywf7P)<br><br>Help Prevent Malarkey by volunteering for candidates.<br><br>Rules<br><br>-All posts must be DarkBRANDON content. Stay on topic.<br><br>-No trolling or harassing other users.<br><br>-No reposts.<br><br>-No product links except official DB merch.<br><br>-Do not glorify violence, death or use dehumanizing speech<br><br>-No Bigotry / Nazi Imagery<br><br>-Follow the lemmy content policy/rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:56:27 |
-| Updated              | 2023-06-16 07:57:54 |
-| Last Scraped         | 2023-06-19 11:36:36 |

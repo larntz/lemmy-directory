@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bapcsales"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 13:52:55"
+published: "2023-06-09 13:52:18"
 subscribers: 63
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Canadian sales for computer hardware on lemmy.ca
-
-[[home](/)]
-[[/c/bapcsales 🌎](https://lemmy.ca/c/bapcsales)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Canadian sale subreddit for your PC needs. Deals on monitors, cables, processors, video cards, fans, cooling, cases, accessories, anything for a PC build.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 63 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 13:52:18 |
-| Updated              | 2023-06-09 13:52:55 |
-| Last Scraped         | 2023-06-19 11:35:36 |

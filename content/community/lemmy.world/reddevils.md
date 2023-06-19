@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddevils"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 08:41:19"
+published: "2023-06-10 23:04:16"
 subscribers: 158
 posts: 56
 comments: 223
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Red Devils on lemmy.world
-
-[[home](/)]
-[[/c/reddevils 🌎](https://lemmy.world/c/reddevils)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Manchester United. <br><br>New to the community? Come say hi in the [Welcome thread.](https://lemmy.world/post/47358)<br><br>Got any suggestions on how we can improve and grow as a community? [Let us know!](https://lemmy.world/post/56208)<br><br>Basic rules:<br><br>1. Fuck the Glazers<br>2. Be civil to each other<br>3. No non-Manchester United/football content. Non-United content is allowed if it affects United in some way. Otherwise, use the Weekly Discussion Thread<br>4. Fuck the Glazers<br>5. Posting news from other social media sites is allowed, but stick to reliable sources (may implement a tier system in future)<br>6. Keep it legal - no streams please :)<br>7. Have fun!<br>8. Fuck the Glazers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 158 |
-| Posts                | 56  |
-| Comments             | 223  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 35  |
-| Monthly Active Users | 36  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 23:04:16 |
-| Updated              | 2023-06-15 08:41:19 |
-| Last Scraped         | 2023-06-19 11:36:38 |

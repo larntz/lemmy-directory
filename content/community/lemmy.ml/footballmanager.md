@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/footballmanager"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 00:43:42"
 subscribers: 7
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Football Manager on lemmy.ml
-
-[[home](/)]
-[[/c/footballmanager 🌎](https://lemmy.ml/c/footballmanager)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the discussion of the Football Manager series of games, developed by SI and published by Sega. <br><br>RULES:<br><br><br>1) Be civil, there is no room here fro Racism, Homophobia, Transphobia or any other hateful or offensive remarks.<br><br>2)No advertising or spamming.<br><br>3)No NSFW content.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:43:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:47 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mental_health_memes1"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-29 05:12:00"
+published: "2021-09-02 08:38:53"
 subscribers: 43
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Good Mental Health Memes on lemmy.ml
-
-[[home](/)]
-[[/c/mental_health_memes1 🌎](https://lemmy.ml/c/mental_health_memes1)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for posting memes about practicing good mental health. Meant to be motivational. <br><br>For a demotivational counterpart, check out [Bad Mental Health Memes](l/c/mental_health_memes2). 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-02 08:38:53 |
-| Updated              | 2022-06-29 05:12:00 |
-| Last Scraped         | 2023-06-19 11:37:02 |

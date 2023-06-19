@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/electriccars"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 20:26:44"
 subscribers: 225
 posts: 6
 comments: 40
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Electric Cars on lemmy.ca
-
-[[home](/)]
-[[/c/electriccars 🌎](https://lemmy.ca/c/electriccars)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of EVs and the technology around them
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 225 |
-| Posts                | 6  |
-| Comments             | 40  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:26:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:36 |

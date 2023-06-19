@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starlink"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-13 07:19:51"
+published: "2021-02-13 01:12:21"
 subscribers: 28
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Starlink on lemmy.ml
-
-[[home](/)]
-[[/c/starlink 🌎](https://lemmy.ml/c/starlink)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-13 01:12:21 |
-| Updated              | 2021-02-13 07:19:51 |
-| Last Scraped         | 2023-06-19 11:36:55 |

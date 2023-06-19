@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sverige"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 20:49:09"
+published: "2023-06-08 20:43:49"
 subscribers: 102
 posts: 4
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Sverige on lemmy.world
-
-[[home](/)]
-[[/c/sverige 🌎](https://lemmy.world/c/sverige)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-En Community för oss svenskar som älskar fika & biltema korv! 🇸🇪
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 102 |
-| Posts                | 4  |
-| Comments             | 18  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:43:49 |
-| Updated              | 2023-06-08 20:49:09 |
-| Last Scraped         | 2023-06-19 11:36:42 |

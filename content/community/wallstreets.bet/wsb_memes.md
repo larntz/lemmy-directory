@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_memes"
 host: wallstreets.bet
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:21:30"
+published: "2023-06-13 19:18:54"
 subscribers: 14
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "wallstreets_bet"
 
 ---
-
-# /c/The dumpster behind Wendys on wallstreets.bet
-
-[[home](/)]
-[[/c/wsb_memes 🌎](https://wallstreets.bet/c/wsb_memes)]
-[[wallstreets.bet](/instances/wallstreets_bet)]
-
-
-## Description 
-
-<blockquote class="description">
-[Jerking punks $15 dollars a man](https://yewtu.be/watch?v=TyIAGALZNbg)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:18:54 |
-| Updated              | 2023-06-13 19:21:30 |
-| Last Scraped         | 2023-06-19 11:35:25 |

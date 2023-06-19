@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cats"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 08:22:52"
+published: "2023-06-12 17:48:38"
 subscribers: 201
 posts: 11
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/cats on lemmy.world
-
-[[home](/)]
-[[/c/cats 🌎](https://lemmy.world/c/cats)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-**Rules:**<br>1. Posts/media about cats<br>2. Be nice<br>3. Do not not be nice<br>4. Do not make us make new unnecessary rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 201 |
-| Posts                | 11  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:48:38 |
-| Updated              | 2023-06-13 08:22:52 |
-| Last Scraped         | 2023-06-19 11:36:37 |

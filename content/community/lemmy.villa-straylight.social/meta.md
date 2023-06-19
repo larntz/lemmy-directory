@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/meta"
 host: lemmy.villa-straylight.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 16:08:48"
+published: "2023-06-08 03:22:28"
 subscribers: 13
 posts: 6
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_villa-straylight_social"
 
 ---
-
-# /c/Chatsubo on lemmy.villa-straylight.social
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.villa-straylight.social/c/meta)]
-[[lemmy.villa-straylight.social](/instances/lemmy_villa-straylight_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for general chat and things of interest to this instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 6  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 03:22:28 |
-| Updated              | 2023-06-08 16:08:48 |
-| Last Scraped         | 2023-06-19 11:34:58 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homeautomation"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 07:58:02"
 subscribers: 330
 posts: 5
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Home Automation on lemmy.world
-
-[[home](/)]
-[[/c/homeautomation 🌎](https://lemmy.world/c/homeautomation)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about general home automation ideas and projects, home automation protocols like Z-wave, Zigbee, Matter, etc, and home automation software and hubs like HomeSeer, Home Assistant, OpenHAB, Homey.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 330 |
-| Posts                | 5  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 07:58:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:38 |

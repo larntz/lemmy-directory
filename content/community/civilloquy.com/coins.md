@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/coins"
 host: civilloquy.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 22:58:45"
+published: "2023-06-11 13:45:13"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "civilloquy_com"
 
 ---
-
-# /c/Coins on civilloquy.com
-
-[[home](/)]
-[[/c/coins 🌎](https://civilloquy.com/c/coins)]
-[[civilloquy.com](/instances/civilloquy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of coins of any place and age and the collecting thereof<br><br>Please somebody help me make a thematic logo that isn't ugly as sin
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 13:45:13 |
-| Updated              | 2023-06-13 22:58:45 |
-| Last Scraped         | 2023-06-19 11:35:00 |

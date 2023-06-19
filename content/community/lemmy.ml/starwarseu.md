@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starwarseu"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 05:13:49"
+published: "2023-06-05 05:08:50"
 subscribers: 17
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Star Wars Expanded Universe on lemmy.ml
-
-[[home](/)]
-[[/c/starwarseu 🌎](https://lemmy.ml/c/starwarseu)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Star Wars Expanded Universe and Legends fans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 05:08:50 |
-| Updated              | 2023-06-05 05:13:49 |
-| Last Scraped         | 2023-06-19 11:36:53 |

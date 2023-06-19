@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/brighton"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 17:06:34"
+published: "2023-06-12 14:39:08"
 subscribers: 14
 posts: 2
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Brighton on feddit.uk
-
-[[home](/)]
-[[/c/brighton 🌎](https://feddit.uk/c/brighton)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome Brightonians and visitors alike!<br><br>No abuse, no doxxing, no spam.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 2  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:39:08 |
-| Updated              | 2023-06-12 17:06:34 |
-| Last Scraped         | 2023-06-19 11:35:14 |

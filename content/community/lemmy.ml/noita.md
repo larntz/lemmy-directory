@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/noita"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-19 17:18:55"
+published: "2023-04-19 17:17:12"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Noita on lemmy.ml
-
-[[home](/)]
-[[/c/noita 🌎](https://lemmy.ml/c/noita)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Noita is a magical action roguelite set in a world where every pixel is physically simulated.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-19 17:17:12 |
-| Updated              | 2023-04-19 17:18:55 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmino"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 00:32:25"
+published: "2023-06-09 00:29:33"
 subscribers: 5
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/LEMMiNO on lemmy.ml
-
-[[home](/)]
-[[/c/lemmino 🌎](https://lemmy.ml/c/lemmino)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Official community for LEMMiNO.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 00:29:33 |
-| Updated              | 2023-06-09 00:32:25 |
-| Last Scraped         | 2023-06-19 11:36:43 |

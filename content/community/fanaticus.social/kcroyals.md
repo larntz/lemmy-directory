@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/kcroyals"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:41:14"
+published: "2023-06-09 17:09:20"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/KC Royals on fanaticus.social
-
-[[home](/)]
-[[/c/kcroyals 🌎](https://fanaticus.social/c/kcroyals)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [r/KCRoyals](https://old.reddit.com/r/KCRoyals)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:09:20 |
-| Updated              | 2023-06-12 18:41:14 |
-| Last Scraped         | 2023-06-19 11:35:15 |

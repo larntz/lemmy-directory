@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/mnau"
 host: le.mnau.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 17:54:16"
+published: "2023-06-16 07:41:19"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "le_mnau_xyz"
 
 ---
-
-# /c/Mňau.xyz Meta on le.mnau.xyz
-
-[[home](/)]
-[[/c/mnau 🌎](https://le.mnau.xyz/c/mnau)]
-[[le.mnau.xyz](/instances/le_mnau_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Komunita pro diskuzi okolo věcí týkajících se serveru Mnau.xyz
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:41:19 |
-| Updated              | 2023-06-16 17:54:16 |
-| Last Scraped         | 2023-06-19 11:35:30 |

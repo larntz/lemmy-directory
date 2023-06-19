@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tescreal"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-31 13:06:12"
+published: "2023-05-31 12:55:04"
 subscribers: 2
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/TESCREAL on lemmy.ml
-
-[[home](/)]
-[[/c/tescreal 🌎](https://lemmy.ml/c/tescreal)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-TESCREAL is an acronym for Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-31 12:55:04 |
-| Updated              | 2023-05-31 13:06:12 |
-| Last Scraped         | 2023-06-19 11:36:46 |

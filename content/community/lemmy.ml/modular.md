@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modular"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 22:20:08"
+published: "2021-01-10 17:33:36"
 subscribers: 29
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Modular Synths on lemmy.ml
-
-[[home](/)]
-[[/c/modular 🌎](https://lemmy.ml/c/modular)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for modular synths of all persuasions (Eurorack, Serge, Buchla, etc...)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-10 17:33:36 |
-| Updated              | 2023-06-07 22:20:08 |
-| Last Scraped         | 2023-06-19 11:36:46 |

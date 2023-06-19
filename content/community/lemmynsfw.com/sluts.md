@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sluts"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:41:31"
+published: "2023-06-14 10:21:54"
 subscribers: 200
 posts: 20
 comments: 2
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Sluts on lemmynsfw.com
-
-[[home](/)]
-[[/c/sluts 🌎](https://lemmynsfw.com/c/sluts)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-All things Sluts. Posts must feature sluts, slutty activities, porn, pics etc. Do not violate any sitewide rules. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 200 |
-| Posts                | 20  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:21:54 |
-| Updated              | 2023-06-14 23:41:31 |
-| Last Scraped         | 2023-06-19 11:35:46 |

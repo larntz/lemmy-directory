@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carbage"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:21:45"
+published: "2023-06-12 18:17:34"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/carbage on lemmy.world
-
-[[home](/)]
-[[/c/carbage 🌎](https://lemmy.world/c/carbage)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-pictures of cars filled with garbage. Please censor any identifying information
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:17:34 |
-| Updated              | 2023-06-12 18:21:45 |
-| Last Scraped         | 2023-06-19 11:36:39 |

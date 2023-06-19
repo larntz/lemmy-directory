@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lateinamerika"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 17:39:32"
+published: "2022-03-24 05:26:32"
 subscribers: 17
 posts: 12
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Lateinamerika on feddit.de
-
-[[home](/)]
-[[/c/lateinamerika 🌎](https://feddit.de/c/lateinamerika)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles rund um Latein- und Südamerika<br><br>🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.<br><br>::: spoiler Attribution<br>___<br>Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)<br>___<br>:::
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 12  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-24 05:26:32 |
-| Updated              | 2023-06-06 17:39:32 |
-| Last Scraped         | 2023-06-19 11:35:39 |

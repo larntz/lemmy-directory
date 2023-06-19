@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weddings"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 15:03:40"
+published: "2023-06-12 20:53:47"
 subscribers: 10
 posts: 3
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Weddings on lemmy.world
-
-[[home](/)]
-[[/c/weddings 🌎](https://lemmy.world/c/weddings)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for enthusing about weddings of all kinds! Everyone is welcome here.<br><br>Please be respectful and positive!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:53:47 |
-| Updated              | 2023-06-13 15:03:40 |
-| Last Scraped         | 2023-06-19 11:36:39 |

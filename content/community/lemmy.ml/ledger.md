@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ledger"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-14 10:11:27"
+published: "2021-12-14 08:57:04"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ledger on lemmy.ml
-
-[[home](/)]
-[[/c/ledger 🌎](https://lemmy.ml/c/ledger)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 08:57:04 |
-| Updated              | 2021-12-14 10:11:27 |
-| Last Scraped         | 2023-06-16 11:07:33 |

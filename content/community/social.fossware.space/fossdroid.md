@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/fossdroid"
 host: social.fossware.space
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 10:37:05"
+published: "2023-06-12 18:14:07"
 subscribers: 137
 posts: 3
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "social_fossware_space"
 
 ---
-
-# /c/FOSS for Android on social.fossware.space
-
-[[home](/)]
-[[/c/fossdroid 🌎](https://social.fossware.space/c/fossdroid)]
-[[social.fossware.space](/instances/social_fossware_space)]
-
-
-## Description 
-
-<blockquote class="description">
-#### About<br>A community for sharing and promoting free / libre and open source software on the Android platform.<br><br>This means software you are free to modify and distribute, such as applications licensed under the GNU General Public License, BSD license, MIT license, Apache license, etc. and software that isn't designed to restrict you in any way.<br><br>Think of free software as free as in freedom of speech, not free beer.<br><br>#### Rules<br><br>##### Must relate to Android<br>Your post must be related to the Android operating system.<br><br>##### Mention Source License<br>When promoting applications, please mention the source license (GPL, MIT, etc.).<br><br>##### Link Source Code first<br>This again is about promoting applications. Please include a link to the source code of the application at the top. If the application is hosted on F-Droid, a single link to the F-Droid page is OK, as it includes all relevant information.<br><br>##### No Memes<br>Please refrain from posting memes in this magazine.<br><br>##### Promote your own Software<br>Developers may promote their own apps and updates. No prior confirmation with the mods is required.<br><br>##### Please add Badges to your Posts<br>Please don't forget to add badges to your posts to help categorize them.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 137 |
-| Posts                | 3  |
-| Comments             | 19  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:14:07 |
-| Updated              | 2023-06-13 10:37:05 |
-| Last Scraped         | 2023-06-19 11:35:17 |

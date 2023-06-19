@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dolls"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:33:46"
+published: "2023-06-14 16:32:25"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/dolls on lemmy.world
-
-[[home](/)]
-[[/c/dolls 🌎](https://lemmy.world/c/dolls)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for all types of dolls: fashion dolls, ball-jointed dolls, hinge-jointed dolls.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:32:25 |
-| Updated              | 2023-06-14 16:33:46 |
-| Last Scraped         | 2023-06-19 11:36:38 |

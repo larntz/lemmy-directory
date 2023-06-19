@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://code4lib.net/c/wikidata"
 host: code4lib.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-06 13:36:22"
 subscribers: 3
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "code4lib_net"
 
 ---
-
-# /c/Wikidata & GLAM on code4lib.net
-
-[[home](/)]
-[[/c/wikidata 🌎](https://code4lib.net/c/wikidata)]
-[[code4lib.net](/instances/code4lib_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-06 13:36:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:46 |

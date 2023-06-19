@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/boypussy"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 09:09:36"
+published: "2023-06-16 17:09:35"
 subscribers: 61
 posts: 9
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Boy Pussy on lemmynsfw.com
-
-[[home](/)]
-[[/c/boypussy 🌎](https://lemmynsfw.com/c/boypussy)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-An especially tight and inviting asshole of the gay bottom.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 9  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 17:09:35 |
-| Updated              | 2023-06-17 09:09:36 |
-| Last Scraped         | 2023-06-19 11:35:45 |

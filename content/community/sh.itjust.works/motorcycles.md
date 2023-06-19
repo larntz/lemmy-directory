@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/motorcycles"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 09:41:02"
+published: "2023-06-12 08:11:01"
 subscribers: 86
 posts: 2
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Motorcycles on sh.itjust.works
-
-[[home](/)]
-[[/c/motorcycles 🌎](https://sh.itjust.works/c/motorcycles)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share all your motorcycle braaaps and adventures!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 2  |
-| Comments             | 32  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 08:11:01 |
-| Updated              | 2023-06-12 09:41:02 |
-| Last Scraped         | 2023-06-19 11:35:05 |

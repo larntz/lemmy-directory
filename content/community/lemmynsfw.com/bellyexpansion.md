@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bellyexpansion"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 20:26:13"
+published: "2023-06-11 20:24:56"
 subscribers: 78
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Female Belly Expansion on lemmynsfw.com
-
-[[home](/)]
-[[/c/bellyexpansion 🌎](https://lemmynsfw.com/c/bellyexpansion)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-This community is for female belly expansion content. Hentai, real, and 3D are all accepted here.<br><br>Please ensure any submissions meet the requirements stated in the rules.<br><br>Rules:<br><br>* 1. Posted images must be Female<br>All images posted should be of female or female presenting individuals. Please respect our community members.<br><br>* 2. Photo posts require a before reference<br>Photo posts Must have visible inflation/stuffing/bloating, therefore a before picture is a requirement as part of the submission.<br><br>* 3. No Faked Inflations<br>Fake inflations are defined as follows: Morphs, balloons/padding, pregnancy, or simply pushing out your belly.<br><br>* 4. No Bursting or Gore<br>No artwork/animations that end with bursting or gore.<br><br>* 5. Credit the artist or content creator<br>Please provide either a link or a username & site of the artist or content creator<br><br>* 6. Please keep it amicable<br>We may not always agree, but please keep discussions and debates civil. Any comments that are insulting, unnecessarily rude or target other users in a negative way will be removed. Excessive and aggressive behaviour will result in a ban.<br><br>* 7. Keep posts on topic<br>Full body, butt, weight gain or breast expansion are off topic, posts must be about belly expansion. Long text posts are also off topic, that includes story posts.<br><br>* 8. Request Permission for posts selling content<br>If you wish to sell your created content, please check with a mod prior to posting links or advertisements<br><br>* 9. Don't encourage harmful actions<br>We would rather potentially dangerous behaviour is not promoted here. If anything is posted that would encourage another user to hurt themselves it will be removed.<br><br>* 10. No gainers<br>Gainers are not allowed on this subreddit to reduce spam, and any posts that are misleading will be removed<br><br><br>Formerly  [r/BellyExpansion](https://old.reddit.com/r/BellyExpansion/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:24:56 |
-| Updated              | 2023-06-11 20:26:13 |
-| Last Scraped         | 2023-06-19 11:35:46 |

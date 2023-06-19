@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msdotnet"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-10-29 15:20:46"
 subscribers: 25
 posts: 23
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Microsoft .NET Community on lemmy.ml
-
-[[home](/)]
-[[/c/msdotnet 🌎](https://lemmy.ml/c/msdotnet)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The community for .NET programmers.<br><br>[.NET Website](https://dotnet.microsoft.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 23  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-29 15:20:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:35 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmie.xyz/c/meta"
 host: lemmie.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 03:11:13"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmie_xyz"
 
 ---
-
-# /c/meta on lemmie.xyz
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmie.xyz/c/meta)]
-[[lemmie.xyz](/instances/lemmie_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 03:11:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:22 |

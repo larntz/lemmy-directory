@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/news"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-23 21:12:03"
 subscribers: 379
 posts: 2598
 comments: 1702
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Informacje ze świata  on szmer.info
-
-[[home](/)]
-[[/c/news 🌎](https://szmer.info/c/news)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Newsy
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 379 |
-| Posts                | 2598  |
-| Comments             | 1702  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 23  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-23 21:12:03 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

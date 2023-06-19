@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/cryptocurrency"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 05:26:41"
+published: "2023-06-11 04:50:26"
 subscribers: 8
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/Cryptocurrency News & Discussion on diggit.xyz
-
-[[home](/)]
-[[/c/cryptocurrency 🌎](https://diggit.xyz/c/cryptocurrency)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is intended for open discussions on all subjects related to emerging crypto-currencies or crypto-assets. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 04:50:26 |
-| Updated              | 2023-06-11 05:26:41 |
-| Last Scraped         | 2023-06-19 11:35:16 |

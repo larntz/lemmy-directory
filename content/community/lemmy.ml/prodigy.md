@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prodigy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 12:56:41"
+published: "2023-06-16 10:13:09"
 subscribers: 5
 posts: 16
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The Prodigy on lemmy.ml
-
-[[home](/)]
-[[/c/prodigy 🌎](https://lemmy.ml/c/prodigy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 16  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 10:13:09 |
-| Updated              | 2023-06-16 12:56:41 |
-| Last Scraped         | 2023-06-19 11:36:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/answered"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-20 20:32:11"
+published: "2023-01-20 15:54:29"
 subscribers: 78
 posts: 6
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Answered on mander.xyz
-
-[[home](/)]
-[[/c/answered 🌎](https://mander.xyz/c/answered)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to post questions that have already been answered somewhere else.<br><br>To make a post, you should:<br><br>(1) Post the question as the main body.<br><br>(2) Post the best answer or answers as comments, one comment per answer.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 6  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-20 15:54:29 |
-| Updated              | 2023-01-20 20:32:11 |
-| Last Scraped         | 2023-06-19 11:35:30 |

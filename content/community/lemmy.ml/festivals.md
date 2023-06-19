@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/festivals"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 15:07:30"
+published: "2023-06-09 15:02:02"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Festivals on lemmy.ml
-
-[[home](/)]
-[[/c/festivals 🌎](https://lemmy.ml/c/festivals)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Music festivals of any kind. Feel free to post News, Pictures, Lineups, Upcoming shows, Videos, Ask Questions, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 15:02:02 |
-| Updated              | 2023-06-09 15:07:30 |
-| Last Scraped         | 2023-06-16 11:07:33 |

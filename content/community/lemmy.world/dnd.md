@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dnd"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 04:28:29"
+published: "2023-06-10 20:25:41"
 subscribers: 2306
 posts: 61
 comments: 384
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dungeons and Dragons on lemmy.world
-
-[[home](/)]
-[[/c/dnd 🌎](https://lemmy.world/c/dnd)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for discussion of all things Dungeons and Dragons!<br><br>**Associated Communities***<br><br>- [Tabletop Miniatures](https://lemmy.world/c/tabletopminis)<br>- [Battlemaps](https://lemmy.world/c/battlemaps)<br>- [Fantasy e.g. books stories, etc.](https://lemmy.world/c/fantasy@lemmy.ml)<br>- [Worldbuilding](https://lemmy.world/c/worldbuilding)<br>- [Tyranny of Dragons](https://lemmy.world/c/tyranny_of_dragons)<br>- [Critical Role](https://lemmy.world/c/criticalrole)<br>- [NADDPOD](https://lemmy.world/c/naddpod)<br><br>*Please Follow the rules of these individual communities, not all of them are strictly DnD related, but may be of interest to DnD Fans<br><br>**Basic Rules (Subject to Change)**<br><br>- Be a Decent Human Being<br>- Credit OC content (self or otherwise)<br>- Posting news articles: include the source name and exact title from article<br>- Posts must have something to do with Dungeons and Dragons<br>- Zero tolerance for Racism/Sexism/Ableism/etc.<br>- No NSFW content<br>- Abide by the rules of lemmy.world
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2306 |
-| Posts                | 61  |
-| Comments             | 384  |
-| Daily Active Users   | 44  |
-| Weekly Active Users  | 179  |
-| Monthly Active Users | 183  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 20:25:41 |
-| Updated              | 2023-06-19 04:28:29 |
-| Last Scraped         | 2023-06-19 11:36:37 |

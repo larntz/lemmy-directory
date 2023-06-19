@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/game_dev_classifieds"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-04-28 22:59:57"
+published: "2020-04-28 21:16:54"
 subscribers: 19
 posts: 6
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Game developer classifieds! on lemmy.ml
-
-[[home](/)]
-[[/c/game_dev_classifieds 🌎](https://lemmy.ml/c/game_dev_classifieds)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-### A community created to bring together like-minded creatives for the purpose of collaboration, networking, and gaining experience. Keep your topic(s) SFW so that recruiters and those at an office have nothing to worry themselves over while browsing.<br>----------------<br>----------------<br>### Rules:<br><br>* All post titles must include if [Hobby], [RevShare], [Paid], [ForHire] or [ComesFrom].<br><br>\t[Hobby] Your title here<br><br>\tJust learning or developing for fun?<br><br>\t[RevShare] Your title here<br><br>\tAre you recruiting for a project that doesn't pay up front?<br><br>\t[Paid] Your title here<br><br>\tAre you hiring for a position that pays?<br><br>\t[ForHire] Your title here<br><br>\tDo you expect to be paid for the work you do?<br><br>\t[ComesFrom] Your title here<br><br>\tReposting content from other networks?<br>----------------<br>----------------<br>* Dont post anything related to evil social networking services.<br><br>\tanything that includes Facebook, Twitter, Instragram, YouTube<br>\tReddit, Discord, LinkedIn, Google, ...<br><br>\t[Invidious](https://invidio.us) instead of YouTube<br>\t<br>\t[Vlare](https://vlare.tv) instead of YouTube<br><br>\t[Nitter](https://nitter.net) instead of Twitter<br>\t<br>\t[Mastodon](https://joinmastodon.org) instead of Twitter<br>\t<br>\t[Kahla](http://kahla.app) instead of Discord<br><br>\t[Jami](https://jami.net) instead of WhatsApp/Telegram<br>----------------<br>----------------<br>* Constructive criticism is welcome, but vulgar or rude comments are unwelcome.<br>----------------<br>----------------<br>* Do not use copyright material<br><br>\tI shouldn't have to say this... but apparently I do. Do not use copyright material in your ads to advertise your service(s).<br>----------------<br>----------------<br>* This is not the place to sell your asset(s) / promote your game to generate sales.<br><br>\tThis community exists for people to find a team, get employment or hire someone. Looking to advertise / show off your asset package? Do so where appropriate such as r/UnityAssets<br>\t<br>\tIf an asset package you created is part of your portfolio that is fine... but you are linking to that portfolio, not the Unity Asset Store or Unreal Marketplace.<br>----------------<br>----------------<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-04-28 21:16:54 |
-| Updated              | 2020-04-28 22:59:57 |
-| Last Scraped         | 2023-06-16 22:57:37 |

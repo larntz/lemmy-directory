@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/datenvisualisierung"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-22 17:40:21"
+published: "2022-04-22 10:33:09"
 subscribers: 72
 posts: 10
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Datenvisualisierung on feddit.de
-
-[[home](/)]
-[[/c/datenvisualisierung 🌎](https://feddit.de/c/datenvisualisierung)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-<br>::: spoiler Attribution<br><br>Chart icons created by mynamepong - [Flaticon](https://www.flaticon.com/free-icons/chart)<br>___<br>:::<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 72 |
-| Posts                | 10  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-22 10:33:09 |
-| Updated              | 2022-04-22 17:40:21 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/ask_experienced_devs"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 07:01:41"
+published: "2023-06-13 06:33:57"
 subscribers: 99
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Ask Experienced Devs on programming.dev
-
-[[home](/)]
-[[/c/ask_experienced_devs 🌎](https://programming.dev/c/ask_experienced_devs)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 99 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 06:33:57 |
-| Updated              | 2023-06-13 07:01:41 |
-| Last Scraped         | 2023-06-19 11:35:01 |

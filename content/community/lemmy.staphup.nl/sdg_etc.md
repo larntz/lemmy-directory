@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/sdg_etc"
 host: lemmy.staphup.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-18 10:28:48"
+published: "2023-04-18 10:26:41"
 subscribers: 3
 posts: 16
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_staphup_nl"
 
 ---
-
-# /c/SDG (Sustainable Development Goals) and related on lemmy.staphup.nl
-
-[[home](/)]
-[[/c/sdg_etc 🌎](https://lemmy.staphup.nl/c/sdg_etc)]
-[[lemmy.staphup.nl](/instances/lemmy_staphup_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 16  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-18 10:26:41 |
-| Updated              | 2023-04-18 10:28:48 |
-| Last Scraped         | 2023-06-19 11:34:57 |

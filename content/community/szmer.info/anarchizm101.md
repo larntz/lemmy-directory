@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/anarchizm101"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-11-12 13:45:02"
 subscribers: 41
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Pytania Dotyczące Anarchizmu on szmer.info
-
-[[home](/)]
-[[/c/anarchizm101 🌎](https://szmer.info/c/anarchizm101)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Community służąca do pisania pytań dot. anarchizmu/anarchii w teorii, praktyce, czy też dot. historii anarchizmu/ugrupowań
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-12 13:45:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

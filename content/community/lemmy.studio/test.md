@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/test"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-05 19:21:58"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Test on lemmy.studio
-
-[[home](/)]
-[[/c/test 🌎](https://lemmy.studio/c/test)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to test Lemmy and federation.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 19:21:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:58 |

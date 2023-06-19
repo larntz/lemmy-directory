@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sovietposters"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-04-14 12:05:06"
 subscribers: 156
 posts: 66
 comments: 31
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Soviet Propaganda Posters on lemmygrad.ml
-
-[[home](/)]
-[[/c/sovietposters 🌎](https://lemmygrad.ml/c/sovietposters)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 156 |
-| Posts                | 66  |
-| Comments             | 31  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-14 12:05:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:02 |

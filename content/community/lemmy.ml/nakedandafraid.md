@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nakedandafraid"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:12:44"
+published: "2023-06-12 04:10:37"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Naked and Afraid on lemmy.ml
-
-[[home](/)]
-[[/c/nakedandafraid 🌎](https://lemmy.ml/c/nakedandafraid)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss Naked and Afraid!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:10:37 |
-| Updated              | 2023-06-12 04:12:44 |
-| Last Scraped         | 2023-06-19 11:36:44 |

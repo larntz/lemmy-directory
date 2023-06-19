@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/excons"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-06 23:19:30"
+published: "2022-01-06 22:48:43"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ExConvicts on lemmy.ml
-
-[[home](/)]
-[[/c/excons 🌎](https://lemmy.ml/c/excons)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Support group, news, tips, tricks and more<br><br>The label of ex-convict usually has lifelong implications, such as social stigma or reduced opportunities for employment.<br><br>I hope this can be fixed in my lifetime
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-06 22:48:43 |
-| Updated              | 2022-01-06 23:19:30 |
-| Last Scraped         | 2023-06-19 11:36:44 |

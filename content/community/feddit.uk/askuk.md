@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/askuk"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 19:19:01"
+published: "2023-06-16 14:59:57"
 subscribers: 54
 posts: 1
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Ask UK on feddit.uk
-
-[[home](/)]
-[[/c/askuk 🌎](https://feddit.uk/c/askuk)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for asking and answering any question related to the life, the people or anything related to the UK. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 1  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 14:59:57 |
-| Updated              | 2023-06-16 19:19:01 |
-| Last Scraped         | 2023-06-19 11:35:14 |

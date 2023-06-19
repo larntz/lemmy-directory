@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidbeta"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 15:54:29"
+published: "2023-06-07 15:18:42"
 subscribers: 12
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Android Beta on lemmy.ml
-
-[[home](/)]
-[[/c/androidbeta 🌎](https://lemmy.ml/c/androidbeta)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of beta updates for Android OS.<br><br>[Visit the official Android Beta Program website](https://www.google.com/android/beta)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 15:18:42 |
-| Updated              | 2023-06-07 15:54:29 |
-| Last Scraped         | 2023-06-19 11:36:48 |

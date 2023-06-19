@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/politics_lounge"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-26 21:21:55"
+published: "2021-09-26 21:12:31"
 subscribers: 13
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Politics Lounge on lemmy.ml
-
-[[home](/)]
-[[/c/politics_lounge 🌎](https://lemmy.ml/c/politics_lounge)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Casual discussion and shitposting about day-to-day politics. Doesn't have to be insightful.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-26 21:12:31 |
-| Updated              | 2021-09-26 21:21:55 |
-| Last Scraped         | 2023-06-19 11:36:59 |

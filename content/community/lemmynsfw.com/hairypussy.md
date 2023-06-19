@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hairypussy"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:21:57"
+published: "2023-06-12 14:46:33"
 subscribers: 334
 posts: 25
 comments: 11
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/hairypussy on lemmynsfw.com
-
-[[home](/)]
-[[/c/hairypussy 🌎](https://lemmynsfw.com/c/hairypussy)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Please attempt only hairy pussy and not legs/arms<br><br>Check out [!hairy@lemmynsfw.com](https://lemmynsfw.com/c/hairy) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 334 |
-| Posts                | 25  |
-| Comments             | 11  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:46:33 |
-| Updated              | 2023-06-12 18:21:57 |
-| Last Scraped         | 2023-06-19 11:35:46 |

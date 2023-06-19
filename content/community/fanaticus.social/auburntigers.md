@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/auburntigers"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 00:19:31"
+published: "2023-06-14 23:39:18"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Auburn Tigers on fanaticus.social
-
-[[home](/)]
-[[/c/auburntigers 🌎](https://fanaticus.social/c/auburntigers)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Auburn Tigers athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:39:18 |
-| Updated              | 2023-06-15 00:19:31 |
-| Last Scraped         | 2023-06-19 11:35:15 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android_dev"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 10:20:52"
 subscribers: 63
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Android Development on programming.dev
-
-[[home](/)]
-[[/c/android_dev 🌎](https://programming.dev/c/android_dev)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 63 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 10:20:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:01 |

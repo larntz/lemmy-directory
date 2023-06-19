@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/reactionimages"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-07-11 00:13:27"
 subscribers: 61
 posts: 23
 comments: 34
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Reaction Images on lemmygrad.ml
-
-[[home](/)]
-[[/c/reactionimages 🌎](https://lemmygrad.ml/c/reactionimages)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For those images you can use to react to something.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 23  |
-| Comments             | 34  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-11 00:13:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elm"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-03 05:21:18"
+published: "2020-01-23 05:29:00"
 subscribers: 34
 posts: 4
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Elm on lemmy.ml
-
-[[home](/)]
-[[/c/elm 🌎](https://lemmy.ml/c/elm)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A delightful language for reliable web apps
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-23 05:29:00 |
-| Updated              | 2021-02-03 05:21:18 |
-| Last Scraped         | 2023-06-19 11:36:44 |

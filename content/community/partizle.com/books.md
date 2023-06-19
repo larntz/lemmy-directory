@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/books"
 host: partizle.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 14:46:38"
 subscribers: 9
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "partizle_com"
 
 ---
-
-# /c/Book Club on partizle.com
-
-[[home](/)]
-[[/c/books 🌎](https://partizle.com/c/books)]
-[[partizle.com](/instances/partizle_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Partizlepate in our book club. What are you reading?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:46:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:02 |

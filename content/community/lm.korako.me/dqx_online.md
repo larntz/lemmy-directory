@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/dqx_online"
 host: lm.korako.me
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-29 00:56:46"
+published: "2022-11-04 07:16:00"
 subscribers: 7
 posts: 11
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lm_korako_me"
 
 ---
-
-# /c/ドラゴンクエスト10 on lm.korako.me
-
-[[home](/)]
-[[/c/dqx_online 🌎](https://lm.korako.me/c/dqx_online)]
-[[lm.korako.me](/instances/lm_korako_me)]
-
-
-## Description 
-
-<blockquote class="description">
-DQXオンライン、オフラインに関する情報、感想などはこちらにどうぞ、短文でもOK
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 11  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-04 07:16:00 |
-| Updated              | 2023-05-29 00:56:46 |
-| Last Scraped         | 2023-06-19 11:34:44 |

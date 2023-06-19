@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuteguys"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 09:13:12"
+published: "2023-06-16 17:53:44"
 subscribers: 17
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Cute Guys on lemmynsfw.com
-
-[[home](/)]
-[[/c/cuteguys 🌎](https://lemmynsfw.com/c/cuteguys)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A place for your cuteness to shine! Remember everyone is cute, even YOU!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 17:53:44 |
-| Updated              | 2023-06-17 09:13:12 |
-| Last Scraped         | 2023-06-19 11:35:45 |

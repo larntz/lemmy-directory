@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/todayilearned"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-29 01:02:44"
 subscribers: 3044
 posts: 52
 comments: 140
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Today I learned on lemmy.ml
-
-[[home](/)]
-[[/c/todayilearned 🌎](https://lemmy.ml/c/todayilearned)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3044 |
-| Posts                | 52  |
-| Comments             | 140  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 65  |
-| Monthly Active Users | 95  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 01:02:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:47 |

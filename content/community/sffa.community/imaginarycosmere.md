@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sffa.community/c/imaginarycosmere"
 host: sffa.community
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 19:17:30"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sffa_community"
 
 ---
-
-# /c/Imaginary Cosmere on sffa.community
-
-[[home](/)]
-[[/c/imaginarycosmere 🌎](https://sffa.community/c/imaginarycosmere)]
-[[sffa.community](/instances/sffa_community)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 19:17:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

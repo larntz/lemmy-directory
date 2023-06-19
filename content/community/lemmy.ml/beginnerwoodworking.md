@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beginnerwoodworking"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:49:12"
+published: "2023-06-12 15:48:19"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Beginner Woodworking on lemmy.ml
-
-[[home](/)]
-[[/c/beginnerwoodworking 🌎](https://lemmy.ml/c/beginnerwoodworking)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The go-to place for those who are new to woodworking.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:48:19 |
-| Updated              | 2023-06-12 15:49:12 |
-| Last Scraped         | 2023-06-19 11:36:43 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lectures"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-08-09 18:04:00"
 subscribers: 60
 posts: 6
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Video Lectures on lemmygrad.ml
-
-[[home](/)]
-[[/c/lectures 🌎](https://lemmygrad.ml/c/lectures)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is all about video lectures, talks and interesting public speeches. The topics include mathematics, physics, computer science, programming, engineering, biology, medicine, economics, politics, social sciences, and any other subjects!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 6  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-09 18:04:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

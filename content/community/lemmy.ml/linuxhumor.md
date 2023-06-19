@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxhumor"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-08 20:09:21"
+published: "2019-10-03 05:03:05"
 subscribers: 2794
 posts: 188
 comments: 487
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GNU+Linux Humor on lemmy.ml
-
-[[home](/)]
-[[/c/linuxhumor 🌎](https://lemmy.ml/c/linuxhumor)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Memes, jokes and general humor about GNU+Linux<br><br>Rules:<br>* Posts must be relevant to GNU+Linux or at least an open source unix-like operating system<br>* No NSFW content<br>* No hate speech, bigotry, etc 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2794 |
-| Posts                | 188  |
-| Comments             | 487  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 62  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-10-03 05:03:05 |
-| Updated              | 2022-03-08 20:09:21 |
-| Last Scraped         | 2023-06-19 11:36:48 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/metal"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 19:06:39"
+published: "2023-06-06 19:38:06"
 subscribers: 28
 posts: 6
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Metal on lemmy.ca
-
-[[home](/)]
-[[/c/metal 🌎](https://lemmy.ca/c/metal)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Noticed there was no metal community, so I've created one! Talk about anything metal.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 19:38:06 |
-| Updated              | 2023-06-14 19:06:39 |
-| Last Scraped         | 2023-06-19 11:35:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/opendirectories"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 07:06:18"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/Open Directories on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/opendirectories 🌎](https://lemmy.dbzer0.com/c/opendirectories)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 07:06:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

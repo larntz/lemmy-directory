@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/casual"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:47:38"
+published: "2023-06-10 01:16:58"
 subscribers: 19
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Kitchen Table on mtgzone.com
-
-[[home](/)]
-[[/c/casual 🌎](https://mtgzone.com/c/casual)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Community for casual Magic players**<br><br>Discussion for all casual play topics, decks, questions, humor, and advice.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:16:58 |
-| Updated              | 2023-06-15 19:47:38 |
-| Last Scraped         | 2023-06-19 11:35:14 |

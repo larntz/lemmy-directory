@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bobiverse"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:45:15"
+published: "2023-06-12 19:01:55"
 subscribers: 46
 posts: 3
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Bobiverse on lemmy.world
-
-[[home](/)]
-[[/c/bobiverse 🌎](https://lemmy.world/c/bobiverse)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss the Bobiverse book series by Dennis E. Taylor  <br>  <br>Click  [Here](http://dennisetaylor.org/status-of-things/) go to Dennis' Status Of Things page for the latest news on Book 5 of the Bobiverse series.  <br>  <br>  <br>Credit to Reddit User geuis for the icon image
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 3  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:01:55 |
-| Updated              | 2023-06-14 23:45:15 |
-| Last Scraped         | 2023-06-19 11:36:38 |

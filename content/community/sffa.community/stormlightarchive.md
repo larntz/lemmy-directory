@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dev.lemmy.sffa.community/c/stormlightarchive"
 host: sffa.community
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:58:55"
+published: "2023-06-14 23:35:29"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sffa_community"
 
 ---
-
-# /c/Stormlight Archive on sffa.community
-
-[[home](/)]
-[[/c/stormlightarchive 🌎](https://dev.lemmy.sffa.community/c/stormlightarchive)]
-[[sffa.community](/instances/sffa_community)]
-
-
-## Description 
-
-<blockquote class="description">
-1. Be kind. No hate, bigotry, rudeness, etc. will be tolerated.<br><br>2. Put the spoiler scope in your post title and follow the scope at all times.<br><br>3. No self promotion<br><br>4. Memes, merch photos, simple casting posts and AI images are disallowed except on Fridays PST. Other low effort  posts may also be removed under this rule.<br><br>5. No off-topic posts. This includes real-world religious and political posts.<br><br>6. No Chat AI content.<br><br>7. No links to piracy websites or tools and no direct downloads to copyrighted material.<br><br>8. Fan art should be marked as [OC] or credited to the original artist.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:35:29 |
-| Updated              | 2023-06-14 23:58:55 |
-| Last Scraped         | 2023-06-16 22:56:14 |

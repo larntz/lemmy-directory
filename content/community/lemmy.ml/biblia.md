@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/biblia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-16 12:23:06"
+published: "2022-02-14 23:19:09"
 subscribers: 2
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bíblia no leme on lemmy.ml
-
-[[home](/)]
-[[/c/biblia 🌎](https://lemmy.ml/c/biblia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A Bíblia dá a direção. A Bíblia está no Lemmy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-14 23:19:09 |
-| Updated              | 2022-02-16 12:23:06 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dota2"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-15 14:00:12"
+published: "2021-01-15 13:58:31"
 subscribers: 257
 posts: 19
 comments: 44
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Dota 2 on lemmy.ml
-
-[[home](/)]
-[[/c/dota2 🌎](https://lemmy.ml/c/dota2)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 257 |
-| Posts                | 19  |
-| Comments             | 44  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 30  |
-| Monthly Active Users | 31  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-15 13:58:31 |
-| Updated              | 2021-01-15 14:00:12 |
-| Last Scraped         | 2023-06-16 11:07:36 |

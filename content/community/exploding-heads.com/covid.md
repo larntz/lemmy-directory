@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/covid"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-13 00:36:35"
+published: "2022-02-27 23:06:10"
 subscribers: 36
 posts: 905
 comments: 97
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Covid-19 on exploding-heads.com
-
-[[home](/)]
-[[/c/covid 🌎](https://exploding-heads.com/c/covid)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Covid19 is much more then a virus. <br>- To many it has been a tool to grab power over the masses, <br>- To others it has been a money making machine, <br>- Others mourn the loss of family and friends to the virus or its treatment protocols<br>- Many fear the biggest catastrophe is still to come from the long tail effects of the vaccines aka gene therapy. <br><br>Covid has destroyed the trust many had in government, the medical establishment, their doctors and pharmacists, and main stream media.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 905  |
-| Comments             | 97  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-27 23:06:10 |
-| Updated              | 2022-03-13 00:36:35 |
-| Last Scraped         | 2023-06-19 11:35:38 |

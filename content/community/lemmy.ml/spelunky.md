@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spelunky"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 21:29:16"
+published: "2023-06-07 21:19:59"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Spelunky on lemmy.ml
-
-[[home](/)]
-[[/c/spelunky 🌎](https://lemmy.ml/c/spelunky)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Spelunky is a cave exploration / treasure-hunting game inspired by classic platform games and roguelikes, where the goal is to grab as much treasure from the cave as possible. Every time you play the cave's layout will be different. Use your wits, your reflexes, and the items available to you to survive and go ever deeper! Perhaps at the end you may find what you're looking for...<br><br><br><br># Links:<br><br>### Official:<br>* [Official Spelunky 2 Discord](https://discord.spelunky2.net/)<br>* [spelunkyworld.com](http://spelunkyworld.com/)<br>* [mossmouth.com](http://www.mossmouth.com/)<br>* Play Spelunky Classic [for free!](http://spelunkyworld.com/original.html)<br>* Buy Spelunky HD for PC via [Steam](http://store.steampowered.com/app/239350/)<br>* Buy Spelunky HD for PC via [gog.com](http://www.gog.com/game/spelunky)<br>* Buy Spelunky HD for [Xbox](http://marketplace.xbox.com/en-US/Product/Spelunky/66acd000-77fe-1000-9115-d802584109be)<br>* Buy Spelunky HD for [PlayStation](https://store.sonyentertainmentnetwork.com/#!/en-gb/games/spelunky/cid=EP4407-NPEB01419_00-SPELUNKYKEY00000)<br>* [Derek Yu's bossfight book: Spelunky](https://bossfightbooks.com/products/spelunky-by-derek-yu)<br><br>### Competitive:<br>* [MossRanking](http://mossranking.com/)<br>* [SpelunkySplitter](https://www.reddit.com/r/spelunky/comments/3x6wm4/spelunkysplitter_automatic_spelunky_splits_for/)<br>* [Spelunky RTA Tracker](https://github.com/Sawrr/Spelunky-RTA-Tracker/releases)<br><br><br>### Modding:<br>* [Frozlunky Level Editor](http://sashavol.com/frozlunky/)<br>* [Frozlunky Custom Levels ](http://spelunkybin.com/)<br>* [Patchlunky](https://www.reddit.com/r/spelunky/comments/43b5f3/patchlunky_a_mod_and_skin_manager_for_spelunky/)<br>* [LunkyBox](https://www.reddit.com/r/spelunky/comments/4g0byn/lunkybox_ingame_menu_mod_with_object_spawner/)<br>* [Maplunky](https://www.youtube.com/watch?v=ZusFE2Uu8qA/)<br>* [Spelunky Death Roulette](http://spelunkyroulette.sparklinlabs.com/)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 21:19:59 |
-| Updated              | 2023-06-07 21:29:16 |
-| Last Scraped         | 2023-06-19 11:36:45 |

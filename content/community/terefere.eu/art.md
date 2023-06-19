@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/art"
 host: terefere.eu
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 18:44:51"
 subscribers: 4
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "terefere_eu"
 
 ---
-
-# /c/Art on terefere.eu
-
-[[home](/)]
-[[/c/art 🌎](https://terefere.eu/c/art)]
-[[terefere.eu](/instances/terefere_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for fine art and decorative art.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:44:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:57 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/erlang"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-19 02:48:10"
+published: "2021-02-19 02:47:09"
 subscribers: 14
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Erlang Programming Language on lemmy.ml
-
-[[home](/)]
-[[/c/erlang 🌎](https://lemmy.ml/c/erlang)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions about Erlang and beam
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-19 02:47:09 |
-| Updated              | 2021-02-19 02:48:10 |
-| Last Scraped         | 2023-06-19 11:36:46 |

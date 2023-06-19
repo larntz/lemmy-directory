@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://skein.city/c/flipper_zero"
 host: skein.city
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 20:40:36"
+published: "2023-06-18 20:34:54"
 subscribers: 1
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "skein_city"
 
 ---
-
-# /c/Flipper Zero Information on skein.city
-
-[[home](/)]
-[[/c/flipper_zero 🌎](https://skein.city/c/flipper_zero)]
-[[skein.city](/instances/skein_city)]
-
-
-## Description 
-
-<blockquote class="description">
-my little collection of Flipper resources and tips<br><br>this page allows me to close some GODDAMN tabs every once in a while
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 20:34:54 |
-| Updated              | 2023-06-18 20:40:36 |
-| Last Scraped         | 2023-06-19 11:35:21 |

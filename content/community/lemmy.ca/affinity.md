@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/affinity"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:53:38"
+published: "2023-06-12 14:33:33"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Affinity on lemmy.ca
-
-[[home](/)]
-[[/c/affinity 🌎](https://lemmy.ca/c/affinity)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:33:33 |
-| Updated              | 2023-06-12 15:53:38 |
-| Last Scraped         | 2023-06-19 11:35:36 |

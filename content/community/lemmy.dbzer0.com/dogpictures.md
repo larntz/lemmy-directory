@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/dogpictures"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 15:57:44"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/Dog Pictures on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/dogpictures 🌎](https://lemmy.dbzer0.com/c/dogpictures)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Share all of your favorite pictures of your beautiful pups here 🐕 🐶 <br><br>**RULES**<br>- Submissions must consist of picture/s of dogs
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 15:57:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

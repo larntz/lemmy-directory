@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.tillicumnet.com/c/test_community"
 host: lemmy.tillicumnet.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 23:29:13"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_tillicumnet_com"
 
 ---
-
-# /c/Please ignore on lemmy.tillicumnet.com
-
-[[home](/)]
-[[/c/test_community 🌎](https://lemmy.tillicumnet.com/c/test_community)]
-[[lemmy.tillicumnet.com](/instances/lemmy_tillicumnet_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 23:29:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:57 |

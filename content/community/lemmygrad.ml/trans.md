@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/trans"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-01 12:52:28"
+published: "2021-01-27 01:32:02"
 subscribers: 298
 posts: 49
 comments: 327
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/trans on lemmygrad.ml
-
-[[home](/)]
-[[/c/trans 🌎](https://lemmygrad.ml/c/trans)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**There can be no trans liberation without the abolition of capitalism!**<br><br>*Element community coming soon as well*<br><br>**UwU**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 298 |
-| Posts                | 49  |
-| Comments             | 327  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-27 01:32:02 |
-| Updated              | 2022-12-01 12:52:28 |
-| Last Scraped         | 2023-06-19 11:35:08 |

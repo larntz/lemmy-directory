@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/sachsenanhalt"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 17:42:38"
+published: "2021-09-14 12:05:28"
 subscribers: 26
 posts: 25
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Sachsen-Anhalt on feddit.de
-
-[[home](/)]
-[[/c/sachsenanhalt 🌎](https://feddit.de/c/sachsenanhalt)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Das Bundesland zwischen Harz und Fläming <br><br>🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.<br>::: spoiler Attribution<br>___<br>Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)<br>___<br>:::
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 25  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-14 12:05:28 |
-| Updated              | 2023-06-06 17:42:38 |
-| Last Scraped         | 2023-06-19 11:35:39 |

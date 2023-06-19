@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/familyguy"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 21:22:09"
+published: "2023-06-09 21:21:37"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Family Guy on lemmy.world
-
-[[home](/)]
-[[/c/familyguy 🌎](https://lemmy.world/c/familyguy)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 21:21:37 |
-| Updated              | 2023-06-09 21:22:09 |
-| Last Scraped         | 2023-06-16 22:57:16 |

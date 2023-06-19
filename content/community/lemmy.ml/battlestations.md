@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/battlestations"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-30 18:17:56"
+published: "2020-06-30 15:36:32"
 subscribers: 165
 posts: 8
 comments: 59
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/A place to post and look at clear photographs of battlestation setups.  on lemmy.ml
-
-[[home](/)]
-[[/c/battlestations 🌎](https://lemmy.ml/c/battlestations)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-1. Completed battlestation photos only: No photos of just boxes, components, or the inside of your tower. <br><br>2. Clear photos: Photos must be high quality and sufficiently bright to see your station. <br><br>3. Your battlestations only - You must own it or use it regularly. If it's not yours, don't submit it. <br><br>4. Photographs only - No memes, videos, gifs, sound clips, general websites, ads, or articles. <br><br>5. Be civil - No personal attacks, insulting someone's OS or platform or sharing personal information. Be kind to each other.<br><br>6. No spam - Affiliate links and all forms of advertisement are strictly forbidden. This includes repeatedly reposting your own battlestation. You may only re-submit your battlestation after having made significant changes since the last post. <br><br>7. No pandering - No sob stories, pandering or self-deprecation. This includes titles like 'She's not much but she's mine' and 'My humble setup', including your age or school.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 165 |
-| Posts                | 8  |
-| Comments             | 59  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 24  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-30 15:36:32 |
-| Updated              | 2020-06-30 18:17:56 |
-| Last Scraped         | 2023-06-19 11:36:54 |

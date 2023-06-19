@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bali"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:55:32"
+published: "2023-06-11 19:24:24"
 subscribers: 3
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bali on lemmy.ml
-
-[[home](/)]
-[[/c/bali 🌎](https://lemmy.ml/c/bali)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to Bali, Indonesia!<br><br>**INFO**<br><br>- please be civil and kind<br>- no spam
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:24:24 |
-| Updated              | 2023-06-12 15:55:32 |
-| Last Scraped         | 2023-06-19 11:36:46 |

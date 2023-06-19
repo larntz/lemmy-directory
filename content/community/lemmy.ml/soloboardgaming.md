@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soloboardgaming"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 10:33:20"
+published: "2023-06-04 12:24:38"
 subscribers: 66
 posts: 3
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SoloBoardGaming on lemmy.ml
-
-[[home](/)]
-[[/c/soloboardgaming 🌎](https://lemmy.ml/c/soloboardgaming)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All about gaming Solo!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 66 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 12:24:38 |
-| Updated              | 2023-06-05 10:33:20 |
-| Last Scraped         | 2023-06-19 11:36:46 |

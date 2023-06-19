@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/datatermdigital"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 19:04:41"
+published: "2023-06-11 17:04:09"
 subscribers: 129
 posts: 13
 comments: 64
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/DATATERM on dataterm.digital
-
-[[home](/)]
-[[/c/datatermdigital 🌎](https://dataterm.digital/c/datatermdigital)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-Someone still has to think of something here
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 129 |
-| Posts                | 13  |
-| Comments             | 64  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 38  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:04:09 |
-| Updated              | 2023-06-11 19:04:41 |
-| Last Scraped         | 2023-06-19 11:35:18 |

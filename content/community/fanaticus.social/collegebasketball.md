@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/collegebasketball"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 02:08:54"
+published: "2023-06-18 02:07:55"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/College Basketball on fanaticus.social
-
-[[home](/)]
-[[/c/collegebasketball 🌎](https://fanaticus.social/c/collegebasketball)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss NCAA college basketball.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 02:07:55 |
-| Updated              | 2023-06-18 02:08:54 |
-| Last Scraped         | 2023-06-19 11:35:15 |

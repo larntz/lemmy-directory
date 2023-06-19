@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/greece"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:22:18"
+published: "2023-06-09 17:41:57"
 subscribers: 24
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Greece on sh.itjust.works
-
-[[home](/)]
-[[/c/greece 🌎](https://sh.itjust.works/c/greece)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-1. Topics must either be related to Greece or be in the Greek language<br>2. No self promotion<br>3. No inciting or promotion of violence.<br>4. No doxxing
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:41:57 |
-| Updated              | 2023-06-10 22:22:18 |
-| Last Scraped         | 2023-06-19 11:35:06 |

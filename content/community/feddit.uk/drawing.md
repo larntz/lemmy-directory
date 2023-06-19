@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/drawing"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 19:40:55"
 subscribers: 5
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Drawing on feddit.uk
-
-[[home](/)]
-[[/c/drawing 🌎](https://feddit.uk/c/drawing)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-For the artists out there. Did you draw a thing? Show us the thing!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 19:40:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

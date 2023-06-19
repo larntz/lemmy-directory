@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wirklichgutefrage"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 10:36:32"
+published: "2023-06-17 13:24:33"
 subscribers: 106
 posts: 6
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Wirklich gute Frage on feddit.de
-
-[[home](/)]
-[[/c/wirklichgutefrage 🌎](https://feddit.de/c/wirklichgutefrage)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-#### Das Beste von gutefrage.net<br><br>---<br>Screenshots von lustigen, absurden oder originellen Posts auf gutefrage.net<br><br>##### Regeln:<br>* Bitte Benutzernamen und Profilbilder in Screenshots unkenntlich machen
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 106 |
-| Posts                | 6  |
-| Comments             | 17  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 13:24:33 |
-| Updated              | 2023-06-19 10:36:32 |
-| Last Scraped         | 2023-06-19 11:35:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/photography"
 host: terefere.eu
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 22:09:15"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "terefere_eu"
 
 ---
-
-# /c/Photography on terefere.eu
-
-[[home](/)]
-[[/c/photography 🌎](https://terefere.eu/c/photography)]
-[[terefere.eu](/instances/terefere_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 22:09:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:57 |

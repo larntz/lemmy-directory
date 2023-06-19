@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/bingus"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 16:17:15"
+published: "2023-06-15 16:13:09"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/bingus on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/bingus 🌎](https://lemmy.blahaj.zone/c/bingus)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for bingus lovers!!<br>not connected to the bingus subreddit.<br><br><br>Rules:<br>1. Be nice<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 16:13:09 |
-| Updated              | 2023-06-15 16:17:15 |
-| Last Scraped         | 2023-06-19 11:35:28 |

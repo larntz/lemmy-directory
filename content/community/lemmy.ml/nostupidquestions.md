@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nostupidquestions"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-20 14:56:39"
+published: "2020-07-19 10:58:27"
 subscribers: 345
 posts: 19
 comments: 82
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/No Stupid Questions on lemmy.ml
-
-[[home](/)]
-[[/c/nostupidquestions 🌎](https://lemmy.ml/c/nostupidquestions)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-There are no stupid questions. <br><br>Follow site rules. <br><br>Don't be a fascist.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 345 |
-| Posts                | 19  |
-| Comments             | 82  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-19 10:58:27 |
-| Updated              | 2020-07-20 14:56:39 |
-| Last Scraped         | 2023-06-19 11:36:47 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://u.fail/c/india"
 host: u.fail
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 07:12:16"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "u_fail"
 
 ---
-
-# /c/भारत | India  on u.fail
-
-[[home](/)]
-[[/c/india 🌎](https://u.fail/c/india)]
-[[u.fail](/instances/u_fail)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy India Community. 🇮🇳
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:12:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:25 |

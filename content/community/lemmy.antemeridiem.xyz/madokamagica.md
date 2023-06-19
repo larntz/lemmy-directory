@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/madokamagica"
 host: lemmy.antemeridiem.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 12:19:32"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_antemeridiem_xyz"
 
 ---
-
-# /c/Puella Magi Madoka Magica on lemmy.antemeridiem.xyz
-
-[[home](/)]
-[[/c/madokamagica 🌎](https://lemmy.antemeridiem.xyz/c/madokamagica)]
-[[lemmy.antemeridiem.xyz](/instances/lemmy_antemeridiem_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss everything related to Puella Magi Madoka Magica and post fanarts, memes etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 12:19:32 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:13 |

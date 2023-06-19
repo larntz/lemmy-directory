@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/voxelgamedev"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 00:14:35"
+published: "2023-06-09 23:53:29"
 subscribers: 21
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Voxel Game Development on lemmy.world
-
-[[home](/)]
-[[/c/voxelgamedev 🌎](https://lemmy.world/c/voxelgamedev)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A game development sublemmy for discussing the creation of voxel games, and voxel engines.<br><br>Rules:<br><br>   * Keep posts relevant to other developers and titles representative of the content (no click-bait) - topics of interest include algorithms and code snippets, artistic techniques, free assets, tools or engines, and game design. All posts should be voxel-related and should be of interest to (or require feedback from) other developers, not just gamers. Titles, including the titles of linked content such as videos and articles, should be representative of the content and free of click bait.<br>   * Avoid advertising and promotional posts - this community is generally not the place to advertise or promote your game or product. Avoid submitting links to game trailers, press releases, app store pages, etc. However, you may showcase your work from an artistic or technical perspective (but see the next rule), and occasional posts of game development products will be permitted.<br>   * Limit the frequency of 'showcase' posts - It is easy for useful development resources to get lost among people showing off their work. Therefore please ensure that any showcase posts show significant progress from previous posts, and use Voxel Vendredi for more incremental updates. Provide information about your development process, languages, tools or tips for other developers. Don't just cross-post content from gaming pages.<br>   * No rude/offensive posts or personal attacks<br>   * No blockchains (NFTs, cryptocurrencies, Web3 etc.) - No posts or comments about blockchains (NFTs, cryptocurrencies, Web3 etc.) and projects which use them. We may remove posts/comments which refer to projects which actively use blockchains.<br>   * Voxel Vendredi - The weekly Voxel Vendredi thread is more relaxed and ideal for showing off you progress updates and screenshots, as well as asking for feedback or play testing. It starts every Friday - 'vendredi' in French - and runs over the weekend. Shameless plugs, progress updates, screenshots, videos, art, assets, promotion, tech, findings and recommendations etc. are all welcome.<br><br>Extra Links:<br><br><br>[Voxel.Wiki](https://voxel.wiki/)<br><br>[Polyvox (C++)](http://www.volumesoffun.com/polyvox-about/)<br><br>[Polyclient (C++)](https://gitorious.org/polyclient)<br><br>[voxel.js (JavaScript)](http://voxeljs.com/)<br><br>[noa (JavaScript)](http://voxeljs.com/)<br><br> [Infiniminer (C#)](http://www.zachtronics.com/infiniminer/)<br><br> [Voxeliq (C#)](http://www.int6.org/games/voxeliq-engine/)<br><br> [Chunk Stories (Java)](https://chunkstories.xyz/)<br><br> [Terasology(Java)](http://blog.movingblocks.net/blockmania/)<br><br> [Manic Digger (C#)](http://manicdigger.github.io/)<br><br> [Voxelmetric (C#)](http://alexstv.com/index.php/voxelmetric)<br><br> [Crafty (C++)](http://www.sea-of-memes.com/downloads/Crafty.html)<br><br> [Voxelman (D)](https://github.com/MrSmith33/voxelman)<br><br> [Charged Miners (D)](https://github.com/Wallbraker/Charged-Miners)<br><br> [BloxGin (C#)](http://minecraftterrain.codeplex.com/)<br><br> [CubeDefence (C#)](http://cubedefense.codeplex.com/)<br><br> [VoxelsAndPortals (C++)](https://github.com/RileyA/VoxelsAndPortals)<br><br> [MineHack (C++)](https://github.com/mikolalysenko/MineHack)<br><br> [Vox (C++)](https://github.com/AlwaysGeeky/Vox)<br><br> [TechCraft (C#)](http://techcraft.codeplex.com/)<br><br> [MineTest (C++)](http://minetest.net/)<br><br> [Playform (rust)](https://github.com/bfops/playform/)<br><br> [Seed of Andromeda (C++)](https://www.seedofandromeda.com/)<br><br><br>Information:<br><br> [An Analysis of Minecraft-like Engines<br>    Meshing in a Minecraft Game](http://0fps.wordpress.com/2012/01/14/an-analysis-of-minecraft-like-engines/)<br><br> [Veloren Blog (Rust)](https://veloren.net/)<br><br> [Sea Of Memes Blog (web archive) (C++)](https://web.archive.org/web/20200516065441/http://www.sea-of-memes.com/summary/blog_parts.html)<br><br> [Creating a Region File System for a Voxel Game (C++)](http://www.seedofandromeda.com/blogs/creating-a-region-file-system-for-a-voxel-game)<br><br> [Procworld Blog](http://procworld.blogspot.com/2010/11/from-voxels-to-polygons.html)<br><br> [3D Cube World Level Generation](http://accidentalnoise.sourceforge.net/minecraftworlds.html)<br><br> [Upvoid Devblog](https://upvoid.com/devblog/)<br><br> [JME3 Engine Sample Code (Java) and thread.](https://github.com/Sleaker/Cubed)<br><br> [Ogre3D Volume Rendering](http://www.ogre3d.org/forums/viewtopic.php?f=11&amp;t=72895&amp;hilit=Transvoxel)<br><br> [Big List of Block Engines Resources - Continued](http://www.reddit.com/r/VoxelGameDev/comments/why8x/the_big_list_of_block_engines/) - [Continued](http://www.reddit.com/r/VoxelGameDev/comments/win15/the_big_list_of_block_engines_resources_continued/)<br><br> [Isosurface Extraction](http://swiftcoder.wordpress.com/planets/isosurface-extraction/)<br><br> [Minecraft-like Rendering <br>Experiments in Opengl4 (OpenGL)](http://codeflow.org/entries/2010/dec/09/minecraft-like-rendering-experiments-in-opengl-4/#more-interesting-noise)<br><br> [Greedy Meshing (Java)](https://github.com/roboleary/GreedyMesh)<br><br> [Let's Make a Voxel Engine (C++)](https://sites.google.com/site/letsmakeavoxelengine/)<br><br> [Dual Contouring Chunked Terrain](http://ngildea.blogspot.co.uk/2014/09/dual-contouring-chunked-terrain.html)<br><br> [Voxel-Based Terrain for Real-Time Virtual Simulations](http://www.terathon.com/lengyel/Lengyel-VoxelTerrain.pdf)<br><br> [Nick's Voxel Blog](http://ngildea.blogspot.co.uk/2015/03/engine-overview.html)<br> <br>[.qb loader (C++)](https://archive.is/SXhDE)<br><br> [Implementing Morton order (volumes of fun blog)](http://www.volumesoffun.com/implementing-morton-ordering-for-chunked-voxel-data/)<br><br> [Dual Contouring with OpenCL](http://ngildea.blogspot.co.uk/2015/06/dual-contouring-with-opencl.html)<br><br> [CPU Voxel RayTracer](https://jacco.ompf2.com/2019/03/28/source-code-cpu-voxel-ray-tracer/)<br><br><br>Originally  [r/VoxelGameDev](https://old.reddit.com/r/VoxelGameDev/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 23:53:29 |
-| Updated              | 2023-06-10 00:14:35 |
-| Last Scraped         | 2023-06-16 22:57:17 |

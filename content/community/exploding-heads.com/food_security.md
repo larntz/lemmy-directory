@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/food_security"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-24 13:07:26"
+published: "2022-04-23 23:19:04"
 subscribers: 29
 posts: 330
 comments: 140
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Food Security on exploding-heads.com
-
-[[home](/)]
-[[/c/food_security 🌎](https://exploding-heads.com/c/food_security)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 330  |
-| Comments             | 140  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-23 23:19:04 |
-| Updated              | 2022-04-24 13:07:26 |
-| Last Scraped         | 2023-06-19 11:35:38 |

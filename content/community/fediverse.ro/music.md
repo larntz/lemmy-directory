@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/music"
 host: fediverse.ro
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-02 01:47:07"
+published: "2023-01-18 20:51:23"
 subscribers: 11
 posts: 22
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fediverse_ro"
 
 ---
-
-# /c/🎵|Music on fediverse.ro
-
-[[home](/)]
-[[/c/music 🌎](https://fediverse.ro/c/music)]
-[[fediverse.ro](/instances/fediverse_ro)]
-
-
-## Description 
-
-<blockquote class="description">
-Share your favorite copyright free music!<br><br>Follow the following format:<br><br>Artist/s - Song name<br><br>Whitelisted domains:<br><br>    Jamando<br>    SoundCloud<br>    Youtube Music<br>    Free Music Archive<br>    Musopen<br>    SoundClick<br>    hearthis .at<br><br>Any other domain will be removed<br><br>The list will get updated as needed .
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 22  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-18 20:51:23 |
-| Updated              | 2023-02-02 01:47:07 |
-| Last Scraped         | 2023-06-19 11:35:28 |

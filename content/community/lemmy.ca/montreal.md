@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/montreal"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:13:26"
+published: "2023-06-01 23:39:43"
 subscribers: 228
 posts: 11
 comments: 50
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Montréal on lemmy.ca
-
-[[home](/)]
-[[/c/montreal 🌎](https://lemmy.ca/c/montreal)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-# VOIR POTEAU PINNÉ<br># SEE PINNED POST<br><br>### Les règles:<br>1. Les poteaux doivent être en lien avec la grande région de Montréal et / ou sa culture et / ou sa population.<br>2. Aucune bigoterie ne sera tolérée. Ça comprend, mais sans se limiter à, le racisme, le sexisme, l'homophobie, la transphobie, etc.<br>3. Soyez respectueux envers l'aspect multiculturel de Montréal et les autres internautes. Ce sublemmy est bilingue (anglais / français).<br>4. Effectuez une recherche internet avant de poser des questions sur de l'information façilement accessible.<br>5. Aucune publicité (incluant trucs à vendre), sauf sous approbation par l'équipe de modération. Toute publicitée non-approuvée sera considérée comme étant du spam.<br>6. Pas d'éditorialisme des titres lorsque l'on partage un article. Utilisez le titre original, écrivez un commentaire pour partager votre opinion.<br>7. Tentez de lier la source directe, lorsque possible. Évitez les blogs qui paraphrasent la source.<br>8. Pas d'objets perdus.<br>9. Pas de meme macros.<br>10. Rien d'illégal ou trop NSFW.<br>11. Utilisez le gros bon sens<br><br>### Rules:<br>1. Posts must be related to the region of Montreal and / or its culture and / or its population.<br>2. Absolutely no bigotry will be tolerated. This includes, but is not limited to, racism, sexism, homophobia, transphobia, etc.<br>3. Be respectful towards the multicultural aspect of Montreal and your fellow users. This sublemmy is bilingual (French / English).<br>4. Perform an internet search before asking questions on easily accessible information.<br>5. No publicity (including for sale items), unless approved by the mod team. All unapproved publicity will be considered as spam.<br>6. No title editorialism when sharing an article. Use the original title, write a comment to share your opinion.<br>7. Try to link to the original source whenever possible. Avoid sources that paraphrase other sources.<br>8. No lost and found.<br>9. No meme macros.<br>10. Nothing illegal or overly NSFW.<br>11. Use common sense.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 228 |
-| Posts                | 11  |
-| Comments             | 50  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-01 23:39:43 |
-| Updated              | 2023-06-16 01:13:26 |
-| Last Scraped         | 2023-06-19 11:35:36 |

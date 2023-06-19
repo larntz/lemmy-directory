@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fediverse.jp/c/sandbox"
 host: lemmy.fediverse.jp
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-04-19 23:36:42"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fediverse_jp"
 
 ---
-
-# /c/すなば on lemmy.fediverse.jp
-
-[[home](/)]
-[[/c/sandbox 🌎](https://lemmy.fediverse.jp/c/sandbox)]
-[[lemmy.fediverse.jp](/instances/lemmy_fediverse_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-19 23:36:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

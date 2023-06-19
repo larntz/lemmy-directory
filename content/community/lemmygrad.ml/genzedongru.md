@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedongru"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-28 03:28:55"
+published: "2022-03-27 15:13:17"
 subscribers: 29
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/GenZedongRU on lemmygrad.ml
-
-[[home](/)]
-[[/c/genzedongru 🌎](https://lemmygrad.ml/c/genzedongru)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**GenZedong** для **Русско-говорящих** товарищей.<br><br>🇷🇺🇨🇺🇨🇳
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-27 15:13:17 |
-| Updated              | 2022-03-28 03:28:55 |
-| Last Scraped         | 2023-06-19 11:35:08 |

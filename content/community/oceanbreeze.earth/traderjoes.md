@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/traderjoes"
 host: oceanbreeze.earth
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:28:47"
+published: "2023-06-14 18:27:25"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "oceanbreeze_earth"
 
 ---
-
-# /c/traderjoes on oceanbreeze.earth
-
-[[home](/)]
-[[/c/traderjoes 🌎](https://oceanbreeze.earth/c/traderjoes)]
-[[oceanbreeze.earth](/instances/oceanbreeze_earth)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 18:27:25 |
-| Updated              | 2023-06-14 18:28:47 |
-| Last Scraped         | 2023-06-19 11:35:21 |

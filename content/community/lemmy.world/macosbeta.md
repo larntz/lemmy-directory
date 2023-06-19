@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macosbeta"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:02:39"
+published: "2023-06-14 13:52:27"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/macOS beta 🍎🖥️ β on lemmy.world
-
-[[home](/)]
-[[/c/macosbeta 🌎](https://lemmy.world/c/macosbeta)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:52:27 |
-| Updated              | 2023-06-14 14:02:39 |
-| Last Scraped         | 2023-06-19 11:36:38 |

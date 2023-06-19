@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/_de"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:19:11"
+published: "2023-06-12 07:41:17"
 subscribers: 35
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Schaut bei c/dach vorbei!  on feddit.de
-
-[[home](/)]
-[[/c/_de 🌎](https://feddit.de/c/_de)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:41:17 |
-| Updated              | 2023-06-12 15:19:11 |
-| Last Scraped         | 2023-06-19 11:35:39 |

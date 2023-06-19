@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/deeprockgalactic"
 host: apollo.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 06:00:16"
 subscribers: 18
 posts: 4
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "apollo_town"
 
 ---
-
-# /c/Deep Rock Galactic on apollo.town
-
-[[home](/)]
-[[/c/deeprockgalactic 🌎](https://apollo.town/c/deeprockgalactic)]
-[[apollo.town](/instances/apollo_town)]
-
-
-## Description 
-
-<blockquote class="description">
-Rock and Stone!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 4  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 06:00:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

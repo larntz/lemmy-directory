@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bleach"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-16 05:16:39"
+published: "2022-04-15 23:02:35"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bleach on lemmy.ml
-
-[[home](/)]
-[[/c/bleach 🌎](https://lemmy.ml/c/bleach)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-15 23:02:35 |
-| Updated              | 2022-04-16 05:16:39 |
-| Last Scraped         | 2023-06-19 11:36:45 |

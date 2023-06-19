@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/test_swem"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-14 12:28:05"
+published: "2022-01-14 12:22:56"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Test on lemmy.ml
-
-[[home](/)]
-[[/c/test_swem 🌎](https://lemmy.ml/c/test_swem)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-14 12:22:56 |
-| Updated              | 2022-01-14 12:28:05 |
-| Last Scraped         | 2023-06-19 11:36:59 |

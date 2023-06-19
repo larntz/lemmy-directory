@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/mesbg"
 host: tabletop.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:26:08"
+published: "2023-06-16 06:03:56"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tabletop_place"
 
 ---
-
-# /c/Middle-earth Strategy Battle Game on tabletop.place
-
-[[home](/)]
-[[/c/mesbg 🌎](https://tabletop.place/c/mesbg)]
-[[tabletop.place](/instances/tabletop_place)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the mass-battle wargame, Middle-earth Strategy Battle Game, by Games Workshop.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:03:56 |
-| Updated              | 2023-06-16 22:26:08 |
-| Last Scraped         | 2023-06-19 11:35:30 |

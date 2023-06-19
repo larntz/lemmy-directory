@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arabs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-17 22:21:14"
+published: "2021-06-17 21:59:39"
 subscribers: 22
 posts: 9
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/arabs on lemmy.ml
-
-[[home](/)]
-[[/c/arabs 🌎](https://lemmy.ml/c/arabs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing anything related to the Arab world.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 9  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-17 21:59:39 |
-| Updated              | 2021-06-17 22:21:14 |
-| Last Scraped         | 2023-06-19 11:37:02 |

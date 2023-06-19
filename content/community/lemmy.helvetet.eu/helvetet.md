@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/helvetet"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:13:35"
+published: "2023-02-25 14:34:23"
 subscribers: 8
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Helvetet Community on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/helvetet 🌎](https://lemmy.helvetet.eu/c/helvetet)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Helvetet Community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-25 14:34:23 |
-| Updated              | 2023-06-15 22:13:35 |
-| Last Scraped         | 2023-06-19 11:35:28 |

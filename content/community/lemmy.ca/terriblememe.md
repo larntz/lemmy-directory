@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/terriblememe"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 00:40:43"
+published: "2023-06-15 12:32:03"
 subscribers: 7
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Terrible Facebook meme on lemmy.ca
-
-[[home](/)]
-[[/c/terriblememe 🌎](https://lemmy.ca/c/terriblememe)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-share cringe boomer meme.<br>anti comedy c/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 12:32:03 |
-| Updated              | 2023-06-16 00:40:43 |
-| Last Scraped         | 2023-06-19 11:35:36 |

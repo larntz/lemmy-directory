@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/techno"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 19:20:21"
+published: "2023-06-06 18:57:56"
 subscribers: 19
 posts: 6
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Techno on feddit.de
-
-[[home](/)]
-[[/c/techno 🌎](https://feddit.de/c/techno)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Techno!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 18:57:56 |
-| Updated              | 2023-06-06 19:20:21 |
-| Last Scraped         | 2023-06-19 11:35:39 |

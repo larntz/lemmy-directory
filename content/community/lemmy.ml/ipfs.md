@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ipfs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2019-05-27 23:25:23"
+published: "2019-05-27 23:17:17"
 subscribers: 562
 posts: 29
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/IPFS - Replacing HTTP as the foundation of the web on lemmy.ml
-
-[[home](/)]
-[[/c/ipfs 🌎](https://lemmy.ml/c/ipfs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the InterPlanetary File System.  <br><br>Website: https://ipfs.io<br>Github: https://github.com/ipfs/ipfs/  <br><br><br>Other communities:  <br>IRC: [#ipfs on irc.freenode.net](irc://freenode/ipfs)  <br>Matrix: [#ipfs:matrix.org](https://riot.im/app/#/room/#ipfs:matrix:org)  <br>Discord: https://discord.gg/DrPFqa2  <br>(All three chat platforms are bridged together)  <br><br>Forums: https://discuss.ipfs.io/  
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 562 |
-| Posts                | 29  |
-| Comments             | 26  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-05-27 23:17:17 |
-| Updated              | 2019-05-27 23:25:23 |
-| Last Scraped         | 2023-06-19 11:36:53 |

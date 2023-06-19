@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/xmpp"
 host: slrpnk.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:29:31"
+published: "2023-06-06 19:45:45"
 subscribers: 23
 posts: 5
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "slrpnk_net"
 
 ---
-
-# /c/XMPP on slrpnk.net
-
-[[home](/)]
-[[/c/xmpp 🌎](https://slrpnk.net/c/xmpp)]
-[[slrpnk.net](/instances/slrpnk_net)]
-
-
-## Description 
-
-<blockquote class="description">
-[XMPP](https://xmpp.org/about/) (aka Jabber) is the community-owned standard for real-time federated messaging.<br><br>[For a quick start click here](https://joinjabber.org/docs/)<br><br>[JoinJabber.org support chat](https://joinjabber.org/support)<br><br>[JoinJabber.org admin support chat](https://chat.joinjabber.org/#/guest?join=servers)<br><br>[XMPP.net Provider List](https://providers.xmpp.net/)<br><br>[Also see JoinJabber.org FAQ](https://joinjabber.org/docs/faqs/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 5  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 19:45:45 |
-| Updated              | 2023-06-13 23:29:31 |
-| Last Scraped         | 2023-06-19 11:35:28 |

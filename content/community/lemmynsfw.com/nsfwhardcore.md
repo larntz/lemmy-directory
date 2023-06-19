@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfwhardcore"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 05:36:20"
+published: "2023-06-19 05:22:27"
 subscribers: 8
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/NSFW Hardcore on lemmynsfw.com
-
-[[home](/)]
-[[/c/nsfwhardcore 🌎](https://lemmynsfw.com/c/nsfwhardcore)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Hardcore Porn for Everyone
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 05:22:27 |
-| Updated              | 2023-06-19 05:36:20 |
-| Last Scraped         | 2023-06-19 11:35:45 |

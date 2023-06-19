@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/davidfosterwallace"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 07:22:18"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/DavidFosterWallace on feddit.de
-
-[[home](/)]
-[[/c/davidfosterwallace 🌎](https://feddit.de/c/davidfosterwallace)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss the work and life DFW, author of *Infinite Jest*, *The Pale King*, *Interviews With Hideous Men*, and many other works of fiction/non-fiction worth your time.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:22:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

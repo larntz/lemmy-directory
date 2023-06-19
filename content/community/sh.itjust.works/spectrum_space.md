@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/spectrum_space"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:42:11"
+published: "2023-06-14 21:33:20"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/On The Spectrum Hang out on sh.itjust.works
-
-[[home](/)]
-[[/c/spectrum_space 🌎](https://sh.itjust.works/c/spectrum_space)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A community intended for adults on the spectrum living in a Neurotypical world.  Here you can be yourself, that's what it's for!<br><br>Share and talk about special interests. Info dump us! By all means post a funny meme. What ever makes you happy! Just be respectful to others.    <br><br> <br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:33:20 |
-| Updated              | 2023-06-14 22:42:11 |
-| Last Scraped         | 2023-06-19 11:35:05 |

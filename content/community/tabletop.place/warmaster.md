@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/warmaster"
 host: tabletop.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:38:28"
+published: "2023-06-16 06:22:02"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tabletop_place"
 
 ---
-
-# /c/Warmaster on tabletop.place
-
-[[home](/)]
-[[/c/warmaster 🌎](https://tabletop.place/c/warmaster)]
-[[tabletop.place](/instances/tabletop_place)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to Warmaster, the mass-battle fantasy wargame by Games Workshop. While the game is no longer officially supported, a fanmade 2nd edition is currently available for free, known as Warmaster Revolution.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:22:02 |
-| Updated              | 2023-06-16 22:38:28 |
-| Last Scraped         | 2023-06-19 11:35:30 |

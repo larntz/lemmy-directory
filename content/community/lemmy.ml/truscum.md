@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/truscum"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 20:59:22"
+published: "2023-06-06 00:05:40"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/truscum on lemmy.ml
-
-[[home](/)]
-[[/c/truscum 🌎](https://lemmy.ml/c/truscum)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Tired of people misrepresenting your medical condition? Is said medical condition gender dysphoria? Your not alone! You’re in the right place. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 00:05:40 |
-| Updated              | 2023-06-17 20:59:22 |
-| Last Scraped         | 2023-06-19 11:36:46 |

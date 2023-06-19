@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/dudesindiapers"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:27:55"
+published: "2023-06-14 15:41:08"
 subscribers: 8
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/DudesInDiapers on lemmynsfw.com
-
-[[home](/)]
-[[/c/dudesindiapers 🌎](https://lemmynsfw.com/c/dudesindiapers)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Related Lemmy’s:<br><br>ABDL- <br>https://lemmynsfw.com/c/ab_dl<br><br>Videos - https://lemmynsfw.com/c/abdl_videos<br><br>Girls in diapers - https://lemmynsfw.com/c/girls_in_diapers<br><br>Dudes in diapers -<br><br>https://lemmynsfw.com/c/dudesindiapers<br><br>Meeting up -<br><br>https://lemmynsfw.com/c/abdl_asl<br><br>Diaper Porn -<br><br>https://lemmynsfw.com/c/diaperporn<br><br>Diapered Trans -<br><br>https://lemmynsfw.com/c/diapered_trans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:41:08 |
-| Updated              | 2023-06-14 18:27:55 |
-| Last Scraped         | 2023-06-19 11:35:46 |

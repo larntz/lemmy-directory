@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rctcirclejerk"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 06:17:40"
+published: "2023-06-13 03:36:01"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/RCTCirclejerk on lemmy.world
-
-[[home](/)]
-[[/c/rctcirclejerk 🌎](https://lemmy.world/c/rctcirclejerk)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for all your RCT-related meme needs<br><br>Basically no rules but we'll still remove offensive, NSFW or *very* non-RCT-related content.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 03:36:01 |
-| Updated              | 2023-06-13 06:17:40 |
-| Last Scraped         | 2023-06-19 11:36:40 |

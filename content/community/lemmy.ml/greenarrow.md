@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greenarrow"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 12:08:05"
+published: "2023-06-10 01:55:19"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Green Arrow on lemmy.ml
-
-[[home](/)]
-[[/c/greenarrow 🌎](https://lemmy.ml/c/greenarrow)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Sublemmy dedicated to everyone's favorite emerald archer, Green Arrow.<br><br>Rules:<br>- Be civil<br>- Cite sources for artwork or writing <br>- No spoilers in title, mark spoilers<br>- No spamming<br>- Only post content related to Green Arrow
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:55:19 |
-| Updated              | 2023-06-11 12:08:05 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/untzuntzuntz"
 host: waveform.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 14:38:56"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "waveform_social"
 
 ---
-
-# /c/House & Techno on waveform.social
-
-[[home](/)]
-[[/c/untzuntzuntz 🌎](https://waveform.social/c/untzuntzuntz)]
-[[waveform.social](/instances/waveform_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Untz Untz Untz
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 14:38:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:17 |

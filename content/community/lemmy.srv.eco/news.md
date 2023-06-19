@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/news"
 host: lemmy.srv.eco
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:28:18"
+published: "2023-06-14 00:37:07"
 subscribers: 4
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_srv_eco"
 
 ---
-
-# /c/📰 News on lemmy.srv.eco
-
-[[home](/)]
-[[/c/news 🌎](https://lemmy.srv.eco/c/news)]
-[[lemmy.srv.eco](/instances/lemmy_srv_eco)]
-
-
-## Description 
-
-<blockquote class="description">
-#### Rules<br><br>1. Posts must link to an article<br><br>2. Post titles must use the unedited headline from the article<br><br>3. Articles older than one year at the time of posting should include in the title the date the article was published
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:37:07 |
-| Updated              | 2023-06-14 23:28:18 |
-| Last Scraped         | 2023-06-19 11:35:29 |

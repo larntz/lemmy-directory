@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/boating"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 00:58:53"
+published: "2023-06-10 00:56:35"
 subscribers: 13
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Boating on reddthat.com
-
-[[home](/)]
-[[/c/boating 🌎](https://reddthat.com/c/boating)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for boating enthusiasts, similar to /r/boating.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:56:35 |
-| Updated              | 2023-06-10 00:58:53 |
-| Last Scraped         | 2023-06-19 11:35:02 |

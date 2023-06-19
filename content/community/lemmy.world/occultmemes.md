@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/occultmemes"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 10:30:09"
+published: "2023-06-16 10:19:06"
 subscribers: 12
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Occult Memes on lemmy.world
-
-[[home](/)]
-[[/c/occultmemes 🌎](https://lemmy.world/c/occultmemes)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for occult memes and esoteric humor.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 10:19:06 |
-| Updated              | 2023-06-16 10:30:09 |
-| Last Scraped         | 2023-06-19 11:36:36 |

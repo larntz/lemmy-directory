@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/saints"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 21:12:17"
+published: "2023-06-14 01:09:12"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/New Orleans Saints on fanaticus.social
-
-[[home](/)]
-[[/c/saints 🌎](https://fanaticus.social/c/saints)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the New Orleans Saints.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:09:12 |
-| Updated              | 2023-06-17 21:12:17 |
-| Last Scraped         | 2023-06-19 11:35:15 |

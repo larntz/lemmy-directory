@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/limitedgoverment"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-20 18:24:12"
+published: "2022-03-06 12:49:18"
 subscribers: 11
 posts: 22
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Limited Government on exploding-heads.com
-
-[[home](/)]
-[[/c/limitedgoverment 🌎](https://exploding-heads.com/c/limitedgoverment)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Government has grown too big. <br>- It tries to do too much, but does nothing well. <br>- It costs too much placing undue burden on those it is meant to serve. <br>- The public servants it employs have elevated themselves to our lord and master.<br>- it has no moral compass, it is out of control. <br><br>It is time to limit government to:<br>- the things only it can do, and<br>- only those things it has proven it can do well in a cost efficient manner. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 22  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-06 12:49:18 |
-| Updated              | 2022-03-20 18:24:12 |
-| Last Scraped         | 2023-06-19 11:35:38 |

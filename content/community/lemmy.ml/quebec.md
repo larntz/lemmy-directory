@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quebec"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-02 09:31:23"
+published: "2022-05-02 09:25:16"
 subscribers: 9
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Québec on lemmy.ml
-
-[[home](/)]
-[[/c/quebec 🌎](https://lemmy.ml/c/quebec)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## Bienvenue au<br>![](https://lemmy.ml/pictrs/image/1ed7f2bd-003b-4f76-b048-2f994b1b60bd.png)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-02 09:25:16 |
-| Updated              | 2022-05-02 09:31:23 |
-| Last Scraped         | 2023-06-19 11:36:46 |

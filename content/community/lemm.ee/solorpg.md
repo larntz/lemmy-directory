@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/solorpg"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:00:51"
+published: "2023-06-14 11:36:35"
 subscribers: 18
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Playing Tabletop Roleplaying Games Alone on lemm.ee
-
-[[home](/)]
-[[/c/solorpg 🌎](https://lemm.ee/c/solorpg)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-**Welcome to the SoloRPG community!**<br><br>Some people prefer to play their tabletop roleplaying games alone, to avoid the drama and scheduling issues of traditional group games, while others play solo because they're unable to find a group to play with.<br><br>Whatever your case may be, you're more than welcome here to discuss your experiences as well as ask any questions that you might have.<br><br>For an introduction to this style of play, read [Why Play Roleplaying Games Alone](https://lemm.ee/post/69164).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 11:36:35 |
-| Updated              | 2023-06-15 18:00:51 |
-| Last Scraped         | 2023-06-19 11:35:16 |

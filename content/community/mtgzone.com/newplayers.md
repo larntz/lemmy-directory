@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/beginner"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:41:16"
+published: "2023-06-10 01:19:42"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/New Players on mtgzone.com
-
-[[home](/)]
-[[/c/newplayers 🌎](https://mtgzone.com/c/beginner)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Community for new Magic players!**<br><br>All questions and topics welcome! This community is here to welcome and encourage new players to the game so that they share in our addiction for a long time!<br><br>Links to new player guides forthcoming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:19:42 |
-| Updated              | 2023-06-15 18:41:16 |
-| Last Scraped         | 2023-06-19 11:35:14 |

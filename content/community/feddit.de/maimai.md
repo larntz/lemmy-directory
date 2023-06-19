@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/maimai"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-30 09:01:39"
+published: "2021-08-21 11:25:04"
 subscribers: 191
 posts: 24
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Feuchte Maimais on feddit.de
-
-[[home](/)]
-[[/c/maimai 🌎](https://feddit.de/c/maimai)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Dank Memes auf deutsch!<br><br>Hier sammeln wir deutschsprachige lustige Bildchen.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 191 |
-| Posts                | 24  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-21 11:25:04 |
-| Updated              | 2021-08-30 09:01:39 |
-| Last Scraped         | 2023-06-19 11:35:39 |

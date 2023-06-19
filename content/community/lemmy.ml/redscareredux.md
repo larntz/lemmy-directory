@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redscareredux"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-10 02:08:13"
+published: "2021-01-10 02:02:41"
 subscribers: 10
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Red Scare Redux on lemmy.ml
-
-[[home](/)]
-[[/c/redscareredux 🌎](https://lemmy.ml/c/redscareredux)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Don't be a dick.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-10 02:02:41 |
-| Updated              | 2021-01-10 02:08:13 |
-| Last Scraped         | 2023-06-19 11:36:44 |

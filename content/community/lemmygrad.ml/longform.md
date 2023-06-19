@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/longform"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-10-15 09:07:18"
+published: "2020-10-15 06:30:29"
 subscribers: 27
 posts: 6
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Longform on lemmygrad.ml
-
-[[home](/)]
-[[/c/longform 🌎](https://lemmygrad.ml/c/longform)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for long-form journalism and editorials which provide an in-depth analysis of the subject.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 6  |
-| Comments             | 14  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-15 06:30:29 |
-| Updated              | 2020-10-15 09:07:18 |
-| Last Scraped         | 2023-06-19 11:35:08 |

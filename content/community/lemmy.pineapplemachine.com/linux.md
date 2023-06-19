@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/linux"
 host: lemmy.pineapplemachine.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 10:02:39"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pineapplemachine_com"
 
 ---
-
-# /c/linux on lemmy.pineapplemachine.com
-
-[[home](/)]
-[[/c/linux 🌎](https://lemmy.pineapplemachine.com/c/linux)]
-[[lemmy.pineapplemachine.com](/instances/lemmy_pineapplemachine_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss Linux and Linux distributions.<br><br>Learn more at [www.linux.org](https://www.linux.org/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 10:02:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:57 |

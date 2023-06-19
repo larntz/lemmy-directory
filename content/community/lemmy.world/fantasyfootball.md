@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fantasyfootball"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:45:46"
+published: "2023-06-09 19:57:15"
 subscribers: 62
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Fantasy Football on lemmy.world
-
-[[home](/)]
-[[/c/fantasyfootball 🌎](https://lemmy.world/c/fantasyfootball)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 62 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:57:15 |
-| Updated              | 2023-06-12 14:45:46 |
-| Last Scraped         | 2023-06-19 11:36:41 |

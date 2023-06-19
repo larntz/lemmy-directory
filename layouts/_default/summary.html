@@ -1,36 +1,21 @@
-<section class="summary">
-    <a href="{{ .Page.Permalink }}">
-      <h4>{{ .Title }} - {{ .Params.host}}</h4>
-    </a>
-    <blockquote>
-    {{ if isset .Params "description" }}{{ htmlUnescape .Params.Description }}{{ end }}
-    </blockquote>
-    <table class="activity">
-      <thead>
-        <tr>
-          <th>Activity</th>
-          <th>Count</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Posts</td><td>{{ .Params.Posts }}</td>
-        </tr>
-        <tr>
-          <td>Daily Active Users</td><td>{{ .Params.DAU }}</td>
-        </tr>
-        <tr>
-          <td>Weekly Active Users</td><td>{{ .Params.WAU }}</td>
-        </tr>
-        <tr>
-          <td>Monthly Active Users</td><td>{{ .Params.MAU }}</td>
-        </tr>
-      </tbody>
-    </table>
-    <br>
-    [<a href="/instances/{{ urlize (replace .Params.host "." "_") }}">more on {{ .Params.host }}</a>]
-    [<a href="{{.Params.actor_id }}">/c/{{ .Params.name }} 🌎</a>]
-    [<a href="https://{{ urlize .Params.host }}">{{ .Params.host}} 🌎</a>]
-    - Last Updated: <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ .PublishDate  | time.Format ":date_full" }}</time>
-  <hr>
+<section class="summary"> 
+  <section class="summary summary_title">
+  <a href="{{ .Page.Permalink }}"><b>{{ .Title }} - {{ .Params.host }}</b></a>
+  - updated <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ .PublishDate  | time.Format ":date_full" }}</time>
+  </section>
+
+  <section class="summary summary_desc">
+  {{ htmlUnescape .Description | safeHTML | truncate 100 }}
+  </section>
+
+  <section class="summary_stats">
+  posts: {{ .Params.Posts }} | daily users: {{ .Params.DAU }} | weekly users: {{ .Params.WAU }} | monthly users: {{ .Params.MAU }}
+  </section>
+
+  <section class="summary_links">
+    [<span id="{{ .Params.name }}{{ .Params.host }}" style="user-select:all">!{{ .Params.name }}@{{ .Params.host }}</span><span onclick="copyBang('!{{ .Params.name }}@{{ .Params.host }}','{{ .Params.name }}{{ .Params.host }}')"> 📋</span>]
+  [<a href="{{.Params.actor_id }}">/c/{{ .Params.name }} 🌎</a>]
+  [<a href="https://{{ urlize .Params.host }}">{{ .Params.host}} 🌎</a>]
+  [<a href="/instances/{{ urlize (replace .Params.host "." "_") }}">more on instance {{ .Params.host }}</a>]
+  </section>
 </section>

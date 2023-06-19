@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animation"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-01 23:38:38"
+published: "2022-07-01 23:31:11"
 subscribers: 17
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Animation on lemmy.ml
-
-[[home](/)]
-[[/c/animation 🌎](https://lemmy.ml/c/animation)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing all forms of animation; from 2D to 3D to video games to user design.<br><br>---<br><br>(profile picture: Spirited Away)<br><br>(banner: Onward)<br><br>---
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-01 23:31:11 |
-| Updated              | 2022-07-01 23:38:38 |
-| Last Scraped         | 2023-06-19 11:36:46 |

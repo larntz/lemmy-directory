@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thesilencedones"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-19 16:34:45"
+published: "2021-02-15 23:00:31"
 subscribers: 10
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/(Deleted) on lemmy.ml
-
-[[home](/)]
-[[/c/thesilencedones 🌎](https://lemmy.ml/c/thesilencedones)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is no longer maintained sorry!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-15 23:00:31 |
-| Updated              | 2021-04-19 16:34:45 |
-| Last Scraped         | 2023-06-19 11:36:44 |

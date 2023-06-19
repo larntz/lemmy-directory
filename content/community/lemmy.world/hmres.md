@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hmres"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 09:21:15"
+published: "2023-06-12 11:19:26"
 subscribers: 70
 posts: 6
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Home Made Renewable Energy Systems on lemmy.world
-
-[[home](/)]
-[[/c/hmres 🌎](https://lemmy.world/c/hmres)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss making renewable energy systems at home.<br><br>Want to turn a PC fan into a generator for your vertical axis wind turbine?  Got an old washing machine that might be good with a pelton wheel on it?<br><br>This is your place.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 11:19:26 |
-| Updated              | 2023-06-13 09:21:15 |
-| Last Scraped         | 2023-06-19 11:36:40 |

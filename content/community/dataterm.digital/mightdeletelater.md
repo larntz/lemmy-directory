@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/mightdeletelater"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 08:01:56"
 subscribers: 2
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/might delete later on dataterm.digital
-
-[[home](/)]
-[[/c/mightdeletelater 🌎](https://dataterm.digital/c/mightdeletelater)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-IDK, might delete later
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 08:01:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:10 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/xinjiang_analysis"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-10-14 15:01:27"
 subscribers: 51
 posts: 11
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Xinjiang Analysis on lemmygrad.ml
-
-[[home](/)]
-[[/c/xinjiang_analysis 🌎](https://lemmygrad.ml/c/xinjiang_analysis)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A space for sharing info and discussing the Xinjiang Uygur Autonomous Region (XUAR) of China and its people
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 11  |
-| Comments             | 23  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-14 15:01:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

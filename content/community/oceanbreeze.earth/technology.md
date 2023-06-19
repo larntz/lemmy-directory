@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/technology"
 host: oceanbreeze.earth
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 21:17:55"
 subscribers: 3
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "oceanbreeze_earth"
 
 ---
-
-# /c/technology on oceanbreeze.earth
-
-[[home](/)]
-[[/c/technology 🌎](https://oceanbreeze.earth/c/technology)]
-[[oceanbreeze.earth](/instances/oceanbreeze_earth)]
-
-
-## Description 
-
-<blockquote class="description">
-anything technology focused, including devices, products, programming, ect.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 21:17:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:21 |

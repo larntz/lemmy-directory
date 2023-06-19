@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/debatecommunism"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-09-03 06:09:32"
 subscribers: 42
 posts: 2
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Debate Communism on lemmygrad.ml
-
-[[home](/)]
-[[/c/debatecommunism 🌎](https://lemmygrad.ml/c/debatecommunism)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Non-communists wanting to discuss or debate with communists can use this subcommunity as a forum. Please don't make posts of this nature outside this subcommunity.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 2  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-03 06:09:32 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

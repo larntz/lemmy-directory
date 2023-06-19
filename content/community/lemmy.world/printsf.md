@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/printsf"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:52:38"
+published: "2023-06-16 11:51:54"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Science Fiction & Fantasy literature on lemmy.world
-
-[[home](/)]
-[[/c/printsf 🌎](https://lemmy.world/c/printsf)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 11:51:54 |
-| Updated              | 2023-06-16 11:52:38 |
-| Last Scraped         | 2023-06-19 11:36:36 |

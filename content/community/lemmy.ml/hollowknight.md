@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hollowknight"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-01 16:04:26"
+published: "2022-06-01 16:01:48"
 subscribers: 28
 posts: 4
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Hollow Knight on lemmy.ml
-
-[[home](/)]
-[[/c/hollowknight 🌎](https://lemmy.ml/c/hollowknight)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Hollow Knight.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-01 16:01:48 |
-| Updated              | 2022-06-01 16:04:26 |
-| Last Scraped         | 2023-06-19 11:36:46 |

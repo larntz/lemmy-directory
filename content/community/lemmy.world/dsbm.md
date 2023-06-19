@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dsbm"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 02:43:21"
+published: "2023-06-10 17:17:59"
 subscribers: 22
 posts: 5
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Depressive Suicidal Black Metal on lemmy.world
-
-[[home](/)]
-[[/c/dsbm 🌎](https://lemmy.world/c/dsbm)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the genre of depressive suicidal black metal.<br><br>Keep things civil.  Don't be an asshole.  Don't spam the same bands too much
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 5  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:17:59 |
-| Updated              | 2023-06-11 02:43:21 |
-| Last Scraped         | 2023-06-16 22:57:17 |

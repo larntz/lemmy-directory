@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warhammerunderworlds"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 01:57:26"
+published: "2023-06-12 01:16:48"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/WarhammerUnderworlds on lemmy.world
-
-[[home](/)]
-[[/c/warhammerunderworlds 🌎](https://lemmy.world/c/warhammerunderworlds)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-1. All content must be related to Underworlds<br><br>2. All posts and comments should be constructive<br><br>3. No low effort posts<br><br>4. No buying, selling, trading, or advertising<br><br>5. No sharing or requesting illegal content
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 01:16:48 |
-| Updated              | 2023-06-12 01:57:26 |
-| Last Scraped         | 2023-06-16 22:57:17 |

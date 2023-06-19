@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/aws"
 host: kleptonix.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 13:13:17"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "kleptonix_com"
 
 ---
-
-# /c/AWS on kleptonix.com
-
-[[home](/)]
-[[/c/aws 🌎](https://kleptonix.com/c/aws)]
-[[kleptonix.com](/instances/kleptonix_com)]
-
-
-## Description 
-
-<blockquote class="description">
-The best place to talk about AWS, including EC2, ECS, Lambda, and much more.<br><br>Please familiarize yourself with [AWS's documentation](https://docs.aws.amazon.com/index.html) before posting support questions here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:13:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

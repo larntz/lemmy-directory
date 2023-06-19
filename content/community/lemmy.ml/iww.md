@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iww"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-01 23:25:45"
+published: "2020-07-22 16:56:32"
 subscribers: 39
 posts: 19
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/industrial workers of the world on lemmy.ml
-
-[[home](/)]
-[[/c/iww 🌎](https://lemmy.ml/c/iww)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 19  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-22 16:56:32 |
-| Updated              | 2021-01-01 23:25:45 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catbean"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:23:07"
+published: "2023-06-15 20:22:01"
 subscribers: 19
 posts: 16
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/CatBeanBag on lemmy.world
-
-[[home](/)]
-[[/c/catbean 🌎](https://lemmy.world/c/catbean)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Cat's Only<br>---<br><br>You know they Chonkin when they sit like a bean bag
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 16  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 20:22:01 |
-| Updated              | 2023-06-15 20:23:07 |
-| Last Scraped         | 2023-06-19 11:36:36 |

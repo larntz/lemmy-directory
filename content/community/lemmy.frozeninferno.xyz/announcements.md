@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.frozeninferno.xyz/c/announcements"
 host: lemmy.frozeninferno.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 19:58:23"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_frozeninferno_xyz"
 
 ---
-
-# /c/announcements on lemmy.frozeninferno.xyz
-
-[[home](/)]
-[[/c/announcements 🌎](https://lemmy.frozeninferno.xyz/c/announcements)]
-[[lemmy.frozeninferno.xyz](/instances/lemmy_frozeninferno_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for announcements regarding the Frozen Lemmy instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:58:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

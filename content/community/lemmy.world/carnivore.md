@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carnivore"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:20:30"
+published: "2023-06-14 02:10:53"
 subscribers: 7
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Carnivore on lemmy.world
-
-[[home](/)]
-[[/c/carnivore 🌎](https://lemmy.world/c/carnivore)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Zero-carb, carnivorous, meat and animal product way of eating.<br><br>Rules:<br><br>- Be excellent to each other<br>- Don’t be the reason we need to make more rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:10:53 |
-| Updated              | 2023-06-15 01:20:30 |
-| Last Scraped         | 2023-06-19 11:36:40 |

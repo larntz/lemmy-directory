@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/perl"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 03:04:12"
+published: "2023-06-18 02:26:27"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Perl on programming.dev
-
-[[home](/)]
-[[/c/perl 🌎](https://programming.dev/c/perl)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 02:26:27 |
-| Updated              | 2023-06-19 03:04:12 |
-| Last Scraped         | 2023-06-19 11:35:01 |

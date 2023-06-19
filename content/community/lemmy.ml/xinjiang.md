@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xinjiang"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-27 13:32:39"
+published: "2020-10-23 16:55:13"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Xinjiang on lemmy.ml
-
-[[home](/)]
-[[/c/xinjiang 🌎](https://lemmy.ml/c/xinjiang)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# About<br><br>Xinjiang, an autonomous territory in northwest China, is a vast region of deserts and mountains. It's home to many ethnic minority groups, including the Turkic Uyghur people. The ancient Silk Road trade route linking China and the Middle East passed through Xinjiang, a legacy that can be seen in the traditional open-air bazaars of its oasis cities, Hotan and Kashgar.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-23 16:55:13 |
-| Updated              | 2021-08-27 13:32:39 |
-| Last Scraped         | 2023-06-19 11:36:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iracing"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:08:58"
+published: "2023-06-13 03:08:07"
 subscribers: 9
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/iRacing on lemmy.ml
-
-[[home](/)]
-[[/c/iracing 🌎](https://lemmy.ml/c/iracing)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy home for iRacing content.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 03:08:07 |
-| Updated              | 2023-06-13 03:08:58 |
-| Last Scraped         | 2023-06-19 11:36:42 |

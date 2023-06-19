@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/tip"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-02 03:46:49"
+published: "2023-06-02 03:34:43"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Türkiye İşçi Partisi - Workers' Party of Turkey on lemmygrad.ml
-
-[[home](/)]
-[[/c/tip 🌎](https://lemmygrad.ml/c/tip)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Unoffical Lemmygrad server for Workers' Party of Turkey and its members.<br>https://tip.org.tr/<br>https://tip.org.tr/en/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 03:34:43 |
-| Updated              | 2023-06-02 03:46:49 |
-| Last Scraped         | 2023-06-19 11:35:08 |

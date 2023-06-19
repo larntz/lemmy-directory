@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/isopods"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:54:30"
+published: "2023-06-12 15:48:36"
 subscribers: 42
 posts: 6
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/All things Isopod. on lemmy.world
-
-[[home](/)]
-[[/c/isopods 🌎](https://lemmy.world/c/isopods)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Isopods (order [isopoda](https://en.wikipedia.org/wiki/Isopoda)) are seven segmented crustaceans found in almost every conceivable environment, from the deep sea, coasts, rivers, ponds, deserts, tree-tops, forest floors as well as gardens and bathrooms across the world! They may just be natures *greatest* creation.  <br><br>[Icon credit.](https://twitter.com/crevicedwelling/status/1625617943416414212)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 6  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:48:36 |
-| Updated              | 2023-06-12 21:54:30 |
-| Last Scraped         | 2023-06-19 11:36:38 |

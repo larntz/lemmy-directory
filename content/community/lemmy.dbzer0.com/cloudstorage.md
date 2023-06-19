@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/cloudstorage"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 21:01:56"
 subscribers: 23
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/Cloud Storage on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/cloudstorage 🌎](https://lemmy.dbzer0.com/c/cloudstorage)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to cloudstorage
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:01:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

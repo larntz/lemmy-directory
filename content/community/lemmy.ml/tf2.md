@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tf2"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-26 11:57:35"
+published: "2020-06-26 11:55:21"
 subscribers: 105
 posts: 25
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Team Fortress 2 on lemmy.ml
-
-[[home](/)]
-[[/c/tf2 🌎](https://lemmy.ml/c/tf2)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 105 |
-| Posts                | 25  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-26 11:55:21 |
-| Updated              | 2020-06-26 11:57:35 |
-| Last Scraped         | 2023-06-19 11:36:45 |

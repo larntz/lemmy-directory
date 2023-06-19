@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/redgreen"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 21:33:19"
+published: "2023-06-11 21:30:21"
 subscribers: 24
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/The Red Green Show - Canadian Comedy TV on sh.itjust.works
-
-[[home](/)]
-[[/c/redgreen 🌎](https://sh.itjust.works/c/redgreen)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-The Red Green Show - Canadian Comedy TV<br><br>Possum Lodge fans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:30:21 |
-| Updated              | 2023-06-11 21:33:19 |
-| Last Scraped         | 2023-06-19 11:35:05 |

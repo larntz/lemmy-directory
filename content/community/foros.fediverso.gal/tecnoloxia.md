@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/tecnoloxia"
 host: foros.fediverso.gal
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-12-12 13:13:22"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "foros_fediverso_gal"
 
 ---
-
-# /c/Tecnoloxía e Informática on foros.fediverso.gal
-
-[[home](/)]
-[[/c/tecnoloxia 🌎](https://foros.fediverso.gal/c/tecnoloxia)]
-[[foros.fediverso.gal](/instances/foros_fediverso_gal)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-12 13:13:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:49 |

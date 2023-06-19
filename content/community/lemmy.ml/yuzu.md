@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yuzu"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 21:52:13"
 subscribers: 121
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Yuzu - Nintendo Switch Emulation on lemmy.ml
-
-[[home](/)]
-[[/c/yuzu 🌎](https://lemmy.ml/c/yuzu)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for discussion of the Yuzu Switch Emulator.<br><br>Discuss best Yuzu settings for various PC setups and devices, your favorite mods, or just hang out for updates on Yuzu.<br><br>There are other communities dedicated to Piracy, so please refrain from discussing/linking directly to pirated content here. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 121 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:52:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:42 |

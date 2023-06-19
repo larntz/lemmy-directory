@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/robophobia"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:52:35"
+published: "2023-06-12 15:42:53"
 subscribers: 6
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Robophobia: we lynch robots on lemmy.ca
-
-[[home](/)]
-[[/c/robophobia 🌎](https://lemmy.ca/c/robophobia)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-It’s time to take action against the roboganda! It’s time to stand up for our humanity! We should not allow robots to take over our jobs and infiltrate our society!<br><br>We can’t afford to be complacent and wait for them to become smarter and stronger then us.<br><br>Our survival as a species depends on it!<br><br>Tags: anarcho-primativism, anprim, jreg, anti technology, anti billionaires, anti cyborgs, anti android
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:42:53 |
-| Updated              | 2023-06-12 15:52:35 |
-| Last Scraped         | 2023-06-19 11:35:36 |

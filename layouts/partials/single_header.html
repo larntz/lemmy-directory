@@ -1,0 +1,11 @@
+<header>
+  <h1>{{ site.Title }}</h1>
+  <p>A directory of {{ site.Taxonomies.instances | len }} lemmy instances and {{ where site.RegularPages "Type" "community" | len }} communities.</p>
+  <nav>
+    [<a href="/">home</a>]
+    [<a href="/search">search</a>]
+    [<a href="/instances">instances</a>]
+  </nav>
+</header>
+<hr>
+

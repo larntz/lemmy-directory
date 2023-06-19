@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drawing"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:35:30"
+published: "2023-06-11 11:22:34"
 subscribers: 142
 posts: 7
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Drawing on lemmy.world
-
-[[home](/)]
-[[/c/drawing 🌎](https://lemmy.world/c/drawing)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to show your sketches, doodles, drawings, and anything else arty.<br><br>**PLEASE NOTE:** absolutely **no** AI/generated art.<br><br>**I've marked the group as open, so please, if you post any nudes, please tick the NSFW box in the post creation page.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 142 |
-| Posts                | 7  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 11:22:34 |
-| Updated              | 2023-06-11 11:35:30 |
-| Last Scraped         | 2023-06-19 11:36:40 |

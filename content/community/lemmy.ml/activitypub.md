@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/activitypub"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-09-12 03:28:03"
 subscribers: 499
 posts: 37
 comments: 33
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ActivityPub on lemmy.ml
-
-[[home](/)]
-[[/c/activitypub 🌎](https://lemmy.ml/c/activitypub)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community dedicated to discussing technical details related to ActivityPub. It is not for discussing the Fediverse, although discussion on that topic is fine if it somehow relates to the AP protocol itself.<br><br>We welcome developers familiar with the protocol! 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 499 |
-| Posts                | 37  |
-| Comments             | 33  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-09-12 03:28:03 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

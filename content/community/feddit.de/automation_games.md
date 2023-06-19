@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/automation_games"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-06 00:17:09"
 subscribers: 409
 posts: 26
 comments: 90
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Automation and Factory Builder Games on feddit.de
-
-[[home](/)]
-[[/c/automation_games 🌎](https://feddit.de/c/automation_games)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to talk and share content about automation and factory builder games. <br><br>::: spoiler icon attribution<br>Factory icons created by vectorsmarket15 - Flaticon<br><br>https://www.flaticon.com/free-icons/factory<br>:::
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 409 |
-| Posts                | 26  |
-| Comments             | 90  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 44  |
-| Monthly Active Users | 53  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 00:17:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

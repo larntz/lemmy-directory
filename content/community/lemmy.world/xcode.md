@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xcode"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 02:26:39"
+published: "2023-06-16 02:24:57"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Xcode on lemmy.world
-
-[[home](/)]
-[[/c/xcode 🌎](https://lemmy.world/c/xcode)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The home for all things Xcode, Apple Developer IDE, on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<br>- No hate speech or personal attacks.<br>- No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 02:24:57 |
-| Updated              | 2023-06-16 02:26:39 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/doesanybodyelse"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:12:14"
+published: "2023-06-16 22:12:02"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Does anybody else...? on lemmy.ml
-
-[[home](/)]
-[[/c/doesanybodyelse 🌎](https://lemmy.ml/c/doesanybodyelse)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 22:12:02 |
-| Updated              | 2023-06-16 22:12:14 |
-| Last Scraped         | 2023-06-19 11:36:42 |

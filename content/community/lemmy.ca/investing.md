@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/investing"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:08:27"
+published: "2023-06-14 02:37:08"
 subscribers: 18
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Canadian Investing on lemmy.ca
-
-[[home](/)]
-[[/c/investing 🌎](https://lemmy.ca/c/investing)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Investing from a Canadian perspective. In addition to basic civility, no posts that blatantly pump some stock, especially one with a low market cap.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:37:08 |
-| Updated              | 2023-06-14 23:08:27 |
-| Last Scraped         | 2023-06-19 11:35:36 |

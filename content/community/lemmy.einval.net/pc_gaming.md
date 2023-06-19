@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/pc_gaming"
 host: lemmy.einval.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 14:10:19"
+published: "2023-06-06 01:13:11"
 subscribers: 25
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_einval_net"
 
 ---
-
-# /c/PC Gaming on lemmy.einval.net
-
-[[home](/)]
-[[/c/pc_gaming 🌎](https://lemmy.einval.net/c/pc_gaming)]
-[[lemmy.einval.net](/instances/lemmy_einval_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 01:13:11 |
-| Updated              | 2023-06-06 14:10:19 |
-| Last Scraped         | 2023-06-19 11:34:57 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_main"
 host: wallstreets.bet
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:25:36"
+published: "2023-06-13 19:17:32"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "wallstreets_bet"
 
 ---
-
-# /c/Making moves? Post them here. on wallstreets.bet
-
-[[home](/)]
-[[/c/wsb_main 🌎](https://wallstreets.bet/c/wsb_main)]
-[[wallstreets.bet](/instances/wallstreets_bet)]
-
-
-## Description 
-
-<blockquote class="description">
-DD, gains, losses, etc.. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:17:32 |
-| Updated              | 2023-06-13 19:25:36 |
-| Last Scraped         | 2023-06-19 11:35:25 |

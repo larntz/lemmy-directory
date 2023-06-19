@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/todayilearned"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 05:49:26"
 subscribers: 288
 posts: 5
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Today I Learned (TIL) on vlemmy.net
-
-[[home](/)]
-[[/c/todayilearned 🌎](https://vlemmy.net/c/todayilearned)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-You learn something new every day; what did you learn today? Submit interesting and **specific facts** that you just found out
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 288 |
-| Posts                | 5  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 05:49:26 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

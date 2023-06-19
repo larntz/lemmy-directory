@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/questpiracy"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 21:47:09"
+published: "2023-06-10 21:46:10"
 subscribers: 55
 posts: 5
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/Oculus Quest Piracy on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/questpiracy 🌎](https://lemmy.dbzer0.com/c/questpiracy)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A group dedicated to the discussion of piracy for the Meta Quest and Quest 2, the standalone VR gaming headsets from Meta.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 55 |
-| Posts                | 5  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:46:10 |
-| Updated              | 2023-06-10 21:47:09 |
-| Last Scraped         | 2023-06-19 11:35:16 |

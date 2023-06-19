@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/treknobabble"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-23 20:51:09"
+published: "2021-03-23 20:37:36"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Treknobabble: A place to talk freely about anything and everything Star Trek! on lemmy.ml
-
-[[home](/)]
-[[/c/treknobabble 🌎](https://lemmy.ml/c/treknobabble)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-23 20:37:36 |
-| Updated              | 2021-03-23 20:51:09 |
-| Last Scraped         | 2023-06-16 11:07:37 |

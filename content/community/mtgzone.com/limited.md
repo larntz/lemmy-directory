@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/limited"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:30:40"
+published: "2023-06-09 20:11:03"
 subscribers: 27
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Limited on mtgzone.com
-
-[[home](/)]
-[[/c/limited 🌎](https://mtgzone.com/c/limited)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Discussion for all Limited formats**<br><br>Sealed deck, booster draft, cube draft, and other limited variants are all welcome here! Limited formats require live deckbuilding from a random pool of cards you open, as opposed to Constructed deckbuilding where you bring a deck you've created ahead of time.<br><br>Read more about [booster draft](https://magic.wizards.com/en/formats/booster-draft), [sealed deck](https://magic.wizards.com/formats/sealed-deck), [Conspiracy](https://magic.wizards.com/en/formats/conspiracy), and [team limited events](https://magic.wizards.com/en/formats/team-booster-draft).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:11:03 |
-| Updated              | 2023-06-15 17:30:40 |
-| Last Scraped         | 2023-06-19 11:35:14 |

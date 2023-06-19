@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paradoxgames"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 16:15:47"
+published: "2023-06-16 15:03:57"
 subscribers: 109
 posts: 7
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Paradox Games on lemmy.world
-
-[[home](/)]
-[[/c/paradoxgames 🌎](https://lemmy.world/c/paradoxgames)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The general community for every game made or published by Paradox, or the company itself.<br><br>Rules:<br>1. Don't be an asshole.<br>2. Keep posts on-topic. ie. <br>Posts have to be either about the company itself or games made/ published by Paradox.<br>3. No NSFW content.<br>4. No spamming.<br>5. No advertising.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 109 |
-| Posts                | 7  |
-| Comments             | 11  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 15:03:57 |
-| Updated              | 2023-06-18 16:15:47 |
-| Last Scraped         | 2023-06-19 11:36:36 |

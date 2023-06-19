@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/virtualreality"
 host: compuverse.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 20:22:43"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "compuverse_uk"
 
 ---
-
-# /c/VR / Virtual Reality on compuverse.uk
-
-[[home](/)]
-[[/c/virtualreality 🌎](https://compuverse.uk/c/virtualreality)]
-[[compuverse.uk](/instances/compuverse_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things VR!<br>Vive, Oculus / Meta, Index, and even Apple Vision
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:22:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/horanalga"
 host: mujico.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-09-16 21:15:37"
 subscribers: 53
 posts: 2
 comments: -1
@@ -22,36 +23,3 @@ tags:
 - "mujico_org"
 
 ---
-
-# /c/La Hora Nalga on mujico.org
-
-[[home](/)]
-[[/c/horanalga 🌎](https://mujico.org/c/horanalga)]
-[[mujico.org](/instances/mujico_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Aqui vendemos horas nalga
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 2  |
-| Comments             | -1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-16 21:15:37 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:43 |

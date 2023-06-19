@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sascamooch.com/c/theclassicalmonarch"
 host: lemmy.sascamooch.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 00:57:39"
 subscribers: 2
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sascamooch_com"
 
 ---
-
-# /c/TCH on lemmy.sascamooch.com
-
-[[home](/)]
-[[/c/theclassicalmonarch 🌎](https://lemmy.sascamooch.com/c/theclassicalmonarch)]
-[[lemmy.sascamooch.com](/instances/lemmy_sascamooch_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Don't do drugs<br>(NFSW) your coworkers will judge you
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:57:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

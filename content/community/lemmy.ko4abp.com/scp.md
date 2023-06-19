@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/scp"
 host: lemmy.ko4abp.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 23:32:42"
+published: "2023-06-11 03:26:34"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ko4abp_com"
 
 ---
-
-# /c/Secure, Contain, Protect on lemmy.ko4abp.com
-
-[[home](/)]
-[[/c/scp 🌎](https://lemmy.ko4abp.com/c/scp)]
-[[lemmy.ko4abp.com](/instances/lemmy_ko4abp_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Secure, Contain, Protect | Official Lemmy of the SCP Wiki collaborative-fiction project | scpwiki.com
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 03:26:34 |
-| Updated              | 2023-06-12 23:32:42 |
-| Last Scraped         | 2023-06-19 11:35:07 |

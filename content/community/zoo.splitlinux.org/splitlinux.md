@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://zoo.splitlinux.org/c/splitlinux"
 host: zoo.splitlinux.org
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-12 10:48:12"
+published: "2022-12-11 07:55:44"
 subscribers: 3
 posts: 27
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "zoo_splitlinux_org"
 
 ---
-
-# /c/Split Linux on zoo.splitlinux.org
-
-[[home](/)]
-[[/c/splitlinux 🌎](https://zoo.splitlinux.org/c/splitlinux)]
-[[zoo.splitlinux.org](/instances/zoo_splitlinux_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Split Linux is a general operating system optimized for safely navigating hostile environments like the Internet and physical check points. Visit splitlinux.org
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 27  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-11 07:55:44 |
-| Updated              | 2022-12-12 10:48:12 |
-| Last Scraped         | 2023-06-19 11:34:48 |

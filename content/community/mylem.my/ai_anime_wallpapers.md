@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mylem.my/c/ai_anime_wallpapers"
 host: mylem.my
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 02:59:14"
 subscribers: 1
 posts: 14
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "mylem_my"
 
 ---
-
-# /c/booba on mylem.my
-
-[[home](/)]
-[[/c/ai_anime_wallpapers 🌎](https://mylem.my/c/ai_anime_wallpapers)]
-[[mylem.my](/instances/mylem_my)]
-
-
-## Description 
-
-<blockquote class="description">
-animes but wallpapers only but made by people with no art skill only
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 14  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 02:59:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

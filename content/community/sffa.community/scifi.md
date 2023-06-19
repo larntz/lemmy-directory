@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sffa.community/c/scifi"
 host: sffa.community
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 22:11:17"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sffa_community"
 
 ---
-
-# /c/Science Fiction General on sffa.community
-
-[[home](/)]
-[[/c/scifi 🌎](https://sffa.community/c/scifi)]
-[[sffa.community](/instances/sffa_community)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 22:11:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

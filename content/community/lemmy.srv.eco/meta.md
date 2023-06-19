@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/meta"
 host: lemmy.srv.eco
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 22:31:26"
+published: "2023-06-11 12:51:15"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_srv_eco"
 
 ---
-
-# /c/🐭 Meta on lemmy.srv.eco
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.srv.eco/c/meta)]
-[[lemmy.srv.eco](/instances/lemmy_srv_eco)]
-
-
-## Description 
-
-<blockquote class="description">
-Meta discussion for the srv.eco Lemmy instance
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 12:51:15 |
-| Updated              | 2023-06-11 22:31:26 |
-| Last Scraped         | 2023-06-19 11:35:29 |

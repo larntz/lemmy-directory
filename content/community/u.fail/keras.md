@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://u.fail/c/keras"
 host: u.fail
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 14:12:05"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "u_fail"
 
 ---
-
-# /c/Tensorflow Keras on u.fail
-
-[[home](/)]
-[[/c/keras 🌎](https://u.fail/c/keras)]
-[[u.fail](/instances/u_fail)]
-
-
-## Description 
-
-<blockquote class="description">
-An unofficial support community for Tensorflow/Keras. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 14:12:05 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:25 |

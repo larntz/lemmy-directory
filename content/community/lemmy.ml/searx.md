@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/searx"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-20 16:58:17"
+published: "2020-06-30 20:17:56"
 subscribers: 165
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Searx - Self-hosted meta search engine  on lemmy.ml
-
-[[home](/)]
-[[/c/searx 🌎](https://lemmy.ml/c/searx)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Searx - Self-hosted meta search engine<br><br>Please use English. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 165 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-30 20:17:56 |
-| Updated              | 2022-11-20 16:58:17 |
-| Last Scraped         | 2023-06-19 11:36:44 |

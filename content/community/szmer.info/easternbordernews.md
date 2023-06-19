@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/easternbordernews"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-18 13:54:52"
+published: "2021-08-31 13:27:19"
 subscribers: 44
 posts: 48
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Easter Border News on szmer.info
-
-[[home](/)]
-[[/c/easternbordernews 🌎](https://szmer.info/c/easternbordernews)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Channel to gather and share information on the situation on Polish and Eastern EU Border in **foreign languages.**  <br>We call for international pressure and solidarity.  <br><br>For other news about Poland in foreign languages, check  [here](https://szmer.info/c/polisz).  <br><br>Channel for **border info in polish** [here](https://szmer.info/c/noborder).<br><br>_Logo taken form [here](https://www.aplotaria.gr/euturkey-deal-chios/)._
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 48  |
-| Comments             | 18  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-31 13:27:19 |
-| Updated              | 2021-11-18 13:54:52 |
-| Last Scraped         | 2023-06-19 11:35:33 |

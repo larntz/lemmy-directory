@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vwevs"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 08:30:51"
+published: "2023-06-19 07:48:59"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/VW EVs - for ELECTRIC-ONLY VWs on lemmy.world
-
-[[home](/)]
-[[/c/vwevs 🌎](https://lemmy.world/c/vwevs)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Created as a space for VW EV enthusiasts to come together. Welcome to all fellow ex-redditors and anyone new to the VW MEB (and older) experience! <br><br><br>**Rules**<br>* The general [Lemmy Rules](https://mastodon.world/about) apply here. <br>* No brand warfare<br>* No memes or low-effort posts.  When we're more popular and people understand EVs, maybe. <br>* Be excellent to each other
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 07:48:59 |
-| Updated              | 2023-06-19 08:30:51 |
-| Last Scraped         | 2023-06-19 11:36:34 |

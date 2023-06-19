@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/neoliberal"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-28 02:14:53"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Dirtbag Capitalism on lemmy.ml
-
-[[home](/)]
-[[/c/neoliberal 🌎](https://lemmy.ml/c/neoliberal)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for advocates of an open society, based on Popper's ideals. We welcome folks of all backgrounds, colors, cultures, and creeds.<br><br>We are a free market capitalist community that advocates for the appropriate legislation to mitigate externalities and institutional stability.<br><br>With collectivism on the rise, a group of liberal philosophers, economists, and journalists met in Paris at the Walter Lippmann Colloquium in 1938 to discuss the future prospects of liberalism. While the participants could not agree on a comprehensive programme, there was universal agreement that a new liberal (neoliberal) project, able to resist the tendency towards ever more state control without falling back into the dogma of complete laissez-faire, was necessary. This sub serves as a forum to continue that project against new threats posed by the populist left and right.<br><br>We do not all subscribe to a single comprehensive philosophy but instead find common ground in shared sentiments and approaches to public policy.<br><br>Individual choice and markets are of paramount importance both as an expression of individual liberty and driving force of economic prosperity.<br>The state serves an important role in establishing conditions favorable to competition through preventing monopoly, providing a stable monetary framework, and relieving acute misery and distress.<br>Free exchange and movement between countries makes us richer and has led to an unparalleled decline in global poverty.<br>Public policy has global ramifications and should take into account the effect it has on people around the world regardless of nationality.<br><br>Policies we support include:<br><br>Free Trade<br>Open Borders<br>Occupational Licensing Reform<br>Zoning Reform<br>Carbon Pricing<br>LGBTQA Rights<br>Healthcare Reform in the US<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 02:14:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:51 |

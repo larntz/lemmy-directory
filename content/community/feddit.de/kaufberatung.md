@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kaufberatung"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-30 09:08:06"
+published: "2021-08-21 11:11:29"
 subscribers: 59
 posts: 9
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Kaufberatung on feddit.de
-
-[[home](/)]
-[[/c/kaufberatung 🌎](https://feddit.de/c/kaufberatung)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Wenn ihr was kaufen wollt, könnt ihr hier fragen. Oder erst mal da suchen:<br><br>- https://geizhals.de<br>- https://idealo.de<br>- https://shopping.google.com/?hl=de
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 9  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-21 11:11:29 |
-| Updated              | 2021-08-30 09:08:06 |
-| Last Scraped         | 2023-06-19 11:35:39 |

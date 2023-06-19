@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/esports"
 host: possumpat.io
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:33:49"
+published: "2023-06-08 17:55:15"
 subscribers: 17
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "possumpat_io"
 
 ---
-
-# /c/esports on possumpat.io
-
-[[home](/)]
-[[/c/esports 🌎](https://possumpat.io/c/esports)]
-[[possumpat.io](/instances/possumpat_io)]
-
-
-## Description 
-
-<blockquote class="description">
-Digital Sports!<br>Anything involving esports can go here (but the primary moderator is an LCS fanboy, sorry 🥲 )
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 17:55:15 |
-| Updated              | 2023-06-12 18:33:49 |
-| Last Scraped         | 2023-06-19 11:34:54 |

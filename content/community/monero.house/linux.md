@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.house/c/linux"
 host: monero.house
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-20 11:15:01"
 subscribers: 18
 posts: 3
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "monero_house"
 
 ---
-
-# /c/Linux on monero.house
-
-[[home](/)]
-[[/c/linux 🌎](https://monero.house/c/linux)]
-[[monero.house](/instances/monero_house)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss all things Linux.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 3  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-20 11:15:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:53 |

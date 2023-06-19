@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nationalparks"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:26:34"
+published: "2023-06-11 22:34:35"
 subscribers: 381
 posts: 22
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/National Parks  on lemmy.world
-
-[[home](/)]
-[[/c/nationalparks 🌎](https://lemmy.world/c/nationalparks)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-National Parks and affiliated sites
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 381 |
-| Posts                | 22  |
-| Comments             | 26  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:34:35 |
-| Updated              | 2023-06-12 16:26:34 |
-| Last Scraped         | 2023-06-19 11:36:37 |

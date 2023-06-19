@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antijokes"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-27 21:15:48"
+published: "2020-06-27 21:14:59"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/AntiJokes on lemmy.ml
-
-[[home](/)]
-[[/c/antijokes 🌎](https://lemmy.ml/c/antijokes)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-27 21:14:59 |
-| Updated              | 2020-06-27 21:15:48 |
-| Last Scraped         | 2023-06-19 11:36:44 |

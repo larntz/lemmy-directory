@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gymmemes"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 13:38:46"
+published: "2023-06-12 10:34:02"
 subscribers: 54
 posts: 11
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Gym Memes on lemmy.world
-
-[[home](/)]
-[[/c/gymmemes 🌎](https://lemmy.world/c/gymmemes)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-to be browsed in the squat rack
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:34:02 |
-| Updated              | 2023-06-12 13:38:46 |
-| Last Scraped         | 2023-06-19 11:36:40 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wahnsinn"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-17 13:50:56"
+published: "2021-08-21 22:33:12"
 subscribers: 375
 posts: 68
 comments: 80
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Der alltägliche Wahnsinn on feddit.de
-
-[[home](/)]
-[[/c/wahnsinn 🌎](https://feddit.de/c/wahnsinn)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Das kannst du dir nicht ausdenken...!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 375 |
-| Posts                | 68  |
-| Comments             | 80  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-21 22:33:12 |
-| Updated              | 2022-02-17 13:50:56 |
-| Last Scraped         | 2023-06-19 11:35:39 |

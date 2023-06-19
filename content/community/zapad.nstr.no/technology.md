@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/technology"
 host: zapad.nstr.no
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:34:16"
+published: "2023-06-12 21:34:06"
 subscribers: 4
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "zapad_nstr_no"
 
 ---
-
-# /c/technology on zapad.nstr.no
-
-[[home](/)]
-[[/c/technology 🌎](https://zapad.nstr.no/c/technology)]
-[[zapad.nstr.no](/instances/zapad_nstr_no)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:34:06 |
-| Updated              | 2023-06-12 21:34:16 |
-| Last Scraped         | 2023-06-19 11:35:30 |

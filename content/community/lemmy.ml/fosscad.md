@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fosscad"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-15 14:51:46"
+published: "2022-11-15 14:50:06"
 subscribers: 33
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/FOSSCAD on lemmy.ml
-
-[[home](/)]
-[[/c/fosscad 🌎](https://lemmy.ml/c/fosscad)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the discussion of 3D printed guns and related topics.<br>> Lemmy<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-15 14:50:06 |
-| Updated              | 2022-11-15 14:51:46 |
-| Last Scraped         | 2023-06-19 11:36:46 |

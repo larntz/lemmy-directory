@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fossart"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-21 21:02:40"
+published: "2021-02-28 21:56:23"
 subscribers: 173
 posts: 21
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/FOSS Art on lemmy.ml
-
-[[home](/)]
-[[/c/fossart 🌎](https://lemmy.ml/c/fossart)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for art made with, and artists who create with FOSS, and discussions about said art and software
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 173 |
-| Posts                | 21  |
-| Comments             | 27  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-28 21:56:23 |
-| Updated              | 2021-09-21 21:02:40 |
-| Last Scraped         | 2023-06-19 11:36:45 |

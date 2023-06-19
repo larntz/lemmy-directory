@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/newfoundland"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:47:19"
+published: "2022-04-17 08:04:54"
 subscribers: 27
 posts: 5
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/newfoundland on lemmy.ca
-
-[[home](/)]
-[[/c/newfoundland 🌎](https://lemmy.ca/c/newfoundland)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-newfoundland chat rooms:<br><br>https://discord.gg/gEWcR7w4TW<br><br>https://matrix.to/#/#lobby:nfld.uk<br><br>https://t.me/nflduk<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 5  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-17 08:04:54 |
-| Updated              | 2023-06-12 16:47:19 |
-| Last Scraped         | 2023-06-19 11:35:36 |

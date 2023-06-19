@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kidcudi"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 05:56:23"
+published: "2023-06-11 05:37:48"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Kid Cudi on lemmy.world
-
-[[home](/)]
-[[/c/kidcudi 🌎](https://lemmy.world/c/kidcudi)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The Kid Cudi (Scott Mescudi) community. A good place to discuss anything Kid Cudi!<br><br>Don't be a dick, no links to unofficial merch, and no leaks.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:37:48 |
-| Updated              | 2023-06-11 05:56:23 |
-| Last Scraped         | 2023-06-19 11:36:41 |

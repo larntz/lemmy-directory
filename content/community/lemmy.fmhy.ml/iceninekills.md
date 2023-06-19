@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/iceninekills"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:54:21"
+published: "2023-06-14 21:35:50"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Ice Nine Kills on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/iceninekills 🌎](https://lemmy.fmhy.ml/c/iceninekills)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for fans of Ice Nine Kills. All hail the Sematary!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:35:50 |
-| Updated              | 2023-06-14 23:54:21 |
-| Last Scraped         | 2023-06-19 11:35:02 |

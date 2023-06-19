@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arianagrande"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:51:03"
+published: "2023-06-13 15:35:26"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ariana Grande on lemmy.world
-
-[[home](/)]
-[[/c/arianagrande 🌎](https://lemmy.world/c/arianagrande)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to talk about Ariana, her music, and generally anything about her :)<br><br>This is a discussion sub so please don't post lewd photos of her.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:35:26 |
-| Updated              | 2023-06-13 17:51:03 |
-| Last Scraped         | 2023-06-19 11:36:39 |

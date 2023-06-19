@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shoegaze"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 17:59:16"
 subscribers: 112
 posts: 12
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Shoegaze on lemmy.world
-
-[[home](/)]
-[[/c/shoegaze 🌎](https://lemmy.world/c/shoegaze)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things shoegaze.<br><br>Keep things civil.  Don't spam the same bands/albums too often.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 12  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:59:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mtb"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 13:34:55"
+published: "2023-06-12 15:35:36"
 subscribers: 49
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Mountain Biking on sh.itjust.works
-
-[[home](/)]
-[[/c/mtb 🌎](https://sh.itjust.works/c/mtb)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-For all things mountain biking. If it's pedal powered (or even pedal assisted), goes on two wheels, and belongs in the dirt, it's welcome here.<br><br>What isn't welcome: Hate speech, bigotry, assholery, road bikes...
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:35:36 |
-| Updated              | 2023-06-13 13:34:55 |
-| Last Scraped         | 2023-06-19 11:35:05 |

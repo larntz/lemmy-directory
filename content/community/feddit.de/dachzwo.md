@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dachzwo"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:05:08"
+published: "2023-06-14 16:14:53"
 subscribers: 45
 posts: 10
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/c/DachZwo - Zwotes Deutsches Feddit! on feddit.de
-
-[[home](/)]
-[[/c/dachzwo 🌎](https://feddit.de/c/dachzwo)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Für eine deutschsprachige Community in der wir gut und gerne leben!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 10  |
-| Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:14:53 |
-| Updated              | 2023-06-15 18:05:08 |
-| Last Scraped         | 2023-06-19 11:35:39 |

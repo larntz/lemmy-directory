@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/insanepinoyfacebook"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 05:35:11"
+published: "2023-06-15 23:16:52"
 subscribers: 22
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/InsanePinoyFacebook on lemmy.world
-
-[[home](/)]
-[[/c/insanepinoyfacebook 🌎](https://lemmy.world/c/insanepinoyfacebook)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Pinoy insanity from any social media post and comment section!<br><br>Despite the community name (`InsanePinoyFacebook`), Pinoy insanity from any social media platform and **not just Facebook**<br><br># Rules<br><br>**1. Never, ever link source material.**<br><br>If you want to share it, do it via direct messages/PMs, but never in this lemmy community posts/comments<br><br>**2. Screenshots of Facebook, Twitter, Reddit and social media posts and comments are the only posts allowed here.**<br><br>* When posting only a single image, ***click the URL text box and then upload an image.*** <br><br>[Optional]: Use the Body text box to provide context to the screenshot.<br><br>* When posting multiple images + text, please use the Body field, upload images you would like to post. Then add text afterwards for context (optional, again)<br><br>**3. Censor personally identifiable information in screenshots**<br><br>**4. No insanity in this Lemmy community comment section**<br><br>**5. No brigading**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 23:16:52 |
-| Updated              | 2023-06-16 05:35:11 |
-| Last Scraped         | 2023-06-19 11:36:36 |

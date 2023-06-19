@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/raves"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:15:27"
+published: "2023-06-14 09:36:09"
 subscribers: 7
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Raves on lemmy.world
-
-[[home](/)]
-[[/c/raves 🌎](https://lemmy.world/c/raves)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-PLUR, dance music culture, events, festivals, warehouse parties, and rave lifestyle. One time for the wickedest massive!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:36:09 |
-| Updated              | 2023-06-14 14:15:27 |
-| Last Scraped         | 2023-06-16 22:57:14 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/askjapan"
 host: feddit.jp
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:17:13"
+published: "2023-06-15 05:15:58"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_jp"
 
 ---
-
-# /c/askjapan on feddit.jp
-
-[[home](/)]
-[[/c/askjapan 🌎](https://feddit.jp/c/askjapan)]
-[[feddit.jp](/instances/feddit_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-日本について質問があるかい？  <br>Got a question about Japan?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:15:58 |
-| Updated              | 2023-06-15 05:17:13 |
-| Last Scraped         | 2023-06-19 11:35:18 |

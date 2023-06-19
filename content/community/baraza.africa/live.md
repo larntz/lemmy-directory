@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/live"
 host: baraza.africa
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-28 03:51:20"
+published: "2020-10-30 06:13:04"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "baraza_africa"
 
 ---
-
-# /c/Live Now on baraza.africa
-
-[[home](/)]
-[[/c/live 🌎](https://baraza.africa/c/live)]
-[[baraza.africa](/instances/baraza_africa)]
-
-
-## Description 
-
-<blockquote class="description">
-A space to share links to interesting live events before or as they happen. [Feature Request is a calendar structure to list upcoming events]. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-30 06:13:04 |
-| Updated              | 2021-11-28 03:51:20 |
-| Last Scraped         | 2023-06-19 11:35:27 |

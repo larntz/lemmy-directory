@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/general_paizo"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-05 03:17:57"
 subscribers: 88
 posts: 4
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/General Paizo Discussion on pathfinder.social
-
-[[home](/)]
-[[/c/general_paizo 🌎](https://pathfinder.social/c/general_paizo)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 88 |
-| Posts                | 4  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 03:17:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

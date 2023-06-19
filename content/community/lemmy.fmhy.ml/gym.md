@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/gym"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:18:13"
+published: "2023-06-16 14:35:03"
 subscribers: 21
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Gym on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/gym 🌎](https://lemmy.fmhy.ml/c/gym)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All things related to gyms - fitness, freeweights, lifting, etc. A continuation of the r/GYM community. Any mods from there please reach out to me if you are interested in modding here.<br><br> [Fitness Wiki](https://thefitness.wiki/)<br><br> [Program Picker](http://www.rohitnair.net/pp/)<br><br> [Lifter Calc](https://www.liftercalc.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 14:35:03 |
-| Updated              | 2023-06-16 20:18:13 |
-| Last Scraped         | 2023-06-19 11:35:02 |

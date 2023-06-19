@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jakbedziewlemmym"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 09:46:50"
+published: "2023-06-12 10:44:43"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Jak będzie w Lemmym? on lemmy.world
-
-[[home](/)]
-[[/c/jakbedziewlemmym 🌎](https://lemmy.world/c/jakbedziewlemmym)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Kolejna wariacja na temat Jak będzie w Akapie? tylko tym razem w instancji Lemmy
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:44:43 |
-| Updated              | 2023-06-15 09:46:50 |
-| Last Scraped         | 2023-06-16 22:57:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/main"
 host: bbs.darkwitch.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-06 13:33:29"
+published: "2023-04-25 20:56:17"
 subscribers: 9
 posts: 7
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "bbs_darkwitch_net"
 
 ---
-
-# /c/灵异世界 on bbs.darkwitch.net
-
-[[home](/)]
-[[/c/main 🌎](https://bbs.darkwitch.net/c/main)]
-[[bbs.darkwitch.net](/instances/bbs_darkwitch_net)]
-
-
-## Description 
-
-<blockquote class="description">
-一切灵异玄学话题
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 7  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-25 20:56:17 |
-| Updated              | 2023-05-06 13:33:29 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/edv_sicherheit"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-06-01 08:03:56"
 subscribers: 169
 posts: 16
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/EDV-Sicherheit on feddit.de
-
-[[home](/)]
-[[/c/edv_sicherheit 🌎](https://feddit.de/c/edv_sicherheit)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-IT Security auf Deutsch.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 169 |
-| Posts                | 16  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-01 08:03:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

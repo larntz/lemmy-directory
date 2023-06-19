@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iphone_community"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:26:56"
+published: "2023-06-16 01:26:36"
 subscribers: 37
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/iPhone on lemmy.world
-
-[[home](/)]
-[[/c/iphone_community 🌎](https://lemmy.world/c/iphone_community)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The home for all things iPhone on LW.<br><br>**Rules:**<br>- No NSFW Content.<br>- No hate speech or personal attacks.<br>- No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 01:26:36 |
-| Updated              | 2023-06-16 01:26:56 |
-| Last Scraped         | 2023-06-19 11:36:36 |

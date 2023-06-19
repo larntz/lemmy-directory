@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/orgmode"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-13 06:13:41"
+published: "2021-04-13 04:32:41"
 subscribers: 76
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Org-mode on lemmy.ml
-
-[[home](/)]
-[[/c/orgmode 🌎](https://lemmy.ml/c/orgmode)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Org-mode](http://orgmode.org/) is an Emacs major mode for taking notes, managing to-do lists, planning projects, authoring documents, literate programming and devops, and more, using a fast and effective plain-text system. <br><br>This is a sister community of <br>1. [/c/emacs](https://lemmy.ml/c/emacs)<br>2. [/c/planetemacs](https://lemmy.ml/c/planetemacs)<br>3. [/c/spacemacs](https://lemmy.ml/c/spacemacs) <br>4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-13 04:32:41 |
-| Updated              | 2021-04-13 06:13:41 |
-| Last Scraped         | 2023-06-19 11:36:43 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pieski"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-21 20:08:30"
+published: "2020-08-21 20:07:46"
 subscribers: 36
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/𝕡𝕚𝕖𝕤𝕜𝕚 on szmer.info
-
-[[home](/)]
-[[/c/pieski 🌎](https://szmer.info/c/pieski)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Miejsce na zdjęcia piesków i innych zwierzaków.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-21 20:07:46 |
-| Updated              | 2020-08-21 20:08:30 |
-| Last Scraped         | 2023-06-19 11:35:33 |

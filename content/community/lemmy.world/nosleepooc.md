@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nosleepooc"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:35:04"
+published: "2023-06-11 08:33:35"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/NoSleepOOC on lemmy.world
-
-[[home](/)]
-[[/c/nosleepooc 🌎](https://lemmy.world/c/nosleepooc)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The free talk out of character discussion community for https://lemmy.world/c/nosleep<br><br>**Rules**<br><br> 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br> <br>2    Be respectful, especially when disagreeing. Everyone should feel welcome here.<br><br>3    No porn.<br><br>4    No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 08:33:35 |
-| Updated              | 2023-06-11 11:35:04 |
-| Last Scraped         | 2023-06-16 22:57:17 |

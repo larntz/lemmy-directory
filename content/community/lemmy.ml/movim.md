@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/movim"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-12-24 04:45:32"
 subscribers: 31
 posts: 7
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Movim on lemmy.ml
-
-[[home](/)]
-[[/c/movim 🌎](https://lemmy.ml/c/movim)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Movim is a social and chat platform that act as a frontend for the XMPP network.<br><br>Once deployed Movim offers a complete social and chat experience for the decentralized XMPP network users. It can easily connect to several XMPP servers at the same time.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 7  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-24 04:45:32 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:55 |

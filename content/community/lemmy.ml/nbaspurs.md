@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nbaspurs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 22:42:15"
+published: "2023-06-12 22:09:50"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/San Antonio Spurs on lemmy.ml
-
-[[home](/)]
-[[/c/nbaspurs 🌎](https://lemmy.ml/c/nbaspurs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-1. ACT CLASSY!<br>2. BE HUMBLE<br>3. SPURS CONTENT ONLY!<br>4. Victor Wembanyama!<br><br>#gospursgo!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:09:50 |
-| Updated              | 2023-06-12 22:42:15 |
-| Last Scraped         | 2023-06-19 11:36:42 |

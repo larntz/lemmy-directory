@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/guitar"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-15 09:58:26"
+published: "2022-09-15 09:41:22"
 subscribers: 27
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Guitar on feddit.de
-
-[[home](/)]
-[[/c/guitar 🌎](https://feddit.de/c/guitar)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything guitar related. Playing, gear, whatever.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-15 09:41:22 |
-| Updated              | 2022-09-15 09:58:26 |
-| Last Scraped         | 2023-06-19 11:35:39 |

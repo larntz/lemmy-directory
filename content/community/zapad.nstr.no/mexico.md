@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://zapad.nstr.no/c/mexico"
 host: zapad.nstr.no
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:06:50"
+published: "2023-06-12 21:40:23"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "zapad_nstr_no"
 
 ---
-
-# /c/mexico on zapad.nstr.no
-
-[[home](/)]
-[[/c/mexico 🌎](https://zapad.nstr.no/c/mexico)]
-[[zapad.nstr.no](/instances/zapad_nstr_no)]
-
-
-## Description 
-
-<blockquote class="description">
-English and Spanish discussions and links relating to visiting or staying in Mexico
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:40:23 |
-| Updated              | 2023-06-15 17:06:50 |
-| Last Scraped         | 2023-06-19 11:35:30 |

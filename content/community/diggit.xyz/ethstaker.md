@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethstaker"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 16:05:20"
 subscribers: 12
 posts: 3
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/Ethstaker at Lemmy on diggit.xyz
-
-[[home](/)]
-[[/c/ethstaker 🌎](https://diggit.xyz/c/ethstaker)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A forum about all things Ethereum staking. Companion to https://discord.Io/ethstaker<br><br>We have two rules:<br>- No coin or trading spam.<br>- Friendly first, knowledgeable second. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 3  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:05:20 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

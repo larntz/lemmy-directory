@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adoptalemmy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-17 18:16:46"
+published: "2022-04-17 18:10:43"
 subscribers: 13
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Adopt A Lemmy on lemmy.ml
-
-[[home](/)]
-[[/c/adoptalemmy 🌎](https://lemmy.ml/c/adoptalemmy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to let others adopt a Lemmy community you own
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-17 18:10:43 |
-| Updated              | 2022-04-17 18:16:46 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shipping"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 07:33:19"
+published: "2023-06-02 09:39:07"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Shipping on lemmy.ml
-
-[[home](/)]
-[[/c/shipping 🌎](https://lemmy.ml/c/shipping)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Shipping
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 09:39:07 |
-| Updated              | 2023-06-04 07:33:19 |
-| Last Scraped         | 2023-06-16 22:57:30 |

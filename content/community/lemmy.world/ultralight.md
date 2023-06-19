@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultralight"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:25:19"
+published: "2023-06-15 18:20:04"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/ultralight on lemmy.world
-
-[[home](/)]
-[[/c/ultralight 🌎](https://lemmy.world/c/ultralight)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Overnight wilderness hiking with a pack <10lbs. Ask yourself: Do I really need that?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 18:20:04 |
-| Updated              | 2023-06-15 18:25:19 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/pathfinder"
 host: lemmy.wizjenkins.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 18:05:26"
+published: "2023-06-06 03:30:27"
 subscribers: 8
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_wizjenkins_com"
 
 ---
-
-# /c/Pathfinder 2nd Edition on lemmy.wizjenkins.com
-
-[[home](/)]
-[[/c/pathfinder 🌎](https://lemmy.wizjenkins.com/c/pathfinder)]
-[[lemmy.wizjenkins.com](/instances/lemmy_wizjenkins_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 03:30:27 |
-| Updated              | 2023-06-07 18:05:26 |
-| Last Scraped         | 2023-06-19 11:34:58 |

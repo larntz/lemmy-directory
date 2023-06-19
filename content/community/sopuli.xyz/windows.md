@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/windows"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-06 15:49:09"
+published: "2021-03-04 09:18:04"
 subscribers: 118
 posts: 31
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Windows on sopuli.xyz
-
-[[home](/)]
-[[/c/windows 🌎](https://sopuli.xyz/c/windows)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-For all things Windows.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 118 |
-| Posts                | 31  |
-| Comments             | 23  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-04 09:18:04 |
-| Updated              | 2021-12-06 15:49:09 |
-| Last Scraped         | 2023-06-19 11:35:32 |

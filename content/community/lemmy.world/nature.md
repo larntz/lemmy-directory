@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nature"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:39:05"
+published: "2023-06-12 05:34:07"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Nature Photography and Videos on lemmy.world
-
-[[home](/)]
-[[/c/nature 🌎](https://lemmy.world/c/nature)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 05:34:07 |
-| Updated              | 2023-06-12 21:39:05 |
-| Last Scraped         | 2023-06-16 22:57:16 |

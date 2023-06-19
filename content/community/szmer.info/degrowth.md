@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/degrowth"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-10-14 13:04:17"
 subscribers: 30
 posts: 9
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/post wzrost on szmer.info
-
-[[home](/)]
-[[/c/degrowth 🌎](https://szmer.info/c/degrowth)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Miejsce dla różnych postwzrostowych / degrowth rzeczy, w tym sensownej krytyki
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 9  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-14 13:04:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

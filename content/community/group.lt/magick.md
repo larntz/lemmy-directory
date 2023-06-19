@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://group.lt/c/magick"
 host: group.lt
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-04-24 18:55:46"
 subscribers: 23
 posts: 23
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "group_lt"
 
 ---
-
-# /c/Magick on group.lt
-
-[[home](/)]
-[[/c/magick 🌎](https://group.lt/c/magick)]
-[[group.lt](/instances/group_lt)]
-
-
-## Description 
-
-<blockquote class="description">
-Magick in all forms
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 23  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-24 18:55:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/jogos_tabuleiro"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-13 13:20:21"
+published: "2021-09-10 19:54:12"
 subscribers: 13
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/Jogos de tabuleiro on lemmy.pt
-
-[[home](/)]
-[[/c/jogos_tabuleiro 🌎](https://lemmy.pt/c/jogos_tabuleiro)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Um cantinho para os verdadeiros nerds 🙃
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-10 19:54:12 |
-| Updated              | 2021-09-13 13:20:21 |
-| Last Scraped         | 2023-06-19 11:35:23 |

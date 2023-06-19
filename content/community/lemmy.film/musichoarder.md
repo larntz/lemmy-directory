@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/musichoarder"
 host: lemmy.film
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 17:27:50"
+published: "2023-06-10 02:57:34"
 subscribers: 32
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_film"
 
 ---
-
-# /c/MusicHoarder on lemmy.film
-
-[[home](/)]
-[[/c/musichoarder 🌎](https://lemmy.film/c/musichoarder)]
-[[lemmy.film](/instances/lemmy_film)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 02:57:34 |
-| Updated              | 2023-06-10 17:27:50 |
-| Last Scraped         | 2023-06-19 11:35:01 |

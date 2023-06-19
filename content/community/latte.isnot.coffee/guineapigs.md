@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/guineapigs"
 host: latte.isnot.coffee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 04:49:21"
+published: "2023-06-10 04:46:35"
 subscribers: 36
 posts: 15
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "latte_isnot_coffee"
 
 ---
-
-# /c/Guinea Pigs on latte.isnot.coffee
-
-[[home](/)]
-[[/c/guineapigs 🌎](https://latte.isnot.coffee/c/guineapigs)]
-[[latte.isnot.coffee](/instances/latte_isnot_coffee)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Guinea Pig lovers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 15  |
-| Comments             | 20  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 04:46:35 |
-| Updated              | 2023-06-10 04:49:21 |
-| Last Scraped         | 2023-06-19 11:35:06 |

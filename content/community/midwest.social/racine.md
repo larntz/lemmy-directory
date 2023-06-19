@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racine"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 04:53:30"
+published: "2023-06-14 04:51:44"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Racine on midwest.social
-
-[[home](/)]
-[[/c/racine 🌎](https://midwest.social/c/racine)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to gather and discuss everything about Racine, Wisconsin!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:51:44 |
-| Updated              | 2023-06-14 04:53:30 |
-| Last Scraped         | 2023-06-19 11:35:29 |

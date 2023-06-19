@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.s9m.xyz/c/yuzu_piracy"
 host: lemmy.s9m.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 18:26:06"
+published: "2023-06-05 18:05:05"
 subscribers: 34
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_s9m_xyz"
 
 ---
-
-# /c/Yuzu Pirates on lemmy.s9m.xyz
-
-[[home](/)]
-[[/c/yuzu_piracy 🌎](https://lemmy.s9m.xyz/c/yuzu_piracy)]
-[[lemmy.s9m.xyz](/instances/lemmy_s9m_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-**NOT AFFILIATED WITH r/NewYuzuPiracy**. Welcome to [!yuzu_piracy@lemmy.s9m.xyz](https://lemmy.s9m.xyz/c/yuzu_piracy) A community focused on pirating content with the yuzu switch emulator. Feel free to post anything related to yuzu. links are allowed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 18:05:05 |
-| Updated              | 2023-06-05 18:26:06 |
-| Last Scraped         | 2023-06-19 11:34:55 |

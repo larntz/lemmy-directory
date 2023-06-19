@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/youtubepitch"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 18:50:28"
 subscribers: 90
 posts: 48
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Pitch a youtuber! on lemmy.world
-
-[[home](/)]
-[[/c/youtubepitch 🌎](https://lemmy.world/c/youtubepitch)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Do you love watching a certain YouTuber? Do you think they deserve more attention? Or do you just want to make a lemming happy by providing them with amazing content?<br>Then you are at the right place!<br><br>Pitch your beloved YouTuber, and provide a link to them.<br><br>Rules:<br>- Be kind<br>- Please tell us if you are self-promoting and don't promote yourself twice
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 90 |
-| Posts                | 48  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 18:50:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

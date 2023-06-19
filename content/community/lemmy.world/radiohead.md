@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radiohead"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:53:27"
+published: "2023-06-14 15:42:17"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Radiohead on lemmy.world
-
-[[home](/)]
-[[/c/radiohead 🌎](https://lemmy.world/c/radiohead)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Radiohead, including works from individual members
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:42:17 |
-| Updated              | 2023-06-14 15:53:27 |
-| Last Scraped         | 2023-06-19 11:36:39 |

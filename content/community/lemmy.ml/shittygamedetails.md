@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittygamedetails"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 16:15:17"
+published: "2023-06-13 15:07:49"
 subscribers: 15
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ShittyGameDetails on lemmy.ml
-
-[[home](/)]
-[[/c/shittygamedetails 🌎](https://lemmy.ml/c/shittygamedetails)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-From the creator of r/ShittyGameDetails. Discover a place where you can explore and appreciate the intricacies of your favorite games with breathtaking attention to detail.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:07:49 |
-| Updated              | 2023-06-13 16:15:17 |
-| Last Scraped         | 2023-06-19 11:36:42 |

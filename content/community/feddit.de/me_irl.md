@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/me_irl"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 10:38:05"
+published: "2023-06-14 23:30:17"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Me IRL but Feddit on feddit.de
-
-[[home](/)]
-[[/c/me_irl 🌎](https://feddit.de/c/me_irl)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Things that are me in real life
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:30:17 |
-| Updated              | 2023-06-15 10:38:05 |
-| Last Scraped         | 2023-06-19 11:35:39 |

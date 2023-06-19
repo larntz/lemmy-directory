@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/knotting"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 03:57:05"
+published: "2023-06-15 01:01:53"
 subscribers: 51
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Knotting  on lemmynsfw.com
-
-[[home](/)]
-[[/c/knotting 🌎](https://lemmynsfw.com/c/knotting)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Girls Getting knotted. Alternative r/knot and related subs. All posts must feature girl(s) taking the knot. Actual animals not allowed. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 01:01:53 |
-| Updated              | 2023-06-15 03:57:05 |
-| Last Scraped         | 2023-06-19 11:35:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/hajkey"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 03:58:07"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/Hajkey on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/hajkey 🌎](https://lemmy.blahaj.zone/c/hajkey)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Hajkey (pronounced something like Hi-Key)<br><br>A fork of Calckey, from the folk behind blahaj.zone 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 03:58:07 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

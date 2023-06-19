@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/radioamatorstwo"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 07:34:54"
+published: "2023-06-13 10:31:46"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Radio Amatorskie on szmer.info
-
-[[home](/)]
-[[/c/radioamatorstwo 🌎](https://szmer.info/c/radioamatorstwo)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 10:31:46 |
-| Updated              | 2023-06-19 07:34:54 |
-| Last Scraped         | 2023-06-19 11:35:33 |

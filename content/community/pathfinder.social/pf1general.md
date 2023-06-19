@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf1general"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 17:07:01"
 subscribers: 28
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/Pathfinder 1e General Discussion on pathfinder.social
-
-[[home](/)]
-[[/c/pf1general 🌎](https://pathfinder.social/c/pf1general)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 17:07:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

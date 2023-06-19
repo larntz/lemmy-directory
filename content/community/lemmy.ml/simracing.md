@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simracing"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 01:07:34"
+published: "2023-06-04 22:34:23"
 subscribers: 104
 posts: 8
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Sim Racing on lemmy.ml
-
-[[home](/)]
-[[/c/simracing 🌎](https://lemmy.ml/c/simracing)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussing all things Sim Racing
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 104 |
-| Posts                | 8  |
-| Comments             | 15  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 22:34:23 |
-| Updated              | 2023-06-08 01:07:34 |
-| Last Scraped         | 2023-06-19 11:36:44 |

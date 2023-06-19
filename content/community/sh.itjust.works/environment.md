@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/environment"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 18:48:11"
+published: "2023-06-18 13:01:49"
 subscribers: 4
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Environment on sh.itjust.works
-
-[[home](/)]
-[[/c/environment 🌎](https://sh.itjust.works/c/environment)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Environment:<br><br>The totality of the natural world, often excluding humans.<br><br>A subset of the natural world; an ecosystem.<br><br>The combination of external physical conditions that affect and influence the growth, development, behavior, and survival of organisms.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 13:01:49 |
-| Updated              | 2023-06-18 18:48:11 |
-| Last Scraped         | 2023-06-19 11:35:05 |

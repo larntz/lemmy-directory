@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bremerton"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 02:35:43"
+published: "2023-06-10 02:12:32"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Bremerton, WA on lemmy.world
-
-[[home](/)]
-[[/c/bremerton 🌎](https://lemmy.world/c/bremerton)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Bremerton, WA
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 02:12:32 |
-| Updated              | 2023-06-10 02:35:43 |
-| Last Scraped         | 2023-06-16 22:57:18 |

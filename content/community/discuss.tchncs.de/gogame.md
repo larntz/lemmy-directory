@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/gogame"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 14:48:22"
+published: "2023-06-13 14:43:19"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/GO  (IGO / WEIQI / BADUK) on discuss.tchncs.de
-
-[[home](/)]
-[[/c/gogame 🌎](https://discuss.tchncs.de/c/gogame)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for people who like to arrange black and white stones on grids and have many names for this including: Go, The Game of Go, Baduk, Weiqi, Igo, 圍棋 / 围棋, 囲碁, 바둑, ..)<br><br>Language: English
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:43:19 |
-| Updated              | 2023-06-13 14:48:22 |
-| Last Scraped         | 2023-06-19 11:34:55 |

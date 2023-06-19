@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://cigar.cx/c/cubancigars"
 host: cigar.cx
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 14:11:10"
+published: "2023-06-10 00:12:41"
 subscribers: 7
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "cigar_cx"
 
 ---
-
-# /c/Cuban Cigars on cigar.cx
-
-[[home](/)]
-[[/c/cubancigars 🌎](https://cigar.cx/c/cubancigars)]
-[[cigar.cx](/instances/cigar_cx)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss tobacco products from Cuba.  Talk about brands, marcas, blends, farm rolls, and vendors.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:12:41 |
-| Updated              | 2023-06-10 14:11:10 |
-| Last Scraped         | 2023-06-19 11:35:13 |

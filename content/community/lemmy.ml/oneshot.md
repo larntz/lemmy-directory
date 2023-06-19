@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oneshot"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 11:27:57"
+published: "2021-03-22 12:59:49"
 subscribers: 10
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Oneshot on lemmy.ml
-
-[[home](/)]
-[[/c/oneshot 🌎](https://lemmy.ml/c/oneshot)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for the videogame Oneshot<br><br>Rules:<br>1. No NSFW! (especially Niko). Such posts will be removed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-22 12:59:49 |
-| Updated              | 2021-03-24 11:27:57 |
-| Last Scraped         | 2023-06-19 11:36:44 |

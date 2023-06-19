@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/parenting"
 host: lemmy.glasgow.social
-lastmod: "{[ .Updated }}"
+lastmod: "2020-12-20 14:44:04"
+published: "2020-12-03 22:58:06"
 subscribers: 2
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_glasgow_social"
 
 ---
-
-# /c/Baby & Parenting on lemmy.glasgow.social
-
-[[home](/)]
-[[/c/parenting 🌎](https://lemmy.glasgow.social/c/parenting)]
-[[lemmy.glasgow.social](/instances/lemmy_glasgow_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Check our wiki page for some links and resources:<br>https://wiki.glasgow.social/baby
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-03 22:58:06 |
-| Updated              | 2020-12-20 14:44:04 |
-| Last Scraped         | 2023-06-16 22:56:30 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/browns"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:48:19"
+published: "2023-06-11 18:31:50"
 subscribers: 15
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Browns on lemmy.world
-
-[[home](/)]
-[[/c/browns 🌎](https://lemmy.world/c/browns)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-_Browns is the Browns_<br><br>This is a community for news and discussion of the Cleveland Browns.<br><br>**Rules:**<br>1. Don't be a dick<br>2. Occasional news about former players is acceptable, but don't overdo it please.<br>3. Do not harass fans of other teams. Yes, even Pittsburgh and Baltimore.<br>4. Any posted tweets/toots must include the author's name/username in the title.<br>5. Don't editorialize headlines from linked stories or content from tweets/toots.<br>6. Watch this space for further developments, I'm just getting this thing started.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:31:50 |
-| Updated              | 2023-06-12 12:48:19 |
-| Last Scraped         | 2023-06-19 11:36:39 |

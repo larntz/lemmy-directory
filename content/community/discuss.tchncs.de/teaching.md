@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/teaching"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:34:35"
+published: "2023-06-10 16:24:05"
 subscribers: 35
 posts: 6
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Teaching on discuss.tchncs.de
-
-[[home](/)]
-[[/c/teaching 🌎](https://discuss.tchncs.de/c/teaching)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for the discussion of teaching methods or a sharing of labs and other tools.<br><br>Rules:<br><br>1. Treat others with respect.<br><br>2. No Spam or Self-Promotion<br><br>3. Students and non-teachers must remain positive and respectful.<br><br><br>Other teaching related communities:<br><br>- [!professors@lenny.ml](https://lemmy.ml/c/professors)<br>- [!Education Technology@lemmy.ml](https://lemmy.ml/c/edtech)<br>- [!teaching@lemmy.ml](https://lemmy.ml/c/teaching)<br>- [Teachers' forum UK](https://lemmy.ml/c/teachers)<br>- [Open Educational Resources](https://lemmy.ml/c/open_e_resources)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 6  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 16:24:05 |
-| Updated              | 2023-06-13 17:34:35 |
-| Last Scraped         | 2023-06-19 11:34:55 |

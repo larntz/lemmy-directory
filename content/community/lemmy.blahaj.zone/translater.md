@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/translater"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 06:05:07"
+published: "2023-06-13 05:50:01"
 subscribers: 54
 posts: 1
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/TransLater on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/translater 🌎](https://lemmy.blahaj.zone/c/translater)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for trans folk who transitioned or are transitioning later in life.<br><br>Bigotry is not welcome. Please report any occurrences of homophobia, transphobia or other exclusionary content, and it will be removed! Users posting bigoted material will be perma banned/suspended.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 1  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:50:01 |
-| Updated              | 2023-06-14 06:05:07 |
-| Last Scraped         | 2023-06-19 11:35:28 |

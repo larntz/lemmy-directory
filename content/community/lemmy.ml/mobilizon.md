@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mobilizon"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-22 11:32:27"
+published: "2020-10-20 07:17:14"
 subscribers: 11
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Mobilizon on lemmy.ml
-
-[[home](/)]
-[[/c/mobilizon 🌎](https://lemmy.ml/c/mobilizon)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-20 07:17:14 |
-| Updated              | 2021-06-22 11:32:27 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyns.xyz/c/hhkb"
 host: lemmyns.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:16:53"
+published: "2023-06-15 05:09:34"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyns_xyz"
 
 ---
-
-# /c/hhkb on lemmyns.xyz
-
-[[home](/)]
-[[/c/hhkb 🌎](https://lemmyns.xyz/c/hhkb)]
-[[lemmyns.xyz](/instances/lemmyns_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for those who are weirdly passionate about their hhkb keyboards
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:09:34 |
-| Updated              | 2023-06-15 05:16:53 |
-| Last Scraped         | 2023-06-19 11:35:25 |

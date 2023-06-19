@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/python"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:04:46"
+published: "2023-06-13 11:35:15"
 subscribers: 15
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/python on feddit.de
-
-[[home](/)]
-[[/c/python 🌎](https://feddit.de/c/python)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Die deutschsprachige Community für Python
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:35:15 |
-| Updated              | 2023-06-14 07:04:46 |
-| Last Scraped         | 2023-06-19 11:35:39 |

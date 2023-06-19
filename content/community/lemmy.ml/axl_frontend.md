@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/axl_frontend"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-29 17:04:36"
+published: "2023-05-29 16:42:17"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Axl Front End development blog on lemmy.ml
-
-[[home](/)]
-[[/c/axl_frontend 🌎](https://lemmy.ml/c/axl_frontend)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-https://linktr.ee/morewings
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-29 16:42:17 |
-| Updated              | 2023-05-29 17:04:36 |
-| Last Scraped         | 2023-06-19 11:36:43 |

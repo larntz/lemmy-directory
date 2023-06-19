@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/taiwan"
 host: latte.isnot.coffee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 17:10:52"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "latte_isnot_coffee"
 
 ---
-
-# /c/Taiwan on latte.isnot.coffee
-
-[[home](/)]
-[[/c/taiwan 🌎](https://latte.isnot.coffee/c/taiwan)]
-[[latte.isnot.coffee](/instances/latte_isnot_coffee)]
-
-
-## Description 
-
-<blockquote class="description">
-All about Taiwan
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 17:10:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://links.roobre.es/c/tech"
 host: links.roobre.es
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-16 19:43:27"
+published: "2022-05-15 11:23:27"
 subscribers: 46
 posts: 246
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "links_roobre_es"
 
 ---
-
-# /c/💻 IT & Technology on links.roobre.es
-
-[[home](/)]
-[[/c/tech 🌎](https://links.roobre.es/c/tech)]
-[[links.roobre.es](/instances/links_roobre_es)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 246  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-15 11:23:27 |
-| Updated              | 2022-05-16 19:43:27 |
-| Last Scraped         | 2023-06-19 11:35:29 |

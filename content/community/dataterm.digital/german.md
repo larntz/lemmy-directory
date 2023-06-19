@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/german"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 09:31:08"
 subscribers: 8
 posts: 1
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/Learn German on dataterm.digital
-
-[[home](/)]
-[[/c/german 🌎](https://dataterm.digital/c/german)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the **German language learning** community @ [DATATERM](https://dataterm.digital/).<br><br>**Rules of this instance:**<br>https://dataterm.digital/legal<br><br>**Community rules:**<br>(We may add new rules at a later date but this covers it for now.)<br>- Read the instance rules and then read these ones.<br>- **No posts asking for translations.** e.g How do I say X?<br>- **No pirated materials!** (We all love a bit of bootleg content but there are other platfomrms to share it on if you wish. I'm just trying to cover our ass.)<br>- **Posts in English and German only.**<br>(If we get mods who speak other languages we may eventually open this up to other languages too.)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 09:31:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

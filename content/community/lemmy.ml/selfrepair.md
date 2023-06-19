@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfrepair"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-10 22:45:40"
+published: "2021-05-10 22:42:39"
 subscribers: 234
 posts: 8
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Self Repair - Right to repair on lemmy.ml
-
-[[home](/)]
-[[/c/selfrepair 🌎](https://lemmy.ml/c/selfrepair)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to help each other on fixing anything tech related.<br>Laptops, Desktops, Smartphones, toasters or even monitors!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 234 |
-| Posts                | 8  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-10 22:42:39 |
-| Updated              | 2021-05-10 22:45:40 |
-| Last Scraped         | 2023-06-16 22:57:25 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sciencefiction"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-01-17 12:01:14"
 subscribers: 703
 posts: 17
 comments: 46
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Science Fiction on lemmy.ml
-
-[[home](/)]
-[[/c/sciencefiction 🌎](https://lemmy.ml/c/sciencefiction)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Are robots the foundation for freedom from economic slavery?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 703 |
-| Posts                | 17  |
-| Comments             | 46  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 20  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-17 12:01:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

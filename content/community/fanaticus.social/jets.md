@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/jets"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 20:41:49"
+published: "2023-06-14 01:26:58"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/New York Jets on fanaticus.social
-
-[[home](/)]
-[[/c/jets 🌎](https://fanaticus.social/c/jets)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the New York Jets.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:26:58 |
-| Updated              | 2023-06-17 20:41:49 |
-| Last Scraped         | 2023-06-19 11:35:15 |

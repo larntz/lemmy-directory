@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mirrors_edge_visuals"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 17:32:15"
+published: "2023-06-10 17:28:47"
 subscribers: 12
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/MirrorsEdgeAesthetics - Environment's with Mirror's Edge Aesthetics on lemmy.world
-
-[[home](/)]
-[[/c/mirrors_edge_visuals 🌎](https://lemmy.world/c/mirrors_edge_visuals)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is the place to post all your environment/scenery images you find that give you the futuristic eye-candy Mirror's Edge vibe. This subreddit is mainly focused on real-life environments, but Mirror's Edge inspired art and other game screenshots are allowed too.<br><br><br><br><br>This was originally  [r/MirrorsEdgeAesthetics](https://old.reddit.com/r/MirrorsEdgeAesthetics/) but it wouldn't allow that direct name when making a community under Lemmy, so this is c/mirrors_edge_visuals
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:28:47 |
-| Updated              | 2023-06-10 17:32:15 |
-| Last Scraped         | 2023-06-19 11:36:42 |

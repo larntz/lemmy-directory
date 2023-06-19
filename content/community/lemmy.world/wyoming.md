@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wyoming"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 19:27:50"
+published: "2023-06-12 14:38:27"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Wyoming on lemmy.world
-
-[[home](/)]
-[[/c/wyoming 🌎](https://lemmy.world/c/wyoming)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A non reddit alternative to /r/Wyoming<br><br>1. don't be a dick<br>2. no spam<br>3. Hate speech will not be tolerated<br>4. Common sense and Lemmy rules apply.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:38:27 |
-| Updated              | 2023-06-12 19:27:50 |
-| Last Scraped         | 2023-06-19 11:36:42 |

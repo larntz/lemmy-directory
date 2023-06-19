@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fantascienza"
 host: feddit.it
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-11-13 10:44:51"
 subscribers: 107
 posts: 19
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "feddit_it"
 
 ---
-
-# /c/Fantascienza on feddit.it
-
-[[home](/)]
-[[/c/fantascienza 🌎](https://feddit.it/c/fantascienza)]
-[[feddit.it](/instances/feddit_it)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunità dedicata alla fantascienza<br><br>Valgono le regole della comunità Feddit 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 107 |
-| Posts                | 19  |
-| Comments             | 32  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-13 10:44:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:54 |

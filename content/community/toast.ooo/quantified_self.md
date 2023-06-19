@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/quantified_self"
 host: toast.ooo
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 12:27:39"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "toast_ooo"
 
 ---
-
-# /c/Quantified Self on toast.ooo
-
-[[home](/)]
-[[/c/quantified_self 🌎](https://toast.ooo/c/quantified_self)]
-[[toast.ooo](/instances/toast_ooo)]
-
-
-## Description 
-
-<blockquote class="description">
-Links for tools and methods for collecting and analyzing data on yourself.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 12:27:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

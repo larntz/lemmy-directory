@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialism"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-25 16:27:15"
+published: "2019-04-30 13:28:35"
 subscribers: 2812
 posts: 853
 comments: 1265
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Socialism on lemmy.ml
-
-[[home](/)]
-[[/c/socialism 🌎](https://lemmy.ml/c/socialism)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Rules TBD. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2812 |
-| Posts                | 853  |
-| Comments             | 1265  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 45  |
-| Monthly Active Users | 72  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-04-30 13:28:35 |
-| Updated              | 2021-01-25 16:27:15 |
-| Last Scraped         | 2023-06-19 11:36:43 |

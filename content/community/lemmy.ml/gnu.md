@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnu"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2019-10-02 21:51:38"
+published: "2019-10-02 21:40:20"
 subscribers: 525
 posts: 6
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GNU's Not Unix on lemmy.ml
-
-[[home](/)]
-[[/c/gnu 🌎](https://lemmy.ml/c/gnu)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-GNU related news and discussion.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 525 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-10-02 21:40:20 |
-| Updated              | 2019-10-02 21:51:38 |
-| Last Scraped         | 2023-06-19 11:37:02 |

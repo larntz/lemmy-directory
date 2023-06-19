@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baltimore_orioles"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 02:27:26"
+published: "2023-06-17 01:21:18"
 subscribers: 5
 posts: 7
 comments: 34
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Baltimore Orioles on lemmy.world
-
-[[home](/)]
-[[/c/baltimore_orioles 🌎](https://lemmy.world/c/baltimore_orioles)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing the Baltimore Orioles
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 7  |
-| Comments             | 34  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 01:21:18 |
-| Updated              | 2023-06-19 02:27:26 |
-| Last Scraped         | 2023-06-19 11:36:36 |

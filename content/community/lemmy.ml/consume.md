@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/consume"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-01 03:23:32"
+published: "2020-07-01 02:51:05"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Anti-Consumerism Memes on lemmy.ml
-
-[[home](/)]
-[[/c/consume 🌎](https://lemmy.ml/c/consume)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-No bigotry - including racism, sexism, ableism, homophobia, or xenophobia. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-01 02:51:05 |
-| Updated              | 2020-07-01 03:23:32 |
-| Last Scraped         | 2023-06-19 11:36:43 |

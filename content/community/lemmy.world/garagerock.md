@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/garagerock"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 06:56:24"
 subscribers: 13
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Crust Club on lemmy.world
-
-[[home](/)]
-[[/c/garagerock 🌎](https://lemmy.world/c/garagerock)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Dedicated to the ever expanding Garage Rock genre. From The Sonics to Oblivians, Seeds to Thee Oh Sees, freaks and geeks dig the now sound. Adjacent sub-genres are welcome as well. Such as Garage Punk, Surf Punk, etc.<br><br>Crust Club refers to the singles club offered by the influential USA based label Estrus Records.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 06:56:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:40 |

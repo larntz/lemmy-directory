@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/psychicdolphingarage"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-14 21:12:20"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Psychic Dolphin Garage on lemmygrad.ml
-
-[[home](/)]
-[[/c/psychicdolphingarage 🌎](https://lemmygrad.ml/c/psychicdolphingarage)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-a weekly comedy podcast where they talk (and sometimes play games) about the biggest, weirdest news stories that seen on social media. <br><br>known for its trash takes, pointless riffs, and being juust good enough to have on in the background as white noise.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-14 21:12:20 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

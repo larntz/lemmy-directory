@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animecds"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 18:08:29"
+published: "2023-06-11 18:07:53"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/AnimeCDs on lemmy.world
-
-[[home](/)]
-[[/c/animecds 🌎](https://lemmy.world/c/animecds)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For All things Anime CDs. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:07:53 |
-| Updated              | 2023-06-11 18:08:29 |
-| Last Scraped         | 2023-06-19 11:36:42 |

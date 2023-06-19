@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/photogrammetry"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 20:54:18"
+published: "2023-06-10 19:20:43"
 subscribers: 47
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Photogrammetry on lemmy.world
-
-[[home](/)]
-[[/c/photogrammetry 🌎](https://lemmy.world/c/photogrammetry)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community to share and discuss 3D photogrammetry modeling. Links to different 3D models, images, articles, and videos related to 3D photogrammetry are highly encouraged, e.g. articles on new photogrammetry software or techniques. Feel free to post questions or opinions on anything that has to do with 3D photogrammetry. The point is to have a place where we can help each other out. Photogrammetry is the process of converting a series of photographs into a textured 3D model.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:20:43 |
-| Updated              | 2023-06-10 20:54:18 |
-| Last Scraped         | 2023-06-19 11:36:39 |

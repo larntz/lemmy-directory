@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvel"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 15:17:22"
+published: "2021-12-15 08:24:24"
 subscribers: 96
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Marvel on lemmy.ml
-
-[[home](/)]
-[[/c/marvel 🌎](https://lemmy.ml/c/marvel)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For everything related to Marvel
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 96 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-15 08:24:24 |
-| Updated              | 2023-06-10 15:17:22 |
-| Last Scraped         | 2023-06-19 11:36:45 |

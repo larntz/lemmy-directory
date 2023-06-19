@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/in100words"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 04:38:59"
+published: "2023-06-14 04:32:10"
 subscribers: 19
 posts: 6
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Answer in Exactly 100 words on lemmy.world
-
-[[home](/)]
-[[/c/in100words 🌎](https://lemmy.world/c/in100words)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Answer any question/prompt in exactly 100 words. Your answer can be a rant, story, poem, essay, anything, as long as it is exactly 100 words. <br><br>Rules:<br>--------<br>* Top level comments should be exactly 100 words. <br><br>Check your word count [here](https://wordcounter.net/)<br><br>Have fun!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 6  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:32:10 |
-| Updated              | 2023-06-14 04:38:59 |
-| Last Scraped         | 2023-06-19 11:36:37 |

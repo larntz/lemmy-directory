@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swift"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-05-24 00:22:17"
 subscribers: 53
 posts: 4
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The Swift Programming Language on lemmy.ml
-
-[[home](/)]
-[[/c/swift 🌎](https://lemmy.ml/c/swift)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.<br><br>https://swift.org/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-05-24 00:22:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

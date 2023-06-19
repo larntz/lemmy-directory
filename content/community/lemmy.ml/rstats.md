@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rstats"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 02:25:56"
+published: "2020-07-09 01:23:20"
 subscribers: 51
 posts: 11
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The R Project for Statistical Computing on lemmy.ml
-
-[[home](/)]
-[[/c/rstats 🌎](https://lemmy.ml/c/rstats)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything about the R programming language.<br><br># Rules<br><br>1. No bigotry<br><br># Check out<br><br>- [StackOverflow](https://stackoverflow.com/questions/tagged/r)<br><br>- [RStudio Community](https://community.rstudio.com/) forum<br><br>- [R Weekly](https://rweekly.org/)<br><br>- [R Bloggers](https://www.r-bloggers.com/)<br><br>- [#rstats](https://twitter.com/search?q=%23rstats) on Twitter
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-09 01:23:20 |
-| Updated              | 2023-06-13 02:25:56 |
-| Last Scraped         | 2023-06-19 11:36:53 |

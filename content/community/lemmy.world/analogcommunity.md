@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/analogcommunity"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 22:16:04"
+published: "2023-06-11 08:47:59"
 subscribers: 23
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Film Photography Discussion on lemmy.world
-
-[[home](/)]
-[[/c/analogcommunity 🌎](https://lemmy.world/c/analogcommunity)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Film Photography Discussion
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 08:47:59 |
-| Updated              | 2023-06-13 22:16:04 |
-| Last Scraped         | 2023-06-19 11:36:40 |

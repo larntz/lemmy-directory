@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/badassskeletons"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 00:44:27"
+published: "2023-06-15 12:34:10"
 subscribers: 48
 posts: 12
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/cool burning skulls on lemmy.ca
-
-[[home](/)]
-[[/c/badassskeletons 🌎](https://lemmy.ca/c/badassskeletons)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share badasses meme.<br>We all know those people.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 12  |
-| Comments             | 17  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 12:34:10 |
-| Updated              | 2023-06-16 00:44:27 |
-| Last Scraped         | 2023-06-19 11:35:36 |

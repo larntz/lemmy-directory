@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/abiogenesis"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-21 07:45:35"
+published: "2022-03-21 07:41:30"
 subscribers: 27
 posts: 11
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Abiogenesis on mander.xyz
-
-[[home](/)]
-[[/c/abiogenesis 🌎](https://mander.xyz/c/abiogenesis)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions about research on the origin of life
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-21 07:41:30 |
-| Updated              | 2022-03-21 07:45:35 |
-| Last Scraped         | 2023-06-19 11:35:29 |

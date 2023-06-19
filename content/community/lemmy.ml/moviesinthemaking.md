@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moviesinthemaking"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-02 17:20:09"
+published: "2023-06-02 17:13:21"
 subscribers: 32
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Movies in the Making on lemmy.ml
-
-[[home](/)]
-[[/c/moviesinthemaking 🌎](https://lemmy.ml/c/moviesinthemaking)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**A behind-the-scenes look at the world of movies**.<br><br>A celebration of movie making, showcasing behind-the-scenes photos, videos, and articles from movies.<br><br>If you’ve discovered an amazing behind-the-scenes photo, video, or article, we’d love to see it.<br><br>Please don’t post trailers for movies here. They will be removed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 17:13:21 |
-| Updated              | 2023-06-02 17:20:09 |
-| Last Scraped         | 2023-06-19 11:37:01 |

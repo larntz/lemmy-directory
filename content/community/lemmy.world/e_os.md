@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/e_os"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:59:12"
+published: "2023-06-10 22:01:21"
 subscribers: 46
 posts: 2
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c//e/OS on lemmy.world
-
-[[home](/)]
-[[/c/e_os 🌎](https://lemmy.world/c/e_os)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community about the /e/ Operating System developed by e Foundation.<br><br>/e/OS is a degoogled version of Android. It aims to be a good balance between privacy and usability.<br>Fork of Lineage OS.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 2  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 22:01:21 |
-| Updated              | 2023-06-12 07:59:12 |
-| Last Scraped         | 2023-06-16 11:07:18 |

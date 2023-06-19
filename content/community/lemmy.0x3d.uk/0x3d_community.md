@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.0x3d.uk/c/0x3d_community"
 host: lemmy.0x3d.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 11:16:26"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_0x3d_uk"
 
 ---
-
-# /c/0x3d Community on lemmy.0x3d.uk
-
-[[home](/)]
-[[/c/0x3d_community 🌎](https://lemmy.0x3d.uk/c/0x3d_community)]
-[[lemmy.0x3d.uk](/instances/lemmy_0x3d_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 11:16:26 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

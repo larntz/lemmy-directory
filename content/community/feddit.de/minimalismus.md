@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/minimalismus"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:24:41"
+published: "2023-06-14 07:06:37"
 subscribers: 24
 posts: 1
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Minimalismus on feddit.de
-
-[[home](/)]
-[[/c/minimalismus 🌎](https://feddit.de/c/minimalismus)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Community rund um das Thema Minimalismus. <br>Egal, ob es um den Lebensstil, das Leben aus dem Rucksack oder den digitalen Minimalismus geht, alle Themen sind willkommen.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 1  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:06:37 |
-| Updated              | 2023-06-14 07:24:41 |
-| Last Scraped         | 2023-06-19 11:35:39 |

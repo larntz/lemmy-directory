@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/naturalbodybuilding"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-17 18:47:04"
+published: "2021-04-17 16:27:47"
 subscribers: 35
 posts: 4
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Natural Bodybuilding 💪🏽 on lemmy.ml
-
-[[home](/)]
-[[/c/naturalbodybuilding 🌎](https://lemmy.ml/c/naturalbodybuilding)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Bodybuilding page for drug-free athletes.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-17 16:27:47 |
-| Updated              | 2021-04-17 18:47:04 |
-| Last Scraped         | 2023-06-19 11:36:54 |

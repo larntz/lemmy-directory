@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mousereview"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 20:19:38"
+published: "2023-06-11 19:55:37"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Computer Mice and Mousepads on sh.itjust.works
-
-[[home](/)]
-[[/c/mousereview 🌎](https://sh.itjust.works/c/mousereview)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Where computer mice enthusiasts meet.<br><br>**Placeholder for /r/MouseReview, contact me if you're a mod.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:55:37 |
-| Updated              | 2023-06-11 20:19:38 |
-| Last Scraped         | 2023-06-19 11:35:05 |

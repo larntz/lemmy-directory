@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/todayifuckedup"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 14:17:10"
+published: "2023-06-09 14:13:11"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Today I Fucked Up on lemmy.ml
-
-[[home](/)]
-[[/c/todayifuckedup 🌎](https://lemmy.ml/c/todayifuckedup)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Hesitating between [!tifu](https://lemmy.ml/c/tifu) or [!todayifuckedup](https://lemmy.ml/c/todayifuckedup).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 14:13:11 |
-| Updated              | 2023-06-09 14:17:10 |
-| Last Scraped         | 2023-06-19 11:36:55 |

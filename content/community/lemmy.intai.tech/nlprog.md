@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/nlprog"
 host: lemmy.intai.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 05:57:57"
+published: "2023-06-11 04:50:04"
 subscribers: 17
 posts: 27
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_intai_tech"
 
 ---
-
-# /c/Natural Language Programming | Prompting (chatGPT) on lemmy.intai.tech
-
-[[home](/)]
-[[/c/nlprog 🌎](https://lemmy.intai.tech/c/nlprog)]
-[[lemmy.intai.tech](/instances/lemmy_intai_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Prompting and Practices
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 27  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 04:50:04 |
-| Updated              | 2023-06-19 05:57:57 |
-| Last Scraped         | 2023-06-19 11:35:16 |

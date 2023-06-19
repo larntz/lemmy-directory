@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/espresso"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 20:02:54"
+published: "2020-06-28 01:15:26"
 subscribers: 25
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/A home on the fediverse for espresso people! on lemmy.ml
-
-[[home](/)]
-[[/c/espresso 🌎](https://lemmy.ml/c/espresso)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 01:15:26 |
-| Updated              | 2023-06-11 20:02:54 |
-| Last Scraped         | 2023-06-19 11:36:46 |

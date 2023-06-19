@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mindfulness"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:40:56"
+published: "2023-06-14 07:11:26"
 subscribers: 19
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mindfulness & Mindful Living on lemmy.world
-
-[[home](/)]
-[[/c/mindfulness 🌎](https://lemmy.world/c/mindfulness)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share interesting resources, positive news, thought-provoking insights and fun tips and tricks for your daily mindfulness practice and mindful living.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:11:26 |
-| Updated              | 2023-06-14 07:40:56 |
-| Last Scraped         | 2023-06-19 11:36:38 |

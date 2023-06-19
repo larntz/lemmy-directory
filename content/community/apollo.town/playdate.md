@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/playdate"
 host: apollo.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 15:28:13"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "apollo_town"
 
 ---
-
-# /c/Playdate on apollo.town
-
-[[home](/)]
-[[/c/playdate 🌎](https://apollo.town/c/playdate)]
-[[apollo.town](/instances/apollo_town)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for our favorite little yellow handheld 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:28:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

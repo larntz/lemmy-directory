@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thequestions"
 host: merv.news
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-01 18:03:54"
+published: "2022-10-01 17:51:51"
 subscribers: 11
 posts: 3
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "merv_news"
 
 ---
-
-# /c/The Questions on merv.news
-
-[[home](/)]
-[[/c/thequestions 🌎](https://merv.news/c/thequestions)]
-[[merv.news](/instances/merv_news)]
-
-
-## Description 
-
-<blockquote class="description">
-# Ask anything
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-10-01 17:51:51 |
-| Updated              | 2022-10-01 18:03:54 |
-| Last Scraped         | 2023-06-19 11:34:46 |

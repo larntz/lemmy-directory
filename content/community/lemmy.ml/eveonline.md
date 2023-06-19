@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eveonline"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-03 23:37:01"
+published: "2021-05-03 23:30:22"
 subscribers: 10
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/EVE Online on lemmy.ml
-
-[[home](/)]
-[[/c/eveonline 🌎](https://lemmy.ml/c/eveonline)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Rules<br>1. No bigotry.<br>2. Don't be a dick to others.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-03 23:30:22 |
-| Updated              | 2021-05-03 23:37:01 |
-| Last Scraped         | 2023-06-19 11:36:56 |

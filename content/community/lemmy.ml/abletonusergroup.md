@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abletonusergroup"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 19:50:20"
+published: "2023-06-03 20:25:02"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ableton User Group on lemmy.ml
-
-[[home](/)]
-[[/c/abletonusergroup 🌎](https://lemmy.ml/c/abletonusergroup)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Ableton community meant for asking questions, sharing advice, and collectively improving our knowledge.<br><br>Not for self promotion.<br><br>This is not an official Ableton page.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 20:25:02 |
-| Updated              | 2023-06-05 19:50:20 |
-| Last Scraped         | 2023-06-19 11:37:00 |

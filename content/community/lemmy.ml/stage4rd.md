@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/v_zong"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-09-26 05:34:15"
+published: "2020-07-14 14:46:17"
 subscribers: 3
 posts: 3
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/V 版 on lemmy.ml
-
-[[home](/)]
-[[/c/stage4rd 🌎](https://lemmy.ml/c/v_zong)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 30  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-14 14:46:17 |
-| Updated              | 2020-09-26 05:34:15 |
-| Last Scraped         | 2023-06-19 11:36:44 |

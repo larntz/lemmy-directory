@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2society"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 17:03:46"
+published: "2023-06-04 17:03:10"
 subscribers: 53
 posts: 3
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/Pathfinder 2e Society on pathfinder.social
-
-[[home](/)]
-[[/c/pf2society 🌎](https://pathfinder.social/c/pf2society)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 3  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 17:03:10 |
-| Updated              | 2023-06-04 17:03:46 |
-| Last Scraped         | 2023-06-19 11:34:56 |

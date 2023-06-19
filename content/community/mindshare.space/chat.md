@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mindshare.space/c/chat"
 host: mindshare.space
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 06:17:29"
 subscribers: 2
 posts: 1
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "mindshare_space"
 
 ---
-
-# /c/Chat on mindshare.space
-
-[[home](/)]
-[[/c/chat 🌎](https://mindshare.space/c/chat)]
-[[mindshare.space](/instances/mindshare_space)]
-
-
-## Description 
-
-<blockquote class="description">
-You want to say hi? Anything up your mind? This community is for anything Mindshare related.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 06:17:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:11 |

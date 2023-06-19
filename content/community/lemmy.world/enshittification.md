@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/enshittification"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 23:53:35"
+published: "2023-06-11 23:51:39"
 subscribers: 37
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Enshittification on lemmy.world
-
-[[home](/)]
-[[/c/enshittification 🌎](https://lemmy.world/c/enshittification)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-### The lifecycle of Big Internet<br>We discuss how predatory big tech platforms live and die by luring people in and then decaying for profit.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 23:51:39 |
-| Updated              | 2023-06-11 23:53:35 |
-| Last Scraped         | 2023-06-19 11:36:39 |

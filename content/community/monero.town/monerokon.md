@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monerokon"
 host: monero.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 22:47:01"
 subscribers: 10
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "monero_town"
 
 ---
-
-# /c/Monero Konferenco on monero.town
-
-[[home](/)]
-[[/c/monerokon 🌎](https://monero.town/c/monerokon)]
-[[monero.town](/instances/monero_town)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:47:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

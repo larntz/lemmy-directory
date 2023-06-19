@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://communick.news/c/makers"
 host: communick.news
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 02:25:58"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "communick_news"
 
 ---
-
-# /c/Makers on communick.news
-
-[[home](/)]
-[[/c/makers 🌎](https://communick.news/c/makers)]
-[[communick.news](/instances/communick_news)]
-
-
-## Description 
-
-<blockquote class="description">
-For Makers, DIYers that want to share their projects with the world.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 02:25:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:12 |

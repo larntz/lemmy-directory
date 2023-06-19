@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/southaustralia"
 host: lemmy.perthchat.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-08-13 18:54:50"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_perthchat_org"
 
 ---
-
-# /c/South Australia on lemmy.perthchat.org
-
-[[home](/)]
-[[/c/southaustralia 🌎](https://lemmy.perthchat.org/c/southaustralia)]
-[[lemmy.perthchat.org](/instances/lemmy_perthchat_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-13 18:54:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

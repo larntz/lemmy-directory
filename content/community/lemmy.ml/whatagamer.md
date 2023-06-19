@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whatagamer"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-16 05:54:49"
+published: "2020-06-14 15:24:36"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/WhatAGamer on lemmy.ml
-
-[[home](/)]
-[[/c/whatagamer 🌎](https://lemmy.ml/c/whatagamer)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place where you see the epicest gamers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-14 15:24:36 |
-| Updated              | 2020-06-16 05:54:49 |
-| Last Scraped         | 2023-06-16 11:07:33 |

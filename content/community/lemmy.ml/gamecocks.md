@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamecocks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 14:34:53"
+published: "2023-06-03 13:50:13"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/University of South Carolina on lemmy.ml
-
-[[home](/)]
-[[/c/gamecocks 🌎](https://lemmy.ml/c/gamecocks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The subreddit for discussing all things related to the University of South Carolina
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 13:50:13 |
-| Updated              | 2023-06-03 14:34:53 |
-| Last Scraped         | 2023-06-19 11:36:56 |

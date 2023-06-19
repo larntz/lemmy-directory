@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cum"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:32:13"
+published: "2023-06-13 05:31:09"
 subscribers: 156
 posts: 0
 comments: -1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Cum on lemmynsfw.com
-
-[[home](/)]
-[[/c/cum 🌎](https://lemmynsfw.com/c/cum)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-This is a community dedicated to all cum lovers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 156 |
-| Posts                | 0  |
-| Comments             | -1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:31:09 |
-| Updated              | 2023-06-15 19:32:13 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mlb"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 18:49:34"
+published: "2023-06-08 18:43:46"
 subscribers: 350
 posts: 118
 comments: 61
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Major League Baseball on lemmy.ml
-
-[[home](/)]
-[[/c/mlb 🌎](https://lemmy.ml/c/mlb)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for fans of Major League Baseball and it's teams.<br><br><br>Rules: <br>1. No Discrimination of any kind (Racism, Transphobia, Homophobia, etc.)<br>2. No Harassing. (Belittling someone's favorite team, Name-calling, Doxxing.)<br>3. No Spam (Reposting articles someone else has already posted)<br>4. No Porn.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 350 |
-| Posts                | 118  |
-| Comments             | 61  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 40  |
-| Monthly Active Users | 45  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:43:46 |
-| Updated              | 2023-06-08 18:49:34 |
-| Last Scraped         | 2023-06-19 11:36:42 |

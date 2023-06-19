@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iilluminaughtii"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:45:02"
+published: "2023-06-15 20:38:57"
 subscribers: 0
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/iilluminaughtii unofficial on lemmy.world
-
-[[home](/)]
-[[/c/iilluminaughtii 🌎](https://lemmy.world/c/iilluminaughtii)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A lemmy community dedicated to iilluminaughtii; created on the Fediverse so her and her team have no control of allegations made against her. <br><br>Unlike her official social media accounts and her now, private, subreddit, this is an unofficial and uncensored community in which these posts can be made, and can't be taken down via people on her subreddit, discord, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 20:38:57 |
-| Updated              | 2023-06-15 20:45:02 |
-| Last Scraped         | 2023-06-19 11:36:39 |

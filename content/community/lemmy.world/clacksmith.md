@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/clacksmith"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 21:03:13"
 subscribers: 58
 posts: 4
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Clacksmith on lemmy.world
-
-[[home](/)]
-[[/c/clacksmith 🌎](https://lemmy.world/c/clacksmith)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for all things about dice making. Ask questions,  get advice, show off your creations!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 58 |
-| Posts                | 4  |
-| Comments             | 23  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 21:03:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:35 |

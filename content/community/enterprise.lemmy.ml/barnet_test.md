@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/barnet_test"
 host: enterprise.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 14:47:46"
+published: "2023-06-16 10:27:38"
 subscribers: 1
 posts: 3
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "enterprise_lemmy_ml"
 
 ---
-
-# /c/Barnet testing on enterprise.lemmy.ml
-
-[[home](/)]
-[[/c/barnet_test 🌎](https://enterprise.lemmy.ml/c/barnet_test)]
-[[enterprise.lemmy.ml](/instances/enterprise_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A test community for the Barnet app
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 11  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 10:27:38 |
-| Updated              | 2023-06-16 14:47:46 |
-| Last Scraped         | 2023-06-19 11:34:42 |

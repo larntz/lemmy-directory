@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/best_fdroid_apps"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-02 11:07:01"
+published: "2021-09-02 05:25:27"
 subscribers: 73
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Best F-Droid Apps on lemmy.ml
-
-[[home](/)]
-[[/c/best_fdroid_apps 🌎](https://lemmy.ml/c/best_fdroid_apps)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss and send some of the the best apps you find in this community! I run a blog for the same topic on https://kutt.it/fdroidblog
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 73 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-02 05:25:27 |
-| Updated              | 2021-09-02 11:07:01 |
-| Last Scraped         | 2023-06-19 11:36:54 |

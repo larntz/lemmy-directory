@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.town/c/xmrvsbeast"
 host: monero.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 11:58:38"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "monero_town"
 
 ---
-
-# /c/XMRvsBeast on monero.town
-
-[[home](/)]
-[[/c/xmrvsbeast 🌎](https://monero.town/c/xmrvsbeast)]
-[[monero.town](/instances/monero_town)]
-
-
-## Description 
-
-<blockquote class="description">
-https://xmrvsbeast.com/<br><br>http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx7icmsq67qa.b32.i2p/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:58:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

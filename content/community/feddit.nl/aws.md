@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/aws"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 08:05:22"
+published: "2023-06-12 19:53:52"
 subscribers: 13
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/AWS on feddit.nl
-
-[[home](/)]
-[[/c/aws 🌎](https://feddit.nl/c/aws)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecten etc etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:53:52 |
-| Updated              | 2023-06-14 08:05:22 |
-| Last Scraped         | 2023-06-19 11:34:55 |

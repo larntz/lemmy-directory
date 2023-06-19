@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/boomer_shooter"
 host: lemmy.ninja
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:41:07"
+published: "2023-06-13 16:40:27"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ninja"
 
 ---
-
-# /c/boomer_shooter on lemmy.ninja
-
-[[home](/)]
-[[/c/boomer_shooter 🌎](https://lemmy.ninja/c/boomer_shooter)]
-[[lemmy.ninja](/instances/lemmy_ninja)]
-
-
-## Description 
-
-<blockquote class="description">
-A home for all the awesome boomer-shooters and retroFPS games that exist in the unknown Fediverse!<br><br>Rules<br><br>No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. <br><br>Be respectful, especially when disagreeing. <br><br>Everyone should feel welcome here.<br><br>No porn.<br><br>No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:40:27 |
-| Updated              | 2023-06-15 04:41:07 |
-| Last Scraped         | 2023-06-19 11:35:22 |

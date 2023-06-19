@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/googlepixel"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:29:52"
+published: "2023-06-05 12:00:49"
 subscribers: 27
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Google Pixel on feddit.de
-
-[[home](/)]
-[[/c/googlepixel 🌎](https://feddit.de/c/googlepixel)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-All about Google Pixel phones
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 12:00:49 |
-| Updated              | 2023-06-12 07:29:52 |
-| Last Scraped         | 2023-06-19 11:35:39 |

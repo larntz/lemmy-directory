@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lio"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 17:45:49"
+published: "2023-06-10 17:16:57"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/locust.io on lemmy.ml
-
-[[home](/)]
-[[/c/lio 🌎](https://lemmy.ml/c/lio)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for people to talk about locust.io, the performance testing tool.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:16:57 |
-| Updated              | 2023-06-10 17:45:49 |
-| Last Scraped         | 2023-06-19 11:37:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shiba"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:26:11"
+published: "2023-06-12 12:24:00"
 subscribers: 15
 posts: 18
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Shiba Inu on lemmy.ca
-
-[[home](/)]
-[[/c/shiba 🌎](https://lemmy.ca/c/shiba)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for the dog breed Shiba Inu, aka Doge.<br><br>This has nothing to do with cryptocurrency, and those posts will be removed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 18  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 12:24:00 |
-| Updated              | 2023-06-12 12:26:11 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watchit"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-31 17:03:02"
+published: "2021-05-03 18:29:01"
 subscribers: 47
 posts: 17
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Watchit on lemmy.ml
-
-[[home](/)]
-[[/c/watchit 🌎](https://lemmy.ml/c/watchit)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-- Visit our site [watchitapp.site](https://watchitapp.site).<br>- Read our post: [Watchit - Open Movies](https://dev.to/geolffreym/watchit-2b88).<br>- Check out [the roadmap](https://github.com/ZorrillosDev/watchit-desktop/projects/1) to future features.<br>- Follow us in [twitter](https://twitter.com/app_watchit)<br>- Get in touch with us in [gitter](https://gitter.im/watchit-app/community) or **watchit:matrix.org**.<br>- See our [FAQ](https://github.com/ZorrillosDev/watchit-desktop/blob/v0.1.0/FAQ.md) for frequently asked questions.<br>- For help or bugs please [create an issue](https://github.com/ZorrillosDev/watchit-desktop/issues).<br>> Read our post in Watchit - Open Movies.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 17  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-03 18:29:01 |
-| Updated              | 2022-05-31 17:03:02 |
-| Last Scraped         | 2023-06-19 11:37:01 |

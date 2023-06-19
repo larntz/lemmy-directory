@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/lemmyfilm"
 host: lemmy.film
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 17:06:19"
+published: "2023-06-09 15:27:02"
 subscribers: 22
 posts: 6
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_film"
 
 ---
-
-# /c/Lemmy.film Meta on lemmy.film
-
-[[home](/)]
-[[/c/lemmyfilm 🌎](https://lemmy.film/c/lemmyfilm)]
-[[lemmy.film](/instances/lemmy_film)]
-
-
-## Description 
-
-<blockquote class="description">
-Meta discussion about this Lemmy instance!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 6  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 15:27:02 |
-| Updated              | 2023-06-10 17:06:19 |
-| Last Scraped         | 2023-06-19 11:35:01 |

@@ -1,6 +1,51 @@
+<!DOCTYPE html>
 {{ partial "head.html" . }}
+{{ partial "single_header.html" . }}
 <main>
   <body>
-  {{ .Content }}
+    <h2>/c/{{ .Params.title }} on {{ .Params.host }}</h2>
+    <div style="user-select:none">
+      [<span style="user-select:all" id="{{ .Params.name }}{{ .Params.host }}">!{{ .Params.name }}@{{ .Params.host }}</span><span onclick="copyBang('!{{ .Params.name }}@{{ .Params.host }}','{{ .Params.name }}{{ .Params.host }}')"> 📋</span>]
+      [<a target="_blank" href="{{ .Params.actor_id}}">/c/{{ .Params.name }} 🌎</a>]
+      [<a href="/instances/{{ replace .Params.host "." "_" }}">{{ .Params.host }}</a>]
+    </div>
+
+    <h3>Description</h3>
+    {{ if .Params.nsfw }}🚨 NSFW 🚨{{ end }}
+    <blockquote class="description">
+      {{ htmlUnescape .Description | safeHTML | markdownify }}
+    </blockquote>
+
+    <h3>Stats</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Activity</th><th>Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Subscribers</td><td>{{ .Params.subscribers }}</td>
+        </tr><tr><td>Posts</td><td>{{ .Params.posts }}</td></tr>
+        <tr><td>Comments</td><td>{{ .Params.comments }}</td></tr>
+        <tr><td>Daily Active Users</td><td>{{ .Params.dau }}</td></tr>
+        <tr><td>Weekly Active Users</td><td>{{ .Params.wau }}</td></tr>
+        <tr><td>Monthly Active Users</td><td>{{ .Params.mau }}</td></tr>
+      </tbody>
+    </table>
+    <br>
+    <table>
+      <thead>
+        <tr>
+          <th>Updated</th><th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Published</td><td>{{ .Params.published }}</td></tr>
+        <tr><td>Updated</td><td>{{ .Params.lastmod }}</td></tr>
+        <tr><td>Last Scraped</td><td>{{ .Params.date }}</td></tr>
+      </tbody>
+    </table>
   </body>
+  <script src="/js/site.js"></script>
 </main>

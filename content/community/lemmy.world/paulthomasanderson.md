@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paulthomasanderson"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:38:41"
+published: "2023-06-12 04:28:19"
 subscribers: 2
 posts: 10
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Paul Thomas Anderson on lemmy.world
-
-[[home](/)]
-[[/c/paulthomasanderson 🌎](https://lemmy.world/c/paulthomasanderson)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A Place for Fans to Gather and Discuss All Things Paul Thomas Anderson.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 10  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:28:19 |
-| Updated              | 2023-06-12 04:38:41 |
-| Last Scraped         | 2023-06-19 11:36:41 |

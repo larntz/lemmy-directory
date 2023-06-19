@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/punk"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 14:50:59"
+published: "2023-06-13 14:13:51"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Punk on lemmy.world
-
-[[home](/)]
-[[/c/punk 🌎](https://lemmy.world/c/punk)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things punk-related<br><br>Rules:<br>1. Be civil<br>2. No spam posting<br>3. Keep posts on-topic<br>4. No trolling
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:13:51 |
-| Updated              | 2023-06-15 14:50:59 |
-| Last Scraped         | 2023-06-16 22:57:15 |

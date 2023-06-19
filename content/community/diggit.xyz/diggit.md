@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/diggit"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:41:14"
+published: "2023-06-11 07:41:02"
 subscribers: 5
 posts: 5
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/Diggit on diggit.xyz
-
-[[home](/)]
-[[/c/diggit 🌎](https://diggit.xyz/c/diggit)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-The official Diggit community. Your go-to place for Diggit updates, announcements, and news.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 5  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:41:02 |
-| Updated              | 2023-06-11 07:41:14 |
-| Last Scraped         | 2023-06-19 11:35:16 |

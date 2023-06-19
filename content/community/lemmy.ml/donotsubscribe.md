@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/donotsubscribe"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-20 08:36:21"
+published: "2021-09-15 04:23:04"
 subscribers: 55
 posts: 3
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Do Not Subscribe to this Community on lemmy.ml
-
-[[home](/)]
-[[/c/donotsubscribe 🌎](https://lemmy.ml/c/donotsubscribe)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Do not read this sidebar. Read the post.<br><br><br>This is just a troll community. Hopefully, the admins wont delete this. LOL
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 55 |
-| Posts                | 3  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-15 04:23:04 |
-| Updated              | 2021-09-20 08:36:21 |
-| Last Scraped         | 2023-06-19 11:36:45 |

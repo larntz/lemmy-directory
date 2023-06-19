@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/3d_printing"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 09:09:05"
+published: "2023-06-12 07:15:14"
 subscribers: 10
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/(CLOSED) 3D Printing on infosec.pub
-
-[[home](/)]
-[[/c/3d_printing 🌎](https://infosec.pub/c/3d_printing)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Go to a bigger community on this topic.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:15:14 |
-| Updated              | 2023-06-12 09:09:05 |
-| Last Scraped         | 2023-06-16 22:55:53 |

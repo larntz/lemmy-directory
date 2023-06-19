@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uspolitics"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 20:39:07"
+published: "2023-06-09 20:18:41"
 subscribers: 41
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/USpolitics on lemmy.world
-
-[[home](/)]
-[[/c/uspolitics 🌎](https://lemmy.world/c/uspolitics)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:18:41 |
-| Updated              | 2023-06-09 20:39:07 |
-| Last Scraped         | 2023-06-16 22:57:17 |

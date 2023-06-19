@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/calckey"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-03 04:29:57"
+published: "2023-01-29 02:11:47"
 subscribers: 118
 posts: 13
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/Calckey on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/calckey 🌎](https://lemmy.blahaj.zone/c/calckey)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to Mastodon<br><br>https://codeberg.org/calckey<br><br>#Calckey
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 118 |
-| Posts                | 13  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-29 02:11:47 |
-| Updated              | 2023-02-03 04:29:57 |
-| Last Scraped         | 2023-06-19 11:35:28 |

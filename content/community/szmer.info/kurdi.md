@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/kurdi"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-21 14:51:00"
+published: "2020-07-31 10:58:39"
 subscribers: 91
 posts: 329
 comments: 130
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Kurdî on szmer.info
-
-[[home](/)]
-[[/c/kurdi 🌎](https://szmer.info/c/kurdi)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 329  |
-| Comments             | 130  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-31 10:58:39 |
-| Updated              | 2021-03-21 14:51:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

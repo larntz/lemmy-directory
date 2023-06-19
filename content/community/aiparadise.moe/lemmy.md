@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/lemmy"
 host: aiparadise.moe
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-05-15 13:47:06"
 subscribers: 9
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "aiparadise_moe"
 
 ---
-
-# /c/Lemmy on aiparadise.moe
-
-[[home](/)]
-[[/c/lemmy 🌎](https://aiparadise.moe/c/lemmy)]
-[[aiparadise.moe](/instances/aiparadise_moe)]
-
-
-## Description 
-
-<blockquote class="description">
-A general discussion community to ask questions or just general discussions 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-15 13:47:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:53 |

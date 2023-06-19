@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reviews"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-03-09 00:32:00"
 subscribers: 17
 posts: 4
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/REVIEWS -  post your 'hardware, tech related, gadgets' review freely on lemmy.ml
-
-[[home](/)]
-[[/c/reviews 🌎](https://lemmy.ml/c/reviews)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place where you can post reviews about something you purchased (a power bank? a phone? a toothbrush? a flashlight?)<br><br>- ONLY physically related items (not software, films, books ...)<br>- referral links allowed<br>- no sexual toys or similar things
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 4  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-09 00:32:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:57 |

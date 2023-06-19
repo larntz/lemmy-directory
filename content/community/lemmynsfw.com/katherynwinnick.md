@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/katherynwinnick"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 02:22:09"
 subscribers: 16
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Katheryn Winnick on lemmynsfw.com
-
-[[home](/)]
-[[/c/katherynwinnick 🌎](https://lemmynsfw.com/c/katherynwinnick)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Katheryn Winnick's pictures, gifs, and videos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 02:22:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

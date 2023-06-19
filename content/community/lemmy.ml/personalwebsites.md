@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/personalwebsites"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-11-24 20:49:29"
 subscribers: 144
 posts: 67
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Personal Websites on lemmy.ml
-
-[[home](/)]
-[[/c/personalwebsites 🌎](https://lemmy.ml/c/personalwebsites)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Show some ❤️ for personal websites! This is the place to post personal gardens, wikis, blogs and experiments in hypertext.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 144 |
-| Posts                | 67  |
-| Comments             | 19  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-24 20:49:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:57 |

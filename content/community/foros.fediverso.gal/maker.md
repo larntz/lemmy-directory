@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/maker"
 host: foros.fediverso.gal
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-12-13 17:41:23"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "foros_fediverso_gal"
 
 ---
-
-# /c/DIY e Makers on foros.fediverso.gal
-
-[[home](/)]
-[[/c/maker 🌎](https://foros.fediverso.gal/c/maker)]
-[[foros.fediverso.gal](/instances/foros_fediverso_gal)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-13 17:41:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:49 |

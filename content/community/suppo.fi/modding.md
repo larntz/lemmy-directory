@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/modding"
 host: suppo.fi
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 20:58:20"
+published: "2023-06-06 20:54:08"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "suppo_fi"
 
 ---
-
-# /c/Game Modding on suppo.fi
-
-[[home](/)]
-[[/c/modding 🌎](https://suppo.fi/c/modding)]
-[[suppo.fi](/instances/suppo_fi)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 20:54:08 |
-| Updated              | 2023-06-06 20:58:20 |
-| Last Scraped         | 2023-06-19 11:34:59 |

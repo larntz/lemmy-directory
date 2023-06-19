@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askelectronics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 06:25:03"
+published: "2023-06-06 19:56:39"
 subscribers: 18
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/AskElectronics on lemmy.ml
-
-[[home](/)]
-[[/c/askelectronics 🌎](https://lemmy.ml/c/askelectronics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a technical ELECTRONIC ENGINEERING community, covering practical, component-level circuit design and repair, electronic circuit theory, electronic components, tools and equipment.<br><br>Related communities: <br><br>- [c/embedded](https://lemmy.ml/c/embedded)<br>- [c/askelectronics](https://lemmy.ml/c/askelectronics)<br>- [c/fpga](https://lemmy.ml/c/fpga)<br>- [c/chipdesign](https://lemmy.ml/c/chipdesign)<br>- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)<br>- [c/dsp](https://lemmy.ml/c/dsp)<br>- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)<br>- [c/cprogramming](https://lemmy.ml/c/cprogramming)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 19:56:39 |
-| Updated              | 2023-06-09 06:25:03 |
-| Last Scraped         | 2023-06-19 11:37:01 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vancouver"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 03:39:49"
+published: "2023-06-09 03:32:47"
 subscribers: 5
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Vancouver on lemmy.ml
-
-[[home](/)]
-[[/c/vancouver 🌎](https://lemmy.ml/c/vancouver)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Vancouver<br>Your go-to destination for News, People, Sites, Occurrences, Write-ups, and Conversations about Metro Vancouver; the convergence of Sea and Mountains.<br><br>## Rules<br>* Posts must be relevant to Vancouver or surrounding areas<br>* No misinformation (opinions are fine). Keep headlines from posted articles as they are (even if incorrect). Put more info in comments.<br>* No NSFW content<br>* Be civil, inclusive and awesome to each other.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 03:32:47 |
-| Updated              | 2023-06-09 03:39:49 |
-| Last Scraped         | 2023-06-19 11:36:45 |

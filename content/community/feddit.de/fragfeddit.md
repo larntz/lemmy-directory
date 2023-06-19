@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fragfeddit"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-30 09:14:46"
+published: "2021-08-21 11:51:47"
 subscribers: 1571
 posts: 79
 comments: 1152
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Frag Feddit on feddit.de
-
-[[home](/)]
-[[/c/fragfeddit 🌎](https://feddit.de/c/fragfeddit)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Wolltest du Der Leere™ schon immer einmal Fragen stellen? Tue dies hier.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1571 |
-| Posts                | 79  |
-| Comments             | 1152  |
-| Daily Active Users   | 35  |
-| Weekly Active Users  | 327  |
-| Monthly Active Users | 386  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-21 11:51:47 |
-| Updated              | 2021-08-30 09:14:46 |
-| Last Scraped         | 2023-06-19 11:35:39 |

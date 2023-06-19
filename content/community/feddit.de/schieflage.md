@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/schieflage"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-16 16:32:12"
+published: "2023-04-16 12:07:19"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Schieflage on feddit.de
-
-[[home](/)]
-[[/c/schieflage 🌎](https://feddit.de/c/schieflage)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Forum zum Projekt Schieflage
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-16 12:07:19 |
-| Updated              | 2023-04-16 16:32:12 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cyberpunk"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-01-23 19:48:23"
 subscribers: 772
 posts: 64
 comments: 54
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cyberpunk on lemmy.ml
-
-[[home](/)]
-[[/c/cyberpunk 🌎](https://lemmy.ml/c/cyberpunk)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A transhumanistic edge of society in dystopia. Daily life has been impacted by rapid technological takeover. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 772 |
-| Posts                | 64  |
-| Comments             | 54  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-23 19:48:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

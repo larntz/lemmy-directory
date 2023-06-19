@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/voip"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 10:47:05"
+published: "2023-06-05 10:46:25"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/VOIP on lemmy.ml
-
-[[home](/)]
-[[/c/voip 🌎](https://lemmy.ml/c/voip)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy.ml Community for beginner,intermediate & experienced **VoIP** professionals. Ask any VoIP related question and the community will respond as best they can
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 10:46:25 |
-| Updated              | 2023-06-05 10:47:05 |
-| Last Scraped         | 2023-06-19 11:37:01 |

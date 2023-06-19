@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iii"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-13 23:58:37"
+published: "2023-05-13 23:50:01"
 subscribers: 40
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/iOS, iPadOS, and Other Apple Platforms on lemmy.ml
-
-[[home](/)]
-[[/c/iii 🌎](https://lemmy.ml/c/iii)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 40 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-13 23:50:01 |
-| Updated              | 2023-05-13 23:58:37 |
-| Last Scraped         | 2023-06-19 11:36:46 |

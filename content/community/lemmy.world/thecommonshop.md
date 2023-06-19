@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thecommonshop"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:56:38"
+published: "2023-06-12 18:48:15"
 subscribers: 1
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/The Common Shop on lemmy.world
-
-[[home](/)]
-[[/c/thecommonshop 🌎](https://lemmy.world/c/thecommonshop)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-(un)common memes<br><br>don't be (un)inclusive (i.e. racist, homophobic, or mean)<br><br>everyone can be common
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:48:15 |
-| Updated              | 2023-06-12 18:56:38 |
-| Last Scraped         | 2023-06-16 22:57:17 |

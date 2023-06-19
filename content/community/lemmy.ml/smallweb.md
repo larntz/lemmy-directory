@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smallweb"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-08-31 22:11:20"
 subscribers: 44
 posts: 7
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/For the small web/weird web on lemmy.ml
-
-[[home](/)]
-[[/c/smallweb 🌎](https://lemmy.ml/c/smallweb)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The small web and weird web are overlapping uses of the Worldwide Web that harkens back to Web 1.0: personally-owned and non-corporate domains, text-based, and interlinked with federation or webrings.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 7  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-31 22:11:20 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:46 |

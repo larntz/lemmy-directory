@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/testing_2"
 host: zemmy.cc
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 15:08:02"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "zemmy_cc"
 
 ---
-
-# /c/Testing 2: Crosspost Boogaloo on zemmy.cc
-
-[[home](/)]
-[[/c/testing_2 🌎](https://zemmy.cc/c/testing_2)]
-[[zemmy.cc](/instances/zemmy_cc)]
-
-
-## Description 
-
-<blockquote class="description">
-A secondary testing community for validating some stuff around crossposting
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 15:08:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

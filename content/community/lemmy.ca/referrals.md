@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/referrals"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-27 13:40:36"
+published: "2022-05-08 03:37:39"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/referral codes on lemmy.ca
-
-[[home](/)]
-[[/c/referrals 🌎](https://lemmy.ca/c/referrals)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
- Have a referral code? Post it here. Maybe a nice fedizen will sign up with your code.<br><br>Looking to sign up for X? Post that and maybe someone will send you a referral code. <br><br>Using referral codes is often mutually beneficial. Both the referrer and the referree often receive a benefit.<br><br>- lemmy.ca/c/poor
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-08 03:37:39 |
-| Updated              | 2023-01-27 13:40:36 |
-| Last Scraped         | 2023-06-19 11:35:36 |

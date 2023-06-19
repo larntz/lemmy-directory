@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cosplay_girls"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 20:39:39"
+published: "2023-06-11 20:39:35"
 subscribers: 1364
 posts: 51
 comments: 26
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Cosplay Girls on lemmynsfw.com
-
-[[home](/)]
-[[/c/cosplay_girls 🌎](https://lemmynsfw.com/c/cosplay_girls)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1364 |
-| Posts                | 51  |
-| Comments             | 26  |
-| Daily Active Users   | 13  |
-| Weekly Active Users  | 29  |
-| Monthly Active Users | 31  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:39:35 |
-| Updated              | 2023-06-11 20:39:39 |
-| Last Scraped         | 2023-06-19 11:35:46 |

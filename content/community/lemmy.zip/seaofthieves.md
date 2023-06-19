@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/seaofthieves"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 12:52:44"
 subscribers: 8
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Sea of Thieves on lemmy.zip
-
-[[home](/)]
-[[/c/seaofthieves 🌎](https://lemmy.zip/c/seaofthieves)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial Sea of Thieves Community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:52:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

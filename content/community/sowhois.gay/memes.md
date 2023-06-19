@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/memes"
 host: sowhois.gay
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 04:07:54"
+published: "2023-06-16 04:04:20"
 subscribers: 2
 posts: 13
 comments: 48
@@ -22,36 +23,3 @@ tags:
 - "sowhois_gay"
 
 ---
-
-# /c/Memes on sowhois.gay
-
-[[home](/)]
-[[/c/memes 🌎](https://sowhois.gay/c/memes)]
-[[sowhois.gay](/instances/sowhois_gay)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 13  |
-| Comments             | 48  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 04:04:20 |
-| Updated              | 2023-06-16 04:07:54 |
-| Last Scraped         | 2023-06-19 11:35:31 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/obscurepdfs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 21:18:44"
+published: "2023-06-14 21:10:07"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Esoteric Essays on lemmy.ml
-
-[[home](/)]
-[[/c/obscurepdfs 🌎](https://lemmy.ml/c/obscurepdfs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Obscure Academic Essays<br><br>Rules: <br><br>Only post direct links to long essays about esoteric topics written with academic rigor
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:10:07 |
-| Updated              | 2023-06-14 21:18:44 |
-| Last Scraped         | 2023-06-19 11:36:42 |

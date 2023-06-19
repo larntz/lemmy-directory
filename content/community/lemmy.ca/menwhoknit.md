@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/menwhoknit"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 11:27:18"
+published: "2023-06-14 10:47:18"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Men who knit on lemmy.ca
-
-[[home](/)]
-[[/c/menwhoknit 🌎](https://lemmy.ca/c/menwhoknit)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for men who knit, all styles and levels of skill welcome.<br><br>No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br><br>Be respectful. Everyone should feel welcome here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:47:18 |
-| Updated              | 2023-06-14 11:27:18 |
-| Last Scraped         | 2023-06-19 11:35:36 |

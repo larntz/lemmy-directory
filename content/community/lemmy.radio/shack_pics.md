@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/shack_pics"
 host: lemmy.radio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 20:29:11"
+published: "2023-06-12 20:27:30"
 subscribers: 14
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_radio"
 
 ---
-
-# /c/Shack Pics on lemmy.radio
-
-[[home](/)]
-[[/c/shack_pics 🌎](https://lemmy.radio/c/shack_pics)]
-[[lemmy.radio](/instances/lemmy_radio)]
-
-
-## Description 
-
-<blockquote class="description">
-Show us your shack!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:27:30 |
-| Updated              | 2023-06-12 20:29:11 |
-| Last Scraped         | 2023-06-19 11:35:20 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/meta"
 host: dmv.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:05:56"
+published: "2023-06-09 00:35:14"
 subscribers: 11
 posts: 5
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "dmv_social"
 
 ---
-
-# /c/dmv.social meta on dmv.social
-
-[[home](/)]
-[[/c/meta 🌎](https://dmv.social/c/meta)]
-[[dmv.social](/instances/dmv_social)]
-
-
-## Description 
-
-<blockquote class="description">
-News, announcements, and information about the dmv.social Lemmy community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 5  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 00:35:14 |
-| Updated              | 2023-06-13 23:05:56 |
-| Last Scraped         | 2023-06-19 11:35:20 |

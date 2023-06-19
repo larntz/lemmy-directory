@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cordcutters"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 19:07:53"
 subscribers: 46
 posts: 1
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Cord Cutters on midwest.social
-
-[[home](/)]
-[[/c/cordcutters 🌎](https://midwest.social/c/cordcutters)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Say Goodbye to Your Cable TV Provider!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 1  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 19:07:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |

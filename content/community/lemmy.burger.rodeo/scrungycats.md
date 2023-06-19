@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/scrungycats"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 05:25:38"
 subscribers: 39
 posts: 19
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/Scrungy Cats on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/scrungycats 🌎](https://burggit.moe/c/scrungycats)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-Cat making *that* weird face.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 19  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 05:25:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/horsecockfuta"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:21:29"
+published: "2023-06-14 20:34:04"
 subscribers: 100
 posts: 17
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Horsecock Futa on lemmynsfw.com
-
-[[home](/)]
-[[/c/horsecockfuta 🌎](https://lemmynsfw.com/c/horsecockfuta)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A community for enjoyers of ladies endowed with horse penises.<br><br>Rules:<br><br>- All posts must include horsecock futa.<br>- No spam.<br><br>Icon is by Erovon: https://twitter.com/ErovonNSFW/status/1580661934860382208
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 100 |
-| Posts                | 17  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 20:34:04 |
-| Updated              | 2023-06-14 23:21:29 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/fediverse"
 host: discuss.online
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 16:54:58"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "discuss_online"
 
 ---
-
-# /c/To The Fediverse on discuss.online
-
-[[home](/)]
-[[/c/fediverse 🌎](https://discuss.online/c/fediverse)]
-[[discuss.online](/instances/discuss_online)]
-
-
-## Description 
-
-<blockquote class="description">
-# Welcome<br><br>Let's talk about the [fediverse](https://www.fediverse.to/).<br><br>The fediverse is a collection of community-owned, ad-free, decentralised, and privacy-centric social networks.<br><br>Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.<br><br>**Join the growing community and experience the web as it was meant to be.**<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 16:54:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:12 |

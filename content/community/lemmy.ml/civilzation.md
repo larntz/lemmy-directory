@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/civilzation"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-16 04:19:43"
+published: "2020-10-01 14:07:05"
 subscribers: 97
 posts: 12
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Sid Meier's Civilization on lemmy.ml
-
-[[home](/)]
-[[/c/civilzation 🌎](https://lemmy.ml/c/civilzation)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Lemmy community for the Civilization series of turn-based strategy games! All official games and even spinoffs (here's to you, Call to Power) are welcome here!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 12  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-01 14:07:05 |
-| Updated              | 2021-07-16 04:19:43 |
-| Last Scraped         | 2023-06-19 11:36:44 |

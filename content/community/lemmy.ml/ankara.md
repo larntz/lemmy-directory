@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ankara"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 00:09:29"
+published: "2023-06-13 00:08:37"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ankara, Türkiye on lemmy.ml
-
-[[home](/)]
-[[/c/ankara 🌎](https://lemmy.ml/c/ankara)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Ankara, Turkey. Ask questions, give advice, organise events. / Ankara, Türkiye'nin Lemmy Topluluğu. Soru sorun, tavsiye verin, etkinlik düzenleyin. Ama bunları yaparken saygı çerçevesinde yapın.<br><br>**Posts should be in Turkish or English**<br><br>## **Kurallar:**<br><br>- Lemmy.ml kurallarına uyun.<br>- Türkiye Cumhuriyeti yasalarına aykırı paylaşımlar yapmayın.<br>- Topluluğu reklam panosuna çevirmeyin.<br>- Özensiz gönderi göndermemeye özen gösterin.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 00:08:37 |
-| Updated              | 2023-06-13 00:09:29 |
-| Last Scraped         | 2023-06-19 11:36:42 |

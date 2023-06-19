@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/adminlog"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 20:44:36"
 subscribers: 42
 posts: 3
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/Pawb.Social Administrative Actions on pawb.social
-
-[[home](/)]
-[[/c/adminlog 🌎](https://pawb.social/c/adminlog)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Administrative actions taken by the Pawb.Social Admin team across our Mastodon and Lemmy instances.<br><br>**CW**: Some instance URLs may contain disturbing, offensive, or adult material.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 3  |
-| Comments             | 15  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 20:44:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

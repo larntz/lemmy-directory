@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motogp"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 17:15:42"
+published: "2023-06-10 00:57:34"
 subscribers: 50
 posts: 8
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/MotoGP on lemmy.world
-
-[[home](/)]
-[[/c/motogp 🌎](https://lemmy.world/c/motogp)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 8  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:57:34 |
-| Updated              | 2023-06-12 17:15:42 |
-| Last Scraped         | 2023-06-16 22:57:17 |

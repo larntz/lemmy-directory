@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gemini"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-18 11:31:48"
+published: "2020-07-05 10:43:48"
 subscribers: 259
 posts: 56
 comments: 65
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/gemini on lemmy.ml
-
-[[home](/)]
-[[/c/gemini 🌎](https://lemmy.ml/c/gemini)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-https://gemini.circumlunar.space/<br><br>Gemini is a new internet protocol which:<br><br>    Is heavier than gopher<br>    Is lighter than the web<br>    Will not replace either<br>    Strives for maximum power to weight ratio<br>    Takes user privacy very seriously<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 259 |
-| Posts                | 56  |
-| Comments             | 65  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-05 10:43:48 |
-| Updated              | 2021-04-18 11:31:48 |
-| Last Scraped         | 2023-06-19 11:36:44 |

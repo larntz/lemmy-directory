@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mcr.town/c/testing"
 host: mcr.town
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:36:37"
+published: "2023-06-14 10:31:13"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mcr_town"
 
 ---
-
-# /c/Testing on mcr.town
-
-[[home](/)]
-[[/c/testing 🌎](https://mcr.town/c/testing)]
-[[mcr.town](/instances/mcr_town)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for trying stuff out. There's much cheese.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:31:13 |
-| Updated              | 2023-06-14 12:36:37 |
-| Last Scraped         | 2023-06-16 22:56:23 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/finanzenat"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 10:23:35"
+published: "2023-06-17 08:31:06"
 subscribers: 18
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/FinanzenAT on feddit.de
-
-[[home](/)]
-[[/c/finanzenat 🌎](https://feddit.de/c/finanzenat)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles rund um Finanzthemen in Österreich.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 08:31:06 |
-| Updated              | 2023-06-17 10:23:35 |
-| Last Scraped         | 2023-06-19 11:35:38 |

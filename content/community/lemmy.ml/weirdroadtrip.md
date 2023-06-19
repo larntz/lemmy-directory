@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weirdroadtrip"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 12:24:31"
+published: "2023-06-11 12:12:40"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Weird Road Trip on lemmy.ml
-
-[[home](/)]
-[[/c/weirdroadtrip 🌎](https://lemmy.ml/c/weirdroadtrip)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For sharing all of those odd places, tourist traps, roadside attractions, and hidden gems worthy of sharing because you had to pull over (or maybe travelled to intentionally) just to take a picture.<br><br>(Sharing links and pictures to these places even you didn’t go there is totally fine as well.)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 12:12:40 |
-| Updated              | 2023-06-11 12:24:31 |
-| Last Scraped         | 2023-06-19 11:36:47 |

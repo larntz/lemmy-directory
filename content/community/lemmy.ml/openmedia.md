@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openmedia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-13 13:23:02"
+published: "2022-03-13 12:52:38"
 subscribers: 94
 posts: 3
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Open Media on lemmy.ml
-
-[[home](/)]
-[[/c/openmedia 🌎](https://lemmy.ml/c/openmedia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for **open-source software** and discourse surrounding the media industry.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 94 |
-| Posts                | 3  |
-| Comments             | 19  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-13 12:52:38 |
-| Updated              | 2022-03-13 13:23:02 |
-| Last Scraped         | 2023-06-19 11:36:45 |

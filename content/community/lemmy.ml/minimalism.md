@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minimalism"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:29:18"
+published: "2020-06-28 05:37:06"
 subscribers: 166
 posts: 4
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Minimalism on lemmy.ml
-
-[[home](/)]
-[[/c/minimalism 🌎](https://lemmy.ml/c/minimalism)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Simplicity in architecture, design, lifestlye, music, painting, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 166 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 05:37:06 |
-| Updated              | 2021-01-29 13:29:18 |
-| Last Scraped         | 2023-06-19 11:36:56 |

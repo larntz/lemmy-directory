@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/seinnamewarbernd"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:50:45"
+published: "2023-06-11 09:48:23"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/SeinNameWarBernd on feddit.de
-
-[[home](/)]
-[[/c/seinnamewarbernd 🌎](https://feddit.de/c/seinnamewarbernd)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Sie nannten ihn Kriegsbernd.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 09:48:23 |
-| Updated              | 2023-06-13 17:50:45 |
-| Last Scraped         | 2023-06-19 11:35:39 |

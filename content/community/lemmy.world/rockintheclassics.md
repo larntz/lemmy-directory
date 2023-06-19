@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockintheclassics"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 23:13:02"
+published: "2023-06-09 23:11:59"
 subscribers: 10
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Rockin' The Classics on lemmy.world
-
-[[home](/)]
-[[/c/rockintheclassics 🌎](https://lemmy.world/c/rockintheclassics)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to talk about retro consoles, retro gaming, and hacking mini consoles like the MD/NES/NES/PCE Classic, Playstation Classic, and so on. Keep on Rockin' The Classics!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 23:11:59 |
-| Updated              | 2023-06-09 23:13:02 |
-| Last Scraped         | 2023-06-16 22:57:17 |

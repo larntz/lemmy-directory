@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gayporn"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 00:17:01"
+published: "2023-06-12 02:35:11"
 subscribers: 234
 posts: 11
 comments: 25
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Gay Porn on lemmynsfw.com
-
-[[home](/)]
-[[/c/gayporn 🌎](https://lemmynsfw.com/c/gayporn)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Men fucking men! Follow all site rules and be 18+.<br><br>Sister communities<br>* [!penis@lemmynsfw.com](/c/lemmynsfw.com) - For appreciators of all things penis. (OC welcome)<br>* [!fleshlights@lemmynsfw.com](/c/fleshlights@lemmynsfw.com) - Fleshlight discussion and usage (OC welcome)<br>* [!nudedudes@lemmynsfw.com](/c/nudedudes@lemmynsfw.com) - An OC focused sub for male nudity<br>* [!foreskin@lemmynsfw.com](/c/foreskin@lemmynsfw.com) - For hoodie lovers. (OC welcome)<br>* [!lemmycums@lemmynsfw.com](/c/lemmycums@lemmynsfw.com) - Similar to r/redditorcum, OC focused.<br>* [!massivecock@lemmynsfw.com](/c/massivecock@lemmynsfw.com) - large penises and those who love them (OC focused)<br><br>Gay male focused sister communities<br>* [!gaybrosgonewild@lemmynsfw.com](/c/gaybrosgonewild@lemmynsfw.com) - Gay oriented nude sub in the spirit of r/gaybrosgonewild (OC focused)<br>* [!gayporngifs@lemmynsfw.com](/c/gayporngifs@lemmynsfw.com) -<br>GIFs of the gay porn variety.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 234 |
-| Posts                | 11  |
-| Comments             | 25  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 02:35:11 |
-| Updated              | 2023-06-14 00:17:01 |
-| Last Scraped         | 2023-06-19 11:35:46 |

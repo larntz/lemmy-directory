@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2visegrad4you"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 18:38:41"
 subscribers: 24
 posts: 10
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/2visegrad4you on lemmy.world
-
-[[home](/)]
-[[/c/2visegrad4you 🌎](https://lemmy.world/c/2visegrad4you)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Ultranationalistic ironic memes people from the Visegrád Group (CZ, HU, PL, SK) would agree with unironically.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 10  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:38:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:39 |

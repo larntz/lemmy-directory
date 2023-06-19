@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nordamerika"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 17:34:57"
+published: "2022-03-25 07:57:48"
 subscribers: 15
 posts: 19
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Nordamerika on feddit.de
-
-[[home](/)]
-[[/c/nordamerika 🌎](https://feddit.de/c/nordamerika)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles rund um Nordamerika<br><br>🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.<br><br>::: spoiler Attribution<br>___<br>Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)<br>___<br>:::
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 19  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-25 07:57:48 |
-| Updated              | 2023-06-06 17:34:57 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sexy_communists"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-21 01:05:07"
+published: "2020-07-20 01:10:56"
 subscribers: 113
 posts: 66
 comments: 80
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Sexy Communist on lemmygrad.ml
-
-[[home](/)]
-[[/c/sexy_communists 🌎](https://lemmygrad.ml/c/sexy_communists)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for picture of communist they don't need to BE hot they can just be regular pictures of them, meme about them are also accepted.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 113 |
-| Posts                | 66  |
-| Comments             | 80  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-20 01:10:56 |
-| Updated              | 2020-08-21 01:05:07 |
-| Last Scraped         | 2023-06-19 11:35:08 |

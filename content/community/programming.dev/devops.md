@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/devops"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 07:19:39"
+published: "2023-06-13 05:46:29"
 subscribers: 96
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/DevOps on programming.dev
-
-[[home](/)]
-[[/c/devops 🌎](https://programming.dev/c/devops)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 96 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:46:29 |
-| Updated              | 2023-06-19 07:19:39 |
-| Last Scraped         | 2023-06-19 11:35:01 |

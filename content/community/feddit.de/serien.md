@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/serien"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 13:27:01"
+published: "2023-06-15 13:21:09"
 subscribers: 76
 posts: 5
 comments: 83
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Serien on feddit.de
-
-[[home](/)]
-[[/c/serien 🌎](https://feddit.de/c/serien)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Wir müssen über Serien sprechen!<br><br>Banner & Icon: Foto von [Ajeet Mestry](https://unsplash.com/@ajeetmestry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). <br><br>::: spoiler Communityregeln<br><br>Die folgenden Regeln sind eine (nicht vollständige) Liste von Verhaltensweisen, die nach Ermessen der Instanz-Admins und -Mods zur Löschung von Posts, Gruppen oder Sperrung von Konten führen können, wie in unseren Bedingungen beschrieben.<br><br>Bitte melde Verhalten, das dich stört den Admins/ Mods, und trage keine Konflikte in die Community.<br><br>Wir tolerieren kein diskriminierendes Verhalten und keine Inhalte, die die Unterdrückung von Mitgliedern marginalisierter Gruppen fördern oder befürworten. Diese Gruppen können durch eine der folgenden Eigenschaften gekennzeichnet sein (obwohl diese Liste natürlich unvollständig ist):<br><br>- ethnische Zugehörigkeit<br>- Geschlechtsidentität oder Ausdruck<br>- sexuelle Identität oder Ausdruck<br>- körperliche Merkmale oder Alter<br>- Behinderung oder Krankheit<br> - Nationalität, Wohnsitz, Staatsbürgerschaft<br>- Reichtum oder Bildung<br>- Religionszugehörigkeit, Agnostizismus oder Atheismus<br><br>Wir tolerieren kein bedrohliches Verhalten, Stalking und [Doxxing](https://de.wikipedia.org/wiki/Doxing). Wir tolerieren keine Belästigungen, einschließlich [Brigading](https://de.wikipedia.org/wiki/Reddit#Kritik_an_Duldung_von_Falschinformationen), [Dogpiling](https://en.wikipedia.org/wiki/Dogpiling_(Internet)) oder jede andere Form des Kontakts mit BenutzerInnen, die erklärt haben, dass sie nicht kontaktiert werden möchten.<br><br>- Sei respektvoll. Alle sind hier willkommen.<br>- Kein Rassismus, Sexismus, Ableismus, Homophobie, oder anderweitige Xenophobie<br>- Wir tolerieren kein Mobbing, einschließlich Beschimpfungen, absichtliches Misgendering oder [Deadnaming](https://de.wikipedia.org/wiki/Deadnaming).<br>- Wir dulden keine gewalttätige nationalistische Propaganda, Nazisymbolik oder die Förderung der Ideologie des Nationalsozialismus.<br>- Aktionen, die diese Instanz oder ihre Leistung beschädigen sollen, können zur sofortigen Sperrung des Kontos führen.<br>- Provokationen können nach Ermessen der Moderation entfernt werden<br>- Toxisches Verhalten wird nicht geduldet<br>- Keine Werbung<br>- Kein Spam<br>- Keine Pornografie/Adult Content (dafür findet ihr im Fedivers andere Instanzen)<br>- In Deutschland illegale Inhalte werden gelöscht und können zur sofortigen Sperrung des Accounts führen.<br>:::<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 5  |
-| Comments             | 83  |
-| Daily Active Users   | 18  |
-| Weekly Active Users  | 50  |
-| Monthly Active Users | 50  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:21:09 |
-| Updated              | 2023-06-15 13:27:01 |
-| Last Scraped         | 2023-06-19 11:35:39 |

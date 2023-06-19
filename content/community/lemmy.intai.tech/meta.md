@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/meta"
 host: lemmy.intai.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 05:26:02"
+published: "2023-06-11 05:18:31"
 subscribers: 16
 posts: 62
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "lemmy_intai_tech"
 
 ---
-
-# /c/Meta on lemmy.intai.tech
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.intai.tech/c/meta)]
-[[lemmy.intai.tech](/instances/lemmy_intai_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Community, Fediverse, General Non ML/AI Discussion
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 62  |
-| Comments             | 21  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:18:31 |
-| Updated              | 2023-06-13 05:26:02 |
-| Last Scraped         | 2023-06-19 11:35:16 |

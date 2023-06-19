@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://baomi.tv/c/auntology"
 host: baomi.tv
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-03 04:48:35"
+published: "2022-09-02 07:19:09"
 subscribers: 26
 posts: 30
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "baomi_tv"
 
 ---
-
-# /c/姨带姨路 on baomi.tv
-
-[[home](/)]
-[[/c/auntology 🌎](https://baomi.tv/c/auntology)]
-[[baomi.tv](/instances/baomi_tv)]
-
-
-## Description 
-
-<blockquote class="description">
-姨老嗨、献忠与七个大大
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 30  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-02 07:19:09 |
-| Updated              | 2022-11-03 04:48:35 |
-| Last Scraped         | 2023-06-19 11:34:53 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/snippets"
 host: iusearchlinux.fyi
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 10:17:35"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "iusearchlinux_fyi"
 
 ---
-
-# /c/snippets on iusearchlinux.fyi
-
-[[home](/)]
-[[/c/snippets 🌎](https://iusearchlinux.fyi/c/snippets)]
-[[iusearchlinux.fyi](/instances/iusearchlinux_fyi)]
-
-
-## Description 
-
-<blockquote class="description">
-guides, scripts, small programs, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 10:17:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

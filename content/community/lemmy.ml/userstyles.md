@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/userstyles"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-10-31 21:27:09"
+published: "2020-08-06 17:19:13"
 subscribers: 38
 posts: 5
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Website Themes on lemmy.ml
-
-[[home](/)]
-[[/c/userstyles 🌎](https://lemmy.ml/c/userstyles)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to post anything related to Userstyles<br><br># Rules<br>- Follow all lemmy.ml rules<br>- Don't go off-topic<br>- Properly mark sensitive content<br><br># What are UserStyles?<br>- Userstyles lets you change the way websites look by editing existing classes using CSS<br><br># Sites to install and upload themes<br>- [GreasyFork](https://greasyfork.org/en/scripts?language=css)<br>- [FreeStylerWs](https://freestyler.ws/)<br>- [Userstyles.org](https://userstyles.org/)<br>    - [Warning about 'Stylish'](https://dev.lemmy.ml/post/38703)<br><br># Addons to install and create themes<br>- [`Stylus  :`](https://add0n.com/stylus.html) [Chromium](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)<br><br>- [`Xstyle  :`](https://github.com/FirefoxBar/xStyle) [Chromium](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/xstyle/)<br><br>- [`Stylish:`](https://userstyles.org/) [Chromium](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/) <br>  - [Warning about 'Stylish'](https://dev.lemmy.ml/post/38703)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 5  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-06 17:19:13 |
-| Updated              | 2020-10-31 21:27:09 |
-| Last Scraped         | 2023-06-16 11:07:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/norway"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 19:59:55"
+published: "2023-06-10 15:03:52"
 subscribers: 56
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Norway on lemmy.world
-
-[[home](/)]
-[[/c/norway 🌎](https://lemmy.world/c/norway)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-## Welcome to Norway<br><br>A community for anything related to Norway! This community is mostly for content in English, but Norwegian, Swedish or Danish is also allowed. For content mainly in Norwegian please visit [!norge@lemmy.world](https://lemmy.world/c/norge). <br><br>## Rules<br><br>1. Keep it related to Norway<br>2. Be respectful<br>3. No spam, low-effort or self-promoting posts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:03:52 |
-| Updated              | 2023-06-12 19:59:55 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/react"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-29 18:21:14"
+published: "2020-06-29 18:17:50"
 subscribers: 34
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ReactJS on lemmy.ml
-
-[[home](/)]
-[[/c/react 🌎](https://lemmy.ml/c/react)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community around ReactJS and it's packages.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 18:17:50 |
-| Updated              | 2020-06-29 18:21:14 |
-| Last Scraped         | 2023-06-19 11:36:55 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/cloudsecurity"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 06:48:34"
+published: "2023-06-13 08:48:04"
 subscribers: 79
 posts: 10
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Cloud Security on infosec.pub
-
-[[home](/)]
-[[/c/cloudsecurity 🌎](https://infosec.pub/c/cloudsecurity)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Preventing storms.<br><br>![](https://infosec.pub/pictrs/image/c750e9b9-37de-4f70-b39a-462190637190.png)<br><br>## Rules<br><br>1.  Be excellent to each other!<br>2.  Use the article title as the submission title. Do not editorialize the title or add your own commentary to the article title.<br>3.  **No vendor spam. Zero tolerance for content marketing.** <br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 10  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 08:48:04 |
-| Updated              | 2023-06-16 06:48:34 |
-| Last Scraped         | 2023-06-16 22:55:53 |

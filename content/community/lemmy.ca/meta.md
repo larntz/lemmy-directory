@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/meta"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 03:50:10"
+published: "2023-06-14 03:47:50"
 subscribers: 22
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/lemmy.ca meta on lemmy.ca
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.ca/c/meta)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-#### meta for lemmy.ca<br><br>a place for admins to post about the goings on with this instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 03:47:50 |
-| Updated              | 2023-06-14 03:50:10 |
-| Last Scraped         | 2023-06-19 11:35:36 |

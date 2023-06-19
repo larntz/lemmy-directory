@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scrapy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 00:35:01"
+published: "2023-06-04 00:30:06"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Scrapy on lemmy.ml
-
-[[home](/)]
-[[/c/scrapy 🌎](https://lemmy.ml/c/scrapy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Scrapy](https://scrapy.org) is an open source and collaborative framework for extracting the data you need from websites<br><br># Community Links<br><br>* [Scrapy on GitHub](https://github.com/scrapy/scrapy)<br>* [Scrapy on StackOverflow](https://stackoverflow.com/questions/tagged/scrapy)<br>* [@scrapyproject on Twitter](http://twitter.com/scrapyproject)<br>* [`#scrapy` on Libera.Chat IRC](https://web.libera.chat/?channel=#scrapy)<br>* [Scrapy Discord server](https://discord.gg/fbCHpAm6KM)<br><br># Resources<br><br>* [Official documentation](https://docs.scrapy.org/)<br>* [Scrapy tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)<br>* [Learn Scrapy short videos](https://www.zyte.com/learn/how-to-get-started-with-web-scraping-using-scrapy/)<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 00:30:06 |
-| Updated              | 2023-06-04 00:35:01 |
-| Last Scraped         | 2023-06-19 11:36:44 |

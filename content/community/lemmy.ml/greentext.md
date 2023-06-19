@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greentext"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-03-25 10:30:39"
 subscribers: 257
 posts: 27
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/> Greentext on lemmy.ml
-
-[[home](/)]
-[[/c/greentext 🌎](https://lemmy.ml/c/greentext)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 257 |
-| Posts                | 27  |
-| Comments             | 23  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-25 10:30:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:37:02 |

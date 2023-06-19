@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/redteam"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 13:22:39"
+published: "2023-06-12 12:16:34"
 subscribers: 88
 posts: 5
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Red Team on infosec.pub
-
-[[home](/)]
-[[/c/redteam 🌎](https://infosec.pub/c/redteam)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Red Teamers are here to break into your stuff before the bad guys do, and help you secure it. This is a place to discuss novel research, pentest tools and techniques, physical security and post memes about the Blue Team.<br><br>Join us! We have cookies. Blue Team's cookies. >:)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 88 |
-| Posts                | 5  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 12:16:34 |
-| Updated              | 2023-06-13 13:22:39 |
-| Last Scraped         | 2023-06-16 22:55:53 |

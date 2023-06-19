@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldnews"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 20:41:04"
+published: "2023-06-09 20:19:00"
 subscribers: 538
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/worldnews on lemmy.world
-
-[[home](/)]
-[[/c/worldnews 🌎](https://lemmy.world/c/worldnews)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 538 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:19:00 |
-| Updated              | 2023-06-09 20:41:04 |
-| Last Scraped         | 2023-06-19 11:36:39 |

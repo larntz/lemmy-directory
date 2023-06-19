@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/rinoalert"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-20 18:36:49"
+published: "2022-02-28 00:18:40"
 subscribers: 11
 posts: 205
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Rino Alert on exploding-heads.com
-
-[[home](/)]
-[[/c/rinoalert 🌎](https://exploding-heads.com/c/rinoalert)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Lets get rid of these corrupt uni-party Republican Politicians who answer to corporate donors instead of their voters.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 205  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-28 00:18:40 |
-| Updated              | 2022-03-20 18:36:49 |
-| Last Scraped         | 2023-06-19 11:35:38 |

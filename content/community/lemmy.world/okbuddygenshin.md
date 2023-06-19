@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okbuddygenshin"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:37:14"
+published: "2023-06-14 15:11:31"
 subscribers: 4
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/okbuddygenshin on lemmy.world
-
-[[home](/)]
-[[/c/okbuddygenshin 🌎](https://lemmy.world/c/okbuddygenshin)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-ok buddy but for genshin (same rules on reddit apply here)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:11:31 |
-| Updated              | 2023-06-15 01:37:14 |
-| Last Scraped         | 2023-06-19 11:36:39 |

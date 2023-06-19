@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/english_esl"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-02-05 16:54:01"
 subscribers: 149
 posts: 10
 comments: 54
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/English As a Second Language on lemmy.ml
-
-[[home](/)]
-[[/c/english_esl 🌎](https://lemmy.ml/c/english_esl)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All things for those who use the English language but still there's a lot to learn.<br><br>Please follow the instance's guidelines and keep on-topic. Any level of question is welcome, either from a beginner or from an almost-native speaker.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 149 |
-| Posts                | 10  |
-| Comments             | 54  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-05 16:54:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

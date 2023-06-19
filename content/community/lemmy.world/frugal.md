@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frugal"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 19:48:23"
 subscribers: 1399
 posts: 11
 comments: 129
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Frugal on lemmy.world
-
-[[home](/)]
-[[/c/frugal 🌎](https://lemmy.world/c/frugal)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss how to save money. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1399 |
-| Posts                | 11  |
-| Comments             | 129  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 66  |
-| Monthly Active Users | 83  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:48:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

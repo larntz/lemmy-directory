@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/douwes"
 host: lemmy.douwes.co.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 21:53:36"
+published: "2023-06-07 09:23:11"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_douwes_co_uk"
 
 ---
-
-# /c/Douwes.co.uk on lemmy.douwes.co.uk
-
-[[home](/)]
-[[/c/douwes 🌎](https://lemmy.douwes.co.uk/c/douwes)]
-[[lemmy.douwes.co.uk](/instances/lemmy_douwes_co_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for douwes.co.uk
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 09:23:11 |
-| Updated              | 2023-06-08 21:53:36 |
-| Last Scraped         | 2023-06-19 11:34:54 |

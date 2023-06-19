@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/budgetkeebs"
 host: seemel.ink
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 22:14:38"
+published: "2023-06-10 17:08:41"
 subscribers: 16
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "seemel_ink"
 
 ---
-
-# /c/BudgetKeebs on seemel.ink
-
-[[home](/)]
-[[/c/budgetkeebs 🌎](https://seemel.ink/c/budgetkeebs)]
-[[seemel.ink](/instances/seemel_ink)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:08:41 |
-| Updated              | 2023-06-18 22:14:38 |
-| Last Scraped         | 2023-06-19 11:35:14 |

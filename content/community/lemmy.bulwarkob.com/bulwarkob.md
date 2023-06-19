@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.bulwarkob.com/c/bulwarkob"
 host: lemmy.bulwarkob.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 02:25:28"
 subscribers: 4
 posts: 7
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "lemmy_bulwarkob_com"
 
 ---
-
-# /c/Bulwark of Boredom on lemmy.bulwarkob.com
-
-[[home](/)]
-[[/c/bulwarkob 🌎](https://lemmy.bulwarkob.com/c/bulwarkob)]
-[[lemmy.bulwarkob.com](/instances/lemmy_bulwarkob_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 7  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 02:25:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:07 |

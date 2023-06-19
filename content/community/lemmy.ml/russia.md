@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/russia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-01 14:04:30"
+published: "2020-10-26 08:23:21"
 subscribers: 136
 posts: 110
 comments: 127
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Russia Россия on lemmy.ml
-
-[[home](/)]
-[[/c/russia 🌎](https://lemmy.ml/c/russia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Russia<br><br>----<br><br>Community dedicated to discuss everything related to Russia. Its culture, its language, its politics and its people.<br><br>----<br><br>#### Rules:<br><br>1. Posts must be in Russian or in English.<br>2. Add a flair in the title of every post.<br><br>**List of flairs:**<br><br>    [News] [Culture] [Discussion]<br>    [Question] [Request] [Guide]<br><br>----<br><br># Россия<br><br>----<br><br>Сообщество, посвященное обсуждению всего, что связано с Россией. Ее культура, язык, политика и люди.<br><br>----<br><br>#### Правила:<br><br>1. Сообщения должны быть на русском или английском языке.<br>2. Добавляйте флейр в заголовок каждого сообщения.<br><br>**Список флейров:**<br><br>    [Новости] [Культура][Обсуждение]<br>    [Вопрос] [Запрос] [Руководство]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 136 |
-| Posts                | 110  |
-| Comments             | 127  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-26 08:23:21 |
-| Updated              | 2021-10-01 14:04:30 |
-| Last Scraped         | 2023-06-19 11:36:49 |

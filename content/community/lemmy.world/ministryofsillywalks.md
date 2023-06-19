@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ministryofsillywalks"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:10:20"
+published: "2023-06-12 14:04:04"
 subscribers: 19
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ministry of Silly Walks on lemmy.world
-
-[[home](/)]
-[[/c/ministryofsillywalks 🌎](https://lemmy.world/c/ministryofsillywalks)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Be silly.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:04:04 |
-| Updated              | 2023-06-12 14:10:20 |
-| Last Scraped         | 2023-06-19 11:36:40 |

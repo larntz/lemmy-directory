@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/webdev"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 10:26:19"
+published: "2023-06-12 10:25:56"
 subscribers: 279
 posts: 4
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/WebDev on lemmy.world
-
-[[home](/)]
-[[/c/webdev 🌎](https://lemmy.world/c/webdev)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for all things Web Development related.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 279 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:25:56 |
-| Updated              | 2023-06-12 10:26:19 |
-| Last Scraped         | 2023-06-19 11:36:37 |

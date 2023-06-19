@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/kirstendunst"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 10:35:05"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Kirsten Dunst on lemmynsfw.com
-
-[[home](/)]
-[[/c/kirstendunst 🌎](https://lemmynsfw.com/c/kirstendunst)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Kirsten Dunst's pictures, gifs, and videos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 10:35:05 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:45 |

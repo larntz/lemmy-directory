@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/data"
 host: lemmy.intai.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 20:06:41"
+published: "2023-06-13 03:24:32"
 subscribers: 2
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_intai_tech"
 
 ---
-
-# /c/Machine Learning - Data | Vector | Storage | Processing on lemmy.intai.tech
-
-[[home](/)]
-[[/c/data 🌎](https://lemmy.intai.tech/c/data)]
-[[lemmy.intai.tech](/instances/lemmy_intai_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 03:24:32 |
-| Updated              | 2023-06-17 20:06:41 |
-| Last Scraped         | 2023-06-19 11:35:16 |

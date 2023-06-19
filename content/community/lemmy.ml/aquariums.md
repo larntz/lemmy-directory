@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aquariums"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 19:53:53"
+published: "2023-06-05 09:37:27"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Aquariums on lemmy.ml
-
-[[home](/)]
-[[/c/aquariums 🌎](https://lemmy.ml/c/aquariums)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**A community dedicated to aquariums. Show off your tanks, ask questions, help others!**<br><br>Other related communities:<br><br>- [/c/reeftank](https://lemmy.ml/c/reeftank)<br>- [/c/shrimptank](https://lemmy.ml/c/shrimptank)<br><br>[Community icon by Amethyst prime](https://www.flaticon.com/free-icons/fish-tank)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 09:37:27 |
-| Updated              | 2023-06-05 19:53:53 |
-| Last Scraped         | 2023-06-16 11:07:33 |

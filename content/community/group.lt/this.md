@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://group.lt/c/this"
 host: group.lt
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 21:07:15"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "group_lt"
 
 ---
-
-# /c/group.lt related inquiries, notes and feedback on group.lt
-
-[[home](/)]
-[[/c/this 🌎](https://group.lt/c/this)]
-[[group.lt](/instances/group_lt)]
-
-
-## Description 
-
-<blockquote class="description">
-You have questions, feedback, jokes - anything related to group.lt can be discussed here. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:07:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:27 |

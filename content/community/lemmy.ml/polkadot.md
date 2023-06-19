@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polkadot"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-15 22:31:15"
+published: "2021-12-14 07:03:50"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Polkadot on lemmy.ml
-
-[[home](/)]
-[[/c/polkadot 🌎](https://lemmy.ml/c/polkadot)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss anything related to Polkadot.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 07:03:50 |
-| Updated              | 2021-12-15 22:31:15 |
-| Last Scraped         | 2023-06-19 11:36:57 |

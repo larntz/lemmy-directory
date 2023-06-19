@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japanesevideos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-31 14:31:31"
+published: "2021-05-31 11:46:38"
 subscribers: 7
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/日本語のビデオ - Japanese Videos on lemmy.ml
-
-[[home](/)]
-[[/c/japanesevideos 🌎](https://lemmy.ml/c/japanesevideos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[日本語２４７](https://lemmy.ml/c/japanese247)のゲームサブ<br><br>[日本語247](https://lemmy.ml/c/japanese247) community's video's sub<br><br>This sub is for sharing videos for learning japanese.<br><br>tags: [ENG-SUB], [JP-SUB], [no-subtitles]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-31 11:46:38 |
-| Updated              | 2021-05-31 14:31:31 |
-| Last Scraped         | 2023-06-16 11:07:33 |

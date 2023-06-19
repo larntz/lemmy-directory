@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/smoking"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 19:58:57"
+published: "2023-06-11 19:26:04"
 subscribers: 16
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/smoking on sh.itjust.works
-
-[[home](/)]
-[[/c/smoking 🌎](https://sh.itjust.works/c/smoking)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for all kinds of smoked foods, smokers and techniques. Stick, pellet, briquette and everything in between are welcome. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:26:04 |
-| Updated              | 2023-06-14 19:58:57 |
-| Last Scraped         | 2023-06-19 11:35:05 |

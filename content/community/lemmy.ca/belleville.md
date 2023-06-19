@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/belleville"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 23:59:47"
+published: "2023-06-13 19:53:40"
 subscribers: 4
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Belleville Ontario on lemmy.ca
-
-[[home](/)]
-[[/c/belleville 🌎](https://lemmy.ca/c/belleville)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-The sister community of [r/BellevilleOntario](https://www.reddit.com/r/BellevilleOntario)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:53:40 |
-| Updated              | 2023-06-13 23:59:47 |
-| Last Scraped         | 2023-06-19 11:35:36 |

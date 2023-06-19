@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cc_art"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 04:59:42"
 subscribers: 33
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Creative Commons Art on lemmy.world
-
-[[home](/)]
-[[/c/cc_art 🌎](https://lemmy.world/c/cc_art)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Creative Commons Art<br>---<br>Everything art under Creative Commons and other permissive licenses!<br><br>Art includes:<br>- written arts<br>- visual arts<br>- music<br>- videos<br>- video games<br>- others that I can't think of right now<br><br>Rules<br>---<br>1. Only post art created under a Creative Commons or other permissive license.<br>2. Include the license in the title in brackets (such as `[CC-BY]`, `[CC-BY-SA-4.0]`) -- all posts must have a license associated with them.<br>3. NSFW is allowed, but MUST BE posted as NSFW!<br><br>Help wanted<br>---<br>Icon and banner art are currently either bad or does not exist, which is a problem in an art community; if you have any suggestions or willing to draw them, please contact me or post it here with the title Icon suggestion.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:59:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

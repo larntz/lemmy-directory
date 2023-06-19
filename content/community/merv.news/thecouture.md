@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thecouture"
 host: merv.news
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-01 17:29:28"
+published: "2022-10-01 16:54:32"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "merv_news"
 
 ---
-
-# /c/The Couture on merv.news
-
-[[home](/)]
-[[/c/thecouture 🌎](https://merv.news/c/thecouture)]
-[[merv.news](/instances/merv_news)]
-
-
-## Description 
-
-<blockquote class="description">
-# Clothes & Crafts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-10-01 16:54:32 |
-| Updated              | 2022-10-01 17:29:28 |
-| Last Scraped         | 2023-06-19 11:34:46 |

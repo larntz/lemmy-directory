@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/lfg_europe"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 18:58:35"
+published: "2023-06-10 17:38:57"
 subscribers: 16
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/lfg_europe on vlemmy.net
-
-[[home](/)]
-[[/c/lfg_europe 🌎](https://vlemmy.net/c/lfg_europe)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for all tabletop gamers of the European timezone to organise groups for the games they want to play 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:38:57 |
-| Updated              | 2023-06-11 18:58:35 |
-| Last Scraped         | 2023-06-19 11:35:05 |

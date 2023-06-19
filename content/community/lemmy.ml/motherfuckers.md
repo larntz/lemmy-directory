@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/motherfuckers"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-16 09:56:15"
+published: "2021-10-16 09:46:47"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/MFs on lemmy.ml
-
-[[home](/)]
-[[/c/motherfuckers 🌎](https://lemmy.ml/c/motherfuckers)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-We are **MFs**. Problems, we fuck your mother.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-16 09:46:47 |
-| Updated              | 2021-10-16 09:56:15 |
-| Last Scraped         | 2023-06-19 11:36:46 |

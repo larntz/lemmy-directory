@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spaceporn"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:55:23"
+published: "2023-06-11 11:55:03"
 subscribers: 38
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SpacePorn on lemmy.ml
-
-[[home](/)]
-[[/c/spaceporn 🌎](https://lemmy.ml/c/spaceporn)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-SpacePorn is a community devoted to space images.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 11:55:03 |
-| Updated              | 2023-06-11 11:55:23 |
-| Last Scraped         | 2023-06-19 11:36:42 |

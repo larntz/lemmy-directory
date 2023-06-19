@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roblox_unofficial"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-05-22 16:29:18"
 subscribers: 26
 posts: 71
 comments: 31
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Roblox (Unofficial) on lemmy.ml
-
-[[home](/)]
-[[/c/roblox_unofficial 🌎](https://lemmy.ml/c/roblox_unofficial)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Hello there, **Fediverse user**! This is the unofficial Roblox community on Lemmy, ran by [@gmate8@lemmy.ml](https://lemmy.ml/u/gmate8) and moderated by my best friend, LegalAndy360. <br><br>If you have any **questions**, regarding how Lemmy works, or just want some shoutout, don't hesitate to message us! You can find us on Mastodon too!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 71  |
-| Comments             | 31  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-22 16:29:18 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:59 |

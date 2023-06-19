@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddiverse.org/c/disneyvacation"
 host: feddiverse.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 15:59:55"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddiverse_org"
 
 ---
-
-# /c/Disney Vacation on feddiverse.org
-
-[[home](/)]
-[[/c/disneyvacation 🌎](https://feddiverse.org/c/disneyvacation)]
-[[feddiverse.org](/instances/feddiverse_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 15:59:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

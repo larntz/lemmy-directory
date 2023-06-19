@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmitaly"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-26 07:36:31"
+published: "2021-05-26 07:23:38"
 subscribers: 38
 posts: 47
 comments: 55
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Lemmy Italian Community on lemmy.ml
-
-[[home](/)]
-[[/c/lemmitaly 🌎](https://lemmy.ml/c/lemmitaly)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Work in progress**<br><br>Vorrei evitare di fare un listone di regole (tutte uguali) da seguire, affidatevi semplicemente al senso civico e alle comuni regole di convivenza sana.<br><br>I think there's no need for a list of rules (always the same) to follow, just use common sense and the same rules for civil cohabitation.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 47  |
-| Comments             | 55  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-26 07:23:38 |
-| Updated              | 2021-05-26 07:36:31 |
-| Last Scraped         | 2023-06-19 11:36:46 |

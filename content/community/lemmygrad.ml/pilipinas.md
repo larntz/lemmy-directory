@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pilipinas"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-14 01:33:21"
+published: "2023-01-12 01:30:35"
 subscribers: 10
 posts: 18
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Philippines [ᜉᜒᜎᜒᜉᜒᜈᜐ᜔] on lemmygrad.ml
-
-[[home](/)]
-[[/c/pilipinas 🌎](https://lemmygrad.ml/c/pilipinas)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Anything related to the Philippines**<br><br><br>**1. This is an explicitly pro-Joma Sison and pro-CPP-NPA-NDF community.** You can still express your critique of them like their praxis.<br><br><br>**2. No uncritical sectarianism.** Marxists of all kinds are welcome., even Dengists.<br><br>Tagalog/ᜆᜄᜎᜓ︀ᜄ᜔:<br><br>**ᜎᜑᜆ᜔ ᜆᜓᜅ᜔ᜃᜓ︀ᜎ᜔ ᜐ ᜉᜒᜎᜒᜉᜒᜈᜐ᜔᜶**<br><br>1. **ᜁᜆᜓ︀ ᜀᜌ᜔ ᜊᜓᜃᜐ᜔ ᜈ ᜆᜓᜋᜆᜅ᜔ᜃᜎ᜔ᜎᜒᜃ᜔ ᜃᜌ᜔ ᜃ᜔ ᜇ᜔ᜌᜓ︀ᜋ ᜐᜒᜐᜓ︀ᜈ᜔ ᜀᜆ᜔ ᜆ᜔ᜑᜒ︀ ᜐ᜔ᜃ᜔ᜉ᜔ᜊ᜔ᜑ᜔ᜊ᜔ᜉ᜔ᜑ᜔ᜇ᜔ᜉ᜔᜶** ᜅᜓᜈᜒᜆ᜔ ᜋᜀ\u170dᜒ ᜈᜒᜈ᜔ᜌᜓ︀ᜈ᜔ᜑ᜔ ᜁᜊᜑᜄᜒ ᜀᜅ᜔ ᜀᜈᜓᜋᜅ᜔ ᜑᜒᜈ᜔ᜇᜒ ᜉᜄ᜔ᜃᜃᜐᜅᜌᜓ︀ᜈ᜔ ᜐ ᜃᜈᜒᜎ ᜆᜓᜎᜇ᜔ ᜅ᜔ ᜃᜈᜒᜎᜅ᜔ ᜄᜏᜁᜈ᜔᜶<br><br>2. **ᜏᜎᜅ᜔ ᜃᜏᜎ᜔ᜅ᜔-ᜃᜁᜐᜒᜉᜅ᜔ ᜐᜒ︀ᜃ᜔ᜆ\u170d᜔ᜌᜈᜒᜐ᜔ᜋᜓ︀᜶** ᜎᜑᜆ᜔ ᜅ᜔ ᜋ\u170d᜔ᜃ᜔ᜐᜒᜐ᜔ᜆ ᜅ᜔ ᜁᜊ’ᜆ᜔-ᜁᜊᜅ᜔ ᜉᜅ᜔ᜃᜆ᜔ ᜀᜌ᜔ ᜆᜒᜈᜆᜅ᜔ᜄᜉ᜔᜵ ᜉᜆᜒ ᜈ \u170dᜒᜈ᜔ ᜀᜅ᜔ ᜃᜁᜐᜒᜉᜅ᜔ ᜇᜒ︀ᜅ᜔ ᜐ᜔ᜌᜂᜉᜒᜅ᜔᜶<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 18  |
-| Comments             | 21  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-12 01:30:35 |
-| Updated              | 2023-04-14 01:33:21 |
-| Last Scraped         | 2023-06-16 22:56:08 |

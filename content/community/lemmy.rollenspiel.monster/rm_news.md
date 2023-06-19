@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/rm_news"
 host: lemmy.rollenspiel.monster
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-28 10:09:25"
+published: "2022-04-18 16:35:16"
 subscribers: 79
 posts: 29
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "lemmy_rollenspiel_monster"
 
 ---
-
-# /c/RollenspielMonster News on lemmy.rollenspiel.monster
-
-[[home](/)]
-[[/c/rm_news 🌎](https://lemmy.rollenspiel.monster/c/rm_news)]
-[[lemmy.rollenspiel.monster](/instances/lemmy_rollenspiel_monster)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 29  |
-| Comments             | 19  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-18 16:35:16 |
-| Updated              | 2022-05-28 10:09:25 |
-| Last Scraped         | 2023-06-19 11:35:28 |

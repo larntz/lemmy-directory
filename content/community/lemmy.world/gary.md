@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gary"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 00:04:45"
+published: "2023-06-12 09:22:45"
 subscribers: 4
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Gary on lemmy.world
-
-[[home](/)]
-[[/c/gary 🌎](https://lemmy.world/c/gary)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Gary
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 09:22:45 |
-| Updated              | 2023-06-13 00:04:45 |
-| Last Scraped         | 2023-06-19 11:36:41 |

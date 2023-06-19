@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/asian"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-20 22:20:24"
+published: "2021-04-11 01:29:47"
 subscribers: 20
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Asian on lemmygrad.ml
-
-[[home](/)]
-[[/c/asian 🌎](https://lemmygrad.ml/c/asian)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-11 01:29:47 |
-| Updated              | 2022-03-20 22:20:24 |
-| Last Scraped         | 2023-06-19 11:35:08 |

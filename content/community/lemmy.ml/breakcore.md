@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/breakcore"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 08:58:12"
+published: "2023-06-18 08:31:31"
 subscribers: 1
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Breakcore on lemmy.ml
-
-[[home](/)]
-[[/c/breakcore 🌎](https://lemmy.ml/c/breakcore)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Breakcore is loosely defined but: **breaks**, **noise**, generally **high BPM**, that kind of thing.<br><br>Rules when we need em.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 08:31:31 |
-| Updated              | 2023-06-18 08:58:12 |
-| Last Scraped         | 2023-06-19 11:36:42 |

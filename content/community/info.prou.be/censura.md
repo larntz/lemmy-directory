@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/censura"
 host: info.prou.be
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-09-19 17:06:42"
 subscribers: 2
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "info_prou_be"
 
 ---
-
-# /c/Censura Digital on info.prou.be
-
-[[home](/)]
-[[/c/censura 🌎](https://info.prou.be/c/censura)]
-[[info.prou.be](/instances/info_prou_be)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-19 17:06:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:42 |

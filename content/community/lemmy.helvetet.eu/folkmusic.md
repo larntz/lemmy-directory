@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/folkmusic"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-04-01 17:08:48"
 subscribers: 21
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Folk Music on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/folkmusic 🌎](https://lemmy.helvetet.eu/c/folkmusic)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-01 17:08:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

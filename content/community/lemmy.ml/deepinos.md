@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepinos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-02-08 16:09:54"
+published: "2020-02-08 16:09:17"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/DeepinOS: Better never stops on lemmy.ml
-
-[[home](/)]
-[[/c/deepinos 🌎](https://lemmy.ml/c/deepinos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-DeepinOS is devoted to providing a beautiful, easy to use, safe and reliable system for global users.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-08 16:09:17 |
-| Updated              | 2020-02-08 16:09:54 |
-| Last Scraped         | 2023-06-19 11:36:43 |

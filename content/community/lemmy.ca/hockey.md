@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hockey"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:44:28"
+published: "2021-01-18 14:06:47"
 subscribers: 896
 posts: 77
 comments: 676
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Hockey on lemmy.ca
-
-[[home](/)]
-[[/c/hockey 🌎](https://lemmy.ca/c/hockey)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-**Rules**<br><br>-   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. <br>-   Be respectful, especially when disagreeing. Everyone should feel welcome here.<br>-   No porn.<br>-   No Ads / Spamming.<br><br><br>**List of Team-Specific Communities:**<br>-    Anaheim Ducks<br>-    Arizona Coyotes<br>-    [Boston Bruins](/c/bostonbruins@lemmy.fyi)<br>-    Buffalo Sabres<br>-    [Calgary Flames](/c/calgary_flames@lemmy.ca)<br>-    [Carolina Hurricanes](/c/anes@lemm.ee)<br>-    [Chicago Blackhawks](/c/blackhawks@lemmy.world)<br>-    [Colorado Avalanche](/c/coloradoavalanche@lemmy.ml)<br>-    [Columbus Blue Jackets](/c/bluejackets@lemmy.world)<br>-    Dallas Stars<br>-    [Detroit Red Wings](/c/detroitredwings@midwest.social)<br>-    [Edmonton Oilers](/c/edmontonoilers@lemmy.ca)<br>-    Florida Panthers<br>-    Los Angeles Kings<br>-    [Minnesota Wild](/c/wildhockey@lemmy.world)<br>-    [Montreal Canadiens](/c/habs@lemmy.world)<br>-    Nashville Predators<br>-    [New Jersey Devils](/c/devils@lemmy.world)<br>-    New York Islanders<br>-    New York Rangers<br>-    [Ottawa Senators](/c/ottawasenators@lemmy.ca)<br>-    [Philadelphia Flyers](/c/flyers@midwest.social)<br>-    Pittsburgh Penguins<br>-    [San Jose Sharks](/c/sanjosesharks@fanaticus.social)<br>-    [Seattle Kraken](/c/seattlekraken@lemmy.world)<br>-    St Louis Blues<br>-    [Tampa Bay Lightning](/c/tampabaylightning@lemmy.world)<br>-    [Toronto Maple Leafs](/c/leaf_nation@lemmy.ca)<br>-    [Vancouver Canucks](/c/canucks@lemmy.ca)<br>-    Vegas Golden Knights<br>-    Washington Capitals<br>-    [Winnipeg Jets](/c/winnipegjets@lemmy.world)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 896 |
-| Posts                | 77  |
-| Comments             | 676  |
-| Daily Active Users   | 28  |
-| Weekly Active Users  | 127  |
-| Monthly Active Users | 128  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-18 14:06:47 |
-| Updated              | 2023-06-15 17:44:28 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/nanaimo"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 19:51:51"
+published: "2023-06-16 19:39:48"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Nanaimo, British Columbia on lemmy.ca
-
-[[home](/)]
-[[/c/nanaimo 🌎](https://lemmy.ca/c/nanaimo)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 19:39:48 |
-| Updated              | 2023-06-16 19:51:51 |
-| Last Scraped         | 2023-06-19 11:35:36 |

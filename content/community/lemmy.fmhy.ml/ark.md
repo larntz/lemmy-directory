@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/ark"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 15:16:16"
+published: "2023-06-14 04:10:04"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Ark: Survival Evolved and Ark: Survival Ascended  on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/ark 🌎](https://lemmy.fmhy.ml/c/ark)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Ark: Survival Evolved and Ark: Survival Ascended 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:10:04 |
-| Updated              | 2023-06-15 15:16:16 |
-| Last Scraped         | 2023-06-19 11:35:02 |

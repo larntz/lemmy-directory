@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/dogecoin"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 06:33:39"
+published: "2023-06-13 06:32:33"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/Dogecoin on diggit.xyz
-
-[[home](/)]
-[[/c/dogecoin 🌎](https://diggit.xyz/c/dogecoin)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-The most amazing place on diggit! A community for sharing, discussing, hoarding and wow'ing about Dogecoins. The much wow innovative crypto-currency.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 06:32:33 |
-| Updated              | 2023-06-13 06:33:39 |
-| Last Scraped         | 2023-06-19 11:35:16 |

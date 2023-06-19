@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.redkrieg.com/c/lemmyextension"
 host: lemmy.redkrieg.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 05:08:43"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_redkrieg_com"
 
 ---
-
-# /c/Lemmy Home Instance Helper browser extension on lemmy.redkrieg.com
-
-[[home](/)]
-[[/c/lemmyextension 🌎](https://lemmy.redkrieg.com/c/lemmyextension)]
-[[lemmy.redkrieg.com](/instances/lemmy_redkrieg_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of the Lemmy Home Instance Helper browser extension!  Join us by installing the extension or searching !lemmyextension@lemmy.redkrieg.com on your instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:08:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:54 |

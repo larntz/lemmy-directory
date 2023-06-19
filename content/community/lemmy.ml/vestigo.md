@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vestigo"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-22 23:00:00"
+published: "2022-02-16 16:30:48"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/vestigo on lemmy.ml
-
-[[home](/)]
-[[/c/vestigo 🌎](https://lemmy.ml/c/vestigo)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-a community dedicated to cryptocurrencies and cryptotechnology
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-16 16:30:48 |
-| Updated              | 2022-02-22 23:00:00 |
-| Last Scraped         | 2023-06-19 11:36:56 |

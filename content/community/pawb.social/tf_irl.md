@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/tf_irl"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:28:16"
+published: "2023-06-11 02:57:53"
 subscribers: 43
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/tf_irl - For the Transformation in You on pawb.social
-
-[[home](/)]
-[[/c/tf_irl 🌎](https://pawb.social/c/tf_irl)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for memes about transformation related tropes.<br><br>For rules, please follow pawb.social site-wide code of conducts.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 02:57:53 |
-| Updated              | 2023-06-16 11:28:16 |
-| Last Scraped         | 2023-06-19 11:34:55 |

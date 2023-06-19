@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europeanunion"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-02 10:55:23"
+published: "2022-05-02 10:48:03"
 subscribers: 67
 posts: 7
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/European Union 🇪🇺 on lemmy.ml
-
-[[home](/)]
-[[/c/europeanunion 🌎](https://lemmy.ml/c/europeanunion)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 7  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-02 10:48:03 |
-| Updated              | 2022-05-02 10:55:23 |
-| Last Scraped         | 2023-06-19 11:36:43 |

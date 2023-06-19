@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfdrivingvehicles"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-10 19:48:11"
+published: "2020-06-29 19:51:40"
 subscribers: 13
 posts: 19
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Self Driving Vehicles on lemmy.ml
-
-[[home](/)]
-[[/c/selfdrivingvehicles 🌎](https://lemmy.ml/c/selfdrivingvehicles)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-News and discussion about self-driving vehicles.<br><br>Related subs<br><br>/c/electric_vehicles,<br>/c/robotics
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 19  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 19:51:40 |
-| Updated              | 2020-07-10 19:48:11 |
-| Last Scraped         | 2023-06-19 11:36:46 |

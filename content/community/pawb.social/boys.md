@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/boys"
 host: pawb.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 07:30:42"
+published: "2023-06-12 07:19:17"
 subscribers: 37
 posts: 12
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "pawb_social"
 
 ---
-
-# /c/Safe drawings of cute boys! on pawb.social
-
-[[home](/)]
-[[/c/boys 🌎](https://pawb.social/c/boys)]
-[[pawb.social](/instances/pawb_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A safe for work community dedicated to posting art of cute boys! Any boys, human or furry, are okay!<br><br>In addition to the [pawb.social COC](https://pawb.social/post/100):<br>- Please try to post links to where the artwork was posted originally, and always credit the original artist<br>- Don't repost art if the artist explicitly asks that you don't
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 12  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 07:19:17 |
-| Updated              | 2023-06-12 07:30:42 |
-| Last Scraped         | 2023-06-19 11:34:55 |

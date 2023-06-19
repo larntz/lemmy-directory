@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pixelfed"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-27 14:55:03"
+published: "2020-02-16 12:53:28"
 subscribers: 270
 posts: 10
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/PixelFed: A free and ethical photo sharing platform. on lemmy.ml
-
-[[home](/)]
-[[/c/pixelfed 🌎](https://lemmy.ml/c/pixelfed)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Photo sharing. For everyone.<br><br>Federated image sharing platform, will it go over Instagram?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 270 |
-| Posts                | 10  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-16 12:53:28 |
-| Updated              | 2021-01-27 14:55:03 |
-| Last Scraped         | 2023-06-19 11:36:45 |

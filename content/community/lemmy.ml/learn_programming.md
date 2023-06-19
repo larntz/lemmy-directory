@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_programming"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-21 20:17:34"
+published: "2022-01-05 03:25:26"
 subscribers: 67
 posts: 13
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Learn Programming on lemmy.ml
-
-[[home](/)]
-[[/c/learn_programming 🌎](https://lemmy.ml/c/learn_programming)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to learn programming.  <br>Share free resources here.<br>  <br>Ask questions on heapoverflow.ml<br><br>[Python docs](https://docs.python.org/library/index.html) ([tutorial](https://docs.python.org/tutorial/index.html))  <br>[Javascript docs (node)](https://nodejs.org/docs/latest/api/synopsis.html)  <br>[Hard challenges (Project Euler)](https://projecteuler.net/archives)  
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 13  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-05 03:25:26 |
-| Updated              | 2022-01-21 20:17:34 |
-| Last Scraped         | 2023-06-19 11:37:00 |

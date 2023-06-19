@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-21 00:50:57"
+published: "2020-01-26 12:26:37"
 subscribers: 488
 posts: 138
 comments: 98
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Intersting web projects on lemmy.ml
-
-[[home](/)]
-[[/c/web 🌎](https://lemmy.ml/c/web)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Show and discuss interesting web projects!<br><br>Submission rules:<br>1. Title should include sitename and short description/intro what it is.<br>2. No malware or other malicious content.  
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 488 |
-| Posts                | 138  |
-| Comments             | 98  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-26 12:26:37 |
-| Updated              | 2020-08-21 00:50:57 |
-| Last Scraped         | 2023-06-16 22:57:42 |

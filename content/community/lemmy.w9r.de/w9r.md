@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.w9r.de/c/w9r"
 host: lemmy.w9r.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 09:23:30"
+published: "2023-06-10 15:33:19"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_w9r_de"
 
 ---
-
-# /c/W9r on lemmy.w9r.de
-
-[[home](/)]
-[[/c/w9r 🌎](https://lemmy.w9r.de/c/w9r)]
-[[lemmy.w9r.de](/instances/lemmy_w9r_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:33:19 |
-| Updated              | 2023-06-11 09:23:30 |
-| Last Scraped         | 2023-06-19 11:35:15 |

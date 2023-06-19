@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/guns"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 16:20:48"
+published: "2023-06-13 16:20:25"
 subscribers: 22
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Guns on lemm.ee
-
-[[home](/)]
-[[/c/guns 🌎](https://lemm.ee/c/guns)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss firearms, gear, usage.<br><br>Rules:<br><br>-No selling, buying, or trading<br><br>-No NSFW content<br><br>-Be civil (No name calling, insults, shaming) <br><br>-Keep politics to specified posts<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:20:25 |
-| Updated              | 2023-06-13 16:20:48 |
-| Last Scraped         | 2023-06-19 11:35:16 |

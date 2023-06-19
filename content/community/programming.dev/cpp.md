@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/cpp"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 17:27:16"
+published: "2023-06-13 02:04:49"
 subscribers: 131
 posts: 7
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/C++ on programming.dev
-
-[[home](/)]
-[[/c/cpp 🌎](https://programming.dev/c/cpp)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-The center for all discussion and news regarding C++.<br># Rules<br>- Respect instance rules.<br>- Don't be a jerk.<br>- Please keep all posts related to C++.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 131 |
-| Posts                | 7  |
-| Comments             | 20  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 02:04:49 |
-| Updated              | 2023-06-18 17:27:16 |
-| Last Scraped         | 2023-06-19 11:35:01 |

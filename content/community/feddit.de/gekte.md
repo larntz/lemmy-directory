@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gekte"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:03:23"
+published: "2023-06-14 12:03:10"
 subscribers: 12
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/gekte on feddit.de
-
-[[home](/)]
-[[/c/gekte 🌎](https://feddit.de/c/gekte)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:03:10 |
-| Updated              | 2023-06-14 12:03:23 |
-| Last Scraped         | 2023-06-19 11:35:39 |

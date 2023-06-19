@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/collegesluts"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:07:14"
+published: "2023-06-14 10:21:11"
 subscribers: 340
 posts: 9
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/College Sluts  on lemmynsfw.com
-
-[[home](/)]
-[[/c/collegesluts 🌎](https://lemmynsfw.com/c/collegesluts)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A replacement for Reddit’s r/collegesluts. Posts should feature college sluts, and not break any sitewide or common sense rules.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 340 |
-| Posts                | 9  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:21:11 |
-| Updated              | 2023-06-14 12:07:14 |
-| Last Scraped         | 2023-06-19 11:35:45 |

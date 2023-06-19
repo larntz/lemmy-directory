@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/china"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-02 13:21:28"
+published: "2020-06-04 01:25:50"
 subscribers: 493
 posts: 926
 comments: 957
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/China, 中国 on lemmy.ml
-
-[[home](/)]
-[[/c/china 🌎](https://lemmy.ml/c/china)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# English<br><br>This is a forum dedicated to China, Chinese culture Chinese language, and Chinese people.<br><br>**[Our Matrix chat](https://matrix.to/#/#chinachat:matrix.org?via=matrix.org)**<br><br>### Rules:<br><br>* Be civil, be respectful, don't attack other users<br>* No racism, sinophobia, or other bigotry allowed<br>* No misinformation<br>* Follow all other Lemmy rules<br><br># 中文<br><br>这是一个专门讨论中国、中国文化、中国语言和中国人的论坛。<br><br>**[我们在 Matrix 的聊天室](https://matrix.to/#/#chinachat:matrix.org?via=matrix.org)**<br><br>### 规则:<br><br>* 要文明，要尊重，不要攻击其他用户<br>* 不允许有种族主义、仇视中国人或其他偏执行为<br>* 不允许故意提供错误信息<br>* 遵守 Lemmy 的所有其他规则<br><br>-----<br><br>### Related communities **/** 相关的互联网论坛<br>* [!china@lemmygrad.ml](https://lemmygrad.ml/c/china)<br>* [!chinese@lemmy.ml](https://lemmy.ml/c/chinese) <br><br>-----<br><br>Community icon by [CustomDesign](http://www.myiconfinder.com/CustomDesign) on MYICONFINDER, licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 493 |
-| Posts                | 926  |
-| Comments             | 957  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 33  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-04 01:25:50 |
-| Updated              | 2022-05-02 13:21:28 |
-| Last Scraped         | 2023-06-19 11:36:52 |

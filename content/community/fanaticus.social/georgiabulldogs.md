@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/georgiabulldogs"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 19:34:38"
+published: "2023-06-15 01:18:28"
 subscribers: 0
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Georgia Bulldogs on fanaticus.social
-
-[[home](/)]
-[[/c/georgiabulldogs 🌎](https://fanaticus.social/c/georgiabulldogs)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss Georgia Bulldogs athletics.<br><br>## Defending College Football National Champions<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 01:18:28 |
-| Updated              | 2023-06-17 19:34:38 |
-| Last Scraped         | 2023-06-19 11:35:15 |

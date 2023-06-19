@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/galaxys23ultra"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 04:34:45"
+published: "2023-06-12 05:30:57"
 subscribers: 11
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Galaxy S23 Ultra on lemmy.world
-
-[[home](/)]
-[[/c/galaxys23ultra 🌎](https://lemmy.world/c/galaxys23ultra)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for discussing the Samsung Galaxy S23 Ultra phone.<br><br>Rules:<br>1. No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).<br>2. Be respectful. Everyone should feel welcome here.<br>3. No NSFW content.<br>4. No Ads / Spamming.<br>5. **Be thoughtful and helpful**: even with ‘stupid’ questions. The world won’t be made better or worse by snarky comments schooling naive newcomers on Lemmy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 05:30:57 |
-| Updated              | 2023-06-14 04:34:45 |
-| Last Scraped         | 2023-06-19 11:36:40 |

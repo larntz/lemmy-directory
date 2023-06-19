@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shortstacks"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 13:00:35"
+published: "2023-06-17 12:30:21"
 subscribers: 51
 posts: 8
 comments: 2
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Shortstacks on lemmynsfw.com
-
-[[home](/)]
-[[/c/shortstacks 🌎](https://lemmynsfw.com/c/shortstacks)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Small women with curves.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 8  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 12:30:21 |
-| Updated              | 2023-06-17 13:00:35 |
-| Last Scraped         | 2023-06-19 11:35:45 |

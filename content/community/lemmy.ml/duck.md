@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/duck"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-24 19:57:26"
+published: "2021-03-24 14:18:11"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Duck on lemmy.ml
-
-[[home](/)]
-[[/c/duck 🌎](https://lemmy.ml/c/duck)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For all duck lovers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-24 14:18:11 |
-| Updated              | 2021-07-24 19:57:26 |
-| Last Scraped         | 2023-06-19 11:36:56 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/announcements"
 host: poptalk.scrubbles.tech
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-02 21:47:06"
 subscribers: 5
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "poptalk_scrubbles_tech"
 
 ---
-
-# /c/PopTalk Announcements on poptalk.scrubbles.tech
-
-[[home](/)]
-[[/c/announcements 🌎](https://poptalk.scrubbles.tech/c/announcements)]
-[[poptalk.scrubbles.tech](/instances/poptalk_scrubbles_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-General mod posts and announcements 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 21:47:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

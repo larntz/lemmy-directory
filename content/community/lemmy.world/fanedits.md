@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fanedits"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 13:28:19"
+published: "2023-06-15 18:46:27"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Fanedits on lemmy.world
-
-[[home](/)]
-[[/c/fanedits 🌎](https://lemmy.world/c/fanedits)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for faneditors, fanedits, preservation projects, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 18:46:27 |
-| Updated              | 2023-06-16 13:28:19 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/notjustbikes"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 22:04:22"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Not Just Bikes on lemm.ee
-
-[[home](/)]
-[[/c/notjustbikes 🌎](https://lemm.ee/c/notjustbikes)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial community for Not Just Bikes, a video series about life in Amsterdam, and why Dutch cities are so great. It's not just bikes.<br><br>YouTube: https://youtube.com/notjustbikes<br>Patreon: https://patreon.com/notjustbikes<br>Twitter: https://twitter.com/notjustbikes<br>Nebula: https://nebula.tv/notjustbikes<br><br>NJB Live: https://youtube.com/@njblive
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 22:04:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

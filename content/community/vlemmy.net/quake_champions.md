@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/quake_champions"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:47:14"
+published: "2023-06-12 15:43:50"
 subscribers: 7
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Quake Champions on vlemmy.net
-
-[[home](/)]
-[[/c/quake_champions 🌎](https://vlemmy.net/c/quake_champions)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Quake players and enthusiasts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:43:50 |
-| Updated              | 2023-06-12 15:47:14 |
-| Last Scraped         | 2023-06-19 11:35:05 |

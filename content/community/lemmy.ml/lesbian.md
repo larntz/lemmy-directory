@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lesbian"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 11:07:01"
+published: "2023-06-02 19:13:16"
 subscribers: 75
 posts: 4
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Lesbian on lemmy.ml
-
-[[home](/)]
-[[/c/lesbian 🌎](https://lemmy.ml/c/lesbian)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The community for all lesbians, but also allies! Other members of the community are also allowed, but the main subject is lesbianism and all the subjects touching it
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 4  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 19:13:16 |
-| Updated              | 2023-06-10 11:07:01 |
-| Last Scraped         | 2023-06-16 22:57:20 |

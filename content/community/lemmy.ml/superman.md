@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/superman"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:30:21"
+published: "2020-06-28 07:33:37"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Superman on lemmy.ml
-
-[[home](/)]
-[[/c/superman 🌎](https://lemmy.ml/c/superman)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The Man of Steel, the Last Son of Krypton, the Man of Tomorrow, the Big Blue Boy Scout
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 07:33:37 |
-| Updated              | 2021-01-29 13:30:21 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/programming"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-27 17:09:36"
 subscribers: 29
 posts: 5
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Programming on exploding-heads.com
-
-[[home](/)]
-[[/c/programming 🌎](https://exploding-heads.com/c/programming)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-01010111 01100101 01101100 01100011 01101111 01101101 01100101 00100000 01110100 01101111 00100000 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01101001 01101110 01100111 00101100 00100000 01101101 01100001 01101011 01100101 00100000 01111001 01101111 01110101 01110010 01110011 01100101 01101100 01100110 00100000 01100001 01110100 00100000 01101000 01101111 01101101 01100101 00101110 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 5  |
-| Comments             | 13  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-27 17:09:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

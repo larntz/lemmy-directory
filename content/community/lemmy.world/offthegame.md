@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/offthegame"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:48:29"
+published: "2023-06-11 15:46:48"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/OFF - The Indie Game on lemmy.world
-
-[[home](/)]
-[[/c/offthegame 🌎](https://lemmy.world/c/offthegame)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for the discussion of the game OFF created by Mortis Ghost. <br><br>**Rules:**<br><br>1.) Don't be a dickhead<br>   * No racist, sexist, homophobic, transphobic, or any whateverphobic language or statements here.<br><br>2.) Tag your NSFW content and don't be a creep<br>   * Nothing illegal or taboo like incest, CSA or SA. Also, don't sexually harass people or make creepy comments about their work. Keep the area as pure as possible.<br><br>3.) Absolutely no art theft<br>   * If it isn't yours then always credit the source every time, just saying not mine will result in a removal.<br><br>4.) Keep it relevant<br>   * Please keep posts here relevant to OFF, its creators, stuff made by its creators, and/or its fangames<br><br>**Links:**<br>*  [Download the latest version](http://ridiculous-dilettante.tumblr.com/post/171903659089)<br>*  [The UnOFFicial Discord Server](https://discord.gg/ke6UA6q)<br>* [English Translation 3.0 Forum](https://forum.starmen.net/forum/Fan/Games/OFF-translation-v-3-0)<br>* [Wiki](http://offgame.wikia.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:46:48 |
-| Updated              | 2023-06-11 15:48:29 |
-| Last Scraped         | 2023-06-19 11:36:41 |

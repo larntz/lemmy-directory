@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gryph_the_gryphon"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-13 07:37:21"
+published: "2021-02-28 11:41:27"
 subscribers: 4
 posts: 33
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Gryph the Gryphon on lemmy.ml
-
-[[home](/)]
-[[/c/gryph_the_gryphon 🌎](https://lemmy.ml/c/gryph_the_gryphon)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-https://Gryph-the-Gryphon.neocities.org<br><br>https://wheretofind.me/@Gryphon<br><br>here u can read fantasy short stories by Gryph the Gryphon . the main character is Gryph the Gryphon<br><br>u can also talk about things<br>- the Gryphons<br>- fantasy and beast design<br>- birds like birds of prey<br>- cars and airplanes<br>- cool and nice stuff<br>- ur projects and social things<br>- nature and zoology<br>- art and drawings<br>- website writing and the internet<br>- other things u feel i would like<br><br>note<br>- be very nice and kind<br>- i may not always reply due to life<br>- i may fail sometimes<br>- i can reply only shortly<br>- the Gryphons are sensitive to me
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 33  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-28 11:41:27 |
-| Updated              | 2022-03-13 07:37:21 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lolcats"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-26 23:00:03"
+published: "2021-06-26 02:50:17"
 subscribers: 114
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/lol cats, funny cats on the internet. on lemmy.ml
-
-[[home](/)]
-[[/c/lolcats 🌎](https://lemmy.ml/c/lolcats)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is the LOLCATS! <br><br>Please be #  respectable to everyone.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 114 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-26 02:50:17 |
-| Updated              | 2021-06-26 23:00:03 |
-| Last Scraped         | 2023-06-19 11:36:44 |

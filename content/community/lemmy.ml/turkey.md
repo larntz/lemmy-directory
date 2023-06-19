@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/turkey"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 23:31:30"
+published: "2020-06-03 09:21:22"
 subscribers: 32
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Turkey | Türkiye on lemmy.ml
-
-[[home](/)]
-[[/c/turkey 🌎](https://lemmy.ml/c/turkey)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for news and discussion about Turkey. Posts both in English and Turkish are welcome. | Bu topluluk Türkiye ile ilgili haber ve sohbet ortamıdır. Türkçe veya İngilizce yazabilirsiniz.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-03 09:21:22 |
-| Updated              | 2023-06-15 23:31:30 |
-| Last Scraped         | 2023-06-19 11:36:44 |

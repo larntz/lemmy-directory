@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/econ"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-29 23:03:31"
+published: "2020-06-29 21:43:47"
 subscribers: 7
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Academic Economics on lemmy.ml
-
-[[home](/)]
-[[/c/econ 🌎](https://lemmy.ml/c/econ)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for links to and discussion of academic papers, models, techniques, and methods relating to economics. <br><br>General discussion of news related to academic economics is also okay. <br><br>This is not for news regarding economic indicators, nor general discussions of economic policy or opinion. Alternative communities such as /c/economics and /c/neoliberal may be better places for such discussions. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 21:43:47 |
-| Updated              | 2020-06-29 23:03:31 |
-| Last Scraped         | 2023-06-19 11:36:43 |

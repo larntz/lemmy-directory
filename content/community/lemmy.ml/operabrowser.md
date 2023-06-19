@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/operabrowser"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:14:28"
+published: "2023-06-15 20:11:39"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Opera Browser on lemmy.ml
-
-[[home](/)]
-[[/c/operabrowser 🌎](https://lemmy.ml/c/operabrowser)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Opera, Opera GX, Opera Crypto Browser, Opera Mini and other Opera products.<br><br>https://www.opera.com/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 20:11:39 |
-| Updated              | 2023-06-15 20:14:28 |
-| Last Scraped         | 2023-06-19 11:36:42 |

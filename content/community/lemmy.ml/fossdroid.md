@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fossdroid"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 04:27:55"
+published: "2021-01-25 20:22:30"
 subscribers: 220
 posts: 8
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/FOSSDroid-old on lemmy.ml
-
-[[home](/)]
-[[/c/fossdroid 🌎](https://lemmy.ml/c/fossdroid)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Join [!fossdroid@social.fossware.space](https://social.fossware.space/c/fossdroid)!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 220 |
-| Posts                | 8  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-25 20:22:30 |
-| Updated              | 2023-06-16 04:27:55 |
-| Last Scraped         | 2023-06-16 11:07:33 |

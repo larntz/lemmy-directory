@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/memes"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-07 21:19:43"
 subscribers: 19
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Memes on lemmy.studio
-
-[[home](/)]
-[[/c/memes 🌎](https://lemmy.studio/c/memes)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-![](https://lemmy.studio/pictrs/image/5a257f43-75a8-4cac-a449-bef05dc5cc16.jpeg)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 21:19:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:58 |

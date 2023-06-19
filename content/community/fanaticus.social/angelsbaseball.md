@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/angelsbaseball"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:30:53"
+published: "2023-06-09 17:03:32"
 subscribers: 7
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Angels Baseball on fanaticus.social
-
-[[home](/)]
-[[/c/angelsbaseball 🌎](https://fanaticus.social/c/angelsbaseball)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [/r/AngelsBaseball](https://old.reddit.com/r/AngelsBaseball)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:03:32 |
-| Updated              | 2023-06-12 16:30:53 |
-| Last Scraped         | 2023-06-19 11:35:15 |

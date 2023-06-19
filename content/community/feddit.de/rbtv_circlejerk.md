@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rbtv_circlejerk"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:20:21"
+published: "2023-06-14 15:19:36"
 subscribers: 26
 posts: 6
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/rbtv_cj on feddit.de
-
-[[home](/)]
-[[/c/rbtv_circlejerk 🌎](https://feddit.de/c/rbtv_circlejerk)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Willkommen zum Rocketbeans Circlejerk!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 6  |
-| Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:19:36 |
-| Updated              | 2023-06-14 15:20:21 |
-| Last Scraped         | 2023-06-19 11:35:39 |

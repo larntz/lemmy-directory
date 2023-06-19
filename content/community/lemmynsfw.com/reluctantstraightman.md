@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/reluctantstraightman"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 12:56:41"
+published: "2023-06-13 12:33:31"
 subscribers: 49
 posts: 5
 comments: 6
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/reluctantstraightman on lemmynsfw.com
-
-[[home](/)]
-[[/c/reluctantstraightman 🌎](https://lemmynsfw.com/c/reluctantstraightman)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Erotic stories by u/reluctantstraightman<br><br>Links:<br><br> [Patreon](https://www.patreon.com/reluctantman)<br><br>[Substack](https://reluctantman.substack.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 5  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:33:31 |
-| Updated              | 2023-06-13 12:56:41 |
-| Last Scraped         | 2023-06-19 11:35:46 |

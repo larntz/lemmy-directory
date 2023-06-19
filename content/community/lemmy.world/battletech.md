@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battletech"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 18:37:17"
 subscribers: 78
 posts: 18
 comments: 68
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Battletech on lemmy.world
-
-[[home](/)]
-[[/c/battletech 🌎](https://lemmy.world/c/battletech)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A fan community for all things BattleTech, Mechwarrior, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 18  |
-| Comments             | 68  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 19  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 18:37:17 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:16 |

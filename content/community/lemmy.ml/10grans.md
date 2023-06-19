@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/10grans"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-18 22:47:58"
+published: "2021-02-18 22:41:52"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/10grans on lemmy.ml
-
-[[home](/)]
-[[/c/10grans 🌎](https://lemmy.ml/c/10grans)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The only currency that supplies Friendship, Finance, & Fun all at the same time.<br><br>https://10grans.cash/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-18 22:41:52 |
-| Updated              | 2021-02-18 22:47:58 |
-| Last Scraped         | 2023-06-19 11:36:44 |

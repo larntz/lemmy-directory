@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/childfree"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-29 12:10:24"
+published: "2022-04-29 11:56:49"
 subscribers: 57
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Childfree on lemmy.ml
-
-[[home](/)]
-[[/c/childfree 🌎](https://lemmy.ml/c/childfree)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Childfree** refers to those who do not have and do not ever want children (whether biological, adopted, or otherwise).<br><br>📖 [Voluntary childlessness](https://en.wikipedia.org/wiki/Voluntary_childlessness) (Wikipedia).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 57 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-29 11:56:49 |
-| Updated              | 2022-04-29 12:10:24 |
-| Last Scraped         | 2023-06-16 22:57:27 |

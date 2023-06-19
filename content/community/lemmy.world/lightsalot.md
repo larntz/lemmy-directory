@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lightsalot"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 02:43:55"
+published: "2023-06-10 02:14:08"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Lights on lemmy.world
-
-[[home](/)]
-[[/c/lightsalot 🌎](https://lemmy.world/c/lightsalot)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A Lemmy community for the musician Lights.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 02:14:08 |
-| Updated              | 2023-06-10 02:43:55 |
-| Last Scraped         | 2023-06-16 22:57:18 |

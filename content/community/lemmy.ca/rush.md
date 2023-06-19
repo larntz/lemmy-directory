@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rush"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 00:58:11"
+published: "2023-06-13 22:57:30"
 subscribers: 7
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Rush on lemmy.ca
-
-[[home](/)]
-[[/c/rush 🌎](https://lemmy.ca/c/rush)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-News & discussion about the Canadian Prog Rock band Rush
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 22:57:30 |
-| Updated              | 2023-06-14 00:58:11 |
-| Last Scraped         | 2023-06-19 11:35:36 |

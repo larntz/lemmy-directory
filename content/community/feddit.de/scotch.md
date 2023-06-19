@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/scotch"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 10:41:36"
+published: "2023-06-08 20:22:34"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Scotch on feddit.de
-
-[[home](/)]
-[[/c/scotch 🌎](https://feddit.de/c/scotch)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-a community for Scotch enthusiasts of all walks of life and of all levels of knowledge on anything Scotch Whisky related.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:22:34 |
-| Updated              | 2023-06-12 10:41:36 |
-| Last Scraped         | 2023-06-19 11:35:39 |

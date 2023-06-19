@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/progmetal"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:05:44"
+published: "2023-06-10 16:47:35"
 subscribers: 305
 posts: 45
 comments: 147
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Progressive Metal Music on sopuli.xyz
-
-[[home](/)]
-[[/c/progmetal 🌎](https://sopuli.xyz/c/progmetal)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for progressive metal music, please share some songs and bands you enjoy or discuss anything regarding the progmetal scene.<br><br>Prog rock also welcome to post here, but the main focus of the community should be progmetal.<br><br><br>Some other music communities: <br>https://beehaw.org/post/516009<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 305 |
-| Posts                | 45  |
-| Comments             | 147  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 37  |
-| Monthly Active Users | 37  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 16:47:35 |
-| Updated              | 2023-06-13 19:05:44 |
-| Last Scraped         | 2023-06-19 11:35:32 |

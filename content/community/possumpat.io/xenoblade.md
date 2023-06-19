@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/xenoblade"
 host: possumpat.io
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 20:00:32"
+published: "2023-06-08 22:13:47"
 subscribers: 35
 posts: 7
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "possumpat_io"
 
 ---
-
-# /c/Xenoblade Chronicles on possumpat.io
-
-[[home](/)]
-[[/c/xenoblade 🌎](https://possumpat.io/c/xenoblade)]
-[[possumpat.io](/instances/possumpat_io)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for the Xenoblade Chronicles series of RPG games. Xenogears and Xenosaga discussion welcome too!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 7  |
-| Comments             | 23  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 22:13:47 |
-| Updated              | 2023-06-10 20:00:32 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/geography"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 22:35:58"
+published: "2023-03-15 00:55:05"
 subscribers: 146
 posts: 43
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Geography on mander.xyz
-
-[[home](/)]
-[[/c/geography 🌎](https://mander.xyz/c/geography)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-# Welcome to c/Geography @ Mander.xyz!<br><br>---<br><br>>*Geography is just physics slowed down, with a couple of trees stuck in it.* - Terry Pratchett<br><br>![](https://64.media.tumblr.com/fb28164593ea0c208462835127e7584d/tumblr_naa2xgsUfi1rbqpjlo1_1280.jpg)<br><br>---<br>---<br><br>**Notice Board**<br><br>- 2023-06-13: We are looking for [mods](https://mander.xyz/post/690066). Send a dm to [@fossilesque@mander.xyz](https://mander.xyz/u/fossilesque) if interested! This is a work in progress, please don't mind the mess.<br><br>---<br>---<br><br>>Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth’s surface and the human societies spread across it. They also examine how human culture interacts with the natural environment and the way that locations and places can have an impact on people. Geography seeks to understand where things are found, why they are there, and how they develop and change over time. [Read more...](https://www.nationalgeographic.org/education/what-is-geography/)<br><br>**Rules**<br><br>1. Don't throw mud. Be kind and remember the human.<br>2. Keep it rooted (on topic).<br>3. No spam.<br><br>---<br>---<br><br>**Quick Links**<br>- [What is geography?](https://www.nationalgeographic.org/education/what-is-geography/)<br>- [What is climate change and how do we know it is real?](https://climate.nasa.gov/evidence/)<br>- [What can you do about climate change?](https://www.imperial.ac.uk/stories/climate-action/)<br><br>-![](https://64.media.tumblr.com/fa1688e8d0138685b24fff81e26106bc/tumblr_naa3s0f87N1rbqpjlo1_400.jpg)<br><br>**Links**<br><br>*News & Publications*<br>- [Eos.org](https://eos.org/)<br><br>*Resources*<br>- [List of Professional Organisations](https://researchguides.uvm.edu/c.php?g=290190&p=1934335)<br>- [List](https://docs.google.com/document/d/1eSqTw6SE-lbZnPKWK5m6jGrXp_mkpGjLVsH6mgxSiWE/edit) of personal actions and resources you can use to help combat climate change.<br>- [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)<br><br>![](https://64.media.tumblr.com/83eeb14d018e22d6f0d304e63a9c1947/tumblr_naa42prrlo1rbqpjlo1_400.jpg)<br><br>---<br><br>**Similar Communities**<br><br>- [!geology@lemmy.ca](https://lemmy.ca/c/geology) <br>- [!geophysics@lemmy.ca](https://lemmy.ca/c/geophysics)  <br>- [!geologycareers@lemmy.ca](https://lemmy.ca/c/geologycareers) <br>- [!mining@lemmy.ca](https://lemmy.ca/c/mining) <br>- [!openscience@lemmy.ml](https://lemmy.ml/c/openscience) <br><br>**Sister Communities**<br><br>- [!anthropology@mander.xyz](/c/anthropology@mander.xyz)<br>- [!archaeology@mander.xyz](/c/archaeology@mander.xyz) <br>- [!biodiversity@mander.xyz](/c/biodiversity@mander.xyz) <br>- [!earthscience@mander.xyz](/c/earthscience@mander.xyz)<br>- [!folklore@mander.xyz](/c/folklore@mander.xyz) <br>- [!gender@feddit.uk](/c/gender@feddit.uk)<br>- [!geography@mander.xyz](/c/geography@mander.xyz)  <br>- [!geospatial@mander.xyz](/c/geospatial@mander.xyz) <br>- [!houseplants@mander.xyz](/c/houseplants@mander.xyz) <br>- [!old_maps@mander.xyz](/c/old_maps@mander.xyz)<br>- [!palaeoecology@mander.xyz](/c/palaeoecology@mander.xyz)<br>- [!plantid@mander.xyz](/c/plantid@mander.xyz) <br>- [!scicomm@mander.xyz](/c/scicomm@mander.xyz) <br><br>**Find us on Reddit!**<br>- [r/biogeography](https://www.reddit.com/r/biogeography/)<br>- [r/physicalgeography](https://www.reddit.com/r/physicalgeography/)<br><br>![](https://64.media.tumblr.com/d445eadd31549a61f7c2ec007a8982bc/tumblr_naa405uQcu1rbqpjlo1_400.jpg)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 146 |
-| Posts                | 43  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-15 00:55:05 |
-| Updated              | 2023-06-18 22:35:58 |
-| Last Scraped         | 2023-06-19 11:35:29 |

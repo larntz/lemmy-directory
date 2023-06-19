@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/politics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-31 19:11:31"
+published: "2020-02-01 19:20:22"
 subscribers: 3353
 posts: 1482
 comments: 1831
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Politics on lemmy.ml
-
-[[home](/)]
-[[/c/politics 🌎](https://lemmy.ml/c/politics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss world politics here. <br><br># Rules<br><br>* Be civil and respectful<br><br>* No NSFW content<br><br>* No blatantly fake news or unfounded conspiracy theories<br><br>* No heavily sensationalized articles<br><br>Community icon by [Webalys](https://www.iconfinder.com/webalys), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3353 |
-| Posts                | 1482  |
-| Comments             | 1831  |
-| Daily Active Users   | 11  |
-| Weekly Active Users  | 84  |
-| Monthly Active Users | 168  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-01 19:20:22 |
-| Updated              | 2021-05-31 19:11:31 |
-| Last Scraped         | 2023-06-19 11:37:02 |

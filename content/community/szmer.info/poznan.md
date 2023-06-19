@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/poznan"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-19 15:14:08"
+published: "2020-10-23 08:41:29"
 subscribers: 39
 posts: 72
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Poznań on szmer.info
-
-[[home](/)]
-[[/c/poznan 🌎](https://szmer.info/c/poznan)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 72  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-23 08:41:29 |
-| Updated              | 2021-03-19 15:14:08 |
-| Last Scraped         | 2023-06-19 11:35:33 |

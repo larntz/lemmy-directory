@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/muscle_chub_emporium"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 01:31:09"
+published: "2023-06-17 00:37:13"
 subscribers: 11
 posts: 5
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Muscle Chub Emporium on lemmynsfw.com
-
-[[home](/)]
-[[/c/muscle_chub_emporium 🌎](https://lemmynsfw.com/c/muscle_chub_emporium)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Thugs, Mugs, and Gashouse Gorillas!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 00:37:13 |
-| Updated              | 2023-06-18 01:31:09 |
-| Last Scraped         | 2023-06-19 11:35:45 |

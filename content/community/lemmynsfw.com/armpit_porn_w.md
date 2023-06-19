@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/armpit_porn_w"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:05:42"
+published: "2023-06-11 10:48:55"
 subscribers: 72
 posts: 5
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Armpit Porn on lemmynsfw.com
-
-[[home](/)]
-[[/c/armpit_porn_w 🌎](https://lemmynsfw.com/c/armpit_porn_w)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Welcome to armpit porn! <br>- Tag all posts as NSFW<br>- Obviously no minors or noncons<br>- Try not to repost<br>- Only womens armpits (trying to diversify the communities here so maybe someone makes one for dudes)<br>- Be civil, please.<br><br>I have next to no experience running things so if anyone wants to mod let me know :) <br><br>Enjoy!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 72 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 10:48:55 |
-| Updated              | 2023-06-12 14:05:42 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/loop"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 15:47:17"
+published: "2023-06-03 14:54:51"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Microsoft Loop on lemmy.ml
-
-[[home](/)]
-[[/c/loop 🌎](https://lemmy.ml/c/loop)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for all things relating to Microsoft Loop.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 14:54:51 |
-| Updated              | 2023-06-03 15:47:17 |
-| Last Scraped         | 2023-06-19 11:36:44 |

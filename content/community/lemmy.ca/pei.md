@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pei"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 00:58:00"
+published: "2023-06-09 00:46:53"
 subscribers: 16
 posts: 7
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Prince Edward Island on lemmy.ca
-
-[[home](/)]
-[[/c/pei 🌎](https://lemmy.ca/c/pei)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Just a small place for residents of Prince Edward Island to talk about the news and issues facing our province, share photos, suggest places to eat and anything else PEI related you'd like to post
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 7  |
-| Comments             | 12  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 00:46:53 |
-| Updated              | 2023-06-09 00:58:00 |
-| Last Scraped         | 2023-06-19 11:35:36 |

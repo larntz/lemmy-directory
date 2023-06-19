@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wii"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-16 02:51:33"
+published: "2021-12-14 10:13:39"
 subscribers: 17
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Wii on lemmy.ml
-
-[[home](/)]
-[[/c/wii 🌎](https://lemmy.ml/c/wii)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A sublemmy dedicated to all things Wii. Share your favorite mods, how to videos or just ask for help. Its all welcome here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 10:13:39 |
-| Updated              | 2021-12-16 02:51:33 |
-| Last Scraped         | 2023-06-19 11:36:58 |

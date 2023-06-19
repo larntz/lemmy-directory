@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/victorian_era"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 03:46:20"
+published: "2023-06-10 19:45:27"
 subscribers: 13
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Victorian Era on lemmy.world
-
-[[home](/)]
-[[/c/victorian_era 🌎](https://lemmy.world/c/victorian_era)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-WIP.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:45:27 |
-| Updated              | 2023-06-14 03:46:20 |
-| Last Scraped         | 2023-06-19 11:36:41 |

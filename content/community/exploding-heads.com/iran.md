@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/iran"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-02 18:38:55"
+published: "2022-06-09 17:49:29"
 subscribers: 5
 posts: 24
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Iran on exploding-heads.com
-
-[[home](/)]
-[[/c/iran 🌎](https://exploding-heads.com/c/iran)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 24  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-09 17:49:29 |
-| Updated              | 2022-07-02 18:38:55 |
-| Last Scraped         | 2023-06-19 11:35:38 |

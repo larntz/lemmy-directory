@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/sandbox"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:30:56"
+published: "2023-06-12 19:01:27"
 subscribers: 3
 posts: 2
 comments: 35
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Sandbox on mtgzone.com
-
-[[home](/)]
-[[/c/sandbox 🌎](https://mtgzone.com/c/sandbox)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Internal site testing and development
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 35  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:01:27 |
-| Updated              | 2023-06-14 18:30:56 |
-| Last Scraped         | 2023-06-19 11:35:14 |

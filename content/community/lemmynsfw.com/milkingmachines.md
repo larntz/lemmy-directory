@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/milkingmachines"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:03:43"
+published: "2023-06-14 19:40:19"
 subscribers: 40
 posts: 1
 comments: 3
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Sex Machine Chat on lemmynsfw.com
-
-[[home](/)]
-[[/c/milkingmachines 🌎](https://lemmynsfw.com/c/milkingmachines)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Inclusive space primarily for discussion of penis milking machines such as Venus, Tremblr, Nimblestroker, Seriouskit, etc, as well as fucking machines and estim.<br><br>Basically, if it's an inanimate object that gets you off we like to talk about it here.<br><br>-General Discussion<br><br>-Reviews<br><br>-Photos and Videos of Machines in use
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 40 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:40:19 |
-| Updated              | 2023-06-14 22:03:43 |
-| Last Scraped         | 2023-06-16 22:56:41 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeserver"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-13 11:44:06"
+published: "2022-01-13 11:03:58"
 subscribers: 134
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Home Server on lemmy.ml
-
-[[home](/)]
-[[/c/homeserver 🌎](https://lemmy.ml/c/homeserver)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community based around the building, set up, and use of home servers for a variety of purposes. All discussion is welcome!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-13 11:03:58 |
-| Updated              | 2022-01-13 11:44:06 |
-| Last Scraped         | 2023-06-19 11:36:45 |

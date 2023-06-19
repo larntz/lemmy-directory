@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-23 20:19:07"
+published: "2019-10-21 03:09:21"
 subscribers: 684
 posts: 37
 comments: 45
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Pics on lemmy.ml
-
-[[home](/)]
-[[/c/pics 🌎](https://lemmy.ml/c/pics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share pictures  <br><br># Rules  <br>#### 1. Images only (obviously).  <br>But meta posts without images are allowed.  <br>#### 2. Pictures only  <br>This community is for pictures. Merriam-Webster defines a picture as “a painting, drawing, or photograph of someone or something.” However, this community will extend this definition. Digital forms such as 3D render are allowed. Abstract art forms that do not represent anything are also allowed.  <br>#### 3. No distracting superimposed text or emoji  <br>Generally, you should be able to appreciate a post without being able to read.  <br>#### 4. No low quality MS paint-esque drawings  <br>#### 5. Remember to follow lemmy.ml sitewide rules  <br>You can find them on the sidebar of the homepage<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 684 |
-| Posts                | 37  |
-| Comments             | 45  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-10-21 03:09:21 |
-| Updated              | 2022-02-23 20:19:07 |
-| Last Scraped         | 2023-06-19 11:36:54 |

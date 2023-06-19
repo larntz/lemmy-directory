@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/silverhawks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 03:42:26"
+published: "2023-06-08 19:34:07"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Silverhawks on lemmy.ml
-
-[[home](/)]
-[[/c/silverhawks 🌎](https://lemmy.ml/c/silverhawks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Wings of Silver, nerves of steel. Partly metal, partly real. A sublemmy for all things Silverhawks related.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 19:34:07 |
-| Updated              | 2023-06-11 03:42:26 |
-| Last Scraped         | 2023-06-19 11:36:56 |

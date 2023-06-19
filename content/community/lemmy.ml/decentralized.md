@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/decentralized"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-28 16:37:53"
+published: "2020-06-29 04:34:00"
 subscribers: 1538
 posts: 59
 comments: 133
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/decentralized on lemmy.ml
-
-[[home](/)]
-[[/c/decentralized 🌎](https://lemmy.ml/c/decentralized)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for the discussion and news about the decentralized web, software, privacy, and related topics. <br><br>Rules: be a good human being
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1538 |
-| Posts                | 59  |
-| Comments             | 133  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-29 04:34:00 |
-| Updated              | 2021-01-28 16:37:53 |
-| Last Scraped         | 2023-06-19 11:36:56 |

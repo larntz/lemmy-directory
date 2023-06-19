@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/natalieportman"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 00:36:31"
 subscribers: 22
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Natalie Portman on lemmynsfw.com
-
-[[home](/)]
-[[/c/natalieportman 🌎](https://lemmynsfw.com/c/natalieportman)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Natalie Portman's pictures, gifs, and videos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 00:36:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:45 |

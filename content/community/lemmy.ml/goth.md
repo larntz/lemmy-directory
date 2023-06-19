@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goth"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-10-21 04:55:08"
+published: "2020-10-21 04:53:25"
 subscribers: 35
 posts: 21
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/𝕲𝖔𝖙𝖍 on lemmy.ml
-
-[[home](/)]
-[[/c/goth 🌎](https://lemmy.ml/c/goth)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-this is *very* broad umbrella goth community until we get enough content / subscribers to justify split, so <br><br>* tradgoth fashion, proper original 80s goth music<br>* goth adjacent music genres<br>* goth adjacent fashion/culture<br>* general macabre stuff <br><br>*on top of the normal instance rules:*<br><br>please make sure you add a NSFW marking for anything gorey (though Gorey is still fine :) ) <br><br>please make sure links to material dealing with e.g. self-harm have appropriate content warnings<br><br>please be nice to each other. if you think something's stupid/bad, just downvote it and move on. if you think something doesn't belong in this community, messaage it to the community mods who will do any gatekeeping necessary. **this means you should not be showing up in the comments to tell someone their post is not real goth.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 21  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-21 04:53:25 |
-| Updated              | 2020-10-21 04:55:08 |
-| Last Scraped         | 2023-06-19 11:36:43 |

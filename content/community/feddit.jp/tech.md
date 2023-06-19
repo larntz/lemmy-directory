@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/tech"
 host: feddit.jp
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 16:04:46"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_jp"
 
 ---
-
-# /c/技術系 on feddit.jp
-
-[[home](/)]
-[[/c/tech 🌎](https://feddit.jp/c/tech)]
-[[feddit.jp](/instances/feddit_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-技術関連
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:04:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

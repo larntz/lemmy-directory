@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmypets.xyz/c/lemmypets_xyz"
 host: lemmypets.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 14:17:55"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmypets_xyz"
 
 ---
-
-# /c/Lemmypets.xyz on lemmypets.xyz
-
-[[home](/)]
-[[/c/lemmypets_xyz 🌎](https://lemmypets.xyz/c/lemmypets_xyz)]
-[[lemmypets.xyz](/instances/lemmypets_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:17:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

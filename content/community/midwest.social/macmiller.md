@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/macmiller"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 18:11:38"
+published: "2023-06-10 01:37:46"
 subscribers: 1
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Mac Miller on midwest.social
-
-[[home](/)]
-[[/c/macmiller 🌎](https://midwest.social/c/macmiller)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-**Welcome to the Mac Miller Community at macmiller@midwest.social!**<br><br>🎵 Welcome, Mac Miller fans and enthusiasts! We're thrilled to have you join our Lemmy community dedicated to celebrating the life, music, and legacy of the incredible artist, Mac Miller. Here, we come together to share our love for his music, discuss his impact on the industry, and connect with like-minded individuals who appreciate his artistry.<br><br>To ensure that this community remains a positive and respectful space for everyone, we have a few guidelines and community rules that we kindly ask you to follow:<br><br>1. **Be Respectful**: Treat fellow community members with kindness, respect, and empathy. We value diversity and inclusivity, so let's create an environment where everyone feels welcome and can freely express their thoughts.<br><br>2. **Keep it Relevant**: This community is centered around Mac Miller and his music. Please keep discussions, posts, and comments focused on Mac Miller-related topics, including his albums, songs, lyrics, and creative contributions.<br><br>3. **No Hate Speech or Harassment**: We have a zero-tolerance policy for hate speech, harassment, or any form of disrespectful behavior. Be mindful of your words and actions, and refrain from engaging in personal attacks or spreading negativity. Please keep in mind midwest.social is federated to over 100 other instances, and we would like to keep it that way! Anything you post or comment on here may result in this community being banned elsewhere.<br><br>4. **Avoid Spam and Self-Promotion**: While we encourage sharing and discovering Mac Miller-related content, please avoid excessive self-promotion or spamming the community. Let's maintain a healthy balance and prioritize meaningful discussions.<br><br>5. **Respect Copyright**: When sharing content, including music, videos, or artwork, please ensure that you have the necessary rights or permissions. Respect the intellectual property of others and give credit where it's due.<br><br>6. **Report Inappropriate Content**: If you come across any content that violates our community guidelines or feels inappropriate, please report it to the moderators. We rely on our community members to help us maintain a positive and safe environment.<br><br>Remember, this community thrives when we all contribute and engage respectfully. Feel free to share your favorite Mac Miller tracks, albums, lyrics, fan art, and personal stories. Let's foster a sense of camaraderie as we honor the extraordinary talent that Mac Miller brought to the world.<br><br>Thank you for joining the Mac Miller Community at macmiller@midwest.social! We look forward to your active participation and building an amazing community together. If you have any questions or concerns, don't hesitate to reach out to our friendly moderators.<br><br>Stay inspired, stay connected, and let the music of Mac Miller continue to resonate in our hearts!<br><br>🔊🎶🌟
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:37:46 |
-| Updated              | 2023-06-17 18:11:38 |
-| Last Scraped         | 2023-06-19 11:35:29 |

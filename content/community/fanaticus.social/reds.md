@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/reds"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:36:34"
+published: "2023-06-09 17:17:29"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Reds on fanaticus.social
-
-[[home](/)]
-[[/c/reds 🌎](https://fanaticus.social/c/reds)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [r/Reds](https://old.reddit.com/r/Reds)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:17:29 |
-| Updated              | 2023-06-12 16:36:34 |
-| Last Scraped         | 2023-06-19 11:35:15 |

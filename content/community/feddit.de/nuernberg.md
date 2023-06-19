@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nuernberg"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:12:00"
+published: "2023-06-12 11:07:16"
 subscribers: 11
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Nürnberg on feddit.de
-
-[[home](/)]
-[[/c/nuernberg 🌎](https://feddit.de/c/nuernberg)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Die Lemmy-Community für Nürnberg.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 11:07:16 |
-| Updated              | 2023-06-12 11:12:00 |
-| Last Scraped         | 2023-06-19 11:35:39 |

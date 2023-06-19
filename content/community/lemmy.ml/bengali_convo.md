@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bengali_convo"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-19 11:16:48"
+published: "2023-04-30 07:23:06"
 subscribers: 11
 posts: 10
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/বাংলায় আলাপ আলোচনা আড্ডা on lemmy.ml
-
-[[home](/)]
-[[/c/bengali_convo 🌎](https://lemmy.ml/c/bengali_convo)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-ফেডিভারসে বাংলায় আলাপচারিতা কথোপকথন, গল্প, আড্ডার গ্রুপ। যে কেউ যোগ দিতে পারেন। 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 10  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-30 07:23:06 |
-| Updated              | 2023-05-19 11:16:48 |
-| Last Scraped         | 2023-06-19 11:36:45 |

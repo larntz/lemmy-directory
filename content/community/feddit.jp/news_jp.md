@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/news_jp"
 host: feddit.jp
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 03:37:11"
+published: "2023-06-11 15:27:27"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_jp"
 
 ---
-
-# /c/日本のニュース on feddit.jp
-
-[[home](/)]
-[[/c/news_jp 🌎](https://feddit.jp/c/news_jp)]
-[[feddit.jp](/instances/feddit_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-日本の最新ニュース  <br>政治・宗教関連は論争のもとになるので控えてください
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:27:27 |
-| Updated              | 2023-06-19 03:37:11 |
-| Last Scraped         | 2023-06-19 11:35:18 |

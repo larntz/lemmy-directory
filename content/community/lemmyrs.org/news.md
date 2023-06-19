@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/news"
 host: lemmyrs.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:33:27"
+published: "2023-06-07 18:10:40"
 subscribers: 101
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyrs_org"
 
 ---
-
-# /c/Rust: News on lemmyrs.org
-
-[[home](/)]
-[[/c/news 🌎](https://lemmyrs.org/c/news)]
-[[lemmyrs.org](/instances/lemmyrs_org)]
-
-
-## Description 
-
-<blockquote class="description">
-# Rules [Developing]<br><br>- Keep it relevant to news and latest developments largely related to Rust and its ecosystem.<br><br>- Showing off new crates is OK
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 101 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 18:10:40 |
-| Updated              | 2023-06-15 04:33:27 |
-| Last Scraped         | 2023-06-19 11:35:01 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/feddit_jp"
 host: feddit.jp
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 23:31:10"
+published: "2023-06-11 15:24:36"
 subscribers: 2
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_jp"
 
 ---
-
-# /c/feddit.jp on feddit.jp
-
-[[home](/)]
-[[/c/feddit_jp 🌎](https://feddit.jp/c/feddit_jp)]
-[[feddit.jp](/instances/feddit_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-feddit.jpの更新情報や要望などはここで
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:24:36 |
-| Updated              | 2023-06-12 23:31:10 |
-| Last Scraped         | 2023-06-19 11:35:18 |

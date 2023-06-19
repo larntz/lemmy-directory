@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mullvad"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-14 10:11:38"
+published: "2021-12-14 08:57:33"
 subscribers: 47
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Mullvad VPN on lemmy.ml
-
-[[home](/)]
-[[/c/mullvad 🌎](https://lemmy.ml/c/mullvad)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 08:57:33 |
-| Updated              | 2021-12-14 10:11:38 |
-| Last Scraped         | 2023-06-19 11:36:46 |

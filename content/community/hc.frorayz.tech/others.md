@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://hc.frorayz.tech/c/others"
 host: hc.frorayz.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:10:19"
+published: "2023-06-09 07:18:15"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "hc_frorayz_tech"
 
 ---
-
-# /c/Others on hc.frorayz.tech
-
-[[home](/)]
-[[/c/others 🌎](https://hc.frorayz.tech/c/others)]
-[[hc.frorayz.tech](/instances/hc_frorayz_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Post here anything fun or exciting 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 07:18:15 |
-| Updated              | 2023-06-13 03:10:19 |
-| Last Scraped         | 2023-06-19 11:35:12 |

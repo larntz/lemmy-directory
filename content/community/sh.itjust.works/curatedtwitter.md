@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/curatedtwitter"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:49:33"
+published: "2023-06-12 15:04:31"
 subscribers: 30
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Curated Twitter on sh.itjust.works
-
-[[home](/)]
-[[/c/curatedtwitter 🌎](https://sh.itjust.works/c/curatedtwitter)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-For preserving the least toxic and most culturally relevant Twitter heritage posts.<br><br>Image descriptions and plain text captions of written content are expected of all screenshots. Here are some image text extractors (I looked these up quick and will gladly take FOSS recommendations):<br><br>-[web](https://brandfolder.com/workbench/extract-text-from-image)<br><br>-[iOS](https://apps.apple.com/us/app/text-capture-image-to-text/id1457115603)<br><br>-[android](https://play.google.com/store/search?q=textfairy&c=apps&hl=en_US&gl=US)<br><br>I made the icon using multiple creative commons svg resources, the banner is [this](https://unsplash.com/s/photos/old-books). 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:04:31 |
-| Updated              | 2023-06-12 15:49:33 |
-| Last Scraped         | 2023-06-19 11:35:05 |

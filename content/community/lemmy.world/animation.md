@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animation"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:41:53"
+published: "2023-06-12 15:22:37"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Animation on lemmy.world
-
-[[home](/)]
-[[/c/animation 🌎](https://lemmy.world/c/animation)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Where Imagination Comes to Life with Color, Motion, and Endless Possibilities<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:22:37 |
-| Updated              | 2023-06-16 11:41:53 |
-| Last Scraped         | 2023-06-19 11:36:40 |

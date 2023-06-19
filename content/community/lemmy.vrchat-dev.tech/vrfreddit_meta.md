@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.vrchat-dev.tech/c/vrfreddit_meta"
 host: lemmy.vrchat-dev.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:47:07"
+published: "2023-06-12 21:43:27"
 subscribers: 2
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_vrchat-dev_tech"
 
 ---
-
-# /c/VR Freddit Meta on lemmy.vrchat-dev.tech
-
-[[home](/)]
-[[/c/vrfreddit_meta 🌎](https://lemmy.vrchat-dev.tech/c/vrfreddit_meta)]
-[[lemmy.vrchat-dev.tech](/instances/lemmy_vrchat-dev_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion regarding the VR Freddit instance itself
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:43:27 |
-| Updated              | 2023-06-12 21:47:07 |
-| Last Scraped         | 2023-06-19 11:34:58 |

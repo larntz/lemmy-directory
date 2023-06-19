@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/schildichat"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-30 12:51:45"
+published: "2021-04-30 01:56:58"
 subscribers: 22
 posts: 7
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SchildiChat  on lemmy.ml
-
-[[home](/)]
-[[/c/schildichat 🌎](https://lemmy.ml/c/schildichat)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Unofficial community**<br><br>SchildiChat is a Matrix client based on Element with a more traditional instant messaging experience.<br>- [GitHub](https://github.com/SchildiChat/)<br>- [Website](https://schildi.chat)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 7  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-30 01:56:58 |
-| Updated              | 2021-04-30 12:51:45 |
-| Last Scraped         | 2023-06-19 11:36:54 |

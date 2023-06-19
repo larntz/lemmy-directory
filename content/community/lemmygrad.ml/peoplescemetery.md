@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/peoplescemetery"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-14 10:22:47"
+published: "2023-03-14 10:17:21"
 subscribers: 10
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/People's Revolutionary Cemetery on lemmygrad.ml
-
-[[home](/)]
-[[/c/peoplescemetery 🌎](https://lemmygrad.ml/c/peoplescemetery)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A virtual space where one can mourn and pay respect to the fallen and deceased comrades that have helped built the Marxist struggle, movement and thought.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-14 10:17:21 |
-| Updated              | 2023-03-14 10:22:47 |
-| Last Scraped         | 2023-06-19 11:35:09 |

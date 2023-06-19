@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/sweetrobin"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 05:29:04"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Sweetrobin on infosec.pub
-
-[[home](/)]
-[[/c/sweetrobin 🌎](https://infosec.pub/c/sweetrobin)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things Preston Jacobs, but primarily Sweetrobin's The Winds of Winter Fan Fiction Project.<br><br>Unofficial Discord Server for the project, unaffiliated with the mods here: https://discord.gg/gKwhHPwkKb<br><br>If that link expires, please message the mods. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 05:29:04 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:53 |

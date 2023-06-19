@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemthony.com/c/lemthony"
 host: lemthony.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 15:47:13"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemthony_com"
 
 ---
-
-# /c/lemthony on lemthony.com
-
-[[home](/)]
-[[/c/lemthony 🌎](https://lemthony.com/c/lemthony)]
-[[lemthony.com](/instances/lemthony_com)]
-
-
-## Description 
-
-<blockquote class="description">
-### lemthony stands for lemmy<br><br>No one will see this so I don't have to write anything, but I am because why not?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 15:47:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:31 |

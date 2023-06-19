@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/discordapp"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:26:13"
+published: "2023-06-16 01:14:03"
 subscribers: 24
 posts: 6
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Discord on lemmy.world
-
-[[home](/)]
-[[/c/discordapp 🌎](https://lemmy.world/c/discordapp)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discord is a voice, video, and text communication service to talk and hang out with your friends and communities.<br><br>[Discord client](https://discord.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 01:14:03 |
-| Updated              | 2023-06-16 01:26:13 |
-| Last Scraped         | 2023-06-19 11:36:36 |

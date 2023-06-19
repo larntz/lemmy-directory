@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/bngmods"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 00:14:16"
+published: "2023-06-14 00:01:56"
 subscribers: 26
 posts: 21
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/bngmods.com on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/bngmods 🌎](https://lemmy.dbzer0.com/c/bngmods)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**This is for the site BNGMODS.com A Beamng Drive Mods site**<br><br>When posting mods **do not** use, Modsfire/Sharemods<br><br>Onedrive, GoogleDrive/MediaFire, ETC<br>are allowed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 21  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:01:56 |
-| Updated              | 2023-06-14 00:14:16 |
-| Last Scraped         | 2023-06-19 11:35:16 |

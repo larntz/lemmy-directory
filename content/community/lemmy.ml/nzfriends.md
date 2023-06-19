@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nzfriends"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-02 20:03:53"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/NZ Friends on lemmy.ml
-
-[[home](/)]
-[[/c/nzfriends 🌎](https://lemmy.ml/c/nzfriends)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to NZ Friends, a community for making friends with New Zealanders! <br><br>Community Rules:<br><br>1. No Discrimination or Hate Speech.<br><br>All forms of Xenophobia, Homophobia, Transphobia and other forms of discriminations will be dealt with by mods. Let's be supportive of everyone here no matter where they come from or what views they have.<br><br>2. No NSFW Content is to be posted.<br><br>No sharing of any pornography or explicitly R18+ content is to be shared here in forms of Media or Links. If you wouldn't send it to your mum then don't send it here.<br><br>3. No Political Arguments in Posts/Comments.<br><br>This isn't Christmas Dinner with your aunties and uncles. Cmon lets all just get along peacefully shall we.<br><br>4. Keep it Civil.<br><br>Be nice, Don't try to upset others by being a cuck.<br><br>Conclusion:<br><br>Feel free to make a post here if you haven't introduced yourself yet. Also if you haven't checked out our Discord yet, make sure to join as it's really active compared to our Reddit/Lemmy communities --> https://discord.gg/nzfriends
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 20:03:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:58 |

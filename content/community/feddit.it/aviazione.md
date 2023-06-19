@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/aviazione"
 host: feddit.it
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-10 08:07:32"
+published: "2022-05-29 10:40:21"
 subscribers: 22
 posts: 14
 comments: 28
@@ -22,36 +23,3 @@ tags:
 - "feddit_it"
 
 ---
-
-# /c/Tra le nuvole on feddit.it
-
-[[home](/)]
-[[/c/aviazione 🌎](https://feddit.it/c/aviazione)]
-[[feddit.it](/instances/feddit_it)]
-
-
-## Description 
-
-<blockquote class="description">
-Ecco un posto dove possiamo andare sia metaforicamente che fisicamente con la testa fra le nuvole.<br><br>Sono benvenuti tutti gli interventi inerenti all'aviazione:<br>- Consigli, recensioni o considerazioni su film e libri a tema volo<br>- Condivisione di modellini<br>- Racconto di ricordi, aneddoti o esperienze di volo<br>- Videogiochi e simulazioni di volo<br><br>L'industria aeronautica italiana è stata fiorente anche in uno dei periodi più bui della nostra storia, ovvero l'epoca fascista. In caso di condivisione di materiale relativo a quel periodo occorre puntualizzare la contestualizzazione storica e non esaltare in alcun modo il regime.<br><br>Questo vuole essere un luogo dove si celebra il piacere del volo e dove si condividono in maniera squisitamente tecnica la progettazione di queste macchine volanti, anche se il fine fosse quello bellico. Si invitano quindi tutti gli utenti a concentrarsi su questo spirito, possibilmente senza inneggiare gli impieghi armati.<br><br>Per capire come funziona la piattaforma potete affidarvi all'esauriente [Guida all’utilizzo di Feddit](https://feddit.it/post/6)<br><br>Buon volo!<br><br>---<br>**Icona**: Un fotogramma tratto da *The Great Waldo Pepper* (1975) in Italia conosciuto come *Il temerario*. <br><br>**Copertina**: Le Frecce Tricolori in formazione.<br><br>---
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 14  |
-| Comments             | 28  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-29 10:40:21 |
-| Updated              | 2022-07-10 08:07:32 |
-| Last Scraped         | 2023-06-19 11:34:54 |

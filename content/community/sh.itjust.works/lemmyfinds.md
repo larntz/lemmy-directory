@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/lemmyfinds"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 15:05:08"
 subscribers: 35
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Communities Worth Following on sh.itjust.works
-
-[[home](/)]
-[[/c/lemmyfinds 🌎](https://sh.itjust.works/c/lemmyfinds)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a place for sharing and discussing interesting communities and resources you find across the fediverse. You can post them here no matter how niche they are, if you find them interesting.<br><br>- Be descriptive. What is the community about?<br>- Explain why you find it interesting, if applicable<br>- No NSFW posts please<br>- Remember: all local rules apply
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:05:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

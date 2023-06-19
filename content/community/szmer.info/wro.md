@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wro"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-30 07:16:03"
 subscribers: 61
 posts: 120
 comments: 60
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/wro on szmer.info
-
-[[home](/)]
-[[/c/wro 🌎](https://szmer.info/c/wro)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-życie wrocławia
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 120  |
-| Comments             | 60  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-30 07:16:03 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:32 |

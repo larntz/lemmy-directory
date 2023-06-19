@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dreamlightvalley"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:31:16"
+published: "2023-06-10 01:25:13"
 subscribers: 32
 posts: 24
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dreamlight Valley on lemmy.world
-
-[[home](/)]
-[[/c/dreamlightvalley 🌎](https://lemmy.world/c/dreamlightvalley)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Dedicated to the discussion of Dreamlight Valley, a Gameloft game.<br><br>#### Sister Communities<br>* [DDV on blahaj.zone](https://lemmy.world/c/dreamlightvalley@lemmy.blahaj.zone), feel free to crosspost!<br><br>## Rules<br>1. **Be excellent to each other**:  Users are expected to comport themselves in a civil manner when participating in discussions.<br>2. **Keep it relevant:** Posts must be related to Disney Dreamlight Valley.<br>3. **Keep it SFW**: SWF stands for Safe for Work. <br>4. **Hide spoilers**: Use the spoiler tag for spoilers on newly released content. After two weeks post-release content is no longer considered new.<br><br>## Guides &amp; Tips<br>* [General Tips and Tricks](https://lemmy.world/post/35167)<br>* [Basic Money Making Guide](https://lemmy.world/post/36339)<br>* [Complete Critters Guide](https://lemmy.world/post/36411)<br>* [Sleeping and Restaurant Schedules](https://lemmy.world/post/36415)<br>* [Growing the Dreamlight Tree](https://lemmy.world/post/36444)<br><br>## Downloadable Help<br>* [Dreamlight Valley Guide by AJL (Android)](https://play.google.com/store/apps/details?id=ajlake.dreamlight_valley_guide&amp;pli=1)<br>* [Lady Jane](https://www.reddit.com/user/LadyAerlynn)'s [guide compilation (PDF)](https://drive.google.com/file/d/1NcO_7insNNsumt_c2QIKHs_II93W5RHK/view) *(Updated 6/7/23)*<br><br>## Information<br>* [Promotional Codes List](https://lemmy.world/post/36606) *(Updated 6/7/23)*<br>* [Appetizers](https://lemmy.world/post/64703), [Entrées](https://lemmy.world/post/64779), [Desserts](https://lemmy.world/post/64866)<br>* [Farming, Foraging, Fishing](https://lemmy.world/post/36735)<br>* [Crop Profitability Graph](https://lemmy.world/post/52394)<br>* [Hairstyles Checklist](https://lemmy.world/post/36715)<br>* [House Skins List](https://lemmy.world/post/36713)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 24  |
-| Comments             | 27  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:25:13 |
-| Updated              | 2023-06-15 20:31:16 |
-| Last Scraped         | 2023-06-19 11:36:41 |

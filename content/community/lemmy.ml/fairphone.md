@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fairphone"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-14 18:11:57"
+published: "2021-09-14 18:11:49"
 subscribers: 110
 posts: 8
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Fairphone on lemmy.ml
-
-[[home](/)]
-[[/c/fairphone 🌎](https://lemmy.ml/c/fairphone)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the [FairPhone](https://www.fairphone.com)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 110 |
-| Posts                | 8  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-14 18:11:49 |
-| Updated              | 2021-09-14 18:11:57 |
-| Last Scraped         | 2023-06-19 11:37:02 |

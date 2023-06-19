@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/trees"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 22:41:04"
 subscribers: 10
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Trees  on midwest.social
-
-[[home](/)]
-[[/c/trees 🌎](https://midwest.social/c/trees)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A Marijuana lounge for r/trees refugees 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:41:04 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:28 |

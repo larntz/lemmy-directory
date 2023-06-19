@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/architecture"
 host: feddit.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:53:45"
+published: "2023-06-14 22:37:42"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_tech"
 
 ---
-
-# /c/Architecture on feddit.tech
-
-[[home](/)]
-[[/c/architecture 🌎](https://feddit.tech/c/architecture)]
-[[feddit.tech](/instances/feddit_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 22:37:42 |
-| Updated              | 2023-06-14 23:53:45 |
-| Last Scraped         | 2023-06-19 11:35:28 |

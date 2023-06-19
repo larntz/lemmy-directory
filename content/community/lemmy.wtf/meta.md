@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/meta"
 host: lemmy.wtf
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 22:32:39"
+published: "2023-06-11 20:55:47"
 subscribers: 6
 posts: 3
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmy_wtf"
 
 ---
-
-# /c/lemmy.wtf meta on lemmy.wtf
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.wtf/c/meta)]
-[[lemmy.wtf](/instances/lemmy_wtf)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything about the [lemmy.wtf](https://lemmy.wtf) instance and its moderation.<br><br>For discussion about the Lemmy software project, go to [c/lemmy](https://lemmy.wtf/c/lemmy@lemmy.ml).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:55:47 |
-| Updated              | 2023-06-11 22:32:39 |
-| Last Scraped         | 2023-06-19 11:35:18 |

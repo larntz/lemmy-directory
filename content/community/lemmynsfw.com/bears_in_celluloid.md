@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bears_in_celluloid"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 15:33:39"
+published: "2023-06-17 15:32:12"
 subscribers: 5
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Bears in Celluloid on lemmynsfw.com
-
-[[home](/)]
-[[/c/bears_in_celluloid 🌎](https://lemmynsfw.com/c/bears_in_celluloid)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-The history of big men in cinema
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 15:32:12 |
-| Updated              | 2023-06-17 15:33:39 |
-| Last Scraped         | 2023-06-19 11:35:45 |

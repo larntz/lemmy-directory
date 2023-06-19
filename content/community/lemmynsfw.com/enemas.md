@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/enemas"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 20:43:29"
 subscribers: 69
 posts: 6
 comments: 5
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Enemas on lemmynsfw.com
-
-[[home](/)]
-[[/c/enemas 🌎](https://lemmynsfw.com/c/enemas)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A channel about anything enema related. Be that questions, images, videos, fantasies, stories. It's up to you!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 69 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:43:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

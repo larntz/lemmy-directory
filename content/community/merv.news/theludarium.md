@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://merv.news/c/theludarium"
 host: merv.news
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-01 17:32:49"
+published: "2022-09-26 18:24:33"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "merv_news"
 
 ---
-
-# /c/The Ludarium on merv.news
-
-[[home](/)]
-[[/c/theludarium 🌎](https://merv.news/c/theludarium)]
-[[merv.news](/instances/merv_news)]
-
-
-## Description 
-
-<blockquote class="description">
-# Games and Interactive art
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-26 18:24:33 |
-| Updated              | 2022-10-01 17:32:49 |
-| Last Scraped         | 2023-06-19 11:34:46 |

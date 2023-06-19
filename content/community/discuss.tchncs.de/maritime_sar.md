@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/maritime_sar"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 21:07:23"
+published: "2023-06-11 20:29:53"
 subscribers: 12
 posts: 6
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/Maritime SAR on discuss.tchncs.de
-
-[[home](/)]
-[[/c/maritime_sar 🌎](https://discuss.tchncs.de/c/maritime_sar)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is all about Search and Rescue operations at Sea.<br><br>It's all about:<br>- volunteer organizations, their missions and their training<br>- navy or coast guard vessels in a SAR context<br>- emergencies at sea<br>- rescue equipment and best practices<br><br>Remember to be excellent to each other - safe sailing!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:29:53 |
-| Updated              | 2023-06-17 21:07:23 |
-| Last Scraped         | 2023-06-19 11:34:55 |

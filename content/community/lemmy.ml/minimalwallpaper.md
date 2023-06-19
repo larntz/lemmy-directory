@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minimalwallpaper"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-13 18:15:22"
+published: "2021-04-13 04:56:52"
 subscribers: 36
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/MinimalWallpaper on lemmy.ml
-
-[[home](/)]
-[[/c/minimalwallpaper 🌎](https://lemmy.ml/c/minimalwallpaper)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Wallpapers that have a simple and minimalist design. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-13 04:56:52 |
-| Updated              | 2021-04-13 18:15:22 |
-| Last Scraped         | 2023-06-19 11:36:43 |

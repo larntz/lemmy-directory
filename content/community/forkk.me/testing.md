@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://forkk.me/c/testing"
 host: forkk.me
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 21:46:59"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "forkk_me"
 
 ---
-
-# /c/Test Community Please Ignore on forkk.me
-
-[[home](/)]
-[[/c/testing 🌎](https://forkk.me/c/testing)]
-[[forkk.me](/instances/forkk_me)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 21:46:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:22 |

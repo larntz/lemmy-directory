@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/rotterdam"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 14:45:41"
 subscribers: 17
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/Rotterdam on feddit.nl
-
-[[home](/)]
-[[/c/rotterdam 🌎](https://feddit.nl/c/rotterdam)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for everyone who is interested in Rotterdam.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:45:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

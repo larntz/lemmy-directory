@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uncle_bens"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-31 19:32:04"
+published: "2021-01-31 16:27:16"
 subscribers: 56
 posts: 5
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Uncle Bens on lemmy.ml
-
-[[home](/)]
-[[/c/uncle_bens 🌎](https://lemmy.ml/c/uncle_bens)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for the uncle ben's mushroom growing technique. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 5  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-31 16:27:16 |
-| Updated              | 2021-01-31 19:32:04 |
-| Last Scraped         | 2023-06-19 11:36:46 |

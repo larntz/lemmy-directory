@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2spoilers"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 17:04:13"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/Pathfinder 2e Spoilers on pathfinder.social
-
-[[home](/)]
-[[/c/pf2spoilers 🌎](https://pathfinder.social/c/pf2spoilers)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 17:04:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:55:56 |

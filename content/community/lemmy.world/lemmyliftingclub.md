@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmyliftingclub"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:51:32"
+published: "2023-06-12 23:34:11"
 subscribers: 12
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Lemmy Lifting Club on lemmy.world
-
-[[home](/)]
-[[/c/lemmyliftingclub 🌎](https://lemmy.world/c/lemmyliftingclub)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Do you lift? Are you sure? Post here!<br><br>A place for PR's, training discussion, and other lifting related shenanigans.<br><br><br>Be polite, be supportive, hit juicy PR’s
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 23:34:11 |
-| Updated              | 2023-06-13 17:51:32 |
-| Last Scraped         | 2023-06-19 11:36:40 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.linuxuserspace.show/c/episodes"
 host: lemmy.linuxuserspace.show
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 18:29:52"
 subscribers: 6
 posts: 20
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_linuxuserspace_show"
 
 ---
-
-# /c/Linux User Space Episodes on lemmy.linuxuserspace.show
-
-[[home](/)]
-[[/c/episodes 🌎](https://lemmy.linuxuserspace.show/c/episodes)]
-[[lemmy.linuxuserspace.show](/instances/lemmy_linuxuserspace_show)]
-
-
-## Description 
-
-<blockquote class="description">
-This is where all the episodes and other videos produced by Linux User Space land. Subscribe to get all the latest!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 20  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 18:29:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:22 |

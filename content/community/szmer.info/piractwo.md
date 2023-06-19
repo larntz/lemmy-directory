@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/piractwo"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-22 17:02:22"
+published: "2021-04-22 14:54:44"
 subscribers: 96
 posts: 10
 comments: 29
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Piractwo - Kopiowanie to nie kradzież! on szmer.info
-
-[[home](/)]
-[[/c/piractwo 🌎](https://szmer.info/c/piractwo)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 96 |
-| Posts                | 10  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-22 14:54:44 |
-| Updated              | 2021-04-22 17:02:22 |
-| Last Scraped         | 2023-06-19 11:35:33 |

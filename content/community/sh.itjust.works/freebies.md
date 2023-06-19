@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/freebies"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 21:29:50"
+published: "2023-06-14 21:25:58"
 subscribers: 11
 posts: 5
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/freebies on sh.itjust.works
-
-[[home](/)]
-[[/c/freebies 🌎](https://sh.itjust.works/c/freebies)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-We love free stuff! Free pointless fun stuff, free shirts, free food, free stickers, free events, free magazines, and anything else free. As long as it's 100% free, it belongs here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:25:58 |
-| Updated              | 2023-06-14 21:29:50 |
-| Last Scraped         | 2023-06-19 11:35:05 |

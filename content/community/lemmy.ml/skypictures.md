@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skypictures"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:38:31"
+published: "2023-06-12 04:00:10"
 subscribers: 37
 posts: 11
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/pictures of skies on lemmy.ml
-
-[[home](/)]
-[[/c/skypictures 🌎](https://lemmy.ml/c/skypictures)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## ***Post your favourite pictures of the blue!***<br>    <br>\u200e<br>\u200e<br><br>Some basic rules:   <br>1. Please be civil and nice.<br>2. The pictures must be OC, that is, taken by you.<br>3. There is no need to put OC tag in the titles of the posts.<br><br>*Banner photo by [Debasish Vishal](https://www.pexels.com/photo/scenic-view-of-a-lightning-in-the-sky-4124167/) from Pexels.*
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 37 |
-| Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:00:10 |
-| Updated              | 2023-06-14 09:38:31 |
-| Last Scraped         | 2023-06-19 11:36:42 |

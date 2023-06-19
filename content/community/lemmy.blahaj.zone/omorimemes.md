@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/omorimemes"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 01:43:50"
+published: "2023-06-18 02:25:03"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/Omori Memes on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/omorimemes 🌎](https://lemmy.blahaj.zone/c/omorimemes)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-haha ha ha stairs
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 02:25:03 |
-| Updated              | 2023-06-19 01:43:50 |
-| Last Scraped         | 2023-06-19 11:35:28 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wiiuhacks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 05:54:16"
+published: "2023-06-08 05:53:49"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Wii U Hacks on lemmy.ml
-
-[[home](/)]
-[[/c/wiiuhacks 🌎](https://lemmy.ml/c/wiiuhacks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A subreddit dedicated to Wii U hacking and homebrew!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 05:53:49 |
-| Updated              | 2023-06-08 05:54:16 |
-| Last Scraped         | 2023-06-19 11:36:43 |

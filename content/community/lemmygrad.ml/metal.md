@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/metal"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-29 23:20:28"
+published: "2019-08-28 00:53:29"
 subscribers: 127
 posts: 27
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Metal for The People on lemmygrad.ml
-
-[[home](/)]
-[[/c/metal 🌎](https://lemmygrad.ml/c/metal)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for metalheads who aren't afraid of viewing metal through a critical lens as it pertains to our world/societies to share and discuss music that interests us.<br><br>1. Don't be an asshole, but most importantly no NS bullshit.  <br><br>2. This is a community for music, but memes and discussion have their place as well (in moderation).  <br><br>3. Music should be leftist, at a minimum. Preferably communist.<br><br>4. The preferred submission style is [Genre] Artist - Title
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 127 |
-| Posts                | 27  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-28 00:53:29 |
-| Updated              | 2022-08-29 23:20:28 |
-| Last Scraped         | 2023-06-16 11:06:10 |

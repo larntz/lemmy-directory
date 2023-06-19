@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/handlettering"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:45:42"
+published: "2023-06-12 12:42:57"
 subscribers: 21
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Hand Lettering on lemmy.world
-
-[[home](/)]
-[[/c/handlettering 🌎](https://lemmy.world/c/handlettering)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For all the lettering addicts (or potential lettering addicts) who like to look at and create pretty words by hand. Come share your work and give feedback (if requested!)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 12:42:57 |
-| Updated              | 2023-06-12 12:45:42 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chicago"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-05-26 22:23:48"
+published: "2020-05-26 18:14:22"
 subscribers: 15
 posts: 10
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Chicago News and Discussion on lemmy.ml
-
-[[home](/)]
-[[/c/chicago 🌎](https://lemmy.ml/c/chicago)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Chicago News and Discussion
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 10  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-05-26 18:14:22 |
-| Updated              | 2020-05-26 22:23:48 |
-| Last Scraped         | 2023-06-19 11:36:44 |

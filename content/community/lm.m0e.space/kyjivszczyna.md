@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/kyjivszczyna"
 host: lm.m0e.space
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 22:34:36"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lm_m0e_space"
 
 ---
-
-# /c/Київщина on lm.m0e.space
-
-[[home](/)]
-[[/c/kyjivszczyna 🌎](https://lm.m0e.space/c/kyjivszczyna)]
-[[lm.m0e.space](/instances/lm_m0e_space)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:34:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:21 |

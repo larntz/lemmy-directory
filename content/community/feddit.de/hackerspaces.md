@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hackerspaces"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-01 13:41:18"
+published: "2023-06-01 13:29:12"
 subscribers: 28
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Hackerspaces on feddit.de
-
-[[home](/)]
-[[/c/hackerspaces 🌎](https://feddit.de/c/hackerspaces)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for hackerspace links, news, info, and discussion. NOT for hacking or computer security topics.<br><br># Rules<br><br>1. Posts in English please<br>1. No hacking/cracking/infosec posts<br><br># Links<br><br>- [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) on Wikipedia<br>- [hackerspaces.org Wiki](https://wiki.hackerspaces.org/)<br>- [Hackerspaces near you](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-01 13:29:12 |
-| Updated              | 2023-06-01 13:41:18 |
-| Last Scraped         | 2023-06-19 11:35:39 |

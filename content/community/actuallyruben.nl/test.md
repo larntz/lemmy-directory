@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://actuallyruben.nl/c/test"
 host: actuallyruben.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:32:25"
+published: "2023-06-12 13:41:57"
 subscribers: 1
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "actuallyruben_nl"
 
 ---
-
-# /c/test on actuallyruben.nl
-
-[[home](/)]
-[[/c/test 🌎](https://actuallyruben.nl/c/test)]
-[[actuallyruben.nl](/instances/actuallyruben_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Do whatever you want, just keep it SFW
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:41:57 |
-| Updated              | 2023-06-15 18:32:25 |
-| Last Scraped         | 2023-06-19 11:35:20 |

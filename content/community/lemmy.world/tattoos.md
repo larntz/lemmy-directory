@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tattoos"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 14:51:17"
+published: "2023-06-13 15:01:32"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Tattoos on lemmy.world
-
-[[home](/)]
-[[/c/tattoos 🌎](https://lemmy.world/c/tattoos)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for posts relating to tattoos<br><br>Rules:<br>1. Be civil<br>2. No spam posting<br>3. Keep posts on-topic<br>4. No trolling
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:01:32 |
-| Updated              | 2023-06-15 14:51:17 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadianforces"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:48:00"
+published: "2023-06-12 00:46:35"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/CanadianForces on lemmy.ca
-
-[[home](/)]
-[[/c/canadianforces 🌎](https://lemmy.ca/c/canadianforces)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Waiting for Slappy_MC_Garglenutz to join Lemmy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:46:35 |
-| Updated              | 2023-06-12 21:48:00 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/osm"
 host: lemmy.tedomum.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-11-26 22:06:27"
 subscribers: 9
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_tedomum_net"
 
 ---
-
-# /c/OSM on lemmy.tedomum.net
-
-[[home](/)]
-[[/c/osm 🌎](https://lemmy.tedomum.net/c/osm)]
-[[lemmy.tedomum.net](/instances/lemmy_tedomum_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Communauté Lemmy d'OpenStreetMap
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-26 22:06:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:48 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/economics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-28 20:24:15"
+published: "2019-11-11 19:31:58"
 subscribers: 768
 posts: 462
 comments: 200
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Economics on lemmy.ml
-
-[[home](/)]
-[[/c/economics 🌎](https://lemmy.ml/c/economics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 768 |
-| Posts                | 462  |
-| Comments             | 200  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 28  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-11-11 19:31:58 |
-| Updated              | 2021-01-28 20:24:15 |
-| Last Scraped         | 2023-06-19 11:37:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libertarianmeme"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-05 21:50:29"
+published: "2020-06-05 21:50:04"
 subscribers: 26
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Memes relating to Libertarianism on lemmy.ml
-
-[[home](/)]
-[[/c/libertarianmeme 🌎](https://lemmy.ml/c/libertarianmeme)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Like /c/libertarian, but for memes
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-05 21:50:04 |
-| Updated              | 2020-06-05 21:50:29 |
-| Last Scraped         | 2023-06-19 11:36:44 |

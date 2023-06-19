@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/maple_syrup"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 23:08:26"
+published: "2023-06-14 23:22:39"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Maple Syrup on lemmy.ca
-
-[[home](/)]
-[[/c/maple_syrup 🌎](https://lemmy.ca/c/maple_syrup)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Canadian and non-Canadian maple syrup makers from the one bucket hobbyist to the large, commercial producer as well as those who are maple syrup curious, cook with maple syrup, or love maple syrup.<br><br>Post pictures, stories, recipes, or questions.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:22:39 |
-| Updated              | 2023-06-16 23:08:26 |
-| Last Scraped         | 2023-06-19 11:35:36 |

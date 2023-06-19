@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geology"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 02:33:46"
+published: "2023-06-08 19:29:35"
 subscribers: 12
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/geology on lemmy.ml
-
-[[home](/)]
-[[/c/geology 🌎](https://lemmy.ml/c/geology)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community devoted to learning about geology.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 19:29:35 |
-| Updated              | 2023-06-17 02:33:46 |
-| Last Scraped         | 2023-06-19 11:36:47 |

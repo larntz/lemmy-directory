@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/fossware_meta"
 host: social.fossware.space
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 05:43:04"
+published: "2023-06-12 16:50:17"
 subscribers: 31
 posts: 7
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "social_fossware_space"
 
 ---
-
-# /c/Meta on social.fossware.space
-
-[[home](/)]
-[[/c/fossware_meta 🌎](https://social.fossware.space/c/fossware_meta)]
-[[social.fossware.space](/instances/social_fossware_space)]
-
-
-## Description 
-
-<blockquote class="description">
-All information regarding the FOSSware project will be posted here!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 7  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:50:17 |
-| Updated              | 2023-06-16 05:43:04 |
-| Last Scraped         | 2023-06-19 11:35:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftistfiction"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-18 23:48:30"
 subscribers: 44
 posts: 3
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Leftist Fiction on lemmygrad.ml
-
-[[home](/)]
-[[/c/leftistfiction 🌎](https://lemmygrad.ml/c/leftistfiction)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For all fiction (not non-fiction or theoretical texts) that have leftist themes or are of a leftist nature, such as fiction from the Soviet Union. May include literary analysis and videos with said analysis. Let's help to compile fictional books written by communist/socialist/leftist authors. Please be civil and have fun.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 3  |
-| Comments             | 32  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-18 23:48:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gigs"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 13:40:11"
 subscribers: 16
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Gigs on aussie.zone
-
-[[home](/)]
-[[/c/gigs 🌎](https://aussie.zone/c/gigs)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:40:11 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

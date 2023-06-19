@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/magnatune"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-24 02:07:05"
+published: "2021-04-24 01:33:08"
 subscribers: 12
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Magnatune on lemmy.ml
-
-[[home](/)]
-[[/c/magnatune 🌎](https://lemmy.ml/c/magnatune)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Magnatune is an American independent record label based in Berkeley, California, founded in spring 2003.<br>All of the tracks downloaded free of charge are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License. Even though using liberal licensing is not a new idea in itself, Magnatune is one of the first and most visible companies to try to build a business in music around this idea. <br><br>#### Important<br>Lemmy doesn’t have flags yet, so please tag your posts with [Question], [Help], [Other], [Promoting], [Artist], [Album], [Song], [Radio] or other you may think is appropriate.<br><br>#### This is a sister community of<br>- [Free/Libre music](https://lemmy.ml/c/libremusic)<br>- [Free Music Archive](https://lemmy.ml/c/fma)<br>- [funkwhale](https://lemmy.ml/c/funkwhale)<br>- [libre.fm](https://lemmy.ml/c/librefm)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-24 01:33:08 |
-| Updated              | 2021-04-24 02:07:05 |
-| Last Scraped         | 2023-06-19 11:37:01 |

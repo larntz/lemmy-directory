@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/deals"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 08:59:22"
 subscribers: 10
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Deals on lemmy.studio
-
-[[home](/)]
-[[/c/deals 🌎](https://lemmy.studio/c/deals)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for collecting bargains and sales for audio hardware and software.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 08:59:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:58 |

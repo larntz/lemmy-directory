@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mechmarket"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 20:29:59"
+published: "2023-06-08 20:24:15"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Mech Market on lemmy.ml
-
-[[home](/)]
-[[/c/mechmarket 🌎](https://lemmy.ml/c/mechmarket)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for selling, buying, and trading anything related to keyboards!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:24:15 |
-| Updated              | 2023-06-08 20:29:59 |
-| Last Scraped         | 2023-06-19 11:36:49 |

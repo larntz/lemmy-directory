@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/gifs"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 01:19:01"
+published: "2023-06-12 13:43:19"
 subscribers: 115
 posts: 40
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Gifs on lemmy.ca
-
-[[home](/)]
-[[/c/gifs 🌎](https://lemmy.ca/c/gifs)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-It's pronounced Gif<br><br>- Keep it civil<br>- NSFW not allowed<br><br>**How do I post gifs?**<br>- Upload your gifs to a PixelFed instance<br>- Post the link here!<br><br>**How do I join a PixelFed instance?**<br>- [PixelFed Servers](https://pixelfed.org/servers)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 115 |
-| Posts                | 40  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:43:19 |
-| Updated              | 2023-06-13 01:19:01 |
-| Last Scraped         | 2023-06-19 11:35:36 |

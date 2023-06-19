@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://red.cyberhase.de/c/slub"
 host: red.cyberhase.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:07:13"
+published: "2023-06-14 14:53:55"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "red_cyberhase_de"
 
 ---
-
-# /c/SLUB on red.cyberhase.de
-
-[[home](/)]
-[[/c/slub 🌎](https://red.cyberhase.de/c/slub)]
-[[red.cyberhase.de](/instances/red_cyberhase_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:53:55 |
-| Updated              | 2023-06-14 15:07:13 |
-| Last Scraped         | 2023-06-19 11:35:20 |

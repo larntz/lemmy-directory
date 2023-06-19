@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/machinist"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:36:09"
+published: "2023-06-15 18:34:36"
 subscribers: 7
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Machinist on sh.itjust.works
-
-[[home](/)]
-[[/c/machinist 🌎](https://sh.itjust.works/c/machinist)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-From Newcomers to Old Timers, a community united by the Industry of Machining
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 18:34:36 |
-| Updated              | 2023-06-15 18:36:09 |
-| Last Scraped         | 2023-06-19 11:35:05 |

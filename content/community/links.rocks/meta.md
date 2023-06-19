@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://links.rocks/c/meta"
 host: links.rocks
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-06 17:19:37"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "links_rocks"
 
 ---
-
-# /c/meta on links.rocks
-
-[[home](/)]
-[[/c/meta 🌎](https://links.rocks/c/meta)]
-[[links.rocks](/instances/links_rocks)]
-
-
-## Description 
-
-<blockquote class="description">
-Maintenance announcements and other messages
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 17:19:37 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:59 |

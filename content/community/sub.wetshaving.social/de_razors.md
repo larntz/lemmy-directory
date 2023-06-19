@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/de_razors"
 host: sub.wetshaving.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 00:51:41"
 subscribers: 36
 posts: 2
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "sub_wetshaving_social"
 
 ---
-
-# /c/Double Edge Razors on sub.wetshaving.social
-
-[[home](/)]
-[[/c/de_razors 🌎](https://sub.wetshaving.social/c/de_razors)]
-[[sub.wetshaving.social](/instances/sub_wetshaving_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss double edge razors in depthe
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 2  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:51:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

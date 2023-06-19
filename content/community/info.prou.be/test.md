@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/test"
 host: info.prou.be
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-27 13:06:43"
+published: "2022-02-12 13:31:08"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "info_prou_be"
 
 ---
-
-# /c/Sorral d'experiments i proves on info.prou.be
-
-[[home](/)]
-[[/c/test 🌎](https://info.prou.be/c/test)]
-[[info.prou.be](/instances/info_prou_be)]
-
-
-## Description 
-
-<blockquote class="description">
-Podeu provar funcionalitats, formats, federació, crear i esborrar, votar negativament, provar de denunciar una entrada... el que sigui.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-12 13:31:08 |
-| Updated              | 2022-03-27 13:06:43 |
-| Last Scraped         | 2023-06-19 11:34:42 |

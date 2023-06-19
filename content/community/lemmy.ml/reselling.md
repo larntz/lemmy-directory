@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reselling"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-19 17:16:46"
+published: "2020-06-19 17:15:05"
 subscribers: 3
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Reselling on lemmy.ml
-
-[[home](/)]
-[[/c/reselling 🌎](https://lemmy.ml/c/reselling)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Eine Community für alle, die sich für Reselling interessieren.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-19 17:15:05 |
-| Updated              | 2020-06-19 17:16:46 |
-| Last Scraped         | 2023-06-19 11:36:44 |

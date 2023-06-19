@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wolfballs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-10 18:39:54"
+published: "2021-11-10 18:38:12"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/wolfballs on lemmy.ml
-
-[[home](/)]
-[[/c/wolfballs 🌎](https://lemmy.ml/c/wolfballs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for questions, comments, and news about https://wolfballs.com<br><br>This is not wolfballs.com this is a community that may be used to discuss it and news related to it.<br><br>All rules of lemmy.ml must be adhered to here. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-10 18:38:12 |
-| Updated              | 2021-11-10 18:39:54 |
-| Last Scraped         | 2023-06-19 11:36:45 |

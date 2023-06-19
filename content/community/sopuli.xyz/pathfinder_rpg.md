@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/pathfinder_rpg"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 19:12:57"
+published: "2023-06-03 18:29:24"
 subscribers: 12
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Pathfinder on sopuli.xyz
-
-[[home](/)]
-[[/c/pathfinder_rpg 🌎](https://sopuli.xyz/c/pathfinder_rpg)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all versions of pathfinder and discussion surrounding it.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 18:29:24 |
-| Updated              | 2023-06-03 19:12:57 |
-| Last Scraped         | 2023-06-19 11:35:32 |

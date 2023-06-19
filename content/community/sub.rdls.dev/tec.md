@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/tec"
 host: sub.rdls.dev
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 04:24:39"
 subscribers: 3
 posts: 3
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "sub_rdls_dev"
 
 ---
-
-# /c/Tecnologia on sub.rdls.dev
-
-[[home](/)]
-[[/c/tec 🌎](https://sub.rdls.dev/c/tec)]
-[[sub.rdls.dev](/instances/sub_rdls_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Tópico voltado a discussões sobre tecnologia
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 6  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:24:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

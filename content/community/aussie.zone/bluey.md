@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/bluey"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 08:19:26"
+published: "2023-06-15 08:04:30"
 subscribers: 19
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Bluey on aussie.zone
-
-[[home](/)]
-[[/c/bluey 🌎](https://aussie.zone/c/bluey)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 08:04:30 |
-| Updated              | 2023-06-15 08:19:26 |
-| Last Scraped         | 2023-06-19 11:35:06 |

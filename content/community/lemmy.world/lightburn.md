@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lightburn"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:33:37"
+published: "2023-06-11 15:21:45"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/LightBurn on lemmy.world
-
-[[home](/)]
-[[/c/lightburn 🌎](https://lemmy.world/c/lightburn)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:21:45 |
-| Updated              | 2023-06-11 15:33:37 |
-| Last Scraped         | 2023-06-19 11:36:41 |

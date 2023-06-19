@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/scatology_jav"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:06:57"
+published: "2023-06-13 02:58:27"
 subscribers: 16
 posts: 11
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Scatology JAV on lemmynsfw.com
-
-[[home](/)]
-[[/c/scatology_jav 🌎](https://lemmynsfw.com/c/scatology_jav)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Scatology is a genre of JAV (Japanese Adult Video) that focuses on defecation and sex acts that involve poop (e.g., dirty anal, dirty atm, accidental poop during orgasm, eating poop, smearing, panty pooping, dirty enemas, etc.). <br><br>Japanese scatology is the most professionally produced scat porn globally. This community has potential to be the premiere English-language webforum to discuss and share scatology content. <br><br>[Track recent and upcoming Scatology JAV releases on JAVLibrary.](https://www.javlibrary.com/en/vl_genre.php?g=aq3a)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 11  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 02:58:27 |
-| Updated              | 2023-06-13 03:06:57 |
-| Last Scraped         | 2023-06-19 11:35:46 |

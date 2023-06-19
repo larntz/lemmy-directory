@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hamradio"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-13 08:43:18"
+published: "2021-08-12 09:13:13"
 subscribers: 215
 posts: 17
 comments: 76
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ham Radio on lemmy.ml
-
-[[home](/)]
-[[/c/hamradio 🌎](https://lemmy.ml/c/hamradio)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for anything related to ham/amateur radios
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 215 |
-| Posts                | 17  |
-| Comments             | 76  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-12 09:13:13 |
-| Updated              | 2021-08-13 08:43:18 |
-| Last Scraped         | 2023-06-19 11:36:43 |

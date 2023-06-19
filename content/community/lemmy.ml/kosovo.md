@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kosovo"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-14 00:53:27"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Diskutime, lajme, dhe foto nga Republika e Kosovës. on lemmy.ml
-
-[[home](/)]
-[[/c/kosovo 🌎](https://lemmy.ml/c/kosovo)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-1. Të gjitha postimet duhet të jenë të lidhura me Kosovën.<br><br>2. Nuk lejohen racizmi, homofobia, transfobia, dhe fyreje në bazë të gjinisë apo aftësive të kufizuara. Fashizmi dhe ultra-nacionalizmi do të rezultojnë në dëbim të menjëhershëm nga komuniteti.<br><br>3. Postimet që mohojnë statusin e Kosovës si shtet i pavarur dhe sovran do të hiqen menjëherë.<br><br>4. Nuk lejohen reklamat ose spam.<br><br>5. Nuk lejohet materiali pornografik.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-14 00:53:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:33 |

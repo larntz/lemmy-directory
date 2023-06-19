@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/burujabetzak"
 host: lemmy.eus
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-16 20:28:46"
+published: "2021-08-16 20:28:05"
 subscribers: 13
 posts: 8
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_eus"
 
 ---
-
-# /c/BurujabetzaK eta Ekonomia Sozial Eraldatzailea on lemmy.eus
-
-[[home](/)]
-[[/c/burujabetzak 🌎](https://lemmy.eus/c/burujabetzak)]
-[[lemmy.eus](/instances/lemmy_eus)]
-
-
-## Description 
-
-<blockquote class="description">
-#BurujabetzaK garatzeko hauei buruzko informazioa zabaltzea beharrezkoa da, praktikak ezagutu, kezkak elkarbanatu eta proiektuak eraldatzaileak indartzeko.<br><br>Bosgarren Olatuan gertatzen ari den euskal mugimendu kooperatiboaren eraldaketa prozesuari eta Ekonomia Sozial Eraldatzaileari lotutako iritzi eta berriak ere zabalduko ditugu bertan.<br><br>Interkooperazioa eta Mutualismoa! <br>#Koop #ESE 🌊
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 8  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-16 20:28:05 |
-| Updated              | 2021-08-16 20:28:46 |
-| Last Scraped         | 2023-06-19 11:35:28 |

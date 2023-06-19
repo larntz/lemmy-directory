@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnughost"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-02 18:32:46"
+published: "2022-04-02 18:29:47"
 subscribers: 14
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GNU Ghost on lemmy.ml
-
-[[home](/)]
-[[/c/gnughost 🌎](https://lemmy.ml/c/gnughost)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Your code completion assistant. Libre, Gratis, and created with Love.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-02 18:29:47 |
-| Updated              | 2022-04-02 18:32:46 |
-| Last Scraped         | 2023-06-19 11:36:47 |

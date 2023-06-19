@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/crossfit"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 05:28:39"
+published: "2023-06-11 05:57:40"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Crossfit on feddit.de
-
-[[home](/)]
-[[/c/crossfit 🌎](https://feddit.de/c/crossfit)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Post your own updates or news and stories about crossfit.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:57:40 |
-| Updated              | 2023-06-16 05:28:39 |
-| Last Scraped         | 2023-06-19 11:35:39 |

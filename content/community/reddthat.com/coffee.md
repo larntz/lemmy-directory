@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/coffee"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 04:53:14"
+published: "2023-06-11 04:38:23"
 subscribers: 48
 posts: 5
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Coffee on reddthat.com
-
-[[home](/)]
-[[/c/coffee 🌎](https://reddthat.com/c/coffee)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Coffee, Coffee, Coffee!<br><br>![Need Coffee](https://reddthat.com/pictrs/image/04060dc2-994f-4e59-b1ab-5e7ff721135b.jpeg)<br><br># Rules<br><br>- Standard Reddthat rules apply<br> - See our sidebar [here](https://reddthat.com)<br>- Posts must be about coffee<br>- No Spam or Self-Advertising<br>- Memes are okay<br><br><br>## Looking for extra moderator help<br><br>Want to help moderate? I want help!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 04:38:23 |
-| Updated              | 2023-06-11 04:53:14 |
-| Last Scraped         | 2023-06-19 11:35:02 |

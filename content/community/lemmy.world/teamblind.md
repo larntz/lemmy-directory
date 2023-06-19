@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/teamblind"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:52:45"
+published: "2023-06-12 14:46:40"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Blind on lemmy.world
-
-[[home](/)]
-[[/c/teamblind 🌎](https://lemmy.world/c/teamblind)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-TC or GTFO
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:46:40 |
-| Updated              | 2023-06-12 14:52:45 |
-| Last Scraped         | 2023-06-19 11:36:41 |

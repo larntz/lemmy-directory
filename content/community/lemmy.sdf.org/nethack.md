@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/nethack"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 16:02:55"
+published: "2023-06-13 13:57:28"
 subscribers: 80
 posts: 11
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/NetHack et al. on lemmy.sdf.org
-
-[[home](/)]
-[[/c/nethack 🌎](https://lemmy.sdf.org/c/nethack)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-My primary interest is NetHack but all rogue-likes are considered on-topic...<br><br>https://alt.org/nethack/<br>https://nethackwiki.com/<br>https://nhqdb.alt.org/<br>https://wikipedia.org/wiki/NetHack<br>https://www.hardfought.org/<br>https://www.nethack.org/<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 11  |
-| Comments             | 27  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:57:28 |
-| Updated              | 2023-06-16 16:02:55 |
-| Last Scraped         | 2023-06-19 11:35:02 |

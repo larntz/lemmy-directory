@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freebsd"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-20 07:36:22"
+published: "2019-07-26 03:18:46"
 subscribers: 228
 posts: 28
 comments: 19
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/FreeBSD on lemmy.ml
-
-[[home](/)]
-[[/c/freebsd 🌎](https://lemmy.ml/c/freebsd)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 228 |
-| Posts                | 28  |
-| Comments             | 19  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-07-26 03:18:46 |
-| Updated              | 2021-04-20 07:36:22 |
-| Last Scraped         | 2023-06-19 11:36:45 |

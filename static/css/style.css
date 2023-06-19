@@ -8,6 +8,10 @@ html {
 blockquote {
   margin-left: 0;
 }
+section .summary {
+  padding-bottom: 1em;
+}
+
 th {
   text-align: left;
 }

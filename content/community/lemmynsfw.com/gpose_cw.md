@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gpose_cw"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 08:27:17"
+published: "2023-06-16 08:18:28"
 subscribers: 11
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Gpose CW on lemmynsfw.com
-
-[[home](/)]
-[[/c/gpose_cw 🌎](https://lemmynsfw.com/c/gpose_cw)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-For the spiciest of Gpose content, all races welcome but remember all OCs must be 18+ (this includes Lalafells)<br><br>https://lemmynsfw.com/c/gpose<br>https://lemmynsfw.com/c/gpose_nsfw
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 08:18:28 |
-| Updated              | 2023-06-16 08:27:17 |
-| Last Scraped         | 2023-06-19 11:35:45 |

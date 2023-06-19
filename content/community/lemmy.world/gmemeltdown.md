@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gmemeltdown"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 03:31:25"
+published: "2023-06-12 00:47:36"
 subscribers: 8
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/GME Meltdown on lemmy.world
-
-[[home](/)]
-[[/c/gmemeltdown 🌎](https://lemmy.world/c/gmemeltdown)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Well… you know how it goes. Now we don’t have the rules of Reddit so we are more free to post what we want
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:47:36 |
-| Updated              | 2023-06-14 03:31:25 |
-| Last Scraped         | 2023-06-19 11:36:41 |

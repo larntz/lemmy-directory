@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starship_development"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 19:32:49"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Starship Development on lemmy.ml
-
-[[home](/)]
-[[/c/starship_development 🌎](https://lemmy.ml/c/starship_development)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-FAQ:  <br>When is the next Launch? Unclear at this point  <br>Where are Launches streamed? At SpaceX Youtube, NASASpaceflight, Lab Padre and Everyday Astronaut usually (at least)<br><br>Which Vehicles will likely be tested?  <br>Ship 25 or Ship 26 together with Booster 9 possibly Booster 10<br><br>Depending on activity I might update this overview at some point. Advice is appreciated!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:32:49 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

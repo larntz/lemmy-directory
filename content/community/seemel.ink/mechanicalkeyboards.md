@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/mechanicalkeyboards"
 host: seemel.ink
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 22:15:00"
+published: "2023-06-17 17:22:33"
 subscribers: 5
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "seemel_ink"
 
 ---
-
-# /c/MechanicalKeyboards on seemel.ink
-
-[[home](/)]
-[[/c/mechanicalkeyboards 🌎](https://seemel.ink/c/mechanicalkeyboards)]
-[[seemel.ink](/instances/seemel_ink)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything mechanical keyboards
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 17:22:33 |
-| Updated              | 2023-06-18 22:15:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

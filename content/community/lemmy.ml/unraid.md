@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unraid"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 10:48:35"
+published: "2023-06-04 10:32:05"
 subscribers: 27
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Unraid on lemmy.ml
-
-[[home](/)]
-[[/c/unraid 🌎](https://lemmy.ml/c/unraid)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is an unofficial community for Unraid.<br><br>Discover the latest on the flexible storage OS.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 10:32:05 |
-| Updated              | 2023-06-04 10:48:35 |
-| Last Scraped         | 2023-06-19 11:36:50 |

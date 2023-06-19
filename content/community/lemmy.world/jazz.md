@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jazz"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 12:00:01"
+published: "2023-06-16 11:39:13"
 subscribers: 44
 posts: 3
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Jazz - For all the jazz lovers on lemmy.world
-
-[[home](/)]
-[[/c/jazz 🌎](https://lemmy.world/c/jazz)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Jazz lovers.<br><br>Share your favorite jazz album, songs, artists, and anything related to Jazz!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 3  |
-| Comments             | 15  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 11:39:13 |
-| Updated              | 2023-06-16 12:00:01 |
-| Last Scraped         | 2023-06-19 11:36:36 |

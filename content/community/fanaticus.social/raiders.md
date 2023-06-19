@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/raiders"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 19:11:46"
+published: "2023-06-14 00:44:00"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Las Vegas Raiders on fanaticus.social
-
-[[home](/)]
-[[/c/raiders 🌎](https://fanaticus.social/c/raiders)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the Las Vegas Raiders.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:44:00 |
-| Updated              | 2023-06-17 19:11:46 |
-| Last Scraped         | 2023-06-19 11:35:15 |

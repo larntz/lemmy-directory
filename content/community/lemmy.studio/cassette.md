@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/cassette"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 01:16:13"
+published: "2023-06-05 19:27:31"
 subscribers: 34
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Cassette tapes and more on lemmy.studio
-
-[[home](/)]
-[[/c/cassette 🌎](https://lemmy.studio/c/cassette)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about cassettes: new releases, loops, and more!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 19:27:31 |
-| Updated              | 2023-06-06 01:16:13 |
-| Last Scraped         | 2023-06-19 11:34:58 |

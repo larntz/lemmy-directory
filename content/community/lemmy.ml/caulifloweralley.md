@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/caulifloweralley"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-11 20:03:13"
 subscribers: 11
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cauliflower Alley: Pro Wrestling News & Stories on lemmy.ml
-
-[[home](/)]
-[[/c/caulifloweralley 🌎](https://lemmy.ml/c/caulifloweralley)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for discussion on pro wrestling, not limited to just AEW/WWE. <br><br>Let's try and keep the Twitter posts and overall wrestling drama outta this.<br><br>Let's focus less on the dumb shit and more about having fun while watching wrestling.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-11 20:03:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/telearena"
 host: hakbox.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 21:34:26"
+published: "2023-06-13 21:32:24"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "hakbox_social"
 
 ---
-
-# /c/Tele-Arena on hakbox.social
-
-[[home](/)]
-[[/c/telearena 🌎](https://hakbox.social/c/telearena)]
-[[hakbox.social](/instances/hakbox_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the wonderful text based multiplayer adventure game. <br><br>Check out the [Tele-Arena Shrine](https://tele-arena.tumblr.com/) to find active servers. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 21:32:24 |
-| Updated              | 2023-06-13 21:34:26 |
-| Last Scraped         | 2023-06-19 11:35:14 |

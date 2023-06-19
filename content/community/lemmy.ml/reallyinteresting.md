@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reallyinteresting"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-10 07:34:12"
+published: "2021-06-10 07:23:53"
 subscribers: 353
 posts: 79
 comments: 86
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Really Interesting on lemmy.ml
-
-[[home](/)]
-[[/c/reallyinteresting 🌎](https://lemmy.ml/c/reallyinteresting)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-No rules for now<br>If you find anything interesting, be sure to post it here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 353 |
-| Posts                | 79  |
-| Comments             | 86  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-10 07:23:53 |
-| Updated              | 2021-06-10 07:34:12 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/sfcharacter"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 17:05:16"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/Starfinder Character Discussion on pathfinder.social
-
-[[home](/)]
-[[/c/sfcharacter 🌎](https://pathfinder.social/c/sfcharacter)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 17:05:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:56 |

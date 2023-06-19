@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/espresso"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 05:57:42"
+published: "2023-06-07 00:12:07"
 subscribers: 311
 posts: 15
 comments: 83
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Espresso on infosec.pub
-
-[[home](/)]
-[[/c/espresso 🌎](https://infosec.pub/c/espresso)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-# Strong, potent coffee news for strong, potent coffee lovers.<br><br>Hoping to mirror the great community of r/espresso. <br><br>Here is the [main resource](https://www.home-barista.com/resources.html) from the same sub, since it's amazing.<br><br>If any of the original mods, or anyone else who loves espresso, would like to take control or help mod, please let me know. I'd be as happy to help as to pass the reigns.<br><br>A gracious community member has added[ some of the resources](https://lemmy.world/post/66717) from the Reddit sub. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 311 |
-| Posts                | 15  |
-| Comments             | 83  |
-| Daily Active Users   | 10  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 33  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 00:12:07 |
-| Updated              | 2023-06-13 05:57:42 |
-| Last Scraped         | 2023-06-16 22:55:53 |

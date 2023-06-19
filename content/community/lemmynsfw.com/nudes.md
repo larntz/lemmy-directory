@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nudes"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 02:13:54"
+published: "2023-06-12 16:38:49"
 subscribers: 197
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/nudes on lemmynsfw.com
-
-[[home](/)]
-[[/c/nudes 🌎](https://lemmynsfw.com/c/nudes)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Attempt At Verified Only Nude Posts<br><br>All unverified will be removed.<br><br>ONLY OC<br><br>WiP
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 197 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:38:49 |
-| Updated              | 2023-06-13 02:13:54 |
-| Last Scraped         | 2023-06-19 11:35:46 |

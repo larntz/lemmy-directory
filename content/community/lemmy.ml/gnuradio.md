@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnuradio"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 21:08:20"
+published: "2023-06-08 21:01:32"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/gnu radio on lemmy.ml
-
-[[home](/)]
-[[/c/gnuradio 🌎](https://lemmy.ml/c/gnuradio)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 21:01:32 |
-| Updated              | 2023-06-08 21:08:20 |
-| Last Scraped         | 2023-06-19 11:36:51 |

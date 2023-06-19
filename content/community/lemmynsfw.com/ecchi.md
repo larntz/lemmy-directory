@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ecchi"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 13:27:12"
+published: "2023-06-12 13:19:44"
 subscribers: 464
 posts: 24
 comments: 12
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Ecchi on lemmynsfw.com
-
-[[home](/)]
-[[/c/ecchi 🌎](https://lemmynsfw.com/c/ecchi)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-# Welcome to the Ecchi Community<br><br>**Ecchi** is characterized by light, playful sexual themes and imagery.<br><br>## Rules<br><br>Follow all [instance-wide](https://lemmynsfw.com) rules:<br>* Soft Porn ONLY! If you want to post hardcore content take it to [!hentai](/c/hentai), or [other communities](/communities) intended for it.<br>* No 3D Content.<br>* No Low Effort Posts<br>  * Includes low quality images/videos<br>* No AI Generated Content. If you want to Post anything AI generated use the relevant communities, such as [!aigen](/c/aigen) <br>* And above all, have fun!<br><br>*if possible* please also provide the sauce (link to artist etc) in the body of your post.<br>___<br>If you have any suggestions or ideas for the community please feel free to message [@FreezingInFuckingHell](https://lemmynsfw.com/u/FreezingInFuckingHell).<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 464 |
-| Posts                | 24  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:19:44 |
-| Updated              | 2023-06-12 13:27:12 |
-| Last Scraped         | 2023-06-19 11:35:46 |

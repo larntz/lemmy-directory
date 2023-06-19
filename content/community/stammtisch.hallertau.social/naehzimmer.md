@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/naehzimmer"
 host: stammtisch.hallertau.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-02-10 11:20:39"
 subscribers: 3
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "stammtisch_hallertau_social"
 
 ---
-
-# /c/Nähzimmer on stammtisch.hallertau.social
-
-[[home](/)]
-[[/c/naehzimmer 🌎](https://stammtisch.hallertau.social/c/naehzimmer)]
-[[stammtisch.hallertau.social](/instances/stammtisch_hallertau_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Das Nähzimmer der Hallertau
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-10 11:20:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:51 |

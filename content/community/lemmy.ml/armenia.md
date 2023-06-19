@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/armenia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-17 06:18:08"
+published: "2022-07-17 06:11:54"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Հայաստան on lemmy.ml
-
-[[home](/)]
-[[/c/armenia 🌎](https://lemmy.ml/c/armenia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## Join<br>* [#hayastan:matrix.org](https://matrix.to/#/#hayastan:matrix.org)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-17 06:11:54 |
-| Updated              | 2022-07-17 06:18:08 |
-| Last Scraped         | 2023-06-19 11:36:55 |

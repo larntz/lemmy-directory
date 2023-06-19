@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/cyberpunkpics"
 host: dataterm.digital
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 17:01:29"
+published: "2023-06-11 17:00:32"
 subscribers: 48
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "dataterm_digital"
 
 ---
-
-# /c/CYBERPUNK.pics on dataterm.digital
-
-[[home](/)]
-[[/c/cyberpunkpics 🌎](https://dataterm.digital/c/cyberpunkpics)]
-[[dataterm.digital](/instances/dataterm_digital)]
-
-
-## Description 
-
-<blockquote class="description">
-CYBERPUNK.pics - a international cyberpunk'ish LGBTQIA+ friendly Pixelfed instance for edgerunners, netrunners and cyberpunks and all who want to become one. Powered by CORTEXIMPLANT.com
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 48 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:00:32 |
-| Updated              | 2023-06-11 17:01:29 |
-| Last Scraped         | 2023-06-19 11:35:18 |

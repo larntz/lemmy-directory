@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oldpeoplefacebook"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 10:04:21"
+published: "2023-06-12 10:02:31"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Old Person(s) FaceBook on lemmy.world
-
-[[home](/)]
-[[/c/oldpeoplefacebook 🌎](https://lemmy.world/c/oldpeoplefacebook)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This is LE POGGERS community to make fun of LE DUMB BOOMERS who use FaceBook!!!!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:02:31 |
-| Updated              | 2023-06-12 10:04:21 |
-| Last Scraped         | 2023-06-19 11:36:40 |

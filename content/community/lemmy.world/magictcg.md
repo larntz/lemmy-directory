@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magictcg"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 19:17:34"
 subscribers: 313
 posts: 10
 comments: 34
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Magic: The Gathering on lemmy.world
-
-[[home](/)]
-[[/c/magictcg 🌎](https://lemmy.world/c/magictcg)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything & everything about the trading card game Magic: the Gathering, Magic Arena, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 313 |
-| Posts                | 10  |
-| Comments             | 34  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 21  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:17:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/revancedapks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-16 18:53:00"
+published: "2023-03-15 12:24:58"
 subscribers: 31
 posts: 15
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ReVanced APKs on lemmy.ml
-
-[[home](/)]
-[[/c/revancedapks 🌎](https://lemmy.ml/c/revancedapks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Sub for pre-compiled APKs of the latest versions of Youtube ReVanced. Request for authorised posters are actively encouraged as long as you do not provide malicious APKs and adhere to the format.<br><br>The original patches and integrations on the official Youtube APK (which I download from APKMirror), are from the repos (revanced-patches & revanced-integrations) linked here https://github.com/revanced but I use the modified version by inotia00 who offers some more customisations while compiling, the source code of which are available on the repos linked on their Github profile. <br><br>ONLY the Github repos, and any websites linked there are official, trust NOTHING else if you're looking to compile yourself.<br><br>Subreddit at r/myrevancedapks
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 15  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-15 12:24:58 |
-| Updated              | 2023-03-16 18:53:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |

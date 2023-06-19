@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/godot"
 host: foros.fediverso.gal
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-24 14:31:25"
+published: "2022-12-24 14:31:14"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "foros_fediverso_gal"
 
 ---
-
-# /c/Godot on foros.fediverso.gal
-
-[[home](/)]
-[[/c/godot 🌎](https://foros.fediverso.gal/c/godot)]
-[[foros.fediverso.gal](/instances/foros_fediverso_gal)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-24 14:31:14 |
-| Updated              | 2022-12-24 14:31:25 |
-| Last Scraped         | 2023-06-19 11:34:49 |

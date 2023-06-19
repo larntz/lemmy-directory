@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/writing"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 00:39:11"
+published: "2023-06-09 00:00:05"
 subscribers: 127
 posts: 3
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Writing on sh.itjust.works
-
-[[home](/)]
-[[/c/writing 🌎](https://sh.itjust.works/c/writing)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss writing, post craft resources, ask for feedback, etc!<br><br>No misconduct, including: harassment, abuse, assault, bullying, illegal activity, or discrimination.<br><br>**Follow all sh.itjust.works rules.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 127 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 00:00:05 |
-| Updated              | 2023-06-09 00:39:11 |
-| Last Scraped         | 2023-06-19 11:35:06 |

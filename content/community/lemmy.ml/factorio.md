@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/factorio"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 19:50:18"
+published: "2023-06-05 09:01:06"
 subscribers: 304
 posts: 15
 comments: 68
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Factorio on lemmy.ml
-
-[[home](/)]
-[[/c/factorio 🌎](https://lemmy.ml/c/factorio)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Dreaming of transport belts<br><br>**Rules**<br>- All content must be Factorio related<br>- No political content<br>- Be nice<br><br>Last updated: 2023/06/05<br><br>**Useful links**<br><br>* [Cheatsheet](https://factoriocheatsheet.com/)<br>* [Forums](https://forums.factorio.com/)<br>* [/r/factorio](https://old.reddit.com/r/factorio)<br>* [Wiki](https://wiki.factorio.com/)<br>* [Mods](https://mods.factorio.com/)<br>* [Discord](https://discord.gg/factorio)<br>* [Twitter](https://twitter.com/factoriogame)<br><br>**Purchase**<br><br>Factorio has never been on sale and will (probably) never be on sale<br><br>* [Wube](https://factorio.com/buy)<br>* [Steam](https://store.steampowered.com/app/427520/Factorio/)<br>* [GOG](https://www.gog.com/game/factorio)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 304 |
-| Posts                | 15  |
-| Comments             | 68  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 31  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 09:01:06 |
-| Updated              | 2023-06-07 19:50:18 |
-| Last Scraped         | 2023-06-19 11:36:44 |

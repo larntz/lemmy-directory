@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badminton"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:27:19"
+published: "2023-06-03 09:00:37"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Badminton on lemmy.ml
-
-[[home](/)]
-[[/c/badminton 🌎](https://lemmy.ml/c/badminton)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Home of Badminton on Lemmy. Opening soon.<br><br>[Badminton Matrix Chat](https://matrix.to/#/#badminton-lemmy:matrix.org)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 09:00:37 |
-| Updated              | 2023-06-15 22:27:19 |
-| Last Scraped         | 2023-06-19 11:36:43 |

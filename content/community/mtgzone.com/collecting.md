@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/collecting"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:42:12"
+published: "2023-06-10 01:15:21"
 subscribers: 19
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Collecting on mtgzone.com
-
-[[home](/)]
-[[/c/collecting 🌎](https://mtgzone.com/c/collecting)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Community for Magic collectors!**<br><br>If you love the collectible side of Magic: the Gathering this community is for you!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:15:21 |
-| Updated              | 2023-06-15 19:42:12 |
-| Last Scraped         | 2023-06-19 11:35:14 |

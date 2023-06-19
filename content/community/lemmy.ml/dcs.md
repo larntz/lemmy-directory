@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dcs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-18 15:26:19"
+published: "2021-07-18 14:06:18"
 subscribers: 43
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Distributed Control Systems on lemmy.ml
-
-[[home](/)]
-[[/c/dcs 🌎](https://lemmy.ml/c/dcs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community for techs and engineers that work with any number of [DCS (Distributed Controls Systems)](https://en.wikipedia.org/wiki/Distributed_control_system) to seek configuration and programming help, share tips and tricks, complain and bemoan the behemoths that create these systems or just chit chat with folks that feel your pain.<br><br>Live chat on matrix<br>[#dcs:matrix.org](https://matrix.to/#/#dcs:matrix.org)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-18 14:06:18 |
-| Updated              | 2021-07-18 15:26:19 |
-| Last Scraped         | 2023-06-19 11:36:45 |

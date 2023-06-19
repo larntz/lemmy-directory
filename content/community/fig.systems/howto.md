@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/howto"
 host: fig.systems
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 16:20:53"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fig_systems"
 
 ---
-
-# /c/How To Do Stuff on fig.systems
-
-[[home](/)]
-[[/c/howto 🌎](https://fig.systems/c/howto)]
-[[fig.systems](/instances/fig_systems)]
-
-
-## Description 
-
-<blockquote class="description">
-Fig.Systems Community for sharing how-to's and tutorials.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 16:20:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:09 |

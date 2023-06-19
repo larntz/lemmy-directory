@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ffxiv"
 host: lemmy.blahaj.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:39:31"
+published: "2023-06-12 17:38:06"
 subscribers: 33
 posts: 6
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_blahaj_zone"
 
 ---
-
-# /c/Final Fantasy X|V on lemmy.blahaj.zone
-
-[[home](/)]
-[[/c/ffxiv 🌎](https://lemmy.blahaj.zone/c/ffxiv)]
-[[lemmy.blahaj.zone](/instances/lemmy_blahaj_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the critically-acclaimed  MMORPG *Final Fantasy XIV*, now available with a Free Trial up to Level 60 and includes the award-winning *Heavensward* expansion with no restrictions on playtime<br><br> [The Lodestone](https://na.finalfantasyxiv.com/lodestone/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:38:06 |
-| Updated              | 2023-06-14 18:39:31 |
-| Last Scraped         | 2023-06-19 11:35:28 |

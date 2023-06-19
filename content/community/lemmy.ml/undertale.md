@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undertale"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 11:25:28"
+published: "2021-03-23 05:37:11"
 subscribers: 18
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Undertale/Deltarune on lemmy.ml
-
-[[home](/)]
-[[/c/undertale 🌎](https://lemmy.ml/c/undertale)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the videogames Undertale and Deltarune<br><br>Rules:<br>1. No NSFW! Such posts will be removed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-23 05:37:11 |
-| Updated              | 2021-03-24 11:25:28 |
-| Last Scraped         | 2023-06-19 11:36:52 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/keepmyview"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 14:41:46"
+published: "2023-06-09 13:45:32"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Keep My View on lemmy.ml
-
-[[home](/)]
-[[/c/keepmyview 🌎](https://lemmy.ml/c/keepmyview)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to post an opinion you accept may be correct, in an effort to explain your perspective on the issue. Enter with a mindset for conversation, not debate. Visit [!changemyview](https://lemmy.ml/c/changemyview) for the opposite version.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 13:45:32 |
-| Updated              | 2023-06-09 14:41:46 |
-| Last Scraped         | 2023-06-19 11:36:57 |

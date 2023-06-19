@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ab_dl"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:15:56"
+published: "2023-06-14 15:39:06"
 subscribers: 34
 posts: 2
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/ABDL on lemmynsfw.com
-
-[[home](/)]
-[[/c/ab_dl 🌎](https://lemmynsfw.com/c/ab_dl)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A new place to connect with other ABDL's. <br><br>Related Lemmy's:<br><br>Videos - https://lemmynsfw.com/c/abdl_videos<br><br>Girls in diapers -<br>https://lemmynsfw.com/c/girls_in_diapers<br><br>Dudes in diapers -<br><br>https://lemmynsfw.com/c/dudesindiapers<br><br>Meeting up -<br><br>https://lemmynsfw.com/c/abdl_asl<br><br>Diaper Porn -<br><br>https://lemmynsfw.com/c/diaperporn<br><br>Diapered Trans -<br><br>https://lemmynsfw.com/c/diapered_trans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:39:06 |
-| Updated              | 2023-06-14 16:15:56 |
-| Last Scraped         | 2023-06-19 11:35:46 |

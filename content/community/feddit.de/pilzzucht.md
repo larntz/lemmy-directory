@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pilzzucht"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 11:33:58"
+published: "2023-06-11 10:48:07"
 subscribers: 20
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Pilzzucht - Speisepilze selbst anbauen on feddit.de
-
-[[home](/)]
-[[/c/pilzzucht 🌎](https://feddit.de/c/pilzzucht)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Eine deutsche Community zum (Heim-)anbau von Speisepilzen.<br><br>Postet hier eure Diskussionen und Fragen zum Thema Experimente, Erfolge, Fotos, Nährmedien, und vielem mehr! 🍄<br><br>Regeln:<br>- Posts bitte wenn möglich mit Tags markieren, z.B. [Technik] oder [Anfänger]<br>- Kein Handel von professionellen, profitorientierten Händlern. Der (Tausch-)Handel unter Hobbyzüchtern (Kulturen, Equipment, usw.) ist aber erlaubt! Kaufempfehlungen sind auch erlaubt, solange es keine Werbung ist.<br>- Etikette beachten<br><br>Aus Legalitätsgründen dürfen hier ausschließlich Speisepilze (Austernpilze, Lions Mane, Shiitake, etc.) gepostet und besprochen werden, da wir keine Anleitung für Illegales geben und gebannt werden wollen.<br><br>Für den Anbau von halluzinogenen Pilzen könnte es eine alternative Community geben.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 10:48:07 |
-| Updated              | 2023-06-13 11:33:58 |
-| Last Scraped         | 2023-06-19 11:35:39 |

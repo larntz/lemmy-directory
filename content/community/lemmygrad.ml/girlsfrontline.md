@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/girlsfrontline"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-15 07:27:32"
+published: "2022-04-15 07:17:57"
 subscribers: 14
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Girls' Frontline  on lemmygrad.ml
-
-[[home](/)]
-[[/c/girlsfrontline 🌎](https://lemmygrad.ml/c/girlsfrontline)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-15 07:17:57 |
-| Updated              | 2022-04-15 07:27:32 |
-| Last Scraped         | 2023-06-19 11:35:08 |

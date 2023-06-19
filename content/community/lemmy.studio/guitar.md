@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/guitar"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 03:49:14"
 subscribers: 80
 posts: 1
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Guitars and more on lemmy.studio
-
-[[home](/)]
-[[/c/guitar 🌎](https://lemmy.studio/c/guitar)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-Community devoted to the exchange of guitar related information.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 1  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 03:49:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:58 |

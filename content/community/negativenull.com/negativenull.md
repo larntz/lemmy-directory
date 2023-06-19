@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://negativenull.com/c/negativenull"
 host: negativenull.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 17:30:59"
+published: "2023-06-09 15:00:20"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "negativenull_com"
 
 ---
-
-# /c/negativenull on negativenull.com
-
-[[home](/)]
-[[/c/negativenull 🌎](https://negativenull.com/c/negativenull)]
-[[negativenull.com](/instances/negativenull_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 15:00:20 |
-| Updated              | 2023-06-09 17:30:59 |
-| Last Scraped         | 2023-06-19 11:35:13 |

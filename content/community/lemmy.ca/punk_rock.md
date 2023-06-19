@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/punk_rock"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 19:52:18"
+published: "2023-06-06 22:29:02"
 subscribers: 95
 posts: 21
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Punk Rock on lemmy.ca
-
-[[home](/)]
-[[/c/punk_rock 🌎](https://lemmy.ca/c/punk_rock)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 95 |
-| Posts                | 21  |
-| Comments             | 16  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 22:29:02 |
-| Updated              | 2023-06-16 19:52:18 |
-| Last Scraped         | 2023-06-19 11:35:36 |

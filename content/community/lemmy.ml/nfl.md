@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nfl"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-12 15:30:24"
 subscribers: 600
 posts: 34
 comments: 171
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/nfl on lemmy.ml
-
-[[home](/)]
-[[/c/nfl 🌎](https://lemmy.ml/c/nfl)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 600 |
-| Posts                | 34  |
-| Comments             | 171  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 61  |
-| Monthly Active Users | 101  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-12 15:30:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:51 |

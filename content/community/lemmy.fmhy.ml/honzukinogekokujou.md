@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/honzukinogekokujou"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 20:35:17"
+published: "2023-06-11 20:39:56"
 subscribers: 27
 posts: 6
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Ascendance of a Bookworm [Migrated to bookwormstory.socal Please read pinned post] on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/honzukinogekokujou 🌎](https://lemmy.fmhy.ml/c/honzukinogekokujou)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please migrate to [bookwormstory.social]()<br><br>You do not need to make a new account!<br><br>Click on links bellow to join:<br><br>[!aoblightnovel@bookwormstory.social](aoblightnovel@bookwormstory.social)<br><br>[!aobmanga@bookwormstory.social](aobmanga@bookwormstory.social)<br><br>[!aobanime@bookwormstory.social](aobanime@bookwormstory.social)<br><br>[!aobwebnovel@bookwormstory.social](aobwebnovel@bookwormstory.social)<br><br>[!metadiscussions@bookwormstory.social](metadiscussions@bookwormstory.social)<br><br>[!aobprepub@bookwormstory.social](aobprepub@bookwormstory.social)<br><br>If these links don’t work you can try federation (paste the follwing text in your search bar) (It can be janky at times)<br><br>Alternatively (if you have an acount on lemmy.fmhy.ml)<br><br>Click on links bellow to join:<br><br>https://lemmy.fmhy.ml/c/aoblightnovel@bookwormstory.social<br><br>https://lemmy.fmhy.ml/c/aobwebnovel@bookwormstory.social<br><br>https://lemmy.fmhy.ml/c/aobmangal@bookwormstory.social<br><br>https://lemmy.fmhy.ml/c/aobanime@bookwormstory.social<br><br><br>https://lemmy.fmhy.ml/c/metadiscussions@bookwormstory.social<br><br><br><br><br>This lemmy is dedicated to the Japanese fantasy light novel series written by Miya Kazuki and illustrated by Yō Shiina titled Honzuki no Gekokujō, licensed in English under the name of Ascendance of a Bookworm.<br><br>I legit just copied this of of r/HonzukiNoGekokujou
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 6  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 20:39:56 |
-| Updated              | 2023-06-18 20:35:17 |
-| Last Scraped         | 2023-06-19 11:35:02 |

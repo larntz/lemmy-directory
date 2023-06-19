@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.house/c/monero_memes"
 host: monero.house
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-05-26 14:16:44"
 subscribers: 5
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "monero_house"
 
 ---
-
-# /c/Monero Memes on monero.house
-
-[[home](/)]
-[[/c/monero_memes 🌎](https://monero.house/c/monero_memes)]
-[[monero.house](/instances/monero_house)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-26 14:16:44 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:53 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/latino_marxista"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-19 07:11:59"
+published: "2020-08-17 22:54:55"
 subscribers: 236
 posts: 1019
 comments: 179
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Latino Marxista on lemmygrad.ml
-
-[[home](/)]
-[[/c/latino_marxista 🌎](https://lemmygrad.ml/c/latino_marxista)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunidad marxista leninista latina creada por la falta de material comunista en español. Repositorio de posts de calidad, discusión, noticias, memes y cualquier material que pueda aportar para el conocimiento y la acción comunista.<br><br> *Reglas*<br> <br>1.-  Contenido principalmente en **español**. <br>O português brasileiro também é bem-vindo. Si es portuñol, melhor aún.<br><br>2.- Sólo posts marxistas leninistas o maoístas
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 236 |
-| Posts                | 1019  |
-| Comments             | 179  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-17 22:54:55 |
-| Updated              | 2020-08-19 07:11:59 |
-| Last Scraped         | 2023-06-19 11:35:08 |

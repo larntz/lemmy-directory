@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/poker"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:15:38"
+published: "2023-06-15 04:52:59"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Poker on lemmy.world
-
-[[home](/)]
-[[/c/poker 🌎](https://lemmy.world/c/poker)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Home of poker on Lemmy.<br><br>Share all things poker in here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:52:59 |
-| Updated              | 2023-06-15 05:15:38 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/greater_sudbury"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-01-05 17:17:05"
 subscribers: 16
 posts: 10
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Greater Sudbury - Ontario on lemmy.ca
-
-[[home](/)]
-[[/c/greater_sudbury 🌎](https://lemmy.ca/c/greater_sudbury)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Dedicated to news, events & organizations in Greater Sudbury, Ontario. Articles & news affecting Northeastern Ontario as a whole are also welcome.<br><br>Try to keep things positive and help build the community you want to see.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 10  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-05 17:17:05 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:37 |

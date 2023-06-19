@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/subaru"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-08 22:27:55"
+published: "2022-02-08 22:27:32"
 subscribers: 19
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Subaru on lemmy.ml
-
-[[home](/)]
-[[/c/subaru 🌎](https://lemmy.ml/c/subaru)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-08 22:27:32 |
-| Updated              | 2022-02-08 22:27:55 |
-| Last Scraped         | 2023-06-16 11:07:33 |

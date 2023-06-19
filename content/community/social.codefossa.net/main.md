@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://social.codefossa.net/c/main"
 host: social.codefossa.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 19:03:31"
+published: "2023-06-17 18:54:22"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "social_codefossa_net"
 
 ---
-
-# /c/Codefossa Social on social.codefossa.net
-
-[[home](/)]
-[[/c/main 🌎](https://social.codefossa.net/c/main)]
-[[social.codefossa.net](/instances/social_codefossa_net)]
-
-
-## Description 
-
-<blockquote class="description">
-The default community for Codefossa Social.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 18:54:22 |
-| Updated              | 2023-06-17 19:03:31 |
-| Last Scraped         | 2023-06-19 11:35:30 |

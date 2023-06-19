@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/usernamechecksout"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-12 17:52:02"
+published: "2021-03-04 01:22:08"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/UsernameChecksOut on lemmy.ml
-
-[[home](/)]
-[[/c/usernamechecksout 🌎](https://lemmy.ml/c/usernamechecksout)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for screenshots of posts where the username checks out. <br><br> Community Rules:<br><br>1. Screenshots can be from any site example: Reddit, Twitter, Facebook, Instagram, etc. <br><br>2. Blur out Usernames, real names, or other information that could identify the person. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-04 01:22:08 |
-| Updated              | 2021-03-12 17:52:02 |
-| Last Scraped         | 2023-06-19 11:36:59 |

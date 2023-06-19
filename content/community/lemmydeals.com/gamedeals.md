@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmydeals.com/c/gamedeals"
 host: lemmydeals.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 23:06:22"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmydeals_com"
 
 ---
-
-# /c/Game Deals on lemmydeals.com
-
-[[home](/)]
-[[/c/gamedeals 🌎](https://lemmydeals.com/c/gamedeals)]
-[[lemmydeals.com](/instances/lemmydeals_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 23:06:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

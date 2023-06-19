@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/torrent_trackers"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-23 22:13:01"
+published: "2021-04-20 14:07:48"
 subscribers: 210
 posts: 25
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Torrent Trackers on lemmy.ml
-
-[[home](/)]
-[[/c/torrent_trackers 🌎](https://lemmy.ml/c/torrent_trackers)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share our favorite torrent websites.<br><br>Please indicate if the website is **[private]** this means that you need an account or an invitation to download a .torrent or **[public]** which means that we have free access to the torrents. <br><br>The general language **[INT]** for international or **[FR] [EN] [DE]** ... <br><br>If the tracker is specialized **[Music] [Movies]** or **[General]**<br><br>If it asks for an invitation to join, add: **[Invitation]**<br><br>Example:<br>**domain.tld [Public] [General] [INT]**<br><br>Other Example:<br>**domain.tld [Private] [Movies] [FR] [Invitation]**<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 210 |
-| Posts                | 25  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-20 14:07:48 |
-| Updated              | 2021-04-23 22:13:01 |
-| Last Scraped         | 2023-06-19 11:36:45 |

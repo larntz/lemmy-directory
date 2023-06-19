@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/futurology"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 10:54:11"
+published: "2023-06-11 10:53:29"
 subscribers: 150
 posts: 4
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Futurology on lemmy.world
-
-[[home](/)]
-[[/c/futurology 🌎](https://lemmy.world/c/futurology)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Futurology, a community devoted to the field of Future(s) Studies and speculation about the development of humanity, technology, and civilization.<br><br>**Rules**<br><br>1. Be respectful and inclusive.<br>2. No harassment, hate speech, or trolling.<br>3. Engage in constructive discussions.<br>4. Share relevant content.<br>5. Follow guidelines and moderators' instructions.<br>6. Use appropriate language and tone.<br>7. Report violations.<br>8. Foster a continuous learning environment.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 150 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 10:53:29 |
-| Updated              | 2023-06-17 10:54:11 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/klimawandel"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-18 06:51:32"
+published: "2021-08-31 19:49:09"
 subscribers: 605
 posts: 166
 comments: 266
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Klimawandel on feddit.de
-
-[[home](/)]
-[[/c/klimawandel 🌎](https://feddit.de/c/klimawandel)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 605 |
-| Posts                | 166  |
-| Comments             | 266  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 67  |
-| Monthly Active Users | 86  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-31 19:49:09 |
-| Updated              | 2021-09-18 06:51:32 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/xtremeownage"
 host: lemmyonline.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 14:21:44"
+published: "2023-06-16 00:37:18"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyonline_com"
 
 ---
-
-# /c/XtremeOwnage.com on lemmyonline.com
-
-[[home](/)]
-[[/c/xtremeownage 🌎](https://lemmyonline.com/c/xtremeownage)]
-[[lemmyonline.com](/instances/lemmyonline_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything relating to https://xtremeownage.com/ <br><br>And the new-<br><br>https://static.xtremeownage.com/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 00:37:18 |
-| Updated              | 2023-06-16 14:21:44 |
-| Last Scraped         | 2023-06-19 11:35:30 |

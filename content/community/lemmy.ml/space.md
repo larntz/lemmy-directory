@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/space"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-28 20:26:09"
+published: "2020-02-20 20:44:36"
 subscribers: 1367
 posts: 377
 comments: 173
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Space, the final frontier on lemmy.ml
-
-[[home](/)]
-[[/c/space 🌎](https://lemmy.ml/c/space)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
- **c/space Rules** <br><br>- Submissions must be related to Space<br>- No sensationalist/ misleading/ unscientific content<br>- No spam<br>- No low-effort or meme images
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1367 |
-| Posts                | 377  |
-| Comments             | 173  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-20 20:44:36 |
-| Updated              | 2021-01-28 20:26:09 |
-| Last Scraped         | 2023-06-19 11:36:46 |

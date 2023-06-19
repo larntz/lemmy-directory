@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ergomechkeyboards"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 05:40:57"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/ErgoMechKeyboards on diggit.xyz
-
-[[home](/)]
-[[/c/ergomechkeyboards 🌎](https://diggit.xyz/c/ergomechkeyboards)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A home for ergonomic and weird keyboards and discussion. If it's not normal, we'll probably love it. Most people on this sub are deeply kinky deviants doing unspeakable things with QMK
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:40:57 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

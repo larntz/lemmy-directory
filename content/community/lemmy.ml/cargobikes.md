@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cargobikes"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-24 17:15:11"
+published: "2021-10-24 16:58:47"
 subscribers: 20
 posts: 10
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cargo Bikes on lemmy.ml
-
-[[home](/)]
-[[/c/cargobikes 🌎](https://lemmy.ml/c/cargobikes)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Freight bicycles, carrier cycles, freight tricycles, cargo bikes, box bikes, or cycletrucks** are human powered vehicles designed and constructed specifically for transporting loads.<br><br>Banner photo by Ger maan on Wikimedia Commons
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 10  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-24 16:58:47 |
-| Updated              | 2021-10-24 17:15:11 |
-| Last Scraped         | 2023-06-19 11:36:44 |

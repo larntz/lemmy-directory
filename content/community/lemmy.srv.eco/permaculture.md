@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/permaculture"
 host: lemmy.srv.eco
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:16:36"
+published: "2023-06-14 12:49:54"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_srv_eco"
 
 ---
-
-# /c/🌲 Permaculture on lemmy.srv.eco
-
-[[home](/)]
-[[/c/permaculture 🌎](https://lemmy.srv.eco/c/permaculture)]
-[[lemmy.srv.eco](/instances/lemmy_srv_eco)]
-
-
-## Description 
-
-<blockquote class="description">
-**Other communities:**<br><br>[/r/permaculture](https://reddit.com/r/permaculture)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:49:54 |
-| Updated              | 2023-06-15 22:16:36 |
-| Last Scraped         | 2023-06-19 11:35:29 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.cock.social/c/askgaybros"
 host: lemmy.cock.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 18:34:52"
 subscribers: 61
 posts: 1
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_cock_social"
 
 ---
-
-# /c/AskGayBros on lemmy.cock.social
-
-[[home](/)]
-[[/c/askgaybros 🌎](https://lemmy.cock.social/c/askgaybros)]
-[[lemmy.cock.social](/instances/lemmy_cock_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 1  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:34:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:04 |

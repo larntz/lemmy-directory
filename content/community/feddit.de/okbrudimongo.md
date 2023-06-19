@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/okbrudimongo"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 22:20:55"
+published: "2023-06-05 22:20:10"
 subscribers: 165
 posts: 8
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/OkBrudiMongo on feddit.de
-
-[[home](/)]
-[[/c/okbrudimongo 🌎](https://feddit.de/c/okbrudimongo)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 165 |
-| Posts                | 8  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 22:20:10 |
-| Updated              | 2023-06-05 22:20:55 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neos"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 00:45:24"
+published: "2023-06-12 00:44:29"
 subscribers: 6
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Neos VR fans on lemmy.world
-
-[[home](/)]
-[[/c/neos 🌎](https://lemmy.world/c/neos)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-a fan community for NeosVR
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:44:29 |
-| Updated              | 2023-06-12 00:45:24 |
-| Last Scraped         | 2023-06-19 11:36:41 |

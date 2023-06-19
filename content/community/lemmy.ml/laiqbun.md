@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/laiqbun"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-04 20:40:43"
+published: "2021-11-04 20:33:25"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Laiqbun on lemmy.ml
-
-[[home](/)]
-[[/c/laiqbun 🌎](https://lemmy.ml/c/laiqbun)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Laiqbun community on Lemmy while Sopuli is down. Feel free to share art and resources related to the language or its fictional culture, the Zhanbun.<br><br>1. Be respectful, considerate and don't support any kind of bigotry. No ableism, transphobia, racism, homophobia, pluralmisia, ace exclusionism. Harassment is not tolerated. Gatekeeping is not tolerated. Triggered jokes are not funny.<br><br>2. Keep the safety of the community intact. Stay away from heated debates, aggressivity, threats of any kind, etc.<br><br>3. No NSFW content or explicit discussions about NSFW topics. <br><br>- **Dictionary:** https://ampersandia.net/roxy/laiqbun/laiqbun-dictionary.html<br>- **Course:** https://ampersandia.net/roxy/lqb-course/introduction.html  *(Incomplete)*<br>- **Matrix Community:** https://matrix.to/#/#laiqbun:tchncs.de<br>- **Discord Server:** https://discord.com/invite/HWcE6fq
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-04 20:33:25 |
-| Updated              | 2021-11-04 20:40:43 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/astros"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:43:07"
+published: "2023-06-09 17:02:41"
 subscribers: 6
 posts: 5
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/Astros on fanaticus.social
-
-[[home](/)]
-[[/c/astros 🌎](https://fanaticus.social/c/astros)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [r/Astros](https://old.reddit.com/r/Astros)<br><br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 5  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:02:41 |
-| Updated              | 2023-06-12 16:43:07 |
-| Last Scraped         | 2023-06-19 11:35:15 |

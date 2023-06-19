@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/linkedinlunatics"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 21:49:13"
+published: "2023-06-10 17:23:08"
 subscribers: 553
 posts: 12
 comments: 79
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/LinkedinLunatics on sh.itjust.works
-
-[[home](/)]
-[[/c/linkedinlunatics 🌎](https://sh.itjust.works/c/linkedinlunatics)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to post ridiculous posts from linkedIn.com<br><br>(Full transparency.. a mod for this sub happens to work there.. but that doesn't influence his moderation or laughter at a lot of posts.)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 553 |
-| Posts                | 12  |
-| Comments             | 79  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:23:08 |
-| Updated              | 2023-06-10 21:49:13 |
-| Last Scraped         | 2023-06-19 11:35:05 |

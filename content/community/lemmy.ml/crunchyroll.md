@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crunchyroll"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-14 01:54:56"
+published: "2022-02-03 00:28:09"
 subscribers: 28
 posts: 12
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Crunchyroll on lemmy.ml
-
-[[home](/)]
-[[/c/crunchyroll 🌎](https://lemmy.ml/c/crunchyroll)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 12  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-03 00:28:09 |
-| Updated              | 2022-02-14 01:54:56 |
-| Last Scraped         | 2023-06-19 11:36:45 |

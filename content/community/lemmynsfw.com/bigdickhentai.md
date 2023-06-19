@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bigdickhentai"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 00:45:56"
+published: "2023-06-14 09:23:05"
 subscribers: 122
 posts: 42
 comments: 4
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Big Dick Hentai on lemmynsfw.com
-
-[[home](/)]
-[[/c/bigdickhentai 🌎](https://lemmynsfw.com/c/bigdickhentai)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-For hentai focused on big dicks.<br><br>Please follow instance rules.<br><br>If possible, include the (artist) and [title/franchise] in the post title.<br><br>Message me if you're interested in being a mod. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 122 |
-| Posts                | 42  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:23:05 |
-| Updated              | 2023-06-18 00:45:56 |
-| Last Scraped         | 2023-06-19 11:35:45 |

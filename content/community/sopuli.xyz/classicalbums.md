@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/classicalbums"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 21:42:28"
+published: "2022-03-31 06:05:55"
 subscribers: 112
 posts: 23
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Classic Albums (Music) on sopuli.xyz
-
-[[home](/)]
-[[/c/classicalbums 🌎](https://sopuli.xyz/c/classicalbums)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Post about your essential albums from your collection - albums that should be on the doco series!  Albums should be 10+ years or older.<br><br>Please indicate **Genre** and **Year of Release** in the post title.<br><br>You can search for various music communities via the [Lemmy Community Browser](https://browse.feddit.de/)<br><br>**Sopuli Music Communities**<br><br>[!vinyl@sopuli.xyz](https://sopuli.xyz/c/vinyl)  <br>[!music@sopuli.xyz](https://sopuli.xyz/c/music)<br>[!edm@sopuli.xyz](https://sopuli.xyz/c/edm)<br>[!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)<br>[!blackmetal@sopuli.xyz](https://sopuli.xyz/c/blackmetal)<br>[!doom_metal@sopuli.xyz](https://sopuli.xyz/c/doom_metal) <br>[!hiphopheads@sopuli.xyz](https://sopuli.xyz/c/hiphopheads)<br>[!shoegaze@sopuli.xyz](https://sopuli.xyz/c/shoegaze)<br>[!classicalbums@sopuli.xyz](https://sopuli.xyz/c/classicalbums)<br>[!synthesizers@sopuli.xyz](https://sopuli.xyz/c/synthesizers)<br>[!bass@sopuli.xyz](https://sopuli.xyz/c/bass)<br>[!organ@sopuli.xyz](https://sopuli.xyz/c/organ)<br>[!jazz@sopuli.xyz](https://sopuli.xyz/c/jazz) (empty)<br>[!beatles@sopuli.xyz](https://sopuli.xyz/c/beatles)<br>[!radiohead@sopuli.xyz](https://sopuli.xyz/c/radiohead)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 23  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-31 06:05:55 |
-| Updated              | 2023-06-14 21:42:28 |
-| Last Scraped         | 2023-06-19 11:35:33 |

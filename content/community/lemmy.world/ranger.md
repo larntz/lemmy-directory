@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ranger"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:44:12"
+published: "2023-06-12 15:37:34"
 subscribers: 7
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ford Ranger - All Generations on lemmy.world
-
-[[home](/)]
-[[/c/ranger 🌎](https://lemmy.world/c/ranger)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy Community for Ford Ranger enthusiasts 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:37:34 |
-| Updated              | 2023-06-12 15:44:12 |
-| Last Scraped         | 2023-06-19 11:36:38 |

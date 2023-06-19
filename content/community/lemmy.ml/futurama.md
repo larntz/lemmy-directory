@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/futurama"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 22:27:40"
+published: "2023-06-07 22:19:34"
 subscribers: 17
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Futurama on lemmy.ml
-
-[[home](/)]
-[[/c/futurama 🌎](https://lemmy.ml/c/futurama)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Can't find r/futurama? Why not Zoidberg?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 22:19:34 |
-| Updated              | 2023-06-07 22:27:40 |
-| Last Scraped         | 2023-06-19 11:36:56 |

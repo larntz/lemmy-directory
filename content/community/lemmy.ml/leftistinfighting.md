@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftistinfighting"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-02 22:31:05"
+published: "2023-06-02 22:25:34"
 subscribers: 67
 posts: 6
 comments: 76
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Leftist Infighting on lemmy.ml
-
-[[home](/)]
-[[/c/leftistinfighting 🌎](https://lemmy.ml/c/leftistinfighting)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a safe space to call each other tankies and libs.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 67 |
-| Posts                | 6  |
-| Comments             | 76  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 15  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 22:25:34 |
-| Updated              | 2023-06-02 22:31:05 |
-| Last Scraped         | 2023-06-19 11:36:44 |

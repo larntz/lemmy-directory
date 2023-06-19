@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/main"
 host: suppo.fi
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 21:16:24"
 subscribers: 10
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "suppo_fi"
 
 ---
-
-# /c/Supon pääkanava on suppo.fi
-
-[[home](/)]
-[[/c/main 🌎](https://suppo.fi/c/main)]
-[[suppo.fi](/instances/suppo_fi)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:16:24 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:59 |

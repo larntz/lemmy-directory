@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackbloc"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-18 00:58:47"
+published: "2020-06-11 15:05:14"
 subscribers: 114
 posts: 93
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/HackBloc on lemmy.ml
-
-[[home](/)]
-[[/c/hackbloc 🌎](https://lemmy.ml/c/hackbloc)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist, Anti-Capitalist, Anarchist hackers
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 114 |
-| Posts                | 93  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-11 15:05:14 |
-| Updated              | 2021-06-18 00:58:47 |
-| Last Scraped         | 2023-06-19 11:37:02 |

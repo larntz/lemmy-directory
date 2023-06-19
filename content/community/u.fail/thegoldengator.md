@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/thegoldengator"
 host: u.fail
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 13:37:50"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "u_fail"
 
 ---
-
-# /c/The Golden Gator on u.fail
-
-[[home](/)]
-[[/c/thegoldengator 🌎](https://geddit.social/c/thegoldengator)]
-[[u.fail](/instances/u_fail)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 13:37:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

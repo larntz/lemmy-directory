@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ukrainekrieg"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-03 21:39:49"
+published: "2022-04-03 21:34:28"
 subscribers: 411
 posts: 186
 comments: 165
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Ukrainekrieg on feddit.de
-
-[[home](/)]
-[[/c/ukrainekrieg 🌎](https://feddit.de/c/ukrainekrieg)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Bitte nicht vergessen schlimme Bilder als NSFW zu markieren. <br><br>::: spoiler Attribution<br>Icons created by [Agung Rama](https://www.flaticon.com/authors/agung-rama) from [Flaticon](https://www.flaticon.com/)<br>:::<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 411 |
-| Posts                | 186  |
-| Comments             | 165  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 44  |
-| Monthly Active Users | 45  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-03 21:34:28 |
-| Updated              | 2022-04-03 21:39:49 |
-| Last Scraped         | 2023-06-19 11:35:39 |

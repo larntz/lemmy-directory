@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bluuit.org/c/bluuit"
 host: bluuit.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 21:43:47"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "bluuit_org"
 
 ---
-
-# /c/bluuit on bluuit.org
-
-[[home](/)]
-[[/c/bluuit 🌎](https://bluuit.org/c/bluuit)]
-[[bluuit.org](/instances/bluuit_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 21:43:47 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:13 |

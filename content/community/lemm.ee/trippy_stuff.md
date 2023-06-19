@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/trippy_stuff"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 21:42:25"
+published: "2023-06-16 12:07:16"
 subscribers: 10
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Trippy Stuff on lemm.ee
-
-[[home](/)]
-[[/c/trippy_stuff 🌎](https://lemm.ee/c/trippy_stuff)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A community that is all about trippy stuff.<br><br>Post trippy stuff here, it can be images, gifs, videos, websites, video games or anything, as long as it is visually trippy.<br><br><br><br>**Rules:**<br><br>-Please be respectful to each others.<br><br>-**If your post contains flashing images or anything that can potentially trigger seizures, then please put [SEIZURE WARNING] at the begining of your title**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 12:07:16 |
-| Updated              | 2023-06-16 21:42:25 |
-| Last Scraped         | 2023-06-19 11:35:16 |

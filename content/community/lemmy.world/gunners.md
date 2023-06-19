@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gunners"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 08:30:29"
+published: "2023-06-10 14:14:28"
 subscribers: 424
 posts: 85
 comments: 700
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Gunners on lemmy.world
-
-[[home](/)]
-[[/c/gunners 🌎](https://lemmy.world/c/gunners)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Phoenix community for /r/gunners
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 424 |
-| Posts                | 85  |
-| Comments             | 700  |
-| Daily Active Users   | 29  |
-| Weekly Active Users  | 113  |
-| Monthly Active Users | 113  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 14:14:28 |
-| Updated              | 2023-06-13 08:30:29 |
-| Last Scraped         | 2023-06-16 22:57:15 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/italia"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:32:19"
+published: "2023-06-13 16:59:10"
 subscribers: 13
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Italia on lemmy.world
-
-[[home](/)]
-[[/c/italia 🌎](https://lemmy.world/c/italia)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-**Benvenuti su !Italia**<br>Welcome to !Italia
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:59:10 |
-| Updated              | 2023-06-15 18:32:19 |
-| Last Scraped         | 2023-06-19 11:36:38 |

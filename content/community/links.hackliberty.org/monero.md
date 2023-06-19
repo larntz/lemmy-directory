@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://links.hackliberty.org/c/monero"
 host: links.hackliberty.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-07 03:27:46"
 subscribers: 7
 posts: 25
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "links_hackliberty_org"
 
 ---
-
-# /c/Monero on links.hackliberty.org
-
-[[home](/)]
-[[/c/monero 🌎](https://links.hackliberty.org/c/monero)]
-[[links.hackliberty.org](/instances/links_hackliberty_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Monero (XMR) is a decentralized cryptocurrency. It uses a public distributed ledger with privacy-enhancing technologies that obfuscate transactions to achieve anonymity and fungibility. Observers cannot decipher addresses trading monero, transaction amounts, address balances, or transaction histories.<br><br>The protocol is open source and based on CryptoNote, a concept described in a 2013 white paper authored by Nicolas van Saberhagen. The cryptography community used this concept to design Monero, and deployed its mainnet in 2014. Monero uses ring signatures, zero-knowledge proofs, stealth addresses, and IP address–obscuring methods to obfuscate transaction details. These features are baked into the protocol, though users can optionally share view keys for third-party auditing. Transactions are validated through a miner network running RandomX, a proof-of-work algorithm. The algorithm issues new coins to miners, and was designed to be resistant to application-specific integrated circuit (ASIC) mining.<br><br>Monero has the third-largest developer community among cryptocurrencies, behind Bitcoin and Ethereum. Its privacy features have attracted cypherpunks and users desiring privacy measures not provided in other cryptocurrencies<br><br>#### Rules<br>1. Don't do unto others what you don't want done unto you.<br>2. No Porn, Gore, or NSFW content. **Instant Ban.**<br>3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**<br>4. Stay on topic in a community. Please reach out to an admin to create a new community.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 25  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-07 03:27:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:10 |

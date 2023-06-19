@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/occult"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 06:54:55"
+published: "2023-06-11 05:37:32"
 subscribers: 75
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Occult, Esoteric, Magick, and Paranormal on lemmy.world
-
-[[home](/)]
-[[/c/occult 🌎](https://lemmy.world/c/occult)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of weird goings-on
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:37:32 |
-| Updated              | 2023-06-11 06:54:55 |
-| Last Scraped         | 2023-06-19 11:36:40 |

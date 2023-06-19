@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/spiele"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-10 16:15:18"
+published: "2021-08-30 12:41:35"
 subscribers: 454
 posts: 45
 comments: 102
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Spiele on feddit.de
-
-[[home](/)]
-[[/c/spiele 🌎](https://feddit.de/c/spiele)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Video- und Gesellschaftsspiele.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 454 |
-| Posts                | 45  |
-| Comments             | 102  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 34  |
-| Monthly Active Users | 66  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-30 12:41:35 |
-| Updated              | 2021-09-10 16:15:18 |
-| Last Scraped         | 2023-06-19 11:35:39 |

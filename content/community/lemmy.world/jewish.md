@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jewish"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 07:41:51"
+published: "2023-06-16 07:41:30"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Jewish on lemmy.world
-
-[[home](/)]
-[[/c/jewish 🌎](https://lemmy.world/c/jewish)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Jewish
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:41:30 |
-| Updated              | 2023-06-16 07:41:51 |
-| Last Scraped         | 2023-06-19 11:36:36 |

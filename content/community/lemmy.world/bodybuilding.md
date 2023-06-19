@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bodybuilding"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 20:35:35"
+published: "2023-06-09 19:54:40"
 subscribers: 27
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/bodybuilding on lemmy.world
-
-[[home](/)]
-[[/c/bodybuilding 🌎](https://lemmy.world/c/bodybuilding)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-bodybuilding
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:54:40 |
-| Updated              | 2023-06-09 20:35:35 |
-| Last Scraped         | 2023-06-19 11:36:42 |

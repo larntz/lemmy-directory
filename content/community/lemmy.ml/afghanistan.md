@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afghanistan"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-19 00:40:47"
+published: "2021-08-18 10:44:10"
 subscribers: 27
 posts: 29
 comments: 35
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Afghanistan on lemmy.ml
-
-[[home](/)]
-[[/c/afghanistan 🌎](https://lemmy.ml/c/afghanistan)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-## خوش آمدید<br><br>Everything about Afghanistan.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 29  |
-| Comments             | 35  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-18 10:44:10 |
-| Updated              | 2022-05-19 00:40:47 |
-| Last Scraped         | 2023-06-19 11:36:46 |

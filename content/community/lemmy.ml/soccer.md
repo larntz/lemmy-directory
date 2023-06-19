@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soccer"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 17:44:23"
+published: "2019-10-16 17:48:28"
 subscribers: 711
 posts: 131
 comments: 134
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Soccer, The World's Game on lemmy.ml
-
-[[home](/)]
-[[/c/soccer 🌎](https://lemmy.ml/c/soccer)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 711 |
-| Posts                | 131  |
-| Comments             | 134  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 27  |
-| Monthly Active Users | 65  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-10-16 17:48:28 |
-| Updated              | 2023-06-09 17:44:23 |
-| Last Scraped         | 2023-06-19 11:36:56 |

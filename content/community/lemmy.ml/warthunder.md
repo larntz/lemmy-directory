@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/warthunder"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 03:48:26"
+published: "2023-06-03 19:47:12"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/War Thunder on lemmy.ml
-
-[[home](/)]
-[[/c/warthunder 🌎](https://lemmy.ml/c/warthunder)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the War Thunder Community! Join us to connect with fellow players, discuss strategies, and stay informed about game updates. Engage in battles, form squads, and enjoy the world of War Thunder together. Enlist now and be part of our gaming community! 🎮⚔️
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 19:47:12 |
-| Updated              | 2023-06-04 03:48:26 |
-| Last Scraped         | 2023-06-19 11:36:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/india"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-06 06:53:44"
+published: "2020-07-06 06:53:05"
 subscribers: 49
 posts: 30
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/India: Lal Salaam on lemmygrad.ml
-
-[[home](/)]
-[[/c/india 🌎](https://lemmygrad.ml/c/india)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for news and discussion regarding in India.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 30  |
-| Comments             | 13  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-06 06:53:05 |
-| Updated              | 2020-07-06 06:53:44 |
-| Last Scraped         | 2023-06-16 22:56:08 |

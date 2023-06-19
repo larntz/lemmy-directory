@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/federation_test_c"
 host: lm.korako.me
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-02 07:45:21"
+published: "2021-11-24 00:22:22"
 subscribers: 23
 posts: 30
 comments: 41
@@ -22,36 +23,3 @@ tags:
 - "lm_korako_me"
 
 ---
-
-# /c/連合テスト用 on lm.korako.me
-
-[[home](/)]
-[[/c/federation_test_c 🌎](https://lm.korako.me/c/federation_test_c)]
-[[lm.korako.me](/instances/lm_korako_me)]
-
-
-## Description 
-
-<blockquote class="description">
-連合のテスト用です<br>うちと連合できるかどうかテストする際に使用してください。<br><br>好きに使っていただいて大丈夫です。<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 30  |
-| Comments             | 41  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-11-24 00:22:22 |
-| Updated              | 2023-03-02 07:45:21 |
-| Last Scraped         | 2023-06-19 11:34:44 |

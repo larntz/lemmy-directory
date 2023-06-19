@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmur"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-19 09:12:23"
+published: "2021-01-20 16:34:00"
 subscribers: 594
 posts: 62
 comments: 331
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/lemmur on lemmy.ml
-
-[[home](/)]
-[[/c/lemmur 🌎](https://lemmy.ml/c/lemmur)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community dedicated to discussions around a mobile lemmy client<br><br>Code repository: [github.com/LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur)<br><br>Contribute translations: [Weblate](https://weblate.yerbamate.ml/engage/lemmur/)<br><br>#### Download for your device:<br>* Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.krawieck.lemmur)<br>* Android: [F-Droid](https://f-droid.org/packages/com.krawieck.lemmur/)<br>* iOS: [Apple TestFlight](https://testflight.apple.com/join/6jyRg5aI)<br>* [Direct from GitHub](https://github.com/LemmurOrg/lemmur/releases)<br><br>#### Support development:<br>- [patreon.com/lemmur](https://patreon.com/lemmur)<br>- [buymeacoffee.com/lemmur](https://buymeacoffee.com/lemmur)<br><br>Before asking for help with a problem make sure you've read [the FAQ](https://github.com/LemmurOrg/lemmur#faq)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 594 |
-| Posts                | 62  |
-| Comments             | 331  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-20 16:34:00 |
-| Updated              | 2022-01-19 09:12:23 |
-| Last Scraped         | 2023-06-19 11:36:57 |

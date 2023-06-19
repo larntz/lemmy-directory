@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arcmage"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-06 16:34:12"
+published: "2022-08-22 16:06:48"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Arcmage on lemmy.ml
-
-[[home](/)]
-[[/c/arcmage 🌎](https://lemmy.ml/c/arcmage)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Arcmage<br><br>Community dedicated to Arcmage, a free and open source community driven customizable card game (CCG).<br><br>## Rules<br><br>- Everyone should feel welcome<br>- Post and comment related to the game<br>- Get fun!<br><br>## Links<br><br>- Check more info: https://arcmage.org<br>- Play online with a friend (or us): https://aminduna.arcmage.org/#/play<br>- Getting started rules (pdf): https://arcmage.org/wp-content/uploads/2018/11/Arcmage-Rules-Compact.pdf<br>- Mastodon: https://mastodon.social/@arcmage<br>- Matrix: https://matrix.to/#/!fljIQduTQTMNRfwYhT:matrix.org
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-22 16:06:48 |
-| Updated              | 2022-12-06 16:34:12 |
-| Last Scraped         | 2023-06-19 11:36:46 |

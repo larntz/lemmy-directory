@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/slovenia"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 06:55:18"
+published: "2023-06-06 12:55:36"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Slovenia on sopuli.xyz
-
-[[home](/)]
-[[/c/slovenia 🌎](https://sopuli.xyz/c/slovenia)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Dobrodošli vsi, ki se selite iz Reddita in našega podbralnika r/Slovenia.<br>For all the migrating Reddit users from r/Slovenia.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 12:55:36 |
-| Updated              | 2023-06-14 06:55:18 |
-| Last Scraped         | 2023-06-19 11:35:32 |

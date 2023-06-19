@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/engineermemes"
 host: board.minimally.online
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 12:53:25"
 subscribers: 3
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "board_minimally_online"
 
 ---
-
-# /c/Engineer Memes on board.minimally.online
-
-[[home](/)]
-[[/c/engineermemes 🌎](https://board.minimally.online/c/engineermemes)]
-[[board.minimally.online](/instances/board_minimally_online)]
-
-
-## Description 
-
-<blockquote class="description">
-For the chaotic side of every engineer<br><br>Rules:<br>1. Be nice<br>2. If it moves, use duct tape<br>3. If it doesn't, spray WD-40
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:53:25 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crystal_lang"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 07:45:07"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Crystal Lang on lemmy.ml
-
-[[home](/)]
-[[/c/crystal_lang 🌎](https://lemmy.ml/c/crystal_lang)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss the [Crystal programming language](https://crystal-lang.org).<br><br>## Rules<br>Nothing much for now, just follow sitewide rules and stay on topic. <br><br>## Useful Links<br>- [Github Repo](https://github.com/crystal-lang/crystal)<br>- [Standard Library Reference](https://crystal-lang.org/api/1.8.2/)<br>- [Crystal Book](https://crystal-lang.org/reference/latest)<br>- [Crystal Blog](https://crystal-lang.org/blog)<br>- [Official Forum](https://forum.crystal-lang.org)<br>- [Run Crystal Online](https://play.crystal-lang.org/#/cr)<br>- [Awesome Crystal](https://github.com/veelenga/awesome-crystal)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:45:07 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:43 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grapheneos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 01:52:09"
+published: "2021-03-18 09:09:48"
 subscribers: 318
 posts: 26
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GrapheneOS [Unofficial] on lemmy.ml
-
-[[home](/)]
-[[/c/grapheneos 🌎](https://lemmy.ml/c/grapheneos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#### This community is only used for announcements/news.<br>##### User posts will be deleted.<br><br>GrapheneOS is a privacy and security focused mobile OS with Android app compatibility. This is a community based around the GrapheneOS projects including the hardened Android Open Source Project fork, Auditor, AttestationServer, the hardened malloc implementation and other projects.<br><br>Links   <br>- [Website](https://grapheneos.org/)<br>- [Features overview](https://grapheneos.org/features)<br>  <br>More Site links<br>- [Install](https://grapheneos.org/install)<br>- [Build](https://grapheneos.org/build)<br>- [Usage guide](https://grapheneos.org/usage)<br>- [FAQ](https://grapheneos.org/faq)<br>- [Releases](https://grapheneos.org/releases)<br>- [Source code](https://grapheneos.org/source)<br>- [History](https://grapheneos.org/history)<br>- [Articles](https://grapheneos.org/articles)<br>- [Donate](https://grapheneos.org/donate)<br>- [Contact](https://grapheneos.org/contact)<br><br>Social Media<br>- [Mastodon](https://grapheneos.social/)<br>- [Twitter](https://twitter.com/GrapheneOS)<br>- [GitHub](https://github.com/grapheneos)<br>- [Reddit](https://reddit.com/r/grapheneos)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 318 |
-| Posts                | 26  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-18 09:09:48 |
-| Updated              | 2023-06-03 01:52:09 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/transport"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-11 12:54:41"
+published: "2022-08-11 12:52:51"
 subscribers: 35
 posts: 38
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Transport Publiczny on szmer.info
-
-[[home](/)]
-[[/c/transport 🌎](https://szmer.info/c/transport)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Lubimy pociągi.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 38  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-11 12:52:51 |
-| Updated              | 2022-08-11 12:54:41 |
-| Last Scraped         | 2023-06-19 11:35:33 |

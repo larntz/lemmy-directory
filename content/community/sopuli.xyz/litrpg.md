@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/litrpg"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 00:19:39"
 subscribers: 16
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/LitRPG on sopuli.xyz
-
-[[home](/)]
-[[/c/litrpg 🌎](https://sopuli.xyz/c/litrpg)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-LitRPG, short for Literary Role Playing Game, is a literary genre combining the conventions of RPGs with science-fiction and fantasy novels. Games or game-like challenges form an essential part of the story and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:19:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:32 |

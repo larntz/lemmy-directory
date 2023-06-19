@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/symphonicmetal"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:51:45"
+published: "2023-03-29 14:56:08"
 subscribers: 29
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Symphonic Metal on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/symphonicmetal 🌎](https://lemmy.helvetet.eu/c/symphonicmetal)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Also check out other metal music communities:<br>- [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) <br>- [!folkmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/folkmetal)<br>- [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)<br>- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-29 14:56:08 |
-| Updated              | 2023-06-10 22:51:45 |
-| Last Scraped         | 2023-06-19 11:35:28 |

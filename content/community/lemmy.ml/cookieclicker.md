@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cookieclicker"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 18:45:33"
+published: "2020-12-18 02:44:26"
 subscribers: 17
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cookie Clicker on lemmy.ml
-
-[[home](/)]
-[[/c/cookieclicker 🌎](https://lemmy.ml/c/cookieclicker)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for the popular cookie-clicking game.<br><br>Official website: http://orteil.dashnet.org/cookieclicker/<br><br>Join our [Matrix room](#cookieclicker:matrix.org)!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-18 02:44:26 |
-| Updated              | 2021-01-29 18:45:33 |
-| Last Scraped         | 2023-06-19 11:36:44 |

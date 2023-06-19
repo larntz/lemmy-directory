@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nordrheinwestfalen"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-14 16:17:52"
+published: "2021-09-14 07:56:34"
 subscribers: 138
 posts: 12
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Nordrhein-Westfalen on feddit.de
-
-[[home](/)]
-[[/c/nordrheinwestfalen 🌎](https://feddit.de/c/nordrheinwestfalen)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Beiträge zum bevölkerungsreichsten Bundesland Deutschlands!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 138 |
-| Posts                | 12  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-14 07:56:34 |
-| Updated              | 2022-03-14 16:17:52 |
-| Last Scraped         | 2023-06-19 11:35:39 |

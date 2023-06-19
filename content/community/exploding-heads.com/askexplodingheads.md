@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/askexplodingheads"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-02 12:01:03"
+published: "2023-05-31 09:16:53"
 subscribers: 44
 posts: 25
 comments: 152
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Ask exploding heads on exploding-heads.com
-
-[[home](/)]
-[[/c/askexplodingheads 🌎](https://exploding-heads.com/c/askexplodingheads)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Ask a question, any question 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 44 |
-| Posts                | 25  |
-| Comments             | 152  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 20  |
-| Monthly Active Users | 26  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-31 09:16:53 |
-| Updated              | 2023-06-02 12:01:03 |
-| Last Scraped         | 2023-06-19 11:35:38 |

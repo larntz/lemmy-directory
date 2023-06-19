@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/adhs"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 08:20:49"
+published: "2023-06-16 08:20:10"
 subscribers: 23
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/ADHS on feddit.de
-
-[[home](/)]
-[[/c/adhs 🌎](https://feddit.de/c/adhs)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Die Aufmerksamkeit...<br><br>Das Defizit...<br><br>Die Hyperaktivität...<br><br>Wenn es doch nur das wäre!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 08:20:10 |
-| Updated              | 2023-06-16 08:20:49 |
-| Last Scraped         | 2023-06-19 11:35:39 |

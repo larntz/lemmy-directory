@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rhinolinux"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 01:18:43"
+published: "2023-06-09 22:06:05"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Rhino Linux on lemmy.ml
-
-[[home](/)]
-[[/c/rhinolinux 🌎](https://lemmy.ml/c/rhinolinux)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**A rolling release Ubuntu-based distribution with Pacstall &amp; XFCE at its core**<br><br>* https://rhinolinux.org/<br>* https://github.com/rhino-linux
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 22:06:05 |
-| Updated              | 2023-06-10 01:18:43 |
-| Last Scraped         | 2023-06-19 11:36:43 |

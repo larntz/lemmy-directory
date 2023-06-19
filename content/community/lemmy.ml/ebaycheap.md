@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ebaycheap"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-17 23:41:00"
+published: "2021-01-27 07:59:05"
 subscribers: 12
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ebaycheap buys on lemmy.ml
-
-[[home](/)]
-[[/c/ebaycheap 🌎](https://lemmy.ml/c/ebaycheap)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-cheap products from ebay.     <br>    <br>- price should be very low.     <br>- remove tracking in the url.     <br>- put price in the description.     <br>- not too much posting.<br>- no affiliate links
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-27 07:59:05 |
-| Updated              | 2021-03-17 23:41:00 |
-| Last Scraped         | 2023-06-19 11:36:48 |

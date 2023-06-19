@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bluey"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 03:06:43"
+published: "2023-06-11 04:44:34"
 subscribers: 98
 posts: 9
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Bluey on lemmy.world
-
-[[home](/)]
-[[/c/bluey 🌎](https://lemmy.world/c/bluey)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the Australian kid's show *Bluey*.<br><br># RULES<br><br>1. This is a kid's show, keep it PG. No ifs or buts.<br>2. Keep it Bluey focused, meta discussions will be considered.<br>3. No discussion of piracy or unofficial means of watching the show. The internet is vast, I'm sure you can figure it out without our help, fair dinkum.<br>4. No politics — again, this is a kids show. No need for 'em, mate.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 98 |
-| Posts                | 9  |
-| Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 04:44:34 |
-| Updated              | 2023-06-16 03:06:43 |
-| Last Scraped         | 2023-06-16 22:57:16 |

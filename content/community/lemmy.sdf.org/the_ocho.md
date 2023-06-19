@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/the_ocho"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 14:58:25"
+published: "2023-06-13 14:28:32"
 subscribers: 11
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/The Ocho on lemmy.sdf.org
-
-[[home](/)]
-[[/c/the_ocho 🌎](https://lemmy.sdf.org/c/the_ocho)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-ESPN 8's live coverage of uncommon sports from around the world
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:28:32 |
-| Updated              | 2023-06-13 14:58:25 |
-| Last Scraped         | 2023-06-19 11:35:02 |

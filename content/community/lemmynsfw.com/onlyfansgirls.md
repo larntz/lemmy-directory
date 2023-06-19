@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/onlyfansgirls"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 05:52:13"
+published: "2023-06-19 02:47:00"
 subscribers: 19
 posts: 2
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/OnlyFansGirls on lemmynsfw.com
-
-[[home](/)]
-[[/c/onlyfansgirls 🌎](https://lemmynsfw.com/c/onlyfansgirls)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Welcome to OnlyFansGirls, Lemmy's 18+ unofficial OnlyFans community. We love OnlyFans and the creators who use it. We are a place for those creators to bring attention to their accounts as well as a place for users to find great accounts to follow. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 02:47:00 |
-| Updated              | 2023-06-19 05:52:13 |
-| Last Scraped         | 2023-06-19 11:35:45 |

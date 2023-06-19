@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/thesims"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:03:10"
+published: "2023-06-12 17:14:51"
 subscribers: 4
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/A community for people who play The Sims. on lemmy.ca
-
-[[home](/)]
-[[/c/thesims 🌎](https://lemmy.ca/c/thesims)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-**Rules:**<br><br>- Be respectful. Everyone should feel welcome here.<br>- No bigotry, including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br>- No Ads / Spamming.<br>- No Porn. Sorry Wicked Whims users! That's one of the top-level rules of this Lemmy instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:14:51 |
-| Updated              | 2023-06-12 18:03:10 |
-| Last Scraped         | 2023-06-19 11:35:36 |

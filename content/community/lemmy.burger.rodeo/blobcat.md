@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/blobcat"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 15:08:14"
+published: "2023-06-07 13:54:23"
 subscribers: 14
 posts: 15
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/Cult of the Blobcat on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/blobcat 🌎](https://burggit.moe/c/blobcat)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-In the beginning, Blobcat created the heaven and the earth.<br>The earth was formless and empty, and darkness covered the deep waters. And the Spirit of Blobcat was hovering over the surface of the waters.<br>And Blobcat said, にゃん, and there was ぷっぷー.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 15  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 13:54:23 |
-| Updated              | 2023-06-07 15:08:14 |
-| Last Scraped         | 2023-06-19 11:35:30 |

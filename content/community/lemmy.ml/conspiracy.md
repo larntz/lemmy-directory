@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/conspiracy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-05 07:19:47"
+published: "2020-02-13 17:44:15"
 subscribers: 278
 posts: 32
 comments: 57
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/conspiracy on lemmy.ml
-
-[[home](/)]
-[[/c/conspiracy 🌎](https://lemmy.ml/c/conspiracy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Feel free to post about conspiracies and related subjects, eg: corruption, artificial narratives, propaganda, etc.. <br><br><br><br><br><br>Matrix/Element room: https://matrix.to/#/!gbegunGWczsraIIElI:matrix.org?via=matrix.org<br><br><br><br>&nbsp;<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 278 |
-| Posts                | 32  |
-| Comments             | 57  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-13 17:44:15 |
-| Updated              | 2022-05-05 07:19:47 |
-| Last Scraped         | 2023-06-19 11:36:45 |

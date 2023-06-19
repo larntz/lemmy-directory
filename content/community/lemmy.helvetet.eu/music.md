@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/music"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-28 14:12:39"
+published: "2023-03-28 14:10:58"
 subscribers: 11
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Music on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/music 🌎](https://lemmy.helvetet.eu/c/music)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-28 14:10:58 |
-| Updated              | 2023-03-28 14:12:39 |
-| Last Scraped         | 2023-06-19 11:35:28 |

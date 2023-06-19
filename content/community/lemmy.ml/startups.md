@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/startups"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-23 19:29:21"
+published: "2021-01-23 19:28:41"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/startups on lemmy.ml
-
-[[home](/)]
-[[/c/startups 🌎](https://lemmy.ml/c/startups)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-all things related to startups & entrepreneurship.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-23 19:28:41 |
-| Updated              | 2021-01-23 19:29:21 |
-| Last Scraped         | 2023-06-19 11:36:44 |

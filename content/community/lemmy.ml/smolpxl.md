@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smolpxl"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-19 02:40:50"
+published: "2021-01-28 10:45:30"
 subscribers: 14
 posts: 27
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Smolpxl games on lemmy.ml
-
-[[home](/)]
-[[/c/smolpxl 🌎](https://lemmy.ml/c/smolpxl)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Play at [smolpxl.artificialworlds.net](https://smolpxl.artificialworlds.net/)<br><br>Follow [@andybalaam@mastodon.social](https://mastodon.social/web/accounts/7995)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 27  |
-| Comments             | 13  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-28 10:45:30 |
-| Updated              | 2021-11-19 02:40:50 |
-| Last Scraped         | 2023-06-19 11:36:45 |

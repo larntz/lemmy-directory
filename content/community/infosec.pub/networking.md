@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/networking"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 22:12:26"
+published: "2023-06-10 15:01:02"
 subscribers: 97
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Network Engineering on infosec.pub
-
-[[home](/)]
-[[/c/networking 🌎](https://infosec.pub/c/networking)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-All things enterprise network engineering, design, and architecture.<br><br>## Rules<br>1. No low effort posts<br>2. No home networking topics<br>3. No memes<br>4. More fuck u/spez comments
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:01:02 |
-| Updated              | 2023-06-12 22:12:26 |
-| Last Scraped         | 2023-06-16 22:55:53 |

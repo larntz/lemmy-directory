@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://femboys.bar/c/apitesting"
 host: femboys.bar
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 14:45:10"
 subscribers: 1
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "femboys_bar"
 
 ---
-
-# /c/testing on femboys.bar
-
-[[home](/)]
-[[/c/apitesting 🌎](https://femboys.bar/c/apitesting)]
-[[femboys.bar](/instances/femboys_bar)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:45:10 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:20 |

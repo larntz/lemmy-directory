@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_mandarin"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-23 06:12:01"
+published: "2021-05-19 17:59:29"
 subscribers: 29
 posts: 4
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Learn Mandarin on lemmy.ml
-
-[[home](/)]
-[[/c/learn_mandarin 🌎](https://lemmy.ml/c/learn_mandarin)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for learning Mandarin
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 4  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-19 17:59:29 |
-| Updated              | 2021-05-23 06:12:01 |
-| Last Scraped         | 2023-06-19 11:36:52 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/gratisgeld"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 07:51:01"
+published: "2023-06-17 07:46:57"
 subscribers: 9
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/gratisgeld on feddit.nl
-
-[[home](/)]
-[[/c/gratisgeld 🌎](https://feddit.nl/c/gratisgeld)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 07:46:57 |
-| Updated              | 2023-06-17 07:51:01 |
-| Last Scraped         | 2023-06-19 11:34:55 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/thenetherlands"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 17:34:00"
 subscribers: 130
 posts: 4
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/theNetherlands on feddit.nl
-
-[[home](/)]
-[[/c/thenetherlands 🌎](https://feddit.nl/c/thenetherlands)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-**Welkom op c/theNetherlands!**<br>Voor het delen van alles gerelateerd aan Nederland: nieuws, sport, humor, cultuur en vragen.<br><br>**Welcome to c/theNetherlands!**<br>For sharing anything related to the Netherlands: news, sports, humor, culture and questions.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 130 |
-| Posts                | 4  |
-| Comments             | 26  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 16  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 17:34:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

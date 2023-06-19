@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://communick.news/c/humanscale"
 host: communick.news
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 15:06:01"
 subscribers: 2
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "communick_news"
 
 ---
-
-# /c/Human Scale on communick.news
-
-[[home](/)]
-[[/c/humanscale 🌎](https://communick.news/c/humanscale)]
-[[communick.news](/instances/communick_news)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss about all aspects of life at a human scale
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:06:01 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:12 |

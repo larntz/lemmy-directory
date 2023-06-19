@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/my_little_pony"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-26 20:58:53"
+published: "2020-07-28 19:46:59"
 subscribers: 27
 posts: 5
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/My Little Pony on lemmy.ml
-
-[[home](/)]
-[[/c/my_little_pony 🌎](https://lemmy.ml/c/my_little_pony)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A lemmy community about the TV show My Little Pony: Friendship is Magic<br><br>Rules<br>- 1 Posts must be about MLP or the fandom<br>- 2 Everything must be safe for work<br>- 3 No politics (either in posts or comments)<br>- 4 Follow site rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 5  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-28 19:46:59 |
-| Updated              | 2021-03-26 20:58:53 |
-| Last Scraped         | 2023-06-19 11:36:58 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ente"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 00:42:22"
+published: "2023-06-12 16:07:17"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/ente.io Community on sh.itjust.works
-
-[[home](/)]
-[[/c/ente 🌎](https://sh.itjust.works/c/ente)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-ente is a photos app with a focus on security and privacy. For support queries, please raise a ticket with team@ente.io.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:07:17 |
-| Updated              | 2023-06-13 00:42:22 |
-| Last Scraped         | 2023-06-19 11:35:05 |

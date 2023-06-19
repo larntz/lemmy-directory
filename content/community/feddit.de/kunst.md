@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kunst"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-04 05:13:16"
+published: "2021-09-03 21:35:17"
 subscribers: 64
 posts: 14
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Kunst on feddit.de
-
-[[home](/)]
-[[/c/kunst 🌎](https://feddit.de/c/kunst)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 14  |
-| Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-03 21:35:17 |
-| Updated              | 2021-09-04 05:13:16 |
-| Last Scraped         | 2023-06-19 11:35:39 |

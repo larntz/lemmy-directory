@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/unconventional_music"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-29 07:20:46"
+published: "2023-02-14 16:05:42"
 subscribers: 19
 posts: 9
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Non-Mainstream Music on lemmygrad.ml
-
-[[home](/)]
-[[/c/unconventional_music 🌎](https://lemmygrad.ml/c/unconventional_music)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a community dedicated to music that wasn't made for mass consumption but ended up being absolute bangers. Hard to explain what I mean so I'll put some examples:<br><br>- [Con un porrito en la mano](https://yewtu.be/watch?v=sTtDgFT1qCc)<br><br>- [The Epic Of Gilgamesh In Sumerian](https://yewtu.be/watch?v=QUcTsFe1PVs)<br><br>- [Мен – тыва мен - Anthem of the Tuva Republic (Russia)](https://yewtu.be/watch?v=xoc2EC3LA60)<br><br>- [Conocer las señales de advertencia de un ataque cerebral](https://yewtu.be/watch?v=xFZd25aUs30)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 9  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-14 16:05:42 |
-| Updated              | 2023-05-29 07:20:46 |
-| Last Scraped         | 2023-06-19 11:35:08 |

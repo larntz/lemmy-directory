@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grampals"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-16 04:11:11"
+published: "2020-08-17 18:22:39"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GramPals on lemmy.ml
-
-[[home](/)]
-[[/c/grampals 🌎](https://lemmy.ml/c/grampals)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Make new friends for chatting on Telegram!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-17 18:22:39 |
-| Updated              | 2021-03-16 04:11:11 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/findacommunity"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-30 18:06:40"
+published: "2021-05-15 03:08:35"
 subscribers: 469
 posts: 38
 comments: 58
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Find a Community on lemmy.ml
-
-[[home](/)]
-[[/c/findacommunity 🌎](https://lemmy.ml/c/findacommunity)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to find other communities in any of the Lemmy instances.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 469 |
-| Posts                | 38  |
-| Comments             | 58  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 42  |
-| Monthly Active Users | 53  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-15 03:08:35 |
-| Updated              | 2021-06-30 18:06:40 |
-| Last Scraped         | 2023-06-19 11:36:45 |

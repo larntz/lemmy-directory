@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/myhouse"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 17:03:45"
+published: "2023-06-10 00:26:27"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/My House on sh.itjust.works
-
-[[home](/)]
-[[/c/myhouse 🌎](https://sh.itjust.works/c/myhouse)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Join the My House Discord Server! https://discord.gg/CVNskyT55b
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:26:27 |
-| Updated              | 2023-06-10 17:03:45 |
-| Last Scraped         | 2023-06-19 11:35:06 |

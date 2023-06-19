@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/kyjiv"
 host: lm.m0e.space
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 22:35:50"
+published: "2023-06-12 22:33:23"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lm_m0e_space"
 
 ---
-
-# /c/Київ on lm.m0e.space
-
-[[home](/)]
-[[/c/kyjiv 🌎](https://lm.m0e.space/c/kyjiv)]
-[[lm.m0e.space](/instances/lm_m0e_space)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:33:23 |
-| Updated              | 2023-06-12 22:35:50 |
-| Last Scraped         | 2023-06-19 11:35:21 |

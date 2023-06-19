@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/gundeals"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 22:20:32"
+published: "2023-06-11 22:18:19"
 subscribers: 15
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/GunDeals on vlemmy.net
-
-[[home](/)]
-[[/c/gundeals 🌎](https://vlemmy.net/c/gundeals)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share and discuss sales related to shooting sports.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:18:19 |
-| Updated              | 2023-06-11 22:20:32 |
-| Last Scraped         | 2023-06-19 11:35:05 |

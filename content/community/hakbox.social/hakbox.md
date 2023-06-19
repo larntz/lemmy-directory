@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/hakbox"
 host: hakbox.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 19:27:11"
+published: "2023-06-10 17:14:39"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "hakbox_social"
 
 ---
-
-# /c/HakBox on hakbox.social
-
-[[home](/)]
-[[/c/hakbox 🌎](https://hakbox.social/c/hakbox)]
-[[hakbox.social](/instances/hakbox_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:14:39 |
-| Updated              | 2023-06-10 19:27:11 |
-| Last Scraped         | 2023-06-19 11:35:14 |

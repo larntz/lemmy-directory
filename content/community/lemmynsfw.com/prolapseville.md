@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/prolapseville"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 17:57:47"
 subscribers: 46
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/ProlapseVille on lemmynsfw.com
-
-[[home](/)]
-[[/c/prolapseville 🌎](https://lemmynsfw.com/c/prolapseville)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-##### Lemmy’s home for prolapses of all shapes, sizes, and genders!<br><br>**Rules**<br>1. Posts must clearly show a defined prolapse. Discussion must be directly about prolapses.<br>2. All holes are welcome. Boy, girl, anything in between.<br>3. No kink-shaming.<br>4. Don't pretend to be someone you're not.<br>5. Credit content creators.<br>6. Do not steal or share copyrighted material.<br>7. Put effort into quality titles, and do not promote sales or commercial activity in them, either.<br>8. Keep scat to a minimum.<br>9. Respect Reddiquette.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:57:47 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

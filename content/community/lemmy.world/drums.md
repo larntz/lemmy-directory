@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drums"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:05:59"
+published: "2023-06-12 15:56:45"
 subscribers: 22
 posts: 3
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Drums on lemmy.world
-
-[[home](/)]
-[[/c/drums 🌎](https://lemmy.world/c/drums)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for drummers and anyone who wants to talk about drums
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 3  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:56:45 |
-| Updated              | 2023-06-12 16:05:59 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cleveland"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-26 18:54:22"
+published: "2021-02-26 18:50:07"
 subscribers: 19
 posts: 6
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cleveland on lemmy.ml
-
-[[home](/)]
-[[/c/cleveland 🌎](https://lemmy.ml/c/cleveland)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Cleveland, Ohio
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 6  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-26 18:50:07 |
-| Updated              | 2021-02-26 18:54:22 |
-| Last Scraped         | 2023-06-19 11:36:43 |

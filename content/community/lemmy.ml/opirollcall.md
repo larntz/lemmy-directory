@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opirollcall"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-12 06:28:17"
+published: "2022-03-12 06:02:58"
 subscribers: 5
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Roll call on lemmy.ml
-
-[[home](/)]
-[[/c/opirollcall 🌎](https://lemmy.ml/c/opirollcall)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Roll call<br><br>Limit your posts to: <br>location + if you **are** a friend or you **need** a friend<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-12 06:02:58 |
-| Updated              | 2022-03-12 06:28:17 |
-| Last Scraped         | 2023-06-19 11:36:53 |

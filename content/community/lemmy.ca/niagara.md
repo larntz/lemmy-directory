@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/niagara"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 19:52:01"
+published: "2023-06-06 19:51:37"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Niagara Falls on lemmy.ca
-
-[[home](/)]
-[[/c/niagara 🌎](https://lemmy.ca/c/niagara)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the Niagara Region
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 19:51:37 |
-| Updated              | 2023-06-06 19:52:01 |
-| Last Scraped         | 2023-06-19 11:35:36 |

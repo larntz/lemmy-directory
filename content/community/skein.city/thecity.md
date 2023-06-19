@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://skein.city/c/thecity"
 host: skein.city
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 22:08:42"
+published: "2023-06-12 22:19:32"
 subscribers: 3
 posts: 7
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "skein_city"
 
 ---
-
-# /c/The City on skein.city
-
-[[home](/)]
-[[/c/thecity 🌎](https://skein.city/c/thecity)]
-[[skein.city](/instances/skein_city)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion around this instance of Lemmy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 7  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 22:19:32 |
-| Updated              | 2023-06-13 22:08:42 |
-| Last Scraped         | 2023-06-19 11:35:21 |

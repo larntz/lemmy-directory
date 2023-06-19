@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/netbsd"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 00:04:27"
+published: "2023-06-09 23:58:06"
 subscribers: 47
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/NetBSD on lemmy.sdf.org
-
-[[home](/)]
-[[/c/netbsd 🌎](https://lemmy.sdf.org/c/netbsd)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions on NetBSD
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 23:58:06 |
-| Updated              | 2023-06-10 00:04:27 |
-| Last Scraped         | 2023-06-19 11:35:02 |

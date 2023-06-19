@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lef.li/c/lefli"
 host: lef.li
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 14:21:22"
 subscribers: 2
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lef_li"
 
 ---
-
-# /c/LEF.LI on lef.li
-
-[[home](/)]
-[[/c/lefli 🌎](https://lef.li/c/lefli)]
-[[lef.li](/instances/lef_li)]
-
-
-## Description 
-
-<blockquote class="description">
-A community about this instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 14:21:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:27 |

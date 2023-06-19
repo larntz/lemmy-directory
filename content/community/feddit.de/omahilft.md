@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/omahilft"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 17:38:12"
+published: "2023-06-13 17:35:27"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Oma Hilft on feddit.de
-
-[[home](/)]
-[[/c/omahilft 🌎](https://feddit.de/c/omahilft)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Sammelstelle für alle Tipps und Lifehacks für den Haushalt.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 17:35:27 |
-| Updated              | 2023-06-13 17:38:12 |
-| Last Scraped         | 2023-06-19 11:35:39 |

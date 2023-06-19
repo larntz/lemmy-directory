@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/idm"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-22 23:01:13"
+published: "2022-06-22 07:30:28"
 subscribers: 31
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/IDM - Intelligent Dance Music on lemmy.ml
-
-[[home](/)]
-[[/c/idm 🌎](https://lemmy.ml/c/idm)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-22 07:30:28 |
-| Updated              | 2022-06-22 23:01:13 |
-| Last Scraped         | 2023-06-19 11:36:45 |

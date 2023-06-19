@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wichita"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-04 04:35:13"
+published: "2021-07-27 16:54:22"
 subscribers: 14
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Wichita, Kansas on lemmy.ml
-
-[[home](/)]
-[[/c/wichita 🌎](https://lemmy.ml/c/wichita)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A sublemmy for discussing issues relating to the biggest city in Kansas: Wichita. I assume this sub will be inactive for a while until we get some more users on Lemmy, but don't let that stop you from helping to start the party.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-27 16:54:22 |
-| Updated              | 2021-10-04 04:35:13 |
-| Last Scraped         | 2023-06-19 11:36:44 |

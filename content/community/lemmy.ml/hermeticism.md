@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hermeticism"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-09 01:31:32"
+published: "2021-01-09 01:28:46"
 subscribers: 12
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Hermeticism on lemmy.ml
-
-[[home](/)]
-[[/c/hermeticism 🌎](https://lemmy.ml/c/hermeticism)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for the discussion of modern, traditional and alternative hermeticism and related topics.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-09 01:28:46 |
-| Updated              | 2021-01-09 01:31:32 |
-| Last Scraped         | 2023-06-19 11:36:55 |

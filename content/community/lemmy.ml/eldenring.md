@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eldenring"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-11 03:26:12"
+published: "2022-02-01 12:33:32"
 subscribers: 155
 posts: 22
 comments: 41
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Elden Ring on lemmy.ml
-
-[[home](/)]
-[[/c/eldenring 🌎](https://lemmy.ml/c/eldenring)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A sub community for Elden Ring, an upcoming video game directed by Michael Zaki and published by From Software.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 155 |
-| Posts                | 22  |
-| Comments             | 41  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-01 12:33:32 |
-| Updated              | 2022-02-11 03:26:12 |
-| Last Scraped         | 2023-06-19 11:36:44 |

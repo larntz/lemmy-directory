@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://rblind.com/c/mods"
 host: rblind.com
-lastmod: "{[ .Updated }}"
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-14 05:39:06"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "rblind_com"
 
 ---
-
-# /c/mods on rblind.com
-
-[[home](/)]
-[[/c/mods 🌎](https://rblind.com/c/mods)]
-[[rblind.com](/instances/rblind_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for mod discussions.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 05:39:06 |
-| Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

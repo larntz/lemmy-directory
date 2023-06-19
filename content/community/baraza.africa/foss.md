@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/foss"
 host: baraza.africa
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-28 05:17:19"
+published: "2021-01-01 18:15:00"
 subscribers: 30
 posts: 21
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "baraza_africa"
 
 ---
-
-# /c/free and open on baraza.africa
-
-[[home](/)]
-[[/c/foss 🌎](https://baraza.africa/c/foss)]
-[[baraza.africa](/instances/baraza_africa)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to tools and systems that promote `freedom` to control the outcomes of their owners, whether gratis or otherwise. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 21  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-01 18:15:00 |
-| Updated              | 2021-11-28 05:17:19 |
-| Last Scraped         | 2023-06-19 11:35:27 |

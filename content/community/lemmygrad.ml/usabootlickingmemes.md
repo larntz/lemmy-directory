@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/usabootlickingmemes"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-25 13:01:29"
+published: "2022-06-09 16:45:59"
 subscribers: 152
 posts: 285
 comments: 1482
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/[ARCHIVED] r/historymemes worst takes on lemmygrad.ml
-
-[[home](/)]
-[[/c/usabootlickingmemes 🌎](https://lemmygrad.ml/c/usabootlickingmemes)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community of some of the worst takes in r/historymemes and other history memes subreddits 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 152 |
-| Posts                | 285  |
-| Comments             | 1482  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-09 16:45:59 |
-| Updated              | 2023-01-25 13:01:29 |
-| Last Scraped         | 2023-06-19 11:35:08 |

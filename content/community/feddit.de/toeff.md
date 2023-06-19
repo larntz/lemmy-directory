@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/toeff"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 21:17:05"
+published: "2023-06-13 12:22:43"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Töff on feddit.de
-
-[[home](/)]
-[[/c/toeff 🌎](https://feddit.de/c/toeff)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Töff (m.) ist das Schweizerdeutsche Wort für Motorrad. Dementsprechend geht es hier um Motorräder und um das Motorradfahren in der Schweiz und in der ganzen Welt. <br><br>Ich wünsche allen gute Fahrt, allzeit Benzin im Tank.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:22:43 |
-| Updated              | 2023-06-13 21:17:05 |
-| Last Scraped         | 2023-06-19 11:35:39 |

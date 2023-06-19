@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adorablespiders"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-09-20 18:06:51"
 subscribers: 60
 posts: 9
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Adorable Spiders on lemmy.ml
-
-[[home](/)]
-[[/c/adorablespiders 🌎](https://lemmy.ml/c/adorablespiders)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to Adorable Spiders!<br><br>We’re a small community for sharing really cute spiders!<br><br>📜 : Rules:<br><br>📫  No reposts<br><br>🕷 Spiders must be cute!<br><br>😸 Have fun<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 9  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-20 18:06:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

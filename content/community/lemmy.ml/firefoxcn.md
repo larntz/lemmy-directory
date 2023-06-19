@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefoxcn"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-12-19 20:18:53"
+published: "2020-02-16 14:39:39"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Firefox CN on lemmy.ml
-
-[[home](/)]
-[[/c/firefoxcn 🌎](https://lemmy.ml/c/firefoxcn)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-狐 基 来 玩 啊 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-16 14:39:39 |
-| Updated              | 2020-12-19 20:18:53 |
-| Last Scraped         | 2023-06-19 11:36:55 |

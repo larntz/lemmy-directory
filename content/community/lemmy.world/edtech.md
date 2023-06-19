@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edtech"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:31:18"
+published: "2023-06-15 16:54:21"
 subscribers: 22
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Educational Technology on lemmy.world
-
-[[home](/)]
-[[/c/edtech 🌎](https://lemmy.world/c/edtech)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Educational technology, software, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 16:54:21 |
-| Updated              | 2023-06-15 17:31:18 |
-| Last Scraped         | 2023-06-19 11:36:36 |

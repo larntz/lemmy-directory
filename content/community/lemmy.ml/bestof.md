@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestof"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 21:09:30"
+published: "2023-06-16 21:09:15"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Best Of Lemmy on lemmy.ml
-
-[[home](/)]
-[[/c/bestof 🌎](https://lemmy.ml/c/bestof)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The very best posts and comments on Lemmy as submitted by the users of Lemmy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 21:09:15 |
-| Updated              | 2023-06-16 21:09:30 |
-| Last Scraped         | 2023-06-19 11:36:42 |

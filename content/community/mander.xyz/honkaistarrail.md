@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/honkaistarrail"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 23:20:51"
+published: "2023-06-08 23:10:27"
 subscribers: 11
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Honkai Star Rail on mander.xyz
-
-[[home](/)]
-[[/c/honkaistarrail 🌎](https://mander.xyz/c/honkaistarrail)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Honkai Star Rail.<br><br>Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that takes players on a cosmic adventure across the stars. Hop aboard the Astral Express and experience the galaxy's infinite wonders on this journey filled with adventure and thrill. Developed by HoYoverse
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 23:10:27 |
-| Updated              | 2023-06-08 23:20:51 |
-| Last Scraped         | 2023-06-19 11:35:29 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/garudalinux"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-17 18:49:25"
+published: "2021-02-17 18:46:24"
 subscribers: 36
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Garuda Linux on lemmy.ml
-
-[[home](/)]
-[[/c/garudalinux 🌎](https://lemmy.ml/c/garudalinux)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-17 18:46:24 |
-| Updated              | 2021-02-17 18:49:25 |
-| Last Scraped         | 2023-06-19 11:36:59 |

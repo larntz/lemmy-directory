@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/surveillance_capital"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-09-10 15:00:02"
+published: "2020-09-10 14:42:18"
 subscribers: 73
 posts: 29
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/surveillance capitalism on lemmy.ml
-
-[[home](/)]
-[[/c/surveillance_capital 🌎](https://lemmy.ml/c/surveillance_capital)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Surveillance capitalism refers to an economic system centred around the commodification of personal data with the core purpose of profit-making. <br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 73 |
-| Posts                | 29  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-09-10 14:42:18 |
-| Updated              | 2020-09-10 15:00:02 |
-| Last Scraped         | 2023-06-19 11:36:46 |

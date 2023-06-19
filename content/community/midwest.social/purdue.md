@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/purdue"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:15:47"
+published: "2023-06-12 20:02:21"
 subscribers: 2
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Purdue on midwest.social
-
-[[home](/)]
-[[/c/purdue 🌎](https://midwest.social/c/purdue)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for alums and current students to hang out, discuss current events, see Purdue news and meet new people!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 20:02:21 |
-| Updated              | 2023-06-16 20:15:47 |
-| Last Scraped         | 2023-06-16 22:56:28 |

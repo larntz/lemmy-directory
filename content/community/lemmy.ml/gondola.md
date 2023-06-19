@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gondola"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-12-10 23:17:48"
+published: "2020-12-10 23:09:48"
 subscribers: 10
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Gondola on lemmy.ml
-
-[[home](/)]
-[[/c/gondola 🌎](https://lemmy.ml/c/gondola)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Gondola community on Lemmy. Please share your Gondola art, whether they be original content or found elsewhere on the internet.<br><br>Please credit artists if you are able to source the work. <br><br>**This community will not tolerate indecent, offensive or abusive content. Please be mindful of Lemmy site rules.** <br><br>Appended from /r/gondola:<br><br>> Gondola is the ultimate human. He represents our journey in understanding life; which is meaningless. Our eternal struggle against ourselves.<br><br>> Gondola isn't supposed to be sad, he is supposed to be melancholic.<br><br>> He is not suicidal, but accepts life as it is and experiences it as an observer.<br><br>> Gondola is a wanderer who sees the world in a state of eternal melancholy, unable to do anything about it but move from place to place.<br><br>> Gondola himself is an abstract form, and the combination of gondola and the landscapes he frequents (be it photography, painting, or digital) represent the unexplainable melancholy of the artist behind him.<br><br>> He is far more than a sad frog with a rope around his neck.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-10 23:09:48 |
-| Updated              | 2020-12-10 23:17:48 |
-| Last Scraped         | 2023-06-19 11:36:43 |

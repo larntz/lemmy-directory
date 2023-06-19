@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/fotografia"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 19:48:49"
+published: "2023-05-14 19:30:48"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/Fotografia on lemmy.pt
-
-[[home](/)]
-[[/c/fotografia 🌎](https://lemmy.pt/c/fotografia)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Uma comunidade direcionada à fotografia de qualquer tipo.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-14 19:30:48 |
-| Updated              | 2023-06-07 19:48:49 |
-| Last Scraped         | 2023-06-19 11:35:23 |

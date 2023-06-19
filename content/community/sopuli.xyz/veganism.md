@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/veganism"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-21 19:36:58"
+published: "2022-08-21 19:31:14"
 subscribers: 21
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Veganism on sopuli.xyz
-
-[[home](/)]
-[[/c/veganism 🌎](https://sopuli.xyz/c/veganism)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-21 19:31:14 |
-| Updated              | 2022-08-21 19:36:58 |
-| Last Scraped         | 2023-06-19 11:35:32 |

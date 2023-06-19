@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/pacmanmemeimage"
 host: lemmy.douwes.co.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 23:53:02"
+published: "2023-06-05 23:51:04"
 subscribers: 2
 posts: 1
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_douwes_co_uk"
 
 ---
-
-# /c/Pacmanmemeimage on lemmy.douwes.co.uk
-
-[[home](/)]
-[[/c/pacmanmemeimage 🌎](https://lemmy.douwes.co.uk/c/pacmanmemeimage)]
-[[lemmy.douwes.co.uk](/instances/lemmy_douwes_co_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Wtf..?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 23:51:04 |
-| Updated              | 2023-06-05 23:53:02 |
-| Last Scraped         | 2023-06-19 11:34:54 |

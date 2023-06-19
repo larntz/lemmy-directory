@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starwars"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-20 05:06:26"
+published: "2022-04-16 05:25:01"
 subscribers: 335
 posts: 12
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Star Wars on lemmy.ml
-
-[[home](/)]
-[[/c/starwars 🌎](https://lemmy.ml/c/starwars)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 335 |
-| Posts                | 12  |
-| Comments             | 18  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-16 05:25:01 |
-| Updated              | 2022-04-20 05:06:26 |
-| Last Scraped         | 2023-06-19 11:36:52 |

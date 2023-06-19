@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/blackleftist"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-02 00:40:30"
+published: "2022-07-06 14:56:26"
 subscribers: 33
 posts: 22
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Black Comrades on lemmygrad.ml
-
-[[home](/)]
-[[/c/blackleftist 🌎](https://lemmygrad.ml/c/blackleftist)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Safe space for black leftists. Make yourself at home! Meet other comrades and have fun! This is a community where black people unite from different parts of the world! Feel free to post black history, talk about issues, vent, debunk stereotypes, and help learn about each other! <br><br>**Rules:**<br><br>1. Follow site rules, always.<br><br>2. No racism, bigotry, ableism, etc.<br><br>3. No racial infighting. No claiming that one ethnicity is better than the other, and no tearing each other down to make points.<br><br>4. No fascists and liberals allowed.<br><br>5. Do not promote a black figure who spreads info, or participated in trying to tear us apart. This will be an instant ban. <br><br>***Example: Dr. Umar, Kamala Harris, Etc.***<br><br>6. Sources must be credible, efficient, and true. <br><br>7. Memes are allowed.<br><br>8. No low effort posts, and no reposts!<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 22  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-06 14:56:26 |
-| Updated              | 2022-08-02 00:40:30 |
-| Last Scraped         | 2023-06-16 22:56:08 |

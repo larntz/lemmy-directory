@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/formuladank"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 08:02:29"
+published: "2023-06-06 19:20:15"
 subscribers: 602
 posts: 26
 comments: 48
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Oh shit it's RAWE CEEK (formuladank) on lemmy.world
-
-[[home](/)]
-[[/c/formuladank 🌎](https://lemmy.world/c/formuladank)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-We are checking
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 602 |
-| Posts                | 26  |
-| Comments             | 48  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 32  |
-| Monthly Active Users | 33  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 19:20:15 |
-| Updated              | 2023-06-15 08:02:29 |
-| Last Scraped         | 2023-06-16 22:57:18 |

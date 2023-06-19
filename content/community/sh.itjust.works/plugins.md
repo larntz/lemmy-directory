@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/plugins"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:35:32"
+published: "2023-06-13 17:59:34"
 subscribers: 312
 posts: 22
 comments: 213
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Lemmy Plugins & Userscripts on sh.itjust.works
-
-[[home](/)]
-[[/c/plugins 🌎](https://sh.itjust.works/c/plugins)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A general repository for user scripts and plugins used to enhance the Lemmy browsing experience.<br><br>Post (or cross-post) your favorite Lemmy enhancements here! <br><br>**General posting suggestions:**<br><br>- Preface the submission with the type of enhancement - ex: [UserScript].<br>- Include a screenshot of the enhancement in use (where possible)<br>- Indicate the requirements for use (eg, greasemonkey, stylus, etc.)<br><br>Thanks!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 312 |
-| Posts                | 22  |
-| Comments             | 213  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 17:59:34 |
-| Updated              | 2023-06-13 19:35:32 |
-| Last Scraped         | 2023-06-19 11:35:05 |

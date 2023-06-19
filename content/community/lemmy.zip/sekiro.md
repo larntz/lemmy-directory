@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/sekiro"
 host: lemmy.zip
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 17:01:02"
+published: "2023-06-16 16:58:27"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_zip"
 
 ---
-
-# /c/Sekiro on lemmy.zip
-
-[[home](/)]
-[[/c/sekiro 🌎](https://lemmy.zip/c/sekiro)]
-[[lemmy.zip](/instances/lemmy_zip)]
-
-
-## Description 
-
-<blockquote class="description">
-lemmy.zip Sekiro Community<br><br>Basic Lemmy-quette and rules apply.<br><br>Have fun and remember: Hesitation is defeat.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 16:58:27 |
-| Updated              | 2023-06-16 17:01:02 |
-| Last Scraped         | 2023-06-19 11:35:15 |

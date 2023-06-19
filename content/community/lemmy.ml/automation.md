@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/automation"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-18 08:39:39"
+published: "2020-10-05 13:48:55"
 subscribers: 32
 posts: 7
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/automation on lemmy.ml
-
-[[home](/)]
-[[/c/automation 🌎](https://lemmy.ml/c/automation)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-a place to share and discuss ideas about automation<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 7  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-05 13:48:55 |
-| Updated              | 2021-04-18 08:39:39 |
-| Last Scraped         | 2023-06-19 11:36:59 |

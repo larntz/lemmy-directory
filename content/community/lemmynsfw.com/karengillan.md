@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/karengillan"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 14:57:58"
+published: "2023-06-14 13:00:49"
 subscribers: 42
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Karen Gillan on lemmynsfw.com
-
-[[home](/)]
-[[/c/karengillan 🌎](https://lemmynsfw.com/c/karengillan)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Karen Gillan's pictures, gifs, and videos
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 42 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:00:49 |
-| Updated              | 2023-06-17 14:57:58 |
-| Last Scraped         | 2023-06-19 11:35:46 |

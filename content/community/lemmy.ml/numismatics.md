@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/numismatics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-08 13:20:17"
+published: "2022-06-07 16:55:59"
 subscribers: 10
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Numismatics on lemmy.ml
-
-[[home](/)]
-[[/c/numismatics 🌎](https://lemmy.ml/c/numismatics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the collection, identification, appraisal and discussion about coins and banknotes.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-07 16:55:59 |
-| Updated              | 2022-06-08 13:20:17 |
-| Last Scraped         | 2023-06-19 11:36:46 |

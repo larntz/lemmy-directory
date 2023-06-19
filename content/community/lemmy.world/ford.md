@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ford"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 19:35:00"
+published: "2023-06-10 19:32:41"
 subscribers: 7
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ford Cars/Trucks on lemmy.world
-
-[[home](/)]
-[[/c/ford 🌎](https://lemmy.world/c/ford)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For fans of the Ford Motor Company, not a official form from Ford
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:32:41 |
-| Updated              | 2023-06-10 19:35:00 |
-| Last Scraped         | 2023-06-16 22:57:17 |

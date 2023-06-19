@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/hoodirony"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 07:13:46"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/eshak sonar 4pac buge bonar on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/hoodirony 🌎](https://burggit.moe/c/hoodirony)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 07:13:46 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

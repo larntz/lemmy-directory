@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/knitting"
 host: wayfarershaven.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:41:35"
+published: "2023-06-11 13:17:38"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "wayfarershaven_eu"
 
 ---
-
-# /c/Knitting on wayfarershaven.eu
-
-[[home](/)]
-[[/c/knitting 🌎](https://wayfarershaven.eu/c/knitting)]
-[[wayfarershaven.eu](/instances/wayfarershaven_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Inspired by [/r/knitting](https://www.reddit.com/r/knitting/)<br><br>Resources:<br><br>* [/r/knitting](https://www.reddit.com/r/knitting/)<br>* Ravelry<br><br>Banner credit: [Paul Hanaoka](https://unsplash.com/@plhnk)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 13:17:38 |
-| Updated              | 2023-06-11 15:41:35 |
-| Last Scraped         | 2023-06-19 11:35:17 |

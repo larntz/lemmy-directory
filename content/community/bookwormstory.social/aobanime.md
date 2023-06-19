@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/aobanime"
 host: bookwormstory.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 11:47:14"
+published: "2023-06-12 18:46:41"
 subscribers: 20
 posts: 13
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "bookwormstory_social"
 
 ---
-
-# /c/Anime - Ascendance of a Bookworm on bookwormstory.social
-
-[[home](/)]
-[[/c/aobanime 🌎](https://bookwormstory.social/c/aobanime)]
-[[bookwormstory.social](/instances/bookwormstory_social)]
-
-
-## Description 
-
-<blockquote class="description">
-**Navigation Links:**<br>- [Web Novel](/c/aobwebnovel@bookwormstory.social)<br>- [PrePub](/c/aobprepub@bookwormstory.social)<br>- [Light Novel](/c/aoblightnovel@bookwormstory.social)<br>- [Manga](/c/aobmanga@bookwormstory.social)<br>- **Anime**<br><br>::: spoiler  synonyms <br> - Ascendance of a Bookworm<br> - Honzuki no Gekokujou<br> - 『本好きの下剋上』<br>:::
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 13  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:46:41 |
-| Updated              | 2023-06-17 11:47:14 |
-| Last Scraped         | 2023-06-19 11:35:20 |

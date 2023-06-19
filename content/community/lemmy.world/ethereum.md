@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ethereum"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:48:56"
+published: "2023-06-14 09:40:47"
 subscribers: 16
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Ethereum on lemmy.world
-
-[[home](/)]
-[[/c/ethereum 🌎](https://lemmy.world/c/ethereum)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community dedicated to Ethereum.<br><br>Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.<br><br>[Learn more about Ethereum](https://ethereum.org/en/)<br><br>Community Rules:<br>- No Spam<br>- No Ads<br>- No promotions of trading groups, courses, signals etc.<br>- No price speculation<br>- No pumping, shilling, or FUD
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:40:47 |
-| Updated              | 2023-06-14 09:48:56 |
-| Last Scraped         | 2023-06-19 11:36:37 |

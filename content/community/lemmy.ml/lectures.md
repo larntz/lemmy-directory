@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lectures"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-05 15:17:22"
+published: "2021-04-30 11:22:56"
 subscribers: 47
 posts: 52
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Expert Lectures on lemmy.ml
-
-[[home](/)]
-[[/c/lectures 🌎](https://lemmy.ml/c/lectures)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Links to lectures by experts in their fields.<br><br>In this information age, it is easier than ever to access knowledge in all manner of formats. The simple academic-style lecture yet remains one of the most effective ways of presenting focused research. (Especially when followed by a good Q&A session.)<br><br>The information age, with its broad and easy mechanisms of dissemination, has brought with it also an era of noise. Everyone is, or has, their own expert. Let's try to find true experts, recognized and generally accepted in their fields, to see what interesting things they have to say.<br><br>*Suggested title format:*<br>Title of lecture [year, if not current], Name, Credentials and/or Venue. Brief synopsis/description. #topic #subject<br><br>Consider using links that go straight to the beginning of the lecture (bypassing lengthy introductions) if possible.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 52  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-30 11:22:56 |
-| Updated              | 2021-05-05 15:17:22 |
-| Last Scraped         | 2023-06-19 11:36:47 |

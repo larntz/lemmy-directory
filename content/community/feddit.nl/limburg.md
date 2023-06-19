@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/limburg"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 21:40:30"
+published: "2023-06-13 21:23:47"
 subscribers: 11
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/Limburg on feddit.nl
-
-[[home](/)]
-[[/c/limburg 🌎](https://feddit.nl/c/limburg)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-This subreddit is about everything Limburg. Not just the Netherlands or Belgium part but even the people from the Duchy of Limburg are welcome.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 21:23:47 |
-| Updated              | 2023-06-13 21:40:30 |
-| Last Scraped         | 2023-06-19 11:34:55 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/youtube_oddities"
 host: iusearchlinux.fyi
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:43:08"
+published: "2023-06-16 11:41:47"
 subscribers: 14
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "iusearchlinux_fyi"
 
 ---
-
-# /c/Youtube Oddities on iusearchlinux.fyi
-
-[[home](/)]
-[[/c/youtube_oddities 🌎](https://iusearchlinux.fyi/c/youtube_oddities)]
-[[iusearchlinux.fyi](/instances/iusearchlinux_fyi)]
-
-
-## Description 
-
-<blockquote class="description">
-Notice any strange videos? Something that might fall into the ARG category? Something extremely disturbing? Want to share someone covering mysteries? Post about it, ask about it, come across something new here.<br><br>Please note, this community is not for meme videos. Please ensure your topic does not already exist or that it hasn't been posted by using the search function.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 11:41:47 |
-| Updated              | 2023-06-16 11:43:08 |
-| Last Scraped         | 2023-06-19 11:35:16 |

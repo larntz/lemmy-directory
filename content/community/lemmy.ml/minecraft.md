@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraft"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2019-10-16 22:48:11"
+published: "2019-10-16 22:47:40"
 subscribers: 558
 posts: 39
 comments: 44
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Minecraft Discussion / News on lemmy.ml
-
-[[home](/)]
-[[/c/minecraft 🌎](https://lemmy.ml/c/minecraft)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 558 |
-| Posts                | 39  |
-| Comments             | 44  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 14  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-10-16 22:47:40 |
-| Updated              | 2019-10-16 22:48:11 |
-| Last Scraped         | 2023-06-19 11:36:48 |

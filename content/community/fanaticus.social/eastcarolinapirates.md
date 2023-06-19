@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/eastcarolinapirates"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:12:41"
+published: "2023-06-15 00:56:18"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/ECU Pirates on fanaticus.social
-
-[[home](/)]
-[[/c/eastcarolinapirates 🌎](https://fanaticus.social/c/eastcarolinapirates)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to discuss East Carolina Pirates athletics.<br><br>**Looking for Mods!**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:56:18 |
-| Updated              | 2023-06-15 01:12:41 |
-| Last Scraped         | 2023-06-19 11:35:15 |

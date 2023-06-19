@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gnosticism"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:52:49"
+published: "2023-06-13 19:45:12"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Gnosticism  on lemmy.world
-
-[[home](/)]
-[[/c/gnosticism 🌎](https://lemmy.world/c/gnosticism)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the study of gnostic ideas and beliefs.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:45:12 |
-| Updated              | 2023-06-13 19:52:49 |
-| Last Scraped         | 2023-06-16 22:57:14 |

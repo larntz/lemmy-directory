@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/studium"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 08:12:51"
+published: "2023-06-16 07:42:08"
 subscribers: 35
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Studium on feddit.de
-
-[[home](/)]
-[[/c/studium 🌎](https://feddit.de/c/studium)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Deutschsprachige Community für alles rund um's Studium. <br><br>Angefangen von Erfahrungsberichten von Mensagerichten über Neuigkeiten eurer Uni bis hin zum gegenseitigen Austausch bei Fragen und Problemen.<br><br>English speakers are welcome as well!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 07:42:08 |
-| Updated              | 2023-06-16 08:12:51 |
-| Last Scraped         | 2023-06-19 11:35:39 |

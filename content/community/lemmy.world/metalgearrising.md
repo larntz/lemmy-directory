@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalgearrising"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:59:47"
+published: "2023-06-14 14:06:17"
 subscribers: 7
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Metal Gear Rising on lemmy.world
-
-[[home](/)]
-[[/c/metalgearrising 🌎](https://lemmy.world/c/metalgearrising)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Memes, discussions and and other content related to Metal Gear Rising: Revengeance<br><br>Rules.<br>1. Be nice<br>2. Don't make posts that are unrelated to the game<br>3. Memes are the DNA of the soul
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:06:17 |
-| Updated              | 2023-06-14 16:59:47 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/discgolf"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-13 21:05:16"
+published: "2022-04-13 21:05:10"
 subscribers: 29
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Disc Golf on lemmy.ml
-
-[[home](/)]
-[[/c/discgolf 🌎](https://lemmy.ml/c/discgolf)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Disc golf general discussion<br><br>Icon from [iconduck](https://iconduck.com/icons/23312/disc-golf-basket), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-13 21:05:10 |
-| Updated              | 2022-04-13 21:05:16 |
-| Last Scraped         | 2023-06-19 11:36:47 |

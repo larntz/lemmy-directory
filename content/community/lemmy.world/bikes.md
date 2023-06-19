@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bikes"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:43:45"
+published: "2023-06-12 04:34:11"
 subscribers: 71
 posts: 4
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Bikes on lemmy.world
-
-[[home](/)]
-[[/c/bikes 🌎](https://lemmy.world/c/bikes)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Just keep pedaling!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 71 |
-| Posts                | 4  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:34:11 |
-| Updated              | 2023-06-12 04:43:45 |
-| Last Scraped         | 2023-06-19 11:36:39 |

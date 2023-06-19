@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/foro_mexico"
 host: mujico.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-09-21 05:24:16"
 subscribers: 35
 posts: 154
 comments: 170
@@ -22,36 +23,3 @@ tags:
 - "mujico_org"
 
 ---
-
-# /c/Foro_México on mujico.org
-
-[[home](/)]
-[[/c/foro_mexico 🌎](https://mujico.org/c/foro_mexico)]
-[[mujico.org](/instances/mujico_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 154  |
-| Comments             | 170  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-21 05:24:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:43 |

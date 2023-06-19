@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maps_not_ads"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 18:24:15"
+published: "2023-06-11 18:12:18"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Maps Not Ads on lemmy.ml
-
-[[home](/)]
-[[/c/maps_not_ads 🌎](https://lemmy.ml/c/maps_not_ads)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#### A place for people who love making/sharing maps with a focus on *non-commercial* maps of all kinds. <br><br>From historical-based (real or alternative) to Fantasy to Sci-Fi maps.<br> <br>No commercial posts will be tolerated. There are numerous other communities that allow commercial posts. <br>Commercial includes links to commercial sites* or maps with commercial logos*. <br>No Commission offers or requests. <br>No advertising of *any kind!* <br><br>* includes: Patreon, Ko-Fi, DMsGuild or ANY other paid site/service
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:12:18 |
-| Updated              | 2023-06-11 18:24:15 |
-| Last Scraped         | 2023-06-19 11:36:55 |

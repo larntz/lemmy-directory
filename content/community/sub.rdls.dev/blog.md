@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/blog"
 host: sub.rdls.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:08:00"
+published: "2023-06-14 04:03:09"
 subscribers: 2
 posts: 5
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "sub_rdls_dev"
 
 ---
-
-# /c/Blog on sub.rdls.dev
-
-[[home](/)]
-[[/c/blog 🌎](https://sub.rdls.dev/c/blog)]
-[[sub.rdls.dev](/instances/sub_rdls_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunicados do adm
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:03:09 |
-| Updated              | 2023-06-14 15:08:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

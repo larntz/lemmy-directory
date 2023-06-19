@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/poopandpost"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 22:05:14"
 subscribers: 14
 posts: 13
 comments: 61
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Posts made while pooping on exploding-heads.com
-
-[[home](/)]
-[[/c/poopandpost 🌎](https://exploding-heads.com/c/poopandpost)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Simply post as you poop, no rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 13  |
-| Comments             | 61  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 22:05:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radical_christianity"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:28:45"
+published: "2020-06-28 03:32:16"
 subscribers: 24
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Radical Christianity on lemmy.ml
-
-[[home](/)]
-[[/c/radical_christianity 🌎](https://lemmy.ml/c/radical_christianity)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-About the One (Communist), Holy (Anarchist), Catholic (Universalist), & Apostolic (Pacifist) church
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 03:32:16 |
-| Updated              | 2021-01-29 13:28:45 |
-| Last Scraped         | 2023-06-19 11:36:57 |

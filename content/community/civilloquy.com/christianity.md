@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/christianity"
 host: civilloquy.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 14:58:50"
+published: "2023-06-11 13:10:41"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "civilloquy_com"
 
 ---
-
-# /c/Christianity on civilloquy.com
-
-[[home](/)]
-[[/c/christianity 🌎](https://civilloquy.com/c/christianity)]
-[[civilloquy.com](/instances/civilloquy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 13:10:41 |
-| Updated              | 2023-06-13 14:58:50 |
-| Last Scraped         | 2023-06-19 11:35:00 |

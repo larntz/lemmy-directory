@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/humantrafficing"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-29 13:23:38"
+published: "2022-03-03 01:12:43"
 subscribers: 11
 posts: 94
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Human Trafficking on exploding-heads.com
-
-[[home](/)]
-[[/c/humantrafficing 🌎](https://exploding-heads.com/c/humantrafficing)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Human Trafficking is the recruitment, transportation, transfer, harbouring or receipt of people through force, fraud or deception, with the aim of exploiting them for profit. <br><br>Men, women and children of all ages and from all backgrounds can become victims of this crime, which occurs in every region of the world. <br><br>The traffickers often use violence or fraudulent employment agencies and fake promises of education and job opportunities to trick and coerce their victims.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 94  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-03 01:12:43 |
-| Updated              | 2022-05-29 13:23:38 |
-| Last Scraped         | 2023-06-19 11:35:38 |

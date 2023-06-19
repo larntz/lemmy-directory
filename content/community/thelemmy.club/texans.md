@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/texans"
 host: thelemmy.club
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:53:18"
+published: "2023-06-14 13:44:39"
 subscribers: 4
 posts: 6
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "thelemmy_club"
 
 ---
-
-# /c/Houston Texans on thelemmy.club
-
-[[home](/)]
-[[/c/texans 🌎](https://thelemmy.club/c/texans)]
-[[thelemmy.club](/instances/thelemmy_club)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for fans of the Houston Texans.<br><br>Other related communities:<br><br>-NFL !nfl@lemmy.world https://lemmy.ml/c/nfl<br><br>-Arizona Cardinals !azcardinals@lemmy.ml<br><br>-Chicago Bears !chibears@1337lemmy.com<br><br>-Cincinnati Bengals <br>!bengals@lemmy.world<br><br>-Cleveland Browns !browns@lemmy.world<br><br>-Dallas Cowboys !dallascowboys@lemmy.ml<br><br>-Denver Broncos !denverbroncos@lemmy.ml<br><br>-Detroit Lions !detroitlions@sh.itjust.works<br><br>-Green Bay Packers !packers@sh.itjust.works<br><br>-Indianapolis Colts !indianapoliscolts@midwest.social<br><br>-Kansas City Chiefs !kansascitychiefs@lemmy.world<br><br>-Jacksonville Jaguars !jaguars@lemmy.ml<br><br>-Los Angeles Rams !larams@lemmy.world<br><br>-Minnesota Vikings !minnesotavikings@feddit.de<br><br>-New England Patriots !patriots@lemmy.ml<br><br>-New York Jets <br><br>nyjets@lemmy.ml<br><br>-Philadelphia Eagles !eagles@lemmy.world<br><br>-San Francisco 49ers !49ers@lemmy.world<br><br>-Seattle Seahawks !seahawks@lemmy.ml<br><br>-Washington Commanders !commanders@sh.itjust.works
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 6  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:44:39 |
-| Updated              | 2023-06-14 23:53:18 |
-| Last Scraped         | 2023-06-19 11:35:24 |

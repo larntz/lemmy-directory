@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/listentothis"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 04:14:32"
+published: "2023-06-11 03:58:07"
 subscribers: 13
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ListenToThis on lemmy.ml
-
-[[home](/)]
-[[/c/listentothis 🌎](https://lemmy.ml/c/listentothis)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Listentothis is the place to discover new and overlooked music. All submissions link directly to music streams. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 03:58:07 |
-| Updated              | 2023-06-11 04:14:32 |
-| Last Scraped         | 2023-06-19 11:36:43 |

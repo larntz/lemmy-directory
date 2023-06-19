@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/assam"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-26 16:31:52"
+published: "2021-07-26 16:31:07"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Assam on lemmy.ml
-
-[[home](/)]
-[[/c/assam 🌎](https://lemmy.ml/c/assam)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Assamese Lemmy Community.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-26 16:31:07 |
-| Updated              | 2021-07-26 16:31:52 |
-| Last Scraped         | 2023-06-19 11:36:53 |

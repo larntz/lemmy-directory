@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/valorant"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:28:28"
+published: "2023-05-03 10:02:21"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/VALORANT on lemmy.ml
-
-[[home](/)]
-[[/c/valorant 🌎](https://lemmy.ml/c/valorant)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Home of Valorant on Lemmy. Opening soon.<br><br> [Valorant Matrix Chat](https://matrix.to/#/#valorant-lemmy:matrix.org)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-03 10:02:21 |
-| Updated              | 2023-06-15 22:28:28 |
-| Last Scraped         | 2023-06-19 11:36:43 |

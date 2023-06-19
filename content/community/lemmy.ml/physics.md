@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/physics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-02 20:18:39"
+published: "2021-02-02 19:54:44"
 subscribers: 159
 posts: 25
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Most Excellent Physics Community. on lemmy.ml
-
-[[home](/)]
-[[/c/physics 🌎](https://lemmy.ml/c/physics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Community Rules.**<br><br>- Be Excellent to each other.<br>- Content must be Physics related.<br>- No Spam.<br>- Party on, dudes.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 159 |
-| Posts                | 25  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-02 19:54:44 |
-| Updated              | 2021-02-02 20:18:39 |
-| Last Scraped         | 2023-06-16 22:57:39 |

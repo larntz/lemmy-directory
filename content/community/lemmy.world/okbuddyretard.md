@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okbuddyretard"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 21:35:12"
 subscribers: 70
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/OkBuddyRetard on lemmy.world
-
-[[home](/)]
-[[/c/okbuddyretard 🌎](https://lemmy.world/c/okbuddyretard)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-~~ okay ~~buddy~~ retard ~~<br><br><br>OkBR is a satirical meme subreddit where we pretend to be 8 year olds who JUST gained internet access and made clueless memes in the early 20s<br><br><br><br>https://discord.gg/DgyYNaUktR ~~
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:35:12 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:37 |

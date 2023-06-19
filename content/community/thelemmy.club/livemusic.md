@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/livemusic"
 host: thelemmy.club
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 07:22:56"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "thelemmy_club"
 
 ---
-
-# /c/Live Music on thelemmy.club
-
-[[home](/)]
-[[/c/livemusic 🌎](https://thelemmy.club/c/livemusic)]
-[[thelemmy.club](/instances/thelemmy_club)]
-
-
-## Description 
-
-<blockquote class="description">
-Share your favourite live performances. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 07:22:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

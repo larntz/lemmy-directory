@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/pooza"
 host: lm.korako.me
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-04-14 08:43:39"
 subscribers: 7
 posts: 209
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lm_korako_me"
 
 ---
-
-# /c/ぷーざ個人のブクマ on lm.korako.me
-
-[[home](/)]
-[[/c/pooza 🌎](https://lm.korako.me/c/pooza)]
-[[lm.korako.me](/instances/lm_korako_me)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 209  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-14 08:43:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:44 |

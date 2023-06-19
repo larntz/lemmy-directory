@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/climate"
 host: slrpnk.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 15:01:38"
+published: "2023-06-11 22:09:30"
 subscribers: 151
 posts: 80
 comments: 55
@@ -22,36 +23,3 @@ tags:
 - "slrpnk_net"
 
 ---
-
-# /c/Climate -  truthful information about climate, related activism and politics. on slrpnk.net
-
-[[home](/)]
-[[/c/climate 🌎](https://slrpnk.net/c/climate)]
-[[slrpnk.net](/instances/slrpnk_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of climate, how it is changing, activism around that, the politics, and the energy systems change we need in order to stabilize things.<br><br>As a starting point, the burning of fossil fuels, and to a lesser extent deforestation and release of methane are [responsible for the warming in recent decades](https://www.ipcc.ch/report/ar6/wg1/figures/summary-for-policymakers/figure-spm-1):<br>![Graph of temperature as observed with significant warming, and simulated without added greenhouse gases and other anthropogentic changes, which shows no significant warming](https://slrpnk.net/pictrs/image/4276aa7e-c3b3-470d-8519-8c2424265624.png)<br><br>[How much each change to the atmosphere has warmed the world:<br>![](https://slrpnk.net/pictrs/image/74846940-97b5-4d50-ba90-c7136693f3c3.png)](https://www.ipcc.ch/report/ar6/wg1/figures/summary-for-policymakers/figure-spm-2)<br><br>[Recommended actions to cut greenhouse gas emissions in the near future:<br>![](https://slrpnk.net/pictrs/image/e7c05fc0-0391-407a-9492-f848810507e3.png)](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-7/)<br><br>Anti-science, inactivism, and unsupported conspiracy theories are not ok here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 151 |
-| Posts                | 80  |
-| Comments             | 55  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 24  |
-| Monthly Active Users | 24  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:09:30 |
-| Updated              | 2023-06-18 15:01:38 |
-| Last Scraped         | 2023-06-19 11:35:28 |

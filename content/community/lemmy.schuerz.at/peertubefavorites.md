@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/peertubefavorites"
 host: lemmy.schuerz.at
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-13 19:46:25"
+published: "2022-01-13 16:34:41"
 subscribers: 31
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_schuerz_at"
 
 ---
-
-# /c/Good peertube instances [en] on lemmy.schuerz.at
-
-[[home](/)]
-[[/c/peertubefavorites 🌎](https://lemmy.schuerz.at/c/peertubefavorites)]
-[[lemmy.schuerz.at](/instances/lemmy_schuerz_at)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a Lemmy to find community-rated #Peertube Instances.<br>The idea was born in peertubes [Matrix] room.<br><br>**This is for english speaking community<br><br>Please post here only instances, which mainlanguage is english**.<br><br>Not allowed are instances with antivaxxers, qanon, rassistc, sexistic, misogynic, fakenews, nationalsocialistic and all similar stuff
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-13 16:34:41 |
-| Updated              | 2022-01-13 19:46:25 |
-| Last Scraped         | 2023-06-19 11:35:28 |

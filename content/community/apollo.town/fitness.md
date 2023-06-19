@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/fitness"
 host: apollo.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 07:20:35"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "apollo_town"
 
 ---
-
-# /c/Fitness on apollo.town
-
-[[home](/)]
-[[/c/fitness 🌎](https://apollo.town/c/fitness)]
-[[apollo.town](/instances/apollo_town)]
-
-
-## Description 
-
-<blockquote class="description">
-For all sorts of jokes and advice on being active and healthy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 07:20:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

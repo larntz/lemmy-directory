@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/transcanada"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 01:07:45"
+published: "2023-06-13 00:59:03"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/TransCanada on lemmy.ca
-
-[[home](/)]
-[[/c/transcanada 🌎](https://lemmy.ca/c/transcanada)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Trans* related discussion, pictures, links, etc. A community moderated by trans people for trans people.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 00:59:03 |
-| Updated              | 2023-06-13 01:07:45 |
-| Last Scraped         | 2023-06-19 11:35:36 |

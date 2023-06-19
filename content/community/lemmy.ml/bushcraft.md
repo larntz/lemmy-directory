@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bushcraft"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-31 09:03:37"
+published: "2021-07-31 09:01:12"
 subscribers: 91
 posts: 13
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bushcraft on lemmy.ml
-
-[[home](/)]
-[[/c/bushcraft 🌎](https://lemmy.ml/c/bushcraft)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Survival essentials
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 13  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-31 09:01:12 |
-| Updated              | 2021-07-31 09:03:37 |
-| Last Scraped         | 2023-06-19 11:36:45 |

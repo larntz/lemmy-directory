@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thrashmetal"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-12-17 18:40:49"
+published: "2020-01-26 16:05:07"
 subscribers: 25
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Thrash Metal on lemmy.ml
-
-[[home](/)]
-[[/c/thrashmetal 🌎](https://lemmy.ml/c/thrashmetal)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Spectrum of Death
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-26 16:05:07 |
-| Updated              | 2020-12-17 18:40:49 |
-| Last Scraped         | 2023-06-19 11:36:43 |

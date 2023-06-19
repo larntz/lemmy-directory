@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/choicescript"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 02:24:50"
+published: "2023-06-10 20:16:46"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/ChoiceScript (r/choiceofgames & r/hostedgames) on lemmy.world
-
-[[home](/)]
-[[/c/choicescript 🌎](https://lemmy.world/c/choicescript)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss interactive fictions/interactive novels/text games made in the ChoiceScript game engine, created by Choice of Games LLC.<br><br>You can talk about any game made in ChoiceScript, regardless of where it’s published. Choice of Games, Hosted Games, Heart’s Choice, WIPs on Dashingdon, all here. You can even discuss games made in Twine that are similar in structure to ChoiceScript games (such as those that started out on ChoiceScript but later switched to Twine).<br><br># Rules<br>- We do not allow intolerant behaviour<br>- Be kind to each other<br>- Don't ask for/about updates<br><br># Related Communities<br>- [Interactive Fiction](/c/interactive_fiction@lemmy.ml) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 20:16:46 |
-| Updated              | 2023-06-16 02:24:50 |
-| Last Scraped         | 2023-06-19 11:36:41 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/immich"
 host: lemmy.perthchat.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 04:51:55"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_perthchat_org"
 
 ---
-
-# /c/Immich - High performance self-hosted photo and video backup solution on lemmy.perthchat.org
-
-[[home](/)]
-[[/c/immich 🌎](https://lemmy.perthchat.org/c/immich)]
-[[lemmy.perthchat.org](/instances/lemmy_perthchat_org)]
-
-
-## Description 
-
-<blockquote class="description">
-To discuss the use of [Immich](https://github.com/immich-app/immich)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 04:51:55 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:28 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ooga_booga"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-10 19:21:34"
+published: "2023-01-10 19:18:07"
 subscribers: 4
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ooga booga on lemmy.ml
-
-[[home](/)]
-[[/c/ooga_booga 🌎](https://lemmy.ml/c/ooga_booga)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**ONLY** OOGA BOOGA 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-10 19:18:07 |
-| Updated              | 2023-01-10 19:21:34 |
-| Last Scraped         | 2023-06-19 11:36:46 |

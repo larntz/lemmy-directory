@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radix"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-13 02:21:20"
+published: "2023-01-25 06:56:32"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The Radix Project on lemmy.ml
-
-[[home](/)]
-[[/c/radix 🌎](https://lemmy.ml/c/radix)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for anything related to the Radix Project
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-25 06:56:32 |
-| Updated              | 2023-05-13 02:21:20 |
-| Last Scraped         | 2023-06-16 22:57:45 |

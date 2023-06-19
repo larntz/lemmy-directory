@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fungi"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 23:32:06"
+published: "2023-06-09 23:30:37"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Fungi on lemmy.ca
-
-[[home](/)]
-[[/c/fungi 🌎](https://lemmy.ca/c/fungi)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss all things fungi! <br><br>Post your pics, ID requests, and general banter about fungis.<br><br>Please keep all posts respectful and civil.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 23:30:37 |
-| Updated              | 2023-06-09 23:32:06 |
-| Last Scraped         | 2023-06-19 11:35:36 |

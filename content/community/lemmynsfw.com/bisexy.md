@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bisexy"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 00:35:31"
+published: "2023-06-14 00:21:34"
 subscribers: 172
 posts: 5
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Bisexy on lemmynsfw.com
-
-[[home](/)]
-[[/c/bisexy 🌎](https://lemmynsfw.com/c/bisexy)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Group content for those who enjoy all genders
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 172 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:21:34 |
-| Updated              | 2023-06-14 00:35:31 |
-| Last Scraped         | 2023-06-19 11:35:46 |

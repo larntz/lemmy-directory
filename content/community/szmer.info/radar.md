@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/radar"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-11-01 22:34:10"
+published: "2020-07-28 14:36:15"
 subscribers: 168
 posts: 339
 comments: 201
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/radar wydarzeń on szmer.info
-
-[[home](/)]
-[[/c/radar 🌎](https://szmer.info/c/radar)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-miejsce, żeby wrzucać informacje o wydarzeniach. <br><br>a najlepiej jakby były to linki nie do fejsa, tylko na radar, czyli wolnościowy serwis z wydarzeniami - https://radar.squat.net/pl
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 168 |
-| Posts                | 339  |
-| Comments             | 201  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 15  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-28 14:36:15 |
-| Updated              | 2021-11-01 22:34:10 |
-| Last Scraped         | 2023-06-19 11:35:33 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tezzo.f0rk.pl/c/f0rk_bot_hut"
 host: tezzo.f0rk.pl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:02:24"
+published: "2023-06-13 01:47:24"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tezzo_f0rk_pl"
 
 ---
-
-# /c/f0rk_bot's playground on tezzo.f0rk.pl
-
-[[home](/)]
-[[/c/f0rk_bot_hut 🌎](https://tezzo.f0rk.pl/c/f0rk_bot_hut)]
-[[tezzo.f0rk.pl](/instances/tezzo_f0rk_pl)]
-
-
-## Description 
-
-<blockquote class="description">
-This place exists for @f0rk_bot to relax and grow.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:47:24 |
-| Updated              | 2023-06-13 03:02:24 |
-| Last Scraped         | 2023-06-16 22:56:18 |

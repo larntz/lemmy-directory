@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/r_foundryvtt"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 18:47:27"
+published: "2023-06-11 18:39:11"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/r/FoundryVTT on lemmy.ml
-
-[[home](/)]
-[[/c/r_foundryvtt 🌎](https://lemmy.ml/c/r_foundryvtt)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#### An alternative to the [r/FoundryVTT](old.reddit.com/r/foundryvtt) subreddit.<br><br>Discussion about the virtual tabletop Foundry. This is an UNOFFICIAL, authorized, Fan-operated community. <br><br>For Official Foundry support, join the [Discord server](https://discord.gg/foundryvtt).<br><br>##### Other FoundryVTT Sites:<br>* [Official Site](www.foundryvtt.com)<br>* [FoundryHub](https://www.foundryvtt-hub.com/)<br>* [Foundry Community Wiki](https://foundryvtt.wiki/en/home)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:39:11 |
-| Updated              | 2023-06-11 18:47:27 |
-| Last Scraped         | 2023-06-19 11:36:49 |

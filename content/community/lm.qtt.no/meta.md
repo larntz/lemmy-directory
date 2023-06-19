@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.qtt.no/c/meta"
 host: lm.qtt.no
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 17:48:13"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lm_qtt_no"
 
 ---
-
-# /c/Meta on lm.qtt.no
-
-[[home](/)]
-[[/c/meta 🌎](https://lm.qtt.no/c/meta)]
-[[lm.qtt.no](/instances/lm_qtt_no)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about the server itself.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 17:48:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

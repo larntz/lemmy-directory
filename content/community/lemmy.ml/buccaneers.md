@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buccaneers"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 18:43:20"
+published: "2023-06-09 18:29:44"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Tampa Bay Buccaneers : ✌Time Super Bowl Champions on lemmy.ml
-
-[[home](/)]
-[[/c/buccaneers 🌎](https://lemmy.ml/c/buccaneers)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Placeholder for people transitioning from the /r/Buccaneers Subreddit<br><br>Your Mom's Favorite NFL Related Forum.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 18:29:44 |
-| Updated              | 2023-06-09 18:43:20 |
-| Last Scraped         | 2023-06-16 22:57:39 |

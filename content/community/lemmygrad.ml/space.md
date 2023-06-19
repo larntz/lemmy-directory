@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/space"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 04:35:35"
+published: "2021-04-22 19:43:38"
 subscribers: 108
 posts: 10
 comments: 75
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Space on lemmygrad.ml
-
-[[home](/)]
-[[/c/space 🌎](https://lemmygrad.ml/c/space)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 108 |
-| Posts                | 10  |
-| Comments             | 75  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-22 19:43:38 |
-| Updated              | 2023-06-13 04:35:35 |
-| Last Scraped         | 2023-06-19 11:35:08 |

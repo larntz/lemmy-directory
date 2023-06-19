@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pracownicze"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-14 08:36:56"
+published: "2020-08-05 15:49:49"
 subscribers: 179
 posts: 694
 comments: 387
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/pracownicze on szmer.info
-
-[[home](/)]
-[[/c/pracownicze 🌎](https://szmer.info/c/pracownicze)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-wszystko co związane z zatrudnieniem
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 179 |
-| Posts                | 694  |
-| Comments             | 387  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-05 15:49:49 |
-| Updated              | 2022-05-14 08:36:56 |
-| Last Scraped         | 2023-06-19 11:35:33 |

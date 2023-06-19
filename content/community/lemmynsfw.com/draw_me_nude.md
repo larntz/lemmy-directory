@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/draw_me_nude"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:49:53"
+published: "2023-06-12 14:49:36"
 subscribers: 76
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/draw_me_naked on lemmynsfw.com
-
-[[home](/)]
-[[/c/draw_me_nude 🌎](https://lemmynsfw.com/c/draw_me_nude)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A subreddit for models and artists to meet !<br>Models : post your own picture if you want to be drawn !<br>Artists : Let's get inspired by the pictures posted !<br><br>Now in a NSFW fashion!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:49:36 |
-| Updated              | 2023-06-12 14:49:53 |
-| Last Scraped         | 2023-06-19 11:35:46 |

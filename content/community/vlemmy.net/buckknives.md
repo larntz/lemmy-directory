@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/buckknives"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 02:00:02"
+published: "2023-06-12 16:05:48"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Buck Knives on vlemmy.net
-
-[[home](/)]
-[[/c/buckknives 🌎](https://vlemmy.net/c/buckknives)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything to do with Buck Knives. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:05:48 |
-| Updated              | 2023-06-13 02:00:02 |
-| Last Scraped         | 2023-06-19 11:35:05 |

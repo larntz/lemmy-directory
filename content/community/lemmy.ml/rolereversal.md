@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rolereversal"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-05 05:29:47"
+published: "2022-04-05 05:25:53"
 subscribers: 12
 posts: 3
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Role Reversal on lemmy.ml
-
-[[home](/)]
-[[/c/rolereversal 🌎](https://lemmy.ml/c/rolereversal)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For tomboys and femboys, but no sexualization of them allowed
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 3  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-05 05:25:53 |
-| Updated              | 2022-04-05 05:29:47 |
-| Last Scraped         | 2023-06-19 11:36:43 |

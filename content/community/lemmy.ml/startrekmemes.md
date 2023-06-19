@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/startrekmemes"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 02:08:53"
+published: "2021-03-23 20:43:00"
 subscribers: 58
 posts: 5
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/StarTrekMemes: Meme-ory Alpha on lemmy.ml
-
-[[home](/)]
-[[/c/startrekmemes 🌎](https://lemmy.ml/c/startrekmemes)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 58 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-23 20:43:00 |
-| Updated              | 2021-03-24 02:08:53 |
-| Last Scraped         | 2023-06-19 11:36:58 |

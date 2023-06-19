@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/bike_repair"
 host: rammy.site
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:01:48"
+published: "2023-06-14 22:57:45"
 subscribers: 3
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "rammy_site"
 
 ---
-
-# /c/Bike Repair on rammy.site
-
-[[home](/)]
-[[/c/bike_repair 🌎](https://rammy.site/c/bike_repair)]
-[[rammy.site](/instances/rammy_site)]
-
-
-## Description 
-
-<blockquote class="description">
-## Welcome to Bike Repair!<br>From leaky tires to bottom brackets to handlebar grips, this is where your shitshow becomes a showpiece.<br><br>### Share your knowledge!<br>This is the place to share your bike repair stories and experiences. Maybe you have a helpful tip you think others find useful? Or do you want to show something off? Share it here!<br><br>### Ask for help!<br>Has your 30-minute project turned into the whole afternoon? Have you been trying for days to take that seized pedal out of the crank? Somebody has surely been in the same boat, so don't be shy and ask away.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 22:57:45 |
-| Updated              | 2023-06-14 23:01:48 |
-| Last Scraped         | 2023-06-19 11:35:18 |

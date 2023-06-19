@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typo3"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-02 08:28:14"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/TYPO3 CMS on lemmy.ml
-
-[[home](/)]
-[[/c/typo3 🌎](https://lemmy.ml/c/typo3)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome:<br><br>Links, articles and discussions about TYPO3, the Content Management System.<br><br>You are welcome to ask general questions about TYPO3, or to comment on posts. We support exchange of knowledge and opinions.<br><br>Links:<br><br>TYPO3 - Inspiring People to Share<br><br>- https://typo3.org TYPO3 portal<br>- https://typo3.com TYPO3 Association<br>- https://typo3.slack.com TYPO3 Slack channel<br>- https://docs.typo3.org Documentation<br>- https://twitter.com/typo3 TYPO3 on Twittere<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 08:28:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:42 |

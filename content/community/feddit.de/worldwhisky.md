@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/worldwhisky"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 10:41:20"
+published: "2023-06-08 20:23:06"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/WorldWhisky on feddit.de
-
-[[home](/)]
-[[/c/worldwhisky 🌎](https://feddit.de/c/worldwhisky)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-World whisky reviews. Non-Scotch and Non-American Whiskies only please!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 20:23:06 |
-| Updated              | 2023-06-12 10:41:20 |
-| Last Scraped         | 2023-06-19 11:35:39 |

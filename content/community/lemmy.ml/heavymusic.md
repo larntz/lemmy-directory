@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/heavymusic"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-07 15:18:37"
+published: "2022-05-07 08:23:45"
 subscribers: 29
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Heavy Music on lemmy.ml
-
-[[home](/)]
-[[/c/heavymusic 🌎](https://lemmy.ml/c/heavymusic)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Share and discuss new heavy music releases as well as your old favorites and obscure artists you just found out about.<br><br>**All heavy genres are allowed:** Hardcore, Grindcore, Death Metal, even Black Metal. The heavier, the better.<br><br>**But no Nazi shit!**<br><br>Links to subscription content (e.g. Spotify) are allowed but discouraged. Please try to link to more accessible streaming sites or the artists' website or Bandcamp.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-07 08:23:45 |
-| Updated              | 2022-05-07 15:18:37 |
-| Last Scraped         | 2023-06-19 11:36:52 |

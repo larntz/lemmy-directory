@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/familycommunism"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-08-25 21:05:42"
 subscribers: 177
 posts: 9
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/The Kids are All Left on lemmygrad.ml
-
-[[home](/)]
-[[/c/familycommunism 🌎](https://lemmygrad.ml/c/familycommunism)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-How do we raise children in an age where communism is the ultimate goal? If our SOs have different beliefs, how do we advance given the responsibility to someone/anyone we love and trust?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 177 |
-| Posts                | 9  |
-| Comments             | 23  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-25 21:05:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:08 |

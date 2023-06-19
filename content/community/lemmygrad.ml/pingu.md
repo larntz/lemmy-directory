@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pingu"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-28 21:17:55"
+published: "2020-09-20 17:48:27"
 subscribers: 86
 posts: 7
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Pingu 🐧☭ on lemmygrad.ml
-
-[[home](/)]
-[[/c/pingu 🌎](https://lemmygrad.ml/c/pingu)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The community for Pingu memes.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 86 |
-| Posts                | 7  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-09-20 17:48:27 |
-| Updated              | 2021-03-28 21:17:55 |
-| Last Scraped         | 2023-06-19 11:35:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/fawm"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:49:08"
+published: "2023-06-14 00:12:23"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/FAWM on lemmy.studio
-
-[[home](/)]
-[[/c/fawm 🌎](https://lemmy.studio/c/fawm)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-[FAWM](https://fawm.org/) is a global music community that meets virtually every February and during northern hemisphere Summer to try to write as many songs as possible.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 00:12:23 |
-| Updated              | 2023-06-14 16:49:08 |
-| Last Scraped         | 2023-06-19 11:34:58 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nuclearthrone"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 02:12:07"
+published: "2023-06-16 12:52:38"
 subscribers: 2
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Nuclear Throne on lemmy.world
-
-[[home](/)]
-[[/c/nuclearthrone 🌎](https://lemmy.world/c/nuclearthrone)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for all things Nuclear Throne!<br><br>**Rules**<br>1. keep posts on topic<br>2. be nice<br>3. No NSFW content<br><br>**Links**<br><br>[Official Discord](https://discord.gg/nt)<br><br>[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)<br><br>[ThroneButt](https://thronebutt.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 12:52:38 |
-| Updated              | 2023-06-17 02:12:07 |
-| Last Scraped         | 2023-06-19 11:36:37 |

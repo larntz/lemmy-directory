@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thinkpad"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-06-28 15:23:02"
 subscribers: 181
 posts: 6
 comments: 42
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ThinkPad on lemmy.ml
-
-[[home](/)]
-[[/c/thinkpad 🌎](https://lemmy.ml/c/thinkpad)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-IBM and Lenovo ThinkPad laptop enthusiasts!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 181 |
-| Posts                | 6  |
-| Comments             | 42  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 15:23:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:29:36 |

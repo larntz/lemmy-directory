@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/iroiro_release"
 host: lm.korako.me
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-06-16 02:36:30"
 subscribers: 10
 posts: 499
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lm_korako_me"
 
 ---
-
-# /c/こまちさんのお知らせ on lm.korako.me
-
-[[home](/)]
-[[/c/iroiro_release 🌎](https://lm.korako.me/c/iroiro_release)]
-[[lm.korako.me](/instances/lm_korako_me)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 499  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-16 02:36:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/49ers"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:27:45"
+published: "2023-06-12 02:40:14"
 subscribers: 56
 posts: 6
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/San Francisco 49ers on lemmy.world
-
-[[home](/)]
-[[/c/49ers 🌎](https://lemmy.world/c/49ers)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome faithful! <br><br>-----<br><br>Rules:<br><br>-Treat others the way you would like to be treated<br><br>-SOSAR<br><br>------<br><br>NFL [!nfl@lemmy.ml](https://lemmy.ml/c/nfl) - [!nfl@lemmy.world](https://lemmy.world/c/nfl) <br>Arizona Cardinals [!azcardinals@lemmy.ml](https://lemmy.ml/c/azcardinals) <br>Chicago Bears [!chibears@1337lemmy.com](https://1337lemmy.com/c/chibears) <br>Cincinnati Bengals [!bengals@lemmy.world](https://lemmy.world/c/bengals) <br>Cleveland Browns [!browns@lemmy.world](https://lemmy.world/c/browns) <br>Dallas Cowboys [!dallascowboys@lemmy.ml](https://lemmy.ml/c/dallascowboys) <br>Denver Broncos [!denverbroncos@lemmy.ml](https://lemmy.ml/c/denverbroncos) <br>Detroit Lions [!detroitlions@sh.itjust.works](sh.itjust.works/c/detroitlions) <br>Green Bay Packers [!packers@sh.itjust.works](https://sh.itjust.works/c/packers) <br>Houston Texans [!texans@lemmy.rogers-net.com](https://lemmy.rogers-net.com/c/texans) <br>Indianapolis Colts [!indianapoliscolts@midwest.social](https://midwest.social/c/indianapoliscolts) <br>Kansas City Chiefs [!kansascitychiefs@lemmy.world](https://lemmy.world/c/kansascitychiefs) <br>Jacksonville Jaguars [!jaguars@lemmy.ml](https://lemmy.ml/c/jaguars) <br>Los Angeles Chargers [!chargers@sh.itjust.works](https://sh.itjust.works/c/chargers) <br>Los Angeles Rams [!larams@lemmy.world](https://lemmy.world/c/larams) <br>Minnesota Vikings [!minnesotavikings@feddit.de](https://feddit.de/c/minnesotavikings) <br>New England Patriots [!patriots@lemmy.ml](https://lemmy.ml/c/patriots) <br>New York Giants [!newyorkgiants@lemmy.ml](https://lemmy.ml/c/newyorkgiants) <br>New York Jets [!nyjets@lemmy.ml](https://lemmy.ml/c/nyjets) <br>Philadelphia Eagles [!eagles@lemmy.world](https://lemmy.world/c/eagles) - [!eagles@philly.page](philly.page/c/eagles) <br>Pittsburgh Steelers [!steelers@lemmy.world](https://lemmy.world/c/steelers) <br>San Francisco 49ers [!49ers@lemmy.world](https://lemmy.world/c/49ers) <br>Seattle Seahawks [!seahawks@lemmy.ml](https://lemmy.ml/c/seahawks) <br>Washington Commanders [!commanders@sh.itjust.works](https://sh.itjust.works/c/commanders)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 6  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 02:40:14 |
-| Updated              | 2023-06-15 06:27:45 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exanima"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 10:18:01"
+published: "2023-06-14 20:52:37"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Exanima on lemmy.world
-
-[[home](/)]
-[[/c/exanima 🌎](https://lemmy.world/c/exanima)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything related to Exanima and Sui Generis.<br><br>Links:<br>- [Bare Mettle](https://www.baremettle.com/)<br><br>- [Steam](https://store.steampowered.com/app/362490/Exanima/)<br><br>- [GOG](https://www.gog.com/en/game/exanima)<br><br>Rules:<br>- No NSFW content.<br>- No hate speech or personal attacks.<br>- No spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 20:52:37 |
-| Updated              | 2023-06-17 10:18:01 |
-| Last Scraped         | 2023-06-19 11:36:38 |

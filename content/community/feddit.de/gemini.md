@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gemini"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-22 06:04:29"
+published: "2021-09-17 11:09:36"
 subscribers: 25
 posts: 19
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Gemini-Protokoll und Gemtext on feddit.de
-
-[[home](/)]
-[[/c/gemini 🌎](https://feddit.de/c/gemini)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Deutschsprachige **Gemini**-Community<br><br>Das Gemini-Protokoll ist ein Netzwerkprotokoll zum verschlüsselten Abrufen von Dokumenten über das Internet, das Einfachheit, Datenschutz und textorientierte Inhalte in den Vordergrund stellt.<br><br>- [Was ist Gemini?](https://was-ist-gemini.de/)<br>- [Was ist der Geminispace?](https://de.wikipedia.org/wiki/Geminispace)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 19  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-17 11:09:36 |
-| Updated              | 2021-09-22 06:04:29 |
-| Last Scraped         | 2023-06-19 11:35:39 |

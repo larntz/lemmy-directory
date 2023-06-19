@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/travel"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-27 17:32:03"
+published: "2019-05-02 16:28:39"
 subscribers: 143
 posts: 34
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Travel on lemmy.ml
-
-[[home](/)]
-[[/c/travel 🌎](https://lemmy.ml/c/travel)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Your pictures, questions and stories about exploring the world.<br><br>---
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 143 |
-| Posts                | 34  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-05-02 16:28:39 |
-| Updated              | 2021-01-27 17:32:03 |
-| Last Scraped         | 2023-06-16 22:57:39 |

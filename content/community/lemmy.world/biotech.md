@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/biotech"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:12:00"
+published: "2023-06-14 22:06:07"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Biotechnology - News and questions on lemmy.world
-
-[[home](/)]
-[[/c/biotech 🌎](https://lemmy.world/c/biotech)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-AI, Genomes, New technologies. Everything goes when it comes to technology used to improve (or worsen) us humans and nature.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 22:06:07 |
-| Updated              | 2023-06-14 22:12:00 |
-| Last Scraped         | 2023-06-19 11:36:38 |

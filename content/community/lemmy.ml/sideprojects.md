@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sideprojects"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-10-29 19:11:42"
+published: "2020-10-29 19:08:20"
 subscribers: 52
 posts: 4
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Show off your side projects  on lemmy.ml
-
-[[home](/)]
-[[/c/sideprojects 🌎](https://lemmy.ml/c/sideprojects)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-29 19:08:20 |
-| Updated              | 2020-10-29 19:11:42 |
-| Last Scraped         | 2023-06-19 11:36:44 |

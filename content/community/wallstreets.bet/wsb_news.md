@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_news"
 host: wallstreets.bet
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:23:12"
+published: "2023-06-13 19:22:46"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "wallstreets_bet"
 
 ---
-
-# /c/Got something? Tell WSB. on wallstreets.bet
-
-[[home](/)]
-[[/c/wsb_news 🌎](https://wallstreets.bet/c/wsb_news)]
-[[wallstreets.bet](/instances/wallstreets_bet)]
-
-
-## Description 
-
-<blockquote class="description">
-Source that intel.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:22:46 |
-| Updated              | 2023-06-13 19:23:12 |
-| Last Scraped         | 2023-06-19 11:35:25 |

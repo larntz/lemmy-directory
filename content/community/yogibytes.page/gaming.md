@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://yogibytes.page/c/gaming"
 host: yogibytes.page
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 14:07:27"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "yogibytes_page"
 
 ---
-
-# /c/Gaming on yogibytes.page
-
-[[home](/)]
-[[/c/gaming 🌎](https://yogibytes.page/c/gaming)]
-[[yogibytes.page](/instances/yogibytes_page)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 14:07:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:26 |

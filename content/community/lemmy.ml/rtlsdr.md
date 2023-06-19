@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rtlsdr"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 14:49:14"
+published: "2023-06-06 20:07:21"
 subscribers: 27
 posts: 7
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/RTLSDR on lemmy.ml
-
-[[home](/)]
-[[/c/rtlsdr 🌎](https://lemmy.ml/c/rtlsdr)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A subreddit for the low-cost software defined radio (SDR) community. While originally dedicated to the [RTL2832U USB rtl-sdr project, relevant content related to general SDR, RF, and similar projects are also welcomed.<br><br>Related communities: <br><br>- [c/embedded](https://lemmy.ml/c/embedded)<br>- [c/askelectronics](https://lemmy.ml/c/askelectronics)<br>- [c/fpga](https://lemmy.ml/c/fpga)<br>- [c/chipdesign](https://lemmy.ml/c/chipdesign)<br>- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)<br>- [c/dsp](https://lemmy.ml/c/dsp)<br>- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)<br>- [c/cprogramming](https://lemmy.ml/c/cprogramming)<br>- [c/raspberry_pi](https://lemmy.ml/c/raspberry_pi)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 7  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 20:07:21 |
-| Updated              | 2023-06-09 14:49:14 |
-| Last Scraped         | 2023-06-16 22:57:20 |

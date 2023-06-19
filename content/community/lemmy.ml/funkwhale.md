@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funkwhale"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-24 01:51:25"
+published: "2021-04-04 01:34:15"
 subscribers: 173
 posts: 21
 comments: 45
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/funkwhale on lemmy.ml
-
-[[home](/)]
-[[/c/funkwhale 🌎](https://lemmy.ml/c/funkwhale)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#### About<br>Funkwhale is a modern, self-hosted, federated, free and open-source music server. <br>##### Important<br>Lemmy doesn’t have flags yet, so please tag your posts with [Question], [Help], [Other], [Promoting], [Artist], [Album], [Song] or other you may think is appropriate.<br><br>#### [Official site / main pod](https://funkwhale.audio)<br><br>#### Community spaces<br>- [Main forum](https://governance.funkwhale.audio)<br>- Matrix.org instances<br>  - [#funkwhale:matrix.org](https://riot.im/app/#/room/#funkwhale:matrix.org): for general discussions around the project, asking questions, introduce yourself <br>  - [funkwhale-troubleshooting:matrix.org](https://riot.im/app/#/room/#funkwhale-troubleshooting:matrix.org): for support discussions around Funkwhale (installation, usage, etc.)<br>  - [funkwhale-dev:matrix.org](https://riot.im/app/#/room/#funkwhale-dev:matrix.org): for development-related discussions<br>- [Gitlab instance](https://dev.funkwhale.audio/funkwhale/)<br>- Fediverse<br>  - [Mastodon](https://mastodon.eliotberriot.com/@funkwhale)<br>  - [Lemmy](https://lemmy.ml/c/funkwhale) [you are here!]<br><br>#### Resources<br>##### [Documentation](https://docs.funkwhale.audio/)<br>##### [Blog](https://blog.funkwhale.audio/)<br>##### [Code of Conduct of Funkwhale](https://funkwhale.audio/en_US/code-of-conduct)<br><br>#### This is a sister community of<br>- [Free/Libre music](https://lemmy.ml/c/libremusic)<br>- [Free Music Archive](https://lemmy.ml/c/fma)<br>- [libre.fm](https://lemmy.ml/c/librefm)<br>- [Magnatune](https://lemmy.ml/c/magnatune)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 173 |
-| Posts                | 21  |
-| Comments             | 45  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-04 01:34:15 |
-| Updated              | 2021-04-24 01:51:25 |
-| Last Scraped         | 2023-06-16 22:57:39 |

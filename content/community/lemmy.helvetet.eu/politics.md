@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/politics"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-01 19:08:37"
+published: "2023-04-01 18:29:40"
 subscribers: 12
 posts: 8
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Politics on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/politics 🌎](https://lemmy.helvetet.eu/c/politics)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 8  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-01 18:29:40 |
-| Updated              | 2023-04-01 19:08:37 |
-| Last Scraped         | 2023-06-19 11:35:28 |

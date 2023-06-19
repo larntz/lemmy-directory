@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/limp_bizkit"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:20:56"
+published: "2023-06-14 02:14:48"
 subscribers: 2
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Limp Bizkit on lemmy.world
-
-[[home](/)]
-[[/c/limp_bizkit 🌎](https://lemmy.world/c/limp_bizkit)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-I need a snacky poo!<br><br>Rules:<br><br>- Be excellent to each other<br>- Don’t be the reason we need to make more rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:14:48 |
-| Updated              | 2023-06-15 01:20:56 |
-| Last Scraped         | 2023-06-19 11:36:40 |

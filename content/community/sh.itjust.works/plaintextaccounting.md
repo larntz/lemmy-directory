@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/plaintextaccounting"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 13:09:07"
+published: "2023-06-16 13:02:17"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Plain Text Accounting on sh.itjust.works
-
-[[home](/)]
-[[/c/plaintextaccounting 🌎](https://sh.itjust.works/c/plaintextaccounting)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Ledger, hledger, Beancount, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 13:02:17 |
-| Updated              | 2023-06-16 13:09:07 |
-| Last Scraped         | 2023-06-19 11:35:05 |

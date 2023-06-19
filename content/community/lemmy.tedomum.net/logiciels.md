@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/logiciels"
 host: lemmy.tedomum.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-12-08 23:42:41"
 subscribers: 12
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_tedomum_net"
 
 ---
-
-# /c/Logiciels - découvertes et partages on lemmy.tedomum.net
-
-[[home](/)]
-[[/c/logiciels 🌎](https://lemmy.tedomum.net/c/logiciels)]
-[[lemmy.tedomum.net](/instances/lemmy_tedomum_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-08 23:42:41 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:48 |

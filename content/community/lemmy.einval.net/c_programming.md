@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/c_programming"
 host: lemmy.einval.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 05:33:26"
+published: "2023-06-05 23:27:17"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_einval_net"
 
 ---
-
-# /c/C Programming on lemmy.einval.net
-
-[[home](/)]
-[[/c/c_programming 🌎](https://lemmy.einval.net/c/c_programming)]
-[[lemmy.einval.net](/instances/lemmy_einval_net)]
-
-
-## Description 
-
-<blockquote class="description">
-C:<br>- https://www.cprogramming.com/<br><br>C Lanuage Reference:<br>- https://en.cppreference.com/w/c/language
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 23:27:17 |
-| Updated              | 2023-06-06 05:33:26 |
-| Last Scraped         | 2023-06-19 11:34:57 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftist_stickering"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-28 10:38:19"
+published: "2022-08-28 10:29:10"
 subscribers: 30
 posts: 6
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Leftist Stickering on lemmygrad.ml
-
-[[home](/)]
-[[/c/leftist_stickering 🌎](https://lemmygrad.ml/c/leftist_stickering)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to post leftist stickers you find in the wild. Bonus points if you cover up existing right wing stickers with your stickers.<br><br>Be aware that pictures from phones contain metadata and that you might want to delete that before posting.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 6  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-28 10:29:10 |
-| Updated              | 2022-08-28 10:38:19 |
-| Last Scraped         | 2023-06-19 11:35:08 |

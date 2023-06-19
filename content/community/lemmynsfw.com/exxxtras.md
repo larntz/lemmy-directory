@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/exxxtras"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 13:28:58"
+published: "2023-06-14 13:21:21"
 subscribers: 87
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Exxxtras on lemmynsfw.com
-
-[[home](/)]
-[[/c/exxxtras 🌎](https://lemmynsfw.com/c/exxxtras)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-For all the stuff that happens in a porn shoot and is then left on the cutting room floor<br><br>Sure, it may not all be exactly genuine, but this is a place for all the scenes behind the scenes, all the stuff that's unplanned, or things that don't make the final cut of the production but which nonetheless add quite a bit to its value
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 87 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:21:21 |
-| Updated              | 2023-06-14 13:28:58 |
-| Last Scraped         | 2023-06-19 11:35:46 |

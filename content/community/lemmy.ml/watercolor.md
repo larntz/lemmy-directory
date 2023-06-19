@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watercolor"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 23:00:29"
+published: "2023-06-05 06:37:33"
 subscribers: 52
 posts: 9
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Watercolor / Watercolour / Aquarelle Painting on lemmy.ml
-
-[[home](/)]
-[[/c/watercolor 🌎](https://lemmy.ml/c/watercolor)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for all things watercolor painting. Submit your paintings, give / receive critiques. Post resources such as tutorials, ask questions, learn about and the art of watercolor!<br><br>If posting another person's work, please try and credit them.  Don't take credit for another's work.  <br><br>If posting your own, you can if you wish use [OC] for original content.  This is not required.<br><br>Enjoy the wonderful world of watercolour painting.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 9  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 06:37:33 |
-| Updated              | 2023-06-15 23:00:29 |
-| Last Scraped         | 2023-06-19 11:36:56 |

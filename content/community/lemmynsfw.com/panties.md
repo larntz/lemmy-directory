@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/panties"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 01:00:57"
+published: "2023-06-13 23:32:28"
 subscribers: 511
 posts: 58
 comments: 5
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Panties on lemmynsfw.com
-
-[[home](/)]
-[[/c/panties 🌎](https://lemmynsfw.com/c/panties)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A celebration of women and their sexy panties. <br><br>**Posting Guidelines**<br>1. General [lemmynsfw.com](https://lemmynsfw.com/) rules<br>2. Content must include a woman wearing panties<br>3. No solo male pics<br>4. AI art must be photo realistic <br><br>**Self-promotion rules**<br>1. Self-promotion content must be marked as [OC]<br>2. No externally linked photos<br>3. Gifs and video must link to free sources (ex. redgif, pornhub, etc)<br>4. No links to sales or subscription sites
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 511 |
-| Posts                | 58  |
-| Comments             | 5  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 23:32:28 |
-| Updated              | 2023-06-14 01:00:57 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://monero.town/c/fwtdhwadoqa"
 host: monero.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 15:43:02"
 subscribers: 2
 posts: 1
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "monero_town"
 
 ---
-
-# /c/FWTDHWADOQA on monero.town
-
-[[home](/)]
-[[/c/fwtdhwadoqa 🌎](https://monero.town/c/fwtdhwadoqa)]
-[[monero.town](/instances/monero_town)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:43:02 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

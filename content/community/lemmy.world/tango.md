@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tango"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 01:34:45"
+published: "2023-06-14 01:31:05"
 subscribers: 2
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Argentine Tango on lemmy.world
-
-[[home](/)]
-[[/c/tango 🌎](https://lemmy.world/c/tango)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for discussion and content related to the Argentine Tango and those who partake.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:31:05 |
-| Updated              | 2023-06-14 01:34:45 |
-| Last Scraped         | 2023-06-19 11:36:38 |

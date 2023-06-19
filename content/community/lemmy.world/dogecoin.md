@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dogecoin"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 16:59:27"
+published: "2023-06-11 16:58:10"
 subscribers: 11
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dogecoin on lemmy.world
-
-[[home](/)]
-[[/c/dogecoin 🌎](https://lemmy.world/c/dogecoin)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Dogecoin on Lemmy! 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:58:10 |
-| Updated              | 2023-06-11 16:59:27 |
-| Last Scraped         | 2023-06-19 11:36:41 |

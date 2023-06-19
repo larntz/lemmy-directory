@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/raspberrypi"
 host: quex.cc
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 01:09:11"
+published: "2023-06-06 17:53:10"
 subscribers: 35
 posts: 8
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "quex_cc"
 
 ---
-
-# /c/Raspberry Pi ideas / projects on quex.cc
-
-[[home](/)]
-[[/c/raspberrypi 🌎](https://quex.cc/c/raspberrypi)]
-[[quex.cc](/instances/quex_cc)]
-
-
-## Description 
-
-<blockquote class="description">
-Ideas/demos for hardware / software integration on raspberry pi
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 8  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 17:53:10 |
-| Updated              | 2023-06-13 01:09:11 |
-| Last Scraped         | 2023-06-19 11:34:58 |

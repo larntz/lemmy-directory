@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialcoding"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-04 09:24:16"
+published: "2022-01-04 09:15:33"
 subscribers: 9
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Social Coding on lemmy.ml
-
-[[home](/)]
-[[/c/socialcoding 🌎](https://lemmy.ml/c/socialcoding)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Have patience. This community has not yet been formally launched.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-04 09:15:33 |
-| Updated              | 2022-01-04 09:24:16 |
-| Last Scraped         | 2023-06-19 11:37:02 |

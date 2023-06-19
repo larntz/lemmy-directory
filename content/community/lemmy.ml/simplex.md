@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simplex"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-25 10:56:35"
+published: "2022-08-25 10:55:05"
 subscribers: 22
 posts: 6
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SimpleX Chat on lemmy.ml
-
-[[home](/)]
-[[/c/simplex 🌎](https://lemmy.ml/c/simplex)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The official SimpleX Chat community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 6  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-25 10:55:05 |
-| Updated              | 2022-08-25 10:56:35 |
-| Last Scraped         | 2023-06-16 22:57:37 |

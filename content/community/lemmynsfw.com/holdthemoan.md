@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/holdthemoan"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 10:26:24"
+published: "2023-06-12 13:10:51"
 subscribers: 372
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Hold the moan on lemmynsfw.com
-
-[[home](/)]
-[[/c/holdthemoan 🌎](https://lemmynsfw.com/c/holdthemoan)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Women trying to be quiet during sex or masturbation
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 372 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:10:51 |
-| Updated              | 2023-06-16 10:26:24 |
-| Last Scraped         | 2023-06-19 11:35:46 |

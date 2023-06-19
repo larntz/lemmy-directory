@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/leftreddit"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:57:54"
+published: "2023-06-12 11:51:57"
 subscribers: 7
 posts: 8
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/I left Reddit because . . . on exploding-heads.com
-
-[[home](/)]
-[[/c/leftreddit 🌎](https://exploding-heads.com/c/leftreddit)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-So many people have left Reddit.<br><br>Tell us why you did.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 11:51:57 |
-| Updated              | 2023-06-12 11:57:54 |
-| Last Scraped         | 2023-06-19 11:35:38 |

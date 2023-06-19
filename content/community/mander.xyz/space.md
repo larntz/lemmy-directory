@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/space"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-20 10:43:18"
+published: "2022-08-20 10:42:30"
 subscribers: 150
 posts: 5
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Space & Astronomy on mander.xyz
-
-[[home](/)]
-[[/c/space 🌎](https://mander.xyz/c/space)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 150 |
-| Posts                | 5  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-20 10:42:30 |
-| Updated              | 2022-08-20 10:43:18 |
-| Last Scraped         | 2023-06-19 11:35:29 |

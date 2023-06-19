@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/miata"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 18:48:11"
+published: "2023-06-10 18:34:04"
 subscribers: 68
 posts: 19
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/MX-5 Miata on lemmy.world
-
-[[home](/)]
-[[/c/miata 🌎](https://lemmy.world/c/miata)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Miata lovers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 19  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 14  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 18:34:04 |
-| Updated              | 2023-06-10 18:48:11 |
-| Last Scraped         | 2023-06-19 11:36:40 |

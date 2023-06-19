@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ai_infosec"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 21:18:05"
+published: "2023-06-10 20:48:19"
 subscribers: 181
 posts: 13
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/AI Infosec on infosec.pub
-
-[[home](/)]
-[[/c/ai_infosec 🌎](https://infosec.pub/c/ai_infosec)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Infosec news and articles related to AI.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 181 |
-| Posts                | 13  |
-| Comments             | 12  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 10  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 20:48:19 |
-| Updated              | 2023-06-10 21:18:05 |
-| Last Scraped         | 2023-06-16 22:55:53 |

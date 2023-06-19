@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://links.roobre.es/c/media"
 host: links.roobre.es
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-16 19:43:01"
+published: "2022-05-15 11:24:37"
 subscribers: 8
 posts: 17
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "links_roobre_es"
 
 ---
-
-# /c/🎮 Media, Games & Entertainment on links.roobre.es
-
-[[home](/)]
-[[/c/media 🌎](https://links.roobre.es/c/media)]
-[[links.roobre.es](/instances/links_roobre_es)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 17  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-15 11:24:37 |
-| Updated              | 2022-05-16 19:43:01 |
-| Last Scraped         | 2023-06-19 11:35:29 |

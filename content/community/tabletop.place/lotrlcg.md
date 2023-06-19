@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/lotrlcg"
 host: tabletop.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 00:38:51"
+published: "2023-06-18 00:36:08"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tabletop_place"
 
 ---
-
-# /c/The Lord of the Rings : The Living Card Game on tabletop.place
-
-[[home](/)]
-[[/c/lotrlcg 🌎](https://tabletop.place/c/lotrlcg)]
-[[tabletop.place](/instances/tabletop_place)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to the The Lord of the Rings: Living Card Game.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 00:36:08 |
-| Updated              | 2023-06-18 00:38:51 |
-| Last Scraped         | 2023-06-19 11:35:30 |

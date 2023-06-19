@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vermont"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-02-28 14:11:59"
+published: "2020-02-28 14:06:44"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Green Mountain comrades organize here! on lemmygrad.ml
-
-[[home](/)]
-[[/c/vermont 🌎](https://lemmygrad.ml/c/vermont)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for comrades in VT to organize. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-28 14:06:44 |
-| Updated              | 2020-02-28 14:11:59 |
-| Last Scraped         | 2023-06-19 11:35:08 |

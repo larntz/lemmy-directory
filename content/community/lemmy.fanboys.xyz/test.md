@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fanboys.xyz/c/test"
 host: lemmy.fanboys.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-19 10:45:43"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fanboys_xyz"
 
 ---
-
-# /c/Test on lemmy.fanboys.xyz
-
-[[home](/)]
-[[/c/test 🌎](https://lemmy.fanboys.xyz/c/test)]
-[[lemmy.fanboys.xyz](/instances/lemmy_fanboys_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Test
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 10:45:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

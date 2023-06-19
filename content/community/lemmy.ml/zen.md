@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zen"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:21:20"
+published: "2020-07-06 12:33:26"
 subscribers: 30
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Zen on lemmy.ml
-
-[[home](/)]
-[[/c/zen 🌎](https://lemmy.ml/c/zen)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to Bodhidharma's lineage and their teachings
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-06 12:33:26 |
-| Updated              | 2023-06-16 22:21:20 |
-| Last Scraped         | 2023-06-19 11:36:44 |

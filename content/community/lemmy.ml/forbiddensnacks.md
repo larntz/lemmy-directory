@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forbiddensnacks"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-15 01:15:54"
+published: "2021-02-15 00:14:23"
 subscribers: 73
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Forbidden Snacks on lemmy.ml
-
-[[home](/)]
-[[/c/forbiddensnacks 🌎](https://lemmy.ml/c/forbiddensnacks)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please put Forbidden <food item> in the title. You can add other things to the title too.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 73 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-15 00:14:23 |
-| Updated              | 2021-02-15 01:15:54 |
-| Last Scraped         | 2023-06-19 11:36:46 |

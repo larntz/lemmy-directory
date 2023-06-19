@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.escapebigtech.info/c/escapebigtech"
 host: lemmy.escapebigtech.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 18:21:58"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_escapebigtech_info"
 
 ---
-
-# /c/Escape Big Tech on lemmy.escapebigtech.info
-
-[[home](/)]
-[[/c/escapebigtech 🌎](https://lemmy.escapebigtech.info/c/escapebigtech)]
-[[lemmy.escapebigtech.info](/instances/lemmy_escapebigtech_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 18:21:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:25 |

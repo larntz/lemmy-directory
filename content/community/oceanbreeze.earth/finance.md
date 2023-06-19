@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/finance"
 host: oceanbreeze.earth
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:30:30"
+published: "2023-06-09 22:24:14"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "oceanbreeze_earth"
 
 ---
-
-# /c/finance on oceanbreeze.earth
-
-[[home](/)]
-[[/c/finance 🌎](https://oceanbreeze.earth/c/finance)]
-[[oceanbreeze.earth](/instances/oceanbreeze_earth)]
-
-
-## Description 
-
-<blockquote class="description">
-financial understanding
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 22:24:14 |
-| Updated              | 2023-06-10 22:30:30 |
-| Last Scraped         | 2023-06-19 11:35:21 |

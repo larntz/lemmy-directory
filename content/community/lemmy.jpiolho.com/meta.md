@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/meta"
 host: lemmy.jpiolho.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:43:48"
+published: "2023-06-11 07:25:00"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_jpiolho_com"
 
 ---
-
-# /c/Meta on lemmy.jpiolho.com
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.jpiolho.com/c/meta)]
-[[lemmy.jpiolho.com](/instances/lemmy_jpiolho_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:25:00 |
-| Updated              | 2023-06-11 07:43:48 |
-| Last Scraped         | 2023-06-19 11:35:14 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nascar"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:28:15"
+published: "2023-06-12 14:35:19"
 subscribers: 31
 posts: 14
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Nascar on sh.itjust.works
-
-[[home](/)]
-[[/c/nascar 🌎](https://sh.itjust.works/c/nascar)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Your home for NASCAR!<br><br>More stuff coming soon.....
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 14  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:35:19 |
-| Updated              | 2023-06-13 18:28:15 |
-| Last Scraped         | 2023-06-19 11:35:05 |

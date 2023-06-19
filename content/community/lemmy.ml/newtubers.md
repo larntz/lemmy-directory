@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newtubers"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-01 19:10:50"
+published: "2021-06-01 18:56:54"
 subscribers: 21
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/NewTubers - The Premiere Small Content Creator Community on lemmy.ml
-
-[[home](/)]
-[[/c/newtubers 🌎](https://lemmy.ml/c/newtubers)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Are You A YouTube Video Creator or Twitch Streamer? NewTubers is A Community For Small Content Creators created to allow up-and-coming channels and streamers to improve with resources, critiques, and cooperation of people! this community was made to teach you how to Start, Build, and Sustain your Content Career!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-01 18:56:54 |
-| Updated              | 2021-06-01 19:10:50 |
-| Last Scraped         | 2023-06-19 11:36:51 |

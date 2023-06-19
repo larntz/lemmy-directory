@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/artefacts"
 host: terefere.eu
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 18:55:34"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "terefere_eu"
 
 ---
-
-# /c/Artefacts on terefere.eu
-
-[[home](/)]
-[[/c/artefacts 🌎](https://terefere.eu/c/artefacts)]
-[[terefere.eu](/instances/terefere_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Images of interesting artefacts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:55:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:57 |

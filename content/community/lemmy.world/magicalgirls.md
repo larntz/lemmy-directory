@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magicalgirls"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:50:58"
+published: "2023-06-10 13:47:44"
 subscribers: 25
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/magicalgirls on lemmy.world
-
-[[home](/)]
-[[/c/magicalgirls 🌎](https://lemmy.world/c/magicalgirls)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A Lemmy for fans of Magical Girl/Mahou Shoujo. Please remember to read the rules in the sidebar:<br><br>- Respect One Another. Super Simple Stuff Here.<br>- No Hate Speech. <br>- No NSFW/Porn/Hentai.<br>- No Pirating Material.<br>- Credit Fanworks.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 13:47:44 |
-| Updated              | 2023-06-11 07:50:58 |
-| Last Scraped         | 2023-06-19 11:36:41 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crazyideas"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:31:37"
+published: "2023-06-16 22:31:28"
 subscribers: 0
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Crazy Ideas on lemmy.ml
-
-[[home](/)]
-[[/c/crazyideas 🌎](https://lemmy.ml/c/crazyideas)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Is your idea too crazy to work? So crazy it might work? Perfect.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 0 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 22:31:28 |
-| Updated              | 2023-06-16 22:31:37 |
-| Last Scraped         | 2023-06-19 11:36:42 |

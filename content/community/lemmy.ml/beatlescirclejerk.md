@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beatlescirclejerk"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-30 19:17:21"
+published: "2022-08-30 19:15:24"
 subscribers: 8
 posts: 31
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Beet the Meatles! on lemmy.ml
-
-[[home](/)]
-[[/c/beatlescirclejerk 🌎](https://lemmy.ml/c/beatlescirclejerk)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The Beatles are literally the most popular and influential band of all times, but few people are aware of the incredible meme potential that they have...<br>-some guy from youtube idk
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 31  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-30 19:15:24 |
-| Updated              | 2022-08-30 19:17:21 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coops"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-27 23:01:13"
+published: "2022-01-27 23:00:10"
 subscribers: 60
 posts: 17
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/coops on lemmy.ml
-
-[[home](/)]
-[[/c/coops 🌎](https://lemmy.ml/c/coops)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A lemmy community for coops: consumer, housing, worker, platform etc. <br><br>Not officially affiliated with the IWW, it's just a nice logo with historical relevance
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 17  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-27 23:00:10 |
-| Updated              | 2022-01-27 23:01:13 |
-| Last Scraped         | 2023-06-19 11:36:53 |

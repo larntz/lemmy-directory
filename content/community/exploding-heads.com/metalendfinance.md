@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/metalendfinance"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-09 00:55:07"
+published: "2022-07-09 00:44:21"
 subscribers: 2
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Crypto - Metalend Finance on exploding-heads.com
-
-[[home](/)]
-[[/c/metalendfinance 🌎](https://exploding-heads.com/c/metalendfinance)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-The future of Defi and the confluence with metaverses cannot be built by USD stablecoins alone, people need access to their local currencies to live life.  A decentralized lending marketing protocol that support wide range of stablecoins is necessary. <br><br><br>Metalend is lending markets protocol for everyone in their local currencies.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-09 00:44:21 |
-| Updated              | 2022-07-09 00:55:07 |
-| Last Scraped         | 2023-06-19 11:35:38 |

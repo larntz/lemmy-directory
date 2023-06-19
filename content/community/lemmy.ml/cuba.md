@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cuba"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-03 18:05:45"
+published: "2021-09-03 16:13:20"
 subscribers: 77
 posts: 35
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Cuba on lemmy.ml
-
-[[home](/)]
-[[/c/cuba 🌎](https://lemmy.ml/c/cuba)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Cuba<br><br>----<br><br>Community dedicated to discuss everything related to Cuba. Its culture, its language, its politics and its people.<br><br>----<br><br>#### Rules:<br><br>1. Posts must be in Spanish or in English.<br>2. Add a flair in the title of every post.<br><br>**List of flairs:**<br><br>    [News] [Culture] [Discussion]<br>    [Question] [Request] [Guide]<br><br>----<br><br># Cuba<br><br>----<br><br>Comunidad dedicada a discutir todo lo relacionado con Cuba. Su cultura, su idioma, su política y su pueblo.<br><br>----<br><br>#### Reglas:<br><br>1. Las publicaciones deben estar en español o en inglés.<br>2. Añadir una etiqueta en el título de cada publicación.<br><br>**Lista de etiquetas:**<br><br>    [Noticias] [Cultura] [Discusión]<br>    [Pregunta] [Petición] [Guía]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 77 |
-| Posts                | 35  |
-| Comments             | 32  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-03 16:13:20 |
-| Updated              | 2021-09-03 18:05:45 |
-| Last Scraped         | 2023-06-16 22:57:43 |

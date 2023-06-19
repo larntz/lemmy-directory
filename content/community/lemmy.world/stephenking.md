@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stephenking"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 02:53:14"
+published: "2023-06-14 14:14:45"
 subscribers: 47
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Stephen King on lemmy.world
-
-[[home](/)]
-[[/c/stephenking 🌎](https://lemmy.world/c/stephenking)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for fans of the King of Horror, **Stephen King**. <br><br>Rules: <br>-All posts must be related to Stephen King.<br>-No spamming<br>-That's it for now I'll probably add more as the community grows
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:14:45 |
-| Updated              | 2023-06-15 02:53:14 |
-| Last Scraped         | 2023-06-19 11:36:37 |

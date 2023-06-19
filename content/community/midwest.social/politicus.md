@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/politicus"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 20:06:02"
+published: "2023-06-10 02:37:03"
 subscribers: 64
 posts: 26
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/politicus on midwest.social
-
-[[home](/)]
-[[/c/politicus 🌎](https://midwest.social/c/politicus)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-American Politics<br><br>- No disinformation/trolling<br>- Do not encourage, incite, or glorify violence of any sort<br>- No harassment or abuse<br>- Nazis are not welcome here<br>- Putin sympathizers are not welcome here<br>- The tolerant, open-minded and freedom-loving ARE welcome here. Glad to have you good people : )
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 64 |
-| Posts                | 26  |
-| Comments             | 27  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 02:37:03 |
-| Updated              | 2023-06-12 20:06:02 |
-| Last Scraped         | 2023-06-19 11:35:29 |

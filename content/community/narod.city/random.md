@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://narod.city/c/random"
 host: narod.city
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 13:26:48"
 subscribers: 1
 posts: 0
 comments: -1
@@ -22,36 +23,3 @@ tags:
 - "narod_city"
 
 ---
-
-# /c/Random on narod.city
-
-[[home](/)]
-[[/c/random 🌎](https://narod.city/c/random)]
-[[narod.city](/instances/narod_city)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | -1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:26:48 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:19 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/homebrew"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 17:09:58"
+published: "2023-06-10 19:34:31"
 subscribers: 24
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Homebrew on lemmy.ca
-
-[[home](/)]
-[[/c/homebrew 🌎](https://lemmy.ca/c/homebrew)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Dedicated to all homebrewing. Beer, wine, high alcohol and more!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:34:31 |
-| Updated              | 2023-06-11 17:09:58 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://merv.news/c/theobservatory"
 host: merv.news
-lastmod: "{[ .Updated }}"
+lastmod: "2022-10-01 17:24:24"
+published: "2022-09-26 00:12:29"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "merv_news"
 
 ---
-
-# /c/The Observatory on merv.news
-
-[[home](/)]
-[[/c/theobservatory 🌎](https://merv.news/c/theobservatory)]
-[[merv.news](/instances/merv_news)]
-
-
-## Description 
-
-<blockquote class="description">
-# Visual Inspiration
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-26 00:12:29 |
-| Updated              | 2022-10-01 17:24:24 |
-| Last Scraped         | 2023-06-19 11:34:46 |

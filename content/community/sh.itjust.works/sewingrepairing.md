@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sewingrepairing"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 21:21:52"
 subscribers: 253
 posts: 7
 comments: 28
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Sewing, Repairing and Reducing Waste on sh.itjust.works
-
-[[home](/)]
-[[/c/sewingrepairing 🌎](https://sh.itjust.works/c/sewingrepairing)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share ideas, knowledge and creations with textiles.  The focus is on reducing waste, whether that be sewing from the scraps left from other projects, using the end of rolls and remnants, or repairing and remaking finished pieces.  
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 253 |
-| Posts                | 7  |
-| Comments             | 28  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:21:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

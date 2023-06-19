@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/savewizard"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 06:01:32"
+published: "2023-06-04 05:59:33"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/SaveWizard on lemmy.ml
-
-[[home](/)]
-[[/c/savewizard 🌎](https://lemmy.ml/c/savewizard)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to r/Savewizard!<br>Save Wizard is a PC/Mac software that <br>allows for modding of PS4 Game Save Files (also compatible with PS5)<br>Please read rules before posting :)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 05:59:33 |
-| Updated              | 2023-06-04 06:01:32 |
-| Last Scraped         | 2023-06-19 11:36:43 |

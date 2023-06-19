@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fate"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-16 05:22:42"
+published: "2022-04-16 05:18:04"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Fate Series on lemmy.ml
-
-[[home](/)]
-[[/c/fate 🌎](https://lemmy.ml/c/fate)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-16 05:18:04 |
-| Updated              | 2022-04-16 05:22:42 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/singapore"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 09:32:31"
 subscribers: 90
 posts: 19
 comments: 34
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Almost anything regarding Singapore on lemmy.world
-
-[[home](/)]
-[[/c/singapore 🌎](https://lemmy.world/c/singapore)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Singapore related posts (any deletion by moderators WILL come with explanation)<br>Moderation will be stepped up as the community grows.<br>Ask Singapore related questions at !asksingapore
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 90 |
-| Posts                | 19  |
-| Comments             | 34  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 22  |
-| Monthly Active Users | 24  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 09:32:31 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:42 |

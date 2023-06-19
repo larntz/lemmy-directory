@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mypicture"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 03:10:29"
+published: "2023-06-11 19:50:49"
 subscribers: 74
 posts: 8
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/My Picture on lemmy.world
-
-[[home](/)]
-[[/c/mypicture 🌎](https://lemmy.world/c/mypicture)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Have you ever randomly happen upon something you thought was funny, weird, crazy, or just interesting to you? Did you take a picture of it? How often do you share those pictures?<br><br>Share them with this community! And share the story if it has one.<br><br>Please use an image hosting website like the one below (others work too):<br><br>https://postimages.org/<br><br>This is to help with storage needs for the hosted server.<br><br><br>Rules:<br><br>1. No set up pictures (high quality/professionally done)<br><br>2. Screenshots are allowed<br><br>4. No Spam, and don't be a dick
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 74 |
-| Posts                | 8  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:50:49 |
-| Updated              | 2023-06-12 03:10:29 |
-| Last Scraped         | 2023-06-19 11:36:39 |

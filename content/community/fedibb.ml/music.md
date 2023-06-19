@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/music"
 host: fedibb.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-11-04 12:16:58"
 subscribers: 34
 posts: 4
 comments: 29
@@ -22,36 +23,3 @@ tags:
 - "fedibb_ml"
 
 ---
-
-# /c/Music on fedibb.ml
-
-[[home](/)]
-[[/c/music 🌎](https://fedibb.ml/c/music)]
-[[fedibb.ml](/instances/fedibb_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 34 |
-| Posts                | 4  |
-| Comments             | 29  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-04 12:16:58 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:49 |

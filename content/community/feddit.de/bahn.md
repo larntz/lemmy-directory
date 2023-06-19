@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bahn"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 08:31:44"
+published: "2023-06-10 15:39:14"
 subscribers: 49
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Bahn: Fahrgäste, Eisenbahner und Bahn-Interessierte on feddit.de
-
-[[home](/)]
-[[/c/bahn 🌎](https://feddit.de/c/bahn)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Das Original von Reddit (/r/Bahn)<br><br>Deutschsprachige Community für Diskussionen über Züge, Bahnunternehmen und dem öffentlichen Verkehr (z.B. Verspätungen, Preise, Fahrpläne und Neuigkeiten)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:39:14 |
-| Updated              | 2023-06-12 08:31:44 |
-| Last Scraped         | 2023-06-19 11:35:39 |

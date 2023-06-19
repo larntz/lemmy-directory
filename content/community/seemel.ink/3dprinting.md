@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/3dprinting"
 host: seemel.ink
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-18 21:28:11"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "seemel_ink"
 
 ---
-
-# /c/3DPrinting on seemel.ink
-
-[[home](/)]
-[[/c/3dprinting 🌎](https://seemel.ink/c/3dprinting)]
-[[seemel.ink](/instances/seemel_ink)]
-
-
-## Description 
-
-<blockquote class="description">
-All things 3D printing
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 21:28:11 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afcajax"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 10:27:00"
+published: "2023-06-10 09:42:46"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/AFC Ajax on lemmy.ml
-
-[[home](/)]
-[[/c/afcajax 🌎](https://lemmy.ml/c/afcajax)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for the biggest football club of the Netherlands, AFC Ajax.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 09:42:46 |
-| Updated              | 2023-06-10 10:27:00 |
-| Last Scraped         | 2023-06-19 11:36:56 |

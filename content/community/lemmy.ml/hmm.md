@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hmm"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 15:58:43"
+published: "2023-06-04 15:28:45"
 subscribers: 19
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Hmm on lemmy.ml
-
-[[home](/)]
-[[/c/hmm 🌎](https://lemmy.ml/c/hmm)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for things that are perplexing or confounding in nature (clone of r/hmm)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 15:28:45 |
-| Updated              | 2023-06-04 15:58:43 |
-| Last Scraped         | 2023-06-16 11:07:32 |

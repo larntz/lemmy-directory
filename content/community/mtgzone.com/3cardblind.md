@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/3cardblind"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:09:10"
+published: "2023-06-14 23:45:44"
 subscribers: 2
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/3-Card Blind on mtgzone.com
-
-[[home](/)]
-[[/c/3cardblind 🌎](https://mtgzone.com/c/3cardblind)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-3-Card Blind is a casual multiplayer Magic: The Gathering format.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:45:44 |
-| Updated              | 2023-06-15 19:09:10 |
-| Last Scraped         | 2023-06-19 11:35:14 |

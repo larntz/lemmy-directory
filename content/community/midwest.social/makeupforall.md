@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/makeupforall"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-21 21:16:21"
+published: "2022-08-21 14:57:57"
 subscribers: 26
 posts: 4
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Makeup for All on midwest.social
-
-[[home](/)]
-[[/c/makeupforall 🌎](https://midwest.social/c/makeupforall)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Makeup can be a form of self expression and an art. Share your personal style, costumes, cosplay, techniques, and more.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 4  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-21 14:57:57 |
-| Updated              | 2022-08-21 21:16:21 |
-| Last Scraped         | 2023-06-19 11:35:29 |

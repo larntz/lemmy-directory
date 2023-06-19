@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sonicthehedgehog"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-15 02:39:06"
+published: "2021-02-15 02:36:08"
 subscribers: 27
 posts: 5
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Sonic the Hedgehog on lemmy.ml
-
-[[home](/)]
-[[/c/sonicthehedgehog 🌎](https://lemmy.ml/c/sonicthehedgehog)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please don't post fan characters here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 5  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-15 02:36:08 |
-| Updated              | 2021-02-15 02:39:06 |
-| Last Scraped         | 2023-06-19 11:36:46 |

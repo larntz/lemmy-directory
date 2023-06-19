@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cars"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 17:00:05"
+published: "2023-06-09 23:34:26"
 subscribers: 503
 posts: 28
 comments: 117
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Cars on lemmy.world
-
-[[home](/)]
-[[/c/cars 🌎](https://lemmy.world/c/cars)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A friendly place for car enthusiasts!<br><br>Rules:<br>1. Be cool / don't be an ass<br>1a. Being cool includes not posting hate speech of any kind. These posts/comments will be deleted, and you will be banned.<br><br>2. Keep it somehow relevant to automobiles<br><br>3. I cannot stress enough the importance of rule 1.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 503 |
-| Posts                | 28  |
-| Comments             | 117  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 57  |
-| Monthly Active Users | 58  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 23:34:26 |
-| Updated              | 2023-06-14 17:00:05 |
-| Last Scraped         | 2023-06-19 11:36:40 |

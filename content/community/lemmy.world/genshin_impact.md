@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/genshin_impact"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 00:37:59"
+published: "2023-06-11 08:30:11"
 subscribers: 266
 posts: 14
 comments: 161
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Genshin Impact on lemmy.world
-
-[[home](/)]
-[[/c/genshin_impact 🌎](https://lemmy.world/c/genshin_impact)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for Genshin Impact
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 266 |
-| Posts                | 14  |
-| Comments             | 161  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 56  |
-| Monthly Active Users | 57  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 08:30:11 |
-| Updated              | 2023-06-12 00:37:59 |
-| Last Scraped         | 2023-06-19 11:36:39 |

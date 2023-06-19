@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/chloegracemoretz"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 14:01:24"
+published: "2023-06-15 00:52:14"
 subscribers: 28
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Chloë Grace Moretz on lemmynsfw.com
-
-[[home](/)]
-[[/c/chloegracemoretz 🌎](https://lemmynsfw.com/c/chloegracemoretz)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:52:14 |
-| Updated              | 2023-06-18 14:01:24 |
-| Last Scraped         | 2023-06-19 11:35:46 |

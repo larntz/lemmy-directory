@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/emersonmedia"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-28 12:23:34"
+published: "2021-09-28 06:33:26"
 subscribers: 29
 posts: 17
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Emerson Media on lemmygrad.ml
-
-[[home](/)]
-[[/c/emersonmedia 🌎](https://lemmygrad.ml/c/emersonmedia)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Emerson Media** is a satirical news site that mimics the treatment of third world nations by Western media and flips it against the West instead.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 17  |
-| Comments             | 14  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-28 06:33:26 |
-| Updated              | 2021-09-28 12:23:34 |
-| Last Scraped         | 2023-06-19 11:35:08 |

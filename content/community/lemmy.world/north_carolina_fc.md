@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/north_carolina_fc"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 01:22:22"
+published: "2023-06-14 02:27:34"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/North Carolina FC on lemmy.world
-
-[[home](/)]
-[[/c/north_carolina_fc 🌎](https://lemmy.world/c/north_carolina_fc)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Representing the team from the triangle. Let's go!<br><br>Rules:<br><br>- Be excellent to each other<br>- Don’t be the reason we need to make more rules
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:27:34 |
-| Updated              | 2023-06-15 01:22:22 |
-| Last Scraped         | 2023-06-16 22:57:15 |

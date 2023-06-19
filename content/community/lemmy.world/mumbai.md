@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mumbai"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 16:30:17"
+published: "2023-06-18 16:21:07"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mumbai on lemmy.world
-
-[[home](/)]
-[[/c/mumbai 🌎](https://lemmy.world/c/mumbai)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Mumbai
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 16:21:07 |
-| Updated              | 2023-06-18 16:30:17 |
-| Last Scraped         | 2023-06-19 11:36:35 |

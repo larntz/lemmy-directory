@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cert"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-27 05:17:23"
+published: "2022-09-27 05:15:14"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Community Emergency Response Team on lemmy.ml
-
-[[home](/)]
-[[/c/cert 🌎](https://lemmy.ml/c/cert)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for FEMA's CERT program. Neighbors helping neighbors during disasters. People with similar interests from other countries are welcome to join in.<br><br>Rules<br><br>* Keep it friendly, neighbor<br>* Make a post to introduce yourself
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-27 05:15:14 |
-| Updated              | 2022-09-27 05:17:23 |
-| Last Scraped         | 2023-06-16 22:57:42 |

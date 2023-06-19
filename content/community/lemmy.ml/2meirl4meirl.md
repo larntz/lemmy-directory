@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2meirl4meirl"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-14 18:23:22"
+published: "2022-08-14 15:27:35"
 subscribers: 165
 posts: 16
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/when things get too real for me_irl on lemmy.ml
-
-[[home](/)]
-[[/c/2meirl4meirl 🌎](https://lemmy.ml/c/2meirl4meirl)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For relatable posts that are too real for [!me_irl](https://lemmy.ml/c/me_irl). Meaning jokes/posts about mental health issues and self deprecating humour.<br><br>This is a subreddit for memes that hit too close to home or are too real for communities like [!me_irl](https://lemmy.ml/c/me_irl)<br><br>If you have depression, talk to a therapist, it really does help. You are not alone, and recovery is possible and worth it.<br><br>If you find jokes about suicide, depression or self harm upsetting, this sub might not be the right place for you. This is a place for people who use self deprecating humor as a coping mechanism, not for those making fun of mental illness.<br><br>With that out of the way, the rules are as follows:<br><br>- **Asking for upvotes/downvotes will get you banned**. And any other vote related bullshit for that matter.<br><br>- Posts *MUST* be in some way too real or hit to close to home. If it doesn't make you laugh and feel sad at the same time, don't post it here. Posts that do not fit the sub may be removed.<br><br>- Being edgy doesn't make a post good. Post content that you find a bit too relatable, not something making fun of people with depression.<br><br>- Posts should be titled 2meirl4meirl or some variation, but other titles are fine for ~~shitposts~~ self posts.<br><br>- Be supportive. Most people here are going through something, and sometimes all it takes to improve a shitty day is just a little kindness from an Internet stranger.<br><br>- Racism, misogyny, homophobia, transphobia, any other form of discrimination and general dickishness *will not be tolerated*.<br><br>- Mark NSFW content as such. And please don't post NSFL content.<br><br>- **Reposts are allowed**, but discouraged<br><br>- Don't link to an image if it won't be there permanently. Basically, just don't link to files hosted on 4chan.<br><br>- Again, please don't be an asshole.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 165 |
-| Posts                | 16  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-14 15:27:35 |
-| Updated              | 2022-08-14 18:23:22 |
-| Last Scraped         | 2023-06-19 11:36:46 |

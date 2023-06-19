@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/dota2"
 host: civilloquy.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 18:58:40"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "civilloquy_com"
 
 ---
-
-# /c/Dota 2 on civilloquy.com
-
-[[home](/)]
-[[/c/dota2 🌎](https://civilloquy.com/c/dota2)]
-[[civilloquy.com](/instances/civilloquy_com)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of Valve's popular game Dota 2<br><br>This community is not affiliated with Valve in any respect.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 18:58:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:00 |

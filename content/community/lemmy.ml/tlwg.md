@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tlwg"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-08 15:36:03"
+published: "2021-09-08 15:06:24"
 subscribers: 39
 posts: 99
 comments: 150
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Thai Linux Working Group on lemmy.ml
-
-[[home](/)]
-[[/c/tlwg 🌎](https://lemmy.ml/c/tlwg)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 99  |
-| Comments             | 150  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-08 15:06:24 |
-| Updated              | 2021-09-08 15:36:03 |
-| Last Scraped         | 2023-06-19 11:37:02 |

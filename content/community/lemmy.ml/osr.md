@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osr"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 15:16:20"
+published: "2023-04-24 10:05:00"
 subscribers: 68
 posts: 14
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Old School Rennaissance Role Playing Games on lemmy.ml
-
-[[home](/)]
-[[/c/osr 🌎](https://lemmy.ml/c/osr)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.<br><br>Just remember:<br><br>Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes.<br><br>There is also OSR love on other instances:<br><br>[!osr@lemm.ee](https://lemm.ee/c/osr) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 14  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-24 10:05:00 |
-| Updated              | 2023-06-16 15:16:20 |
-| Last Scraped         | 2023-06-19 11:37:01 |

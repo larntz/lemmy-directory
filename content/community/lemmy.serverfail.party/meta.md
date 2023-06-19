@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/meta"
 host: lemmy.serverfail.party
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 01:30:29"
 subscribers: 4
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_serverfail_party"
 
 ---
-
-# /c/Meta on lemmy.serverfail.party
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.serverfail.party/c/meta)]
-[[lemmy.serverfail.party](/instances/lemmy_serverfail_party)]
-
-
-## Description 
-
-<blockquote class="description">
-Meta for the lemmy.serverfail.party instance
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 01:30:29 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

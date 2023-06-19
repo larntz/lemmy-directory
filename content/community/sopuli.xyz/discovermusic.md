@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/discovermusic"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 21:41:13"
+published: "2023-06-13 11:04:03"
 subscribers: 20
 posts: 4
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Music Discovery on sopuli.xyz
-
-[[home](/)]
-[[/c/discovermusic 🌎](https://sopuli.xyz/c/discovermusic)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Help people discover new music.<br><br>Links to review sites, reacts, music ranking channels etc.  No piracy links.<br><br>- Please stick to one genre per post so people don't have to filter through.<br>- Provide descriptive titles including genre.<br>- Some detail about any link.<br>- Keep any comments constructive, no sledging.<br><br>You can search for various music communities via the [Lemmy Community Browser](https://browse.feddit.de/)<br><br>**Sopuli Music Communities**<br><br>[!vinyl@sopuli.xyz](https://sopuli.xyz/c/vinyl)  <br>[!music@sopuli.xyz](https://sopuli.xyz/c/music)<br>[!edm@sopuli.xyz](https://sopuli.xyz/c/edm)<br>[!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)<br>[!blackmetal@sopuli.xyz](https://sopuli.xyz/c/blackmetal)<br>[!doom_metal@sopuli.xyz](https://sopuli.xyz/c/doom_metal) <br>[!hiphopheads@sopuli.xyz](https://sopuli.xyz/c/hiphopheads)<br>[!shoegaze@sopuli.xyz](https://sopuli.xyz/c/shoegaze)<br>[!classicalbums@sopuli.xyz](https://sopuli.xyz/c/classicalbums)<br>[!synthesizers@sopuli.xyz](https://sopuli.xyz/c/synthesizers)<br>[!bass@sopuli.xyz](https://sopuli.xyz/c/bass)<br>[!organ@sopuli.xyz](https://sopuli.xyz/c/organ)<br>[!jazz@sopuli.xyz](https://sopuli.xyz/c/jazz) (empty)<br>[!beatles@sopuli.xyz](https://sopuli.xyz/c/beatles)<br>[!radiohead@sopuli.xyz](https://sopuli.xyz/c/radiohead)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 4  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:04:03 |
-| Updated              | 2023-06-14 21:41:13 |
-| Last Scraped         | 2023-06-19 11:35:32 |

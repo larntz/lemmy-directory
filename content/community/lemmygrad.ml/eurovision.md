@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/eurovision"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-30 07:33:57"
+published: "2022-05-30 07:31:46"
 subscribers: 9
 posts: 6
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Eurovision on lemmygrad.ml
-
-[[home](/)]
-[[/c/eurovision 🌎](https://lemmygrad.ml/c/eurovision)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Eurovision fans
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 6  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-30 07:31:46 |
-| Updated              | 2022-05-30 07:33:57 |
-| Last Scraped         | 2023-06-19 11:35:08 |

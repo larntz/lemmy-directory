@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/retrotechnology"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:45:42"
+published: "2023-06-14 21:10:32"
 subscribers: 55
 posts: 4
 comments: 12
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Retro Technology on lemmy.ca
-
-[[home](/)]
-[[/c/retrotechnology 🌎](https://lemmy.ca/c/retrotechnology)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for discussion, videos, pictures, and other related content of retro and vintage technology of all kinds. Especially retro tech that is still in use today.<br><br>There are plenty of excellent communities for retro PCs so that content is better suited for those communities.<br><br>Rules:<br>- No NSFW<br>- Respectful discourse required<br>- No hate speech, bigotry, racism, homophobia, sexism, etc.<br>- No spam or advertising<br>- No AI generated content, posts, or comments<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 55 |
-| Posts                | 4  |
-| Comments             | 12  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:10:32 |
-| Updated              | 2023-06-15 05:45:42 |
-| Last Scraped         | 2023-06-19 11:35:36 |

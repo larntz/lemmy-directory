@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/nsfwworldbuilding"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 15:31:35"
 subscribers: 149
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/NSFWworldbuilding on lemmynsfw.com
-
-[[home](/)]
-[[/c/nsfwworldbuilding 🌎](https://lemmynsfw.com/c/nsfwworldbuilding)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Not Safe For Worldbuilding:**<br> <br>World building is the art of constructing a cohesive world, creating rules, writing histories, and exploring the people and societies that populate these worlds.<br><br> <br>This community is dedicated to the less safe for work aspects of this idea. This is for discussing aspects of worldbuilding which would be inappropriate for the regular worldbuilding community. <br>The biology of a succubus, a planet where everyone is naked all the time, technologically enhanced sex organs. Things that would cross the line elsewhere are fair game here. <br><br>**Rules:**<br><br> * Follow the Rules of this instance.<br><br> * Posts must be worldbuilding related. This is a worldbuilding community, not a porn lemmy.<br><br> * Don't post anything illegal.<br><br> * Don't be rude.<br><br> * Flair all posts appropriately. as Lemmy does not currently have support for this, tagging them would be the best course of action<br> * `Example:<br><br> * Try to stay open-minded. The downvote button is not an I don't like this button.<br><br> * Have fun!<br><br>**Flairs and Their Meanings:**<br><br>* OC: If you made it, use this tag.<br>    <br>* Meta: For talking about the community, or worldbuilding in general. Asking for tips, discussing trends, posts about the community, all of this is fine under this tag. If you are asking users about their worlds, use the Prompt tag instead.<br>   <br>* Prompt: Asking users questions about their worlds. Feel free to post your own lore in the comments.<br>    <br>* Extreme: If it contains gore, scat, or any of the other extreme fetishes, use this tag. Posting it is fine, but let's try not to shock anyone unnecessarily. (Content involving real people is NOT ALLOWED under this tag)<br>    <br>* Map: Maps of your world<br>    <br>* Artwork: Drawings, or appropriately used photographs (taken and used with consent, not depicting illegal or Extreme content), note to give context within the body of the post or in a follow up comment, just like in regular r/Worldbuilding<br><br>Originally  [r/NSFWworldbuilding](https://old.reddit.com/r/NSFWworldbuilding/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 149 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:31:35 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/acores"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 21:19:05"
+published: "2023-06-10 21:15:21"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Açores on sh.itjust.works
-
-[[home](/)]
-[[/c/acores 🌎](https://sh.itjust.works/c/acores)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Açores em Português
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:15:21 |
-| Updated              | 2023-06-10 21:19:05 |
-| Last Scraped         | 2023-06-19 11:35:06 |

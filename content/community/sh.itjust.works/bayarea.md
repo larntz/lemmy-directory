@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bayarea"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 21:51:09"
+published: "2023-06-09 19:47:26"
 subscribers: 81
 posts: 10
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/San Francisco Bay Area on sh.itjust.works
-
-[[home](/)]
-[[/c/bayarea 🌎](https://sh.itjust.works/c/bayarea)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-All the best things to do, to see, and discuss in the San Francisco Bay Area!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 81 |
-| Posts                | 10  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:47:26 |
-| Updated              | 2023-06-09 21:51:09 |
-| Last Scraped         | 2023-06-19 11:35:06 |

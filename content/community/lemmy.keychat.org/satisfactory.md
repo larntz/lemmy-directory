@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.keychat.org/c/satisfactory"
 host: lemmy.keychat.org
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 03:25:20"
 subscribers: 7
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_keychat_org"
 
 ---
-
-# /c/Satisfactory Game on lemmy.keychat.org
-
-[[home](/)]
-[[/c/satisfactory 🌎](https://lemmy.keychat.org/c/satisfactory)]
-[[lemmy.keychat.org](/instances/lemmy_keychat_org)]
-
-
-## Description 
-
-<blockquote class="description">
-All about Satisfactory the game by Coffee Stains studio
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 03:25:20 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:16 |

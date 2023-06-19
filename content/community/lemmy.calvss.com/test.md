@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.calvss.com/c/test"
 host: lemmy.calvss.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 04:13:36"
+published: "2023-06-12 06:22:01"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_calvss_com"
 
 ---
-
-# /c/test on lemmy.calvss.com
-
-[[home](/)]
-[[/c/test 🌎](https://lemmy.calvss.com/c/test)]
-[[lemmy.calvss.com](/instances/lemmy_calvss_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Test community please ignore
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 06:22:01 |
-| Updated              | 2023-06-16 04:13:36 |
-| Last Scraped         | 2023-06-19 11:35:10 |

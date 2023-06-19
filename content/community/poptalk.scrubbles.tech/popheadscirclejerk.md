@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/popheadscirclejerk"
 host: poptalk.scrubbles.tech
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 04:23:40"
 subscribers: 4
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "poptalk_scrubbles_tech"
 
 ---
-
-# /c/PopHeads Circle Jerk on poptalk.scrubbles.tech
-
-[[home](/)]
-[[/c/popheadscirclejerk 🌎](https://poptalk.scrubbles.tech/c/popheadscirclejerk)]
-[[poptalk.scrubbles.tech](/instances/poptalk_scrubbles_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:23:40 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

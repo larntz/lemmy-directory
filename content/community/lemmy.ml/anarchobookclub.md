@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchobookclub"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-27 15:32:30"
+published: "2020-11-29 23:09:59"
 subscribers: 76
 posts: 10
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Anarcho Book Club on lemmy.ml
-
-[[home](/)]
-[[/c/anarchobookclub 🌎](https://lemmy.ml/c/anarchobookclub)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-We are committed to the discussion of all things anarchy. The Anarcho Book Club reviews and publishes the works of the world’s greatest anarchists. From Goldman to Rothbard to Chomsky to Trotsky.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 10  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-29 23:09:59 |
-| Updated              | 2021-02-27 15:32:30 |
-| Last Scraped         | 2023-06-19 11:36:54 |

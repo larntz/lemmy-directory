@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/competitions"
 host: lemmyunchained.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 14:04:21"
+published: "2023-06-18 08:06:03"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyunchained_net"
 
 ---
-
-# /c/RealCompetitions on lemmyunchained.net
-
-[[home](/)]
-[[/c/competitions 🌎](https://lemmyunchained.net/c/competitions)]
-[[lemmyunchained.net](/instances/lemmyunchained_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to Competitions, a dynamic Lemmy community for online games and contests. Here, you can indulge in the thrill of friendly competition with the prospect of real, crypto-based financial rewards. Please understand that to maintain legal boundaries, all prizes are non-binding, not guaranteed, and are entirely at my discretion. <br><br>Unclaimed prizes contribute to a jackpot pool, upping the stakes for future competitions. As the community evolves, we'll introduce Unchained endorsed competitions and games, expanding our repertoire and increasing the fun. <br><br>Remember, participation in games and acceptance of any prize is at your own risk. It's important to respect the community, play fair, and understand that all decisions made by the moderator are final. <br><br>This community thrives on engagement and creativity. I welcome your suggestions for new games, ideas for prizes, and overall input on how to enhance our community. Join us, bring your competitive spirit, and let's make this community a lively hub for gaming enthusiasts!<br><br><br>Legal Mumbo Jumbo:<br><br>**1. No Purchase Necessary**: Participation in the Competitions community and all related games or contests is voluntary, with no purchase required to participate or win.<br><br>**2. Eligibility**: Membership and participation are open to individuals who meet the age requirement as determined by the laws of their country of residence. Individuals residing in jurisdictions where such competitions are prohibited by law may not participate.<br><br>**3. Prizes**: All prizes, including crypto-based rewards, are non-binding and are distributed entirely at my discretion. There are no guaranteed winners or prizes.<br><br>**4. Decisions**: All decisions made by myself in relation to the competitions are final and binding.<br><br>**5. Liability Release**: By participating in this community and any competitions, members agree to release and hold myself harmless from any and all liability related to the competition or prize.<br><br>**6. No Guarantee of Winning**: Participation in competitions does not guarantee winning a prize.<br><br>**7. No Affiliation**: Competitions held in this community are not endorsed, sponsored, or administered by Lemmy or any other company or organization unless explicitly stated.<br><br>**8. Compliance with Laws**: Members are responsible for ensuring their participation complies with local laws and regulations.<br><br>**9. Acceptance of Terms**: Participation in this community and its competitions constitutes the member's full and unconditional agreement to these Terms and Conditions.<br><br>**10. Uncollected Prizes**: Any unclaimed prizes will be added to a prize pool for future competitions.<br><br>These terms and conditions are intended to keep the community within legal boundaries and are subject to change at any time. Always check the latest version of the terms and conditions before participating in a competition.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 08:06:03 |
-| Updated              | 2023-06-18 14:04:21 |
-| Last Scraped         | 2023-06-19 11:35:27 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/newyorkmets"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:43:46"
+published: "2023-06-09 17:20:54"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/New York Mets on fanaticus.social
-
-[[home](/)]
-[[/c/newyorkmets 🌎](https://fanaticus.social/c/newyorkmets)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Cloned from [r/NewYorkMets](https://old.reddit.com/r/NewYorkMets)<br><br># Looking for mods!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 17:20:54 |
-| Updated              | 2023-06-12 16:43:46 |
-| Last Scraped         | 2023-06-19 11:35:15 |

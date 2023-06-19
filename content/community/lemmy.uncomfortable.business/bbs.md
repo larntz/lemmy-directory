@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/bbs"
 host: lemmy.uncomfortable.business
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 01:21:33"
+published: "2023-06-12 00:57:53"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_uncomfortable_business"
 
 ---
-
-# /c/BBS - Bulletin Board Systems on lemmy.uncomfortable.business
-
-[[home](/)]
-[[/c/bbs 🌎](https://lemmy.uncomfortable.business/c/bbs)]
-[[lemmy.uncomfortable.business](/instances/lemmy_uncomfortable_business)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of 70s/80s/90s BBS systems, and their modern equivalents.<br><br>Questions about BBSes and their software, door games, ANSI art, and so on are welcome as are sysop advertisements.<br><br>Looking for a BBS to connect to?   [The Telnet BBS Guide](https://www.telnetbbsguide.com/) is what you're after.<br><br>Need a client?  [Syncterm](https://syncterm.bbsdev.net/) is available for almost every platform.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:57:53 |
-| Updated              | 2023-06-12 01:21:33 |
-| Last Scraped         | 2023-06-19 11:35:13 |

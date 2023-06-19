@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/gamedev"
 host: lemmyrs.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:43:50"
+published: "2023-06-15 04:27:11"
 subscribers: 36
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmyrs_org"
 
 ---
-
-# /c/Rust: Game Development on lemmyrs.org
-
-[[home](/)]
-[[/c/gamedev 🌎](https://lemmyrs.org/c/gamedev)]
-[[lemmyrs.org](/instances/lemmyrs_org)]
-
-
-## Description 
-
-<blockquote class="description">
-[Developing]<br><br># Goal<br><br>Discussions about using Rust for Game development.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 36 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:27:11 |
-| Updated              | 2023-06-15 04:43:50 |
-| Last Scraped         | 2023-06-19 11:35:01 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/practices"
 host: chebucto.club
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-05 03:24:27"
+published: "2023-04-02 23:00:49"
 subscribers: 2
 posts: 38
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "chebucto_club"
 
 ---
-
-# /c/Practices & Training on chebucto.club
-
-[[home](/)]
-[[/c/practices 🌎](https://chebucto.club/c/practices)]
-[[chebucto.club](/instances/chebucto_club)]
-
-
-## Description 
-
-<blockquote class="description">
-Notices and discussions about practices and training
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 38  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-02 23:00:49 |
-| Updated              | 2023-04-05 03:24:27 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nederland"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 11:23:12"
+published: "2023-06-15 10:37:52"
 subscribers: 8
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Nederland on lemm.ee
-
-[[home](/)]
-[[/c/nederland 🌎](https://lemm.ee/c/nederland)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything about the Netherlands
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 10:37:52 |
-| Updated              | 2023-06-15 11:23:12 |
-| Last Scraped         | 2023-06-19 11:35:16 |

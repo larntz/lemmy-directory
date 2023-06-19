@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/libreculture"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-20 18:41:54"
+published: "2022-08-20 18:38:37"
 subscribers: 28
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Libre Culture on lemmy.ca
-
-[[home](/)]
-[[/c/libreculture 🌎](https://lemmy.ca/c/libreculture)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Libre culture is all about empowering people. While the general philosophy stems greatly from the free software movement, libre culture is much broader and encompasses other aspects of culture such as music, movies, food, technology, etc.<br><br>Some beliefs include but aren’t limited to:<br><br>- That copyright should expire after a certain period of time.<br>- That knowledge should be available to people, not locked away.<br>- That no entity should have unjust control or possession of others.<br>- That mass surveillance is about mass control, not justice.<br>- That we can all band together to help liberate each other.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-20 18:38:37 |
-| Updated              | 2022-08-20 18:41:54 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/bsd"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 01:56:23"
+published: "2023-06-08 01:45:04"
 subscribers: 35
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/Berkeley Software Distrobution on lemmy.sdf.org
-
-[[home](/)]
-[[/c/bsd 🌎](https://lemmy.sdf.org/c/bsd)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for people to discuss and share anything BSD/Unix related.<br><br>While it's not intended to be a unixporn clone, screenshots of cool setup's are welcome. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 01:45:04 |
-| Updated              | 2023-06-08 01:56:23 |
-| Last Scraped         | 2023-06-19 11:35:02 |

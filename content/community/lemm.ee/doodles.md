@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/doodles"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:52:49"
+published: "2023-06-15 10:22:06"
 subscribers: 8
 posts: 6
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Doodles on lemm.ee
-
-[[home](/)]
-[[/c/doodles 🌎](https://lemm.ee/c/doodles)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for posting your doodles and sketches!<br><br>In case of posting NSFW always mark it respectively
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 6  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 10:22:06 |
-| Updated              | 2023-06-15 18:52:49 |
-| Last Scraped         | 2023-06-19 11:35:16 |

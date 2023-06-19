@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psvr2"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 17:52:57"
+published: "2023-06-13 23:14:18"
 subscribers: 7
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/PS VR 2 on lemmy.ml
-
-[[home](/)]
-[[/c/psvr2 🌎](https://lemmy.ml/c/psvr2)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 23:14:18 |
-| Updated              | 2023-06-17 17:52:57 |
-| Last Scraped         | 2023-06-19 11:36:42 |

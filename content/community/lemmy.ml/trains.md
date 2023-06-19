@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trains"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-23 23:09:35"
+published: "2023-04-23 23:07:33"
 subscribers: 104
 posts: 17
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Trains on lemmy.ml
-
-[[home](/)]
-[[/c/trains 🌎](https://lemmy.ml/c/trains)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything about trains and railroads
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 104 |
-| Posts                | 17  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-23 23:07:33 |
-| Updated              | 2023-04-23 23:09:35 |
-| Last Scraped         | 2023-06-19 11:36:48 |

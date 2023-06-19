@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/videogames"
 host: fedibb.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-11-04 12:16:34"
 subscribers: 12
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fedibb_ml"
 
 ---
-
-# /c/Video games on fedibb.ml
-
-[[home](/)]
-[[/c/videogames 🌎](https://fedibb.ml/c/videogames)]
-[[fedibb.ml](/instances/fedibb_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-04 12:16:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:49 |

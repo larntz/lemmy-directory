@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dune"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 19:52:57"
+published: "2023-06-10 19:50:50"
 subscribers: 14
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Dune on sopuli.xyz
-
-[[home](/)]
-[[/c/dune 🌎](https://sopuli.xyz/c/dune)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for all things Dune (Frank and Brian)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:50:50 |
-| Updated              | 2023-06-10 19:52:57 |
-| Last Scraped         | 2023-06-19 11:35:32 |

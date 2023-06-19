@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/polcrime"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 14:02:59"
+published: "2023-06-11 13:55:11"
 subscribers: 9
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Police Misconduct on sopuli.xyz
-
-[[home](/)]
-[[/c/polcrime 🌎](https://sopuli.xyz/c/polcrime)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Community to discuss coerced false confession, intimidation, false arrest, false imprisonment, falsification of evidence, spoliation of evidence, police perjury, witness tampering, police brutality, police corruption, racial profiling, unwarranted surveillance, unwarranted searches, and unwarranted seizure of property etc
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 13:55:11 |
-| Updated              | 2023-06-11 14:02:59 |
-| Last Scraped         | 2023-06-19 11:35:32 |

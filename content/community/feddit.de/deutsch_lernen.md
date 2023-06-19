@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/deutsch_lernen"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:23:52"
+published: "2023-06-13 16:50:51"
 subscribers: 25
 posts: 4
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Deutsch Als Fremdsprache on feddit.de
-
-[[home](/)]
-[[/c/deutsch_lernen 🌎](https://feddit.de/c/deutsch_lernen)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Ein Forum für alle DeutschlernerInnen<br>Viel Spaß<br><br>A forum for people learning German.<br>Only language learning forum I could find on lemmy :)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 4  |
-| Comments             | 10  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:50:51 |
-| Updated              | 2023-06-13 19:23:52 |
-| Last Scraped         | 2023-06-19 11:35:39 |

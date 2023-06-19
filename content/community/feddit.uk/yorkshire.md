@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/yorkshire"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 12:07:02"
+published: "2023-06-14 06:15:43"
 subscribers: 28
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Yorkshire on feddit.uk
-
-[[home](/)]
-[[/c/yorkshire 🌎](https://feddit.uk/c/yorkshire)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussion of all things related to Yorkshire or places in Yorkshire.<br><br>Rules:<br>- No racism, xenophobia, homophobia, transphobia, etc.<br>- No spam (a bit of promoting is OK if it's related to Yorkshire, but don't take the piss). <br> - Posts must be relevant to Yorkshire in some way.<br>- No harassment or abuse.<br>- Don't be a dick. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 06:15:43 |
-| Updated              | 2023-06-15 12:07:02 |
-| Last Scraped         | 2023-06-19 11:35:14 |

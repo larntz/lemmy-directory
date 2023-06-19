@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddiverse.org/c/self"
 host: feddiverse.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 18:39:16"
+published: "2023-06-17 18:38:40"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddiverse_org"
 
 ---
-
-# /c/Feddiverse on feddiverse.org
-
-[[home](/)]
-[[/c/self 🌎](https://feddiverse.org/c/self)]
-[[feddiverse.org](/instances/feddiverse_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Any posts about this site.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 18:38:40 |
-| Updated              | 2023-06-17 18:39:16 |
-| Last Scraped         | 2023-06-19 11:35:29 |

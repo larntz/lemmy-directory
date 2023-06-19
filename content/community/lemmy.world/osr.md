@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/osr"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 18:45:25"
+published: "2023-06-13 01:37:18"
 subscribers: 63
 posts: 6
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Old School Revival on lemmy.world
-
-[[home](/)]
-[[/c/osr 🌎](https://lemmy.world/c/osr)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-**Old School Revival** - Classic Rules Table Top Role-playing and the OSR Hobby<br><br>**Rules**- The community is to tiny, we can be really rules light at this point.<br><br>1) Don't be a jerk.<br><br>2) Everyone is welcome.<br><br>3) Try to stay kind of on topic.<br><br>**New to OSR?**<br><br>Here are three widely tested systems which offer free PDF rulebooks.<br><br>[**Basic Fantasy**](https://www.basicfantasy.org/downloads.html)<br>*Created to be compatible with 3/3.5e, this is fully fleshed out OSE goodness written to be more approachable. Uses ascending armor class. Print options are sold at near cost and are very very inexpensive.*<br><br>[**Old School Essentials Basic**](https://necroticgnome.com/products/old-school-essentials-basic-rules)<br>*OSE is the most popular reproduction of the original B/X set. Uses descending armor class. With several different iterations at several different prices, this PDF is free and covers the basics. Enough to get a game going.*<br><br>[**White Box : Fantastic Medieval Adventure Game**](https://www.drivethrurpg.com/product/190631/White-Box--Fantastic-Medieval-Adventure-Game)<br>*A spiritual successor to Swords &amp; Sorcery White Box. This is the complete OSR experience. Uses descending armor class, but contains alternate status for ascending. Like Basic Fantasy, the print version is under five bucks on amazon.*<br><br>***Other Recommended Boards:***<br><br>[Solo Roleplaying](https://lemmy.world/c/solorpg@lemmy.ml)<br><br>[Dungeons & Dragons](https://lemmy.world/c/dnd)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 63 |
-| Posts                | 6  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:37:18 |
-| Updated              | 2023-06-16 18:45:25 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/belgiumnews"
 host: lemmings.online
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:03:13"
+published: "2023-06-14 07:55:37"
 subscribers: 3
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmings_online"
 
 ---
-
-# /c/Belgium - News on lemmings.online
-
-[[home](/)]
-[[/c/belgiumnews 🌎](https://lemmings.online/c/belgiumnews)]
-[[lemmings.online](/instances/lemmings_online)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:55:37 |
-| Updated              | 2023-06-14 09:03:13 |
-| Last Scraped         | 2023-06-19 11:35:24 |

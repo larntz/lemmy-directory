@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jugendarbeit"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-08 14:57:13"
+published: "2021-01-12 10:41:25"
 subscribers: 3
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/JUGENDARBEIT on lemmy.ml
-
-[[home](/)]
-[[/c/jugendarbeit 🌎](https://lemmy.ml/c/jugendarbeit)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-12 10:41:25 |
-| Updated              | 2021-02-08 14:57:13 |
-| Last Scraped         | 2023-06-19 11:36:44 |

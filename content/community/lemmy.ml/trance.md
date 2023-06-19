@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trance"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-15 20:59:54"
+published: "2021-05-13 01:46:21"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Trance on lemmy.ml
-
-[[home](/)]
-[[/c/trance 🌎](https://lemmy.ml/c/trance)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The home of Trance music.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-13 01:46:21 |
-| Updated              | 2021-05-15 20:59:54 |
-| Last Scraped         | 2023-06-19 11:37:01 |

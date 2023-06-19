@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/laos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-03 17:59:11"
+published: "2021-09-03 16:12:22"
 subscribers: 22
 posts: 7
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Laos ລາວ on lemmy.ml
-
-[[home](/)]
-[[/c/laos 🌎](https://lemmy.ml/c/laos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Laos<br><br>----<br><br>Community dedicated to discuss everything related to Laos. Its culture, its language, its politics and its people.<br><br>----<br><br>#### Rules:<br><br>1. Posts must be in Laotian or in English.<br>2. Add a flair in the title of every post.<br><br>**List of flairs:**<br><br>    [News] [Culture] [Discussion]<br>    [Question] [Request] [Guide]<br><br>----<br><br># ປະເທດລາວ<br><br>----<br><br>ຊຸມຊົນອຸທິດຕົນເພື່ອສົນທະນາທຸກຢ່າງທີ່ກ່ຽວຂ້ອງກັບລາວ. ວັດທະນະທໍາ, ພາສາ, ການເມືອງແລະປະຊາຊົນຂອງຕົນ.<br><br>----<br><br>#### ກົດລະບຽບ:<br><br>1. ໂພສຕ້ອງເປັນພາສາລາວຫຼືເປັນພາສາອັງກິດ.<br>2. ເພີ່ມຄວາມຫຼູຫຼາໃນຫົວຂໍ້ຂອງທຸກ post ໂພສ.<br><br>** ບັນຊີລາຍຊື່ຂອງ flairs: **<br><br>    [ຂ່າວ] [ວັດທະນະທໍາ] [ສົນທະນາ]<br>    [ຄໍາຖາມ] [ຄໍາຮ້ອງຂໍ] [ຄໍາແນະນໍາ]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 7  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-03 16:12:22 |
-| Updated              | 2021-09-03 17:59:11 |
-| Last Scraped         | 2023-06-19 11:36:45 |

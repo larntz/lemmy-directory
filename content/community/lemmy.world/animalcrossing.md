@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animalcrossing"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 06:22:16"
+published: "2023-06-18 04:35:34"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Animal Crossing on lemmy.world
-
-[[home](/)]
-[[/c/animalcrossing 🌎](https://lemmy.world/c/animalcrossing)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 04:35:34 |
-| Updated              | 2023-06-19 06:22:16 |
-| Last Scraped         | 2023-06-19 11:36:35 |

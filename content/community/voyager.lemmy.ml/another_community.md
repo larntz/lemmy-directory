@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/another_community"
 host: voyager.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-13 16:08:26"
 subscribers: 1
 posts: 1
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "voyager_lemmy_ml"
 
 ---
-
-# /c/I said it was another community, testing 1 2 3 on voyager.lemmy.ml
-
-[[home](/)]
-[[/c/another_community 🌎](https://voyager.lemmy.ml/c/another_community)]
-[[voyager.lemmy.ml](/instances/voyager_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:08:26 |
-| Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-19 11:34:42 |

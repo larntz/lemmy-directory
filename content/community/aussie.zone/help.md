@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/help"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 12:27:39"
 subscribers: 25
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Help!? on aussie.zone
-
-[[home](/)]
-[[/c/help 🌎](https://aussie.zone/c/help)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to ask for help
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 12:27:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:06 |

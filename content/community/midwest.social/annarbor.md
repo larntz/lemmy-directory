@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/annarbor"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-02 15:26:51"
 subscribers: 59
 posts: 6
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Ann Arbor on midwest.social
-
-[[home](/)]
-[[/c/annarbor 🌎](https://midwest.social/c/annarbor)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A wonderful city on the banks of the Huron River, home of the University of Michigan and a wide palate of culture, nature, technology and sports.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 6  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 15:26:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

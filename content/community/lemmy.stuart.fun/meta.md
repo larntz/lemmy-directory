@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.stuart.fun/c/meta"
 host: lemmy.stuart.fun
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 19:28:15"
 subscribers: 1
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_stuart_fun"
 
 ---
-
-# /c/Stuart Meta on lemmy.stuart.fun
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.stuart.fun/c/meta)]
-[[lemmy.stuart.fun](/instances/lemmy_stuart_fun)]
-
-
-## Description 
-
-<blockquote class="description">
-Stuart instance Meta posts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:28:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:25 |

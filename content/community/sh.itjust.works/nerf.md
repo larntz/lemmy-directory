@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nerf"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:18:25"
+published: "2023-06-14 21:23:52"
 subscribers: 9
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Nerf/Blaster Tag on sh.itjust.works
-
-[[home](/)]
-[[/c/nerf 🌎](https://sh.itjust.works/c/nerf)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A community like r/nerf for lovers of foam flinging, blaster modding, and everything related to the hobby of nerf/blaster tag!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:23:52 |
-| Updated              | 2023-06-15 04:18:25 |
-| Last Scraped         | 2023-06-19 11:35:05 |

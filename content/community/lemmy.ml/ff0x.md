@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ff0x"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-26 06:54:23"
+published: "2021-01-26 06:52:39"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ff0x on lemmy.ml
-
-[[home](/)]
-[[/c/ff0x 🌎](https://lemmy.ml/c/ff0x)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-26 06:52:39 |
-| Updated              | 2021-01-26 06:54:23 |
-| Last Scraped         | 2023-06-19 11:36:52 |

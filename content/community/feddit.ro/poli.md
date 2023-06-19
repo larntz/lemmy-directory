@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/poli"
 host: feddit.ro
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 11:57:23"
+published: "2023-06-14 11:26:19"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_ro"
 
 ---
-
-# /c/poli on feddit.ro
-
-[[home](/)]
-[[/c/poli 🌎](https://feddit.ro/c/poli)]
-[[feddit.ro](/instances/feddit_ro)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 11:26:19 |
-| Updated              | 2023-06-14 11:57:23 |
-| Last Scraped         | 2023-06-19 11:35:25 |

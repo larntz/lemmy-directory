@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepin"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-19 14:35:44"
+published: "2021-04-19 13:39:39"
 subscribers: 21
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/deepin on lemmy.ml
-
-[[home](/)]
-[[/c/deepin 🌎](https://lemmy.ml/c/deepin)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-deepin (OS) is a Debian-based distribution that aims to provide an elegant, user-friendly and reliable operating system. Being easy to install and use, deepin can be a good Windows alternative for office and home use.<br><br>[Official site](https://www.deepin.org/en/)<br><br>[Forum](https://bbs.deepin.org/en/module/70)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-19 13:39:39 |
-| Updated              | 2021-04-19 14:35:44 |
-| Last Scraped         | 2023-06-19 11:36:43 |

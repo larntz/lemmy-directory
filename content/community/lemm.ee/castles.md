@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/castles"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 20:08:26"
+published: "2023-06-14 18:38:38"
 subscribers: 29
 posts: 11
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Castles on lemm.ee
-
-[[home](/)]
-[[/c/castles 🌎](https://lemm.ee/c/castles)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share cool castles!<br><br>Post images or any other content relating to castles, châteaux, palaces, towers, keeps, fortresses, and follies. The following content is encouraged but not required:<br><br> -  Castle name in native language (English name) - location [include country and region, if not city/town]<br>- Best website (official or otherwise) <br> -  Some sort of map link<br> -  Visitation details: open/closed to public, closed but technically reachable, tours?, etc.<br> -  History: Whatever can be briefly copy-pasted<br><br>Only real rule is that content must refer to a real-life structure, so please no fantasy/fictional castles!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 11  |
-| Comments             | 10  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 18:38:38 |
-| Updated              | 2023-06-14 20:08:26 |
-| Last Scraped         | 2023-06-19 11:35:16 |

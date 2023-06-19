@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theanonymousejoker"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-27 17:13:36"
+published: "2022-04-27 17:12:45"
 subscribers: 8
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/TheAnonymouseJoker's reserved Lemmy blog page on lemmy.ml
-
-[[home](/)]
-[[/c/theanonymousejoker 🌎](https://lemmy.ml/c/theanonymousejoker)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Reserved for future purposes and to prevent hijack takeover by trolls.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-27 17:12:45 |
-| Updated              | 2022-04-27 17:13:36 |
-| Last Scraped         | 2023-06-19 11:36:45 |

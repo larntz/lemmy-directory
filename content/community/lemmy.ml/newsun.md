@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newsun"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-29 09:49:17"
+published: "2021-07-29 01:00:10"
 subscribers: 4
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Book of the New Sun on lemmy.ml
-
-[[home](/)]
-[[/c/newsun 🌎](https://lemmy.ml/c/newsun)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of Gene Wolfe's fiction series Book of the New Sun.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-29 01:00:10 |
-| Updated              | 2021-07-29 09:49:17 |
-| Last Scraped         | 2023-06-16 22:57:38 |

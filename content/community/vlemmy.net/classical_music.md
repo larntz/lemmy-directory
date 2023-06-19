@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/classical_music"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 15:30:39"
+published: "2023-06-12 15:26:20"
 subscribers: 17
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Classical Music on vlemmy.net
-
-[[home](/)]
-[[/c/classical_music 🌎](https://vlemmy.net/c/classical_music)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-General community for anything Classical Music related<br><br><br>Rules<br><br>    - No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. Code of Conduct.<br>    - Be respectful, especially when disagreeing. Everyone should feel welcome here.<br>    - No porn.<br>    - No Ads / Spamming.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:26:20 |
-| Updated              | 2023-06-12 15:30:39 |
-| Last Scraped         | 2023-06-19 11:35:05 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/subway_tooter"
 host: lemmy.juggler.jp
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-12-15 22:43:27"
 subscribers: 5
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_juggler_jp"
 
 ---
-
-# /c/Subway Tooter on lemmy.juggler.jp
-
-[[home](/)]
-[[/c/subway_tooter 🌎](https://lemmy.juggler.jp/c/subway_tooter)]
-[[lemmy.juggler.jp](/instances/lemmy_juggler_jp)]
-
-
-## Description 
-
-<blockquote class="description">
-Subway Tooter について。
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-15 22:43:27 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

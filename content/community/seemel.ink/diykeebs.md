@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/diykeebs"
 host: seemel.ink
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 02:01:54"
+published: "2023-06-17 17:23:49"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "seemel_ink"
 
 ---
-
-# /c/DIYKeebs on seemel.ink
-
-[[home](/)]
-[[/c/diykeebs 🌎](https://seemel.ink/c/diykeebs)]
-[[seemel.ink](/instances/seemel_ink)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 17:23:49 |
-| Updated              | 2023-06-19 02:01:54 |
-| Last Scraped         | 2023-06-19 11:35:14 |

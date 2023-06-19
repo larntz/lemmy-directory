@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/califato"
 host: mujico.org
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-08 01:39:20"
+published: "2022-09-07 23:29:24"
 subscribers: 171
 posts: 39
 comments: 121
@@ -22,36 +23,3 @@ tags:
 - "mujico_org"
 
 ---
-
-# /c/El Califato on mujico.org
-
-[[home](/)]
-[[/c/califato 🌎](https://mujico.org/c/califato)]
-[[mujico.org](/instances/mujico_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Hogar de Soliman El Magnifico<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 171 |
-| Posts                | 39  |
-| Comments             | 121  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-07 23:29:24 |
-| Updated              | 2022-09-08 01:39:20 |
-| Last Scraped         | 2023-06-19 11:34:43 |

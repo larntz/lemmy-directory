@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pkm"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-17 08:12:08"
+published: "2023-04-16 13:17:16"
 subscribers: 13
 posts: 8
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/pkm  on feddit.de
-
-[[home](/)]
-[[/c/pkm 🌎](https://feddit.de/c/pkm)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Methoden und Tools des Personal Knowledge Managements haben sich in den letzten Jahren gewandelt. Hier sind Hinweise dazu gefragt.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 8  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-16 13:17:16 |
-| Updated              | 2023-04-17 08:12:08 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/arianagrande"
 host: goddess.name
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 16:05:26"
+published: "2023-06-12 15:14:46"
 subscribers: 3
 posts: 4
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "goddess_name"
 
 ---
-
-# /c/Ariana Grande on goddess.name
-
-[[home](/)]
-[[/c/arianagrande 🌎](https://goddess.name/c/arianagrande)]
-[[goddess.name](/instances/goddess_name)]
-
-
-## Description 
-
-<blockquote class="description">
-official Ariana Grande!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 4  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:14:46 |
-| Updated              | 2023-06-12 16:05:26 |
-| Last Scraped         | 2023-06-19 11:35:28 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/krk"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-20 22:51:07"
+published: "2020-09-26 11:04:52"
 subscribers: 53
 posts: 55
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Kraków on szmer.info
-
-[[home](/)]
-[[/c/krk 🌎](https://szmer.info/c/krk)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-dawna stolica p*laków
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 53 |
-| Posts                | 55  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-09-26 11:04:52 |
-| Updated              | 2021-03-20 22:51:07 |
-| Last Scraped         | 2023-06-19 11:35:33 |

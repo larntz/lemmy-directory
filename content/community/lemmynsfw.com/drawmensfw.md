@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/drawmensfw"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 14:20:44"
+published: "2023-06-14 09:58:23"
 subscribers: 25
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/drawMeNSFW on lemmynsfw.com
-
-[[home](/)]
-[[/c/drawmensfw 🌎](https://lemmynsfw.com/c/drawmensfw)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A place to get drawn in a not safe for work way. Right now it's mostly me (drawing) but I hope others will join. <br><br>Drop a picture and let's see where it's going. <br><br>Be nice and don't be an asshole. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:58:23 |
-| Updated              | 2023-06-15 14:20:44 |
-| Last Scraped         | 2023-06-16 22:56:41 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/requests"
 host: lemmit.online
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 13:56:52"
+published: "2023-06-11 16:43:02"
 subscribers: 7
 posts: 22
 comments: 23
@@ -22,36 +23,3 @@ tags:
 - "lemmit_online"
 
 ---
-
-# /c/Request a subreddit on lemmit.online
-
-[[home](/)]
-[[/c/requests 🌎](https://lemmit.online/c/requests)]
-[[lemmit.online](/instances/lemmit_online)]
-
-
-## Description 
-
-<blockquote class="description">
-Make requests for new subreddits/communities here, **using the name of the subreddit as the title**, or with a link to the subreddit.<br><br>For **anything else**, go to [/c/about](/c/about).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 22  |
-| Comments             | 23  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:43:02 |
-| Updated              | 2023-06-18 13:56:52 |
-| Last Scraped         | 2023-06-19 11:35:18 |

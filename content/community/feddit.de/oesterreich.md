@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oesterreich"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-10-10 10:57:36"
+published: "2021-10-09 18:15:17"
 subscribers: 140
 posts: 24
 comments: 32
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Österreich on feddit.de
-
-[[home](/)]
-[[/c/oesterreich 🌎](https://feddit.de/c/oesterreich)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Alles zur Republik Österreich<br><br>Mods gesucht, einfach per PN melden.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 140 |
-| Posts                | 24  |
-| Comments             | 32  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 15  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-10-09 18:15:17 |
-| Updated              | 2021-10-10 10:57:36 |
-| Last Scraped         | 2023-06-19 11:35:39 |

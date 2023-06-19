@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://0xdd.org.ru/c/games"
 host: 0xdd.org.ru
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-26 19:33:22"
+published: "2023-03-26 19:22:26"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "0xdd_org_ru"
 
 ---
-
-# /c/Games on 0xdd.org.ru
-
-[[home](/)]
-[[/c/games 🌎](https://0xdd.org.ru/c/games)]
-[[0xdd.org.ru](/instances/0xdd_org_ru)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-26 19:22:26 |
-| Updated              | 2023-03-26 19:33:22 |
-| Last Scraped         | 2023-06-19 11:34:47 |

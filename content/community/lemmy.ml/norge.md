@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/norge"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-15 18:32:56"
+published: "2020-03-08 12:14:31"
 subscribers: 50
 posts: 15
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Norge on lemmy.ml
-
-[[home](/)]
-[[/c/norge 🌎](https://lemmy.ml/c/norge)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Nordmenn, norsk og Norge
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 15  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-03-08 12:14:31 |
-| Updated              | 2021-02-15 18:32:56 |
-| Last Scraped         | 2023-06-19 11:36:43 |

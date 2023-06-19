@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bikeporn"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:02:53"
+published: "2023-06-13 15:35:56"
 subscribers: 46
 posts: 6
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Bikeporn on feddit.de
-
-[[home](/)]
-[[/c/bikeporn 🌎](https://feddit.de/c/bikeporn)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-It‘s about the most beautiful bikes!<br>Feel free to post your favorites.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 46 |
-| Posts                | 6  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 15:35:56 |
-| Updated              | 2023-06-14 14:02:53 |
-| Last Scraped         | 2023-06-19 11:35:39 |

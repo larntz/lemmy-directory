@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/psychology"
 host: feddit.tech
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:59:20"
+published: "2023-06-14 22:38:40"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_tech"
 
 ---
-
-# /c/Psychology on feddit.tech
-
-[[home](/)]
-[[/c/psychology 🌎](https://feddit.tech/c/psychology)]
-[[feddit.tech](/instances/feddit_tech)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 22:38:40 |
-| Updated              | 2023-06-14 22:59:20 |
-| Last Scraped         | 2023-06-19 11:35:28 |

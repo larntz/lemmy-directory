@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/memes"
 host: bolha.social
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-21 14:35:38"
+published: "2022-12-21 14:35:28"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "bolha_social"
 
 ---
-
-# /c/Memes on bolha.social
-
-[[home](/)]
-[[/c/memes 🌎](https://bolha.social/c/memes)]
-[[bolha.social](/instances/bolha_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-21 14:35:28 |
-| Updated              | 2022-12-21 14:35:38 |
-| Last Scraped         | 2023-06-19 11:34:44 |

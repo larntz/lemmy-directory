@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oshi_no_ko"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-20 03:38:26"
+published: "2022-06-20 03:37:04"
 subscribers: 18
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Oshi no Ko on lemmy.ml
-
-[[home](/)]
-[[/c/oshi_no_ko 🌎](https://lemmy.ml/c/oshi_no_ko)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything related to the manga series Oshi no Ko and its anime adaptation.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-20 03:37:04 |
-| Updated              | 2022-06-20 03:38:26 |
-| Last Scraped         | 2023-06-16 11:07:33 |

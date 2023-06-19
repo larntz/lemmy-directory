@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arsenalwfc"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 19:49:06"
+published: "2023-06-10 18:19:23"
 subscribers: 11
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Arsenal Women Football Club on lemmy.world
-
-[[home](/)]
-[[/c/arsenalwfc 🌎](https://lemmy.world/c/arsenalwfc)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community dedicated to the Arsenal Womens Football Club, The Gunners. By far the greatest team the world has ever seen.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 18:19:23 |
-| Updated              | 2023-06-12 19:49:06 |
-| Last Scraped         | 2023-06-19 11:36:42 |

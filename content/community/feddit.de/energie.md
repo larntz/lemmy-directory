@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/energie"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-02 15:42:15"
+published: "2022-06-02 15:40:41"
 subscribers: 112
 posts: 71
 comments: 56
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Energie on feddit.de
-
-[[home](/)]
-[[/c/energie 🌎](https://feddit.de/c/energie)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 112 |
-| Posts                | 71  |
-| Comments             | 56  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-06-02 15:40:41 |
-| Updated              | 2022-06-02 15:42:15 |
-| Last Scraped         | 2023-06-19 11:35:39 |

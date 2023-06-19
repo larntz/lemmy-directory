@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gtav"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 22:55:02"
+published: "2023-06-11 21:40:40"
 subscribers: 20
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/GTA V on lemmy.world
-
-[[home](/)]
-[[/c/gtav 🌎](https://lemmy.world/c/gtav)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:40:40 |
-| Updated              | 2023-06-15 22:55:02 |
-| Last Scraped         | 2023-06-16 22:57:16 |

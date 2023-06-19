@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/childfree4childfree"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:54:23"
+published: "2023-06-14 23:14:51"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/CF4CF on lemmy.world
-
-[[home](/)]
-[[/c/childfree4childfree 🌎](https://lemmy.world/c/childfree4childfree)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Testing space for CF4CF
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:14:51 |
-| Updated              | 2023-06-14 23:54:23 |
-| Last Scraped         | 2023-06-19 11:36:39 |

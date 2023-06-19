@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/turku"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 07:25:58"
+published: "2023-06-15 07:23:32"
 subscribers: 14
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Turku on sopuli.xyz
-
-[[home](/)]
-[[/c/turku 🌎](https://sopuli.xyz/c/turku)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Täl ja tois pual jokke
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 07:23:32 |
-| Updated              | 2023-06-15 07:25:58 |
-| Last Scraped         | 2023-06-19 11:35:32 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/smieciarka"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-01 09:01:24"
+published: "2022-07-01 08:41:21"
 subscribers: 27
 posts: 5
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Społeczność oddawajkowo - wymiankowa (śmieciarka szmerowa) on szmer.info
-
-[[home](/)]
-[[/c/smieciarka 🌎](https://szmer.info/c/smieciarka)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Inspirując się obecną na fb fajną inicjatywą, zakładałam również tutaj społeczność do oddawania niepotrzebnych przedmiotów lub wymianek. Celem jest redukcja ilości wytwarzanych odpadów - coś co dla nas jest śmieciem, dla kogoś może być przydatne. <br><br>Zasady: <br>1) Rzeczy oddajemy za darmo lub za koszt wysyłki (jesteśmy z różnych miejsc w kraju, więc pewnie się zdarzy że trzeba będzie wysłać). Wierzę że ślad węglowy tego transportu przez te jakieś 200 czy 300 km jest nadal dużo mniejszy niż wyprodukowania kolejnej takiej rzeczy. <br>Można też wrzucać wymianki, np. szukam rzeczy x, oferuję rzecz y. <br><br>2) Nie wstawiajmy rzeczy nielegalnych typu leki, broń, dziwne substancje. To nadal jest otwarty internet i nigdy nie wiadomo kto to czyta. <br><br>Co post powinien zawierać dla jasnej komunikacji:<br>- zdjęcie rzeczy, ogólny opis <br>- stan, opis wad <br>- miejsce do odbioru osobistego<br>- czy jest możliwość wysyłki i jakim sposobem. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-01 08:41:21 |
-| Updated              | 2022-07-01 09:01:24 |
-| Last Scraped         | 2023-06-19 11:35:33 |

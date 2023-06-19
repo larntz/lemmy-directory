@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missorui"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-30 05:43:53"
+published: "2021-12-24 21:49:27"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Missouri on lemmy.ml
-
-[[home](/)]
-[[/c/missorui 🌎](https://lemmy.ml/c/missorui)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for Missouri leftists.<br><br>Yes, I am very aware of the typo in the community name.<br><br>Share news, organize, debate, etc.<br><br>Rules TBD.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-24 21:49:27 |
-| Updated              | 2021-12-30 05:43:53 |
-| Last Scraped         | 2023-06-19 11:36:46 |

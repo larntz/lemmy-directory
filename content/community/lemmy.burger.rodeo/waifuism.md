@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waifuism"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:27:00"
+published: "2023-06-11 16:39:32"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/waifuism on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/waifuism 🌎](https://burggit.moe/c/waifuism)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for those truly in love with their fictional characters!<br>WIP.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 16:39:32 |
-| Updated              | 2023-06-12 12:27:00 |
-| Last Scraped         | 2023-06-19 11:35:30 |

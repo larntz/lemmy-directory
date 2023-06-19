@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blackwolves"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-08 01:03:38"
+published: "2022-09-08 00:55:11"
 subscribers: 4
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Black Wolves on lemmy.ml
-
-[[home](/)]
-[[/c/blackwolves 🌎](https://lemmy.ml/c/blackwolves)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-slop
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-08 00:55:11 |
-| Updated              | 2022-09-08 01:03:38 |
-| Last Scraped         | 2023-06-19 11:36:50 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edibleinsects"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 10:56:40"
+published: "2023-06-03 10:54:13"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Edible Insects on lemmy.ml
-
-[[home](/)]
-[[/c/edibleinsects 🌎](https://lemmy.ml/c/edibleinsects)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Talk about edible insects, entomophagy, etc
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 10:54:13 |
-| Updated              | 2023-06-03 10:56:40 |
-| Last Scraped         | 2023-06-19 11:36:44 |

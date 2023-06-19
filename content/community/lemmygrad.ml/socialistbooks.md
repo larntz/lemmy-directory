@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socialistbooks"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-02-02 01:26:42"
+published: "2019-09-02 09:39:57"
 subscribers: 473
 posts: 41
 comments: 82
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/For discussing books by socialists or about socialism. on lemmygrad.ml
-
-[[home](/)]
-[[/c/socialistbooks 🌎](https://lemmygrad.ml/c/socialistbooks)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Rules:<br><br>1. Books from all tendencies are allowed. Please don’t downvote something just because it’s from somebody that you dislike.<br>2. However, the [general rule against sectarianism](https://communism.lemmy.ml) still applies here. A writing that takes a potshot at others every now and then is acceptable. Outright polemics dedicated to denouncing other tendencies belong elsewhere.<br>3. No linking to online book stores.<br>4. No memes or videos.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 473 |
-| Posts                | 41  |
-| Comments             | 82  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 17  |
-| Monthly Active Users | 21  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-09-02 09:39:57 |
-| Updated              | 2020-02-02 01:26:42 |
-| Last Scraped         | 2023-06-19 11:35:08 |

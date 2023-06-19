@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fumetti"
 host: feddit.it
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-05-19 07:33:15"
 subscribers: 149
 posts: 42
 comments: 146
@@ -22,36 +23,3 @@ tags:
 - "feddit_it"
 
 ---
-
-# /c/Fumetti on feddit.it
-
-[[home](/)]
-[[/c/fumetti 🌎](https://feddit.it/c/fumetti)]
-[[feddit.it](/instances/feddit_it)]
-
-
-## Description 
-
-<blockquote class="description">
-Benvenuti! Questa comunità è un punto di incontro per appassionati di fumetti, lettori e collezionisti.<br><br>Un luogo dove pubblicare e commentare le notizie relative al mondo di Comics, Manga, fumetti italiani e di ogni parte del mondo, dove consigliare le proprie letture e condividere le proprie collezioni.<br><br>Ogni contributo è prezioso, il confronto e lo scambio di opinioni sono una ricchezza; unico limite è il rispetto reciproco e l’utilizzo di un linguaggio appropriato. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 149 |
-| Posts                | 42  |
-| Comments             | 146  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-19 07:33:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:54 |

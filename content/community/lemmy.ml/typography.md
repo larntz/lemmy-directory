@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typography"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:27:58"
+published: "2020-06-28 03:08:49"
 subscribers: 52
 posts: 18
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Typography on lemmy.ml
-
-[[home](/)]
-[[/c/typography 🌎](https://lemmy.ml/c/typography)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Type design, setting, fonts, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 18  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 03:08:49 |
-| Updated              | 2021-01-29 13:27:58 |
-| Last Scraped         | 2023-06-19 11:37:00 |

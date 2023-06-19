@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/astralcollapse"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-26 11:36:09"
+published: "2021-02-26 11:17:55"
 subscribers: 13
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Astral Collapse on lemmy.ml
-
-[[home](/)]
-[[/c/astralcollapse 🌎](https://lemmy.ml/c/astralcollapse)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss Internet Culture.<br>We welcome liminal spaces, icebergs, folklore, hidden history, general obscurity.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-26 11:17:55 |
-| Updated              | 2021-02-26 11:36:09 |
-| Last Scraped         | 2023-06-19 11:36:44 |

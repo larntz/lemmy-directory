@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/duskydelights"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:23:29"
+published: "2023-06-12 14:52:54"
 subscribers: 79
 posts: 8
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Dusky Delights on lemmynsfw.com
-
-[[home](/)]
-[[/c/duskydelights 🌎](https://lemmynsfw.com/c/duskydelights)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-My Personal Collection Of Dark Skinned Delights<br><br>For public post of indian women check out [!indiangirls@lemmynsfw.com](https://lemmynsfw.com/c/indiangirls) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:52:54 |
-| Updated              | 2023-06-12 18:23:29 |
-| Last Scraped         | 2023-06-19 11:35:46 |

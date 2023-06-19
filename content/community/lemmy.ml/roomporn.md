@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roomporn"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-04 20:36:08"
 subscribers: 29
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/RoomPorn - High quality images of rooms. on lemmy.ml
-
-[[home](/)]
-[[/c/roomporn 🌎](https://lemmy.ml/c/roomporn)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Note that despite the name, it's not an NSFW subreddit<br><br><br>#Rules<br><br>   * Include some context about the image in the title.<br>   * Include the resolution in [brackets] in the title.<br>   * Only submit static images.<br>       - Videos, collections, interactive images/websites, and articles are not allowed.<br>        * Do not submit a shortened link using a URL shortener like tinyurl.<br><br>Sources:<br>* If you took the photo yourself, you can signify this by using the tag [OC] (original content) and after 24 hours you will be given special flair. If you don't receive flair after a few days feel free to message the mods.<br><br>* If it is an original source, please use the tag [OS]<br><br><br>Originally on [r/RoomPorn](https://old.reddit.com/r/RoomPorn/) as part of the [sfwpornnetwork](https://www.reddit.com/r/sfwpornnetwork/wiki/network/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 20:36:08 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:45 |

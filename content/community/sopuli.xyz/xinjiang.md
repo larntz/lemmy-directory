@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/xinjiang"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-24 15:58:40"
+published: "2022-08-21 15:19:06"
 subscribers: 5
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Xinjiang on sopuli.xyz
-
-[[home](/)]
-[[/c/xinjiang 🌎](https://sopuli.xyz/c/xinjiang)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-News and discussion related to Xinijang
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-21 15:19:06 |
-| Updated              | 2022-08-24 15:58:40 |
-| Last Scraped         | 2023-06-19 11:35:33 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/medford"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 01:11:44"
+published: "2023-06-03 01:09:14"
 subscribers: 3
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Medford on lemmy.ml
-
-[[home](/)]
-[[/c/medford 🌎](https://lemmy.ml/c/medford)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Medford, Oregon
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 01:09:14 |
-| Updated              | 2023-06-03 01:11:44 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shreveport"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 15:56:19"
+published: "2023-06-15 15:50:55"
 subscribers: 11
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Shreveport on lemmy.world
-
-[[home](/)]
-[[/c/shreveport 🌎](https://lemmy.world/c/shreveport)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for refugees of the Shreveport-Bossier subreddit and is moderated by the Discord community. To join the Discord see the link.<br><br>https://discord.gg/pu7KaQbER6
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 15:50:55 |
-| Updated              | 2023-06-15 15:56:19 |
-| Last Scraped         | 2023-06-19 11:36:37 |

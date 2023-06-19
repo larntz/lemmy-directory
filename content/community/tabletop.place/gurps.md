@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/gurps"
 host: tabletop.place
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:33:55"
+published: "2023-06-16 06:05:37"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tabletop_place"
 
 ---
-
-# /c/GURPS on tabletop.place
-
-[[home](/)]
-[[/c/gurps 🌎](https://tabletop.place/c/gurps)]
-[[tabletop.place](/instances/tabletop_place)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to GURPS, the Generic Universal RolePlaying System created by Steve Jackson in 1986.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 06:05:37 |
-| Updated              | 2023-06-16 22:33:55 |
-| Last Scraped         | 2023-06-19 11:35:30 |

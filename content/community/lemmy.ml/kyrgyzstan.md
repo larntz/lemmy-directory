@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kyrgyzstan"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-19 00:41:43"
+published: "2021-01-12 08:46:14"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Kyrgyzstan on lemmy.ml
-
-[[home](/)]
-[[/c/kyrgyzstan 🌎](https://lemmy.ml/c/kyrgyzstan)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-12 08:46:14 |
-| Updated              | 2022-05-19 00:41:43 |
-| Last Scraped         | 2023-06-19 11:36:44 |

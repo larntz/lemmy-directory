@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rzl"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-14 09:00:14"
+published: "2022-09-13 21:07:43"
 subscribers: 14
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/RaumZeitLabor e.V. on feddit.de
-
-[[home](/)]
-[[/c/rzl 🌎](https://feddit.de/c/rzl)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Hacker- und Makerspace auf 200m². Digitalkultur im Rhein-Neckar-Dreieck.<br><br>- [Homepage des RZL](https://raumzeitlabor.de/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-13 21:07:43 |
-| Updated              | 2022-09-14 09:00:14 |
-| Last Scraped         | 2023-06-19 11:35:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://baomi.tv/c/cute"
 host: baomi.tv
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-10 07:25:46"
+published: "2023-04-09 06:10:33"
 subscribers: 2
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "baomi_tv"
 
 ---
-
-# /c/可爱吧 on baomi.tv
-
-[[home](/)]
-[[/c/cute 🌎](https://baomi.tv/c/cute)]
-[[baomi.tv](/instances/baomi_tv)]
-
-
-## Description 
-
-<blockquote class="description">
-只放休闲图片
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-09 06:10:33 |
-| Updated              | 2023-05-10 07:25:46 |
-| Last Scraped         | 2023-06-19 11:34:53 |

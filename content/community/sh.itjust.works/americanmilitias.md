@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/americanmilitias"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 18:44:11"
+published: "2023-06-13 11:39:02"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/American Militias on sh.itjust.works
-
-[[home](/)]
-[[/c/americanmilitias 🌎](https://sh.itjust.works/c/americanmilitias)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-A group for discussing North American militias, organized protest groups, and other **armed political movements**. Examples include Antifa, Proud Boys, Patriot Front, and others.<br><br>This community is politically neutral but welcomes all (non-hateful) discussion.<br><br>Rules:<br><br>1 - No overt hatred towards anyone showcased.<br><br>2 - We are not affiliated with any groups discussed.<br><br>3 - All viewpoints shown in submissions are being shared for educational purposes only.<br><br>4 - Absolutely no recruiting<br><br>5- All sh.itjust.works instance-wide rules apply**___**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 11:39:02 |
-| Updated              | 2023-06-16 18:44:11 |
-| Last Scraped         | 2023-06-19 11:35:05 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/perf"
 host: hakbox.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 16:51:45"
+published: "2023-06-10 04:40:40"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "hakbox_social"
 
 ---
-
-# /c/Performance Engineering on hakbox.social
-
-[[home](/)]
-[[/c/perf 🌎](https://hakbox.social/c/perf)]
-[[hakbox.social](/instances/hakbox_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 04:40:40 |
-| Updated              | 2023-06-10 16:51:45 |
-| Last Scraped         | 2023-06-19 11:35:14 |

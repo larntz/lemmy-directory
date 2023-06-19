@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europrivacy"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-21 16:55:22"
+published: "2021-06-18 14:45:57"
 subscribers: 45
 posts: 48
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Europe Privacy on lemmy.ml
-
-[[home](/)]
-[[/c/europrivacy 🌎](https://lemmy.ml/c/europrivacy)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 45 |
-| Posts                | 48  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-18 14:45:57 |
-| Updated              | 2021-06-21 16:55:22 |
-| Last Scraped         | 2023-06-19 11:36:44 |

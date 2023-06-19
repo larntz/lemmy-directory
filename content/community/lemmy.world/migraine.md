@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/migraine"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 03:25:01"
+published: "2023-06-15 00:16:23"
 subscribers: 29
 posts: 6
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Migraine on lemmy.world
-
-[[home](/)]
-[[/c/migraine 🌎](https://lemmy.world/c/migraine)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community for support, conversation, and healing among migraine sufferers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 6  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:16:23 |
-| Updated              | 2023-06-15 03:25:01 |
-| Last Scraped         | 2023-06-19 11:36:37 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://slangenettet.pyjam.as/c/pyjamas"
 host: slangenettet.pyjam.as
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-18 18:56:01"
+published: "2023-01-18 17:11:25"
 subscribers: 1
 posts: 14
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "slangenettet_pyjam_as"
 
 ---
-
-# /c/pyjam.as on slangenettet.pyjam.as
-
-[[home](/)]
-[[/c/pyjamas 🌎](https://slangenettet.pyjam.as/c/pyjamas)]
-[[slangenettet.pyjam.as](/instances/slangenettet_pyjam_as)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 14  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-18 17:11:25 |
-| Updated              | 2023-01-18 18:56:01 |
-| Last Scraped         | 2023-06-19 11:34:42 |

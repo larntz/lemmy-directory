@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/baseball"
 host: fanaticus.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 18:28:28"
+published: "2023-06-07 21:06:59"
 subscribers: 115
 posts: 26
 comments: 51
@@ -22,36 +23,3 @@ tags:
 - "fanaticus_social"
 
 ---
-
-# /c/baseball on fanaticus.social
-
-[[home](/)]
-[[/c/baseball 🌎](https://fanaticus.social/c/baseball)]
-[[fanaticus.social](/instances/fanaticus_social)]
-
-
-## Description 
-
-<blockquote class="description">
-The fans home for baseball.<br><br>Cloned from [r/baseball](https://old.reddit.com/r/baseball/) along with all our team subreddits!<br><br>### AL East<br>[!tampabayrays@fanaticus.social](https://fanaticus.social/c/tampabayrays)<br>[!orioles@fanaticus.social](https://fanaticus.social/c/orioles) <br>[!nyyankees@fanaticus.social](https://fanaticus.social/c/nyyankees) <br>[!torontobluejays@fanaticus.social](https://fanaticus.social/c/torontobluejays) <br>[!redsox@fanaticus.social](https://fanaticus.social/c/redsox) <br><br>### AL Central<br>[!minnesotatwins@fanaticus.social](https://fanaticus.social/c/minnesotatwins) <br>[!clevelandguardians@fanaticus.social](https://fanaticus.social/c/clevelandguardians) <br>[!whitesox@fanaticus.social](https://fanaticus.social/c/whitesox) <br>[!motorcitykitties@fanaticus.social](https://fanaticus.social/c/motorcitykitties) <br>[!kcroyals@fanaticus.social](https://fanaticus.social/c/kcroyals) <br><br>### AL West<br>[!texasrangers@fanaticus.social](https://fanaticus.social/c/texasrangers) <br>[!astros@fanaticus.social](https://fanaticus.social/c/astros) <br>[!angelsbaseball@fanaticus.social](https://fanaticus.social/c/angelsbaseball) <br>[!mariners@fanaticus.social](https://fanaticus.social/c/mariners) <br>[!oaklandathletics@fanaticus.social](https://fanaticus.social/c/oaklandathletics) <br><br>### NL East<br>[!braves@fanaticus.social](https://fanaticus.social/c/braves) <br>[!miamimarlins@fanaticus.social](https://fanaticus.social/c/miamimarlins) <br>[!phillies@fanaticus.social](https://fanaticus.social/c/phillies) <br>[!newyorkmets@fanaticus.social](https://fanaticus.social/c/newyorkmets) <br>[!nationals@fanaticus.social](https://fanaticus.social/c/nationals) <br><br>### NL Central<br>[!buccos@fanaticus.social](https://fanaticus.social/c/buccos) <br>[!brewers@fanaticus.social](https://fanaticus.social/c/brewers) <br>[!reds@fanaticus.social](https://fanaticus.social/c/reds) <br>[!chicubs@fanaticus.social](https://fanaticus.social/c/chicubs) <br>[!cardinals@fanaticus.social](https://fanaticus.social/c/cardinals) <br><br>### NL West<br>[!azdiamondbacks@fanaticus.social](https://fanaticus.social/c/azdiamondbacks) <br>[!dodgers@fanaticus.social](https://fanaticus.social/c/dodgers) <br>[!sfgiants@fanaticus.social](https://fanaticus.social/c/sfgiants) <br>[!padres@fanaticus.social](https://fanaticus.social/c/padres) <br>[!coloradorockies@fanaticus.social](https://fanaticus.social/c/coloradorockies) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 115 |
-| Posts                | 26  |
-| Comments             | 51  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 29  |
-| Monthly Active Users | 30  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 21:06:59 |
-| Updated              | 2023-06-12 18:28:28 |
-| Last Scraped         | 2023-06-19 11:35:15 |

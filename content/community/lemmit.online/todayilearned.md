@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/todayilearned"
 host: lemmit.online
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 16:27:52"
 subscribers: 4
 posts: 45
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmit_online"
 
 ---
-
-# /c/Today I Learned (TIL) on lemmit.online
-
-[[home](/)]
-[[/c/todayilearned 🌎](https://lemmit.online/c/todayilearned)]
-[[lemmit.online](/instances/lemmit_online)]
-
-
-## Description 
-
-<blockquote class="description">
-You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 45  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 16:27:52 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

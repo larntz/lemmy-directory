@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/victoria"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 04:14:27"
+published: "2023-06-06 03:58:54"
 subscribers: 79
 posts: 21
 comments: 25
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Victoria, BC on lemmy.ca
-
-[[home](/)]
-[[/c/victoria 🌎](https://lemmy.ca/c/victoria)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A Lemmy community for the City of Victoria and the Greater Victoria Region.<br><br>Any news about Vancouver Island also welcome here!<br><br>**Visitor & Tourism Information**<br>* [Tourism Victoria](https://www.tourismvictoria.com/)<br>* [HelloBC](https://www.hellobc.com/places-to-go/victoria/)<br><br>**Local News**<br>*  [Victoria News](https://www.vicnews.com/)<br>*  [CTV News Vancouver Island](https://vancouverisland.ctvnews.ca/)<br>* [CHEK News](https://www.cheknews.ca/)<br>* [Global News](https://globalnews.ca/tag/victoria/)<br>* [Times Colonist](https://www.timescolonist.com/)<br><br>**Local Weather**<br>* [7 Day Forecast](https://weather.gc.ca/city/pages/bc-85_metric_e.html)<br>* [Microclimates](https://www.victoriaweather.ca/)<br>* [Pollen Report](https://www.theweathernetwork.com/en/city/ca/british-columbia/victoria/pollen)<br><br>**Local Radio**<br>* [CFAX 1070](https://www.iheartradio.ca/cfax-1070)<br>*  [The Q 100.3](https://www.theq.fm/)<br>*  [The Zone 91.3](https://www.thezone.fm/)<br>* [Jack 103.1](https://www.jack1031.ca/)<br>*  [CFUV 101.9](http://cfuv.uvic.ca/)<br><br>**Municipalities**<br>* [North Saanich](https://northsaanich.ca/)<br>* [Sidney](http://www.sidney.ca/)<br>* [Central Saanich](https://www.centralsaanich.ca/)<br>* [Highlands](https://www.highlands.bc.ca/)<br>* [View Royal](https://www.viewroyal.ca/)<br>* [Saanich](https://www.saanich.ca/)<br>* [Langford](https://langford.ca/)<br>* [Colwood](https://www.colwood.ca/)<br>* [Esquimalt](https://www.esquimalt.ca/)<br>* [Victoria](https://www.victoria.ca/)<br>* [Oak Bay](https://www.oakbay.ca/)<br>* [Sooke](https://sooke.ca/)<br>* [Metchosin](https://www.metchosin.ca/)<br><br>**Lemmy.ca Rules**<br>* No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br>* Be respectful. Everyone should feel welcome here.<br>* No porn.<br>* No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 79 |
-| Posts                | 21  |
-| Comments             | 25  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 03:58:54 |
-| Updated              | 2023-06-17 04:14:27 |
-| Last Scraped         | 2023-06-19 11:35:36 |

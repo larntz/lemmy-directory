@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beer"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:59:11"
+published: "2023-06-12 04:58:41"
 subscribers: 24
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Beer on lemmy.world
-
-[[home](/)]
-[[/c/beer 🌎](https://lemmy.world/c/beer)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 24 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:58:41 |
-| Updated              | 2023-06-12 04:59:11 |
-| Last Scraped         | 2023-06-16 22:57:16 |

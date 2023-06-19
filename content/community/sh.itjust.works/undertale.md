@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/undertale"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:50:43"
+published: "2023-06-14 16:40:06"
 subscribers: 5
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Undertale on sh.itjust.works
-
-[[home](/)]
-[[/c/undertale 🌎](https://sh.itjust.works/c/undertale)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-sh.itjust.works's Undertale and (sometimes) Deltarune Community!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:40:06 |
-| Updated              | 2023-06-14 16:50:43 |
-| Last Scraped         | 2023-06-19 11:35:05 |

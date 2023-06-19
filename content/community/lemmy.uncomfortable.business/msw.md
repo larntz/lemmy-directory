@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/msw"
 host: lemmy.uncomfortable.business
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 00:28:18"
+published: "2023-06-13 00:22:32"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_uncomfortable_business"
 
 ---
-
-# /c/Murder She Wrote on lemmy.uncomfortable.business
-
-[[home](/)]
-[[/c/msw 🌎](https://lemmy.uncomfortable.business/c/msw)]
-[[lemmy.uncomfortable.business](/instances/lemmy_uncomfortable_business)]
-
-
-## Description 
-
-<blockquote class="description">
-Everyone's favorite serial-killer senior citizen.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 00:22:32 |
-| Updated              | 2023-06-13 00:28:18 |
-| Last Scraped         | 2023-06-19 11:35:13 |

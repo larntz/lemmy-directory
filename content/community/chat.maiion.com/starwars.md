@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/starwars"
 host: chat.maiion.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 04:26:04"
+published: "2023-06-15 03:42:54"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "chat_maiion_com"
 
 ---
-
-# /c/c/StarWars on chat.maiion.com
-
-[[home](/)]
-[[/c/starwars 🌎](https://chat.maiion.com/c/starwars)]
-[[chat.maiion.com](/instances/chat_maiion_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Are you a fan of the stories and events in a galaxy far far away? All memes, movies, TV series, comics, and books from all eras of Star Wars belong here!<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 03:42:54 |
-| Updated              | 2023-06-17 04:26:04 |
-| Last Scraped         | 2023-06-19 11:35:26 |

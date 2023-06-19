@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/exmuslim"
 host: social.doudp.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 05:42:49"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "social_doudp_com"
 
 ---
-
-# /c/ExMuslim on social.doudp.com
-
-[[home](/)]
-[[/c/exmuslim 🌎](https://lemmy.run/c/exmuslim)]
-[[social.doudp.com](/instances/social_doudp_com)]
-
-
-## Description 
-
-<blockquote class="description">
-General discussion for topics for ExMuslim
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 05:42:49 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

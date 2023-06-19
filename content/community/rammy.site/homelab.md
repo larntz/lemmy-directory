@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/homelab"
 host: rammy.site
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 12:23:19"
 subscribers: 8
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "rammy_site"
 
 ---
-
-# /c/Home Lab on rammy.site
-
-[[home](/)]
-[[/c/homelab 🌎](https://rammy.site/c/homelab)]
-[[rammy.site](/instances/rammy_site)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:23:19 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

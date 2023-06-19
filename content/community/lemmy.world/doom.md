@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doom"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:04:10"
+published: "2023-06-12 11:44:15"
 subscribers: 10
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Doom on lemmy.world
-
-[[home](/)]
-[[/c/doom 🌎](https://lemmy.world/c/doom)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Rip and tear until it is done
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 11:44:15 |
-| Updated              | 2023-06-12 12:04:10 |
-| Last Scraped         | 2023-06-19 11:36:38 |

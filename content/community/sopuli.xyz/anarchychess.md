@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/anarchychess"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 11:21:32"
+published: "2023-06-07 12:46:48"
 subscribers: 1653
 posts: 58
 comments: 762
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/AnarchyChess on sopuli.xyz
-
-[[home](/)]
-[[/c/anarchychess 🌎](https://sopuli.xyz/c/anarchychess)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Holy hell  <br><br>Other chess communities:  <br>[!Chess@lemmy.ml](https://lemmy.ml/c/Chess)  <br>[!chessbeginners@sh.itjust.works](https://sh.itjust.works/c/chessbeginners)  
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1653 |
-| Posts                | 58  |
-| Comments             | 762  |
-| Daily Active Users   | 49  |
-| Weekly Active Users  | 182  |
-| Monthly Active Users | 183  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 12:46:48 |
-| Updated              | 2023-06-14 11:21:32 |
-| Last Scraped         | 2023-06-19 11:35:32 |

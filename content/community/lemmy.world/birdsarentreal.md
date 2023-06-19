@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/birdsarentreal"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:02:46"
+published: "2023-06-14 16:55:41"
 subscribers: 30
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Birds aren’t real on lemmy.world
-
-[[home](/)]
-[[/c/birdsarentreal 🌎](https://lemmy.world/c/birdsarentreal)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-They used to be. Until the U.S. Government replaced them with drone replicas designed to spy on the American public.<br>Founded in 1976.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:55:41 |
-| Updated              | 2023-06-14 18:02:46 |
-| Last Scraped         | 2023-06-19 11:36:37 |

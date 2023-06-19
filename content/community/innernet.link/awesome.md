@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://innernet.link/c/awesome"
 host: innernet.link
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 01:29:13"
+published: "2023-06-12 00:50:38"
 subscribers: 1
 posts: 13
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "innernet_link"
 
 ---
-
-# /c/Awesome-* on innernet.link
-
-[[home](/)]
-[[/c/awesome 🌎](https://innernet.link/c/awesome)]
-[[innernet.link](/instances/innernet_link)]
-
-
-## Description 
-
-<blockquote class="description">
-A collection of awesome lists and awesome-like lists.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 13  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:50:38 |
-| Updated              | 2023-06-12 01:29:13 |
-| Last Scraped         | 2023-06-19 11:35:16 |

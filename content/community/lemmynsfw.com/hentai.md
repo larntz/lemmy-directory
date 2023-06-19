@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hentai"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 12:52:21"
+published: "2023-06-11 10:58:04"
 subscribers: 1849
 posts: 191
 comments: 138
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Hentai on lemmynsfw.com
-
-[[home](/)]
-[[/c/hentai 🌎](https://lemmynsfw.com/c/hentai)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-# Welcome to Hentai!<br>This is a general purpose Hentai Community.<br><br>>**hentai**<br>>/ˈhɛntʌɪ/<br>>noun<br>>a genre of Japanese manga and anime characterized by overtly sexualized characters and sexually explicit images and plots.<br><br>::: spoiler ⚠ Just a heads up<br>You need to [create an account](https://lemmynsfw.com/signup) or enable NSFW in your current account to view the content in this community<br>:::<br>## Rules<br>Follow [instance-wide](https://lemmynsfw.com/) rules and:<br>1. Only **Hentai** is welcome, if its porn or cosplays take it somewhere else, like [!porn](/c/porn) or [!cosplay_girls](/c/cosplay_girls).<br>2. No Gore, Vore, Scat or anything that would be considered very extreme.<br>3. No Low Effort Posts (low quality images/videos, black bars, etc.)<br>4. No AI Generated Content. If you want to Post anything AI generated use the relevant communities, such as [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) <br>5. It must be drawn<br>6. Loli/Shota content is absolutely forbidden.<br><br>*if possible* please also provide the sauce (link to artist etc) in the body of your post.<br><br>## Related Communities<br>* [!rule34@lemmynsfw.com](https://lemmynsfw.com/c/rule34) <br>* [!ecchi@lemmynsfw.com](https://lemmynsfw.com/c/ecchi) <br>___<br>If you have any suggestions or ideas for the community please feel free to message [@FreezingInFuckingHell](https://lemmynsfw.com/u/FreezingInFuckingHell).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1849 |
-| Posts                | 191  |
-| Comments             | 138  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 85  |
-| Monthly Active Users | 89  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 10:58:04 |
-| Updated              | 2023-06-15 12:52:21 |
-| Last Scraped         | 2023-06-19 11:35:46 |

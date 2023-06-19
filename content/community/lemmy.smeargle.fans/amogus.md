@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.smeargle.fans/c/amogus"
 host: lemmy.smeargle.fans
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-17 01:56:59"
 subscribers: 2
 posts: 239
 comments: 239
@@ -22,36 +23,3 @@ tags:
 - "lemmy_smeargle_fans"
 
 ---
-
-# /c/amogus on lemmy.smeargle.fans
-
-[[home](/)]
-[[/c/amogus 🌎](https://lemmy.smeargle.fans/c/amogus)]
-[[lemmy.smeargle.fans](/instances/lemmy_smeargle_fans)]
-
-
-## Description 
-
-<blockquote class="description">
-r/amogus but in lemmy... sus...
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 239  |
-| Comments             | 239  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 01:56:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:01 |

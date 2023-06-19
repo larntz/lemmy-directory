@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/webhosting"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-28 11:11:32"
+published: "2020-06-28 02:57:25"
 subscribers: 68
 posts: 7
 comments: 40
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Come chat with us about modern website hosting technologies on lemmy.ml
-
-[[home](/)]
-[[/c/webhosting 🌎](https://lemmy.ml/c/webhosting)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 7  |
-| Comments             | 40  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 02:57:25 |
-| Updated              | 2020-06-28 11:11:32 |
-| Last Scraped         | 2023-06-16 11:07:37 |

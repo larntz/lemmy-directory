@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/accelerationism"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 20:26:00"
+published: "2020-08-11 04:10:50"
 subscribers: 29
 posts: 9
 comments: 38
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Accelerationism on lemmy.ml
-
-[[home](/)]
-[[/c/accelerationism 🌎](https://lemmy.ml/c/accelerationism)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Left wing accelerationism room for theory discussion, right wing accelerationism discussion is alowed but not endorsed. Any type of leftist people are welcome, nazis, neoliberals, neoreactionaries and the like get out.<br><br>We also have a [Matrix](#lacc:matrix.org) and [Telegram](t.me/LeftAcc) groups!<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 9  |
-| Comments             | 38  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-11 04:10:50 |
-| Updated              | 2021-03-24 20:26:00 |
-| Last Scraped         | 2023-06-19 11:36:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/darkjazz"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 01:47:50"
+published: "2023-06-14 01:25:32"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/dark jazz on lemmy.ml
-
-[[home](/)]
-[[/c/darkjazz 🌎](https://lemmy.ml/c/darkjazz)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-also known as doom jazz/funeral jazz<br><br>adjacent stuff is welcome too
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:25:32 |
-| Updated              | 2023-06-14 01:47:50 |
-| Last Scraped         | 2023-06-19 11:36:42 |

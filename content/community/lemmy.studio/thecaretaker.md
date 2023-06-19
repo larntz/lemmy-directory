@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/thecaretaker"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:33:18"
+published: "2023-06-10 01:29:41"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/The Caretaker on lemmy.studio
-
-[[home](/)]
-[[/c/thecaretaker 🌎](https://lemmy.studio/c/thecaretaker)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion of The Caretaker (AKA Leyland Kirby, The Stranger, and V/Vm) and other similar artists.<br><br>**Rules**<br>1. Be respectful to everyone here.<br>Obviously this includes basic criteria. Racism/homophobia/tranphobia/other types of bigotry will not be tolerated here, and will be met with an instant ban. In addition to that, we ask you to be respectful to those who are suffering with dementia or those who know someone going through something similar. We understand joking can be a coping mechanism for some, but it's not for everyone.<br><br>2. No NSFW<br><br>3. Please keep posts on-topic<br>On-topic does not have to mean The Caretaker only, it can be anything involving related artists(including Ivan Seal) or related genres. Discussing drama withing the fan projects community is considered off topic, and will be treated as such.<br><br>4. Please message a moderator about any questions or complaints.<br>On-topic does not have to mean The Caretaker only, it can be anything involving related artists(including Ivan Seal) or related genres. Discussing drama withing the fan projects community is considered off topic, and will be treated as such.<br><br>5. No reposts<br>Pretty self explanatory, we'd like to keep the stream of content fresh. Reposts will be removed on sight.<br><br>6. Fan project limitations.<br>The limit goes as follows: If your project is a stage based project, then you must upload all stages in 1 singular post. NO INDIVIDUAL STAGE UPLOADS. This is the same case with tracks or other albums if they're part of an album or other larger scale project. If you need to post tracks or albums more frequently, you may post them to c/caretakerfanprojects.<br><br>7. AI generated posts are not allowed here.<br>(i.e. AI generated Ivan seal paintings, AI generated caretaker tracks, etc..) These types of posts are very low effort, unoriginal, and don't have anything to do with the caretaker. Any AI generated post will be removed, no exceptions.<br><br><br>**Resources**<br><br>[Caretaker Discord](https://discord.gg/ejN2Qmunay)<br><br>[James Kirby Bandcamp](https://haftw.bandcamp.com/)<br><br>[Physical Releases](https://boomkat.com/labels/history-always-favours-the-winners)<br><br>[FAQ](https://lemmy.studio/post/2559)<br><br>[Help Fight Alzheimer's](https://act.alz.org/site/Donation2?df_id=32112&32112.donation=form1&utm_source=google&utm_medium=paidsearch&utm_campaign=google_giving&set.custom.wt=giving&gclid=Cj0KCQiA6NOPBhCPARIsAHAy2zBlQqOm_A2_iGaK6-ITwm25SjwofLYCbX9PHk1ZAAsvVej0z1H3QYwaAl4wEALw_wcB)<br><br>Formerly  [/r/TheCaretaker](https://www.reddit.com/r/TheCaretaker/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:29:41 |
-| Updated              | 2023-06-11 15:33:18 |
-| Last Scraped         | 2023-06-19 11:34:58 |

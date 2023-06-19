@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amouranth"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-17 22:06:30"
+published: "2021-12-15 07:43:33"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Amouranth on lemmy.ml
-
-[[home](/)]
-[[/c/amouranth 🌎](https://lemmy.ml/c/amouranth)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial sublemmy for Amouranth, the Twitch steamer and YouTuber. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-15 07:43:33 |
-| Updated              | 2021-12-17 22:06:30 |
-| Last Scraped         | 2023-06-19 11:36:46 |

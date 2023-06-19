@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netbsd"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-08 13:45:59"
+published: "2020-07-09 01:54:13"
 subscribers: 41
 posts: 65
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/of course it runs NetBSD on lemmy.ml
-
-[[home](/)]
-[[/c/netbsd 🌎](https://lemmy.ml/c/netbsd)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 65  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-09 01:54:13 |
-| Updated              | 2020-08-08 13:45:59 |
-| Last Scraped         | 2023-06-19 11:36:47 |

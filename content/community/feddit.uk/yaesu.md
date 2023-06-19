@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/yaesu"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 12:39:46"
+published: "2023-06-10 11:17:38"
 subscribers: 11
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Yaesu Amateur Radio on feddit.uk
-
-[[home](/)]
-[[/c/yaesu 🌎](https://feddit.uk/c/yaesu)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-**A home for Yaesu radio fans and friends.**<br><br>Come chat about anything yaesu related. <br><br>Other ham related communities include. <br><br>* [!icom@feddit.uk](https://feddit.uk/c/icom) <br>* [!hamradio@lemmy.ml](https://lemmy.ml/c/hamradio) <br>* [!amateur_radio@sh.itjust.works](https://sh.itjust.works/c/amateur_radio) <br><br>We also have<br><br>* [!cbradio@feddit.uk](https://feddit.uk/c/cbradio) <br><br>Please let me know if you find anymore.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 11:17:38 |
-| Updated              | 2023-06-11 12:39:46 |
-| Last Scraped         | 2023-06-19 11:35:14 |

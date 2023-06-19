@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.gregw.us/c/main"
 host: lemmy.gregw.us
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 19:06:38"
+published: "2023-06-16 01:02:51"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_gregw_us"
 
 ---
-
-# /c/lemmy.gregw.us Main on lemmy.gregw.us
-
-[[home](/)]
-[[/c/main 🌎](https://lemmy.gregw.us/c/main)]
-[[lemmy.gregw.us](/instances/lemmy_gregw_us)]
-
-
-## Description 
-
-<blockquote class="description">
-The Default Community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 01:02:51 |
-| Updated              | 2023-06-16 19:06:38 |
-| Last Scraped         | 2023-06-16 22:56:30 |

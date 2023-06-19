@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cryptocurrency"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-02 10:16:51"
+published: "2022-09-02 10:16:06"
 subscribers: 14
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/cryptocurrency on lemmy.ca
-
-[[home](/)]
-[[/c/cryptocurrency 🌎](https://lemmy.ca/c/cryptocurrency)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-No posts by bots allowed - prove you're not a bot by having a post history
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-02 10:16:06 |
-| Updated              | 2022-09-02 10:16:51 |
-| Last Scraped         | 2023-06-19 11:35:36 |

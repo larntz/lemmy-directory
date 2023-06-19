@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/kwin68plus"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-04-04 07:43:06"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Kwin – Game Đổi Thưởng KWIN68 on exploding-heads.com
-
-[[home](/)]
-[[/c/kwin68plus 🌎](https://exploding-heads.com/c/kwin68plus)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Địa chỉ: 126 Đ. Hồng Bàng, Phường 12, Quận 5, Thành phố Hồ Chí Minh<br>Phone: 0879078694<br>Email: kkwin68plus@gmail.com<br>Tags: #Kwin, #kwin68, #Game_đổi_thưởng_kwin, #kwincasino, #kwin68dotplus<br>Website: https://kwin68.plus<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-04 07:43:06 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

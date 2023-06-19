@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/antifa"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-21 15:11:02"
+published: "2020-07-28 14:26:34"
 subscribers: 389
 posts: 1613
 comments: 1396
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/ANTIFA! on szmer.info
-
-[[home](/)]
-[[/c/antifa 🌎](https://szmer.info/c/antifa)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-161 razy było mówione!<br><br>Społeczność dotycząca wszystkiego co wiąże się z antyfaszyzmem oraz monitorowaniem organizacji faszystowskich i nacjonalistycznych.  <br>  <br>Przy tematach związanych z antyfaszyzmem w nieoczywisty sposób warto dodać wytłumaczenie, jak łączy się to ze sprawą. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 389 |
-| Posts                | 1613  |
-| Comments             | 1396  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 16  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-28 14:26:34 |
-| Updated              | 2021-12-21 15:11:02 |
-| Last Scraped         | 2023-06-19 11:35:33 |

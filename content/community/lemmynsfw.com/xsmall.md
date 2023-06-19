@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/xsmall"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:39:57"
+published: "2023-06-14 02:12:40"
 subscribers: 403
 posts: 9
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/xsmall women on lemmynsfw.com
-
-[[home](/)]
-[[/c/xsmall 🌎](https://lemmynsfw.com/c/xsmall)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-For those who love petite women with small breasts.<br><br>All pics should be of real women (no cartoons, art, etc).<br><br>No self-promotions or sellers.<br><br>Pictures should be nude or at least topless.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 403 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:12:40 |
-| Updated              | 2023-06-14 16:39:57 |
-| Last Scraped         | 2023-06-19 11:35:46 |

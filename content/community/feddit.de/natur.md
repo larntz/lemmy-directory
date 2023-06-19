@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/natur"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 18:17:18"
+published: "2022-08-19 17:08:21"
 subscribers: 132
 posts: 23
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/In der Natur on feddit.de
-
-[[home](/)]
-[[/c/natur 🌎](https://feddit.de/c/natur)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Eine Community über die Natur/Wildnis. Hier können eigene Naturbilder geteilt und Diskussionen dazu und über Outdoor-Hobbys geführt werden.<br><br>### Regeln<br>- Beiträge müssen Natur und zum Naturerlebnis (z.B. Hobbys) bezogen sein<br>- Nur originale Werke (OC) sollen geteilt werden<br>- Keine NSFW-Inhalte<br><br>### Verwandte Communities<br>- [!pflanzen@feddit.de](https://feddit.de/c/pflanzen)<br>- [!greenspace@beehaw.org](https://beehaw.org/c/greenspace)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 132 |
-| Posts                | 23  |
-| Comments             | 27  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-08-19 17:08:21 |
-| Updated              | 2023-06-10 18:17:18 |
-| Last Scraped         | 2023-06-19 11:35:39 |

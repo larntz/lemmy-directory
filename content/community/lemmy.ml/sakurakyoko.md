@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sakurakyoko"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2021-07-30 10:00:20"
 subscribers: 9
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Sakura Kyoko on lemmy.ml
-
-[[home](/)]
-[[/c/sakurakyoko 🌎](https://lemmy.ml/c/sakurakyoko)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for everything Kyoko. She is the best girl and my Waifu. Love her the most. *Love you Kyoko.*<br><br>**Rules :**<br>1. Don't post anything illegal.<br>2. Don't be immoral and try not to cause anyone any serious trouble.<br>3. Spam, harassment, brigading, doxxing and similar misconducts bother the users, mods and everyone else. Don't be a dick.<br>4. Let this community be a healthy and safe one.<br>5. NSFW is allowed.<br>6. Have fun.<br><br>Break rules and get ban.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-07-30 10:00:20 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:44 |

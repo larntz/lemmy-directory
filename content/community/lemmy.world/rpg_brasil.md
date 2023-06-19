@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rpg_brasil"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 04:11:08"
+published: "2023-06-10 00:32:21"
 subscribers: 18
 posts: 7
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/RPG Brasil on lemmy.world
-
-[[home](/)]
-[[/c/rpg_brasil 🌎](https://lemmy.world/c/rpg_brasil)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Espaço brasileiro dedicado à discussão de Role-Playing Games (RPGs) nacionais e internacionais e assuntos pertinentes.<br><br>**Traga sua espada, prepare seu grimório e junte-se à discussão!**<br><br>---<br>## **Regras**<br><br>1. Sem intolerância - incluindo racismo, sexismo, capacitismo, homofobia, transfobia ou xenofobia.  <br>2. Seja respeitoso, especialmente quando discordar. Todos devem se sentir bem-vindos aqui.  <br>3. Sem pornografia.  <br>4. Sem anúncios / spam.<br><br>---<br>#### **Comunidades Relacionadas**<br><br>* Roleplayers de Portugal  <br>[!portugalrpg@lemmy.pt](/c/portugalrpg@lemmy.pt)<br>* RPG  <br>[!rpg@lemmy.ml](/c/rpg@lemmy.ml)<br>* TTRPGs  <br>[!ttrpgs@lemmy.blahaj.zone](/c/ttrpgs@lemmy.blahaj.zone)<br>* Tabletop RPGs  <br>[!tablerpgs@lemmygrad.ml](/c/tablerpgs@lemmygrad.ml)<br><br>---<br>#### **Mastodon**<br>[@rpg_brasil@dice.camp](https://dice.camp/users/rpg_brasil) <br><br>---
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 7  |
-| Comments             | 18  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:32:21 |
-| Updated              | 2023-06-14 04:11:08 |
-| Last Scraped         | 2023-06-16 22:57:17 |

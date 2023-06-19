@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/finalfantasyxiv"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-15 02:33:20"
+published: "2021-02-15 00:21:37"
 subscribers: 68
 posts: 5
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Final Fantasy XIV on lemmy.ml
-
-[[home](/)]
-[[/c/finalfantasyxiv 🌎](https://lemmy.ml/c/finalfantasyxiv)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Please no spoilers. This exists is not a spoiler, but giving enough context that people can guess a twist is.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 68 |
-| Posts                | 5  |
-| Comments             | 4  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-15 00:21:37 |
-| Updated              | 2021-02-15 02:33:20 |
-| Last Scraped         | 2023-06-19 11:36:43 |

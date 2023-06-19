@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coffee"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 14:21:56"
 subscribers: 497
 posts: 9
 comments: 43
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Coffee on lemmy.world
-
-[[home](/)]
-[[/c/coffee 🌎](https://lemmy.world/c/coffee)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The hot beverage that powers the world!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 497 |
-| Posts                | 9  |
-| Comments             | 43  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 27  |
-| Monthly Active Users | 27  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 14:21:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:15 |

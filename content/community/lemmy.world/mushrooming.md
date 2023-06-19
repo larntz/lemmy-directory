@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mushrooming"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 06:54:03"
+published: "2023-06-18 21:09:32"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Mushrooming on lemmy.world
-
-[[home](/)]
-[[/c/mushrooming 🌎](https://lemmy.world/c/mushrooming)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 21:09:32 |
-| Updated              | 2023-06-19 06:54:03 |
-| Last Scraped         | 2023-06-19 11:36:35 |

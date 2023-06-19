@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/belgium"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 09:58:07"
+published: "2023-06-10 21:24:46"
 subscribers: 82
 posts: 3
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Belgium on lemmy.world
-
-[[home](/)]
-[[/c/belgium 🌎](https://lemmy.world/c/belgium)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome!<br><br>This is a community about Belgium. Feel free to post news, memes or anything related to Belgium.<br><br>- Dutch, French, German and English posts are allowed. But define the correct language when you post.<br>- No racism or bigotry.<br>- Be civil: disagreements happen, but that doesn’t provide the right to personally insult others.<br>- No spam posting.<br>- Submission headline should match the article title (don’t cherry-pick information from the title to fit your agenda).<br>- Shitposts and memes are allowed until they prove to be a problem. They can and will be removed at moderator discretion.<br>- No trolling<br><br>I'm looking for moderators for this community. Preferably at least one for each of our country's languages.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 82 |
-| Posts                | 3  |
-| Comments             | 15  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:24:46 |
-| Updated              | 2023-06-16 09:58:07 |
-| Last Scraped         | 2023-06-16 22:57:16 |

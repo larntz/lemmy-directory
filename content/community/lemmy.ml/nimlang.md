@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nimlang"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-01-22 05:36:13"
+published: "2020-01-22 05:24:59"
 subscribers: 28
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The Nim Programming Language on lemmy.ml
-
-[[home](/)]
-[[/c/nimlang 🌎](https://lemmy.ml/c/nimlang)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The Nim Programming Language
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-22 05:24:59 |
-| Updated              | 2020-01-22 05:36:13 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/bottest"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-08 14:00:17"
+published: "2022-12-06 22:07:35"
 subscribers: 8
 posts: 16
 comments: 289
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Bot Test on lemmygrad.ml
-
-[[home](/)]
-[[/c/bottest 🌎](https://lemmygrad.ml/c/bottest)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Use this community to test bots. You may want to block this community unless you enjoy bot spam.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 16  |
-| Comments             | 289  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-06 22:07:35 |
-| Updated              | 2022-12-08 14:00:17 |
-| Last Scraped         | 2023-06-19 11:35:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fedi_ds"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-23 22:10:35"
+published: "2022-11-08 19:46:25"
 subscribers: 102
 posts: 11
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Datenschutz im Fediverse on feddit.de
-
-[[home](/)]
-[[/c/fedi_ds 🌎](https://feddit.de/c/fedi_ds)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Materialsammlung und Diskussion zur Umsetzung von Datenschutzvorgaben beim Entwickeln und Betreiben [föderierter Dienste](https://de.wikipedia.org/wiki/Fediverse).<br><br>Aufgrund der Verbreitung, Fokus auf [Mastodon](https://joinmastodon.org/de), aber Beiträge zu anderen Diensten sind ebenso willkommen.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 102 |
-| Posts                | 11  |
-| Comments             | 22  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-11-08 19:46:25 |
-| Updated              | 2022-11-23 22:10:35 |
-| Last Scraped         | 2023-06-19 11:35:39 |

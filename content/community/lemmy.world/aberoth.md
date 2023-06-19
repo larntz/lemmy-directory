@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aberoth"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 06:38:19"
+published: "2023-06-14 01:35:28"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Aberoth on lemmy.world
-
-[[home](/)]
-[[/c/aberoth 🌎](https://lemmy.world/c/aberoth)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Lemmy community for the 8-bit browser MMORPG Aberoth!<br><br>[Web](https://aberoth.com) | [Steam](https://store.steampowered.com/app/354200/Aberoth/) | [Java](https://aberoth.com/download.html)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 01:35:28 |
-| Updated              | 2023-06-14 06:38:19 |
-| Last Scraped         | 2023-06-19 11:36:41 |

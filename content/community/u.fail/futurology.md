@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/futurology"
 host: u.fail
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 02:02:48"
+published: "2023-06-19 01:53:49"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "u_fail"
 
 ---
-
-# /c/Futurology on u.fail
-
-[[home](/)]
-[[/c/futurology 🌎](https://geddit.social/c/futurology)]
-[[u.fail](/instances/u_fail)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to dream, a place to imagine the future, to find community, to craft a better tomorrow
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 01:53:49 |
-| Updated              | 2023-06-19 02:02:48 |
-| Last Scraped         | 2023-06-19 11:35:26 |

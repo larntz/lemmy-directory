@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/scienza"
 host: feddit.it
-lastmod: "{[ .Updated }}"
+lastmod: "2022-11-16 17:12:29"
+published: "2022-05-24 20:12:11"
 subscribers: 249
 posts: 216
 comments: 147
@@ -22,36 +23,3 @@ tags:
 - "feddit_it"
 
 ---
-
-# /c/Scienza e innovazione  on feddit.it
-
-[[home](/)]
-[[/c/scienza 🌎](https://feddit.it/c/scienza)]
-[[feddit.it](/instances/feddit_it)]
-
-
-## Description 
-
-<blockquote class="description">
-# Notizie su scienza e innovazione<br><br>Comunità dedicata alle notizie su **~~astronomia~~,  fisica, biologia, zoologia, geologia e scoperte scientifiche**.<br><br>**Ricordiamo agli appassionati di astronomia che è stata attivata una comunità dedicata: [https://feddit.it/c/astronomia](https://feddit.it/c/astronomia)**<br><br>> Tutti gli articoli sono graditi, tranne le notizie provenienti da siti sensazionalistici e blog di pseudoscienza!!!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 249 |
-| Posts                | 216  |
-| Comments             | 147  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 19  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-24 20:12:11 |
-| Updated              | 2022-11-16 17:12:29 |
-| Last Scraped         | 2023-06-19 11:34:54 |

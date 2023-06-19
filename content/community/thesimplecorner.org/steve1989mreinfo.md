@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/steve1989mreinfo"
 host: thesimplecorner.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:45:01"
+published: "2023-06-13 01:00:35"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "thesimplecorner_org"
 
 ---
-
-# /c/steve1989mreinfo on thesimplecorner.org
-
-[[home](/)]
-[[/c/steve1989mreinfo 🌎](https://thesimplecorner.org/c/steve1989mreinfo)]
-[[thesimplecorner.org](/instances/thesimplecorner_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Let's get this out onto a tray... NICE!<br><br>You're home to talk about the youtube personality, ration historian Steve1989! <br><br>- [Youtube Link](https://www.youtube.com/@LetsGetThisOutOntoATrayNice)<br>- [Steve Merch](https://steve1989.creator-spring.com/)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:00:35 |
-| Updated              | 2023-06-15 18:45:01 |
-| Last Scraped         | 2023-06-19 11:35:13 |

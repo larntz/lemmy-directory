@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/povertymeals"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2019-09-01 20:56:39"
 subscribers: 156
 posts: 12
 comments: 50
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Poverty Meals on lemmygrad.ml
-
-[[home](/)]
-[[/c/povertymeals 🌎](https://lemmygrad.ml/c/povertymeals)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Food should be a right, but seeing that is isn't, this is a community for sharing cheap recipes and suggested options for people in need. <br><br>Rice, Beans, Canned Soup. These three things kept myself, my sister, and my mother fed in my childhood, being poor taught me how to cook. But, some people aren't so fortunate to learn culinary skills. Some people grew up around fast food culture, some only just came into poverty, I would like this community to serve as a free cooking class, a free meal planner, and a free kitchen to inspire you to make delicious poverty meals. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 156 |
-| Posts                | 12  |
-| Comments             | 50  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-09-01 20:56:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:08 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/poor"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-01-27 13:40:18"
+published: "2022-05-29 07:01:42"
 subscribers: 61
 posts: 40
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/poor on lemmy.ca
-
-[[home](/)]
-[[/c/poor 🌎](https://lemmy.ca/c/poor)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Anything about being poor, poverty or otherwise.<br><br>Also check out:<br><br>- lemmy.ml/c/finance<br>- [Share referral codes](https://lemmy.ca/c/referrals)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 40  |
-| Comments             | 30  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-29 07:01:42 |
-| Updated              | 2023-01-27 13:40:18 |
-| Last Scraped         | 2023-06-19 11:35:36 |

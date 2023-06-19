@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fez"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 08:28:36"
+published: "2023-06-06 08:28:21"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/FEZ on lemmy.ml
-
-[[home](/)]
-[[/c/fez 🌎](https://lemmy.ml/c/fez)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Polytron's FEZ, the dimension-bending puzzle-platformer adventure
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 08:28:21 |
-| Updated              | 2023-06-06 08:28:36 |
-| Last Scraped         | 2023-06-19 11:37:01 |

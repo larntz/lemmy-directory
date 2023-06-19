@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.click/c/localtesting"
 host: lemmy.click
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 17:42:24"
+published: "2023-06-05 03:03:36"
 subscribers: 7
 posts: 2
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_click"
 
 ---
-
-# /c/Local testing on lemmy.click on lemmy.click
-
-[[home](/)]
-[[/c/localtesting 🌎](https://lemmy.click/c/localtesting)]
-[[lemmy.click](/instances/lemmy_click)]
-
-
-## Description 
-
-<blockquote class="description">
-For testing on lemmy.click only. No actual content.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 2  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 03:03:36 |
-| Updated              | 2023-06-05 17:42:24 |
-| Last Scraped         | 2023-06-19 11:34:56 |

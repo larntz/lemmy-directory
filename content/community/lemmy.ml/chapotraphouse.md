@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chapotraphouse"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-30 16:43:40"
+published: "2020-02-28 00:32:23"
 subscribers: 318
 posts: 59
 comments: 243
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/a community for the podcast chapo trap house on lemmy.ml
-
-[[home](/)]
-[[/c/chapotraphouse 🌎](https://lemmy.ml/c/chapotraphouse)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Link to the Chapo Trap House Discord server.](https://discord.gg/chapotraphouse)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 318 |
-| Posts                | 59  |
-| Comments             | 243  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-02-28 00:32:23 |
-| Updated              | 2020-06-30 16:43:40 |
-| Last Scraped         | 2023-06-19 11:36:51 |

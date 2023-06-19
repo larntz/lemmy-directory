@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adhdmemes"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 22:22:11"
+published: "2023-06-09 22:57:30"
 subscribers: 59
 posts: 6
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/ADHD Memes on lemmy.ml
-
-[[home](/)]
-[[/c/adhdmemes 🌎](https://lemmy.ml/c/adhdmemes)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Sharing hilarious memes about the joys and struggles of ADHD.<br>___<br>**Rules**<br>- be nice and respectful to your fellow users<br>- no trolling or harassment<br>- avoid reposting memes<br>- no political content
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 6  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 22:57:30 |
-| Updated              | 2023-06-14 22:22:11 |
-| Last Scraped         | 2023-06-19 11:36:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alternativefrontends"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 17:10:51"
+published: "2023-06-16 17:05:56"
 subscribers: 16
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Alternative Frontends on lemmy.ml
-
-[[home](/)]
-[[/c/alternativefrontends 🌎](https://lemmy.ml/c/alternativefrontends)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Farside](farside.link/)  is a smart redirecting gateway for various frontend services<br><br>[LibRedirect](https://libredirect.github.io/) is an auto-redirect plugin for browsers<br><br>[Matrix space](https://matrix.to/#/#alternative-frontends:tchncs.de)<br><br>Related communities:<br>* [!nitter](/c/nitter@lemmy.ml)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 17:05:56 |
-| Updated              | 2023-06-16 17:10:51 |
-| Last Scraped         | 2023-06-19 11:36:42 |

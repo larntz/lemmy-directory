@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bladerunner"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 18:45:56"
+published: "2023-06-03 18:04:02"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Blade Runner on lemmy.ml
-
-[[home](/)]
-[[/c/bladerunner 🌎](https://lemmy.ml/c/bladerunner)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A sublemmy dedicated to Blade Runner, Blade Runner 2049, the upcoming Amazon show, and any comics.<br><br>**Rules:**<br>- Respect your fellow humans and please keep posts relevant to the Blade Runner universe<br>- If you found the image on the web, it is encouraged to put the direct link to the image in the ‘Link’ field when creating a post, instead of uploading the image to Lemmy. Direct links usually end in .jpg, .png, etc.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 18:04:02 |
-| Updated              | 2023-06-18 18:45:56 |
-| Last Scraped         | 2023-06-19 11:36:44 |

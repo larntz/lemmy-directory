@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lolicon"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 15:04:37"
+published: "2023-06-15 12:45:11"
 subscribers: 11
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Lolicon on lemmynsfw.com
-
-[[home](/)]
-[[/c/lolicon 🌎](https://lemmynsfw.com/c/lolicon)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A friendly place for cute things. Please respect the instance rules, local laws, and common courtesy.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 12:45:11 |
-| Updated              | 2023-06-16 15:04:37 |
-| Last Scraped         | 2023-06-16 22:56:40 |

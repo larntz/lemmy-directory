@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/yokaiwatch"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:24:02"
+published: "2023-06-14 17:10:29"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Yo-Kai Watch on lemm.ee
-
-[[home](/)]
-[[/c/yokaiwatch 🌎](https://lemm.ee/c/yokaiwatch)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-## **A community for discussing the Yo-kai Watch franchise.**<br>-------------------------<br><br><br>##### Rules:<br><br>1. No cheating, hacking, hacked QR codes, etc…<br>2. No illegal activity.<br>3. Do not excessively self-advertise.<br>4. Do not post fan art without a source.<br>5. Be nice and enjoy!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 17:10:29 |
-| Updated              | 2023-06-15 06:24:02 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/graphql"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-03 07:29:13"
+published: "2023-06-03 05:05:22"
 subscribers: 11
 posts: 1
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GraphQL Programming on lemmy.ml
-
-[[home](/)]
-[[/c/graphql 🌎](https://lemmy.ml/c/graphql)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is the (unofficial!) community for all things GraphQL - discussion, advice, questions and tutorials!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 05:05:22 |
-| Updated              | 2023-06-03 07:29:13 |
-| Last Scraped         | 2023-06-16 11:07:36 |

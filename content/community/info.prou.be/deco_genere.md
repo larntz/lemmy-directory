@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/deco_genere"
 host: info.prou.be
-lastmod: "{[ .Updated }}"
+lastmod: "2022-02-12 14:25:42"
+published: "2022-02-12 13:54:00"
 subscribers: 3
 posts: 25
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "info_prou_be"
 
 ---
-
-# /c/Deconstrucció de gènere on info.prou.be
-
-[[home](/)]
-[[/c/deco_genere 🌎](https://info.prou.be/c/deco_genere)]
-[[info.prou.be](/instances/info_prou_be)]
-
-
-## Description 
-
-<blockquote class="description">
-Recursos feministes per lluitar contra el patriarcat des de tots els costats<br><br>Debat i bilioteca sobre masculinitats, rols i desigualtats de gènere i identitats i expressions de gènere dissidents<br><br>-----<br><br>Imatge de [Coding Rights](https://chupadados.codingrights.org/gendered-targeted-ads/)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 25  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-12 13:54:00 |
-| Updated              | 2022-02-12 14:25:42 |
-| Last Scraped         | 2023-06-19 11:34:42 |

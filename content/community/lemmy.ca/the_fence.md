@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/the_fence"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 22:34:17"
+published: "2023-06-11 22:31:15"
 subscribers: 8
 posts: 7
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Children of the Fence on lemmy.ca
-
-[[home](/)]
-[[/c/the_fence 🌎](https://lemmy.ca/c/the_fence)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for fans of the rock band Coheed and Cambria
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 7  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:31:15 |
-| Updated              | 2023-06-11 22:34:17 |
-| Last Scraped         | 2023-06-19 11:35:36 |

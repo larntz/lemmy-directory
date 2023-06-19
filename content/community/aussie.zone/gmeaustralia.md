@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gmeaustralia"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 15:29:48"
+published: "2023-06-14 07:19:31"
 subscribers: 13
 posts: 10
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/GME Australia on aussie.zone
-
-[[home](/)]
-[[/c/gmeaustralia 🌎](https://aussie.zone/c/gmeaustralia)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-backup zoo
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 10  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:19:31 |
-| Updated              | 2023-06-18 15:29:48 |
-| Last Scraped         | 2023-06-19 11:35:06 |

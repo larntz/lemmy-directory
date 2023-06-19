@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deeplearning"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-28 11:49:53"
+published: "2020-06-28 11:46:57"
 subscribers: 50
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Deep Learning on lemmy.ml
-
-[[home](/)]
-[[/c/deeplearning 🌎](https://lemmy.ml/c/deeplearning)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 11:46:57 |
-| Updated              | 2020-06-28 11:49:53 |
-| Last Scraped         | 2023-06-19 11:36:45 |

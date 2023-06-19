@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokeinvesting"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:37:20"
+published: "2023-06-12 08:23:05"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/PokeInvesting on lemmy.world
-
-[[home](/)]
-[[/c/pokeinvesting 🌎](https://lemmy.world/c/pokeinvesting)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Reddit’s PokeInvesting home on the Fediverse! <br><br>1. Be respectful (no hate, racism, anti LGBTIQIA)<br><br>2. No NSFW<br><br>3. No trading/Selling<br><br>4. No chat spamming/intentional reposts<br><br>5. Have fun!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 08:23:05 |
-| Updated              | 2023-06-13 18:37:20 |
-| Last Scraped         | 2023-06-19 11:36:41 |

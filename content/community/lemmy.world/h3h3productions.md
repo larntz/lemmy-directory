@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/h3h3productions"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 20:19:56"
+published: "2023-06-14 20:08:33"
 subscribers: 25
 posts: 5
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/h3h3 Productions on lemmy.world
-
-[[home](/)]
-[[/c/h3h3productions 🌎](https://lemmy.world/c/h3h3productions)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-__A place for all things h3 related.__ <br>---------<br><br>Goofs and gaffs, podcast discussions, and other h3 related stuff. <br><br><br>^Rules^<br>=========<br><br>1: Be respectful<br><br>2: No spam or self-promotion<br><br>3: Stay on topic<br><br>4: No doxxing or personal information<br><br>5: No illegal content or discussions<br><br>6: No trolling or disruptive behavior<br><br>7: No NSFW content
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 5  |
-| Comments             | 9  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 9  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 20:08:33 |
-| Updated              | 2023-06-14 20:19:56 |
-| Last Scraped         | 2023-06-19 11:36:37 |

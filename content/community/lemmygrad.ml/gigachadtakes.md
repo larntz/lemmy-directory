@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gigachadtakes"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-13 09:48:37"
+published: "2023-03-13 09:47:48"
 subscribers: 33
 posts: 8
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Gigachad Takes on lemmygrad.ml
-
-[[home](/)]
-[[/c/gigachadtakes 🌎](https://lemmygrad.ml/c/gigachadtakes)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Ultra-based takes you found
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 8  |
-| Comments             | 26  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-13 09:47:48 |
-| Updated              | 2023-03-13 09:48:37 |
-| Last Scraped         | 2023-06-16 22:56:08 |

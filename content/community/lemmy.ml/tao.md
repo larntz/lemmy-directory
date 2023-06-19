@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tao"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 03:42:38"
+published: "2023-06-09 18:42:53"
 subscribers: 28
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Taoism on lemmy.ml
-
-[[home](/)]
-[[/c/tao 🌎](https://lemmy.ml/c/tao)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Dedicated to insightful discussion about Taoism/Daoism, and the way to come to realization about oneself,  the world, and the universe.<br><br>**Rules:**<br><br>-Practice kindness and mindfulness<br>- Unkind words will get you banned<br>- Please include sources for quotes, text, and images<br>- Please keep posts on topic
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 18:42:53 |
-| Updated              | 2023-06-11 03:42:38 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/listentothis"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 16:05:01"
+published: "2023-06-14 14:01:16"
 subscribers: 17
 posts: 6
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Listen to this on lemmy.ca
-
-[[home](/)]
-[[/c/listentothis 🌎](https://lemmy.ca/c/listentothis)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to share music recommendations, especially more obscure ones that people are less likely to already know.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 6  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:01:16 |
-| Updated              | 2023-06-15 16:05:01 |
-| Last Scraped         | 2023-06-19 11:35:36 |

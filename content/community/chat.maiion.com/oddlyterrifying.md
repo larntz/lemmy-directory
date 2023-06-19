@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/oddlyterrifying"
 host: chat.maiion.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 04:32:54"
+published: "2023-06-15 04:42:02"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "chat_maiion_com"
 
 ---
-
-# /c/c/OddlyTerrifying on chat.maiion.com
-
-[[home](/)]
-[[/c/oddlyterrifying 🌎](https://chat.maiion.com/c/oddlyterrifying)]
-[[chat.maiion.com](/instances/chat_maiion_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Have you seen or experienced something strange or out of the ordinary? Share those oddly terrifying events over here!<br>******************************************<br>**Please Observe Instance Rules:**<br>1. Do not violate any laws, third-party rights, and/or proprietary rights.<br>2. Do not harass others, be abusive, threatening, and/or harmful.<br>3. Do not be needlessly defamatory and/or intentionally misleading.<br>4. Do not upload without marking obscene and/or sensitive content as such.<br>5. Do not promote racism, bigotry, hatred, harm, and violence of any kind.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:42:02 |
-| Updated              | 2023-06-17 04:32:54 |
-| Last Scraped         | 2023-06-19 11:35:26 |

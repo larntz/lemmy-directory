@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applewatch"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 02:02:19"
+published: "2023-06-16 02:01:24"
 subscribers: 29
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Apple Watch on lemmy.world
-
-[[home](/)]
-[[/c/applewatch 🌎](https://lemmy.world/c/applewatch)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The home for all things Apple Watch on LW.<br><br>**Rules:**<br><br>- No NSFW Content.<br>- No hate speech or personal attacks.<br>- No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 02:01:24 |
-| Updated              | 2023-06-16 02:02:19 |
-| Last Scraped         | 2023-06-19 11:36:36 |

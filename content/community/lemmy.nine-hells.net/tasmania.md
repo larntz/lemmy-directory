@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/tasmania"
 host: lemmy.nine-hells.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 11:16:34"
 subscribers: 6
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nine-hells_net"
 
 ---
-
-# /c/Tasmania on lemmy.nine-hells.net
-
-[[home](/)]
-[[/c/tasmania 🌎](https://lemmy.nine-hells.net/c/tasmania)]
-[[lemmy.nine-hells.net](/instances/lemmy_nine-hells_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Tasmania - best place on Earth
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 11:16:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

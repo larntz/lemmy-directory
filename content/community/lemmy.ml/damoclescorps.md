@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/damoclescorps"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 20:04:25"
+published: "2023-06-05 20:03:11"
 subscribers: 2
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/damoclescorps on lemmy.ml
-
-[[home](/)]
-[[/c/damoclescorps 🌎](https://lemmy.ml/c/damoclescorps)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The Damocles Corps maintains peace on Earth through robot dogs and orbital bombardment. It's pretty harsh but it works.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 20:03:11 |
-| Updated              | 2023-06-05 20:04:25 |
-| Last Scraped         | 2023-06-19 11:36:48 |

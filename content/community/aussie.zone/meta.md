@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/meta"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 15:28:33"
+published: "2023-06-08 07:09:26"
 subscribers: 159
 posts: 44
 comments: 277
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Meta on aussie.zone
-
-[[home](/)]
-[[/c/meta 🌎](https://aussie.zone/c/meta)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about the aussie.zone instance itself
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 159 |
-| Posts                | 44  |
-| Comments             | 277  |
-| Daily Active Users   | 9  |
-| Weekly Active Users  | 64  |
-| Monthly Active Users | 76  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 07:09:26 |
-| Updated              | 2023-06-18 15:28:33 |
-| Last Scraped         | 2023-06-19 11:35:06 |

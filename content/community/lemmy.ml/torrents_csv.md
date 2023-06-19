@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/torrents_csv"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-17 20:22:10"
+published: "2023-03-20 23:03:20"
 subscribers: 20
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Torrents-csv on lemmy.ml
-
-[[home](/)]
-[[/c/torrents_csv 🌎](https://lemmy.ml/c/torrents_csv)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-[Torrents.csv](https://git.torrents-csv.ml/heretic/torrents-csv-server) is a _collaborative_ repository of torrents and their files, consisting of a searchable `torrents.csv`, and `torrent_files.csv`. With it you can search for torrents, or files within torrents. It aims to be a universal file system for popular data.<br><br>Its initially populated with a January 2017 backup of the pirate bay, and new torrents are periodically added from various torrents sites. It comes with a self-hostable [Torrents.csv webserver](https://torrents-csv.ml), a command line search, and a folder scanner to add torrents, and their files.<br><br>`Torrents.csv` will only store torrents with at least one seeder to keep the file small, will be periodically purged of non-seeded torrents, and sorted by infohash.<br><br>To request more torrents, or add your own, go [here](https://git.torrents-csv.ml/heretic/torrents-csv-data).<br><br>[Demo server](https://torrents-csv.ml)<br><br>[Android app](https://git.torrents-csv.ml/heretic/torrents-csv-android)<br><br>Made with [Rust](https://www.rust-lang.org), [ripgrep](https://github.com/BurntSushi/ripgrep), [Actix](https://actix.rs/), [Inferno](https://www.infernojs.org), [Typescript](https://www.typescriptlang.org/).<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-20 23:03:20 |
-| Updated              | 2023-05-17 20:22:10 |
-| Last Scraped         | 2023-06-19 11:36:45 |

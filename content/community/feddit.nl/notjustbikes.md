@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/notjustbikes"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:33:47"
+published: "2023-06-12 14:22:13"
 subscribers: 74
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/Not Just Bikes on feddit.nl
-
-[[home](/)]
-[[/c/notjustbikes 🌎](https://feddit.nl/c/notjustbikes)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-An attempt to recreate the /r/NotJustBikes community on Lemmy. I'm just reserving the Community Name, other folks (for instance the /r/NotJustBikes mods?) are welcome to take over.<br><br>**NOTE: This sublemmy (?) is in no way related to or affiliated with NotJustBikes, Jason Slaughter, etc.**<br><br>#RULES<br><br>**1. Be nice. Please.**<br><br>I know it's the internet, but be nice. And report trolls & spammers.<br><br>**2. No memes**<br><br>No memes, image macros, or low-effort posts. These are easily upvoted, but they pollute the subreddit very quickly.<br><br>POSTING MEMES WILL RESULT IN A TEMPORARY BAN.<br><br>**3. Stay on topic**<br><br>Try to stick to posts and comments related to the themes of NJB videos, or content creation. Things like urban planning, mobility & transportation, social equity, Dutch culture, etc..<br><br>**4. No Trolling**<br><br>Go troll somewhere else. We don't need that shit here.<br><br>**5. No comment screenshots**<br><br>Please don't post screenshots of stupid comments as a post. We all know there are ignorant morons online, we don't need to bring even more attention to their stupid comments.<br><br>**6. No vehicular cycling**<br><br>I have no patience for advocates of vehicular cycling. You can talk about vehicular cycling, but if you promote it as an alternative to safe bike infrastructure, I will ban you. You can post that crap somewhere else.<br><br>**7. No people being hit by cars/road violence**<br><br>Do not show videos or pictures of people being hit by cars, or other road violence. We don't need to see that shit. We know cars are dangerous, and many people have bad memories of car crashes. Keep it out of this subreddit.<br><br>**8. No tone policing**<br><br>We don't need any more tone police. If you don't like the tone that Not Just Bike takes in his videos, there's a very easy solution: stop watching them.<br><br>**9. No internet drama**<br><br>Don't spread or promote drama over what has happened on the Internet. You're spending too much time online: go touch grass.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 74 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:22:13 |
-| Updated              | 2023-06-12 14:33:47 |
-| Last Scraped         | 2023-06-19 11:34:55 |

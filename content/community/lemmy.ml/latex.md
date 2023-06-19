@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/latex"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-01 20:35:58"
+published: "2020-08-11 19:28:39"
 subscribers: 76
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/LaTeX on lemmy.ml
-
-[[home](/)]
-[[/c/latex 🌎](https://lemmy.ml/c/latex)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Community dedicated to the [LaTeX](https://www.latex-project.org/) markup language.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 76 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-11 19:28:39 |
-| Updated              | 2021-05-01 20:35:58 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fakemon"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 22:33:55"
+published: "2020-06-06 02:21:48"
 subscribers: 20
 posts: 9
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Fakemon Community on lemmy.ml
-
-[[home](/)]
-[[/c/fakemon 🌎](https://lemmy.ml/c/fakemon)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Fakemon Community - see also [!pokemon@lemmy.ml](https://lemmy.ml/c/pokemon) !
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 9  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-06 02:21:48 |
-| Updated              | 2021-03-24 22:33:55 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mauritius"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 06:11:40"
+published: "2023-06-11 05:48:37"
 subscribers: 1
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Mauritius on lemmy.ml
-
-[[home](/)]
-[[/c/mauritius 🌎](https://lemmy.ml/c/mauritius)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Mauritius**<br><br>[EN] Republic of Mauritius<br>[FR] République de Maurice<br>[MU] Repiblik Moris<br><br>*Stella Clavisque Maris Indici*<br><br>----<br><br>[Chat on [matrix]](https://matrix.to/#/#mur:matrix.org)<br><br>---<br><br>**Rules**  <br>- Be nice<br>- No doxxing<br>- Posts must be relevant to Mauritius<br>- No pornography<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:48:37 |
-| Updated              | 2023-06-11 06:11:40 |
-| Last Scraped         | 2023-06-19 11:36:57 |

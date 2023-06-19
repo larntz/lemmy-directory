@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/catastrophicfailure"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-03 16:21:56"
+published: "2020-07-13 20:32:26"
 subscribers: 25
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Catastrophic Failure on lemmy.ml
-
-[[home](/)]
-[[/c/catastrophicfailure 🌎](https://lemmy.ml/c/catastrophicfailure)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-13 20:32:26 |
-| Updated              | 2021-03-03 16:21:56 |
-| Last Scraped         | 2023-06-19 11:36:47 |

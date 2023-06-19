@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kde"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 13:17:06"
+published: "2023-06-12 13:07:56"
 subscribers: 47
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/KDE on discuss.tchncs.de
-
-[[home](/)]
-[[/c/kde 🌎](https://discuss.tchncs.de/c/kde)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Die KDE Community auf Lemmy (inoffiziell)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 47 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 13:07:56 |
-| Updated              | 2023-06-12 13:17:06 |
-| Last Scraped         | 2023-06-19 11:34:55 |

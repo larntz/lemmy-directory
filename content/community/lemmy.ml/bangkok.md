@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bangkok"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 03:46:08"
+published: "2023-06-03 19:49:40"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bangkok on lemmy.ml
-
-[[home](/)]
-[[/c/bangkok 🌎](https://lemmy.ml/c/bangkok)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Welcome to the Bangkok Community! **<br>🌆🌴 Connect with fellow Bangkok~~ers~~, share tips on attractions and local gems, and immerse yourself in the vibrant culture of this dynamic city. Stay up-to-date with events, festivals, insider recommendations, and all things Bangkok! 🌃🌇
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 19:49:40 |
-| Updated              | 2023-06-04 03:46:08 |
-| Last Scraped         | 2023-06-19 11:36:57 |

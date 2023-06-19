@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/botany"
 host: mander.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-05 10:41:56"
+published: "2022-01-05 10:41:44"
 subscribers: 100
 posts: 7
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "mander_xyz"
 
 ---
-
-# /c/Botany on mander.xyz
-
-[[home](/)]
-[[/c/botany 🌎](https://mander.xyz/c/botany)]
-[[mander.xyz](/instances/mander_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 100 |
-| Posts                | 7  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-05 10:41:44 |
-| Updated              | 2022-01-05 10:41:56 |
-| Last Scraped         | 2023-06-19 11:35:30 |

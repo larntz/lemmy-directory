@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.cloudhub.social/c/homelab"
 host: lemmy.cloudhub.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-05 10:11:45"
 subscribers: 152
 posts: 5
 comments: 45
@@ -22,36 +23,3 @@ tags:
 - "lemmy_cloudhub_social"
 
 ---
-
-# /c/Homelab on lemmy.cloudhub.social
-
-[[home](/)]
-[[/c/homelab 🌎](https://lemmy.cloudhub.social/c/homelab)]
-[[lemmy.cloudhub.social](/instances/lemmy_cloudhub_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 152 |
-| Posts                | 5  |
-| Comments             | 45  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 10:11:45 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:55 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://cigar.cx/c/newworldcigars"
 host: cigar.cx
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 01:07:07"
+published: "2023-06-10 00:13:26"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "cigar_cx"
 
 ---
-
-# /c/New World Cigars on cigar.cx
-
-[[home](/)]
-[[/c/newworldcigars 🌎](https://cigar.cx/c/newworldcigars)]
-[[cigar.cx](/instances/cigar_cx)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 00:13:26 |
-| Updated              | 2023-06-10 01:07:07 |
-| Last Scraped         | 2023-06-19 11:35:13 |

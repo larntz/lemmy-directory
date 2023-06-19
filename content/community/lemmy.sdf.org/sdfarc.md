@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sdfarc"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-06 23:46:07"
+published: "2023-06-06 23:38:35"
 subscribers: 135
 posts: 9
 comments: 28
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/SDF Amateur Radio Club on lemmy.sdf.org
-
-[[home](/)]
-[[/c/sdfarc 🌎](https://lemmy.sdf.org/c/sdfarc)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-SDF's Amateur Radio Club (Ham Radio)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 135 |
-| Posts                | 9  |
-| Comments             | 28  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 18  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 23:38:35 |
-| Updated              | 2023-06-06 23:46:07 |
-| Last Scraped         | 2023-06-19 11:35:02 |

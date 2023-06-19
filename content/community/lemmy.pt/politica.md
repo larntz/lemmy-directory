@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/politica"
 host: lemmy.pt
-lastmod: "{[ .Updated }}"
+lastmod: "2021-09-13 13:03:05"
+published: "2021-09-10 19:52:26"
 subscribers: 52
 posts: 17
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_pt"
 
 ---
-
-# /c/Política on lemmy.pt
-
-[[home](/)]
-[[/c/politica 🌎](https://lemmy.pt/c/politica)]
-[[lemmy.pt](/instances/lemmy_pt)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunidade orientada para a discussão política.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 17  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-10 19:52:26 |
-| Updated              | 2021-09-13 13:03:05 |
-| Last Scraped         | 2023-06-19 11:35:23 |

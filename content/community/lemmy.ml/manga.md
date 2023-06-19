@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/manga"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-20 21:14:13"
+published: "2020-06-03 06:48:09"
 subscribers: 871
 posts: 69
 comments: 156
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Manga on lemmy.ml
-
-[[home](/)]
-[[/c/manga 🌎](https://lemmy.ml/c/manga)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 871 |
-| Posts                | 69  |
-| Comments             | 156  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 68  |
-| Monthly Active Users | 79  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-03 06:48:09 |
-| Updated              | 2022-04-20 21:14:13 |
-| Last Scraped         | 2023-06-19 11:36:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/rm_support"
 host: lemmy.rollenspiel.monster
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-18 16:35:46"
+published: "2022-04-14 20:22:24"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_rollenspiel_monster"
 
 ---
-
-# /c/RollenspielMonster Support on lemmy.rollenspiel.monster
-
-[[home](/)]
-[[/c/rm_support 🌎](https://lemmy.rollenspiel.monster/c/rm_support)]
-[[lemmy.rollenspiel.monster](/instances/lemmy_rollenspiel_monster)]
-
-
-## Description 
-
-<blockquote class="description">
-# Vorlage<br><br>Siehe dazu [Wie benutzt man Lrmmy](https://lemmy.rollenspiel.monster/post/3)<br><br>## Titel<br>Bitte gebt im Titel zusätzlich an um welche Software es sich handelt z.B. `[Hilfe][Nextcloud] Registrierung nicht möglich`<br><br>## Inhalt<br>Hier eine kleine Vorlage für den Inhalt:<br>```<br>## Erwartetes Verhalten<br><br><br>## Tatsächliches Verhalten<br><br><br>## Schritte zur Reproduktion des Problems<br><br>  1.<br>  2.<br>  3.<br><br>## Spezifikationen<br><br>  - Browser/App:<br>  - Plattform/OS:<br>```
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-14 20:22:24 |
-| Updated              | 2022-04-18 16:35:46 |
-| Last Scraped         | 2023-06-19 11:35:28 |

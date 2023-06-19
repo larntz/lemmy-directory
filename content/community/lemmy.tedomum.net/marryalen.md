@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/marryalen"
 host: lemmy.tedomum.net
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 08:57:28"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_tedomum_net"
 
 ---
-
-# /c/marryalen on lemmy.tedomum.net
-
-[[home](/)]
-[[/c/marryalen 🌎](https://lemmy.tedomum.net/c/marryalen)]
-[[lemmy.tedomum.net](/instances/lemmy_tedomum_net)]
-
-
-## Description 
-
-<blockquote class="description">
-https://www.hpprintersupportpro.us/blog/hp-print-and-scan-doctor-to-fix-printer-problems/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 08:57:28 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:47 |

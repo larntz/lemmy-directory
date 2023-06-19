@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/stories_gonewild"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 12:01:00"
 subscribers: 317
 posts: 2
 comments: 8
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/stories_gonewild on lemmynsfw.com
-
-[[home](/)]
-[[/c/stories_gonewild 🌎](https://lemmynsfw.com/c/stories_gonewild)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-A place to share your erotic real-life stories, the moments that you want to remember for ever, your kinky experiences, and much more
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 317 |
-| Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 12:01:00 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

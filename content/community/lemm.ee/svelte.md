@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/svelte"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 07:10:22"
+published: "2023-06-15 00:39:38"
 subscribers: 9
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Svelte & SvelteKit on lemm.ee
-
-[[home](/)]
-[[/c/svelte 🌎](https://lemm.ee/c/svelte)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Svelte and SvelteKit
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:39:38 |
-| Updated              | 2023-06-16 07:10:22 |
-| Last Scraped         | 2023-06-19 11:35:16 |

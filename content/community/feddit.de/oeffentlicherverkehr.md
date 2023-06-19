@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oeffentlicherverkehr"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 09:01:37"
+published: "2023-06-12 16:17:21"
 subscribers: 50
 posts: 2
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/öffentlicher Verkehr on feddit.de
-
-[[home](/)]
-[[/c/oeffentlicherverkehr 🌎](https://feddit.de/c/oeffentlicherverkehr)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Community für alle Dinge des öffentlichen Verkehrs. Bus, Bahn und sonstige zukünftige Technologien<br><br>Diskussionen, News, Anekdoten
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 2  |
-| Comments             | 2  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:17:21 |
-| Updated              | 2023-06-13 09:01:37 |
-| Last Scraped         | 2023-06-19 11:35:39 |

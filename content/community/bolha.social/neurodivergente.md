@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/neurodivergente"
 host: bolha.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 13:07:25"
+published: "2023-06-15 13:05:34"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "bolha_social"
 
 ---
-
-# /c/Neurodivergência on bolha.social
-
-[[home](/)]
-[[/c/neurodivergente 🌎](https://bolha.social/c/neurodivergente)]
-[[bolha.social](/instances/bolha_social)]
-
-
-## Description 
-
-<blockquote class="description">
-#### Fontes (*sources*)<br>- [ícone](https://revistatrip.uol.com.br/tpm/webstories/10-livros-para-pensar-a-neurodiversidade)<br>- [capa](https://genialcare.com.br/blog/simbolos-do-autismo/) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 13:05:34 |
-| Updated              | 2023-06-15 13:07:25 |
-| Last Scraped         | 2023-06-19 11:34:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/dataisbeautiful"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-29 19:06:23"
+published: "2022-04-29 19:06:10"
 subscribers: 35
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Data Is Beautiful on lemmygrad.ml
-
-[[home](/)]
-[[/c/dataisbeautiful 🌎](https://lemmygrad.ml/c/dataisbeautiful)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-29 19:06:10 |
-| Updated              | 2022-04-29 19:06:23 |
-| Last Scraped         | 2023-06-19 11:35:08 |

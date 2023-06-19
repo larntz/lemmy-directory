@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/thick_hentai"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 17:38:14"
 subscribers: 183
 posts: 16
 comments: 3
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Thick Hentai on lemmynsfw.com
-
-[[home](/)]
-[[/c/thick_hentai 🌎](https://lemmynsfw.com/c/thick_hentai)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-For hentai lovers, who want a little *extra*.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 183 |
-| Posts                | 16  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 17:38:14 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:45 |

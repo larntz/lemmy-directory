@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stockmarket"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-26 16:27:30"
+published: "2020-08-26 16:26:05"
 subscribers: 27
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/StockMarket on lemmy.ml
-
-[[home](/)]
-[[/c/stockmarket 🌎](https://lemmy.ml/c/stockmarket)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Stock market news, Trading, investing, long term, short term traders, daytrading, technical analysis, fundamental analysis and more.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-26 16:26:05 |
-| Updated              | 2020-08-26 16:27:30 |
-| Last Scraped         | 2023-06-19 11:36:44 |

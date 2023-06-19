@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/gundam"
 host: possumpat.io
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 01:39:34"
+published: "2023-06-08 17:57:29"
 subscribers: 110
 posts: 13
 comments: 96
@@ -22,36 +23,3 @@ tags:
 - "possumpat_io"
 
 ---
-
-# /c/Mobile Suit Gundam on possumpat.io
-
-[[home](/)]
-[[/c/gundam 🌎](https://possumpat.io/c/gundam)]
-[[possumpat.io](/instances/possumpat_io)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for any and all things relating to Mobile Suit Gundam. Other giant robot series are welcome too!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 110 |
-| Posts                | 13  |
-| Comments             | 96  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 17:57:29 |
-| Updated              | 2023-06-09 01:39:34 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/energyindependance"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-20 02:48:09"
+published: "2022-02-27 23:58:48"
 subscribers: 32
 posts: 493
 comments: 77
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Energy Independence on exploding-heads.com
-
-[[home](/)]
-[[/c/energyindependance 🌎](https://exploding-heads.com/c/energyindependance)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-The long-held goal of “energy independence”—which is not to say that we did not import or export energy, but that we produced more energy than we used.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 493  |
-| Comments             | 77  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-02-27 23:58:48 |
-| Updated              | 2022-12-20 02:48:09 |
-| Last Scraped         | 2023-06-19 11:35:38 |

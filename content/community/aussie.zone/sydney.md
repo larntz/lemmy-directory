@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/sydney"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 15:28:44"
+published: "2023-06-10 02:20:17"
 subscribers: 181
 posts: 11
 comments: 87
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Sydney on aussie.zone
-
-[[home](/)]
-[[/c/sydney 🌎](https://aussie.zone/c/sydney)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 181 |
-| Posts                | 11  |
-| Comments             | 87  |
-| Daily Active Users   | 12  |
-| Weekly Active Users  | 33  |
-| Monthly Active Users | 39  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 02:20:17 |
-| Updated              | 2023-06-18 15:28:44 |
-| Last Scraped         | 2023-06-19 11:35:06 |

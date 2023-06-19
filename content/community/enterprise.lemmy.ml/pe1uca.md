@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/pe1uca"
 host: enterprise.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 22:35:22"
 subscribers: 1
 posts: 7
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "enterprise_lemmy_ml"
 
 ---
-
-# /c/¡El pe1uca sabe! on enterprise.lemmy.ml
-
-[[home](/)]
-[[/c/pe1uca 🌎](https://enterprise.lemmy.ml/c/pe1uca)]
-[[enterprise.lemmy.ml](/instances/enterprise_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Mi comunidad de prueba :P
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 7  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 22:35:22 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:42 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/meta"
 host: lemmy.antemeridiem.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 19:30:23"
 subscribers: 11
 posts: 1
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_antemeridiem_xyz"
 
 ---
-
-# /c/Ante Meridiem's meta community on lemmy.antemeridiem.xyz
-
-[[home](/)]
-[[/c/meta 🌎](https://lemmy.antemeridiem.xyz/c/meta)]
-[[lemmy.antemeridiem.xyz](/instances/lemmy_antemeridiem_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Meta discussion about this specific lemmy.antemeridiem.xyz instance.<br><br>Post your grievances, suggestions and tune in for announcements! 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 1  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:30:23 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:13 |

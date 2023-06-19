@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/communityrequests"
 host: apollo.town
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 06:54:36"
 subscribers: 4
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "apollo_town"
 
 ---
-
-# /c/Community Requests on apollo.town
-
-[[home](/)]
-[[/c/communityrequests 🌎](https://apollo.town/c/communityrequests)]
-[[apollo.town](/instances/apollo_town)]
-
-
-## Description 
-
-<blockquote class="description">
-Make a post here if there's a community you'd like created!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 06:54:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

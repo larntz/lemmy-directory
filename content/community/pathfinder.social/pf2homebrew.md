@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2homebrew"
 host: pathfinder.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-04 17:03:39"
+published: "2023-06-04 17:02:55"
 subscribers: 30
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "pathfinder_social"
 
 ---
-
-# /c/Pathfinder 2e Homebrew on pathfinder.social
-
-[[home](/)]
-[[/c/pf2homebrew 🌎](https://pathfinder.social/c/pf2homebrew)]
-[[pathfinder.social](/instances/pathfinder_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 17:02:55 |
-| Updated              | 2023-06-04 17:03:39 |
-| Last Scraped         | 2023-06-19 11:34:56 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://thegarden.land/c/gardentovase"
 host: ash1-lem-i1-u4829.vm.elestio.app
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 00:29:37"
+published: "2023-06-15 00:26:42"
 subscribers: 9
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "ash1-lem-i1-u4829_vm_elestio_app"
 
 ---
-
-# /c/Garden to Vase - Cut Flowers and Floral Design on ash1-lem-i1-u4829.vm.elestio.app
-
-[[home](/)]
-[[/c/gardentovase 🌎](https://thegarden.land/c/gardentovase)]
-[[ash1-lem-i1-u4829.vm.elestio.app](/instances/ash1-lem-i1-u4829_vm_elestio_app)]
-
-
-## Description 
-
-<blockquote class="description">
-For flower enthusiasts
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 00:26:42 |
-| Updated              | 2023-06-15 00:29:37 |
-| Last Scraped         | 2023-06-19 11:35:21 |

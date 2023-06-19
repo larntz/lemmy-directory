@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gay"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:07:07"
+published: "2023-06-14 14:06:04"
 subscribers: 22
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Gay on lemmynsfw.com
-
-[[home](/)]
-[[/c/gay 🌎](https://lemmynsfw.com/c/gay)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-An alternative to r/gay. Posts must contain gay porn, pics, or other media. Do not post anything against the rules. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:06:04 |
-| Updated              | 2023-06-14 14:07:07 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wipeout"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 13:55:02"
+published: "2023-06-13 23:11:34"
 subscribers: 6
 posts: 3
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/WipEout on lemmy.ml
-
-[[home](/)]
-[[/c/wipeout 🌎](https://lemmy.ml/c/wipeout)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#About<br><br>This community is for discussion about the futuristic anti-gravity racing game.  WipEout has been a flagship PlayStation title since its original 1995 release.<br><br>Subscribe to discuss news, strategies, or about the game (and others like it) in general. It doesn't matter if you're an [A.G.R.C.](http://wipeout.wikia.com/wiki/Wipeout_2048) vet, an [F9000](http://wipeout.wikia.com/wiki/Wipeout_Fusion) amateur, or an [FX350](http://wipeout.wikia.com/wiki/Wipeout_HD) rookie!<br><br>#Rules<br><br>1. Do not personally attack other users.<br>2. All spoilers must be marked.<br>3. Do not submit vague titles or generalized posts.<br>4. Giveaways must only be held on this subreddit.<br>5. Don't post spam or NSFW content.<br>6. Personal selling of hardware & games is at own risk.  Moderators take no responsibility for anything sold here.<br><br>#Important Notice<br>**Be wary of the videos you upload to YouTube!**<br><br>Because of YouTube's Content ID system, [some people](https://twitter.com/miss_molotov/status/872423571150299136) who uploaded videos of WipEout: Omega Collection got a **copyright claim**. Be careful and double check if the songs in your in-game footage are copyrighted, or else face a copyright claim on your video.<br><br>#Friendly Tournaments<br>Tournaments will be running from time to time.  Current tournaments will always appear in a sticky post on the front page.  All skill levels very welcome, from first timers to vets.  There's something for all levels.  Sticky posts will contain details of the current one.  Please keep an eye out for them.<br><br>#Previous Tournaments Held on the Shadowy Place<br><br>Beat the Dev 2048 - [Details](https://www.reddit.com/r/PSVR/comments/8dtfho/wipeout_vr_beat_the_dev_challenge_finale_part_3/) - [Results](https://www.reddit.com/r/PSVR/comments/8gqro2/wipeout_beat_the_dev_challenge_part_3_results/) - [Videos](https://www.youtube.com/playlist?list=PLfL-RcVvgjHw2pcUw2mBQ-rGkvon4xm8o)<br><br>Beat the Dev Fury - [Details](https://www.reddit.com/r/PSVR/comments/8bqv3f/can_you_beat_the_dev_wipeout_omega_time_trial/) - [Results](https://www.reddit.com/r/PSVR/comments/8dt8kp/wipeout_beat_the_dev_challenge_part_2_fury/) - [Videos](https://www.youtube.com/playlist?list=PLfL-RcVvgjHwq9oysh5mAr8yuSlFUGIYd)<br><br>Beat The Dev HD - [Details](https://www.reddit.com/r/PSVR/comments/89rd7p/can_you_beat_the_dev_wipeout_omega_time_trial/) - [Results](https://www.reddit.com/r/PSVR/comments/8bp8yq/results_medal_winners_wipeout_beat_the_dev/) - [Videos](https://www.youtube.com/playlist?list=PLfL-RcVvgjHwuonvACXsIr16QLcl6NE0p)<br><br>Tournament 5 - [Details](/70cm07) - [Results](/74ysc3) - [Videos](/74ysp8)<br><br>Tournament 4 - [Details](/6t570t) - [Results](/6zyj7c)- [Videos](https://www.youtube.com/playlist?list=PLfL-RcVvgjHxpncp-F0t8te-3q49LnYax)<br><br>Tournament 3 - [Details](/6oqdik) - [Results](/6sg9c9) - [Videos](/6qsidb)<br><br>Tournament 2 - [Details](/6kcngp) - [Results](/6obw2r) - [Videos](https://www.youtube.com/playlist?list=PLfL-RcVvgjHxS8zIE3E7aKNm8edrChyYZ)<br><br>Tournament 1 - [Details](/6g4m50) - [Results](/6j5fz4) - [Videos](/6j5gh2)<br><br>#Art<br><br>* [Shaun Mooney, Designer of Omega Tigron Ship](https://www.artstation.com/shaunmooney)<br>* [Edd Wainwright - A WipEout creative designer's website](http://1280x720.co.uk/)<br>* [The Designers Republic](https://www.facebook.com/pg/thedesignersrepublic/photos/?ref=page_internal)<br><br>#Music<br><br>**Spotify Playlists**<br><br>[WipEout Omega Soundtrack](https://open.spotify.com/user/playstation_music/playlist/3pUSdXB59k5aJy82BZBocy)<br><br>[WipEout | AntiGrav Anthems](https://open.spotify.com/user/playstation_music/playlist/5P4Vn3jxMnyzsyeKxLpa69)<br><br><br>**CoLDSToRAGE in FLAC on Bandcamp**<br><br>[CoLD SToRAGE HD](https://coldstorage.bandcamp.com/album/cold-storage-hd) - An unofficial companion album for the game Wipeout HD. <br><br>[Slipstream [ WipEout Volume One ]](https://coldstorage.bandcamp.com/album/slipstream-wipeout-volume-one) - 64 bit digital re-mix / re-masters of my tracks from WipEout and WipEout 2097<br><br>[Slipstream [ WipEout Volume Two ]](https://coldstorage.bandcamp.com/album/slipstream-wipeout-volume-one) - SPECIAL remixes and EXCLUSIVE bonus tracks that weren't on WipEout<br><br>[MELT](https://coldstorage.bandcamp.com/album/melt) - The long awaited debut album from CoLD SToRAGE. <br><br>[Onyx](https://coldstorage.bandcamp.com/track/onyx) - Single track for Sony PSP game WipEout Pure.<br><br><br>#Buy WipEout on the PS Store<br>**WipEout: Omega Collection** [PS4] - [US](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4)/[UK](https://store.playstation.com/#!/en-gb/games/wipeout-omega-collection/cid=EP9000-CUSA05670_00-WIPEOUTOMEGA00EU)<br><br>**WipEout HD/Fury** [PS3] - [US](https://www.playstation.com/en-us/games/wipeout-hd-ps3/)/[UK](https://store.playstation.com/#!/en-gb/games/wipeout-complete-game-pack/cid=EP9000-NPEA00057_00-GWIPEOUTHD000004)<br><br>**WipEout** [PS One Classic for PS3] - [UK](https://store.playstation.com/#!/en-gb/games/wipeout/cid=EP9000-NPEE00004_00-GWIPEOUTPS000001)<br><br>**WipEout 2048** [PS Vita] - [UK](https://store.playstation.com/#!/en-gb/games/wipeout-2048/cid=EP9000-PCSF00007_00-WIPEOUT2048BASE0)<br><br>**WipEout Pulse** [PSP] - [UK](https://store.playstation.com/#!/en-gb/games/wipeout-pulse-psp/cid=EP9000-UCES00465_00-GWIPEOUTP0PSPESN)<br><br>**WipEout Pure** [PSP] - [UK](https://store.playstation.com/#!/en-gb/games/wipeout-pure-psp/cid=EP9000-UCES00001_00-GPCWIPEPUR000ESN)<br><br>#Other Links<br><br>* [**Follow r/WipEout on Twitter**](https://twitter.com/r_WipEout)<br><br>* [WipEout Timeline](http://wipeout.wikia.com/wiki/Timeline)<br><br>* [WipEout Teams](http://wipeout.wikia.com/wiki/Category:Teams)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 23:11:34 |
-| Updated              | 2023-06-16 13:55:02 |
-| Last Scraped         | 2023-06-19 11:36:42 |

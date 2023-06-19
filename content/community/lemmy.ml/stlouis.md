@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stlouis"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 23:13:38"
+published: "2023-06-02 21:27:24"
 subscribers: 20
 posts: 12
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/St. Louis, MO | The Lou on lemmy.ml
-
-[[home](/)]
-[[/c/stlouis 🌎](https://lemmy.ml/c/stlouis)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for all things STL.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 12  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 21:27:24 |
-| Updated              | 2023-06-07 23:13:38 |
-| Last Scraped         | 2023-06-16 22:57:39 |

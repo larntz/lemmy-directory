@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/madisonbeer"
 host: goddess.name
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:19:12"
+published: "2023-06-12 17:53:23"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "goddess_name"
 
 ---
-
-# /c/Madison Beer on goddess.name
-
-[[home](/)]
-[[/c/madisonbeer 🌎](https://goddess.name/c/madisonbeer)]
-[[goddess.name](/instances/goddess_name)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:53:23 |
-| Updated              | 2023-06-15 18:19:12 |
-| Last Scraped         | 2023-06-19 11:35:28 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/photography"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 20:00:59"
+published: "2023-06-14 10:51:51"
 subscribers: 55
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmynsfw_com"
 
 ---
-
-# /c/Photography on lemmynsfw.com
-
-[[home](/)]
-[[/c/photography 🌎](https://lemmynsfw.com/c/photography)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for photographers of all genres.<br>Posts should revolve around showcases, inspirations and discussiins about gear, setups, ideas etc. A more detailed description will follow.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 55 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:51:51 |
-| Updated              | 2023-06-14 20:00:59 |
-| Last Scraped         | 2023-06-19 11:35:46 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/taylorswift"
 host: goddess.name
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 18:17:46"
+published: "2023-06-12 15:14:57"
 subscribers: 4
 posts: 12
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "goddess_name"
 
 ---
-
-# /c/Taylor Swift on goddess.name
-
-[[home](/)]
-[[/c/taylorswift 🌎](https://goddess.name/c/taylorswift)]
-[[goddess.name](/instances/goddess_name)]
-
-
-## Description 
-
-<blockquote class="description">
-A community devoted to the worship of our One True Goddess, Taylor Swift.<br><br>### Rules<br><br>1. All content in this community must be of 18+ Taylor.<br>2. Full respect of Taylor: no degrading comments, misogyny, hatred, etc. are allowed.<br>3. Lewd content is acceptable but it must follow rules 1 & 2.<br>4. Please tag your posts with the era it's about e.g. [1989], [Red TV], [Eras]. It may be left blank if it's not era-specific.<br>5. Be kind to your fellow Swifites; we're all here for Taylor!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 12  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 15:14:57 |
-| Updated              | 2023-06-16 18:17:46 |
-| Last Scraped         | 2023-06-19 11:35:28 |

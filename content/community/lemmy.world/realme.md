@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realme"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 09:17:55"
+published: "2023-06-12 10:03:11"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/realme Community on lemmy.world
-
-[[home](/)]
-[[/c/realme 🌎](https://lemmy.world/c/realme)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to /c/realme!<br><br>This is a place for the Lemmy Community to discuss about realme smartphones, smartwatches, TVs, IoT products and more.<br><br>/c/realme is a fan community and is **not** associated or affiliated with BBK Electronics or its subsidiaries.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:03:11 |
-| Updated              | 2023-06-14 09:17:55 |
-| Last Scraped         | 2023-06-16 22:57:17 |

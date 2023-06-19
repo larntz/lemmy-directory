@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/murdermittens"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-06 08:24:51"
 subscribers: 22
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/MurderMittens - Catto Claws on lemmy.ml
-
-[[home](/)]
-[[/c/murdermittens 🌎](https://lemmy.ml/c/murdermittens)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to cats with their claws out, ready for wreckage.<br><br><br>RULES:<br><br>- Claws must be showing.<br><br>- No text over images.<br><br>- No NSFW. No gore. No murder.<br><br>- No cat harassment.<br><br>- Non-feline murder mittens are welcome.<br><br>- Be friendly to your fellow humans. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 22 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 08:24:51 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:44 |

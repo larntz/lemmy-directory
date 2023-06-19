@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vancouverisland"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 18:35:49"
+published: "2023-06-14 05:31:39"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Vancouver Island on lemmy.ca
-
-[[home](/)]
-[[/c/vancouverisland 🌎](https://lemmy.ca/c/vancouverisland)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Vancouver Island, BC.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 05:31:39 |
-| Updated              | 2023-06-15 18:35:49 |
-| Last Scraped         | 2023-06-19 11:35:36 |

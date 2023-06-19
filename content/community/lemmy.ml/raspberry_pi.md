@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/raspberry_pi"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 06:26:05"
+published: "2023-06-06 21:24:36"
 subscribers: 105
 posts: 18
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Raspberry Pi on lemmy.ml
-
-[[home](/)]
-[[/c/raspberry_pi 🌎](https://lemmy.ml/c/raspberry_pi)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-All things related to raspberry pi!<br><br>Related engineering communities:<br><br>- [c/embedded](https://lemmy.ml/c/embedded)<br>- [c/ece](https://lemmy.ml/c/ece)<br>- [c/askelectronics](https://lemmy.ml/c/askelectronics)<br>- [c/fpga](https://lemmy.ml/c/fpga)<br>- [c/chipdesign](https://lemmy.ml/c/chipdesign)<br>- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)<br>- [c/dsp](https://lemmy.ml/c/dsp)<br>- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)<br>- [c/cprogramming](https://lemmy.ml/c/cprogramming)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 105 |
-| Posts                | 18  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 21:24:36 |
-| Updated              | 2023-06-09 06:26:05 |
-| Last Scraped         | 2023-06-19 11:36:46 |

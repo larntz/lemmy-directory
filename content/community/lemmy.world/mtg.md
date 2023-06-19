@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mtg"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:58:45"
+published: "2023-06-12 04:54:12"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Magic: The Gathering on lemmy.world
-
-[[home](/)]
-[[/c/mtg 🌎](https://lemmy.world/c/mtg)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 04:54:12 |
-| Updated              | 2023-06-12 04:58:45 |
-| Last Scraped         | 2023-06-16 22:57:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/golf"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 10:01:40"
+published: "2023-06-09 15:26:01"
 subscribers: 50
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Golf on sh.itjust.works
-
-[[home](/)]
-[[/c/golf 🌎](https://sh.itjust.works/c/golf)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-The **original** Lemmy golf community!<br><br>Post anything golf related.<br><br>*No Buying/Selling/Trading or NSFW Posts.*
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 15:26:01 |
-| Updated              | 2023-06-13 10:01:40 |
-| Last Scraped         | 2023-06-19 11:35:06 |

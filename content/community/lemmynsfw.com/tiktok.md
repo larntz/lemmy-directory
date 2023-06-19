@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tiktok"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 14:09:10"
+published: "2023-06-14 14:08:01"
 subscribers: 41
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/TikTok on lemmynsfw.com
-
-[[home](/)]
-[[/c/tiktok 🌎](https://lemmynsfw.com/c/tiktok)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-An alternative to r/tiktokporn. Posts must contain porn posted on tiktok. Do not violate any sitewide rules. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:08:01 |
-| Updated              | 2023-06-14 14:09:10 |
-| Last Scraped         | 2023-06-19 11:35:46 |

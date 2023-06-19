@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/shitposts"
 host: anarch.is
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 17:57:55"
+published: "2023-06-11 17:57:42"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "anarch_is"
 
 ---
-
-# /c/Shitposts on anarch.is
-
-[[home](/)]
-[[/c/shitposts 🌎](https://anarch.is/c/shitposts)]
-[[anarch.is](/instances/anarch_is)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:57:42 |
-| Updated              | 2023-06-11 17:57:55 |
-| Last Scraped         | 2023-06-19 11:35:17 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/electric_scooters"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 00:35:15"
+published: "2023-06-10 20:17:18"
 subscribers: 25
 posts: 5
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Electric Scooters on lemmy.ca
-
-[[home](/)]
-[[/c/electric_scooters 🌎](https://lemmy.ca/c/electric_scooters)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of all things related to electric scooters. Reviews, tips, mods, brands, shops, safety gear, local laws, and everything else related to electric scooters can be discussed here.<br><br>Rules:<br><br>- No hate speech, racism, bigotry, sexism, homophobia, etc<br>- No NSFW<br>- No spam and no ads<br>- No AI generated content, posts, or comments<br>- Be respectful<br>- Wear a helmet! No advocating riding without helmet and other appropriate safety gear.<br><br>Similar useful community:<br><br>micromobility<br><br>All things micromobility (ebikes, longboards, micromobility, etc):<br><br>Full URL (search in your instance to get your local URL):<br><br>https://lemmy.world/c/micromobility<br><br>Local URL:<br><br>/c/micromobility@lemmy.world<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 20:17:18 |
-| Updated              | 2023-06-18 00:35:15 |
-| Last Scraped         | 2023-06-19 11:35:36 |

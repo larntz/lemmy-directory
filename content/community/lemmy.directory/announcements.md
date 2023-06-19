@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.directory/c/announcements"
 host: lemmy.directory
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-08 18:09:53"
 subscribers: 27
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_directory"
 
 ---
-
-# /c/Announcements on lemmy.directory
-
-[[home](/)]
-[[/c/announcements 🌎](https://lemmy.directory/c/announcements)]
-[[lemmy.directory](/instances/lemmy_directory)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 27 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 18:09:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-15 17:37:03 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/drones"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-31 23:31:06"
+published: "2021-01-31 23:30:44"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Drones on lemmy.ca
-
-[[home](/)]
-[[/c/drones 🌎](https://lemmy.ca/c/drones)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion of drones - Unmanned Aerial Vehicles and the flying thereof.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-01-31 23:30:44 |
-| Updated              | 2021-01-31 23:31:06 |
-| Last Scraped         | 2023-06-19 11:35:36 |

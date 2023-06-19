@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/atari"
 host: lemmy.sdf.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 20:14:49"
+published: "2023-06-13 20:13:04"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_sdf_org"
 
 ---
-
-# /c/Atari 8bit on lemmy.sdf.org
-
-[[home](/)]
-[[/c/atari 🌎](https://lemmy.sdf.org/c/atari)]
-[[lemmy.sdf.org](/instances/lemmy_sdf_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Community covering everything Atari 8bit. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 20:13:04 |
-| Updated              | 2023-06-13 20:14:49 |
-| Last Scraped         | 2023-06-16 22:56:02 |

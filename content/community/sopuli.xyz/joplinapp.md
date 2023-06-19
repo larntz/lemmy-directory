@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/joplinapp"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 11:56:47"
+published: "2023-06-08 11:15:19"
 subscribers: 134
 posts: 6
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Joplin on sopuli.xyz
-
-[[home](/)]
-[[/c/joplinapp 🌎](https://sopuli.xyz/c/joplinapp)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial community of Joplin - an open source note-taking app<br><br>Capture your thoughts and securely access them from any device<br>___<br><br>- Official Forums: https://discourse.joplinapp.org/<br><br>- Subreddit: https://www.reddit.com/r/joplinapp/<br>___<br><br>Features:<br>- 🔗 sync via NextCloud, Dropbox, OneDrive, Syncthing, WebDAV<br>- 🌐 web clipper extension<br>- 🛡️ end-to-end encryption<br>- ✏️ Markdown support<br>- ✅ built-in todo manager<br>- 📱 runs on every desktop and mobile OS<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 6  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 14  |
-| Monthly Active Users | 14  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 11:15:19 |
-| Updated              | 2023-06-08 11:56:47 |
-| Last Scraped         | 2023-06-19 11:35:32 |

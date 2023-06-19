@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/nature"
 host: lemmy.glasgow.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-12-05 20:41:33"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_glasgow_social"
 
 ---
-
-# /c/Nature on lemmy.glasgow.social
-
-[[home](/)]
-[[/c/nature 🌎](https://lemmy.glasgow.social/c/nature)]
-[[lemmy.glasgow.social](/instances/lemmy_glasgow_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-05 20:41:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:56:30 |

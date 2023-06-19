@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minetest"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-13 02:06:29"
+published: "2020-10-31 10:27:23"
 subscribers: 231
 posts: 67
 comments: 65
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Minetest community on lemmy.ml
-
-[[home](/)]
-[[/c/minetest 🌎](https://lemmy.ml/c/minetest)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**Minetest** is an infinite-world block sandbox game and a game engine, inspired by *Infiniminer*, *Minecraft* and the like.<br><br>The community is about the great and open source sandbox game writed in Lua, Minetest. <br><br>Feel free to call players for a multiplayer game or publish your project of a mod and everthing related.<br><br>[Download](https://www.minetest.net/#features) the game. Check out the [wiki](https://wiki.minetest.net/Main_Page).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 231 |
-| Posts                | 67  |
-| Comments             | 65  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-31 10:27:23 |
-| Updated              | 2022-07-13 02:06:29 |
-| Last Scraped         | 2023-06-19 11:36:44 |

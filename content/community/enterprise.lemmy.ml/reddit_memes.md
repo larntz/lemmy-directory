@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/reddit_memes"
 host: enterprise.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 11:53:14"
+published: "2023-06-10 09:48:48"
 subscribers: 2
 posts: 46
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "enterprise_lemmy_ml"
 
 ---
-
-# /c/Reddit r/memes on enterprise.lemmy.ml
-
-[[home](/)]
-[[/c/reddit_memes 🌎](https://enterprise.lemmy.ml/c/reddit_memes)]
-[[enterprise.lemmy.ml](/instances/enterprise_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Reddit r/memes new post dumped to Lemmy (it's an experiment)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 46  |
-| Comments             | 1  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 09:48:48 |
-| Updated              | 2023-06-10 11:53:14 |
-| Last Scraped         | 2023-06-19 11:34:42 |

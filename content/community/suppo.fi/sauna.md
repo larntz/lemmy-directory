@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/sauna"
 host: suppo.fi
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:22:18"
+published: "2023-06-06 12:18:55"
 subscribers: 43
 posts: 10
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "suppo_fi"
 
 ---
-
-# /c/Sauna on suppo.fi
-
-[[home](/)]
-[[/c/sauna 🌎](https://suppo.fi/c/sauna)]
-[[suppo.fi](/instances/suppo_fi)]
-
-
-## Description 
-
-<blockquote class="description">
-Saunaposting  <br>A place to discuss saunas.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 10  |
-| Comments             | 9  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 12:18:55 |
-| Updated              | 2023-06-14 15:22:18 |
-| Last Scraped         | 2023-06-19 11:34:59 |

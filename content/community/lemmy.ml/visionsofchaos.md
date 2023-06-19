@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/visionsofchaos"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 23:46:48"
+published: "2023-06-07 23:33:45"
 subscribers: 5
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Visions of Chaos on lemmy.ml
-
-[[home](/)]
-[[/c/visionsofchaos 🌎](https://lemmy.ml/c/visionsofchaos)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-https://softology.pro/voc.htm<br><br>Visions of Chaos is an all-in-one machine learning and chaos theory sandbox for Windows. It is simple enough for people who do not understand the mathematics behind it, but advanced enough for enthusiasts to tweak and customise to their needs. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 23:33:45 |
-| Updated              | 2023-06-07 23:46:48 |
-| Last Scraped         | 2023-06-19 11:36:43 |

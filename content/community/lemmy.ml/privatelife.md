@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privatelife"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-01-18 08:40:35"
+published: "2020-06-07 12:53:31"
 subscribers: 725
 posts: 186
 comments: 273
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/privatelife - privacy, security, freedom advocacy on lemmy.ml
-
-[[home](/)]
-[[/c/privatelife 🌎](https://lemmy.ml/c/privatelife)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is meant to advocate privacy, security and freedom in an concise manner, free of prejudice bias, free of politics, free of cultist thoughts.<br><br>Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say. - Edward Snowden<br><br>Reddit: https://old.reddit.com/r/privatelife<br><br>Matrix: https://matrix.to/#/#privatelife:matrix.org<br><br>Telegram: https://t.me/r_privatelife<br><br>READ THE RULES<br><br>1) Opinions are welcome, facts more so. Attack arguments, not people. Hating, baiting, trolling, flaming will be dealt with strictly.<br><br>2) Discuss closed source software with caution. Advocating for it strongly (cult brigading) can be treated as violation of this rule.<br><br>3) Editing titles of article links is strictly prohibited, unless and until the summarisation remains accurate to the context of the article or paper. Such link post will be removed without questioning.<br><br>4) Targeting of any country, person or nation is strictly prohibited without valid reasoning. Evidence if not presented against the specific company/corporation/individual will be treated as personal attack and/or hate speech. This will result in a warning, then ban system.<br><br>5) NO PERMA BANS! Ban system will work as follows:<br><br>1 day --> 3 day --> 1 week --> 2 weeks --> 3 weeks --> 1 month --> 3 months --> 6 months<br><br>Severity of the ban system will be dealt with based on degree of violation and circumstances.<br><br>6) NO FACT-LESS EVIDENCES, NO FALSE RHETORIC<br>Evidence has to be credible. The onus of this lies on the claimant. The same applies on the user who questions proven evidence. Violation of this rule will be dealt with strictly.<br><br>7) Copycat posts serve to litter the community, increasing quantity and decreasing quality of posts. As such, posts will be removed. Repeated attempts will receive warning.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 725 |
-| Posts                | 186  |
-| Comments             | 273  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-07 12:53:31 |
-| Updated              | 2022-01-18 08:40:35 |
-| Last Scraped         | 2023-06-19 11:36:45 |

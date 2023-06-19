@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.paradisus.day/c/ergomechkeyboards"
 host: lm.paradisus.day
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 22:42:34"
 subscribers: 31
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lm_paradisus_day"
 
 ---
-
-# /c/ErgoMechKeyboards on lm.paradisus.day
-
-[[home](/)]
-[[/c/ergomechkeyboards 🌎](https://lm.paradisus.day/c/ergomechkeyboards)]
-[[lm.paradisus.day](/instances/lm_paradisus_day)]
-
-
-## Description 
-
-<blockquote class="description">
-A community in the same spirit of r/ErgoMechKeyboards/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 31 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 22:42:34 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

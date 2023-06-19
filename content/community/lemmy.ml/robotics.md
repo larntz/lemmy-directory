@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/robotics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-10 19:52:54"
+published: "2020-06-30 02:53:36"
 subscribers: 51
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Robotics on lemmy.ml
-
-[[home](/)]
-[[/c/robotics 🌎](https://lemmy.ml/c/robotics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-An approachable place to discuss the field of robotics. All are welcome.<br><br># Rules<br>Be nice<br><br>**Related Communities**<br>- /c/selfdrivingvehicles
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 51 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-30 02:53:36 |
-| Updated              | 2020-07-10 19:52:54 |
-| Last Scraped         | 2023-06-16 11:07:33 |

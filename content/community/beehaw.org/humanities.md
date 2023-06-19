@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://beehaw.org/c/humanities"
 host: beehaw.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 19:39:54"
+published: "2022-01-28 15:39:10"
 subscribers: 1376
 posts: 577
 comments: 548
@@ -22,36 +23,3 @@ tags:
 - "beehaw_org"
 
 ---
-
-# /c/Humanities on beehaw.org
-
-[[home](/)]
-[[/c/humanities 🌎](https://beehaw.org/c/humanities)]
-[[beehaw.org](/instances/beehaw_org)]
-
-
-## Description 
-
-<blockquote class="description">
-Human society and cultural news, studies, and other things of that nature. From linguistics to philosophy to religion to anthropology, if it's an academic discipline you can most likely put it here.<br><br>Subcommunities on Beehaw:<br><br>- [Food](https://beehaw.org/c/food)<br><br>---<br><br>This community's icon was made by Aaron Schneider, under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1376 |
-| Posts                | 577  |
-| Comments             | 548  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 67  |
-| Monthly Active Users | 136  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-01-28 15:39:10 |
-| Updated              | 2023-06-16 19:39:54 |
-| Last Scraped         | 2023-06-19 11:35:27 |

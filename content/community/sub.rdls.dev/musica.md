@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/musica"
 host: sub.rdls.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:24:20"
+published: "2023-06-14 23:22:05"
 subscribers: 2
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sub_rdls_dev"
 
 ---
-
-# /c/Música on sub.rdls.dev
-
-[[home](/)]
-[[/c/musica 🌎](https://sub.rdls.dev/c/musica)]
-[[sub.rdls.dev](/instances/sub_rdls_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Compartilhe o que você está ouvindo!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 23:22:05 |
-| Updated              | 2023-06-14 23:24:20 |
-| Last Scraped         | 2023-06-19 11:35:26 |

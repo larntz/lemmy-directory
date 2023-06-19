@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/womenarethings"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:25:17"
+published: "2023-06-14 15:30:28"
 subscribers: 192
 posts: 20
 comments: 3
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/womenarethings on lemmynsfw.com
-
-[[home](/)]
-[[/c/womenarethings 🌎](https://lemmynsfw.com/c/womenarethings)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-This is a kink sub no actual hate against women is allowed.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 192 |
-| Posts                | 20  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:30:28 |
-| Updated              | 2023-06-16 20:25:17 |
-| Last Scraped         | 2023-06-19 11:35:46 |

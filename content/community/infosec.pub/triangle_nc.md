@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/triangle_nc"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 13:29:09"
+published: "2023-06-13 13:25:40"
 subscribers: 9
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Raleigh, Durham and Chapel Hill NC on infosec.pub
-
-[[home](/)]
-[[/c/triangle_nc 🌎](https://infosec.pub/c/triangle_nc)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-General Discussion for People in Central NC, aka The RTP area, especially Wake, Durham, Orange, and surrounding counties.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:25:40 |
-| Updated              | 2023-06-13 13:29:09 |
-| Last Scraped         | 2023-06-16 22:55:53 |

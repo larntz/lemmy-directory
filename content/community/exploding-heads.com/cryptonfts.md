@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cryptonfts"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-07 23:07:07"
+published: "2022-05-07 22:25:45"
 subscribers: 2
 posts: 25
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Crypto - NFTs on exploding-heads.com
-
-[[home](/)]
-[[/c/cryptonfts 🌎](https://exploding-heads.com/c/cryptonfts)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Non-fungible tokens (NFTs) are blockchain-based tokens that each represent a unique asset like:<br>- a piece of art, <br>- digital content, or <br>- media. <br><br>An NFT can be thought of as an irrevocable digital certificate of ownership and authenticity for a given asset, whether digital or physical. <br><br>Non-fungible tokens (NFTs) are designed to be<br>- cryptographically verifiable,<br>- unique or scarce and<br>- easily transferable. <br><br>Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions.<br><br>- NFTs are unique cryptographic tokens that exist on a blockchain and cannot be replicated.<br>- NFTs can represent real-world items like artwork and real estate.<br>- Tokenizing these real-world tangible assets makes buying, selling, and trading them more efficient while reducing the probability of fraud.<br>- NFTs can also function to represent individuals' identities, property rights, and more.<br>- Leveraging cryptographic signatures native to the blockchain on which an NFT is issued, one can easily determine the origin and the current owner of the asset in question in seconds. <br><br>**WARNING:**<br>Investing in NFTs, cryptocurrencies and other Initial Coin Offerings (“ICOs”) is highly risky and speculative, and these links and discussions are not recommendations by Exploding Heads or the writer to invest in NFTs, cryptocurrencies or other ICOs. <br><br>Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Exploding Heads makes no representations or warranties as to the accuracy or timeliness of the information contained herein.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 25  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-07 22:25:45 |
-| Updated              | 2022-05-07 23:07:07 |
-| Last Scraped         | 2023-06-16 22:56:37 |

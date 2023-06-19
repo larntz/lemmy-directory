@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/climatecrisis"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-20 10:58:30"
+published: "2020-12-03 18:55:24"
 subscribers: 753
 posts: 328
 comments: 252
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/The Climate Crisis on lemmy.ml
-
-[[home](/)]
-[[/c/climatecrisis 🌎](https://lemmy.ml/c/climatecrisis)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The impacts and solutions of the Climate Crisis
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 753 |
-| Posts                | 328  |
-| Comments             | 252  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-12-03 18:55:24 |
-| Updated              | 2022-08-20 10:58:30 |
-| Last Scraped         | 2023-06-19 11:36:48 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/dicksinchicks"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 02:15:00"
+published: "2023-06-12 18:52:34"
 subscribers: 520
 posts: 8
 comments: 4
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Dicks In Chicks on lemmynsfw.com
-
-[[home](/)]
-[[/c/dicksinchicks 🌎](https://lemmynsfw.com/c/dicksinchicks)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that<br>3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 520 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:52:34 |
-| Updated              | 2023-06-13 02:15:00 |
-| Last Scraped         | 2023-06-19 11:35:46 |

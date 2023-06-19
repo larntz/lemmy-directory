@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/creditcards"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:36:58"
+published: "2023-06-15 02:34:08"
 subscribers: 25
 posts: 4
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Credit Cards on lemmy.world
-
-[[home](/)]
-[[/c/creditcards 🌎](https://lemmy.world/c/creditcards)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for discussing any aspect of credit cards. It is important to pay them in full and on time.  Please ask questions and contribute to the knowledge surrounding credit cards<br><br>**Rules**<br><br>- No-thing Nefarious. This applies to any posts where we suspect anything potentially illegal or fraudulent, and may include buying/selling tradelines.<br><br>- No Referrals. No links; no codes. Don’t post them; don’t hint at offering them; don’t ask for them. Use rankt.com. This includes any behavior that could be deemed fishing for referrals.<br><br>- No PM’ing Referrals. Spamming other users will get you banned.<br><br>- No Link Shorteners.<br><br>- Self-promotional posts must be pre-approved by a mod. Such posts are generally unwelcome. We may make an exception if it’s truly unique and helpful.<br><br>Be nice. (Don’t be a dick.)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 02:34:08 |
-| Updated              | 2023-06-15 06:36:58 |
-| Last Scraped         | 2023-06-19 11:36:36 |

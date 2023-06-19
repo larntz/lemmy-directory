@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/labor_news"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 14:58:52"
+published: "2023-06-07 14:57:04"
 subscribers: 54
 posts: 6
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/Labor News on midwest.social
-
-[[home](/)]
-[[/c/labor_news 🌎](https://midwest.social/c/labor_news)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-A community primarily for posting news about the US labor movement.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 54 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 14:57:04 |
-| Updated              | 2023-06-07 14:58:52 |
-| Last Scraped         | 2023-06-19 11:35:29 |

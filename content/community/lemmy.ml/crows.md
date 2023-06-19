@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crows"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 06:05:55"
+published: "2023-06-16 05:56:39"
 subscribers: 1
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Crows on lemmy.ml
-
-[[home](/)]
-[[/c/crows 🌎](https://lemmy.ml/c/crows)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Bring stories and images of your encounters with crows, ravens, and other corvids.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 05:56:39 |
-| Updated              | 2023-06-16 06:05:55 |
-| Last Scraped         | 2023-06-19 11:36:42 |

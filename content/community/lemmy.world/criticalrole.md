@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/criticalrole"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 23:17:33"
+published: "2023-06-10 15:07:15"
 subscribers: 134
 posts: 7
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Critical Role on lemmy.world
-
-[[home](/)]
-[[/c/criticalrole 🌎](https://lemmy.world/c/criticalrole)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community to discuss anything Critical Role related <br><br>### Basic Rules (WIP, subject to change)<br><br>1. Be kind to others<br>1. No spoilers in titles<br>   - For spoiler posts, mention the episode number in the title (e.g. `[Spoiler C3E61]`)<br>   - The post body can contain any spoiler up to the episode in title<br>   - Comments should not spoil any episode after the tagged episode<br><br>### Links<br><br>- [Critical Role's official website](https://critrole.com/)<br>- [Critical Role wiki (fandom)](https://criticalrole.fandom.com/wiki/Critical_Role_Wiki)<br>- [When is Critical Role](https://www.wheniscriticalrole.com/): Countdown to the next episode
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 134 |
-| Posts                | 7  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:07:15 |
-| Updated              | 2023-06-15 23:17:33 |
-| Last Scraped         | 2023-06-16 22:57:16 |

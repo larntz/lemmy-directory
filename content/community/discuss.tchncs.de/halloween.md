@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/halloween"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 12:52:16"
+published: "2023-06-13 07:47:46"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/halloween on discuss.tchncs.de
-
-[[home](/)]
-[[/c/halloween 🌎](https://discuss.tchncs.de/c/halloween)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A Community For All Those Celebrating Samhain, Autumn and Halloween.<br><br>----<br><br>- Be nice and spooky.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 07:47:46 |
-| Updated              | 2023-06-14 12:52:16 |
-| Last Scraped         | 2023-06-19 11:34:55 |

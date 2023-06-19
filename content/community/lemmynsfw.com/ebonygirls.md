@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ebonygirls"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 01:10:17"
+published: "2023-06-18 21:45:48"
 subscribers: 28
 posts: 15
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Ebonygirls on lemmynsfw.com
-
-[[home](/)]
-[[/c/ebonygirls 🌎](https://lemmynsfw.com/c/ebonygirls)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Place to share photos of black women. Nude or non-nude
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 15  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 21:45:48 |
-| Updated              | 2023-06-19 01:10:17 |
-| Last Scraped         | 2023-06-19 11:35:45 |

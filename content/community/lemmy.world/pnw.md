@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pnw"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 14:34:37"
+published: "2023-06-09 22:31:51"
 subscribers: 493
 posts: 22
 comments: 63
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Pacific Northwest - OR,WA,BC on lemmy.world
-
-[[home](/)]
-[[/c/pnw 🌎](https://lemmy.world/c/pnw)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion specific to the Pacific Northwest.  News, events, general topics. <br><br>Simple rules:<br>1) Content related to the Pacific Northwest only.  News, sports, political movements, etc.<br>2) Don't be a dick.<br>3) No NSFW content. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 493 |
-| Posts                | 22  |
-| Comments             | 63  |
-| Daily Active Users   | 7  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 33  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 22:31:51 |
-| Updated              | 2023-06-12 14:34:37 |
-| Last Scraped         | 2023-06-19 11:36:39 |

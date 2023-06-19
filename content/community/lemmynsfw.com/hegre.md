@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hegre"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 14:40:31"
+published: "2023-06-18 14:10:12"
 subscribers: 7
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Hegre on lemmynsfw.com
-
-[[home](/)]
-[[/c/hegre 🌎](https://lemmynsfw.com/c/hegre)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Celebrating the beautiful women of Hegre.com<br><br>I help moderate r/Hegre, along with Petter Hegre and admins from petter's site
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 14:10:12 |
-| Updated              | 2023-06-18 14:40:31 |
-| Last Scraped         | 2023-06-19 11:35:45 |

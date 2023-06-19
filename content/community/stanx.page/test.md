@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://stanx.page/c/test"
 host: stanx.page
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 11:16:52"
+published: "2023-06-12 00:57:26"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "stanx_page"
 
 ---
-
-# /c/test on stanx.page
-
-[[home](/)]
-[[/c/test 🌎](https://stanx.page/c/test)]
-[[stanx.page](/instances/stanx_page)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:57:26 |
-| Updated              | 2023-06-12 11:16:52 |
-| Last Scraped         | 2023-06-19 11:35:19 |

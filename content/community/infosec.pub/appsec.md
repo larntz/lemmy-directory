@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/appsec"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:27:02"
+published: "2023-06-15 10:24:17"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/appsec on infosec.pub
-
-[[home](/)]
-[[/c/appsec 🌎](https://infosec.pub/c/appsec)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things related to application security.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 10:24:17 |
-| Updated              | 2023-06-16 20:27:02 |
-| Last Scraped         | 2023-06-16 22:55:52 |

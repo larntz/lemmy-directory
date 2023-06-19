@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/carnivorousplants"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 10:44:54"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/carnivorous_plants on lemmy.world
-
-[[home](/)]
-[[/c/carnivorousplants 🌎](https://lemmy.world/c/carnivorousplants)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-~UNDER CONSTRUCTION PARDON OUR DUST~<br><br>New here, loved r/carnivorousplants so repotted over here!  Come on by!<br><br>Rules:<br>- Don't be an ass<br>- All carnivores and and quasi-carnivores welcome<br>- Pics and questions welcome!<br>- News (habitat numbers, generally interesting articles etc) welcome!<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:44:54 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:39 |

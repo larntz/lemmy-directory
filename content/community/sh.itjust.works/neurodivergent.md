@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/neurodivergent"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 21:00:01"
+published: "2023-06-12 17:49:20"
 subscribers: 55
 posts: 4
 comments: 15
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/neurodivergent sh itjust works! on sh.itjust.works
-
-[[home](/)]
-[[/c/neurodivergent 🌎](https://sh.itjust.works/c/neurodivergent)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-... but differently.<br><br>#### A place for sharing creativity which has that *special other dimension* to it. <br>**Divergent folk, awakened ones, angels, prophets, inventors, and ... neurotypicals. Forget about your autism! We appreciate your awkwardness.**<br><br>What is this going to be? Well, actually i know ... but i need some time to express it in *words*. 😄  <br><br>Here you may get some of the idea of this: [Creating a neurodivergent playground and art collection](https://lemmy.world/post/68168) (yep, thats my main account, in case you wonder).  <br>I'm currently doing some inspiration collecting, here in the pinned post: https://sh.itjust.works/post/112817<br><br>What this place is *not* going to be:  <br>- A place for talking *about* autism, neurodiversity and problems associated with that, or memes about all the former. We do not want to talk about what *doesn't* work. ;-)<br><br>This place however, shall be there for sharing what we (and others) can *do* with it. How we are, what we receive, and how we create when we are *in the flow*. This shall be *uplifting* and *mutually enabling*. Here we shall celebrate cheerfully our *uniqueness*.<br><br>We are the bunch who perhaps *really* know how things could work *better*.<br><br>For those other things, you may want to look into one of these places:  <br>[!autism@lemmy.world](https://lemmy.world/c/autism)  <br>[!autism@lemmy.ml](https://lemmy.ml/c/autism)  <br>[!autismexperiences@lemmy.ml](https://lemmy.ml/c/autismexperiences)  <br>[!austim@kbin.social](https://kbin.social/m/austim)  <br>[!neurodivergence@beehaw.org](https://beehaw.org/c/neurodivergence)  <br>[!neurodivergente@bolha.social](https://bolha.social/c/neurodivergente) (Brazilian, PT and EN)  <br>You see, there is plenty of room for those problems and disabilities. :-)  <br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 55 |
-| Posts                | 4  |
-| Comments             | 15  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:49:20 |
-| Updated              | 2023-06-15 21:00:01 |
-| Last Scraped         | 2023-06-19 11:35:05 |

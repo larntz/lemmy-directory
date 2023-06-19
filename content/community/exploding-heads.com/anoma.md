@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/anoma"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-07-17 18:57:53"
 subscribers: 4
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Crypto - Anoma - Digital Privacy on exploding-heads.com
-
-[[home](/)]
-[[/c/anoma 🌎](https://exploding-heads.com/c/anoma)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-**Anoma - Sovereign at its core**<br><br>The web should be a good for the public, not an industry that turns the public into a good.<br><br>Anoma is an intent-centric, privacy-preserving protocol for decentralized counter party discovery, solving, and multi-chain atomic settlement.<br><br>**Control**<br>The protocols are designed to enable as much control as possible for the end users.<br><br>**Utility**<br>Features and functionalities are designed to facilitate everyday coordination functions of individuals without exploiting them.<br><br>**Expressivity**<br>Individual preferences can be articulated with as much bandwidth as needed.<br><br>**Flexibility**<br>Use an existing instance operated by others or customize, launch, and operate your own fractal instance.<br><br>**Inclusive**<br>Built for any individual, group or community seeking more sovereign economic exchange.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-17 18:57:53 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/omscs"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:51:26"
+published: "2023-06-13 23:04:52"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/OMSCS on lemmy.ca
-
-[[home](/)]
-[[/c/omscs 🌎](https://lemmy.ca/c/omscs)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-Online Masters of Science in Computer Science @ GATech<br><br>This is the subreddit for the Georgia Institute of Technology Online Master's in Computer Science program.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 23:04:52 |
-| Updated              | 2023-06-14 16:51:26 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvnews"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 23:45:35"
+published: "2023-06-15 20:40:52"
 subscribers: 17
 posts: 6
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/TV News on lemmy.world
-
-[[home](/)]
-[[/c/tvnews 🌎](https://lemmy.world/c/tvnews)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Just TV News
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 6  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 20:40:52 |
-| Updated              | 2023-06-16 23:45:35 |
-| Last Scraped         | 2023-06-19 11:36:36 |

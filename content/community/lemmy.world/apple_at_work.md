@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apple_at_work"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:46:08"
+published: "2023-06-14 15:30:21"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Apple at work on lemmy.world
-
-[[home](/)]
-[[/c/apple_at_work 🌎](https://lemmy.world/c/apple_at_work)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-All things related to the administration of Apple devices<br><br>Rules:<br><br>- Content must be related to macOS / iOS / iPadOS / tvOS / watchOS deployment at school or work environment, like:<br>  - provisioning <br>  - administration<br>  - configuration<br>  - automation, scripting<br>  - application deployment...<br>- Be civil and respectful with other members.<br><br>Thanks and enjoy the discussion!<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:30:21 |
-| Updated              | 2023-06-14 18:46:08 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youmustread"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-29 00:09:02"
+published: "2021-05-29 00:08:26"
 subscribers: 15
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/you must read on lemmy.ml
-
-[[home](/)]
-[[/c/youmustread 🌎](https://lemmy.ml/c/youmustread)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-thought provoking books, essays, and other writing that people should read to radically change the way they think about something.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-29 00:08:26 |
-| Updated              | 2021-05-29 00:09:02 |
-| Last Scraped         | 2023-06-19 11:36:45 |

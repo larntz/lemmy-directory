@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vscode"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-06-28 11:49:20"
+published: "2020-06-28 11:46:22"
 subscribers: 38
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Visual Studio Code on lemmy.ml
-
-[[home](/)]
-[[/c/vscode 🌎](https://lemmy.ml/c/vscode)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 11:46:22 |
-| Updated              | 2020-06-28 11:49:20 |
-| Last Scraped         | 2023-06-19 11:36:52 |

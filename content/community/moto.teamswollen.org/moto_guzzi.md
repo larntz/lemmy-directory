@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/moto_guzzi"
 host: moto.teamswollen.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 00:23:44"
+published: "2023-06-15 06:07:43"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "moto_teamswollen_org"
 
 ---
-
-# /c/Moto Guzzi on moto.teamswollen.org
-
-[[home](/)]
-[[/c/moto_guzzi 🌎](https://moto.teamswollen.org/c/moto_guzzi)]
-[[moto.teamswollen.org](/instances/moto_teamswollen_org)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to celebrate Moto Guzzi Motorbikes<br><br>Over 100 years of building Motorcycles
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 06:07:43 |
-| Updated              | 2023-06-16 00:23:44 |
-| Last Scraped         | 2023-06-19 11:35:26 |

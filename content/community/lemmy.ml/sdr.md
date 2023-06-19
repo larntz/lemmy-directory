@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sdr"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-16 19:16:40"
+published: "2021-12-08 17:19:34"
 subscribers: 50
 posts: 20
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Software Defined Radio on lemmy.ml
-
-[[home](/)]
-[[/c/sdr 🌎](https://lemmy.ml/c/sdr)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 20  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-08 17:19:34 |
-| Updated              | 2021-12-16 19:16:40 |
-| Last Scraped         | 2023-06-16 11:07:33 |

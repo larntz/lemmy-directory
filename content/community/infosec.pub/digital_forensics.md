@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/digital_forensics"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 22:18:32"
+published: "2023-06-14 14:07:58"
 subscribers: 41
 posts: 4
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Digital Forensics on infosec.pub
-
-[[home](/)]
-[[/c/digital_forensics 🌎](https://infosec.pub/c/digital_forensics)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-A community focused on all things digital forensics.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 4  |
-| Comments             | 9  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 14:07:58 |
-| Updated              | 2023-06-16 22:18:32 |
-| Last Scraped         | 2023-06-16 22:55:53 |

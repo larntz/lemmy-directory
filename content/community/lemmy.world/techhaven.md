@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/techhaven"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:06:05"
+published: "2023-06-12 19:43:35"
 subscribers: 6
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Tech Haven on lemmy.world
-
-[[home](/)]
-[[/c/techhaven 🌎](https://lemmy.world/c/techhaven)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A safe space for nerds to learn about IT. Come discuss and learn programming, networking, and cyber-security with other IT professionals and hobbyists. <br><br>We are primarily located on [Discord](https://discord.gg/invite/tech-haven-455345206481518593) and looking to expand on our social media presence. <br><br>- [Discord](https://discord.techhaven.io)<br>- [Matrix](https://matrix.to/#/#techhaven:matrix.org)<br>- [Forums](https://forums.techhaven.io)<br>- [TH Hub](https://techhaven.io/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:43:35 |
-| Updated              | 2023-06-15 17:06:05 |
-| Last Scraped         | 2023-06-19 11:36:39 |

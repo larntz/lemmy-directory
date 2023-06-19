@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/vrg"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 22:27:52"
+published: "2023-06-15 20:38:16"
 subscribers: 4
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/VR gaming-meetup/news-nl/eng on feddit.nl
-
-[[home](/)]
-[[/c/vrg 🌎](https://feddit.nl/c/vrg)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-a subb voor vr gaming /plannen online-meet ups /vr game sessies / discusies /en nieuws<br><br>this is  a sub for those who want to discuse /learn /meet up <br>in vr game or talk about vr -or looking to meet new people in vr
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 20:38:16 |
-| Updated              | 2023-06-17 22:27:52 |
-| Last Scraped         | 2023-06-19 11:34:55 |

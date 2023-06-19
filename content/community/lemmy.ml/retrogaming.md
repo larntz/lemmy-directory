@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/retrogaming"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-07-23 18:36:00"
+published: "2021-03-24 04:21:37"
 subscribers: 426
 posts: 32
 comments: 21
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Retro Gaming on lemmy.ml
-
-[[home](/)]
-[[/c/retrogaming 🌎](https://lemmy.ml/c/retrogaming)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For the purposes of this community, retro means platforms launched in 2001 and earlier, and games for those platforms released through roughly 2007. This means that the Xbox, GameCube, Game Boy Advance, and PlayStation 2 are the cutoff consoles.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 426 |
-| Posts                | 32  |
-| Comments             | 21  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-24 04:21:37 |
-| Updated              | 2022-07-23 18:36:00 |
-| Last Scraped         | 2023-06-19 11:36:48 |

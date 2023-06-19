@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/climbing"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 09:19:44"
+published: "2023-06-11 19:22:54"
 subscribers: 43
 posts: 6
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Climbing on sh.itjust.works
-
-[[home](/)]
-[[/c/climbing 🌎](https://sh.itjust.works/c/climbing)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-# Rules<br><br>1. Be Respectful. Respect instance rules.<br>2. Stay on Topic: Keep discussions and posts related to climbing and topics relevant to the climbing community.<br><br>Please note that these moderation rules serve as a general framework and can be tailored and expanded upon based on the specific needs and nature of the climbing community.<br><br># Disclaimer<br><br>Rock climbing is an inherently risky and dangerous activity. Participants engage in climbing at their own risk and should ensure they possess the necessary skills, experience, and equipment to mitigate potential hazards.<br><br># Related communities<br><br>* [ClimbingCircleJerk](!climbingcirclejerk@sh.itjust.works)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 43 |
-| Posts                | 6  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:22:54 |
-| Updated              | 2023-06-19 09:19:44 |
-| Last Scraped         | 2023-06-19 11:35:05 |

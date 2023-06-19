@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://databend.run/c/saas"
 host: databend.run
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 09:55:38"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "databend_run"
 
 ---
-
-# /c/SaaS on databend.run
-
-[[home](/)]
-[[/c/saas 🌎](https://databend.run/c/saas)]
-[[databend.run](/instances/databend_run)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 09:55:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:24 |

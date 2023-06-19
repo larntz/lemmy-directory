@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/startrek"
 host: possumpat.io
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-08 23:44:25"
+published: "2023-06-08 17:58:39"
 subscribers: 334
 posts: 17
 comments: 90
@@ -22,36 +23,3 @@ tags:
 - "possumpat_io"
 
 ---
-
-# /c/Star Trek on possumpat.io
-
-[[home](/)]
-[[/c/startrek 🌎](https://possumpat.io/c/startrek)]
-[[possumpat.io](/instances/possumpat_io)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things Star Trek.<br><br>::: spoiler spoiler<br>Janeway is a murderer. <br>:::<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 334 |
-| Posts                | 17  |
-| Comments             | 90  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 23  |
-| Monthly Active Users | 23  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-08 17:58:39 |
-| Updated              | 2023-06-08 23:44:25 |
-| Last Scraped         | 2023-06-19 11:34:54 |

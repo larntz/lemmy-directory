@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chinalife"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 02:38:23"
+published: "2023-06-12 02:30:54"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/China Life on lemmy.world
-
-[[home](/)]
-[[/c/chinalife 🌎](https://lemmy.world/c/chinalife)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community of people living or planning to live in China. Discuss about everyday life, leisure, travelling, etc. Be respectful of other users ,and Chinese people and culture.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 02:30:54 |
-| Updated              | 2023-06-12 02:38:23 |
-| Last Scraped         | 2023-06-19 11:36:41 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/pcgaming"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 15:42:23"
+published: "2023-06-09 06:58:14"
 subscribers: 50
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/pcgaming on sopuli.xyz
-
-[[home](/)]
-[[/c/pcgaming 🌎](https://sopuli.xyz/c/pcgaming)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-pending!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 50 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 06:58:14 |
-| Updated              | 2023-06-09 15:42:23 |
-| Last Scraped         | 2023-06-19 11:35:32 |

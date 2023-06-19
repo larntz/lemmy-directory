@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cinematography"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 07:41:12"
+published: "2023-06-15 03:42:17"
 subscribers: 49
 posts: 20
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Cinematography on lemmy.world
-
-[[home](/)]
-[[/c/cinematography 🌎](https://lemmy.world/c/cinematography)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for filmmakers and film appreciators to discuss cinematography, ask questions, and share work.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 20  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 03:42:17 |
-| Updated              | 2023-06-17 07:41:12 |
-| Last Scraped         | 2023-06-19 11:36:37 |

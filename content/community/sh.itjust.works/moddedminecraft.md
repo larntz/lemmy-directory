@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/moddedminecraft"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:57:08"
+published: "2023-06-14 16:37:07"
 subscribers: 16
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Modded Minecraft on sh.itjust.works
-
-[[home](/)]
-[[/c/moddedminecraft 🌎](https://sh.itjust.works/c/moddedminecraft)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-##### [Join our Discord Server!](https://discord.gg/moddedmc)<br><br>---<br><br># **Welcome to Modded Minecraft!**<br><br>------------------------<br><br><br>## **About**<br><br>The community for all things related to Modded Minecraft for Minecraft Java Edition<br><br>---------------------<br><br>## **Rules and Guidelines**<br><br>We reserve the right to ban users and remove posts on a case by case basis depending on if they break any of these rules<br><br>1. Only post content relating to Modded Minecraft or Minecraft mods<br>2. Be kind to everyone and try to help out as best you can<br>3. No explicit content. Anything sexually explicit, obscene or offensive will be subject to removal and a ban<br>4. Do not expose any exploits or bugs here. Send them straight to the mod's developers or post to the appropriate bug trackers (includes mods **and** launchers)<br>5. Do not spam (this includes memes, low-effort posts, and reposts)<br>6. Keep Drama posts at a minimum. It will only be allowed if a healthy discussion can come out of it<br>7. Post Server Ads (Hosting & Wanted) in /r/feedthebeastservers. All Crashes/Issues go to [#player-help](https://discord.com/channels/166630061217153024/254806806516203520) in our [Discord](https://discord.gg/9p8JQPMQFS) (for all issues, not *just* crashes). Finding others to play with belong in /r/MinecraftBuddies<br>8. Posts and links for money and donations will be removed unless for registered charities and the mods are provided proof that **all** the money will be given to the organization(s). This includes Patreon and referral links<br>9. Content creators must follow [these new rules](https://www.reddit.com/r/feedthebeast/wiki/rules#wiki_content_creator_rules)<br>10. Using/asking for help with cracked/pirated clients will result in a ban from all FTB subreddits<br>11. All submissions must include relevant flair. For examples see [here](https://redd.it/kiiipt)<br><br>--------------------<br><br>## **Discords**<br><br>- [Modded Minecraft](https://discord.gg/moddedmc) - Our very own Discord for all modded minecraft discussion<br>- [Minecraft Mod Development](https://discord.mcmoddev.com/) - MMD is a place to ask specific questions about mods and development<br>- [Feed The Beast](https://discord.gg/feedthebeast) - Feed the Beast's discord<br>- [Technic](https://discord.gg/6cfM6dF) - Technic's discord for their platform<br>- [ATLauncher](https://discordapp.com/invite/0eXDtXikrVAJffxY) - ATLauncher's discord
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 16:37:07 |
-| Updated              | 2023-06-14 16:57:08 |
-| Last Scraped         | 2023-06-19 11:35:05 |

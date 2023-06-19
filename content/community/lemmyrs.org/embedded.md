@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/embedded"
 host: lemmyrs.org
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:43:07"
+published: "2023-06-15 04:26:27"
 subscribers: 32
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmyrs_org"
 
 ---
-
-# /c/Rust: Embedded Systems on lemmyrs.org
-
-[[home](/)]
-[[/c/embedded 🌎](https://lemmyrs.org/c/embedded)]
-[[lemmyrs.org](/instances/lemmyrs_org)]
-
-
-## Description 
-
-<blockquote class="description">
-[Developing]<br><br># Goal<br><br>Discussions about using Rust in an Embedded environment.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:26:27 |
-| Updated              | 2023-06-15 04:43:07 |
-| Last Scraped         | 2023-06-19 11:35:01 |

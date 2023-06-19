@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/konosuba"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-19 04:09:39"
+published: "2021-02-24 20:40:18"
 subscribers: 20
 posts: 6
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/KonoSuba! on lemmy.ml
-
-[[home](/)]
-[[/c/konosuba 🌎](https://lemmy.ml/c/konosuba)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community dedicated to Kono Subarashii Sekai Ni Shukufuku Wo! lovers, either from manga, anime or light novel, everyone is welcome!<br><br>Rules:<br><br>- No intolerance<br>- No homophobia<br>- No racism<br>- No porn<br>- No hentai (only draw lewds)<br>- No harassment<br><br>if someone breaks any of these, report it as soon as possible.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 6  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-24 20:40:18 |
-| Updated              | 2022-04-19 04:09:39 |
-| Last Scraped         | 2023-06-19 11:36:48 |

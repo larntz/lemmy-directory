@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/standard"
 host: mtgzone.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 20:37:53"
+published: "2023-06-09 19:30:36"
 subscribers: 25
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "mtgzone_com"
 
 ---
-
-# /c/Standard on mtgzone.com
-
-[[home](/)]
-[[/c/standard 🌎](https://mtgzone.com/c/standard)]
-[[mtgzone.com](/instances/mtgzone_com)]
-
-
-## Description 
-
-<blockquote class="description">
-#### Standard format discussion**<br><br>Standard is a dynamic format where you build decks and play using cards in your collection from recently released\u202fMagic\u202fsets (about the last 3 years). Evolving gameplay and rotating strategies make it a fun and fresh way to play\u202fMagic.<br><br>Find out what sets are [currently in standard](https://whatsinstandard.com/).<br><br>Read more at [Standard's official website](https://magic.wizards.com/en/formats/standard).<br><br>---
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 19:30:36 |
-| Updated              | 2023-06-14 20:37:53 |
-| Last Scraped         | 2023-06-19 11:35:14 |

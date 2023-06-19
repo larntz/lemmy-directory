@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ageofmempire"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-01 06:14:44"
+published: "2023-02-01 06:14:08"
 subscribers: 7
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Age of mempire II on exploding-heads.com
-
-[[home](/)]
-[[/c/ageofmempire 🌎](https://exploding-heads.com/c/ageofmempire)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Age of mempire is for the dankest and darkest meme videos on the internet. Let's make this the largest meme empire on the internet!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-01 06:14:08 |
-| Updated              | 2023-02-01 06:14:44 |
-| Last Scraped         | 2023-06-19 11:35:38 |

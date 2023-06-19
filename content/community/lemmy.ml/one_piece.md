@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/one_piece"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-20 05:25:44"
+published: "2021-02-20 05:07:31"
 subscribers: 9
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/One Piece on lemmy.ml
-
-[[home](/)]
-[[/c/one_piece 🌎](https://lemmy.ml/c/one_piece)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Feel free to discuss about one of the greatest anime ever, ONE PIECE!<br>Please tag posts containing spoilers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-20 05:07:31 |
-| Updated              | 2021-02-20 05:25:44 |
-| Last Scraped         | 2023-06-19 11:36:59 |

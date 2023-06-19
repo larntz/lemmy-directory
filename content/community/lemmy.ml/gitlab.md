@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gitlab"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-19 16:15:27"
+published: "2021-04-19 15:16:16"
 subscribers: 97
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/GitLab is open source software to collaborate on code.  on lemmy.ml
-
-[[home](/)]
-[[/c/gitlab 🌎](https://lemmy.ml/c/gitlab)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-GitLab is open source software to collaborate on code. Create projects and repositories, manage access and do code reviews.<br><br>**Another great git community:**<br><br>[GIT - Github, Gitea, Gitlabs. Everything git](https://lemmy.ml/c/everything_git)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 97 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-19 15:16:16 |
-| Updated              | 2021-04-19 16:15:27 |
-| Last Scraped         | 2023-06-19 11:36:49 |

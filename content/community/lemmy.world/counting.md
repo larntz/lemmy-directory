@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/counting"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 15:18:07"
+published: "2023-06-13 14:47:46"
 subscribers: 4
 posts: 1
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/counting on lemmy.world
-
-[[home](/)]
-[[/c/counting 🌎](https://lemmy.world/c/counting)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Counting's a good job mate. Challenging work.<br><br>[Click here for Newest comments](counting/data_type/Comment/sort/New/page/1)<br><br>**Etiquette:**<br>1. No double-counting (don't reply to yourself).<br>2. If the comment chain has split, continue the chain by replying to the earlier comment (go with whoever commented first). <br>3. Don't delete valid counts.<br>4. Counts made by bots are not valid. Please don't use bots to count.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:47:46 |
-| Updated              | 2023-06-13 15:18:07 |
-| Last Scraped         | 2023-06-19 11:36:39 |

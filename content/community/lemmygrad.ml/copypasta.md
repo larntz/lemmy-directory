@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/copypasta"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-12 15:38:08"
+published: "2022-04-12 15:37:57"
 subscribers: 35
 posts: 9
 comments: 43
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/CopyPasta on lemmygrad.ml
-
-[[home](/)]
-[[/c/copypasta 🌎](https://lemmygrad.ml/c/copypasta)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Control C + V
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 9  |
-| Comments             | 43  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-12 15:37:57 |
-| Updated              | 2022-04-12 15:38:08 |
-| Last Scraped         | 2023-06-19 11:35:08 |

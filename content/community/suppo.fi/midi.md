@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/midi"
 host: suppo.fi
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 11:20:31"
+published: "2023-06-06 22:43:30"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "suppo_fi"
 
 ---
-
-# /c/MIDI on suppo.fi
-
-[[home](/)]
-[[/c/midi 🌎](https://suppo.fi/c/midi)]
-[[suppo.fi](/instances/suppo_fi)]
-
-
-## Description 
-
-<blockquote class="description">
-MIDI music
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 22:43:30 |
-| Updated              | 2023-06-07 11:20:31 |
-| Last Scraped         | 2023-06-19 11:34:59 |

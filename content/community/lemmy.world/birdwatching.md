@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/birdwatching"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 02:38:08"
+published: "2023-06-18 05:18:57"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/bird watching on lemmy.world
-
-[[home](/)]
-[[/c/birdwatching 🌎](https://lemmy.world/c/birdwatching)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 05:18:57 |
-| Updated              | 2023-06-19 02:38:08 |
-| Last Scraped         | 2023-06-19 11:36:36 |

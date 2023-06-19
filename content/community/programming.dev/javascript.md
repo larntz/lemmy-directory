@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/javascript"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 17:36:18"
+published: "2023-06-12 23:16:34"
 subscribers: 199
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/JavaScript on programming.dev
-
-[[home](/)]
-[[/c/javascript 🌎](https://programming.dev/c/javascript)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 199 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 23:16:34 |
-| Updated              | 2023-06-14 17:36:18 |
-| Last Scraped         | 2023-06-19 11:35:01 |

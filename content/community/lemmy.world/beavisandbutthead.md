@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beavisandbutthead"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 12:49:27"
+published: "2023-06-11 12:36:18"
 subscribers: 26
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Beavis and Butt-Head on lemmy.world
-
-[[home](/)]
-[[/c/beavisandbutthead 🌎](https://lemmy.world/c/beavisandbutthead)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Everything related to Buford and Bernardo. Huh huh huh...this is gonna be cool. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 26 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 12:36:18 |
-| Updated              | 2023-06-11 12:49:27 |
-| Last Scraped         | 2023-06-16 22:57:16 |

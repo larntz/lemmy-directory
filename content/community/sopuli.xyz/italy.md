@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/italy"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 09:41:00"
+published: "2023-06-12 09:35:47"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Italy on sopuli.xyz
-
-[[home](/)]
-[[/c/italy 🌎](https://sopuli.xyz/c/italy)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 09:35:47 |
-| Updated              | 2023-06-12 09:41:00 |
-| Last Scraped         | 2023-06-19 11:35:32 |

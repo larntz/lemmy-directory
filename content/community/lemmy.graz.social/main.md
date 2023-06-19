@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/main"
 host: lemmy.graz.social
-lastmod: "{[ .Updated }}"
+lastmod: "2022-09-25 19:01:33"
+published: "2022-09-25 08:35:38"
 subscribers: 30
 posts: 3
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_graz_social"
 
 ---
-
-# /c/Allgemeines in Graz on lemmy.graz.social
-
-[[home](/)]
-[[/c/main 🌎](https://lemmy.graz.social/c/main)]
-[[lemmy.graz.social](/instances/lemmy_graz_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Foto: © Bwag/CC-BY-SA-4.0 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 3  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-09-25 08:35:38 |
-| Updated              | 2022-09-25 19:01:33 |
-| Last Scraped         | 2023-06-19 11:34:42 |

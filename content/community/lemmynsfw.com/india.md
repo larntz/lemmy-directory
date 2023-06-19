@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/india"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 03:38:05"
+published: "2023-06-14 03:25:05"
 subscribers: 21
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/India on lemmynsfw.com
-
-[[home](/)]
-[[/c/india 🌎](https://lemmynsfw.com/c/india)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Please visit [!desi@lemmynsfw.com](https://lemmynsfw.com/c/desi) for Indian erotica.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 03:25:05 |
-| Updated              | 2023-06-14 03:38:05 |
-| Last Scraped         | 2023-06-19 11:35:46 |

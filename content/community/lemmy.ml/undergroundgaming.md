@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undergroundgaming"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:39:10"
+published: "2023-06-11 10:29:16"
 subscribers: 29
 posts: 8
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Underground Gaming on lemmy.ml
-
-[[home](/)]
-[[/c/undergroundgaming 🌎](https://lemmy.ml/c/undergroundgaming)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Underground games are noncommercial games that operate outside of the games market.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 8  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 10:29:16 |
-| Updated              | 2023-06-11 11:39:10 |
-| Last Scraped         | 2023-06-19 11:36:42 |

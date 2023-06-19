@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anarkiddie_or_neocon"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 19:09:54"
+published: "2020-10-07 15:11:43"
 subscribers: 96
 posts: 8
 comments: 33
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Anarkiddie or Neocon? on lemmygrad.ml
-
-[[home](/)]
-[[/c/anarkiddie_or_neocon 🌎](https://lemmygrad.ml/c/anarkiddie_or_neocon)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to play ‘Anarkiddie or Neocon?‘, and other similar games.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 96 |
-| Posts                | 8  |
-| Comments             | 33  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-07 15:11:43 |
-| Updated              | 2021-01-29 19:09:54 |
-| Last Scraped         | 2023-06-19 11:35:08 |

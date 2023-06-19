@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paris"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 07:55:55"
+published: "2023-06-14 13:43:21"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Paris on lemmy.world
-
-[[home](/)]
-[[/c/paris 🌎](https://lemmy.world/c/paris)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Paris et sa banlieue 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:43:21 |
-| Updated              | 2023-06-15 07:55:55 |
-| Last Scraped         | 2023-06-19 11:36:38 |

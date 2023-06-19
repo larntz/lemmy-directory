@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/artificial_intelligence"
 host: lemmy.burger.rodeo
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 04:14:10"
+published: "2023-06-12 03:46:40"
 subscribers: 17
 posts: 4
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_burger_rodeo"
 
 ---
-
-# /c/AI discussions on lemmy.burger.rodeo
-
-[[home](/)]
-[[/c/artificial_intelligence 🌎](https://burggit.moe/c/artificial_intelligence)]
-[[lemmy.burger.rodeo](/instances/lemmy_burger_rodeo)]
-
-
-## Description 
-
-<blockquote class="description">
-Artificial Intelligence community. Chat bots, stable diffusion, ChatGPT, SO-VITS, anything AI.<br><br>Post news about new local chat models, discuss implementations, post your work, share your ideas, discuss our impending doom, or even news about new developments in the AI space. If it's about AI, it belongs here.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 4  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 03:46:40 |
-| Updated              | 2023-06-12 04:14:10 |
-| Last Scraped         | 2023-06-19 11:35:30 |

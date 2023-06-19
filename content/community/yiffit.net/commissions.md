@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/commissions"
 host: yiffit.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:21:56"
+published: "2023-06-10 21:25:35"
 subscribers: 15
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "yiffit_net"
 
 ---
-
-# /c/Commissions and promotions on yiffit.net
-
-[[home](/)]
-[[/c/commissions 🌎](https://yiffit.net/c/commissions)]
-[[yiffit.net](/instances/yiffit_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Are you an artist offering commissions? Feel free to advertise yourself here! **You may also use this community to advertise your Patreon, Subscribestar or similar page.**<br><br>**For sellers:**<br>* NSFW and SFW commission ads allowed<br>* Make sure to flag your post as NSFW if it contains such content. There's no need to flag the post just because it mentions that you offer such a type of commission<br>* Please add at least one picture as reference if your form of art is visual. Remember that you can add images in the body of your post as well!<br>* Feel free to add contact details and any other info you feel is relevant<br>* Make sure to let your potential customers know how they should contact you: via comment? email? Private message? Mastodon?<br>* Please don't offer commissions of underage characters in a NSFW context<br><br>**For buyers:**<br>* Please try to verify the identity of the seller by looking up other pages or social media profiles. Yiffit will do its best to avoid scams but is not responsible for any potential scams or disputes that might slip through.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 15 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 21:25:35 |
-| Updated              | 2023-06-10 22:21:56 |
-| Last Scraped         | 2023-06-19 11:35:08 |

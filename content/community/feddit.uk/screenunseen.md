@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/screenunseen"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-11 21:48:30"
 subscribers: 4
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Screen Unseen on feddit.uk
-
-[[home](/)]
-[[/c/screenunseen 🌎](https://feddit.uk/c/screenunseen)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-#Screen Unseen is an ODEON Cinema exclusive preview event of films that haven't yet been released in the UK.<br><br>You book in advance and pay £5 for a ticket in standard or premier (first come, first serve so book quick!), but can't be certain what film you're about to see until the curtains go up.<br><br>Showings are random and can't be said when the next one is and only open to people over 15 (although the films being shown may be any BBFC rating from U to 15). After a showing is announced, ODEON release a series of clues leading up to the night of release. These clues are often cryptic, contrived, or otherwise misleading.<br><br>ODEON claim that the films they select for Screen Unseen are all guaranteed to inspire conversation.<br><br>In the event that you know what the next Screen Unseen is going to be (aren't you lucky), please refrain from commenting the title of the movie so that others don't get spoiled. If we wish to comment, simply post the trailer from YouTube or something similar. <br><br>**So, go converse!**<br><br>---<br><br>**All films shown as part of Odeon's Screen and Scream Unseen promotional screenings are listed below:**<br><br>*Scream Unseen showings in italics*<br><br>**20th October 2014** | [Nightcrawler](https://www.reddit.com/r/screenunseen/comments/9fhsvd/nightcrawler/?#)<br><br>**1st December 2014** | [Whiplash](https://www.reddit.com/r/screenunseen/comments/9kf00f/whiplash/)<br><br>**19th January 2015** | [Selma](https://www.reddit.com/r/screenunseen/comments/ag7x50/selma/?)<br><br>**16th February 2015** | It Follows<br><br>**22nd June 2015** | Inside Out<br><br>**24th Augst 2015** | Me and Earl and the Dying Girl<br><br>**20th October 2015** | Black Mass<br><br>**14th December 2015** | Room<br><br>**4th January 2016** | The Revenant<br><br>**18th January 2016** | The Big Short<br><br>**7th March 2016** | [Disorder](https://www.reddit.com/r/screenunseen/comments/49f989/discussion_thread_disorder_march_7th_2016/)<br><br>**29th March 2016** | Midnight Special<br><br>**11th April 2016** | [Demolition](https://www.reddit.com/r/screenunseen/comments/4ecvgj/official_discussion_demolition_11th_april/)<br><br>***20th April 2016*** *|* [*Green Room*](https://www.reddit.com/r/screenunseen/comments/4fpt98/official_disccusion_green_room_20th_april_scream/)<br><br>**3rd May 2016** | Everybody Wants Some!<br><br>***9th September 2016*** *|* [*Blair Witch*](https://www.reddit.com/r/screenunseen/comments/520323/blair_witch/)<br><br>**19th September 2016** | [War On Everyone](https://www.reddit.com/r/screenunseen/comments/53nv3j/war_on_everyone/)<br><br>**18th October 2016** | [I, Daniel Blake](https://www.reddit.com/r/screenunseen/comments/58aj4w/i_daniel_blake/)<br><br>**31st October 2016** | [Arrival](https://www.reddit.com/r/screenunseen/comments/5buh9h/arrival/)<br><br>**5th December 2016** | A Monster Calls<br><br>**12th December 2016** | Manchester By The Sea<br><br>**9th January 2017** | [Hidden Figures](https://www.reddit.com/r/screenunseen/comments/5n194m/hidden_figures/)<br><br>***16th January 2017*** *|* [*Split*](https://www.reddit.com/r/screenunseen/comments/5oielh/split/)<br><br>**23rd January 2017** | [Moonlight](https://www.reddit.com/r/screenunseen/comments/5pv859/moonlight/)<br><br>**24th April 2017** | Mindhorn<br><br>**19th June 2017** | [Baby Driver](https://www.reddit.com/r/screenunseen/comments/6k82eu/baby_driver/)<br><br>**17th July 2017** | [The Big Sick](https://www.reddit.com/r/screenunseen/comments/6pb68l/the_big_sick/)<br><br>**21st August 2017** | [Wind River](https://www.reddit.com/r/screenunseen/comments/6v66ub/wind_river/)<br><br>**18th September 2017** | [The Ritual](https://www.reddit.com/r/screenunseen/comments/70ygfh/the_ritual/)<br><br>**9th October 2017** | [The Death of Stalin](https://www.reddit.com/r/screenunseen/comments/75ca82/the_death_of_stalin/)<br><br>**23rd October 2017** | [The Florida Project](https://www.reddit.com/r/screenunseen/comments/78azj2/the_florida_project/)<br><br>**20th November 2017** | [Brigsby Bear](https://www.reddit.com/r/screenunseen/comments/7eclj9/brigsby_bear/)<br><br>**11th December 2017** | [Three Billboards Outside Ebbing, Missouri](https://www.reddit.com/r/screenunseen/comments/7j5y8e/three_billboards_outside_ebbing_missouri/)<br><br>**15th January 2018** | [The Shape Of Water](https://www.reddit.com/r/screenunseen/comments/7qnigj/the_shape_of_water/)<br><br>**5th February 2018** | [I, Tonya](https://www.reddit.com/r/screenunseen/comments/7viuzm/i_tonya/)<br><br>***19th March 2018*** *|* [*Ghost Stories*](https://www.reddit.com/r/screenunseen/comments/85nk6i/ghost_stories/)<br><br>**3rd April 2018** | [Michael Inside](https://www.reddit.com/r/screenunseen/comments/89iz9l/michael_inside_ire/)<br><br>***23rd April 2018*** *|* [*The Strangers: Prey at Night*](https://www.reddit.com/r/screenunseen/comments/8eevrw/the_strangers_prey_at_night/)<br><br>***9th July 2018*** *|* [*The Secret of Marrowbone*](https://www.reddit.com/r/screenunseen/comments/8xgkra/scream_unseen_the_secret_of_marrowbone/)<br><br>**28th August 2018** | [American Animals](https://www.reddit.com/r/screenunseen/comments/9b2z79/american_animals/)<br><br>**17th September 2018** | [A Simple Favour](https://www.reddit.com/r/screenunseen/comments/9goex6/a_simple_favour//)<br><br>**5th November 2018** | [The Old Man And The Gun](https://www.reddit.com/r/screenunseen/comments/9uhzs9/the_old_man_and_the_gun//)<br><br>**26th November 2018** | [Sorry To Bother You](https://www.reddit.com/r/screenunseen/comments/a0o5a8/sorry_to_bother_you//)<br><br>**10th December 2018** | [Beautiful Boy](https://www.reddit.com/r/screenunseen/comments/a50gmh/beautiful_boy/)<br><br>**14th January 2019** | [Vice](https://www.reddit.com/r/screenunseen/comments/ag19x7/vice/)<br><br>**28th January 2019** | [If Beale Streeet Could Talk](https://www.reddit.com/r/screenunseen/comments/aksuna/if_beale_street_could_talk/)<br><br>**18th February 2019** | [Wild Rose](https://www.reddit.com/r/screenunseen/comments/aksuna/if_beale_street_could_talk/)<br><br>**6th May 2019** | [Booksmart](https://www.reddit.com/r/screenunseen/comments/blhm0k/booksmart/)<br><br>***2nd September 2019*** *|* [*Ready or Not*](<br>https://www.reddit.com/r/screenunseen/comments/cyuw36/ready_or_not/)<br><br>**30th September 2019** | A Bump Along the Way **(N.I. Only)**<br><br>**4th November 2019** | [Le Mans ‘66](https://www.reddit.com/r/screenunseen/comments/dromwy/le_mans_66/)<br><br>**16th December 2019** | [Parasite](https://www.reddit.com/r/screenunseen/comments/ebmd7y/parasite/)<br><br>**6th January 2020** | [Just Mercy](https://www.reddit.com/r/screenunseen/comments/el1t66/just_mercy/)<br><br>***<br>- **[Here's a link to a useful Letterboxd discussion about past and future Screen Unseens.](https://letterboxd.com/mattevenson/list/odeon-screen-unseen/)**<br><br>- **[Also here is the #ODEONScreenUnseen hashtag used by ODEON on Twitter to announce showings and give clues.](https://twitter.com/hashtag/odeonscreenunseen?lang=en)**<br><br>***
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 21:48:30 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:14 |

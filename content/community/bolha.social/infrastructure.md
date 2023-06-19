@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/infrastructure"
 host: bolha.social
-lastmod: "{[ .Updated }}"
+lastmod: "2022-12-21 11:39:43"
+published: "2022-12-21 11:39:11"
 subscribers: 9
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "bolha_social"
 
 ---
-
-# /c/IT Infrastructure on bolha.social
-
-[[home](/)]
-[[/c/infrastructure 🌎](https://bolha.social/c/infrastructure)]
-[[bolha.social](/instances/bolha_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Infrastructure
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-12-21 11:39:11 |
-| Updated              | 2022-12-21 11:39:43 |
-| Last Scraped         | 2023-06-19 11:34:44 |

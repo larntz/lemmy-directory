@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newzealand"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-03-24 23:11:30"
+published: "2020-06-28 05:17:18"
 subscribers: 66
 posts: 7
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Aotearoa New Zealand on lemmy.ml
-
-[[home](/)]
-[[/c/newzealand 🌎](https://lemmy.ml/c/newzealand)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Nau mai, haere mai! A community for news, discussions, pretty pictures, memes, local resources & events, all around the motu!<br><br>- Please ensure submissions are directly related to Aotearoa NZ<br>- Te Reo welcome & encouraged!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 66 |
-| Posts                | 7  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 05:17:18 |
-| Updated              | 2021-03-24 23:11:30 |
-| Last Scraped         | 2023-06-19 11:36:45 |

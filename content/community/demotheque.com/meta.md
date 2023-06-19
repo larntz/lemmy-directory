@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://demotheque.com/c/meta"
 host: demotheque.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-10 21:24:43"
+published: "2023-04-07 23:21:29"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "demotheque_com"
 
 ---
-
-# /c/The Metatheque on demotheque.com
-
-[[home](/)]
-[[/c/meta 🌎](https://demotheque.com/c/meta)]
-[[demotheque.com](/instances/demotheque_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Stuff about the demotheque community itself
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-07 23:21:29 |
-| Updated              | 2023-04-10 21:24:43 |
-| Last Scraped         | 2023-06-19 11:34:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/untappd"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 03:15:22"
+published: "2023-06-14 02:58:05"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Untappd: Drink Socially on lemmy.world
-
-[[home](/)]
-[[/c/untappd 🌎](https://lemmy.world/c/untappd)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a place to share Untappd news, pictures of beers, questions on badges, and common camaraderie of your favorite app, [Untappd](https://untappd.com).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 02:58:05 |
-| Updated              | 2023-06-14 03:15:22 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://outpost.zeuslink.net/c/outpost"
 host: outpost.zeuslink.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-05 02:59:07"
+published: "2023-06-05 02:09:17"
 subscribers: 4
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "outpost_zeuslink_net"
 
 ---
-
-# /c/Outpost Home on outpost.zeuslink.net
-
-[[home](/)]
-[[/c/outpost 🌎](https://outpost.zeuslink.net/c/outpost)]
-[[outpost.zeuslink.net](/instances/outpost_zeuslink_net)]
-
-
-## Description 
-
-<blockquote class="description">
-This community serves as the home and landing zone for The Outpost!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 02:09:17 |
-| Updated              | 2023-06-05 02:59:07 |
-| Last Scraped         | 2023-06-19 11:34:49 |

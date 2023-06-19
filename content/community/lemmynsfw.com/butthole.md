@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/butthole"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 02:14:44"
+published: "2023-06-12 17:22:58"
 subscribers: 268
 posts: 3
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Butthole on lemmynsfw.com
-
-[[home](/)]
-[[/c/butthole 🌎](https://lemmynsfw.com/c/butthole)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Rules: <br>1. General [lemmynsfw.com](https://lemmynsfw.com) Rules<br>2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that<br>3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]<br><br>Check out [!anal@lemmynsfw.com](https://lemmynsfw.com/c/anal) for anal content!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 268 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:22:58 |
-| Updated              | 2023-06-13 02:14:44 |
-| Last Scraped         | 2023-06-19 11:35:46 |

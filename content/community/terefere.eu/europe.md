@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/europe"
 host: terefere.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 17:07:40"
+published: "2023-06-07 17:07:07"
 subscribers: 5
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "terefere_eu"
 
 ---
-
-# /c/Europe on terefere.eu
-
-[[home](/)]
-[[/c/europe 🌎](https://terefere.eu/c/europe)]
-[[terefere.eu](/instances/terefere_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Community about Europe
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 17:07:07 |
-| Updated              | 2023-06-07 17:07:40 |
-| Last Scraped         | 2023-06-19 11:34:57 |

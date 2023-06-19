@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cpp"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-01-22 16:38:32"
+published: "2019-08-19 09:13:52"
 subscribers: 582
 posts: 158
 comments: 57
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/C & C++ on lemmy.ml
-
-[[home](/)]
-[[/c/cpp 🌎](https://lemmy.ml/c/cpp)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 582 |
-| Posts                | 158  |
-| Comments             | 57  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2019-08-19 09:13:52 |
-| Updated              | 2020-01-22 16:38:32 |
-| Last Scraped         | 2023-06-19 11:36:46 |

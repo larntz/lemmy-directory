@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/squaredcircle"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 17:14:52"
+published: "2023-06-11 17:10:43"
 subscribers: 39
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/SquaredCircle on lemmy.world
-
-[[home](/)]
-[[/c/squaredcircle 🌎](https://lemmy.world/c/squaredcircle)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The official Lemmy instance of /r/SquaredCircle
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 17:10:43 |
-| Updated              | 2023-06-11 17:14:52 |
-| Last Scraped         | 2023-06-16 22:57:16 |

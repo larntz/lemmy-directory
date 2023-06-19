@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/megaten"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 07:00:31"
+published: "2023-06-04 07:44:56"
 subscribers: 52
 posts: 8
 comments: 30
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Shin Megami Tensei + Persona on lemmy.ml
-
-[[home](/)]
-[[/c/megaten 🌎](https://lemmy.ml/c/megaten)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussion about anything relating to the Shin Megami Tensei series.<br><br>Give a spoiler warning if you're going to talk about potential spoilers.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 52 |
-| Posts                | 8  |
-| Comments             | 30  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 07:44:56 |
-| Updated              | 2023-06-10 07:00:31 |
-| Last Scraped         | 2023-06-19 11:36:44 |

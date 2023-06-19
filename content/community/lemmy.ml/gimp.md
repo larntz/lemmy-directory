@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gimp"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-15 21:52:02"
+published: "2021-05-15 21:51:16"
 subscribers: 92
 posts: 3
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/gimp on lemmy.ml
-
-[[home](/)]
-[[/c/gimp 🌎](https://lemmy.ml/c/gimp)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Unofficial group for the free and opensource photomanipulation program called GIMP.<br><br>https://www.gimp.org/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 92 |
-| Posts                | 3  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-15 21:51:16 |
-| Updated              | 2021-05-15 21:52:02 |
-| Last Scraped         | 2023-06-16 22:57:42 |

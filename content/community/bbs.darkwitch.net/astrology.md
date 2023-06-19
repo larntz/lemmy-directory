@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/astrology"
 host: bbs.darkwitch.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-06 12:31:55"
+published: "2023-05-06 12:21:33"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "bbs_darkwitch_net"
 
 ---
-
-# /c/占星与星座 on bbs.darkwitch.net
-
-[[home](/)]
-[[/c/astrology 🌎](https://bbs.darkwitch.net/c/astrology)]
-[[bbs.darkwitch.net](/instances/bbs_darkwitch_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-06 12:21:33 |
-| Updated              | 2023-05-06 12:31:55 |
-| Last Scraped         | 2023-06-19 11:34:54 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/server"
 host: prime8s.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 23:09:55"
+published: "2023-06-07 15:54:27"
 subscribers: 2
 posts: 6
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "prime8s_xyz"
 
 ---
-
-# /c/Server Administration on prime8s.xyz
-
-[[home](/)]
-[[/c/server 🌎](https://prime8s.xyz/c/server)]
-[[prime8s.xyz](/instances/prime8s_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to get updates about the server, transparency reports, and general announcements about downtime and maintenance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 6  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 15:54:27 |
-| Updated              | 2023-06-07 23:09:55 |
-| Last Scraped         | 2023-06-19 11:35:03 |

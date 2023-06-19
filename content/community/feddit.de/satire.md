@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/satire"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 09:51:23"
+published: "2023-06-12 10:46:50"
 subscribers: 137
 posts: 20
 comments: 39
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/'Seriöse' Nachrichten on feddit.de
-
-[[home](/)]
-[[/c/satire 🌎](https://feddit.de/c/satire)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Garantiert keine Satire
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 137 |
-| Posts                | 20  |
-| Comments             | 39  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 28  |
-| Monthly Active Users | 28  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 10:46:50 |
-| Updated              | 2023-06-13 09:51:23 |
-| Last Scraped         | 2023-06-19 11:35:39 |

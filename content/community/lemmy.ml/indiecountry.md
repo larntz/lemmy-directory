@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiecountry"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:28:38"
+published: "2023-06-10 01:59:03"
 subscribers: 17
 posts: 13
 comments: 13
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Indie Country on lemmy.ml
-
-[[home](/)]
-[[/c/indiecountry 🌎](https://lemmy.ml/c/indiecountry)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For lovers of country music you won't hear on the radio<br>For lovers of bluegrass make sure to stop by at <br>!bluegrass@lemmy.world
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 17 |
-| Posts                | 13  |
-| Comments             | 13  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 01:59:03 |
-| Updated              | 2023-06-15 19:28:38 |
-| Last Scraped         | 2023-06-19 11:36:44 |

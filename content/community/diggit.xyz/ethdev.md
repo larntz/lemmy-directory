@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethdev"
 host: diggit.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 01:08:45"
+published: "2023-06-11 07:36:40"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "diggit_xyz"
 
 ---
-
-# /c/Ethereum Development and DApps on diggit.xyz
-
-[[home](/)]
-[[/c/ethdev 🌎](https://diggit.xyz/c/ethdev)]
-[[diggit.xyz](/instances/diggit_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:36:40 |
-| Updated              | 2023-06-12 01:08:45 |
-| Last Scraped         | 2023-06-19 11:35:16 |

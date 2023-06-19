@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/webcomic"
 host: fediverse.ro
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-02 01:47:45"
+published: "2023-01-26 19:21:50"
 subscribers: 7
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "fediverse_ro"
 
 ---
-
-# /c/💭|Webcomics on fediverse.ro
-
-[[home](/)]
-[[/c/webcomic 🌎](https://fediverse.ro/c/webcomic)]
-[[fediverse.ro](/instances/fediverse_ro)]
-
-
-## Description 
-
-<blockquote class="description">
-Copyright Free Webcomics
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-26 19:21:50 |
-| Updated              | 2023-02-02 01:47:45 |
-| Last Scraped         | 2023-06-19 11:35:28 |

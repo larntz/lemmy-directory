@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notinteresting"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:39:36"
+published: "2023-06-14 08:58:48"
 subscribers: 20
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Not interesting... on lemmy.world
-
-[[home](/)]
-[[/c/notinteresting 🌎](https://lemmy.world/c/notinteresting)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to /c/NotInteresting! This is an alternative to the subreddit /r/NotInteresting on Reddit.<br><br>This is a community for things that are not interesting at all.<br><br>Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 08:58:48 |
-| Updated              | 2023-06-15 06:39:36 |
-| Last Scraped         | 2023-06-19 11:36:37 |

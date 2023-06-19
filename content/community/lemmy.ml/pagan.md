@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pagan"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-11-06 08:33:28"
+published: "2020-11-06 06:37:52"
 subscribers: 33
 posts: 4
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Spiritual Scientists on lemmy.ml
-
-[[home](/)]
-[[/c/pagan 🌎](https://lemmy.ml/c/pagan)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place for like-minded folks to discuss their own forms of paganism. This community supports scientific advances as well as pagan spiritualism. We know lavender is great in a bath to relax you, but we also know that it won't prevent measles, that's what vaccines are for.<br><br>Rules:<br>1. Be excellent to each other<br><br>*banner by trichomaniac
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 4  |
-| Comments             | 11  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-06 06:37:52 |
-| Updated              | 2020-11-06 08:33:28 |
-| Last Scraped         | 2023-06-19 11:36:46 |

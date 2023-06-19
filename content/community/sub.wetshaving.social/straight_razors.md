@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/straight_razors"
 host: sub.wetshaving.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 14:44:16"
 subscribers: 12
 posts: 3
 comments: 11
@@ -22,36 +23,3 @@ tags:
 - "sub_wetshaving_social"
 
 ---
-
-# /c/Straight Razors on sub.wetshaving.social
-
-[[home](/)]
-[[/c/straight_razors 🌎](https://sub.wetshaving.social/c/straight_razors)]
-[[sub.wetshaving.social](/instances/sub_wetshaving_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Straight razor use, honing and restoration
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 3  |
-| Comments             | 11  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:44:16 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/goldcoast"
 host: aussie.zone
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:54:42"
+published: "2023-06-10 05:23:24"
 subscribers: 28
 posts: 4
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "aussie_zone"
 
 ---
-
-# /c/Gold Coast on aussie.zone
-
-[[home](/)]
-[[/c/goldcoast 🌎](https://aussie.zone/c/goldcoast)]
-[[aussie.zone](/instances/aussie_zone)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss the Gold Coast.<br><br>Please follow the  [aussie.zone](https://aussie.zone) rules and be nice to each other.<br><br>Banner Credit: [@Stoney@aussie.zone](https://aussie.zone/u/Stoney) <br><br>Icon Credit:  [From Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borobi_mascot_of_the_2018_Commonwealth_Games_at_Surfers_Paradise,_Queensland_01.jpg) []() []()
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 4  |
-| Comments             | 8  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 05:23:24 |
-| Updated              | 2023-06-15 06:54:42 |
-| Last Scraped         | 2023-06-19 11:35:06 |

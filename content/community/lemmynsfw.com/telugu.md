@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/telugu"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 20:32:20"
+published: "2023-06-12 18:51:31"
 subscribers: 16
 posts: 3
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Telugu on lemmynsfw.com
-
-[[home](/)]
-[[/c/telugu 🌎](https://lemmynsfw.com/c/telugu)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-#**Description**<br><br>This is a community dedicated for Telugu NSFW content.<br><br>#**Rules:**<br><br>- **No Illegal Content:** No underage/involuntary/stolen/private content. Please message the mods directly if you're a creator with content here that you want removed. We will be happy to help you.<br><br>- **Please Be Nice:** This is supposed to be a safe space for everyone. Keep it friendly and don't go to the extremes. Any form of hate/harrasment will result in an immediate ban.<br><br>- **Do Not Spam:** Read the description before posting. Do not spam by posting a barrage of content. Do not post fake/ai generated content. Keep it real.<br><br>In addition to these rules, follow [instance-wide](https://lemmynsfw.com/) rules.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:51:31 |
-| Updated              | 2023-06-16 20:32:20 |
-| Last Scraped         | 2023-06-19 11:35:46 |

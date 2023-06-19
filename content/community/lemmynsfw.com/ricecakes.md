@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ricecakes"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 08:07:24"
+published: "2023-06-13 08:06:45"
 subscribers: 173
 posts: 1
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Rice Cakes  on lemmynsfw.com
-
-[[home](/)]
-[[/c/ricecakes 🌎](https://lemmynsfw.com/c/ricecakes)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Asian ass only, <br>PAAG
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 173 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 08:06:45 |
-| Updated              | 2023-06-13 08:07:24 |
-| Last Scraped         | 2023-06-19 11:35:46 |

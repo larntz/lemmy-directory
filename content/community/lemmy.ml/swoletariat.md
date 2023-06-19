@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swoletariat"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-07-05 20:25:07"
+published: "2020-07-05 20:22:52"
 subscribers: 14
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Seize the Gains of Production on lemmy.ml
-
-[[home](/)]
-[[/c/swoletariat 🌎](https://lemmy.ml/c/swoletariat)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For exercise tips, progress pictures, memes, etc.<br><br>Resources<br><br>Jeff Nippard's Technique Tuesdays<br>https://www.youtube.com/playlist?list=PLp4G6oBUcv8yGQifkb4p_ZOoACPnYslx9<br><br>The Fitness Wiki<br>https://thefitness.wiki/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 14 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-05 20:22:52 |
-| Updated              | 2020-07-05 20:25:07 |
-| Last Scraped         | 2023-06-19 11:36:50 |

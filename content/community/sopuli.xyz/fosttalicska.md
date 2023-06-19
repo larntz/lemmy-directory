@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/fosttalicska"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-14 21:39:56"
 subscribers: 3
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/FostTalicska - A fostok tárháza on sopuli.xyz
-
-[[home](/)]
-[[/c/fosttalicska 🌎](https://sopuli.xyz/c/fosttalicska)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Az r/fosttalicska Lemmy verziója. PirosAranyMikrobi bácsi nem lesz itt egy ideig, de nyugodtan fostoljátok ki magatokat. :D<br><br>Örömmel átadom a stafétát az egyik eredeti talicskás modnak.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 21:39:56 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:32 |

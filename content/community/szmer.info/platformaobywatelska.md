@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/platformaobywatelska"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2023-02-08 09:01:03"
+published: "2021-03-21 09:35:36"
 subscribers: 32
 posts: 27
 comments: 27
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/'zasługi' opozycji on szmer.info
-
-[[home](/)]
-[[/c/platformaobywatelska 🌎](https://szmer.info/c/platformaobywatelska)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Patrzymy władzy na ręce - archiwum działań Platformy Obywatelskiej, Koalicji Obywatelskiej, Koalicji 276 i reszty ugrupowań opozycyjnych.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 32 |
-| Posts                | 27  |
-| Comments             | 27  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-03-21 09:35:36 |
-| Updated              | 2023-02-08 09:01:03 |
-| Last Scraped         | 2023-06-19 11:35:33 |

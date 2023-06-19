@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/nrdli"
 host: lemmy.nrd.li
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-10 16:38:42"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_nrd_li"
 
 ---
-
-# /c/NrdLi on lemmy.nrd.li
-
-[[home](/)]
-[[/c/nrdli 🌎](https://lemmy.nrd.li/c/nrdli)]
-[[lemmy.nrd.li](/instances/lemmy_nrd_li)]
-
-
-## Description 
-
-<blockquote class="description">
-The place for announcements and other official communication about this Lemmy instance.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 16:38:42 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:16 |

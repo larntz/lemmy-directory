@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/zksync"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-23 00:43:34"
+published: "2022-05-23 00:38:03"
 subscribers: 3
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Crypto - zkSync on exploding-heads.com
-
-[[home](/)]
-[[/c/zksync 🌎](https://exploding-heads.com/c/zksync)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-ZkSync is a Layer 2 scaling solution on Ethereum that offers low gas and fast transactions, without compromising on security. People can withdraw assets to Layer 1 at any time.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-23 00:38:03 |
-| Updated              | 2022-05-23 00:43:34 |
-| Last Scraped         | 2023-06-19 11:35:38 |

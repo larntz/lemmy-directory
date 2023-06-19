@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/srilanka"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 12:10:15"
+published: "2023-06-15 05:00:45"
 subscribers: 2
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Sri Lanka on lemmy.world
-
-[[home](/)]
-[[/c/srilanka 🌎](https://lemmy.world/c/srilanka)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:00:45 |
-| Updated              | 2023-06-16 12:10:15 |
-| Last Scraped         | 2023-06-16 22:57:13 |

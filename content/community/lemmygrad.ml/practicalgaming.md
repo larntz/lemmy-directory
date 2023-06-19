@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/practicalgaming"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-03-16 09:47:23"
+published: "2023-03-16 09:45:57"
 subscribers: 39
 posts: 8
 comments: 92
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Practical Gaming on lemmygrad.ml
-
-[[home](/)]
-[[/c/practicalgaming 🌎](https://lemmygrad.ml/c/practicalgaming)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A place dedicated for practical tips like what NOT to get for a gaming setup.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 39 |
-| Posts                | 8  |
-| Comments             | 92  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 9  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-03-16 09:45:57 |
-| Updated              | 2023-03-16 09:47:23 |
-| Last Scraped         | 2023-06-19 11:35:08 |

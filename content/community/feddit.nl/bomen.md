@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/bomen"
 host: feddit.nl
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 11:13:22"
+published: "2023-06-13 14:35:56"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_nl"
 
 ---
-
-# /c/Bomen on feddit.nl
-
-[[home](/)]
-[[/c/bomen 🌎](https://feddit.nl/c/bomen)]
-[[feddit.nl](/instances/feddit_nl)]
-
-
-## Description 
-
-<blockquote class="description">
-Welkom! Dit is een Nederlandse community over wiet, wietnieuws en toebehoren. Voel je vrij om vragen te stellen, leuke grappen te delen, interessante plaatjes te sturen of waar je maar ook zin in hebt!<br>Naam gebaseerd op de Engelse term “Trees”.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 14:35:56 |
-| Updated              | 2023-06-14 11:13:22 |
-| Last Scraped         | 2023-06-19 11:34:55 |

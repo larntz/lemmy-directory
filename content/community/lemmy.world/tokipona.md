@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tokipona"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 19:37:07"
+published: "2023-06-12 21:30:43"
 subscribers: 23
 posts: 5
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/toki pona on lemmy.world
-
-[[home](/)]
-[[/c/tokipona 🌎](https://lemmy.world/c/tokipona)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-toki! ni li kulupu sin pi toki pona lon lipu Lemi!<br><br>Rules<br>---<br><br>1. Be nice and treat others the way you want to be treated.<br>2. Posts must be in, about or linked to *toki pona* in some way.<br>3. Please don't behave in a way that would require of writing more rules.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 5  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 21:30:43 |
-| Updated              | 2023-06-15 19:37:07 |
-| Last Scraped         | 2023-06-19 11:36:39 |

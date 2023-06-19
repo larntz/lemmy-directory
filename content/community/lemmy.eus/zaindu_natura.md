@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/zaindu_natura"
 host: lemmy.eus
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-28 15:30:45"
+published: "2021-05-26 11:40:05"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_eus"
 
 ---
-
-# /c/Lurraren, landareen eta naturaren zaintza eta ezagutza on lemmy.eus
-
-[[home](/)]
-[[/c/zaindu_natura 🌎](https://lemmy.eus/c/zaindu_natura)]
-[[lemmy.eus](/instances/lemmy_eus)]
-
-
-## Description 
-
-<blockquote class="description">
-Lurraren, landareen eta naturaren zaintzaz eta ezagutzaz idazteko txokoa.<br><br>+ Nola zaindu?<br>+ Nola erabili sendabelarrak eta beste landareak gure bizitzetan? <br>+ Nola ezberdindu espezieak?<br><br>Beste izakiekiko errespetuz jokatu.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-26 11:40:05 |
-| Updated              | 2021-05-28 15:30:45 |
-| Last Scraped         | 2023-06-19 11:35:28 |

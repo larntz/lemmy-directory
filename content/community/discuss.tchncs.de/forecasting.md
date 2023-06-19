@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/forecasting"
 host: discuss.tchncs.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 15:44:09"
+published: "2023-06-17 15:37:29"
 subscribers: 3
 posts: 12
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "discuss_tchncs_de"
 
 ---
-
-# /c/forecasting on discuss.tchncs.de
-
-[[home](/)]
-[[/c/forecasting 🌎](https://discuss.tchncs.de/c/forecasting)]
-[[discuss.tchncs.de](/instances/discuss_tchncs_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Forecasting, Predictions, Future<br><br>Related community: [!predictions@lemmy.ca](https://lemmy.ca/c/predictions)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 12  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 15:37:29 |
-| Updated              | 2023-06-17 15:44:09 |
-| Last Scraped         | 2023-06-19 11:34:55 |

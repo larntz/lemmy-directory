@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/godstest"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 22:40:27"
+published: "2023-06-11 18:22:45"
 subscribers: 8
 posts: 2
 comments: 22
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/God's Test on sh.itjust.works
-
-[[home](/)]
-[[/c/godstest 🌎](https://sh.itjust.works/c/godstest)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-here i test shit<br><br>link to this:<br><br>[metal community](/c/motorhead@lemmy.world)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 22  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 18:22:45 |
-| Updated              | 2023-06-12 22:40:27 |
-| Last Scraped         | 2023-06-19 11:35:05 |

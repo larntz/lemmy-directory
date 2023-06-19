@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/workslackpics"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-05 14:21:52"
+published: "2022-04-18 17:37:12"
 subscribers: 7
 posts: 8
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Slack Pics on lemmy.ml
-
-[[home](/)]
-[[/c/workslackpics 🌎](https://lemmy.ml/c/workslackpics)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Something funny happen on Slack at work? Want to post some leaks and get fired? This is the place to be~!<br><br>📜 Rules:<br><br>📫 Post original content!<br><br>🏡 Do not dox anyone!<br><br>😼 Have fun!<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 8  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-18 17:37:12 |
-| Updated              | 2022-08-05 14:21:52 |
-| Last Scraped         | 2023-06-19 11:36:43 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/folkmetal"
 host: lemmy.helvetet.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 22:48:49"
+published: "2023-06-10 22:43:08"
 subscribers: 8
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_helvetet_eu"
 
 ---
-
-# /c/Folk Metal on lemmy.helvetet.eu
-
-[[home](/)]
-[[/c/folkmetal 🌎](https://lemmy.helvetet.eu/c/folkmetal)]
-[[lemmy.helvetet.eu](/instances/lemmy_helvetet_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-Also check out other metal music communities:<br>- [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) <br>- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) <br>- [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)<br>- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 22:43:08 |
-| Updated              | 2023-06-10 22:48:49 |
-| Last Scraped         | 2023-06-19 11:35:28 |

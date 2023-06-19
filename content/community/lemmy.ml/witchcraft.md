@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/witchcraft"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-07-26 20:16:21"
 subscribers: 38
 posts: 11
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Witchcraft on lemmy.ml
-
-[[home](/)]
-[[/c/witchcraft 🌎](https://lemmy.ml/c/witchcraft)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-* cultural appropriation from exploited peoples will be moderated with gusto, but do not cry to the mod about a non-Italian getting into *stregheria* or a non-Scandinavian casting runes <br>* linking to an Etsy once or so is fine, but no spam<br>* please don't promote the arbitrary use of endangered species (e.g., palo santo that's *Bulnesia sarmientoi*) by modern practitioners <br>* some people's practice is religious, some people's practice is secular, let's all be respectful 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 11  |
-| Comments             | 10  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-26 20:16:21 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 22:57:45 |

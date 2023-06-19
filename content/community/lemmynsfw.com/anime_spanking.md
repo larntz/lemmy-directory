@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/anime_spanking"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:18:19"
+published: "2023-06-13 18:05:10"
 subscribers: 88
 posts: 11
 comments: 2
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Anime Spanking on lemmynsfw.com
-
-[[home](/)]
-[[/c/anime_spanking 🌎](https://lemmynsfw.com/c/anime_spanking)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-- Only anime/drawn art allowed, post other content at [!spanking@lemmynsfw.com](https://lemmynsfw.com/c/spanking) <br><br>- Please be polite to each other. No hate speech, no trolling.<br><br>- This sub is strictly NSFW and 18+<br><br>- If you know the source, please post it as comment.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 88 |
-| Posts                | 11  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 18:05:10 |
-| Updated              | 2023-06-13 18:18:19 |
-| Last Scraped         | 2023-06-19 11:35:46 |

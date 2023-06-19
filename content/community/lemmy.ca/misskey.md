@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/misskey"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2022-08-26 13:27:47"
+published: "2022-07-09 07:56:06"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Misskey on lemmy.ca
-
-[[home](/)]
-[[/c/misskey 🌎](https://lemmy.ca/c/misskey)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-An interplanetary microblogging platform <br><br>Also see:<br>* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)<br>* [Fedizens](https://lemmy.ca/c/fedizens)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-07-09 07:56:06 |
-| Updated              | 2022-08-26 13:27:47 |
-| Last Scraped         | 2023-06-19 11:35:36 |

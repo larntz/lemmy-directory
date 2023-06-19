@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homebrew"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-04-19 19:45:44"
+published: "2023-04-19 18:36:09"
 subscribers: 18
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/homebrew on lemmy.ml
-
-[[home](/)]
-[[/c/homebrew 🌎](https://lemmy.ml/c/homebrew)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The sub for any brew that you do.<br><br>- [recipe and batch tracking](https://brewfather.app)<br>- [mycological cultivation tutorial](https://joyo.dev/JoYo/HomeMyco)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 18 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-04-19 18:36:09 |
-| Updated              | 2023-04-19 19:45:44 |
-| Last Scraped         | 2023-06-19 11:36:57 |

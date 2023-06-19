@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emacs"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 20:40:21"
+published: "2020-01-18 02:35:49"
 subscribers: 685
 posts: 80
 comments: 98
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Emacs on lemmy.ml
-
-[[home](/)]
-[[/c/emacs 🌎](https://lemmy.ml/c/emacs)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Our infinitely powerful editor.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 685 |
-| Posts                | 80  |
-| Comments             | 98  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 25  |
-| Monthly Active Users | 33  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-18 02:35:49 |
-| Updated              | 2023-06-07 20:40:21 |
-| Last Scraped         | 2023-06-19 11:36:48 |

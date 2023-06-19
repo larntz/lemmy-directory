@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/theashes"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 21:10:14"
+published: "2023-06-15 21:06:10"
 subscribers: 1
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/The Ashes on sh.itjust.works
-
-[[home](/)]
-[[/c/theashes 🌎](https://sh.itjust.works/c/theashes)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Banter encouraged.<br><br>JUST SHITPOST IN CAPS SO WE KNOW YOU'RE JOKING, OK CUNTS?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 21:06:10 |
-| Updated              | 2023-06-15 21:10:14 |
-| Last Scraped         | 2023-06-19 11:35:05 |

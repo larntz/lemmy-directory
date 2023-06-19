@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/cherokeexj"
 host: vlemmy.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 18:34:31"
+published: "2023-06-12 16:04:34"
 subscribers: 3
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "vlemmy_net"
 
 ---
-
-# /c/Jeep CherokeeXJ on vlemmy.net
-
-[[home](/)]
-[[/c/cherokeexj 🌎](https://vlemmy.net/c/cherokeexj)]
-[[vlemmy.net](/instances/vlemmy_net)]
-
-
-## Description 
-
-<blockquote class="description">
-All things Jeep XJ/MJ. If it's an XJ or an MJ, it's welcome here. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 16:04:34 |
-| Updated              | 2023-06-13 18:34:31 |
-| Last Scraped         | 2023-06-19 11:35:05 |

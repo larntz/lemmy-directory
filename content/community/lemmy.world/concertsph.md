@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/concertsph"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 11:30:11"
+published: "2023-06-15 14:01:13"
 subscribers: 3
 posts: 8
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/concertsPH on lemmy.world
-
-[[home](/)]
-[[/c/concertsph 🌎](https://lemmy.world/c/concertsph)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-# Welcome! 👋<br>Welcome to concertsPH. Created this community to be updated on the concert scene here in the Philippines. <br><br>### Quick links<br>- [Upcoming Shows](https://lemmy.world/post/157531)<br>- [Ticketing Dates](https://lemmy.world/post/157823)<br><br>### Other PH Communities<br>- [!philippines@lemmy.world](https://lemmy.world/c/philippines) <br>- [!thevisoria@lemmy.world](https://lemmy.world/c/thevisoria) 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 8  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 14:01:13 |
-| Updated              | 2023-06-16 11:30:11 |
-| Last Scraped         | 2023-06-19 11:36:37 |

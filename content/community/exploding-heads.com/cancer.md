@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cancer"
 host: exploding-heads.com
-lastmod: "{[ .Updated }}"
+lastmod: "2022-03-20 21:29:35"
+published: "2022-03-03 07:37:39"
 subscribers: 12
 posts: 17
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "exploding-heads_com"
 
 ---
-
-# /c/Cancer on exploding-heads.com
-
-[[home](/)]
-[[/c/cancer 🌎](https://exploding-heads.com/c/cancer)]
-[[exploding-heads.com](/instances/exploding-heads_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Some interesting links should you or a loved one ever get Cancer.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 17  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-03-03 07:37:39 |
-| Updated              | 2022-03-20 21:29:35 |
-| Last Scraped         | 2023-06-19 11:35:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nosleep"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:34:44"
+published: "2023-06-10 22:35:50"
 subscribers: 78
 posts: 2
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/NoSleep on lemmy.world
-
-[[home](/)]
-[[/c/nosleep 🌎](https://lemmy.world/c/nosleep)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For the dark stories that need sharing. All stories belong to the original authors, and their sharing/use elsewhere needs to be communicated in DM with them. All posts are to be treated as real events. For out of character discussion: https://lemmy.world/c/nosleepooc<br><br>Alternative for the /r/NoSleep subreddit. (If you are a current mod there, contact me for moderation permissions! I simply want to get the horror goodness going here :)<br><br>**Rules**<br><br> 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br> <br>2    Be respectful, especially when disagreeing. Everyone should feel welcome here.<br><br>3    No porn.<br><br>4    No Ads / Spamming.<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 78 |
-| Posts                | 2  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 22:35:50 |
-| Updated              | 2023-06-11 11:34:44 |
-| Last Scraped         | 2023-06-19 11:36:40 |

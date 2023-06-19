@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/natural_process_art"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-03 12:38:59"
 subscribers: 6
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Natural Process Art on lemmy.ml
-
-[[home](/)]
-[[/c/natural_process_art 🌎](https://lemmy.ml/c/natural_process_art)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for the display and discussion of artwork created by utilizing, depicting, or replicating one or more natural processes. These can include but are not limited to: chemistry, tidal forces, gravity, sediment deposition/erosion, lightning, organic processes, burning, eco-graffiti, pyro-chemography, photomicrography, colonization, etc!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-03 12:38:59 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:44 |

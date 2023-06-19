@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lightnovels"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 08:22:27"
+published: "2023-06-12 06:58:32"
 subscribers: 58
 posts: 6
 comments: 16
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/LightNovels on lemmy.ml
-
-[[home](/)]
-[[/c/lightnovels 🌎](https://lemmy.ml/c/lightnovels)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#Welcome!<br><br>This is a discussion-based community based around **translated** Light Novels, Novels, and Web Novels which **originate from Japan**.<br><br>***<br>#Rules: <br><br>* Please properly tag spoilers. <br>* Be civil<br>* Don't ask for or provide pirated content<br>* No Ads / Spamming<br><br>***<br><br>#More: <br><br>**Lightnovel Links:**<br><br>[Ascendance of a Bookworm Community](/c/aoblightnovel@bookwormstory.social)<br><br>**Other Links:**<br><br>[Manga Community](/c/manga@lemmy.ml)<br><br>[Anime Community](/c/anime@lemmy.ml)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 58 |
-| Posts                | 6  |
-| Comments             | 16  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 8  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 06:58:32 |
-| Updated              | 2023-06-14 08:22:27 |
-| Last Scraped         | 2023-06-19 11:36:42 |

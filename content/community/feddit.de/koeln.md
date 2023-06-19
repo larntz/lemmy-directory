@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/koeln"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 16:40:43"
+published: "2023-06-12 08:47:54"
 subscribers: 5
 posts: 1
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Köln on feddit.de
-
-[[home](/)]
-[[/c/koeln 🌎](https://feddit.de/c/koeln)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-[Eine Community für die beste Stadt am Rhein!](https://feddit.de/c/cologne)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 08:47:54 |
-| Updated              | 2023-06-14 16:40:43 |
-| Last Scraped         | 2023-06-19 11:35:39 |

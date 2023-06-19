@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afkarena"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 20:26:17"
+published: "2023-06-14 20:15:55"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/AFK Arena on lemmy.world
-
-[[home](/)]
-[[/c/afkarena 🌎](https://lemmy.world/c/afkarena)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Securing “afkarena” for lemmy.world in case /r/afkarena decides to migrate over.<br><br>Will hand over moderator role and step down if any of the current /r/afkarena mods shoot me a message.<br><br>Otherwise, if another established AFK Arena community arises on another instance, I will delete this community.<br><br>In the meantime, feel free to post any content related to AFK Arena.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 20:15:55 |
-| Updated              | 2023-06-14 20:26:17 |
-| Last Scraped         | 2023-06-19 11:36:38 |

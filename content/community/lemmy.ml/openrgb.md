@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openrgb"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 17:33:10"
+published: "2021-06-09 19:00:51"
 subscribers: 40
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/OpenRGB on lemmy.ml
-
-[[home](/)]
-[[/c/openrgb 🌎](https://lemmy.ml/c/openrgb)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Official website:<br>https://openrgb.org<br><br>GitLab:<br>https://gitlab.com/CalcProgrammer1/OpenRGB
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 40 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-06-09 19:00:51 |
-| Updated              | 2023-06-16 17:33:10 |
-| Last Scraped         | 2023-06-19 11:36:45 |

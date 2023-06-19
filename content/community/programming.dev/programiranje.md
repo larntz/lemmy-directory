@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/programiranje"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 09:56:20"
+published: "2023-06-15 19:28:34"
 subscribers: 9
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Programiranje on programming.dev
-
-[[home](/)]
-[[/c/programiranje 🌎](https://programming.dev/c/programiranje)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa istim.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 19:28:34 |
-| Updated              | 2023-06-16 09:56:20 |
-| Last Scraped         | 2023-06-19 11:35:01 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/meta"
 host: libreauto.app
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 21:11:10"
+published: "2023-06-12 19:43:27"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "libreauto_app"
 
 ---
-
-# /c/Meta (libreauto.app) on libreauto.app
-
-[[home](/)]
-[[/c/meta 🌎](https://libreauto.app/c/meta)]
-[[libreauto.app](/instances/libreauto_app)]
-
-
-## Description 
-
-<blockquote class="description">
-For discussions about the [Libre Automation Lemmy Server](https://libreauto.app) itself
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 19:43:27 |
-| Updated              | 2023-06-12 21:11:10 |
-| Last Scraped         | 2023-06-19 11:35:28 |

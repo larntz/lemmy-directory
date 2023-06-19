@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/music"
 host: prime8s.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-07 23:27:18"
+published: "2023-06-07 15:51:09"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "prime8s_xyz"
 
 ---
-
-# /c/Music on prime8s.xyz
-
-[[home](/)]
-[[/c/music 🌎](https://prime8s.xyz/c/music)]
-[[prime8s.xyz](/instances/prime8s_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-This community is for the discussion of music and sound design, as well as music videos.<br><br>1. No flaming, hate speech, or harassment<br>2. Some people like different music than you. That's ok. Please be nice<br>3. No pornography<br>4. NSFW videos or images must be tagged<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-07 15:51:09 |
-| Updated              | 2023-06-07 23:27:18 |
-| Last Scraped         | 2023-06-19 11:35:03 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/earthporn"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:07:36"
+published: "2023-06-05 20:23:22"
 subscribers: 1558
 posts: 40
 comments: 68
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/EarthPorn on lemmy.ml
-
-[[home](/)]
-[[/c/earthporn 🌎](https://lemmy.ml/c/earthporn)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-The internet's largest community of landscape photographers and Earth lovers.<br><br>Please include the location and [resolution] and [OC] tags (if appropriate) to submissions, like so:<br><br>Overlooking the Sava in Belgrade [6000x3000] [OC]<br><br>Full list of rules in this post [here](https://lemmy.ml/post/1204479)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1558 |
-| Posts                | 40  |
-| Comments             | 68  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 18  |
-| Monthly Active Users | 53  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-05 20:23:22 |
-| Updated              | 2023-06-11 15:07:36 |
-| Last Scraped         | 2023-06-19 11:36:42 |

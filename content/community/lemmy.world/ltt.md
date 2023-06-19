@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ltt"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 00:16:55"
+published: "2023-06-12 00:16:31"
 subscribers: 58
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/LTT on lemmy.world
-
-[[home](/)]
-[[/c/ltt 🌎](https://lemmy.world/c/ltt)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for the discussion of topics surrounding the YouTube channels and businesses owned by Linus Sebastian and Yvonne Ho
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 58 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 00:16:31 |
-| Updated              | 2023-06-12 00:16:55 |
-| Last Scraped         | 2023-06-19 11:36:39 |

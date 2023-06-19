@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/whatisthisbug"
 host: tucson.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 06:17:26"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "tucson_social"
 
 ---
-
-# /c/What Is This Bug?  on tucson.social
-
-[[home](/)]
-[[/c/whatisthisbug 🌎](https://tucson.social/c/whatisthisbug)]
-[[tucson.social](/instances/tucson_social)]
-
-
-## Description 
-
-<blockquote class="description">
-What Is This Bug? Sonoran Desert and Sky Island edition!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 06:17:26 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:18 |

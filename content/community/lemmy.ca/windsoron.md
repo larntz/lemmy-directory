@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/windsoron"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 13:50:02"
+published: "2023-06-04 15:47:38"
 subscribers: 21
 posts: 12
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Windsor, Ontario on lemmy.ca
-
-[[home](/)]
-[[/c/windsoron 🌎](https://lemmy.ca/c/windsoron)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for Windsor, Ontario<br>- Share news, events, or just general discussions. <br><br>Some links<br><br>https://www.citywindsor.ca/<br>https://www.iheartradio.ca/am800<br>https://windsorite.ca/<br>https://windsorstar.com/
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 12  |
-| Comments             | 18  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 15:47:38 |
-| Updated              | 2023-06-18 13:50:02 |
-| Last Scraped         | 2023-06-19 11:35:36 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/photos"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 05:32:40"
+published: "2023-06-11 01:59:08"
 subscribers: 211
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Photos  on lemmy.world
-
-[[home](/)]
-[[/c/photos 🌎](https://lemmy.world/c/photos)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A group for interesting Photos.. Please  mark anything NSFW appropriately 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 211 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 01:59:08 |
-| Updated              | 2023-06-11 05:32:40 |
-| Last Scraped         | 2023-06-16 22:57:15 |

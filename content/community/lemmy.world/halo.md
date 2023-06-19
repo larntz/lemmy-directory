@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/halo"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 20:37:32"
+published: "2023-06-09 20:21:43"
 subscribers: 38
 posts: 2
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Halo on lemmy.world
-
-[[home](/)]
-[[/c/halo 🌎](https://lemmy.world/c/halo)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 38 |
-| Posts                | 2  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 20:21:43 |
-| Updated              | 2023-06-09 20:37:32 |
-| Last Scraped         | 2023-06-16 22:57:16 |

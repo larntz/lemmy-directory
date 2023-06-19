@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/angryupvote"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 14:11:36"
 subscribers: 871
 posts: 15
 comments: 41
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Angry Upvote  on sh.itjust.works
-
-[[home](/)]
-[[/c/angryupvote 🌎](https://sh.itjust.works/c/angryupvote)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-Take my upvote and leave!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 871 |
-| Posts                | 15  |
-| Comments             | 41  |
-| Daily Active Users   | 5  |
-| Weekly Active Users  | 28  |
-| Monthly Active Users | 28  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 14:11:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

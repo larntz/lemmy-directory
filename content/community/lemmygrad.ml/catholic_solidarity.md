@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/catholic_solidarity"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-09 20:22:33"
+published: "2022-04-09 18:54:25"
 subscribers: 13
 posts: 5
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Catholic Solidarity Movement on lemmygrad.ml
-
-[[home](/)]
-[[/c/catholic_solidarity 🌎](https://lemmygrad.ml/c/catholic_solidarity)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-We supports Integralism, Marxism-Leninism, and Catholic Solidarity.  Moved here after being de-facto banned by the neolib scum on Reddit.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 5  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-09 18:54:25 |
-| Updated              | 2022-04-09 20:22:33 |
-| Last Scraped         | 2023-06-19 11:35:08 |

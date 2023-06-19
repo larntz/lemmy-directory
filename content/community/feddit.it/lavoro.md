@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/lavoro"
 host: feddit.it
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2022-05-17 11:03:39"
 subscribers: 128
 posts: 84
 comments: 48
@@ -22,36 +23,3 @@ tags:
 - "feddit_it"
 
 ---
-
-# /c/Lavoratori Tech on feddit.it
-
-[[home](/)]
-[[/c/lavoro 🌎](https://feddit.it/c/lavoro)]
-[[feddit.it](/instances/feddit_it)]
-
-
-## Description 
-
-<blockquote class="description">
-Comunità dedicata alla discussione di temi inerenti al lavoro, alle sue problematiche e all'organizzazione dei lavoratori.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 128 |
-| Posts                | 84  |
-| Comments             | 48  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 14  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-17 11:03:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:54 |

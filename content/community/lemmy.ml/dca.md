@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dca"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-07-04 13:20:39"
+published: "2020-11-30 16:04:56"
 subscribers: 6
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Discord Coding Academy on lemmy.ml
-
-[[home](/)]
-[[/c/dca 🌎](https://lemmy.ml/c/dca)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Lemmy community for [Discord Coding Academy](https://discordcoding.academy)!<br><br>Here are some links:<br><br>* [Discord server](https://discord.gg/RDKfMcC)<br>* [Tutorials](https://dcacademy.gitlab.io/tutorials)<br>* [Open-source projects](https://gitlab.com/dcacademy)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-30 16:04:56 |
-| Updated              | 2021-07-04 13:20:39 |
-| Last Scraped         | 2023-06-19 11:36:52 |

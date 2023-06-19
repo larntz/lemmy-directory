@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/starfield"
 host: lemmy.cafe
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 14:17:09"
 subscribers: 4
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_cafe"
 
 ---
-
-# /c/Starfield on lemmy.cafe
-
-[[home](/)]
-[[/c/starfield 🌎](https://lemmy.cafe/c/starfield)]
-[[lemmy.cafe](/instances/lemmy_cafe)]
-
-
-## Description 
-
-<blockquote class="description">
-
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 14:17:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:15 |

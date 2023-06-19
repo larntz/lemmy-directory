@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/teach_programming"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 05:23:20"
+published: "2023-06-13 04:51:55"
 subscribers: 70
 posts: 3
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Teach Programming on programming.dev
-
-[[home](/)]
-[[/c/teach_programming 🌎](https://programming.dev/c/teach_programming)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 70 |
-| Posts                | 3  |
-| Comments             | 5  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:51:55 |
-| Updated              | 2023-06-13 05:23:20 |
-| Last Scraped         | 2023-06-19 11:35:01 |

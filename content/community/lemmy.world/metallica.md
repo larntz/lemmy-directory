@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metallica"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 16:43:25"
+published: "2023-06-10 14:19:29"
 subscribers: 72
 posts: 7
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Metallica on lemmy.world
-
-[[home](/)]
-[[/c/metallica 🌎](https://lemmy.world/c/metallica)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss anything Metallica related. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 72 |
-| Posts                | 7  |
-| Comments             | 20  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 11  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 14:19:29 |
-| Updated              | 2023-06-10 16:43:25 |
-| Last Scraped         | 2023-06-16 22:57:16 |

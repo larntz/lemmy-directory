@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/scifi"
 host: midwest.social
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-01 12:17:15"
 subscribers: 145
 posts: 3
 comments: 14
@@ -22,36 +23,3 @@ tags:
 - "midwest_social"
 
 ---
-
-# /c/science fiction on midwest.social
-
-[[home](/)]
-[[/c/scifi 🌎](https://midwest.social/c/scifi)]
-[[midwest.social](/instances/midwest_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Sci-fi, a community for science fiction. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 145 |
-| Posts                | 3  |
-| Comments             | 14  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 15  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-01 12:17:15 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:29 |

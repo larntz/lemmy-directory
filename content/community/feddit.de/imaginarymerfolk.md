@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/imaginarymerfolk"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 09:53:21"
+published: "2023-06-19 09:35:43"
 subscribers: 3
 posts: 9
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Imaginary Merfolk on feddit.de
-
-[[home](/)]
-[[/c/imaginarymerfolk 🌎](https://feddit.de/c/imaginarymerfolk)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-A community to share images of mermaids, merman and other humanoid merfolk.<br><br>Rules:<br>- Include the artist in the post title<br>- Include the source in the post body<br>- Depictions of artistic nudity are allowed<br>- Depictions of blood and violence are allowed<br>- Imagery of pornographic and sexual activity is not allowed<br>- Mark posts as NSFW when necessary (nudity/violence)<br><br>Icon and Banner credits:<br>- Icon:  [Sirene by Rossdraws](https://www.artstation.com/artwork/r9QX06)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 9  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-19 09:35:43 |
-| Updated              | 2023-06-19 09:53:21 |
-| Last Scraped         | 2023-06-19 11:35:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ogrodek"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-16 14:08:32"
+published: "2020-08-20 23:50:24"
 subscribers: 91
 posts: 72
 comments: 59
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/ogrodnictwo on szmer.info
-
-[[home](/)]
-[[/c/ogrodek 🌎](https://szmer.info/c/ogrodek)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-'ogrodek' jest sub-em na wszystkie tematy zwiazane z hodowla, kolekcja przeroznych roslin, grzybow, itp. itd.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 91 |
-| Posts                | 72  |
-| Comments             | 59  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-20 23:50:24 |
-| Updated              | 2021-04-16 14:08:32 |
-| Last Scraped         | 2023-06-19 11:35:33 |

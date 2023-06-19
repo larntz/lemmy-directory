@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/porn_gifs"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 19:51:48"
+published: "2023-06-13 19:38:56"
 subscribers: 399
 posts: 8
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Porn Gifs on lemmynsfw.com
-
-[[home](/)]
-[[/c/porn_gifs 🌎](https://lemmynsfw.com/c/porn_gifs)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-**Rules**<br><br>Follow instance-wide rules and:<br><br>Keep it civil<br><br>Have fun
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 399 |
-| Posts                | 8  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 19:38:56 |
-| Updated              | 2023-06-13 19:51:48 |
-| Last Scraped         | 2023-06-19 11:35:45 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/traderjoes"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 17:55:48"
+published: "2023-06-14 19:07:35"
 subscribers: 75
 posts: 3
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Trader Joe's Unofficial on lemmy.world
-
-[[home](/)]
-[[/c/traderjoes 🌎](https://lemmy.world/c/traderjoes)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. <br><br>This is the first lemmy community I have created. Please make suggestions or volunteer to mod.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 3  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 19:07:35 |
-| Updated              | 2023-06-17 17:55:48 |
-| Last Scraped         | 2023-06-19 11:36:37 |

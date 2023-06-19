@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bewegtbilder"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2021-08-30 08:11:51"
+published: "2021-08-27 11:45:13"
 subscribers: 35
 posts: 24
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/Bewegtbilder on feddit.de
-
-[[home](/)]
-[[/c/bewegtbilder 🌎](https://feddit.de/c/bewegtbilder)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Deutsche 🇩🇪 🇨🇭 🇦🇹 Videos und Filme.<br><br>- Keine Werbung,<br>- keine Spoiler.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 24  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-08-27 11:45:13 |
-| Updated              | 2021-08-30 08:11:51 |
-| Last Scraped         | 2023-06-19 11:35:39 |

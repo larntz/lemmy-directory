@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/london"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:04:24"
+published: "2023-06-10 15:51:48"
 subscribers: 59
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/London, UK on lemmy.world
-
-[[home](/)]
-[[/c/london 🌎](https://lemmy.world/c/london)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-The home for Londoners on Lemmy
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 59 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 15:51:48 |
-| Updated              | 2023-06-15 17:04:24 |
-| Last Scraped         | 2023-06-16 22:57:15 |

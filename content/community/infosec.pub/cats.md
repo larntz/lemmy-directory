@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/cats"
 host: infosec.pub
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:19:37"
+published: "2023-06-11 07:11:42"
 subscribers: 35
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "infosec_pub"
 
 ---
-
-# /c/Cats on infosec.pub
-
-[[home](/)]
-[[/c/cats 🌎](https://infosec.pub/c/cats)]
-[[infosec.pub](/instances/infosec_pub)]
-
-
-## Description 
-
-<blockquote class="description">
-Post cat pics.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 35 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 07:11:42 |
-| Updated              | 2023-06-11 07:19:37 |
-| Last Scraped         | 2023-06-16 11:05:57 |

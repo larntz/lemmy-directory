@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duolingo_yiddish"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 15:46:13"
+published: "2023-06-14 15:45:50"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Duolingo Yiddish on lemmy.world
-
-[[home](/)]
-[[/c/duolingo_yiddish 🌎](https://lemmy.world/c/duolingo_yiddish)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For learners of Yiddish on Duolingo<br><br>פאַר די וואָס לערנען ייִדיש אויף דואָלינגאָ
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 15:45:50 |
-| Updated              | 2023-06-14 15:46:13 |
-| Last Scraped         | 2023-06-19 11:36:39 |

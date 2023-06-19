@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/swift"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 04:46:22"
+published: "2023-06-13 04:44:51"
 subscribers: 49
 posts: 4
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/Swift on programming.dev
-
-[[home](/)]
-[[/c/swift 🌎](https://programming.dev/c/swift)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 49 |
-| Posts                | 4  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:44:51 |
-| Updated              | 2023-06-13 04:46:22 |
-| Last Scraped         | 2023-06-19 11:35:01 |

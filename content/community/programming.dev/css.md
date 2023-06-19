@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/css"
 host: programming.dev
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 06:04:17"
+published: "2023-06-13 06:02:48"
 subscribers: 56
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "programming_dev"
 
 ---
-
-# /c/CSS on programming.dev
-
-[[home](/)]
-[[/c/css 🌎](https://programming.dev/c/css)]
-[[programming.dev](/instances/programming_dev)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 56 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 06:02:48 |
-| Updated              | 2023-06-13 06:04:17 |
-| Last Scraped         | 2023-06-19 11:35:01 |

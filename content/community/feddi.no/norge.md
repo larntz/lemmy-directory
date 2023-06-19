@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddi.no/c/norge"
 host: feddi.no
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 08:47:58"
+published: "2023-06-10 08:46:36"
 subscribers: 4
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddi_no"
 
 ---
-
-# /c/norge on feddi.no
-
-[[home](/)]
-[[/c/norge 🌎](https://feddi.no/c/norge)]
-[[feddi.no](/instances/feddi_no)]
-
-
-## Description 
-
-<blockquote class="description">
-Innhold på norsk <br><br>Content in Norwegian
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 08:46:36 |
-| Updated              | 2023-06-10 08:47:58 |
-| Last Scraped         | 2023-06-19 11:35:17 |

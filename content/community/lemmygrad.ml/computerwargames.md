@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/computerwargames"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 17:24:35"
+published: "2023-06-11 13:38:16"
 subscribers: 20
 posts: 4
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Computer War Games on lemmygrad.ml
-
-[[home](/)]
-[[/c/computerwargames 🌎](https://lemmygrad.ml/c/computerwargames)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-**A place to talk about War Games**<br><br>From Gary Grigsby to John Tiller, Matrix, Slytherine, and many other developers and companies, this is to the place to take about these interests!<br><br>Talk tactics, strategy, whatever you wish, just keep it clean.<br><br>**Rules**<br><br>Wheaton's Law is in effect
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 20 |
-| Posts                | 4  |
-| Comments             | 18  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 8  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 13:38:16 |
-| Updated              | 2023-06-14 17:24:35 |
-| Last Scraped         | 2023-06-19 11:35:08 |

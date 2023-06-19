@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applevision"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 16:39:29"
+published: "2023-06-13 16:34:54"
 subscribers: 25
 posts: 2
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Apple Vision on lemmy.world
-
-[[home](/)]
-[[/c/applevision 🌎](https://lemmy.world/c/applevision)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A discussion space for the upcoming Apple Vision Pro headset and VisionOS platform. Buckle up those wallets ladies and gentlemen. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 4  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:34:54 |
-| Updated              | 2023-06-13 16:39:29 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/vermont"
 host: lemmy.fyi
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 15:16:26"
+published: "2023-06-12 17:46:45"
 subscribers: 2
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fyi"
 
 ---
-
-# /c/vermont on lemmy.fyi
-
-[[home](/)]
-[[/c/vermont 🌎](https://lemmy.fyi/c/vermont)]
-[[lemmy.fyi](/instances/lemmy_fyi)]
-
-
-## Description 
-
-<blockquote class="description">
-Community focused on the state of Vermont.<br><br>**Rules**<br><br>- Don't be a dick<br><br>**Links**<br><br> - [Vermont Craigslist](https://vermont.craigslist.org/)<br> - [State of Vermont Homepage](https://vermont.craigslist.org/)<br> <br>**News**<br> -  [NBC5](https://www.mynbc5.com/)<br> -  [WXAC](https://www.wcax.com)<br> -  [Vermont Public](https://www.vermontpublic.org/)<br> -  [VTDigger](https://vtdigger.org/)<br> -  [myChamplainValley](https://www.mychamplainvalley.com/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 17:46:45 |
-| Updated              | 2023-06-17 15:16:26 |
-| Last Scraped         | 2023-06-19 11:35:21 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.anonion.social/c/test"
 host: lemmy.anonion.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 02:58:53"
+published: "2023-06-11 02:57:30"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_anonion_social"
 
 ---
-
-# /c/test on lemmy.anonion.social
-
-[[home](/)]
-[[/c/test 🌎](https://lemmy.anonion.social/c/test)]
-[[lemmy.anonion.social](/instances/lemmy_anonion_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 02:57:30 |
-| Updated              | 2023-06-11 02:58:53 |
-| Last Scraped         | 2023-06-19 11:35:16 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/naruto"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-16 03:41:49"
+published: "2022-04-15 23:01:21"
 subscribers: 4
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Naruto on lemmy.ml
-
-[[home](/)]
-[[/c/naruto 🌎](https://lemmy.ml/c/naruto)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 4 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-15 23:01:21 |
-| Updated              | 2022-04-16 03:41:49 |
-| Last Scraped         | 2023-06-19 11:36:57 |

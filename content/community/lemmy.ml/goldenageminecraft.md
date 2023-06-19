@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goldenageminecraft"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 00:07:00"
+published: "2023-06-04 08:34:05"
 subscribers: 21
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Golden Age Minecraft on lemmy.ml
-
-[[home](/)]
-[[/c/goldenageminecraft 🌎](https://lemmy.ml/c/goldenageminecraft)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-For old Minecraft users to reminisce, share, and make stuff for anything and everything leading up until official release 1.2.5!<br><br>Builds, Maps, Videos and Discussions are all enxourgaed.<br><br>Rule 1:<br><br>Submit content that's relevant to the old Minecraft versions. Java version 1.2.5 (or equivalent) and below.<br><br>Rule 2:<br><br>No spam, bullying, or just crappy behavior in general.<br><br>Rule 3:<br><br>Properly flair your post.<br><br>Rule 4:<br><br>You may advertise your server only once in the pinned monthly thread. The thread will refresh every month. A server list can also be found here https://mineonline.codie.gg/servers<br><br>Rule 5:<br><br>Do not mention ways to download hacked clients or hacks. Talking about exploits in the game is fine though.<br><br><br><br><br>=========<br><br>How to relive the Golden Age:  <br>Over the years many Minecraft servers have updated or closed, and many versions have broken or been lost.  <br>Fortunately, there's a strong community working on keeping the golden years alive, with new mods, texture packs, servers, all sorts.  <br>If you're new to the community here are some recommendations:<br><br>• **Modification Station** is the go-to place for old mods. https://discord.gg/8Qky5XY  <br>• **Omniarchive** is a large community of archivists who have found many previously lost versions of Minecraft. https://discord.gg/h45wxnE  <br>  - If you're looking for an old version, go here.  <br>• **Betacraft** hosts an archive of old server software. https://betacraft.pl/server-archive/minecraft/<br><br><br>Originally from r/GoldenAgeMinecraft
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 21 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-04 08:34:05 |
-| Updated              | 2023-06-11 00:07:00 |
-| Last Scraped         | 2023-06-19 11:36:48 |

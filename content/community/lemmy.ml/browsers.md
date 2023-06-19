@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/browsers"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-26 14:55:04"
+published: "2021-02-26 00:22:40"
 subscribers: 355
 posts: 30
 comments: 228
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Browsers on lemmy.ml
-
-[[home](/)]
-[[/c/browsers 🌎](https://lemmy.ml/c/browsers)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# About Community <br>This is the community to discuss about browsers. <br><br># Browsers List<br><br>**_Open Source browsers_**<br>- [Beaker Browser](https://beakerbrowser.com/)<br>- [Brave Browser](https://brave.com/)<br>- [Firefox Browser](https://www.mozilla.org/firefox/new/)<br><br>**_Closed Source browsers_**<br>- [Vivaldi](https://vivaldi.com/)<br>- [Microsoft Edge](https://www.microsoft.com/en-us/edge)<br>- [Opera](https://www.opera.com/) <br>- [Chrome](https://www.google.com/intl/en_ca/chrome/) (Not recommended)<br><br>*_List will be updated_*<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 355 |
-| Posts                | 30  |
-| Comments             | 228  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-26 00:22:40 |
-| Updated              | 2021-02-26 14:55:04 |
-| Last Scraped         | 2023-06-19 11:36:55 |

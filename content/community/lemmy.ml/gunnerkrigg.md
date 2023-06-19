@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gunnerkrigg"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-09 11:40:39"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Gunnerkrigg Court, by Tom Siddell on lemmy.ml
-
-[[home](/)]
-[[/c/gunnerkrigg 🌎](https://lemmy.ml/c/gunnerkrigg)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A subreddit for the webcomic Gunnerkrigg Court.<br>[**Start reading here.**](http://www.gunnerkrigg.com/?p=1)<br><br><br>---<br><br><br>#General Rules:<br>1.  No NSFW content of any kind is permitted.<br>1.  Submissions should be related to Tom, the comic, or the subreddit. You should be able to tell it's related without reading the title. This is done case by case.<br>1. Respect each other, don't be a dick. <br>1. Nov 13th is [Katurday](http://www.gunnerkrigg.com/?p=1909). <br>1. Do not spoil anything in the ongoing chapter as we have a number of readers who only read on chapter end.  This means no spoilers in titles and posts about the current chapter must be spoiler marked.<br>[](/sp)<br><br>---<br><br>##Resources:<br>* [Official Patreon](https://www.patreon.com/gunnerkrigg)<br>* [Official Forums](http://gunnerkrigg.proboards.com/)<br>* [Tom Siddell on Twitter](https://twitter.com/gunnerkrigg)<br>* [Tom Siddell on Tumblr](http://gunnerkrigg.tumblr.com/)<br>* [Tom Siddell on Youtube](https://www.youtube.com/user/GunnerkriggCourt)<br>* [Gunnerkrigg Court Wiki](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court_Wiki)  <br>* [The Gunnerkrigg Discord Server](https://discord.gg/uaXbDqu)<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-09 11:40:39 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:37:01 |

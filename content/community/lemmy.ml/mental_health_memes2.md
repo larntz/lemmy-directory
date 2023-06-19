@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mental_health_memes2"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-29 05:14:51"
+published: "2021-09-02 08:39:23"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Bad Mental Health Memes on lemmy.ml
-
-[[home](/)]
-[[/c/mental_health_memes2 🌎](https://lemmy.ml/c/mental_health_memes2)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Sad? Frustrated? You're not the only one dealing with mental illness. It's good to vent sometimes, but please keep it healthy. <br><br>For a more motivational counterpart to this community, check out [Good Mental Health Memes](l/c/mental_health_memes1).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-09-02 08:39:23 |
-| Updated              | 2022-06-29 05:14:51 |
-| Last Scraped         | 2023-06-19 11:36:44 |

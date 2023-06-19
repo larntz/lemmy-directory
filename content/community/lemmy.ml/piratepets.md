@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/piratepets"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-09 22:39:56"
+published: "2023-06-06 22:56:00"
 subscribers: 7
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Pirate Pets on lemmy.ml
-
-[[home](/)]
-[[/c/piratepets 🌎](https://lemmy.ml/c/piratepets)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A celebration of our pets and animals with bits missing or special needs!<br><br>Share pictures or videos of your one-eyed, three-legged pets or those with invisible differences that make them extra special!<br><br>Not a space for medical advice. Please be wholesome!<br><br>Originally  [r/PiratePets](https://old.reddit.com/r/PiratePets/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-06 22:56:00 |
-| Updated              | 2023-06-09 22:39:56 |
-| Last Scraped         | 2023-06-16 11:07:32 |

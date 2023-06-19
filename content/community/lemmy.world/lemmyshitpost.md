@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmyshitpost"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 13:39:55"
+published: "2023-06-10 16:30:55"
 subscribers: 2250
 posts: 162
 comments: 366
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Lemmy Shitpost on lemmy.world
-
-[[home](/)]
-[[/c/lemmyshitpost 🌎](https://lemmy.world/c/lemmyshitpost)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to Lemmy Shitpost. Here you can shitpost to your hearts content.<br><br>Anything and everything goes. Memes, Jokes, Vents and Banter. Though we still have to comply with lemmy.world instance rules. So behave!<br><br><br>...<br><br>**Also check out:**<br><br>**Partnered Communities:**<br><br>1.[Lemmy Review](/c/lemmyreview@lemmy.world)<br><br>2.[Mildly Infuriating](/c/mildlyinfuriating@lemmy.world)<br><br>3.[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)<br><br>4.[No Stupid Questions](/c/nostupidquestions@lemmy.world)<br><br>5.[You Should Know](/c/youshouldknow@lemmy.world)<br><br>...<br>Reach out to [LillianVS](/u/LillianVS@lemmy.world) for inclusion on the sidebar. <br><br>*All communities included on the sidebar are to be made in compliance with the instance rules.*
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2250 |
-| Posts                | 162  |
-| Comments             | 366  |
-| Daily Active Users   | 130  |
-| Weekly Active Users  | 284  |
-| Monthly Active Users | 292  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 16:30:55 |
-| Updated              | 2023-06-16 13:39:55 |
-| Last Scraped         | 2023-06-19 11:36:37 |

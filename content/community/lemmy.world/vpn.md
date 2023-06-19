@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vpn"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 13:08:22"
+published: "2023-06-11 00:50:20"
 subscribers: 93
 posts: 1
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/VPN on lemmy.world
-
-[[home](/)]
-[[/c/vpn 🌎](https://lemmy.world/c/vpn)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for VPN users and those who want to know more about them.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 93 |
-| Posts                | 1  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 00:50:20 |
-| Updated              | 2023-06-14 13:08:22 |
-| Last Scraped         | 2023-06-19 11:36:38 |

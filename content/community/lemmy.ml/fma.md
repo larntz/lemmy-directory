@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fma"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-24 02:02:54"
+published: "2021-04-24 01:48:20"
 subscribers: 61
 posts: 5
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Free Music Archive on lemmy.ml
-
-[[home](/)]
-[[/c/fma 🌎](https://lemmy.ml/c/fma)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-#### Your #1 resource for free music and royalty-free music.<br>Welcome! You are entering a world of amazing, original music from independent artists.  All songs on FMA are free to access and download under Creative Commons.<br>- https://freemusicarchive.org/<br><br>#### Important<br>Lemmy doesn’t have flags yet, so please tag your posts with [Question], [Help], [Other], [Promoting], [Artist], [Album], [Song], [Radio] or other you may think is appropriate.<br><br>#### This is a sister community of<br>- [Free/Libre music](https://lemmy.ml/c/libremusic)<br>- [funkwhale](https://lemmy.ml/c/funkwhale)<br>- [libre.fm](https://lemmy.ml/c/librefm)<br>- [Magnatune](https://lemmy.ml/c/magnatune)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 5  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-24 01:48:20 |
-| Updated              | 2021-04-24 02:02:54 |
-| Last Scraped         | 2023-06-19 11:36:51 |

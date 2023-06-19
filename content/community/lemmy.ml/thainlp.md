@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thainlp"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-05-18 08:02:47"
+published: "2021-05-18 07:55:47"
 subscribers: 29
 posts: 30
 comments: 9
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Thai Natural Language Processing on lemmy.ml
-
-[[home](/)]
-[[/c/thainlp 🌎](https://lemmy.ml/c/thainlp)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-ชุมชนผู้สนใจการประมวลผลภาษาธรรมชาติ (natural language processing) ในภาษาไทย และแบ่งปันความรู้ตามแนวทางซอฟต์แวร์เสรีและข้อมูลเปิด<br>มีงานพบปะแลกเปลี่ยนชื่อ Thai NLP Meetup<br>ไม่เกี่ยวข้องกับบริษัทหรือสถาบันใด ๆ<br>#ThaiNLP
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 30  |
-| Comments             | 9  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-05-18 07:55:47 |
-| Updated              | 2021-05-18 08:02:47 |
-| Last Scraped         | 2023-06-19 11:36:54 |

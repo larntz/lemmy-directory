@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hyprland"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 04:18:35"
+published: "2023-06-17 02:07:33"
 subscribers: 28
 posts: 4
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Hyprland Desktop Environment on lemmy.world
-
-[[home](/)]
-[[/c/hyprland 🌎](https://lemmy.world/c/hyprland)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-An (unnoficial) Hyprland Community in the new Land!                <br>You can share and help each other when using Hyprland here.. :)         <br><br>**Resources**:<br>- [What is Hyprland](https://wiki.archlinux.org/title/Hyprland)<br>- [Wiki](https://wiki.hyprland.org/)<br>- [FAQ](https://wiki.hyprland.org/FAQ/)<br>- [Official Ricing Field](https://hyprland.org/rices)<br>- [Github](https://github.com/hyprwm/Hyprland/)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 4  |
-| Comments             | 7  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-17 02:07:33 |
-| Updated              | 2023-06-17 04:18:35 |
-| Last Scraped         | 2023-06-19 11:36:36 |

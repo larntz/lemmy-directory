@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/playerpiano"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 13:09:26"
+published: "2023-06-14 13:09:00"
 subscribers: 2
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Player Pianos on lemmy.studio
-
-[[home](/)]
-[[/c/playerpiano 🌎](https://lemmy.studio/c/playerpiano)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for player piano enthusiasts.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 13:09:00 |
-| Updated              | 2023-06-14 13:09:26 |
-| Last Scraped         | 2023-06-19 11:34:58 |

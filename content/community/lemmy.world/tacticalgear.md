@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tacticalgear"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 20:17:04"
+published: "2023-06-13 20:13:06"
 subscribers: 8
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Tactical Gear on lemmy.world
-
-[[home](/)]
-[[/c/tacticalgear 🌎](https://lemmy.world/c/tacticalgear)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to discuss gear, guns, usage.<br><br>Rules:<br><br>-No selling, buying, or trading<br><br>-No NSFW content<br><br>-Be civil (No name calling, insults, shaming)<br><br>-No politics unless directly related to gear<br><br>[Multi Instanced with lemm.ee ](https://lemm.ee/c/tacticalgear)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 8 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 20:13:06 |
-| Updated              | 2023-06-13 20:17:04 |
-| Last Scraped         | 2023-06-19 11:36:40 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/california"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 01:07:03"
+published: "2023-06-11 15:30:57"
 subscribers: 201
 posts: 22
 comments: 20
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/California on lemmy.world
-
-[[home](/)]
-[[/c/california 🌎](https://lemmy.world/c/california)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to **/c/California**, an online haven that brings to life the unrivaled diversity and vibrancy of California! This engaging community offers a virtual exploration of the Golden State, taking you from the stunning Pacific coastline to the rugged Sierra Nevada, and every town, city, and landmark in between. Discover California's world-class wineries, stunning national parks, innovative tech scene, robust agricultural heartland, and culturally diverse metropolises. <br><br>Discussions span a wide range of topics—from travel tips and restaurant recommendations to local politics and environmental issues. Whether you're a lifelong resident, a recent transplant, or planning your dream visit, /c/California is your one-stop place to share experiences, ask questions, and celebrate all the things that make California truly unique.<br><br>**Related Communities:**<br><br> [Los Angeles](/c/losangeles@lemmy.world)<br><br> [Bay Area](/c/bayarea@lemmy.world)<br><br>[Oakland](/c/oakland@lemmy.world)<br><br>*[Icon From Chanut - Flaticon](https://www.flaticon.com/free-icons/los-angeles)*
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 201 |
-| Posts                | 22  |
-| Comments             | 20  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 10  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:30:57 |
-| Updated              | 2023-06-16 01:07:03 |
-| Last Scraped         | 2023-06-19 11:36:39 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/muttmutts_place"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-18 19:20:32"
+published: "2023-06-18 18:11:47"
 subscribers: 1
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/MuttMutt's Place on lemmy.world
-
-[[home](/)]
-[[/c/muttmutts_place 🌎](https://lemmy.world/c/muttmutts_place)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-This is just a place where I post a few things.  It's kinda like the void to me and not meant to be a discussion.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 18:11:47 |
-| Updated              | 2023-06-18 19:20:32 |
-| Last Scraped         | 2023-06-19 11:36:35 |

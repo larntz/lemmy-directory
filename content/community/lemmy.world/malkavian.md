@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malkavian"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-12 18:59:43"
 subscribers: 10
 posts: 2
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Clan Malkavian on lemmy.world
-
-[[home](/)]
-[[/c/malkavian 🌎](https://lemmy.world/c/malkavian)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Welcome to the Madness Network.<br><br>**Rules:**<br>1. Fishmalks will be ridiculed.<br>2. Fishmalks ***will be ridiculed***.<br>3. Don't wake Malkav.<br>4. Fuck Baba Yaga<br>6. I forgot what 8 was for!<br>7. You can listen to the voices, but if you start answering back, you might be a Malkav! Here's your sign, get'er dead.<br>5. Schlemiel! Schlimazel! Hasenpfeffer Incorporated<br>8.<br><br>All Rules will be enforced, maybe, probably, can you spare some change?<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 2  |
-| Comments             | 10  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 18:59:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:40 |

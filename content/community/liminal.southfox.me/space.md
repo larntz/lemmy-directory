@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://liminal.southfox.me/c/space"
 host: liminal.southfox.me
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-02-04 02:27:13"
 subscribers: 2
 posts: 1
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "liminal_southfox_me"
 
 ---
-
-# /c/奇怪的地方 on liminal.southfox.me
-
-[[home](/)]
-[[/c/space 🌎](https://liminal.southfox.me/c/space)]
-[[liminal.southfox.me](/instances/liminal_southfox_me)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 1  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-02-04 02:27:13 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:34:49 |

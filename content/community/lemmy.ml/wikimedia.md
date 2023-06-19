@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wikimedia"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-01-29 13:30:39"
+published: "2020-06-28 08:11:17"
 subscribers: 41
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Wikimedia on lemmy.ml
-
-[[home](/)]
-[[/c/wikimedia 🌎](https://lemmy.ml/c/wikimedia)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Wiki-pedia, -tionary, -source, -books, -quote, commons, -versity, -voyage, -news, -data, -species
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-06-28 08:11:17 |
-| Updated              | 2021-01-29 13:30:39 |
-| Last Scraped         | 2023-06-16 22:57:39 |

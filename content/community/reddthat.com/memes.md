@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/memes"
 host: reddthat.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 21:46:27"
+published: "2023-06-15 10:38:57"
 subscribers: 11
 posts: 15
 comments: 5
@@ -22,36 +23,3 @@ tags:
 - "reddthat_com"
 
 ---
-
-# /c/Another Meme on reddthat.com
-
-[[home](/)]
-[[/c/memes 🌎](https://reddthat.com/c/memes)]
-[[reddthat.com](/instances/reddthat_com)]
-
-
-## Description 
-
-<blockquote class="description">
-More memes
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 15  |
-| Comments             | 5  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 5  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 10:38:57 |
-| Updated              | 2023-06-15 21:46:27 |
-| Last Scraped         | 2023-06-19 11:35:02 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/music"
 host: lemmy.coeus.icu
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 05:06:50"
 subscribers: 2
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_coeus_icu"
 
 ---
-
-# /c/Music on lemmy.coeus.icu
-
-[[home](/)]
-[[/c/music 🌎](https://lemmy.coeus.icu/c/music)]
-[[lemmy.coeus.icu](/instances/lemmy_coeus_icu)]
-
-
-## Description 
-
-<blockquote class="description">
-A place to talk about what music you're listening to currently. Or playing any instruments.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 05:06:50 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:21 |

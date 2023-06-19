@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/bazi"
 host: bbs.darkwitch.net
-lastmod: "{[ .Updated }}"
+lastmod: "2023-05-06 13:44:12"
+published: "2023-05-06 12:19:38"
 subscribers: 5
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "bbs_darkwitch_net"
 
 ---
-
-# /c/论八字 on bbs.darkwitch.net
-
-[[home](/)]
-[[/c/bazi 🌎](https://bbs.darkwitch.net/c/bazi)]
-[[bbs.darkwitch.net](/instances/bbs_darkwitch_net)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 5 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-05-06 12:19:38 |
-| Updated              | 2023-05-06 13:44:12 |
-| Last Scraped         | 2023-06-19 11:34:54 |

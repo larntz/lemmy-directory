@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/meta"
 host: sopuli.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 06:42:11"
+published: "2021-02-01 16:02:47"
 subscribers: 289
 posts: 57
 comments: 333
@@ -22,36 +23,3 @@ tags:
 - "sopuli_xyz"
 
 ---
-
-# /c/Meta on sopuli.xyz
-
-[[home](/)]
-[[/c/meta 🌎](https://sopuli.xyz/c/meta)]
-[[sopuli.xyz](/instances/sopuli_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Yhteisö instanssia koskeville tiedotuksille, palautteelle, metakeskustelulle ja avulle. Katso myös [UKK](https://sopuli.xyz/post/13531)!<br><br>Community for announcements regarding the instance, feedback, meta discussion and help. Check the [FAQ](https://sopuli.xyz/post/13531) also!<br><br>Users needing support can also come to our [Matrix Space](https://matrix.to/#/!SJfHjWlTugnKyonyQi:matrix.org?via=matrix.org).<br><br>Tukea tarvitsevat käyttäjät voivat myös tulla [Matrix-tilaamme](https://matrix.to/#/!SJfHjWlTugnKyonyQi:matrix.org?via=matrix.org).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 289 |
-| Posts                | 57  |
-| Comments             | 333  |
-| Daily Active Users   | 6  |
-| Weekly Active Users  | 85  |
-| Monthly Active Users | 108  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-02-01 16:02:47 |
-| Updated              | 2023-06-15 06:42:11 |
-| Last Scraped         | 2023-06-19 11:35:32 |

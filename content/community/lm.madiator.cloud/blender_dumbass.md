@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lm.madiator.cloud/c/blender_dumbass"
 host: lm.madiator.cloud
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-15 18:19:43"
 subscribers: 3
 posts: 2
 comments: 1
@@ -22,36 +23,3 @@ tags:
 - "lm_madiator_cloud"
 
 ---
-
-# /c/The Blender Dumbass Sub-Lemmy on lm.madiator.cloud
-
-[[home](/)]
-[[/c/blender_dumbass 🌎](https://lm.madiator.cloud/c/blender_dumbass)]
-[[lm.madiator.cloud](/instances/lm_madiator_cloud)]
-
-
-## Description 
-
-<blockquote class="description">
-The Sub-Lemmy for anything related to Blender Dumbass.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 18:19:43 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:22 |

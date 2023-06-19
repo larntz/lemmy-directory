@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arkansas"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 21:17:07"
+published: "2023-06-13 20:30:29"
 subscribers: 7
 posts: 6
 comments: 6
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Arkansas on lemmy.world
-
-[[home](/)]
-[[/c/arkansas 🌎](https://lemmy.world/c/arkansas)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Arkansas?
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 6  |
-| Comments             | 6  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 20:30:29 |
-| Updated              | 2023-06-13 21:17:07 |
-| Last Scraped         | 2023-06-19 11:36:39 |

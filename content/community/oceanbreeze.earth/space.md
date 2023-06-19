@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/space"
 host: oceanbreeze.earth
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 16:13:36"
 subscribers: 3
 posts: 2
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "oceanbreeze_earth"
 
 ---
-
-# /c/space on oceanbreeze.earth
-
-[[home](/)]
-[[/c/space 🌎](https://oceanbreeze.earth/c/space)]
-[[oceanbreeze.earth](/instances/oceanbreeze_earth)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 16:13:36 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:21 |

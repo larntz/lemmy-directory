@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pbsod"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 00:20:46"
+published: "2023-06-11 00:19:37"
 subscribers: 7
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Public Blue Screens of Death on lemmy.world
-
-[[home](/)]
-[[/c/pbsod 🌎](https://lemmy.world/c/pbsod)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Public Blue Screens of Death, computer crashes, etc.<br><br>This subreddit is meant for public BSODs, crashes, and other errors.<br><br>Rules:<br><br>1. Direct image/video links only, please.  <br>imgur albums are fine.<br>2. Reposts are fine, but only when the original post is 6+ months old.<br>3. No link shorteners (goo.gl, bit.ly, etc.), they're automatically marked as spam by reddit.<br><br>Please report posts that break the rules.<br><br>Related subreddits:<br><br>* [/r/softwaregore](https://www.reddit.com/r/softwaregore)<br>* [/r/techsupportgore](https://www.reddit.com/r/techsupportgore)<br>* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem)<br>* [/r/bluescreenofdebris](https://www.reddit.com/r/bluescreenofdebris)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 00:19:37 |
-| Updated              | 2023-06-11 00:20:46 |
-| Last Scraped         | 2023-06-19 11:36:42 |

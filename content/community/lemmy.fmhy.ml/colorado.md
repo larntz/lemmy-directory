@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/colorado"
 host: lemmy.fmhy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 20:10:48"
+published: "2023-06-10 19:11:36"
 subscribers: 60
 posts: 19
 comments: 17
@@ -22,36 +23,3 @@ tags:
 - "lemmy_fmhy_ml"
 
 ---
-
-# /c/Colorado on lemmy.fmhy.ml
-
-[[home](/)]
-[[/c/colorado 🌎](https://lemmy.fmhy.ml/c/colorado)]
-[[lemmy.fmhy.ml](/instances/lemmy_fmhy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for all things Colorado! <br><br>Whether you're a local or just curious about the best state, you're welcome here.<br><br>RULES:<br><br>No insults or uncivil behavior<br><br>No hate speech<br><br>No Fake News<br><br>No Trolling (within reason)<br><br>No Extremism<br><br>Memes allowed<br><br>NSFW should be marked as such<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 60 |
-| Posts                | 19  |
-| Comments             | 17  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 12  |
-| Monthly Active Users | 12  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 19:11:36 |
-| Updated              | 2023-06-10 20:10:48 |
-| Last Scraped         | 2023-06-19 11:35:02 |

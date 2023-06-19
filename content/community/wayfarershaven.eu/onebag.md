@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/onebag"
 host: wayfarershaven.eu
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 18:37:57"
+published: "2023-06-12 09:34:31"
 subscribers: 29
 posts: 1
 comments: 2
@@ -22,36 +23,3 @@ tags:
 - "wayfarershaven_eu"
 
 ---
-
-# /c/One Bag on wayfarershaven.eu
-
-[[home](/)]
-[[/c/onebag 🌎](https://wayfarershaven.eu/c/onebag)]
-[[wayfarershaven.eu](/instances/wayfarershaven_eu)]
-
-
-## Description 
-
-<blockquote class="description">
-For those who want to travel with minimal luggage. What's your one bag?<br><br>See also: <br><br>* [One Bag](https://wayfarershaven.eu/c/onebag)<br>* [Her One Bag](https://wayfarershaven.eu/c/heronebag)<br>* [Many Bags](https://wayfarershaven.eu/c/manybaggers)<br>* [Solo Travel](https://wayfarershaven.eu/c/solotravel)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 29 |
-| Posts                | 1  |
-| Comments             | 2  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-12 09:34:31 |
-| Updated              | 2023-06-14 18:37:57 |
-| Last Scraped         | 2023-06-19 11:35:17 |

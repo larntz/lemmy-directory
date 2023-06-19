@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germanrap"
 host: feddit.de
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 07:34:41"
+published: "2023-06-14 07:33:21"
 subscribers: 16
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "feddit_de"
 
 ---
-
-# /c/GermanRap on feddit.de
-
-[[home](/)]
-[[/c/germanrap 🌎](https://feddit.de/c/germanrap)]
-[[feddit.de](/instances/feddit_de)]
-
-
-## Description 
-
-<blockquote class="description">
-Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 16 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 07:33:21 |
-| Updated              | 2023-06-14 07:34:41 |
-| Last Scraped         | 2023-06-19 11:35:39 |

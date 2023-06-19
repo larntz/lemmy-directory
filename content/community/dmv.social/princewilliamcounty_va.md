@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/princewilliamcounty_va"
 host: dmv.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 00:55:38"
+published: "2023-06-15 05:32:29"
 subscribers: 3
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "dmv_social"
 
 ---
-
-# /c/Prince William County, Virginia on dmv.social
-
-[[home](/)]
-[[/c/princewilliamcounty_va 🌎](https://dmv.social/c/princewilliamcounty_va)]
-[[dmv.social](/instances/dmv_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Prince William County, Manassas, Manassas Park, and area
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:32:29 |
-| Updated              | 2023-06-17 00:55:38 |
-| Last Scraped         | 2023-06-19 11:35:20 |

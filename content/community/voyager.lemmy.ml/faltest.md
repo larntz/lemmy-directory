@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/faltest"
 host: voyager.lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-18 04:53:54"
 subscribers: 1
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "voyager_lemmy_ml"
 
 ---
-
-# /c/Testing on voyager.lemmy.ml
-
-[[home](/)]
-[[/c/faltest 🌎](https://voyager.lemmy.ml/c/faltest)]
-[[voyager.lemmy.ml](/instances/voyager_lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 1 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-18 04:53:54 |
-| Updated              | 0001-01-01 00:00:00 |
-| Last Scraped         | 2023-06-19 11:34:42 |

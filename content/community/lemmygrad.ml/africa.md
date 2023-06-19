@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/africa"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-02-23 17:23:38"
+published: "2020-07-23 18:17:32"
 subscribers: 75
 posts: 43
 comments: 41
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Africa on lemmygrad.ml
-
-[[home](/)]
-[[/c/africa 🌎](https://lemmygrad.ml/c/africa)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-African news and politics
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 75 |
-| Posts                | 43  |
-| Comments             | 41  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-07-23 18:17:32 |
-| Updated              | 2021-02-23 17:23:38 |
-| Last Scraped         | 2023-06-19 11:35:09 |

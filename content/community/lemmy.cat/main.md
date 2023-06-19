@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/main"
 host: lemmy.cat
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 14:10:45"
+published: "2023-06-13 13:01:27"
 subscribers: 168
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_cat"
 
 ---
-
-# /c/The Default Community on lemmy.cat
-
-[[home](/)]
-[[/c/main 🌎](https://lemmy.cat/c/main)]
-[[lemmy.cat](/instances/lemmy_cat)]
-
-
-## Description 
-
-<blockquote class="description">
-The Default Community
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 168 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:01:27 |
-| Updated              | 2023-06-13 14:10:45 |
-| Last Scraped         | 2023-06-19 11:34:43 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/language"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 07:51:33"
+published: "2023-06-11 05:10:58"
 subscribers: 23
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Languages of the World on lemmy.world
-
-[[home](/)]
-[[/c/language 🌎](https://lemmy.world/c/language)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussion about languages, linguistics, and language learning.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 23 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 05:10:58 |
-| Updated              | 2023-06-11 07:51:33 |
-| Last Scraped         | 2023-06-19 11:36:39 |

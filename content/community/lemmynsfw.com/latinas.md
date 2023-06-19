@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latinas"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-14 23:38:06"
+published: "2023-06-14 10:28:08"
 subscribers: 131
 posts: 2
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Latinas on lemmynsfw.com
-
-[[home](/)]
-[[/c/latinas 🌎](https://lemmynsfw.com/c/latinas)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Alternative to r/latinas. Posts must feature latina porn, pics, etc. Do not violate any sitewide rules. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 131 |
-| Posts                | 2  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 10:28:08 |
-| Updated              | 2023-06-14 23:38:06 |
-| Last Scraped         | 2023-06-19 11:35:46 |

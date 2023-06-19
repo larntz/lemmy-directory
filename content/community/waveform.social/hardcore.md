@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/hardcore"
 host: waveform.social
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 17:28:07"
+published: "2023-06-15 14:23:29"
 subscribers: 7
 posts: 22
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "waveform_social"
 
 ---
-
-# /c/Hardcore on waveform.social
-
-[[home](/)]
-[[/c/hardcore 🌎](https://waveform.social/c/hardcore)]
-[[waveform.social](/instances/waveform_social)]
-
-
-## Description 
-
-<blockquote class="description">
-Hardcore Punk community for the Fediverse. Feel free to post your music, show dates, and band promo. If you want to add to the resource list below, post your links in the Welcome thread.<br><br>**RESOURCES:**<br><br>-[Massachusetts Show Listings](https://www.safeinacrowd.com/)<br><br>*************
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 7 |
-| Posts                | 22  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 14:23:29 |
-| Updated              | 2023-06-15 17:28:07 |
-| Last Scraped         | 2023-06-19 11:35:17 |

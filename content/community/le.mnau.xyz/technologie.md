@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/technologie"
 host: le.mnau.xyz
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-16 17:33:33"
+published: "2023-06-15 19:28:02"
 subscribers: 2
 posts: 4
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "le_mnau_xyz"
 
 ---
-
-# /c/Technologie on le.mnau.xyz
-
-[[home](/)]
-[[/c/technologie 🌎](https://le.mnau.xyz/c/technologie)]
-[[le.mnau.xyz](/instances/le_mnau_xyz)]
-
-
-## Description 
-
-<blockquote class="description">
-Pro všechny nadšence do technologií
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 2 |
-| Posts                | 4  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 19:28:02 |
-| Updated              | 2023-06-16 17:33:33 |
-| Last Scraped         | 2023-06-19 11:35:30 |

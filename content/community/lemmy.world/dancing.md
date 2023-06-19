@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dancing"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 13:45:36"
+published: "2023-06-10 13:07:27"
 subscribers: 13
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dancing on lemmy.world
-
-[[home](/)]
-[[/c/dancing 🌎](https://lemmy.world/c/dancing)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Community about dancing and dancing related activities; may it be solo dance, social or ball room dance, we welcome everyone.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-10 13:07:27 |
-| Updated              | 2023-06-10 13:45:36 |
-| Last Scraped         | 2023-06-19 11:36:41 |

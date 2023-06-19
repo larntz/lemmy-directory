@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/history"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-17 17:47:41"
+published: "2020-01-12 04:54:34"
 subscribers: 876
 posts: 223
 comments: 170
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/History on lemmy.ml
-
-[[home](/)]
-[[/c/history 🌎](https://lemmy.ml/c/history)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 876 |
-| Posts                | 223  |
-| Comments             | 170  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 11  |
-| Monthly Active Users | 22  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-01-12 04:54:34 |
-| Updated              | 2020-08-17 17:47:41 |
-| Last Scraped         | 2023-06-19 11:36:57 |

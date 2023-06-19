@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/microsoftflightsim"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 11:31:41"
+published: "2023-06-11 08:45:47"
 subscribers: 61
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Microsoft Flight Simulator on lemmy.world
-
-[[home](/)]
-[[/c/microsoftflightsim 🌎](https://lemmy.world/c/microsoftflightsim)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-For all posting and discussion about MSFS 2020<br><br>**Rules**<br><br> 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.<br> <br>2    Be respectful, especially when disagreeing. Everyone should feel welcome here.<br><br>3    No porn.<br><br>4    No Ads / Spamming.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 61 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 4  |
-| Monthly Active Users | 4  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 08:45:47 |
-| Updated              | 2023-06-11 11:31:41 |
-| Last Scraped         | 2023-06-16 22:57:16 |

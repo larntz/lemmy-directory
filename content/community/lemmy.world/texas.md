@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/texas"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-17 22:38:03"
+published: "2023-06-11 06:35:48"
 subscribers: 311
 posts: 53
 comments: 111
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Texas on lemmy.world
-
-[[home](/)]
-[[/c/texas 🌎](https://lemmy.world/c/texas)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-A community for news, current events, and overall topics regarding the state of Texas<br><br>**Other Texas Lemmy Communties to follow**<br><br>[Houston](https://lemmy.world/c/houston) - [Austin](https://lemmy.world/c/austin) - [Dallas-Fortworth](https://lemmy.world/c/dfw) - [San Antonio](https://lemmy.world/c/sanantonio)<br><br>**Sports**<br><br>[Houston Texans](https://lemmy.world/c/texans@lemmy.rogers-net.com) - [Houston Rockets](https://lemmy.world/c/rockets) - [Dallas Cowboys](https://lemmy.world/c/dallascowboys@lemmy.ml)<br><br>[BYPASSING PAYWALLS](https://archive.is/)<br><br>**Rules (Subject to Change)**<br><br>--Be a Decent Human Being<br><br>--Posting news articles: include the source name and exact title from article in your post title<br><br>--Posts must have something to do with Texas<br><br>--Zero tolerance for Racism/Sexism/Ableism/etc.<br><br>--No NSFW content<br><br>--Abide by the rules of lemmy.world
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 311 |
-| Posts                | 53  |
-| Comments             | 111  |
-| Daily Active Users   | 8  |
-| Weekly Active Users  | 45  |
-| Monthly Active Users | 46  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 06:35:48 |
-| Updated              | 2023-06-17 22:38:03 |
-| Last Scraped         | 2023-06-19 11:36:39 |

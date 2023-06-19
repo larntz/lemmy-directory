@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/llm"
 host: lemmy.dbzer0.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-11 15:48:31"
+published: "2023-06-11 15:37:42"
 subscribers: 25
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_dbzer0_com"
 
 ---
-
-# /c/LLM on lemmy.dbzer0.com
-
-[[home](/)]
-[[/c/llm 🌎](https://lemmy.dbzer0.com/c/llm)]
-[[lemmy.dbzer0.com](/instances/lemmy_dbzer0_com)]
-
-
-## Description 
-
-<blockquote class="description">
-Discuss about Large Language models and their clients like KoboldAI or Silly Tavern
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 25 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:37:42 |
-| Updated              | 2023-06-11 15:48:31 |
-| Last Scraped         | 2023-06-19 11:35:16 |

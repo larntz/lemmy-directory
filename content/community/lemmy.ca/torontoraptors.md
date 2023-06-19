@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/torontoraptors"
 host: lemmy.ca
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:40:53"
+published: "2023-06-11 19:04:48"
 subscribers: 41
 posts: 16
 comments: 18
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ca"
 
 ---
-
-# /c/Toronto Raptors on lemmy.ca
-
-[[home](/)]
-[[/c/torontoraptors 🌎](https://lemmy.ca/c/torontoraptors)]
-[[lemmy.ca](/instances/lemmy_ca)]
-
-
-## Description 
-
-<blockquote class="description">
-# TORONTO RAPTORS<br><br>A community for fans of the 2018-19 NBA Champion Toronto Raptors.<br><br>**INFO**<br><br>- Be civil and welcoming<br>- no self-promotion or spam<br>- no trolling or attacks
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 41 |
-| Posts                | 16  |
-| Comments             | 18  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 19:04:48 |
-| Updated              | 2023-06-15 05:40:53 |
-| Last Scraped         | 2023-06-19 11:35:36 |

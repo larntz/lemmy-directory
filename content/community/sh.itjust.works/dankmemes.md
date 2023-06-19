@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/dankmemes"
 host: sh.itjust.works
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 18:50:07"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "sh_itjust_works"
 
 ---
-
-# /c/Dankmemes on sh.itjust.works
-
-[[home](/)]
-[[/c/dankmemes 🌎](https://sh.itjust.works/c/dankmemes)]
-[[sh.itjust.works](/instances/sh_itjust_works)]
-
-
-## Description 
-
-<blockquote class="description">
-COPY PASTE:<br><br>1. If you have to ask yourself 'hmm, is this the sort of meme I should be posting', the answer is definitely 'no'.<br><br>2. No Bigotry or Bullying<br><br>Dankmemes does not tolerate bullying or bigotry. All are welcome here, no matter their race, gender, religion, political beliefs, country of origin, sexuality, fursona, or gaming choices.<br><br>Please stay civil within comment threads. Avoid personal attacks, and do not weaponize a person's user history.<br><br>Yes, ironic death threats are still death threats.<br><br>If you have to ask yourself 'hmm is this the sort of thing I should be saying?', the answer is 'no'. So don't say it.<br><br>3. Don't be a dick!<br><br>Don't be a dick! (yes, posting spoilers counts as being a dick).<br><br>Trolling (including downvote trolling) is not allowed in dankmemes, and posting content purely to get a reaction will not be tolerated.<br><br>You do not need to participate in this community, you are free to leave if you hate it.<br><br>4. Censor any and all personal information from posts and comments<br><br>Censor any and all personal information from posts and comments, or it will be removed. Real or fake! Yours or others! Just don't do it.<br><br>This includes non-verified twitter handles, reddit usernames that aren't watermarks, and all other social media!<br><br>If it doesn't start with a 'u/' (promptly followed by your reddit username), it will get yote!<br>5. No spam, outside links, or videos.<br><br>dankmemes is strictly for your original memes. This is not a platform to advertise your social media network or community. Do not link to any discord servers. And do not post videos.<br><br>No queue flooding - Limit yourself to 5 posts per day, preferably spaced out. Exceeding this number may result in a ban.<br><br>If you need some help to pass the time, try checking out our sister subs for more dankmemes fun: r/Dankexchange & r/Meme_Battles<br><br>6. No Metabaiting<br><br>Do not ask for upvotes, awards, or talk about your cakeday.<br><br>7. No brigading<br><br>Do not participate in bad faith, Do not post links elsewhere directing people to interfere with this community. Raids will result in bans. Keep dankmemes in dankmemes, do not bother other communities.<br><br>8. Keep it dank!<br><br>Keep it dank! This sub is for humor (and the dankest of memes)!<br><br>Mods may use discretion when removing memes that are not relevant or current to preserve the quality of the sub. Poor picture quality and construction (illegible text, bad cropping, etc) may also lead to a post being removed. User feedback (reports, etc) may also be a factor<br><br>9. Mark NSFW and spoilers appropriately<br><br>If your post is NSFW, mark it as NSFW.<br><br>If your post contains spoilers, mark it as spoilers.<br><br>If you have to ask yourself 'hmm is this nsfw and/or spoilers', the answer is 'yes'.<br>10. NO REEEEEEE-POSTS!<br>If you didn't make the meme yourself, don't post it.<br><br>Do not try to game the system or post deleted content without permission. Repost chains are also not permitted. And don't encourage reposting.<br><br>We don't care if you have 'pErMiSsIoN', or if you give 'cReDiT'. It's still reposting.<br><br>On a related note, here's a foolproof way to work out if your post is a repost or not: Ask yourself 'hmm, did I make this meme?'. If the answer to that question is 'no', it's a repost. So don't post it.<br>11. No shitposting<br><br>We have high-ish standards here! Low-effort memes may be removed.<br><br>This includes, but is not limited to:<br><br>    Reactions to text/headlines/social media<br><br>    Non-original memes (copying a concept that someone else used, or containing no original material)<br><br>    Sign images (Sign templates with only text overlays)<br><br>    Comment baiting posts (ama, comment and I'll rate, fuck zodiac signs, which side are you on and any other post where users are asked to respond)<br><br>12. Format your meme correctly. No posts where the title is the meme caption!<br><br>Posts must be formatted correctly. No posts where the title is the meme caption. The caption must be in the meme image, not in the submission title.<br><br>Content that is not a meme at all or that does not make sense will be removed, including photos, screenshots, and blank templates. Properly crop your memes, folks.<br><br>Fanart is still appreciated (who knows? if it's good enough, maybe we might consider it worthy enough to belong in a museum...)<br>13. No agenda posting!<br><br>dankmemes is for dank memes. It’s not a political campaign ground. Absurd memes about politicians are cool, but we are not interested in your activism, or any agenda you’re bandwagoning for a country/cause, on any platform.<br><br>This is not the place for protest petitioning.<br><br>No cesspools: If a post creates a toxic environment in the comments it may be removed. Slur chains, reactionary bait, etc.<br><br>Please keep political comments brief and civil, this not a place for lectures.<br><br>14. Don't be a critic<br><br>Do not heckle or be rude to each other. Criticism should either be constructive, or not given at all.<br><br>Please show OP respect.<br><br>There is no reason to announce that you hate a post. Downvotes are there for that. If the majority of your activity in this sub is complaining, you may be banned.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-16 18:50:07 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:05 |

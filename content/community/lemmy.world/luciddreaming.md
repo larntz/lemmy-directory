@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/luciddreaming"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-13 12:54:38"
 subscribers: 6
 posts: 2
 comments: 3
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Are you dreaming?  on lemmy.world
-
-[[home](/)]
-[[/c/luciddreaming 🌎](https://lemmy.world/c/luciddreaming)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Discussions, memes, talk and stuff related to Lucid Dreams, dreams, methods, sleep science, sleep, etc here. You are free to post memes, casual talk if lds are related in, writing down your dreams here, etc here. <br><br>https://ld4all.com/ <br><br>Ownership may be transferred 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 2  |
-| Comments             | 3  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 12:54:38 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:36:40 |

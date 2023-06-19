@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/dongistan"
 host: lemmygrad.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-05-12 12:14:23"
+published: "2022-05-09 12:36:13"
 subscribers: 57
 posts: 26
 comments: 116
@@ -22,36 +23,3 @@ tags:
 - "lemmygrad_ml"
 
 ---
-
-# /c/Dongistan on lemmygrad.ml
-
-[[home](/)]
-[[/c/dongistan 🌎](https://lemmygrad.ml/c/dongistan)]
-[[lemmygrad.ml](/instances/lemmygrad_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-This is a shitposting sub about all kinds of niche things on the internet.<br><br>We're a Marxist-Leninist Community. <br><br>We uphold Imran khan’s ba’athist republic of Libya.<br><br>TG Branch: https://t.me/+Gu8Q61tzlfwzYzM0<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 57 |
-| Posts                | 26  |
-| Comments             | 116  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-05-09 12:36:13 |
-| Updated              | 2022-05-12 12:14:23 |
-| Last Scraped         | 2023-06-19 11:35:08 |

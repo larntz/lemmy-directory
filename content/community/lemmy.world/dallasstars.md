@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dallasstars"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 20:57:45"
+published: "2023-06-14 12:55:06"
 subscribers: 6
 posts: 10
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Dallas Stars on lemmy.world
-
-[[home](/)]
-[[/c/dallasstars 🌎](https://lemmy.world/c/dallasstars)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-Let's go Stars!<br><br>RELATED COMMUNITIES<br><br>https://lemmy.ca/c/hockey<br><br>GUIDELINES<br><br>Posts should be related to the Dallas Stars and it's farm clubs.<br>Empathy is valued here<br>All rules for the lemmy.world instance apply, as always. See: https://mastodon.world/about#
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 10  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-14 12:55:06 |
-| Updated              | 2023-06-15 20:57:45 |
-| Last Scraped         | 2023-06-19 11:36:38 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/anarchizm"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "2021-06-20 15:46:04"
+published: "2021-04-27 21:05:51"
 subscribers: 107
 posts: 130
 comments: 201
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/Anarchizm - Pod brukiem jest plaża! on szmer.info
-
-[[home](/)]
-[[/c/anarchizm 🌎](https://szmer.info/c/anarchizm)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 107 |
-| Posts                | 130  |
-| Comments             | 201  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 7  |
-| Monthly Active Users | 7  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-27 21:05:51 |
-| Updated              | 2021-06-20 15:46:04 |
-| Last Scraped         | 2023-06-19 11:35:33 |

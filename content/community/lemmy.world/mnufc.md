@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mnufc"
 host: lemmy.world
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-12 12:58:56"
+published: "2023-06-11 15:40:55"
 subscribers: 9
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_world"
 
 ---
-
-# /c/Minnesota United FC on lemmy.world
-
-[[home](/)]
-[[/c/mnufc 🌎](https://lemmy.world/c/mnufc)]
-[[lemmy.world](/instances/lemmy_world)]
-
-
-## Description 
-
-<blockquote class="description">
-_Minnesota Black and Blue_<br><br>News and discussion of Minnesota United FC, the MLS club from Minneapolis/St. Paul, Minnesota<br><br>**Rules:**<br>1. Don't be a dick<br>2. Occasional news about former players is acceptable, but don't overdo it please.<br>4. Any posted tweets/toots must include the author's name/username in the title.<br>5. Don't editorialize headlines from linked stories or content from tweets/toots.<br>6. Watch this space for further developments, I'm just getting this thing started.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 9 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 15:40:55 |
-| Updated              | 2023-06-12 12:58:56 |
-| Last Scraped         | 2023-06-16 22:57:18 |

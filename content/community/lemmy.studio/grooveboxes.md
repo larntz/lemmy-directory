@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/grooveboxes"
 host: lemmy.studio
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 04:23:00"
+published: "2023-06-13 04:17:48"
 subscribers: 11
 posts: 2
 comments: 24
@@ -22,36 +23,3 @@ tags:
 - "lemmy_studio"
 
 ---
-
-# /c/Grooveboxes, workstations and more! on lemmy.studio
-
-[[home](/)]
-[[/c/grooveboxes 🌎](https://lemmy.studio/c/grooveboxes)]
-[[lemmy.studio](/instances/lemmy_studio)]
-
-
-## Description 
-
-<blockquote class="description">
-If you want to chat about grooveboxes, workstations or other do-it-all music production gear, feel free to chat about it here!<br><br>Self-promotion is totally okay as long as you aren't just going absolutely crazy with it. :)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 11 |
-| Posts                | 2  |
-| Comments             | 24  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 6  |
-| Monthly Active Users | 6  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 04:17:48 |
-| Updated              | 2023-06-13 04:23:00 |
-| Last Scraped         | 2023-06-19 11:34:58 |

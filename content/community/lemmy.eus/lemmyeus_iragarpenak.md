@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/main"
 host: lemmy.eus
-lastmod: "{[ .Updated }}"
+lastmod: "2020-12-02 19:20:01"
+published: "2020-11-28 17:58:52"
 subscribers: 665
 posts: 83
 comments: 59
@@ -22,36 +23,3 @@ tags:
 - "lemmy_eus"
 
 ---
-
-# /c/Lemmy.eus iragarpenak on lemmy.eus
-
-[[home](/)]
-[[/c/lemmyeus_iragarpenak 🌎](https://lemmy.eus/c/main)]
-[[lemmy.eus](/instances/lemmy_eus)]
-
-
-## Description 
-
-<blockquote class="description">
-Hemen **Lemmy.eus** webguneari buruzko albiste eta jakinarazpen garrantzitsuak argitaratzen dira.<br><br>Mesedez, ez idatzi hemen. Komunitate honetan, iragarpenak *administratzaileek bakarrik* egiten dituzte.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 665 |
-| Posts                | 83  |
-| Comments             | 59  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-11-28 17:58:52 |
-| Updated              | 2020-12-02 19:20:01 |
-| Last Scraped         | 2023-06-19 11:35:28 |

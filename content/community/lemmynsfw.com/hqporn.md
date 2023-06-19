@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hqporn"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-19 09:59:44"
+published: "2023-06-11 09:32:44"
 subscribers: 650
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/High Quality Porn on lemmynsfw.com
-
-[[home](/)]
-[[/c/hqporn 🌎](https://lemmynsfw.com/c/hqporn)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-High res, non-pixelied porn videos without watermark.<br><br>**Instance rules applies here.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 650 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-11 09:32:44 |
-| Updated              | 2023-06-19 09:59:44 |
-| Last Scraped         | 2023-06-19 11:35:46 |

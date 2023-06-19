@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/autism_uk"
 host: feddit.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 13:58:26"
+published: "2023-06-13 13:09:01"
 subscribers: 33
 posts: 1
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "feddit_uk"
 
 ---
-
-# /c/Autism UK on feddit.uk
-
-[[home](/)]
-[[/c/autism_uk 🌎](https://feddit.uk/c/autism_uk)]
-[[feddit.uk](/instances/feddit_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-A general chat and support community for autistic people in the UK.<br><br><br>**Community Rules**<br>=========<br>**Think before you post. Is your post relevant to the community?**<br><br>Is your post autism-related?<br>Is your post UK-related?<br>If 'yes' to both, please post.<br>If 'no' to either or both, or if you're not sure, please ask.<br><br>**Think before you comment.**<br><br>Please be kind to each other.<br>Please treat everyone with respect.<br>Please be gracious when communications get mixed up.<br><br>'When' because we are each unique, and while there may be some overlap between some of us in our communication styles, there will also be differences.<br><br><br>**Discrimination will not be tolerated.**<br><br>This includes (but is not limited to) ableism, racism and colourism, sexism, homophobia, transphobia, ageism, classism, elitism, religious affiliation, weight stigma / body shaming, and diagnosis status (self-diagnosis is valid).<br>Please think before you post and comment, and be kind to each other.<br><br>**No promotions, advertisements, fundraisers, or surveys without permission.**<br><br>**Make it clear if a post or comment is NSFW (Not Safe For Work).**<br><br>Use NSFW in the subject line or at the start of a comment as a warning to the community.<br><br>**Make it clear if a post or comment is potentially triggering.**<br><br>Use TW in the subject line or at the start of a comment as a warning to the community. TW = Trigger Warning.<br><br>**Do not promote Autism Speaks.**<br><br>---<br>**Community guidelines:**<br>=========<br>**Accessibility**<br><br>If your post includes a photo, please add alt text to the photo, or include an image description. <br>If your post includes a screenshot with text, please transcribe the text in your post.<br>If your post or comment includes an acronym or abbreviation, please use the full-length version of it in its first instance. For example:<br><br>Your local IAS (Integrated Autism Service) may be able to help with that. There's a link to IAS is in the sidebar.<br><br>I had to go through my local CMHT (Community Mental Health Team). The CMHT then did a referral.<br><br>Exceptions: NSFW (Not Safe For Work) and TW (Trigger Warning) - these are common acronyms across Lemmy; NHS (National Health Service)<br><br>**Respect** <br><br>Please respect others' privacy. <br>Please do not reshare anything from this community, without the original poster's permission. <br>Please do not post screenshots of private messages, or screenshots of posts from private communities to this community without the original poster's permission. <br>Please do not send private messages without consent. It is okay to comment, Can I send you a message? or Please feel free to message me about this.<br><br>**Trigger Warnings** <br><br>Trigger warnings help to add a level of consent to posts and comments. By adding a trigger warning, you indicate that the content beyond it may not be safe or suitable for everyone. You must add TW as a trigger warning for potentially triggering content.<br><br>You can also make it easier for readers to choose whether to keep reading by adding the type of trigger to your warning. Adding the type of trigger is optional. [You can read more about types of triggers in this article from Medium.](https://medium.com/@UntoNuggan/trigger-warnings-101-a-beginners-guide-e9fc90c6ba0a)<br><br><br>---<br>**Related (and potentially relevant) Communities:**<br>=========<br><br>[!autism@lemmy.world](https://lemmy.world/c/autism) <br><br>[!autism@lemmy.ml](https://lemmy.ml/c/autism) <br><br>~~[!neurodivergence@beehaw.org](https://beehaw.org/c/neurodivergence) <br>~~ *(Beehaw is currently defederated. This means you will need a separate account on Beehaw if you wish to take part in this community.)*<br><br>[!adhd@lemmy.world](https://lemmy.world/c/adhd) <br><br>[!adhdmemes@lemmy.ml](https://lemmy.ml/c/adhdmemes) <br><br><br>---<br>**Useful websites:**<br>=========<br>UK -  [National Autistic Society](https://www.autism.org.uk/)<br><br>Wales - [Gwasanaeth Awtistiaeth Integredig/ Integrated Autism Service](https://autismwales.org)<br><br><br>---<br>Have I missed something important or useful in this sidebar?  [Please feel free to send me a message about it!](https://feddit.uk/u/El_)<br><br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 33 |
-| Posts                | 1  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 13:09:01 |
-| Updated              | 2023-06-15 13:58:26 |
-| Last Scraped         | 2023-06-19 11:35:14 |

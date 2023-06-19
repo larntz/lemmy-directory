@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/forcedcreampie"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-13 03:00:02"
+published: "2023-06-13 01:52:29"
 subscribers: 446
 posts: 5
 comments: 1
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/Forced Creampie on lemmynsfw.com
-
-[[home](/)]
-[[/c/forcedcreampie 🌎](https://lemmynsfw.com/c/forcedcreampie)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Videos where a woman forces a man to cum inside her (in that order exclusively).
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 446 |
-| Posts                | 5  |
-| Comments             | 1  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 3  |
-| Monthly Active Users | 3  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-13 01:52:29 |
-| Updated              | 2023-06-13 03:00:02 |
-| Last Scraped         | 2023-06-19 11:35:46 |

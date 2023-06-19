@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcha_playin"
 host: lemm.ee
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 05:20:24"
+published: "2023-06-15 05:19:20"
 subscribers: 30
 posts: 1
 comments: 26
@@ -22,36 +23,3 @@ tags:
 - "lemm_ee"
 
 ---
-
-# /c/Whatcha Playin? on lemm.ee
-
-[[home](/)]
-[[/c/whatcha_playin 🌎](https://lemm.ee/c/whatcha_playin)]
-[[lemm.ee](/instances/lemm_ee)]
-
-
-## Description 
-
-<blockquote class="description">
-A place in the fediverse to talk about the games you're playing and share your thoughts on them.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 30 |
-| Posts                | 1  |
-| Comments             | 26  |
-| Daily Active Users   | 2  |
-| Weekly Active Users  | 13  |
-| Monthly Active Users | 13  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 05:19:20 |
-| Updated              | 2023-06-15 05:20:24 |
-| Last Scraped         | 2023-06-19 11:35:16 |

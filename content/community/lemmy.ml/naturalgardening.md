@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/naturalgardening"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-16 18:52:05"
+published: "2021-12-16 18:46:42"
 subscribers: 28
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Natural Gardening on lemmy.ml
-
-[[home](/)]
-[[/c/naturalgardening 🌎](https://lemmy.ml/c/naturalgardening)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-# Welcome to /c/naturalgardening!<br><br>**Natural gardening is for all; permaculture is often for upper middle class hipsters**. Join us! There are several schools of thought regarding natural gardening, the most notable two being in Korean and Japanese style.<br><br>## Introduction to Japanese Natural Gardening<br><br>Japanese farming would be nothing without the pioneering works of [Masanobu Fukuoka](https://en.wikipedia.org/wiki/Masanobu_Fukuoka). His book on “do nothing” agriculture, _The One Straw Revolution_, has inspired millions around the world.<br><br>### Works<br><br>- Book, in Japanese: _[The One-Straw Revolution](https://f-masanobu.jp/en/product/book-theonestrawrevolution-new/?pjax=true)_ <br>- [Fukuoka’s official website](https://f-masanobu.jp/en/about/)<br><br>## Introduction to Korean Natural Gardening<br><br>Inspired by the works of Hankyu Cho and his son and contemporary Youngsang Cho, Korean Natural Gardening works with plants and their soil alike, creating inputs with near zero cost.<br><br>### Works<br><br>- Site: [Proof of Korean Natural Farming working in Hawai’i](https://naturalfarminghawaii.net/)<br>- PDF: _[JADAM Organic Farming: the way to Ultra-Low-Cost agriculture](https://lafarrucanews.files.wordpress.com/2020/04/youngsang-cho-jadam-organic-farming_-the-way-to-ultra-low-cost-agriculture-jadam-2016-1.pdf)_ by Youngsang Cho<br>- Site: [Chris Trump](https://christrump.com/)’s personal website<br><br>**Banner image created by Pauloleong2002 on Wikimedia Commons, and icon by Laila nav in the same place.**
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 28 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-16 18:46:42 |
-| Updated              | 2021-12-16 18:52:05 |
-| Last Scraped         | 2023-06-16 22:57:45 |

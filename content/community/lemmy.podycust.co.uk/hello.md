@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/hello"
 host: lemmy.podycust.co.uk
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-10 11:09:10"
+published: "2023-06-02 14:37:11"
 subscribers: 3
 posts: 2
 comments: 8
@@ -22,36 +23,3 @@ tags:
 - "lemmy_podycust_co_uk"
 
 ---
-
-# /c/Welcome on lemmy.podycust.co.uk
-
-[[home](/)]
-[[/c/hello 🌎](https://lemmy.podycust.co.uk/c/hello)]
-[[lemmy.podycust.co.uk](/instances/lemmy_podycust_co_uk)]
-
-
-## Description 
-
-<blockquote class="description">
-Come say hi!
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 3 |
-| Posts                | 2  |
-| Comments             | 8  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 2  |
-| Monthly Active Users | 5  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-02 14:37:11 |
-| Updated              | 2023-06-10 11:09:10 |
-| Last Scraped         | 2023-06-19 11:34:54 |

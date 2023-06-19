@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/outside"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2020-08-25 20:44:46"
+published: "2020-08-25 20:38:19"
 subscribers: 19
 posts: 3
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Outside on lemmy.ml
-
-[[home](/)]
-[[/c/outside 🌎](https://lemmy.ml/c/outside)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Outdoors / Nature / Green Things
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 19 |
-| Posts                | 3  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-08-25 20:38:19 |
-| Updated              | 2020-08-25 20:44:46 |
-| Last Scraped         | 2023-06-19 11:36:46 |

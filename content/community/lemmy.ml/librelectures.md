@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/librelectures"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2020-03-01 19:22:09"
 subscribers: 80
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Libre Lectures - Freeing knowledge from exploitative platforms on lemmy.ml
-
-[[home](/)]
-[[/c/librelectures 🌎](https://lemmy.ml/c/librelectures)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-MISSION<br>To provide a platform where public domain video material of interviews, lectures and courses can be shared and discussed.<br><br>RULES<br>- All Lemmy rules apply<br>- Only links to video content of interviews, lectures and courses<br>- No videos edited or cut from longer source material<br>- Only material free of royalty, in the public domain, with CC license, etc<br>- Only videos that are hosted on libre respecting platforms such as peer.tube<br>- Content in other language is welcomed, but only with English subtitles<br><br>TITLE FORMAT<br>[main lecturer] - YYYY - Title - [length in minutes]
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 80 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-03-01 19:22:09 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-16 11:07:37 |

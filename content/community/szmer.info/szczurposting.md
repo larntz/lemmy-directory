@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/szczurposting"
 host: szmer.info
-lastmod: "{[ .Updated }}"
+lastmod: "1969-12-31 19:00:00"
+published: "2023-01-10 14:58:33"
 subscribers: 13
 posts: 11
 comments: 10
@@ -22,36 +23,3 @@ tags:
 - "szmer_info"
 
 ---
-
-# /c/szczurposting on szmer.info
-
-[[home](/)]
-[[/c/szczurposting 🌎](https://szmer.info/c/szczurposting)]
-[[szmer.info](/instances/szmer_info)]
-
-
-## Description 
-
-<blockquote class="description">
-pozytywnie szczurnięty
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 13 |
-| Posts                | 11  |
-| Comments             | 10  |
-| Daily Active Users   | 3  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 2  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-01-10 14:58:33 |
-| Updated              | 1969-12-31 19:00:00 |
-| Last Scraped         | 2023-06-19 11:35:33 |

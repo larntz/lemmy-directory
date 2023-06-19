@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geminihighlightsa"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-06-29 04:06:24"
+published: "2021-04-09 21:29:10"
 subscribers: 10
 posts: 3
 comments: 4
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/gem highlights on lemmy.ml
-
-[[home](/)]
-[[/c/geminihighlightsa 🌎](https://lemmy.ml/c/geminihighlightsa)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-community to share new and other interesting articles on the network of the gemini protocol.    <br><br> <br>###### **notes:**    <br>- explaining why the gemini article is interesting will be helpful in maintaining a standard for keeping the posts interesting. it is not required at this time.<br>- you must list 1-5 keywords to help a viewer decide if the article is relevant to their interests. this is required unless the title is fully descriptive. keywords should be ordered from most essential descending.    <br>- please do not post links to very short pages. ex: three short sentences.<br>- posting a series from one site is currently accepted. there may be a cutoff or rate limiting for repeat posters.<br>- articles/text only<br>- no mainstream mirror content. sorry.<br>crossposted content of      <br>mirror of less mainstream authors is ok in moderation.<br>
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 3  |
-| Comments             | 4  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-04-09 21:29:10 |
-| Updated              | 2022-06-29 04:06:24 |
-| Last Scraped         | 2023-06-19 11:36:45 |

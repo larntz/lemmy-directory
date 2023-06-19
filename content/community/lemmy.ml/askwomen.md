@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askwomen"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-12-14 10:10:57"
+published: "2021-12-14 06:55:31"
 subscribers: 6
 posts: 0
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/Ask Women on lemmy.ml
-
-[[home](/)]
-[[/c/askwomen 🌎](https://lemmy.ml/c/askwomen)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Description not available.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 6 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2021-12-14 06:55:31 |
-| Updated              | 2021-12-14 10:10:57 |
-| Last Scraped         | 2023-06-19 11:36:43 |

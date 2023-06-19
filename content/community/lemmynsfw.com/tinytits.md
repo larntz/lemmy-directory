@@ -8,7 +8,8 @@ draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tinytits"
 host: lemmynsfw.com
-lastmod: "{[ .Updated }}"
+lastmod: "2023-06-15 04:31:55"
+published: "2023-06-15 04:31:28"
 subscribers: 109
 posts: 0
 comments: 0
@@ -24,36 +25,3 @@ tags:
 - "nsfw"
 
 ---
-
-# /c/tinytits on lemmynsfw.com
-
-[[home](/)]
-[[/c/tinytits 🌎](https://lemmynsfw.com/c/tinytits)]
-[[lemmynsfw.com](/instances/lemmynsfw_com)]
-
-
-## Description 
-🚨 NSFW 🚨
-<blockquote class="description">
-Alternative r/tinytits. Posts must feature girls with tiny tits. 
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 109 |
-| Posts                | 0  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2023-06-15 04:31:28 |
-| Updated              | 2023-06-15 04:31:55 |
-| Last Scraped         | 2023-06-19 11:35:45 |

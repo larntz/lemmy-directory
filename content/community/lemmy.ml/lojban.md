@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lojban"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2021-04-23 18:13:25"
+published: "2020-10-04 06:34:53"
 subscribers: 12
 posts: 1
 comments: 0
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/lojban on lemmy.ml
-
-[[home](/)]
-[[/c/lojban 🌎](https://lemmy.ml/c/lojban)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-Lojban is an invented human language. it is syntactically unambiguous and reflects the principles of logic.    <br>    <br>##### Related communities<br>[esperanto](https://lemmy.ml/c/esperanto)    <br>[afrihili](https://lemmy.ml/community/17094)   <br>[constructed languages](https://lemmy.ml/c/conlang)
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 12 |
-| Posts                | 1  |
-| Comments             | 0  |
-| Daily Active Users   | 0  |
-| Weekly Active Users  | 0  |
-| Monthly Active Users | 0  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2020-10-04 06:34:53 |
-| Updated              | 2021-04-23 18:13:25 |
-| Last Scraped         | 2023-06-19 11:36:44 |

@@ -8,7 +8,8 @@ draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eleven"
 host: lemmy.ml
-lastmod: "{[ .Updated }}"
+lastmod: "2022-04-28 19:30:44"
+published: "2022-04-24 16:27:35"
 subscribers: 10
 posts: 12
 comments: 7
@@ -22,36 +23,3 @@ tags:
 - "lemmy_ml"
 
 ---
-
-# /c/eleven on lemmy.ml
-
-[[home](/)]
-[[/c/eleven 🌎](https://lemmy.ml/c/eleven)]
-[[lemmy.ml](/instances/lemmy_ml)]
-
-
-## Description 
-
-<blockquote class="description">
-rules:<br>* post title must be a yes-no question which can be reasonably answered with eleven.
-</blockquote>
-
-
-## Details
-
-| Activity | Count  |
-|----------------------|---|
-| Subscribers          | 10 |
-| Posts                | 12  |
-| Comments             | 7  |
-| Daily Active Users   | 1  |
-| Weekly Active Users  | 1  |
-| Monthly Active Users | 1  |
-
-<br>
-
-| Activity | Date |
-|----------------------|---|
-| Published            | 2022-04-24 16:27:35 |
-| Updated              | 2022-04-28 19:30:44 |
-| Last Scraped         | 2023-06-19 11:36:46 |
