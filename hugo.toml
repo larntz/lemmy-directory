@@ -1,4 +1,4 @@
-baseURL = 'http://lemmies.blue42.net/'
+baseURL = 'https://lemmies.blue42.net/'
 languageCode = 'en-us'
 title = 'Lemmy Directory'
 paginate = 100
