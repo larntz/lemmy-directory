@@ -3,7 +3,7 @@ title: "Biblical Studies"
 name: "biblicalstudies"
 description: "A community for the discussion of the Bible from an academic perspective, including its history and the history of its communities."
 type: community
-date: "2023-06-19 18:00:50"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/biblicalstudies"

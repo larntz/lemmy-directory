@@ -3,14 +3,14 @@ title: "Stockholm"
 name: "stockholm"
 description: "Everything related to Stockholm, Sweden."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stockholm"
 host: lemmy.world
 lastmod: "2023-06-16 08:44:16"
 published: "2023-06-16 08:43:58"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

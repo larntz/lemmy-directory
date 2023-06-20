@@ -3,7 +3,7 @@ title: "#LUG"
 name: "linux_users_group"
 description: "Linux Users Group, playing StarCitizen and other games :)"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linux_users_group"

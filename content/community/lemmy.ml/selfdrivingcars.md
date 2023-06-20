@@ -3,7 +3,7 @@ title: "Self Driving Cars"
 name: "selfdrivingcars"
 description: "A community for self driving car enthusiasts"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfdrivingcars"

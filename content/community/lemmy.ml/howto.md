@@ -3,14 +3,14 @@ title: "How To"
 name: "howto"
 description: "How To and DIY"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/howto"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-10-17 11:26:23"
-subscribers: 422
+subscribers: 423
 posts: 18
 comments: 2
 weight: 18

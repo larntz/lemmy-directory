@@ -3,7 +3,7 @@ title: "Melbourne Music"
 name: "melbourne_music"
 description: "A place to discuss and stay updated on Melbourne's local music scene"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/melbourne_music"

@@ -3,7 +3,7 @@ title: "Zelda"
 name: "zelda"
 description: "Anything to do with Zelda, old or new!"
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:28"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/zelda"

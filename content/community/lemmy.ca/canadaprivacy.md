@@ -3,7 +3,7 @@ title: "Canada Privacy"
 name: "canadaprivacy"
 description: "This sub is to discuss issues related to digital privacy in Canada."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadaprivacy"

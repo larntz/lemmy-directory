@@ -3,7 +3,7 @@ title: "LinuxBrasil"
 name: "linuxbrasil"
 description: "Comunidade brasileira dedicada para amantes de sistemas GNU/Linux e da liberdade de código aberto.-------------//---------------Regras:- Probido racismo- Probido homofobia- Probido intolerância de qualquer natureza- Probido preconceito- Proibido todo tipo de pornografia, inclusive hentai- Divulgação de software com código proprietário-------------//---------------Artista do Icon da comunidade não foi identificado, quem souber, por favor avisar a moderação."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxbrasil"

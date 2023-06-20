@@ -3,18 +3,18 @@ title: "Health"
 name: "health"
 description: "Health: physical and mental, individual and public.Discussions, issues, resources, news, everything.Nothing here shall be taken as medical advice.One main rule: be civil."
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/health"
 host: lemmy.world
 lastmod: "2023-06-08 02:26:41"
 published: "2023-06-08 02:25:21"
-subscribers: 281
+subscribers: 296
 posts: 33
 comments: 19
 weight: 33
-dau: 4
+dau: 1
 wau: 15
 mau: 18
 instances:

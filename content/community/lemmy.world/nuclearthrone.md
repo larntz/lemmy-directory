@@ -3,7 +3,7 @@ title: "Nuclear Throne"
 name: "nuclearthrone"
 description: "Community for all things Nuclear Throne!**Rules**1. keep posts on topic2. be nice3. No NSFW content**Links**[Official Discord](https://discord.gg/nt)[Wiki](https://nuclear-throne.fandom.com/wiki/Nuclear_Throne_Wiki)[ThroneButt](https://thronebutt.com/)"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nuclearthrone"

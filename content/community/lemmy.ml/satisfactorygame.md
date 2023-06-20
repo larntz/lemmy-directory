@@ -3,7 +3,7 @@ title: "Satisfactory – A game by CoffeeStain Studios"
 name: "satisfactorygame"
 description: "Satisfactory - A game by CoffeeStain Studios (https://www.satisfactorygame.com)"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/satisfactorygame"

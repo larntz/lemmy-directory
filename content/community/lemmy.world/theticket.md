@@ -3,7 +3,7 @@ title: "A Community for KTCK The Ticket P1s and V1s"
 name: "theticket"
 description: "Just getting things ported over from Shittit. "
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theticket"

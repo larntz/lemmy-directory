@@ -3,7 +3,7 @@ title: "Language Learning"
 name: "languagelearning"
 description: "#Welcome to Language Learning!Language Learning is a community dedicated to exploring new languages and sharing resources!Here, you can discuss:- Language learning resources- Your journey in language learning- Advice about language learning*Icon and banner are both designed by freepik*"
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/languagelearning"

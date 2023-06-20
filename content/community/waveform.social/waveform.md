@@ -3,14 +3,14 @@ title: "Waveform"
 name: "waveform"
 description: "A place to talk about how we organise ourselves."
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/waveform"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 08:21:30"
-subscribers: 132
+subscribers: 134
 posts: 16
 comments: 134
 weight: 16

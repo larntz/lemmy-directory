@@ -3,7 +3,7 @@ title: "Ariana Grande"
 name: "arianagrande"
 description: "official Ariana Grande!"
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:39"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/arianagrande"
@@ -15,7 +15,7 @@ posts: 4
 comments: 1
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "goddess_name"

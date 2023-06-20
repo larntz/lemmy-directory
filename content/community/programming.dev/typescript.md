@@ -3,20 +3,20 @@ title: "TypeScript"
 name: "typescript"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:03"
+date: "2023-06-20 11:37:11"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/typescript"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-17 18:01:04"
 published: "2023-06-16 07:20:17"
-subscribers: 7
+subscribers: 35
 posts: 1
-comments: 0
+comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "programming_dev"
 tags: 

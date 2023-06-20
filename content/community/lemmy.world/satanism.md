@@ -3,7 +3,7 @@ title: "Satanism"
 name: "satanism"
 description: "A Lemmy community to discuss SatanismATTENTION: If any of the /r/satanism mods move over here and would like to take over, please DM me and I will be happy to transfer it to you."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/satanism"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

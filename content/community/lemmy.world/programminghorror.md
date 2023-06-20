@@ -3,14 +3,14 @@ title: "Programming Horror"
 name: "programminghorror"
 description: "Share strange or straight-up awful code."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programminghorror"
 host: lemmy.world
 lastmod: "2023-06-19 16:55:53"
 published: "2023-06-19 08:47:45"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

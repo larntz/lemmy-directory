@@ -3,7 +3,7 @@ title: "Weesp"
 name: "weesp"
 description: "Praten over Weesp. Omdat het kan. Omdat er vast heel veel mensen uit Weesp al op Lemmy zitten. En anders ga ik graag het gesprek aan met mensen die nog niets weten over Weesp."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/weesp"

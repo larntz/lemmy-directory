@@ -3,7 +3,7 @@ title: "Scottish National Party"
 name: "snp"
 description: "Unlike on Reddit, this an unapologetically pro-Scotand and Pro-Independence page!"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/snp"

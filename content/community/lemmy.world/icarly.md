@@ -3,7 +3,7 @@ title: "iCarly"
 name: "icarly"
 description: "About Nickelodeon's iCarly (2007) and the Paramount+ reboot iCarly (2021)."
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/icarly"

@@ -3,14 +3,14 @@ title: "Ham Radio"
 name: "hamradio"
 description: "This community is for anything related to ham/amateur radios"
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hamradio"
 host: lemmy.ml
 lastmod: "2021-08-13 08:43:18"
 published: "2021-08-12 09:13:13"
-subscribers: 218
+subscribers: 223
 posts: 17
 comments: 77
 weight: 17

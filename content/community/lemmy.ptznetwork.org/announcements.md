@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements and  news relevant to the WV Read It Lemmy instance."
 type: community
-date: "2023-06-19 17:59:00"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://dubvee.org/c/announcements"
@@ -15,7 +15,7 @@ posts: 1
 comments: 6
 weight: 1
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_ptznetwork_org"

@@ -3,7 +3,7 @@ title: "USA"
 name: "usa"
 description: "Anything relating to the United States of America"
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/usa"

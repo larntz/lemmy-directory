@@ -3,14 +3,14 @@ title: "Chicago News and Discussion"
 name: "chicago"
 description: "Chicago News and Discussion"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chicago"
 host: lemmy.ml
 lastmod: "2020-05-26 22:23:48"
 published: "2020-05-26 18:14:22"
-subscribers: 15
+subscribers: 16
 posts: 10
 comments: 0
 weight: 10

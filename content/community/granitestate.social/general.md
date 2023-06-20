@@ -3,7 +3,7 @@ title: "General Discussions"
 name: "general"
 description: ""
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://granitestate.social/c/general"

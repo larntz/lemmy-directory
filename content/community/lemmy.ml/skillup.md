@@ -3,7 +3,7 @@ title: "Skill Up"
 name: "skillup"
 description: "https://linktr.ee/skillupyt"
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skillup"

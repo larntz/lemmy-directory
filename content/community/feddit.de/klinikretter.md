@@ -3,7 +3,7 @@ title: "Gemeingut Krankenhaus retten"
 name: "klinikretter"
 description: "**Bitte registrieren, Community abonnieren und alle News zu Klinikschließungen posten, kommentieren und hochvoten!**In Deutschland schließen seit Jahren fast monatlich Krankenhäuser. Kommunale Kliniken machen dicht, weil ihnen das Geld ausgeht. Private Kliniken werden geschlossen, weil sie aus Sicht der Eigentümer nicht genügend Rendite erbringen. Der Kahlschlag der Krankenhauslandschaft ist politisch gewollt: Mit dem sogenannten Krankenhausstrukturfonds fördert der Bund Klinikschließungen mit bis zu 1 Milliarde Euro jährlich. Diese Entwicklung muss umgehend gestoppt werden. Krankenhäuser retten Leben. Wir brauchen sie in Krisenzeiten und im Alltag. Öffentliche Gelder sollen nicht die Schließung, sondern den Erhalt von Krankenhäusern finanzieren.Weitere Informationen: https://social.klinikretter.de/@klinikretter"
 type: community
-date: "2023-06-19 17:59:29"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/klinikretter"

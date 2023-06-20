@@ -3,7 +3,7 @@ title: "Sekiro"
 name: "sekiro"
 description: "lemmy.zip Sekiro CommunityBasic Lemmy-quette and rules apply.Have fun and remember: Hesitation is defeat."
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/sekiro"
@@ -14,9 +14,9 @@ subscribers: 9
 posts: 2
 comments: 2
 weight: 2
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_zip"
 tags: 

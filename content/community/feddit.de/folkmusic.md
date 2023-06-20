@@ -3,7 +3,7 @@ title: "Folk and Traditional Music"
 name: "folkmusic"
 description: "A community for all traditional styles of music, from Bluegrass and Bavarian Stubenmusi via Inuit music and djembé drumming from Ghana to Gamelan, Baltic choral music, Andean pan flutes and everything in between as long as it is handmade. This is a place for traditional culture, not nationalism."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/folkmusic"

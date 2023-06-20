@@ -3,7 +3,7 @@ title: "Julia Community"
 name: "julia_community"
 description: "Julia community is a community on Lemmy to discuss Julia programming and articles, tips, etc"
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/julia_community"

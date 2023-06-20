@@ -3,7 +3,7 @@ title: "Guiné Bissau - Geral"
 name: "guine_bissau"
 description: "Uma comunidade dedicada à Guiné Bissau."
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/guine_bissau"

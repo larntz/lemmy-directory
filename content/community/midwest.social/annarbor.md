@@ -3,7 +3,7 @@ title: "Ann Arbor"
 name: "annarbor"
 description: "A wonderful city on the banks of the Huron River, home of the University of Michigan and a wide palate of culture, nature, technology and sports."
 type: community
-date: "2023-06-19 17:59:20"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/annarbor"
@@ -15,7 +15,7 @@ posts: 6
 comments: 10
 weight: 6
 dau: 1
-wau: 8
+wau: 7
 mau: 9
 instances:
 - "midwest_social"

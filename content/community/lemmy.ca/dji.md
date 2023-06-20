@@ -3,7 +3,7 @@ title: "DJI"
 name: "dji"
 description: "A community for discussion of all things related to DJI drones and equipment.Rules:- No hate speech, racism, sexism, bigotry, homophobia, etc- No spamming or advertising- No NSFW- Be respectful- No advocating not following local drone laws"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dji"

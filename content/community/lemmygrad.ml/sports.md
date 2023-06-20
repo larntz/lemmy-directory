@@ -3,7 +3,7 @@ title: "sports"
 name: "sports"
 description: "Welcome to sports! Talk about any sports you want, discuss your favourite sports, team, athlete or any sport related subject.Come watch and talk sports with us in our Matrix room:https://matrix.to/#/!zofnfbaWDfHDOvbgcr:matrix.org?via=matrix.org"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sports"

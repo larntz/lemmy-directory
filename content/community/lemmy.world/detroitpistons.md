@@ -3,14 +3,14 @@ title: "Detroit Pistons"
 name: "detroitpistons"
 description: "The Lemmy home of the 3x NBA Champion Detroit Pistons![](https://lemmy.world/pictrs/image/a71d7dfc-37c2-41c3-9087-8f096780118e.png)"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/detroitpistons"
 host: lemmy.world
 lastmod: "2023-06-13 16:37:51"
 published: "2023-06-13 08:45:48"
-subscribers: 9
+subscribers: 10
 posts: 6
 comments: 2
 weight: 6

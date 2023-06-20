@@ -3,14 +3,14 @@ title: "ArenaFPS"
 name: "arenafps"
 description: "A community for games like Quake, Unreal tournament, and so on."
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/arenafps"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-19 17:08:14"
 published: "2023-06-19 17:06:09"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

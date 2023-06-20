@@ -3,7 +3,7 @@ title: "Computer Networks"
 name: "networks"
 description: "For all your network topics.  Problem with your home router or with your managed switch at work, or do you just have some interresting firewall to show?For more expert topics you can find some more precise communities, or start one yourself :)"
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:39"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/networks"

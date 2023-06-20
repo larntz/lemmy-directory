@@ -3,14 +3,14 @@ title: "Camping & Hiking"
 name: "campingandhiking"
 description: "Anything related to camping, backpacking, hiking, or just enjoying the outdoors. "
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://links.dartboard.social/c/campingandhiking"
 host: links.dartboard.social
 lastmod: "2023-06-11 15:55:04"
 published: "2023-06-11 15:39:40"
-subscribers: 138
+subscribers: 142
 posts: 6
 comments: 23
 weight: 6

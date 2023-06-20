@@ -3,7 +3,7 @@ title: "introductions"
 name: "introductions"
 description: "Say hi!"
 type: community
-date: "2023-06-19 17:59:09"
+date: "2023-06-20 11:37:29"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/introductions"

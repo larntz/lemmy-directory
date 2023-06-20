@@ -3,7 +3,7 @@ title: "MicroG"
 name: "microg"
 description: "Community created for the microG, a free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries. The project's website is at [https://microg.org](https://microg.org)"
 type: community
-date: "2023-06-19 17:59:22"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/microg"

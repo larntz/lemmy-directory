@@ -3,7 +3,7 @@ title: "Do Privacy"
 name: "privacydo"
 description: "do privacy on privacy.doFree-to-access, simple to use, concise but comprehensive, a site that provides all the insights and guidance you need to regaining and retaining your privacy online. This site will always be a ‘work in progress’ for as long as the internet exists so please feel free to join in and help us grow. Send your comments, suggestions, hints, cheats, code, programs, apps, articles and donations. Every step counts...privacy.do - your playbook to online privacy"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privacydo"

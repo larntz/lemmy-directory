@@ -3,14 +3,14 @@ title: "Facefuck"
 name: "facefuck"
 description: "Alternative r/Facefuck and related content. Posts must contain facefucking pics, vids, etc. Do not violate sitewide rules. "
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/facefuck"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 00:20:08"
-subscribers: 63
+subscribers: 69
 posts: 0
 comments: 0
 weight: 0

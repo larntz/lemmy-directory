@@ -3,14 +3,14 @@ title: "Fitness and Health"
 name: "fitness"
 description: "Give each other support and share their programs, progress and tips. Cardio or lifting. Sports or gymnastics we are all on a journey to improve.Also we have heaps of tech that help us track our fitness metrics, so feel free to discuss the tools you use.Everyone has a bad day now and then, just try again.Also check out:- /c/hiking- /c/bicycling- /c/motivation"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fitness"
 host: lemmy.ml
 lastmod: "2020-06-04 03:17:16"
 published: "2020-05-28 03:24:25"
-subscribers: 155
+subscribers: 156
 posts: 21
 comments: 21
 weight: 21

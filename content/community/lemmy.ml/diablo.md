@@ -3,14 +3,14 @@ title: "Diablo"
 name: "diablo"
 description: "An alternative source for Diablo related news and discussions on the fediverse. Stay awhile and listen!"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diablo"
 host: lemmy.ml
 lastmod: "2023-06-03 23:42:39"
 published: "2023-06-03 23:37:56"
-subscribers: 209
+subscribers: 216
 posts: 7
 comments: 33
 weight: 7

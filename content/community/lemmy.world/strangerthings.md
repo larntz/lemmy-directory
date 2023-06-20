@@ -3,14 +3,14 @@ title: "Stranger Things"
 name: "strangerthings"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/strangerthings"
 host: lemmy.world
 lastmod: "2023-06-14 03:23:10"
 published: "2023-06-14 03:20:54"
-subscribers: 32
+subscribers: 38
 posts: 1
 comments: 1
 weight: 1

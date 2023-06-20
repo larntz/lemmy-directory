@@ -3,7 +3,7 @@ title: "Free and Open Source Software"
 name: "foss"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:20"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/foss"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_burger_rodeo"

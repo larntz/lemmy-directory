@@ -3,14 +3,14 @@ title: "RevEng"
 name: "reverseengineering"
 description: "Reverse Engineering is a community about all aspects of RE!Please be kind to each other!"
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/reverseengineering"
 host: infosec.pub
 lastmod: "2023-06-17 12:13:51"
 published: "2023-06-17 11:11:10"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

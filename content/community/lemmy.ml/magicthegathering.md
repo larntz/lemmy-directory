@@ -3,14 +3,14 @@ title: "Magic: The Gathering"
 name: "magicthegathering"
 description: "Community dedicated to the discussion of news, tournaments, gameplay, deckbuilding, strategy, lore, and more about Magic: The Gathering, the digital and tabletop card trading card game.#### Rules:1.  Keep content on-topic.2. Use [Scryfall](https://scryfall.com/) when linking to cards. "
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/magicthegathering"
 host: lemmy.ml
 lastmod: "2021-06-29 16:34:05"
 published: "2021-06-29 15:14:46"
-subscribers: 58
+subscribers: 59
 posts: 11
 comments: 16
 weight: 11

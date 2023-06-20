@@ -3,14 +3,14 @@ title: "gratisgeld"
 name: "gratisgeld"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/gratisgeld"
 host: feddit.nl
 lastmod: "2023-06-17 07:51:01"
 published: "2023-06-17 07:46:57"
-subscribers: 10
+subscribers: 12
 posts: 1
 comments: 4
 weight: 1

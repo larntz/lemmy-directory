@@ -3,7 +3,7 @@ title: "PSYOP"
 name: "psyop"
 description: "Przestrzeń do dyskusji o zwietrzonych podstępach, manipulacjach, machinacjach, prowokacjach, propagandzie i operacjach psychologicznych. Logo to insygnia [Ghost Army](https://en.wikipedia.org/wiki/Ghost_Army)"
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/psyop"

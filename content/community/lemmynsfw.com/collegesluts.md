@@ -3,14 +3,14 @@ title: "College Sluts "
 name: "collegesluts"
 description: "A replacement for Reddit’s r/collegesluts. Posts should feature college sluts, and not break any sitewide or common sense rules."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/collegesluts"
 host: lemmynsfw.com
 lastmod: "2023-06-14 12:07:14"
 published: "2023-06-14 10:21:11"
-subscribers: 355
+subscribers: 381
 posts: 9
 comments: 1
 weight: 9

@@ -3,7 +3,7 @@ title: "Test: palestra e allenamenti :-)"
 name: "test"
 description: "Questa non è una vera comunità, ma solo una saletta di prova.Chi vuole fare esperimenti di scrittura, **può utilizzarla ma senza pubblicare contenuti contrari alle regole del server!**"
 type: community
-date: "2023-06-19 17:58:44"
+date: "2023-06-20 11:37:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/test"
@@ -15,8 +15,8 @@ posts: 141
 comments: 279
 weight: 141
 dau: 2
-wau: 6
-mau: 30
+wau: 4
+mau: 31
 instances:
 - "feddit_it"
 tags: 

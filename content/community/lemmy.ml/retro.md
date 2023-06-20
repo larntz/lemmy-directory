@@ -3,14 +3,14 @@ title: "retro"
 name: "retro"
 description: "Going back in time with computers and Internet"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/retro"
 host: lemmy.ml
 lastmod: "2021-06-20 15:11:08"
 published: "2020-01-22 23:17:50"
-subscribers: 413
+subscribers: 412
 posts: 56
 comments: 13
 weight: 56

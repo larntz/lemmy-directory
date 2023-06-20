@@ -3,7 +3,7 @@ title: "Iceland 🇮🇸"
 name: "iceland"
 description: "Stuðningssamfélag Íslendinga á Lemmy.world"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iceland"
@@ -12,7 +12,7 @@ lastmod: "2023-06-14 11:43:47"
 published: "2023-06-12 22:10:12"
 subscribers: 11
 posts: 2
-comments: 5
+comments: 6
 weight: 2
 dau: 1
 wau: 4

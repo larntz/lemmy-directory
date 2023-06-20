@@ -3,7 +3,7 @@ title: "Pittsburgh, PA"
 name: "pittsburgh"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pittsburgh"
@@ -15,7 +15,7 @@ posts: 3
 comments: 14
 weight: 3
 dau: 1
-wau: 7
+wau: 6
 mau: 7
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "Instance Support"
 name: "instance_support"
 description: "This area is for providing information and support about the instance/server itself. If you have any issues with this instance, please post here."
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://centennialstate.social/c/instance_support"

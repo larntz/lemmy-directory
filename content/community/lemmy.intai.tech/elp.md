@@ -3,7 +3,7 @@ title: "Artificial Intelligence - Ethics | Law | Philsophy"
 name: "elp"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/elp"
@@ -11,9 +11,9 @@ host: lemmy.intai.tech
 lastmod: "2023-06-17 20:02:01"
 published: "2023-06-11 05:50:05"
 subscribers: 5
-posts: 13
+posts: 14
 comments: 2
-weight: 13
+weight: 14
 dau: 1
 wau: 2
 mau: 2

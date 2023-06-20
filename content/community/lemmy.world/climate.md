@@ -3,7 +3,7 @@ title: "Climate, Climate Change and Global Warming"
 name: "climate"
 description: "Climate, climate change, global warming, and what to do about it."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/climate"

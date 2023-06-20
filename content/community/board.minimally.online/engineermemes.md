@@ -3,7 +3,7 @@ title: "Engineer Memes"
 name: "engineermemes"
 description: "For the chaotic side of every engineerRules:1. Be nice2. If it moves, use duct tape3. If it doesn't, spray WD-40"
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/engineermemes"

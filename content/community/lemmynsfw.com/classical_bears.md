@@ -3,7 +3,7 @@ title: "Classical Bears"
 name: "classical_bears"
 description: "Timeless male beauty, larger than life"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/classical_bears"

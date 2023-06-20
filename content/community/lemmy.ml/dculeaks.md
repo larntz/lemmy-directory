@@ -3,7 +3,7 @@ title: "DCU Leaks"
 name: "dculeaks"
 description: "This is a community to discuss upcoming rumors and spoilers for DC Universe films."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dculeaks"

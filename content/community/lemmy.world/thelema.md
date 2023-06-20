@@ -3,7 +3,7 @@ title: "Thelema"
 name: "thelema"
 description: "Do what thou wilt shall be the whole of the law. This is a place to discuss Aleister Crowley, Thelema, and the Aeon of Horus. Love is the law, love under will."
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelema"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

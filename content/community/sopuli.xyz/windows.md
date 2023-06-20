@@ -3,14 +3,14 @@ title: "Windows"
 name: "windows"
 description: "For all things Windows."
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/windows"
 host: sopuli.xyz
 lastmod: "2021-12-06 15:49:09"
 published: "2021-03-04 09:18:04"
-subscribers: 119
+subscribers: 120
 posts: 31
 comments: 23
 weight: 31

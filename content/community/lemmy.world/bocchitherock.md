@@ -3,12 +3,12 @@ title: "Bocchi the Rock!"
 name: "bocchitherock"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bocchitherock"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 19:10:03"
 published: "2023-06-19 16:06:50"
 subscribers: 1
 posts: 0

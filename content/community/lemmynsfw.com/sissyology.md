@@ -3,14 +3,14 @@ title: "Sissyology"
 name: "sissyology"
 description: "A community for intellectual discussion of sissy topics"
 type: community
-date: "2023-06-19 17:59:37"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sissyology"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 06:48:47"
-subscribers: 50
+subscribers: 52
 posts: 0
 comments: 0
 weight: 0

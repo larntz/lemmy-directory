@@ -3,14 +3,14 @@ title: "Fencing"
 name: "fencing"
 description: "Fencing"
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fencing"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 15:22:24"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 6
 weight: 1

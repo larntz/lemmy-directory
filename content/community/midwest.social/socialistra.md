@@ -3,18 +3,18 @@ title: "Socialist Rifle Association"
 name: "socialistra"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:28"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/socialistra"
 host: midwest.social
 lastmod: "2022-08-19 11:47:41"
 published: "2022-08-18 16:16:49"
-subscribers: 165
+subscribers: 178
 posts: 33
-comments: 28
+comments: 29
 weight: 33
-dau: 4
+dau: 1
 wau: 5
 mau: 8
 instances:

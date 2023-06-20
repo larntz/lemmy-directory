@@ -3,7 +3,7 @@ title: "Support"
 name: "support"
 description: "Support For no.lastname.nz"
 type: community
-date: "2023-06-19 17:59:01"
+date: "2023-06-20 11:37:19"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/support"

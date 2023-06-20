@@ -3,14 +3,14 @@ title: "Prince William County, Virginia"
 name: "princewilliamcounty_va"
 description: "Prince William County, Manassas, Manassas Park, and area"
 type: community
-date: "2023-06-19 17:59:09"
+date: "2023-06-20 11:37:29"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/princewilliamcounty_va"
 host: dmv.social
 lastmod: "2023-06-17 00:55:38"
 published: "2023-06-15 05:32:29"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

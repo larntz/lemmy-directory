@@ -3,7 +3,7 @@ title: "Digital Humanities"
 name: "digitalhumanities"
 description: "**Digital Humanities** is an interdisciplinary field that combines traditional humanities disciplines with computational methods and digital technologies. It involves the application of digital tools and techniques to conduct research, analyze data, and explore various aspects of human culture and society."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalhumanities"

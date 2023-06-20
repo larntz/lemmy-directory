@@ -3,7 +3,7 @@ title: "waifuism"
 name: "waifuism"
 description: "A place for those truly in love with their fictional characters!WIP."
 type: community
-date: "2023-06-19 17:59:20"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waifuism"

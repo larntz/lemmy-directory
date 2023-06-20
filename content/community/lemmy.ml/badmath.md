@@ -3,14 +3,14 @@ title: "BadMath"
 name: "badmath"
 description: "Math so bad it is funny."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badmath"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:19:12"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

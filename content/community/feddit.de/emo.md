@@ -3,7 +3,7 @@ title: "Emo"
 name: "emo"
 description: "Ein deutsches Sammelsurium für alles rund um Emomusik."
 type: community
-date: "2023-06-16 11:06:39"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/emo"

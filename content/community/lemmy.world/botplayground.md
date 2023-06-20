@@ -3,7 +3,7 @@ title: "Bot Playground"
 name: "botplayground"
 description: "A dummy community to test my lemmy bot that will ultimately be used in !france to post and pin the daily thread"
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/botplayground"

@@ -3,19 +3,19 @@ title: "Corgi"
 name: "corgi"
 description: "Corgi!"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/corgi"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 20:46:19"
-subscribers: 125
+subscribers: 130
 posts: 4
 comments: 14
 weight: 4
 dau: 1
-wau: 9
+wau: 5
 mau: 9
 instances:
 - "lemmy_world"

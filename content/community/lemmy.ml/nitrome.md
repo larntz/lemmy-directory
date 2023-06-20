@@ -3,7 +3,7 @@ title: "Nitrome"
 name: "nitrome"
 description: "Nitrome is a free flash game site, their first game released in 2005.This is a Fan site, feel free to discuss the games, art you may make and anything Nitrome related!Rules:- Submissions must be in some way Nitrome-RelatedLinks: [Nitrome.com](https://www.nitrome.com/) [Nitrome Wiki](http://nitrome.wikia.com/wiki/Nitrome_Wiki)"
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nitrome"

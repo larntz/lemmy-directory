@@ -3,14 +3,14 @@ title: "Flowers"
 name: "flowers"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/flowers"
 host: lemmy.world
 lastmod: "2023-06-19 06:38:36"
 published: "2023-06-19 06:37:21"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

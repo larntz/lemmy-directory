@@ -3,7 +3,7 @@ title: "Pixel Dungeon"
 name: "pixeldungeon"
 description: "A community dedicated to the FOSS game Pixel Dungeon and its many versions."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pixeldungeon"

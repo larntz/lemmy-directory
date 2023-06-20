@@ -3,7 +3,7 @@ title: "Mini Painting"
 name: "minipainting"
 description: "A community for painting miniatures and models. Everything from tabletop wargames to board games, display pieces or just for fun!Painters of all skill levels are welcome! From beginners who have never held a brush to pros who have been painting for years."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minipainting"

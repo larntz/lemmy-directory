@@ -3,14 +3,14 @@ title: "VPN"
 name: "vpn"
 description: "A community for VPN users and those who want to know more about them."
 type: community
-date: "2023-06-19 11:36:38"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vpn"
 host: lemmy.world
 lastmod: "2023-06-14 13:08:22"
 published: "2023-06-11 00:50:20"
-subscribers: 93
+subscribers: 122
 posts: 1
 comments: 3
 weight: 1

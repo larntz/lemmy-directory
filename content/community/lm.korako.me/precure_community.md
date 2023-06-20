@@ -3,7 +3,7 @@ title: "プリキュア"
 name: "precure_community"
 description: "プリキュアについてのコミュニティです。BOT用コミュは[こちら](https://lm.korako.me/c/precure)です。こちらは手動で登録するための専用コミュです。"
 type: community
-date: "2023-06-19 17:58:32"
+date: "2023-06-20 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/precure_community"

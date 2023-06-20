@@ -3,7 +3,7 @@ title: "Ethstaker at Lemmy"
 name: "ethstaker"
 description: "A forum about all things Ethereum staking. Companion to https://discord.Io/ethstakerWe have two rules:- No coin or trading spam.- Friendly first, knowledgeable second. "
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethstaker"
@@ -15,7 +15,7 @@ posts: 3
 comments: 10
 weight: 3
 dau: 1
-wau: 6
+wau: 5
 mau: 6
 instances:
 - "diggit_xyz"

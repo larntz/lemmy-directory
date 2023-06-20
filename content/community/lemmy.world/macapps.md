@@ -3,18 +3,18 @@ title: "macOS Apps"
 name: "macapps"
 description: "A place to discuss your favorite apps, find amazing new ones, get help or promote something you've created.>We truly live in an age of wonders."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macapps"
 host: lemmy.world
 lastmod: "2023-06-14 23:59:18"
 published: "2023-06-14 17:36:54"
-subscribers: 40
+subscribers: 42
 posts: 5
-comments: 1
+comments: 3
 weight: 5
-dau: 1
+dau: 2
 wau: 2
 mau: 2
 instances:

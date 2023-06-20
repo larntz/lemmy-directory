@@ -3,7 +3,7 @@ title: "Galaxy Watch"
 name: "galaxywatch"
 description: "Community for all things related to the Galaxy Gear, Galaxy Fit, Watch Active and Galaxy Watch from Samsung. Support, tips and cool exciting news here are welcome! Why not include Samsung Health topics while we are at it :) "
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/galaxywatch"

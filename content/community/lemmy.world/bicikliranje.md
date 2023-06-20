@@ -3,7 +3,7 @@ title: "Bicikli i bicikliranje"
 name: "bicikliranje"
 description: "Sve o biciklima i bicikliranju za Balkan/ex-YU"
 type: community
-date: "2023-06-19 18:00:47"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bicikliranje"

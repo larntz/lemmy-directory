@@ -3,17 +3,17 @@ title: "Cam Girls"
 name: "camgirls"
 description: "!camgirls is a community dedicated to girls performing on cam. This is a place for current cam models, future cam models, and lovers of cam girls. Please share and participate to grow this community."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/camgirls"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 22:47:53"
 published: "2023-06-16 09:09:02"
-subscribers: 57
-posts: 4
+subscribers: 70
+posts: 9
 comments: 0
-weight: 4
+weight: 9
 dau: 1
 wau: 1
 mau: 1

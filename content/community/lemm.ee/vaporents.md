@@ -3,12 +3,12 @@ title: "Vaporents"
 name: "vaporents"
 description: "Reddit's largest community focusing on dry-herb vaporizers - now on Lemmy!"
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vaporents"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 00:42:24"
 published: "2023-06-17 23:14:38"
 subscribers: 1
 posts: 0

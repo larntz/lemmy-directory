@@ -3,7 +3,7 @@ title: "Bass"
 name: "bass"
 description: "A place to talk about everything related to Bass Guitars: Equipment, Shows, Artists and more."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bass"

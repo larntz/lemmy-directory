@@ -3,7 +3,7 @@ title: "Carly Rae Jepsen"
 name: "carlyraejepsen"
 description: "General Carly Rae Jepsen discussion. Run away with us! We're your type!Some basic guidelines:- Posts should be about Carly.- Thoughtful criticism is fine, but open trolling or low-effort posts like “Her music sux” will be removed.- General “Don’t be a dick” rules apply, no trolling, no being a jerk.- No NSFW."
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/carlyraejepsen"

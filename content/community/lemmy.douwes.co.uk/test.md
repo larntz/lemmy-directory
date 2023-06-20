@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "test community please ignore."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test"

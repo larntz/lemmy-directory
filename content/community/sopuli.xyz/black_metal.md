@@ -3,7 +3,7 @@ title: "Black Metal"
 name: "black_metal"
 description: "A community for sharing, discussing, and discovering Black Metal music.Rules:1. [The most important one](https://www.youtube.com/watch?v=iyc62g7YQM0)2. Be kind3. Share music4. Discuss music and artists5. [Sopuli](https://sopuli.xyz) rules also apply here.Languages: English and Finnish"
 type: community
-date: "2023-06-19 17:59:22"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/black_metal"

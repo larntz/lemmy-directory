@@ -3,7 +3,7 @@ title: "Young Communist League - Dundee Branch"
 name: "ycl_dundee"
 description: "Our official website: https://ycl.org.uk/Our branch Facebook page: https://www.facebook.com/Young-Communist-League-Dundee-Branch-1982920978650099"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ycl_dundee"

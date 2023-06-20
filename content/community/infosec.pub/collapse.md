@@ -3,7 +3,7 @@ title: "Collapse"
 name: "collapse"
 description: "An academic skewed discussion community on the collapse of civilizations and societies.1) Treat each other with respect and kindness.2) No racism, sexism, homo/transphobia, ableism, or any kind of discrimination based on identity, religion, class or minority.3) No threats, harassment, bullying, stalking or other predatory behavior.4) Death and violence are serious topics; please treat them with respect and nuance.5) Don't promote topics that break instance terms of service."
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/collapse"

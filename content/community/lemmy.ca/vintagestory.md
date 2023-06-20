@@ -3,7 +3,7 @@ title: "Vintage Story"
 name: "vintagestory"
 description: "Discussion of the game [Vintage Story](https://www.vintagestory.at/), a block survival game similar to Minecraft but with more emphasis on realism and depth of gameplay."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vintagestory"

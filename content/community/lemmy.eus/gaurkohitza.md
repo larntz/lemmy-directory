@@ -3,7 +3,7 @@ title: "Gaurko hitza"
 name: "gaurkohitza"
 description: " [Gaurko hitza](http://euskaljakintza.com/gaurkohitza/)  egitasmoa 2008an sortu zen, egunez egun eta hitzez hitz zure euskara aberasten laguntzeko. Egunero hitz bat: definizioa, itzulpenak, adibidea, sinonimoak... Maiz proposamenak jasotzen ditugu sareetan. Foro hau ere horretarako balia dezakegu. Proposatu zure hitza!"
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/gaurkohitza"

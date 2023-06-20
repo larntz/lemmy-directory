@@ -3,7 +3,7 @@ title: "Österreich"
 name: "austria"
 description: "Eine Community für die Österreicher in lemmygrad!"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/austria"

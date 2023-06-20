@@ -3,7 +3,7 @@ title: "dark jazz"
 name: "darkjazz"
 description: "also known as doom jazz/funeral jazzadjacent stuff is welcome too"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/darkjazz"

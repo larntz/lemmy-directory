@@ -3,7 +3,7 @@ title: "Colemak"
 name: "colemak"
 description: "Inspired by [/r/colemak](https://www.reddit.com/r/Colemak/)Colemak: an alternative keyboard layoutResources:* [Colemak.com](https://colemak.com/)* [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)* [Dreymar's Big Bag Of Kbd Tricks](https://dreymar.colemak.org/)Banner credit:  [Christian Wiediger](https://unsplash.com/photos/WkfDrhxDMC8)"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/colemak"

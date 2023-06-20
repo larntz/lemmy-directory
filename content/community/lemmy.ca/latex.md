@@ -3,7 +3,7 @@ title: "LaTeX"
 name: "latex"
 description: "A community for the LaTeX typesetting language."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/latex"

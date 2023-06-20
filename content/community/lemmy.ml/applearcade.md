@@ -3,14 +3,14 @@ title: "Apple Arcade"
 name: "applearcade"
 description: "An unofficial community to discuss Apple Arcade games and the service as a whole."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/applearcade"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-06 15:02:05"
-subscribers: 21
+subscribers: 22
 posts: 1
 comments: 0
 weight: 1

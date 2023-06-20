@@ -3,7 +3,7 @@ title: "theExpanse"
 name: "theexpanse"
 description: "Community for everything Expanse related.Books, TV Series, Comics, Games and more."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/theexpanse"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 11:45:34"
 subscribers: 39
 posts: 3
-comments: 10
+comments: 11
 weight: 3
 dau: 0
 wau: 0

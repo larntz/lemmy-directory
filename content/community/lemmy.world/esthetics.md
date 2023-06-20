@@ -3,7 +3,7 @@ title: "Esthetics"
 name: "esthetics"
 description: "Elevate your esthetician career! This community is for estheticians, cosmetologists, and students that specialize in esthetic practices. This is a place for learning, personal/professional growth, and support."
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/esthetics"

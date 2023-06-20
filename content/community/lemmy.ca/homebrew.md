@@ -3,14 +3,14 @@ title: "Homebrew"
 name: "homebrew"
 description: "Dedicated to all homebrewing. Beer, wine, high alcohol and more!"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/homebrew"
 host: lemmy.ca
 lastmod: "2023-06-11 17:09:58"
 published: "2023-06-10 19:34:31"
-subscribers: 26
+subscribers: 27
 posts: 2
 comments: 0
 weight: 2

@@ -3,12 +3,12 @@ title: "Severance"
 name: "severance"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/severance"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 11:34:28"
 published: "2023-06-16 02:53:27"
 subscribers: 6
 posts: 0

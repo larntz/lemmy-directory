@@ -3,14 +3,14 @@ title: "RollenspielMonster News"
 name: "rm_news"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/rm_news"
 host: lemmy.rollenspiel.monster
 lastmod: "2022-05-28 10:09:25"
 published: "2022-04-18 16:35:16"
-subscribers: 79
+subscribers: 81
 posts: 29
 comments: 19
 weight: 29

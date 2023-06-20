@@ -3,14 +3,14 @@ title: "Open Source"
 name: "opensource"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/opensource"
 host: lemmy.helvetet.eu
 lastmod: "1969-12-31 19:00:00"
 published: "2023-04-01 18:39:11"
-subscribers: 31
+subscribers: 32
 posts: 6
 comments: 0
 weight: 6

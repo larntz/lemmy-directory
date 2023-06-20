@@ -3,14 +3,14 @@ title: "kpop"
 name: "kpop"
 description: "For all things kpop!"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kpop"
 host: lemmy.world
 lastmod: "2023-06-16 14:13:13"
 published: "2023-06-15 15:58:44"
-subscribers: 37
+subscribers: 39
 posts: 13
 comments: 14
 weight: 13

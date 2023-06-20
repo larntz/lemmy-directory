@@ -3,7 +3,7 @@ title: "Tae Kwon Do"
 name: "taekwondo"
 description: "A Community for Tae Kwon Do practitioners.All styles welcome."
 type: community
-date: "2023-06-19 17:58:59"
+date: "2023-06-20 11:37:14"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/taekwondo"

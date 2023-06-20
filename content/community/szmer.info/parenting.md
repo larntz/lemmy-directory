@@ -3,7 +3,7 @@ title: "Wychowanie do wolności"
 name: "parenting"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/parenting"
@@ -11,9 +11,9 @@ host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2021-05-13 13:23:26"
 subscribers: 43
-posts: 88
+posts: 89
 comments: 50
-weight: 88
+weight: 89
 dau: 1
 wau: 2
 mau: 3

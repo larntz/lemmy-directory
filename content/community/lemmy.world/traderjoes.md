@@ -3,14 +3,14 @@ title: "Trader Joe's Unofficial"
 name: "traderjoes"
 description: "Completely unofficial community for all things Trader Joe's. Sign art, reviews or love stories. This is the first lemmy community I have created. Please make suggestions or volunteer to mod."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/traderjoes"
 host: lemmy.world
 lastmod: "2023-06-17 17:55:48"
 published: "2023-06-14 19:07:35"
-subscribers: 76
+subscribers: 79
 posts: 3
 comments: 2
 weight: 3

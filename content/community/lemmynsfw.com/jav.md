@@ -3,19 +3,19 @@ title: "JAV"
 name: "jav"
 description: "All Jav porn related "
 type: community
-date: "2023-06-19 11:35:46"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jav"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 04:02:42"
-subscribers: 332
+subscribers: 350
 posts: 19
 comments: 0
 weight: 19
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmynsfw_com"

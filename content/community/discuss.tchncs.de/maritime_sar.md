@@ -3,7 +3,7 @@ title: "Maritime SAR"
 name: "maritime_sar"
 description: "This community is all about Search and Rescue operations at Sea.It's all about:- volunteer organizations, their missions and their training- navy or coast guard vessels in a SAR context- emergencies at sea- rescue equipment and best practicesRemember to be excellent to each other - safe sailing!"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/maritime_sar"

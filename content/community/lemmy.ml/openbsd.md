@@ -3,7 +3,7 @@ title: "OpenBSD Operating System"
 name: "openbsd"
 description: "useful resources:* https://www.openbsd.org/* https://undeadly.org/cgi?action=frontDeveloper blogs:* https://jcs.org/* https://reykfloeter.com/* https://www.tedunangst.com/* https://poolp.org/Ressources:* https://si3t.ch/ah/en/"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openbsd"

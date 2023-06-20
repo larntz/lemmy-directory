@@ -3,14 +3,14 @@ title: "octopus"
 name: "octopus"
 description: "For sharing and discussion of the 8-armed aquatic animal"
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/octopus"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 21:08:32"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 1
 weight: 2

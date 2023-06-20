@@ -3,7 +3,7 @@ title: "vizsla"
 name: "vizsla"
 description: "A place for anything Vizsla."
 type: community
-date: "2023-06-19 18:00:47"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vizsla"

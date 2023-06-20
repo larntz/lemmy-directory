@@ -1,14 +1,14 @@
 ---
-title: "longboarding" 
+title: "fuck downvoters" 
 name: "longboarding"
-description: "A community for us longboardingtons."
+description: "fuck downvoters"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/longboarding"
 host: lemmy.world
-lastmod: "2023-06-17 19:04:20"
+lastmod: "2023-06-19 21:44:14"
 published: "2023-06-15 02:27:32"
 subscribers: 7
 posts: 1

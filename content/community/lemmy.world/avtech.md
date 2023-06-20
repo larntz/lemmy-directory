@@ -3,7 +3,7 @@ title: "AV Tech"
 name: "avtech"
 description: "For sharing and discussing all things in the world of professional AV, from Installs to corporate AV, Theatre to Concerts.We welcome working professionals, volunteers, anyone looking to learn the craft, and even people who just want to peek behind the curtain."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avtech"

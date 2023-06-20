@@ -3,7 +3,7 @@ title: "Zinema"
 name: "zinema"
 description: "Zinemari buruzko komunitatea"
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/zinema"

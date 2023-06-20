@@ -3,7 +3,7 @@ title: "rimworld"
 name: "rimworld"
 description: "A place for media and discussion about the colony sim game RimWorld.Learn more at [rimworldgame.com](https://rimworldgame.com/)"
 type: community
-date: "2023-06-19 17:58:48"
+date: "2023-06-20 11:37:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/rimworld"

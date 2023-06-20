@@ -3,7 +3,7 @@ title: "México"
 name: "mexico"
 description: "Aquí empieza la patria"
 type: community
-date: "2023-06-19 17:58:31"
+date: "2023-06-20 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/mexico"
@@ -15,7 +15,7 @@ posts: 213
 comments: 825
 weight: 213
 dau: 1
-wau: 6
+wau: 2
 mau: 10
 instances:
 - "mujico_org"

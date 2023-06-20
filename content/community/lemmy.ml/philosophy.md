@@ -3,14 +3,14 @@ title: "Philosophy"
 name: "philosophy"
 description: "All about Philosophy. "
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/philosophy"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-03 16:12:56"
-subscribers: 826
+subscribers: 829
 posts: 52
 comments: 18
 weight: 52

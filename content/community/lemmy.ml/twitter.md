@@ -3,7 +3,7 @@ title: "Twitter"
 name: "twitter"
 description: "Discussions related to Twitter- https://twitter.com "
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twitter"

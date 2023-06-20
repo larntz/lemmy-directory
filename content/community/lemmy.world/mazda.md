@@ -3,7 +3,7 @@ title: "Mazda"
 name: "mazda"
 description: "Zoom Zoom - A community for Mazda enthusiasts"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mazda"

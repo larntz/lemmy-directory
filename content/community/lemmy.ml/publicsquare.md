@@ -3,7 +3,7 @@ title: "Public Square"
 name: "publicsquare"
 description: "# Public SquareThis is a place where anyone can share anything, and anyone can either agree or disagree with you with no worries of being banned or removed. We encourage you to be cordial when discussing controversial matters. Just because they disagree with you doesn't mean they're any lesser than you.**Rules:**- No doxing- No witchhunts- No internationally illegal activities.- Being disrespectful to one and other is strongly discouraged, but NOT prohibited."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/publicsquare"

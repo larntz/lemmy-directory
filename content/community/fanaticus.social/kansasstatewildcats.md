@@ -3,7 +3,7 @@ title: "Kansas State Wildcats"
 name: "kansasstatewildcats"
 description: "A community to discuss Kansas State Wildcats athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/kansasstatewildcats"

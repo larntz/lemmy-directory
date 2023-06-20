@@ -3,14 +3,14 @@ title: "Quake"
 name: "quake"
 description: "A sublemmy for the classic Quake first-person-shooter games from iD Software. "
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quake"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 00:57:54"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

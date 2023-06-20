@@ -3,7 +3,7 @@ title: "perl"
 name: "perl5"
 description: "perl programming language."
 type: community
-date: "2023-06-19 11:36:56"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/perl5"

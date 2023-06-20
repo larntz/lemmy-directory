@@ -3,7 +3,7 @@ title: "SBCGaming"
 name: "sbcgaming"
 description: "A community to discuss SBC gaming!"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sbcgaming"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

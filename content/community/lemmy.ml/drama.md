@@ -3,17 +3,17 @@ title: "drama"
 name: "drama"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/drama"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-03-28 09:32:28"
-subscribers: 10
-posts: 3
+subscribers: 11
+posts: 4
 comments: 2
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

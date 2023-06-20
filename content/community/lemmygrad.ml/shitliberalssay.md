@@ -3,7 +3,7 @@ title: "[ARCHIVED] Shit Liberals Say"
 name: "shitliberalssay"
 description: "## ARCHIVEDPlease use [/c/ShitReactionariesSay](https://lemmygrad.ml/c/shitreactionariessay) instead.---~~Liberals say a lot of stupid things. Post incidences here.~~"
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shitliberalssay"

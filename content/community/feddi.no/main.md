@@ -3,7 +3,7 @@ title: "Default community"
 name: "main"
 description: "Default community for all kinds of stuff"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://feddi.no/c/main"

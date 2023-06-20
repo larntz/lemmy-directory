@@ -3,14 +3,14 @@ title: "Sauna"
 name: "sauna"
 description: "Saunaposting  A place to discuss saunas."
 type: community
-date: "2023-06-19 17:58:49"
+date: "2023-06-20 11:37:09"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/sauna"
 host: suppo.fi
 lastmod: "2023-06-14 15:22:18"
 published: "2023-06-06 12:18:55"
-subscribers: 43
+subscribers: 45
 posts: 10
 comments: 9
 weight: 10

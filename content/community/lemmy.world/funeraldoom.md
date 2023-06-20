@@ -3,7 +3,7 @@ title: "Funeral Doom"
 name: "funeraldoom"
 description: "For all things funeral doom.Also check out the following communities for doom metal:- [!doommetal@lemmy.world](https://lemmy.world/c/doommetal) "
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/funeraldoom"

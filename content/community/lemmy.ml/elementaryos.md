@@ -3,7 +3,7 @@ title: "elementary OS"
 name: "elementaryos"
 description: "Unofficial community for discussion and troubleshooting.elementary OS is a Linux distribution based on Ubuntu LTS that is a fast, open, and privacy-respecting replacement for Windows and macOS.Join our [Matrix](#elementaryos:matrix.org) room!"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elementaryos"

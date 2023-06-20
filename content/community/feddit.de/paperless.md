@@ -3,7 +3,7 @@ title: "Paperless"
 name: "paperless"
 description: "Community zum Thema papierloses Büro und Paperless-NGX.[Icon](https://www.flaticon.com/free-icons/paper-plane)"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/paperless"

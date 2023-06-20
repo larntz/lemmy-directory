@@ -3,7 +3,7 @@ title: "Pedelecs"
 name: "pedelecs"
 description: "This is a community for the discussion of pedelecs, also known as pedal-assist electric bicycles! These are bicycles with a motor that gives your pedaling a little extra boost."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pedelecs"

@@ -3,7 +3,7 @@ title: "Unix"
 name: "unix"
 description: "This is a community discussing Unix, unix-based, and unix-like operating systems."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unix"

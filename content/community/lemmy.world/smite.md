@@ -3,7 +3,7 @@ title: "Smite"
 name: "smite"
 description: "A community for fans of the game SMITE by Titan Forge Games/Hi-Rez Studios to come together and discuss the game!WORK IN PROGRESSRules of [!smite@lemmy.world](https://lemmy.world/c/smite) :1. Be kind2. No witch hunts/doxxing3. Keep all posts relevant to Smite4. No account selling/trading or other real money transactions5. No sharing or distribution of hacks/cheats6. No low-effort posts7. No NSFW content"
 type: community
-date: "2023-06-19 18:00:43"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/smite"

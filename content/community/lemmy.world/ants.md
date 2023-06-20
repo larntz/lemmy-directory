@@ -3,7 +3,7 @@ title: "Ants"
 name: "ants"
 description: "Anything about ants! 🐜 - [Banner credit](https://www.wired.com/story/one-species-loves-our-climate-wrecking-ways-fire-ants/)- [Icon credit](https://www.nationalgeographic.com/magazine/article/see-the-uncommon-beauty-of-the-common-ant-feature)"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ants"

@@ -3,7 +3,7 @@ title: "Hypertexte Jeux"
 name: "jeux_hypertexte"
 description: "[FR] Jeux hypertexte qui se déroulent ici dans les commentaires.[EN] Hypertext Games, taking place in lemmy comments."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jeux_hypertexte"

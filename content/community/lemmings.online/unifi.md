@@ -3,7 +3,7 @@ title: "Unifi"
 name: "unifi"
 description: "For all your Unifi Networks madness"
 type: community
-date: "2023-06-19 17:59:14"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/unifi"

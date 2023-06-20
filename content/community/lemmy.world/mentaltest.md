@@ -3,7 +3,7 @@ title: "mentaltest"
 name: "mentaltest"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mentaltest"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 0
 comments: -1
 weight: 0
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

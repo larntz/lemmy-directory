@@ -3,16 +3,16 @@ title: "Battlebots"
 name: "battlebots"
 description: "It's Robot Fightin' Time!"
 type: community
-date: "2023-06-19 17:58:56"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/battlebots"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 14:48:25"
-subscribers: 56
+subscribers: 59
 posts: 27
-comments: 21
+comments: 22
 weight: 27
 dau: 2
 wau: 2

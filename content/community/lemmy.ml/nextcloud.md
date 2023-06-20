@@ -3,14 +3,14 @@ title: "nextcloud"
 name: "nextcloud"
 description: "Talk about Nextcloud. Nextcloud has its own forums, but I am not super keen on Discourse based forums.Hopefully here we can share information and find mutual tech aid."
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nextcloud"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-07 15:14:30"
-subscribers: 267
+subscribers: 270
 posts: 9
 comments: 1
 weight: 9

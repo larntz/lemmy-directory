@@ -3,7 +3,7 @@ title: "Community Requests"
 name: "community_requests"
 description: "You can request a new community or dead / abandoned communities to be transferred."
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/community_requests"

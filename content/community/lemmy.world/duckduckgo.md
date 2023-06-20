@@ -3,14 +3,14 @@ title: "DuckDuckGo"
 name: "duckduckgo"
 description: "DuckDuckGo Community"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duckduckgo"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 20:13:54"
-subscribers: 12
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

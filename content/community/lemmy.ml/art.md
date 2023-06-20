@@ -3,7 +3,7 @@ title: "A place to share your artwork, be it drawing, music, or something else!"
 name: "art"
 description: "Please don't share other people's art you just found! That should go over in /c/found_art instead."
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/art"

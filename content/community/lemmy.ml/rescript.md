@@ -3,7 +3,7 @@ title: "rescript"
 name: "rescript"
 description: "Everything [rescript](https://rescript-lang.org/) -- The JavaScript-like language you have been waiting for."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rescript"

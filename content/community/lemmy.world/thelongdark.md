@@ -3,7 +3,7 @@ title: "The Long Dark"
 name: "thelongdark"
 description: "Community for the Hinterland Games title The Long Dark**Rules** 1   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. 2    Be respectful, especially when disagreeing. Everyone should feel welcome here.3    No porn.4    No Ads / Spamming."
 type: community
-date: "2023-06-19 18:00:47"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelongdark"

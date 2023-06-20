@@ -3,14 +3,14 @@ title: "Nu Metal"
 name: "numetal"
 description: "A community for nu metalRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/numetal"
 host: lemmy.world
 lastmod: "2023-06-15 14:49:53"
 published: "2023-06-13 14:06:01"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 3
 weight: 3

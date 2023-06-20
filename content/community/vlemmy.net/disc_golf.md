@@ -3,7 +3,7 @@ title: "Disc golf"
 name: "disc_golf"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:14"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/disc_golf"

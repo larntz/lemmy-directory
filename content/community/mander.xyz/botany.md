@@ -3,14 +3,14 @@ title: "Botany"
 name: "botany"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:40"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/botany"
 host: mander.xyz
 lastmod: "2022-01-05 10:41:56"
 published: "2022-01-05 10:41:44"
-subscribers: 102
+subscribers: 103
 posts: 7
 comments: 6
 weight: 7

@@ -3,14 +3,14 @@ title: "FL Studio"
 name: "fl_studio"
 description: "For users of Image-Line's DAW, FL Studio"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/fl_studio"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 03:02:21"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 9
 weight: 2

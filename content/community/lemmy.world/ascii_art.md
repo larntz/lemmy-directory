@@ -3,7 +3,7 @@ title: "ASCII Art"
 name: "ascii_art"
 description: "A group for fans, collectors, and creators of ASCII art.[ASCII art](https://en.wikipedia.org/wiki/ASCII_art) is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII). The term is also loosely used to refer to text-based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation."
 type: community
-date: "2023-06-19 18:00:46"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ascii_art"

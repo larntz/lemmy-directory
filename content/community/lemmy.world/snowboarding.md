@@ -3,14 +3,14 @@ title: "Shreddit but on the fediverse"
 name: "snowboarding"
 description: "For snowboarders & those who love snowboards."
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/snowboarding"
 host: lemmy.world
 lastmod: "2023-06-15 02:10:31"
 published: "2023-06-15 02:10:24"
-subscribers: 1
+subscribers: 3
 posts: 2
 comments: 3
 weight: 2

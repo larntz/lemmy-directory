@@ -3,14 +3,14 @@ title: "Reviews in One Line"
 name: "onelinereviews"
 description: "Post simple, one line reviews of things you love or hate. It can be movies, shows, episodes, books, places, products, businesses, people, animals, anything goes."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onelinereviews"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 04:14:47"
-subscribers: 18
+subscribers: 19
 posts: 2
 comments: 5
 weight: 2

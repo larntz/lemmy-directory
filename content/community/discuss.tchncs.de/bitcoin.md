@@ -3,14 +3,14 @@ title: "Bitcoin"
 name: "bitcoin"
 description: "Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/bitcoin"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 19:12:23"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 4
 weight: 1

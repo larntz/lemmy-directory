@@ -3,14 +3,14 @@ title: "Android"
 name: "android"
 description: "Android news for android developers. Everything that happens in android world.  For Android development specific topics please see [/c/android_dev](https://programming.dev/c/android_dev)"
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:11"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android"
 host: programming.dev
 lastmod: "2023-06-15 04:37:12"
 published: "2023-06-14 09:50:25"
-subscribers: 32
+subscribers: 33
 posts: 3
 comments: 0
 weight: 3

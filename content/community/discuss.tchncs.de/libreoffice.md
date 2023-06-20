@@ -3,14 +3,14 @@ title: "LibreOffice"
 name: "libreoffice"
 description: "LibreOffice is a free and powerful office suite.- [Ask and Answer](https://ask.libreoffice.org/)- [LibreOffice](https://www.libreoffice.org/)- [LibreOffice Community, get involved](https://www.libreoffice.org/community/get-involved/)- [The Document Foundation, TDF](https://www.documentfoundation.org/)"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/libreoffice"
 host: discuss.tchncs.de
 lastmod: "2023-06-17 18:25:11"
 published: "2023-06-14 18:18:18"
-subscribers: 23
+subscribers: 24
 posts: 2
 comments: 4
 weight: 2

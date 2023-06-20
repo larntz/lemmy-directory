@@ -3,7 +3,7 @@ title: "meta"
 name: "meta"
 description: "Meta discussion about Reddit + this Lemmy instance"
 type: community
-date: "2023-06-19 17:59:00"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/meta"
@@ -15,8 +15,8 @@ posts: 4
 comments: 7
 weight: 4
 dau: 2
-wau: 4
-mau: 4
+wau: 6
+mau: 6
 instances:
 - "latte_isnot_coffee"
 tags: 

@@ -3,17 +3,17 @@ title: "Greymuzzle"
 name: "greymuzzle"
 description: "Community For Well-Aged Furs (35+)"
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/greymuzzle"
 host: pawb.social
-lastmod: "2023-06-13 02:02:30"
+lastmod: "2023-06-20 01:23:37"
 published: "2023-06-13 00:52:43"
-subscribers: 67
-posts: 18
-comments: 126
-weight: 18
+subscribers: 76
+posts: 21
+comments: 137
+weight: 21
 dau: 9
 wau: 47
 mau: 47

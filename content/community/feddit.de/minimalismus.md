@@ -3,7 +3,7 @@ title: "Minimalismus"
 name: "minimalismus"
 description: "Community rund um das Thema Minimalismus. Egal, ob es um den Lebensstil, das Leben aus dem Rucksack oder den digitalen Minimalismus geht, alle Themen sind willkommen."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/minimalismus"

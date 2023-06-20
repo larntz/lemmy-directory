@@ -3,7 +3,7 @@ title: "Research"
 name: "research"
 description: "/r/netsec's branch in the fediverse.A community-curated aggregator of technical research. Our mission is to extract signal from the noise.Only post technical content here. New tools (and major releases of existing ones), novel techniques, deep dives and post mortems are the ideal content. CTF and bug bounty writeups could be acceptable if they showcase lesser known approaches or techniques.Non-technical content (both beginner and CISO level) will be considered spam."
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/research"

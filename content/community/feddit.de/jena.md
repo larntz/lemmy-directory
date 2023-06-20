@@ -3,7 +3,7 @@ title: "Jena"
 name: "jena"
 description: "Jena, et al[Banner by Thuringius](https://commons.wikimedia.org/wiki/File:Landgrafen_tower_and_Jentower_Jena_2023.jpg)"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/jena"

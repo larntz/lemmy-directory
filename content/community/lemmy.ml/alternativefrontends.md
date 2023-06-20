@@ -3,7 +3,7 @@ title: "Alternative Frontends"
 name: "alternativefrontends"
 description: "[Farside](farside.link/)  is a smart redirecting gateway for various frontend services[LibRedirect](https://libredirect.github.io/) is an auto-redirect plugin for browsers[Matrix space](https://matrix.to/#/#alternative-frontends:tchncs.de)Related communities:* [!nitter](/c/nitter@lemmy.ml)"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alternativefrontends"

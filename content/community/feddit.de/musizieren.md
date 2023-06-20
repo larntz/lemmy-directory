@@ -3,7 +3,7 @@ title: "Musizieren"
 name: "musizieren"
 description: "Hier dreht sich alles rund ums Musizieren: Egal ob Klavier, Gitarre, Synthesizer, DAW, DJing, oder singen in der Dusche.Dies soll ein Platz für Fragen, Feedback, Tipps & Tricks, aber auch einfach für den lockeren Austausch sein.Ihr könnt natürlich auch gerne eigene Songs / Produktionen reinstellen, aber bitte in handelsüblichen Mengen. P.S.: Ich hab nichts mit dem Subreddit r/MusizierenDE zu tun."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musizieren"

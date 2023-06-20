@@ -3,7 +3,7 @@ title: "Tokusatsu"
 name: "tokusatsu"
 description: "Everything Tokusatsu! Come talk about your favorite Japanese shows of the genre!PS: Mothra best girl!"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tokusatsu"

@@ -3,14 +3,14 @@ title: "algorithmic_music"
 name: "algorithmic_music"
 description: "A community for people having fun at the intersection of code and music."
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/algorithmic_music"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 18:04:54"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

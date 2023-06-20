@@ -3,7 +3,7 @@ title: "Marvel Snap"
 name: "marvelsnap"
 description: "A community for all things related to the Mobile and Steam CCG Marvel Snap"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvelsnap"

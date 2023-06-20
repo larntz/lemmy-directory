@@ -3,7 +3,7 @@ title: "生活版"
 name: "other"
 description: "一切和灵异无关的话题"
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:03"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/other"

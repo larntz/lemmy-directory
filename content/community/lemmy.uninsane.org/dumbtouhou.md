@@ -3,7 +3,7 @@ title: "Dumb Touhou"
 name: "dumbtouhou"
 description: "Touhou memes, comics, and silly fan content"
 type: community
-date: "2023-06-19 17:58:42"
+date: "2023-06-20 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uninsane.org/c/dumbtouhou"

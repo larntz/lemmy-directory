@@ -3,7 +3,7 @@ title: "München/Munich"
 name: "munich"
 description: "Alles rund ums Thema München - Everything Munich"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/munich"
@@ -15,7 +15,7 @@ posts: 7
 comments: 13
 weight: 7
 dau: 1
-wau: 7
+wau: 5
 mau: 12
 instances:
 - "discuss_tchncs_de"

@@ -1,22 +1,22 @@
 ---
 title: "Catgirls (Nekomimi)" 
 name: "nekomimi"
-description: "Description not available."
+description: "**Rules:**- No AI-generated images- No NSFL content (scat, gore, etc.)- No underaged/loli contentIf you're aware of the source, please include it. Use [SauceNAO](https://saucenao.com/) if you're not sure.**Recommended communities:**- [Kitsunemimi (Foxgirls)](kitsunemimi@lemmynsfw.com)"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nekomimi"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 00:40:39"
 published: "2023-06-14 10:57:44"
-subscribers: 145
-posts: 6
+subscribers: 157
+posts: 7
 comments: 0
-weight: 6
+weight: 7
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 

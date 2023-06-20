@@ -3,14 +3,14 @@ title: "Fidgets"
 name: "fidgets"
 description: "Fidget users, collectors, makers, sellers, and buyers."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fidgets"
 host: lemmy.world
 lastmod: "2023-06-15 01:23:09"
 published: "2023-06-14 16:11:46"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

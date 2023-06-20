@@ -3,18 +3,18 @@ title: "Mental Health"
 name: "mentalhealth"
 description: "Welcome! -**This is a safe place to discuss, vent, support, and share information about mental health, illness, and wellness.****Together, we make this community great. Thank you for being here. Please actively participate in the discussions. Please show respect and empathy when replying to posts.**The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-**1**-Posts promoting paid products and services of any kind are not allowed here. If you are offering a free therapy service, then contact the current moderators for a short, completely anonymous interview.**2**-All our content must be helpful and appropriate. Do not put vulnerable people at risk and mind the way you approach when need be. **3**-Do not DM any of our members unless they specifically request it. Likewise, if a person from here disturbs you, you are encouraged to report them to us(with evidence) and block them. They will be banned instantly. **4**-Posts about suicide and/or dying are not allowed here. Your content may trigger others & put them at risk, and we do NOT want that to happen. We'll be establishing a !SuicideWatch community soon. Partnered Communities: -[Autism](https://lemmy.world/c/autism)[Bipolar Disorder](https://lemmy.world/c/bipolardisorder) [No Stupid Questions](https://lemmy.world/c/nostupidquestions)[You Should Know](https://lemmy.world/c/youshouldknow)[Jokes](https://lemmy.world/c/jokes)To partner with our community and be  included here, you are free to message me or comment on our pinned post. Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time, or simply shoot a message to the current moderators.   "
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mentalhealth"
 host: lemmy.world
 lastmod: "2023-06-19 02:09:44"
 published: "2023-06-12 23:03:56"
-subscribers: 259
+subscribers: 285
 posts: 9
-comments: 67
+comments: 72
 weight: 9
-dau: 4
+dau: 3
 wau: 28
 mau: 28
 instances:

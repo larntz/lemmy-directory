@@ -3,7 +3,7 @@ title: "Federated Community"
 name: "federated_community"
 description: "The official Lemmy community for [federated.community](https://federated.community).Moderated by the Federated Community staff."
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:40"
 draft: false
 nsfw: false
 actor_id: "https://federated.community/c/federated_community"
@@ -15,7 +15,7 @@ posts: 2
 comments: 6
 weight: 2
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "federated_community"

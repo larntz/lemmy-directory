@@ -3,7 +3,7 @@ title: "Esperantujo"
 name: "esperantujo"
 description: ""
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esperantujo"

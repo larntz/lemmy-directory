@@ -3,7 +3,7 @@ title: "TRPG"
 name: "rpg"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:32"
+date: "2023-06-20 11:36:53"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/rpg"

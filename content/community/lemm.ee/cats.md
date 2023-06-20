@@ -3,14 +3,14 @@ title: "Cats"
 name: "cats"
 description: "A small community for cat lovers to share pictures, stories, and other feline-related advice.**Rules**- Be respectful- Keep it relevant- Original content only- No advertising"
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/cats"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 17:53:35"
-subscribers: 59
+subscribers: 65
 posts: 1
 comments: 0
 weight: 1

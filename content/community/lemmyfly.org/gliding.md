@@ -3,14 +3,14 @@ title: "gliding"
 name: "gliding"
 description: "Everything around and about soaring the skies !"
 type: community
-date: "2023-06-19 17:59:00"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/gliding"
 host: lemmyfly.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 14:57:29"
-subscribers: 14
+subscribers: 15
 posts: 3
 comments: 6
 weight: 3

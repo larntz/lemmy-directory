@@ -3,7 +3,7 @@ title: "Tanzania"
 name: "tanzania"
 description: "A community to share and discuss news related to Tanzania. "
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/tanzania"

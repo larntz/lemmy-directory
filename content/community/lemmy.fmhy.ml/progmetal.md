@@ -3,14 +3,14 @@ title: "progmetal"
 name: "progmetal"
 description: "Your source for progressive metal"
 type: community
-date: "2023-06-19 17:58:54"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/progmetal"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-16 10:00:32"
 published: "2023-06-16 09:58:37"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

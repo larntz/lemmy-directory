@@ -3,7 +3,7 @@ title: "Greater Sudbury - Ontario"
 name: "greater_sudbury"
 description: "Dedicated to news, events & organizations in Greater Sudbury, Ontario. Articles & news affecting Northeastern Ontario as a whole are also welcome.Try to keep things positive and help build the community you want to see."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/greater_sudbury"

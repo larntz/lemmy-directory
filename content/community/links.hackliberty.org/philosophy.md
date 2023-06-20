@@ -3,7 +3,7 @@ title: "Philosophy"
 name: "philosophy"
 description: "Philosophy (from Greek: φιλοσοφία, philosophia, 'love of wisdom') is the systematized study of general and fundamental questions, such as those about ***existence, reason, knowledge, values, mind, and language***.#### Rules1. Don't do unto others what you don't want done unto you.2. No Porn, Gore, or NSFW content. **Instant Ban.**3. No Spamming, Trolling or Unsolicited Ads. **Instant Ban.**4. Stay on topic in a community. Please reach out to an admin to create a new community."
 type: community
-date: "2023-06-19 17:59:01"
+date: "2023-06-20 11:37:20"
 draft: false
 nsfw: false
 actor_id: "https://links.hackliberty.org/c/philosophy"

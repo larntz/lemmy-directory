@@ -3,7 +3,7 @@ title: "Minecraft Buddies"
 name: "minecraftbuddies"
 description: "Looking for someone to play Minecraft with? You've come to the right place!Please include at least one of these tags in your post:[Java][Bedrock][Modded][Hosted]"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftbuddies"

@@ -3,14 +3,14 @@ title: "Share Funny Videos, Images, Memes, Quotes and more "
 name: "funny"
 description: "#funny "
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/funny"
 host: lemmy.ml
 lastmod: "2020-03-07 23:20:52"
 published: "2020-03-07 23:15:52"
-subscribers: 592
+subscribers: 597
 posts: 88
 comments: 30
 weight: 88

@@ -3,7 +3,7 @@ title: "AFL"
 name: "afl"
 description: "AFL"
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afl"
@@ -15,7 +15,7 @@ posts: 10
 comments: 10
 weight: 10
 dau: 1
-wau: 4
+wau: 3
 mau: 6
 instances:
 - "lemmy_world"

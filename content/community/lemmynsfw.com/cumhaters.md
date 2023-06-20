@@ -3,20 +3,20 @@ title: "Cum Haters"
 name: "cumhaters"
 description: "Women who really don't look like they want to take that facial."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cumhaters"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 19:58:55"
 published: "2023-06-13 13:24:30"
-subscribers: 329
-posts: 32
-comments: 3
-weight: 32
-dau: 1
-wau: 5
-mau: 5
+subscribers: 348
+posts: 39
+comments: 4
+weight: 39
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmynsfw_com"
 tags: 

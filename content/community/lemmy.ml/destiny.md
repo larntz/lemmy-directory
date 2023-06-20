@@ -3,7 +3,7 @@ title: "A Community for the video game Destiny"
 name: "destiny"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/destiny"

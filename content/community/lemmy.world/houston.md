@@ -3,14 +3,14 @@ title: "Houston"
 name: "houston"
 description: "For news, events, and everything else going on in the Houston area, Texas-wide stories should be in [Texas](http://lemmy.world/c/houston)**Sports**[Houston Rockets](http://lemmy.world/c/rockets)-No NSFW Content"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/houston"
 host: lemmy.world
 lastmod: "2023-06-15 16:32:13"
 published: "2023-06-13 15:21:27"
-subscribers: 36
+subscribers: 41
 posts: 9
 comments: 3
 weight: 9

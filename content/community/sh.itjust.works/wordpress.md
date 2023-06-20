@@ -3,7 +3,7 @@ title: "Wordpress"
 name: "wordpress"
 description: "A community dedicated to all things Wordpress"
 type: community
-date: "2023-06-19 17:58:56"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wordpress"

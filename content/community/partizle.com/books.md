@@ -3,7 +3,7 @@ title: "Book Club"
 name: "books"
 description: "Partizlepate in our book club. What are you reading?"
 type: community
-date: "2023-06-19 17:58:55"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/books"

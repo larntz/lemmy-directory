@@ -3,7 +3,7 @@ title: "DC Cinematic"
 name: "dc_cinematic"
 description: "This is a community to discuss all aspects of DC films and cinema."
 type: community
-date: "2023-06-19 11:36:55"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dc_cinematic"

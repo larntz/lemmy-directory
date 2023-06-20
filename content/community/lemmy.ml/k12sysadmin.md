@@ -3,7 +3,7 @@ title: "k12sysadmin"
 name: "k12sysadmin"
 description: "This is meant to be a public education focused IT support community."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/k12sysadmin"

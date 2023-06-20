@@ -3,7 +3,7 @@ title: "Unofficial Satisfactory Appreciation Community "
 name: "satisfactory"
 description: "1. Be kind to others2. No advertisment3. Keep it relevant to Satisfactory only"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/satisfactory"

@@ -3,7 +3,7 @@ title: "Musica Agorà"
 name: "musica"
 description: "# ***Musica Agorà: un ascolto attento ai suoni del mondo***Musica Agorà è una comunità che ha come unico scopo la condivisione musicale in tutte le sue forme.![](https://feddit.it/pictrs/image/34b4834c-8cbe-4f5a-9152-e6d78859cf88.jpeg)"
 type: community
-date: "2023-06-19 17:58:44"
+date: "2023-06-20 11:37:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/musica"
@@ -14,9 +14,9 @@ subscribers: 160
 posts: 907
 comments: 123
 weight: 907
-dau: 2
+dau: 1
 wau: 9
-mau: 10
+mau: 11
 instances:
 - "feddit_it"
 tags: 

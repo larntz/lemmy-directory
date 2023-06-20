@@ -3,7 +3,7 @@ title: "For the small web/weird web"
 name: "smallweb"
 description: "The small web and weird web are overlapping uses of the Worldwide Web that harkens back to Web 1.0: personally-owned and non-corporate domains, text-based, and interlinked with federation or webrings."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smallweb"

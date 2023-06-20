@@ -3,7 +3,7 @@ title: "Ruby InfoSec"
 name: "ruby_infosec"
 description: "Where Ruby and InfoSec intersect."
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ruby_infosec"

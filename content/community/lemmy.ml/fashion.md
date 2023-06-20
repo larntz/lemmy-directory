@@ -3,7 +3,7 @@ title: "Fashion"
 name: "fashion"
 description: "A community for fashionistas, influences, models and photographers to express.Telegram Channel:https://t.me/fashionstate"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fashion"

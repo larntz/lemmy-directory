@@ -3,7 +3,7 @@ title: "Disability"
 name: "disability"
 description: "This is a general community for news, opinion, and experiences relating to to individuals with disabilities. You do not need a medical diagnosis to participate. It is a general community that brings all of us together to seek and share information, celebrate, and build better life experiences for everyone. Some rules, on top of the general [`baraza`](https://baraza.africa/) guidelines:- All community members are expected to be respectful to other users at all times. Insults will be removed as soon as they are found or reported, and repeat offenders will the banned. - Community moderators reserve the right to restrict content if on balance of evidence such content erodes the effectiveness of this community. If in doubt, message the mods."
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/disability"

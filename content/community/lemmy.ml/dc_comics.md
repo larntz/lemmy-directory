@@ -3,7 +3,7 @@ title: "DC Comics"
 name: "dc_comics"
 description: "A community to discuss all aspects of DC Comics"
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dc_comics"

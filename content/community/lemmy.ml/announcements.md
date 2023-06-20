@@ -1,19 +1,19 @@
 ---
 title: "Announcements" 
 name: "announcements"
-description: "Lemmy Announcements---Feel free to announce new communities here.Other than that, this is *reserved for admin use only*."
+description: "Official announcements from the Lemmy project. Subscribe to this community or add it to your RSS reader in order to be notified about new releases and important updates.You can also find major news on [join-lemmy.org](https://join-lemmy.org/news)"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/announcements"
 host: lemmy.ml
-lastmod: "2023-02-22 17:09:17"
+lastmod: "2023-06-20 09:04:28"
 published: "2019-06-02 16:43:50"
-subscribers: 19282
-posts: 375
-comments: 3065
-weight: 375
+subscribers: 19309
+posts: 374
+comments: 3055
+weight: 374
 dau: 2
 wau: 17
 mau: 30

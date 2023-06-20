@@ -3,7 +3,7 @@ title: "UberEATS"
 name: "ubereats"
 description: "UberEATS driver community.Please be respectful."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ubereats"

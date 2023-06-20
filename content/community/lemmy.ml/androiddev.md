@@ -3,7 +3,7 @@ title: "AndroidDev's community"
 name: "androiddev"
 description: "News for Android developers with the who, what, where when, and how of the Android community. Probably mostly the how. Here, you'll find: - News for Android developers - Thoughtful, informative articles - Insightful talks and presentations - Useful libraries - Handy tools - Open-source applications for studyinghttps://developer.android.com/"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androiddev"

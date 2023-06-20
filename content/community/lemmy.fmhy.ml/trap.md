@@ -3,7 +3,7 @@ title: "Trap"
 name: "trap"
 description: "The community for the greatest of trap/bass music.**Rules**1. Follow FMHY's instance policy, found in the sidebar in homepage (just like how you found this)2. Submissions must be in the following format: [Artist] - [Song Name] [Whatever else]"
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/trap"

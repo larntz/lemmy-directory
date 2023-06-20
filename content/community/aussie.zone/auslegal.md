@@ -3,14 +3,14 @@ title: "AusLegal"
 name: "auslegal"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:00"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/auslegal"
 host: aussie.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 01:08:29"
-subscribers: 60
+subscribers: 67
 posts: 1
 comments: 5
 weight: 1

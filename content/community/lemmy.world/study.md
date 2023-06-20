@@ -3,14 +3,14 @@ title: "Study"
 name: "study"
 description: "Let's start studying!"
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/study"
 host: lemmy.world
 lastmod: "2023-06-19 08:25:46"
 published: "2023-06-18 18:17:52"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 2
 weight: 1

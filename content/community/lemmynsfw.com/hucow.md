@@ -1,19 +1,19 @@
 ---
 title: "HuCow" 
 name: "hucow"
-description: "hu·cow: A woman who chooses to be objectified for her large mammaries and ability to lactate constantly"
+description: "hu·cow: A woman who chooses to be objectified for her large mammaries and ability to lactate constantly**Rules:**- Follow instance-wide rules.- No AI generated material. Post it to [c/aigen](https://lemmynsfw.com/c/aigen) instead- No leaked/illegal/copyrighted content.- Put source in title/body if available- Be considerate. Don't be an asshole.- Self promotion is allowed as long as you are not spamming reposted content and you make it obvious that its promo- If you need to identify or find a particular piece of content post to [c/pornid](https://lemmynsfw.com/c/pornid) "
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hucow"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 18:11:23"
 published: "2023-06-14 17:58:51"
-subscribers: 111
-posts: 15
+subscribers: 129
+posts: 21
 comments: 0
-weight: 15
+weight: 21
 dau: 1
 wau: 1
 mau: 1

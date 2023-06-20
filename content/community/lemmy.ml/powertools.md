@@ -3,7 +3,7 @@ title: "Power Tools"
 name: "powertools"
 description: "**Welcome to the Power Tools Community!** 🔧🔌Where power tool enthusiasts, professionals, and hobbyists come together. Join discussions on tool recommendations, troubleshooting, and DIY projects. Get advice, share your experiences, and stay informed about the latest industry news. 💡💪 Connect with like-minded individuals who share your passion for power tools. 🛠️🔩🔨"
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/powertools"

@@ -1,19 +1,19 @@
 ---
 title: "Atheism" 
 name: "atheism"
-description: "Description not available."
+description: "Be civil and have fun"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/atheism"
 host: feddit.de
-lastmod: "2023-06-13 23:31:35"
+lastmod: "2023-06-19 23:22:22"
 published: "2023-06-12 23:40:04"
-subscribers: 66
-posts: 15
-comments: 5
-weight: 15
+subscribers: 75
+posts: 21
+comments: 11
+weight: 21
 dau: 2
 wau: 6
 mau: 6

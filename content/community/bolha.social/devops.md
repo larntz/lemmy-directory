@@ -3,14 +3,14 @@ title: "DevOps Culture"
 name: "devops"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:32"
+date: "2023-06-20 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/devops"
 host: bolha.social
 lastmod: "2022-12-21 11:39:55"
 published: "2022-12-21 11:34:44"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

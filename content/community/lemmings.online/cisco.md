@@ -3,7 +3,7 @@ title: "Cisco"
 name: "cisco"
 description: "For all your Cisco networking"
 type: community
-date: "2023-06-19 17:59:14"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/cisco"

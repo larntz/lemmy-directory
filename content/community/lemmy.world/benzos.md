@@ -3,7 +3,7 @@ title: "Benzodiazepines"
 name: "benzos"
 description: "Community about benzodiacepines: advise, experiences, questions related, withdrawals processes... NOT BUY&SELL ALLOWED! 🚫"
 type: community
-date: "2023-06-19 18:00:50"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/benzos"

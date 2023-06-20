@@ -3,14 +3,14 @@ title: "Mac Gaming"
 name: "macgaming"
 description: "A community dedicated to all things gaming on Apple's Mac Computers."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/macgaming"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 09:15:29"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 0
 weight: 1

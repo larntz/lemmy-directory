@@ -3,7 +3,7 @@ title: "Computers"
 name: "computers"
 description: "For fans of computers and anything related to these.**RULES****1. No non-computer related content is allowed here.****2. No racism, homophobia, any personal or death threats, etc. Failure to follow this rule will result in a permaban.****3. Follow Lemmy's [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)**"
 type: community
-date: "2023-06-19 11:36:56"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/computers"

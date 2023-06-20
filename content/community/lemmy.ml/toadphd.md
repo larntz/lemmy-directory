@@ -3,7 +3,7 @@ title: "ToadPhd"
 name: "toadphd"
 description: "ToadPhd (twitch.tv/toadphd) is a Twitch streamer that does a daily call in show at 6 PM. He provides support and makes its funny and entertaining. You can post anything related to ToadPhd here. This is an unofficial sublemmy and ToadPhd is not involved in any way."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/toadphd"

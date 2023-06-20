@@ -3,7 +3,7 @@ title: "Powermetal Speedmetal Epic Music etc."
 name: "motivationalmusic"
 description: "All genres allowed, as long it gets you motivated. Community's title some lists successful genres.Please post in the following title format:* [genre] Artist1, Artist2 - Track[More music communities ↗️](https://beehaw.org/post/516009)"
 type: community
-date: "2023-06-19 17:59:29"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/motivationalmusic"

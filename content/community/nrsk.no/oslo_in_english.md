@@ -3,7 +3,7 @@ title: "Oslo in English"
 name: "oslo_in_english"
 description: "A community for Oslo, Norway in English. For posts in Norwegian, please visit [!oslo@nrsk.no](https://nrsk.no/c/oslo).(🇳🇴) For poster på norsk, gå til [!oslo@nrsk.no](https://nrsk.no/c/oslo)."
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:37"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/oslo_in_english"

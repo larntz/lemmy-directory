@@ -3,14 +3,14 @@ title: "I am very smart"
 name: "iamverysmart"
 description: "People trying to be smart but failing"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iamverysmart"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-11-11 23:33:24"
-subscribers: 73
+subscribers: 74
 posts: 4
 comments: 4
 weight: 4

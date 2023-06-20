@@ -3,12 +3,12 @@ title: "Table Tennis"
 name: "tabletennis"
 description: "All things table tennis. "
 type: community
-date: "2023-06-19 17:58:56"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tabletennis"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 08:58:01"
 published: "2023-06-14 10:39:34"
 subscribers: 2
 posts: 2

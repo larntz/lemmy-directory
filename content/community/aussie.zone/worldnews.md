@@ -3,14 +3,14 @@ title: "World News"
 name: "worldnews"
 description: "News from outside of Australia"
 type: community
-date: "2023-06-19 17:59:00"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/worldnews"
 host: aussie.zone
 lastmod: "2023-06-18 15:28:15"
 published: "2023-06-10 05:20:58"
-subscribers: 134
+subscribers: 142
 posts: 2
 comments: 3
 weight: 2

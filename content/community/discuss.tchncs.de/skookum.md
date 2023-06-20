@@ -3,7 +3,7 @@ title: "Skookum"
 name: "skookum"
 description: "This is intended as a place where people come to learn, or teach. (Or have a chuckle out in the shop)"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/skookum"
@@ -15,7 +15,7 @@ posts: 5
 comments: 5
 weight: 5
 dau: 2
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "discuss_tchncs_de"

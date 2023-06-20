@@ -3,14 +3,14 @@ title: "Nobara Project"
 name: "nobaraproject"
 description: "The (unofficial) community dedicated to discussions, questions, and support of GloriousEggroll’s Nobara Project, an unofficial customization of Fedora Linux that includes both open-and-closed source software designed to make gaming and content creation quick and simple while keeping issues to a minimum. [Website](https://nobaraproject.org/ )[Discord](https://discord.gg/6y3BdzC)"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nobaraproject"
 host: lemmy.ml
 lastmod: "2022-10-24 09:42:18"
 published: "2022-10-24 09:41:48"
-subscribers: 19
+subscribers: 18
 posts: 7
 comments: 0
 weight: 7

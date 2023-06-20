@@ -3,7 +3,7 @@ title: "steak"
 name: "steak"
 description: "you can post steak that you grilled/cooked here."
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steak"

@@ -3,14 +3,14 @@ title: "Memes of the Star Wars Prequels"
 name: "prequelmemes"
 description: "A community to continue the spread and awareness of the Senate and Obi-Wan, and of course everything else Star Wars Prequels related"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prequelmemes"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-03 15:53:08"
-subscribers: 304
+subscribers: 305
 posts: 12
 comments: 5
 weight: 12

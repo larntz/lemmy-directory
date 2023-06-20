@@ -3,7 +3,7 @@ title: "Appalachia"
 name: "appalachia"
 description: "Celebrating all things Appalachia.   RULES:No insults or uncivil behaviorNo hate speechNo Fake NewsNo Trolling (within reason)No ExtremismNo doxxingNSFW should be marked as such"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/appalachia"

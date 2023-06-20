@@ -3,7 +3,7 @@ title: "Develop the skills necessary to lead the people"
 name: "praxis"
 description: "This community is dedicated to the development of leadership skills"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/praxis"

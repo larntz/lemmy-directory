@@ -3,14 +3,14 @@ title: "Ebonygirls"
 name: "ebonygirls"
 description: "Place to share photos of black women. Nude or non-nude"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ebonygirls"
 host: lemmynsfw.com
 lastmod: "2023-06-19 01:10:17"
 published: "2023-06-18 21:45:48"
-subscribers: 35
+subscribers: 47
 posts: 27
 comments: 0
 weight: 27

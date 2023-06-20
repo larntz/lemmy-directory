@@ -3,7 +3,7 @@ title: "Emulator Development"
 name: "emudev"
 description: "Discuss all things related to emulators and emulator development.  Posts asking for illegal software copies (ROMs, etc.) will be removed."
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:11"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/emudev"

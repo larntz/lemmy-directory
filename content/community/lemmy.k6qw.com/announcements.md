@@ -3,7 +3,7 @@ title: "K6QW Lemmy Announcements"
 name: "announcements"
 description: "Announcements"
 type: community
-date: "2023-06-19 17:59:10"
+date: "2023-06-20 11:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.k6qw.com/c/announcements"

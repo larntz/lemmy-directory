@@ -3,14 +3,14 @@ title: "Ballbusting"
 name: "ballbusting"
 description: "c/BallBusting is a female on male ballbusting community dedicated to cbt, with a special emphasis on the balls. Share videos, GIFs, and images with a community passionate about Female on Male BallBusting. Please don’t post solo male pics. You will get banned if you do."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ballbusting"
 host: lemmynsfw.com
 lastmod: "2023-06-17 13:20:43"
 published: "2023-06-17 03:40:38"
-subscribers: 14
+subscribers: 17
 posts: 4
 comments: 0
 weight: 4

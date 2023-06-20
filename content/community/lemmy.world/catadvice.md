@@ -3,7 +3,7 @@ title: "catadvice"
 name: "catadvice"
 description: "Cats can be finicky animals, with each cat exhibiting a distinct personality of their own. Here there are no dumb questions. Medical advice is not allowed for now."
 type: community
-date: "2023-06-19 18:00:42"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catadvice"

@@ -3,7 +3,7 @@ title: "University of South Carolina"
 name: "gamecocks"
 description: "The subreddit for discussing all things related to the University of South Carolina"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamecocks"

@@ -3,7 +3,7 @@ title: "Mecha"
 name: "mecha"
 description: "All things Mecha! Show us your gunpla collection or argue about which Gundam is better here!"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mecha"

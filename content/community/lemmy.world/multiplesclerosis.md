@@ -3,7 +3,7 @@ title: "Multiple Sclerosis"
 name: "multiplesclerosis"
 description: "Focusing on issues facing people with MS and their family and friends. Conversations about support, research, drug therapies, nutrition, exercise, and more."
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/multiplesclerosis"

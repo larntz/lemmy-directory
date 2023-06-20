@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "A place to talk about what music you're listening to currently. Or playing any instruments."
 type: community
-date: "2023-06-19 17:59:10"
+date: "2023-06-20 11:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/music"

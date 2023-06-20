@@ -3,14 +3,14 @@ title: "The Owl House"
 name: "theowlhouse"
 description: "Us weirdos need to stick together!"
 type: community
-date: "2023-06-19 17:59:02"
+date: "2023-06-20 11:37:22"
 draft: false
 nsfw: false
 actor_id: "https://toons.zone/c/theowlhouse"
 host: toons.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 19:34:42"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

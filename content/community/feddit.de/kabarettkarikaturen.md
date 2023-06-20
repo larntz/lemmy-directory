@@ -3,7 +3,7 @@ title: "Kabarett, Karikaturen und anderes Schräges"
 name: "kabarettkarikaturen"
 description: "Hier geht es wie der Name der Community schon sagt um Kabarett, Karikaturen und anderes Schräges. Was nicht erwünscht ist, ist Rassismus, Sexismus etc."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kabarettkarikaturen"

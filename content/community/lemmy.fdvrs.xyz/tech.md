@@ -3,7 +3,7 @@ title: "Tech"
 name: "tech"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:51"
+date: "2023-06-20 11:37:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fdvrs.xyz/c/tech"

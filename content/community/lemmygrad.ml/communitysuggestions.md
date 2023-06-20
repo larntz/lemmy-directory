@@ -3,14 +3,14 @@ title: "Suggestions to the owners to what to add next."
 name: "communitysuggestions"
 description: "Got a suggestion? POST HERE :D"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/communitysuggestions"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-08-24 15:10:06"
-subscribers: 183
+subscribers: 184
 posts: 34
 comments: 138
 weight: 34

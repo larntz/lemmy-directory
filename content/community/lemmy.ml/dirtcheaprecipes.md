@@ -3,14 +3,14 @@ title: "Dirt-Cheap Recipes"
 name: "dirtcheaprecipes"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dirtcheaprecipes"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-02-15 00:34:47"
-subscribers: 50
+subscribers: 51
 posts: 1
 comments: 0
 weight: 1

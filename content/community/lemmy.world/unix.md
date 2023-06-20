@@ -3,14 +3,14 @@ title: "UNIX"
 name: "unix"
 description: "Discussion for all things UNIX related (unofficial)"
 type: community
-date: "2023-06-19 18:00:46"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unix"
 host: lemmy.world
 lastmod: "2023-06-10 11:33:52"
 published: "2023-06-10 11:33:40"
-subscribers: 15
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

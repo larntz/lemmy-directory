@@ -3,14 +3,14 @@ title: "Dawless"
 name: "dawless"
 description: "Discussions about running live music setups without the use of a Digital Audio Workstation. Dawless does not mean computerless."
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/dawless"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 13:01:14"
-subscribers: 68
+subscribers: 72
 posts: 3
 comments: 20
 weight: 3

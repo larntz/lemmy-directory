@@ -3,7 +3,7 @@ title: "Maple Engineering"
 name: "maple_engineering"
 description: "A community for those who design and build maple syrup making equipment and the controllers that run them.  Everyone from amateur tinkerers to commercial system designers and builders are welcome."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/maple_engineering"

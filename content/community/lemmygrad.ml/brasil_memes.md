@@ -3,7 +3,7 @@ title: "Departamento de Memes do Lemingrado"
 name: "brasil_memes"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/brasil_memes"

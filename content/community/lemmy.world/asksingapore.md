@@ -3,7 +3,7 @@ title: "Ask Singapore related questions"
 name: "asksingapore"
 description: "Ask Singapore related questions (any deletion by moderators WILL come with explanation)Moderation will be stepped up as the community grows."
 type: community
-date: "2023-06-19 18:00:45"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asksingapore"

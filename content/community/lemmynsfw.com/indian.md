@@ -3,18 +3,18 @@ title: "Indian"
 name: "indian"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/indian"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 07:39:34"
-subscribers: 60
-posts: 2
+subscribers: 74
+posts: 4
 comments: 1
-weight: 2
-dau: 2
+weight: 4
+dau: 1
 wau: 2
 mau: 2
 instances:

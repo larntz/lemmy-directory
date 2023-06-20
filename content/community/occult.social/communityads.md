@@ -3,7 +3,7 @@ title: "Introduce your community"
 name: "communityads"
 description: "This community is to show people your own Fediverse communities."
 type: community
-date: "2023-06-19 17:59:14"
+date: "2023-06-20 11:37:36"
 draft: false
 nsfw: false
 actor_id: "https://occult.social/c/communityads"

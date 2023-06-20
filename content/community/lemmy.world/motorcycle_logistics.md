@@ -3,14 +3,14 @@ title: "motorcycle_logistics"
 name: "motorcycle_logistics"
 description: "A community for pictures and videos of people using motorcycles to transport things in a creative manner.This includes, but is not limited to:Oversized, unusual, ridiculous, unwieldy, dangerous, clumsy, or in any way interesting cargo.Original content very welcome!"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motorcycle_logistics"
 host: lemmy.world
 lastmod: "2023-06-16 19:27:34"
 published: "2023-06-16 19:24:21"
-subscribers: 16
+subscribers: 17
 posts: 3
 comments: 0
 weight: 3

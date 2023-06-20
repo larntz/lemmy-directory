@@ -3,7 +3,7 @@ title: "Desporto"
 name: "desporto"
 description: "Uma comunidade dedicada a discussão de qualquer desporto."
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/desporto"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_pt"

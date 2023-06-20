@@ -3,17 +3,17 @@ title: "Europe"
 name: "europe"
 description: "Europa"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-10-17 21:39:08"
-subscribers: 2053
-posts: 835
-comments: 1565
-weight: 835
+subscribers: 2098
+posts: 837
+comments: 1585
+weight: 837
 dau: 6
 wau: 46
 mau: 84

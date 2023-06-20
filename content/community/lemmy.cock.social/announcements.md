@@ -3,7 +3,7 @@ title: "lemmy.cock.social Announcements"
 name: "announcements"
 description: "Announcements for the lemmy.cock.social instance."
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cock.social/c/announcements"

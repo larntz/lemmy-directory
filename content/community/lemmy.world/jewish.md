@@ -3,14 +3,14 @@ title: "Jewish"
 name: "jewish"
 description: "All things Jewish"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jewish"
 host: lemmy.world
 lastmod: "2023-06-16 07:41:51"
 published: "2023-06-16 07:41:30"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

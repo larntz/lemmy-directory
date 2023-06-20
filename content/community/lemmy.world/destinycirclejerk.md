@@ -3,14 +3,14 @@ title: "Destinycirclejerk"
 name: "destinycirclejerk"
 description: "r/destinycirclejerk reborn: the fomo must live on"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinycirclejerk"
 host: lemmy.world
 lastmod: "2023-06-14 16:19:48"
 published: "2023-06-14 11:17:35"
-subscribers: 27
+subscribers: 33
 posts: 8
 comments: 5
 weight: 8

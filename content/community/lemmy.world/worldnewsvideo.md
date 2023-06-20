@@ -1,16 +1,16 @@
 ---
 title: "World News Video" 
 name: "worldnewsvideo"
-description: "c/WorldNewsVideo: An Accurate Representation of the World"
+description: "**c/WorldNewsVideo: An Accurate Representation of the World.****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldnewsvideo"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 11:19:12"
 published: "2023-06-16 17:15:01"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

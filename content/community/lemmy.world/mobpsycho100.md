@@ -3,7 +3,7 @@ title: "Mob Psycho 100"
 name: "mobpsycho100"
 description: "A community dedicated to Mob Psycho 100, a manga by ONE, who first became famous for his other work One Punch Man."
 type: community
-date: "2023-06-19 18:00:49"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mobpsycho100"

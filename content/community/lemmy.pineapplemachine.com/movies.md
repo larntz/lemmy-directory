@@ -3,7 +3,7 @@ title: "movies"
 name: "movies"
 description: "A place to share news about and discuss movies and similar media."
 type: community
-date: "2023-06-19 17:58:48"
+date: "2023-06-20 11:37:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/movies"

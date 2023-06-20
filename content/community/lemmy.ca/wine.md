@@ -3,14 +3,14 @@ title: "wine (Previously /r/wine)"
 name: "wine"
 description: "Not whatever the linux thing is, the stuff you drink."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/wine"
 host: lemmy.ca
 lastmod: "2023-06-16 17:42:35"
 published: "2023-06-14 19:24:46"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2

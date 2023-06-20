@@ -3,16 +3,16 @@ title: "Music Piracy"
 name: "musicpiracy"
 description: "Discussions on music piracy and music in general."
 type: community
-date: "2023-06-19 17:58:54"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/musicpiracy"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-11 11:33:32"
 published: "2023-06-11 08:24:08"
-subscribers: 782
+subscribers: 826
 posts: 6
-comments: 97
+comments: 98
 weight: 6
 dau: 4
 wau: 71

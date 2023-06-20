@@ -3,14 +3,14 @@ title: "Do-It-Yourself, Repairs and Fixes"
 name: "diy"
 description: "Share tips and tricks to keep people from throwing out that broken item. Repair before replace!"
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diy"
 host: lemmy.ml
 lastmod: "2022-02-09 19:57:48"
 published: "2019-05-13 22:53:30"
-subscribers: 1234
+subscribers: 1236
 posts: 35
 comments: 35
 weight: 35

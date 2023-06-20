@@ -3,14 +3,14 @@ title: "Pudú"
 name: "pudu"
 description: "La mejor comunidad pudú del mundo."
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/pudu"
 host: feddit.cl
 lastmod: "2023-06-16 14:32:23"
 published: "2023-06-12 23:38:36"
-subscribers: 30
+subscribers: 31
 posts: 18
 comments: 10
 weight: 18

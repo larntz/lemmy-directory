@@ -3,7 +3,7 @@ title: "My Picture"
 name: "mypicture"
 description: "Have you ever randomly happen upon something you thought was funny, weird, crazy, or just interesting to you? Did you take a picture of it? How often do you share those pictures?Share them with this community! And share the story if it has one.Please use an image hosting website like the one below (others work too):https://postimages.org/This is to help with storage needs for the hosted server.Rules:1. No set up pictures (high quality/professionally done)2. Screenshots are allowed4. No Spam, and don't be a dick"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mypicture"
@@ -15,7 +15,7 @@ posts: 8
 comments: 16
 weight: 8
 dau: 1
-wau: 4
+wau: 1
 mau: 8
 instances:
 - "lemmy_world"

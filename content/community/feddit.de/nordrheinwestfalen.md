@@ -3,14 +3,14 @@ title: "Nordrhein-Westfalen"
 name: "nordrheinwestfalen"
 description: "Beiträge zum bevölkerungsreichsten Bundesland Deutschlands!"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nordrheinwestfalen"
 host: feddit.de
 lastmod: "2022-03-14 16:17:52"
 published: "2021-09-14 07:56:34"
-subscribers: 140
+subscribers: 142
 posts: 12
 comments: 4
 weight: 12

@@ -3,7 +3,7 @@ title: "Chives Test Community"
 name: "chivestestcommunity"
 description: "Checking to see what happens if I do this."
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/chivestestcommunity"
@@ -14,9 +14,9 @@ subscribers: 3
 posts: 4
 comments: 20
 weight: 4
-dau: 1
-wau: 6
-mau: 6
+dau: 2
+wau: 7
+mau: 7
 instances:
 - "lemmy_whynotdrs_org"
 tags: 

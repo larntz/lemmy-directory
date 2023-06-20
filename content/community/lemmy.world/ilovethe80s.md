@@ -3,14 +3,14 @@ title: "I Love the 80s"
 name: "ilovethe80s"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ilovethe80s"
 host: lemmy.world
 lastmod: "2023-06-19 01:47:29"
 published: "2023-06-18 20:59:17"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

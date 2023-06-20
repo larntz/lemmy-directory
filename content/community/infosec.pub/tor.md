@@ -3,7 +3,7 @@ title: "Unofficial Tor Community"
 name: "tor"
 description: "Link to tor project (they made the icon I grabbed, and tor itself of course): https://www.torproject.org/This is a community to discuss the tor project and your experience with tor, tor browser, etc. Rules are generally: be nice, don't be bigoted, etc. Only seems fair that an infosec instance should have a community about one of the most well known anonymity tools :) "
 type: community
-date: "2023-06-19 17:58:43"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/tor"

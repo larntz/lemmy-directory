@@ -3,7 +3,7 @@ title: "Virtual Reality"
 name: "virtualreality"
 description: "post about news - show off your projects, worlds or avatars - share some social VR photos and game screenshotsSFW only."
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/virtualreality"

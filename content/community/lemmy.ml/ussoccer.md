@@ -3,14 +3,14 @@ title: "ussoccer"
 name: "ussoccer"
 description: "Discussions about US Soccer"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ussoccer"
 host: lemmy.ml
 lastmod: "2023-06-11 01:28:45"
 published: "2023-06-10 22:55:28"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

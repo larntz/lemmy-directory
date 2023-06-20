@@ -3,14 +3,14 @@ title: "askphilosophy"
 name: "askphilosophy"
 description: "A place for philosophical questions"
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askphilosophy"
 host: lemmy.world
 lastmod: "2023-06-17 21:35:53"
 published: "2023-06-17 21:31:13"
-subscribers: 17
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1

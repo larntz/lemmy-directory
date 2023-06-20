@@ -3,14 +3,14 @@ title: "Wii Hacks"
 name: "wiihacks"
 description: "Hack the Nintendo Wii with an active multi-platform community."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wiihacks"
 host: lemmy.ml
 lastmod: "2023-06-08 05:55:58"
 published: "2023-06-08 05:55:44"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

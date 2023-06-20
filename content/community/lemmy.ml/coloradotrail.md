@@ -3,7 +3,7 @@ title: "Colorado Trail"
 name: "coloradotrail"
 description: "A long distance nature trail in Colorado."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coloradotrail"

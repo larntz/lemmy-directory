@@ -3,7 +3,7 @@ title: "The legend of Zelda: Breath of the wild"
 name: "botw"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/botw"

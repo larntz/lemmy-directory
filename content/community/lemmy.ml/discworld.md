@@ -3,16 +3,16 @@ title: "Discworld"
 name: "discworld"
 description: "A community for all things related to the Discworld series of books by Sir Terry Pratchett. "
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/discworld"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-05-03 21:51:52"
-subscribers: 243
+subscribers: 246
 posts: 6
-comments: 69
+comments: 70
 weight: 6
 dau: 1
 wau: 18

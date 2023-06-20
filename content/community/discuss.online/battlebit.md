@@ -3,7 +3,7 @@ title: "BattleBit Remastered"
 name: "battlebit"
 description: "Discussions regarding [BattleBit_Remastered](https://store.steampowered.com/app/671860/BattleBit_Remastered/).Early access is open, so sign up now!# Looking for a modI created this community out of interest in the game. However, I'm not going to be able to manage it long-term. I'd love to hand off moderation to someone invested in this game."
 type: community
-date: "2023-06-19 17:59:01"
+date: "2023-06-20 11:37:21"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/battlebit"

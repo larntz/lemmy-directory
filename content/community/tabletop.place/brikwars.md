@@ -3,7 +3,7 @@ title: "BrikWars"
 name: "brikwars"
 description: "A community dedicated to the brick-based skirmish wargame, BrikWars!"
 type: community
-date: "2023-06-19 17:59:21"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/brikwars"

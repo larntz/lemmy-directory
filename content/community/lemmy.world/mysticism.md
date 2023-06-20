@@ -3,14 +3,14 @@ title: "Mysticism"
 name: "mysticism"
 description: "A community for mysticism and spirituality.Mysticism is the pursuit of communion with, identity with, or conscious awareness of an ultimate reality, divinity, spiritual truth, or God through direct experience, intuition, instinct or insight."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mysticism"
 host: lemmy.world
 lastmod: "2023-06-12 12:15:41"
 published: "2023-06-12 07:56:07"
-subscribers: 31
+subscribers: 33
 posts: 3
 comments: 2
 weight: 3

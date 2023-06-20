@@ -3,7 +3,7 @@ title: "Maine"
 name: "maine"
 description: "A Lemmy community for the great state of Maine!"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maine"
@@ -15,7 +15,7 @@ posts: 3
 comments: 4
 weight: 3
 dau: 1
-wau: 5
+wau: 4
 mau: 5
 instances:
 - "lemmy_world"

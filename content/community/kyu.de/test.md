@@ -3,7 +3,7 @@ title: "test group"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:24"
 draft: false
 nsfw: false
 actor_id: "https://kyu.de/c/test"

@@ -3,20 +3,20 @@ title: "Manchester"
 name: "manchester"
 description: "Discussion for things in or about Greater Manchester!"
 type: community
-date: "2023-06-19 17:59:14"
+date: "2023-06-20 11:37:34"
 draft: false
 nsfw: false
 actor_id: "https://mcr.town/c/manchester"
 host: mcr.town
-lastmod: "2023-06-18 21:01:26"
+lastmod: "2023-06-20 09:12:28"
 published: "2023-06-17 08:03:05"
-subscribers: 8
-posts: 2
-comments: 14
-weight: 2
-dau: 2
-wau: 4
-mau: 4
+subscribers: 12
+posts: 3
+comments: 18
+weight: 3
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "mcr_town"
 tags: 

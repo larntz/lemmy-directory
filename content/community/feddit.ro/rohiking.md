@@ -3,14 +3,14 @@ title: "RoHiking"
 name: "rohiking"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:15"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/rohiking"
 host: feddit.ro
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 15:49:46"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 2
 weight: 2

@@ -3,7 +3,7 @@ title: "Honkai Star Rail"
 name: "honkaistarrail"
 description: "Community for Honkai Star Rail.Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that takes players on a cosmic adventure across the stars. Hop aboard the Astral Express and experience the galaxy's infinite wonders on this journey filled with adventure and thrill. Developed by HoYoverse"
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:40"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/honkaistarrail"

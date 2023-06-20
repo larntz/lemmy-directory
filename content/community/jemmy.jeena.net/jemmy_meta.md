@@ -3,7 +3,7 @@ title: "Jemmy Meta"
 name: "jemmy_meta"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:13"
+date: "2023-06-20 11:37:34"
 draft: false
 nsfw: false
 actor_id: "https://jemmy.jeena.net/c/jemmy_meta"

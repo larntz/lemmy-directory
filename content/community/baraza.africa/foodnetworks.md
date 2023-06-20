@@ -3,7 +3,7 @@ title: "Food Networks"
 name: "foodnetworks"
 description: "A space to discuss food: security, safety, availability, reproduction, and innovation around food in our societies. "
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:37"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/foodnetworks"

@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Community, Fediverse, General Non ML/AI Discussion"
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/meta"

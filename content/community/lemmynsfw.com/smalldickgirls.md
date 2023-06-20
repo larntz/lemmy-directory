@@ -3,18 +3,18 @@ title: "Small Dick Girls"
 name: "smalldickgirls"
 description: "For ladies with teeny pee pees and rest of us who love them."
 type: community
-date: "2023-06-19 17:59:35"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/smalldickgirls"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 04:10:34"
-subscribers: 18
-posts: 3
+subscribers: 28
+posts: 4
 comments: 1
-weight: 3
-dau: 2
+weight: 4
+dau: 1
 wau: 2
 mau: 2
 instances:

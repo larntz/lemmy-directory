@@ -3,7 +3,7 @@ title: "CLOSED - University of British Columbia"
 name: "ubc"
 description: "This community is being redirected here: https://lemmy.ca/c/ubcHowever if you would prefer to use this community (or if you would like to repurpose this community for something else), please let me know! For now, I've set it to moderator posts only in order to reduce headaches for sopuli.xyz admins since I may miss rule breaking content. "
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ubc"

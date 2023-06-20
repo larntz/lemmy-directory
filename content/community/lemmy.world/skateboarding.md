@@ -3,14 +3,14 @@ title: "Skateboarding"
 name: "skateboarding"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skateboarding"
 host: lemmy.world
 lastmod: "2023-06-14 11:22:54"
 published: "2023-06-14 03:14:14"
-subscribers: 9
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

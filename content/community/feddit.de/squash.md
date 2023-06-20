@@ -3,7 +3,7 @@ title: "Squash"
 name: "squash"
 description: "A community discussing everything about squash (the sport, not the fruit)Icon taken from  https://commons.wikimedia.org/wiki/File:Squash_Ball_Dunlop_Revelation_Pro_2.jpg and made transparentBanner image is public domain, made by Colin Woodcock (https://www.publicdomainpictures.net/en/view-image.php?image=200446&picture=squash-court-t)"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/squash"

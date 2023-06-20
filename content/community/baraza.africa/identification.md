@@ -3,7 +3,7 @@ title: "Identification"
 name: "identification"
 description: "A space to share and discuss information on identification practices. Articles shared here are not necessarily an endorsement of the many forms of identification (in fact it is mostly the opposite). They are shared here to bring them to the attention of individuals interested in IDs. "
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/identification"

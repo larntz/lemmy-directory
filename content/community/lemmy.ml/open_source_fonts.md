@@ -3,7 +3,7 @@ title: "Open Source Fonts"
 name: "open_source_fonts"
 description: "A place to talk about free and open source typography, to show your discoveries or creations or to talk about anything else related to this theme. "
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/open_source_fonts"

@@ -3,14 +3,14 @@ title: "Data Is Beautiful"
 name: "dataisbeautiful"
 description: "A place to share and discuss data visualizations.#dataviz"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dataisbeautiful"
 host: lemmy.ml
 lastmod: "2021-02-05 12:21:45"
 published: "2021-02-05 12:16:41"
-subscribers: 735
+subscribers: 749
 posts: 14
 comments: 31
 weight: 14

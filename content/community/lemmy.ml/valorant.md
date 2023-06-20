@@ -3,7 +3,7 @@ title: "VALORANT"
 name: "valorant"
 description: "Home of Valorant on Lemmy. Opening soon. [Valorant Matrix Chat](https://matrix.to/#/#valorant-lemmy:matrix.org)"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/valorant"

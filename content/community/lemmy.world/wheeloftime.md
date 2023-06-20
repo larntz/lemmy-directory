@@ -3,14 +3,14 @@ title: "Wheel of Time"
 name: "wheeloftime"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wheeloftime"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 20:22:01"
 published: "2023-06-14 21:14:04"
-subscribers: 23
+subscribers: 26
 posts: 6
 comments: 5
 weight: 6

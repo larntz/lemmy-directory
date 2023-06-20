@@ -3,7 +3,7 @@ title: "Urban Planning"
 name: "urbanplanning"
 description: "Urban Planning, Community Planning, City Planning, New Urbanism, Smart Growth, Zoning, Transportation and all that makes the built environments that we work and recreate in. Urban planning aims to improve the built, natural, social and economic aspects of towns and cities."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/urbanplanning"

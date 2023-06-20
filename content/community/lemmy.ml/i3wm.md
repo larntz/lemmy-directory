@@ -3,7 +3,7 @@ title: "i3 Window Manager"
 name: "i3wm"
 description: "### AboutCommunity for the i3 window manager and its popular fork i3-gaps.### Resources- [Official site](https://i3wm.org/)- [User's Guide](https://i3wm.org/docs/userguide.html)- [i3 - ArchWiki](https://wiki.archlinux.org/title/I3)"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/i3wm"

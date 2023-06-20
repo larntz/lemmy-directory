@@ -3,7 +3,7 @@ title: "Employment"
 name: "employment"
 description: "A community dedicated to discussions related to employment.This includes and is not limited to: - Posts about finding a job- Questions about employment- Discussions about pay or working conditionsBasically anything related to work/jobs/employment is accepted here."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/employment"

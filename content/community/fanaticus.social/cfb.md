@@ -3,17 +3,17 @@ title: "CFB"
 name: "cfb"
 description: "A community to discuss college football, inspired by r/cfb. **Looking for Mods!**"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/cfb"
 host: fanaticus.social
 lastmod: "2023-06-17 18:04:47"
 published: "2023-06-13 23:18:06"
-subscribers: 12
-posts: 10
-comments: 2
-weight: 10
+subscribers: 15
+posts: 12
+comments: 8
+weight: 12
 dau: 1
 wau: 2
 mau: 2

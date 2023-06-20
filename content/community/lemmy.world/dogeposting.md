@@ -3,14 +3,14 @@ title: "dogeposting"
 name: "dogeposting"
 description: "Le place for dogelore and classic doge memes to be shared has arrived. Wow. "
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dogeposting"
 host: lemmy.world
 lastmod: "2023-06-13 02:38:32"
 published: "2023-06-13 01:28:28"
-subscribers: 48
+subscribers: 50
 posts: 12
 comments: 6
 weight: 12

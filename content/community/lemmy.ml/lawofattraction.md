@@ -3,7 +3,7 @@ title: "Law of attraction"
 name: "lawofattraction"
 description: "Welcome to the Law of Attraction an empowering online community dedicated to exploring and mastering the principles of the Law of Attraction. Here, we believe in the transformative power of positive thinking, conscious manifestation, and the ability to create our own realities."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lawofattraction"

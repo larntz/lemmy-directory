@@ -3,7 +3,7 @@ title: "Shiny Pokémon"
 name: "shinypokemon"
 description: "A community for shiny hunters, enthusiasts, and anyone else interested in the world of shiny Pokémon!"
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/shinypokemon"

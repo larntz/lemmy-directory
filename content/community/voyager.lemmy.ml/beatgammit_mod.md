@@ -3,7 +3,7 @@ title: "Testing mod stuff"
 name: "beatgammit_mod"
 description: "Just testing mod actions"
 type: community
-date: "2023-06-19 17:58:30"
+date: "2023-06-20 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/beatgammit_mod"
@@ -15,8 +15,8 @@ posts: 2
 comments: 4
 weight: 2
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "voyager_lemmy_ml"
 tags: 

@@ -3,14 +3,14 @@ title: "Trophies"
 name: "playstationtrophies"
 description: "A community to showcase your PlayStation trophies!"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/playstationtrophies"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 21:03:47"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 3
 weight: 1

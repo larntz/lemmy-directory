@@ -3,7 +3,7 @@ title: "Space Station 14"
 name: "spacestation14"
 description: "* [Space Station 14](https://ss14.io)* [Discord](https://discord.ss14.io)* [GitHub](https://github.com/space-wizards/space-station14)* [Forum](https://forum.ss14.io)"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.spacestation14.com/c/spacestation14"
@@ -15,7 +15,7 @@ posts: 11
 comments: 20
 weight: 11
 dau: 1
-wau: 8
+wau: 5
 mau: 16
 instances:
 - "lemmy_spacestation14_com"

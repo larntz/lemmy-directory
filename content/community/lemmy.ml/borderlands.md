@@ -3,7 +3,7 @@ title: "Borderlands"
 name: "borderlands"
 description: "Gearbox's Borderlands series"
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/borderlands"

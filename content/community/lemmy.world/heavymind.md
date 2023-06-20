@@ -3,18 +3,18 @@ title: "Heavy Mind"
 name: "heavymind"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heavymind"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 21:55:48"
-subscribers: 26
-posts: 21
+subscribers: 27
+posts: 22
 comments: 14
-weight: 21
-dau: 2
+weight: 22
+dau: 1
 wau: 4
 mau: 4
 instances:

@@ -3,14 +3,14 @@ title: "Embedded programming and micro controllers"
 name: "embedded_prog"
 description: "About embedded programming, micro controllers, ARM Cortex M, RISC-V, Arduino, Micro:Bit, etc."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/embedded_prog"
 host: lemmy.ml
 lastmod: "2021-02-08 16:19:51"
 published: "2021-02-08 15:51:48"
-subscribers: 131
+subscribers: 132
 posts: 18
 comments: 6
 weight: 18

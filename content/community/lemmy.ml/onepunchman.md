@@ -3,7 +3,7 @@ title: "One Punch Man - OPM"
 name: "onepunchman"
 description: "The go-to SubLemmy for One Punch Man by ONE, and Yusuke Murata"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/onepunchman"

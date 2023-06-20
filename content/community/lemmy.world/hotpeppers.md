@@ -3,18 +3,18 @@ title: "Hot Peppers"
 name: "hotpeppers"
 description: "Is it hot in here or is it just the peppers?[Chili Pepper Heat Levels](https://www.chilipeppermadness.com/chili-pepper-types/) [US Growing Zones](https://www.brecks.com/zone_finder)[Pepper Recipes curtesy of Mike Hultquist](https://www.chilipeppermadness.com/spicy-recipes-chili-pepper-madness/)Rules1. No bigotry - including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html).2. Be respectful. Everyone should feel welcome here.3. No NSFW4. No Ads / Spamming.5. All hail the spice"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hotpeppers"
 host: lemmy.world
 lastmod: "2023-06-16 16:11:57"
 published: "2023-06-09 14:58:49"
-subscribers: 104
-posts: 9
+subscribers: 115
+posts: 10
 comments: 60
-weight: 9
-dau: 3
+weight: 10
+dau: 1
 wau: 12
 mau: 13
 instances:

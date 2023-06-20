@@ -3,14 +3,14 @@ title: "Saúde"
 name: "saude"
 description: "# Saúde"
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/saude"
 host: lemmy.pt
 lastmod: "2023-06-07 19:15:53"
 published: "2022-06-07 22:50:10"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 3
 weight: 2

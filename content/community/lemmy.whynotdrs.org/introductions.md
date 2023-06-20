@@ -3,7 +3,7 @@ title: "👋️ Introductions"
 name: "introductions"
 description: "Please Introduce yourself when you join!"
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/introductions"

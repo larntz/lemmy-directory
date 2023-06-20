@@ -3,7 +3,7 @@ title: "guitar"
 name: "guitar"
 description: "Community to discuss all things related to guitar"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guitar"

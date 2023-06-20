@@ -1,22 +1,22 @@
 ---
 title: "Lactation" 
 name: "lactation"
-description: "Got Milk? Hot lactating babes"
+description: "Got Milk? Hot lactating babes**Rules:**- Follow instance-wide rules.- No AI generated material. Post it to [c/aigen](https://lemmynsfw.com/c/aigen) instead- No leaked/illegal/copyrighted content.- Put source in title/body if available- Be considerate. Don't be an asshole.- Self promotion is allowed as long as you are not spamming reposted content and you make it obvious that its promo- If you need to identify or find a particular piece of content post to [c/pornid](https://lemmynsfw.com/c/pornid) "
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lactation"
 host: lemmynsfw.com
-lastmod: "2023-06-14 18:15:59"
+lastmod: "2023-06-19 18:11:12"
 published: "2023-06-14 00:34:51"
-subscribers: 293
-posts: 49
-comments: 20
-weight: 49
-dau: 3
-wau: 10
-mau: 10
+subscribers: 318
+posts: 54
+comments: 24
+weight: 54
+dau: 4
+wau: 11
+mau: 11
 instances:
 - "lemmynsfw_com"
 tags: 

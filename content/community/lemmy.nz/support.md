@@ -3,17 +3,17 @@ title: "Support"
 name: "support"
 description: "Ask your questions here"
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/support"
 host: lemmy.nz
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-03 03:47:57"
-subscribers: 84
-posts: 37
-comments: 359
-weight: 37
+subscribers: 86
+posts: 39
+comments: 374
+weight: 39
 dau: 8
 wau: 57
 mau: 67

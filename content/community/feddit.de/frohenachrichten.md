@@ -3,7 +3,7 @@ title: "Frohe Nachrichten"
 name: "frohenachrichten"
 description: "Deutschsprachiges Gegenstück zu r/UpliftingNews.Community für alle positiven Nachrichten - die kleinen und grösseren Schritte in eine tolerantere, fairere und fürsorglichere Welt.Regeln:1. Nachrichten aus aller Welt willkommen2. Bei Nachrichten/Links in anderen Sprachen als Deutsch bitte eine Zusammenfassung schreiben3. Keine Teamsport Neuigkeiten, die nur froh sind wenn du der richtigen Gruppe angehörst4. Wenn du nichts Nettes zu sagen hast dann sage nichts."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/frohenachrichten"

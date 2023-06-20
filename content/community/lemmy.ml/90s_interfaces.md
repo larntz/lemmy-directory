@@ -3,7 +3,7 @@ title: "90's Interfaces"
 name: "90s_interfaces"
 description: "The 90's were a magical time in movies, media and the emergence of the web. It was a decade that created a new visual paradigm which was never sure on where the future would land, so it dreamed big and some of the interfaces were even bigger.This is a place to share the visual flare that was the 90's."
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/90s_interfaces"

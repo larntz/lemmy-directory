@@ -3,20 +3,20 @@ title: "aws: Amazon Web Services"
 name: "aws"
 description: "A general discussion on topics for aws: Amazon Web Services"
 type: community
-date: "2023-06-19 17:59:13"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/aws"
 host: social.doudp.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 10:46:28"
 published: "2023-06-14 05:40:12"
 subscribers: 4
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "social_doudp_com"
 tags: 

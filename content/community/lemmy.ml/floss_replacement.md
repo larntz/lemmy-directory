@@ -3,14 +3,14 @@ title: "Free (libre) software replacements for proprietary software"
 name: "floss_replacement"
 description: "Use cases of this community:1. Ask for a free replacement for a particular proprietary software2. Ask for a free software that solves a particular problem3. Share lesser-known free software that you think deserves recognition"
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/floss_replacement"
 host: lemmy.ml
 lastmod: "2019-12-19 14:02:29"
 published: "2019-12-19 13:58:02"
-subscribers: 1493
+subscribers: 1496
 posts: 18
 comments: 41
 weight: 18

@@ -1,14 +1,14 @@
 ---
 title: "Animation" 
 name: "animation"
-description: "Where Imagination Comes to Life with Color, Motion, and Endless Possibilities"
+description: "**Where Imagination Comes to Life with Color, Motion, and Endless Possibilities.****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animation"
 host: lemmy.world
-lastmod: "2023-06-16 11:41:53"
+lastmod: "2023-06-20 11:14:37"
 published: "2023-06-12 15:22:37"
 subscribers: 11
 posts: 0

@@ -3,7 +3,7 @@ title: "Tanktrace"
 name: "tanktrace"
 description: "Tanktrace (to be released...) related talk"
 type: community
-date: "2023-06-19 17:59:02"
+date: "2023-06-20 11:37:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tanktrace.de/c/tanktrace"

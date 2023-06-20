@@ -3,14 +3,14 @@ title: "Real Civil Engineer - BOOOSH !!!!!"
 name: "realcivilengineer"
 description: "we hate architects"
 type: community
-date: "2023-06-16 22:57:13"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realcivilengineer"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:03:18"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

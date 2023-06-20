@@ -3,7 +3,7 @@ title: "Duolingo Yiddish"
 name: "duolingo_yiddish"
 description: "For learners of Yiddish on Duolingoפאַר די וואָס לערנען ייִדיש אויף דואָלינגאָ"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duolingo_yiddish"

@@ -3,20 +3,20 @@ title: "Green Energy"
 name: "energy"
 description: "everything about energy production"
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/energy"
 host: slrpnk.net
 lastmod: "2022-09-20 17:02:20"
 published: "2022-04-15 16:45:36"
-subscribers: 387
-posts: 60
-comments: 119
-weight: 60
-dau: 3
+subscribers: 401
+posts: 63
+comments: 121
+weight: 63
+dau: 4
 wau: 39
-mau: 44
+mau: 46
 instances:
 - "slrpnk_net"
 tags: 

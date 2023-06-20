@@ -3,7 +3,7 @@ title: "Composting"
 name: "composting"
 description: "A place to talk about decomposing materials into compost."
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/composting"

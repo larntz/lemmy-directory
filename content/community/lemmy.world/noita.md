@@ -3,7 +3,7 @@ title: "noita"
 name: "noita"
 description: "Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself."
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/noita"

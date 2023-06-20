@@ -3,7 +3,7 @@ title: "RPG Design"
 name: "rpgdesign"
 description: "A place to chat about designing tabletop RPGs.Bog-standard rules:- don't be an ass    * don't do a bigotry    * no spam- no drive-by self-promotion"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rpgdesign"

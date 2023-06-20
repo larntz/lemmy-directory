@@ -3,14 +3,14 @@ title: "IPython: A place to ask questions and discuss all things IPython and Jup
 name: "ipython"
 description: "If you have a question about IPython, (now Jupyter) the programming language written by scientists for scientists with an eye towards presentation, we want you here. If you have tips, Notebooks you want to share, or you want feedback we want you here. We welcome posts about the all versions of the IPython IDE, plus Markdown and LaTex. We discuss the popular libraries Mathplotlab, SciPy, NumPy, & SymPy. If you want to know about features like embedded video or animation check us out."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ipython"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-04-19 15:45:50"
-subscribers: 23
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0

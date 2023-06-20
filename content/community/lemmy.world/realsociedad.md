@@ -3,7 +3,7 @@ title: "Real Sociedad"
 name: "realsociedad"
 description: "A community for Real Sociedad fans Rules    No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. Code of Conduct. A los tximbos se les puede dar cera    Be respectful, especially when disagreeing. Everyone should feel welcome here.    No porn.    No Ads / Spamming."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realsociedad"

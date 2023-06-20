@@ -3,7 +3,7 @@ title: "eviltoast.org"
 name: "eviltoast"
 description: "Official community of eviltoast.org"
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:28"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/eviltoast"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 1
+wau: 2
 mau: 2
 instances:
 - "eviltoast_org"

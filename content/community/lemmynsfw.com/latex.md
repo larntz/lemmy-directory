@@ -3,20 +3,20 @@ title: "Latex"
 name: "latex"
 description: "Latex, rubber, & shiny things!"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latex"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 00:38:05"
-subscribers: 118
-posts: 13
-comments: 3
-weight: 13
-dau: 2
-wau: 5
-mau: 5
+subscribers: 138
+posts: 17
+comments: 4
+weight: 17
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "lemmynsfw_com"
 tags: 

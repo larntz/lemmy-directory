@@ -3,7 +3,7 @@ title: "Apple Vision"
 name: "applevision"
 description: "A discussion space for the upcoming Apple Vision Pro headset and VisionOS platform. Buckle up those wallets ladies and gentlemen. "
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applevision"
@@ -14,7 +14,7 @@ subscribers: 26
 posts: 2
 comments: 8
 weight: 2
-dau: 4
+dau: 2
 wau: 5
 mau: 5
 instances:

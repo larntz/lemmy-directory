@@ -3,7 +3,7 @@ title: "2westerneurope4u.com"
 name: "2westerneurope4u"
 description: "Ironic ultranationalistic memes about Western European countries (Netherlands, Luxembourg, Germany, France, Italy, Spain, Portugal, Greece, UK,..."
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/2westerneurope4u"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 22:40:51"
 subscribers: 1
-posts: 56
+posts: 82
 comments: 0
-weight: 56
+weight: 82
 dau: 0
 wau: 0
 mau: 0

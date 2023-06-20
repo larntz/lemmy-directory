@@ -3,7 +3,7 @@ title: "WEC, ELMS &AsLMS"
 name: "aco"
 description: "# AboutAll about ACO Championships: WEC-World Endurance Championship, ELMS-European Le Mans Series and AsLMS-Asian Le Mans Series. # Rules-Respect each others.  -No spoilers.  -All comments should be in english.  -If you share an article in another language, please translate the titre"
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aco"

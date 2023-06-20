@@ -3,7 +3,7 @@ title: "CyberDeck"
 name: "cyberdeck"
 description: "Hey y'all, just an experiment, if it works out I'll clean it up and run it"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cyberdeck"

@@ -3,7 +3,7 @@ title: "Beatles"
 name: "beatles"
 description: "A community for Beatles fans! Share you favourite songs, covers, memes, artwork, theories, interviews, gossips and more here :)"
 type: community
-date: "2023-06-19 17:59:22"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/beatles"

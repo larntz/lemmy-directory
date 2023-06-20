@@ -3,7 +3,7 @@ title: "Cube"
 name: "cube"
 description: "### Cube draft discussion!A Cube is a custom draft set, typically designed to showcase the best cards ever printed in Magic, but sometimes with other thematic restrictions.Discuss all things Cube here!##### Resources* [MTG Cube Talk](https://discord.com/servers/mtg-cube-talk-263828508126609420): /r/MTGCube discord group* [Cube Cobra](https://cubecobra.com): webapp to manage Cubes* [MTGSalvation Cube forum](http://forums.mtgsalvation.com/forumdisplay.php?f=349)"
 type: community
-date: "2023-06-19 17:59:03"
+date: "2023-06-20 11:37:23"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/cube"

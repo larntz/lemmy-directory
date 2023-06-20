@@ -3,20 +3,20 @@ title: "juicyasians"
 name: "juicyasians"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/juicyasians"
 host: lemmynsfw.com
 lastmod: "2023-06-16 20:24:57"
 published: "2023-06-14 15:25:26"
-subscribers: 242
-posts: 16
+subscribers: 294
+posts: 21
 comments: 2
-weight: 16
-dau: 1
-wau: 2
-mau: 2
+weight: 21
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 

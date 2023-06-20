@@ -3,7 +3,7 @@ title: "TasLem Admin"
 name: "admin"
 description: "The place to post any admin related concerns for TasLem.If you want a new community created, let us know what and why, here. We'll check if there's a suitable federated community already."
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/admin"

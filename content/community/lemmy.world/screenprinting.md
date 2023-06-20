@@ -3,7 +3,7 @@ title: "Screenprinting"
 name: "screenprinting"
 description: "All things Screenprinting, show your work, ask questions, have fun!"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/screenprinting"

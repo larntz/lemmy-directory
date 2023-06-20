@@ -3,7 +3,7 @@ title: "NewTubers - The Premiere Small Content Creator Community"
 name: "newtubers"
 description: "Are You A YouTube Video Creator or Twitch Streamer? NewTubers is A Community For Small Content Creators created to allow up-and-coming channels and streamers to improve with resources, critiques, and cooperation of people! this community was made to teach you how to Start, Build, and Sustain your Content Career!"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newtubers"

@@ -3,14 +3,14 @@ title: "Mitch Hedberg "
 name: "mitchhedberg"
 description: "All things Mitch! "
 type: community
-date: "2023-06-19 18:00:43"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mitchhedberg"
 host: lemmy.world
 lastmod: "2023-06-11 22:11:19"
 published: "2023-06-11 18:10:50"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

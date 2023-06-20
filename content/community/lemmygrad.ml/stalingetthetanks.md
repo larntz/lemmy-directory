@@ -3,7 +3,7 @@ title: "Stalin? Get the tanks!"
 name: "stalingetthetanks"
 description: "For when you see fashie shit in ex-Eastern-Bloc countries"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stalingetthetanks"

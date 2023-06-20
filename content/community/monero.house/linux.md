@@ -3,7 +3,7 @@ title: "Linux"
 name: "linux"
 description: "Discuss all things Linux."
 type: community
-date: "2023-06-19 17:58:42"
+date: "2023-06-20 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/linux"

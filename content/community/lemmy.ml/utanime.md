@@ -3,7 +3,7 @@ title: "Utanime - Anime Songs"
 name: "utanime"
 description: "Community for either opening, ending, insert, theme song, or soundtrack for an anime or the discussion about them."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/utanime"

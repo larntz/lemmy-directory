@@ -3,14 +3,14 @@ title: "NFL"
 name: "nfl"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:59"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/nfl"
 host: vlemmy.net
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 16:12:12"
-subscribers: 16
+subscribers: 18
 posts: 2
 comments: 3
 weight: 2

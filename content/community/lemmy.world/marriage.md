@@ -3,7 +3,7 @@ title: "Marriage"
 name: "marriage"
 description: "Discuss anything and everything related to marriage. Feel free to ask for advice, vent, brag about your engagement, bitch about your in-laws, share your experience, or chit-chat about marriage and serious long term relationships!Rules:1. Be respectful to each other2. Bigotry is not allowed here3. Don't post identifying personal information4. No spamming5. Don't post porn"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/marriage"

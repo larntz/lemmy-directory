@@ -3,17 +3,17 @@ title: "Political Memes"
 name: "politicalmemes"
 description: "Non political memes: https://sopuli.xyz/c/memes"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/politicalmemes"
 host: lemmy.ca
 lastmod: "2022-09-01 16:17:25"
 published: "2022-09-01 16:15:11"
-subscribers: 251
-posts: 83
+subscribers: 257
+posts: 84
 comments: 30
-weight: 83
+weight: 84
 dau: 1
 wau: 1
 mau: 4

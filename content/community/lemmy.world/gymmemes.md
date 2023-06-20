@@ -1,21 +1,21 @@
 ---
 title: "Gym Memes" 
 name: "gymmemes"
-description: "to be browsed in the squat rack"
+description: "to be browsed in the squat rackrules:                             •be about the gym or gym adjacent•put your weights back and wipe down your equipment         "
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gymmemes"
 host: lemmy.world
-lastmod: "2023-06-12 13:38:46"
+lastmod: "2023-06-20 07:47:51"
 published: "2023-06-12 10:34:02"
-subscribers: 54
-posts: 11
+subscribers: 58
+posts: 12
 comments: 0
-weight: 11
+weight: 12
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

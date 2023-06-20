@@ -3,14 +3,14 @@ title: "NetSec"
 name: "netsec"
 description: "A community for technical news and discussion of information security and closely related topics."
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netsec"
 host: lemmy.ml
 lastmod: "2023-06-09 11:10:46"
 published: "2023-06-09 11:05:16"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

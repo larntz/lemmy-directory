@@ -3,7 +3,7 @@ title: "Library Socialism"
 name: "library_socialism"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/library_socialism"

@@ -3,7 +3,7 @@ title: "Skate Park"
 name: "skatepark"
 description: "So it goes that if one were to learn a kick flip alone it would take much longer than if they went to the skate park.This community is for asking questions, sharing recommendations and experiences, and helping each other figure things out and get stuff done."
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/skatepark"

@@ -3,14 +3,14 @@ title: "Casual"
 name: "casual"
 description: "A casual chat."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/casual"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-07-14 02:29:23"
-subscribers: 69
+subscribers: 70
 posts: 15
 comments: 65
 weight: 15

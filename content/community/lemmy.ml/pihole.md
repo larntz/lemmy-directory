@@ -3,7 +3,7 @@ title: "Discussion generally related to the Pi-hole project."
 name: "pihole"
 description: "A place to discuss all things privacy related, but primarily in relation to the Pi-hole project and it's usage on Raspberry Pi hardware and GNU/Debian derived operating systems.  "
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pihole"

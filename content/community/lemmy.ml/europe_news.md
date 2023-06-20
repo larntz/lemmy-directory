@@ -3,14 +3,14 @@ title: "Europe News"
 name: "europe_news"
 description: "For news about Europe. Any other posts will be deleted."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe_news"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-02-21 13:59:21"
-subscribers: 148
+subscribers: 147
 posts: 8
 comments: 2
 weight: 8

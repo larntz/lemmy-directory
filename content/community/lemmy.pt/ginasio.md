@@ -3,7 +3,7 @@ title: "Puxar Ferro"
 name: "ginasio"
 description: "Comunidade dedicada a atividades de ginásio e relacionadas, ou seja, puxar ferro :P"
 type: community
-date: "2023-06-19 17:59:12"
+date: "2023-06-20 11:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/ginasio"
@@ -14,7 +14,7 @@ subscribers: 6
 posts: 3
 comments: 21
 weight: 3
-dau: 4
+dau: 1
 wau: 5
 mau: 5
 instances:

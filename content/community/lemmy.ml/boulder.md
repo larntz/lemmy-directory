@@ -3,14 +3,14 @@ title: "Boulder, Colorado"
 name: "boulder"
 description: "Rules:1. Be polite2. Keep it local3. See number 1"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boulder"
 host: lemmy.ml
 lastmod: "2023-06-12 18:47:29"
 published: "2023-06-01 13:51:53"
-subscribers: 29
+subscribers: 30
 posts: 8
 comments: 5
 weight: 8

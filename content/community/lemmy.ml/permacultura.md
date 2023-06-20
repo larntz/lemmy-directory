@@ -3,7 +3,7 @@ title: "agroflorestas"
 name: "permacultura"
 description: "Autonomia, habilidades em construir, se alimentar, plantar e tecer outras formas de existir fora da esfera do capitalismo."
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/permacultura"

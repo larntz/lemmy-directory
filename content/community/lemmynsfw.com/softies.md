@@ -3,14 +3,14 @@ title: "Softies"
 name: "softies"
 description: "Flaccid and semi-erect penises"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/softies"
 host: lemmynsfw.com
 lastmod: "2023-06-15 18:07:07"
 published: "2023-06-15 18:02:04"
-subscribers: 46
+subscribers: 56
 posts: 3
 comments: 0
 weight: 3

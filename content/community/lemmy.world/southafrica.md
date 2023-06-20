@@ -3,7 +3,7 @@ title: "South Africa"
 name: "southafrica"
 description: "All re South AfricaRules:1. Respect, as we are all family.2. Advertise not more than once a week.3. Same rules as [Mastedon](https://mastodon.world/about).4. Be lekker!"
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/southafrica"

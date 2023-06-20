@@ -3,7 +3,7 @@ title: "Lesen"
 name: "lesen_de"
 description: "Alles rund um Bücher, Autoren, und Verlage.Alle Genres und alle Gebiete willkommen!"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lesen_de"

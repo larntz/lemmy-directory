@@ -3,17 +3,17 @@ title: "Political Humor"
 name: "politicalhumor"
 description: "Post politically charged comedy here, but be respectful!# Rules* Keep this a humor community* No NSFW content* No bigotry, hate speech, advocacy or incitement of violence or crime, etc* No harassment* Extreme or offensive content are subject to removal at the mods' discretion"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/politicalhumor"
 host: lemmy.ml
 lastmod: "2021-04-03 22:54:08"
 published: "2020-05-04 07:55:39"
-subscribers: 1271
-posts: 610
-comments: 797
-weight: 610
+subscribers: 1289
+posts: 612
+comments: 799
+weight: 612
 dau: 20
 wau: 30
 mau: 58

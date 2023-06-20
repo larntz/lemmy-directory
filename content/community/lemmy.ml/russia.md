@@ -3,14 +3,14 @@ title: "Russia Россия"
 name: "russia"
 description: "# Russia----Community dedicated to discuss everything related to Russia. Its culture, its language, its politics and its people.----#### Rules:1. Posts must be in Russian or in English.2. Add a flair in the title of every post.**List of flairs:**    [News] [Culture] [Discussion]    [Question] [Request] [Guide]----# Россия----Сообщество, посвященное обсуждению всего, что связано с Россией. Ее культура, язык, политика и люди.----#### Правила:1. Сообщения должны быть на русском или английском языке.2. Добавляйте флейр в заголовок каждого сообщения.**Список флейров:**    [Новости] [Культура][Обсуждение]    [Вопрос] [Запрос] [Руководство]"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/russia"
 host: lemmy.ml
 lastmod: "2021-10-01 14:04:30"
 published: "2020-10-26 08:23:21"
-subscribers: 138
+subscribers: 139
 posts: 110
 comments: 127
 weight: 110

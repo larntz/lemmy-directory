@@ -3,7 +3,7 @@ title: "Twin Cities"
 name: "twincities"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:49"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/twincities"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 4
+wau: 3
 mau: 5
 instances:
 - "lemmy_world"

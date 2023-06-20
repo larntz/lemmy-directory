@@ -3,7 +3,7 @@ title: "Procreate App"
 name: "procreate"
 description: "A community for people who use Procreate, the art app for the iPad. Use this space to share your Procreate tips, tutorials, questions, and art!"
 type: community
-date: "2023-06-19 17:58:54"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/procreate"

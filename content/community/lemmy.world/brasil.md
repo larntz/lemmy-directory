@@ -3,7 +3,7 @@ title: "Brasil"
 name: "brasil"
 description: "Casa dos brasileiros."
 type: community
-date: "2023-06-19 18:00:44"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brasil"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

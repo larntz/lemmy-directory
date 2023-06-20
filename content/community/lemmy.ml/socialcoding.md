@@ -3,7 +3,7 @@ title: "Social Coding"
 name: "socialcoding"
 description: "Have patience. This community has not yet been formally launched."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialcoding"

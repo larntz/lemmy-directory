@@ -3,7 +3,7 @@ title: "Pikmin"
 name: "pikmin"
 description: "This community is for all Pikmin lovers."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pikmin"
@@ -14,7 +14,7 @@ subscribers: 23
 posts: 9
 comments: 5
 weight: 9
-dau: 3
+dau: 1
 wau: 5
 mau: 5
 instances:

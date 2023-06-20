@@ -3,7 +3,7 @@ title: "Axl Front End development blog"
 name: "axl_frontend"
 description: "https://linktr.ee/morewings"
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/axl_frontend"

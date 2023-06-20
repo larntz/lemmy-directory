@@ -3,7 +3,7 @@ title: "Volkswagen"
 name: "volkswagen"
 description: "All things Volkswagen! Share your pics, ask your questions.Looking for aircooled stuff? Check out [!aircooled@lemmy.world](https://lemmy.world/c/aircooled) **DISCLAIMER**This community is not sponsored by or affiliated with Volkswagen Group or it’s subsidiaries."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/volkswagen"

@@ -3,7 +3,7 @@ title: "Energie"
 name: "energie"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/energie"
@@ -12,7 +12,7 @@ lastmod: "2022-06-02 15:42:15"
 published: "2022-06-02 15:40:41"
 subscribers: 117
 posts: 72
-comments: 59
+comments: 60
 weight: 72
 dau: 1
 wau: 8

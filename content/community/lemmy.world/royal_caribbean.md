@@ -3,7 +3,7 @@ title: "Royal Caribbean"
 name: "royal_caribbean"
 description: "This is a place to learn about sailing on Royal Caribbean ships and ask questions.  "
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/royal_caribbean"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 9
 comments: 8
 weight: 9
-dau: 4
+dau: 1
 wau: 4
 mau: 4
 instances:

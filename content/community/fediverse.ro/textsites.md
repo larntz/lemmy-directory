@@ -3,7 +3,7 @@ title: "🔗|Light Websites"
 name: "textsites"
 description: "Light websites only.- No Blogs"
 type: community
-date: "2023-06-19 17:59:17"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/textsites"

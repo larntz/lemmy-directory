@@ -3,20 +3,20 @@ title: "Vaporents"
 name: "vaporents"
 description: "This is for discussion on dry herb vaporizers and showing off your setups."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vaporents"
 host: lemmy.world
-lastmod: "2023-06-14 03:26:53"
+lastmod: "2023-06-18 17:51:53"
 published: "2023-06-12 00:42:55"
-subscribers: 95
-posts: 4
-comments: 36
-weight: 4
-dau: 3
-wau: 16
-mau: 16
+subscribers: 142
+posts: 12
+comments: 66
+weight: 12
+dau: 2
+wau: 17
+mau: 19
 instances:
 - "lemmy_world"
 tags: 

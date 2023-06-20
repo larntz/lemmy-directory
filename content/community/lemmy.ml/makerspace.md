@@ -3,7 +3,7 @@ title: "makerspace"
 name: "makerspace"
 description: "A place to discuss DIY projects, get inspiration and help each other."
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/makerspace"

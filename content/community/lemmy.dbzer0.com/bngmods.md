@@ -3,7 +3,7 @@ title: "bngmods.com"
 name: "bngmods"
 description: "**This is for the site BNGMODS.com A Beamng Drive Mods site**When posting mods **do not** use, Modsfire/SharemodsOnedrive, GoogleDrive/MediaFire, ETCare allowed"
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/bngmods"

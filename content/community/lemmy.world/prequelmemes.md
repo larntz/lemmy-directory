@@ -3,14 +3,14 @@ title: "Prequel Memes"
 name: "prequelmemes"
 description: "Memes of Star Wars Prequels "
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prequelmemes"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 19:31:25"
 published: "2023-06-19 13:19:07"
-subscribers: 5
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

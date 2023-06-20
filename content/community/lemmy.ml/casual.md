@@ -3,14 +3,14 @@ title: "casual"
 name: "casual"
 description: "This is a community for casual conversationAll types of posts are allowedRemember the human"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/casual"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-07-09 22:06:58"
-subscribers: 114
+subscribers: 113
 posts: 22
 comments: 109
 weight: 22

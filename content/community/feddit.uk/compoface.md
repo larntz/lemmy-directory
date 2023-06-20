@@ -3,7 +3,7 @@ title: "Compoface"
 name: "compoface"
 description: "Backup site for r/Compoface"
 type: community
-date: "2023-06-19 17:59:03"
+date: "2023-06-20 11:37:23"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/compoface"

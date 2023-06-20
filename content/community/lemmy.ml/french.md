@@ -3,7 +3,7 @@ title: "On parle français"
 name: "french"
 description: "On parle français sur Lemmy"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/french"

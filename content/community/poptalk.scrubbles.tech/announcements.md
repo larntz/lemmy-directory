@@ -3,7 +3,7 @@ title: "PopTalk Announcements"
 name: "announcements"
 description: "General mod posts and announcements "
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/announcements"

@@ -3,7 +3,7 @@ title: "Egypt"
 name: "egypt"
 description: "A community for everything related to the Arab Republic of Egypt.صفحة لكل ما يخص جمهورية مصر العربية."
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fun/c/egypt"

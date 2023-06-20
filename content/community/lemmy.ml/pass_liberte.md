@@ -3,7 +3,7 @@ title: "Pass vaccinal et liberté"
 name: "pass_liberte"
 description: "Pour discuter et référencer les articles et trouvailles relatifs au pass vaccinal, et ses atteintes à la vie privée et aux libertés.Aucun prosélytisme pour des partis politiques toléré. Aucune discussion autour de vaccins ou traitements (utiles ou non)."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pass_liberte"

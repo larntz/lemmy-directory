@@ -3,7 +3,7 @@ title: "Bug reports on any software"
 name: "bugs"
 description: "When a bug tracker is inside the exclusive walled-gardens of MS Github or Gitlab.com, and you cannot or will not enter, where do you file your bug report?  Here, of course. This is a refuge where you can report bugs that are otherwise unreportable due to technical or ethical constraints."
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/bugs"

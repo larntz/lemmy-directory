@@ -3,7 +3,7 @@ title: "Nonsense 🇺🇦 Takes"
 name: "nut"
 description: "All terrible 🇺🇦 takes, all the time.Takes do not have to be Ukraine/Russia related. Any bad take from a 🇺🇦 will suffice. "
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/nut"

@@ -3,7 +3,7 @@ title: "Urban Exploration"
 name: "urbanexploration"
 description: "Urban exploration, often known as urbexing, is best described as exploring abandoned or disused places. It can be anything, from schools to skyscrapers to statuesI'm not an urban explorer myself (yet) but this is somewhere for any refugees from Reddit who were part of r/urbanexploration to come and post!Also, remember the golden rule of urbexing: Take only pictures, leave only footprintsTrespassing is also not cool, don't do it."
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/urbanexploration"

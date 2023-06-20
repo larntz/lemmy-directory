@@ -3,14 +3,14 @@ title: "finance@oceanbreeze.earth"
 name: "finance"
 description: "financial understanding"
 type: community
-date: "2023-06-19 17:59:10"
+date: "2023-06-20 11:37:30"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/finance"
 host: oceanbreeze.earth
 lastmod: "2023-06-19 17:06:11"
 published: "2023-06-09 22:24:14"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

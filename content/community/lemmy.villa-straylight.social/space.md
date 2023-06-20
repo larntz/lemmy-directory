@@ -3,7 +3,7 @@ title: "Space"
 name: "space"
 description: "A community for sharing all things related to space science and exploration"
 type: community
-date: "2023-06-19 17:58:49"
+date: "2023-06-20 11:37:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/space"

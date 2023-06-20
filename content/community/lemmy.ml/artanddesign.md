@@ -3,7 +3,7 @@ title: "Libre Art & Design"
 name: "artanddesign"
 description: "Everything opensource and libre regarding visual art and design!"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artanddesign"

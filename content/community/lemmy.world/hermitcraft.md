@@ -3,17 +3,17 @@ title: "Hermitcraft"
 name: "hermitcraft"
 description: "A Lemmy for fans of the Youtube  Hermitcraft series!Hermitcraft is a private, whitelisted, vanilla Minecraft server created for YouTube content creators and Twitch streamers. Members often post videos on their channels which can be found below."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hermitcraft"
 host: lemmy.world
 lastmod: "2023-06-15 17:46:52"
 published: "2023-06-15 04:03:58"
-subscribers: 22
-posts: 10
+subscribers: 23
+posts: 13
 comments: 0
-weight: 10
+weight: 13
 dau: 1
 wau: 1
 mau: 1

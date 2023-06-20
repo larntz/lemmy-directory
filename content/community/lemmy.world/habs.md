@@ -3,7 +3,7 @@ title: "Montréal Canadiens"
 name: "habs"
 description: "Community of the Montréal Canadiens hockey club / Communauté du Canadien de Montréal. "
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/habs"

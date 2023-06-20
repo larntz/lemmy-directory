@@ -3,7 +3,7 @@ title: "305 Miami"
 name: "miami"
 description: "Everything about the 305 (and I suppose 786 and even 954)"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/miami"
@@ -15,7 +15,7 @@ posts: 3
 comments: 6
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

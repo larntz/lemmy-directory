@@ -3,7 +3,7 @@ title: "Social Enterprise"
 name: "socialenterprise"
 description: "Talk about Social Enterprises (aka for-good organizations that are self-sustaining)"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialenterprise"

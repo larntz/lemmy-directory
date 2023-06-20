@@ -3,7 +3,7 @@ title: "Word Play"
 name: "wordplay"
 description: "Show off your word trickery here, or re-post the notable efforts of others.Puns should be directed to lemmy.ml/c/puns"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wordplay"

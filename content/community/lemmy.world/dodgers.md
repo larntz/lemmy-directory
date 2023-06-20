@@ -3,7 +3,7 @@ title: "Los Angeles Dodgers"
 name: "dodgers"
 description: "The home of Clayton KershawBorn and raised in Brooklyn, currently thriving in Los Angeles, and living rent free in San Francisco, San Diego, Arizona, and sometimes Colorado.https://www.mlb.com/dodgers/schedule/"
 type: community
-date: "2023-06-19 18:00:42"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dodgers"

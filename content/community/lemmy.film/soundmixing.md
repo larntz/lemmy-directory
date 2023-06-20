@@ -3,14 +3,14 @@ title: "Sound Mixing"
 name: "soundmixing"
 description: "A discussion community for production and post-production sound mixing for film, television, and commercials."
 type: community
-date: "2023-06-19 17:58:52"
+date: "2023-06-20 11:37:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/soundmixing"
 host: lemmy.film
 lastmod: "2023-06-12 18:13:10"
 published: "2023-06-06 22:49:55"
-subscribers: 44
+subscribers: 45
 posts: 1
 comments: 0
 weight: 1

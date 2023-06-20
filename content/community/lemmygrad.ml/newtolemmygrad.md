@@ -3,7 +3,7 @@ title: "New to Lemmy"
 name: "newtolemmygrad"
 description: "A Community for people new to LemmyGrad"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/newtolemmygrad"

@@ -3,7 +3,7 @@ title: "Hot Peppers"
 name: "hotpeppers"
 description: "Like r/hotpeppers but on Lemmy.Share your peppers, recipes, questions, advice, opinions, etc."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hotpeppers"

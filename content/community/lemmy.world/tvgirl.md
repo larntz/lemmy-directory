@@ -3,20 +3,20 @@ title: "TV Girl "
 name: "tvgirl"
 description: "Lemmy's community for the TV Girl Traveling All-Star Band!French Exit. Who Really Cares. Death of a Party Girl. Grapes Upon The Vine."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvgirl"
 host: lemmy.world
-lastmod: "2023-06-19 12:40:28"
+lastmod: "2023-06-20 00:19:07"
 published: "2023-06-19 12:25:04"
 subscribers: 1
-posts: 0
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

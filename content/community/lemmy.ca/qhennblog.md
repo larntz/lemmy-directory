@@ -3,7 +3,7 @@ title: "Qhen's general blog"
 name: "qhennblog"
 description: "This is a thing"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/qhennblog"

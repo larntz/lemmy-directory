@@ -1,18 +1,18 @@
 ---
 title: "PlayStation 3 Hacks and Homebrew" 
 name: "ps3hacks"
-description: "A subreddit focusing on Hacking and Jailbreaking the Playstation 3."
+description: "A subreddit focusing on Hacking and Jailbreaking the Playstation 3.Originally, but not affiliated with, r/PS3homebrew"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps3hacks"
 host: lemmy.ml
-lastmod: "2023-06-08 06:54:29"
+lastmod: "2023-06-20 03:08:18"
 published: "2023-06-08 05:58:05"
 subscribers: 18
 posts: 2
-comments: 0
+comments: 1
 weight: 2
 dau: 1
 wau: 2

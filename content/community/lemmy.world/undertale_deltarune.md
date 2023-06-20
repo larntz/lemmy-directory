@@ -3,7 +3,7 @@ title: "Undertale & Deltarune"
 name: "undertale_deltarune"
 description: "Lemmy's community for Undertale and Deltarune."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/undertale_deltarune"

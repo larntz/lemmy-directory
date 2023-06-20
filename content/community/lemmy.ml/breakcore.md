@@ -3,7 +3,7 @@ title: "Breakcore"
 name: "breakcore"
 description: "Breakcore is loosely defined but: **breaks**, **noise**, generally **high BPM**, that kind of thing.Rules when we need em."
 type: community
-date: "2023-06-19 18:00:30"
+date: "2023-06-20 11:38:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/breakcore"

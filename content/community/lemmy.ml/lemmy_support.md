@@ -3,17 +3,17 @@ title: "Lemmy Support"
 name: "lemmy_support"
 description: "Support / questions about Lemmy.[Matrix Space: #lemmy-space](https://matrix.to/#/#lemmy-space:matrix.org)"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmy_support"
 host: lemmy.ml
 lastmod: "2023-06-14 21:24:21"
 published: "2019-04-25 16:53:06"
-subscribers: 2466
-posts: 855
-comments: 4548
-weight: 855
+subscribers: 2493
+posts: 856
+comments: 4600
+weight: 856
 dau: 65
 wau: 477
 mau: 759

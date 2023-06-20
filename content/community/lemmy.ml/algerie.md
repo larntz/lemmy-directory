@@ -3,7 +3,7 @@ title: "Algérie"
 name: "algerie"
 description: "#**Commnauté Algérie**Destinée à recevoir tout article ou discussion à propos de l’Algérie."
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/algerie"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2023-04-21 09:44:29"
 published: "2023-04-21 09:18:49"
 subscribers: 8
-posts: 11
-comments: 3
-weight: 11
+posts: 4
+comments: 0
+weight: 4
 dau: 1
 wau: 1
 mau: 1

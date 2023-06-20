@@ -3,7 +3,7 @@ title: "ElgibbityMemes"
 name: "elgibbitymemes"
 description: "Memes, Humor, Jokes, Comedy, by and for the LGBTQIA+ community.  (With all that's going on in the world, you have to laugh.)  "
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/elgibbitymemes"

@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:19"
+date: "2023-06-20 11:37:40"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/announcements"
@@ -15,7 +15,7 @@ posts: 9
 comments: 20
 weight: 9
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "mander_xyz"

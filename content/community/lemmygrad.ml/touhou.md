@@ -3,7 +3,7 @@ title: "Touhou Project"
 name: "touhou"
 description: "A community about the Touhou Project! For those tired of anti-communism popping up everywhere in hobby spaces.Rules:1. Follow lemmygrad rules. Absolutely no bigotry is allowed. 2. No explicit photos/artwork.(However keep in mind some obvious stuff not included might warrant you some type of removal.)"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/touhou"

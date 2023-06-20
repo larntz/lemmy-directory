@@ -3,7 +3,7 @@ title: "Manlalakbay"
 name: "manlalakbay"
 description: "A space for Philippine travel. Directions (ala howtogettherePH), itineraries, or advice for local and international sojourns - questions and stories are welcome.  I hope that this community becomes a useful repository of information for travel within and outside the Philippines."
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/manlalakbay"

@@ -3,7 +3,7 @@ title: "Hayastan"
 name: "hayastan"
 description: "Internet's most popular space for everything related to Armenia! Moderated to ensure a place for civil, open-minded and constructive dialogue where everyone is welcome to participate."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hayastan"

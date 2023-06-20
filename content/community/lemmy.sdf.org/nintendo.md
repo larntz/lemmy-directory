@@ -3,7 +3,7 @@ title: "Nintendo"
 name: "nintendo"
 description: "NES, Game Boy, DS, Wii, 3DS, Switch, etc."
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/nintendo"

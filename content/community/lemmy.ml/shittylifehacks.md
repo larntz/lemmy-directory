@@ -3,7 +3,7 @@ title: "Shitty Lifehacks"
 name: "shittylifehacks"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittylifehacks"

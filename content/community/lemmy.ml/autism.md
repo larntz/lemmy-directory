@@ -3,7 +3,7 @@ title: "Autism"
 name: "autism"
 description: "A community for [Autism](https://wikipedia.org/wiki/Autism).## Rules1. Posts should be relevant to Autism.## Resources* [Autistic Self Advocacy Network](https://autisticadvocacy.org/about-asan/about-autism/)* [National Autistic Society](https://autism.org.uk/)"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/autism"

@@ -3,14 +3,14 @@ title: "Pirated Games"
 name: "piratedgames"
 description: "Welcome to the r/PiratedGames subreddit, talk about pirated games and new cracks!"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/piratedgames"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-23 08:29:46"
-subscribers: 88
+subscribers: 92
 posts: 1
 comments: 0
 weight: 1

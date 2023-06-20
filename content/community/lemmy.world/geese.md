@@ -3,7 +3,7 @@ title: "Geese"
 name: "geese"
 description: "Feathered friends!Rules:1. Be excellent to each other2. Don't be the reason I need to add more rules"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geese"

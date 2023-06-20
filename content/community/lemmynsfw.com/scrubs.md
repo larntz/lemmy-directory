@@ -3,14 +3,14 @@ title: "scrubs"
 name: "scrubs"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/scrubs"
 host: lemmynsfw.com
 lastmod: "2023-06-17 07:11:06"
 published: "2023-06-14 16:48:30"
-subscribers: 78
+subscribers: 79
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Radioactive Rocks"
 name: "radioactive_rocks"
 description: "A community for radioactive rock enthusiasts!Check out [!radiation@sh.itjust.works](https://sh.itjust.works/c/radiation) for more general nuclear discussion."
 type: community
-date: "2023-06-19 17:58:56"
+date: "2023-06-20 11:37:15"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/radioactive_rocks"

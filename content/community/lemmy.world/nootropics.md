@@ -3,14 +3,14 @@ title: "nootropics"
 name: "nootropics"
 description: "If you are a mod from r/nootropics, please send a message and I'll turn the sub over. Work in progress right now."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nootropics"
 host: lemmy.world
 lastmod: "2023-06-19 03:51:42"
 published: "2023-06-19 00:11:50"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4

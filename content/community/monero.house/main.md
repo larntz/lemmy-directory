@@ -3,7 +3,7 @@ title: "Monero"
 name: "main"
 description: "This is the lemmy community of Monero (XMR), a secure, private, untraceable currency that is open-source and freely available to all."
 type: community
-date: "2023-06-19 17:58:42"
+date: "2023-06-20 11:37:02"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/main"
@@ -15,7 +15,7 @@ posts: 35
 comments: 121
 weight: 35
 dau: 1
-wau: 11
+wau: 5
 mau: 17
 instances:
 - "monero_house"

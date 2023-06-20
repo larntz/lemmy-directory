@@ -3,7 +3,7 @@ title: "Surrey, British Columbia"
 name: "surrey"
 description: "Community for the City of Surrey"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrey"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 15:21:46"
 published: "2023-06-13 15:01:50"
 subscribers: 11
 posts: 5
-comments: 2
+comments: 3
 weight: 5
 dau: 0
 wau: 0

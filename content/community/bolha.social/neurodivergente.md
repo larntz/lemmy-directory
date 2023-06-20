@@ -3,7 +3,7 @@ title: "Neurodivergência"
 name: "neurodivergente"
 description: "#### Fontes (*sources*)- [ícone](https://revistatrip.uol.com.br/tpm/webstories/10-livros-para-pensar-a-neurodiversidade)- [capa](https://genialcare.com.br/blog/simbolos-do-autismo/) "
 type: community
-date: "2023-06-19 17:58:32"
+date: "2023-06-20 11:36:54"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/neurodivergente"

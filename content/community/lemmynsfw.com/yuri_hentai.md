@@ -3,19 +3,19 @@ title: "Yuri Hentai"
 name: "yuri_hentai"
 description: "# **Welcome to Yuri Hentai****Rules:**- Instance rules apply- Only hentai featuring yuri is allowed- No Gore, Scat, or other extreme categories- No AI generated contentPlease credit the artist of the image if possible in the post's body."
 type: community
-date: "2023-06-19 17:59:37"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/yuri_hentai"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 04:14:33"
-subscribers: 366
+subscribers: 391
 posts: 15
-comments: 7
+comments: 6
 weight: 15
-dau: 3
-wau: 13
+dau: 2
+wau: 12
 mau: 13
 instances:
 - "lemmynsfw_com"

@@ -3,14 +3,14 @@ title: "Bisexual"
 name: "bisexual"
 description: "Discussions for all things related to bisexuality, pansexuality and omnisexual identities "
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bisexual"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 00:05:55"
-subscribers: 43
+subscribers: 44
 posts: 3
 comments: 10
 weight: 3

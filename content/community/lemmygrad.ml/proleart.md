@@ -3,7 +3,7 @@ title: "Proletarian Art"
 name: "proleart"
 description: "Share some art, laborwave, or whatever. As long as it’s proletarian."
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/proleart"

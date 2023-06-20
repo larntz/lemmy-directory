@@ -3,7 +3,7 @@ title: "Radiology"
 name: "radiology"
 description: "A community for all things related to medical imaging!## Rules:1. Please be courteous and professional.2. No requests for medical advice or second opinions. Please see your actual physician/provider for that!3. No advertising.4. Imaging/case submissions must have no patient identifiers.5. Imaging/case submissions should have a known finding or point of interest."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radiology"
@@ -14,7 +14,7 @@ subscribers: 21
 posts: 9
 comments: 10
 weight: 9
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:

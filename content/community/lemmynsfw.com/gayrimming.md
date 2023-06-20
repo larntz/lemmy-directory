@@ -3,7 +3,7 @@ title: "Gay Rimming"
 name: "gayrimming"
 description: "Alternative r/gayrimming. Devoted to gay rimming content. Posts must feature gay rimming. Do not violate any site wide rules. For straight rimming visit [https://lemmynsfw.com/c/rimming](https://lemmynsfw.com/c/rimming)"
 type: community
-date: "2023-06-19 17:59:37"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gayrimming"

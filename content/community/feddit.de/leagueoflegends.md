@@ -3,7 +3,7 @@ title: "League of Legends"
 name: "leagueoflegends"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:29"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/leagueoflegends"

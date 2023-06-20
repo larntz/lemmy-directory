@@ -3,14 +3,14 @@ title: "Blaulicht"
 name: "blaulicht"
 description: "Die Blaulicht-Community im Fediverse. Egal ob Feuerwehr, Polizei, THW, Rettungsdienst oder eine andere HiOrg, hier ist jeder Willkommen!"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/blaulicht"
 host: feddit.de
 lastmod: "2023-06-14 06:54:35"
 published: "2023-06-14 06:53:00"
-subscribers: 45
+subscribers: 49
 posts: 4
 comments: 8
 weight: 4

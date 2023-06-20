@@ -3,19 +3,19 @@ title: "The Satanic Temple"
 name: "thesatanictemple"
 description: "I noticed there wasn't a TST Lemmy community.  The Satanic Temple is a modern satanic religion that aims to promote human rights and compassion.  Check out their about page on their official website at https://thesatanictemple.com/pages/about-us.  Note that this community is not an official affiliation.  TST is also separate and not affiliated with the Church of Satan, who have a slightly different viewpoint of what satanism truly is.  Dunno what to post in here, but maybe some will search for this and take part.  Hello!"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesatanictemple"
 host: lemmy.world
 lastmod: "2023-06-10 22:15:43"
 published: "2023-06-10 14:03:16"
-subscribers: 660
-posts: 7
+subscribers: 684
+posts: 8
 comments: 29
-weight: 7
+weight: 8
 dau: 1
-wau: 6
+wau: 5
 mau: 17
 instances:
 - "lemmy_world"

@@ -1,19 +1,19 @@
 ---
 title: "Leotard" 
 name: "leotard"
-description: "A place for people in Leotards.# Rules🔞 **Age Requirement**: All participants MUST be 18 or over. Additionally, this should go without saying, **but posting content involving any person(s) who is under 18 is Forbidden**."
+description: "A place for people in Leotards. Latex, Spandex, PVC or Lycra# Rules🔞 **Age Requirement**: All participants MUST be 18 or over. Additionally, this should go without saying, **but posting content involving any person(s) who is under 18 is Forbidden**."
 type: community
-date: "2023-06-19 17:59:35"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/leotard"
 host: lemmynsfw.com
-lastmod: "2023-06-19 16:18:42"
+lastmod: "2023-06-19 19:10:47"
 published: "2023-06-19 10:09:09"
-subscribers: 13
-posts: 3
+subscribers: 22
+posts: 5
 comments: 0
-weight: 3
+weight: 5
 dau: 1
 wau: 1
 mau: 1

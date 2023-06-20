@@ -3,7 +3,7 @@ title: "Svelte Programming"
 name: "svelte"
 description: "An unofficial community for all things Svelte - discussions, questions, showcases and tutorials."
 type: community
-date: "2023-06-19 18:00:38"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/svelte"

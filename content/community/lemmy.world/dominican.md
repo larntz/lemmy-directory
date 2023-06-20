@@ -3,7 +3,7 @@ title: "Dominican"
 name: "dominican"
 description: "Bienvenido a la Republica Dominicana - Corazon del Caribe. Welcome to the Dominican Republic - Heart of the Caribbean. Dominicano Soy!"
 type: community
-date: "2023-06-19 18:00:45"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dominican"

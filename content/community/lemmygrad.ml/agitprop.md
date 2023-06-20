@@ -3,7 +3,7 @@ title: "Agitative Propaganda"
 name: "agitprop"
 description: "A community dedicated to the collection, creation and dissemination of agitative propaganda."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/agitprop"

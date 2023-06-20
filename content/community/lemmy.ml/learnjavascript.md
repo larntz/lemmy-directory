@@ -3,14 +3,14 @@ title: "learnjavascript"
 name: "learnjavascript"
 description: "1. Be Welcoming.n00bs are welcome here. Negativity is not.2. Include ContextIf you’re asking for help, include enough information for others to recreate your problem.3. No unvetted self promotionMessage the mods first."
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnjavascript"
 host: lemmy.ml
 lastmod: "2020-06-01 15:54:20"
 published: "2020-06-01 15:52:40"
-subscribers: 102
+subscribers: 103
 posts: 4
 comments: 5
 weight: 4

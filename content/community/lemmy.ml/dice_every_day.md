@@ -3,7 +3,7 @@ title: "Rolling Dice Every Day"
 name: "dice_every_day"
 description: "I'm going to roll a dice every dayYou can donate here and help fund more dice: https://ko-fi.com/dice_every_day"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dice_every_day"

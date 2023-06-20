@@ -3,14 +3,14 @@ title: "Educational Technology"
 name: "edtech"
 description: "Educational technology, software, etc."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edtech"
 host: lemmy.world
 lastmod: "2023-06-15 17:31:18"
 published: "2023-06-15 16:54:21"
-subscribers: 22
+subscribers: 23
 posts: 5
 comments: 1
 weight: 5

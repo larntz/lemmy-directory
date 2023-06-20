@@ -3,7 +3,7 @@ title: "Bucuresti"
 name: "bucuresti"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:15"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/bucuresti"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 2
 comments: 0
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

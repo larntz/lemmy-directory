@@ -3,7 +3,7 @@ title: "ITALIANA"
 name: "italiana"
 description: "Xké [@!italiano](https://lemmy.ml/c/italiano) nn c piac e [@!italy](https://lemmy.ml/c/italy) nn c rappresent"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italiana"

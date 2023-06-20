@@ -3,14 +3,14 @@ title: "Guild Wars 2"
 name: "guildwars2"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guildwars2"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-12-01 23:12:30"
-subscribers: 126
+subscribers: 132
 posts: 6
 comments: 25
 weight: 6

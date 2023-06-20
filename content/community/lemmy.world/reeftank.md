@@ -3,7 +3,7 @@ title: "ReefTank"
 name: "reeftank"
 description: "Community dedicated towards reef tank husbandry"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reeftank"
@@ -14,7 +14,7 @@ subscribers: 11
 posts: 5
 comments: 5
 weight: 5
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:

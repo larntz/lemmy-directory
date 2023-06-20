@@ -3,7 +3,7 @@ title: "VHF+"
 name: "vhf"
 description: "Everything VHF and up! FM, SSB, WSJT-X, SOTA, microwaves, there is a lot the bands 50MHz and up have to offer. "
 type: community
-date: "2023-06-19 17:59:09"
+date: "2023-06-20 11:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/vhf"

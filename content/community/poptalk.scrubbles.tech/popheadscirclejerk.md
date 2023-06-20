@@ -3,7 +3,7 @@ title: "PopHeads Circle Jerk"
 name: "popheadscirclejerk"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/popheadscirclejerk"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "poptalk_scrubbles_tech"

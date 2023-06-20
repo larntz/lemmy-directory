@@ -3,14 +3,14 @@ title: "wetting"
 name: "wetting"
 description: "Women wetting pants, panties, etc. "
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/wetting"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 22:29:33"
-subscribers: 172
+subscribers: 180
 posts: 9
 comments: 2
 weight: 9

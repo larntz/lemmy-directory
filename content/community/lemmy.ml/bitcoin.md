@@ -3,14 +3,14 @@ title: "Bitcoin"
 name: "bitcoin"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bitcoin"
 host: lemmy.ml
 lastmod: "2021-01-29 02:07:29"
 published: "2020-01-18 02:04:16"
-subscribers: 455
+subscribers: 459
 posts: 66
 comments: 63
 weight: 66

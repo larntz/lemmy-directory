@@ -3,7 +3,7 @@ title: "Discussion about Germany (any language welcome)"
 name: "germany"
 description: "Discussion about Germany. Any language, citizenship, migration status, ... welcome.Fascists and [kyriarchal](https://en.wikipedia.org/wiki/Kyriarchy) scum raus![N.B.: English as _lingua franca_, no linguistic imperialism intended.]"
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-20 11:38:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/germany"

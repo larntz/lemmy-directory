@@ -3,14 +3,14 @@ title: "Finland"
 name: "finland"
 description: "Suomi but for English Speakers"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/finland"
 host: lemmy.world
 lastmod: "2023-06-12 01:42:22"
 published: "2023-06-12 01:27:02"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

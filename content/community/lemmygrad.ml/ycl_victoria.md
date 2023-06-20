@@ -3,7 +3,7 @@ title: "Young Communist League - Victoria"
 name: "ycl_victoria"
 description: "Semi-Official Lemmy Community for the YCL Victoria"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ycl_victoria"

@@ -3,19 +3,19 @@ title: "moviescirclejerk"
 name: "moviescirclejerk"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/moviescirclejerk"
 host: lemmy.world
 lastmod: "2023-06-13 20:13:06"
 published: "2023-06-13 02:21:35"
-subscribers: 56
+subscribers: 65
 posts: 7
 comments: 3
 weight: 7
 dau: 1
-wau: 5
+wau: 4
 mau: 5
 instances:
 - "lemmy_world"

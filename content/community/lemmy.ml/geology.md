@@ -1,14 +1,14 @@
 ---
-title: "geology" 
+title: "Geology" 
 name: "geology"
 description: "A community devoted to learning about geology."
 type: community
-date: "2023-06-19 11:36:47"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geology"
 host: lemmy.ml
-lastmod: "2023-06-17 02:33:46"
+lastmod: "2023-06-19 20:50:12"
 published: "2023-06-08 19:29:35"
 subscribers: 12
 posts: 1

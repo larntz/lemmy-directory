@@ -3,7 +3,7 @@ title: "PKM Personal Knowledge Management"
 name: "pkm"
 description: "Konzepte, Methoden und Tools des pkm; deutschsprachig"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/pkm"
@@ -12,10 +12,10 @@ lastmod: "2023-06-03 12:12:46"
 published: "2023-06-03 11:31:12"
 subscribers: 118
 posts: 9
-comments: 21
+comments: 22
 weight: 9
 dau: 1
-wau: 4
+wau: 5
 mau: 11
 instances:
 - "discuss_tchncs_de"

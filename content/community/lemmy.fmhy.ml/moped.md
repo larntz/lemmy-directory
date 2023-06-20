@@ -3,7 +3,7 @@ title: "Moped"
 name: "moped"
 description: "A community based around mopeds and nopeds (modern scooters that look a lot like mopeds). Preferably no scooter posts in this community.And of course, be nice and civil. Don't be mean to scooter posters, just tell them politely what the difference between a moped and a scooter is."
 type: community
-date: "2023-06-19 17:58:54"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/moped"

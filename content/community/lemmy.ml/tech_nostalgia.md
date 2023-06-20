@@ -3,14 +3,14 @@ title: "Tech Nostalgia"
 name: "tech_nostalgia"
 description: "I often find articles that are not up to date anymore, but can still serve to show how much tech has changed over the years – feel free to share posts here that contrast old technologies with what people use nowadays"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_nostalgia"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-11-21 05:10:43"
-subscribers: 48
+subscribers: 49
 posts: 15
 comments: 9
 weight: 15

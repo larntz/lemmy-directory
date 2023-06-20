@@ -3,7 +3,7 @@ title: "Missouri"
 name: "missorui"
 description: "Lemmy community for Missouri leftists.Yes, I am very aware of the typo in the community name.Share news, organize, debate, etc.Rules TBD."
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missorui"

@@ -3,7 +3,7 @@ title: "Aww-worthy Animals"
 name: "awwanimals"
 description: "cats and dogs and other critters that make you say aww "
 type: community
-date: "2023-06-19 17:58:56"
+date: "2023-06-20 11:37:16"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/awwanimals"

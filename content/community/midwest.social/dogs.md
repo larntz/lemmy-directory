@@ -3,7 +3,7 @@ title: "Dogs"
 name: "dogs"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:20"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/dogs"
@@ -14,7 +14,7 @@ subscribers: 77
 posts: 9
 comments: 4
 weight: 9
-dau: 2
+dau: 1
 wau: 4
 mau: 5
 instances:

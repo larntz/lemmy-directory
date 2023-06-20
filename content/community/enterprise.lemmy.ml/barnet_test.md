@@ -3,7 +3,7 @@ title: "Barnet testing"
 name: "barnet_test"
 description: "A test community for the Barnet app"
 type: community
-date: "2023-06-19 17:58:30"
+date: "2023-06-20 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/barnet_test"
@@ -14,9 +14,9 @@ subscribers: 1
 posts: 3
 comments: 11
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "enterprise_lemmy_ml"
 tags: 

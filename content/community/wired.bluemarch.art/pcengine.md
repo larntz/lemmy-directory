@@ -3,7 +3,7 @@ title: "PC Engine / TurboGrafx-16 and its variants"
 name: "pcengine"
 description: "A community about the PC Engine / TurboGrafx-16 and its variants.Icon original by [Evan-Amos](https://commons.wikimedia.org/wiki/File:NEC-PC-Engine-Console-FL.jpg)."
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://wired.bluemarch.art/c/pcengine"

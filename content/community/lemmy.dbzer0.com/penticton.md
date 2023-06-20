@@ -3,7 +3,7 @@ title: "Penticton"
 name: "penticton"
 description: "A community for anything related to Penticton BC, and more generally the South Okanagan."
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/penticton"

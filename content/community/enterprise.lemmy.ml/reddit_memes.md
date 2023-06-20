@@ -3,7 +3,7 @@ title: "Reddit r/memes"
 name: "reddit_memes"
 description: "Reddit r/memes new post dumped to Lemmy (it's an experiment)"
 type: community
-date: "2023-06-19 17:58:30"
+date: "2023-06-20 11:36:52"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/reddit_memes"

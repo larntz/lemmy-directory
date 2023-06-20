@@ -3,14 +3,14 @@ title: "Keyholder"
 name: "keyholder"
 description: "A community for keyholderds of chastity devices."
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/keyholder"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 15:18:30"
-subscribers: 2
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

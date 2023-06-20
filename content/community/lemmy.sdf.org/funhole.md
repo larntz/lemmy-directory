@@ -3,7 +3,7 @@ title: "Funhole"
 name: "funhole"
 description: "Welcome to Funhole! The first and only hole on SDF exclusively for fun content! Are you a content creator? Then come post your content and join the fun!"
 type: community
-date: "2023-06-19 17:58:53"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/funhole"

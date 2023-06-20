@@ -3,7 +3,7 @@ title: "Wat Reddit"
 name: "watreddit"
 description: "wat reddit wat reddit hes so cool"
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/watreddit"

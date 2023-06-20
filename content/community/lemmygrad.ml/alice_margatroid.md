@@ -3,7 +3,7 @@ title: "アリスマガトロイドAlice_Margatroid"
 name: "alice_margatroid"
 description: "私達の大統領、可愛いアリスマガトロイドちゃん万歳！"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-20 11:37:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/alice_margatroid"

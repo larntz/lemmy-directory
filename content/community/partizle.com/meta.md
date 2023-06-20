@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Discussion regarding partizle.com"
 type: community
-date: "2023-06-19 17:58:55"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/meta"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 18:03:42"
 published: "2023-06-07 16:55:19"
 subscribers: 39
 posts: 8
-comments: 25
+comments: 26
 weight: 8
 dau: 6
 wau: 9

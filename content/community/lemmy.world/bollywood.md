@@ -3,7 +3,7 @@ title: "Sasta BollyBlinds"
 name: "bollywood"
 description: "For all the BollyBlinds folks who wind up here from Reddit. Just in case. Feel free to duplicate stuff from the OG."
 type: community
-date: "2023-06-19 18:00:44"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bollywood"

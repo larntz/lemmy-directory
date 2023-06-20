@@ -3,14 +3,14 @@ title: "Minecraft Builds"
 name: "minecraftbuilds"
 description: "Show off your Minecraft Builds here!"
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraftbuilds"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-30 14:45:48"
-subscribers: 29
+subscribers: 30
 posts: 0
 comments: 0
 weight: 0

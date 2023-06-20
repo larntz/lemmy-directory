@@ -3,7 +3,7 @@ title: "Urban Hell"
 name: "urbanhell"
 description: "A photography community of all the hideous places human beings built or inhabit. Come here for aesthetic appreciation of the darker side of the cities, towns, and villages in our shared world. We welcome any photos which show either ugliness, or a problem in urban development. Rural and suburban hell are also allowed.*[not created by original admin or mod of r/urbanhell, just a fan of that content and don't see an existing community]*"
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/urbanhell"

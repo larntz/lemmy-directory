@@ -3,7 +3,7 @@ title: "Science"
 name: "science"
 description: "Science and research topics.Research which is primarily political or low-quality discouraged."
 type: community
-date: "2023-06-19 17:58:55"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/science"

@@ -3,7 +3,7 @@ title: "DC Universe"
 name: "dcu"
 description: "Deutschsprachige Community für alles rund um das DCU und DC Comics.Regeln:1) Thema muss zu DC passen2) kein Marvel-only Content"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dcu"

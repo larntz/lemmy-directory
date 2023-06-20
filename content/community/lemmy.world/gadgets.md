@@ -1,22 +1,22 @@
 ---
 title: "Gadgets" 
 name: "gadgets"
-description: "Latest and greatest Gadgets: Discussion and Reviews"
+description: "**Latest and greatest Gadgets: Discussion and Reviews.****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gadgets"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 17:35:36"
 published: "2023-06-11 12:43:54"
-subscribers: 28
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 65
+posts: 1
+comments: 2
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

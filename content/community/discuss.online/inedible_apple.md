@@ -3,14 +3,14 @@ title: "Apple"
 name: "inedible_apple"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:01"
+date: "2023-06-20 11:37:21"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/inedible_apple"
 host: discuss.online
 lastmod: "2023-06-19 02:22:50"
 published: "2023-06-19 01:58:41"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

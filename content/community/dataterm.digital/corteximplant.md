@@ -3,7 +3,7 @@ title: "CORTEX IMPLANT"
 name: "corteximplant"
 description: "The Official Sub for the [CORTEX IMPLANT](https://corteximplant.com) Community. Discuss problems, feedback and wishes here."
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/corteximplant"

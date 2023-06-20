@@ -3,7 +3,7 @@ title: "Data irl"
 name: "data_irl"
 description: "home of funny graphs"
 type: community
-date: "2023-06-19 17:59:02"
+date: "2023-06-20 11:37:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/data_irl"
@@ -15,7 +15,7 @@ posts: 5
 comments: 6
 weight: 5
 dau: 1
-wau: 7
+wau: 6
 mau: 7
 instances:
 - "lemmy_antemeridiem_xyz"

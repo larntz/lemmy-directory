@@ -3,14 +3,14 @@ title: "allerlei"
 name: "allerlei"
 description: "Geen idee in welke community je post eigenlijk pas? Duw het dan onder de A van allerlei"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:05"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/allerlei"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 13:50:35"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Perth Programming"
 name: "perthprogramming"
 description: "G'day! /c/perthprogramming is where the tech-savvy folks of Perth, Australia come together! Whether you're a newbie coder or a seasoned developer, this subreddit is the perfect spot to connect, have a yarn, or collaborate with fellow programming enthusiasts in our beautiful city."
 type: community
-date: "2023-06-19 17:59:09"
+date: "2023-06-20 11:37:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jtmn.dev/c/perthprogramming"

@@ -3,14 +3,14 @@ title: "Cute Guys"
 name: "cuteguys"
 description: "A place for your cuteness to shine! Remember everyone is cute, even YOU!"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:57"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuteguys"
 host: lemmynsfw.com
 lastmod: "2023-06-17 09:13:12"
 published: "2023-06-16 17:53:44"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

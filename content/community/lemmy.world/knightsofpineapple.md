@@ -3,7 +3,7 @@ title: "Knights of Pineapple"
 name: "knightsofpineapple"
 description: "Welcome to the Knights of Pineapple community on Lemmy! Home to all things pineapple or pineapple related especially pineapple on pizza.## Rules: - Treat all users with respect, always. - Posts should contain photos of pineapples or pineapple plants or be related to pineapples in some manner. "
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/knightsofpineapple"

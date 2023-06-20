@@ -3,7 +3,7 @@ title: "Mirko Hirsch (Songwriter) Fan Community"
 name: "mirkohirsch"
 description: "Fan Community for Mirko Hirsch - German Songwriter"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mirkohirsch"

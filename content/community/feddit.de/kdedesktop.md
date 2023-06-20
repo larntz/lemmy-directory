@@ -3,14 +3,14 @@ title: "KDE Desktop und Apps "
 name: "kdedesktop"
 description: "Rund um den KDE Desktop und seinen Anwendungen."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kdedesktop"
 host: feddit.de
 lastmod: "2022-10-11 16:11:35"
 published: "2022-10-10 12:12:28"
-subscribers: 113
+subscribers: 115
 posts: 27
 comments: 5
 weight: 27

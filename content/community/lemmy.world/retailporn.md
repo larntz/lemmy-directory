@@ -3,14 +3,14 @@ title: "Retail Porn"
 name: "retailporn"
 description: "A place to post all pictures pertaining to retail!"
 type: community
-date: "2023-06-19 18:00:43"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retailporn"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 01:50:24"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Psytrance DJ Community"
 name: "psytrance_djs"
 description: "Welcome to the very first, Psytrance DJ Lemmy Community. It's a great place to discover new music, share playlists, sets and other on topic posts.- Psychedelic- Psytrance- Progressive- Minimal- Tribal- Uplifting- Psybreaks- Goa- Full-on- Twilight- Dark- Forest- Hi-Tech- Psybient- Chill"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/psytrance_djs"

@@ -3,14 +3,14 @@ title: "GermanRap"
 name: "germanrap"
 description: "Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germanrap"
 host: feddit.de
 lastmod: "2023-06-14 07:34:41"
 published: "2023-06-14 07:33:21"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

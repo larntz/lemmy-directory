@@ -3,14 +3,14 @@ title: "Labor News"
 name: "labor_news"
 description: "A community primarily for posting news about the US labor movement."
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/labor_news"
 host: midwest.social
 lastmod: "2023-06-07 14:58:52"
 published: "2023-06-07 14:57:04"
-subscribers: 54
+subscribers: 57
 posts: 6
 comments: 5
 weight: 6

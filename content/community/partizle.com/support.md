@@ -3,7 +3,7 @@ title: "Partizle Support"
 name: "support"
 description: "Questions and answers for the Partizle instance"
 type: community
-date: "2023-06-19 17:58:55"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/support"

@@ -3,17 +3,17 @@ title: "Frag Feddit"
 name: "fragfeddit"
 description: "Wolltest du Der Leere™ schon immer einmal Fragen stellen? Tue dies hier."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fragfeddit"
 host: feddit.de
 lastmod: "2021-08-30 09:14:46"
 published: "2021-08-21 11:51:47"
-subscribers: 1604
-posts: 79
-comments: 1166
-weight: 79
+subscribers: 1674
+posts: 82
+comments: 1225
+weight: 82
 dau: 35
 wau: 327
 mau: 386

@@ -3,7 +3,7 @@ title: "Houdini"
 name: "houdini"
 description: "Everything related to [SideFX](https://www.sidefx.com) Houdini.Post Houdini news, images, videos, tools or questions.Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/houdini"

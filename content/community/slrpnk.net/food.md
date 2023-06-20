@@ -3,14 +3,14 @@ title: "Food"
 name: "food"
 description: "Everything related to cooking, nutrition and food preservation"
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:38"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/food"
 host: slrpnk.net
 lastmod: "2023-06-14 12:12:18"
 published: "2022-03-23 10:29:34"
-subscribers: 179
+subscribers: 182
 posts: 15
 comments: 51
 weight: 15

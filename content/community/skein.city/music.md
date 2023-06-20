@@ -3,7 +3,7 @@ title: "Local Music Dump"
 name: "music"
 description: "What're you listening to?"
 type: community
-date: "2023-06-19 17:59:10"
+date: "2023-06-20 11:37:30"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/music"

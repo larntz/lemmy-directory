@@ -3,7 +3,7 @@ title: "Collectif CHATONS"
 name: "chatons"
 description: "Cette communauté sans caractère officiel promeut le collectif francophone CHATONS ([chatons.org](https://chatons.org)).Tous liens ou échanges évoquant le collectif ou ses membres est le bienvenu. Cette communauté ne doit pas se substituer au forum CHATONS toutefois."
 type: community
-date: "2023-06-19 17:58:36"
+date: "2023-06-20 11:36:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/chatons"

@@ -3,14 +3,14 @@ title: "Qwant"
 name: "qwant"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/qwant"
 host: lemmy.ml
 lastmod: "2021-06-21 14:39:22"
 published: "2021-06-16 21:52:00"
-subscribers: 21
+subscribers: 20
 posts: 7
 comments: 0
 weight: 7

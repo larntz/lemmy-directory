@@ -3,7 +3,7 @@ title: "a community for the city of boston"
 name: "boston"
 description: "boston is a city in the state of massachusetts"
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/boston"

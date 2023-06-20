@@ -1,22 +1,22 @@
 ---
 title: "Spanish" 
 name: "spanish"
-description: "Learn, teach or discuss the 2nd most spoken language by natives"
+description: "Learn, teach or discuss the 2nd most spoken language by natives**Rules**- Be respectful.- Foster a continuous learning environment.- Engage in constructive discussions.- Use appropriate language and tone.- Please, no harassment, hate speech, or trolling."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spanish"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 23:32:02"
 published: "2023-06-18 23:59:54"
-subscribers: 12
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 15
+posts: 2
+comments: 1
+weight: 2
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Pratt Institute "
 name: "pratt_institute"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pratt_institute"

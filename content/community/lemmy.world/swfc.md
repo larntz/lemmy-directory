@@ -3,7 +3,7 @@ title: "Sheffield Wednesday Football Club"
 name: "swfc"
 description: "A home for fans of certainly a team in the English League system"
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swfc"
@@ -11,9 +11,9 @@ host: lemmy.world
 lastmod: "2023-06-13 01:29:00"
 published: "2023-06-13 00:43:14"
 subscribers: 2
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

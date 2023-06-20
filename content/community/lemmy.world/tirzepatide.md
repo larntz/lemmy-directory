@@ -3,7 +3,7 @@ title: "Tirzepatide"
 name: "tirzepatide"
 description: "This is a place to openly discuss the medication Tirzepatide (aka Mounjaro)."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tirzepatide"

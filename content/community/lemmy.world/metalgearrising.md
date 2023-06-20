@@ -3,7 +3,7 @@ title: "Metal Gear Rising"
 name: "metalgearrising"
 description: "Memes, discussions and and other content related to Metal Gear Rising: RevengeanceRules.1. Be nice2. Don't make posts that are unrelated to the game3. Memes are the DNA of the soul"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalgearrising"

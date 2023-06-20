@@ -3,7 +3,7 @@ title: "TagPro"
 name: "tagpro"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:09"
+date: "2023-06-20 11:37:30"
 draft: false
 nsfw: false
 actor_id: "https://tagpro.lol/c/tagpro"
@@ -15,7 +15,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "tagpro_lol"

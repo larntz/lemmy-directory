@@ -3,16 +3,16 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "Welcome to our synth sanctuary, where we turn knobs and make music, one *'note'-orious* post at a time!---You can connect with our friends over at: - [!synths@midwest.social](https://waveform.social/c/synths@midwest.social) "
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/synthesizers"
 host: waveform.social
 lastmod: "2023-06-13 06:10:14"
 published: "2023-06-11 06:39:23"
-subscribers: 251
+subscribers: 266
 posts: 14
-comments: 118
+comments: 119
 weight: 14
 dau: 4
 wau: 39

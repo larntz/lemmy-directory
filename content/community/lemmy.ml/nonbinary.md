@@ -3,7 +3,7 @@ title: "non-binary community"
 name: "nonbinary"
 description: "Welcome to !non-binary,Since there wasn’t a non-binary community here I created one. As Lemmy has a small userbase it seems reasonable to not split up different non-binary content in different communities (i.e. one for memes and another one) so all non-binary content is welcome here. Have fun.Rules- no discrimination in any form- this is an antifascist community so don’t be a fascist"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nonbinary"

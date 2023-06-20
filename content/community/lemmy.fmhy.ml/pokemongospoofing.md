@@ -3,14 +3,14 @@ title: "PokemonGo Spoofing"
 name: "pokemongospoofing"
 description: "A community for the information about how to spoof on Pokemon Go mobile game."
 type: community
-date: "2023-06-19 17:58:54"
+date: "2023-06-20 11:37:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/pokemongospoofing"
 host: lemmy.fmhy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 12:21:34"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

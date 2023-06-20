@@ -3,20 +3,20 @@ title: "Trailer Park Boys"
 name: "trailerparkboys"
 description: "Hands down, boys.**Rules**1. 9mm? Safety always off2. Mow the air,3. Never ride a 0.20 - that's fckin' wasted."
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-20 11:38:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trailerparkboys"
 host: lemmy.world
 lastmod: "2023-06-11 05:15:38"
 published: "2023-06-11 05:12:50"
-subscribers: 8
-posts: 1
+subscribers: 11
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

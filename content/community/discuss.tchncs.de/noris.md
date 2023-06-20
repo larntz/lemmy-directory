@@ -3,7 +3,7 @@ title: "Nürnberg | Nuremberg | Noris"
 name: "noris"
 description: "NürnbergLanguages: German / English"
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/noris"

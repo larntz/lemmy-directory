@@ -3,18 +3,18 @@ title: "Japan Life"
 name: "japanlife"
 description: "For people already living in Japan - anything relevant to living or working in Japan such as lifestyle, food, style, environment, education, technology, housing, work, visas, sport etc."
 type: community
-date: "2023-06-19 18:00:28"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/japanlife"
 host: lemmy.world
 lastmod: "2023-06-17 11:49:49"
 published: "2023-06-17 11:41:44"
-subscribers: 11
+subscribers: 12
 posts: 2
-comments: 7
+comments: 9
 weight: 2
-dau: 1
+dau: 2
 wau: 4
 mau: 4
 instances:

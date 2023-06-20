@@ -3,14 +3,14 @@ title: "Brasil"
 name: "brasil"
 description: "Primeira cmunidade brasileira do Lemmy."
 type: community
-date: "2023-06-19 18:00:35"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brasil"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-01 22:35:22"
-subscribers: 53
+subscribers: 54
 posts: 31
 comments: 9
 weight: 31

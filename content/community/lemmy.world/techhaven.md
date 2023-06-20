@@ -3,7 +3,7 @@ title: "Tech Haven"
 name: "techhaven"
 description: "A safe space for nerds to learn about IT. Come discuss and learn programming, networking, and cyber-security with other IT professionals and hobbyists. We are primarily located on [Discord](https://discord.gg/invite/tech-haven-455345206481518593) and looking to expand on our social media presence. - [Discord](https://discord.techhaven.io)- [Matrix](https://matrix.to/#/#techhaven:matrix.org)- [Forums](https://forums.techhaven.io)- [TH Hub](https://techhaven.io/)"
 type: community
-date: "2023-06-19 11:36:39"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/techhaven"

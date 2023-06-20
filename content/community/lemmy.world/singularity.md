@@ -3,18 +3,18 @@ title: "Singularity"
 name: "singularity"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/singularity"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 14:06:16"
-subscribers: 28
+subscribers: 29
 posts: 17
 comments: 3
 weight: 17
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "Test"
 name: "testing"
 description: "A community used only for testing. Posting is restricted to moderators only."
 type: community
-date: "2023-06-19 17:59:11"
+date: "2023-06-20 11:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.media/c/testing"

@@ -1,22 +1,22 @@
 ---
 title: "Lemmy.world" 
 name: "lemmyworld"
-description: "This Community is intended for **posts about the Lemmy.world server**. That means announcements from the team, issues you see etc.## Rules- Of course follow the [Lemmy.world rules](https://mastodon.world/about)- Post stuff related to the Lemmy.world server.- Any support requests are best sent to info@lemmy.world e-mail."
+description: "This Community is intended for **posts about the Lemmy.world server** by the admins. For support with issues at Lemmy.world, go to [the Lemmy.world Support community](https://lemmy.world/c/support).For general discussions, go to the [General Discussions](https://lemmy.world/c/general) community.Any support requests are best sent to info@lemmy.world e-mail."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-20 11:38:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmyworld"
 host: lemmy.world
-lastmod: "2023-06-18 19:49:07"
+lastmod: "2023-06-19 15:26:59"
 published: "2023-06-01 11:51:52"
-subscribers: 10538
-posts: 702
-comments: 24472
-weight: 702
-dau: 985
-wau: 6598
-mau: 7385
+subscribers: 11183
+posts: 684
+comments: 24466
+weight: 684
+dau: 584
+wau: 5916
+mau: 7606
 instances:
 - "lemmy_world"
 tags: 

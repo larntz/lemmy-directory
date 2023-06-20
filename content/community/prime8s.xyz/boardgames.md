@@ -3,7 +3,7 @@ title: "Board and Tabletop Games"
 name: "boardgames"
 description: "This community centers around tabletop, role-playing, board, and card games of all kinds. This is a Safe For Work Community1. No hate speech, flaming, or harassment.2. No pornography3. No encouraging illegal behavior"
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:13"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/boardgames"

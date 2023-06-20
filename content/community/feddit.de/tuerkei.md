@@ -3,7 +3,7 @@ title: "Türkei"
 name: "tuerkei"
 description: "Von Deutschtürken für Deutschtürken, und alle die es werden oder die türkische Staatsbürgerschaft aufgeben wollen."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tuerkei"

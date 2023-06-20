@@ -3,14 +3,14 @@ title: "Romania"
 name: "romania"
 description: "reserved"
 type: community
-date: "2023-06-19 11:36:46"
+date: "2023-06-20 11:38:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/romania"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-28 04:28:46"
-subscribers: 33
+subscribers: 34
 posts: 7
 comments: 17
 weight: 7

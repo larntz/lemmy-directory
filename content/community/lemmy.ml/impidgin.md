@@ -3,7 +3,7 @@ title: "Pidgin, the universal chat client"
 name: "impidgin"
 description: "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously. This means that you can be chatting with friends on XMPP and sitting in an IRC channel at the same time. Pidgin runs on Windows, Linux, and other UNIX-like operating systems. [Official site](https://pidgin.im)"
 type: community
-date: "2023-06-19 18:00:31"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/impidgin"

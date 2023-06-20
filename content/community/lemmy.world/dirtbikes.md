@@ -3,7 +3,7 @@ title: "Dirtbikes"
 name: "dirtbikes"
 description: "A good place to discuss trail riding, enduro, motocross and trials (yes even them).  "
 type: community
-date: "2023-06-16 22:57:18"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dirtbikes"

@@ -3,20 +3,20 @@ title: "Gifuffle"
 name: "gifuffle"
 description: "Cursed GIF repository"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-20 11:37:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/gifuffle"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 11:18:15"
 published: "2023-06-17 15:55:49"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 

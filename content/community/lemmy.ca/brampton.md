@@ -3,7 +3,7 @@ title: "Brampton"
 name: "brampton"
 description: "A place to discuss what's happening in Brampton, Ontario"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/brampton"

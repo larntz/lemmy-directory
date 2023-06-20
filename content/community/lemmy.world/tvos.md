@@ -3,14 +3,14 @@ title: "tvOS"
 name: "tvos"
 description: "The home for all things tvOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tvos"
 host: lemmy.world
 lastmod: "2023-06-16 02:13:29"
 published: "2023-06-16 02:04:48"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

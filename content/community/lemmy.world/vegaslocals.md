@@ -3,7 +3,7 @@ title: "vegaslocals"
 name: "vegaslocals"
 description: "vegaslocals"
 type: community
-date: "2023-06-19 18:00:50"
+date: "2023-06-20 11:38:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vegaslocals"
@@ -15,7 +15,7 @@ posts: 3
 comments: 19
 weight: 3
 dau: 1
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "lemmy_world"

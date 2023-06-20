@@ -3,7 +3,7 @@ title: "Africa "
 name: "africa"
 description: "A space to discuss general stuff relating to Africa. "
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-20 11:37:37"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/africa"
@@ -15,7 +15,7 @@ posts: 409
 comments: 145
 weight: 409
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "baraza_africa"

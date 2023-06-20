@@ -3,7 +3,7 @@ title: "The Possum Patio Meta"
 name: "possumpatio"
 description: "Announcements and meta-discussion about The Possum Patio instance. "
 type: community
-date: "2023-06-19 17:58:44"
+date: "2023-06-20 11:37:03"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/possumpatio"

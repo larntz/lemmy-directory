@@ -3,14 +3,14 @@ title: "Tool"
 name: "toolband"
 description: "Discussion on all things related to the band Tool"
 type: community
-date: "2023-06-19 17:59:22"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/toolband"
 host: sopuli.xyz
 lastmod: "2023-06-16 10:36:23"
 published: "2023-06-16 08:05:54"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 2
 weight: 1

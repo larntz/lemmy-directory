@@ -3,7 +3,7 @@ title: "drunk"
 name: "drunk"
 description: "For those that are drunk"
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drunk"

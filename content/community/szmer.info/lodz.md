@@ -3,7 +3,7 @@ title: "Łódź"
 name: "lodz"
 description: "„Gdy kiedyś czołem dosięgnę gwiazdI przyjdzie chwały mej era,Gdy będzie o mnie kilkaset miastSprzeczać się, jak o Homera,Gdy w Polsce będzie pomników mychWięcej niż grzybów po deszczu,I w każdym mieście zacznie się krzyk:Ja Ciebie wydałem, wieszczu! -Niechaj potomni przestaną snućDomysły w sprawie Tuwima,Bo sam oświadczam: mój gród - to Łódź,To moja kolebka rodzima!...”"
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/lodz"

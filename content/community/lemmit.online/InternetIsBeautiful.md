@@ -3,7 +3,7 @@ title: "10/10 would bookmark again"
 name: "InternetIsBeautiful"
 description: "/r/InternetIsBeautiful has shut down as part of the coordinated protest against Reddit's exorbitant new API pricing. Please don't message to..."
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/InternetIsBeautiful"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 03:10:54"
 subscribers: 1
-posts: 33
+posts: 42
 comments: 0
-weight: 33
+weight: 42
 dau: 0
 wau: 0
 mau: 0

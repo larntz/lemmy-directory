@@ -3,14 +3,14 @@ title: "Metal"
 name: "metal"
 description: "Noticed there was no metal community, so I've created one! Talk about anything metal."
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/metal"
 host: lemmy.ca
 lastmod: "2023-06-14 19:06:39"
 published: "2023-06-06 19:38:06"
-subscribers: 28
+subscribers: 29
 posts: 6
 comments: 7
 weight: 6

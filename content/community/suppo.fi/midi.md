@@ -3,7 +3,7 @@ title: "MIDI"
 name: "midi"
 description: "MIDI music"
 type: community
-date: "2023-06-19 17:58:49"
+date: "2023-06-20 11:37:09"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/midi"

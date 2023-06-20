@@ -3,14 +3,14 @@ title: "Counter-Strike 2"
 name: "cs2"
 description: "Counter-Strike 2"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-20 11:38:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cs2"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 07:03:59"
-subscribers: 13
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

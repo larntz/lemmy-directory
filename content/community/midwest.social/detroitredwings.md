@@ -3,14 +3,14 @@ title: "Detroit Redwings - LGRW!"
 name: "detroitredwings"
 description: "A place to discuss all things Hockeytown. Trust the Yzerplan and LGRW!"
 type: community
-date: "2023-06-19 17:59:20"
+date: "2023-06-20 11:37:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/detroitredwings"
 host: midwest.social
 lastmod: "2023-06-13 20:28:36"
 published: "2023-06-13 20:20:29"
-subscribers: 32
+subscribers: 33
 posts: 5
 comments: 6
 weight: 5

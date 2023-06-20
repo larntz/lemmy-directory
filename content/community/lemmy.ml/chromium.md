@@ -3,14 +3,14 @@ title: "chromium - an open-source browser"
 name: "chromium"
 description: "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. This site contains design documents, architecture overviews, testing information, and more to help you learn to build and work with the Chromium source code.[The Chromium projects](https://www.chromium.org/Home)"
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chromium"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-04-19 14:54:57"
-subscribers: 47
+subscribers: 46
 posts: 3
 comments: 0
 weight: 3

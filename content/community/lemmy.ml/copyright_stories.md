@@ -3,7 +3,7 @@ title: "Copyright Stories"
 name: "copyright_stories"
 description: "A place to share stories centered around copyright."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copyright_stories"

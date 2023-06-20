@@ -3,7 +3,7 @@ title: "Children of the Fence"
 name: "the_fence"
 description: "A community for fans of the rock band Coheed and Cambria"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/the_fence"

@@ -3,14 +3,14 @@ title: "Synthwave"
 name: "synthwave"
 description: "Synthwave AKA Outrun is an electronic music genre based on the music associated with action, science-fiction, and horror film soundtracks of the 1980s.Let's use this place to post our favourite Synthwave tracks, discuss upcoming releases, show off our own efforts and discuss production techniques!"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:26"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/synthwave"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 12:47:48"
-subscribers: 17
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

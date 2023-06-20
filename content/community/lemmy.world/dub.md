@@ -3,14 +3,14 @@ title: "Dub Music"
 name: "dub"
 description: "music that sounds bigger than the sound system it's playing on"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-20 11:38:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dub"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 20:52:42"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

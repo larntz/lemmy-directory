@@ -3,7 +3,7 @@ title: "Left Urbanism"
 name: "left_urbanism"
 description: "A community for urbanists on the Left to talk about public housing, transit, class and power structures, racism, gentrification and I guess zoning?"
 type: community
-date: "2023-06-19 18:00:32"
+date: "2023-06-20 11:38:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/left_urbanism"

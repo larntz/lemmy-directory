@@ -3,7 +3,7 @@ title: "news"
 name: "news"
 description: "Per compartir noticies del mòn.To share international news."
 type: community
-date: "2023-06-19 17:58:30"
+date: "2023-06-20 11:36:51"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/news"

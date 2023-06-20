@@ -3,7 +3,7 @@ title: "Yo-Kai Watch"
 name: "yokaiwatch"
 description: "## **A community for discussing the Yo-kai Watch franchise.**-------------------------##### Rules:1. No cheating, hacking, hacked QR codes, etc…2. No illegal activity.3. Do not excessively self-advertise.4. Do not post fan art without a source.5. Be nice and enjoy!"
 type: community
-date: "2023-06-19 17:59:07"
+date: "2023-06-20 11:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/yokaiwatch"

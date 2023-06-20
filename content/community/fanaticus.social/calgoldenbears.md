@@ -3,7 +3,7 @@ title: "Cal Golden Bears"
 name: "calgoldenbears"
 description: "A community to discuss California Golden Bears athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-19 17:59:06"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/calgoldenbears"

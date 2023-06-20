@@ -3,7 +3,7 @@ title: "kooikerhondje"
 name: "kooikerhondje"
 description: "🇬🇧 A community for the Dutch dog breed *kooikerhondje*. This lovely mid-sized dog breed was originally bred to assist in catching ducks. 🇳🇱 Een lemmy community voor het Nederlandse Kooikerhondje. Dit leuke ras werd oorspronkelijk gefokt  om te helpen bij de eendenjacht.* 🇳🇱 [Vereniging het Nederlandse Kooikerhondje](https://www.kooikerhondje.nl) - De officiële rasvereniging voor het kooikerhondje* [Wikipedia page](https://en.wikipedia.org/wiki/Kooikerhondje)"
 type: community
-date: "2023-06-19 18:00:27"
+date: "2023-06-20 11:38:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kooikerhondje"

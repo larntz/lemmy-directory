@@ -3,14 +3,14 @@ title: "Bartmoss Collective"
 name: "bartmoss_collective"
 description: "`NETDIR://TIMETOWAKEUP.WEB`# Join the Fediverse revolution!---###### [NETDIR://bartmoss@TIMETOWAKEUP.WEB](https://dataterm.digital/u/bartmoss) "
 type: community
-date: "2023-06-19 17:59:08"
+date: "2023-06-20 11:37:27"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/bartmoss_collective"
 host: dataterm.digital
 lastmod: "2023-06-16 17:05:06"
 published: "2023-06-15 20:47:53"
-subscribers: 26
+subscribers: 28
 posts: 6
 comments: 2
 weight: 6

@@ -3,14 +3,14 @@ title: "Cocktails, the libationary art!"
 name: "cocktails"
 description: "Please visit https://squabbles.io/s/cocktails"
 type: community
-date: "2023-06-19 18:00:29"
+date: "2023-06-20 11:38:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cocktails"
 host: lemmy.world
 lastmod: "2023-06-17 19:49:10"
 published: "2023-06-16 02:41:57"
-subscribers: 12
+subscribers: 17
 posts: 1
 comments: 3
 weight: 1

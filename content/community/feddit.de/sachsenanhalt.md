@@ -3,14 +3,14 @@ title: "Sachsen-Anhalt"
 name: "sachsenanhalt"
 description: "Das Bundesland zwischen Harz und Fläming 🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-20 11:37:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/sachsenanhalt"
 host: feddit.de
 lastmod: "2023-06-06 17:42:38"
 published: "2021-09-14 12:05:28"
-subscribers: 26
+subscribers: 27
 posts: 25
 comments: 20
 weight: 25

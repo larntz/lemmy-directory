@@ -3,7 +3,7 @@ title: "SHA1"
 name: "sha1"
 description: "Information about this Lemmy instance."
 type: community
-date: "2023-06-19 17:58:50"
+date: "2023-06-20 11:37:09"
 draft: false
 nsfw: false
 actor_id: "https://sha1.nl/c/sha1"

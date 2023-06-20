@@ -3,7 +3,7 @@ title: "służby"
 name: "policja"
 description: "O uprawnieniach, praktykach i przewinieniach służb.Powiązane treści znajdzie w następujących społecznościach:- [Cyberbezpieczeństwo & Globalna Inwigilacja](https://szmer.info/c/cyberbezpieczenstwo) - W zcyfryzowanym świecie, kontrolowanym i inwigilowanym przez big-corpo i niedemokratyczne rządy, potrzeba dzielić się  newsami, poradami/instrukcjami/wskazówkami, co robić by móc jak najlepiej chronić się przed cyfrowym niebezpieczeństwem - działaniami zarówno zwykłych drobnych przestępców, jak i światowych mocarstw czy wielkich biznesów.- [PSYOP](https://szmer.info/c/psyop) - Przestrzeń do dyskusji o zwietrzonych podstępach, manipulacjach, machinacjach, prowokacjach, propagandzie i operacjach psychologicznych.- [Anarchistyczny Czarny Krzyż](https://szmer.info/c/ack) - międzynarodowa sieć grup anarchistycznych i indywidualnych osób zaangażowanych w działania solidarnościowe z uwięzionymi, oraz w szerszą walkę przeciwko represjom."
 type: community
-date: "2023-06-19 17:59:23"
+date: "2023-06-20 11:37:43"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/policja"

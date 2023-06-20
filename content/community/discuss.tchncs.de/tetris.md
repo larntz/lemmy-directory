@@ -3,14 +3,14 @@ title: "Tetris"
 name: "tetris"
 description: "Community for discussing all things Tetris related."
 type: community
-date: "2023-06-19 17:58:45"
+date: "2023-06-20 11:37:04"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/tetris"
 host: discuss.tchncs.de
 lastmod: "2023-06-12 20:25:16"
 published: "2023-06-12 20:20:41"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

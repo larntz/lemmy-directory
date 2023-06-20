@@ -3,7 +3,7 @@ title: "rgg_games"
 name: "rgg_games"
 description: "An unofficial community for games made by the studio Ryu Ga Gotoku most commonly known for their Yakuza series (now called Like a Dragon)"
 type: community
-date: "2023-06-19 17:59:26"
+date: "2023-06-20 11:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rgg_games"

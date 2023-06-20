@@ -3,7 +3,7 @@ title: "A community of lovers of Camellia Sinensis infusions"
 name: "tea"
 description: "Tea leaves are made from the plant Camellia Sinensis. The infusion of said leaves results in one the most appreciated beverages in the world. Let's discuss all things related to tea culture."
 type: community
-date: "2023-06-19 18:00:36"
+date: "2023-06-20 11:38:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tea"

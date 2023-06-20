@@ -3,7 +3,7 @@ title: "Formerly Anarchist"
 name: "exanarchist"
 description: "A general discussion place for people who were previously Anarchist, but have radicalized into MarxismRules:1) Follow Lemmygrad's general rules (No racism, sexism, ableism, homophobia, transphobia, etc)2) Please keep discussions civil and on topic3) Discussions against Socialist states are strongly prohibited 4) This isn't intended as a place for anti-Anarchist sectarianism, however, a warning should be issued to Anarchists; the discussions here might not be to your liking, so this might not be a community you'd enjoy. to people who were never anarchists before: feel free to ask questions :)[Ex-Liberal](https://lemmygrad.ml/c/exliberal)"
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-20 11:37:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/exanarchist"

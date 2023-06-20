@@ -3,7 +3,7 @@ title: "Ethereum"
 name: "ethereum"
 description: "Next-generation platform for decentralised applications. Dive in at [ethereum.org](ethereum.org)"
 type: community
-date: "2023-06-19 17:59:04"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ethereum"
@@ -15,7 +15,7 @@ posts: 5
 comments: 13
 weight: 5
 dau: 1
-wau: 6
+wau: 4
 mau: 7
 instances:
 - "diggit_xyz"

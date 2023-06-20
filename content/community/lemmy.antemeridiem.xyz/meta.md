@@ -3,7 +3,7 @@ title: "Ante Meridiem's meta community"
 name: "meta"
 description: "Meta discussion about this specific lemmy.antemeridiem.xyz instance.Post your grievances, suggestions and tune in for announcements! "
 type: community
-date: "2023-06-19 17:59:02"
+date: "2023-06-20 11:37:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/meta"

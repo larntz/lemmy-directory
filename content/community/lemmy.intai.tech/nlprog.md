@@ -3,7 +3,7 @@ title: "Natural Language Programming | Prompting (chatGPT)"
 name: "nlprog"
 description: "Prompting and Practices"
 type: community
-date: "2023-06-19 17:59:05"
+date: "2023-06-20 11:37:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/nlprog"
@@ -11,9 +11,9 @@ host: lemmy.intai.tech
 lastmod: "2023-06-19 05:57:57"
 published: "2023-06-11 04:50:04"
 subscribers: 17
-posts: 27
+posts: 31
 comments: 6
-weight: 27
+weight: 31
 dau: 1
 wau: 2
 mau: 2
