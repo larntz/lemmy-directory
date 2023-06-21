@@ -3,7 +3,7 @@ title: "Plaza"
 name: "plaza"
 description: "Zerbait kontatu nahi duzu baina ez dakizu zein komunitateetan sartu dezakezun ez daukalako lotura zuzenik beste horien gai nagusiekin? Bada, hauxe da zure lekua edozer gauza kontatu nahi duen edozeinentzako plaza irekia, zabala, librea..."
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/plaza"
@@ -15,7 +15,7 @@ posts: 19
 comments: 22
 weight: 19
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_eus"

@@ -3,14 +3,14 @@ title: "Arkansas"
 name: "arkansas"
 description: "Arkansas?"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arkansas"
 host: lemmy.world
 lastmod: "2023-06-13 21:17:07"
 published: "2023-06-13 20:30:29"
-subscribers: 7
+subscribers: 10
 posts: 6
 comments: 6
 weight: 6

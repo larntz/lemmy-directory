@@ -3,7 +3,7 @@ title: "shimpost"
 name: "shimpost"
 description: "shimposting"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/shimpost"
@@ -14,9 +14,9 @@ subscribers: 4
 posts: 2
 comments: 0
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_blahaj_zone"
 tags: 

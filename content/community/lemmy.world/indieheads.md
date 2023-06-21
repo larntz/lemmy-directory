@@ -3,14 +3,14 @@ title: "indieheads"
 name: "indieheads"
 description: "To discuss independent music "
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/indieheads"
 host: lemmy.world
 lastmod: "2023-06-13 18:20:58"
 published: "2023-06-13 18:12:33"
-subscribers: 41
+subscribers: 45
 posts: 4
 comments: 8
 weight: 4

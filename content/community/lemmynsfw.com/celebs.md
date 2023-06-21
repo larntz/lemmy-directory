@@ -3,20 +3,20 @@ title: "Celebs"
 name: "celebs"
 description: "Images and GIFs of female celebrities!# **Rules**:- **The title must be the name of the celebrity**  (no comments, no numbers, no descriptions, etc.)- Nudes allowed (mark them NSFW)- Please post only famous ladies- Avoid screenshots with UI clutter**NOTES**: - If you are not logged in, you do not see NSFW posts (*and you are missing the spicy stuff*)- Make sure to enable *Show NSFW content* in your settings- Make sure to keep both *English* and *Undetermined* in your allowed languagesLet's keep this a beautiful community!"
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/celebs"
 host: lemmynsfw.com
 lastmod: "2023-06-17 04:47:04"
 published: "2023-06-11 16:50:44"
-subscribers: 1216
-posts: 599
-comments: 125
-weight: 599
-dau: 10
-wau: 59
-mau: 75
+subscribers: 1307
+posts: 654
+comments: 134
+weight: 654
+dau: 12
+wau: 63
+mau: 79
 instances:
 - "lemmynsfw_com"
 tags: 

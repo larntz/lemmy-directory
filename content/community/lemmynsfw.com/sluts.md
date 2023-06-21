@@ -3,14 +3,14 @@ title: "Sluts"
 name: "sluts"
 description: "All things Sluts. Posts must feature sluts, slutty activities, porn, pics etc. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sluts"
 host: lemmynsfw.com
 lastmod: "2023-06-14 23:41:31"
 published: "2023-06-14 10:21:54"
-subscribers: 230
+subscribers: 261
 posts: 20
 comments: 2
 weight: 20

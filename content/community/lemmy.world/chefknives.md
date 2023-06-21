@@ -3,7 +3,7 @@ title: "Chef Knives"
 name: "chefknives"
 description: "A community for all things chef knife"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chefknives"

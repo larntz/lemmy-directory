@@ -3,7 +3,7 @@ title: "Funny"
 name: "funny"
 description: "A place for all things funny.**No NSFW content!**"
 type: community
-date: "2023-06-20 11:37:42"
+date: "2023-06-21 14:54:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/funny"

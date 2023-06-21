@@ -3,19 +3,19 @@ title: "NetBSD"
 name: "netbsd"
 description: "Discussions on NetBSD"
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/netbsd"
 host: lemmy.sdf.org
 lastmod: "2023-06-10 00:04:27"
 published: "2023-06-09 23:58:06"
-subscribers: 48
+subscribers: 52
 posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_sdf_org"

@@ -3,7 +3,7 @@ title: "Copiers, Printers, MFP's"
 name: "copiers"
 description: "Love em or hate em, ask for help or vent here."
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/copiers"

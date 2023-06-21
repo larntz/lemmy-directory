@@ -3,7 +3,7 @@ title: "Tcl"
 name: "tcl"
 description: "A community for discussions on the Tcl programming language"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tcl"

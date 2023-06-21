@@ -3,7 +3,7 @@ title: "v2ray gigachads"
 name: "v2ray"
 description: "Place to share your v2ray configurations and help each other to build vpn via v2ray."
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/v2ray"

@@ -3,7 +3,7 @@ title: "Gin"
 name: "gin"
 description: "Discussion about that lovely distilled alcoholic drink"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gin"

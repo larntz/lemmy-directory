@@ -1,19 +1,19 @@
 ---
 title: "ButterflyWings" 
 name: "butterflywings"
-description: "A community to appreciate and share the beauty of labia wings - in all positions, from fully spread to shyly folded, and from all angles, frontal, back, underview and especially in action.Feel free to let me know if you want to help moderate here.**Rules:** - General lemmynsfw.com Rules - Self-Promotion is allowed! Mark Original Content with [OC] or [Original Content]r/ButterflyWings"
+description: "A community to appreciate and share the beauty of labia wings - in all positions, from fully spread to shyly folded, and from all angles, frontal, back, underview and especially in action.**Rules:** - General lemmynsfw.com Rules - Self-Promotion is allowed! Mark Original Content with [OC] or [Original Content]---Please make a request post to let mods know if you want to help moderate here.r/ButterflyWings---"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/butterflywings"
 host: lemmynsfw.com
-lastmod: "2023-06-18 14:22:35"
+lastmod: "2023-06-21 14:00:02"
 published: "2023-06-18 03:17:14"
-subscribers: 54
-posts: 3
-comments: 0
-weight: 3
+subscribers: 73
+posts: 7
+comments: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1

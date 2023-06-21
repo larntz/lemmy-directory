@@ -3,14 +3,14 @@ title: "Comic Books"
 name: "comicbooks"
 description: "A lemmy community for fans of comic books, graphic novels, and digital comics. Reddit refugees welcome!"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/comicbooks"
 host: lemmy.ca
 lastmod: "2023-06-16 13:50:58"
 published: "2023-06-13 13:35:01"
-subscribers: 12
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

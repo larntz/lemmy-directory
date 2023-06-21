@@ -3,7 +3,7 @@ title: "Cauliflower Alley: Pro Wrestling News & Stories"
 name: "caulifloweralley"
 description: "A place for discussion on pro wrestling, not limited to just AEW/WWE. Let's try and keep the Twitter posts and overall wrestling drama outta this.Let's focus less on the dumb shit and more about having fun while watching wrestling."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/caulifloweralley"

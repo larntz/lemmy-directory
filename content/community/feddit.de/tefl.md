@@ -3,7 +3,7 @@ title: "TEFL"
 name: "tefl"
 description: "A community to discuss all things related to the weird and wonderful w orld of TEFL."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tefl"

@@ -3,7 +3,7 @@ title: "Help me find"
 name: "helpmefind"
 description: "A community for finding things. post something you need help finding and help others find things."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/helpmefind"

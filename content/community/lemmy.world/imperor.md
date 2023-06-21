@@ -3,7 +3,7 @@ title: "The Imperium"
 name: "imperor"
 description: "Simply for my small YT channel and all that might have an interest in it or grandstrategy, 4X and TTRPG games."
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/imperor"

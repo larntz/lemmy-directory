@@ -3,7 +3,7 @@ title: "Lawrence, KS"
 name: "lawrence"
 description: "A place to discuss events, news, and things to do in and around Lawrence, KS.**[/c/Lawrence Posting/Commenting rules](https://old.reddit.com/r/Lawrence/about/rules/)*** Keep posts related to Lawrence* No politics* No hate speech* No self-promotion / advertisements* No classifieds* No personally identifiable information* No trolling or shitposts* No illegal drug advertising or requesting* No alt accounts, ban evasion, or rule evasion* No Looking for friends/groups threads[**LAWRENCE DISCORD**](https://discord.gg/7EDnbjB)"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lawrence"

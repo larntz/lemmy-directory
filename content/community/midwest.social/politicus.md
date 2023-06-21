@@ -3,20 +3,20 @@ title: "politicus"
 name: "politicus"
 description: "American Politics- No disinformation/trolling- Do not encourage, incite, or glorify violence of any sort- No harassment or abuse- Nazis are not welcome here- Putin sympathizers are not welcome here- The tolerant, open-minded and freedom-loving ARE welcome here. Glad to have you good people : )"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/politicus"
 host: midwest.social
 lastmod: "2023-06-12 20:06:02"
 published: "2023-06-10 02:37:03"
-subscribers: 66
-posts: 30
-comments: 31
-weight: 30
-dau: 5
+subscribers: 71
+posts: 31
+comments: 33
+weight: 31
+dau: 1
 wau: 12
-mau: 18
+mau: 20
 instances:
 - "midwest_social"
 tags: 

@@ -3,7 +3,7 @@ title: "Mets"
 name: "mets"
 description: "Let’s go Mets! Mets’ new home on the Fediverse. 1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mets"

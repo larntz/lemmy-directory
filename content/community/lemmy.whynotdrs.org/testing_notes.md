@@ -3,7 +3,7 @@ title: "Testing Notes"
 name: "testing_notes"
 description: "any notes for testingbeepboopgooppoopdooploopmoopnoopcoopzoop"
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/testing_notes"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_whynotdrs_org"

@@ -3,7 +3,7 @@ title: "Sneaker Deals"
 name: "sneakerdeals"
 description: "Share the latest and best deals on sneakers"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sneakerdeals"

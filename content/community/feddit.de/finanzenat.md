@@ -3,18 +3,18 @@ title: "FinanzenAT"
 name: "finanzenat"
 description: "Alles rund um Finanzthemen in Österreich."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/finanzenat"
 host: feddit.de
 lastmod: "2023-06-17 10:23:35"
 published: "2023-06-17 08:31:06"
-subscribers: 22
-posts: 1
+subscribers: 24
+posts: 2
 comments: 4
-weight: 1
-dau: 3
+weight: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "luckystarr"
 name: "luckystarr"
 description: "If it interests me, it should interest you.Anything I like and want to remember.Anything you unknowingly wanted to know for a long time."
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/luckystarr"
@@ -11,9 +11,9 @@ host: feddit.de
 lastmod: "2023-06-12 20:31:57"
 published: "2023-06-12 20:23:28"
 subscribers: 2
-posts: 6
+posts: 8
 comments: 0
-weight: 6
+weight: 8
 dau: 1
 wau: 1
 mau: 1

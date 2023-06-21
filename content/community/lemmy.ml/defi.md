@@ -3,7 +3,7 @@ title: "DeFi - Decentralized Finance"
 name: "defi"
 description: "Decentralized Finance (DeFi) is an ecosystem of cryptocurrencies and protocols providing access to financial services such as borrowing and lending in a non-custodial, permissionless manner. It democratizes finance by replacing centralized gatekeepers and intermediaries with peer-to-peer, distributed, open source software that anyone with an internet-connected device can use."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/defi"

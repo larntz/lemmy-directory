@@ -3,7 +3,7 @@ title: "Statistik"
 name: "statistik"
 description: ""
 type: community
-date: "2023-06-20 11:36:59"
+date: "2023-06-21 14:53:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/statistik"

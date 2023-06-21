@@ -3,20 +3,20 @@ title: "PORTUGAL CARALHO"
 name: "portugalcaralho"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/portugalcaralho"
 host: lemmy.pt
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 10:04:04"
-subscribers: 21
-posts: 2
-comments: 6
-weight: 2
-dau: 4
-wau: 5
-mau: 5
+subscribers: 24
+posts: 3
+comments: 8
+weight: 3
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "lemmy_pt"
 tags: 

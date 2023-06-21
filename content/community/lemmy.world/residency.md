@@ -3,7 +3,7 @@ title: "Residency"
 name: "residency"
 description: "Welcome to the Residency community on Lemmy.world of interns and residents in medical training programs around the world, sharing knowledge and trying to make it through together!(Standard disclaimer: no posts here should be construed as medical advice for a specific condition yada yada yada)**Rules:-Be respectful.-No What are my chances? or similar threads. No questions pertaining to medical school. No questions about applying to residency or medical school. This is a residency community. It's for residents. Not students.-No protected health information or personal information.-No questions about personal health.-No personal agendas, spam, or links to websites for brigading.-No targeted harassment against individuals or organizations.**"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/residency"

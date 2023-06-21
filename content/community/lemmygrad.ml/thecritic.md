@@ -3,7 +3,7 @@ title: "The Critic"
 name: "thecritic"
 description: "Welcome to Coming Attractions, now downloading to you at the speed of light!  Come on, come on, come on.  Oh, are my legs really that fat?"
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/thecritic"

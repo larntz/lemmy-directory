@@ -3,20 +3,20 @@ title: "Wrestling"
 name: "wrestling"
 description: "A place to chill and talk about professional wrestling; old and new. WWE, AEW and more!"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/wrestling"
 host: sopuli.xyz
 lastmod: "2023-04-25 03:41:30"
 published: "2023-04-24 19:42:17"
-subscribers: 62
-posts: 13
+subscribers: 63
+posts: 14
 comments: 10
-weight: 13
+weight: 14
 dau: 2
-wau: 5
-mau: 5
+wau: 6
+mau: 9
 instances:
 - "sopuli_xyz"
 tags: 

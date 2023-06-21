@@ -1,22 +1,22 @@
 ---
 title: "Albums" 
 name: "albums"
-description: "A community to discuss music albums. Please only post albums, general music discussion can be found in [c/music@emmy.world](https://lemmy.world/c/music)  [c/music@beehaw.org](https://lemmy.world/c/music@beehaw.org)  [c/music@lemmy.ml](https://lemmy.world/c/music@lemmy.ml)**Posting:**  Search before posting to see if an album has already been posted.*One album per post. Unless it's a combo *ie Speakerboxxx/The Love Below****Please include**  -year of original release in the title  -Image of the album  -Brief summary  -Link(s) to a where someone can listen [songwhip](https://songwhip.com/) is good for this)  -Link to purchase  such as  artist website, [discogs](https://www.discogs.com/) or digital only [bandcamp](https://bandcamp.com/)This place is meant for music lovers so tell us your opinions, tell us your most or least favorite track, link to articles,  post information about the making of the album or other interesting facts. Only released or soon to be released albums please.-"
+description: "A community to discuss music albums. Please only post albums, general music discussion can be found in [c/music@emmy.world](https://lemmy.world/c/music)  [c/music@beehaw.org](https://lemmy.world/c/music@beehaw.org)  [c/music@lemmy.ml](https://lemmy.world/c/music@lemmy.ml)**Posting:**  Search before posting to see if an album has already been posted.*One album per post. Unless it's a combo *ie Speakerboxxx/The Love Below****Please include**  -year of original release in the title  -Image of the album  -Brief summary  -Link(s) to a where someone can listen [songwhip](https://songwhip.com/) is good for this)  -Link to purchase  such as  artist website, [discogs](https://www.discogs.com/) or digital only [bandcamp](https://bandcamp.com/)This place is meant for music lovers discussions. So find the post with the album you want to discuss (or make it) and tell us your opinions, tell us your most or least favorite track, link to articles,  post information about the making of the album or other interesting facts. Only released or soon to be released albums please.-"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/albums"
 host: lemmy.world
-lastmod: "2023-06-14 15:54:57"
+lastmod: "2023-06-19 18:39:35"
 published: "2023-06-12 21:17:02"
-subscribers: 34
-posts: 8
-comments: 5
-weight: 8
+subscribers: 56
+posts: 11
+comments: 18
+weight: 11
 dau: 3
 wau: 4
-mau: 4
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

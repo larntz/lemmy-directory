@@ -3,7 +3,7 @@ title: "Catboys"
 name: "catboys"
 description: "Meow. Meow meow meow. Meow, meow meow meow meow, meow. Meow meow, meow meow meow. Meow meow. Meow meow, meow. Meow meow, meow meow. Meow meow meow. Meow meow meow meow. Meow.No NSFW, be good boy/girl/etc"
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/catboys"
@@ -15,7 +15,7 @@ posts: 5
 comments: 0
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "stars_leemoon_network"

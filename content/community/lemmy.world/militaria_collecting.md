@@ -3,14 +3,14 @@ title: "Militaria Collecting"
 name: "militaria_collecting"
 description: "A niche community for hobbyists of militaria collecting. **ALL ERAS**"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/militaria_collecting"
 host: lemmy.world
 lastmod: "2023-06-12 15:24:24"
 published: "2023-06-12 15:23:34"
-subscribers: 10
+subscribers: 11
 posts: 6
 comments: 4
 weight: 6

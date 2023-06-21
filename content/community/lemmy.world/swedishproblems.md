@@ -3,14 +3,14 @@ title: "Swedish Problems"
 name: "swedishproblems"
 description: "For problems and awkward situations that are typically Swedish."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swedishproblems"
 host: lemmy.world
 lastmod: "2023-06-13 10:00:21"
 published: "2023-06-13 07:27:38"
-subscribers: 34
+subscribers: 36
 posts: 1
 comments: 4
 weight: 1

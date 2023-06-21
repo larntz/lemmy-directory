@@ -3,7 +3,7 @@ title: "The Three Kingdoms 三國"
 name: "threekingdoms"
 description: "the historical era of the Three Kingdoms, and the many novels, movies, TV series, and video games based upon it"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/threekingdoms"

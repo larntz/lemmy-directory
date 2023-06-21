@@ -3,14 +3,14 @@ title: "Danganronpa"
 name: "danganronpa"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/danganronpa"
 host: lemmy.world
 lastmod: "2023-06-17 03:06:28"
 published: "2023-06-11 22:15:46"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

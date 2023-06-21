@@ -3,7 +3,7 @@ title: "Crypto - Umee"
 name: "umee"
 description: "Simplest way to start your DeFi experience for staking, rates, and interoperable solutions across blockchains.Umee is a layer one blockchain for cross chain communication and interoperability, built on the Cosmos SDK and powered by Tendermint Consensus along with a self sovereign validator network.Interoperability is achieved using Inter-Blockchain Communication protocol (IBC), Gravity bridge, and decentralized infrastructure for creating a universal cross chain DeFi hub toward expanding the crypto ecosystem.A DeFi platform designed towards integrating with money legos, that interconnects crypto markets across networks, allows for the development of open finance innovation including Multi-chain Staking, Interchain Leverage, and Cross Chain Interest rates."
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/umee"

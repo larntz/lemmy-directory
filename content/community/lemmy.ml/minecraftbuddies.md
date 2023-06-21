@@ -3,7 +3,7 @@ title: "Minecraft Buddies"
 name: "minecraftbuddies"
 description: "Find people to play Minecraft with here.# Rules1. No harassment (includes nationalism, racism, transphobia etc.). Be nice or don't expect others to be nice to you.0. No politics discussions. This is not the community for discussing politics, this is a community for finding Minecraft buddies."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraftbuddies"

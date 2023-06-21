@@ -3,7 +3,7 @@ title: "Lemmy.graphics"
 name: "lemmygraphics"
 description: "A general-purpose community for the Lemmy.Graphics instance."
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/lemmygraphics"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_graphics"

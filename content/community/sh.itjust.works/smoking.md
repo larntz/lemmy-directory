@@ -3,7 +3,7 @@ title: "smoking"
 name: "smoking"
 description: "A place for all kinds of smoked foods, smokers and techniques. Stick, pellet, briquette and everything in between are welcome. "
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/smoking"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "sh_itjust_works"

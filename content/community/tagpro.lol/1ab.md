@@ -3,7 +3,7 @@ title: "1 Angry Ball"
 name: "1ab"
 description: "Lorum ipsum dolor etc. etc."
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://tagpro.lol/c/1ab"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "tagpro_lol"

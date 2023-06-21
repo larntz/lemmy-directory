@@ -3,7 +3,7 @@ title: "vinquiries"
 name: "vinquiries"
 description: "Vietnam is notoriously opaque to outsiders. This is a community where you can ask questions, and hopefully get answers.For example, where to buy a thing, how to attend a wedding, living and working here, what food to eat, and whatever else you might want to know. Don't ask how to commit crimes though. That will get you banned."
 type: community
-date: "2023-06-19 17:59:14"
+date: "2023-06-21 14:54:21"
 draft: false
 nsfw: false
 actor_id: "https://voltage.vn/c/vinquiries"

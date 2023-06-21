@@ -3,14 +3,14 @@ title: "WorldWhisky"
 name: "worldwhisky"
 description: "World whisky reviews. Non-Scotch and Non-American Whiskies only please!"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/worldwhisky"
 host: feddit.de
 lastmod: "2023-06-12 10:41:20"
 published: "2023-06-08 20:23:06"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

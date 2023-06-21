@@ -3,17 +3,17 @@ title: "Occult, Esoteric, Magick, and Paranormal"
 name: "occult"
 description: "Discussion of weird goings-on"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/occult"
 host: lemmy.world
 lastmod: "2023-06-11 06:54:55"
 published: "2023-06-11 05:37:32"
-subscribers: 76
-posts: 5
+subscribers: 78
+posts: 6
 comments: 0
-weight: 5
+weight: 6
 dau: 1
 wau: 1
 mau: 1

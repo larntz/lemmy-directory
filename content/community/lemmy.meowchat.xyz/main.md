@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.meowchat.xyz/c/main"

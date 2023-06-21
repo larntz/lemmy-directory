@@ -3,7 +3,7 @@ title: "Öffentlicher Dienst"
 name: "oeffentlicherdienst"
 description: "Alles rund um das Arbeitsleben und mehr im öffentlichen Dienst und Beamtentum"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/oeffentlicherdienst"

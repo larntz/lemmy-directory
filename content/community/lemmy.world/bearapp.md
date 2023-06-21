@@ -3,7 +3,7 @@ title: "Bear Notes"
 name: "bearapp"
 description: "Community for r/bearapp migrators"
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bearapp"

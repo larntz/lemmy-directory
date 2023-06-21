@@ -3,7 +3,7 @@ title: "random 2"
 name: "random2"
 description: "Random things, I suppose..."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/random2"

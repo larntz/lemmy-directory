@@ -3,7 +3,7 @@ title: "Parades!"
 name: "parades"
 description: "A community that scratches that boot-stomping itch you may have! It could also be a civilian parade as well if you like.Rules-Standard don't be a little shit rules.-Parades of AES, Uncritical support, or Critical Support countries only.-No parade music videos,  that fits for a music community! (unless its to hell march, then its okay)"
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/parades"

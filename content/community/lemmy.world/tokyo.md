@@ -3,7 +3,7 @@ title: "Tokyo"
 name: "tokyo"
 description: "All things Tokyo"
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tokyo"

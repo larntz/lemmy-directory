@@ -3,14 +3,14 @@ title: "Taylor Swift"
 name: "taylorswift"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/taylorswift"
 host: lemmy.world
 lastmod: "2023-06-09 20:39:01"
 published: "2023-06-09 20:33:40"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

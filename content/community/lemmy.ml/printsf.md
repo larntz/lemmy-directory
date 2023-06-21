@@ -3,7 +3,7 @@ title: "printSF"
 name: "printsf"
 description: "For discussion of written speculative fiction. A blatant ripoff of r/printSF."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/printsf"
@@ -14,9 +14,9 @@ subscribers: 36
 posts: 5
 comments: 36
 weight: 5
-dau: 1
-wau: 5
-mau: 5
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 

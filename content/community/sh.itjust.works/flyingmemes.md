@@ -3,7 +3,7 @@ title: "FlyingMemes"
 name: "flyingmemes"
 description: "A place to post dank meme's about flying aircraft and whirlybirds."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/flyingmemes"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "sh_itjust_works"
 tags: 

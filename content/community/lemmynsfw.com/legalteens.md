@@ -3,14 +3,14 @@ title: "Legal Teens"
 name: "legalteens"
 description: "Alternative to r/legalteens. Posts must feature legal teens. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/legalteens"
 host: lemmynsfw.com
 lastmod: "2023-06-14 23:35:01"
 published: "2023-06-14 10:19:53"
-subscribers: 300
+subscribers: 323
 posts: 12
 comments: 0
 weight: 12

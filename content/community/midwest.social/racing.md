@@ -3,7 +3,7 @@ title: "Racing"
 name: "racing"
 description: "Welcome to !racing@midwest.social The home of all things racing. Rules: Be respectful; No hate speech or bigotry;No bullying;Keep things civil"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racing"

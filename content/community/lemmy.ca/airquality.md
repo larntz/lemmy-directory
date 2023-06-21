@@ -3,7 +3,7 @@ title: "Air Quality"
 name: "airquality"
 description: "A community for all things air quality! "
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/airquality"

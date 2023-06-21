@@ -3,7 +3,7 @@ title: "lemmy.gregw.us Meta"
 name: "meta"
 description: "Discussion, news, updates about this particular lemmy instance."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gregw.us/c/meta"

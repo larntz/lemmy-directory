@@ -3,14 +3,14 @@ title: "Marvel Comics"
 name: "marvelcomics"
 description: "A community to discuss current and past Marvel Comics. This place is primarily for the comics please keep Marvel Cinematic Universe(MCU) discussions to the appropriate community. "
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvelcomics"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 04:17:44"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

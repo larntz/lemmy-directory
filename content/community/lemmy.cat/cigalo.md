@@ -3,7 +3,7 @@ title: "Cigaló"
 name: "cigalo"
 description: "Cigaló is an open source drinking game application.Features:- Open Source- Support for multiple languages- Material 3 designUpcoming:- Several games modes"
 type: community
-date: "2023-06-20 11:36:53"
+date: "2023-06-21 14:53:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/cigalo"

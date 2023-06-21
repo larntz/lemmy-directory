@@ -3,14 +3,14 @@ title: "Deutsche Dinge (auf Deutsch)."
 name: "deutschland"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deutschland"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-05-01 10:06:16"
-subscribers: 34
+subscribers: 35
 posts: 2
 comments: 1
 weight: 2

@@ -3,7 +3,7 @@ title: "va_guns"
 name: "va_guns"
 description: "Community for discussion of firearms and firearms ownership in Virginia"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/va_guns"

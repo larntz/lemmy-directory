@@ -3,7 +3,7 @@ title: "Distributed Control Systems"
 name: "dcs"
 description: "This is a community for techs and engineers that work with any number of [DCS (Distributed Controls Systems)](https://en.wikipedia.org/wiki/Distributed_control_system) to seek configuration and programming help, share tips and tricks, complain and bemoan the behemoths that create these systems or just chit chat with folks that feel your pain.Live chat on matrix[#dcs:matrix.org](https://matrix.to/#/#dcs:matrix.org)"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dcs"

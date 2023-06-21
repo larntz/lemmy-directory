@@ -3,7 +3,7 @@ title: "Apple Arcade"
 name: "applearcade"
 description: "An unofficial community to discuss Apple Arcade games and the service as a whole."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/applearcade"

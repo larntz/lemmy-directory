@@ -3,7 +3,7 @@ title: "Avisos"
 name: "avisos"
 description: "Comunidade reservada para avisos do [fediverso.gal](https://foros.fediverso.gal)"
 type: community
-date: "2023-06-20 11:36:59"
+date: "2023-06-21 14:53:47"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/avisos"

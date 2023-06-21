@@ -3,7 +3,7 @@ title: "I Wish - The Monkey's Paw, Evil Genie, Crossroads Deals"
 name: "wish"
 description: "The Monkey's Paw making your dreams come true, but in a way that makes you regret it.Evil Genie following the letter, but not the spirit of your wish.Crossroads Deals granting you wonders... at an equivalent price.Say I wish followed by a prompt and watch your life crumble."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wish"

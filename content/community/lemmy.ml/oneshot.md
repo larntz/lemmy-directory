@@ -3,7 +3,7 @@ title: "Oneshot"
 name: "oneshot"
 description: "A community for the videogame OneshotRules:1. No NSFW! (especially Niko). Such posts will be removed"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oneshot"

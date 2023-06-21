@@ -3,7 +3,7 @@ title: "University of Arizona"
 name: "uofarizona"
 description: "Welcome Wildcats!"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:15"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/uofarizona"

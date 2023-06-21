@@ -3,7 +3,7 @@ title: "wine (Previously /r/wine)"
 name: "wine"
 description: "Not whatever the linux thing is, the stuff you drink."
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/wine"

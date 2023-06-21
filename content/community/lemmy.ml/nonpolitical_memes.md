@@ -3,7 +3,7 @@ title: "Non-Political Memes"
 name: "nonpolitical_memes"
 description: "Funny memes. No politics. Rules:1) Post memes.2) They shouldn't be political. Basically, memes here should appeal to people regardless of their political views.3) Be nice."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nonpolitical_memes"

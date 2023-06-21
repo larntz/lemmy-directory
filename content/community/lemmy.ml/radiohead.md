@@ -3,7 +3,7 @@ title: "Radiohead"
 name: "radiohead"
 description: "A community dedicated to the band Radiohead."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radiohead"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

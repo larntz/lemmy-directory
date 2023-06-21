@@ -3,7 +3,7 @@ title: "Nirvana"
 name: "nirvana"
 description: "A community dedicated to preserving the history and legacy of the band [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)). "
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nirvana"

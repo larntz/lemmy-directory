@@ -3,14 +3,14 @@ title: "You Need A Budget"
 name: "ynab"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ynab"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 00:55:57"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

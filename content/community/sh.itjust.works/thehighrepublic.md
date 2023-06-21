@@ -3,14 +3,14 @@ title: "Star Wars - The High Republic"
 name: "thehighrepublic"
 description: "A community to share and discuss news, theories, artwork, and memes related to the High Republic era of the Star Wars universe."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/thehighrepublic"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 12:35:27"
-subscribers: 18
+subscribers: 19
 posts: 2
 comments: 0
 weight: 2

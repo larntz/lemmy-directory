@@ -3,14 +3,14 @@ title: "Algeria"
 name: "algeria"
 description: "posts must be related to Algeria. (no low quality)"
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/algeria"
 host: lemmy.ml
 lastmod: "2022-12-28 13:02:33"
 published: "2022-12-28 10:15:26"
-subscribers: 3
+subscribers: 4
 posts: 3
 comments: 0
 weight: 3

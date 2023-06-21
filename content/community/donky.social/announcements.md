@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements for this situation of this instance"
 type: community
-date: "2023-06-20 11:36:51"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://donky.social/c/announcements"

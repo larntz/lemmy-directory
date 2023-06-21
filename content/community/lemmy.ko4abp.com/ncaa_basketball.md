@@ -3,7 +3,7 @@ title: "NCAA Basketball"
 name: "ncaa_basketball"
 description: "A place to talk about NCAA Basketball"
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ko4abp.com/c/ncaa_basketball"
@@ -15,8 +15,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ko4abp_com"
 tags: 

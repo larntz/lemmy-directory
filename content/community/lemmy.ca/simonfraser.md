@@ -3,7 +3,7 @@ title: "Simon Fraser University - Engaging the World"
 name: "simonfraser"
 description: "The subreddit for Simon Fraser University in Vancouver, BC. ----------------------------------------------------------- Please direct all incoming posts about admissions, transfers, and basic course questions to the stickied megathread. ----------------------------------------------------------- Our subreddit icon was designed by @Pyralsprite#8389 on Discord! (Join us: https://discord.gg/ZyEWFC4)"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/simonfraser"

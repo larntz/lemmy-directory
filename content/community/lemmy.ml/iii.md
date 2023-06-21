@@ -3,14 +3,14 @@ title: "iOS, iPadOS, and Other Apple Platforms"
 name: "iii"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iii"
 host: lemmy.ml
 lastmod: "2023-05-13 23:58:37"
 published: "2023-05-13 23:50:01"
-subscribers: 42
+subscribers: 43
 posts: 3
 comments: 0
 weight: 3

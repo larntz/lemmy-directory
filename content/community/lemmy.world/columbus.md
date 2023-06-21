@@ -3,7 +3,7 @@ title: "columbus "
 name: "columbus"
 description: "Thoughts and questions about Columbus, Ohio"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/columbus"
@@ -15,7 +15,7 @@ posts: 4
 comments: 4
 weight: 4
 dau: 1
-wau: 4
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

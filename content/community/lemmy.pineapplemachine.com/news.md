@@ -3,14 +3,14 @@ title: "news"
 name: "news"
 description: "A place for sharing and discussing news from around the world."
 type: community
-date: "2023-06-20 11:37:07"
+date: "2023-06-21 14:53:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/news"
 host: lemmy.pineapplemachine.com
 lastmod: "2023-06-05 09:26:33"
 published: "2023-06-05 08:55:42"
-subscribers: 52
+subscribers: 53
 posts: 6
 comments: 2
 weight: 6

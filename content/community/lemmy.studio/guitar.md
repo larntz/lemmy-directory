@@ -3,14 +3,14 @@ title: "Guitars and more"
 name: "guitar"
 description: "Community devoted to the exchange of guitar related information."
 type: community
-date: "2023-06-20 11:37:07"
+date: "2023-06-21 14:53:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/guitar"
 host: lemmy.studio
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 03:49:14"
-subscribers: 82
+subscribers: 87
 posts: 1
 comments: 14
 weight: 1

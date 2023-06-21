@@ -3,14 +3,14 @@ title: "Nintendo Switch"
 name: "nintendoswitch"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nintendoswitch"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-02-07 22:00:13"
-subscribers: 131
+subscribers: 137
 posts: 1
 comments: 4
 weight: 1

@@ -3,7 +3,7 @@ title: "Lagoloaf"
 name: "lagoloaf"
 description: "Got a bunny? Does it loaf? Take a pic, share it here.Banner Art & Icons by [/u/_pank0](https://www.reddit.com/u/_pank0)RULES* be nice (don't be nasty)* be cool (ensure the subject of your content is a bunny)* fresh loaves only (original and new content preferred)* take it easy (enjoy)Lemmy.world: [!lagoloaf@lemmy.world](/c/lagoloaf@lemmy.world)Originally from [r/Lagoloaf](https://old.reddit.com/r/lagoloaf/) on reddit."
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lagoloaf"

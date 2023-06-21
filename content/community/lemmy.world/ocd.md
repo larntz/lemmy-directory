@@ -3,7 +3,7 @@ title: "OCD"
 name: "ocd"
 description: "A community for discussion and memes related to OCDRules:- R1: Be respectful: no insults; no homophobia, transphobia, racism, or any other kinds of bigotry- R2: No spam, advertising or self-promotion- R3: No porn- R4: Keep posts relevant to OCD  - R4a: No it's so satisfying! kind of posts or posts about things being out of place"
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ocd"

@@ -3,7 +3,7 @@ title: "Звёздочки"
 name: "lmn"
 description: "Мы заслужили сиять! Группа [Лимуун Нетворк ](https://leemoon.network)сообщества специально для лемми. Кучно общаемся, обсуждаем всё и вся, без какой-то конкретной тематики."
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/lmn"

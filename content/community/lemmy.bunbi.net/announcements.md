@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "A community for announcements and information on bunbi.net | Probably going to be empty lol"
 type: community
-date: "2023-06-20 11:37:31"
+date: "2023-06-21 14:54:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bunbi.net/c/announcements"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_bunbi_net"

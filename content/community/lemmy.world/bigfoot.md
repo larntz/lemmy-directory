@@ -3,14 +3,14 @@ title: "bigfoot"
 name: "bigfoot"
 description: "Community for Bigfoot"
 type: community
-date: "2023-06-16 11:07:18"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bigfoot"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 19:15:06"
-subscribers: 4
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "FediTown"
 name: "feditown"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://feditown.com/c/feditown"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feditown_com"

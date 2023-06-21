@@ -3,7 +3,7 @@ title: "Undertale! [RU]"
 name: "ruundertale"
 description: "**Сообщество русскоязычных фанатов Undertale, и АU (Alternative universe) по нему!**"
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/ruundertale"
@@ -15,7 +15,7 @@ posts: 7
 comments: 1
 weight: 7
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "stars_leemoon_network"

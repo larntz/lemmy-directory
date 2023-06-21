@@ -3,7 +3,7 @@ title: "RSS - Really Simple Syndication"
 name: "rss"
 description: "You can share with other RSS system users news and tips. Please use English."
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rss"
@@ -16,7 +16,7 @@ comments: 23
 weight: 17
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

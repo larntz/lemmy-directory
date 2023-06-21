@@ -3,7 +3,7 @@ title: "🎧てーへんオーディオ"
 name: "bottom_audio"
 description: "https://earphones.juggler.jp/ の記事を登録する予定"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/bottom_audio"

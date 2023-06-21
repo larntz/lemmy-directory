@@ -3,7 +3,7 @@ title: "Autistic Adults"
 name: "autistic_adults"
 description: "Autistic Adults - focused on those age 23 and older where the individual person has left the organized structure of school or military and is dealing with autism in adulthood. Autism Spectrum Disorder (ASD) in adulthood."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/autistic_adults"

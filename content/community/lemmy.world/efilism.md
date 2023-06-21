@@ -3,7 +3,7 @@ title: "Efilism"
 name: "efilism"
 description: "EFIL is Life spelled backwards. It is a form of Antinatalism that extends to all sentient life, created by the Youtube based Philosopher Inmendham in 2011. EFILism is the belief that DNA, and the suffering of sentient consciousness, is the greatest problem in the universe."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/efilism"

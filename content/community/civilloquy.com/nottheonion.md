@@ -3,7 +3,7 @@ title: "Not the Onion"
 name: "nottheonion"
 description: "For news articles which seem so much like satire that you're surprised they're not from [The Onion](https://www.theonion.com/)."
 type: community
-date: "2023-06-20 11:37:10"
+date: "2023-06-21 14:53:57"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/nottheonion"

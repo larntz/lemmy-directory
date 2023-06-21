@@ -3,7 +3,7 @@ title: "Zprávy a noviny"
 name: "zpravy"
 description: "Vaše č. 1 zastávka pro články místní i ze světa**Pravidla**- Název příspěvku (nikoli článku) musí být česky- Pokuste se přidat nějaký výtažek ze článku "
 type: community
-date: "2023-06-20 11:37:40"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/zpravy"

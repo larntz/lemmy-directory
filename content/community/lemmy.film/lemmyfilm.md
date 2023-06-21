@@ -3,14 +3,14 @@ title: "Lemmy.film Meta"
 name: "lemmyfilm"
 description: "Meta discussion about this Lemmy instance!"
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/lemmyfilm"
 host: lemmy.film
 lastmod: "2023-06-10 17:06:19"
 published: "2023-06-09 15:27:02"
-subscribers: 28
+subscribers: 31
 posts: 8
 comments: 14
 weight: 8

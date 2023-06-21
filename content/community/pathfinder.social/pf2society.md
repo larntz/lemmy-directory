@@ -3,14 +3,14 @@ title: "Pathfinder 2e Society"
 name: "pf2society"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2society"
 host: pathfinder.social
 lastmod: "2023-06-04 17:03:46"
 published: "2023-06-04 17:03:10"
-subscribers: 54
+subscribers: 57
 posts: 3
 comments: 10
 weight: 3

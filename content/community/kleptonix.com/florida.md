@@ -3,7 +3,7 @@ title: "Florida"
 name: "florida"
 description: "Florida-specific news, announcements, and discussion.Banner is of Hallandale Beach, FL."
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:21"
 draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/florida"

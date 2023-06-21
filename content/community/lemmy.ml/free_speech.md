@@ -3,7 +3,7 @@ title: "Free Speech"
 name: "free_speech"
 description: "Post here for discussions about free speech, press freedoms etc.. or share related articles and links"
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/free_speech"

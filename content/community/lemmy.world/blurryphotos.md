@@ -3,7 +3,7 @@ title: "Blurry Photos"
 name: "blurryphotos"
 description: "A community for blurry photos. Nothing sharp here.  Photo could have originally been blurry, or post-processed. No NSFW posts."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blurryphotos"
@@ -15,7 +15,7 @@ posts: 16
 comments: 6
 weight: 16
 dau: 1
-wau: 6
+wau: 5
 mau: 6
 instances:
 - "lemmy_world"

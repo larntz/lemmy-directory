@@ -3,7 +3,7 @@ title: "finance@oceanbreeze.earth"
 name: "finance"
 description: "financial understanding"
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/finance"

@@ -3,7 +3,7 @@ title: "Cornerstoners"
 name: "cornerstoners"
 description: "**Official Community of Students Attending Cornerstone University**Talk about the greatest years of your life or problems you're facing while attending or graduating CornerstonePosts made here will not be filtered or deleted unless it doesn't follow Lemmy's TOS, Community completely ran by graduates. "
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cornerstoners"

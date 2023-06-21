@@ -3,7 +3,7 @@ title: "Army"
 name: "army"
 description: "The worlds official un-official army community"
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/army"

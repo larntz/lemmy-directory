@@ -3,7 +3,7 @@ title: "Stalin"
 name: "stalin"
 description: "A sub for Stalin pictures and his works."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stalin"

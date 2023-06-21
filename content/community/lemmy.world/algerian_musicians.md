@@ -3,7 +3,7 @@ title: "Algerian Musicians"
 name: "algerian_musicians"
 description: "A Lemmy Community made by and for Algerian Musicians of all genres."
 type: community
-date: "2023-06-19 18:00:47"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/algerian_musicians"

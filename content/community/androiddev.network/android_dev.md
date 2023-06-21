@@ -3,14 +3,14 @@ title: "Android Dev"
 name: "android_dev"
 description: "Welcome to the new android development community"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://androiddev.network/c/android_dev"
 host: androiddev.network
 lastmod: "2023-06-15 00:55:10"
 published: "2023-06-14 23:41:03"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 4
 weight: 2

@@ -3,7 +3,7 @@ title: "Limited Government"
 name: "limitedgoverment"
 description: "Government has grown too big. - It tries to do too much, but does nothing well. - It costs too much placing undue burden on those it is meant to serve. - The public servants it employs have elevated themselves to our lord and master.- it has no moral compass, it is out of control. It is time to limit government to:- the things only it can do, and- only those things it has proven it can do well in a cost efficient manner. "
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/limitedgoverment"

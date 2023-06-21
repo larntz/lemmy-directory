@@ -3,7 +3,7 @@ title: "Israel"
 name: "israel"
 description: "🇮🇱 All about the little state in the Middle East. (German, English, Hebrew,…..) 🇮🇱"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/israel"

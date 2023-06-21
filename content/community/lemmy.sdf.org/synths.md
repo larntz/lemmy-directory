@@ -3,14 +3,14 @@ title: "synths"
 name: "synths"
 description: "Discussions on all things synthesizers"
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/synths"
 host: lemmy.sdf.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 15:32:41"
-subscribers: 35
+subscribers: 36
 posts: 2
 comments: 2
 weight: 2

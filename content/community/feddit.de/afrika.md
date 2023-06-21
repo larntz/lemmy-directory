@@ -3,7 +3,7 @@ title: "Afrika"
 name: "afrika"
 description: "Alles rund um Afrika🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/afrika"

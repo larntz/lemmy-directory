@@ -3,14 +3,14 @@ title: "A home on the fediverse for espresso people!"
 name: "espresso"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/espresso"
 host: lemmy.ml
 lastmod: "2023-06-11 20:02:54"
 published: "2020-06-28 01:15:26"
-subscribers: 25
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Spirit Airlines Group Travel"
 name: "allegiantflyfares"
 description: "Are you a solo traveller exploring the unbeaten path of life? But have you at any point thought about travelling in a group with a bunch of strangers or your pal squads? Planning a group travel with a low budget to your dream destination sounds quite fantastic – don’t you think so? Whether it’s a holiday trip with friends, business colleagues, or family. The hefty airfares are the only things that stand between your journey. But with [Spirit Airlines Group Travel](https://www.farespirit.com/blog/spirit-airlines-group-travel/) exceptional deals, travellers can save lots of bucks while flying in a group. "
 type: community
-date: "2023-06-20 11:36:57"
+date: "2023-06-21 14:53:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/allegiantflyfares"

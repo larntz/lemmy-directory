@@ -3,7 +3,7 @@ title: "Boulder, Colorado"
 name: "boulder"
 description: "Rules:1. Be polite2. Keep it local3. See number 1"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boulder"
@@ -15,7 +15,7 @@ posts: 8
 comments: 5
 weight: 8
 dau: 2
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_ml"

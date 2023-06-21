@@ -3,7 +3,7 @@ title: "𝘗𝘜𝘛𝘈 𝘗𝘖𝘓𝘐𝘊𝘐𝘈 𝘋𝘌 𝘔𝘐𝘌𝘙�
 name: "putapoliciademierda"
 description: "*(en construcción) / (in construction)***ES- Comunidad para exponer brutalidad policial****EN- community to expose police brutality**#putapoliciademierda #policebrutality #abusopolicial #policeviolence #acab "
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/putapoliciademierda"

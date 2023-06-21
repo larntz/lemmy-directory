@@ -3,14 +3,14 @@ title: "We Are The Music Makers"
 name: "wearethemusicmakers"
 description: "WeAreTheMusicMakers (WatMM) is a community for hobbyists, professional musicians, and enthusiasts to discuss making music. Welcome and enjoy the community!"
 type: community
-date: "2023-06-16 11:07:17"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wearethemusicmakers"
 host: lemmy.world
 lastmod: "2023-06-14 17:26:53"
 published: "2023-06-12 11:03:38"
-subscribers: 12
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

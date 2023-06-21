@@ -3,7 +3,7 @@ title: "信息查询"
 name: "info"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/info"

@@ -3,7 +3,7 @@ title: "Seize the Gains of Production"
 name: "swoletariat"
 description: "For exercise tips, progress pictures, memes, etc.ResourcesJeff Nippard's Technique Tuesdayshttps://www.youtube.com/playlist?list=PLp4G6oBUcv8yGQifkb4p_ZOoACPnYslx9The Fitness Wikihttps://thefitness.wiki/"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swoletariat"

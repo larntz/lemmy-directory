@@ -3,14 +3,14 @@ title: "Fediversul Românesc"
 name: "main"
 description: "The Default Community> Fediversul Românesc"
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:24"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/main"
 host: fediverse.ro
 lastmod: "2023-01-28 19:33:35"
 published: "2022-12-29 13:20:37"
-subscribers: 15
+subscribers: 16
 posts: 13
 comments: 4
 weight: 13

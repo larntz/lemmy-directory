@@ -3,7 +3,7 @@ title: "XMR Trader"
 name: "xmrtrader"
 description: "A Monero trading community. Discuss price movements, market dynamics, news, and trades involving Monero here."
 type: community
-date: "2023-06-20 11:37:02"
+date: "2023-06-21 14:53:49"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/xmrtrader"

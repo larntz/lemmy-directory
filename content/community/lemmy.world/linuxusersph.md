@@ -3,7 +3,7 @@ title: "LinuxUsersPH"
 name: "linuxusersph"
 description: "A community para sa mga Filipino Linux users, mapa-server o mapa-desktop man."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linuxusersph"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

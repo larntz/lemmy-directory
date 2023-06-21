@@ -3,7 +3,7 @@ title: "Sultans of Stats"
 name: "sultansofstats"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/sultansofstats"

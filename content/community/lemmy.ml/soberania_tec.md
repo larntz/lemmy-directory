@@ -3,7 +3,7 @@ title: "Soberanía Tecnológica"
 name: "soberania_tec"
 description: "Soberanía Tecnológica"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soberania_tec"

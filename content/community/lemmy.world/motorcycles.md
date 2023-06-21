@@ -3,20 +3,20 @@ title: "Motorcycles"
 name: "motorcycles"
 description: "Here we discuss everything related to riding, maintenance and gear."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motorcycles"
 host: lemmy.world
 lastmod: "2023-06-15 17:02:52"
 published: "2023-06-10 13:14:22"
-subscribers: 383
-posts: 23
-comments: 134
-weight: 23
+subscribers: 447
+posts: 30
+comments: 139
+weight: 30
 dau: 6
-wau: 30
-mau: 38
+wau: 32
+mau: 44
 instances:
 - "lemmy_world"
 tags: 

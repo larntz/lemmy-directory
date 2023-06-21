@@ -3,14 +3,14 @@ title: "Australian Memes"
 name: "ausmemes"
 description: "The Australia Memes community. Just waiting for a mate."
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ausmemes"
 host: lemmy.ml
 lastmod: "2023-06-11 13:29:12"
 published: "2023-06-11 13:28:47"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

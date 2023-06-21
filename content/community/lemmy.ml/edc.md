@@ -3,14 +3,14 @@ title: "Every Day Carry"
 name: "edc"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edc"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-02 02:13:59"
-subscribers: 27
+subscribers: 28
 posts: 2
 comments: 5
 weight: 2

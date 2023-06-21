@@ -3,7 +3,7 @@ title: "Jugendbeteiligung"
 name: "jugendbeteiligung"
 description: "Unter **Jugendbeteiligung** oder **Jugendpartizipation** wird die aktive Teilhabe von Kindern und jungen Menschen an Planungs- und Entscheidungsprozessen des öffentlichen Lebens, in Schule, Vereinen, oder verschiedenen politischen Ebenen, bzw. am Familienleben verstanden."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/jugendbeteiligung"

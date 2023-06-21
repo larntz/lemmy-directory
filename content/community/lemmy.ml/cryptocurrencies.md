@@ -3,14 +3,14 @@ title: "Cryptocurrency news and discussions"
 name: "cryptocurrencies"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptocurrencies"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-01-18 02:11:04"
-subscribers: 113
+subscribers: 115
 posts: 11
 comments: 1
 weight: 11

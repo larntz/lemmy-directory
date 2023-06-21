@@ -3,7 +3,7 @@ title: "Westbank"
 name: "westbank"
 description: "A community for anything related to the neighbourhood of Westbank within West Kelowna BC, and more generally the Central Okanagan.This community is locked in favour of West Kelowna. Please make all posts there."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/westbank"

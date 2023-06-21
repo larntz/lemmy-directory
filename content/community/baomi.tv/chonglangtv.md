@@ -3,7 +3,7 @@ title: "冲浪TV"
 name: "chonglangtv"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:02"
+date: "2023-06-21 14:53:49"
 draft: false
 nsfw: false
 actor_id: "https://baomi.tv/c/chonglangtv"
@@ -14,7 +14,7 @@ subscribers: 35
 posts: 192
 comments: 133
 weight: 192
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

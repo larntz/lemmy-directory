@@ -3,7 +3,7 @@ title: "World News"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://drak.gg/c/worldnews"

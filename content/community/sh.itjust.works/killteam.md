@@ -3,14 +3,14 @@ title: "KillTeam"
 name: "killteam"
 description: "A community for KillTeam 2021 and all related content. Minis, rules questions, news, strategies, tools, battle reports, etc."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/killteam"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 01:00:45"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 2
 weight: 1

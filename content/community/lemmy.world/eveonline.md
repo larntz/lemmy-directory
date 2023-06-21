@@ -3,19 +3,19 @@ title: "EVE Online"
 name: "eveonline"
 description: "A place to discuss all things related to EVE Online, a space MMORPGhttps://www.eveonline.com/*The EVE Online logo and artwork is used with limited permission of CCP Games. No official affiliation or endorsement by CCP Games is stated or implied.*"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eveonline"
 host: lemmy.world
 lastmod: "2023-06-11 20:19:36"
 published: "2023-06-11 19:27:42"
-subscribers: 51
+subscribers: 58
 posts: 10
 comments: 22
 weight: 10
-dau: 4
-wau: 8
+dau: 1
+wau: 7
 mau: 8
 instances:
 - "lemmy_world"

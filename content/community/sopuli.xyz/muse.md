@@ -3,7 +3,7 @@ title: "Muse"
 name: "muse"
 description: "Welcome to c/muse! A community for musers of all age and gender! Feel free to discuss anything regarding Muse, Matt, Chris or Dom!The rules are simple:**Be respectful!** Music is subjective, as is Muse, and everyone's opinions are equally valued here. We are all here to have fun and collectively appreciate and discuss the band we love.Enjoy your stay, and please feel free to contribute in order to get the ball pwoper rolling!"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/muse"
@@ -15,8 +15,8 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "sopuli_xyz"
 tags: 

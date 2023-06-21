@@ -3,14 +3,14 @@ title: "Hamilton Ontario"
 name: "hamilton"
 description: "Community for Hamilton Ontario"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hamilton"
 host: lemmy.ca
 lastmod: "2023-06-12 09:13:21"
 published: "2023-06-12 09:12:42"
-subscribers: 17
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

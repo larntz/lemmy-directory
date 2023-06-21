@@ -3,7 +3,7 @@ title: "Pacstall"
 name: "pacstall"
 description: "An AUR inspired package manager for Ubuntu"
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pacstall"

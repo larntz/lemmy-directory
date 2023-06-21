@@ -3,14 +3,14 @@ title: "main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/main"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-01-30 13:51:10"
-subscribers: 85
+subscribers: 89
 posts: 3
 comments: 3
 weight: 3

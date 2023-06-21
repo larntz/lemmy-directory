@@ -3,7 +3,7 @@ title: "Impression 3D"
 name: "impression3d"
 description: "Ici, vous pouvez poster tous les liens qui ont un rapport avec l'impression 3D"
 type: community
-date: "2023-06-20 11:36:57"
+date: "2023-06-21 14:53:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/impression3d"

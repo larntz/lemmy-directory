@@ -3,20 +3,20 @@ title: "Gaymers Gone Wild"
 name: "gaymersgonewild"
 description: "A place for gaymers to show off their joysticks and look for a player 2"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/gaymersgonewild"
 host: lemmynsfw.com
 lastmod: "2023-06-17 09:11:38"
 published: "2023-06-16 18:13:27"
-subscribers: 52
-posts: 3
+subscribers: 63
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmynsfw_com"
 tags: 

@@ -3,7 +3,7 @@ title: "chainsawfolk"
 name: "chainsawfolk"
 description: "THE place for Chainsaw Man memes, shitposts, and fan art, where manga spoilers are out in the wild, so be aware, you've been warned !"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chainsawfolk"

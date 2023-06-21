@@ -3,20 +3,20 @@ title: "another test"
 name: "anothertest"
 description: "<a href=https://example.com>example</a>"
 type: community
-date: "2023-06-20 11:36:51"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/anothertest"
 host: voyager.lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 19:07:20"
-subscribers: 3
-posts: 1
-comments: 2
-weight: 1
-dau: 2
-wau: 1
-mau: 2
+subscribers: 4
+posts: 3
+comments: 4
+weight: 3
+dau: 4
+wau: 4
+mau: 6
 instances:
 - "voyager_lemmy_ml"
 tags: 

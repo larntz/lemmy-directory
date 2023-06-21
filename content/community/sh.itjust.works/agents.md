@@ -3,7 +3,7 @@ title: "Autonomous agent software and research"
 name: "agents"
 description: "For researching and developing autonomous agents"
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/agents"

@@ -3,7 +3,7 @@ title: "John Frusciante"
 name: "frusciante"
 description: "A community based around the happening of John Frusciante.The curtains are made for moving!---[RHCP Community](/c/rhcp@lemmy.world)"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frusciante"

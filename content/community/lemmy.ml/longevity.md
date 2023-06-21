@@ -3,14 +3,14 @@ title: "longevity"
 name: "longevity"
 description: "How to live longer."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/longevity"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-01-05 16:11:00"
-subscribers: 14
+subscribers: 15
 posts: 3
 comments: 1
 weight: 3

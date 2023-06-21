@@ -3,7 +3,7 @@ title: "Don't Starve"
 name: "dontstarve"
 description: "Welcome to the Don't Starve community, the wilderness survival game by Klei Entertainment. This community is the perfect place for fans and players of Don't Starve and Don't Starve Together to discuss strategies, share game insights, post fan art, and connect over shared adventures."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/dontstarve"
@@ -15,8 +15,8 @@ posts: 4
 comments: 0
 weight: 4
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "sh_itjust_works"
 tags: 

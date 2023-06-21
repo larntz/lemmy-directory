@@ -3,7 +3,7 @@ title: "Baylor Bears"
 name: "baylorbears"
 description: "A community to discuss Baylor Bears athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/baylorbears"

@@ -3,7 +3,7 @@ title: "Void Bunnies.world"
 name: "voidbunnies"
 description: "**Subreddit for black bunny content! Voids and black holes in the shape of bunnies.** ⚫🐰Lemmy.world mirror in case the other instance goes down.Lemmy.ml instance: [!voidbunnies@lemmy.ml](/c/voidbunnies@lemmy.ml)Originally [r/VoidBunnies](https://old.reddit.com/r/VoidBunnies/) on reddit."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/voidbunnies"

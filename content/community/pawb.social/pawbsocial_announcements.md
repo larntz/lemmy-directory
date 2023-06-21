@@ -3,20 +3,20 @@ title: "Pawb.Social Announcements"
 name: "pawbsocial_announcements"
 description: "Official announcements from the admin team of Pawb.Social"
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:52"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/pawbsocial_announcements"
 host: pawb.social
 lastmod: "2023-06-03 04:27:25"
 published: "2023-06-02 23:36:13"
-subscribers: 159
+subscribers: 162
 posts: 7
-comments: 62
+comments: 66
 weight: 7
-dau: 2
-wau: 11
-mau: 31
+dau: 6
+wau: 23
+mau: 50
 instances:
 - "pawb_social"
 tags: 

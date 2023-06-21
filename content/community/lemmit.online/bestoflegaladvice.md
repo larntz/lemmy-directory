@@ -3,17 +3,17 @@ title: "Best of Legal Advice (BOLA) ~ Meta discussion of r/legaladvice"
 name: "bestoflegaladvice"
 description: "Meta discussion of the best posts from r/legaladvice and related subs."
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/bestoflegaladvice"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 00:35:27"
-subscribers: 3
-posts: 30
+subscribers: 9
+posts: 41
 comments: 0
-weight: 30
+weight: 41
 dau: 0
 wau: 0
 mau: 0

@@ -3,7 +3,7 @@ title: "AWS"
 name: "aws"
 description: "The best place to talk about AWS, including EC2, ECS, Lambda, and much more.Please familiarize yourself with [AWS's documentation](https://docs.aws.amazon.com/index.html) before posting support questions here."
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:21"
 draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/aws"

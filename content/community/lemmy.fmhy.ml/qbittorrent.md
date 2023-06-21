@@ -3,14 +3,14 @@ title: "qBittorrent"
 name: "qbittorrent"
 description: "Everything related to the qBittorrent https://www.qbittorrent.org/https://www.qbittorrent.org/donate---"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/qbittorrent"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-18 20:55:04"
 published: "2023-06-10 19:58:53"
-subscribers: 535
+subscribers: 564
 posts: 5
 comments: 27
 weight: 5

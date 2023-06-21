@@ -3,7 +3,7 @@ title: "Simply Explained"
 name: "simply_explained"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/simply_explained"

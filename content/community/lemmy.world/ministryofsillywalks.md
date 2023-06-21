@@ -3,14 +3,14 @@ title: "Ministry of Silly Walks"
 name: "ministryofsillywalks"
 description: "Be silly."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ministryofsillywalks"
 host: lemmy.world
 lastmod: "2023-06-12 14:10:20"
 published: "2023-06-12 14:04:04"
-subscribers: 19
+subscribers: 20
 posts: 2
 comments: 0
 weight: 2

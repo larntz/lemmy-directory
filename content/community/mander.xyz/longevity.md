@@ -3,14 +3,14 @@ title: "Longevity"
 name: "longevity"
 description: "A sub about trying to live forever - or die trying."
 type: community
-date: "2023-06-20 11:37:40"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/longevity"
 host: mander.xyz
 lastmod: "2022-06-06 20:01:28"
 published: "2022-03-29 07:04:37"
-subscribers: 106
+subscribers: 108
 posts: 43
 comments: 64
 weight: 43

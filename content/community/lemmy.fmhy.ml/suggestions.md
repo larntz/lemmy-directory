@@ -3,14 +3,14 @@ title: "Instance Suggestions"
 name: "suggestions"
 description: "Submit suggestions related to improving the community!"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/suggestions"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-09 11:18:43"
 published: "2023-06-08 08:48:14"
-subscribers: 398
+subscribers: 411
 posts: 5
 comments: 21
 weight: 5

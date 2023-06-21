@@ -3,7 +3,7 @@ title: "Content Aggregator"
 name: "content"
 description: "Content aggregation for edwild22's behalf."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/content"

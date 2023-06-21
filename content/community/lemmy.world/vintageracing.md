@@ -3,7 +3,7 @@ title: "Vintage Racing"
 name: "vintageracing"
 description: "A community dedicated to those of us who either race works of art in the form of vintage race cars or those of us who admire watching these works of art flying around tracks as they were meant to."
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vintageracing"

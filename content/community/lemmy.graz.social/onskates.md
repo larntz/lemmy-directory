@@ -3,7 +3,7 @@ title: "Skates"
 name: "onskates"
 description: "For everyone with wheels on their shoes.Let’s share anything from edits, feedback requests and skate spots to tips & tricks and memes."
 type: community
-date: "2023-06-20 11:36:51"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/onskates"

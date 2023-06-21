@@ -3,7 +3,7 @@ title: "pain"
 name: "pain"
 description: "For the broken, malfunctioning, pained people of the world and their friends/family. Got pain? This is the place to be. Bitching, complaining, whining, and otherwise venting about your condition is encouraged. Stop by the chat and say hi!"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pain"

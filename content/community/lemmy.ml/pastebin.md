@@ -3,7 +3,7 @@ title: "Pastebin -> sub migrated"
 name: "pastebin"
 description: "Migrating too https://lemmy.ca/c/pastebinText storage sublemmy. It can be used to help promote lemmy by linking to c/pastebin over say a commercial pastebin website"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pastebin"

@@ -3,7 +3,7 @@ title: "ChurchOfKita"
 name: "churchofkita"
 description: "Church of Kita from Bocchi the Rock."
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofkita"

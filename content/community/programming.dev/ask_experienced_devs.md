@@ -3,14 +3,14 @@ title: "Ask Experienced Devs"
 name: "ask_experienced_devs"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/ask_experienced_devs"
 host: programming.dev
 lastmod: "2023-06-13 07:01:41"
 published: "2023-06-13 06:33:57"
-subscribers: 109
+subscribers: 124
 posts: 0
 comments: 0
 weight: 0

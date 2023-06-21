@@ -3,17 +3,17 @@ title: "Crochet"
 name: "crochet"
 description: "A place for all who enjoy the art of crochet "
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/crochet"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-07 17:34:47"
-subscribers: 165
-posts: 17
-comments: 89
-weight: 17
+subscribers: 172
+posts: 19
+comments: 99
+weight: 19
 dau: 5
 wau: 19
 mau: 19

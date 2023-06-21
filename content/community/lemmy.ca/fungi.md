@@ -1,14 +1,14 @@
 ---
 title: "Fungi" 
 name: "fungi"
-description: "A place to discuss all things fungi! Post your pics, ID requests, and general banter about fungis.Please keep all posts respectful and civil."
+description: "Check out !mycology@mander.xyz for an active mycology community.I'll be closing this community on July 4, 2023 to avoid fragmentation."
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fungi"
 host: lemmy.ca
-lastmod: "2023-06-09 23:32:06"
+lastmod: "2023-06-20 19:20:03"
 published: "2023-06-09 23:30:37"
 subscribers: 8
 posts: 1

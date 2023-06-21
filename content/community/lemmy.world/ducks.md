@@ -3,7 +3,7 @@ title: "Ducks"
 name: "ducks"
 description: "The community for people who keep, or love, ducksGeese also welcome.Ducks are commonly raised for meat and eggs. This subreddit is pro-welfare. We believe thatanyone who owns animals has a duty to research,and meet, their welfare needs. We have sidebarlinks to educational resources on duck ownershipand welfare.⚠️ If you're someone that knows a lot about ducks and are a frequent Lemmy user, message me (owner) so i can make you mod. Thanks!"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ducks"

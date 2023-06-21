@@ -3,7 +3,7 @@ title: "Permaculture"
 name: "permaculture"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/permaculture"
@@ -15,7 +15,7 @@ posts: 7
 comments: 2
 weight: 7
 dau: 1
-wau: 1
+wau: 2
 mau: 2
 instances:
 - "lemmy_ml"

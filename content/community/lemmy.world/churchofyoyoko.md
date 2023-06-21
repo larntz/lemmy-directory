@@ -3,7 +3,7 @@ title: "ChurchOfYoyoko"
 name: "churchofyoyoko"
 description: "Welcome to ChurchOfYoyoko! This is a community dedicated to the character Yoyoko Ohtsuki, the leader and guitarist/vocalist of the metal band SIDEROS from the manga/anime series Bocchi The Rock! "
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofyoyoko"

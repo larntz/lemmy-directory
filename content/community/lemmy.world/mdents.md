@@ -3,7 +3,7 @@ title: "Maryland Ents"
 name: "mdents"
 description: "A place to discuss Maryland Medical and Recreational Cannabis"
 type: community
-date: "2023-06-20 11:38:56"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mdents"

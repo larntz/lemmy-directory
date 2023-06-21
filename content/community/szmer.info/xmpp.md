@@ -3,7 +3,7 @@ title: "XMPP"
 name: "xmpp"
 description: "XMPP (znany dawniej jako Jabber) to otwarty standard wymiany wiadomości istniejący już\u00a0ponad 20 lat, z wieloma dojrzałymi implementacjami.Jest federowany i łatwy w użyciu."
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/xmpp"

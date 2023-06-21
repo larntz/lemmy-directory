@@ -3,20 +3,20 @@ title: "/c/cybersecurity - Cybersecurity News & Discussion"
 name: "cybersecurity"
 description: "A community for technical news and discussion of cybersecurity and closely related topics."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cybersecurity"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-29 00:01:31"
-subscribers: 994
+subscribers: 1025
 posts: 42
 comments: 52
 weight: 42
 dau: 2
-wau: 12
-mau: 22
+wau: 15
+mau: 24
 instances:
 - "lemmy_ml"
 tags: 

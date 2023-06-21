@@ -3,14 +3,14 @@ title: "Pozilei"
 name: "pozilei"
 description: "Ihr wisst selbst, warum Ihr hier seid."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pozilei"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 19:22:45"
-subscribers: 16
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1

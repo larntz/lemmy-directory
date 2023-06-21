@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Comunidad sobre la instancia misma de Feddit.cl"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/meta"
@@ -15,8 +15,8 @@ posts: 3
 comments: 2
 weight: 3
 dau: 2
-wau: 5
-mau: 5
+wau: 2
+mau: 4
 instances:
 - "feddit_cl"
 tags: 

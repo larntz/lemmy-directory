@@ -1,22 +1,22 @@
 ---
 title: "MTG" 
 name: "mtg"
-description: "#### Magic: the Gathering discussionGeneral discussion, questions, and media related to Magic: the Gathering that doesn't fit within a more specific community. Our equivalent of /r/magicTCG!"
+description: "#### Magic: the Gathering discussionGeneral discussion, questions, and media related to Magic: the Gathering that doesn't fit within a more specific community. Our equivalent of /r/magicTCG!Type `[[Card name]]` in your posts and comments and CardBot will reply with a link to the card! [More info here](https://mtgzone.com/post/1223)."
 type: community
-date: "2023-06-20 11:37:23"
+date: "2023-06-21 14:54:10"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/mtg"
 host: mtgzone.com
-lastmod: "2023-06-14 16:39:53"
+lastmod: "2023-06-20 21:41:02"
 published: "2023-06-09 19:27:54"
-subscribers: 299
-posts: 24
-comments: 194
-weight: 24
-dau: 1
-wau: 54
-mau: 61
+subscribers: 313
+posts: 26
+comments: 206
+weight: 26
+dau: 9
+wau: 55
+mau: 65
 instances:
 - "mtgzone_com"
 tags: 

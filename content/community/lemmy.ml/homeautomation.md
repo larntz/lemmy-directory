@@ -3,19 +3,19 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Home Automation, smart home, and related topics."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeautomation"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 21:07:07"
-subscribers: 273
+subscribers: 285
 posts: 4
-comments: 13
+comments: 15
 weight: 4
 dau: 1
-wau: 7
+wau: 2
 mau: 9
 instances:
 - "lemmy_ml"

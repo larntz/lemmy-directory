@@ -3,14 +3,14 @@ title: "Tulsa "
 name: "tulsa"
 description: "General Tulsa area information and hangout"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/tulsa"
 host: midwest.social
 lastmod: "2023-06-19 16:14:32"
 published: "2023-06-19 16:14:00"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 2
 weight: 2

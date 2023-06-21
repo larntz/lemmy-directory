@@ -3,20 +3,20 @@ title: "Anime Midriff"
 name: "animemidriff"
 description: "Welcome to Anime Midriff!=========================Where we appreciate the beauty of the belly.Rules=====Aside from instance-wide rules, make sure you:- Only post images where *at least* the **midriff** is visible (skin-tight clothing is okay 👍).- **Do not** post **real-life** images, or 3d renders that look **ultra-realisic**. Anime, Manga, Cartoon, or otherwise drawn artwork is preferred.- **Do not** post **extreme** content (like gore, scat, or vore).- **Do not** post **AI-generated** content. There's [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that.You are heavily **encouraged** to include the **source** of the image, either in the body of the post, or the comments. (This is **not required**, however)This is an NSFW community, but the images **do not necessarily have to be NSFW**, so long as the midriff is visible.------------------------p.s. I have never moderated a community before, so help from anyone more experienced would be greatly appreciated. I just like midriffs."
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/animemidriff"
 host: lemmynsfw.com
 lastmod: "2023-06-17 09:58:55"
 published: "2023-06-13 11:39:24"
-subscribers: 518
-posts: 100
-comments: 25
-weight: 100
-dau: 4
-wau: 21
-mau: 21
+subscribers: 567
+posts: 108
+comments: 28
+weight: 108
+dau: 6
+wau: 22
+mau: 23
 instances:
 - "lemmynsfw_com"
 tags: 

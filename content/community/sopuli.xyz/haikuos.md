@@ -3,7 +3,7 @@ title: "The Haiku Operating System"
 name: "haikuos"
 description: "https://haiku-os.org"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/haikuos"
@@ -15,8 +15,8 @@ posts: 6
 comments: 2
 weight: 6
 dau: 1
-wau: 3
-mau: 3
+wau: 2
+mau: 4
 instances:
 - "sopuli_xyz"
 tags: 

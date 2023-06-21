@@ -3,7 +3,7 @@ title: "Penmanship porn"
 name: "penmanshipporn"
 description: "Inspired by [/r/penmanshipporn](https://www.reddit.com/r/penmanshiporn/)Photo credit: [Kenny Eliason](https://unsplash.com/photos/Ak5c5VTch5E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)What beautiful writing would you like to show off today?"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/penmanshipporn"

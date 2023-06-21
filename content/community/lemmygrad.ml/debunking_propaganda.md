@@ -3,7 +3,7 @@ title: "Debunking Propaganda"
 name: "debunking_propaganda"
 description: "Share Links that Debunk Propaganda."
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/debunking_propaganda"

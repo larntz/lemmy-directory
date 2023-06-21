@@ -3,14 +3,14 @@ title: "esports"
 name: "esports"
 description: "Digital Sports!Anything involving esports can go here (but the primary moderator is an LCS fanboy, sorry 🥲 )"
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/esports"
 host: possumpat.io
 lastmod: "2023-06-12 18:33:49"
 published: "2023-06-08 17:55:15"
-subscribers: 17
+subscribers: 18
 posts: 3
 comments: 0
 weight: 3

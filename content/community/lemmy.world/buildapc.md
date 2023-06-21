@@ -3,20 +3,20 @@ title: "BuildaPC"
 name: "buildapc"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buildapc"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-19 21:07:47"
 published: "2023-06-11 22:07:19"
-subscribers: 192
-posts: 3
-comments: 6
-weight: 3
-dau: 1
-wau: 8
-mau: 8
+subscribers: 271
+posts: 4
+comments: 21
+weight: 4
+dau: 2
+wau: 16
+mau: 16
 instances:
 - "lemmy_world"
 tags: 

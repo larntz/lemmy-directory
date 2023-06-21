@@ -3,20 +3,20 @@ title: "AMD"
 name: "amd"
 description: "AMD news, hardware reviews and analysis and discussions"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amd"
 host: lemmy.ml
 lastmod: "2020-06-28 01:37:39"
 published: "2020-06-28 01:34:04"
-subscribers: 197
+subscribers: 209
 posts: 12
 comments: 13
 weight: 12
 dau: 3
-wau: 8
-mau: 8
+wau: 9
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 

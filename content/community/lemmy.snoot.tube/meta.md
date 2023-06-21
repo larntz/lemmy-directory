@@ -3,7 +3,7 @@ title: "lemmy snoot.tube meta"
 name: "meta"
 description: "about lemmy.snoot.tube"
 type: community
-date: "2023-06-20 11:37:29"
+date: "2023-06-21 14:54:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/meta"

@@ -3,7 +3,7 @@ title: "Witchcraft"
 name: "witchcraft"
 description: "* cultural appropriation from exploited peoples will be moderated with gusto, but do not cry to the mod about a non-Italian getting into *stregheria* or a non-Scandinavian casting runes * linking to an Etsy once or so is fine, but no spam* please don't promote the arbitrary use of endangered species (e.g., palo santo that's *Bulnesia sarmientoi*) by modern practitioners * some people's practice is religious, some people's practice is secular, let's all be respectful "
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/witchcraft"

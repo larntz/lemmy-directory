@@ -3,7 +3,7 @@ title: "Denver"
 name: "denver"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/denver"
@@ -15,7 +15,7 @@ posts: 9
 comments: 7
 weight: 9
 dau: 1
-wau: 4
+wau: 2
 mau: 6
 instances:
 - "lemmy_ml"

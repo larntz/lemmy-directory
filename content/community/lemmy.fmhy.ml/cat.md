@@ -3,17 +3,17 @@ title: "Cats"
 name: "cat"
 description: "The community for everything cats. Meow!! 🐾"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/cat"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-18 18:53:26"
 published: "2023-06-08 13:56:45"
-subscribers: 228
-posts: 33
-comments: 43
-weight: 33
+subscribers: 246
+posts: 34
+comments: 46
+weight: 34
 dau: 1
 wau: 3
 mau: 7

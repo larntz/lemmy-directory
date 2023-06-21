@@ -3,20 +3,20 @@ title: "Left Piracy"
 name: "leftpiracy"
 description: "A piracy / sharing community for leftists."
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftpiracy"
 host: lemmygrad.ml
 lastmod: "2020-08-06 19:07:22"
 published: "2019-08-22 18:48:01"
-subscribers: 1423
+subscribers: 1430
 posts: 69
-comments: 381
+comments: 385
 weight: 69
-dau: 1
-wau: 21
-mau: 33
+dau: 6
+wau: 23
+mau: 37
 instances:
 - "lemmygrad_ml"
 tags: 

@@ -3,20 +3,20 @@ title: "Guild Wars"
 name: "guildwars"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:28"
+date: "2023-06-21 14:54:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/guildwars"
 host: lemmy.wtf
 lastmod: "2023-06-19 08:11:11"
 published: "2023-06-15 19:50:42"
-subscribers: 8
-posts: 1
-comments: 10
-weight: 1
-dau: 3
-wau: 5
-mau: 5
+subscribers: 11
+posts: 2
+comments: 13
+weight: 2
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmy_wtf"
 tags: 

@@ -3,14 +3,14 @@ title: "MangaPiracy"
 name: "mangapiracy"
 description: "Discussions related to all manga sites are welcomed here, be it legal or unofficial."
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/mangapiracy"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-10 22:05:23"
 published: "2023-06-10 06:11:18"
-subscribers: 83
+subscribers: 85
 posts: 0
 comments: 0
 weight: 0

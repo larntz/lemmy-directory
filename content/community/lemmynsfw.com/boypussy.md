@@ -3,16 +3,16 @@ title: "Boy Pussy"
 name: "boypussy"
 description: "An especially tight and inviting asshole of the gay bottom."
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/boypussy"
 host: lemmynsfw.com
 lastmod: "2023-06-17 09:09:36"
 published: "2023-06-16 17:09:35"
-subscribers: 79
+subscribers: 101
 posts: 10
-comments: 1
+comments: 2
 weight: 10
 dau: 1
 wau: 4

@@ -3,7 +3,7 @@ title: "Chattanooga"
 name: "chattanooga"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chattanooga"
@@ -15,7 +15,7 @@ posts: 2
 comments: 8
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "lemmy_world"

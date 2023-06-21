@@ -3,7 +3,7 @@ title: "Monopoly"
 name: "monopoly"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/monopoly"
@@ -11,9 +11,9 @@ host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-02-11 14:17:37"
 subscribers: 2
-posts: 11
+posts: 12
 comments: 0
-weight: 11
+weight: 12
 dau: 1
 wau: 1
 mau: 1

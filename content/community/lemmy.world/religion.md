@@ -3,7 +3,7 @@ title: "Religion"
 name: "religion"
 description: "Discussion and scholarship of world religions."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/religion"

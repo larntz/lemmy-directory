@@ -3,12 +3,12 @@ title: "MotoGP"
 name: "motogp"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/motogp"
 host: feddit.nl
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 08:24:34"
 published: "2023-06-19 07:37:30"
 subscribers: 1
 posts: 1

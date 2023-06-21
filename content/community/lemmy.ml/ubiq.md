@@ -3,7 +3,7 @@ title: "Ubiq"
 name: "ubiq"
 description: "Ubiq is a crypto currency built upon an improved version of the Ethereum Codebase, putting stability at its core. Ubiq offers an enterprise-stable platform by implementing well established and thoroughly tested EVM code. This code, coupled with a conservative upgrade schedule, reduces the risk of network instability and unintended hard-forks.https://ubiqsmart.com/"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ubiq"

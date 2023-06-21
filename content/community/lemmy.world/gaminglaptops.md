@@ -3,14 +3,14 @@ title: "Gaming Laptops Community"
 name: "gaminglaptops"
 description: "Welcome to /c/GamingLaptops!This is a place for the Lemmy Community to discuss about gaming laptops. Talk about new and exciting gaming laptop launches, share your sick setups, ask for support, provide assistance and more.To talk about non-gaming laptops, please head over to [The Laptops Community](https://lemmy.world/c/laptops). This community is only appropriate for gaming laptops.Community banner credits go to [/u/Adam0n](https://www.reddit.com/r/battlestations/comments/10zmmjo/gaming_laptop_and_consoles_station/)'s setup posted on the /r/Battlestations subreddit on Reddit."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gaminglaptops"
 host: lemmy.world
 lastmod: "2023-06-15 07:07:39"
 published: "2023-06-14 09:53:50"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

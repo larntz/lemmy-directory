@@ -3,7 +3,7 @@ title: "YNAB unofficial"
 name: "ynab"
 description: "Friendly You Need a Budget (YNAB) community"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/ynab"

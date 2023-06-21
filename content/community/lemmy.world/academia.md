@@ -3,7 +3,7 @@ title: "Academia"
 name: "academia"
 description: "A community for students, faculty, and staff of institutions of higher education.Please keep conversations civil :)"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/academia"

@@ -3,14 +3,14 @@ title: "Fotografia"
 name: "fotografia"
 description: "Uma comunidade direcionada à fotografia de qualquer tipo."
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/fotografia"
 host: lemmy.pt
 lastmod: "2023-06-07 19:48:49"
 published: "2023-05-14 19:30:48"
-subscribers: 16
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0

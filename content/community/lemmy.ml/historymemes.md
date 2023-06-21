@@ -3,20 +3,20 @@ title: "HistoryMemes"
 name: "historymemes"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/historymemes"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-08-27 18:05:52"
-subscribers: 239
-posts: 8
-comments: 4
-weight: 8
+subscribers: 259
+posts: 9
+comments: 6
+weight: 9
 dau: 2
-wau: 7
-mau: 7
+wau: 8
+mau: 8
 instances:
 - "lemmy_ml"
 tags: 

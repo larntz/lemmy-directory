@@ -3,17 +3,17 @@ title: "UK Public Transport"
 name: "ukpublictransport"
 description: "Just a place where you can put anything on about uk public transport . Aim to add an icon and banner soon but I aim to upload my own picture soon"
 type: community
-date: "2023-06-20 11:37:23"
+date: "2023-06-21 14:54:10"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukpublictransport"
 host: feddit.uk
 lastmod: "2023-06-15 06:27:25"
 published: "2023-06-15 05:26:13"
-subscribers: 40
-posts: 2
+subscribers: 43
+posts: 3
 comments: 13
-weight: 2
+weight: 3
 dau: 1
 wau: 10
 mau: 10

@@ -3,14 +3,14 @@ title: "Macs in the Shack"
 name: "macham"
 description: "Using Macs in the Shack"
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/macham"
 host: lemmy.radio
 lastmod: "2023-06-13 23:48:43"
 published: "2023-06-13 23:41:08"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2

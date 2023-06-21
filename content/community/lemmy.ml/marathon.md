@@ -3,7 +3,7 @@ title: "Marathon The Game"
 name: "marathon"
 description: "Home of Marathon, Bungie's new sci-fi PvP extraction shooter. Opening soon. [Marathon Matrix Chat](https://matrix.to/#/#marathon-lemmy:matrix.org)"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marathon"

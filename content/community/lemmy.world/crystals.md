@@ -3,7 +3,7 @@ title: "Crystals"
 name: "crystals"
 description: "Sparkles for all!A community dedicated to learning about crystals and their properties. "
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crystals"

@@ -3,14 +3,14 @@ title: "whenthe"
 name: "whenthe"
 description: "r/whenthe but Lemmy. GIF macros. "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whenthe"
 host: lemmy.world
 lastmod: "2023-06-15 11:11:56"
 published: "2023-06-15 09:02:21"
-subscribers: 71
+subscribers: 75
 posts: 7
 comments: 3
 weight: 7

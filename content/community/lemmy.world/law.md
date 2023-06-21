@@ -3,14 +3,14 @@ title: "Law"
 name: "law"
 description: "Discussion about legal topics, centered around United States"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/law"
 host: lemmy.world
 lastmod: "2023-06-12 00:41:25"
 published: "2023-06-11 21:47:41"
-subscribers: 78
+subscribers: 85
 posts: 22
 comments: 5
 weight: 22

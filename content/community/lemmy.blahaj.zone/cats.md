@@ -3,17 +3,17 @@ title: "Cats"
 name: "cats"
 description: "All things cats!!!"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/cats"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 02:00:05"
-subscribers: 90
-posts: 13
-comments: 15
-weight: 13
+subscribers: 105
+posts: 15
+comments: 17
+weight: 15
 dau: 1
 wau: 8
 mau: 8

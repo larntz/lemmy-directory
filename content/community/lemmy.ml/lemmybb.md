@@ -3,7 +3,7 @@ title: "lemmyBB"
 name: "lemmybb"
 description: "Official community for [lemmyBB](https://github.com/LemmyNet/lemmyBB) frontend."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmybb"

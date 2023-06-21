@@ -3,7 +3,7 @@ title: "Vaults of Lore"
 name: "vaultsoflore"
 description: "For anything to do with the Vaults of Lore Totality"
 type: community
-date: "2023-06-20 11:38:49"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vaultsoflore"

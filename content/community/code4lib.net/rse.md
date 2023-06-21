@@ -3,7 +3,7 @@ title: "Research Software Engineering"
 name: "rse"
 description: "Tools and techniques that may help researchers and Research Software Engineers.Anyone who creates software for research qualifies as RSE.That said, posts need not be only applicable to software engineering for research – they may also apply to software engineering for libraries 😁 "
 type: community
-date: "2023-06-20 11:36:56"
+date: "2023-06-21 14:53:42"
 draft: false
 nsfw: false
 actor_id: "https://code4lib.net/c/rse"

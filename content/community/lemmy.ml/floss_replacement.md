@@ -3,7 +3,7 @@ title: "Free (libre) software replacements for proprietary software"
 name: "floss_replacement"
 description: "Use cases of this community:1. Ask for a free replacement for a particular proprietary software2. Ask for a free software that solves a particular problem3. Share lesser-known free software that you think deserves recognition"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/floss_replacement"

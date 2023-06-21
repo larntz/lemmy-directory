@@ -3,14 +3,14 @@ title: "PS5 deals"
 name: "ps5deals"
 description: "Deals on Playstation 5 games."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ps5deals"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 23:48:42"
-subscribers: 31
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

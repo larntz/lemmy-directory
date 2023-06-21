@@ -3,7 +3,7 @@ title: "UFOs"
 name: "ufo"
 description: "Do aliens exist? Hundreds of pictures and videos of UFOs are taken every year and enthusiasts believe many of them could be proof or even a hidden conspiracy. "
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ufo"
@@ -15,7 +15,7 @@ posts: 5
 comments: 7
 weight: 5
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "exploding-heads_com"

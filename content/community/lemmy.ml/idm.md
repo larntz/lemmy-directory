@@ -3,20 +3,20 @@ title: "IDM - Intelligent Dance Music"
 name: "idm"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/idm"
 host: lemmy.ml
 lastmod: "2022-06-22 23:01:13"
 published: "2022-06-22 07:30:28"
-subscribers: 31
-posts: 4
+subscribers: 32
+posts: 5
 comments: 4
-weight: 4
+weight: 5
 dau: 1
 wau: 1
-mau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

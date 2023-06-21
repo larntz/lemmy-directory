@@ -3,7 +3,7 @@ title: "Weddings"
 name: "weddings"
 description: "A community for enthusing about weddings of all kinds! Everyone is welcome here.Please be respectful and positive!"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weddings"
@@ -11,9 +11,9 @@ host: lemmy.world
 lastmod: "2023-06-13 15:03:40"
 published: "2023-06-12 20:53:47"
 subscribers: 10
-posts: 3
+posts: 5
 comments: 12
-weight: 3
+weight: 5
 dau: 1
 wau: 3
 mau: 3

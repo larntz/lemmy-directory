@@ -3,7 +3,7 @@ title: "Cryptid Lore"
 name: "cryptidlore"
 description: "Stories and art about our favorite hypothetical creatures!"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://lem.monster/c/cryptidlore"
@@ -15,7 +15,7 @@ posts: 2
 comments: 8
 weight: 2
 dau: 1
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "lem_monster"

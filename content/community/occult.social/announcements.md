@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:36"
+date: "2023-06-21 14:54:21"
 draft: false
 nsfw: false
 actor_id: "https://occult.social/c/announcements"

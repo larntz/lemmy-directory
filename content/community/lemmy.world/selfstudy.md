@@ -3,7 +3,7 @@ title: "Self-Study"
 name: "selfstudy"
 description: "Self-study is a community of individuals driven by a commitment to efficient learning, guided by insights from the fields of education and cognitive science. We eagerly explore the integration of technology and artificial intelligence, unlocking their potential to optimize how we encode and recall information. "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/selfstudy"

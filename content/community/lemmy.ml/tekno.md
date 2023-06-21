@@ -3,7 +3,7 @@ title: "Tekno"
 name: "tekno"
 description: "Tekno, tribe, acidcore, mentalcore, raggatek and anything tek-ish you feel like sharing"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tekno"

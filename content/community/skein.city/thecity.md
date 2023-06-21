@@ -3,7 +3,7 @@ title: "The City"
 name: "thecity"
 description: "Discussion around this instance of Lemmy."
 type: community
-date: "2023-06-20 11:37:31"
+date: "2023-06-21 14:54:18"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/thecity"
@@ -15,7 +15,7 @@ posts: 7
 comments: 11
 weight: 7
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "skein_city"

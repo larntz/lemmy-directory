@@ -3,7 +3,7 @@ title: "Trisquel GNU/Linux"
 name: "trisquel"
 description: "### Welcome to Trisquel GNU/Linux community in LemmyTODO"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trisquel"

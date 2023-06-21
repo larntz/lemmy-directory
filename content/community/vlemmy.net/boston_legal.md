@@ -3,7 +3,7 @@ title: "Boston Legal"
 name: "boston_legal"
 description: "Best TV series ever..."
 type: community
-date: "2023-06-20 11:37:14"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/boston_legal"
@@ -15,8 +15,8 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "vlemmy_net"
 tags: 

@@ -3,7 +3,7 @@ title: "Neuralink"
 name: "neuralink"
 description: "Neuralink Corporation is a neurotechnology company founded by Elon Musk and others, developing implantable brain–machine interfaces (BMIs). The company's headquarters is in San Francisco; it was started in 2016 and was first publicly reported in March 2017. (Wikipedia)"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/neuralink"

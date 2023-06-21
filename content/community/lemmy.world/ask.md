@@ -3,14 +3,14 @@ title: "Ask"
 name: "ask"
 description: "[!asklemmy@lemmy.world](https://lemmy.world/c/asklemmy)[!asklemmy@lemmy.ml](https://lemmy.ml/c/asklemmy) "
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ask"
 host: lemmy.world
 lastmod: "2023-06-13 20:40:14"
 published: "2023-06-12 09:13:32"
-subscribers: 82
+subscribers: 83
 posts: 1
 comments: 1
 weight: 1

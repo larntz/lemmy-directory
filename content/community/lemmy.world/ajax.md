@@ -3,7 +3,7 @@ title: "Ajax Amsterdam"
 name: "ajax"
 description: "**Ajax**Welcome to the AFC Ajax community on Lemmy!"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ajax"
@@ -15,7 +15,7 @@ posts: 5
 comments: 1
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

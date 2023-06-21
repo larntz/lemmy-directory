@@ -3,14 +3,14 @@ title: "meowmeow"
 name: "meowmeow"
 description: "A place for sharing and enjoying cute cat pictures after a rough day.A community without a strong foundation of cat pictures is no community at all.- Albert Einstein"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/meowmeow"
 host: lemmy.world
 lastmod: "2023-06-12 16:15:15"
 published: "2023-06-12 07:29:04"
-subscribers: 36
+subscribers: 38
 posts: 4
 comments: 1
 weight: 4

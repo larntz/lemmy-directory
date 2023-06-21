@@ -3,7 +3,7 @@ title: "rance_iel"
 name: "rance_iel"
 description: "Willkommen auf rance_iel! Dieser Subfeddit wurde erstellt um den Angelsachsen zu zeigen was Deutsch- Französische Freundschaft bedeutet! / Bienvenue à rance_iel ! Ce subreddit a été créé pour montrer aux l'anglais ce que signifie l'amitié franco-allemande!"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rance_iel"

@@ -3,18 +3,18 @@ title: "Rollenspiel"
 name: "rollenspiel"
 description: "Community for german tabletop roleplaying gaming. #ttrpg #rpg #pnp #roleplay #dnd #dsaCommunity für deutsches Rollenspiel im Stil von D&D und DSA. #pnpdeÄhnliches Communities:* [!rollenspiele@feddit.de](https://feddit.de/c/rollenspiele)* [!rpg@feddit.de](https://feddit.de/c/rpg)"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/rollenspiel"
 host: discuss.tchncs.de
 lastmod: "2023-06-14 08:18:17"
 published: "2023-06-11 17:19:08"
-subscribers: 38
-posts: 13
+subscribers: 40
+posts: 14
 comments: 2
-weight: 13
-dau: 2
+weight: 14
+dau: 1
 wau: 2
 mau: 3
 instances:

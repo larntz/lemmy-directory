@@ -3,14 +3,14 @@ title: "MUD"
 name: "mud"
 description: "A community related to everything MU* related."
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mud"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 22:38:35"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

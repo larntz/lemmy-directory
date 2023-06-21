@@ -3,7 +3,7 @@ title: "Road Guy Rob"
 name: "roadguyrob"
 description: "Welcome to the official Road Guy Rob community on Lemmy World.  A community to talk about roads and transportation.  Centered around the Road Guy Rob channel on YouTubehttps://youtube.com/RoadGuyRob"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roadguyrob"

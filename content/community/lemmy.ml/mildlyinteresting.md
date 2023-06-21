@@ -3,20 +3,20 @@ title: "things that are mildlyinteresting"
 name: "mildlyinteresting"
 description: "post things that are mildly interesting "
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mildlyinteresting"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-06-27 21:29:57"
-subscribers: 169
+subscribers: 182
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

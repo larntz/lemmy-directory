@@ -3,20 +3,20 @@ title: "Focus Puller"
 name: "focuspuller"
 description: "A space for camera assistants to discuss, ask questions, and share knowledge (*and horror stories*)."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/focuspuller"
 host: lemmy.world
 lastmod: "2023-06-17 02:54:03"
 published: "2023-06-15 03:40:32"
-subscribers: 4
-posts: 20
+subscribers: 6
+posts: 21
 comments: 9
-weight: 20
+weight: 21
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

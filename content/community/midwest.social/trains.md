@@ -3,14 +3,14 @@ title: "Trains"
 name: "trains"
 description: "A community about trains. All interesting train-related content is welcome. "
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/trains"
 host: midwest.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-02-10 03:45:05"
-subscribers: 28
+subscribers: 29
 posts: 1
 comments: 0
 weight: 1

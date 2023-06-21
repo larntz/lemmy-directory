@@ -3,7 +3,7 @@ title: "Guns"
 name: "guns"
 description: "A place to discuss firearms, gear, usage.Rules:-No selling, buying, or trading-No NSFW content-Be civil (No name calling, insults, shaming) -Keep politics to specified posts"
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/guns"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemm_ee"

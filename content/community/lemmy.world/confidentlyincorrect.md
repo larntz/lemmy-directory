@@ -3,7 +3,7 @@ title: "Confidently incorrect"
 name: "confidentlyincorrect"
 description: "For posting people that are very confident about something while being incorrect"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/confidentlyincorrect"

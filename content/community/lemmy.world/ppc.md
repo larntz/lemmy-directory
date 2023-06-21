@@ -3,7 +3,7 @@ title: "PPC Community"
 name: "ppc"
 description: "Everything PPC (Google Ads, Bing Ads, Facebook Ads...)"
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ppc"

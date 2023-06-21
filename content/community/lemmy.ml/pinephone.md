@@ -3,7 +3,7 @@ title: "Pine64's PinePhone"
 name: "pinephone"
 description: "The open, community-built, Linux-powered smartphone."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pinephone"

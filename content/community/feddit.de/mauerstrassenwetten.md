@@ -3,7 +3,7 @@ title: "mauerstrassenwetten"
 name: "mauerstrassenwetten"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mauerstrassenwetten"
@@ -15,7 +15,7 @@ posts: 1
 comments: 8
 weight: 1
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "feddit_de"

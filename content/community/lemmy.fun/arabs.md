@@ -3,7 +3,7 @@ title: "Arabs"
 name: "arabs"
 description: "A community for all Arabs all over the world :) "
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fun/c/arabs"

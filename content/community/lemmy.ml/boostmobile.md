@@ -3,7 +3,7 @@ title: "Boost Mobile"
 name: "boostmobile"
 description: "A community to discuss all things Boost Mobile, including related brands such as Boost InfiniteRules:1. Be civil and nice.2. No Spam."
 type: community
-date: "2023-06-20 11:38:24"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boostmobile"
@@ -15,8 +15,8 @@ posts: 4
 comments: 1
 weight: 4
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

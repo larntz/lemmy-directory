@@ -1,19 +1,19 @@
 ---
-title: "CLOSED - University of British Columbia" 
+title: "CLOSED - UBC" 
 name: "ubc"
 description: "This community is being redirected here:https://lemmy.ca/c/ubcHowever if you would prefer to use this community (or if you would like to repurpose this community for something else), please let me know! For now, I’ve set it to moderator posts only in order to reduce headaches for lemmy.sdf.org admins since I may miss rule breaking content."
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/ubc"
 host: lemmy.sdf.org
-lastmod: "2023-06-11 11:54:00"
+lastmod: "2023-06-21 11:08:26"
 published: "2023-06-10 09:32:49"
 subscribers: 1
-posts: 2
-comments: 5
-weight: 2
+posts: 1
+comments: 0
+weight: 1
 dau: 1
 wau: 5
 mau: 5

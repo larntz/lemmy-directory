@@ -3,7 +3,7 @@ title: "Steamdeck"
 name: "steamdeck"
 description: "A place to discuss all things steamdeck related"
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/steamdeck"

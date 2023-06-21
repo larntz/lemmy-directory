@@ -3,14 +3,14 @@ title: "Emulator Development"
 name: "emudev"
 description: "Discuss all things related to emulators and emulator development.  Posts asking for illegal software copies (ROMs, etc.) will be removed."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/emudev"
 host: programming.dev
 lastmod: "2023-06-17 09:53:10"
 published: "2023-06-15 13:09:21"
-subscribers: 14
+subscribers: 16
 posts: 1
 comments: 3
 weight: 1

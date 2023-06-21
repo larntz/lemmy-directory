@@ -3,7 +3,7 @@ title: "Shoplifting"
 name: "shoplifting"
 description: "If the hands that made it aren't selling it, it's free. A spiritual successor to the much lamented r/shoplifting. Don't get pinched. "
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shoplifting"

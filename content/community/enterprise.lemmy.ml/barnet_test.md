@@ -3,7 +3,7 @@ title: "Barnet testing"
 name: "barnet_test"
 description: "A test community for the Barnet app"
 type: community
-date: "2023-06-20 11:36:52"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/barnet_test"

@@ -3,17 +3,17 @@ title: "Frilly Socks"
 name: "frillysocks"
 description: "Girls in frilly socks (18+)"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/frillysocks"
 host: lemmynsfw.com
 lastmod: "2023-06-19 16:26:05"
 published: "2023-06-18 23:25:45"
-subscribers: 20
-posts: 25
+subscribers: 25
+posts: 27
 comments: 0
-weight: 25
+weight: 27
 dau: 1
 wau: 1
 mau: 1

@@ -3,20 +3,20 @@ title: "Quake"
 name: "quake"
 description: "A community for id Software's Quake series."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quake"
 host: lemmy.world
 lastmod: "2023-06-13 21:41:19"
 published: "2023-06-13 21:35:45"
-subscribers: 32
-posts: 6
+subscribers: 34
+posts: 9
 comments: 4
-weight: 6
-dau: 1
-wau: 2
-mau: 2
+weight: 9
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

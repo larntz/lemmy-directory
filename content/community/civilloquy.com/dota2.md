@@ -3,7 +3,7 @@ title: "Dota 2"
 name: "dota2"
 description: "For discussion of Valve's popular game Dota 2This community is not affiliated with Valve in any respect."
 type: community
-date: "2023-06-20 11:37:10"
+date: "2023-06-21 14:53:57"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/dota2"
@@ -15,8 +15,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "civilloquy_com"
 tags: 

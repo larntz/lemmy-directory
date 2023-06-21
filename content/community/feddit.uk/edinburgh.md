@@ -3,14 +3,14 @@ title: "Edinburgh"
 name: "edinburgh"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:23"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/edinburgh"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 16:11:46"
-subscribers: 39
+subscribers: 40
 posts: 1
 comments: 7
 weight: 1

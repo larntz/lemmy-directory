@@ -3,7 +3,7 @@ title: "NFL"
 name: "nfl"
 description: "NFL news, links, opinions, game threads, etc. We'll flesh this out more!"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/nfl"

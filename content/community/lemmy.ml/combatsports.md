@@ -3,7 +3,7 @@ title: "Combat Sports"
 name: "combatsports"
 description: "A place for combat sports enthusiasts. "
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/combatsports"
@@ -15,8 +15,8 @@ posts: 4
 comments: 2
 weight: 4
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

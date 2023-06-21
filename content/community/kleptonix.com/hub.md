@@ -3,7 +3,7 @@ title: "kleptonix Hub"
 name: "hub"
 description: "This community is meant for instance-wide announcements by admins.General questions and posts (as long as they pertain to the instance and/or Lemmy) are also allowed here.Suggestions on how to better the instance and recommendations are welcome."
 type: community
-date: "2023-06-20 11:37:34"
+date: "2023-06-21 14:54:21"
 draft: false
 nsfw: false
 actor_id: "https://kleptonix.com/c/hub"

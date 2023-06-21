@@ -3,7 +3,7 @@ title: "FuturamaSleepers"
 name: "futuramasleepers"
 description: "Good News Everyone!Discuss the show you never knew other people fell asleep to! "
 type: community
-date: "2023-06-20 11:37:22"
+date: "2023-06-21 14:54:09"
 draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/futuramasleepers"

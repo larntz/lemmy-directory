@@ -3,7 +3,7 @@ title: "Trupi Jad - Magazyn "
 name: "trupijad"
 description: "Magazyn Strasznie Kulturalny"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:28"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/trupijad"

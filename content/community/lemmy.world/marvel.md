@@ -3,14 +3,14 @@ title: "Marvel"
 name: "marvel"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:45"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/marvel"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 20:46:24"
-subscribers: 52
+subscribers: 54
 posts: 1
 comments: 0
 weight: 1

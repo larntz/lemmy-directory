@@ -3,14 +3,14 @@ title: "Anime Plot"
 name: "animeplot"
 description: "Anime fanservice galore!Rules for now are:- Only fanservice from non-hentai anime is allowed- Sauce is mandatory in title. Please add in the format of [source anime]- AI generated posts and fan art is not allowed, however official art is"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/animeplot"
 host: lemmynsfw.com
 lastmod: "2023-06-17 10:34:21"
 published: "2023-06-16 07:04:59"
-subscribers: 61
+subscribers: 72
 posts: 9
 comments: 4
 weight: 9

@@ -3,7 +3,7 @@ title: "Unreal Tournament"
 name: "unrealtournament"
 description: "Welcome, this is a community for people who play the Unreal Tournament series.Unreal Tournament is a series of multiplayer first person shooters made by Epic Games.Please remember to mark/flair the game in your post. (UT99, Unreal, UT2004, UC2, UT3, UT4, etc)"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unrealtournament"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "dude"
 name: "dude"
 description: "_Fuck it, Dude. Let's go bowling._---A place to discuss The Big Lebowski and Dudeism.Read more at [dudeism.com/whatisdudeism](https://dudeism.com/whatisdudeism/)---"
 type: community
-date: "2023-06-20 11:37:07"
+date: "2023-06-21 14:53:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/dude"

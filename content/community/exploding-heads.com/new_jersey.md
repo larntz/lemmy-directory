@@ -3,7 +3,7 @@ title: "New Jersey"
 name: "new_jersey"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/new_jersey"
@@ -15,7 +15,7 @@ posts: 9
 comments: 10
 weight: 9
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "exploding-heads_com"

@@ -3,7 +3,7 @@ title: "Discord Coding Academy"
 name: "dca"
 description: "Welcome to the Lemmy community for [Discord Coding Academy](https://discordcoding.academy)!Here are some links:* [Discord server](https://discord.gg/RDKfMcC)* [Tutorials](https://dcacademy.gitlab.io/tutorials)* [Open-source projects](https://gitlab.com/dcacademy)"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dca"

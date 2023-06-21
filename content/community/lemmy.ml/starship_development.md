@@ -3,7 +3,7 @@ title: "Starship Development"
 name: "starship_development"
 description: "FAQ:  When is the next Launch? Unclear at this point  Where are Launches streamed? At SpaceX Youtube, NASASpaceflight, Lab Padre and Everyday Astronaut usually (at least)Which Vehicles will likely be tested?  Ship 25 or Ship 26 together with Booster 9 possibly Booster 10Depending on activity I might update this overview at some point. Advice is appreciated!"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starship_development"

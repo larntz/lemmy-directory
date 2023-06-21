@@ -3,7 +3,7 @@ title: "lemmy info"
 name: "lemmy_relate"
 description: "lemmy info / links / questions"
 type: community
-date: "2023-06-20 11:37:08"
+date: "2023-06-21 14:53:55"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/lemmy_relate"
@@ -15,8 +15,8 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "quex_cc"
 tags: 

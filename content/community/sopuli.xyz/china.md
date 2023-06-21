@@ -3,7 +3,7 @@ title: "China"
 name: "china"
 description: "Genuine news and discussion about China"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/china"
@@ -15,7 +15,7 @@ posts: 42
 comments: 4
 weight: 42
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "sopuli_xyz"

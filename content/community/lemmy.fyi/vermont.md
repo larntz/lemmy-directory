@@ -3,7 +3,7 @@ title: "vermont"
 name: "vermont"
 description: "Community focused on the state of Vermont.**Rules**- Don't be a dick**Links** - [Vermont Craigslist](https://vermont.craigslist.org/) - [State of Vermont Homepage](https://vermont.craigslist.org/) **News** -  [NBC5](https://www.mynbc5.com/) -  [WXAC](https://www.wcax.com) -  [Vermont Public](https://www.vermontpublic.org/) -  [VTDigger](https://vtdigger.org/) -  [myChamplainValley](https://www.mychamplainvalley.com/)"
 type: community
-date: "2023-06-20 11:37:31"
+date: "2023-06-21 14:54:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/vermont"

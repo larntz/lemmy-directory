@@ -3,7 +3,7 @@ title: "Slovaks In Canada"
 name: "slovaks_in_canada"
 description: "A welcoming place for Slovakians living in Canada. Whether you are just visiting or a resident, come by and lets talk. "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slovaks_in_canada"

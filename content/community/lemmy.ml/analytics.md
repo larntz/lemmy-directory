@@ -3,7 +3,7 @@ title: "Web Analytics"
 name: "analytics"
 description: "This is the place for everything related to Web Analytics, like setting up Google Analytics or performing A/B Tests with split-testing tools. Share and comment on anything you find helpful and interesting."
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/analytics"

@@ -3,7 +3,7 @@ title: "The People's School of Marxist-Leninist Studies"
 name: "psmls"
 description: "The People’s School for Marxist-Leninist Studies (PSMLS) has the sole goal of educating the working class to prepare to build socialism in the United States of America (USA). Our team of talented teachers runs an interactive classroom focused on openness and clear understanding.Free Classes every Tue/Thu at 8 PM ESTFind us on [YouTube!](https://www.youtube.com/channel/UCNLORxbPEwf98GlydIahIEg)Or chech out our [Website!](https://peoplesschool.org/about/)"
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/psmls"

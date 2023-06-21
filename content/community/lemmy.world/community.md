@@ -3,7 +3,7 @@ title: "Six Seasons and a Lemmy"
 name: "community"
 description: "Worry not, Rexxiters - Greendale has a new home!"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/community"

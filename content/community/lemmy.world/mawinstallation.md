@@ -3,7 +3,7 @@ title: "Maw Installation - Star Wars Discussion"
 name: "mawinstallation"
 description: "A place for in-depth, in-universe discussions of the Star Wars universe.- Both Canon and Legends can be discussed. Conversations can be about all forms of media. - Keep a mature, polite, academic style tone to discussions. Put effort into both topics and responses. No memes, no low effort posts, cite your sources if possible. - Be mindful of spoilers and mark them accordingly. - No bashing. Opinions should be respectful if they hold a place in the conversation. "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mawinstallation"

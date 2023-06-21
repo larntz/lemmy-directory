@@ -3,7 +3,7 @@ title: "Ofertas"
 name: "ofertas"
 description: "Comunidad para subir ofertas reales que estén disponibles de alguna manera para Chile. Pueden ser físicas o digitales.-"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/ofertas"
@@ -15,7 +15,7 @@ posts: 9
 comments: 4
 weight: 9
 dau: 1
-wau: 5
+wau: 2
 mau: 5
 instances:
 - "feddit_cl"

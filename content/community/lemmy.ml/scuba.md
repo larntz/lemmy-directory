@@ -3,7 +3,7 @@ title: "Scuba"
 name: "scuba"
 description: "A community to discuss scuba diving!"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scuba"
@@ -16,7 +16,7 @@ comments: 1
 weight: 1
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

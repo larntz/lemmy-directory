@@ -3,7 +3,7 @@ title: "なんか色々"
 name: "iroiro"
 description: "分類に縛られないなんでもネタを。"
 type: community
-date: "2023-06-20 11:36:53"
+date: "2023-06-21 14:53:40"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/iroiro"
@@ -12,7 +12,7 @@ lastmod: "2021-02-19 05:22:30"
 published: "2021-02-16 15:34:34"
 subscribers: 23
 posts: 140
-comments: 111
+comments: 110
 weight: 140
 dau: 1
 wau: 3

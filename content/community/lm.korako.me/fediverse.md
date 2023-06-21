@@ -3,18 +3,18 @@ title: "Fediverse (JP)"
 name: "fediverse"
 description: "Fediに関する情報。日本語向け。"
 type: community
-date: "2023-06-20 11:36:53"
+date: "2023-06-21 14:53:40"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/fediverse"
 host: lm.korako.me
 lastmod: "2023-06-14 00:47:10"
 published: "2021-02-16 15:44:24"
-subscribers: 11
-posts: 36
+subscribers: 12
+posts: 37
 comments: 26
-weight: 36
-dau: 2
+weight: 37
+dau: 3
 wau: 3
 mau: 4
 instances:

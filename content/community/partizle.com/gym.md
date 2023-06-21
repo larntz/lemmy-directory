@@ -3,7 +3,7 @@ title: "Fitness / The Gym"
 name: "gym"
 description: "A place to discuss fitness, the gym, and gym life"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/gym"

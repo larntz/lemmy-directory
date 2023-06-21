@@ -3,14 +3,14 @@ title: "writing"
 name: "writing"
 description: "writing"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/writing"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 05:42:40"
-subscribers: 36
+subscribers: 37
 posts: 3
 comments: 6
 weight: 3

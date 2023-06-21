@@ -3,7 +3,7 @@ title: "Incremental Games"
 name: "incrementalgames"
 description: "A community for everything related to incremental games.Join our [Matrix room](https://matrix.to/#/#IdleGames:matrix.org)!"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/incrementalgames"
@@ -15,7 +15,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 2
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

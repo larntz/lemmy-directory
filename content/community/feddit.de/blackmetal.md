@@ -3,19 +3,19 @@ title: "Black Metal"
 name: "blackmetal"
 description: "A community about Black Metal - warm and welcoming like the gates of hellNo nsbm pleaseCheck out other metal music communities:- [!metal@lemmy.ml](https://lemmy.ml/c/metal) - [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal) - [!doommetal@lemmy.ml](https://lemmy.ml/c/doommetal) - [!metalcore@lemmy.ml](https://lemmy.ml/c/metalcore) - [!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) - [!thrashmetal@lemmy.ml](https://lemmy.ml/c/thrashmetal)For Memes:- [!metalmemes@lemmy.world](https://lemmy.world/c/metalmemes)"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/blackmetal"
 host: feddit.de
 lastmod: "2023-06-18 14:58:25"
 published: "2023-06-08 12:18:33"
-subscribers: 45
-posts: 11
+subscribers: 48
+posts: 13
 comments: 4
-weight: 11
+weight: 13
 dau: 1
-wau: 4
+wau: 2
 mau: 5
 instances:
 - "feddit_de"

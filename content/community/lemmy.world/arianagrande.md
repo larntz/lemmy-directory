@@ -3,7 +3,7 @@ title: "Ariana Grande"
 name: "arianagrande"
 description: "A place to talk about Ariana, her music, and generally anything about her :)This is a discussion sub so please don't post lewd photos of her."
 type: community
-date: "2023-06-19 18:00:46"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arianagrande"

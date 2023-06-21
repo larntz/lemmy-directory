@@ -3,7 +3,7 @@ title: "CULT DAO"
 name: "cultdao"
 description: "Cult DAO subverts the previous model of Venture DAO. Most Investment DAOs either have high barriers of entry (e.g. The LAO, MetaCartel Ventures) or have centralized operation and decision-making mechanisms (e.g. BitDAO). Cult DAO successfully avoids these two shortcomings.Cult DAO is not a traditional investment DAO because the investment funds are not accumulated from new fund partners but taxed from traders and also because its investment activities cannot be analyzed separately without the tax. It's an open, self-reinforcing system that combines transfer payments and investments.The innovation of Cult DAO greatly improves the efficiency of an authentically decentralized DAO. Not only due to the token distribution designed for the community and renouncing of all contract ownership by the team, but also because of the governance model that separates proposing right and voting rights which has the potential to be widely adopted by DAOs."
 type: community
-date: "2023-06-19 17:59:28"
+date: "2023-06-21 14:54:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cultdao"

@@ -3,7 +3,7 @@ title: "WOW!"
 name: "wow"
 description: "**Wow: Where Ordinary Transforms into Extraordinary!****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wow"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

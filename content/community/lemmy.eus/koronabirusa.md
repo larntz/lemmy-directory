@@ -3,7 +3,7 @@ title: "Koronabirusa"
 name: "koronabirusa"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/koronabirusa"

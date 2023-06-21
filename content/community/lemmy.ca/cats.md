@@ -3,14 +3,14 @@ title: "Cats"
 name: "cats"
 description: "Post all of your Kitty pictures here! "
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cats"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 20:19:18"
-subscribers: 20
+subscribers: 23
 posts: 3
 comments: 1
 weight: 3

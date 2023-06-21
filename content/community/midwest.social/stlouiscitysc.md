@@ -1,22 +1,22 @@
 ---
-title: "St. Louis CITY Soccer Club" 
+title: "St. Louis CITY SC" 
 name: "stlouiscitysc"
 description: "The home for St. Louis CITY Soccer Club"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/stlouiscitysc"
 host: midwest.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 01:11:21"
 published: "2023-06-20 02:04:39"
-subscribers: 2
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 7
+posts: 2
+comments: 3
+weight: 2
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "midwest_social"
 tags: 

@@ -3,14 +3,14 @@ title: "That Time I Got Reincarnated as a Slime"
 name: "tenseislime"
 description: "The go-to SubLemmy for That Time I Got Reincarnated as a Slime (tensei slime)"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tenseislime"
 host: lemmy.ml
 lastmod: "2023-06-07 21:39:01"
 published: "2023-06-07 21:35:41"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

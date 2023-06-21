@@ -3,7 +3,7 @@ title: "Denmark"
 name: "denmark"
 description: "Community of danish people"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/denmark"

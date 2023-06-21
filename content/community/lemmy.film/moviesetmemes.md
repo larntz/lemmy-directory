@@ -3,7 +3,7 @@ title: "MovieSetMemes"
 name: "moviesetmemes"
 description: "Movie sets. In meme form."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/moviesetmemes"

@@ -3,14 +3,14 @@ title: "Editors"
 name: "editors"
 description: "A community for video editors!"
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/editors"
 host: lemmy.film
 lastmod: "2023-06-12 19:34:40"
 published: "2023-06-11 14:43:33"
-subscribers: 31
+subscribers: 32
 posts: 1
 comments: 3
 weight: 1

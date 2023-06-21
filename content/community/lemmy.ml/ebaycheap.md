@@ -3,7 +3,7 @@ title: "ebaycheap buys"
 name: "ebaycheap"
 description: "cheap products from ebay.         - price should be very low.     - remove tracking in the url.     - put price in the description.     - not too much posting.- no affiliate links"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ebaycheap"

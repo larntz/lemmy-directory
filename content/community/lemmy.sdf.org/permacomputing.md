@@ -3,14 +3,14 @@ title: "Permacomputing"
 name: "permacomputing"
 description: "In a time where computing epitomizes industrial waste, permacomputing encourages the maximizing of hardware lifespans, minimizing energy use and focussing on the use of already available computational resources.(from the [permacomputing wiki](http://permacomputing.net/))"
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/permacomputing"
 host: lemmy.sdf.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 23:46:15"
-subscribers: 13
+subscribers: 15
 posts: 2
 comments: 0
 weight: 2

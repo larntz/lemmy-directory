@@ -3,7 +3,7 @@ title: "alternativ"
 name: "altermundus"
 description: "Nem tudo está perdido,existem frestas,buracos e êxodos para uma vda de alegrias poéticas,sentidos e possibilidades de comuns,"
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/altermundus"

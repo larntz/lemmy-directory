@@ -3,7 +3,7 @@ title: "Ryujinx and Yuzu"
 name: "ryujinx_and_yuzu"
 description: "A Community for discussing things around Ryujinx and Yuzu"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/ryujinx_and_yuzu"

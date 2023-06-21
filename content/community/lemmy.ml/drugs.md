@@ -3,14 +3,14 @@ title: "Drugs"
 name: "drugs"
 description: "Community related to any kind of drug consumption. Feel free to ask if you have any doubts or are looking for advice and or information regarding some subject, or simply share your experiences."
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/drugs"
 host: lemmy.ml
 lastmod: "2021-06-03 21:04:48"
 published: "2020-03-05 00:21:18"
-subscribers: 132
+subscribers: 133
 posts: 26
 comments: 36
 weight: 26

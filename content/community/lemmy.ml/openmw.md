@@ -3,7 +3,7 @@ title: "OpenMW"
 name: "openmw"
 description: "OpenMW is a free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://www.uesp.net/wiki/Morrowind:Morrowind).openmw.org | [FAQ](https://openmw.org/faq/)[Forum](https://forum.openmw.org/) | [Matrix](https://matrix.to/#/%23openmw:matrix.org) | [IRC](https://kiwiirc.com/nextclient/irc.libera.chat:6697/#openmw) | [Discord](https://discord.gg/wd3eSas) | [Steam group](https://steamcommunity.com/groups/openmw)[GitLab repo](https://gitlab.com/OpenMW/openmw) | [GitHub mirror](https://github.com/OpenMW/openmw/)[Wiki](https://wiki.openmw.org/) | [UESP](https://en.uesp.net/wiki/Morrowind_Mod:OpenMW)"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openmw"

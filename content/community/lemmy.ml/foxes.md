@@ -3,7 +3,7 @@ title: "Foxes"
 name: "foxes"
 description: "First community dedicated to foxes!Just be nice. No hate, no gore and no porn."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foxes"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2022-04-10 14:03:07"
 subscribers: 34
 posts: 3
-comments: 1
+comments: 2
 weight: 3
 dau: 1
 wau: 1

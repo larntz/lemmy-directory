@@ -3,7 +3,7 @@ title: "Hugo"
 name: "hugo"
 description: "A community for Hugo static website generator. All discussion surrounding Hugo welcome. "
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hugo"

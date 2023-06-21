@@ -3,7 +3,7 @@ title: "Protezione Civile"
 name: "protezionecivile"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/protezionecivile"
@@ -11,12 +11,12 @@ host: feddit.it
 lastmod: "2022-11-18 08:46:05"
 published: "2022-11-17 21:39:04"
 subscribers: 25
-posts: 9
-comments: 17
-weight: 9
-dau: 1
-wau: 1
-mau: 1
+posts: 10
+comments: 20
+weight: 10
+dau: 2
+wau: 2
+mau: 3
 instances:
 - "feddit_it"
 tags: 

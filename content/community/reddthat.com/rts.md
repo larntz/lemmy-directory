@@ -3,7 +3,7 @@ title: "Real Time Strategy"
 name: "rts"
 description: "For discussions about all RTS games. Everyone is welcome, Starcraft, Starcraft 2, Stormgate etc"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/rts"
@@ -14,9 +14,9 @@ subscribers: 12
 posts: 3
 comments: 2
 weight: 3
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "reddthat_com"
 tags: 

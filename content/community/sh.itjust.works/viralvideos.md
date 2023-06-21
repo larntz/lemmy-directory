@@ -3,7 +3,7 @@ title: "viralvideos"
 name: "viralvideos"
 description: "videos that have gone viral on tiktok and facebook etc"
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/viralvideos"
@@ -15,8 +15,8 @@ posts: 2
 comments: 2
 weight: 2
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "sh_itjust_works"
 tags: 

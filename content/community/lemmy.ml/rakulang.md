@@ -3,7 +3,7 @@ title: "Raku "
 name: "rakulang"
 description: "The Raku programming language https://raku.org/"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rakulang"

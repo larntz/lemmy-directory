@@ -3,14 +3,14 @@ title: "Nsfw Funny"
 name: "nsfwfunny"
 description: "Alternative r/nsfwfunny. Posts must contain humorous nsfw content such as pics, vids, gifs, etc. "
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfwfunny"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 00:28:37"
-subscribers: 105
+subscribers: 115
 posts: 0
 comments: 0
 weight: 0

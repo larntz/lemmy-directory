@@ -3,7 +3,7 @@ title: "Embroidery"
 name: "embroidery"
 description: "For embroidery enthusiasts, especially those coming from /r/embroidery!- No nsfw unless it's embroidered please- No hate of any kind allowed - Be a good human "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/embroidery"

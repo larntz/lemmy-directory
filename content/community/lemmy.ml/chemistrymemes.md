@@ -3,7 +3,7 @@ title: "Chemistry memes"
 name: "chemistrymemes"
 description: "For all the chemistry memes and cursed chemistry"
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chemistrymemes"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 1
+wau: 2
 mau: 2
 instances:
 - "lemmy_ml"

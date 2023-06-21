@@ -3,7 +3,7 @@ title: "sochaczew"
 name: "sochaczew"
 description: "Społeczność związana z Sochaczewem.Prosimy o wpisy w jakikolwiek sposób związane z tym miastem."
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sochaczew"
@@ -11,9 +11,9 @@ host: szmer.info
 lastmod: "2021-12-05 13:23:26"
 published: "2021-11-28 14:41:40"
 subscribers: 5
-posts: 16
+posts: 17
 comments: 2
-weight: 16
+weight: 17
 dau: 1
 wau: 1
 mau: 1

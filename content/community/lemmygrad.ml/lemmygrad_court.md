@@ -3,7 +3,7 @@ title: "People's Court"
 name: "lemmygrad_court"
 description: "This is a community for Lemmygrad users and admins to discuss administrative issues in a more transparent manner"
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmygrad_court"

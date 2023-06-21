@@ -3,7 +3,7 @@ title: "Men who knit"
 name: "menwhoknit"
 description: "A place for men who knit, all styles and levels of skill welcome.No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.Be respectful. Everyone should feel welcome here."
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/menwhoknit"

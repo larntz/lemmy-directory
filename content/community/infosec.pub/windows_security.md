@@ -3,7 +3,7 @@ title: "Windows Security"
 name: "windows_security"
 description: "Expert-level Windows security discussions for security professionals: hardening, security updates, policies, standards, privacy, tips, tools, red team, blue team, and other related topics.NO TECH SUPPORT QUESTIONS"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:51"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/windows_security"

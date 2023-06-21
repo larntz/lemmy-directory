@@ -3,7 +3,7 @@ title: "Herman Cain Awards"
 name: "hca"
 description: "The real life results of not being responsible about COVID. Please do not celebrate the death of anyone, it is in bad taste. Some shit might be clearly copied from the reddit version, fuckin sue me"
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hca"

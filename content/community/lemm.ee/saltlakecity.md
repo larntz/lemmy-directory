@@ -3,7 +3,7 @@ title: "Salt Lake City"
 name: "saltlakecity"
 description: "Dedicated community for all things SLC!"
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/saltlakecity"

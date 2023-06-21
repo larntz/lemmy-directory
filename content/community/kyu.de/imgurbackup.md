@@ -3,7 +3,7 @@ title: "Backup of my imgur albums"
 name: "imgurbackup"
 description: "As imgur is no [no longer a reliable content hoster](https://www.engadget.com/imgur-to-ban-explicit-images-and-delete-uploads-not-tied-to-an-account-122537118.html) just throwing my old albums in here is an easy enough way to preserve them."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://kyu.de/c/imgurbackup"

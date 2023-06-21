@@ -3,7 +3,7 @@ title: "Announcements"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-19 17:59:18"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/main"
@@ -15,7 +15,7 @@ posts: 14
 comments: 27
 weight: 14
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_perthchat_org"

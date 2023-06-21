@@ -3,7 +3,7 @@ title: "Vote for FOSS on AlternativeTo!"
 name: "alternativeto_foss"
 description: "Welcome to alternativeto-foss! Here's a community for linking Open Source software on [Alternativeto.net](https://alternativeto.net/) (and other, similar websites!) so users can vote and rise FOSS to the top!*******Getting Started**1. Register on [Alternativeto.net](https://alternativeto.net/)2. Click on /c/alternativeto_foss threads and go vote for Free Software!*******Rules**📜 Link Free and Open Source Software in new threads!💻 Similar websites to AlternativeTo are allowed!😃 Remember to have fun!"
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alternativeto_foss"

@@ -3,7 +3,7 @@ title: "Nevada"
 name: "nevada"
 description: "This community is about Nevada and things occurring within it."
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nevada"

@@ -3,14 +3,14 @@ title: "PS6"
 name: "ps6"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps6"
 host: lemmy.ml
 lastmod: "2023-06-16 13:01:18"
 published: "2023-06-14 16:44:56"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "BlueJackets"
 name: "bluejackets"
 description: "Lemmy Community for *your* Columbus Bluejackets!"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bluejackets"
@@ -15,7 +15,7 @@ posts: 4
 comments: 2
 weight: 4
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

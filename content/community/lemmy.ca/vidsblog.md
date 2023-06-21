@@ -3,7 +3,7 @@ title: "Video Blog"
 name: "vidsblog"
 description: "thing"
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vidsblog"

@@ -3,7 +3,7 @@ title: "mediocreatbest"
 name: "mediocreatbest"
 description: "My collection of links, articles, projects, and more that I find interesting."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/mediocreatbest"
@@ -15,7 +15,7 @@ posts: 11
 comments: 3
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_sdf_org"

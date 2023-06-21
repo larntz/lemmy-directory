@@ -3,7 +3,7 @@ title: "Myanmar or Burma"
 name: "myanmar"
 description: "This community is for articles and discussions on anything about the land called Burma or Myanmar. "
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/myanmar"

@@ -3,14 +3,14 @@ title: "The Elder Scrolls Lore"
 name: "teslore"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/teslore"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 05:26:03"
-subscribers: 39
+subscribers: 40
 posts: 0
 comments: 0
 weight: 0

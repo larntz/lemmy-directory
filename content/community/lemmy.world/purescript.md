@@ -3,7 +3,7 @@ title: "Purescript"
 name: "purescript"
 description: "A strongly-typed functional programming language that compiles to JavaScript."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/purescript"

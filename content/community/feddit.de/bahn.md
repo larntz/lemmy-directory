@@ -3,7 +3,7 @@ title: "Bahn: Fahrgäste, Eisenbahner und Bahn-Interessierte"
 name: "bahn"
 description: "Das Original von Reddit (/r/Bahn)Deutschsprachige Community für Diskussionen über Züge, Bahnunternehmen und dem öffentlichen Verkehr (z.B. Verspätungen, Preise, Fahrpläne und Neuigkeiten)"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bahn"

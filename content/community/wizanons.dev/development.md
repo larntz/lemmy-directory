@@ -3,7 +3,7 @@ title: "Development"
 name: "development"
 description: "Any development work! Show off your magic skills!"
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/development"

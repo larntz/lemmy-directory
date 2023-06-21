@@ -3,7 +3,7 @@ title: "Podcasts en català"
 name: "podcasts_en_catala"
 description: "Diu «podcasts», però crec que s'hauria d'acceptar qualsevol casta de publicació periòdica"
 type: community
-date: "2023-06-20 11:36:53"
+date: "2023-06-21 14:53:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/podcasts_en_catala"

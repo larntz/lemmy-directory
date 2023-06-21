@@ -3,7 +3,7 @@ title: "Rust"
 name: "rust"
 description: ""
 type: community
-date: "2023-06-20 11:37:34"
+date: "2023-06-21 14:54:20"
 draft: false
 nsfw: false
 actor_id: "https://databend.run/c/rust"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "databend_run"

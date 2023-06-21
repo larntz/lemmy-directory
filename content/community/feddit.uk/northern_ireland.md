@@ -1,0 +1,25 @@
+---
+title: "Northern Ireland" 
+name: "northern_ireland"
+description: "A place to discuss and talk about Northern Ireland, a constituent country of the United KingdomRules:No political extremismNo hateAll political debate must be constructive and in good faithLearn who my da is"
+type: community
+date: "2023-06-21 14:54:10"
+draft: false
+nsfw: false
+actor_id: "https://feddit.uk/c/northern_ireland"
+host: feddit.uk
+lastmod: "2023-06-21 00:33:44"
+published: "2023-06-21 00:27:39"
+subscribers: 1
+posts: 1
+comments: 0
+weight: 1
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "feddit_uk"
+tags: 
+- "feddit_uk"
+
+---

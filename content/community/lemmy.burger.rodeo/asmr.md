@@ -3,7 +3,7 @@ title: "ASMR - Tingle sounds that feel good"
 name: "asmr"
 description: "A place to discuss anything Music.Rules- **On-Topic:** Make sure your topic is related to ASMR.- **Please use the appropriate title:** This means something like [Type-of-ASMR] Small description.- **NSFW rule:** Mark your post as NSFW if it contains explicit, gratuitous nudity or anything of the kind. When in doubt, NSFW it for the browsing safety of our fellow members."
 type: community
-date: "2023-06-20 11:37:40"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/asmr"

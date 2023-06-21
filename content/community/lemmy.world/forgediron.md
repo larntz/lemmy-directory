@@ -3,7 +3,7 @@ title: "Forged Iron"
 name: "forgediron"
 description: "A community dedicated to forged iron products and discussion. Cast iron products are also welcome. For cast iron cookware, check https://lemmy.world/c/castiron"
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/forgediron"

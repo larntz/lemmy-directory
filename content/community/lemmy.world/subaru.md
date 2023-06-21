@@ -3,14 +3,14 @@ title: "Subaru"
 name: "subaru"
 description: "Automotive Community for anything related to Subaru."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/subaru"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 15:31:46"
-subscribers: 26
+subscribers: 27
 posts: 0
 comments: -1
 weight: 0

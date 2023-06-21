@@ -3,7 +3,7 @@ title: "Fox News"
 name: "foxnews"
 description: "News about foxes. Post pictures of foxes. Fox science."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/foxnews"
@@ -15,8 +15,8 @@ posts: 6
 comments: 0
 weight: 6
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_sdf_org"
 tags: 

@@ -3,7 +3,7 @@ title: "toki ma"
 name: "tokima"
 description: "A community for toki ma - an international auxiliary language based on toki pona.- [Homepage](https://toki-ma.com/)- [Toki ma grammar](https://funtoon.party/tokima/grammar/)"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tokima"
@@ -15,7 +15,7 @@ posts: 5
 comments: 3
 weight: 5
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"

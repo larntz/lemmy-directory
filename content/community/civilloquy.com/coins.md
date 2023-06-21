@@ -3,7 +3,7 @@ title: "Coins"
 name: "coins"
 description: "For discussion of coins of any place and age and the collecting thereofPlease somebody help me make a thematic logo that isn't ugly as sin"
 type: community
-date: "2023-06-20 11:37:10"
+date: "2023-06-21 14:53:57"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/coins"

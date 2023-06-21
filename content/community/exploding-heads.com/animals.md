@@ -3,7 +3,7 @@ title: "Animals"
 name: "animals"
 description: "Animal related posts"
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/animals"
@@ -15,7 +15,7 @@ posts: 8
 comments: 9
 weight: 8
 dau: 4
-wau: 7
+wau: 5
 mau: 8
 instances:
 - "exploding-heads_com"

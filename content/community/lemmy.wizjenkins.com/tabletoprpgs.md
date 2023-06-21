@@ -3,14 +3,14 @@ title: "TabletopRPGs"
 name: "tabletoprpgs"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:08"
+date: "2023-06-21 14:53:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/tabletoprpgs"
 host: lemmy.wizjenkins.com
 lastmod: "2023-06-07 18:06:16"
 published: "2023-06-06 03:25:18"
-subscribers: 15
+subscribers: 16
 posts: 3
 comments: 2
 weight: 3

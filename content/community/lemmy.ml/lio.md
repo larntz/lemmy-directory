@@ -3,7 +3,7 @@ title: "locust.io"
 name: "lio"
 description: "A community for people to talk about locust.io, the performance testing tool."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lio"

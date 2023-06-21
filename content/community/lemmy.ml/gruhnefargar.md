@@ -3,7 +3,7 @@ title: "Grøne Fargar"
 name: "gruhnefargar"
 description: "Me snakkar om fargar som er grøne. "
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gruhnefargar"

@@ -3,14 +3,14 @@ title: "Doodle Dogs"
 name: "doodledogs"
 description: "A place for owners of dogs that are poodle mixes"
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doodledogs"
 host: lemmy.world
 lastmod: "2023-06-13 03:46:19"
 published: "2023-06-10 19:57:11"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 2
 weight: 4

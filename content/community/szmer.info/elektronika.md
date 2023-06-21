@@ -3,7 +3,7 @@ title: "Hardware & Elektronika"
 name: "elektronika"
 description: "Procesory, karty graficzne, płyty główne itd. czyli podzespoły komputerowe jak i też: majsterkowanie; amatorskie projekty; układy elektroniczne; lutowanie itp. I ogólnie sprzęty elektroniczne. Czyli wszystko co związane z elektroniką."
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/elektronika"

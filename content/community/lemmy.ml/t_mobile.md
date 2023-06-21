@@ -3,18 +3,18 @@ title: "T-Mobile Unofficial Sublemmy"
 name: "t_mobile"
 description: "Related subs:* [T-Mobile Home Internet](!tmobileisp)"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/t_mobile"
 host: lemmy.ml
 lastmod: "2023-06-15 15:06:46"
 published: "2023-06-07 18:01:44"
-subscribers: 23
-posts: 7
+subscribers: 25
+posts: 9
 comments: 9
-weight: 7
-dau: 4
+weight: 9
+dau: 1
 wau: 5
 mau: 7
 instances:

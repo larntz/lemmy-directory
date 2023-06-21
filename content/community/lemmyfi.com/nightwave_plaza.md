@@ -3,7 +3,7 @@ title: "Nightwave Plaza"
 name: "nightwave_plaza"
 description: "[Nightwave Plaza](https://plaza.one/) is an online vaporwave music radio. This is an unofficial community for Vaporwave music enjoyers and creators."
 type: community
-date: "2023-06-20 11:37:37"
+date: "2023-06-21 14:54:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/nightwave_plaza"

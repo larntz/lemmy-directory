@@ -3,7 +3,7 @@ title: "CHI Cubs"
 name: "chicubs"
 description: "Cloned from [r/CHICubs](https://old.reddit.com/r/CHICubs)# Looking for mods!"
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/chicubs"

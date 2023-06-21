@@ -3,20 +3,20 @@ title: "Linux"
 name: "linux"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/linux"
 host: programming.dev
 lastmod: "2023-06-13 23:26:41"
 published: "2023-06-13 22:26:54"
-subscribers: 426
-posts: 11
-comments: 32
-weight: 11
+subscribers: 489
+posts: 13
+comments: 34
+weight: 13
 dau: 3
-wau: 21
-mau: 21
+wau: 20
+mau: 23
 instances:
 - "programming_dev"
 tags: 

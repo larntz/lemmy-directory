@@ -3,14 +3,14 @@ title: "Best Of Lemmy"
 name: "bestof"
 description: "The very best posts and comments on Lemmy as submitted by the users of Lemmy."
 type: community
-date: "2023-06-20 11:38:24"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestof"
 host: lemmy.ml
 lastmod: "2023-06-16 21:09:30"
 published: "2023-06-16 21:09:15"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

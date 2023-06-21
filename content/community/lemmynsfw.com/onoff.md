@@ -3,20 +3,20 @@ title: "On Off"
 name: "onoff"
 description: "A replacement for r/onoff. Posts must feature on/off content. Do not violate site wide or common sense rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/onoff"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 12:32:06"
-subscribers: 331
-posts: 7
+subscribers: 371
+posts: 9
 comments: 0
-weight: 7
-dau: 2
-wau: 2
-mau: 2
+weight: 9
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmynsfw_com"
 tags: 

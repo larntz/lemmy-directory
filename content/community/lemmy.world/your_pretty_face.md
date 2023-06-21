@@ -3,7 +3,7 @@ title: "Your Pretty Face is Going to Hell"
 name: "your_pretty_face"
 description: "The Adult Swim show about the afterlife in Hell.**Haven't seen it?** Watch all episodes for free on the [Adult Swim website](https://www.adultswim.com/videos/your-pretty-face-is-going-to-hell/).&nbsp;"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/your_pretty_face"

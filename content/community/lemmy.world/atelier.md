@@ -3,14 +3,14 @@ title: "Atelier"
 name: "atelier"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atelier"
 host: lemmy.world
 lastmod: "2023-06-18 04:54:16"
 published: "2023-06-11 22:14:02"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 1
 weight: 1

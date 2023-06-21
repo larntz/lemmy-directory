@@ -3,7 +3,7 @@ title: "New England Patriots"
 name: "patriots"
 description: "A community dedicated to the New England Patriots.**Looking for Mods!**"
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/patriots"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-17 20:34:54"
 published: "2023-06-14 01:24:46"
 subscribers: 0
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

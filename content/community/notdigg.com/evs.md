@@ -3,7 +3,7 @@ title: "EVs"
 name: "evs"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/evs"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "notdigg_com"

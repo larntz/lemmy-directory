@@ -3,19 +3,19 @@ title: "guitar"
 name: "guitar"
 description: "Community to discuss all things related to guitar"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guitar"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-04-15 15:44:57"
-subscribers: 112
+subscribers: 114
 posts: 8
 comments: 3
 weight: 8
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_ml"

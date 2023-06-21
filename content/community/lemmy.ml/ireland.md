@@ -3,7 +3,7 @@ title: "Ireland"
 name: "ireland"
 description: "A sublemmy for the loveliest country on earth. "
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ireland"
@@ -14,9 +14,9 @@ subscribers: 100
 posts: 20
 comments: 20
 weight: 20
-dau: 1
-wau: 7
-mau: 7
+dau: 2
+wau: 6
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 

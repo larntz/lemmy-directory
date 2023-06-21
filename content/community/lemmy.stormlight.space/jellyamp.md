@@ -3,7 +3,7 @@ title: "jellyamp"
 name: "jellyamp"
 description: "An iOS app for playing music from your Jellyfin instance!"
 type: community
-date: "2023-06-19 17:59:10"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.stormlight.space/c/jellyamp"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_stormlight_space"

@@ -3,17 +3,17 @@ title: "MilfNSFW"
 name: "milfnsfw"
 description: "MilfNSWF - If you like the older sexy lady then this is the place for you let these Milfs teach you a thing or two"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/milfnsfw"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 05:34:59"
-subscribers: 18
-posts: 2
+subscribers: 30
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

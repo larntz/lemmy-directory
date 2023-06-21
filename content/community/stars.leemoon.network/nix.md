@@ -3,7 +3,7 @@ title: "NixOS / Nix"
 name: "nix"
 description: "Non-official Nix(OS) community in Fediverse.Useful links:search.nixos.orgnixos.wikihttps://nixos.org/learn.html"
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/nix"

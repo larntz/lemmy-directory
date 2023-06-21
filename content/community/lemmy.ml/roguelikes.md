@@ -3,7 +3,7 @@ title: "Roguelikes"
 name: "roguelikes"
 description: "[Roguelikes](https://en.wikipedia.org/wiki/Roguelike), Roguelites, & Roguelike-likes"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roguelikes"
@@ -15,8 +15,8 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

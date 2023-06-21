@@ -3,7 +3,7 @@ title: "Wayland Compositor"
 name: "wayland"
 description: "A space for information and questions regarding the new Wayland compositor protocols and it's implementations.Rules:- Be respectful- Stay on topic: Keep discussions focused on Wayland compositors, Wayland protocol, and related topics.- Provide context: When asking for help or discussing an issue, provide as much relevant information as possible. This will help others assist you more effectively."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/wayland"

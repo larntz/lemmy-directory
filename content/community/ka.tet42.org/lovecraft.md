@@ -3,7 +3,7 @@ title: "H.P. Lovecraft"
 name: "lovecraft"
 description: "Community for fans of Lovecraft and Cthulhu mythos."
 type: community
-date: "2023-06-20 11:37:26"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/lovecraft"
@@ -15,7 +15,7 @@ posts: 2
 comments: 5
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "ka_tet42_org"

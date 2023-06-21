@@ -3,14 +3,14 @@ title: "Ebony "
 name: "ebony"
 description: "An alternative to r/ebony. Post ebony porn, pics, etc. Do not post anything against sitewide rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ebony"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 13:59:37"
-subscribers: 193
+subscribers: 212
 posts: 8
 comments: 0
 weight: 8

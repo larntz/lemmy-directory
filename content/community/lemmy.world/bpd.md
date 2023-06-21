@@ -3,7 +3,7 @@ title: "BPD"
 name: "bpd"
 description: "Welcome! This is an inclusive and positive community to share your experiences with BPD. Most types of content is welcome, including memes, rants, questions, and general chat. *This community is not intended for those looking to complain about loved ones w/bpd. This is a safe space, please be respectful. **Not associated with r/BPD. "
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bpd"

@@ -3,14 +3,14 @@ title: "Experimental Music - Weird Tunes Sharing and Discussion"
 name: "experimental_music"
 description: "Discuss and share your favorite music that is a bit on the wild side."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/experimental_music"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 16:23:26"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

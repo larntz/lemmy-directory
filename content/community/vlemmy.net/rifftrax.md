@@ -3,7 +3,7 @@ title: "Rifftrax"
 name: "rifftrax"
 description: "Rifftrax makes fun of bad movies. It's made up of the former stars of Mystery Science Theater 3000; Mike Nelson, Bill Corbett and Kevin Murphy."
 type: community
-date: "2023-06-20 11:37:14"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/rifftrax"

@@ -3,7 +3,7 @@ title: "A song of ice and fire"
 name: "asoiaf"
 description: "A lemmy community for fans of the fantasy series 'A song of ice and fire' by author George RR Martin"
 type: community
-date: "2023-06-20 11:37:22"
+date: "2023-06-21 14:54:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/asoiaf"

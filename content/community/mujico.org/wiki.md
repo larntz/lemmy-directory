@@ -3,14 +3,14 @@ title: "HuachiNet - Wiki"
 name: "wiki"
 description: "Wiki para usar la HuachiNet"
 type: community
-date: "2023-06-20 11:36:53"
+date: "2023-06-21 14:53:39"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/wiki"
 host: mujico.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-09-08 00:40:21"
-subscribers: 126
+subscribers: 127
 posts: 20
 comments: 122
 weight: 20

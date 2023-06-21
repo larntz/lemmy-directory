@@ -3,7 +3,7 @@ title: "Tierwelt"
 name: "tierwelt"
 description: "Die Community für alle Themen aus der Welt der Tiere!::: spoiler AttributionFaultier Icon erstellt von  [max.icons - Flaticon](https://www.flaticon.com/de/kostenlose-icons/faultier):::"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tierwelt"

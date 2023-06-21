@@ -3,7 +3,7 @@ title: "Fractal Field Painting"
 name: "fractal_field_paint"
 description: "A community for the display and discussion of artwork created using various fractal field techniques. Please be civil, and only post your own work or document the work of others!"
 type: community
-date: "2023-06-20 11:37:40"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/fractal_field_paint"

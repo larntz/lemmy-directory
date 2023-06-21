@@ -3,17 +3,17 @@ title: "Prusa Research"
 name: "prusa"
 description: "A Community for discussing all things related to specifically Prusa Researchs 3D Printers like the MK3, MK4, Mini and XL"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prusa"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 09:53:27"
-subscribers: 38
-posts: 2
+subscribers: 43
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2

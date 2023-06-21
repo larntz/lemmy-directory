@@ -3,14 +3,14 @@ title: "Poland"
 name: "poland"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/poland"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-30 05:11:07"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2

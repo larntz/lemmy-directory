@@ -3,7 +3,7 @@ title: "pics"
 name: "pics"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:26"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dormedas.com/c/pics"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_dormedas_com"

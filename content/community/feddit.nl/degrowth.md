@@ -3,7 +3,7 @@ title: "Degrowth"
 name: "degrowth"
 description: "Discussions about degrowth and other theories that criticise the paradigm of endless economic growth."
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/degrowth"

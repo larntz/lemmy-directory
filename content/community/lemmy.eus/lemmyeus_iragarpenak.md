@@ -3,7 +3,7 @@ title: "Lemmy.eus iragarpenak"
 name: "lemmyeus_iragarpenak"
 description: "Hemen **Lemmy.eus** webguneari buruzko albiste eta jakinarazpen garrantzitsuak argitaratzen dira.Mesedez, ez idatzi hemen. Komunitate honetan, iragarpenak *administratzaileek bakarrik* egiten dituzte."
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/main"
@@ -15,7 +15,7 @@ posts: 83
 comments: 59
 weight: 83
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_eus"

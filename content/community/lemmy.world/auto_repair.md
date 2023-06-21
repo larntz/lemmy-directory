@@ -3,14 +3,14 @@ title: "Automotive Repair"
 name: "auto_repair"
 description: "In the shop, under the hood, and between the valves. A place for showcasing busted knuckles, discussing the regrettable career choice, and finding out where the tick noise is coming from."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/auto_repair"
 host: lemmy.world
 lastmod: "2023-06-13 12:53:08"
 published: "2023-06-13 12:32:16"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1

@@ -3,17 +3,17 @@ title: "Dobre wiadomości"
 name: "dobre"
 description: "Społeczność wyłącznie na dobre wiadomości. Miejsce dla osób potrzebujących chwili odpoczynku albo po prostu niedołującej przestrzeni.(błagam, niech ktoś przejmie ode mnie moderację, ja tu nie wyrobię / @harc) "
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/dobre"
 host: szmer.info
 lastmod: "2022-06-30 11:49:42"
 published: "2021-10-19 14:50:16"
-subscribers: 85
-posts: 299
+subscribers: 84
+posts: 300
 comments: 81
-weight: 299
+weight: 300
 dau: 1
 wau: 2
 mau: 5

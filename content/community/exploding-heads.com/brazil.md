@@ -3,14 +3,14 @@ title: "Brazil"
 name: "brazil"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:56:37"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/brazil"
 host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-15 21:57:53"
-subscribers: 5
+subscribers: 4
 posts: 42
 comments: 3
 weight: 42

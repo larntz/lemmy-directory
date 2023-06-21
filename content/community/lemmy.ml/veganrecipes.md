@@ -3,20 +3,20 @@ title: "Vegan Recipes"
 name: "veganrecipes"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/veganrecipes"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-08-21 20:39:33"
-subscribers: 146
+subscribers: 159
 posts: 16
 comments: 11
 weight: 16
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

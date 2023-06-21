@@ -3,7 +3,7 @@ title: "Avatar"
 name: "thelastairbender"
 description: "This is the community for fans of Avatar: The Last Airbender, The Legend of Korra, the comics, the upcoming Netflix live action ATLA series, novels, games, and all other Avatar content."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thelastairbender"
@@ -15,8 +15,8 @@ posts: 9
 comments: 6
 weight: 9
 dau: 2
-wau: 4
-mau: 4
+wau: 3
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 

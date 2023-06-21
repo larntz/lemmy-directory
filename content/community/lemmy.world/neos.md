@@ -3,7 +3,7 @@ title: "Neos VR fans"
 name: "neos"
 description: "a fan community for NeosVR"
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neos"

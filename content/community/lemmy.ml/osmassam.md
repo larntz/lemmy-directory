@@ -3,7 +3,7 @@ title: "OpenStreetMap Assam"
 name: "osmassam"
 description: "OpenStreetMap community for Assam."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osmassam"

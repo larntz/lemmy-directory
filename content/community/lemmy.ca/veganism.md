@@ -3,7 +3,7 @@ title: "Veganism"
 name: "veganism"
 description: "Discussions and content about veganism (a moral philosophy opposed to animal cruelty and exploitation) and its practical application."
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/veganism"

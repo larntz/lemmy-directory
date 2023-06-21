@@ -3,7 +3,7 @@ title: "Bookmarked Posts"
 name: "bookmarked_posts"
 description: "A selection of good posts I found around the fediverse."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nauk.io/c/bookmarked_posts"

@@ -3,14 +3,14 @@ title: "Baltimore"
 name: "baltimore"
 description: "Charm City!"
 type: community
-date: "2023-06-20 11:37:29"
+date: "2023-06-21 14:54:16"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/baltimore"
 host: dmv.social
 lastmod: "2023-06-15 21:28:08"
 published: "2023-06-15 21:20:29"
-subscribers: 10
+subscribers: 14
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "Firefox Browser (Linux und Android)"
 name: "firefoxbrowser"
 description: "Der Browser Firefox von Mozilla (Linux und Android)"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/firefoxbrowser"
 host: feddit.de
 lastmod: "2022-10-11 15:54:47"
 published: "2022-10-11 15:45:24"
-subscribers: 251
+subscribers: 255
 posts: 20
 comments: 23
 weight: 20

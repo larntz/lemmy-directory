@@ -3,7 +3,7 @@ title: "Kunst, Bilder & Fotografie"
 name: "kunstbilderfoto"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kunstbilderfoto"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_de"

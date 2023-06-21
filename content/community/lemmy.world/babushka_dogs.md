@@ -3,7 +3,7 @@ title: "Babushka Dogs"
 name: "babushka_dogs"
 description: "It's been a long, cold winter. Babushka dog's potato harvest was ruined by the flood. Woe is Babushka dog,"
 type: community
-date: "2023-06-20 11:38:49"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/babushka_dogs"
@@ -14,9 +14,9 @@ subscribers: 3
 posts: 0
 comments: 0
 weight: 0
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Colorado"
 name: "colorado"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://centennialstate.social/c/colorado"
@@ -14,7 +14,7 @@ subscribers: 17
 posts: 6
 comments: 11
 weight: 6
-dau: 3
+dau: 1
 wau: 6
 mau: 6
 instances:

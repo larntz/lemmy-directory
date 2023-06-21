@@ -3,7 +3,7 @@ title: "Worlds.com - The 3D Entertainment Portal"
 name: "worldsonline"
 description: "Welcome to the WorldsOnline Lemmy Community for Worlds.com. Worlds is a 90's virtual 3D chat client and entertainment portal still active and alive.[Join the Discord here!](https://discord.gg/X2TcgRv)---Please follow these rules to ensure our community has a good time:* Keep posts Worlds related.* No call out or targetted posts on any Worlds User.* Please report any rule-breaking in Worlds to the Hosts.* No inappropriate WorldsMarks* No enabling the cult rumors ( We are sick of that ).Thank you."
 type: community
-date: "2023-06-19 18:00:34"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/worldsonline"

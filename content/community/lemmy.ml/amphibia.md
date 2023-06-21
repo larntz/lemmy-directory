@@ -3,7 +3,7 @@ title: "Amphibia"
 name: "amphibia"
 description: "Welcome to Amphibia sublemmy! The place for discussions, memes and f-Anne art for Amphibia the wondeful Disney cartoon.Rules: - Stay on topic- Don't be a jerk- Follow the rules of this Lemmy instance"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amphibia"

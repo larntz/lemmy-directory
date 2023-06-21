@@ -3,7 +3,7 @@ title: "character ai"
 name: "characterai"
 description: "A community for the discussion of chats, bots, and creating bots."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/characterai"

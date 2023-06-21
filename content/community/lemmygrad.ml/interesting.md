@@ -3,7 +3,7 @@ title: "Interesting"
 name: "interesting"
 description: "A place for interesting articles and tidbits that don't fit elsewhere."
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/interesting"

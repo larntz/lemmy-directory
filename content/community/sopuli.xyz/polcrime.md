@@ -3,7 +3,7 @@ title: "Police Misconduct"
 name: "polcrime"
 description: "Community to discuss coerced false confession, intimidation, false arrest, false imprisonment, falsification of evidence, spoliation of evidence, police perjury, witness tampering, police brutality, police corruption, racial profiling, unwarranted surveillance, unwarranted searches, and unwarranted seizure of property etc"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/polcrime"
@@ -16,7 +16,7 @@ comments: 0
 weight: 4
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "sopuli_xyz"
 tags: 

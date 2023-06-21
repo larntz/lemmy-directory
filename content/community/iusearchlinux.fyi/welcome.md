@@ -3,7 +3,7 @@ title: "welcome"
 name: "welcome"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/welcome"
@@ -15,7 +15,7 @@ posts: 6
 comments: 106
 weight: 6
 dau: 1
-wau: 22
+wau: 7
 mau: 30
 instances:
 - "iusearchlinux_fyi"

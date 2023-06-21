@@ -3,14 +3,14 @@ title: "Apollo"
 name: "apolloapp"
 description: "Non official"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/apolloapp"
 host: lemmy.ml
 lastmod: "2023-06-10 07:38:12"
 published: "2023-06-10 07:38:00"
-subscribers: 24
+subscribers: 26
 posts: 0
 comments: 0
 weight: 0

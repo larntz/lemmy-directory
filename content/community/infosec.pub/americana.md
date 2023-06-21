@@ -3,7 +3,7 @@ title: "Americana"
 name: "americana"
 description: "Americana (also known as American roots music) is an amalgam of American music formed by the confluence of the shared and varied traditions that make up the musical ethos of the United States, specifically those sounds that are emerged from the Southern United States such as folk, gospel, blues, country, jazz, rhythm and blues, rock and roll, bluegrass, and other external influences.^___^"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:51"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/americana"

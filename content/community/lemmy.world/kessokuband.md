@@ -3,7 +3,7 @@ title: "Kessoku Band"
 name: "kessokuband"
 description: "The scream of the soul that shakes the heavens! Come! Let's grasp the crown of victory! Create a legend, Kessoku Band!!"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kessokuband"

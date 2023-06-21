@@ -3,16 +3,16 @@ title: "Meta"
 name: "meta"
 description: "Information and questions about this Lemmy instance."
 type: community
-date: "2023-06-20 11:37:28"
+date: "2023-06-21 14:54:15"
 draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/meta"
 host: rammy.site
 lastmod: "2023-06-13 21:20:10"
 published: "2023-06-12 00:09:39"
-subscribers: 9
+subscribers: 10
 posts: 6
-comments: 29
+comments: 31
 weight: 6
 dau: 3
 wau: 15

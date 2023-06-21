@@ -3,14 +3,14 @@ title: "The Possum Patio Meta"
 name: "possumpatio"
 description: "Announcements and meta-discussion about The Possum Patio instance. "
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/possumpatio"
 host: possumpat.io
 lastmod: "2023-06-10 20:17:54"
 published: "2023-06-08 22:44:11"
-subscribers: 32
+subscribers: 34
 posts: 3
 comments: 15
 weight: 3

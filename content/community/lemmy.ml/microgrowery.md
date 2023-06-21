@@ -3,7 +3,7 @@ title: "microgrowery"
 name: "microgrowery"
 description: "Place for small-scale personal use cannabis growers"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/microgrowery"
@@ -15,7 +15,7 @@ posts: 6
 comments: 32
 weight: 6
 dau: 1
-wau: 5
+wau: 3
 mau: 7
 instances:
 - "lemmy_ml"

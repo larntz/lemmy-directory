@@ -3,14 +3,14 @@ title: "Podcasting Uncensored"
 name: "podcastinguncensored"
 description: "All you need to podcast is a server and an RSS feed - and you can bypass all the Big Tech censors."
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/podcastinguncensored"
 host: exploding-heads.com
 lastmod: "2022-03-20 18:46:26"
 published: "2022-03-15 19:08:19"
-subscribers: 17
+subscribers: 18
 posts: 6
 comments: 0
 weight: 6

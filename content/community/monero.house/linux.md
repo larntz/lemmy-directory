@@ -3,7 +3,7 @@ title: "Linux"
 name: "linux"
 description: "Discuss all things Linux."
 type: community
-date: "2023-06-20 11:37:02"
+date: "2023-06-21 14:53:49"
 draft: false
 nsfw: false
 actor_id: "https://monero.house/c/linux"
@@ -15,7 +15,7 @@ posts: 3
 comments: 11
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "monero_house"

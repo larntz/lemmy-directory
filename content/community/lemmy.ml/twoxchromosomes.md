@@ -3,7 +3,7 @@ title: "twoxchromosomes"
 name: "twoxchromosomes"
 description: "All people are welcome here"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twoxchromosomes"

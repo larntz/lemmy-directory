@@ -3,14 +3,14 @@ title: "BestOfLists"
 name: "bestoflists"
 description: "There is more to see, to do, to find, to learn. This community is for lists of all the things. "
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestoflists"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-12-27 19:14:05"
-subscribers: 47
+subscribers: 48
 posts: 4
 comments: 2
 weight: 4

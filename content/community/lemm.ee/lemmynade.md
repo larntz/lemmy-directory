@@ -1,14 +1,14 @@
 ---
 title: "🍋 lemmynade・a beautiful lemmy client" 
 name: "lemmynade"
-description: "Lemmynade is an up-and-coming beautiful web, iOS, and Android client for Lemmy. It features a fast, stunning, intuitive interface with a priority on accessibility and moderation tools. It’s also completely indexable by major search engines, bringing all Lemmy instances, communities, and posts into one place with the power of server-side rendering. Subscribe to keep up-to-date on development progress!"
+description: "Lemmynade is a beautiful, refreshing, up-and-coming web, iOS, and Android client for Lemmy. It features a fast, stunning, intuitive interface with a priority on accessibility and moderation tools. It’s also completely indexable by major search engines—bringing all Lemmy instances, communities, and posts into one place with the power of server-side rendering.Subscribe to keep up-to-date on development progress!"
 type: community
-date: "2023-06-20 11:37:34"
+date: "2023-06-21 14:54:24"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lemmynade"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 00:00:18"
 published: "2023-06-19 21:51:29"
 subscribers: 3
 posts: 0

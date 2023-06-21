@@ -3,7 +3,7 @@ title: "Resident Evil"
 name: "residentevil"
 description: "Community for sharing news, art, opinions and anything else Resident Evil!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/residentevil"

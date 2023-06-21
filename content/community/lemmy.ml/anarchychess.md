@@ -3,7 +3,7 @@ title: "Chess Humor"
 name: "anarchychess"
 description: "Chess humor, the uprising on lemmy.ml"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchychess"

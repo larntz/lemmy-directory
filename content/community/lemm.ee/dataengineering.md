@@ -3,7 +3,7 @@ title: "Data Engineering"
 name: "dataengineering"
 description: "Discussion on Data Engineering topics. Data pipelines, tools and technologies, databases and DBMS, best practices"
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/dataengineering"

@@ -3,20 +3,20 @@ title: "St. Louis Blues"
 name: "stlouisblues"
 description: "Discussion regarding to the NHL hockey team, the St Louis Blues"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/stlouisblues"
 host: midwest.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 04:39:59"
-subscribers: 11
-posts: 2
-comments: 10
-weight: 2
-dau: 1
-wau: 4
-mau: 4
+subscribers: 13
+posts: 3
+comments: 12
+weight: 3
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "midwest_social"
 tags: 

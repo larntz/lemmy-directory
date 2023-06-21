@@ -3,7 +3,7 @@ title: "Classical Guitar"
 name: "classicalguitar"
 description: "A community for all lovers of anything classical guitar!"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/classicalguitar"

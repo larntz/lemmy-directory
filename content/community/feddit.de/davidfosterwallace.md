@@ -3,7 +3,7 @@ title: "DavidFosterWallace"
 name: "davidfosterwallace"
 description: "A place to discuss the work and life DFW, author of *Infinite Jest*, *The Pale King*, *Interviews With Hideous Men*, and many other works of fiction/non-fiction worth your time."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/davidfosterwallace"

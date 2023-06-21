@@ -3,7 +3,7 @@ title: "ProtonVPN"
 name: "protonvpn"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/protonvpn"
@@ -15,7 +15,7 @@ posts: 5
 comments: 6
 weight: 5
 dau: 2
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

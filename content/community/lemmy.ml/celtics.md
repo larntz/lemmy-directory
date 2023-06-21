@@ -3,19 +3,19 @@ title: "Boston Celtics"
 name: "celtics"
 description: "Go Celts! "
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/celtics"
 host: lemmy.ml
 lastmod: "2023-06-12 20:37:59"
 published: "2023-06-10 01:49:59"
-subscribers: 55
+subscribers: 57
 posts: 8
 comments: 13
 weight: 8
 dau: 3
-wau: 6
+wau: 4
 mau: 7
 instances:
 - "lemmy_ml"

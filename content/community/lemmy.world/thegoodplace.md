@@ -1,22 +1,22 @@
 ---
 title: "The Good Place" 
 name: "thegoodplace"
-description: "Refugee community for r/TheGoodPlace"
+description: "A refugee community for r/TheGoodPlaceRules are generally the same as on the sub, except you don’t have to worry about flairs or spoiler flags since it doesn’t look like Lemmy supports that on posts.There is a comment spoiler tag, though—it looks like an exclamation point with a triangle around it—so you can use that to hide major spoilers if you like. Use your discretion. Spoiler tagging isn’t required, but it is a nice thing to do.Beyond that, just make sure your posts are about The Good Place and that you try to be good to each other. It’s better than not trying."
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thegoodplace"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 16:41:23"
 published: "2023-06-19 18:30:24"
-subscribers: 31
-posts: 3
-comments: 8
-weight: 3
+subscribers: 47
+posts: 4
+comments: 18
+weight: 4
 dau: 5
-wau: 5
-mau: 5
+wau: 9
+mau: 9
 instances:
 - "lemmy_world"
 tags: 

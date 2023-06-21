@@ -3,7 +3,7 @@ title: "MotoGP"
 name: "motogp"
 description: "For discussions about all Moto GP classes [Calendar](https://www.motogp.com/en/calendar)"
 type: community
-date: "2023-06-20 11:37:36"
+date: "2023-06-21 14:54:22"
 draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/motogp"

@@ -3,14 +3,14 @@ title: "Music"
 name: "music"
 description: "Community to talk about music and share them."
 type: community
-date: "2023-06-20 11:37:31"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sumuun.net/c/music"
 host: lemmy.sumuun.net
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 05:02:22"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "NCAA Basketball"
 name: "collegebasketball"
 description: "Your central location for college hoops!"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/collegebasketball"
 host: lemmy.world
 lastmod: "2023-06-13 16:40:38"
 published: "2023-06-13 14:51:35"
-subscribers: 17
+subscribers: 22
 posts: 5
 comments: 1
 weight: 5

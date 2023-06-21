@@ -3,7 +3,7 @@ title: "They Knew"
 name: "theyknew"
 description: "For when they knew what they were doing"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theyknew"

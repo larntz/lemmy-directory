@@ -3,7 +3,7 @@ title: "Boating"
 name: "boating"
 description: "A community for boating enthusiasts, similar to /r/boating."
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:53:59"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/boating"

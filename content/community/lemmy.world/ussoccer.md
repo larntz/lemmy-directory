@@ -3,19 +3,19 @@ title: "ussoccer"
 name: "ussoccer"
 description: "Everything related to ussoccer"
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ussoccer"
 host: lemmy.world
-lastmod: "2023-06-17 18:08:23"
+lastmod: "2023-06-21 12:46:58"
 published: "2023-06-11 01:54:36"
-subscribers: 50
-posts: 14
+subscribers: 60
+posts: 16
 comments: 6
-weight: 14
-dau: 2
-wau: 5
+weight: 16
+dau: 1
+wau: 4
 mau: 5
 instances:
 - "lemmy_world"

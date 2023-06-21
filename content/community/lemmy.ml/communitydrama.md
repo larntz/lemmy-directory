@@ -3,7 +3,7 @@ title: "Community Drama"
 name: "communitydrama"
 description: "A community focusing on the drama between Communities on lemmy!Like r/subredditdrama, if you are wanting to compare it something.Will be always looking for more mods in future if things get hectic!"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/communitydrama"

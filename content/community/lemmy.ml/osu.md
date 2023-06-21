@@ -3,19 +3,19 @@ title: "osu!"
 name: "osu"
 description: "osu! is a rhythm game based on the gameplay of a variety of popular commercial rhythm games such as Osu! Tatakae! Ouendan and Elite Beat Agents."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osu"
 host: lemmy.ml
 lastmod: "2021-04-28 06:51:59"
 published: "2021-04-28 06:49:06"
-subscribers: 58
+subscribers: 61
 posts: 99
-comments: 26
+comments: 28
 weight: 99
 dau: 5
-wau: 9
+wau: 7
 mau: 10
 instances:
 - "lemmy_ml"

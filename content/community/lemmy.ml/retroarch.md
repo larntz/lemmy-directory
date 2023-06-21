@@ -3,7 +3,7 @@ title: "RetroArch"
 name: "retroarch"
 description: "Unofficial sublemmy for RetroArch. Share the best games, mods, hacks or news relating to RetroArch."
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/retroarch"

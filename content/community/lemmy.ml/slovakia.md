@@ -3,7 +3,7 @@ title: "slovakia"
 name: "slovakia"
 description: "Stuff about Slovakia, discussions, politics, memes, advice, help etc."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slovakia"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

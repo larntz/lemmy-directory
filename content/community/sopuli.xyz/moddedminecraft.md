@@ -3,20 +3,20 @@ title: "Modded Minecraft"
 name: "moddedminecraft"
 description: "The Blocky, Modded Side of LemmyRules:-Play nicely with others here-Discussion should be at least somewhat related to modded Minecraft and all that entails-Self-promotion is allowed within reason. Don't go overboard!"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/moddedminecraft"
 host: sopuli.xyz
 lastmod: "2023-06-09 11:10:36"
 published: "2023-06-07 23:19:21"
-subscribers: 275
+subscribers: 289
 posts: 14
-comments: 74
+comments: 76
 weight: 14
-dau: 7
-wau: 24
-mau: 24
+dau: 1
+wau: 26
+mau: 40
 instances:
 - "sopuli_xyz"
 tags: 

@@ -3,7 +3,7 @@ title: "Щитпостерская"
 name: "shitpost"
 description: "Щитпост как смысл жизни"
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/shitpost"
@@ -14,8 +14,8 @@ subscribers: 19
 posts: 26
 comments: 26
 weight: 26
-dau: 7
-wau: 14
+dau: 1
+wau: 12
 mau: 14
 instances:
 - "stars_leemoon_network"

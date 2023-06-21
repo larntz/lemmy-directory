@@ -3,20 +3,20 @@ title: "Ukrainian Conflict"
 name: "ukrainianconflict"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ukrainianconflict"
 host: lemmy.world
 lastmod: "2023-06-19 01:44:38"
 published: "2023-06-18 20:59:54"
-subscribers: 52
-posts: 5
+subscribers: 68
+posts: 7
 comments: 1
-weight: 5
+weight: 7
 dau: 2
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

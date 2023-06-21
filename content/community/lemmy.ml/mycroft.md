@@ -3,7 +3,7 @@ title: "Mycroft"
 name: "mycroft"
 description: "[Mycroft](https://en.wikipedia.org/wiki/Mycroft_(software)) is a free and open-source software voice assistant that uses a natural language user interface.mycroft.ai | [GitHub](https://github.com/MycroftAI)[Forum](https://community.mycroft.ai/) | [Mattermost](https://chat.mycroft.ai/) | [Matrix](https://matrix.to/#/%23mycroft1:matrix.org) | [IRC](https://kiwiirc.com/nextclient/irc.libera.chat#mycroft) | [Telegram](https://t.me/mycroft_ai)[Youtube](https://www.youtube.com/channel/UC1dlmB1lup9RwFQBSGnhA-g) | [Twitter](https://twitter.com/mycroft_ai) | [Facebook](https://www.facebook.com/aiforeveryone/)"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mycroft"

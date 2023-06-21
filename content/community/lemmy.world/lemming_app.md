@@ -3,14 +3,14 @@ title: "Lemming – Android App for Lemmy"
 name: "lemming_app"
 description: "Lemming is an Android app for Lemmy that is currently in development and will enter a beta phase within the next few days."
 type: community
-date: "2023-06-20 11:38:49"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemming_app"
 host: lemmy.world
-lastmod: "2023-06-18 00:02:40"
+lastmod: "2023-06-21 11:18:33"
 published: "2023-06-17 23:57:26"
-subscribers: 9
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0

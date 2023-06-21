@@ -3,7 +3,7 @@ title: "Turntables"
 name: "turntables"
 description: "· Discuss turntables (record players)· Mods of r/turntables welcome to take over here!· For threads about records (vinyl records), visit: [c/vinyl](https://lemmy.world/c/vinyl@lemmy.world)· For questions about beginner/cheap turntables, see the pinned post"
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/turntables"

@@ -3,14 +3,14 @@ title: "Fantasy Football"
 name: "fantasyfootball"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fantasyfootball"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 18:46:13"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

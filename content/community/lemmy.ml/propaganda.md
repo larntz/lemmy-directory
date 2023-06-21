@@ -3,7 +3,7 @@ title: "Propaganda"
 name: "propaganda"
 description: "Discussion of cases of propaganda around the world, both obvious and suspected."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/propaganda"
@@ -15,7 +15,7 @@ posts: 13
 comments: 9
 weight: 13
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

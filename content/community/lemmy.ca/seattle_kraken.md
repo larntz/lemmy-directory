@@ -3,7 +3,7 @@ title: "Seattle Kraken"
 name: "seattle_kraken"
 description: "A place to talk about the NHL's Seattle Kraken"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/seattle_kraken"

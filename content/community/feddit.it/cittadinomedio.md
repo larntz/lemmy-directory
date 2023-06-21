@@ -3,14 +3,14 @@ title: "Cittadino Medio "
 name: "cittadinomedio"
 description: "La comunità Lemmy dedicata al progetto di awareness CittadinoMedio.itLo scopo di questa community è discutere i contenuti del progetto, nuove idee, migliorie e altro. Si chiede cortesemente un atteggiamento rispettoso, inclusivo e produttivo. "
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/cittadinomedio"
 host: feddit.it
 lastmod: "2022-05-23 13:17:32"
 published: "2022-05-23 13:10:08"
-subscribers: 38
+subscribers: 39
 posts: 3
 comments: 2
 weight: 3

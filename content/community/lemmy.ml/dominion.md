@@ -3,7 +3,7 @@ title: "Dominion"
 name: "dominion"
 description: "Dominion: The OG Deck BuilderRules: 1. Be Polite2. Have Fun3. Pay attention to when it's your turnLinks: - [Rio Grande Dominion](https://www.riograndegames.com/games/dominion/)- [Dominion Online](https://dominion.games)- [Dominion Strategy Forum](https://wiki.dominionstrategy.com/index.php/Main_Page)"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dominion"

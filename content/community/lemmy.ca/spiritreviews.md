@@ -3,7 +3,7 @@ title: "Spirit Reviews (Whisky, Rum, Agave, other)"
 name: "spiritreviews"
 description: "A place to leave reviews regarding whisky, rum, mezcal, or anything else. Posts should be reviews only. Recommended scoring tk8e style, but scoring not required."
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/spiritreviews"

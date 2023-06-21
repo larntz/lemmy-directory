@@ -3,7 +3,7 @@ title: "Pathfinder 2nd Edition"
 name: "pathfinder"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:08"
+date: "2023-06-21 14:53:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/pathfinder"

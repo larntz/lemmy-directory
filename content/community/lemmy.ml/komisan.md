@@ -3,7 +3,7 @@ title: "Komi-san wa Komyushou Desu"
 name: "komisan"
 description: "Komi Can't Communicate is a Japanese manga series written and illustrated by Tomohito Oda. It has been serialized in Shogakukan's shōnen manga magazine Weekly Shōnen Sunday since May 2016, with its chapters collected in 29 tankōbon volumes as of April 2023. The series is licensed in North America by Viz Media.# Rules- Follow the guidelines of lemmy- Have common sense"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/komisan"

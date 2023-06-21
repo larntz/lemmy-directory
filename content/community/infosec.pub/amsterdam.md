@@ -1,14 +1,14 @@
 ---
 title: "Amsterdam" 
 name: "amsterdam"
-description: "Amsterdam, Mokum, capital of the Netherlands. We're the community for everything Amsterdam, in Dutch & English. First time here? Read our Wiki and use our sticky threads."
+description: "Find our new community on **[Kbin.social/m/Amsterdam](https://kbin.social/m/Amsterdam)**"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:51"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/amsterdam"
 host: infosec.pub
-lastmod: "2023-06-12 03:49:19"
+lastmod: "2023-06-20 14:12:08"
 published: "2023-06-12 03:29:13"
 subscribers: 3
 posts: 1

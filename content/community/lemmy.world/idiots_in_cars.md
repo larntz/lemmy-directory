@@ -3,14 +3,14 @@ title: "idiots_in_cars"
 name: "idiots_in_cars"
 description: "videos of people being idiots in cars"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/idiots_in_cars"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 18:31:15"
-subscribers: 27
+subscribers: 28
 posts: 0
 comments: 0
 weight: 0

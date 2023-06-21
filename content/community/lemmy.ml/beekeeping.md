@@ -3,7 +3,7 @@ title: "Beekeeping"
 name: "beekeeping"
 description: "Beekeeping, bee gardens, bee research, bee pictures, and honey appreciation."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beekeeping"
@@ -15,8 +15,8 @@ posts: 4
 comments: 1
 weight: 4
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

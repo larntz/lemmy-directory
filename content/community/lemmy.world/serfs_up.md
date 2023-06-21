@@ -3,7 +3,7 @@ title: "Serfs Up"
 name: "serfs_up"
 description: "A post-left anarchist space for the sharing and discussion of ideas relevant to the abolition of work, dismantling capitalism, smashing the patriarchy, cultivating resilient communities and mutual aid."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/serfs_up"

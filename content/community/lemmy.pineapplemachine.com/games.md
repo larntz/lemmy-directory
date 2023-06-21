@@ -3,14 +3,14 @@ title: "games"
 name: "games"
 description: "A place for general discussion and news about video games."
 type: community
-date: "2023-06-20 11:37:07"
+date: "2023-06-21 14:53:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/games"
 host: lemmy.pineapplemachine.com
 lastmod: "2023-06-05 10:38:07"
 published: "2023-06-05 08:53:25"
-subscribers: 54
+subscribers: 56
 posts: 8
 comments: 3
 weight: 8

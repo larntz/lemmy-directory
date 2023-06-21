@@ -3,7 +3,7 @@ title: "Open Source Hardware"
 name: "open_source_hardware"
 description: "To talk about open source hardware projects."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/open_source_hardware"

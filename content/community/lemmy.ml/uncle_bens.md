@@ -3,14 +3,14 @@ title: "Uncle Bens"
 name: "uncle_bens"
 description: "A community for the uncle ben's mushroom growing technique. "
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uncle_bens"
 host: lemmy.ml
 lastmod: "2021-01-31 19:32:04"
 published: "2021-01-31 16:27:16"
-subscribers: 56
+subscribers: 57
 posts: 5
 comments: 11
 weight: 5

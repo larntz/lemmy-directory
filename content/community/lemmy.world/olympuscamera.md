@@ -3,7 +3,7 @@ title: "Olympus Camera"
 name: "olympuscamera"
 description: "Welcome to our beautiful Olympus camera subreddit. Whether you love Olympus' digital cameras or analog cameras - this is the place for you![All Olympus digital cameras](https://www.dpreview.com/products/olympus/cameras?subcategoryId=cameras&page=1)"
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/olympuscamera"

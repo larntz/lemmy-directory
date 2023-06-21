@@ -3,7 +3,7 @@ title: "Arctic Monkeys"
 name: "arcticmonkeys"
 description: "Sublemmy dedicated to the indie rock band out of Sheffield, England.If you want to become a moderator contact me: [@AsepticFuturisticFox](https://lemmy.ml/u/AsepticFuturisticFox) "
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arcticmonkeys"

@@ -3,7 +3,7 @@ title: "Testing and Development"
 name: "testing"
 description: "Testing and development for this server and scripting. Feel free to test out Lemmy here."
 type: community
-date: "2023-06-20 11:37:13"
+date: "2023-06-21 14:54:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cablepick.net/c/testing"

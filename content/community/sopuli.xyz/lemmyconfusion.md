@@ -3,7 +3,7 @@ title: "LemmyConfusion"
 name: "lemmyconfusion"
 description: "A collection of weird behavior of the site from the point of view of a new user"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/lemmyconfusion"
@@ -15,8 +15,8 @@ posts: 3
 comments: 4
 weight: 3
 dau: 3
-wau: 3
-mau: 3
+wau: 1
+mau: 4
 instances:
 - "sopuli_xyz"
 tags: 

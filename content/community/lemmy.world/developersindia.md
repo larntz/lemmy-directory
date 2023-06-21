@@ -3,7 +3,7 @@ title: "DevelopersIndia"
 name: "developersindia"
 description: "hub for Indian devs to talk about"
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/developersindia"

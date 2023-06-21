@@ -1,22 +1,22 @@
 ---
 title: "TTRPGs" 
 name: "ttrpgs"
-description: "A community for tabletop gaming of all kinds#ttrpg #rpg #rpgs #BoardGames"
+description: "A community for tabletop gaming of all kinds#ttrpg #rpg #rpgs #BoardGames**Other TTRPG communities:**[worldbuilding@lemmy.ml](/c/worldbuilding@lemmy.ml)--"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ttrpgs"
 host: lemmy.blahaj.zone
-lastmod: "2023-06-15 02:11:42"
+lastmod: "2023-06-20 21:39:43"
 published: "2023-01-05 21:19:42"
-subscribers: 719
-posts: 24
-comments: 167
-weight: 24
-dau: 3
-wau: 65
-mau: 65
+subscribers: 767
+posts: 28
+comments: 183
+weight: 28
+dau: 6
+wau: 66
+mau: 85
 instances:
 - "lemmy_blahaj_zone"
 tags: 

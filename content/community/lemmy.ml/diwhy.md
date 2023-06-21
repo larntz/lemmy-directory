@@ -3,14 +3,14 @@ title: "DiWHY"
 name: "diwhy"
 description: "DIY lifehacks that dont make sense to create."
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diwhy"
 host: lemmy.ml
 lastmod: "2021-12-15 21:32:03"
 published: "2021-12-15 01:34:00"
-subscribers: 23
+subscribers: 24
 posts: 0
 comments: 0
 weight: 0

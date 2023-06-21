@@ -3,7 +3,7 @@ title: "Food and Travel"
 name: "foodandtravel"
 description: "Travel not to escape life but for life not to escape you "
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foodandtravel"

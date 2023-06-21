@@ -3,7 +3,7 @@ title: "NRSK Lemmy Meta"
 name: "nrsk_meta"
 description: "(🇳🇴) Om NRSK Lemmy-serveren. Informasjon fra admin. Spørsmål fra brukere og federerte gjester. Ikke teknisk support.(🇬🇧 /🇺🇸) Regarding the NRSK Lemmy instance. Info from the admin. Questions from users and federated guests. No tech support."
 type: community
-date: "2023-06-20 11:37:37"
+date: "2023-06-21 14:54:23"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/nrsk_meta"

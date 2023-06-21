@@ -3,7 +3,7 @@ title: "Low Sodium Simmers"
 name: "lowsodiumsimmers"
 description: "Welcome to a salt-free Sims Community! Please: no negativity or complaining here - share the things that make you happy about The Sims.Related:* [/r/lowsodiumsimmers](https://www.reddit.com/r/LowSodiumSimmers)* [!thesims@lemmy.world](https://lemmy.world/c/thesims) "
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/lowsodiumsimmers"

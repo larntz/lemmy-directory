@@ -3,7 +3,7 @@ title: "Eurovision Song Contest"
 name: "eurovision"
 description: "Community for discussion about the world’s music competition uniting Europe"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eurovision"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "feddit_de"

@@ -1,22 +1,22 @@
 ---
 title: "New Music" 
 name: "newmusic"
-description: "Community to upload New Music from unsigned artists."
+description: "Community to upload New Music from unsigned artists.Rules:    No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. Code of Conduct.    Be respectful. Everyone should feel welcome here.    No NSFW content.    No Ads / Spamming.    Be thoughtful and helpful ."
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newmusic"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-20 19:29:43"
 published: "2023-06-16 10:25:52"
-subscribers: 73
-posts: 9
-comments: 7
-weight: 9
-dau: 1
-wau: 9
-mau: 9
+subscribers: 84
+posts: 11
+comments: 9
+weight: 11
+dau: 2
+wau: 10
+mau: 10
 instances:
 - "lemmy_world"
 tags: 

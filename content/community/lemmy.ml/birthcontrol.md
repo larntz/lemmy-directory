@@ -3,7 +3,7 @@ title: "Birth Control "
 name: "birthcontrol"
 description: "/r/birthcontrol Under constructionRules:1. Not Doctors 2. Be Welcoming 3. Tact4. Respect5. Follow site wide rules. 6. No selling, advertising, or surveys 7. No misinformation "
 type: community
-date: "2023-06-20 11:38:24"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birthcontrol"
@@ -14,9 +14,9 @@ subscribers: 4
 posts: 1
 comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

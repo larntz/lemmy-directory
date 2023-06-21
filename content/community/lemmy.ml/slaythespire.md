@@ -3,20 +3,20 @@ title: "Slay the Spire"
 name: "slaythespire"
 description: "A place to discuss Slay the Spire the video game"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slaythespire"
 host: lemmy.ml
 lastmod: "2023-06-13 14:14:29"
 published: "2023-06-13 13:56:38"
-subscribers: 18
+subscribers: 22
 posts: 4
-comments: 6
+comments: 7
 weight: 4
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 

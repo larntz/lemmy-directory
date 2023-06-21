@@ -3,7 +3,7 @@ title: "Person of Interest (PoI)"
 name: "personofinterest"
 description: "_You are being watched._Posts and discussions about the 2011-2016 TV series Person of Interest"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/personofinterest"

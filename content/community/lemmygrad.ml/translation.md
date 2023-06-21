@@ -3,7 +3,7 @@ title: "Translating for comrades"
 name: "translation"
 description: "A community so comrades can ask for translations from other comrades. Please format your title to begin with [SOURCE -> TARGET]. For example [Chinese -> English]."
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/translation"
@@ -15,7 +15,7 @@ posts: 9
 comments: 33
 weight: 9
 dau: 1
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "lemmygrad_ml"

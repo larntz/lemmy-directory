@@ -3,14 +3,14 @@ title: "ASMR, Satisfying, Shredder, Experiment, Relaxing , interesting"
 name: "satisfying"
 description: "Welcome to my page, please share relevant content."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/satisfying"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-03-03 21:32:27"
-subscribers: 38
+subscribers: 40
 posts: 4
 comments: 0
 weight: 4

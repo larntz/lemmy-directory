@@ -3,7 +3,7 @@ title: "Architecture"
 name: "architecture"
 description: "Community for people who like buildings."
 type: community
-date: "2023-06-20 11:37:06"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/architecture"

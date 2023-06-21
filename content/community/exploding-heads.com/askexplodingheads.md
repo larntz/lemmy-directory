@@ -3,19 +3,19 @@ title: "Ask exploding heads"
 name: "askexplodingheads"
 description: "Ask a question, any question "
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/askexplodingheads"
 host: exploding-heads.com
 lastmod: "2023-06-02 12:01:03"
 published: "2023-05-31 09:16:53"
-subscribers: 44
-posts: 25
-comments: 155
-weight: 25
-dau: 7
-wau: 20
+subscribers: 46
+posts: 27
+comments: 164
+weight: 27
+dau: 2
+wau: 18
 mau: 26
 instances:
 - "exploding-heads_com"

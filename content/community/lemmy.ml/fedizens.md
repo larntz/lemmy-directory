@@ -3,7 +3,7 @@ title: "Fedizens -> sub migrated"
 name: "fedizens"
 description: "Sub moved to https://lemmy.ca/c/fedizens to help decentralize lemmyIf you can't post there, feel free to continue posting here"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fedizens"

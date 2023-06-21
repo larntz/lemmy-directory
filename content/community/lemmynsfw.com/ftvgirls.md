@@ -1,22 +1,22 @@
 ---
 title: "FTVGirls" 
 name: "ftvgirls"
-description: "Must have FTVGirls studio's logo/watermarking on posting, to ensure verification of model's age, as well as proof that content is from FTVGirls. currently also mods r/FTVGirls along with u/FTV_LIA, who is the photography director for the website.Let me know if you are interested in modding here."
+description: "Must have FTVGirls studio's logo/watermarking on posting, to ensure verification of model's age, as well as proof that content is from FTVGirls. currently also mods r/FTVGirls along with u/FTV_LIA, who is the photography director for the website.---Please make a request post to let mods know if you want to help moderate here.---"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ftvgirls"
 host: lemmynsfw.com
-lastmod: "2023-06-18 14:30:06"
+lastmod: "2023-06-21 14:02:53"
 published: "2023-06-18 04:06:06"
-subscribers: 90
-posts: 13
-comments: 6
-weight: 13
-dau: 3
-wau: 5
-mau: 5
+subscribers: 124
+posts: 18
+comments: 10
+weight: 18
+dau: 4
+wau: 6
+mau: 6
 instances:
 - "lemmynsfw_com"
 tags: 

@@ -3,7 +3,7 @@ title: "Ongi Etorri! Aurkeztu zeure burua!"
 name: "aurkezpena"
 description: "Erabiltzaile berrien aurkezpenak egiteko komunitatea"
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/aurkezpena"
@@ -15,7 +15,7 @@ posts: 9
 comments: 5
 weight: 9
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_eus"

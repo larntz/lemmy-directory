@@ -3,7 +3,7 @@ title: "NrdLi"
 name: "nrdli"
 description: "The place for announcements and other official communication about this Lemmy instance."
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/nrdli"
@@ -11,9 +11,9 @@ host: lemmy.nrd.li
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 16:38:42"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

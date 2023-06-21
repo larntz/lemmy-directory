@@ -3,14 +3,14 @@ title: "Entrepreneur"
 name: "theentrepreneur"
 description: "Tips and success sharing for and by entrepreneurs."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theentrepreneur"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 07:35:06"
-subscribers: 21
+subscribers: 23
 posts: 1
 comments: 3
 weight: 1

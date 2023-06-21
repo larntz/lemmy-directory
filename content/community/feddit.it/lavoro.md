@@ -3,7 +3,7 @@ title: "Lavoratori Tech"
 name: "lavoro"
 description: "Comunità dedicata alla discussione di temi inerenti al lavoro, alle sue problematiche e all'organizzazione dei lavoratori."
 type: community
-date: "2023-06-20 11:37:03"
+date: "2023-06-21 14:53:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/lavoro"

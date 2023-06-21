@@ -3,7 +3,7 @@ title: "Oxford"
 name: "oxford"
 description: "Community for the town of Oxford, U.K, and Oxford University."
 type: community
-date: "2023-06-20 11:37:35"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/oxford"
@@ -15,7 +15,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemm_ee"

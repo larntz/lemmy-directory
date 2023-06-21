@@ -3,7 +3,7 @@ title: "Unpopular Opinions"
 name: "unpopular"
 description: "Please don't hate on people. this is not a hate community."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unpopular"

@@ -3,7 +3,7 @@ title: "johnoliver"
 name: "johnoliver"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:49"
+date: "2023-06-21 14:55:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/johnoliver"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 1
 comments: 3
 weight: 1
-dau: 4
+dau: 2
 wau: 4
 mau: 4
 instances:

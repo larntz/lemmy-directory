@@ -3,7 +3,7 @@ title: "Code Geass: The Animated Series"
 name: "codegeass"
 description: "Welcome! This is the community for Code Geass. We allow anything Code Geass related, including: games, pictures, discussion, and more, provided it doesn't break the rules."
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/codegeass"

@@ -3,14 +3,14 @@ title: "House Music "
 name: "housemusic"
 description: "A place for House heads to come together as discuss house music and related topics. Rule:1. No porn.2. No bigotry, hate speech.3. No ads / spamming.4. No conspiracies / QAnon / antivaxx sentiment5. Be Respectful of others 6. Like the music this is an inclusive space. "
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/housemusic"
 host: lemmy.world
 lastmod: "2023-06-17 22:39:05"
 published: "2023-06-12 18:13:47"
-subscribers: 27
+subscribers: 28
 posts: 8
 comments: 0
 weight: 8

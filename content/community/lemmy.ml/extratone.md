@@ -3,7 +3,7 @@ title: "Extratone"
 name: "extratone"
 description: "An [online magazine](https://extratone.com/about) for The New Curious."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/extratone"

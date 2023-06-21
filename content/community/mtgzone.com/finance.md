@@ -3,14 +3,14 @@ title: "Finance"
 name: "finance"
 description: "#### MTG financial discussion This community is for all discussion related to buying, selling, trading, and speculating on cards and sealed product, as well as market movements and other financial aspects of the game.---"
 type: community
-date: "2023-06-20 11:37:23"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/finance"
 host: mtgzone.com
 lastmod: "2023-06-15 18:57:56"
 published: "2023-06-10 01:14:37"
-subscribers: 28
+subscribers: 30
 posts: 1
 comments: 1
 weight: 1

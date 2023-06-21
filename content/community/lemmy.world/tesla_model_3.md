@@ -3,7 +3,7 @@ title: "Tesla Model 3 Electric Vehicle"
 name: "tesla_model_3"
 description: "A forum for discussion of the Tesla Model 3 Electric Vehicle"
 type: community
-date: "2023-06-20 11:38:49"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tesla_model_3"

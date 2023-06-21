@@ -3,7 +3,7 @@ title: "rns"
 name: "rns"
 description: "Rock & Stone! This is a place for media and discussion about the video game Deep Rock Galactic.Learn more at [www.deeprockgalactic.com](https://www.deeprockgalactic.com/)"
 type: community
-date: "2023-06-20 11:37:07"
+date: "2023-06-21 14:53:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/rns"

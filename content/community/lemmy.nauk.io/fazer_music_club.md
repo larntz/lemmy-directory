@@ -3,17 +3,17 @@ title: "Fazer Music Club"
 name: "fazer_music_club"
 description: "Music link aggregator"
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nauk.io/c/fazer_music_club"
 host: lemmy.nauk.io
 lastmod: "2023-06-10 19:27:50"
 published: "2023-06-10 10:25:36"
-subscribers: 5
-posts: 107
+subscribers: 6
+posts: 113
 comments: 1
-weight: 107
+weight: 113
 dau: 1
 wau: 1
 mau: 1

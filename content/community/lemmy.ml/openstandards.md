@@ -3,14 +3,14 @@ title: "Open Standards"
 name: "openstandards"
 description: "News and discussion about open protocols, open file formats, etc."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openstandards"
 host: lemmy.ml
 lastmod: "2021-01-29 00:16:47"
 published: "2020-01-17 21:03:42"
-subscribers: 394
+subscribers: 393
 posts: 11
 comments: 3
 weight: 11

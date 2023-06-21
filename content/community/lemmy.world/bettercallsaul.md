@@ -3,7 +3,7 @@ title: "Better Call Saul!"
 name: "bettercallsaul"
 description: "Did you know you have rights? The Constitution says you do, and so do I. I believe that until proven guilty, every man, woman and child is innocent. And that's why I fight for you, Albuquerque!"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bettercallsaul"

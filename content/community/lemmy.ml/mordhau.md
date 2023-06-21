@@ -3,7 +3,7 @@ title: "MORDHAU"
 name: "mordhau"
 description: "A community for discussion about the game MORDHAU, share images too!"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mordhau"

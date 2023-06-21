@@ -3,14 +3,14 @@ title: "Garuda Linux"
 name: "garudalinux"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/garudalinux"
 host: lemmy.ml
 lastmod: "2021-02-17 18:49:25"
 published: "2021-02-17 18:46:24"
-subscribers: 37
+subscribers: 38
 posts: 2
 comments: 0
 weight: 2

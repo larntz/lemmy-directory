@@ -3,7 +3,7 @@ title: "Anime"
 name: "anime"
 description: "Anything related to Anime (and Manga)"
 type: community
-date: "2023-06-20 11:37:28"
+date: "2023-06-21 14:54:15"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/anime"

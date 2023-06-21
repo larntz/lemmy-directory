@@ -3,7 +3,7 @@ title: "The China Bad Times"
 name: "the_china_bad_times"
 description: "The China Bad Times, but in Lemmy!"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/the_china_bad_times"

@@ -3,14 +3,14 @@ title: "Food"
 name: "food"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/food"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-27 21:26:06"
-subscribers: 147
+subscribers: 148
 posts: 21
 comments: 21
 weight: 21

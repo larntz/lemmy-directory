@@ -3,14 +3,14 @@ title: "Surrey, British Columbia"
 name: "surrey"
 description: "Community for the City of Surrey"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrey"
 host: lemmy.ca
 lastmod: "2023-06-13 15:21:46"
 published: "2023-06-13 15:01:50"
-subscribers: 11
+subscribers: 12
 posts: 5
 comments: 3
 weight: 5

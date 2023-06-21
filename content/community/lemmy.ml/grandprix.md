@@ -3,7 +3,7 @@ title: "Thoughtful discussion of Grand Prix Motor Racing"
 name: "grandprix"
 description: "A community for thoughtful discussion of Grand Prix motor-racing"
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grandprix"

@@ -3,14 +3,14 @@ title: "Spy x Family"
 name: "spyxfamily"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spyxfamily"
 host: lemmy.ml
 lastmod: "2022-04-16 04:12:27"
 published: "2022-04-15 10:56:48"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 1
 weight: 2

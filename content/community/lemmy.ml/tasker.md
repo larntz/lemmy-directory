@@ -3,17 +3,17 @@ title: "tasker"
 name: "tasker"
 description: "Potential /r/tasker backup."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tasker"
 host: lemmy.ml
 lastmod: "2023-06-09 08:19:03"
 published: "2022-03-20 01:08:09"
-subscribers: 7
-posts: 0
+subscribers: 9
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

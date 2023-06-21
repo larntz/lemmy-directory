@@ -3,14 +3,14 @@ title: " Cyberservices Ethics Audit Project"
 name: "ceap"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ceap"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2021-03-15 23:58:33"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 1
 weight: 1

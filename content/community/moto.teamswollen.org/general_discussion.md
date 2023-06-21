@@ -3,7 +3,7 @@ title: "General Discussion"
 name: "general_discussion"
 description: "Discussion about the operation and future of this Lenny SiteIf you would like to mod some sub's leave a message here."
 type: community
-date: "2023-06-20 11:37:36"
+date: "2023-06-21 14:54:22"
 draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/general_discussion"

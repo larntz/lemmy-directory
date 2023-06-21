@@ -3,7 +3,7 @@ title: "eamoo5eat4uYooQuu7Mo"
 name: "tried2killmyself"
 description: "Failed, not going to tell you how (because I do not know what moderation is like). Wake up here I am. I have been to Lemmy before. I do not want to live much, but I guess some of me do. Unfortunately even thought it would be logical to die (in my situation). Either ways hello and have a good day. I used to live under RMS rules / suggestions I no longer do."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tried2killmyself"

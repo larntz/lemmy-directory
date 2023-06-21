@@ -3,7 +3,7 @@ title: "Star Wars Expanded Universe"
 name: "starwarseu"
 description: "A community for Star Wars Expanded Universe and Legends fans"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starwarseu"

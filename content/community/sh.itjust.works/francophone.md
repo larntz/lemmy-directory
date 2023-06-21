@@ -3,20 +3,20 @@ title: "Francophone"
 name: "francophone"
 description: "All instance rules apply :-    Be respectful-    No bigotry-    No Ads or Spamming-    No pornographyEnglish allowed, but try to speak French, no one will judge you."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/francophone"
 host: sh.itjust.works
 lastmod: "2023-06-13 08:56:31"
 published: "2023-06-13 08:15:50"
-subscribers: 161
-posts: 6
+subscribers: 171
+posts: 8
 comments: 59
-weight: 6
+weight: 8
 dau: 7
-wau: 7
-mau: 7
+wau: 21
+mau: 26
 instances:
 - "sh_itjust_works"
 tags: 

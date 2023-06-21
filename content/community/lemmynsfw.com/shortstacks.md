@@ -3,18 +3,18 @@ title: "Shortstacks"
 name: "shortstacks"
 description: "Small women with curves."
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shortstacks"
 host: lemmynsfw.com
 lastmod: "2023-06-17 13:00:35"
 published: "2023-06-17 12:30:21"
-subscribers: 66
-posts: 10
+subscribers: 83
+posts: 11
 comments: 4
-weight: 10
-dau: 2
+weight: 11
+dau: 1
 wau: 3
 mau: 3
 instances:

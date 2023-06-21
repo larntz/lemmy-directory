@@ -3,7 +3,7 @@ title: "Sudan"
 name: "sudan"
 description: "A community to discuss news and information related to `Sudan`. "
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:24"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/sudan"

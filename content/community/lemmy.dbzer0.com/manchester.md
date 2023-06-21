@@ -3,14 +3,14 @@ title: "Manchester"
 name: "manchester"
 description: "A place for the county of Greater Manchester, UK."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/manchester"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-19 22:25:07"
 published: "2023-06-19 22:24:27"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

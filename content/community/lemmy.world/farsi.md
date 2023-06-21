@@ -3,7 +3,7 @@ title: "Farsi (Persian)"
 name: "farsi"
 description: "خوش آمدیدThis is a community for questions and discussions about learning Farsi, also known as Persian, and it's dialects such as Dari and Tajiki.Discussions of art, literature, films etc. of these areas are also welcome."
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/farsi"

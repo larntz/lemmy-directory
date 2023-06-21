@@ -3,7 +3,7 @@ title: "Charlotte"
 name: "charlotte"
 description: "Community for people who live in the Queen City! 🌃"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/charlotte"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "lemmy_ml"

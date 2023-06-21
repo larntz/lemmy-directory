@@ -3,19 +3,19 @@ title: "EV Community"
 name: "electricvehicles"
 description: "The future of sustainable transportation is here! This is the Lemmy community for EV owners and enthusiasts. Discuss evolving technology, new entrants, charging infrastructure, government policy, and the ins and outs of EV ownership right here."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/electricvehicles"
 host: lemmy.ml
 lastmod: "2022-02-13 19:40:42"
 published: "2022-01-04 23:37:38"
-subscribers: 135
-posts: 34
+subscribers: 141
+posts: 35
 comments: 22
-weight: 34
-dau: 3
-wau: 11
+weight: 35
+dau: 1
+wau: 12
 mau: 13
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "Nissan LEAF electric vehicle"
 name: "nissan_leaf"
 description: "All things related to the Nissan LEAF EV"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nissan_leaf"

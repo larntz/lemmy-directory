@@ -3,7 +3,7 @@ title: "LIFX"
 name: "lifx"
 description: "A community space for discussion about all things LIFX."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lifx"

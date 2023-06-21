@@ -3,14 +3,14 @@ title: "portal"
 name: "portal"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/portal"
 host: lemmy.ml
 lastmod: "2021-04-29 22:18:11"
 published: "2021-04-29 22:13:58"
-subscribers: 43
+subscribers: 45
 posts: 3
 comments: 3
 weight: 3

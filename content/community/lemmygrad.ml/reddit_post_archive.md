@@ -3,7 +3,7 @@ title: "Reddit Good Post Archive"
 name: "reddit_post_archive"
 description: "Archiving good Reddit posts in case of censorship."
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/reddit_post_archive"

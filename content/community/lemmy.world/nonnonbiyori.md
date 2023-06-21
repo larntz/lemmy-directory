@@ -3,18 +3,18 @@ title: "Non Non Biyori (のんのんびより)"
 name: "nonnonbiyori"
 description: "- **No NSFW allowed!**- **Cite your sources!**- **Keep it wholesome!**- **Refrain from politics!**- **Language is English** but Japanese titles and short comments eg. “かわいい！” are allowed. This is because my Japanese is shit and thus I cannot moderate it effectively.[!sliceoflifeanime@lemmy.world](https://lemmy.world/c/sliceoflifeanime) is the parent community (you may cross-post to it)."
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nonnonbiyori"
 host: lemmy.world
 lastmod: "2023-06-19 23:05:29"
 published: "2023-06-19 20:18:36"
-subscribers: 3
-posts: 1
+subscribers: 5
+posts: 2
 comments: 2
-weight: 1
-dau: 2
+weight: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

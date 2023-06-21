@@ -3,20 +3,20 @@ title: "Raves"
 name: "raves"
 description: "PLUR, dance music culture, events, festivals, warehouse parties, and rave lifestyle. One time for the wickedest massive!"
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/raves"
 host: lemmy.world
 lastmod: "2023-06-14 14:15:27"
 published: "2023-06-14 09:36:09"
-subscribers: 11
+subscribers: 12
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Bee & Puppycat"
 name: "beeandpuppycat"
 description: "Русскоязычное сообщество по мультсериалу созданному и написанному Natasha Allegri!"
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://stars.leemoon.network/c/beeandpuppycat"
@@ -11,12 +11,12 @@ host: stars.leemoon.network
 lastmod: "2023-06-13 13:04:54"
 published: "2023-06-13 12:49:09"
 subscribers: 6
-posts: 4
+posts: 5
 comments: 1
-weight: 4
+weight: 5
 dau: 1
 wau: 2
-mau: 2
+mau: 3
 instances:
 - "stars_leemoon_network"
 tags: 

@@ -3,14 +3,14 @@ title: "MiniDisc"
 name: "minidisc"
 description: "A community for MiniDisc enthusiasts. I don’t know what I’m doing so if you want to take over please let me know!"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minidisc"
 host: lemmy.world
 lastmod: "2023-06-14 13:21:49"
 published: "2023-06-14 13:21:00"
-subscribers: 18
+subscribers: 21
 posts: 2
 comments: 2
 weight: 2

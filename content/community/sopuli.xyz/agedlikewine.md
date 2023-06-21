@@ -3,14 +3,14 @@ title: "Aged like wine"
 name: "agedlikewine"
 description: "A community to share things that aged like wine. Based on r/agedlikewine on Reddit. NOT AFFILIATED TO THE ORIGINAL GROUP"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/agedlikewine"
 host: sopuli.xyz
 lastmod: "2023-06-14 08:02:23"
 published: "2023-06-12 12:50:24"
-subscribers: 18
+subscribers: 19
 posts: 1
 comments: 6
 weight: 1

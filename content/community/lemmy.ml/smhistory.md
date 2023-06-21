@@ -3,7 +3,7 @@ title: "Social Media History"
 name: "smhistory"
 description: "Social Media History discussion.Some historic perspective on (mostly) electric media systems, medium generations.Social Media lore and discussion about changes in society tastes, legality, popularity, presentation technology, the change from desktop webapps to smartphone apps, etc"
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smhistory"

@@ -3,7 +3,7 @@ title: "soapmaking"
 name: "soapmaking"
 description: "Welcome to Soapmaking! A community for sharing our passion of soapmaking. "
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/soapmaking"

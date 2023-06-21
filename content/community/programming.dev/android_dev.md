@@ -3,20 +3,20 @@ title: "Android Development"
 name: "android_dev"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/android_dev"
 host: programming.dev
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 10:20:52"
-subscribers: 65
-posts: 1
+subscribers: 73
+posts: 2
 comments: 4
-weight: 1
-dau: 2
-wau: 5
-mau: 5
+weight: 2
+dau: 1
+wau: 3
+mau: 6
 instances:
 - "programming_dev"
 tags: 

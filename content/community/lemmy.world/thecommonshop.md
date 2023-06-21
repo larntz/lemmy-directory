@@ -3,7 +3,7 @@ title: "The Common Shop"
 name: "thecommonshop"
 description: "(un)common memesdon't be (un)inclusive (i.e. racist, homophobic, or mean)everyone can be common"
 type: community
-date: "2023-06-20 11:38:56"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thecommonshop"

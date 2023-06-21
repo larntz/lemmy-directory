@@ -3,7 +3,7 @@ title: "Learn Java"
 name: "learnjava"
 description: "A community to discuss any issues you may have learning Java.For discussion of Java in general, please go to  [Java](/c/java@lemmy.world)"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/learnjava"

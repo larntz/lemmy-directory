@@ -3,7 +3,7 @@ title: "COVID-19 ierobežojumi"
 name: "ierobezojumi"
 description: "COVID-19 pandēmijas laikā ieviestie ierobežojumi un izmaiņas - atklātas diskusijas, hipotēzes un redzējumi.Balstoties uz:https://www.datasciencecentral.com/profiles/blogs/data-is-not-facts-the-impossibility-of-being-unbiased"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ierobezojumi"

@@ -3,14 +3,14 @@ title: "Roguelike Dev"
 name: "roguelikedev"
 description: "A community of roguelike developers. Discuss work-in-progress roguelikes and a broad range of roguelike development topics."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/roguelikedev"
 host: programming.dev
 lastmod: "2023-06-15 22:09:56"
 published: "2023-06-15 21:05:01"
-subscribers: 28
+subscribers: 29
 posts: 1
 comments: 0
 weight: 1

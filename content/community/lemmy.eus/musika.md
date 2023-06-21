@@ -3,7 +3,7 @@ title: "musika"
 name: "musika"
 description: " **Musikazale** ntzako komunitatea, zabaldu lasai asko gustoko dituzun talde, abesti edo ta kontzertuak.Musikarekin zerikusia duen edozer hementxe aurki dezakegu."
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/musika"

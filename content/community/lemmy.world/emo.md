@@ -3,17 +3,17 @@ title: "Emo"
 name: "emo"
 description: "Real Emo only consists of the dc Emotional Hardcore scene and the late 90's Screamo scene. What is known by Midwest Emo is nothing but Alternative Rock with questionable real emo influence. When people try to argue that bands like My Chemical Romance are not real emo, while saying that Sunny Day Real Estate is, I can't help not to cringe because they are just as fake emo as My Chemical Romance (plus the pretentiousness).Real emo sounds ENERGETIC, POWERFUL and somewhat HATEFUL. Fake emo is weak, self pity and a failed attempt to direct energy and emotion into music.Some examples of REAL EMO are Pg 99, Rites of Spring, Cap n Jazz (the only real emo band from the midwest scene) and Loma Prieta. Some examples of FAKE EMO are American Football, My Chemical Romance and MineralEMO BELONGS TO HARDCORENOT TO INDIE, POP PUNK, ALT ROCK OR ANY OTHER MAINSTREAM GENRE"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/emo"
 host: lemmy.world
 lastmod: "2023-06-14 10:24:40"
 published: "2023-06-13 01:37:35"
-subscribers: 20
-posts: 6
+subscribers: 25
+posts: 8
 comments: 0
-weight: 6
+weight: 8
 dau: 1
 wau: 2
 mau: 3

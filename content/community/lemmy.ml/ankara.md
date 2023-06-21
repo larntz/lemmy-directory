@@ -3,7 +3,7 @@ title: "Ankara, Türkiye"
 name: "ankara"
 description: "Community for Ankara, Turkey. Ask questions, give advice, organise events. / Ankara, Türkiye'nin Lemmy Topluluğu. Soru sorun, tavsiye verin, etkinlik düzenleyin. Ama bunları yaparken saygı çerçevesinde yapın.**Posts should be in Turkish or English**## **Kurallar:**- Lemmy.ml kurallarına uyun.- Türkiye Cumhuriyeti yasalarına aykırı paylaşımlar yapmayın.- Topluluğu reklam panosuna çevirmeyin.- Özensiz gönderi göndermemeye özen gösterin."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ankara"

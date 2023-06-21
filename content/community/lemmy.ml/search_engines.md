@@ -3,7 +3,7 @@ title: "search-engines"
 name: "search_engines"
 description: "search engine software and sharing new alternative search sites."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/search_engines"

@@ -3,7 +3,7 @@ title: "Bordline Personality Disorder"
 name: "bpd"
 description: "This is a place for those who have Borderline Personality Disorder, their family members and friends, and anyone else who is interested in learning more about it. We ask that you be kind, empathetic, respectful, and non-judgmental. Language that dehumanizes, personal attacks, and trolling will not be tolerated. "
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bpd"

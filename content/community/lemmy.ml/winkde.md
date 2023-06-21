@@ -3,7 +3,7 @@ title: "WinKDE"
 name: "winkde"
 description: "The KDE Plasma Desktop, simplified."
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/winkde"

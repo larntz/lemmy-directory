@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:33"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://keylog.zip/c/meta"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 2
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "keylog_zip"

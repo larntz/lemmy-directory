@@ -3,7 +3,7 @@ title: "Board Game Deals"
 name: "boardgamedeals"
 description: "A community for sharing board game deals both online and offline"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boardgamedeals"

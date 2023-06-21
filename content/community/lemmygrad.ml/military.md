@@ -3,7 +3,7 @@ title: "Military"
 name: "military"
 description: "![](https://cdn.discordapp.com/attachments/492690347340857345/616733449792913418/T34-85_4-view_drawing.png)Red Army Foreverfor posting on military topics[For Military Theory](https://lemmygrad.ml/c/zhukovacademy)"
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/military"

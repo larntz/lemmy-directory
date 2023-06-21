@@ -3,7 +3,7 @@ title: "Sobirania tecnològica digital"
 name: "sobtic"
 description: "### Eines tic necessàries, lliures, descentralitzades, segures"
 type: community
-date: "2023-06-20 11:36:51"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/sobtic"

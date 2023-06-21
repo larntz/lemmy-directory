@@ -3,7 +3,7 @@ title: "Soylent"
 name: "soylent"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soylent"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 0
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

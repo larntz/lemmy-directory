@@ -3,7 +3,7 @@ title: "Tabletop Place Official"
 name: "tabletop_place"
 description: "Official community for meta-discussion of The Tabletop Place, such as announcements, rules, and new community discussion."
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/tabletop_place"

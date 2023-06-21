@@ -3,7 +3,7 @@ title: "¡El pe1uca sabe!"
 name: "pe1uca"
 description: "Mi comunidad de prueba :P"
 type: community
-date: "2023-06-20 11:36:52"
+date: "2023-06-21 14:53:38"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/pe1uca"

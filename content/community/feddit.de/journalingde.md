@@ -3,7 +3,7 @@ title: "JournalingDE"
 name: "journalingde"
 description: "Ein deutscher Subreddit über das führen eines handschriftlichen Journals / Tagebuchs. Bitte beachtet, dass es in dieser Community um das führen handschriftlicher Journals geht und nicht um das führen digitaler Journals."
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/journalingde"

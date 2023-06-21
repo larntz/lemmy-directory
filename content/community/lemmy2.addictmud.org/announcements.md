@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Announcements related to the local instance."
 type: community
-date: "2023-06-20 11:37:14"
+date: "2023-06-21 14:54:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy2.addictmud.org/c/announcements"

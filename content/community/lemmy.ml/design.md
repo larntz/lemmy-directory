@@ -3,7 +3,7 @@ title: "Design"
 name: "design"
 description: "Artistic and industrial design"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/design"
@@ -16,7 +16,7 @@ comments: 10
 weight: 8
 dau: 1
 wau: 2
-mau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

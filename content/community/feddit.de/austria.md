@@ -3,20 +3,20 @@ title: "Austria"
 name: "austria"
 description: "Alles über Österreich"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/austria"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 07:41:12"
 published: "2023-06-01 20:41:33"
-subscribers: 332
-posts: 57
-comments: 292
-weight: 57
-dau: 31
-wau: 97
-mau: 103
+subscribers: 354
+posts: 60
+comments: 330
+weight: 60
+dau: 20
+wau: 92
+mau: 117
 instances:
 - "feddit_de"
 tags: 

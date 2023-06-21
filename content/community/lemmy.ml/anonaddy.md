@@ -3,7 +3,7 @@ title: "AnonAddy"
 name: "anonaddy"
 description: "AnonAddy is a FOSS company that masks your real email using a temporary one. It forwards all of the emails sent to the temporary email to your personal one, keeping you from oversharing your personal info."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anonaddy"

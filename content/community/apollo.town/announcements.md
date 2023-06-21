@@ -3,14 +3,14 @@ title: "Announcements"
 name: "announcements"
 description: "Where the mods show stuff"
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/announcements"
 host: apollo.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 04:16:49"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2

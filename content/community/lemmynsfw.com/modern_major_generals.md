@@ -3,17 +3,17 @@ title: "Modern Major Generals"
 name: "modern_major_generals"
 description: "Husky Fuckers"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/modern_major_generals"
 host: lemmynsfw.com
-lastmod: "2023-06-17 14:34:02"
+lastmod: "2023-06-20 12:12:04"
 published: "2023-06-17 14:33:28"
-subscribers: 6
-posts: 2
+subscribers: 7
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

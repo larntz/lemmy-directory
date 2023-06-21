@@ -3,14 +3,14 @@ title: "Work Gone Wild"
 name: "workgonewild"
 description: "An alternative to r/workgonewild. Posts must be from work in the gone wild spirit. Do not post anything against sitewide rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/workgonewild"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 13:56:24"
-subscribers: 140
+subscribers: 153
 posts: 0
 comments: 0
 weight: 0

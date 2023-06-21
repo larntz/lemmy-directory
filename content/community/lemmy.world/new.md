@@ -3,7 +3,7 @@ title: "New"
 name: "new"
 description: "What's new?"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:56:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/new"

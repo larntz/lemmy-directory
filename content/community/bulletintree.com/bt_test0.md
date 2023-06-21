@@ -3,7 +3,7 @@ title: "BulletinTree.com Test0"
 name: "bt_test0"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://bulletintree.com/c/bt_test0"
@@ -15,7 +15,7 @@ posts: 6
 comments: 4
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "bulletintree_com"

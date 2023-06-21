@@ -1,14 +1,14 @@
 ---
 title: "Predator" 
 name: "predator"
-description: "For fans of the intergalactic bad-ass hunter of the science fiction horror film series, games and comics. Dark Mode recommended.**Rules:**- Don't be an @sshole- Official products only- No piracy- No fetishizing in any manner"
+description: "For fans of the intergalactic bad-ass hunter of the science fiction horror film series, games and comics. Dark Mode recommended.**Rules:**- Don't be an @sshole- No piracy- No fetishizing in any manner"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/predator"
 host: lemmy.ml
-lastmod: "2023-06-11 03:43:12"
+lastmod: "2023-06-21 00:40:20"
 published: "2023-06-07 01:58:14"
 subscribers: 1
 posts: 0

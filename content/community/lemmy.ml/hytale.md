@@ -3,7 +3,7 @@ title: "The place for Hytale related content"
 name: "hytale"
 description: "[Hytale](https://hytale.com/) is a sandbox voxel game inspired by [Minecraft](https://minecraft.net) and is made by [Hypixel Studios](https://hypixelstudios.com/), who are also the creators of the famous [Hypixel Minecraft Server](https://hypixel.net/). It has been announced in 2018 and it's said that it will come out in 2021, you can watch [the trailer](https://www.youtube.com/watch?v=o77MzDQT1cg) in the mean time."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hytale"

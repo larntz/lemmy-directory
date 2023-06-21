@@ -3,7 +3,7 @@ title: "Manga"
 name: "manga"
 description: "Tópico voltado a discussões sobre manga"
 type: community
-date: "2023-06-20 11:37:36"
+date: "2023-06-21 14:54:22"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/manga"

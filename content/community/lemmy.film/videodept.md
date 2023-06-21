@@ -3,7 +3,7 @@ title: "Video Assist Operators and 24-Frame Technicians"
 name: "videodept"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:53:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/videodept"

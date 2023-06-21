@@ -3,20 +3,20 @@ title: "RuPaul's Drag Race"
 name: "rpdr"
 description: "A forum for the TV series: *Rupaul's Drag Race* and its spin-offs"
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rpdr"
 host: lemmy.world
 lastmod: "2023-06-15 00:40:36"
 published: "2023-06-15 00:23:36"
-subscribers: 29
-posts: 4
-comments: 8
-weight: 4
-dau: 1
-wau: 4
-mau: 4
+subscribers: 34
+posts: 5
+comments: 9
+weight: 5
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

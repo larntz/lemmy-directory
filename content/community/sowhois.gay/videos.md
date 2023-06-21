@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:28"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/videos"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 3
 comments: 3
 weight: 3
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

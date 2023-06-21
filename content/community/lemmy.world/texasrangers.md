@@ -3,7 +3,7 @@ title: "Texas Rangers"
 name: "texasrangers"
 description: "Community to discuss Texas Rangers baseball."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/texasrangers"

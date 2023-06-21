@@ -3,7 +3,7 @@ title: "Techmart"
 name: "techmart"
 description: "Subscribe to see more stories about technology on your homepage."
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techmart"

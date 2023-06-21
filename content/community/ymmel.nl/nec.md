@@ -3,7 +3,7 @@ title: "N.E.C. Nijmegen"
 name: "nec"
 description: "Over de mooiste club uit Gelderland: N.E.C."
 type: community
-date: "2023-06-20 11:37:32"
+date: "2023-06-21 14:54:19"
 draft: false
 nsfw: false
 actor_id: "https://ymmel.nl/c/nec"

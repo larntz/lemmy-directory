@@ -3,14 +3,14 @@ title: "Nicaragua"
 name: "nicaragua"
 description: "ES/EN - viva la revolución! viva shitposts!"
 type: community
-date: "2023-06-20 11:37:12"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/nicaragua"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-18 14:18:41"
 published: "2023-06-18 14:18:21"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

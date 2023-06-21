@@ -3,7 +3,7 @@ title: "Poland"
 name: "poland"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/poland"
@@ -16,7 +16,7 @@ comments: 9
 weight: 13
 dau: 1
 wau: 1
-mau: 4
+mau: 3
 instances:
 - "exploding-heads_com"
 tags: 

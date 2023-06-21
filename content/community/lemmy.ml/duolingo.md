@@ -3,20 +3,20 @@ title: "Duolingo"
 name: "duolingo"
 description: "A great free way to learn languages."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/duolingo"
 host: lemmy.ml
 lastmod: "2021-12-15 20:28:04"
 published: "2021-12-14 10:01:07"
-subscribers: 156
+subscribers: 159
 posts: 10
-comments: 15
+comments: 18
 weight: 10
-dau: 1
-wau: 6
-mau: 17
+dau: 3
+wau: 9
+mau: 20
 instances:
 - "lemmy_ml"
 tags: 

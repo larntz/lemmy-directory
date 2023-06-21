@@ -3,7 +3,7 @@ title: "Testing 2: Crosspost Boogaloo"
 name: "testing_2"
 description: "A secondary testing community for validating some stuff around crossposting"
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/testing_2"

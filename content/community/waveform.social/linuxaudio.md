@@ -3,17 +3,17 @@ title: "Linux Audio"
 name: "linuxaudio"
 description: "Using linux for creating music"
 type: community
-date: "2023-06-20 11:37:26"
+date: "2023-06-21 14:54:13"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/linuxaudio"
 host: waveform.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 19:56:04"
-subscribers: 23
-posts: 3
-comments: 16
-weight: 3
+subscribers: 29
+posts: 4
+comments: 19
+weight: 4
 dau: 3
 wau: 5
 mau: 5

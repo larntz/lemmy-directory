@@ -3,7 +3,7 @@ title: "Sustainable & Green, the new hope"
 name: "green_religion"
 description: "The green sustainable agenda may not be about saving the environment, even though the majority hopes it is.Here's a place to share info showing that the green agenda is heavily subsidized and being rolled out for different reasons than our environment"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/green_religion"

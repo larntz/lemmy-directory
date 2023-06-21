@@ -3,14 +3,14 @@ title: "stories_gonewild"
 name: "stories_gonewild"
 description: "A place to share your erotic real-life stories, the moments that you want to remember for ever, your kinky experiences, and much more"
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/stories_gonewild"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 12:01:00"
-subscribers: 354
+subscribers: 376
 posts: 2
 comments: 8
 weight: 2

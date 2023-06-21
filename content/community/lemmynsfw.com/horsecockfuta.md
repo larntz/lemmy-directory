@@ -3,17 +3,17 @@ title: "Horsecock Futa"
 name: "horsecockfuta"
 description: "A community for enjoyers of ladies endowed with horse penises.Rules:- All posts must include horsecock futa.- No spam.Icon is by Erovon: https://twitter.com/ErovonNSFW/status/1580661934860382208"
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-21 14:54:46"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/horsecockfuta"
 host: lemmynsfw.com
 lastmod: "2023-06-14 23:21:29"
 published: "2023-06-14 20:34:04"
-subscribers: 123
-posts: 34
+subscribers: 143
+posts: 38
 comments: 1
-weight: 34
+weight: 38
 dau: 2
 wau: 3
 mau: 3

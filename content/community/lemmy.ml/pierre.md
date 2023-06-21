@@ -3,7 +3,7 @@ title: "Pierre"
 name: "pierre"
 description: "Community for Pierre, SD and surrounding areas"
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pierre"

@@ -3,7 +3,7 @@ title: "Bali"
 name: "bali"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/bali"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 3
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "latte_isnot_coffee"

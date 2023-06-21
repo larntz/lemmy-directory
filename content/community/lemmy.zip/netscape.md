@@ -3,14 +3,14 @@ title: "Netscape"
 name: "netscape"
 description: "A test alternative to r/netscape"
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/netscape"
 host: lemmy.zip
 lastmod: "2023-06-13 02:07:01"
 published: "2023-06-12 20:03:52"
-subscribers: 6
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4

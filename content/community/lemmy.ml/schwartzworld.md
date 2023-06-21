@@ -3,7 +3,7 @@ title: "schwartz.world"
 name: "schwartzworld"
 description: "Only Schwartz may post. All others may comment."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/schwartzworld"

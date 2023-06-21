@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Local instance news and announcements, community recommendations, moderation updates, etc."
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-21 14:54:12"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/meta"

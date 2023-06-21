@@ -3,7 +3,7 @@ title: "Creepy Pasta"
 name: "creepypasta"
 description: "A place to discuss anything CreepyPasta.Rules- **On-Topic:** Make sure your topic is related to creepypasta.- Don’t post one-liner posts with no media (if applicable), troll attempts, or upvotes farming attempts.- **Please use the appropriate title.** This means when posting, write a good descriptive title.- **Be respectful:** We have a diverse community, and we expect everyone to treat each other with respect and kindness. Personal attacks, insults, and derogatory language will not be tolerated.By following these rules, we can maintain a safe and welcoming community for all self-hosting enthusiasts.[Start Here.](https://burggit.moe/post/14469)"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/creepypasta"
@@ -15,7 +15,7 @@ posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_burger_rodeo"

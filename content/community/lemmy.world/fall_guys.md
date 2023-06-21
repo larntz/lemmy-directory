@@ -3,7 +3,7 @@ title: "Fall Guys"
 name: "fall_guys"
 description: "A community for all your Fall Guys needs."
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fall_guys"

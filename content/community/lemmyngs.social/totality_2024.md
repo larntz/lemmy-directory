@@ -3,7 +3,7 @@ title: "Totality2024"
 name: "totality_2024"
 description: "better wh-*whatchout!*# 's gun getcha"
 type: community
-date: "2023-06-20 11:37:24"
+date: "2023-06-21 14:54:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmyngs.social/c/totality_2024"

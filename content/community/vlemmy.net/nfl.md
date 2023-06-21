@@ -3,7 +3,7 @@ title: "NFL"
 name: "nfl"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/nfl"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "vlemmy_net"

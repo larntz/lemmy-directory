@@ -3,7 +3,7 @@ title: "Rush"
 name: "rush"
 description: "News & discussion about the Canadian Prog Rock band Rush"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rush"

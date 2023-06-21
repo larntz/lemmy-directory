@@ -3,7 +3,7 @@ title: "Neurohacking and Psychonoutics"
 name: "neurohacking"
 description: "Neuropharma, proper, experimental and benefitial drug usage, brain exercise, lifestyle changes and other means of changing the Mind, Heart and Soul triplets. Ownership transferrable -> be careful though, the community here may be related to drugs and all Check out Psychonautwiki.org for a better understanding, alongside Neurohacking  https://neurohacker.com/ "
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-21 14:56:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neurohacking"

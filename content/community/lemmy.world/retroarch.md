@@ -3,7 +3,7 @@ title: "Retro Arch"
 name: "retroarch"
 description: "-- /r/retroarch alternative ;)--\u00a0This sub is for RetroArch and libretro"
 type: community
-date: "2023-06-20 11:38:50"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retroarch"

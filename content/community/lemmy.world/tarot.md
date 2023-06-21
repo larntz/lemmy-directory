@@ -3,7 +3,7 @@ title: "tarot"
 name: "tarot"
 description: "A Lemmy community dedicated to all things Tarot related"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tarot"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

@@ -3,17 +3,17 @@ title: "effzeh"
 name: "effzeh"
 description: "Alles zum FC Köln"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/effzeh"
 host: feddit.de
 lastmod: "2023-06-17 10:17:07"
 published: "2023-06-17 10:07:44"
-subscribers: 3
-posts: 2
+subscribers: 4
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

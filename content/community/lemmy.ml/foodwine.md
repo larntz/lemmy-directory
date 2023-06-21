@@ -3,19 +3,19 @@ title: "Food and Wine"
 name: "foodwine"
 description: "A place for food and wine enthusiasts to share meals, recipes, and good vibes"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foodwine"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 19:04:21"
-subscribers: 19
-posts: 8
+subscribers: 20
+posts: 9
 comments: 13
-weight: 8
-dau: 2
-wau: 7
+weight: 9
+dau: 1
+wau: 4
 mau: 7
 instances:
 - "lemmy_ml"

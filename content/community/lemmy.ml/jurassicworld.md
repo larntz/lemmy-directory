@@ -3,7 +3,7 @@ title: "Jurassic Park related discussion, including Jurassic World"
 name: "jurassicworld"
 description: "Jurassic Park related discussion, including Jurassic World. See also: c/jurassicpark"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jurassicworld"

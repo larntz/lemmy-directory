@@ -3,14 +3,14 @@ title: "FF addons&extensions"
 name: "firefox_addons"
 description: "Share your Firefox extensions or search tools."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefox_addons"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-02-05 23:28:13"
-subscribers: 102
+subscribers: 103
 posts: 23
 comments: 19
 weight: 23

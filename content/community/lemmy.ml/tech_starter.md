@@ -3,7 +3,7 @@ title: "Tech Starter"
 name: "tech_starter"
 description: "This is your place to ask your technology questions. We will try to help you answer them because no one was born knowing. "
 type: community
-date: "2023-06-20 11:38:26"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_starter"

@@ -3,7 +3,7 @@ title: "Pagan Proles"
 name: "paganproles"
 description: "Contemporary paganism from a working class, socialist and revolutionary perspective. "
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paganproles"

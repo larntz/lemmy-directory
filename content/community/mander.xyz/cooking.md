@@ -3,20 +3,20 @@ title: "Science of Cooking"
 name: "cooking"
 description: "### Welcome to c/cooking @ Mander.xyz!We're focused on cooking and the science behind how it changes our food. Some chemistry, a little biology, whatever it takes to explore a critical aspect of everyday life.Background Information:-  [Chemistry & Cooking - What you Need to Know](https://www.advancedchemtech.com/chemistry-and-cooking-what-you-need-to-know/)"
 type: community
-date: "2023-06-20 11:37:39"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/cooking"
 host: mander.xyz
 lastmod: "2023-06-15 22:53:38"
 published: "2023-06-14 16:40:56"
-subscribers: 91
-posts: 8
-comments: 6
-weight: 8
+subscribers: 101
+posts: 11
+comments: 11
+weight: 11
 dau: 3
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "mander_xyz"
 tags: 

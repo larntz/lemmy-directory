@@ -3,20 +3,20 @@ title: "Pictures"
 name: "pics"
 description: "Someone to share pictures you've taken."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/pics"
 host: aussie.zone
 lastmod: "2023-06-18 15:29:23"
 published: "2023-06-17 06:05:00"
-subscribers: 37
+subscribers: 43
 posts: 4
-comments: 22
+comments: 23
 weight: 4
-dau: 6
-wau: 16
-mau: 16
+dau: 1
+wau: 17
+mau: 17
 instances:
 - "aussie_zone"
 tags: 

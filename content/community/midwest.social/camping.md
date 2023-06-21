@@ -3,14 +3,14 @@ title: "Camping"
 name: "camping"
 description: "Tents to RVs, Backpacking to Car Camping. "
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/camping"
 host: midwest.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 14:54:34"
-subscribers: 42
+subscribers: 45
 posts: 1
 comments: 9
 weight: 1

@@ -3,7 +3,7 @@ title: "Soporte Técnico"
 name: "soporte"
 description: "Comunidad para que los usuarios de lemmy puedan consultar en castellano como utilizar las funciones que ofrece o como personalizar su cuenta."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:04"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/soporte"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 10:54:10"
 subscribers: 10
 posts: 7
-comments: 14
+comments: 13
 weight: 7
 dau: 2
 wau: 5

@@ -3,7 +3,7 @@ title: "Dinkum"
 name: "dinkum"
 description: "For discussion around the game Dinkum."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinkum"

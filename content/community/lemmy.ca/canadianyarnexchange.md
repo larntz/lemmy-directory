@@ -3,7 +3,7 @@ title: "The Great Canadian Yarn Exchange"
 name: "canadianyarnexchange"
 description: "A place to sell, exchange and give away that most seductive of addictions.  Yarn.No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.Be respectful. Everyone should feel welcome here."
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadianyarnexchange"

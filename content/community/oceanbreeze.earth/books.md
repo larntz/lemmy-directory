@@ -3,7 +3,7 @@ title: "books@oceanbreeze.earth"
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/books"
@@ -15,7 +15,7 @@ posts: 4
 comments: 0
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "oceanbreeze_earth"

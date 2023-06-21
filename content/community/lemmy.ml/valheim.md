@@ -3,14 +3,14 @@ title: "Valheim"
 name: "valheim"
 description: "Unofficial community of Valheim- https://www.valheimgame.com- https://store.steampowered.com/app/892970/Valheim- https://discord.gg/5jKacv3nae"
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/valheim"
 host: lemmy.ml
 lastmod: "2021-03-04 17:49:18"
 published: "2021-03-04 16:51:08"
-subscribers: 78
+subscribers: 81
 posts: 9
 comments: 8
 weight: 9

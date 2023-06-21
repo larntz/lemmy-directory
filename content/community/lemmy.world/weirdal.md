@@ -3,17 +3,17 @@ title: "All Things 'Weird Al' Yankovic"
 name: "weirdal"
 description: "A community for all things Weird Al Yankovic:  Music, movies, books, television shows and appearances... everything."
 type: community
-date: "2023-06-20 11:38:53"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weirdal"
 host: lemmy.world
 lastmod: "2023-06-13 22:01:51"
 published: "2023-06-13 21:52:11"
-subscribers: 16
-posts: 4
+subscribers: 18
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

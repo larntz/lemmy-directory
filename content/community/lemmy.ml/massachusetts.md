@@ -3,14 +3,14 @@ title: "Massachusetts "
 name: "massachusetts"
 description: "Now there's a Massachusetts page!"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/massachusetts"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 01:27:35"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

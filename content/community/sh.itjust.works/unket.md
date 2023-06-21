@@ -3,7 +3,7 @@ title: "unket"
 name: "unket"
 description: "Välkommen till unket, lemmys motsvarighet till /r/unket, fast unknare."
 type: community
-date: "2023-06-20 11:37:15"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/unket"
@@ -15,8 +15,8 @@ posts: 5
 comments: 0
 weight: 5
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "sh_itjust_works"
 tags: 

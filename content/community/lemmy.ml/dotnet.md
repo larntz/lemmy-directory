@@ -3,14 +3,14 @@ title: ".NET"
 name: "dotnet"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dotnet"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-08-19 09:48:00"
-subscribers: 56
+subscribers: 57
 posts: 1
 comments: 0
 weight: 1

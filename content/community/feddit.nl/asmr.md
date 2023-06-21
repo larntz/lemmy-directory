@@ -3,14 +3,14 @@ title: "ASMR"
 name: "asmr"
 description: "ASMR is a physical sensation characterised by a pleasurable tingling that typically begins in the head and scalp. It is commonly triggered by soft or accented voices, personal attention, ambient sounds or watching people work silently, among others.Also referred to colloquially as head tingles.This subreddit was created to share videos that elicit this sensation (either intentionally or unintentionally), as well as discuss and try to understand this fascinating physical reaction."
 type: community
-date: "2023-06-20 11:37:05"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/asmr"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 21:10:05"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

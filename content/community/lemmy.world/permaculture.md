@@ -3,14 +3,14 @@ title: "Permaculture, Sustainable Design, Homesteading, Off-Grid Living, Natural
 name: "permaculture"
 description: "Permaculture theory and practice"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/permaculture"
 host: lemmy.world
 lastmod: "2023-06-12 07:57:19"
 published: "2023-06-11 05:44:13"
-subscribers: 165
+subscribers: 181
 posts: 6
 comments: 5
 weight: 6

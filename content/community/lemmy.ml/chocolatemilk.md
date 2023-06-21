@@ -3,7 +3,7 @@ title: "Chocolate Milk"
 name: "chocolatemilk"
 description: "Lemmy community for Chocolate Milk enthusiasts!The rules of this community are very lax, but exist nonetheless:1. All posts must pertain to chocolate milk. Pre-made, home made, plant-based, or syrups/powders, all are welcome in the community.2. Follow the Code of Conduct for the instance, and keep things civil!"
 type: community
-date: "2023-06-20 11:38:24"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chocolatemilk"
@@ -14,9 +14,9 @@ subscribers: 2
 posts: 3
 comments: 3
 weight: 3
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

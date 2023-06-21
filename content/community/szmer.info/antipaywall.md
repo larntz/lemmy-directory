@@ -3,7 +3,7 @@ title: "Wyciąganie artykułów zza paywalla"
 name: "antipaywall"
 description: "Tutaj można prosić o wyciągnięcie rzeczy zza paywalla, a dobre osoby z dostępami mogą te prośby spełniać"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/antipaywall"

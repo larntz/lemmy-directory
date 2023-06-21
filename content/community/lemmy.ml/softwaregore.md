@@ -3,14 +3,14 @@ title: "Poke fun at nasty software"
 name: "softwaregore"
 description: "Poke fun at nasty software"
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/softwaregore"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-06 19:17:49"
-subscribers: 81
+subscribers: 82
 posts: 12
 comments: 8
 weight: 12

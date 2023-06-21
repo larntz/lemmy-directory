@@ -3,7 +3,7 @@ title: "films@oceanbreeze.earth"
 name: "films"
 description: "For discussion and news about films. "
 type: community
-date: "2023-06-20 11:37:30"
+date: "2023-06-21 14:54:17"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/films"
@@ -15,7 +15,7 @@ posts: 6
 comments: 0
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "oceanbreeze_earth"

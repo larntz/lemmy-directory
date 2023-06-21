@@ -1,19 +1,19 @@
 ---
-title: "Testing 3" 
+title: "Testing" 
 name: "test"
 description: "Hmm, for fun, doing some testing here."
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/test"
 host: lemmy.ca
-lastmod: "2023-06-11 05:09:56"
+lastmod: "2023-06-20 16:07:25"
 published: "2020-12-13 00:18:49"
 subscribers: 11
-posts: 8
-comments: 4
-weight: 8
+posts: 11
+comments: 5
+weight: 11
 dau: 1
 wau: 4
 mau: 4

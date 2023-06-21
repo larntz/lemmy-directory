@@ -3,7 +3,7 @@ title: "Live Now"
 name: "live"
 description: "A space to share links to interesting live events before or as they happen. [Feature Request is a calendar structure to list upcoming events]. "
 type: community
-date: "2023-06-20 11:37:38"
+date: "2023-06-21 14:54:24"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/live"

@@ -3,14 +3,14 @@ title: "Rust (programming language)"
 name: "rust"
 description: "This is a community for Rust programmers. Rust is probably the best programming language."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rust"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 03:53:00"
-subscribers: 21
+subscribers: 26
 posts: 1
 comments: 0
 weight: 1

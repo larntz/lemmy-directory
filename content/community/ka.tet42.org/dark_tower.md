@@ -3,7 +3,7 @@ title: "The Dark Tower"
 name: "dark_tower"
 description: "Discussion of all things that serve the beam."
 type: community
-date: "2023-06-20 11:37:26"
+date: "2023-06-21 14:54:14"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/dark_tower"

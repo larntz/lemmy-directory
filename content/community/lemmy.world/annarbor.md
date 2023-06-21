@@ -3,7 +3,7 @@ title: "Ann Arbor"
 name: "annarbor"
 description: "A better discussion venue for people living and working in Ann Arbor, MI, USA."
 type: community
-date: "2023-06-20 11:38:56"
+date: "2023-06-21 14:56:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/annarbor"

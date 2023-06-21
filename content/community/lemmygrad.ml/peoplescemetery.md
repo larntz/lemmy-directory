@@ -3,7 +3,7 @@ title: "People's Revolutionary Cemetery"
 name: "peoplescemetery"
 description: "A virtual space where one can mourn and pay respect to the fallen and deceased comrades that have helped built the Marxist struggle, movement and thought."
 type: community
-date: "2023-06-20 11:37:18"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/peoplescemetery"

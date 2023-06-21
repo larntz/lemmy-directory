@@ -3,7 +3,7 @@ title: "ridefast"
 name: "ridefast"
 description: "community for cyclists from cat 6 to pro, or who just like to ride fast"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ridefast"

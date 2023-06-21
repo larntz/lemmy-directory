@@ -3,14 +3,14 @@ title: "meta"
 name: "meta"
 description: "Meta discussion about Reddit + this Lemmy instance"
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:05"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/meta"
 host: latte.isnot.coffee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 08:34:16"
-subscribers: 13
+subscribers: 15
 posts: 4
 comments: 7
 weight: 4

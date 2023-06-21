@@ -3,14 +3,14 @@ title: "SexToys"
 name: "sextoys"
 description: "Let’s talk about sex toys"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/sextoys"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 05:28:59"
-subscribers: 115
+subscribers: 140
 posts: 2
 comments: 3
 weight: 2

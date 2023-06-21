@@ -3,16 +3,16 @@ title: "Bread"
 name: "bread"
 description: "A day without bread is like a day without sun"
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bread"
 host: lemmy.ca
 lastmod: "2023-06-09 18:38:22"
 published: "2023-06-09 18:38:10"
-subscribers: 118
+subscribers: 123
 posts: 8
-comments: 28
+comments: 32
 weight: 8
 dau: 5
 wau: 10

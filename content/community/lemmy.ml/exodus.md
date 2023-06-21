@@ -3,7 +3,7 @@ title: "Exodus privacy"
 name: "exodus"
 description: "https://exodus-privacy.eu.org/en/"
 type: community
-date: "2023-06-19 18:00:37"
+date: "2023-06-21 14:56:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exodus"

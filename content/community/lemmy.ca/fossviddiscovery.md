@@ -3,7 +3,7 @@ title: "Peertube / Odysee discovery"
 name: "fossviddiscovery"
 description: "Post vids that you liked on peertube/odysee. Tag the genre of the vid. Ex [documentary]. If you don’t know what genre it is, take a guess."
 type: community
-date: "2023-06-20 11:37:47"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fossviddiscovery"

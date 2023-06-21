@@ -3,7 +3,7 @@ title: "askTO | Ask Torontonians Questions"
 name: "askto"
 description: "A community for people to submit questions to Torontonians about Toronto and receive constructive responses.**INFO**- Please be civil- No spam"
 type: community
-date: "2023-06-20 11:37:46"
+date: "2023-06-21 14:54:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/askto"

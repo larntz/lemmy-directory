@@ -3,7 +3,7 @@ title: "Worlds Largest Replica Discussion Board"
 name: "fashionreps"
 description: "FashionReps: A community based on the discussion of the replica culture. Topics may include foreign markets such as: Taobao, Weidian, Tieba, and many other chinese marketing platforms."
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fashionreps"

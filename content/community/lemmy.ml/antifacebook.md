@@ -3,14 +3,14 @@ title: "Anti Facebook"
 name: "antifacebook"
 description: "The title says it all.Posts which are not related to Facebook will be removed."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antifacebook"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-10-21 06:48:36"
-subscribers: 57
+subscribers: 58
 posts: 27
 comments: 14
 weight: 27

@@ -3,7 +3,7 @@ title: "Yoga"
 name: "yoga"
 description: "For people into Yoga. "
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yoga"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "kat3rverse"
 name: "kat3rverse"
 description: "alles rund um den eichkat3r (bekannt aus mastodon, funk und fernsehen)"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-21 14:54:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kat3rverse"

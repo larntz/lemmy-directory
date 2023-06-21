@@ -3,7 +3,7 @@ title: "Test Community"
 name: "test"
 description: "This is just a test community."
 type: community
-date: "2023-06-20 11:37:23"
+date: "2023-06-21 14:54:10"
 draft: false
 nsfw: false
 actor_id: "https://lmmy.io/c/test"

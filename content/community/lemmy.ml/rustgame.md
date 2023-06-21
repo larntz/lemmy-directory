@@ -3,7 +3,7 @@ title: "RustGame"
 name: "rustgame"
 description: "A community dedicated to Facepunch's Rust game"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rustgame"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2023-06-12 12:48:57"
 published: "2023-06-12 06:53:11"
 subscribers: 4
-posts: 4
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

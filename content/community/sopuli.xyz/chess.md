@@ -3,7 +3,7 @@ title: "chess"
 name: "chess"
 description: "All about chess"
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-21 14:54:29"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/chess"
@@ -15,7 +15,7 @@ posts: 3
 comments: 19
 weight: 3
 dau: 1
-wau: 7
+wau: 1
 mau: 7
 instances:
 - "sopuli_xyz"

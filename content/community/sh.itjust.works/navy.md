@@ -3,7 +3,7 @@ title: "navy"
 name: "navy"
 description: "New community for discussion around the US Navy.  Foreign services are welcome as well, but I suspect most content will relate to the US Navy."
 type: community
-date: "2023-06-20 11:37:16"
+date: "2023-06-21 14:54:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/navy"

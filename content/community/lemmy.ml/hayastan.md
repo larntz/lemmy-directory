@@ -3,14 +3,14 @@ title: "Hayastan"
 name: "hayastan"
 description: "Internet's most popular space for everything related to Armenia! Moderated to ensure a place for civil, open-minded and constructive dialogue where everyone is welcome to participate."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hayastan"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 08:03:04"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

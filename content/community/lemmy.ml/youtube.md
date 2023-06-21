@@ -3,7 +3,7 @@ title: "Youtube"
 name: "youtube"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youtube"
@@ -15,7 +15,7 @@ posts: 24
 comments: 11
 weight: 24
 dau: 3
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "High heels SFW"
 name: "highheelssfw"
 description: "Show us your favorite heels.  Only SFW posts are allowed.  Any suggestive content will be removed.  "
 type: community
-date: "2023-06-20 11:38:48"
+date: "2023-06-21 14:55:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/highheelssfw"

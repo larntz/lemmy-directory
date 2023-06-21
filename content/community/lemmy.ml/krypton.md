@@ -3,14 +3,14 @@ title: "Superman"
 name: "krypton"
 description: "A sublemmy to discuss and share all things about the Man of Steel, the Last Son of Krypton, the Man of Tomorrow, the Big Blue Boy Scout, and other Kryptonians.**1 Golden Rule:**- Ask yourself what would Superman do? Do that."
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-21 14:56:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/krypton"
 host: lemmy.ml
 lastmod: "2023-06-14 20:50:40"
 published: "2023-06-14 20:46:08"
-subscribers: 6
+subscribers: 8
 posts: 2
 comments: 1
 weight: 2

@@ -3,14 +3,14 @@ title: "ADHD"
 name: "adhd"
 description: "A place primarily for people with ADHD to discuss how to live with its symptoms and support each other. "
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adhd"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-09-30 14:42:51"
-subscribers: 156
+subscribers: 159
 posts: 17
 comments: 23
 weight: 17

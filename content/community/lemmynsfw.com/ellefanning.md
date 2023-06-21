@@ -3,17 +3,17 @@ title: "Elle Fanning"
 name: "ellefanning"
 description: "Elle Fanning's pictures, gifs, and videos"
 type: community
-date: "2023-06-20 11:37:57"
+date: "2023-06-21 14:54:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/ellefanning"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 13:25:52"
 published: "2023-06-20 08:30:05"
-subscribers: 1
-posts: 0
+subscribers: 3
+posts: 2
 comments: 0
-weight: 0
+weight: 2
 dau: 0
 wau: 0
 mau: 0

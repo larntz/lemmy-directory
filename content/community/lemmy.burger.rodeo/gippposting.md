@@ -3,7 +3,7 @@ title: "GippPosting"
 name: "gippposting"
 description: "Post pictures of that darn Gipp! He has done many atrocities. Theres diseases in the gas station at 10134 Avon Lake Rd, Burbank, OH 4421440.99616500673562, -81.9968334798828"
 type: community
-date: "2023-06-20 11:37:41"
+date: "2023-06-21 14:54:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/gippposting"

@@ -3,14 +3,14 @@ title: "Age of Empires"
 name: "age_of_empires"
 description: "Welcome to the Age of Empires Lemmy community! All AoE games are welcome here!"
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-21 14:56:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/age_of_empires"
 host: lemmy.ml
 lastmod: "2021-05-19 17:53:45"
 published: "2020-10-01 14:07:57"
-subscribers: 32
+subscribers: 33
 posts: 1
 comments: 5
 weight: 1

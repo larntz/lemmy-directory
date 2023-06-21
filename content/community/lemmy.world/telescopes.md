@@ -3,7 +3,7 @@ title: "Telescopes"
 name: "telescopes"
 description: "Let's talk about telescopes, and astronomy!"
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-21 14:55:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/telescopes"

@@ -3,7 +3,7 @@ title: "meirl"
 name: "meirl"
 description: "Basically ironic posts of yourself in real life"
 type: community
-date: "2023-06-19 17:59:27"
+date: "2023-06-21 14:54:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/meirl"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 1
 comments: 29
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 7
 instances:

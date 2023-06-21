@@ -3,14 +3,14 @@ title: "Simple Direct Media Layer"
 name: "sdl"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:11"
+date: "2023-06-21 14:54:00"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/sdl"
 host: programming.dev
 lastmod: "2023-06-19 17:03:31"
 published: "2023-06-19 00:54:52"
-subscribers: 3
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "No, You're Thinking Of"
 name: "nyto"
 description: "For links to other threads which follow the NYTO format."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyto"

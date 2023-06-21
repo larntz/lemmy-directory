@@ -3,7 +3,7 @@ title: "Eneagrama + Variantes Instintivas + MBTI"
 name: "aliiman"
 description: "Esta é um canal sobre gestão de recursos humanos, todo conteúdo construído pela al'iiman tem sua base nas leis naturais universais, essas que regem o universo. Utilizamos conceitos baseados em MBTI, eneagrama e variantes instintivas.Seja muito bem vindo! Sinta-se a vontade para participar, perguntar e compartilhar. Acesse também al'iiman site:- https://aliiman.neocities.org/"
 type: community
-date: "2023-06-19 18:00:33"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aliiman"

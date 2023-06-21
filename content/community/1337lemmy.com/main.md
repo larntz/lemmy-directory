@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "This is the main / general / announcements community for the 1337lemmy instance. I'll post announcements here if I ever have any (server maintenance, etc). Feel free to use this for suggestions or general chat."
 type: community
-date: "2023-06-20 11:37:06"
+date: "2023-06-21 14:53:53"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/main"

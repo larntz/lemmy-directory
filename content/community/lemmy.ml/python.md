@@ -3,20 +3,20 @@ title: "Python"
 name: "python"
 description: "News and discussions about the programming language Python---"
 type: community
-date: "2023-06-20 11:38:27"
+date: "2023-06-21 14:56:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/python"
 host: lemmy.ml
 lastmod: "2021-01-27 17:31:08"
 published: "2019-04-25 21:49:00"
-subscribers: 2077
+subscribers: 2118
 posts: 150
-comments: 93
+comments: 94
 weight: 150
-dau: 4
-wau: 15
-mau: 23
+dau: 5
+wau: 18
+mau: 28
 instances:
 - "lemmy_ml"
 tags: 

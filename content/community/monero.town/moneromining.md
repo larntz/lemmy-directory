@@ -3,7 +3,7 @@ title: "moneromining"
 name: "moneromining"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:29"
+date: "2023-06-21 14:54:16"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/moneromining"
@@ -11,12 +11,12 @@ host: monero.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 15:12:02"
 subscribers: 17
-posts: 6
-comments: 27
-weight: 6
-dau: 6
-wau: 10
-mau: 10
+posts: 7
+comments: 29
+weight: 7
+dau: 3
+wau: 12
+mau: 12
 instances:
 - "monero_town"
 tags: 

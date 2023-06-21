@@ -3,7 +3,7 @@ title: "Add-ons"
 name: "addons"
 description: "A community for discussing extensions and scripts that enhance your web browsing experience.While this community is primarily aimed at browser extensions (Add-ons), discussion about userscripts and userstyles is also allowed."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/addons"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 2
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "lemmy_world"

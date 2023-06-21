@@ -3,14 +3,14 @@ title: "Geocaching"
 name: "geocaching"
 description: "Geocaching is a worldwide scavenger hunt that uses a GPS or phone app with GPS. There are over 3 million active caches around the world. Some are as small as a dime, others are big enough to walk into, all of them provide a unique adventure. We invite you to share your stories, photos, and experiences!"
 type: community
-date: "2023-06-19 18:00:41"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geocaching"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 10:07:38"
-subscribers: 50
+subscribers: 54
 posts: 1
 comments: 3
 weight: 1

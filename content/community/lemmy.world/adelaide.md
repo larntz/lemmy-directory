@@ -3,7 +3,7 @@ title: "Adelaide"
 name: "adelaide"
 description: "**Adelaide, Australia on LM**"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-21 14:55:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adelaide"

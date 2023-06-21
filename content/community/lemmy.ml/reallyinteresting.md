@@ -3,14 +3,14 @@ title: "Really Interesting"
 name: "reallyinteresting"
 description: "No rules for nowIf you find anything interesting, be sure to post it here."
 type: community
-date: "2023-06-20 11:38:28"
+date: "2023-06-21 14:56:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reallyinteresting"
 host: lemmy.ml
 lastmod: "2021-06-10 07:34:12"
 published: "2021-06-10 07:23:53"
-subscribers: 355
+subscribers: 357
 posts: 79
 comments: 86
 weight: 79

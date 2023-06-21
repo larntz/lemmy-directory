@@ -3,7 +3,7 @@ title: "C++"
 name: "cpp"
 description: "A place for C++ programmers discuss articles and news about programming in C++ and the language itself"
 type: community
-date: "2023-06-20 11:37:04"
+date: "2023-06-21 14:53:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/cpp"
@@ -15,7 +15,7 @@ posts: 6
 comments: 10
 weight: 6
 dau: 1
-wau: 9
+wau: 7
 mau: 10
 instances:
 - "discuss_tchncs_de"
