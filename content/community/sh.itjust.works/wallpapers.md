@@ -3,14 +3,14 @@ title: "wallpapers"
 name: "wallpapers"
 description: "Post your best wallpapers! For on your PC desktop or on a wall!Rules:1. Images must be in landscape (horizontal) orientation. Square images are OK too.2. Post high resolution images only. At least 1920x1080 for 16:9 images, similar resolution for other aspect ratio's."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wallpapers"
 host: sh.itjust.works
 lastmod: "2023-06-16 10:37:11"
 published: "2023-06-16 10:22:42"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 0
 weight: 2

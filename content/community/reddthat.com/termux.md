@@ -3,7 +3,7 @@ title: "Termux"
 name: "termux"
 description: "Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.Discord: https://discord.gg/HXpF69X"
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/termux"

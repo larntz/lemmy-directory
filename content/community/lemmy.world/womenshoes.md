@@ -3,7 +3,7 @@ title: "Women shoes"
 name: "womenshoes"
 description: "Show us your favorite shoes.Only SFW posts are allowed.Any suggestive content will be removed."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/womenshoes"

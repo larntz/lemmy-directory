@@ -3,14 +3,14 @@ title: "Leftwing Watch"
 name: "leftwingwatch"
 description: "Dedicated to monitoring up and coming leftwing trends.An example would be if the fact that the antiwork sub has risen from ~500 000 to 1.5 million in 1 year. (This insinuates a potential rise in unionization.)Also see [!rightwingwatch@lemmy.ml](https://lemmy.ml/c/rightwingwatch)"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftwingwatch"
 host: lemmy.ml
 lastmod: "2022-01-11 20:19:57"
 published: "2022-01-11 20:17:17"
-subscribers: 21
+subscribers: 22
 posts: 1
 comments: 1
 weight: 1

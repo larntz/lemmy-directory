@@ -3,14 +3,14 @@ title: "Cummed Panties"
 name: "cummedpanties"
 description: "Covert ejaculation on women's underwear & photos of women's underwear taken with intent to cum on. Based on the similarly named Reddit community."
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cummedpanties"
 host: lemmynsfw.com
 lastmod: "2023-06-19 17:32:37"
 published: "2023-06-19 17:17:11"
-subscribers: 20
+subscribers: 30
 posts: 32
 comments: 0
 weight: 32

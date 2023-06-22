@@ -3,14 +3,14 @@ title: "Rocket League"
 name: "rocketleague"
 description: "A forum to discuss anything related to the game rocket league"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rocketleague"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-01-06 21:25:14"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0

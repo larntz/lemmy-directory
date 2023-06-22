@@ -3,7 +3,7 @@ title: "askjapan"
 name: "askjapan"
 description: "日本について質問があるかい？  Got a question about Japan?"
 type: community
-date: "2023-06-21 14:54:14"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/askjapan"

@@ -3,7 +3,7 @@ title: "Dark Souls"
 name: "darksouls"
 description: "Anything and everything Dark Souls (1, 2. 3), Demon Soul's and Elden Ring related"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darksouls"

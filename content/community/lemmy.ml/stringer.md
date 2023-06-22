@@ -3,7 +3,7 @@ title: "A blogging platform for the decentralized web"
 name: "stringer"
 description: "Lemmy community for the ActivityPub powered blogging platform Stringer.- [Website](https://stringer.blog)- [Mastodon](https://mastodon.social/@stringerblog)- [Matrix](https://matrix.to/#/#stringer:matrix.org)- [Code](https://codeberg.org/Stringer/stringer-web)- [Support / Help](https://codeberg.org/Stringer/stringer-web/issues)"
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stringer"

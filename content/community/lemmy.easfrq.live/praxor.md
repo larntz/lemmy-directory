@@ -3,7 +3,7 @@ title: "The Praxor Society"
 name: "praxor"
 description: "***We are praxor united.***"
 type: community
-date: "2023-06-21 14:54:15"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.easfrq.live/c/praxor"

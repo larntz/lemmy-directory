@@ -3,14 +3,14 @@ title: "Polska"
 name: "polska"
 description: "Inne polskie społeczności:  - [c/nowiny](https://dev.lemmy.ml/c/nowiny)Regiony:  - [c/lodz](https://dev.lemmy.ml/c/lodz)"
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polska"
 host: lemmy.ml
 lastmod: "2021-02-14 09:44:58"
 published: "2020-02-22 16:21:39"
-subscribers: 21
+subscribers: 22
 posts: 50
 comments: 0
 weight: 50

@@ -3,7 +3,7 @@ title: "The Fable Historian"
 name: "thefablehistorian"
 description: "A Lemmy community for the YouTuber The Fable Historianhttps://www.youtube.com/@TheFableHistorian/"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thefablehistorian"

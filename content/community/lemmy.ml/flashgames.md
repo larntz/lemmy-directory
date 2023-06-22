@@ -3,7 +3,7 @@ title: "Flash Games - The one and only"
 name: "flashgames"
 description: "A place to share flash games/animations from the long-long-ago web**Resources**[Free/Libre Flash Player emulator](https://ruffle.rs/)[Flash Game Archive](http://www.flashgamearchive.com/)[The Internet Archive's Flash library](https://archive.org/details/softwarelibrary_flash)[Flashpoint's library](https://bluemaxima.org/flashpoint/)"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flashgames"

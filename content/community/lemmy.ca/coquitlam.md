@@ -3,7 +3,7 @@ title: "For residents and visitors of Coquitlam, British Columbia."
 name: "coquitlam"
 description: "The Spirit of the Rivers is the Strength of the PeopleFor discussion, news, photos, meetings, reviews, and more about the city of Coquitlam. Located in the center of the Greater Vancouver Area, Coquitlam is the 6th largest city in British Columbia, so there's plenty of things to talk about!"
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/coquitlam"
@@ -15,8 +15,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ca"
 tags: 

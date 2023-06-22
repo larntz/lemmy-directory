@@ -3,7 +3,7 @@ title: "Slovenia"
 name: "slovenia"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/slovenia"
@@ -14,7 +14,7 @@ subscribers: 5
 posts: 6
 comments: 19
 weight: 6
-dau: 2
+dau: 1
 wau: 7
 mau: 7
 instances:

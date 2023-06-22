@@ -3,7 +3,7 @@ title: "Things With Faces"
 name: "thingswithfaces"
 description: "Inanimate objects with what appear to be faces..."
 type: community
-date: "2023-06-21 14:54:28"
+date: "2023-06-22 02:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/thingswithfaces"

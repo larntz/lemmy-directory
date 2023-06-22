@@ -3,7 +3,7 @@ title: "My Little Pony"
 name: "my_little_pony"
 description: "A lemmy community about the TV show My Little Pony: Friendship is MagicRules- 1 Posts must be about MLP or the fandom- 2 Everything must be safe for work- 3 No politics (either in posts or comments)- 4 Follow site rules"
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/my_little_pony"

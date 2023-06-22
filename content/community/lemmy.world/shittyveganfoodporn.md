@@ -3,14 +3,14 @@ title: "shitty vegan food porn"
 name: "shittyveganfoodporn"
 description: "A place to post photos of shitty vegan food, drunk vegan food, bad vegan food.......you get the idea.This is not a porn community....Be nice and follow all the [lemmy.world rules.](https://mastodon.world/about)"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shittyveganfoodporn"
 host: lemmy.world
 lastmod: "2023-06-18 07:06:27"
 published: "2023-06-17 16:54:43"
-subscribers: 39
+subscribers: 41
 posts: 3
 comments: 3
 weight: 3

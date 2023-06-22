@@ -3,7 +3,7 @@ title: "Model the Canadian Parliament"
 name: "modelparliament"
 description: "Jump into the Canadian political scene with Lemmy's Canadian Model Parliament! Join a political party, and work your way up by creating legislation, hosting press events, and debating in Parliament! This is a place to learn, practice, and grow. Anyone can get involved right off the bat.Inspired by various subreddits on the american system"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/modelparliament"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 2
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ca"

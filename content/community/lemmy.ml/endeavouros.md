@@ -3,14 +3,14 @@ title: "EndeavourOS"
 name: "endeavouros"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/endeavouros"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-03-06 14:18:49"
-subscribers: 40
+subscribers: 41
 posts: 2
 comments: 4
 weight: 2

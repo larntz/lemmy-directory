@@ -3,17 +3,17 @@ title: "Pathfinder 2nd Edition"
 name: "pathfinder"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/pathfinder"
 host: lemmy.wizjenkins.com
 lastmod: "2023-06-07 18:05:26"
 published: "2023-06-06 03:30:27"
-subscribers: 8
-posts: 1
-comments: 2
-weight: 1
+subscribers: 9
+posts: 2
+comments: 3
+weight: 2
 dau: 1
 wau: 1
 mau: 2

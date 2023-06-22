@@ -3,7 +3,7 @@ title: "plural"
 name: "plural"
 description: "A community for all who fall under the plurality umbrella and those interested in learning about plurality, and want to live a healthy, plural life. Whether you've got DID/OSDD, are a natural, have tulpas or soulbonds, or any combination of others in your head, you're welcome here."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/plural"

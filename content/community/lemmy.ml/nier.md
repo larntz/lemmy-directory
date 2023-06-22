@@ -3,7 +3,7 @@ title: "Nier"
 name: "nier"
 description: "A community for fans of the Nier and Drakengard series created by Yoko Taro.Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nier"

@@ -3,7 +3,7 @@ title: "heatpumpmemes"
 name: "heatpumpmemes"
 description: "memes about cooling and heating by transfering thermal energy"
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heatpumpmemes"

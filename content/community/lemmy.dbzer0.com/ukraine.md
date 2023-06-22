@@ -3,7 +3,7 @@ title: "Welcome to Ukraine - Ласкаво просимо в Україну!"
 name: "ukraine"
 description: "HERE УКРАЇНА TAKES CENTER STAGE — The purpose of r/Ukraine is to amplify Ukrainian voices. We are at war, so content is tightly moderated to keep our community safe. Share and discuss Україна and her glorious people, history, geography, language, art, culture, values, and experiences during wartime. Sharing of russian narratives in any way, shape or form is banned."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/ukraine"

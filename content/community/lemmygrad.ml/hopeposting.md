@@ -3,7 +3,7 @@ title: "Hopeposting"
 name: "hopeposting"
 description: "The place to post positive stuff, be it memes or otherwise.We will win, comrade!"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/hopeposting"
@@ -15,7 +15,7 @@ posts: 3
 comments: 8
 weight: 3
 dau: 2
-wau: 6
+wau: 2
 mau: 10
 instances:
 - "lemmygrad_ml"

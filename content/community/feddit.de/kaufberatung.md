@@ -3,7 +3,7 @@ title: "Kaufberatung"
 name: "kaufberatung"
 description: "Wenn ihr was kaufen wollt, könnt ihr hier fragen. Oder erst mal da suchen:- https://geizhals.de- https://idealo.de- https://shopping.google.com/?hl=de"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kaufberatung"

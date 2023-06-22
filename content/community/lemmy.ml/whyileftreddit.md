@@ -3,7 +3,7 @@ title: "Why I Left Reddit"
 name: "whyileftreddit"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whyileftreddit"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-02-15 02:05:25"
 subscribers: 199
-posts: 7
+posts: 8
 comments: 18
-weight: 7
+weight: 8
 dau: 1
 wau: 2
 mau: 5

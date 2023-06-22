@@ -3,7 +3,7 @@ title: "Constructed Languages for Language Geeks"
 name: "conlangs"
 description: "This community is focused on the discussion of conlangs, tools, and activities to aid you in the construction of your own conlang, and creating a community environment where we can all enjoy conlanging together"
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/conlangs"

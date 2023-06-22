@@ -3,14 +3,14 @@ title: "Linux"
 name: "linux"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/linux"
 host: programming.dev
 lastmod: "2023-06-13 23:26:41"
 published: "2023-06-13 22:26:54"
-subscribers: 489
+subscribers: 526
 posts: 13
 comments: 34
 weight: 13

@@ -3,14 +3,14 @@ title: "EA Sports FC"
 name: "easportsfc"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:13"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/easportsfc"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-07 21:20:21"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

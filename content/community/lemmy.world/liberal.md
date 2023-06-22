@@ -3,14 +3,14 @@ title: "liberal"
 name: "liberal"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liberal"
 host: lemmy.world
 lastmod: "2023-06-09 20:40:22"
 published: "2023-06-09 20:30:54"
-subscribers: 32
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

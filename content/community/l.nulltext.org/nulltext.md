@@ -3,7 +3,7 @@ title: "nulltext"
 name: "nulltext"
 description: "A place for discussion of this Lemmy node"
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://l.nulltext.org/c/nulltext"

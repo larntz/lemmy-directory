@@ -3,7 +3,7 @@ title: "Garry’s Mod"
 name: "garrysmod"
 description: "A community for everything related to the Source game Garry’s Mod (S2 S&box too)"
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/garrysmod"

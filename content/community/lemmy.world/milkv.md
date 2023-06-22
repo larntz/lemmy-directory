@@ -3,7 +3,7 @@ title: "MilkV"
 name: "milkv"
 description: "Discussion on MilkV RISC-V Development boards and products"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/milkv"

@@ -3,7 +3,7 @@ title: "Neurodiversity"
 name: "neurodiversity"
 description: "Anything and everything on neurodiversity."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/neurodiversity"
@@ -14,7 +14,7 @@ subscribers: 212
 posts: 16
 comments: 61
 weight: 16
-dau: 3
+dau: 1
 wau: 16
 mau: 16
 instances:

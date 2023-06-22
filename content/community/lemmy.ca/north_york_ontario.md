@@ -3,14 +3,14 @@ title: "North York Ontario"
 name: "north_york_ontario"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/north_york_ontario"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 21:19:21"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

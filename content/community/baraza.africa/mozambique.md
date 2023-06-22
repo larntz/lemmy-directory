@@ -3,7 +3,7 @@ title: "Mozambique"
 name: "mozambique"
 description: "A community to share and discuss news and information on Mozambique. "
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/mozambique"

@@ -3,7 +3,7 @@ title: "日本語のアニメ - Japanese Anime"
 name: "japaneseanime"
 description: "[日本語２４７](https://lemmy.ml/c/japanese247)のゲームサブ[日本語247](https://lemmy.ml/c/japanese247) community's videos subThis sub is for sharing anime for learning japanese."
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japaneseanime"

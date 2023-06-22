@@ -3,7 +3,7 @@ title: "Regina"
 name: "regina"
 description: "Regina, saskatchewanSaskatchewan sub: https://lemmy.ca/c/sask"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/regina"
@@ -14,9 +14,9 @@ subscribers: 22
 posts: 16
 comments: 11
 weight: 16
-dau: 1
-wau: 1
-mau: 1
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_ca"
 tags: 

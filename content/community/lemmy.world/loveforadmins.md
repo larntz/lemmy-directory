@@ -3,7 +3,7 @@ title: "Love for Admins"
 name: "loveforadmins"
 description: "::: spoiler spoilerThis is a satirical community meant to lampoon support for large corporate social media networks.:::When you pay your Reddit or Twitter API bill, do you remember to tip your admins?"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/loveforadmins"
@@ -14,7 +14,7 @@ subscribers: 7
 posts: 4
 comments: 4
 weight: 4
-dau: 3
+dau: 2
 wau: 3
 mau: 3
 instances:

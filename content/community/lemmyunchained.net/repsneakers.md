@@ -3,7 +3,7 @@ title: "RepSneakers"
 name: "repsneakers"
 description: "Welcome to Lemmy’s RepSneakers - a brand new destination for individuals who find excitement in the world of replica sneakers. As we lay the groundwork for our community, we invite all - whether seasoned collectors, curious beginners, or those just interested in the allure of replicas. Be a part of fascinating conversations, share your collection, give or take advice, and help create an energetic atmosphere for replica sneaker aficionados."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/repsneakers"

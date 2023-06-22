@@ -3,7 +3,7 @@ title: "MikroTik and RouterOs"
 name: "routeros"
 description: "A place to discuss MikroTik devices and RouterOs"
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/routeros"

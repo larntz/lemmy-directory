@@ -3,14 +3,14 @@ title: "Fantasy General"
 name: "fantasy"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:13"
+date: "2023-06-22 02:20:02"
 draft: false
 nsfw: false
 actor_id: "https://sffa.community/c/fantasy"
 host: sffa.community
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 22:10:33"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

@@ -1,19 +1,19 @@
 ---
 title: "Laravel" 
 name: "laravel"
-description: "Description not available."
+description: "Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in most web projects.This community aims to be a place for all things Laravel. **#Recommended links**- [Laravel Documentation](https://laravel.com/docs/10.x)- [Laravel Bootcamp](https://bootcamp.laravel.com/)- [Laracasts](https://laracasts.com/)- [Laravel News](https://laravel-news.com/)"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/laravel"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 00:21:39"
 published: "2023-06-18 03:28:09"
-subscribers: 5
-posts: 0
+subscribers: 7
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

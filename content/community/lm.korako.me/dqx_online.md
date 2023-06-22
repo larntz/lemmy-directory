@@ -3,7 +3,7 @@ title: "ドラゴンクエスト10"
 name: "dqx_online"
 description: "DQXオンライン、オフラインに関する情報、感想などはこちらにどうぞ、短文でもOK"
 type: community
-date: "2023-06-21 14:53:40"
+date: "2023-06-22 02:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/dqx_online"

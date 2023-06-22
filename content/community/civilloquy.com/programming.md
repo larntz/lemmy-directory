@@ -3,7 +3,7 @@ title: "Programming"
 name: "programming"
 description: "For discussion of programming###### See Also* [!rustlang@lemmyrs.org](https://civilloquy.com/c/rustlang@lemmyrs.org)* [Codidact Software Development Q&A](https://software.codidact.com/)"
 type: community
-date: "2023-06-21 14:53:57"
+date: "2023-06-22 02:19:47"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/programming"

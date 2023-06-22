@@ -3,7 +3,7 @@ title: "bimmer"
 name: "bmw"
 description: "for fans and owners of BMWs"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/bmw"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 17:20:59"
 subscribers: 7
 posts: 4
-comments: 4
+comments: 5
 weight: 4
 dau: 2
 wau: 5

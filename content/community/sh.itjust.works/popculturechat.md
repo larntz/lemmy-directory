@@ -3,7 +3,7 @@ title: "popculturechat"
 name: "popculturechat"
 description: "For serious gossips with a great sense of humor. No bores, no bullies. Come for the gossip, stay for the analysis & community."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/popculturechat"

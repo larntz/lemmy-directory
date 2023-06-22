@@ -3,14 +3,14 @@ title: "WEC"
 name: "wec"
 description: "Welcome to c/wec. The community for the **World Endurance Championship**.Please keep discussions civil, respect other’s opinions, and keep it friendly.Thanks!"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wec"
 host: lemmy.ml
 lastmod: "2023-06-20 19:11:52"
 published: "2023-06-20 18:15:37"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

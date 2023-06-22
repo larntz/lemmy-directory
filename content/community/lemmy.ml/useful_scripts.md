@@ -3,7 +3,7 @@ title: "Useful Scripts"
 name: "useful_scripts"
 description: "Any kind of scripts that are useful… nothing malicious please.Please prefix your post with the script language or some kind of indication of the platform it’s for."
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/useful_scripts"

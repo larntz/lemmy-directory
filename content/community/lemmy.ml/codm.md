@@ -3,7 +3,7 @@ title: "Call Of Duty Mobile"
 name: "codm"
 description: "Available for [Android](https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter) and [iOS](https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214)"
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/codm"

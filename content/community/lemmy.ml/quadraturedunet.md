@@ -3,7 +3,7 @@ title: "La Quadrature Du Net"
 name: "quadraturedunet"
 description: "https://www.laquadrature.net/en/https://www.laquadrature.net/es/https://www.laquadrature.net//?lang=fr"
 type: community
-date: "2023-06-21 14:56:13"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quadraturedunet"

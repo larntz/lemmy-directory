@@ -1,22 +1,22 @@
 ---
 title: "Stephen King" 
 name: "stephenking"
-description: "A community for fans of the King of Horror, **Stephen King**. Rules: -All posts must be related to Stephen King.-No spamming-That's it for now I'll probably add more as the community grows"
+description: "A community for fans of the King of Horror, **Stephen King**. Rules: -All posts must be related to Stephen King.-No spamming.-Please use spoiler tags when putting spoilers in your post ([formatting tutorial](https://join-lemmy.org/docs/users/02-media.html) or click on the ⚠️ icon)."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stephenking"
 host: lemmy.world
-lastmod: "2023-06-15 02:53:14"
+lastmod: "2023-06-21 18:09:32"
 published: "2023-06-14 14:14:45"
-subscribers: 75
-posts: 5
-comments: 13
-weight: 5
-dau: 2
-wau: 10
-mau: 10
+subscribers: 81
+posts: 6
+comments: 15
+weight: 6
+dau: 3
+wau: 9
+mau: 12
 instances:
 - "lemmy_world"
 tags: 

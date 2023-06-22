@@ -3,16 +3,16 @@ title: "Sourdough baking"
 name: "sourdough"
 description: "Sourdough baking"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sourdough"
 host: lemmy.world
 lastmod: "2023-06-12 11:33:05"
 published: "2023-06-12 09:46:18"
-subscribers: 146
+subscribers: 156
 posts: 7
-comments: 19
+comments: 20
 weight: 7
 dau: 3
 wau: 7

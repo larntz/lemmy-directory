@@ -1,0 +1,25 @@
+---
+title: "Library Haul" 
+name: "library_haul"
+description: "A community for people who use and love libraries! This is a place to post library hauls and discuss all things library."
+type: community
+date: "2023-06-22 02:21:43"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/library_haul"
+host: lemmy.world
+lastmod: "2023-06-22 01:23:47"
+published: "2023-06-22 01:13:41"
+subscribers: 4
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

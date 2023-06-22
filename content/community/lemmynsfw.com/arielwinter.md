@@ -3,17 +3,17 @@ title: "Ariel Winter"
 name: "arielwinter"
 description: "Ariel Winter's pictures, gifs, and videos"
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/arielwinter"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 01:56:24"
 published: "2023-06-20 09:59:29"
-subscribers: 3
-posts: 1
+subscribers: 6
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

@@ -3,14 +3,14 @@ title: "Ableton Live"
 name: "abletonlive"
 description: "A community for discussion of Ableton Live, tips and tricks, help, etc."
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/abletonlive"
 host: lemmy.studio
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 20:58:13"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

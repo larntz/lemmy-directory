@@ -3,7 +3,7 @@ title: "Samoyeds"
 name: "samoyeds"
 description: "A community dedicated to the wonderful Samoyed dogs. Post anything related to Samoyeds just please read the rules before posting!"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/samoyeds"

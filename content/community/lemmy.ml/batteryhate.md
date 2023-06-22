@@ -3,7 +3,7 @@ title: "We Hate Batteries"
 name: "batteryhate"
 description: "We discuss the bad things about batteries and how to avoid batteries or make them better."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/batteryhate"

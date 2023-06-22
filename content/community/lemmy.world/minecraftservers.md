@@ -3,7 +3,7 @@ title: "Minecraft Servers"
 name: "minecraftservers"
 description: "A place to look for Minecraft servers and to recruit for your own Minecraft server"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftservers"

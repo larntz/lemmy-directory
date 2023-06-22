@@ -3,7 +3,7 @@ title: "💭|Webcomics"
 name: "webcomic"
 description: "Copyright Free Webcomics"
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/webcomic"

@@ -3,7 +3,7 @@ title: "Furry Tech"
 name: "ftech"
 description: "Welcome to the Furry Tech Lemmy.Find the website: https://furry.lol  Main Matrix room: https://matrix.to/#/#furrytech:matrix.org"
 type: community
-date: "2023-06-21 14:53:44"
+date: "2023-06-22 02:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/ftech"

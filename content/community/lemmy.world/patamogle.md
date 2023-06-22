@@ -3,7 +3,7 @@ title: "patamogle"
 name: "patamogle"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/patamogle"
@@ -15,7 +15,7 @@ posts: 5
 comments: 1
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "Choose Your Own Adventure"
 name: "cyoa"
 description: "For posting cyoa images! NSFW ones are allowed, just mark them appropriately. Also, given where most of these come from I'm sure we can expect some less-than-friendly content at times. If it's not too much trouble, just label any Trigger Warnings you feel might be helpful."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/cyoa"

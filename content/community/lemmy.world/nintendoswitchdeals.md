@@ -3,14 +3,14 @@ title: "NintendoSwitchDeals"
 name: "nintendoswitchdeals"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:40"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nintendoswitchdeals"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 07:05:31"
-subscribers: 27
+subscribers: 31
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "FPV"
 name: "fpv"
 description: "A place to discuss all things FPV (first person view).  Drones, wings, rc cars, whatever floats your boat. Rules: 1. No spam 2. Keep it civil"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fpv"

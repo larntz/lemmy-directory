@@ -3,7 +3,7 @@ title: "World of Warcraft Classic"
 name: "classicwow"
 description: "Home for World of Warcraft Classic and World of Warcraft WotLK Classic"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/classicwow"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "feddit_de"

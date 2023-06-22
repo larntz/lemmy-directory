@@ -3,20 +3,20 @@ title: "Formula 1"
 name: "formula1"
 description: "A community for Formula 1 and related racing series"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/formula1"
 host: lemmy.world
 lastmod: "2023-06-09 11:47:18"
 published: "2023-06-09 11:41:18"
-subscribers: 1344
+subscribers: 1460
 posts: 25
-comments: 246
+comments: 256
 weight: 25
-dau: 17
+dau: 19
 wau: 98
-mau: 113
+mau: 120
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Browse"
 name: "browse"
 description: "a new Lemmy community browsercurrently in alphahttps://browse.toast.ooo"
 type: community
-date: "2023-06-21 14:54:10"
+date: "2023-06-22 02:19:59"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/browse"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "toast_ooo"

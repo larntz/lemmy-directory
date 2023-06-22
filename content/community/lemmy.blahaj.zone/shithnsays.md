@@ -3,14 +3,14 @@ title: "Shit Hacker News Says"
 name: "shithnsays"
 description: "Basically just post bad takes from HN here in the format of Shit Reddit Says if you remember it."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/shithnsays"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 14:27:50"
-subscribers: 19
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1

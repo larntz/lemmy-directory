@@ -3,7 +3,7 @@ title: "Racism"
 name: "racism"
 description: "A long overdue community for documenting cases of racism and race-related issues!"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/racism"

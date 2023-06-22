@@ -3,7 +3,7 @@ title: "Xenoblade Chronicles"
 name: "xenoblade_chronicles"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xenoblade_chronicles"

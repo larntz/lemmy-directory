@@ -3,7 +3,7 @@ title: "COMMUNITYNAME"
 name: "communityname"
 description: "GENERIC COMMUNITY INTRODUCTION1. SUBJECTIVE RULE 12. SUBJECTIVE RULE 23. REMINDER OF GENERAL BE-NICE POLICYPARAGRAPH ON HISTORY OF COMMUNITYNAME"
 type: community
-date: "2023-06-21 14:55:53"
+date: "2023-06-22 02:21:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/communityname"

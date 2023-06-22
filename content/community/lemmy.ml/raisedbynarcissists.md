@@ -3,7 +3,7 @@ title: "RaisedByNarcissists: for the children of abusive parents"
 name: "raisedbynarcissists"
 description: "Accepting new moderators1. No - personal attacks/bigotry/victim-blaming. No downvotes. Speak with your upvotes.2. Always assume a context of abuse3. Do not derail the OP[Glossary of terms](https://lemmy.ml/post/76612)"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/raisedbynarcissists"

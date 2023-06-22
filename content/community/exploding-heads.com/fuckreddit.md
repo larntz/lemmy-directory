@@ -3,7 +3,7 @@ title: "FuckReddit"
 name: "fuckreddit"
 description: "They're a monopoly and should be split up. Admins and especially mods abuse their power to unacceptable levels"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/fuckreddit"

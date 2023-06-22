@@ -3,7 +3,7 @@ title: "Kitchen Table"
 name: "casual"
 description: "**Community for casual Magic players**Discussion for all casual play topics, decks, questions, humor, and advice."
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/casual"

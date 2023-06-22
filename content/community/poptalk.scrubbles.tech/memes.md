@@ -3,7 +3,7 @@ title: "…baby one more meme"
 name: "memes"
 description: "A Lemmy home for super-classy memes featuring or alluding to popstars.The basic rules apply:- Don't put anything here you wouldn't put elsewhere on PopTalk. Keep it clean and don't be a dick.- Stay on topic. We like both kinds, pop *and* music.Beyond that, run away with memes!"
 type: community
-date: "2023-06-21 14:53:52"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://poptalk.scrubbles.tech/c/memes"

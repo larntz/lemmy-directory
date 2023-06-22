@@ -3,20 +3,20 @@ title: "Unstable Diffusion"
 name: "unstable_diffusion"
 description: "Stable-diffusion NSFW"
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/unstable_diffusion"
 host: lemmynsfw.com
 lastmod: "2023-06-21 08:26:58"
 published: "2023-06-21 07:58:01"
-subscribers: 6
+subscribers: 14
 posts: 2
 comments: 0
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 

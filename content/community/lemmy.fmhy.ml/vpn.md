@@ -3,7 +3,7 @@ title: "VPNs"
 name: "vpn"
 description: "For discussion of virtual private networks (vpns), their uses, which are best, etc.Rules:Don’t be a dick"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/vpn"

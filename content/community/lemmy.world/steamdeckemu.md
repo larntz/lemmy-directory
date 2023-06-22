@@ -3,14 +3,14 @@ title: "SteamDeckEmu"
 name: "steamdeckemu"
 description: "Welcome to SteamDeckEmu.  Everything about emulation on the Steam Deck including EmuDeck! "
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steamdeckemu"
 host: lemmy.world
 lastmod: "2023-06-20 04:18:56"
 published: "2023-06-20 04:16:30"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

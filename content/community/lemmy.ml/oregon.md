@@ -3,17 +3,17 @@ title: "Oregon"
 name: "oregon"
 description: "Oregon"
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oregon"
 host: lemmy.ml
-lastmod: "2023-06-03 17:27:32"
+lastmod: "2023-06-21 22:35:45"
 published: "2023-06-01 23:29:16"
-subscribers: 33
-posts: 10
+subscribers: 35
+posts: 13
 comments: 3
-weight: 10
+weight: 13
 dau: 1
 wau: 4
 mau: 5

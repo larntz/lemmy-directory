@@ -3,7 +3,7 @@ title: "CalGuns"
 name: "calguns"
 description: "The Home of the California Firearms Owner's Resistance"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/calguns"

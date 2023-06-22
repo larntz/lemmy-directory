@@ -3,17 +3,17 @@ title: "Houston Texans"
 name: "texans"
 description: "A community dedicated to the Houston Texans.**Looking for Mods!**"
 type: community
-date: "2023-06-20 11:37:25"
+date: "2023-06-22 02:20:02"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/texans"
 host: fanaticus.social
-lastmod: "2023-06-17 19:29:50"
+lastmod: "2023-06-21 10:14:33"
 published: "2023-06-14 01:31:53"
 subscribers: 1
-posts: 2
+posts: 1
 comments: 0
-weight: 2
+weight: 1
 dau: 2
 wau: 2
 mau: 2

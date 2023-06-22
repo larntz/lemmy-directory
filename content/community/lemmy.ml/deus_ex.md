@@ -3,7 +3,7 @@ title: "Deus Ex"
 name: "deus_ex"
 description: "A community for fans of the Deus Ex series of video games."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deus_ex"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 04:56:54"
 subscribers: 25
 posts: 6
-comments: 6
+comments: 7
 weight: 6
 dau: 1
 wau: 5

@@ -3,14 +3,14 @@ title: "Explain Like I'm 5 (ELI5)"
 name: "eli5"
 description: "Easier to type out this way"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eli5"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 11:08:30"
-subscribers: 36
+subscribers: 45
 posts: 1
 comments: 1
 weight: 1

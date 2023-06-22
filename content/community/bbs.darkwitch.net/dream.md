@@ -3,7 +3,7 @@ title: "解梦大师"
 name: "dream"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:50"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/dream"

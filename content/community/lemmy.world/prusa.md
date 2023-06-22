@@ -3,7 +3,7 @@ title: "Prusa"
 name: "prusa"
 description: "Have a Prusa printer? Have questions about a Prusa printer? You're in the right place!"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prusa"

@@ -3,7 +3,7 @@ title: "Lemmy Online"
 name: "lemmyonline"
 description: "News related to Lemmy online."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/lemmyonline"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 00:57:17"
 subscribers: 1
 posts: 4
-comments: 7
+comments: 8
 weight: 4
 dau: 1
 wau: 1

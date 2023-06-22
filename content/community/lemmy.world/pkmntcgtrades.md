@@ -3,7 +3,7 @@ title: "Pkmntcgtrades"
 name: "pkmntcgtrades"
 description: "A new home for Reddit’s r/pkmntcgtrades! Your stop for trading cards by mail. Hopefully we will have a bot soon! "
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pkmntcgtrades"

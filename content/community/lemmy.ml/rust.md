@@ -3,14 +3,14 @@ title: "Rust Programming"
 name: "rust"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rust"
 host: lemmy.ml
 lastmod: "2021-01-27 01:53:39"
 published: "2019-04-25 07:48:39"
-subscribers: 4373
+subscribers: 4396
 posts: 421
 comments: 540
 weight: 421

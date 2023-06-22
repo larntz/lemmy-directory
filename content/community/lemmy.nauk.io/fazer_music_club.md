@@ -3,7 +3,7 @@ title: "Fazer Music Club"
 name: "fazer_music_club"
 description: "Music link aggregator"
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nauk.io/c/fazer_music_club"

@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "test community please ignore."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test"
@@ -15,7 +15,7 @@ posts: 19
 comments: 195
 weight: 19
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_douwes_co_uk"

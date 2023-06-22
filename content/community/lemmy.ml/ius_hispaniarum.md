@@ -3,7 +3,7 @@ title: "Derecho del Estado español"
 name: "ius_hispaniarum"
 description: "Una visión crítica del derecho del estado español y sus innovaciones"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ius_hispaniarum"

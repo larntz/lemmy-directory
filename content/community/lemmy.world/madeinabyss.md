@@ -3,7 +3,7 @@ title: "Made in Abyss | Abyss Delvers "
 name: "madeinabyss"
 description: "community made by Nanachi (yeah) Ask me about ownership transfer "
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/madeinabyss"

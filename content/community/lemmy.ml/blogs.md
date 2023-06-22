@@ -3,7 +3,7 @@ title: "Blogs"
 name: "blogs"
 description: "For Lemmy users to submit links to their blogs. We can share each other's posts using software like https://git.sr.ht/~sircmpwn/openring to amplify our voices!"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blogs"

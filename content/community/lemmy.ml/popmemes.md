@@ -3,7 +3,7 @@ title: "Popular Memes"
 name: "popmemes"
 description: "Somewhere to upload all your mainstream social media memes where they can give us our dopamine fix and not bother the rest of lemmy.[ICON](https://unsplash.com/photos/b3NaswrROkI) - [BANNER](https://unsplash.com/photos/liak2l9DQiQ)"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/popmemes"

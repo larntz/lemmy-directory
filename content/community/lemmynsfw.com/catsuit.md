@@ -3,17 +3,17 @@ title: "Catsuit"
 name: "catsuit"
 description: "A place for people in catsuits. Latex, PVC, Spandex, Lycra or Leather# Rules🔞 **Age Requirement**: All participants MUST be 18 or over. Additionally, this should go without saying, **but posting content involving any person(s) who is under 18 is Forbidden**."
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/catsuit"
 host: lemmynsfw.com
 lastmod: "2023-06-19 16:17:55"
 published: "2023-06-19 10:09:41"
-subscribers: 24
-posts: 3
+subscribers: 32
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

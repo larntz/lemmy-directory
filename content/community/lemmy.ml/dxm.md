@@ -3,7 +3,7 @@ title: "DXM"
 name: "dxm"
 description: "This is a community for DXM users or users of psychedelics and dissociatives, generally speaking. It is very similar to Reddit's own r/DXM, but with different moderators and a more lenient moderation style. "
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dxm"

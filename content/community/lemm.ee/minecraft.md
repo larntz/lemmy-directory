@@ -3,7 +3,7 @@ title: "Minecraft"
 name: "minecraft"
 description: "A place to share builds, get inspiration, and stay hip on all things Minecraft. "
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/minecraft"

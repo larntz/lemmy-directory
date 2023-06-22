@@ -3,7 +3,7 @@ title: "VRChat Development"
 name: "vrchat_dev"
 description: "A place to discuss development of all kinds on the VRChat platform!Post your favourite dev projects:* Avatars* Worlds* Prefab systems"
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vrchat-dev.tech/c/vrchat_dev"

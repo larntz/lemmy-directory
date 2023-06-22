@@ -3,7 +3,7 @@ title: "Anti-Fascism"
 name: "antifa"
 description: "Rules:1. Be civil and respectful2. Don't be a nazi3. Respect other opinions (not nazis though); argue about the point and not the person"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antifa"

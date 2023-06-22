@@ -3,7 +3,7 @@ title: "announcements"
 name: "announcements"
 description: "Channel for announcements about the lemmyfly.org instance"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/announcements"

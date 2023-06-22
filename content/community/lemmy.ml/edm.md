@@ -3,7 +3,7 @@ title: "Electronic Dance Music"
 name: "edm"
 description: "Test"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edm"

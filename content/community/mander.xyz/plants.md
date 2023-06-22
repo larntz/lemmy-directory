@@ -3,14 +3,14 @@ title: "Plants"
 name: "plants"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/plants"
 host: mander.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2022-05-20 09:52:34"
-subscribers: 88
+subscribers: 89
 posts: 3
 comments: 2
 weight: 3

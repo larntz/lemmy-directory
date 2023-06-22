@@ -3,7 +3,7 @@ title: "Town Hall"
 name: "townhall"
 description: "Open forum for discussions pertinent to this Lemmy instance."
 type: community
-date: "2023-06-21 14:54:15"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.picote.ch/c/townhall"
@@ -15,7 +15,7 @@ posts: 5
 comments: 13
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 5
 instances:
 - "lemmy_picote_ch"

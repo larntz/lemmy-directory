@@ -3,7 +3,7 @@ title: "Lemmy Code / App Technical"
 name: "lemmycode"
 description: "The code and application behind Lemmy. Beta testing new releases, custom changes, adding new features"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmycode"

@@ -3,7 +3,7 @@ title: "Hinduism"
 name: "hinduism"
 description: "General discussion on topics of Hinduism"
 type: community
-date: "2023-06-21 14:54:21"
+date: "2023-06-22 02:20:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/hinduism"

@@ -3,14 +3,14 @@ title: "DMZ"
 name: "dmz"
 description: "Lemmy’s stop for everything COD: DMZ! 1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dmz"
 host: lemmy.world
 lastmod: "2023-06-13 18:44:44"
 published: "2023-06-12 20:12:50"
-subscribers: 8
+subscribers: 9
 posts: 4
 comments: 2
 weight: 4

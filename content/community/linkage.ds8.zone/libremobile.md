@@ -3,7 +3,7 @@ title: "Freedom in Mobile Computing"
 name: "libremobile"
 description: "/c/LibreMobile is a community for discussion of Free (Libre) Software in the mobile space, including Android and non-Android Linux-based OS’s.Please don’t discuss, promote, advocate, advertise, or ask for help with proprietary software in this community. This includes using libre software with the purpose of enabling proprietary software (such as microG, Aurora Store, sandboxes, etc).Proprietary apps are still proprietary even if they have no trackers or a nice-sounding privacy policy."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://linkage.ds8.zone/c/libremobile"

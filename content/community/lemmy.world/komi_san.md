@@ -3,7 +3,7 @@ title: "Komi Can't Communicate"
 name: "komi_san"
 description: "A community dedicated to the manga series Komi-san wa, Komyushou desu, a.k.a. 古見さんは、コミュ症です by Oda Tomohito (オダ トモヒト)."
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/komi_san"

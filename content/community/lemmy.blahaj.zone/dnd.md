@@ -3,7 +3,7 @@ title: "Dungeons & Dragons"
 name: "dnd"
 description: "Welcome, adventurers, to the world's greatest* roleplaying game!*Terms and conditions may apply"
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/dnd"

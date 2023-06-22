@@ -3,7 +3,7 @@ title: "autism + adhd = brain goes brr"
 name: "audhd"
 description: "Holding this place for if / when Reddit finally collapses."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/audhd"

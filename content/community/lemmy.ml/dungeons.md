@@ -3,7 +3,7 @@ title: "Dungeons"
 name: "dungeons"
 description: "Community for https://mastodon.social/@dungeons and related content**Links**Kbin alternative: https://kbin.social/m/dungeons  Official bot: https://mastodon.social/@dungeons  Beta bot: https://mastodon.social/@dungeonsbeta  Website: https://dungeons.astrelion.com**Other Communities**  *Other communities you might be interested in, but are unaffiliated with /c/dungeons*- https://lemmy.ml/c/dnd- https://lemmy.ml/c/tabletop"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dungeons"

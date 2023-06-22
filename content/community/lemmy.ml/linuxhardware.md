@@ -3,14 +3,14 @@ title: "Linux Hardware"
 name: "linuxhardware"
 description: "For news and discussion relating to Linux hardware."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxhardware"
 host: lemmy.ml
 lastmod: "2021-05-20 10:46:54"
 published: "2021-05-20 10:46:35"
-subscribers: 219
+subscribers: 223
 posts: 13
 comments: 1
 weight: 13

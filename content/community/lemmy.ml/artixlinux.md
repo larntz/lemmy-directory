@@ -3,7 +3,7 @@ title: "artixlinux"
 name: "artixlinux"
 description: "Posts about Artix GNU+Linux distribution"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artixlinux"

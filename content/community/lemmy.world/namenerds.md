@@ -3,7 +3,7 @@ title: "Name Nerds"
 name: "namenerds"
 description: "A community for those interested in names. Your posts are welcome so long as they stay on topic and remain civil."
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/namenerds"

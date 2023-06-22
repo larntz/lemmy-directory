@@ -3,14 +3,14 @@ title: "2balkan4you"
 name: "2balkan4you"
 description: "Basically just r/2balkan4you, if it gets banned againThis sub is ironic and makes fun of online nationalists"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2balkan4you"
 host: lemmy.ml
 lastmod: "2022-02-05 09:49:55"
 published: "2021-11-21 10:42:21"
-subscribers: 32
+subscribers: 33
 posts: 11
 comments: 7
 weight: 11

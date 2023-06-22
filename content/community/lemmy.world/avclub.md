@@ -1,19 +1,19 @@
 ---
-title: "Audiovisual Club" 
+title: "go to @alternativenation@lemmy.world" 
 name: "avclub"
-description: "This is a #fediverse community devoted to sharing & discussing #music, #movies, #tv, & #games with other obsessed geeks. Share, talk, and discover!**[Content Type] Content Title**One ask: Please start each title of your post with the type of content (Video, Music, etc) in brackets for ease of navigation:"
+description: "Focusing on LemTV Alternative Nation for now at @alternativenation@lemmy.world"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avclub"
 host: lemmy.world
-lastmod: "2023-06-20 14:30:21"
+lastmod: "2023-06-21 19:16:32"
 published: "2023-06-20 12:36:33"
 subscribers: 2
-posts: 3
+posts: 0
 comments: 0
-weight: 3
+weight: 0
 dau: 1
 wau: 1
 mau: 1

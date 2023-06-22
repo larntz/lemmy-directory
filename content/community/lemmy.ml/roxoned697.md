@@ -3,7 +3,7 @@ title: "roxoned697"
 name: "roxoned697"
 description: "**[how to merge accounts in quickbooks](https://errorgenie.com/quickbooks/merge-two-bank-accounts-in-quickbooks/)** accounts is an irreversible process, so be certain that this is the process that works best for your needs. You can merge only two accounts at a time, and both accounts have to be the same type of account. In most cases, you can change the account type to match the new account. "
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roxoned697"

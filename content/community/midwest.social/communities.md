@@ -3,7 +3,7 @@ title: "Lemmy Communities"
 name: "communities"
 description: "A community for sharing other communities on the lemmyverse! Communities posted here must follow these rules (from midwest.social):* No porn.* No bigotry, hate speech.* No ads / spamming.* No conspiracies / QAnon / antivaxx sentimentThere will also be a pinned post with the recommended communities from *smaller* instances. ____Similar initatives:* https://sopuli.xyz/post/247640"
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/communities"

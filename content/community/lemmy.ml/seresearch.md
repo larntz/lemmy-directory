@@ -3,14 +3,14 @@ title: "Software Engineering Research"
 name: "seresearch"
 description: "Software Engineering Research related posts only"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seresearch"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-12-20 10:00:19"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

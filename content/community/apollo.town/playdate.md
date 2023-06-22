@@ -3,7 +3,7 @@ title: "Playdate"
 name: "playdate"
 description: "A community for our favorite little yellow handheld "
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/playdate"
@@ -14,7 +14,7 @@ subscribers: 2
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

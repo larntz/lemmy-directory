@@ -3,7 +3,7 @@ title: "vmware"
 name: "vmware"
 description: "Unofficial VMware Community "
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vmware"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "lemmy_ca"
 tags: 

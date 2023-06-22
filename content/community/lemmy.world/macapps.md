@@ -3,7 +3,7 @@ title: "macOS Apps"
 name: "macapps"
 description: "A place to discuss your favorite apps, find amazing new ones, get help or promote something you've created.>We truly live in an age of wonders."
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macapps"

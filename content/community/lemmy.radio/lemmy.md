@@ -1,16 +1,16 @@
 ---
 title: "Lemmy talk" 
 name: "lemmy"
-description: "Chat/Questions about our Lemmy instance or Lemmy in general."
+description: "Chat/Questions about our Lemmy instance or Lemmy in general### Useful Links- [Fediverse Explained](https://i.imgur.io/b2QuYAR_d.webp?maxwidth=640&shape=thumb&fidelity=medium)"
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/lemmy"
 host: lemmy.radio
-lastmod: "2023-06-13 17:14:31"
+lastmod: "2023-06-21 16:32:10"
 published: "2023-06-12 20:41:46"
-subscribers: 12
+subscribers: 16
 posts: 6
 comments: 10
 weight: 6

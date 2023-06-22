@@ -3,14 +3,14 @@ title: "wyzwolenie zwierząt"
 name: "animal_liberation"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/animal_liberation"
 host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2020-07-31 20:34:38"
-subscribers: 127
+subscribers: 126
 posts: 136
 comments: 75
 weight: 136

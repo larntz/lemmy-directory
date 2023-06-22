@@ -3,7 +3,7 @@ title: "Medical Cannabis"
 name: "medicalcannabis"
 description: "A community to share new, developments, studies and other information pertaining to the medical properties of the cannabis plant!"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medicalcannabis"

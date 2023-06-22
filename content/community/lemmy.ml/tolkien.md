@@ -3,7 +3,7 @@ title: "Tolkien | J.R.R. Tolkien's Legendarium"
 name: "tolkien"
 description: "Tolkien | Arda Discord  -|-  Discord Link: https://discord.gg/KNXKG77I'm creating a Mature Tolkien Community on Discord and its growing everyday, Come Join and be apart of the Community as we discuss every topic including the new LOTRonPrime."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tolkien"

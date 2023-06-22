@@ -3,7 +3,7 @@ title: "Writing Prompt"
 name: "writingprompt"
 description: "Things that make you think, hey this would be good in a storyFeel free to reply to posts with stories taken from the prompt"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/writingprompt"

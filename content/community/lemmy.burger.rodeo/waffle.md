@@ -3,7 +3,7 @@ title: "Waffle"
 name: "waffle"
 description: "A meme community focused on the waffled meme appearing on Youtube.The meme involves a certain video of a waffle falling over with a random unsuspecting character falling victim to the falling waffle.This is a non-serious community, waffle-related posts are also welcomed."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waffle"

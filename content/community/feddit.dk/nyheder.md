@@ -3,7 +3,7 @@ title: "Nyheder"
 name: "nyheder"
 description: "For alle nyheder, hvad end de måtte omhandle.# Regler1. Titlen på indlæg skal være titlen på nyhedsartiklen der linkes til. En alternativ titel (fx i tilfælde af clickbait) eller vigtig supplerende information kan angives i kantede parenteser efter den originale titel. Fx: Clickbait titel [Beskrivende titel].2. Link udelukkende til artiklen og brug ikke tekstfeltet (body på engelsk). Hvis du vil tilføje noget, så skriv en kommentar.3. Artikler skal være mindre end en uge gamle."
 type: community
-date: "2023-06-21 14:53:46"
+date: "2023-06-22 02:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/nyheder"
@@ -12,11 +12,11 @@ lastmod: "2023-06-14 19:37:56"
 published: "2023-05-01 11:21:35"
 subscribers: 215
 posts: 42
-comments: 233
+comments: 248
 weight: 42
 dau: 12
-wau: 64
-mau: 83
+wau: 63
+mau: 84
 instances:
 - "feddit_dk"
 tags: 

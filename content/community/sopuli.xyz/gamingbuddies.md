@@ -3,7 +3,7 @@ title: "Gaming Buddies"
 name: "gamingbuddies"
 description: "A community for making new friends through the magic of video games."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/gamingbuddies"

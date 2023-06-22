@@ -3,7 +3,7 @@ title: "Elder Scrolls Online"
 name: "elderscrollsonline"
 description: "Community for The Elder Scrolls Online, an MMO developed by Zenimax Online. "
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/elderscrollsonline"

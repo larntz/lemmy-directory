@@ -3,7 +3,7 @@ title: "Passwords"
 name: "passwords"
 description: "Discussion of passwords, password managers, biometrics, CAPTCHAs, secret questions, MFA/2FA/2SV, or other factors related to user authentication."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/passwords"

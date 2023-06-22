@@ -3,14 +3,14 @@ title: "Geopolitics : News and discussion"
 name: "geopolitics"
 description: "Rules:  - Be polite and do not spam.- Domestic news items without any geopolitics are spam."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geopolitics"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-13 18:37:32"
-subscribers: 60
+subscribers: 63
 posts: 9
 comments: 4
 weight: 9

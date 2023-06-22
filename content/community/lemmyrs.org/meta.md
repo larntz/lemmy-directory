@@ -3,7 +3,7 @@ title: "LemmyRS: Meta"
 name: "meta"
 description: "# GoalMeta is primarily to talk about the state of lemmyrs.org and the communities within it.Potential moderator(s) and administrator(s) shall use this to discuss responsibilities.# Rules [Developing]"
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/meta"

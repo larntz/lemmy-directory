@@ -3,7 +3,7 @@ title: "Bloomington Indiana"
 name: "bloomington_in"
 description: "Bloomington Indiana Lemmy! Come stay for the fun, or snark at students, or yell at clouds!"
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/bloomington_in"

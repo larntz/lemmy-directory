@@ -3,17 +3,17 @@ title: "Warszawa"
 name: "wwa"
 description: "Społeczność do cwaniakowania i warsiawiaczenia.[źródło logówy](https://commons.wikimedia.org/wiki/File:Wikipedia15_-_PKiN.svg)"
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wwa"
 host: szmer.info
 lastmod: "2021-11-01 22:39:13"
 published: "2020-07-29 11:19:32"
-subscribers: 119
-posts: 507
+subscribers: 118
+posts: 508
 comments: 193
-weight: 507
+weight: 508
 dau: 1
 wau: 2
 mau: 4

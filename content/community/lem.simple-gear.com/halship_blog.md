@@ -3,7 +3,7 @@ title: "雑記帳⚙"
 name: "halship_blog"
 description: "はるふねの雑記帳です。雑多な話をあげます。"
 type: community
-date: "2023-06-21 14:53:46"
+date: "2023-06-22 02:19:34"
 draft: false
 nsfw: false
 actor_id: "https://lem.simple-gear.com/c/halship_blog"

@@ -3,14 +3,14 @@ title: "UFC"
 name: "ufc"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ufc"
 host: lemmy.world
 lastmod: "2023-06-19 01:48:20"
 published: "2023-06-18 20:57:36"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

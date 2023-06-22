@@ -3,7 +3,7 @@ title: "Canada Soccer"
 name: "canadasoccer"
 description: "**Rules**-   No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. -   Be respectful, especially when disagreeing. Everyone should feel welcome here.-   No porn.-   No Ads / Spamming."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canadasoccer"
@@ -15,8 +15,8 @@ posts: 40
 comments: 21
 weight: 40
 dau: 1
-wau: 1
-mau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_ca"
 tags: 

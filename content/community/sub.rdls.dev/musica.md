@@ -3,7 +3,7 @@ title: "Música"
 name: "musica"
 description: "Compartilhe o que você está ouvindo!"
 type: community
-date: "2023-06-21 14:54:22"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/musica"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "sub_rdls_dev"

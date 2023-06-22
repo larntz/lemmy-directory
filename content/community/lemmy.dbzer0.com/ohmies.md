@@ -3,7 +3,7 @@ title: "Home for all things concerning Lithium-ion batteries, 18650s, e-bike pow
 name: "ohmies"
 description: "New home of /r/18650masterrace"
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/ohmies"

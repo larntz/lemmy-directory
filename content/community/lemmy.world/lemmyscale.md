@@ -3,7 +3,7 @@ title: "LemmyScale"
 name: "lemmyscale"
 description: "Discussions about approaches to help Lemmy scale better and reduce load on instancesSee also- [Performance issues on GitHub](https://github.com/LemmyNet/lemmy/issues?q=is%3Aissue+label%3Aperformance+is%3Aopen)"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmyscale"

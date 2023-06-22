@@ -3,14 +3,14 @@ title: "Arduino"
 name: "arduino"
 description: "All about Arduino boards and programming."
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arduino"
 host: lemmy.ml
 lastmod: "2020-06-02 19:41:27"
 published: "2020-06-02 19:41:01"
-subscribers: 239
+subscribers: 245
 posts: 8
 comments: 28
 weight: 8

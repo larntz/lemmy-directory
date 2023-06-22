@@ -3,7 +3,7 @@ title: "Vinyl Records"
 name: "vinyl"
 description: "Welcome to Vinyl Records. Show off your records or turntables."
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vinyl"

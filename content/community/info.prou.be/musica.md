@@ -3,7 +3,7 @@ title: "musica del canvi"
 name: "musica"
 description: "Les musiques pel canvi, musiques rebels, musiques del cor i del uny aixecat."
 type: community
-date: "2023-06-21 14:53:38"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://info.prou.be/c/musica"

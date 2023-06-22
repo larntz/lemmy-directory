@@ -3,7 +3,7 @@ title: "Nova Scotia General"
 name: "nova_scotia_general"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/nova_scotia_general"
@@ -15,8 +15,8 @@ posts: 2
 comments: 13
 weight: 2
 dau: 0
-wau: 9
-mau: 9
+wau: 1
+mau: 10
 instances:
 - "lemmy_ca"
 tags: 

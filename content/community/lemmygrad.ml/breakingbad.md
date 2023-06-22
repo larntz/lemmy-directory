@@ -3,7 +3,7 @@ title: "Breaking Verse memes and discussion "
 name: "breakingbad"
 description: "community to post breaking bad memes and discussion"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/breakingbad"

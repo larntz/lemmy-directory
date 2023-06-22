@@ -3,7 +3,7 @@ title: "sadboys"
 name: "sadboys"
 description: "A community dedicated to the Sadboys (SBE) and Drain Gang / Gravity Boys Shield Gang (GTBSG) music collectives."
 type: community
-date: "2023-06-21 14:54:23"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/sadboys"

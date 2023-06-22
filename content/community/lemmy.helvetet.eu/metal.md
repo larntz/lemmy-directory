@@ -3,14 +3,14 @@ title: "Metal"
 name: "metal"
 description: "Also check out other metal music communities:- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal)- [!folkmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/folkmetal)- [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/metal"
 host: lemmy.helvetet.eu
 lastmod: "2023-06-10 22:51:06"
 published: "2023-03-28 13:52:40"
-subscribers: 83
+subscribers: 84
 posts: 31
 comments: 2
 weight: 31

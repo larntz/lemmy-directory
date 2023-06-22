@@ -3,7 +3,7 @@ title: "*removed by mod*"
 name: "removed"
 description: "A subLemmy dedicated to all of those comments on Lemmy that have been *removed by mod*. If you happen to see a comment chain of *deleted by creator* and *removed by mod*, then tag this subLemmy in a reply and post a screenshot here! We will never know what they said, but we can only speculate..."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/removed"

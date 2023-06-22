@@ -1,16 +1,16 @@
 ---
 title: "Justice Served" 
 name: "justiceserved"
-description: "If you want me to transfer ownership of this community to you (I own 10 + am not trying to be a r*ddit power mod) and will moderate it responsibly, I’ll give it to you."
+description: "For justice being served."
 type: community
-date: "2023-06-19 18:00:46"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/justiceserved"
 host: lemmy.world
-lastmod: "2023-06-12 09:48:05"
+lastmod: "2023-06-21 21:06:33"
 published: "2023-06-12 09:35:19"
-subscribers: 8
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

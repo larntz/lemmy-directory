@@ -3,7 +3,7 @@ title: "Canadian Investing"
 name: "investing"
 description: "Investing from a Canadian perspective. In addition to basic civility, no posts that blatantly pump some stock, especially one with a low market cap."
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/investing"

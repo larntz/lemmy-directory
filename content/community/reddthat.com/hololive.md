@@ -3,7 +3,7 @@ title: "Hololive"
 name: "hololive"
 description: "A community for discussion, news, art, and memes about the virtual youtubers of Hololive ProductionsRules1:No harassment, doxxing, or attacking of talent or other community members2:No racism, homophobia, transphobia, or bigotry of any kind3:Posts must relate to Hololive Productions or its talents4:Add sources for fanart, animations, etc5:NSFW art is allowed, as long as it doesn't break rules 1-4"
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/hololive"

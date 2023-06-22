@@ -3,7 +3,7 @@ title: "Forth"
 name: "forth"
 description: "Discuss everything about the Forth programming language here. Show off your Forth programs and your own Forth implementations. Code snippets, projects, questions and everything related to Forth are welcome here. "
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forth"

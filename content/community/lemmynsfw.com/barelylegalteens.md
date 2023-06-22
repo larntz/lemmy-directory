@@ -3,14 +3,14 @@ title: "Barely Legal Teens"
 name: "barelylegalteens"
 description: "Alternative to r/barelylegalteens. Posts must feature barely legal teens. Do not violate any sitewide rules. "
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/barelylegalteens"
 host: lemmynsfw.com
 lastmod: "2023-06-15 00:18:03"
 published: "2023-06-14 10:45:26"
-subscribers: 400
+subscribers: 418
 posts: 12
 comments: 0
 weight: 12

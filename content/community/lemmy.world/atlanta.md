@@ -3,14 +3,14 @@ title: "Atlanta"
 name: "atlanta"
 description: "A place to to talk about Metro Atlanta. Or just complain about traffic."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atlanta"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 00:46:11"
-subscribers: 75
+subscribers: 78
 posts: 5
 comments: 5
 weight: 5

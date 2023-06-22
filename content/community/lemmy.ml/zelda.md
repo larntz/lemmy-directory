@@ -3,17 +3,17 @@ title: "The Legend of Zelda"
 name: "zelda"
 description: "A community for everything related to The Legend of Zelda franchise!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zelda"
 host: lemmy.ml
 lastmod: "2023-06-19 13:37:37"
 published: "2020-06-03 09:37:15"
-subscribers: 1816
-posts: 39
-comments: 275
-weight: 39
+subscribers: 1844
+posts: 41
+comments: 295
+weight: 41
 dau: 10
 wau: 94
 mau: 160

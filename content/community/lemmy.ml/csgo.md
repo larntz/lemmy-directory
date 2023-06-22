@@ -3,7 +3,7 @@ title: "Counter-Strike: Global Offensive"
 name: "csgo"
 description: "Community about Valve's CS:GO video game."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/csgo"

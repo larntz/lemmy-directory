@@ -3,14 +3,14 @@ title: "Blockchain Technology"
 name: "blockchain"
 description: "This is a place for blockchain and Web3.0 enthusiasts. Here, we focus on exploring the technology and its impact on the world, rather than cryptocurrency trading. Join us to discuss the transformative potential of blockchain and Web3.0!"
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blockchain"
 host: lemmy.world
 lastmod: "2023-06-16 19:30:04"
 published: "2023-06-15 16:54:28"
-subscribers: 7
+subscribers: 8
 posts: 4
 comments: 2
 weight: 4

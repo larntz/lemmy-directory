@@ -3,7 +3,7 @@ title: "The spce where everyone can post and discuss maps, whatever they may be!
 name: "maps"
 description: "RULES:1. All posts must be maps, any meta posts should be tagged with [META] in the title.2. No hate speech: racism, homophobia, transphobia, ableism, etc...3. No obscene/NSFW content - maps may look sexy, but not in that kind of way.4.  Maps shouldn't be of a very small resolution. As long as they are readable, its fine.SUGGESTIONS:*I strongly suggest that sources be included with any self-made maps, it's not mandatory, but it would be nice!"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maps"

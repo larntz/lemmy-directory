@@ -3,14 +3,14 @@ title: "civil disobedience, protest movements, etc."
 name: "protest"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/protest"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-06-01 23:07:14"
-subscribers: 59
+subscribers: 60
 posts: 1
 comments: 0
 weight: 1

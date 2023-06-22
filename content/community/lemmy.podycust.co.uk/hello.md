@@ -3,7 +3,7 @@ title: "Welcome"
 name: "hello"
 description: "Come say hi!"
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/hello"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 3
 comments: 10
 weight: 3
-dau: 3
+dau: 1
 wau: 3
 mau: 7
 instances:

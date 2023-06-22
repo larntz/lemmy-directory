@@ -3,7 +3,7 @@ title: "Retail Porn"
 name: "retailporn"
 description: "A place to post all pictures pertaining to retail!"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retailporn"

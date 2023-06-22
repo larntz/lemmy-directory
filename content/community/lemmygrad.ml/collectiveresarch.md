@@ -3,7 +3,7 @@ title: "Collective Research"
 name: "collectiveresarch"
 description: "Community dedicated to the production of research, quality posts and gathering of information"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/collectiveresarch"

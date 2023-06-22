@@ -3,7 +3,7 @@ title: "Hello?  Hello?  Is this thing on?"
 name: "is_this_thing_on"
 description: "A throwaway community for me to play with Lemmy's functionality.  I'd make it private if I could but I can't!"
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/is_this_thing_on"

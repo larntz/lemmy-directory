@@ -3,7 +3,7 @@ title: "gnu radio"
 name: "gnuradio"
 description: "GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnuradio"

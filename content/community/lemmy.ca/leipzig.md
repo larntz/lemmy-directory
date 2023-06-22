@@ -3,7 +3,7 @@ title: "Leipzig"
 name: "leipzig"
 description: "Forum für Anwohner:innen und Liebhaber:innen der Stadt Leipzig.Kein Rassismus, kein Sexismus. Niemals.[Foto](https://flic.kr/p/28h2L61): Dennis Lamczak🟢⚪[!sachsen@feddit.de](https://feddit.de/c/sachsen) ⚫🔴🟡[!deutschland@feddit.de](https://feddit.de/c/deutschland) "
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/leipzig"
@@ -15,8 +15,8 @@ posts: 24
 comments: 3
 weight: 24
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ca"
 tags: 

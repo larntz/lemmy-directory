@@ -3,14 +3,14 @@ title: "Stellaris"
 name: "stellaris"
 description: "Community for fans of the strategy game Stellaris."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stellaris"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-12-01 19:27:44"
-subscribers: 159
+subscribers: 160
 posts: 7
 comments: 27
 weight: 7

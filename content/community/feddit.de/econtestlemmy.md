@@ -3,7 +3,7 @@ title: "econTestLemmy"
 name: "econtestlemmy"
 description: "for testing, if you don't know what this is you don't need to be here"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/econtestlemmy"

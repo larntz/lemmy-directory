@@ -3,7 +3,7 @@ title: "Anime Wallpapers"
 name: "animewallpaper"
 description: "1. No lewd content2. Mark posts as NSFW - This includes visible underwear, swimsuits, bunny suits, and suggestive situations.2. Provide source3. Include the resolution in the title of the post in square brackets []. Example [1280 x 720]"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animewallpaper"

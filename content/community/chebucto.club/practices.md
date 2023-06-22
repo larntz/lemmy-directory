@@ -3,7 +3,7 @@ title: "Practices & Training"
 name: "practices"
 description: "Notices and discussions about practices and training"
 type: community
-date: "2023-06-21 14:53:50"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/practices"

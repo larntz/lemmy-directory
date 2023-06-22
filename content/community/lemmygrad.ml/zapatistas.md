@@ -3,7 +3,7 @@ title: "Zapatistas"
 name: "zapatistas"
 description: "Links:https://en.prolewiki.org/wiki/Rebel_Zapatista_Autonomous_Municipalitieshttps://enlacezapatista.ezln.org.mxhttp://palabra.ezln.org.mxhttp://zeztainternazional.ezln.org.mxhttps://radiozapatista.org/?lang=enhttps://schoolsforchiapas.orgBooks: https://drive.google.com/drive/folders/1CEkE8eSPastMFs9vJKsCHTKDSkASc_MJ?usp=sharing"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/zapatistas"

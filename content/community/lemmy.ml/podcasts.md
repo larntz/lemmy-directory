@@ -3,7 +3,7 @@ title: "Podcasts"
 name: "podcasts"
 description: "This is a community for discussing podcast media format and sharing podcasts.Rules:* No NSFW content or podcasts* No hate speech, bigotry, etc or sharing of podcasts that have this property."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/podcasts"

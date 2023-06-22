@@ -3,17 +3,17 @@ title: "VTubers"
 name: "vtubers"
 description: "A home for virtual youtubers, aka VTubers, and their fans. RULES- Follow the sh.itjust.works [server rules](https://sh.itjust.works/) first and foremost.- Be nice/civil/kind to each other. Do not demean, harass, or generally be mean to others. - Please keep posts related to the topic of VTubing. Off-topic posts will be removed at mods’ discretion. - Plagiarism will not be permitted. If you are sharing someone else’s content, you must credit the creator."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vtubers"
 host: sh.itjust.works
 lastmod: "2023-06-10 23:44:05"
 published: "2023-06-09 21:46:15"
-subscribers: 175
-posts: 22
+subscribers: 177
+posts: 23
 comments: 26
-weight: 22
+weight: 23
 dau: 1
 wau: 7
 mau: 14

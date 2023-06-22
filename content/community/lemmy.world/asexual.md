@@ -1,22 +1,22 @@
 ---
 title: "Asexual" 
 name: "asexual"
-description: "We value all members of the ace community. Join to discuss topics regarding AVEN, art, projects, news and share valuable information to fellow Aces.Please refrain from engaging in behaviour that is exclusionary of the Ace community. All aces are valid here.--See also:[Bisexual - lemmy.world](/c/bisexual@lemmy.world)[LGBTQ+ - beehaw.org](/c/lgbtq_plus@beehaw.org)[Lesbien - Lemmy.ml](/c/lesbian@lemmy.ml)--If there are more please send me a DM."
+description: "We value all members of the ace community. Join to discuss topics regarding AVEN, art, projects, news and share valuable information to fellow Aces.Please refrain from engaging in behaviour that is exclusionary of the Ace community. All aces are valid here....**Rules:****1.** Be Respectful, Aphobic comments will be removed. This is not the place to debate our existence.**2.** No Illegal Content**3.** No Spam**4.** No Explicit Content**5.** No Enciting Harassment, Brigading, Doxxing or Witch Hunts**6.** NSFW should be behind NSFW tags.**7.** Content should be related to Asexuality or the LGBT+ movement. All Asexuals and Allies are welcome here.**8.** Reposting of Reddit content is permitted, try to credit the OC.**9.** You do not have to be Asexual to post here, allies are welcome!...See also:[Bisexual - lemmy.world](/c/bisexual@lemmy.world)[LGBTQ+ - beehaw.org](/c/lgbtq_plus@beehaw.org)[Lesbien - Lemmy.ml](/c/lesbian@lemmy.ml)--If there are more please send me a DM."
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asexual"
 host: lemmy.world
-lastmod: "2023-06-12 10:43:08"
+lastmod: "2023-06-21 13:20:46"
 published: "2023-06-07 19:31:10"
-subscribers: 232
-posts: 18
-comments: 21
-weight: 18
-dau: 8
-wau: 16
-mau: 20
+subscribers: 260
+posts: 21
+comments: 28
+weight: 21
+dau: 4
+wau: 17
+mau: 23
 instances:
 - "lemmy_world"
 tags: 

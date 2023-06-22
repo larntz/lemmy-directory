@@ -3,7 +3,7 @@ title: "Apple Fitness Plus"
 name: "applefitnessplus"
 description: "A community to discuss our favourite trainers, workouts, achievements, struggles and everything else related to AF+"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/applefitnessplus"
@@ -14,9 +14,9 @@ subscribers: 19
 posts: 6
 comments: 11
 weight: 6
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_ca"
 tags: 

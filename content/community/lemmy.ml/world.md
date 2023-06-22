@@ -3,7 +3,7 @@ title: "World"
 name: "world"
 description: "Anything that has to do with all of us."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/world"

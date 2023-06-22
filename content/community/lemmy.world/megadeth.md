@@ -3,7 +3,7 @@ title: "Megadeth"
 name: "megadeth"
 description: "Blow me away**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/megadeth"

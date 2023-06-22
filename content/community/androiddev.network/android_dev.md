@@ -3,7 +3,7 @@ title: "Android Dev"
 name: "android_dev"
 description: "Welcome to the new android development community"
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://androiddev.network/c/android_dev"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 3
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "androiddev_network"

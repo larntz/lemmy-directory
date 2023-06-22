@@ -3,7 +3,7 @@ title: "iRacing"
 name: "iracing"
 description: "Lemmy home for iRacing content."
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iracing"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 03:08:58"
 published: "2023-06-13 03:08:07"
 subscribers: 11
 posts: 2
-comments: 5
+comments: 8
 weight: 2
 dau: 1
 wau: 5

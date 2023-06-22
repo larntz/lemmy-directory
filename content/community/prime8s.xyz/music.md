@@ -3,7 +3,7 @@ title: "Music"
 name: "music"
 description: "This community is for the discussion of music and sound design, as well as music videos.1. No flaming, hate speech, or harassment2. Some people like different music than you. That's ok. Please be nice3. No pornography4. NSFW videos or images must be tagged"
 type: community
-date: "2023-06-21 14:54:01"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/music"

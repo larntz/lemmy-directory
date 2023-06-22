@@ -3,7 +3,7 @@ title: "EthJets - Private Jets - Community Grown, Privately Flown"
 name: "ethjets"
 description: "An NFT project to create a membership and tie it to a physical asset - a JET. By being a token holder, gain access to empty legs, and enjoy free flight hours every year."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/ethjets"

@@ -3,14 +3,14 @@ title: "Bikes"
 name: "bikes"
 description: "Just keep pedaling!"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bikes"
 host: lemmy.world
 lastmod: "2023-06-12 04:43:45"
 published: "2023-06-12 04:34:11"
-subscribers: 89
+subscribers: 92
 posts: 5
 comments: 13
 weight: 5

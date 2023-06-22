@@ -3,7 +3,7 @@ title: "Newpipe"
 name: "newpipe"
 description: "Website : https://newpipe.netBlog : https://newpipe.net/blog/Github : https://github.com/TeamNewPipe/NewPipeDonate : https://newpipe.net/donate/"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newpipe"

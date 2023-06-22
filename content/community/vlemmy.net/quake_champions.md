@@ -3,7 +3,7 @@ title: "Quake Champions"
 name: "quake_champions"
 description: "A community for Quake players and enthusiasts"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/quake_champions"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "vlemmy_net"

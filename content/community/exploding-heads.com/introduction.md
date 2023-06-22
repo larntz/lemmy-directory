@@ -3,7 +3,7 @@ title: "Introductions"
 name: "introduction"
 description: "Introduce yourself, tell everyone things about you we might want to know"
 type: community
-date: "2023-06-21 14:54:34"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/introduction"

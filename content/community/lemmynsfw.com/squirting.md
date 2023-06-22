@@ -3,14 +3,14 @@ title: "Squirting"
 name: "squirting"
 description: "Community dedicated to girls who squirt body fluids from their pussy.Lemmy equivalent of r/squirting. Not officially affiliated (yet).Any moderators from the reddit can have mod here, just ask."
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/squirting"
 host: lemmynsfw.com
 lastmod: "2023-06-16 13:11:58"
 published: "2023-06-14 12:37:26"
-subscribers: 329
+subscribers: 348
 posts: 20
 comments: 1
 weight: 20

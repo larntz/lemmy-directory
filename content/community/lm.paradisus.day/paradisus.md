@@ -3,7 +3,7 @@ title: "Paradisus"
 name: "paradisus"
 description: "Communications about the paradisus.day lemmy community."
 type: community
-date: "2023-06-21 14:54:14"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://lm.paradisus.day/c/paradisus"

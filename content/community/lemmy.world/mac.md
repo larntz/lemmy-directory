@@ -3,7 +3,7 @@ title: "Mac"
 name: "mac"
 description: "A place to discuss Mac related news"
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mac"

@@ -3,7 +3,7 @@ title: "roguelikedev"
 name: "roguelikedev"
 description: "A community of roguelike developers. Discuss work-in-progress roguelikes and a broad range of roguelike development topics."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roguelikedev"

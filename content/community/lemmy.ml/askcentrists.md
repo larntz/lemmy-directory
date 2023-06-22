@@ -3,7 +3,7 @@ title: "Ask Centrists"
 name: "askcentrists"
 description: "Ask Centrists & Political Moderates stuff about what they believe or how they believe, and why."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askcentrists"

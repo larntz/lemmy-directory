@@ -3,7 +3,7 @@ title: "Kalamazoo"
 name: "kalamazoo"
 description: "Community for Kalamazoo, Michigan"
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kalamazoo"

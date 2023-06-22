@@ -3,7 +3,7 @@ title: "Flipper Zero Information"
 name: "flipper_zero"
 description: "my little collection of Flipper resources and tipsthis page allows me to close some GODDAMN tabs every once in a while"
 type: community
-date: "2023-06-21 14:54:18"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/flipper_zero"

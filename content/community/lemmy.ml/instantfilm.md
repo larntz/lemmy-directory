@@ -1,16 +1,16 @@
 ---
 title: "instant film photography" 
 name: "instantfilm"
-description: "Description not available."
+description: "polaroid, instax, kodak, etc.Constructive criticism only, when asked"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/instantfilm"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 19:00:30"
 published: "2023-06-20 19:49:00"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

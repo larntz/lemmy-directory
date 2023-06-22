@@ -3,7 +3,7 @@ title: "Ethereum"
 name: "ethereum"
 description: "Lemmy community dedicated to Ethereum.Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.[Learn more about Ethereum](https://ethereum.org/en/)Community Rules:- No Spam- No Ads- No promotions of trading groups, courses, signals etc.- No price speculation- No pumping, shilling, or FUD"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ethereum"

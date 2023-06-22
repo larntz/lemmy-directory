@@ -3,14 +3,14 @@ title: "Starlink"
 name: "starlink"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starlink"
 host: lemmy.ml
 lastmod: "2021-02-13 07:19:51"
 published: "2021-02-13 01:12:21"
-subscribers: 28
+subscribers: 29
 posts: 5
 comments: 1
 weight: 5

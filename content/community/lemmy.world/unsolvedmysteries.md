@@ -3,17 +3,17 @@ title: "Unsolved Mysteries"
 name: "unsolvedmysteries"
 description: "A magazine dedicated to unsolved crimes, disappearances, and other unexplained phenomena.Post a writeup of the mystery, or a link to a blog article with a writeup on the mystery in question"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unsolvedmysteries"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 13:53:55"
-subscribers: 78
-posts: 4
-comments: 8
-weight: 4
+subscribers: 86
+posts: 5
+comments: 10
+weight: 5
 dau: 2
 wau: 6
 mau: 6

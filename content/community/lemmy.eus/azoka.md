@@ -3,7 +3,7 @@ title: "azoka"
 name: "azoka"
 description: " **Azoka** komunitatean **etekin ekonomikorik gabe** zure etxe, ganbara edo delakoan, dituzun gauzak oparitu edo ta elkar-truka ditzazkezu.Nork daki, akaso erabiltzen ez duzun hori beste leku batean ber-erabili daiteke eta bizitza berri bat izan lezake."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/azoka"

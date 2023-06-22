@@ -3,14 +3,14 @@ title: "cannabis"
 name: "cannabis"
 description: "If you want this community established and well maintained, then creating activity is how you let us know!-"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cannabis"
 host: lemmy.world
 lastmod: "2023-06-15 23:27:01"
 published: "2023-06-12 06:33:20"
-subscribers: 18
+subscribers: 25
 posts: 0
 comments: 0
 weight: 0

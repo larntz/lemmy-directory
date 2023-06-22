@@ -3,14 +3,14 @@ title: "Debian"
 name: "debian"
 description: "❤️ Debian**Rules**- Keep it about Debian.- Be respectful.- Engage in constructive discussions.- Please, no harassment, hate speech, or trolling."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/debian"
 host: lemmy.world
 lastmod: "2023-06-20 00:03:26"
 published: "2023-06-20 00:02:47"
-subscribers: 32
+subscribers: 37
 posts: 2
 comments: 7
 weight: 2

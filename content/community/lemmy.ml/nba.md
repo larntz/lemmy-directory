@@ -3,7 +3,7 @@ title: "Let's discuss the National Basketball Association"
 name: "nba"
 description: "We're consolidating, head over to https://lemmy.world/c/nba"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nba"

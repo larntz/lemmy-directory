@@ -3,7 +3,7 @@ title: "Lemmy.cat"
 name: "lemmy_cat"
 description: "Qualsevol cosa sobre la instància lemmy.cat."
 type: community
-date: "2023-06-21 14:53:39"
+date: "2023-06-22 02:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/lemmy_cat"
@@ -15,7 +15,7 @@ posts: 3
 comments: 4
 weight: 3
 dau: 3
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_cat"

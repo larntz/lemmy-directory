@@ -3,7 +3,7 @@ title: "Headphones"
 name: "headphones"
 description: "A place to talk about all types of headphones/IEM's from consumer ANC to open-back audiophile. "
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/headphones"
@@ -14,7 +14,7 @@ subscribers: 23
 posts: 1
 comments: 13
 weight: 1
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:

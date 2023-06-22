@@ -1,22 +1,22 @@
 ---
 title: "minimalism" 
 name: "minimalism"
-description: "a user owned and open community for sharing the minimalist way of life. All types of posts are allowed, as long as they are relevant to the topic of [minimalism](https://en.wikipedia.org/wiki/Minimalism_(disambiguation)). The rules still need to be worked out with the community and will be uploaded as soon as possible.![](https://lemmy.world/pictrs/image/22da5a4b-2361-4cde-bfaf-6d0524788074.png)Other great communities:- [/c/zerowaste@lemmy.ml](/c/zerowaste@lemmy.ml) - [/c/simpleliving@lemmy.ml](/c/simpleliving@lemmy.ml)-  [/c/digitalminimalism@lemmy.ml](/c/digitalminimalism@lemmy.ml)"
+description: "a user owned and open community for sharing the minimalist way of life. All types of posts are allowed, as long as they are relevant to the topic of [minimalism](https://en.wikipedia.org/wiki/Minimalism_(disambiguation)). ![](https://lemmy.world/pictrs/image/97849aa1-9b09-4eeb-a131-77d10cf58278.png)The rules still need to be worked out with the community and will be uploaded as soon as possible.Other great communities:- [/c/zerowaste@lemmy.ml](/c/zerowaste@lemmy.ml) - [/c/simpleliving@lemmy.ml](/c/simpleliving@lemmy.ml)-  [/c/digitalminimalism@lemmy.ml](/c/digitalminimalism@lemmy.ml)"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minimalism"
 host: lemmy.world
-lastmod: "2023-06-20 16:14:06"
+lastmod: "2023-06-21 18:06:46"
 published: "2023-06-09 11:10:02"
-subscribers: 254
+subscribers: 287
 posts: 14
-comments: 90
+comments: 93
 weight: 14
-dau: 10
-wau: 26
-mau: 26
+dau: 5
+wau: 27
+mau: 27
 instances:
 - "lemmy_world"
 tags: 

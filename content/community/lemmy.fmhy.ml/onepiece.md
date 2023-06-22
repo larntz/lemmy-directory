@@ -3,7 +3,7 @@ title: "One Piece"
 name: "onepiece"
 description: "Community for all one piece related discussions be it manga, anime, art or merchandise"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/onepiece"
@@ -15,8 +15,8 @@ posts: 7
 comments: 59
 weight: 7
 dau: 1
-wau: 14
-mau: 16
+wau: 15
+mau: 25
 instances:
 - "lemmy_fmhy_ml"
 tags: 

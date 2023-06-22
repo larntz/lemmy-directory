@@ -3,7 +3,7 @@ title: "mastodon.gal"
 name: "mastodon"
 description: "A comunidade de [mastodon.gal](https://mastodon.gal)"
 type: community
-date: "2023-06-21 14:53:47"
+date: "2023-06-22 02:19:35"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/mastodon"

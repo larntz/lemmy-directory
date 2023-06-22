@@ -3,14 +3,14 @@ title: "Vegetarier"
 name: "vegetarier"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vegetarier"
 host: feddit.de
 lastmod: "2023-06-17 11:37:39"
 published: "2023-06-17 09:37:50"
-subscribers: 15
+subscribers: 17
 posts: 1
 comments: 19
 weight: 1

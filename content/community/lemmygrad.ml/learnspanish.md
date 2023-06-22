@@ -3,7 +3,7 @@ title: "Learning Spanish for Deplorable Tankies"
 name: "learnspanish"
 description: "# Rules:1. Don't be rude1. Speak Spanish sometimes"
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/learnspanish"

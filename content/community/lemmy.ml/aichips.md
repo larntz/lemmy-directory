@@ -3,7 +3,7 @@ title: "AI Chips"
 name: "aichips"
 description: "AI chips is a place to discuss the chip or hardware *design* of AI accelerators. Examples: google TPU or Nvidia GPU architecture and designRelated communities: - [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aichips"

@@ -3,7 +3,7 @@ title: "Calgary"
 name: "yyc"
 description: "Everything about Calgary!"
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/yyc"
@@ -16,7 +16,7 @@ comments: 10
 weight: 8
 dau: 2
 wau: 4
-mau: 4
+mau: 6
 instances:
 - "lemmy_ca"
 tags: 

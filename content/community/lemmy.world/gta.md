@@ -3,7 +3,7 @@ title: "Grand Theft Auto"
 name: "gta"
 description: "Grand Theft Auto Community on lemmy.world"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gta"

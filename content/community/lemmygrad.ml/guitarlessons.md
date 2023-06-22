@@ -3,7 +3,7 @@ title: "Guitar Lessons"
 name: "guitarlessons"
 description: "if your learning to play guitar post here for feedback or questions for others to answer. Also to post and request tabs."
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/guitarlessons"

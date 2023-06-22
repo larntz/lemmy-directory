@@ -3,7 +3,7 @@ title: "Programación"
 name: "programacion"
 description: "¡Programación en Español! Para todo lo relacionado con la programación en el idioma de Cervantes."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programacion"

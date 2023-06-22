@@ -3,7 +3,7 @@ title: "GIAC"
 name: "giac"
 description: "A community for discussing SANS GIAC security certifications and their associated courses. Please keep posts related to the community topic and respectful towards others. No sharing or distributing course or certification exam content in accordance with SANS / GIAC policy. Requests for extra practice exams are more than welcome."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/giac"

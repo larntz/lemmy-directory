@@ -3,14 +3,14 @@ title: "Roanoke, VA"
 name: "roanoke"
 description: "A space for all things Roanoke, VA."
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roanoke"
 host: lemmy.world
 lastmod: "2023-06-16 20:37:23"
 published: "2023-06-15 18:46:24"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 4
 weight: 1

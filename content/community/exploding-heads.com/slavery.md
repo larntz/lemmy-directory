@@ -3,7 +3,7 @@ title: "Slavery"
 name: "slavery"
 description: "Around the world saves still suffer. From the Uyghurs enslaved in China by the CCP to human trafficking victims sold into sex slavery."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/slavery"

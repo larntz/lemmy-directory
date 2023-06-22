@@ -3,7 +3,7 @@ title: "Girls Band Cry"
 name: "girlsbandcry"
 description: "Community for Girls Band Cry, Toei Animation's new Original Anime Project."
 type: community
-date: "2023-06-16 22:57:17"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/girlsbandcry"

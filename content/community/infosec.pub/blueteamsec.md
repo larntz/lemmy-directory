@@ -3,14 +3,14 @@ title: "BlueTeamSec"
 name: "blueteamsec"
 description: "For [Blue|Purple] Teams in Cyber Defence"
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/blueteamsec"
 host: infosec.pub
 lastmod: "2023-06-19 05:15:31"
 published: "2023-06-18 15:54:36"
-subscribers: 39
+subscribers: 41
 posts: 40
 comments: 2
 weight: 40

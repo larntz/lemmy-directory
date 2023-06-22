@@ -3,7 +3,7 @@ title: "Legacy"
 name: "legacy"
 description: "**Legacy format (Type 1.5) discussion.**Legacy does not rotate and allows cards to be played from all Magic sets! Legacy has its own banned list but the power level is extremely high and the metagame very wide.Read more at [Legacy's official website](https://magic.wizards.com/en/formats/legacy)."
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/legacy"

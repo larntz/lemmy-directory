@@ -3,7 +3,7 @@ title: "Toronto (GTA) Real Estate"
 name: "torontorealestate"
 description: "A community to discuss the news, trends of the GTA real estate market**INFO**- Be friendly and welcoming- No trolling or attacks- Include sources"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/torontorealestate"

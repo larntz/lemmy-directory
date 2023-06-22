@@ -3,14 +3,14 @@ title: "Hair Fetish - Long Hair, Haircut, Headshave, ..."
 name: "hairfetish"
 description: "**Rules**1. 18+2. No content of minors.3. No content that is ethically not suited for a fetish page (e. g. cancer-related)."
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hairfetish"
 host: lemmynsfw.com
 lastmod: "2023-06-15 21:24:08"
 published: "2023-06-15 21:11:55"
-subscribers: 29
+subscribers: 33
 posts: 4
 comments: 0
 weight: 4

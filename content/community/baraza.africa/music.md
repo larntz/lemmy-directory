@@ -3,7 +3,7 @@ title: "music"
 name: "music"
 description: "Music can be many things to many of us. But at the heart of it all, music connects us at much deeper levels. Sound tracks to revolutions, spirituals, folk, jams ... share and discuss them all. "
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/music"

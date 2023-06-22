@@ -3,7 +3,7 @@ title: "Política"
 name: "politica"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:41"
+date: "2023-06-22 02:19:30"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/politica"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "bolha_social"

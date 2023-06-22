@@ -3,7 +3,7 @@ title: "Labor Wave"
 name: "laborwave"
 description: "Leftist music / art in the style of vaporwave"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/laborwave"

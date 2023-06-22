@@ -3,7 +3,7 @@ title: "Dragon Ball Z"
 name: "dbz"
 description: "Dragon Ball Z"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dbz"

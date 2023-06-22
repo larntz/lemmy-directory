@@ -3,14 +3,14 @@ title: "math"
 name: "math"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/math"
 host: sh.itjust.works
 lastmod: "2023-06-15 07:15:14"
 published: "2023-06-11 20:51:02"
-subscribers: 62
+subscribers: 63
 posts: 7
 comments: 1
 weight: 7

@@ -3,14 +3,14 @@ title: "Panels of Labor"
 name: "panelsoflabor"
 description: "To go to the last comic:https://thefreepenguin.github.io/panelsoflabor/last"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/panelsoflabor"
 host: lemmy.ml
 lastmod: "2021-12-31 04:10:06"
 published: "2021-06-22 16:37:24"
-subscribers: 8
+subscribers: 9
 posts: 36
 comments: 28
 weight: 36

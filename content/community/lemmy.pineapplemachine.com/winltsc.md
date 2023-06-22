@@ -3,7 +3,7 @@ title: "winltsc"
 name: "winltsc"
 description: "A place to discuss the LTSC and LTSB editions of the Microsoft Windows operating system.See also [reddit.com/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)"
 type: community
-date: "2023-06-21 14:53:54"
+date: "2023-06-22 02:19:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/winltsc"

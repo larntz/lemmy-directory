@@ -3,7 +3,7 @@ title: "Blu-ray"
 name: "bluray"
 description: "A community to discuss any type of Blu-ray media (including 4K Ultra HD discs) and the use of them in entertainment (films) and storage (archival, like M-DISC)."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:56"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/bluray"

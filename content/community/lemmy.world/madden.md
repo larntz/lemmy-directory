@@ -3,7 +3,7 @@ title: "Madden Football"
 name: "madden"
 description: "A place to discuss the game we all love to hate. Keep it clean please"
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/madden"

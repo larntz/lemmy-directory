@@ -3,7 +3,7 @@ title: "Performance Engineering"
 name: "perfeng"
 description: "Need help with performance testing? Maybe we can start a community here where people can help one another."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/perfeng"

@@ -1,16 +1,16 @@
 ---
 title: "Touhou Project" 
 name: "touhou"
-description: "Description not available."
+description: "Lemmy community for discussing the Touhou Project."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/touhou"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 19:01:08"
 published: "2023-06-21 09:02:29"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

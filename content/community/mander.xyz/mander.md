@@ -3,7 +3,7 @@ title: "Mander"
 name: "mander"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/mander"
@@ -14,8 +14,8 @@ subscribers: 89
 posts: 13
 comments: 89
 weight: 13
-dau: 3
-wau: 34
+dau: 1
+wau: 33
 mau: 36
 instances:
 - "mander_xyz"

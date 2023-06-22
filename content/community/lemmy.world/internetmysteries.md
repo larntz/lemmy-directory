@@ -3,14 +3,14 @@ title: "Internet Mysteries"
 name: "internetmysteries"
 description: "A Community about internet mysteries! Found something / Know something? Post away!"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/internetmysteries"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 05:45:14"
-subscribers: 31
+subscribers: 32
 posts: 2
 comments: 0
 weight: 2

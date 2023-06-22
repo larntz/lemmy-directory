@@ -3,7 +3,7 @@ title: "Lemmy.eus galdetu"
 name: "lemmyeus_galdetu"
 description: "Hemen Lemmy.eus webguneari buruzko galdera egiteko lekua aurkituko duzu."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/lemmyeus_galdetu"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 6
 comments: 20
 weight: 6
-dau: 2
+dau: 1
 wau: 4
 mau: 6
 instances:

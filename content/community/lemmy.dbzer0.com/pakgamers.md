@@ -3,7 +3,7 @@ title: "PakGamers"
 name: "pakgamers"
 description: "This is the official subreddit of PakGamers.Made for discussion related to Pakistani gaming scene and anything related to technology in general.**Subreddit Rules**---1) Follow [reddiquette](http://www.reddit.com/wiki/reddiquette).2) Only submit posts and comments related to gaming. Anything political is not allowed.3) Please check the [new queue](http://www.reddit.com/r/PakGamers/new/?sort=new) before submitting a link or a post. 4) Please be respectful and helpful towards all members. Toxicity is not allowed.5) No off-topic or low-effort content or comments.6) No duplicate posts."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/pakgamers"

@@ -3,14 +3,14 @@ title: "YUROP"
 name: "yurop"
 description: "The europeaniest of places"
 type: community
-date: "2023-06-21 14:54:09"
+date: "2023-06-22 02:19:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/yurop"
 host: lemmy.antemeridiem.xyz
 lastmod: "2023-06-11 16:42:34"
 published: "2023-06-10 17:11:28"
-subscribers: 39
+subscribers: 40
 posts: 2
 comments: 0
 weight: 2

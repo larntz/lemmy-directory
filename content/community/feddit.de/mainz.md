@@ -3,7 +3,7 @@ title: "Mainz"
 name: "mainz"
 description: "Die Community für die Stadt Mainz am Rhein."
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mainz"
@@ -15,7 +15,7 @@ posts: 3
 comments: 4
 weight: 3
 dau: 1
-wau: 4
+wau: 3
 mau: 5
 instances:
 - "feddit_de"

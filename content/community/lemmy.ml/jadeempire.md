@@ -3,7 +3,7 @@ title: "Jade Empire"
 name: "jadeempire"
 description: "Lemmy.ml community for the Bioware classic, Jade Empire."
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jadeempire"

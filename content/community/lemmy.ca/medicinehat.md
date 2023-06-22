@@ -3,7 +3,7 @@ title: "MedicineHat"
 name: "medicinehat"
 description: "**Lemmy Community for the City of Medicine Hat, Alberta.****Other Alberta Communities**- [!edmonton@lemmy.ca](https://lemmy.ca/c/edmonton)- [!calgary@lemmy.ca](https://lemmy.ca/c/calgary)- [!lethbridge@lemmy.ca](https://lemmy.ca/c/lethbridge)**Image Credits**- [Icon and Banner](https://en.wikipedia.org/wiki/Medicine_Hat)"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/medicinehat"
@@ -15,8 +15,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ca"
 tags: 

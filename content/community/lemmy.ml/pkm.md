@@ -3,7 +3,7 @@ title: "Personal Knowledge Management"
 name: "pkm"
 description: "Personal Knowledge Management (PKM) includes methods and tools used for individuals to classify, store, and organize the information they learn and experience in their daily lives. There are a few objectives to this, including improving memory/recollection and creativity/idea creation.Personal Knowledge Management Systems (PKMS) include methods like the Zettlekasten System and digital tools such as [Logseq](https://logseq.com).Logseq community available at: [!logseq@lemmy.ml](https://lemmy.ml/c/logseq) "
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pkm"

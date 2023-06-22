@@ -3,20 +3,20 @@ title: "Science"
 name: "science"
 description: "General discussions about science itselfBe sure to also check out these other Fediverse science communities:https://lemmy.ml/c/sciencehttps://beehaw.org/c/science"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/science"
 host: mander.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 20:40:05"
 published: "2022-03-18 07:07:03"
-subscribers: 536
+subscribers: 546
 posts: 60
-comments: 78
+comments: 80
 weight: 60
 dau: 4
-wau: 35
-mau: 41
+wau: 33
+mau: 43
 instances:
 - "mander_xyz"
 tags: 

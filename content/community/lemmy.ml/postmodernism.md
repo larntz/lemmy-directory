@@ -3,7 +3,7 @@ title: "PoMo"
 name: "postmodernism"
 description: "A place to discuss Postmodern philosophy and concepts. "
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postmodernism"

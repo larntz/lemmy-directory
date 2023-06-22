@@ -3,7 +3,7 @@ title: "Cadey's Feed"
 name: "cadeyratio"
 description: "Things I find interesting. Also where a bot will link all my new articles. Feel free to have discussions in the comments."
 type: community
-date: "2023-06-21 14:56:14"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cadeyratio"

@@ -3,7 +3,7 @@ title: "Soulseek"
 name: "soulseek_slsk"
 description: "A community for users of the Soulseek peer-to-peer file-sharing network. Anything Soulseek-related is fair game EXCEPT for requests for specific files/artists/albums."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/soulseek_slsk"
@@ -14,9 +14,9 @@ subscribers: 5
 posts: 1
 comments: 1
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_fmhy_ml"
 tags: 

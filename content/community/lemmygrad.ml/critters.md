@@ -3,7 +3,7 @@ title: "Critter pics. "
 name: "critters"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/critters"
@@ -14,7 +14,7 @@ subscribers: 98
 posts: 78
 comments: 79
 weight: 78
-dau: 4
+dau: 2
 wau: 4
 mau: 4
 instances:

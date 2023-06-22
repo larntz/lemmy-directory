@@ -3,7 +3,7 @@ title: "Support"
 name: "support"
 description: "Need help with your guitar or DAW? Ask here!"
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/support"

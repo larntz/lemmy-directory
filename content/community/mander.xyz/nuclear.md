@@ -3,7 +3,7 @@ title: "Nuclear"
 name: "nuclear"
 description: "A community for discussions about nuclear physics and nuclear energyu in general.For a more specific community about nuclear power, you can also visit: https://lemmy.ml/c/nuclear_power"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nuclear"

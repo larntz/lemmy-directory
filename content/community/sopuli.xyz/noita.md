@@ -3,7 +3,7 @@ title: "Noita"
 name: "noita"
 description: "Noita is a platform roguelite game developed by Nolla Games. This community is for discussing all things related to it."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/noita"

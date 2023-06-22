@@ -3,7 +3,7 @@ title: "Tsuki Adventure and Odyssey"
 name: "tsuki_games"
 description: "Join if you love this lovely bunny!You can post anything related to the games:Tsuki OdysseyTsuki AdventureTsuki Adventure 2No hate speech, be nice!"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tsuki_games"
@@ -11,9 +11,9 @@ host: lemmy.world
 lastmod: "2023-06-17 11:57:10"
 published: "2023-06-17 11:56:33"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2

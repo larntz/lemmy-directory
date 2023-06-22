@@ -3,7 +3,7 @@ title: "Accursed Farms - Scott Ross's fan community"
 name: "accursed_farms"
 description: "Scott Ross's dead games (games as a service) news, strange games, holiday spirit games, whimsical reviews, the voice of Gordon Freeman, and, eventually, The Movie."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/accursed_farms"

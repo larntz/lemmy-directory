@@ -3,7 +3,7 @@ title: "Atmospheric Black Metal"
 name: "atmoblack"
 description: "A place for posting and discussing atmospheric black metal.Rules:1. Please be respectful to one another.2. No advertising or spam. 3. No racism, sexism, ableism, homophobia, transphobia. No nazi apologists. "
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/atmoblack"
@@ -11,9 +11,9 @@ host: lemmy.fmhy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 14:36:49"
 subscribers: 19
-posts: 14
+posts: 16
 comments: 0
-weight: 14
+weight: 16
 dau: 1
 wau: 1
 mau: 1

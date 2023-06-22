@@ -3,7 +3,7 @@ title: "TV chat"
 name: "tvchat"
 description: "A place for TV series discussion and news.Rules: First and foremost, don't be a dick. And refrain from posting spoilers. "
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tvchat"

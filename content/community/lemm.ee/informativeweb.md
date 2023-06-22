@@ -3,7 +3,7 @@ title: "Informative Web"
 name: "informativeweb"
 description: "Interesting and informative articles from the web on any topic. "
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/informativeweb"

@@ -3,14 +3,14 @@ title: "OKC"
 name: "okc"
 description: " OKC! Community for Oklahoma City Come join us also over on our Mastodon instance at Okla.social. "
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okc"
 host: lemmy.world
 lastmod: "2023-06-18 22:38:21"
 published: "2023-06-17 02:41:55"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 2
 weight: 1

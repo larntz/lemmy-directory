@@ -3,7 +3,7 @@ title: "Movies"
 name: "movies"
 description: "Discussion about upcoming and recently released movies."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/movies"
@@ -15,7 +15,7 @@ posts: 32
 comments: 251
 weight: 32
 dau: 1
-wau: 14
+wau: 6
 mau: 14
 instances:
 - "lemmygrad_ml"

@@ -3,7 +3,7 @@ title: "technology"
 name: "technology"
 description: "For news and conversation about the wide world of technology.Banner by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
 type: community
-date: "2023-06-21 14:54:18"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://rabbitea.rs/c/technology"

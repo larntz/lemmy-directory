@@ -3,7 +3,7 @@ title: "African Auxiliary Languages"
 name: "afrihili"
 description: "Share resources, information, and content in and about African auxiliary languages like  [Afrihili](https://en.wikipedia.org/wiki/Afrihili)  and  [Guosa](https://en.wikipedia.org/wiki/Guosa) ."
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/afrihili"

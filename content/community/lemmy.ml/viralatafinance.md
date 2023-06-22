@@ -3,7 +3,7 @@ title: "Vira-lata Finance"
 name: "viralatafinance"
 description: "Vira-lata Finance ($REAU) is a Brazilian deflationary and self-sustainable cryptocoin aiming to encourage people to learn more about decentralized finances (DeFi) and cryptocurrencies in general, with a goal to help social causes like NGOs that help abandoned animals in Brazil.- Website: https://viralata.finance- Smart contract: https://bscscan.com/address/0x4c79b8c9cb0bd62b047880603a9decf36de28344#code- Buy $REAU on PancakeSwap: https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344- Price and other graphs: https://dex.guru/token/0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/viralatafinance"

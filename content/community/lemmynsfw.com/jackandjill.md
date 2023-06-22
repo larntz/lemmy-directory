@@ -3,14 +3,14 @@ title: "Jack and Jill"
 name: "jackandjill"
 description: "Dedicated to self pleasure with a partner. Photos, GIFs, drawings, and videos of mutual masturbation involving men (Jacking) AND women (Jilling).Please be sure your submission has at least one member of each gender playing with their (or each other's) naughty bits at the same time."
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:38"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jackandjill"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 17:02:49"
-subscribers: 103
+subscribers: 111
 posts: 3
 comments: 0
 weight: 3

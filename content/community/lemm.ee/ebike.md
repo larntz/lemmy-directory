@@ -3,14 +3,14 @@ title: "For all bikes electric"
 name: "ebike"
 description: ""
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/ebike"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 04:21:56"
-subscribers: 27
+subscribers: 29
 posts: 1
 comments: 2
 weight: 1

@@ -3,14 +3,14 @@ title: "Trisquel GNU/Linux"
 name: "trisquel"
 description: "### Welcome to Trisquel GNU/Linux community in LemmyTODO"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trisquel"
 host: lemmy.ml
 lastmod: "2022-02-20 19:23:41"
 published: "2022-02-20 18:47:12"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

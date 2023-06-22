@@ -3,7 +3,7 @@ title: "Network Engineering"
 name: "networking"
 description: "All things enterprise network engineering, design, and architecture.## Rules1. No low effort posts2. No home networking topics3. No memes4. More fuck u/spez comments"
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/networking"

@@ -3,7 +3,7 @@ title: "Clash Of Clans"
 name: "clashofclans"
 description: "English language community for discussing all things Clash of Clans. Observe all Lemmy community standards as well as Supercell guidelines for acceptable use of in/out-of-game content (basically - no discussion/facilitation of anything that violates Supercell Terms of Service). "
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/clashofclans"

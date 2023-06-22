@@ -3,7 +3,7 @@ title: "Ciencia y Tecnología"
 name: "ciencia"
 description: "Para todos los temas que tengan que ver con la ciencia y la tecnología: investigaciones, informática, telefonía, redes, etc."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:55"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/ciencia"

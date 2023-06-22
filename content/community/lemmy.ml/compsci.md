@@ -3,14 +3,14 @@ title: "Computer Science"
 name: "compsci"
 description: "A community dedicated for computer science topics; Everyone's welcomed from student, lecturer, teacher to hobbyist!"
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/compsci"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-01-19 15:16:49"
-subscribers: 255
+subscribers: 256
 posts: 10
 comments: 2
 weight: 10

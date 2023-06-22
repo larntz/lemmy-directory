@@ -3,7 +3,7 @@ title: "Symbian and Meego"
 name: "symbian_meego"
 description: "A community to talk about those glorious days of Nokia, Symbian and Meego. A placer to help too. Spanish and english"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/symbian_meego"

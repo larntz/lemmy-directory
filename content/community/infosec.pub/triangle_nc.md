@@ -3,7 +3,7 @@ title: "Raleigh, Durham and Chapel Hill NC"
 name: "triangle_nc"
 description: "General Discussion for People in Central NC, aka The RTP area, especially Wake, Durham, Orange, and surrounding counties."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/triangle_nc"

@@ -3,7 +3,7 @@ title: "Buelldozer"
 name: "buelldozer"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buelldozer"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 6
 comments: 2
 weight: 6
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

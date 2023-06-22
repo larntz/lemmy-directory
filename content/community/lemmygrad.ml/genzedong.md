@@ -3,20 +3,20 @@ title: "GenZedong"
 name: "genzedong"
 description: "This is a Dengist community in favor of Bashar al-Assad with no information that can lead to the arrest of Hillary Clinton, our fellow liberal and queen. This community is not ironic. We are Marxists-Leninists. If you haven't already found it, [this GitHub page](https://dessalines.github.io/essays) is an excellent collection of sources about socialism, imperialism, and other relevant topics, made by [@dessalines](https://lemmygrad.ml/u/dessalines@lemmy.ml) and others.We have a [Matrix homeserver](https://genzedong.xyz) and a private Matrix room. See [this thread](https://lemmygrad.ml/post/484053) for more information.**Rules:**- No ableism, racism, misogyny, transphobia, etc.- No being pro-Amerikkka- No being an electoralist or a lib (of course)- Moderator discretion- This community is explicitly pro-AES- No dogmatism/idealism (Trotskyism, Gonzaloism, Hoxhaism, anarchism, etc.)- Reactionary or ultra-leftist cringe posts belong in [/c/shitreactionariessay](https://lemmygrad.ml/c/shitreactionariessay) or [/c/shitultrassay](https://lemmygrad.ml/c/shitultrassay) respectively"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzedong"
 host: lemmygrad.ml
 lastmod: "2023-06-04 20:19:13"
 published: "2020-10-30 15:47:38"
-subscribers: 3076
-posts: 6047
-comments: 48311
-weight: 6047
-dau: 85
-wau: 261
-mau: 406
+subscribers: 3087
+posts: 6051
+comments: 48411
+weight: 6051
+dau: 78
+wau: 253
+mau: 413
 instances:
 - "lemmygrad_ml"
 tags: 

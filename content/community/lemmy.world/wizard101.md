@@ -3,7 +3,7 @@ title: "Wizard101"
 name: "wizard101"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:39"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wizard101"

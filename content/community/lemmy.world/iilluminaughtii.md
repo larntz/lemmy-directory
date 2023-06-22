@@ -3,7 +3,7 @@ title: "iilluminaughtii unofficial"
 name: "iilluminaughtii"
 description: "A lemmy community dedicated to iilluminaughtii; created on the Fediverse so her and her team have no control of allegations made against her. Unlike her official social media accounts and her now, private, subreddit, this is an unofficial and uncensored community in which these posts can be made, and can't be taken down via people on her subreddit, discord, etc."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iilluminaughtii"

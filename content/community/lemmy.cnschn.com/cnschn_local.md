@@ -3,7 +3,7 @@ title: "cnschn local"
 name: "cnschn_local"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:56"
+date: "2023-06-22 02:19:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cnschn.com/c/cnschn_local"

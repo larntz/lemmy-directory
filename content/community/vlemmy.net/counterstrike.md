@@ -3,7 +3,7 @@ title: "Counter-Strike"
 name: "counterstrike"
 description: "Discussions relating to all things Counter-Strike: Esports, gameplay etc."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/counterstrike"

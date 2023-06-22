@@ -3,7 +3,7 @@ title: "No Stupid Questions"
 name: "nostupidquestions"
 description: "This community is for people to ask questions they feel stupid for not knowing the answer or how to find the answer. How do I not already know this?"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nostupidquestions"

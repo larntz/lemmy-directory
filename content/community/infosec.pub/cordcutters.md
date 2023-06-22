@@ -3,14 +3,14 @@ title: "CordCutters - a place for those who have unsubscribed from traditional c
 name: "cordcutters"
 description: "CordCutters is a place for those who have cut the Cable or Satellite TV cord, and want to know what other legal services are available.  No piracy talk please, it could get the person posting it in trouble with the authorities and could get the community banned on some servers, so please only talk about products and services that are legal to use."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/cordcutters"
 host: infosec.pub
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 02:32:16"
-subscribers: 163
+subscribers: 165
 posts: 3
 comments: 16
 weight: 3

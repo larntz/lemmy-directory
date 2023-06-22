@@ -3,7 +3,7 @@ title: "Boeing"
 name: "boeing"
 description: "Discussion of Boeing and their products.  Since there is a duopoly with Airbus, chatter about Airbus is also /on topic/.  Negative comments are as welcome as positive ones.  All ideas that are on topic and presented in a civil manner are welcome."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boeing"

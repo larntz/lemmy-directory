@@ -3,14 +3,14 @@ title: "No Stupid Questions"
 name: "nostupidquestions"
 description: "There are no stupid questions. Follow site rules. Don't be a fascist."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nostupidquestions"
 host: lemmy.ml
 lastmod: "2020-07-20 14:56:39"
 published: "2020-07-19 10:58:27"
-subscribers: 345
+subscribers: 346
 posts: 20
 comments: 84
 weight: 20

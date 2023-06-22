@@ -3,7 +3,7 @@ title: "techart"
 name: "techart"
 description: "This is a sub for tech art. # **What is tech art?**Tech art can be generative art, neural network art, hacker style DIY hardware projects, interactive art, etc. # **What is not tech art?**NFTs, digital painting, etc"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techart"

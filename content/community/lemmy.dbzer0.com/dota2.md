@@ -3,7 +3,7 @@ title: "Dota2"
 name: "dota2"
 description: "Community made for Dota2 related content."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/dota2"

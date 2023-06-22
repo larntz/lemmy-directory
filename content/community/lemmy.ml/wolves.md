@@ -3,7 +3,7 @@ title: "Wolves"
 name: "wolves"
 description: "Lemmy's community for all things wolf! From pictures to research, and questions to news - our community aims to provide a space to inform, educate, and share our love for the world's most maligned and incredible animal."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wolves"

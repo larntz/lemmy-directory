@@ -3,14 +3,14 @@ title: "dota2"
 name: "dota2"
 description: "Eine deutsche Dota 2 Community."
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dota2"
 host: feddit.de
 lastmod: "2023-06-16 08:59:47"
 published: "2023-06-16 08:46:57"
-subscribers: 20
+subscribers: 21
 posts: 4
 comments: 7
 weight: 4

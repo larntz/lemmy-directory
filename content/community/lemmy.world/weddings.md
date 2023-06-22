@@ -3,7 +3,7 @@ title: "Weddings"
 name: "weddings"
 description: "A community for enthusing about weddings of all kinds! Everyone is welcome here.Please be respectful and positive!"
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weddings"

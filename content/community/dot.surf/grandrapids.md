@@ -3,7 +3,7 @@ title: "Grand Rapids, MI"
 name: "grandrapids"
 description: "Talk about what's going on in or around Grand Rapids, MI#Rules1. No illegal content2. No nsfw"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/grandrapids"

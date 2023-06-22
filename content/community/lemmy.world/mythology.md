@@ -3,7 +3,7 @@ title: "Mythology"
 name: "mythology"
 description: "A community to talk Mythology."
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mythology"

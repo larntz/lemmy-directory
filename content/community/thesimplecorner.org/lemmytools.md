@@ -1,14 +1,14 @@
 ---
 title: "LemmyTools" 
 name: "lemmytools"
-description: "Tools to make Lemmy a little easier."
+description: "Tools to make Lemmy a little easier.Github: https://github.com/howdy-tsc/LemmyToolsGreasyfork: https://greasyfork.org/en/scripts/469169-lemmytools"
 type: community
-date: "2023-06-21 14:54:09"
+date: "2023-06-22 02:19:59"
 draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/lemmytools"
 host: thesimplecorner.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 16:49:39"
 published: "2023-06-21 03:16:16"
 subscribers: 1
 posts: 1

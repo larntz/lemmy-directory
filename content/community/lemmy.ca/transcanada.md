@@ -3,14 +3,14 @@ title: "TransCanada"
 name: "transcanada"
 description: "Trans* related discussion, pictures, links, etc. A community moderated by trans people for trans people."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/transcanada"
 host: lemmy.ca
 lastmod: "2023-06-13 01:07:45"
 published: "2023-06-13 00:59:03"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

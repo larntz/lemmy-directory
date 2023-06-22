@@ -3,20 +3,20 @@ title: "Ask the Midwest"
 name: "askmidwest"
 description: "A place to ask questions to the midwest.social community"
 type: community
-date: "2023-06-19 11:35:29"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/askmidwest"
 host: midwest.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 12:09:17"
-subscribers: 281
+subscribers: 307
 posts: 7
-comments: 193
+comments: 196
 weight: 7
-dau: 2
-wau: 52
-mau: 105
+dau: 1
+wau: 39
+mau: 107
 instances:
 - "midwest_social"
 tags: 

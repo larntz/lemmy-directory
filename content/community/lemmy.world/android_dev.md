@@ -3,7 +3,7 @@ title: "AndroidDev"
 name: "android_dev"
 description: "News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source![Join our Discord](https://discord.gg/qWAQg2txPg)"
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/android_dev"

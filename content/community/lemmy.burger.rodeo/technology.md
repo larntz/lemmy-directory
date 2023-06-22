@@ -3,7 +3,7 @@ title: "Technology News"
 name: "technology"
 description: "News about technology including science, engineering, companies, and gaming. Please post links to articles (preferably not paywalled).Must be relatively recent articles."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/technology"

@@ -3,7 +3,7 @@ title: "Covid-19"
 name: "covid"
 description: "Covid19 is much more then a virus. - To many it has been a tool to grab power over the masses, - To others it has been a money making machine, - Others mourn the loss of family and friends to the virus or its treatment protocols- Many fear the biggest catastrophe is still to come from the long tail effects of the vaccines aka gene therapy. Covid has destroyed the trust many had in government, the medical establishment, their doctors and pharmacists, and main stream media."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/covid"

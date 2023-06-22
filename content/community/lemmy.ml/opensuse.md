@@ -3,7 +3,7 @@ title: "openSUSE"
 name: "opensuse"
 description: "The makers' choice for sysadmins, developers and desktop users.www.opensuse.orgopenSUSE (IPA: oʊpənˈsuːzə) is a project that serves to promote the use of free and open-source software.openSUSE is well known for its Linux distributions, mainly Tumbleweed, a tested rolling release, and Leap, a distribution with long-term support."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opensuse"

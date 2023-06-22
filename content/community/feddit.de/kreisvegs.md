@@ -3,19 +3,19 @@ title: "kreisvegs"
 name: "kreisvegs"
 description: "Deutschsprachig. Pro-Vegan. Circlejerk."
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kreisvegs"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 18:48:09"
-subscribers: 139
+subscribers: 140
 posts: 13
 comments: 48
 weight: 13
-dau: 2
-wau: 17
+dau: 1
+wau: 15
 mau: 27
 instances:
 - "feddit_de"

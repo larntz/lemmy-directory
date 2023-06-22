@@ -3,7 +3,7 @@ title: "Stuart Meta"
 name: "meta"
 description: "Stuart instance Meta posts"
 type: community
-date: "2023-06-21 14:54:22"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.stuart.fun/c/meta"

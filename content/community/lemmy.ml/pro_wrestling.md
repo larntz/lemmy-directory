@@ -3,14 +3,14 @@ title: "Pro Wrestling"
 name: "pro_wrestling"
 description: "All things Pro Wrestling.  "
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pro_wrestling"
 host: lemmy.ml
 lastmod: "2023-06-02 11:18:54"
 published: "2023-06-02 11:00:43"
-subscribers: 21
+subscribers: 22
 posts: 2
 comments: 2
 weight: 2

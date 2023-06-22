@@ -3,7 +3,7 @@ title: "Enterprise Linux"
 name: "enterprise_linux"
 description: "A community for support and discussion regarding RHEL and its clones (OEL, Rocky, Alma, etc.) as well as close cousins and upstream (Fedora, CentOS maybe even Amazon Linux 2022)."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/enterprise_linux"

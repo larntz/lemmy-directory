@@ -3,7 +3,7 @@ title: "My Little Pony"
 name: "mylittlepony"
 description: "For fans of My Little Pony!Discuss your favorite episodes, debate best pony, share creations from your favorite fandom artists!Rules:1. No hate speech, Be kind. this is to be a safe and enjoyable space for all!  2. No NSFW content.3. Keep it pony related! After all, that's what we're here for right?"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mylittlepony"

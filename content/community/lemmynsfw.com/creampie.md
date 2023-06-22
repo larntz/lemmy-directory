@@ -3,19 +3,19 @@ title: "Creampies"
 name: "creampie"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]"
 type: community
-date: "2023-06-19 17:59:36"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/creampie"
 host: lemmynsfw.com
 lastmod: "2023-06-13 02:11:54"
 published: "2023-06-12 15:11:50"
-subscribers: 1012
-posts: 16
+subscribers: 1186
+posts: 22
 comments: 2
-weight: 16
+weight: 22
 dau: 1
-wau: 10
+wau: 3
 mau: 10
 instances:
 - "lemmynsfw_com"

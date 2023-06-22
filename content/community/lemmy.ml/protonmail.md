@@ -3,14 +3,14 @@ title: "Protonmail"
 name: "protonmail"
 description: "Place to discuss and share information about Protonmail."
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/protonmail"
 host: lemmy.ml
 lastmod: "2020-12-23 23:40:39"
 published: "2020-02-16 21:53:28"
-subscribers: 849
+subscribers: 854
 posts: 31
 comments: 33
 weight: 31

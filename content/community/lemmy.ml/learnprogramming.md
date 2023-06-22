@@ -3,7 +3,7 @@ title: "Learn Programming"
 name: "learnprogramming"
 description: "A sublemmy for all questions related to programming in any language."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnprogramming"

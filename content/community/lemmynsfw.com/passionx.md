@@ -3,17 +3,17 @@ title: "Passionate / Sensual / Sexy / Woman friendly / Couples friendly"
 name: "passionx"
 description: "A place for pictures and video that is depicts sensual enjoyment of each partner. Female friendly & couples friendly, focusing on passion, mutual pleasure and enjoyment."
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/passionx"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 13:22:12"
-subscribers: 132
-posts: 0
+subscribers: 145
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 1
 wau: 1
 mau: 1

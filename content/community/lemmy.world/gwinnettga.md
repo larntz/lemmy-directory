@@ -3,14 +3,14 @@ title: "Gwinnett County, GA"
 name: "gwinnettga"
 description: "Community for Gwinnett County Georgia."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gwinnettga"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 00:50:20"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "vivo & iQOO Community"
 name: "vivo"
 description: "Welcome to /c/vivo!This is a place for the Lemmy Community to discuss about vivo and iQOO smartphones, earbuds and other products./c/vivo is a fan community and is not associated or affiliated with BBK Electronics or its subsidiaries."
 type: community
-date: "2023-06-19 11:36:41"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vivo"

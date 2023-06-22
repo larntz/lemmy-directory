@@ -3,7 +3,7 @@ title: "IndieMusicFeedback"
 name: "indiemusicfeedback"
 description: "IMF is a give and receive feedback system - an interactive subreddit that requires members to give quality feedback to other musicians before posting. We welcome all artists, all genres."
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiemusicfeedback"

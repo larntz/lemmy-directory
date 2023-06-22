@@ -3,7 +3,7 @@ title: "Netscape"
 name: "netscape"
 description: "A test alternative to r/netscape"
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/netscape"

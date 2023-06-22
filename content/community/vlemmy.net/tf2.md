@@ -3,7 +3,7 @@ title: "Team Fortress 2"
 name: "tf2"
 description: "Community for TF2 players, general discussions of the game, and community server meetups.RULES:1. No racism, sexism, transphobia, homophobia, etc. of any kind.2. No harassment or doxxing.3. No spam.4. No porn."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/tf2"

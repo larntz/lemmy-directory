@@ -3,17 +3,17 @@ title: "Ariel Rebel"
 name: "arielrebel"
 description: "New home of r/arielrebel1. General [lemmynsfw.com Rules](https://lemmynsfw.com/) apply.2. Ariel Rebel content only. "
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:36"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/arielrebel"
 host: lemmynsfw.com
 lastmod: "2023-06-20 21:53:31"
 published: "2023-06-20 15:42:02"
-subscribers: 5
-posts: 7
+subscribers: 21
+posts: 28
 comments: 0
-weight: 7
+weight: 28
 dau: 2
 wau: 2
 mau: 2

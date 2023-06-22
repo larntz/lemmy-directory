@@ -3,7 +3,7 @@ title: "Georgia Tech Online Master of Science in Computer Science"
 name: "omscs"
 description: "A community for discussing all things OMSCS related"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/omscs"

@@ -3,7 +3,7 @@ title: "This sub is not ready yet "
 name: "fedidrama"
 description: "Sub not ready yet don't post"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fedidrama"

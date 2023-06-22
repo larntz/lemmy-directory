@@ -3,7 +3,7 @@ title: "Faux Cyrillic"
 name: "fauxcyrillic"
 description: "People attempting to make Cyrillic look like the Latin alphabetRules1. Posts must contain faux Cyrillic2. Be respectful3. No explicit content4. Follow the  [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)"
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fauxcyrillic"

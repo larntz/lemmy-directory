@@ -3,7 +3,7 @@ title: "fediverso.gal"
 name: "main"
 description: "A comunidade do [fediverso.gal](https://foros.fediverso.gal)"
 type: community
-date: "2023-06-21 14:53:47"
+date: "2023-06-22 02:19:35"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/main"

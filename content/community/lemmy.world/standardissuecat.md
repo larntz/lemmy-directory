@@ -3,14 +3,14 @@ title: "Standard Issue Cat"
 name: "standardissuecat"
 description: "Community for posting pictures of the many models of standard issue cats (SICs)."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/standardissuecat"
 host: lemmy.world
 lastmod: "2023-06-15 01:15:53"
 published: "2023-06-15 01:14:22"
-subscribers: 46
+subscribers: 51
 posts: 4
 comments: 5
 weight: 4

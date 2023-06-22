@@ -3,7 +3,7 @@ title: "another test"
 name: "anothertest"
 description: "<a href=https://example.com>example</a>"
 type: community
-date: "2023-06-21 14:53:38"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/anothertest"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 3
 comments: 4
 weight: 3
-dau: 4
+dau: 1
 wau: 4
 mau: 6
 instances:

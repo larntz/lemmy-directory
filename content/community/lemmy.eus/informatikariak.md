@@ -3,7 +3,7 @@ title: "Informatikariak"
 name: "informatikariak"
 description: "Informatikari Euskaldunak biltzeko gunea.Garapena, segurtasuna, sistema administraritza, diseinua, Raspberry, Arduino, Linux... edo teknologia eta informatikarekin erlazioa duen edozein gai jorratzeko lekua.*Banner eta logoa:  [https://pixabay.com/users/janjf93-3084263/](https://pixabay.com/users/janjf93-3084263/)* "
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/informatikariak"

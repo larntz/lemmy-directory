@@ -3,7 +3,7 @@ title: "ShittyDarkSouls"
 name: "shittydarksouls"
 description: "Let's start up the meme factory again, FromSluts!For trashposting and memes about Souls games developed by FromSoft.Be civil and don't make me write rules here."
 type: community
-date: "2023-06-21 14:55:53"
+date: "2023-06-22 02:21:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shittydarksouls"

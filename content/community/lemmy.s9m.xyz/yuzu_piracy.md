@@ -3,7 +3,7 @@ title: "Yuzu Pirates"
 name: "yuzu_piracy"
 description: "**NOT AFFILIATED WITH r/NewYuzuPiracy**. Welcome to [!yuzu_piracy@lemmy.s9m.xyz](https://lemmy.s9m.xyz/c/yuzu_piracy) A community focused on pirating content with the yuzu switch emulator. Feel free to post anything related to yuzu. links are allowed."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.s9m.xyz/c/yuzu_piracy"

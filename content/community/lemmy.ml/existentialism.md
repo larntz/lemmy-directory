@@ -3,14 +3,14 @@ title: "Existentialism"
 name: "existentialism"
 description: "Existential philosophy, psychology, and art"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/existentialism"
 host: lemmy.ml
 lastmod: "2021-01-29 13:30:04"
 published: "2020-06-28 07:01:33"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

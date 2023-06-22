@@ -3,7 +3,7 @@ title: "Central Bank Digital Currency (CBDC) "
 name: "cbdc"
 description: "A community to discuss the evolution of `central bank digital currencies`, CBDC, typically designed for direct fund deposit to central banks, bypassing conventional lenders like retail commercial banks."
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/cbdc"

@@ -3,7 +3,7 @@ title: "Hockey Players"
 name: "hockeyplayers"
 description: "All about playing hockey. Whether it be gear related, skill development, or showing off your awesome goalie with 13px from a Livebarn shot."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hockeyplayers"

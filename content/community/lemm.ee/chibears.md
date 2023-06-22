@@ -3,7 +3,7 @@ title: "chicago bears"
 name: "chibears"
 description: "Lemmy home to the Chicago Bears - a professional American football team based in Chicago, Illinois. "
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/chibears"

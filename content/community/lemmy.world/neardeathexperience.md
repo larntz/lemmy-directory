@@ -3,7 +3,7 @@ title: "Near Death Experiences"
 name: "neardeathexperience"
 description: "Please use [/c/nde](https://lemmy.world/c/nde)"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neardeathexperience"

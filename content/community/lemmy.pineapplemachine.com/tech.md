@@ -3,7 +3,7 @@ title: "tech"
 name: "tech"
 description: "A place for general news and discussions about technology and tech companies.When sharing news articles or other media, please provide a descriptive, non-clickbait title."
 type: community
-date: "2023-06-21 14:53:54"
+date: "2023-06-22 02:19:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/tech"
@@ -15,7 +15,7 @@ posts: 14
 comments: 9
 weight: 14
 dau: 1
-wau: 6
+wau: 4
 mau: 9
 instances:
 - "lemmy_pineapplemachine_com"

@@ -3,7 +3,7 @@ title: "Ślōnsk"
 name: "silesia"
 description: "Ô nos  i po naszymu.Po Polsku tyż może być."
 type: community
-date: "2023-06-21 14:54:28"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/silesia"

@@ -3,7 +3,7 @@ title: "The Java Programming Language"
 name: "java"
 description: "Discussion of Java and java-related technologies. This includes things like:- J2EE/JakartaEE- Spring- Micronaut- Helidon- QuarkusFor assistance learning Java, please go to  [Learn Java](/c/learnjava@lemmy.world)"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/java"

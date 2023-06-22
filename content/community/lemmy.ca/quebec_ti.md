@@ -3,7 +3,7 @@ title: "Québec TI"
 name: "quebec_ti"
 description: "Communauté québécoise sur les TIs"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/quebec_ti"
@@ -15,8 +15,8 @@ posts: 2
 comments: 6
 weight: 2
 dau: 1
-wau: 4
-mau: 4
+wau: 3
+mau: 7
 instances:
 - "lemmy_ca"
 tags: 

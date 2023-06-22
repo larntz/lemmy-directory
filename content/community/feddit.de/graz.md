@@ -3,7 +3,7 @@ title: "Graz und die Steiermark"
 name: "graz"
 description: "Alles über Graz und die Steiermark"
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/graz"

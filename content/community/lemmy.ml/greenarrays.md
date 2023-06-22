@@ -3,7 +3,7 @@ title: "GreenArrays chips"
 name: "greenarrays"
 description: "Satire/insanity is allowed (like in r/greenarrayscirclejerk)https://www.greenarraychips.com/"
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greenarrays"

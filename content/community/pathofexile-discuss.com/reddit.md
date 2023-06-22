@@ -3,7 +3,7 @@ title: "Discuss reddit.com "
 name: "reddit"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:15"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://pathofexile-discuss.com/c/reddit"
@@ -15,7 +15,7 @@ posts: 4
 comments: 19
 weight: 4
 dau: 2
-wau: 9
+wau: 3
 mau: 16
 instances:
 - "pathofexile-discuss_com"

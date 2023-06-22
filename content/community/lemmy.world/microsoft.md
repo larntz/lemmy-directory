@@ -3,14 +3,14 @@ title: "Microsoft"
 name: "microsoft"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/microsoft"
 host: lemmy.world
 lastmod: "2023-06-09 21:04:45"
 published: "2023-06-09 20:18:36"
-subscribers: 56
+subscribers: 57
 posts: 0
 comments: 0
 weight: 0

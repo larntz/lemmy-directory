@@ -3,14 +3,14 @@ title: "/dev/null"
 name: "devnull"
 description: "Dump your curio here!Any content you find interesting is welcome. "
 type: community
-date: "2023-06-20 11:37:27"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/devnull"
 host: dataterm.digital
 lastmod: "2023-06-15 09:43:01"
 published: "2023-06-15 09:02:56"
-subscribers: 24
+subscribers: 30
 posts: 4
 comments: 2
 weight: 4

@@ -3,7 +3,7 @@ title: "Dumbphones"
 name: "dumbphones"
 description: "Feature phones, flip phones, and dumbed-down smartphones. This is a place to share information and e"
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/dumbphones"

@@ -3,12 +3,12 @@ title: "MiSTer FPGA"
 name: "misterfpga"
 description: "A place to talk about all things MiSTer"
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/misterfpga"
 host: midwest.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 21:45:16"
 subscribers: 1
 posts: 0

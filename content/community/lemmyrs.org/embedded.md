@@ -3,7 +3,7 @@ title: "Rust: Embedded Systems"
 name: "embedded"
 description: "[Developing]# GoalDiscussions about using Rust in an Embedded environment."
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/embedded"

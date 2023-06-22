@@ -3,7 +3,7 @@ title: "Slay The Spire"
 name: "slaythespire"
 description: "For discussing the roguelike card game, [Slay The Spire](https://en.wikipedia.org/wiki/Slay_the_Spire)."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/slaythespire"
@@ -15,8 +15,8 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ca"
 tags: 

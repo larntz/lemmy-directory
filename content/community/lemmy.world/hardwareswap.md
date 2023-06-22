@@ -3,14 +3,14 @@ title: "hardwareswap"
 name: "hardwareswap"
 description: "Hardwaredwap but in Lemmy.world "
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hardwareswap"
 host: lemmy.world
 lastmod: "2023-06-20 15:01:06"
 published: "2023-06-20 14:43:27"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

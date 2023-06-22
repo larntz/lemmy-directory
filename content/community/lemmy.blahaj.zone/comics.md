@@ -3,7 +3,7 @@ title: "Comics"
 name: "comics"
 description: "Post your comics here. Single or multi boxed comics. Please mark nsfw when appropriate.Same rules as primary server, no hate.Please warn others if there may be triggers.Please mark if the comic is yours either in the title or description "
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/comics"

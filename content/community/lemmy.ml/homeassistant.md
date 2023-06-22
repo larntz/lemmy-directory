@@ -3,14 +3,14 @@ title: "Homeassistant"
 name: "homeassistant"
 description: "Community to discuss home automation as it relates to https://www.home-assistant.io/"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeassistant"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-04-15 15:45:53"
-subscribers: 421
+subscribers: 426
 posts: 12
 comments: 36
 weight: 12

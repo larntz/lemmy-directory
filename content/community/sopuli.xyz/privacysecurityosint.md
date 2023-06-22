@@ -3,7 +3,7 @@ title: "Privacy, Security, & OSINT"
 name: "privacysecurityosint"
 description: "Lemmy Community for fans of the Privacy Security and OSINT show podcast to talk about the latest episode and bounce ideas off of each other how they can improve their privacy, security, or OSINT knowledge. This is just a fan based community, and is no way connected to or involved with Michael Bazzell, Inteltechniques.com, or the Privacy, Security, & OSINT podcast."
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/privacysecurityosint"

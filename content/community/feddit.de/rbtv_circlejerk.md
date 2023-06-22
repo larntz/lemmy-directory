@@ -3,7 +3,7 @@ title: "rbtv_cj"
 name: "rbtv_circlejerk"
 description: "Willkommen zum Rocketbeans Circlejerk!"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rbtv_circlejerk"
@@ -15,7 +15,7 @@ posts: 7
 comments: 17
 weight: 7
 dau: 1
-wau: 9
+wau: 6
 mau: 9
 instances:
 - "feddit_de"

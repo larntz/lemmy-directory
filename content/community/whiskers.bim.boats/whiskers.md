@@ -3,7 +3,7 @@ title: "Whiskers"
 name: "whiskers"
 description: "**Home community for Whiskers, yet another federated Lemmy instance**For meta discussions about Whiskers. Instance rules apply."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://whiskers.bim.boats/c/whiskers"

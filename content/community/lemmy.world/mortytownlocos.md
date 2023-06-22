@@ -3,7 +3,7 @@ title: "Morty Town Locos"
 name: "mortytownlocos"
 description: "This is not a normal community. This is a social experiment.Here are the rules:1. Every post must contain a picure of Morty in the URL section.2. Every comment must mention the word Morty somewhere in the comment.If you break these rules you will be banned from the community.One last thing. Subscribers at random will be given mod powers.This social experiment is to see how long a heavily policed community can last when its subscribers get to decide the fate of the community."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mortytownlocos"

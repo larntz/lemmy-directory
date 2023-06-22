@@ -3,7 +3,7 @@ title: "Sexy Communist"
 name: "sexy_communists"
 description: "This community is for picture of communist they don't need to BE hot they can just be regular pictures of them, meme about them are also accepted."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sexy_communists"

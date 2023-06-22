@@ -3,7 +3,7 @@ title: "Boston Terriers"
 name: "boston_terriers"
 description: "A community to discuss Boston Terrier dogs."
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boston_terriers"

@@ -3,7 +3,7 @@ title: "BIJ1"
 name: "bij1"
 description: "Community for the Dutch political party BIJ1.Voor radicale gelijkwaardigheid"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bij1"

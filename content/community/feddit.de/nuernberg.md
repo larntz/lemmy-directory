@@ -3,7 +3,7 @@ title: "Nürnberg"
 name: "nuernberg"
 description: "Die Lemmy-Community für Nürnberg."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nuernberg"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "feddit_de"

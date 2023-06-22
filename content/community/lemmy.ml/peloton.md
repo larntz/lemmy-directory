@@ -3,7 +3,7 @@ title: "Peloton (Fediverse alternative) - World Tour Road Cycling News, Results 
 name: "peloton"
 description: "This is one possible [Fediverse ](https://en.wikipedia.org/wiki/Fediverse) alternative to /r/peloton/ on Reddit. The Fediverse is a more open and independent alternative to traditional social networks.This community is not active at the moment. [Try here for a more active Fediverse World Tour road cycling community](https://kbin.social/m/peloton)."
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peloton"

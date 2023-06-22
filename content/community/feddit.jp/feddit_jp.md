@@ -3,7 +3,7 @@ title: "feddit.jp"
 name: "feddit_jp"
 description: "feddit.jpの更新情報や要望などはここで"
 type: community
-date: "2023-06-21 14:54:14"
+date: "2023-06-22 02:20:04"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/feddit_jp"

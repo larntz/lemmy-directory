@@ -3,7 +3,7 @@ title: "Blue Team"
 name: "blueteam"
 description: "Blue Teamers are the first (and sometimes last) line of defense in the ongoing cyber war.  This place is to chat out detection strategies, complain about SIEMs, compare SOAR playbooks, or post mean memes about the Red Team. "
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/blueteam"

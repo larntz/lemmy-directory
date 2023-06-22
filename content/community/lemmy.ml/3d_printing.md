@@ -3,7 +3,7 @@ title: "3D Printing"
 name: "3d_printing"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:15"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3d_printing"

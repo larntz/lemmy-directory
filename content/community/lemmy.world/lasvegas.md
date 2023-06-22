@@ -3,7 +3,7 @@ title: "lasvegas"
 name: "lasvegas"
 description: "All things Las Vegas, the Entertainment & Dining Capital of the World!"
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lasvegas"

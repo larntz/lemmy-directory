@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "News, updates, warnings, etc."
 type: community
-date: "2023-06-21 14:53:50"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dcrich.net/c/meta"

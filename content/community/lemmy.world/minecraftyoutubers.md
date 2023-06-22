@@ -3,7 +3,7 @@ title: "Minecraft YouTubers"
 name: "minecraftyoutubers"
 description: "We record ourselves playing Minecraft and post the videos on YouTube! It's fun! You should give it a try too."
 type: community
-date: "2023-06-19 18:00:40"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftyoutubers"

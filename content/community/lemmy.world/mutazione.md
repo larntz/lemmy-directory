@@ -3,7 +3,7 @@ title: "Mutazione"
 name: "mutazione"
 description: "For discussion & questions of the narrative adventure game, Mutazione!Developed by Die Gute Fabrik & published by Akupara Games.Play on PC, Mac, Playstation, Xbox, Switch, and iOS!"
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mutazione"

@@ -3,7 +3,7 @@ title: "Creative Writing"
 name: "creativewriting"
 description: "A community for sharing, critiquing and discussing creative writing of all kinds, with a special focus on proletarian fiction. Please keep all criticism constructive and be sensitive towards other contributors and their work."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/creativewriting"

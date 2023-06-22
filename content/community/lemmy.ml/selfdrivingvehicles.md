@@ -3,7 +3,7 @@ title: "Self Driving Vehicles"
 name: "selfdrivingvehicles"
 description: "News and discussion about self-driving vehicles.Related subs/c/electric_vehicles,/c/robotics"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfdrivingvehicles"

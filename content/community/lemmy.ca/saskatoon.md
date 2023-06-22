@@ -3,7 +3,7 @@ title: "Saskatoon"
 name: "saskatoon"
 description: "A community about Saskatoon, SaskatchewanRelated communities: * [!sask@lemmy.ca](https://lemmy.ca/c/sask) * [!regina@lemmy.ca](https://lemmy.ca/c/regina) "
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/saskatoon"
@@ -16,7 +16,7 @@ comments: 4
 weight: 12
 dau: 2
 wau: 2
-mau: 2
+mau: 3
 instances:
 - "lemmy_ca"
 tags: 

@@ -3,14 +3,14 @@ title: "Basset Hound"
 name: "bassethound"
 description: "Tips, stories, tricks, pics, vids. Everything basset hound! "
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bassethound"
 host: lemmy.world
 lastmod: "2023-06-11 16:48:20"
 published: "2023-06-11 16:46:18"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

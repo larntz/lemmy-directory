@@ -3,7 +3,7 @@ title: "Garmin"
 name: "garmin"
 description: "A community to discuss Garmin devices of all types"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/garmin"

@@ -3,7 +3,7 @@ title: "trees"
 name: "trees"
 description: "This is the place to talk about marijuana. Come in and let’s get this community going!"
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/trees"

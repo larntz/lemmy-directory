@@ -3,7 +3,7 @@ title: "Unofficial Satisfactory Appreciation Community "
 name: "satisfactory"
 description: "1. Be kind to others2. No advertisment3. Keep it relevant to Satisfactory only"
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/satisfactory"
@@ -15,8 +15,8 @@ posts: 2
 comments: 0
 weight: 2
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_ca"
 tags: 

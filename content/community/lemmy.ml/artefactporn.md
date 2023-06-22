@@ -3,7 +3,7 @@ title: "ArtefactPorn"
 name: "artefactporn"
 description: "Artefact - an object made or given shape by man, such as a tool or a work of art, especially an object of archaeological interest.For images of the heritage, art, relics and other remains of mankind."
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/artefactporn"

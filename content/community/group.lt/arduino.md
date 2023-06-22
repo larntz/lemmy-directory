@@ -3,7 +3,7 @@ title: "Arduino lietuviškai"
 name: "arduino"
 description: "[Arduino icon ](https://icons8.com)[Banner photo by Mathew Schwartz on Unsplash](https://unsplash.com/s/photos/arduino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/arduino"

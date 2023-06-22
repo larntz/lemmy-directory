@@ -3,7 +3,7 @@ title: "Beet the Meatles!"
 name: "beatlescirclejerk"
 description: "The Beatles are literally the most popular and influential band of all times, but few people are aware of the incredible meme potential that they have...-some guy from youtube idk"
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beatlescirclejerk"

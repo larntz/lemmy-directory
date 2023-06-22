@@ -3,7 +3,7 @@ title: "Cryptocurrency News & Discussion"
 name: "cryptocurrency"
 description: "This community is intended for open discussions on all subjects related to emerging crypto-currencies or crypto-assets. "
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/cryptocurrency"

@@ -3,16 +3,16 @@ title: "fosscad"
 name: "fosscad"
 description: "A great place to discuss 3D printed guns and other related topics."
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fosscad"
 host: lemmy.world
 lastmod: "2023-06-15 21:45:05"
 published: "2023-06-15 20:21:18"
-subscribers: 85
+subscribers: 93
 posts: 7
-comments: 15
+comments: 16
 weight: 7
 dau: 3
 wau: 8

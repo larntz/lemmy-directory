@@ -3,7 +3,7 @@ title: "Dragon Ball Series "
 name: "dragonballz"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/dragonballz"
@@ -14,9 +14,9 @@ subscribers: 3
 posts: 1
 comments: 2
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_fmhy_ml"
 tags: 

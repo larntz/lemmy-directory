@@ -3,7 +3,7 @@ title: "Insomnia"
 name: "insomnia"
 description: "Want to share advice/looking for advice on how to improve your sleeping or deal with insomnia? This is the place! "
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/insomnia"

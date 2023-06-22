@@ -3,7 +3,7 @@ title: "VESC, FloatWheel, OneWheel and co"
 name: "vesc_world"
 description: "A community to talk about our One Wheeled Boards."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vesc_world"

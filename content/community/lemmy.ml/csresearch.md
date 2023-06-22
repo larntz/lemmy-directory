@@ -3,14 +3,14 @@ title: "Computer Science Research"
 name: "csresearch"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/csresearch"
 host: lemmy.ml
 lastmod: "2022-12-20 00:53:36"
 published: "2022-12-20 00:47:34"
-subscribers: 40
+subscribers: 41
 posts: 9
 comments: 3
 weight: 9

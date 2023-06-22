@@ -3,7 +3,7 @@ title: "damoclescorps"
 name: "damoclescorps"
 description: "The Damocles Corps maintains peace on Earth through robot dogs and orbital bombardment. It's pretty harsh but it works."
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/damoclescorps"

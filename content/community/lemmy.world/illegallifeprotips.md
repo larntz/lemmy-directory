@@ -3,7 +3,7 @@ title: "IllegalLifeProTips"
 name: "illegallifeprotips"
 description: "We are trying to move on Lemmy instead of Reddit to be truly free and not sanctioned for anything we do that spez does not like"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/illegallifeprotips"

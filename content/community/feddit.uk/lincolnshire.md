@@ -3,7 +3,7 @@ title: "Lincolnshire"
 name: "lincolnshire"
 description: "A lemmy community for people in Lincolnshire"
 type: community
-date: "2023-06-21 14:54:10"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/lincolnshire"

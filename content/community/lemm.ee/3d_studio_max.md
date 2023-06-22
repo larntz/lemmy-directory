@@ -3,7 +3,7 @@ title: "3D Studio Max"
 name: "3d_studio_max"
 description: "Site for discussing Autodesk's 3D Studio Max"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/3d_studio_max"

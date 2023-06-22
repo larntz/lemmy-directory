@@ -3,7 +3,7 @@ title: "The Bitcoin Lightning Network"
 name: "lightningnetwork"
 description: "A place for open discussion and dialogue on the Bitcoin Lightning Network."
 type: community
-date: "2023-06-21 14:56:18"
+date: "2023-06-22 02:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lightningnetwork"

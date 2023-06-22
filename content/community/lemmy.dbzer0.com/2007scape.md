@@ -3,7 +3,7 @@ title: "Old School RuneScape"
 name: "2007scape"
 description: "The community for Old School RuneScape discussion. Join us for game discussions, tips and tricks, and all things OSRS! OSRS is the official legacy version of RuneScape, the largest free-to-play MMORPG."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/2007scape"

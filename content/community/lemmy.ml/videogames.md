@@ -3,7 +3,7 @@ title: "Video Games"
 name: "videogames"
 description: "This community is focused on discussing video games as a form of art, and as pieces of media in a historical context.#### Rules:01. No news unless extremely necessary, that kind of content is generally better in [/c/gaming](https://lemmy.ml/c/gaming)."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/videogames"

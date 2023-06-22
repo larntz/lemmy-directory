@@ -3,7 +3,7 @@ title: "Dungeons and Dragons"
 name: "dnd"
 description: "Welcome to this DnD Community---------------We invite you to post and discuss everything DnD related here. "
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dnd"

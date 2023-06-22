@@ -3,7 +3,7 @@ title: "OnePiece"
 name: "onepiece"
 description: "A community for Eiichiro Oda sensei's series One Piece. Please be wary of spoilers.[🏴\u200d☠️ OnePiece Manga on MangaPlus](https://mangaplus.shueisha.co.jp/titles/100020) [🏴\u200d☠️ OnePiece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onepiece"

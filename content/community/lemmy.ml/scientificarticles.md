@@ -3,7 +3,7 @@ title: "Scientific Articles"
 name: "scientificarticles"
 description: "A community for posting and discussing scientific articles. Please, post ONLY scientific articles."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scientificarticles"

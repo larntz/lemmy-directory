@@ -3,14 +3,14 @@ title: "GNU's Not Unix"
 name: "gnu"
 description: "GNU related news and discussion."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gnu"
 host: lemmy.ml
 lastmod: "2019-10-02 21:51:38"
 published: "2019-10-02 21:40:20"
-subscribers: 524
+subscribers: 525
 posts: 7
 comments: 1
 weight: 7

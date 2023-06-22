@@ -3,14 +3,14 @@ title: "Trackballs "
 name: "trackballs"
 description: "We’re all about that spherical input device here. "
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/trackballs"
 host: apollo.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 20:16:13"
-subscribers: 19
+subscribers: 20
 posts: 3
 comments: 10
 weight: 3

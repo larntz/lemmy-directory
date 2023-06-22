@@ -3,7 +3,7 @@ title: "Gewaltfreie Kommunikation"
 name: "gfk"
 description: "Für alles, was im weiteren Sinne mit Gewaltfreier Kommunikation nach Marhshall B. Rosenberg zu tun hat."
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gfk"

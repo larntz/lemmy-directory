@@ -3,17 +3,17 @@ title: "sh.itjust.works Main Community"
 name: "main"
 description: "**Home of the sh.itjust.works instance.**Join us on [Matrix Chat](https://matrix.to/#/#sh.itjust.works:matrix.org)"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/main"
 host: sh.itjust.works
 lastmod: "2023-06-14 02:10:28"
 published: "2023-06-05 13:53:50"
-subscribers: 3655
-posts: 162
-comments: 4271
-weight: 162
+subscribers: 3732
+posts: 168
+comments: 4411
+weight: 168
 dau: 131
 wau: 1149
 mau: 1392

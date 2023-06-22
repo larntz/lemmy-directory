@@ -3,19 +3,19 @@ title: "Crabs"
 name: "crabs"
 description: "A community for the discussion of the lovely little crustaceans in all their forms."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crabs"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 03:47:38"
-subscribers: 7
-posts: 9
+subscribers: 8
+posts: 10
 comments: 5
-weight: 9
+weight: 10
 dau: 1
-wau: 5
+wau: 4
 mau: 5
 instances:
 - "lemmy_world"

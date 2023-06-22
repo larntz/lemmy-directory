@@ -3,7 +3,7 @@ title: "NonCredibleDefense"
 name: "noncredibledefense"
 description: "A refuge for NCD on blahaj.zone, because why not?"
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/noncredibledefense"

@@ -3,7 +3,7 @@ title: "Kaiju "
 name: "kaiju"
 description: "A place for big monsters "
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kaiju"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "WoWsBlitz"
 name: "wowsblitz"
 description: "Sharing experiences in a community of wow lovers. Everyone is welcome, be moderate and share what you like most in this beloved game.Code of conduct: Be nice to each other.*This community is created by users, not an official wargaming community.link to the official wargaming page:https://eu.wargaming.net/en #wowsblitz , #wows, #blitz , #game "
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wowsblitz"

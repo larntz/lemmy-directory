@@ -3,7 +3,7 @@ title: "wefwef"
 name: "wefwef"
 description: "The official lemmy community for wefwef (https://wefwef.app), a open source, progressive webapp for lemmy.- [App](https://wefwef.app)- [GitHub](https://github.com/aeharding/wefwef)"
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wefwef"

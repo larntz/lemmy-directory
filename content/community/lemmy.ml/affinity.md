@@ -3,7 +3,7 @@ title: "Affinity"
 name: "affinity"
 description: "Affinity is the only creative suite to include full-featured apps on macOS, Windows and iPad without compromize. All apps use exactly the same file format, providing you with a seamless workflow and everything you need to create, no matter where you are. [Official Website](https://affinity.serif.com)"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/affinity"

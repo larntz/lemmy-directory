@@ -3,14 +3,14 @@ title: "Tāmaki Makaurau / Auckland"
 name: "auckland"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:53"
+date: "2023-06-22 02:19:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/auckland"
 host: lemmy.nz
 lastmod: "2023-06-12 23:50:08"
 published: "2023-06-12 00:50:09"
-subscribers: 64
+subscribers: 66
 posts: 3
 comments: 12
 weight: 3

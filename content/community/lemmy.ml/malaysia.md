@@ -3,7 +3,7 @@ title: "Malaysia"
 name: "malaysia"
 description: "Komuniti untuk orang Malaysia dan lain bagi perbincangan hal-hal negara. Berbagai-bagai topik dibenarkan.A community for Malaysians and others to discuss about the country. A wide variety of topics is allowed."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/malaysia"

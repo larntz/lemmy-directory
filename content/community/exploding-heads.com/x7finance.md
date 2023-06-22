@@ -3,7 +3,7 @@ title: "X7 Finance"
 name: "x7finance"
 description: "**Rules**- Be authentic.- Be respectful. Everyone should feel welcome here.- No porn.- No ads / spamming.- No doxing- No threats or personal insults- No discrimination- No gore or graphic video or pictures"
 type: community
-date: "2023-06-21 14:54:34"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/x7finance"

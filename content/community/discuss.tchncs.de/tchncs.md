@@ -3,16 +3,16 @@ title: "..:: tchncs ::.."
 name: "tchncs"
 description: "Your friendly https://tchncs.de community! Discuss whats happening in the tchncs world  and/or just use it as a community forum.German and english allowed.If you are looking for a way to support tchncs, please check out https://tchncs.de/donate****"
 type: community
-date: "2023-06-21 14:53:52"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/tchncs"
 host: discuss.tchncs.de
 lastmod: "2023-06-02 18:08:06"
 published: "2023-06-01 19:53:14"
-subscribers: 470
+subscribers: 476
 posts: 35
-comments: 238
+comments: 242
 weight: 35
 dau: 18
 wau: 45

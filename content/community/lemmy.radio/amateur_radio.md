@@ -3,14 +3,14 @@ title: "Amateur Radio"
 name: "amateur_radio"
 description: "General amateur radio chat, questions, and news"
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/amateur_radio"
 host: lemmy.radio
 lastmod: "2023-06-21 12:48:36"
 published: "2023-06-21 12:09:17"
-subscribers: 4
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

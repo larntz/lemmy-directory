@@ -3,7 +3,7 @@ title: "বাংলায় আলাপ আলোচনা আড্ডা"
 name: "bengali_convo"
 description: "ফেডিভারসে বাংলায় আলাপচারিতা কথোপকথন, গল্প, আড্ডার গ্রুপ। যে কেউ যোগ দিতে পারেন। "
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bengali_convo"

@@ -3,7 +3,7 @@ title: "SQLite"
 name: "sqlite"
 description: "For discussions about the SQLite database"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sqlite"

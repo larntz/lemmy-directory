@@ -3,7 +3,7 @@ title: "JPEG-XL"
 name: "jxl"
 description: "Welcome to the JXL Lemmy community! Here are some basic rules to get started:- Don't post ads or scam- don't post NSFW content- Don't spam- Don't insult other community members- Don't praise/promote competing technologies like VVC or AVIF- Only talk productively about things related to JXL"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jxl"

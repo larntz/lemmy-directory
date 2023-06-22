@@ -3,7 +3,7 @@ title: "Generative AI"
 name: "gen_ai"
 description: "Welcome to gen-ai, feel free to post anything related to generative AI (Language models (GPT, LLama, etc.), Diffusion models (Stable Diffusion) or what ever else fits the bill)"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gen_ai"

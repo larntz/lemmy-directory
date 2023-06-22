@@ -3,7 +3,7 @@ title: "Itch.io"
 name: "itch_io"
 description: "Itch.io is a website for users to host, sell and download indie games.Here you can share games, make reviews, upload updates of your games or even share them!# Similar Communities:- [Linux Gaming](https://lemmy.ml/c/linux_gaming)- [Steam](https://lemmy.ml/c/steam)- [Lutris](https://lemmy.ml/c/lutris)- [Indie Games](https://lemmy.ml/c/indiegames)- [Retro Gaming](https://lemmy.ml/c/retrogaming)  "
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/itch_io"

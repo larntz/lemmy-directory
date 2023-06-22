@@ -3,7 +3,7 @@ title: "Playstation 5 - PS5"
 name: "playstation5"
 description: "Backup community to https://Lemmy.ml/c/ps5@lemmy.ml"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/playstation5"

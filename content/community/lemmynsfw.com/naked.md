@@ -3,17 +3,17 @@ title: "Naked"
 name: "naked"
 description: "Fully Naked Women with their faces in shot!For Women with no face check out [/c/nofacenaked](https://lemmynsfw.com/c/nofacenaked)Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]"
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:38"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/naked"
 host: lemmynsfw.com
 lastmod: "2023-06-13 02:08:27"
 published: "2023-06-12 13:43:28"
-subscribers: 740
-posts: 15
+subscribers: 765
+posts: 16
 comments: 0
-weight: 15
+weight: 16
 dau: 1
 wau: 1
 mau: 4

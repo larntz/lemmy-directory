@@ -3,7 +3,7 @@ title: "Racism"
 name: "racism"
 description: "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.Martin Luther King Jr."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/racism"

@@ -3,7 +3,7 @@ title: "Black Metal"
 name: "blackmetal"
 description: "Post and discuss black metal bands and argue about subgenres here. Hail Satan and all that.*Check out other metal music communities:*- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)- [!doommetal@lemmy.ml](https://lemmy.ml/c/doommetal)- [!metal@lemmy.ml](https://lemmy.ml/c/metal)- [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal)- [!thrashmetal@lemmy.ml](https://lemmy.ml/c/thrashmetal)- [!metalcore@lemmy.ml](https://lemmy.ml/c/metalcore)"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blackmetal"

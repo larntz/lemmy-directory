@@ -3,7 +3,7 @@ title: "kubernetes"
 name: "k8s"
 description: "Jump and dream of the cloud."
 type: community
-date: "2023-06-21 14:53:38"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/k8s"

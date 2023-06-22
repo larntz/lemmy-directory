@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-21 14:53:41"
+date: "2023-06-22 02:19:30"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/main"
@@ -14,7 +14,7 @@ subscribers: 43
 posts: 13
 comments: 19
 weight: 13
-dau: 4
+dau: 3
 wau: 7
 mau: 7
 instances:

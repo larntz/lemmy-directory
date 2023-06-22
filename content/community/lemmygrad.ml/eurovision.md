@@ -3,7 +3,7 @@ title: "Eurovision"
 name: "eurovision"
 description: "A community for Eurovision fans"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/eurovision"

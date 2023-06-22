@@ -3,16 +3,16 @@ title: "ChatGPT"
 name: "chatgpt"
 description: "The community for anything ChatGPT"
 type: community
-date: "2023-06-21 14:56:16"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chatgpt"
 host: lemmy.ml
 lastmod: "2023-06-05 09:15:50"
 published: "2023-06-05 09:14:10"
-subscribers: 491
+subscribers: 497
 posts: 19
-comments: 16
+comments: 17
 weight: 19
 dau: 3
 wau: 18

@@ -3,7 +3,7 @@ title: "GPT-3"
 name: "gpt3"
 description: "The subreddit for AI text generation technology, now on Lemmy"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gpt3"

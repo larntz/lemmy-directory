@@ -3,7 +3,7 @@ title: "スクラップブック📖"
 name: "scrapbook"
 description: "色んなニュースやメモ等を記録するところです。"
 type: community
-date: "2023-06-21 14:53:46"
+date: "2023-06-22 02:19:34"
 draft: false
 nsfw: false
 actor_id: "https://lem.simple-gear.com/c/scrapbook"

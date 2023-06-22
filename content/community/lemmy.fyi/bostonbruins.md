@@ -3,7 +3,7 @@ title: "bostonbruins"
 name: "bostonbruins"
 description: "**Rules:**- Be decent to one another**Links:**- [Bruins Homepage](https://www.nhl.com/bruins)- [Bruins Pro Shop](https://bostonproshop.com/shop-bruins/)-  [Bruins Wikipedia](https://en.wikipedia.org/wiki/Boston_Bruins)"
 type: community
-date: "2023-06-21 14:54:18"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fyi/c/bostonbruins"
@@ -15,7 +15,7 @@ posts: 5
 comments: 5
 weight: 5
 dau: 1
-wau: 6
+wau: 5
 mau: 6
 instances:
 - "lemmy_fyi"

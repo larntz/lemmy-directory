@@ -3,7 +3,7 @@ title: "test_comm_1"
 name: "test_comm_1"
 description: "hntshnt"
 type: community
-date: "2023-06-21 14:53:38"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/test_comm_1"
@@ -14,7 +14,7 @@ subscribers: 5
 posts: 11
 comments: 18
 weight: 11
-dau: 2
+dau: 1
 wau: 5
 mau: 11
 instances:

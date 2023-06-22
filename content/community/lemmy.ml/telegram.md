@@ -3,7 +3,7 @@ title: "Telegram"
 name: "telegram"
 description: "A community about [Telegram](https://telegram.org), the popular messaging app.Rules:1. be kind and avoid aggressive or offensive language toward other people2. do not submit links that are aimed at advertising your channels, groups or bots"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/telegram"

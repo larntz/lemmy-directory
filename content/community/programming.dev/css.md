@@ -3,14 +3,14 @@ title: "CSS"
 name: "css"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/css"
 host: programming.dev
 lastmod: "2023-06-13 06:04:17"
 published: "2023-06-13 06:02:48"
-subscribers: 62
+subscribers: 64
 posts: 2
 comments: 0
 weight: 2

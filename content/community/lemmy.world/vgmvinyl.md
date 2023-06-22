@@ -3,7 +3,7 @@ title: "Video Game Vinyl"
 name: "vgmvinyl"
 description: "A subreddit for news and discussion on video game soundtrack and chiptune music released on vinyl."
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vgmvinyl"

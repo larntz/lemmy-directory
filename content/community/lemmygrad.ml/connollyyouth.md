@@ -3,7 +3,7 @@ title: "Connoly Youth Movement - Ógra Uí Chonghaile "
 name: "connollyyouth"
 description: "The Connolly Youth Movement is an Irish Marxist-Leninist & Socialist Republican youth organisation standing in the tradition of James Connolly 🚩cym.ie"
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/connollyyouth"

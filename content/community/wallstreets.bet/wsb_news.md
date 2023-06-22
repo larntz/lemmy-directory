@@ -3,7 +3,7 @@ title: "Got something? Tell WSB."
 name: "wsb_news"
 description: "Source that intel."
 type: community
-date: "2023-06-21 14:54:22"
+date: "2023-06-22 02:20:11"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_news"

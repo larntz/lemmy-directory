@@ -3,7 +3,7 @@ title: "Fishing"
 name: "fishing"
 description: "`fishing` is a space to deep into matters fishing, sea food production, and conservation. "
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/fishing"

@@ -3,7 +3,7 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "A place for the discussion of all things related to the electronic synthesis of sound."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/synthesizers"

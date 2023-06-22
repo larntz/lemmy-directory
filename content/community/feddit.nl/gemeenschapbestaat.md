@@ -3,7 +3,7 @@ title: "Deze gemeenschap bestaat"
 name: "gemeenschapbestaat"
 description: "**Een gemeenschap om andere gemeenschappen te ontdekken!** Kom je een toffe gemeenschap tegen? Deel deze hier.- Gemeenschappen hoeven zich niet op Feddit.nl te bevinden- Gemeenschappen hoeven niet in het Nederlands te zijn (geef dit aan met een tag)- Gebruik een NSFW-tag voor gemeenschappen die het nodig hebben."
 type: community
-date: "2023-06-21 14:53:53"
+date: "2023-06-22 02:19:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/gemeenschapbestaat"

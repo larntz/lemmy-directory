@@ -3,7 +3,7 @@ title: "Offset"
 name: "offset"
 description: "Welcome to /c/Offset!Welcome to the community for offset guitars!Also, please promote the community when it is relevant to the topic.Post your favorite guitars, or ones that you have yourself. Don't be shy to ask questions, you might just find the help you need.No self-advertising spam, let's keep this subreddit clean of advertising.Recommended Websites:[Offset Guitars Forum TDPRI Justin Guitar](http://www.justinguitar.com/)"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/offset"

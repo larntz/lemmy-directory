@@ -3,7 +3,7 @@ title: "Frasier"
 name: "frasier"
 description: "Welcome to a community dedicated to fans of the hit TV sitcom, Frasier. Discussion, memes, insightful observations, and witty remarks are all welcomed here.Whether our journey together lasts for years or just for one day, I can't tell you how excited I am to take this first step with you."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/frasier"

@@ -3,7 +3,7 @@ title: "DSPGaming"
 name: "dspgaming"
 description: "a discussion for dspgaming *snorts*"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/dspgaming"
@@ -15,8 +15,8 @@ posts: 1
 comments: 0
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "lemmy_fmhy_ml"
 tags: 

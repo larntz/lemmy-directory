@@ -3,7 +3,7 @@ title: "Fußball"
 name: "fussball"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fussball"
@@ -15,7 +15,7 @@ posts: 8
 comments: 5
 weight: 8
 dau: 1
-wau: 4
+wau: 3
 mau: 8
 instances:
 - "feddit_de"

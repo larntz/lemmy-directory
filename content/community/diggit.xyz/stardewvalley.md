@@ -3,7 +3,7 @@ title: "Stardew Valley"
 name: "stardewvalley"
 description: "Stardew Valley is an open-ended country-life RPG with support for 1–4 players. (Multiplayer isn't supported on mobile). See the game's [Wikipedia](https://en.m.wikipedia.org/wiki/Stardew_Valley) article. "
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/stardewvalley"

@@ -3,7 +3,7 @@ title: "Symphonic Metal"
 name: "symphonicmetal"
 description: "Also check out other metal music communities:- [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!folkmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/folkmetal)- [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/symphonicmetal"

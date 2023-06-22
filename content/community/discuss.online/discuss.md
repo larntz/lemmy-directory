@@ -3,7 +3,7 @@ title: "Discuss"
 name: "discuss"
 description: "# WelcomeOpen discussions and thoughts. Make anything into a discussion!# Rules1. Follow the rules of discuss.online2. No porn3. No self-promotion"
 type: community
-date: "2023-06-21 14:54:08"
+date: "2023-06-22 02:19:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/discuss"

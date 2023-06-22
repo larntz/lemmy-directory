@@ -3,14 +3,14 @@ title: "Guinea Pigs"
 name: "guineapigs"
 description: "Community for Guinea Pig lovers"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:57"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/guineapigs"
 host: latte.isnot.coffee
 lastmod: "2023-06-10 04:49:21"
 published: "2023-06-10 04:46:35"
-subscribers: 40
+subscribers: 43
 posts: 16
 comments: 20
 weight: 16

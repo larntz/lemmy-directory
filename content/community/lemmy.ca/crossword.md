@@ -3,7 +3,7 @@ title: "Crossword"
 name: "crossword"
 description: "Community for enthusiasts of crosswords and other word puzzles"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/crossword"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ca"

@@ -3,7 +3,7 @@ title: "ADSB Feeders and Aggregators"
 name: "adsb"
 description: "Automated Dependent Surveillance Broadcast --The most common way of tracking aircraft with simple radio receivers.This community is for discussion of the hardware and software needed to track the planes around you, how to feed that data to the aggregators, and many other topics around that."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/adsb"

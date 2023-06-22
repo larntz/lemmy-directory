@@ -3,7 +3,7 @@ title: "infiniti"
 name: "infiniti"
 description: "The Lemmy migration for /r/infiniti. Mainly here to provide help to people who have questions about their car, and don't want to use reddit anymore."
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/infiniti"

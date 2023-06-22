@@ -3,7 +3,7 @@ title: "Hong Kong"
 name: "hongkong"
 description: "A community to discuss everything Hong Kong.Rules:1. Please add a flair in the title of every post. Example: “[News] Hong Kong murdered by cartoon bear.”, “[Culture] Hong Kong street food is amazing!”, “[Question] How many people speak Simplified Chinese in Hong Kong?”List of flairs: [News], [Culture], [Discussion], [Question], [Request], [Guide]. More will be added as time goes on.2. Follow the Lemmy Rules of Conduct."
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hongkong"

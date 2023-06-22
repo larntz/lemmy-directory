@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-21 14:54:20"
+date: "2023-06-22 02:20:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.x01.ninja/c/main"

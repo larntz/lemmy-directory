@@ -3,7 +3,7 @@ title: "Avenged Sevenfold"
 name: "avengedsevenfold"
 description: "A place to discuss everything Avenged Sevenfold (A7X)! Check them out at:* [Band home page](https://www.avengedsevenfold.com/home)*  [Spotify Page](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs)*  [Apple Music](https://music.apple.com/us/artist/avenged-sevenfold/6766228)* [Deezer](https://www.deezer.com/search/Avenged%20Sevenfold)*  [Tidal](https://tidal.com/browse/artist/14155)"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avengedsevenfold"
@@ -15,7 +15,7 @@ posts: 20
 comments: 6
 weight: 20
 dau: 1
-wau: 5
+wau: 2
 mau: 5
 instances:
 - "lemmy_world"

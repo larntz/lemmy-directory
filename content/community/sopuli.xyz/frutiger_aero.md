@@ -3,7 +3,7 @@ title: "Frutiger Aero"
 name: "frutiger_aero"
 description: "A community dedicated to the glossy, glassy aesthetic of the 2000s, Frutiger Aero[What is Frutiger Aero?](https://aesthetics.fandom.com/wiki/Frutiger_Aero)Also check out: [Y2K Aesthetics](/c/y2k@sopuli.xyz), a community dedicated to Frutiger Aero's precursor aesthetic"
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/frutiger_aero"

@@ -3,7 +3,7 @@ title: "fishing"
 name: "fishing"
 description: "share your fishing stories god bless.post titles allowed : fishing"
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fishing"
@@ -15,8 +15,8 @@ posts: 6
 comments: 3
 weight: 6
 dau: 0
-wau: 2
-mau: 2
+wau: 3
+mau: 4
 instances:
 - "lemmy_ca"
 tags: 

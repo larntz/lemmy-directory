@@ -3,7 +3,7 @@ title: "Partizle Support"
 name: "support"
 description: "Questions and answers for the Partizle instance"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:51"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/support"
@@ -12,7 +12,7 @@ lastmod: "2023-06-14 17:24:48"
 published: "2023-06-13 16:37:03"
 subscribers: 9
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
 wau: 1

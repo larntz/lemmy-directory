@@ -3,7 +3,7 @@ title: "DOJ Corruption"
 name: "dojcorruption"
 description: "It has become clear to the whole world, that the DOJ will look at your politics, your connections, and your friends before deciding to investigate or prosecute.The modern day Department of Justice has bought new meaning to the phrase two standards of justice"
 type: community
-date: "2023-06-21 14:54:34"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/dojcorruption"

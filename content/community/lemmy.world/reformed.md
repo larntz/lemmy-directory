@@ -3,14 +3,14 @@ title: "Reformed Christianity"
 name: "reformed"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:51"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reformed"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 15:24:24"
-subscribers: 15
+subscribers: 18
 posts: 2
 comments: 0
 weight: 2

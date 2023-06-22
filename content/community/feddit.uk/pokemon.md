@@ -1,19 +1,19 @@
 ---
 title: "Pokémon" 
 name: "pokemon"
-description: "Description not available."
+description: "A place for everything Pokémon "
 type: community
-date: "2023-06-21 14:54:10"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/pokemon"
 host: feddit.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 22:08:08"
 published: "2023-06-20 13:05:37"
-subscribers: 1
-posts: 0
+subscribers: 4
+posts: 2
 comments: 0
-weight: 0
+weight: 2
 dau: 0
 wau: 0
 mau: 0

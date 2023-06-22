@@ -3,14 +3,14 @@ title: "Beer"
 name: "beer"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beer"
 host: lemmy.world
 lastmod: "2023-06-12 04:59:11"
 published: "2023-06-12 04:58:41"
-subscribers: 28
+subscribers: 29
 posts: 5
 comments: 1
 weight: 5

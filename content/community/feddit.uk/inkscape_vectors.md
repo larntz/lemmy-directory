@@ -3,7 +3,7 @@ title: "Inkscape Vector Graphics"
 name: "inkscape_vectors"
 description: "Share artwork, ask questions or just chat about the Inkscape Vector application or others too. Unofficial community. Keep it friendly."
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/inkscape_vectors"

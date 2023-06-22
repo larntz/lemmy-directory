@@ -3,7 +3,7 @@ title: "American Community "
 name: "america"
 description: "This is American community. Do not ask questions."
 type: community
-date: "2023-06-21 14:53:38"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/america"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "voyager_lemmy_ml"

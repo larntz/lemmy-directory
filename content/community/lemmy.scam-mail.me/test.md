@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:07"
+date: "2023-06-22 02:19:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.scam-mail.me/c/test"

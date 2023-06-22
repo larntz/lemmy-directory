@@ -3,14 +3,14 @@ title: "writing advice"
 name: "writingadvice"
 description: "We are under development"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/writingadvice"
 host: lemmy.world
 lastmod: "2023-06-17 00:02:13"
 published: "2023-06-16 23:43:57"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Illinois"
 name: "illinois"
 description: "**!illinois@midwest.social**Land of Lincoln...the prairie state...corn, soybeans, and pumpkins. Chicago-inclusive, but there's a lot more to Illinois than just the Windy City.Be respectful and civil. No racism/bigotry/hateful speech."
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/illinois"
@@ -14,8 +14,8 @@ subscribers: 60
 posts: 5
 comments: 4
 weight: 5
-dau: 3
-wau: 6
+dau: 1
+wau: 4
 mau: 7
 instances:
 - "midwest_social"

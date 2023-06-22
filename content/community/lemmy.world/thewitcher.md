@@ -3,14 +3,14 @@ title: "The Witcher"
 name: "thewitcher"
 description: "Witcher books, Witcher games and everything else Witcher."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thewitcher"
 host: lemmy.world
 lastmod: "2023-06-12 22:01:52"
 published: "2023-06-12 21:59:23"
-subscribers: 67
+subscribers: 74
 posts: 4
 comments: 5
 weight: 4

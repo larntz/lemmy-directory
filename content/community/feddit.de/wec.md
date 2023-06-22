@@ -3,7 +3,7 @@ title: "World Endurance Championship"
 name: "wec"
 description: "Welcome to the World Endurance Championship community.Please keep discussions civil, respect other’s opinions, and keep it friendly.Thanks!"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wec"

@@ -3,14 +3,14 @@ title: "Orthodox Christianity"
 name: "orthodoxchristianity"
 description: "Description not available."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-22 02:21:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/orthodoxchristianity"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 13:11:04"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

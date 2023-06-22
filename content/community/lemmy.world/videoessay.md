@@ -1,14 +1,14 @@
 ---
 title: "videoessay" 
 name: "videoessay"
-description: "[Link to /c/VideoEssays](/c/videoessays@lemmy.world)"
+description: "[>>> Link to /c/VideoEssays <<<](/c/videoessays@lemmy.world)"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/videoessay"
 host: lemmy.world
-lastmod: "2023-06-20 16:31:55"
+lastmod: "2023-06-21 19:28:27"
 published: "2023-06-20 16:27:59"
 subscribers: 4
 posts: 1

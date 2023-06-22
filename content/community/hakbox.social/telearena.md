@@ -3,7 +3,7 @@ title: "Tele-Arena"
 name: "telearena"
 description: "A community dedicated to the wonderful text based multiplayer adventure game. Check out the [Tele-Arena Shrine](https://tele-arena.tumblr.com/) to find active servers. "
 type: community
-date: "2023-06-21 14:54:10"
+date: "2023-06-22 02:19:59"
 draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/telearena"

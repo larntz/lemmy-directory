@@ -3,7 +3,7 @@ title: "Standard Notes"
 name: "standardnotes"
 description: "**Standard Notes**An end-to-end encrypted note-taking app. Available for macOS, Windows, Linux, iOS, Android, and the Web. https://standardnotes.com — Not consistently monitored by SN team. For community help, join our Discord: https://standardnotes.com/discord. For support from an SN team member, email help@standardnotes.com."
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/standardnotes"

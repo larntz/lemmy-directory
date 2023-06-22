@@ -3,7 +3,7 @@ title: "Discussion"
 name: "discussion"
 description: "A place for General discussion within the Psychedelia.ink communities."
 type: community
-date: "2023-06-21 14:54:19"
+date: "2023-06-22 02:20:09"
 draft: false
 nsfw: false
 actor_id: "https://psychedelia.ink/c/discussion"

@@ -3,7 +3,7 @@ title: "Thee Oh Sees"
 name: "theeohsees"
 description: "All things related to John Dwyer, Castle Face Records, Discount Mirrors Studio, and Orinoka Crash Suite, OCS, Orange County Sound, The Ohsees, The Oh Sees, Thee Oh Sees, Oh Sees, and Osees."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theeohsees"

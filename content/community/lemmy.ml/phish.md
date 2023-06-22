@@ -3,7 +3,7 @@ title: "Phish"
 name: "phish"
 description: "A phriendly community for everyone’s favorite band from Vermont. "
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/phish"

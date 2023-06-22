@@ -3,7 +3,7 @@ title: "cyprus "
 name: "cyprus"
 description: "*The Cypriot Community of Lemmy!*Rules:i) Follow the Instance Rules ii) Be polite and respect each other, regardless of political ideology, ethnicity, religion, sexuality etc.iii) NSFW material, doxxing, racism and propaganda will not be tolerated.iv) All submissions need to be related to Cyprus or be written in Greek."
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cyprus"

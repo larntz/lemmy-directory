@@ -3,7 +3,7 @@ title: "Animation"
 name: "animation"
 description: "A community for animators and animation enthusiasts. Share your favorite animated clips, talk about your favorite movies, and get feedback on your own animations from fellow artists!"
 type: community
-date: "2023-06-21 14:54:20"
+date: "2023-06-22 02:20:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/animation"

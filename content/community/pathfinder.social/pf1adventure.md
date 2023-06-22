@@ -3,14 +3,14 @@ title: "Pathfinder 1e Adventures"
 name: "pf1adventure"
 description: "A place to discuss official, 3rd party, and homebrew adventures for Pathfinder 1st Edition."
 type: community
-date: "2023-06-21 14:53:53"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf1adventure"
 host: pathfinder.social
 lastmod: "2023-06-19 17:51:26"
 published: "2023-06-04 17:07:26"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

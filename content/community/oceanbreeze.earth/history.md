@@ -3,7 +3,7 @@ title: "history@oceanbreeze.earth"
 name: "history"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/history"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "oceanbreeze_earth"

@@ -3,7 +3,7 @@ title: "Maniac Driver · Videos Discussion"
 name: "maniacdriver"
 description: "[Maniac Driver](https://maniacdriver.com) videos on [YouTube](https://www.youtube.com/@ManiacDriver)"
 type: community
-date: "2023-06-21 14:54:23"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/maniacdriver"

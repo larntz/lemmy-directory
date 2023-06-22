@@ -3,14 +3,14 @@ title: "Power Metal"
 name: "powermetal"
 description: "Here be dragons. Dedicated to power metal and adjacent genres. Songs, albums, discussion, news, and memes, all is welcome here. While linking to songs, try to use links that work in multiple regions (e.g. prefer standard YouTube links, not (- topic channels). Alternatively, provide additional links in the post body."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/powermetal"
 host: lemmy.world
 lastmod: "2023-06-18 18:55:22"
 published: "2023-06-18 18:53:48"
-subscribers: 24
+subscribers: 25
 posts: 6
 comments: 0
 weight: 6

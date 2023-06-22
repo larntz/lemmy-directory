@@ -3,19 +3,19 @@ title: "Books"
 name: "books"
 description: "For all books - fiction and non-fiction."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/books"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-03-15 14:10:17"
-subscribers: 196
+subscribers: 197
 posts: 31
 comments: 255
 weight: 31
 dau: 1
-wau: 10
+wau: 6
 mau: 20
 instances:
 - "lemmygrad_ml"

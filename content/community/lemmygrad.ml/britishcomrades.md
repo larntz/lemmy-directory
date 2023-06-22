@@ -3,7 +3,7 @@ title: "British Comrades"
 name: "britishcomrades"
 description: "A Space for the British Far-Left Communists of all stripes welcome. Liberals and Fascists get the gulag. Memes and Shitposts are encouraged. Serious discussions, literary critiques and relevant articles; even more so."
 type: community
-date: "2023-06-16 22:56:08"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/britishcomrades"

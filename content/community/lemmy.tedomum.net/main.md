@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-21 14:53:44"
+date: "2023-06-22 02:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/main"
@@ -14,8 +14,8 @@ subscribers: 665
 posts: 17
 comments: 5
 weight: 17
-dau: 2
-wau: 12
+dau: 1
+wau: 10
 mau: 45
 instances:
 - "lemmy_tedomum_net"

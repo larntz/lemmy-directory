@@ -3,7 +3,7 @@ title: "soapmaking"
 name: "soapmaking"
 description: "Welcome to Soapmaking! A community for sharing our passion of soapmaking. "
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/soapmaking"
@@ -15,8 +15,8 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ca"
 tags: 

@@ -3,7 +3,7 @@ title: "BMW"
 name: "bmw"
 description: "A community to discuss all things BMW cars & motorcycles.Feel free to show off your new vehicle/parts, ask for technical help diagnosing an issue or just discuss recent BMW news - both Retail & Motorsport"
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bmw"

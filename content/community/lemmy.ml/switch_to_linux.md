@@ -3,7 +3,7 @@ title: "SwitchToLinux"
 name: "switch_to_linux"
 description: "A place to ask for help and find FOSS replacements for applications you were using on proprietary OSs."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switch_to_linux"

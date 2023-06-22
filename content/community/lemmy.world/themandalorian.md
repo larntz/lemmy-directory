@@ -3,7 +3,7 @@ title: "The Mandalorian"
 name: "themandalorian"
 description: "This community is dedicated to The Mandalorian TV series."
 type: community
-date: "2023-06-21 14:55:56"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/themandalorian"

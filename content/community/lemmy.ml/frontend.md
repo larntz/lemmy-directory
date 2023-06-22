@@ -3,7 +3,7 @@ title: "Frontend Web Development"
 name: "frontend"
 description: "Community to discuss stuff all things related to frontend web development. (sharing resources, discussion etc.)"
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frontend"

@@ -3,7 +3,7 @@ title: "Brigade For Foss"
 name: "brigadeforfoss"
 description: "Want to do some Chaotic Good? Welcome to Brigade for FOSS! Post links to alternative websites where you're encouraging FOSS for people to come brigade📜 Rules:📫 Posts must be FOSS related🌄 Don't overbrigade - If the brigade is big, stick to upvoting the top quality posts rather than adding noise🏡 Be intelligent with your brigade - Don't post on new accounts or in communities you're not usually active in😼 Have fun!"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brigadeforfoss"

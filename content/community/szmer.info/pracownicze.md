@@ -3,7 +3,7 @@ title: "pracownicze"
 name: "pracownicze"
 description: "wszystko co związane z zatrudnieniem"
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pracownicze"

@@ -3,14 +3,14 @@ title: "RTLSDR"
 name: "rtlsdr"
 description: "Software Defined Radio forum."
 type: community
-date: "2023-06-21 14:54:10"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/rtlsdr"
 host: feddit.uk
 lastmod: "2023-06-17 15:42:02"
 published: "2023-06-17 15:40:56"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Stuttgart"
 name: "stuttgart"
 description: "Alles über den Kessel!"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/stuttgart"
 host: feddit.de
 lastmod: "2023-06-16 07:29:24"
 published: "2023-06-16 07:21:33"
-subscribers: 36
+subscribers: 37
 posts: 4
 comments: 4
 weight: 4

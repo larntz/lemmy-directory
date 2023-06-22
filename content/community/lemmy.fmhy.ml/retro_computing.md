@@ -3,20 +3,20 @@ title: "Retro Computing"
 name: "retro_computing"
 description: "For any and all discussion of retro computing topics. Let's not argue about what's retro or not. "
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/retro_computing"
 host: lemmy.fmhy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 00:20:49"
-subscribers: 389
+subscribers: 399
 posts: 10
 comments: 27
 weight: 10
-dau: 1
-wau: 17
-mau: 17
+dau: 4
+wau: 7
+mau: 20
 instances:
 - "lemmy_fmhy_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Personal Websites"
 name: "personalwebsites"
 description: "Show some ❤️ for personal websites! This is the place to post personal gardens, wikis, blogs and experiments in hypertext."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/personalwebsites"

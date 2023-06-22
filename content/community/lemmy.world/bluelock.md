@@ -3,7 +3,7 @@ title: "BLUE LOCK • ブルーロック"
 name: "bluelock"
 description: "(Welcome to BlueLock) a community dedicated to the Blue Lock ~ブルーロック~ series written by Muneyuki Kaneshiro and illustrated by Yusuke Nomura. Check our sidebar for more information and read our rules before participating."
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bluelock"

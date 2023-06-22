@@ -3,14 +3,14 @@ title: "Wayland Compositor"
 name: "wayland"
 description: "A space for information and questions regarding the new Wayland compositor protocols and it's implementations.Rules:- Be respectful- Stay on topic: Keep discussions focused on Wayland compositors, Wayland protocol, and related topics.- Provide context: When asking for help or discussing an issue, provide as much relevant information as possible. This will help others assist you more effectively."
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/wayland"
 host: iusearchlinux.fyi
 lastmod: "2023-06-18 20:56:29"
 published: "2023-06-18 20:54:05"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

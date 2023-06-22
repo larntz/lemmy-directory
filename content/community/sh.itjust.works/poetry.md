@@ -3,17 +3,17 @@ title: "Poetry"
 name: "poetry"
 description: "A community for discussion and sharing of poetry.I'll populate this sidebar with more pizzazz as I'm able, but for now let's get this train rolling.- Please be sure to credit all authors- English only? *Non!*- It would be [dope as fuck](https://imgur.com/a/PJGOhbi) if non-English submissions were accompanied by an English translation, though.- Original work enthusiastically welcome! Go ham---I have a hard time imagining an inundation that would require something like OC Thursdays- /r/Poetry chose to allow image submissions so that a poem's formatting can be preserved. We can do the same.- Poetry [memes? ](https://i.imgur.com/aPttqJM.gif)- Spitballing here, but let's try titling memes meme for clarity of scrolling. "
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/poetry"
 host: sh.itjust.works
 lastmod: "2023-06-16 17:41:27"
 published: "2023-06-15 00:46:32"
-subscribers: 21
-posts: 46
-comments: 13
-weight: 46
+subscribers: 25
+posts: 49
+comments: 20
+weight: 49
 dau: 2
 wau: 5
 mau: 5

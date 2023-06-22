@@ -3,7 +3,7 @@ title: "u/Patriarch"
 name: "patriarch"
 description: "Just the lemmy way of posting to my own profile ;). "
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/patriarch"

@@ -3,7 +3,7 @@ title: "ems"
 name: "ems"
 description: "A place for all EMS personnel to discuss anything EMS related, questions, Memes, etc."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ems"

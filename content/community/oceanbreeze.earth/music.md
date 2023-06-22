@@ -3,7 +3,7 @@ title: "music@oceanbreeze.earth"
 name: "music"
 description: "For discussion about music."
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://oceanbreeze.earth/c/music"
@@ -15,7 +15,7 @@ posts: 13
 comments: 0
 weight: 13
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "oceanbreeze_earth"

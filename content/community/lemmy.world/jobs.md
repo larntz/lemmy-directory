@@ -3,19 +3,19 @@ title: "Jobs"
 name: "jobs"
 description: "A community to discuss jobs, whether that's regarding to the search, advice on how to negotiate an offer, or just an open forum to vent.This is not a place intended for you to post job listings."
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jobs"
 host: lemmy.world
 lastmod: "2023-06-15 17:11:35"
 published: "2023-06-13 18:08:04"
-subscribers: 49
+subscribers: 50
 posts: 2
 comments: 17
 weight: 2
 dau: 2
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "lemmy_world"

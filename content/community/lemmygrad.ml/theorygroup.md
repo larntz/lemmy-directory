@@ -3,7 +3,7 @@ title: "Theory Group"
 name: "theorygroup"
 description: "A community dedicated to group reading and discussion of political theory, with a particular focus on Marxist literature."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theorygroup"

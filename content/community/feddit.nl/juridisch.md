@@ -3,7 +3,7 @@ title: "Juridisch Advies NL"
 name: "juridisch"
 description: "Legal advice for The Netherlands. English posts allowed.Give context for your case. Be wise, anonymise your case. When answering, refer to law and/or jurisprudence."
 type: community
-date: "2023-06-21 14:53:53"
+date: "2023-06-22 02:19:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/juridisch"

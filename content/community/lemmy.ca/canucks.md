@@ -3,20 +3,20 @@ title: "Vancouver Canucks"
 name: "canucks"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/canucks"
 host: lemmy.ca
-lastmod: "2023-06-13 15:24:29"
+lastmod: "2023-06-22 01:55:12"
 published: "2023-06-13 15:10:31"
-subscribers: 36
+subscribers: 38
 posts: 7
 comments: 13
 weight: 7
-dau: 1
-wau: 3
-mau: 3
+dau: 2
+wau: 8
+mau: 9
 instances:
 - "lemmy_ca"
 tags: 

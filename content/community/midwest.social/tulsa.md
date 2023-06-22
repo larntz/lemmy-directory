@@ -3,7 +3,7 @@ title: "Tulsa "
 name: "tulsa"
 description: "General Tulsa area information and hangout"
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-22 02:20:17"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/tulsa"

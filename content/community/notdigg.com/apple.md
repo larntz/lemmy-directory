@@ -3,7 +3,7 @@ title: "Apple"
 name: "apple"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:19"
+date: "2023-06-22 02:20:09"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/apple"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "notdigg_com"

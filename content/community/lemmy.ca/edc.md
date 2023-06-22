@@ -3,7 +3,7 @@ title: "Every day carry"
 name: "edc"
 description: "Quels objets avez-vous en votre possession en permanence? Pourquoi?"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/edc"

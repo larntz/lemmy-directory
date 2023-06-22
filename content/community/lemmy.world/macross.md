@@ -3,20 +3,20 @@ title: "Macross"
 name: "macross"
 description: "Description not available."
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macross"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 22:17:42"
-subscribers: 4
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 5
+posts: 1
+comments: 3
+weight: 1
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

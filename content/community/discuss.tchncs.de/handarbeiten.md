@@ -3,7 +3,7 @@ title: "Handarbeiten, fein und grob"
 name: "handarbeiten"
 description: "Handarbeiten in allen Farben und Formen sind willkommen, nur selbstgemacht muss es sein. Techniken, Tipps und Tricks sollen auch nicht zu kurz kommen. Fragt einfach, wir waren alle mal Anfänger."
 type: community
-date: "2023-06-21 14:53:52"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/handarbeiten"

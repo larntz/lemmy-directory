@@ -3,7 +3,7 @@ title: "main"
 name: "main"
 description: "For all things twisty puzzles!"
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://cubing.social/c/main"

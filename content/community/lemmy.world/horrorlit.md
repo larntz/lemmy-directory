@@ -3,7 +3,7 @@ title: "Horror Lit"
 name: "horrorlit"
 description: "Horror book discussion, requests, trivia, best of, worst of, etc.All-inclusive community. No bigots, please."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-22 02:21:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/horrorlit"

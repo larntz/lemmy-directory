@@ -3,16 +3,16 @@ title: "sdfpubnix"
 name: "sdfpubnix"
 description: "A hangout for members of the SDF Public Access UNIX System"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sdfpubnix"
 host: lemmy.sdf.org
 lastmod: "2023-06-06 20:59:43"
 published: "2023-06-06 20:51:57"
-subscribers: 418
+subscribers: 423
 posts: 35
-comments: 301
+comments: 303
 weight: 35
 dau: 16
 wau: 86

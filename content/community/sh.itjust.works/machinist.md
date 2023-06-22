@@ -3,14 +3,14 @@ title: "Machinist"
 name: "machinist"
 description: "From Newcomers to Old Timers, a community united by the Industry of Machining"
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/machinist"
 host: sh.itjust.works
 lastmod: "2023-06-15 18:36:09"
 published: "2023-06-15 18:34:36"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 3
 weight: 2

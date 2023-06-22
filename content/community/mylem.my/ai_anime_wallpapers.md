@@ -3,7 +3,7 @@ title: "booba"
 name: "ai_anime_wallpapers"
 description: "animes but wallpapers only but made by people with no art skill only"
 type: community
-date: "2023-06-21 14:54:15"
+date: "2023-06-22 02:20:05"
 draft: false
 nsfw: false
 actor_id: "https://mylem.my/c/ai_anime_wallpapers"

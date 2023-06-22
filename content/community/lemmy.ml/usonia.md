@@ -3,7 +3,7 @@ title: "Usonia"
 name: "usonia"
 description: "# Usonia----Community dedicated to discuss everything related to Usonia. Its culture, its language, its politics and its people.----#### Rules:1. The use of the demonym American to designate people from the United States of America is prohibited, since it is considered pejorative for the rest of the people of the Americas.2. Add a flair in the title of every post.**List of flairs:**    [News] [Culture] [Discussion]    [Question] [Request] [Guide]"
 type: community
-date: "2023-06-21 14:56:12"
+date: "2023-06-22 02:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/usonia"

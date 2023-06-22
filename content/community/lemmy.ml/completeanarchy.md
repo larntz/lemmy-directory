@@ -3,14 +3,14 @@ title: " Anarchist Memes "
 name: "completeanarchy"
 description: "This forum is for anarchists to circlejerk and share zesty memes"
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/completeanarchy"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-06-02 17:04:14"
-subscribers: 369
+subscribers: 371
 posts: 39
 comments: 27
 weight: 39

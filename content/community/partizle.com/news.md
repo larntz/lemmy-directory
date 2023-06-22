@@ -3,7 +3,7 @@ title: "News"
 name: "news"
 description: "News and articles"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:51"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/news"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 16:29:57"
 published: "2023-06-07 15:22:28"
 subscribers: 56
 posts: 12
-comments: 32
+comments: 34
 weight: 12
 dau: 1
 wau: 12

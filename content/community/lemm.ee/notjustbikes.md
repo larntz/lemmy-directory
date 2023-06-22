@@ -3,7 +3,7 @@ title: "Urbanism"
 name: "notjustbikes"
 description: "Bikes, trains, pubs and safe cities made for people.The real Not Just Bikes community is !notjustbikes@lemmy.ml"
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/notjustbikes"

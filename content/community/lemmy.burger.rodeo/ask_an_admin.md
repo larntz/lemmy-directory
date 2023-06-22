@@ -3,7 +3,7 @@ title: "Ask An Admin"
 name: "ask_an_admin"
 description: "Have a question specifically for Burggit staff? This is for those.### Rules:- Follow Burggit rules.- Only post questions relating to Burggit and/or its operation. Troll, Joke or similar non-serious questions will not be answered and might be removed."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/ask_an_admin"

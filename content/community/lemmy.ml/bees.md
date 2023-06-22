@@ -3,7 +3,7 @@ title: "bees"
 name: "bees"
 description: "To bee or not to bee...This is a sublemmy about anything related to bees"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bees"

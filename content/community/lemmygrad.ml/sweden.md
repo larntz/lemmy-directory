@@ -3,7 +3,7 @@ title: "Sverige | Sweden"
 name: "sweden"
 description: "Välkommen!Här kan vi diskutera allt om Sverige, men framförallt arbetarklassens situation i landet."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sweden"

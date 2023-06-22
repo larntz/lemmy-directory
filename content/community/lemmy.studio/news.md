@@ -3,7 +3,7 @@ title: "News"
 name: "news"
 description: "Community for sharing music-related news: album releases, new software/hardware, concerts, etc."
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/news"

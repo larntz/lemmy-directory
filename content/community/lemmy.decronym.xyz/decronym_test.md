@@ -3,7 +3,7 @@ title: "Decronym Testbed"
 name: "decronym_test"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:22"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.decronym.xyz/c/decronym_test"

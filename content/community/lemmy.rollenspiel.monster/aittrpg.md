@@ -3,7 +3,7 @@ title: "AI TTRPG - KI generated Zeux für Pen und Paper"
 name: "aittrpg"
 description: "Ein Platz zum Vorstellen von AI generierten Charakterbildern, Szenen, Karten etc. zur freien (!) Verwendung in Pen und Paper-Rollenspielen. Zur Diskussion von Prompts, Hilfen zu Prompts etc.Jedwedes Lamentieren der Pferdedroschkenkutscher (AI ist keine Kunst, Skynet wird uns alle umbringen und ähnliches) wird nicht toleriert, Pfostierer*Innen entfernt.Be nice!"
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/aittrpg"

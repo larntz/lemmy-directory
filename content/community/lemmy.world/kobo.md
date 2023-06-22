@@ -3,7 +3,7 @@ title: "Kobo"
 name: "kobo"
 description: "This community is for everything Kobos related. Have questions before you buy a Kobo product or accessory? Want to know more about any of the products? Have news or tips to share? Join our friendly members.#**Rules**1. Posts should be about Kobos2. No Spam/Promotion/Self Promotion."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-22 02:21:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kobo"

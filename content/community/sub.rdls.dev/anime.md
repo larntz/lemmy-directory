@@ -3,7 +3,7 @@ title: "Anime"
 name: "anime"
 description: "Tópico voltado a discussões sobre anime"
 type: community
-date: "2023-06-21 14:54:22"
+date: "2023-06-22 02:20:12"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/anime"

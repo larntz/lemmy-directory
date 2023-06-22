@@ -3,7 +3,7 @@ title: "IT Tavern .com"
 name: "ittavern"
 description: "Work in progress."
 type: community
-date: "2023-06-21 14:53:51"
+date: "2023-06-22 02:19:39"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ittavern"

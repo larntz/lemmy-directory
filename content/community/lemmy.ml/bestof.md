@@ -3,7 +3,7 @@ title: "Best Of Lemmy"
 name: "bestof"
 description: "The very best posts and comments on Lemmy as submitted by the users of Lemmy."
 type: community
-date: "2023-06-21 14:56:05"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestof"

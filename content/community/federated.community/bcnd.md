@@ -3,7 +3,7 @@ title: "Bad Cop, No Donut!"
 name: "bcnd"
 description: "Inspired by the Reddit community of the same name, though we have no affiliation."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://federated.community/c/bcnd"

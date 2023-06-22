@@ -3,7 +3,7 @@ title: "Australian Socialism"
 name: "australiansocialism"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/australiansocialism"

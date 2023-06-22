@@ -3,7 +3,7 @@ title: "Korpo"
 name: "korpo"
 description: "Die Korpo-Community ist eine lebhafte und engagierte Gemeinschaft aus Verbindungsstudenten. Hier tauschen Korporierte aus verschiedenen Hochschulen Ideen, Erfahrungen und Neuigkeiten aus, diskutieren über studentische Belange und organisieren gemeinsame Veranstaltungen. Die Community fördert ein offenes und respektvolles Miteinander und bietet den Mitgliedern eine Plattform, um sich in einem vertrauten Umfeld zu vernetzen und auszutauschen."
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/korpo"

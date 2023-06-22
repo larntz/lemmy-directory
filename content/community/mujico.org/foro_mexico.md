@@ -3,7 +3,7 @@ title: "Foro_México"
 name: "foro_mexico"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:39"
+date: "2023-06-22 02:19:28"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/foro_mexico"
@@ -15,8 +15,8 @@ posts: 155
 comments: 171
 weight: 155
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "mujico_org"
 tags: 

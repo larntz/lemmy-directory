@@ -3,7 +3,7 @@ title: "Forth Programming"
 name: "forth"
 description: "**Forth** is a procedural, stack-oriented programming language and interactive environment designed by *Charles H. Chuck Moore* and first used by other programmers in 1970. (Wikipedia)"
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/forth"

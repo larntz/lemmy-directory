@@ -3,7 +3,7 @@ title: "Accelerationism"
 name: "accelerationism"
 description: "Left wing accelerationism room for theory discussion, right wing accelerationism discussion is alowed but not endorsed. Any type of leftist people are welcome, nazis, neoliberals, neoreactionaries and the like get out.We also have a [Matrix](#lacc:matrix.org) and [Telegram](t.me/LeftAcc) groups!"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/accelerationism"

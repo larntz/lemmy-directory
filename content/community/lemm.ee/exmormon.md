@@ -3,7 +3,7 @@ title: "exmormon"
 name: "exmormon"
 description: "For those that left, are considering leaving or those who are interested in exMormonism."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/exmormon"

@@ -3,7 +3,7 @@ title: "Canadian sales for computer hardware"
 name: "bapcsales"
 description: "Canadian sale subreddit for your PC needs. Deals on monitors, cables, processors, video cards, fans, cooling, cases, accessories, anything for a PC build."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bapcsales"

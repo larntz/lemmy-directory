@@ -3,14 +3,14 @@ title: "Game Deals"
 name: "deals"
 description: "Post amazing deals here, digital or physical."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/deals"
 host: preserve.games
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 00:00:24"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

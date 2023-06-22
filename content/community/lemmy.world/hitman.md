@@ -3,7 +3,7 @@ title: "HITMAN"
 name: "hitman"
 description: "c/Hitman - The Lemmy Community the IO Interactive Hitman Franchise, including Hitman 1, 2, 3, and World of Assassination."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hitman"

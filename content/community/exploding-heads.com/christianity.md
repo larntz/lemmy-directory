@@ -3,7 +3,7 @@ title: "Christianity"
 name: "christianity"
 description: "For Christianity related posts and discussion. "
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/christianity"

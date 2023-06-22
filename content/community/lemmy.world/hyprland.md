@@ -3,7 +3,7 @@ title: "Hyprland Desktop Environment"
 name: "hyprland"
 description: "An (unnoficial) Hyprland Community in the new Land!                You can share and help each other when using Hyprland here.. :)         **Resources**:- [What is Hyprland](https://wiki.archlinux.org/title/Hyprland)- [Wiki](https://wiki.hyprland.org/)- [FAQ](https://wiki.hyprland.org/FAQ/)- [Official Ricing Field](https://hyprland.org/rices)- [Github](https://github.com/hyprwm/Hyprland/)"
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hyprland"

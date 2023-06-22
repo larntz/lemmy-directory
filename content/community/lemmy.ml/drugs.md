@@ -3,7 +3,7 @@ title: "Drugs"
 name: "drugs"
 description: "Community related to any kind of drug consumption. Feel free to ask if you have any doubts or are looking for advice and or information regarding some subject, or simply share your experiences."
 type: community
-date: "2023-06-21 14:56:14"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/drugs"

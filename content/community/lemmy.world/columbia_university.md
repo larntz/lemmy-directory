@@ -3,7 +3,7 @@ title: "Columbia University"
 name: "columbia_university"
 description: "An inclusive community for anyone interested or associated with Columbia University. Current and former students, employees, faculty, and friends are all welcome! "
 type: community
-date: "2023-06-21 14:55:55"
+date: "2023-06-22 02:21:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/columbia_university"

@@ -3,14 +3,14 @@ title: "Leftist Infighting"
 name: "leftistinfighting"
 description: "This is a safe space to call each other tankies and libs."
 type: community
-date: "2023-06-21 14:56:11"
+date: "2023-06-22 02:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftistinfighting"
 host: lemmy.ml
 lastmod: "2023-06-02 22:31:05"
 published: "2023-06-02 22:25:34"
-subscribers: 70
+subscribers: 72
 posts: 6
 comments: 76
 weight: 6

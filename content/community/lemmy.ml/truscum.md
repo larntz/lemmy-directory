@@ -3,7 +3,7 @@ title: "truscum"
 name: "truscum"
 description: "Tired of people misrepresenting your medical condition? Is said medical condition gender dysphoria? Your not alone! You’re in the right place. "
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/truscum"

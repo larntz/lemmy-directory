@@ -1,22 +1,22 @@
 ---
 title: "Cremposting" 
 name: "cremposting"
-description: "1. Be kind. No hate, bigotry, rudeness, etc. will be tolerated.2. Put the spoiler scope in your post title and follow the scope at all times.3. No self promotion4. Mark posts as [OC] if you made it or credit the maker if you know who it is.5. No off-topic posts. This includes real-world religious and political posts. Please stick to Cosmere-related crem.6. No links to piracy websites or tools and no direct downloads to copyrighted material."
+description: "Description not available."
 type: community
-date: "2023-06-16 22:56:14"
+date: "2023-06-22 02:20:02"
 draft: false
 nsfw: false
-actor_id: "https://dev.lemmy.sffa.community/c/cremposting"
+actor_id: "https://sffa.community/c/cremposting"
 host: sffa.community
 lastmod: "1969-12-31 19:00:00"
-published: "2023-06-14 23:37:34"
+published: "2023-06-21 21:22:46"
 subscribers: 3
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "sffa_community"
 tags: 

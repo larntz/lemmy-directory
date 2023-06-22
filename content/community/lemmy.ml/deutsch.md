@@ -3,7 +3,7 @@ title: "deutschsprachige Angelegenheiten"
 name: "deutsch"
 description: "Sammelbecken für alle deutschsprachigen Inhalte. Bitte seid nett zueinander und postet keine illegalen oder verstörenden Inhalte."
 type: community
-date: "2023-06-21 14:56:15"
+date: "2023-06-22 02:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deutsch"

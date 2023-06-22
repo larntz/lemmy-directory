@@ -3,7 +3,7 @@ title: "The meanings of OSS names"
 name: "ossnames"
 description: "There are many names in the OSS world that have an actual meaning, but those of us whose first language is not English may not realise this. Let's put together some of the most common with explanations."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ossnames"

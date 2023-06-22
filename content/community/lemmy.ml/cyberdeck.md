@@ -3,7 +3,7 @@ title: "CyberDeck"
 name: "cyberdeck"
 description: "Hey y'all, just an experiment, if it works out I'll clean it up and run it"
 type: community
-date: "2023-06-21 14:56:07"
+date: "2023-06-22 02:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cyberdeck"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2022-02-26 00:46:46"
 subscribers: 33
-posts: 2
-comments: 6
-weight: 2
+posts: 3
+comments: 7
+weight: 3
 dau: 1
 wau: 2
 mau: 4

@@ -3,14 +3,14 @@ title: "I only need two buttons, CTRL-C + CTRL-V"
 name: "copypasta"
 description: "This community was made to archive copypasta."
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copypasta"
 host: lemmy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-02-18 01:57:15"
-subscribers: 138
+subscribers: 139
 posts: 39
 comments: 18
 weight: 39

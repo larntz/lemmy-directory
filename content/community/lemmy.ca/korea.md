@@ -3,7 +3,7 @@ title: "Korea"
 name: "korea"
 description: "Discussing everything about South Korea"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/korea"
@@ -15,7 +15,7 @@ posts: 4
 comments: 2
 weight: 4
 dau: 2
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_ca"

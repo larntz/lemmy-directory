@@ -3,7 +3,7 @@ title: "The Grid"
 name: "tron"
 description: "Greetings programs and users! Welcome to The Grid!Discussion of all things related to the Disney franchise. From the '82 classic, to 2010's Legacy, Uprising, and all other goings on The Grid has to offer! Rules:- Keep discussions related to the Tron franchise- Be civil, don't be a jerk- No NSFW content/art- No discussions about the crypto of the same name"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tron"
@@ -14,7 +14,7 @@ subscribers: 14
 posts: 3
 comments: 7
 weight: 3
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:

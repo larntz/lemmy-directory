@@ -3,7 +3,7 @@ title: "Brasil"
 name: "brasil"
 description: "Comunidade para conversar sobre coisas do Brasil e Brasileiros"
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/brasil"
@@ -15,7 +15,7 @@ posts: 3
 comments: 8
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "iusearchlinux_fyi"

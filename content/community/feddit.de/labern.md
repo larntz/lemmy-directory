@@ -3,7 +3,7 @@ title: "labern"
 name: "labern"
 description: "Für Menschen, die einfach labern wollen. "
 type: community
-date: "2023-06-21 14:54:35"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/labern"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 1
 comments: 7
 weight: 1
-dau: 3
+dau: 1
 wau: 7
 mau: 7
 instances:

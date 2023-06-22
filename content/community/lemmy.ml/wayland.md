@@ -3,7 +3,7 @@ title: "Wayland"
 name: "wayland"
 description: "# !WaylandAnything to do about Wayland and things built around it.## Related Communities- [!swaywm@lemmy.ml](https://lemmy.ml/c/swaywm)- [!linux@lemmy.ml](https://lemmy.ml/c/linux)- [!opensource@lemmy.ml](https://lemmy.ml/c/opensource)- [!unixporn@lemmy.ml](https://lemmy.ml/c/unixporn)"
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wayland"

@@ -3,17 +3,17 @@ title: "NSFW Hardcore"
 name: "nsfwhardcore"
 description: "Hardcore Porn for Everyone"
 type: community
-date: "2023-06-21 14:54:45"
+date: "2023-06-22 02:20:37"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfwhardcore"
 host: lemmynsfw.com
 lastmod: "2023-06-19 05:36:20"
 published: "2023-06-19 05:22:27"
-subscribers: 55
-posts: 4
+subscribers: 70
+posts: 9
 comments: 0
-weight: 4
+weight: 9
 dau: 1
 wau: 1
 mau: 1

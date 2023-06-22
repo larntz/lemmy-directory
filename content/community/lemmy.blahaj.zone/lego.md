@@ -3,14 +3,14 @@ title: "LEGO"
 name: "lego"
 description: "Reports, news, pics, videos, discussions, content, and more from a bricked world."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lego"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 15:22:11"
-subscribers: 48
+subscribers: 49
 posts: 2
 comments: 13
 weight: 2

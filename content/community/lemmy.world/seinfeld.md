@@ -3,20 +3,20 @@ title: "Seinfeld"
 name: "seinfeld"
 description: "A Lemmy about nothing."
 type: community
-date: "2023-06-16 22:57:15"
+date: "2023-06-22 02:21:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seinfeld"
 host: lemmy.world
 lastmod: "2023-06-11 12:29:45"
 published: "2023-06-11 12:26:34"
-subscribers: 192
-posts: 4
-comments: 11
-weight: 4
-dau: 3
-wau: 13
-mau: 13
+subscribers: 300
+posts: 6
+comments: 19
+weight: 6
+dau: 1
+wau: 11
+mau: 23
 instances:
 - "lemmy_world"
 tags: 

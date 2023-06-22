@@ -3,7 +3,7 @@ title: "MinimalWallpaper"
 name: "minimalwallpaper"
 description: "Wallpapers that have a simple and minimalist design. "
 type: community
-date: "2023-06-21 14:56:18"
+date: "2023-06-22 02:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minimalwallpaper"

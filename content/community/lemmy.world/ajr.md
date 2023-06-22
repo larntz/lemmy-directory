@@ -3,7 +3,7 @@ title: "AJR"
 name: "ajr"
 description: "AJR is an American indie pop trio composed of multi-instrumentalist brothers Adam, Jack, and Ryan Metzger (usually shortened as Met).[1] Their most successful songs include I'm Ready, Sober Up, Burn the House Down, Way Less Sad, 100 Bad Days, Weak, World's Smallest Violin, and Bang!.[2][3] In 2019, their third album Neotheater debuted at number 8 on the Billboard 200,[4] and hit number one on the Official Top Rock Albums chart.[4] Bang! is their highest-charting song and only song to reach the top 10 in the United States, peaking at number 8 on the Billboard Hot 100 on January 20, 2021.[5]"
 type: community
-date: "2023-06-21 14:55:53"
+date: "2023-06-22 02:21:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ajr"

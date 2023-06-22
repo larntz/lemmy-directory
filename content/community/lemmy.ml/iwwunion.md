@@ -3,7 +3,7 @@ title: "IWW and syndicalism"
 name: "iwwunion"
 description: "Community for union related stuff, with focus on the IWW.A good telegram group to join (I do not own it, I don't take responsibility for what you'll find there):https://t.me/AnarchoSyndicat"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iwwunion"

@@ -3,7 +3,7 @@ title: "IPTV"
 name: "iptv"
 description: "To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere. No promotion of paid services."
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iptv"

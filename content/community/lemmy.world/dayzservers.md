@@ -3,7 +3,7 @@ title: "DayZServers"
 name: "dayzservers"
 description: "Share & Advertise PC & Console DayZ servers here"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dayzservers"

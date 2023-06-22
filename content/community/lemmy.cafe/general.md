@@ -3,14 +3,14 @@ title: "General Lemmy.Cafe"
 name: "general"
 description: "General site"
 type: community
-date: "2023-06-21 14:54:12"
+date: "2023-06-22 02:20:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/general"
 host: lemmy.cafe
 lastmod: "2023-06-10 20:35:47"
 published: "2023-06-10 20:17:04"
-subscribers: 22
+subscribers: 24
 posts: 10
 comments: 10
 weight: 10

@@ -3,7 +3,7 @@ title: "reluctantstraightman"
 name: "reluctantstraightman"
 description: "Erotic stories by u/reluctantstraightmanLinks: [Patreon](https://www.patreon.com/reluctantman)[Substack](https://reluctantman.substack.com/)"
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-22 02:20:38"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/reluctantstraightman"
@@ -15,7 +15,7 @@ posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmynsfw_com"

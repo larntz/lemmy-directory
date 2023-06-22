@@ -3,7 +3,7 @@ title: "Crypto - Chainlink (LINK)"
 name: "chainlink"
 description: "Chainlink greatly expands the capabilities of smart contracts by enabling access to real-world data and off-chain computation while maintaining the security and reliability guarantees inherent to blockchain technology.[Website](https://chain.link/)[Whitepaper](https://chain.link/whitepaper)"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:24"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/chainlink"

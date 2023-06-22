@@ -3,7 +3,7 @@ title: "Shoegaze"
 name: "shoegaze"
 description: "A place for us to talk about shoegaze or any related genre**Other related communities**[indieheads](https://lemmy.ml/c/indieheads)[emo](https://lemmy.ml/c/emo)"
 type: community
-date: "2023-06-21 14:54:29"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/shoegaze"

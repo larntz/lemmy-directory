@@ -3,7 +3,7 @@ title: "mushroom hunting, fungi, myco-porn, cultivation"
 name: "mycology"
 description: "for the love of fungi :: hunting, foraging, cultivation, images( mycoporn ), research, questions & general discussion"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mycology"

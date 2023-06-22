@@ -3,7 +3,7 @@ title: "fediversal recipes"
 name: "recipes"
 description: "recipes"
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/recipes"

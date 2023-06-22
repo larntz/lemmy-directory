@@ -3,7 +3,7 @@ title: "Wikifactory Community"
 name: "wikifactory"
 description: "Wikifactory integrates **Collaborative CAD Visualization**, **Product Data Management**, and **On-demand Manufacturing**. It breaks down collaboration barriers, reduces time-to-market, and **enables real-time collaboration without required setup or training**. This community is a safe space to discuss, solve doubts, share experiences, and **everything related to Wikifactory.**"
 type: community
-date: "2023-06-21 14:55:53"
+date: "2023-06-22 02:21:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wikifactory"

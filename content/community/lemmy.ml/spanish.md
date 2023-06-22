@@ -3,7 +3,7 @@ title: "spanish"
 name: "spanish"
 description: "A community dedicated to discussing, teaching and learning Spanish"
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spanish"

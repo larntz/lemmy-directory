@@ -3,7 +3,7 @@ title: "Alternate Reality Games"
 name: "arg"
 description: "Welcome! This is the place for posting about alternate reality games!"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arg"

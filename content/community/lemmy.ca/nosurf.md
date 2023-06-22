@@ -3,7 +3,7 @@ title: "No surf"
 name: "nosurf"
 description: "We spend too much time on our phones/computers/tvs/things with CPUs and want to change thathttps://nosurf.net/activity-list/"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/nosurf"
@@ -15,8 +15,8 @@ posts: 5
 comments: 10
 weight: 5
 dau: 1
-wau: 2
-mau: 3
+wau: 3
+mau: 5
 instances:
 - "lemmy_ca"
 tags: 

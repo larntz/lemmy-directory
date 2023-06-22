@@ -3,7 +3,7 @@ title: "Transformation SFW"
 name: "transformation_sfw"
 description: "A community for Safe-For-Work TF art!"
 type: community
-date: "2023-06-21 14:53:52"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/transformation_sfw"
@@ -14,8 +14,8 @@ subscribers: 56
 posts: 17
 comments: 6
 weight: 17
-dau: 2
-wau: 6
+dau: 1
+wau: 4
 mau: 7
 instances:
 - "pawb_social"

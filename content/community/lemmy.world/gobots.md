@@ -3,7 +3,7 @@ title: "Gobots"
 name: "gobots"
 description: "Connect with fellow Gobots fans and share news, articles, information, and trivia about Gobots. The true originals!Rules: 1. Be courteous and respectful. 2. Keep it family friendly (G/PG). 3. No links to illegal or infringing material."
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gobots"

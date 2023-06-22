@@ -3,7 +3,7 @@ title: "Smart-Home"
 name: "smarthome"
 description: "Alles zur Heimautomatisierung::: spoiler AttributionSmarthome icons created by [srip - Flaticon](https://www.flaticon.com/free-icons/smarthome):::"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/smarthome"

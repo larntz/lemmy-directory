@@ -3,20 +3,20 @@ title: "Light Novel - Ascendance of a Bookworm"
 name: "aoblightnovel"
 description: "**Navigation Links:**- [Web Novel](/c/aobwebnovel@bookwormstory.social)- [PrePub](/c/aobprepub@bookwormstory.social)- **Light Novel**- [Manga](/c/aobmanga@bookwormstory.social)- [Anime](/c/aobanime@bookwormstory.social)A place to discuss anything regarding the Light Novel 'Ascendance of a Bookworm' or its Pre-Pub chapter releases::: spoiler  synonyms  - Ascendance of a Bookworm - Honzuki no Gekokujou - 『本好きの下剋上』:::"
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:07"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/aoblightnovel"
 host: bookwormstory.social
 lastmod: "2023-06-17 11:42:04"
 published: "2023-06-12 18:45:17"
-subscribers: 57
+subscribers: 63
 posts: 23
-comments: 58
+comments: 60
 weight: 23
-dau: 1
+dau: 2
 wau: 8
-mau: 15
+mau: 16
 instances:
 - "bookwormstory_social"
 tags: 

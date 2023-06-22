@@ -3,7 +3,7 @@ title: "Barcelona"
 name: "barcelona"
 description: "Una comunitat per a persones que viuen a Barcelona i visiten aquesta bonica ciutat. Una comunidad para personas que viven en Barcelona y visitan esta hermosa ciudad."
 type: community
-date: "2023-06-21 14:54:04"
+date: "2023-06-22 02:19:55"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/barcelona"

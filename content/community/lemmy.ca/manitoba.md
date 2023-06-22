@@ -3,7 +3,7 @@ title: "Manitoba"
 name: "manitoba"
 description: "This is a placeholder. If you would like to run this community, please let me know! I'm happy to help out in the meantimeImage credits:* https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/manitoba.html"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/manitoba"
@@ -15,8 +15,8 @@ posts: 3
 comments: 9
 weight: 3
 dau: 3
-wau: 3
-mau: 3
+wau: 9
+mau: 9
 instances:
 - "lemmy_ca"
 tags: 

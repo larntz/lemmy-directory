@@ -3,7 +3,7 @@ title: "Latino Marxista"
 name: "latino_marxista"
 description: "Comunidad marxista leninista latina creada por la falta de material comunista en español. Repositorio de posts de calidad, discusión, noticias, memes y cualquier material que pueda aportar para el conocimiento y la acción comunista. *Reglas* 1.-  Contenido principalmente en **español**. O português brasileiro também é bem-vindo. Si es portuñol, melhor aún.2.- Sólo posts marxistas leninistas o maoístas"
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/latino_marxista"

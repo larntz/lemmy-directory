@@ -3,7 +3,7 @@ title: "Sovereignty "
 name: "sovereignty"
 description: "A space to discuss ways to build social bonds without sacrificing individual freedom. Privacy, food sovereignty, self hosting, cash, and all manner of individual sovereign practices. "
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/sovereignty"

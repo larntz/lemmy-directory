@@ -3,7 +3,7 @@ title: "Nuzlocke"
 name: "nuzlocke"
 description: "The Nuzlocke Challenge is a set of self-imposed rules designed to make your typical Pokemon playthrough more challenging. Share your stories, playthroughs, and nuzlocke-related discussions here!"
 type: community
-date: "2023-06-21 14:55:54"
+date: "2023-06-22 02:21:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nuzlocke"
@@ -14,7 +14,7 @@ subscribers: 18
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

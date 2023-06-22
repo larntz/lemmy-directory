@@ -3,7 +3,7 @@ title: "Learn To Program"
 name: "learntoprogram"
 description: "Tips, tricks and general support to help you get started programming!"
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learntoprogram"

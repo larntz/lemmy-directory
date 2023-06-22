@@ -1,16 +1,16 @@
 ---
 title: "SOTA" 
 name: "sota"
-description: "Community to discuss Summits on the Air"
+description: "Community to discuss Summits on the Air### Useful Links- [SOTA Home](https://www.sota.org.uk/)- [SOTA Watch](https://sotawatch.sota.org.uk/en/)- [SOTA Maps](https://www.sotamaps.org/)- [SOTA Atlas](https://sotl.as/alerts)"
 type: community
-date: "2023-06-21 14:54:17"
+date: "2023-06-22 02:20:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/sota"
 host: lemmy.radio
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 16:29:09"
 published: "2023-06-12 19:25:42"
-subscribers: 18
+subscribers: 22
 posts: 2
 comments: 4
 weight: 2

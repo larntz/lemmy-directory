@@ -3,7 +3,7 @@ title: "General Chat"
 name: "general"
 description: "General chat, not relating to a more specific community."
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/general"

@@ -3,7 +3,7 @@ title: "Avant Garde / Left-field Music"
 name: "avantgardemusic"
 description: "A community for sharing & discussing any kind of left-field/avant-garde music."
 type: community
-date: "2023-06-21 14:56:09"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/avantgardemusic"

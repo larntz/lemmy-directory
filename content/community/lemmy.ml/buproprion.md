@@ -3,7 +3,7 @@ title: "Buproprion"
 name: "buproprion"
 description: "A place to discuss the medication Buproprion (Wellbutrin)"
 type: community
-date: "2023-06-21 14:56:06"
+date: "2023-06-22 02:21:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buproprion"

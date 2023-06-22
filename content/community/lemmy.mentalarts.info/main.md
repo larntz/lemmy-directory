@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-21 14:53:37"
+date: "2023-06-22 02:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mentalarts.info/c/main"

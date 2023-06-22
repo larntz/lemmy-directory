@@ -3,7 +3,7 @@ title: "Uranium Glass"
 name: "uraniumglass"
 description: "A community for collectors of uranium glass (and other types of glowing glass too!)"
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/uraniumglass"
@@ -15,8 +15,8 @@ posts: 6
 comments: 19
 weight: 6
 dau: 1
-wau: 8
-mau: 9
+wau: 4
+mau: 10
 instances:
 - "lemmy_villa-straylight_social"
 tags: 

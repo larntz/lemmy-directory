@@ -3,7 +3,7 @@ title: "Buddhism"
 name: "buddhism"
 description: "A community dedicated to buddhism.Be civilWe welcome religious & secular buddhists."
 type: community
-date: "2023-06-21 14:53:52"
+date: "2023-06-22 02:19:41"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/buddhism"

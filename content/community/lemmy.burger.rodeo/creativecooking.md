@@ -3,7 +3,7 @@ title: "Creative Cooking"
 name: "creativecooking"
 description: "A place to post videos, pictures, recipes or other things relating to creative cooking.Did you have a limited number of items in your fridge and wanted to see what you could do with them?Did you just want to experiment with an interesting idea you had?Or did you perhaps want to try cooking on a severely crippled budget?Regardless of the reason, that's what this community is for! Fun recipes/experiments involving food!**Meant for genuine posts, meme posts will be removed.**"
 type: community
-date: "2023-06-21 14:54:26"
+date: "2023-06-22 02:20:16"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/creativecooking"
@@ -15,7 +15,7 @@ posts: 11
 comments: 14
 weight: 11
 dau: 1
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "lemmy_burger_rodeo"

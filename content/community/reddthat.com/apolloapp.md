@@ -3,7 +3,7 @@ title: "Apollo - A beautiful app built for power and speed."
 name: "apolloapp"
 description: "Since many of us are trying to avoid giving reddit any traffic, this space can be used to discuss Apollo, our dreams of seeing it join the Fediverse, and to give our appreciation to @christianselig@mastodon.social for his incredible work."
 type: community
-date: "2023-06-21 14:53:59"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/apolloapp"

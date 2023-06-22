@@ -3,7 +3,7 @@ title: "Good Vibes Only"
 name: "goodvibesonly"
 description: "Only post positive things. From your life (ex achievements), news, etc. We have centrists here, so positives shouldn't be like biden dies from a heart attack. But it can be like china cures cancer or starbucks workers unionize raising their pay"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/goodvibesonly"

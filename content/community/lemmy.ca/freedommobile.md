@@ -3,7 +3,7 @@ title: "Freedom Mobile"
 name: "freedommobile"
 description: "All things Freedom Mobile, remember to never give out any personal information. "
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/freedommobile"

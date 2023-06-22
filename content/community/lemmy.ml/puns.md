@@ -3,14 +3,14 @@ title: "Puns"
 name: "puns"
 description: "You notice there's no Grizzleys on this community? - They can't Bear puns.Your worst puns. Drop them here and run for your life.Higher forms of word-play belong at lemmy.ml/c/wordplay"
 type: community
-date: "2023-06-21 14:56:08"
+date: "2023-06-22 02:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puns"
 host: lemmy.ml
 lastmod: "2022-04-17 10:13:21"
 published: "2022-02-10 09:56:59"
-subscribers: 68
+subscribers: 69
 posts: 10
 comments: 6
 weight: 10

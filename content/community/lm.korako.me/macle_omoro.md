@@ -3,7 +3,7 @@ title: "まくる的に面白かったものメモ"
 name: "macle_omoro"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:53:40"
+date: "2023-06-22 02:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/macle_omoro"

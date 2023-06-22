@@ -3,7 +3,7 @@ title: "India"
 name: "india"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/india"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 2
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_fmhy_ml"

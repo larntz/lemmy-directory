@@ -3,7 +3,7 @@ title: "Memes"
 name: "memes"
 description: "![](https://lemmy.studio/pictrs/image/5a257f43-75a8-4cac-a449-bef05dc5cc16.jpeg)"
 type: community
-date: "2023-06-21 14:53:55"
+date: "2023-06-22 02:19:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/memes"

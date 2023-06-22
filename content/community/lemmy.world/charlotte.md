@@ -3,7 +3,7 @@ title: "Charlotte"
 name: "charlotte"
 description: "Charlotte, NC, USA[Events](https://www.charlottesgotalot.com/events)[Transit](https://www.charlottenc.gov/CATS/Bus/Mobile-Apps)[City Government](https://www.charlottenc.gov/Home) "
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-22 02:21:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/charlotte"

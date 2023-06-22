@@ -3,14 +3,14 @@ title: "Map collection"
 name: "mapcollection"
 description: "A community to share your maps and data visualizations"
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-22 02:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mapcollection"
 host: lemmy.ml
 lastmod: "2023-03-01 21:09:08"
 published: "2023-03-01 20:40:15"
-subscribers: 8
+subscribers: 9
 posts: 3
 comments: 0
 weight: 3

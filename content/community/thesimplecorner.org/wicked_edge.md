@@ -3,7 +3,7 @@ title: "Wicked Edge - A community for Shaving Enthusiasts!"
 name: "wicked_edge"
 description: "A community for shaving enthusiasts! Safety razors or straight edge. "
 type: community
-date: "2023-06-21 14:54:09"
+date: "2023-06-22 02:19:59"
 draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/wicked_edge"

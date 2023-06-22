@@ -3,14 +3,14 @@ title: "Bagpipes"
 name: "bagpipes"
 description: "All about bagpipes. "
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-22 02:21:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bagpipes"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 22:12:28"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

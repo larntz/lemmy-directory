@@ -3,7 +3,7 @@ title: "AskGayBros"
 name: "askgaybros"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:02"
+date: "2023-06-22 02:19:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cock.social/c/askgaybros"
@@ -15,7 +15,7 @@ posts: 1
 comments: 11
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_cock_social"

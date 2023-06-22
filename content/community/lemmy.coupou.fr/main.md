@@ -3,7 +3,7 @@ title: "Communauté principale Lemmy Coupou.fr"
 name: "main"
 description: "Communauté principale"
 type: community
-date: "2023-06-21 14:54:24"
+date: "2023-06-22 02:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coupou.fr/c/main"

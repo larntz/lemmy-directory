@@ -3,7 +3,7 @@ title: "Euroskeptics of Lemmygrad"
 name: "euroskeptics"
 description: "A one-stop-shop for any and all critics of the imperialist and neoliberal European UnionThis is an explicit **Hard Euroskeptic** community."
 type: community
-date: "2023-06-21 14:54:05"
+date: "2023-06-22 02:19:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/euroskeptics"

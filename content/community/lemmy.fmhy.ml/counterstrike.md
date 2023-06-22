@@ -3,14 +3,14 @@ title: "counter strike"
 name: "counterstrike"
 description: "**RULES: don't be bad**"
 type: community
-date: "2023-06-21 14:54:00"
+date: "2023-06-22 02:19:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/counterstrike"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-12 21:06:03"
 published: "2023-06-12 20:57:45"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

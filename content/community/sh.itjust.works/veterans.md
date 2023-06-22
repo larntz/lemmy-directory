@@ -3,7 +3,7 @@ title: "Veterans"
 name: "veterans"
 description: "A community for US Veterans to discuss Veteran issues, support, benefits etc."
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-22 02:19:52"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/veterans"

@@ -3,7 +3,7 @@ title: "Spikes"
 name: "competitive"
 description: "**Community for competitive Magic players**Discussion in this community should be focused on the competitive aspects of the game and playing to win. Tournaments, deck optimizations, data from gameplay, sideboard guides, and other competitive play topics are all welcome!"
 type: community
-date: "2023-06-21 14:54:11"
+date: "2023-06-22 02:20:00"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/competitive"

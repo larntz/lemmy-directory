@@ -3,14 +3,14 @@ title: "600euro"
 name: "600euro"
 description: "Unwahre Erzählungen"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/600euro"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 11:47:14"
-subscribers: 185
+subscribers: 189
 posts: 4
 comments: 32
 weight: 4

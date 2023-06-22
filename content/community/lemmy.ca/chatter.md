@@ -3,7 +3,7 @@ title: "Chatter"
 name: "chatter"
 description: "Chitchat about anything"
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/chatter"
@@ -15,7 +15,7 @@ posts: 6
 comments: 6
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "lemmy_ca"

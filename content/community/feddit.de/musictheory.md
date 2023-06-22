@@ -3,7 +3,7 @@ title: "Music Theory"
 name: "musictheory"
 description: "A place to discuss and answer questions about music theory. All instruments are welcome, no question is stupid!"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 02:20:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/musictheory"
@@ -15,7 +15,7 @@ posts: 2
 comments: 13
 weight: 2
 dau: 1
-wau: 6
+wau: 5
 mau: 8
 instances:
 - "feddit_de"

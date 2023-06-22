@@ -3,7 +3,7 @@ title: "Technologia"
 name: "technologia"
 description: "Społeczność poświęcona technologiom wszelakim, i dyskusji o nichCzy jesteś entuzjastą najnowszych dokonań w świecie smartfonów, pececiarzem musztardowej rasy czy miłośnikiem newsów o kolejnej płonącej Tesli, zapraszamy!"
 type: community
-date: "2023-06-21 14:54:28"
+date: "2023-06-22 02:20:19"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/technologia"

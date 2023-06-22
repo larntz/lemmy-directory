@@ -3,7 +3,7 @@ title: "Men's Liberation"
 name: "mensliberation"
 description: "Men at the top of society enforce a system (patriarchy) that ends up repressing the average man. [Ex](https://lemmy.ca/post/152500)We're like men's right groups, but without the misogyny."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-22 02:20:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mensliberation"

@@ -3,7 +3,7 @@ title: "Carbon Dioxide Removal (CDR)"
 name: "cdr"
 description: "CDR is removal of CO2 from the atmosphere - an essential basket of technologies for achieving UN IPCC best outcomes to mitigate climate change. This is a community for discussing advances and issues of CDR."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-22 02:20:14"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/cdr"
