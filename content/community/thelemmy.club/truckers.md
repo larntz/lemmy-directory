@@ -3,7 +3,7 @@ title: "Truckers"
 name: "truckers"
 description: "A community for all that drive as a career.Rules:1. Don’t come here to complain about some common trucker behaviour. We probably hate it as much as you.2. Be respectful."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/truckers"
@@ -15,7 +15,7 @@ posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "thelemmy_club"

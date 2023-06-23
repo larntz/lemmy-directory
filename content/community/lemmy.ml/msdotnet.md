@@ -3,12 +3,12 @@ title: "Microsoft .NET Community"
 name: "msdotnet"
 description: "The community for .NET programmers.[.NET Website](https://dotnet.microsoft.com/)"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/msdotnet"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-10-29 15:20:46"
 subscribers: 30
 posts: 23

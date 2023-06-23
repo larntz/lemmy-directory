@@ -3,14 +3,14 @@ title: "DMR"
 name: "dmr"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/dmr"
 host: lemmy.radio
 lastmod: "2023-06-12 18:49:52"
 published: "2023-06-12 13:47:50"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

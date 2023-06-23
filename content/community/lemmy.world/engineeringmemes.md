@@ -3,14 +3,14 @@ title: "Engineering Memes"
 name: "engineeringmemes"
 description: "Memes about engineering for all disciplines.Rules:- No hate speech- No harassment, calls to violence"
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/engineeringmemes"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 13:18:13"
-subscribers: 62
+subscribers: 72
 posts: 5
 comments: 3
 weight: 5

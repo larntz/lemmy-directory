@@ -3,7 +3,7 @@ title: "Arizona Guns"
 name: "azguns"
 description: "Community for gun stuff in Arizona"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/azguns"

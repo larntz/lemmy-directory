@@ -3,7 +3,7 @@ title: "schizoaffective"
 name: "schizoaffective"
 description: "A community for those with psychosis and a mood disorder. Family, friend, supporters, medical professionals, and even those just interested in the disorder are welcome."
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/schizoaffective"

@@ -3,14 +3,14 @@ title: "The Rimkus Community"
 name: "main"
 description: "Community Corner for the Rimkus Clan"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rimkus.it/c/main"
 host: lemmy.rimkus.it
 lastmod: "2022-07-03 12:54:48"
 published: "2022-07-03 12:53:27"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

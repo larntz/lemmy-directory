@@ -3,14 +3,14 @@ title: "灵异世界"
 name: "main"
 description: "一切灵异玄学话题"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/main"
 host: bbs.darkwitch.net
 lastmod: "2023-05-06 13:33:29"
 published: "2023-04-25 20:56:17"
-subscribers: 9
+subscribers: 13
 posts: 7
 comments: 7
 weight: 7

@@ -3,20 +3,20 @@ title: "Games"
 name: "games"
 description: "Discussion for all kinds of games. Tabletop games, video games, card games etc.Rules:1. Mark NSFW2. No spoilers"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/games"
 host: lemmy.world
 lastmod: "2023-06-11 05:56:19"
 published: "2023-06-11 05:51:51"
-subscribers: 3028
-posts: 45
-comments: 246
-weight: 45
-dau: 79
-wau: 150
-mau: 194
+subscribers: 3388
+posts: 49
+comments: 328
+weight: 49
+dau: 64
+wau: 183
+mau: 243
 instances:
 - "lemmy_world"
 tags: 

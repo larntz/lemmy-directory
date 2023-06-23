@@ -3,7 +3,7 @@ title: "Ich bin lustig!"
 name: "ichbinlustig"
 description: "Unlustige Witze, so wie dieses ichbin40undlustig früher. Bitte keinen ichbin40undrechts Content posten."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ichbinlustig"

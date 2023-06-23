@@ -3,14 +3,14 @@ title: "Lab rats"
 name: "labrats"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/labrats"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 17:04:00"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

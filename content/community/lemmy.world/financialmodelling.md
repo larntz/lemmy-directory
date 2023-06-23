@@ -3,14 +3,14 @@ title: "Financial Modelling"
 name: "financialmodelling"
 description: "This community aims to help the financial modelling industry mature by sharing and discussing ideas and practices."
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/financialmodelling"
 host: lemmy.world
 lastmod: "2023-06-17 15:44:50"
 published: "2023-06-17 15:30:45"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1

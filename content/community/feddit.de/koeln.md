@@ -3,14 +3,14 @@ title: "Köln"
 name: "koeln"
 description: "[Eine Community für die beste Stadt am Rhein!](https://feddit.de/c/cologne)"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/koeln"
 host: feddit.de
 lastmod: "2023-06-14 16:40:43"
 published: "2023-06-12 08:47:54"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 1
 weight: 1

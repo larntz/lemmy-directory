@@ -3,7 +3,7 @@ title: "Bitwig"
 name: "bitwig"
 description: "Bitwig"
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/bitwig"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 5
+wau: 1
 mau: 5
 instances:
 - "waveform_social"

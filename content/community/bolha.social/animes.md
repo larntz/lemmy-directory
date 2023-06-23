@@ -3,14 +3,14 @@ title: "Animes"
 name: "animes"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:30"
+date: "2023-06-23 01:18:41"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/animes"
 host: bolha.social
 lastmod: "2022-12-21 14:56:41"
 published: "2022-12-21 14:36:13"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

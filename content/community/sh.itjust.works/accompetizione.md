@@ -3,7 +3,7 @@ title: "accompetizione"
 name: "accompetizione"
 description: "The Official game of the GT World Challenge Europe Series."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-22 16:46:48"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/accompetizione"

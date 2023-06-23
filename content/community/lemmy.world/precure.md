@@ -3,14 +3,14 @@ title: "precure"
 name: "precure"
 description: "A Lemmy for fans of the Pretty Cure/Precure franchise. Please remember to read the rules in the sidebar:- Respect One Another. Super Simple Stuff Here.- No Hate Speech. - No NSFW/Porn/Hentai.- No Pirating Material.- Credit Fanworks."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/precure"
 host: lemmy.world
 lastmod: "2023-06-11 11:51:03"
 published: "2023-06-10 13:47:01"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

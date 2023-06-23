@@ -3,7 +3,7 @@ title: "Gryph the Gryphon"
 name: "gryph_the_gryphon"
 description: "https://Gryph-the-Gryphon.neocities.orghttps://wheretofind.me/@Gryphonhere u can read fantasy short stories by Gryph the Gryphon . the main character is Gryph the Gryphonu can also talk about things- the Gryphons- fantasy and beast design- birds like birds of prey- cars and airplanes- cool and nice stuff- ur projects and social things- nature and zoology- art and drawings- website writing and the internet- other things u feel i would likenote- be very nice and kind- i may not always reply due to life- i may fail sometimes- i can reply only shortly- the Gryphons are sensitive to me"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gryph_the_gryphon"

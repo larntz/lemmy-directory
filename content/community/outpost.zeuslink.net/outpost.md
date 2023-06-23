@@ -3,14 +3,14 @@ title: "Outpost Home"
 name: "outpost"
 description: "This community serves as the home and landing zone for The Outpost!"
 type: community
-date: "2023-06-22 02:19:34"
+date: "2023-06-23 01:18:45"
 draft: false
 nsfw: false
 actor_id: "https://outpost.zeuslink.net/c/outpost"
 host: outpost.zeuslink.net
 lastmod: "2023-06-05 02:59:07"
 published: "2023-06-05 02:09:17"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 5
 weight: 2

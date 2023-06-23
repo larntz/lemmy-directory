@@ -3,7 +3,7 @@ title: "Shreveport"
 name: "shreveport"
 description: "This community is for refugees of the Shreveport-Bossier subreddit and is moderated by the Discord community. To join the Discord see the link.https://discord.gg/pu7KaQbER6"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shreveport"

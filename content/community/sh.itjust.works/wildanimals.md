@@ -3,7 +3,7 @@ title: "Animals in the Wild"
 name: "wildanimals"
 description: "photos and videos of wild animals (wild as in non domestic, not as in berserk)"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wildanimals"

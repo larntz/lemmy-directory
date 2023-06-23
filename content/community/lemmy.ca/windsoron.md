@@ -3,7 +3,7 @@ title: "Windsor, Ontario"
 name: "windsoron"
 description: "A community for Windsor, Ontario- Share news, events, or just general discussions. Some linkshttps://www.citywindsor.ca/https://www.iheartradio.ca/am800https://windsorite.ca/https://windsorstar.com/"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/windsoron"

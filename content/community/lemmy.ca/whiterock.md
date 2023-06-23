@@ -3,7 +3,7 @@ title: "White Rock, British Columbia"
 name: "whiterock"
 description: "Community for the City of White Rock"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/whiterock"

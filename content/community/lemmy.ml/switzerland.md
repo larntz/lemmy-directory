@@ -3,14 +3,14 @@ title: "Switzerland"
 name: "switzerland"
 description: "Post news, opinions or upcoming events relating to Switzerland."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/switzerland"
 host: lemmy.ml
 lastmod: "2021-12-15 21:46:56"
 published: "2021-12-14 22:15:56"
-subscribers: 33
+subscribers: 35
 posts: 2
 comments: 5
 weight: 2

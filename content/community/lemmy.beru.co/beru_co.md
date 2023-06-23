@@ -3,7 +3,7 @@ title: "Beru Co.ddit (Meta Discussion)"
 name: "beru_co"
 description: "Local meta-discussion for this server instance (lemmy.beru.co)."
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beru.co/c/beru_co"

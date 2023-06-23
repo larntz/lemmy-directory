@@ -3,14 +3,14 @@ title: "New England Patriots"
 name: "patriots"
 description: "A community for discussions about the New England Patriots "
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/patriots"
 host: lemmy.world
 lastmod: "2023-06-17 17:22:58"
 published: "2023-06-17 17:03:56"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3

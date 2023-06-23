@@ -3,7 +3,7 @@ title: "Bass"
 name: "bass"
 description: "Bass guitar, double bass, and the general low end of sound"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bass"
@@ -15,8 +15,8 @@ posts: 1
 comments: 10
 weight: 1
 dau: 1
-wau: 2
-mau: 8
+wau: 1
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 

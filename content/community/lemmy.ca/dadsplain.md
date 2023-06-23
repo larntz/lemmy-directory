@@ -3,16 +3,16 @@ title: "Lemmy Dadsplain"
 name: "dadsplain"
 description: "Community for exeriences, insights, and camaraderie relating to fatherhood. Or just dad jokes."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dadsplain"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 21:41:54"
-subscribers: 289
+subscribers: 291
 posts: 21
-comments: 130
+comments: 132
 weight: 21
 dau: 3
 wau: 37

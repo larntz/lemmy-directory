@@ -3,7 +3,7 @@ title: "Tottenham Hotspur F.C."
 name: "coys"
 description: "Tottenham Hotspur - a club that Bill Nicholson made. COME ON YOU SPURS!"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coys"
@@ -15,8 +15,8 @@ posts: 3
 comments: 8
 weight: 3
 dau: 2
-wau: 5
-mau: 5
+wau: 3
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 

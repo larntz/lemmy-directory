@@ -3,7 +3,7 @@ title: "Tool Assisted Speedruns"
 name: "tas"
 description: "This community is for sharing videos that take advantage of and exploit glitches and bugs in videogames for entertainment and technical value. Speedrun videos (whether tool assisted or otherwise) are welcome, as are tool-assisted videos which are not speedruns.[TASVideos](http://tasvideos.org/) hosts and curates existing TASes for publication to the TASVideos YouTube. The TASBot team additionally works to play back those and other TASes on original console hardware.For Speedruns, see  [c/Speedrun](https://lemmy.ml/c/speedrun)"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tas"

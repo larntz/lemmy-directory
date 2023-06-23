@@ -3,14 +3,14 @@ title: "Trance"
 name: "trance"
 description: "The home of Trance music."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trance"
 host: lemmy.ml
 lastmod: "2021-05-15 20:59:54"
 published: "2021-05-13 01:46:21"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Sansa"
 name: "sansa"
 description: "A community for Sansa Stark"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sansa"
 host: lemmy.world
 lastmod: "2023-06-22 00:05:35"
 published: "2023-06-21 18:59:03"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

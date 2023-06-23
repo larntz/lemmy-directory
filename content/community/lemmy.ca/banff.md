@@ -3,7 +3,7 @@ title: "banff"
 name: "banff"
 description: "**Welcome to Banff!**- [https://www.banff.ca](https://www.banff.ca/)- [https://en.wikipedia.org/wiki/Banff](https://en.wikipedia.org/wiki/Banff,_Alberta) "
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/banff"
@@ -11,9 +11,9 @@ host: lemmy.ca
 lastmod: "2023-06-20 16:32:47"
 published: "2023-06-20 16:27:12"
 subscribers: 4
-posts: 2
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

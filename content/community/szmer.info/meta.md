@@ -3,17 +3,17 @@ title: "metaszmery"
 name: "meta"
 description: "społeczność dotycząca samej platformy - problemy, informacje, takie tam. [Wątek do powitań](https://szmer.info/post/10555) - powiedz coś o sobie! :)"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/meta"
 host: szmer.info
 lastmod: "2022-07-19 10:46:48"
 published: "2020-06-27 09:28:19"
-subscribers: 126
-posts: 70
+subscribers: 127
+posts: 71
 comments: 387
-weight: 70
+weight: 71
 dau: 3
 wau: 9
 mau: 9

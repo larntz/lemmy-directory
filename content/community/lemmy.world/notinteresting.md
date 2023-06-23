@@ -1,21 +1,21 @@
 ---
 title: "Not interesting..." 
 name: "notinteresting"
-description: "Welcome to /c/NotInteresting! This is an alternative to the subreddit /r/NotInteresting on Reddit.This is a community for things that are not interesting at all.Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
+description: "Welcome to /c/NotInteresting!This is a community for things that are not interesting at all.Reposts from external sources are allowed but original posts are definitely appreciated!"
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notinteresting"
 host: lemmy.world
-lastmod: "2023-06-15 06:39:36"
+lastmod: "2023-06-22 04:24:26"
 published: "2023-06-14 08:58:48"
-subscribers: 28
+subscribers: 32
 posts: 2
 comments: 5
 weight: 2
 dau: 3
-wau: 7
+wau: 4
 mau: 7
 instances:
 - "lemmy_world"

@@ -3,14 +3,14 @@ title: "Seals"
 name: "seals"
 description: "**A community about seals and seal worship.** Other pinnipeds are also welcome.# Rules:1. Don't be rude2. Credit photographers if possible3. All content has to be related to pinnipeds"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seals"
 host: lemmy.world
 lastmod: "2023-06-20 21:39:30"
 published: "2023-06-20 18:04:07"
-subscribers: 12
+subscribers: 14
 posts: 2
 comments: 0
 weight: 2

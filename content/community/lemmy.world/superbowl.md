@@ -3,20 +3,20 @@ title: "Superbowl"
 name: "superbowl"
 description: "For owls that are superb."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/superbowl"
 host: lemmy.world
 lastmod: "2023-06-14 21:14:43"
 published: "2023-06-11 18:52:03"
-subscribers: 170
-posts: 8
-comments: 12
-weight: 8
+subscribers: 203
+posts: 9
+comments: 13
+weight: 9
 dau: 2
-wau: 4
-mau: 13
+wau: 5
+mau: 14
 instances:
 - "lemmy_world"
 tags: 

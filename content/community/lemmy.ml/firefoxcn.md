@@ -3,7 +3,7 @@ title: "Firefox CN"
 name: "firefoxcn"
 description: "狐 基 来 玩 啊 "
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefoxcn"

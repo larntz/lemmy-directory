@@ -3,14 +3,14 @@ title: "Unity3D"
 name: "unity3d"
 description: "News, Help, Resources, and Conversation. A User Showcase of the Unity Game Engine."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/unity3d"
 host: lemmy.world
 lastmod: "2023-06-15 14:20:02"
 published: "2023-06-15 14:16:30"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

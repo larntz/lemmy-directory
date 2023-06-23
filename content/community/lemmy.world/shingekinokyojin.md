@@ -3,7 +3,7 @@ title: "Shingeki No Kyojin (Attack on Titan)"
 name: "shingekinokyojin"
 description: "Post anything Attack on titanIm just posting things from the r/shingekinokyojin community on reddit as a way to archive some things and hopefully get people from that sub to use lemmyonce enough people start posting i will be able to stop"
 type: community
-date: "2023-06-22 02:21:43"
+date: "2023-06-23 01:21:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shingekinokyojin"

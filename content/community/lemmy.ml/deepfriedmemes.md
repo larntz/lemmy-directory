@@ -3,14 +3,14 @@ title: "Deep fried memes"
 name: "deepfriedmemes"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepfriedmemes"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-05-07 06:23:54"
-subscribers: 65
+subscribers: 66
 posts: 2
 comments: 1
 weight: 2

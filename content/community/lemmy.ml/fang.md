@@ -3,7 +3,7 @@ title: "Fang"
 name: "fang"
 description: "Only Fangs Allowed"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fang"

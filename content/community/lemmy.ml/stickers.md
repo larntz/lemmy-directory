@@ -3,12 +3,12 @@ title: "stickers"
 name: "stickers"
 description: "post stickers you make, stickers you find out in the wild, your favourite stickers, sticker tips & templates...if you love stickers then here we are!rules:- no poster, only sticker.- remember to be kind.- no nazi or otherwise bigoty stickers.- if you know who made sticker, please try to credit them."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stickers"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-02-12 06:02:55"
 subscribers: 30
 posts: 4

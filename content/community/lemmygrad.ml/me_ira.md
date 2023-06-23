@@ -3,7 +3,7 @@ title: "me_ira"
 name: "me_ira"
 description: "A sub for dank Irish republican memes. Brits Out!Tiocfaidh ár lá!![](https://communism.lemmy.ml/pictrs/image/O1mL9vKtWm.jpg)"
 type: community
-date: "2023-06-22 02:19:53"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/me_ira"

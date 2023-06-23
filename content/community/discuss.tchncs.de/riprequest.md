@@ -3,7 +3,7 @@ title: "riprequestspàp"
 name: "riprequest"
 description: "Home of the old /r/riprequest Only lossless music, uploaded to some hoster, link in base64 and don't forget the password to encrypt the zipped content."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/riprequest"

@@ -3,14 +3,14 @@ title: "Gaming Buddies"
 name: "gamingbuddies"
 description: "A community for making new friends through the magic of video games."
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/gamingbuddies"
 host: sopuli.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2022-07-29 00:52:03"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

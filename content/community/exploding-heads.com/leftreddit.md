@@ -3,7 +3,7 @@ title: "I left Reddit because . . ."
 name: "leftreddit"
 description: "So many people have left Reddit.Tell us why you did."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/leftreddit"

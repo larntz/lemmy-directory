@@ -3,20 +3,20 @@ title: "Digital Nomad "
 name: "digitalnomad"
 description: "A place for digital Nomad to discuss travel, strategy, and their live on the road"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalnomad"
 host: lemmy.ml
 lastmod: "2023-06-12 06:33:09"
 published: "2023-06-12 06:23:25"
-subscribers: 17
-posts: 5
+subscribers: 20
+posts: 6
 comments: 9
-weight: 5
+weight: 6
 dau: 1
-wau: 2
-mau: 4
+wau: 4
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 

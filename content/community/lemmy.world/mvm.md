@@ -3,14 +3,14 @@ title: "mvm"
 name: "mvm"
 description: "A place for discussion and memes about the Team Fortress 2 gamemode Mann vs. Machine."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mvm"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 09:15:42"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

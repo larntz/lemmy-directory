@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "You want to say hi? Anything up your mind? This community is for anything Mindshare related."
 type: community
-date: "2023-06-22 02:19:58"
+date: "2023-06-23 01:19:08"
 draft: false
 nsfw: false
 actor_id: "https://mindshare.space/c/chat"

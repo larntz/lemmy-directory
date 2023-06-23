@@ -1,22 +1,22 @@
 ---
 title: "Software Gore" 
 name: "softwaregore"
-description: "Welcome to /c/SoftwareGore! This is an alternative to the subreddit /r/SoftwareGore on Reddit.This is a community where you can poke fun at nasty software. Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
+description: "Welcome to /c/SoftwareGore!This is a place where you can poke fun at nasty software. Reposts from external sources are allowed but original posts are definitely appreciated!"
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/softwaregore"
 host: lemmy.world
-lastmod: "2023-06-15 06:19:21"
+lastmod: "2023-06-22 04:27:09"
 published: "2023-06-12 11:15:08"
-subscribers: 233
-posts: 4
-comments: 16
-weight: 4
-dau: 1
+subscribers: 281
+posts: 5
+comments: 17
+weight: 5
+dau: 2
 wau: 10
-mau: 13
+mau: 14
 instances:
 - "lemmy_world"
 tags: 

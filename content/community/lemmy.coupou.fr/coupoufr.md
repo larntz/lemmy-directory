@@ -3,7 +3,7 @@ title: "coupou.fr"
 name: "coupoufr"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coupou.fr/c/coupoufr"

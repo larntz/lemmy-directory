@@ -3,14 +3,14 @@ title: "Typography"
 name: "typography"
 description: "Type design, setting, fonts, etc."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/typography"
 host: lemmy.ml
 lastmod: "2021-01-29 13:27:58"
 published: "2020-06-28 03:08:49"
-subscribers: 53
+subscribers: 54
 posts: 18
 comments: 6
 weight: 18

@@ -3,14 +3,14 @@ title: "Wirtschaft"
 name: "wirtschaft"
 description: "Diskussion über Wirtschaft auf lokaler, europäischer und weltweiter Ebene. Vor- und Nachteile der Globalisierung"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wirtschaft"
 host: feddit.de
 lastmod: "2022-10-09 06:04:09"
 published: "2022-10-09 05:27:39"
-subscribers: 18
+subscribers: 19
 posts: 11
 comments: 2
 weight: 11

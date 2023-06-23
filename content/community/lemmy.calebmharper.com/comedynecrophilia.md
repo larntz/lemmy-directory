@@ -3,7 +3,7 @@ title: "Comedy Necrophilia"
 name: "comedynecrophilia"
 description: "Bad comedy made worse**Related Communities:**[Comedy Heaven](/c/comedyheaven@lemmy.world)"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.calebmharper.com/c/comedynecrophilia"

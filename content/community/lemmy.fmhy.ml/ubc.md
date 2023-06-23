@@ -3,7 +3,7 @@ title: "CLOSED - University of British Columbia"
 name: "ubc"
 description: "This community is being redirected here:https://lemmy.ca/c/ubcHowever if you would prefer to use this community (or if you would like to repurpose this community for something else), please let me know! For now, I’ve set it to moderator posts only in order to reduce headaches for lemmy.fmhy.ml admins since I may miss rule breaking content.> lemmy.fmhy.ml"
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/ubc"

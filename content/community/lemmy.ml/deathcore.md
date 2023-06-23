@@ -3,18 +3,18 @@ title: "Deathcore"
 name: "deathcore"
 description: "A community for Deathcore music enthusiasts.Post content about Deathcore or Deathcore adjacent music (because let's not get too picky about genres).And be nice too each other.Check out other metal music communities:- [!metal@lemmy.ml](https://lemmy.ml/c/metal) - [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!blackmetal@lemmy.ml](https://lemmy.ml/c/blackmetal) - [!blackmetal@feddit.de](https://feddit.de/c/blackmetal) - [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal) - [!doommetal@lemmy.ml](https://lemmy.ml/c/doommetal) - [!melodicdeathmetal@lemmy.ml](https://lemmy.ml/c/melodicdeathmetal) - [!metalcore@lemmy.ml](https://lemmy.ml/c/metalcore) - [!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) - [!thrashmetal@lemmy.ml](https://lemmy.ml/c/thrashmetal) For Memes:- [!metalmemes@lemmy.world](https://lemmy.world/c/metalmemes)"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deathcore"
 host: lemmy.ml
 lastmod: "2023-06-13 12:15:14"
 published: "2023-06-01 16:13:29"
-subscribers: 45
-posts: 50
-comments: 18
-weight: 50
-dau: 2
+subscribers: 48
+posts: 52
+comments: 20
+weight: 52
+dau: 3
 wau: 6
 mau: 9
 instances:

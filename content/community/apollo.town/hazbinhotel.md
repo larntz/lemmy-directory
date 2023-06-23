@@ -3,14 +3,14 @@ title: "Hazbin Hotel"
 name: "hazbinhotel"
 description: "A community for fans of the Spindlehorse show Hazbin Hotel, soon to be released with A24. "
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/hazbinhotel"
 host: apollo.town
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 18:40:05"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

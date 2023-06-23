@@ -3,7 +3,7 @@ title: "Android Beta"
 name: "androidbeta"
 description: "For discussion of beta updates for Android OS.[Visit the official Android Beta Program website](https://www.google.com/android/beta)"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidbeta"

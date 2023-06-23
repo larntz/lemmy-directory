@@ -3,7 +3,7 @@ title: "Pipe Organs"
 name: "organ"
 description: "The pipe organ is the largest and oldest instrument in Western classical music tradition, and the coolest."
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/organ"

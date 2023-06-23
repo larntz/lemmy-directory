@@ -3,12 +3,12 @@ title: "Essayhelpers"
 name: "essayhelpers"
 description: "A community for those seeking assignment writing help for all research papers, essays, case studies and projects."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/essayhelpers"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-12-14 21:34:03"
 subscribers: 3
 posts: 0

@@ -3,7 +3,7 @@ title: "introductions"
 name: "introductions"
 description: "Say hi!"
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:16"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/introductions"
@@ -15,7 +15,7 @@ posts: 4
 comments: 4
 weight: 4
 dau: 1
-wau: 4
+wau: 3
 mau: 6
 instances:
 - "dmv_social"

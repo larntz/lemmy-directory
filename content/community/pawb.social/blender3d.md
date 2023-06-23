@@ -3,19 +3,19 @@ title: "Blender 3D"
 name: "blender3d"
 description: "For Furry blender users. Post blender news, your art, other people's art, etc..."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/blender3d"
 host: pawb.social
 lastmod: "2023-06-17 01:30:44"
 published: "2023-06-14 22:31:44"
-subscribers: 38
-posts: 5
+subscribers: 41
+posts: 6
 comments: 3
-weight: 5
+weight: 6
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "pawb_social"

@@ -3,14 +3,14 @@ title: "The Sims 2"
 name: "ts2"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ts2"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 18:44:50"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

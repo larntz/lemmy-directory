@@ -1,14 +1,14 @@
 ---
 title: "Braunschweig" 
 name: "braunschweig"
-description: "Description not available."
+description: "6/2023"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/braunschweig"
 host: feddit.de
-lastmod: "2023-06-17 09:02:32"
+lastmod: "2023-06-22 16:39:11"
 published: "2023-06-12 20:58:10"
 subscribers: 2
 posts: 0

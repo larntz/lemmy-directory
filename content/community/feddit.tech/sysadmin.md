@@ -3,14 +3,14 @@ title: "System Administration"
 name: "sysadmin"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/sysadmin"
 host: feddit.tech
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 11:41:43"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

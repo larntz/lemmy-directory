@@ -3,14 +3,14 @@ title: "Reverse Engineering"
 name: "reverseengineering"
 description: "A fediverse community dedicated to all things reverse engineering."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/reverseengineering"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 09:44:48"
-subscribers: 50
+subscribers: 53
 posts: 1
 comments: 0
 weight: 1

@@ -1,16 +1,16 @@
 ---
 title: "LitRPG" 
 name: "litrpg"
-description: "All things LitRPG related"
+description: "All things LitRPG related    ---"
 type: community
-date: "2023-06-22 02:21:43"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/litrpg"
 host: lemmy.world
-lastmod: "2023-06-21 23:47:55"
+lastmod: "2023-06-22 04:41:12"
 published: "2023-06-21 22:39:24"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

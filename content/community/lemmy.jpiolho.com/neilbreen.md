@@ -3,7 +3,7 @@ title: "Neil Breen"
 name: "neilbreen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/neilbreen"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 0
-wau: 0
-mau: 0
+wau: 2
+mau: 2
 instances:
 - "lemmy_jpiolho_com"
 tags: 

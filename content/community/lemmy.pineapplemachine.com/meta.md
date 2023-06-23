@@ -3,7 +3,7 @@ title: "meta"
 name: "meta"
 description: "Info and announcements about the instance."
 type: community
-date: "2023-06-22 02:19:43"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/meta"
@@ -15,7 +15,7 @@ posts: 6
 comments: 23
 weight: 6
 dau: 2
-wau: 3
+wau: 2
 mau: 9
 instances:
 - "lemmy_pineapplemachine_com"

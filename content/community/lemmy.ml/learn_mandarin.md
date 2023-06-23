@@ -3,7 +3,7 @@ title: "Learn Mandarin"
 name: "learn_mandarin"
 description: "Community for learning Mandarin"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_mandarin"

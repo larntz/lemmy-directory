@@ -3,14 +3,14 @@ title: "Data Engineering"
 name: "dataengineering"
 description: "News and discussion on Data Emgineering topics "
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dataengineering"
 host: lemmy.ml
 lastmod: "2023-06-11 05:06:39"
 published: "2023-06-11 05:03:09"
-subscribers: 43
+subscribers: 44
 posts: 4
 comments: 2
 weight: 4

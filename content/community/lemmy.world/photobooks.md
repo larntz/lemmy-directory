@@ -3,7 +3,7 @@ title: "Photobooks"
 name: "photobooks"
 description: "A place to discuss photobooks - new, old, out-of-print, DIY, zines, etc."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/photobooks"

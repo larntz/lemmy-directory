@@ -3,7 +3,7 @@ title: "melodic Death Metal"
 name: "melodicdeathmetal"
 description: "A community to post and discuss melodic death metal.Check out other metal music communities:- [!metal@lemmy.ml](https://lemmy.ml/c/metal) - [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!blackmetal@lemmy.ml](https://lemmy.ml/c/blackmetal) - [!blackmetal@feddit.de](https://feddit.de/c/blackmetal) - [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal) - [!doommetal@lemmy.ml](https://lemmy.ml/c/doommetal) - [!metalcore@lemmy.ml](https://lemmy.ml/c/metalcore) - [!progmetal@sopuli.xyz](https://sopuli.xyz/c/progmetal)- [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) - [!thrashmetal@lemmy.ml](https://lemmy.ml/c/thrashmetal) For Memes:- [!metalmemes@lemmy.world](https://lemmy.world/c/metalmemes)"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/melodicdeathmetal"
@@ -15,7 +15,7 @@ posts: 15
 comments: 0
 weight: 15
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"

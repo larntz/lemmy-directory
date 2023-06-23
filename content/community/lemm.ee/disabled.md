@@ -3,19 +3,19 @@ title: "Disability Community"
 name: "disabled"
 description: "This community is for people with disabilities, their carers, friends, and significant others."
 type: community
-date: "2023-06-22 02:20:13"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/disabled"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 01:28:51"
-subscribers: 16
-posts: 16
+subscribers: 19
+posts: 19
 comments: 14
-weight: 16
+weight: 19
 dau: 1
-wau: 8
+wau: 7
 mau: 8
 instances:
 - "lemm_ee"

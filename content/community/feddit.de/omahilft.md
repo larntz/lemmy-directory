@@ -3,14 +3,14 @@ title: "Oma Hilft"
 name: "omahilft"
 description: "Sammelstelle für alle Tipps und Lifehacks für den Haushalt."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/omahilft"
 host: feddit.de
 lastmod: "2023-06-13 17:38:12"
 published: "2023-06-13 17:35:27"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

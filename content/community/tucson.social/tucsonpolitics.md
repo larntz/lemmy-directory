@@ -3,7 +3,7 @@ title: "Tucson Politics"
 name: "tucsonpolitics"
 description: "Tucson politics only. National coverage only allowed if it directly pertains to a Tucson politician or issue. "
 type: community
-date: "2023-06-22 02:20:04"
+date: "2023-06-23 01:19:14"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/tucsonpolitics"
@@ -11,9 +11,9 @@ host: tucson.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 05:11:56"
 subscribers: 9
-posts: 5
+posts: 7
 comments: 1
-weight: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1

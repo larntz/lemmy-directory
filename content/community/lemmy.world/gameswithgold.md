@@ -3,7 +3,7 @@ title: "gameswithgold"
 name: "gameswithgold"
 description: "Welcome to Games with Gold!Here you can quickly find out what monthly games you can claim with your Xbox Live Gold membership. Games are revealed on the 1st of every month and are claimable on the 1st and 16th of every month.We post on the 1st and 16th of every month reminding you to claim your games! Feel free to discuss Games with Gold here, and to ask for help with any issues related to Games with Gold!Sister forum of Reddit.com/r/gameswithgold."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gameswithgold"

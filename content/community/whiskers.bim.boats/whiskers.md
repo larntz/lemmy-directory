@@ -3,14 +3,14 @@ title: "Whiskers"
 name: "whiskers"
 description: "**Home community for Whiskers, yet another federated Lemmy instance**For meta discussions about Whiskers. Instance rules apply."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://whiskers.bim.boats/c/whiskers"
 host: whiskers.bim.boats
 lastmod: "2023-06-11 01:50:16"
 published: "2023-06-10 21:03:27"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

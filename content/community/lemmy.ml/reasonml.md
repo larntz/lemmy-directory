@@ -3,7 +3,7 @@ title: "ReasonML"
 name: "reasonml"
 description: "Everything [ReasonML](https://reasonml.github.io/)Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reasonml"

@@ -3,7 +3,7 @@ title: "Stable Diffusion Anime"
 name: "share_anime_art"
 description: "Share anime art created using Stable Diffusion. Please keep it SFW."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/share_anime_art"

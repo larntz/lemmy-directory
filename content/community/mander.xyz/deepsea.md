@@ -3,14 +3,14 @@ title: "The Deep Sea"
 name: "deepsea"
 description: "Creatures of the deep sea (or information/discussion about it!) This can range from fish to tunicates to anything deep sea! Remember to source your content."
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/deepsea"
 host: mander.xyz
 lastmod: "2022-07-24 13:52:44"
 published: "2022-07-20 14:29:09"
-subscribers: 121
+subscribers: 125
 posts: 7
 comments: 2
 weight: 7

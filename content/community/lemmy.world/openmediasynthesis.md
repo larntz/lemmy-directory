@@ -3,7 +3,7 @@ title: "Open Media Synthesis"
 name: "openmediasynthesis"
 description: "A Community about synthesizing media (text to image, text to music, and more) focusing on free and open source applications that can be run locally.This Community aims to provide a big overview of all the tools available, in one place.Feel free to post guides and results (workflow included = nice to have)"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/openmediasynthesis"

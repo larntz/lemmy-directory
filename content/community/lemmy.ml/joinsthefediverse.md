@@ -3,7 +3,7 @@ title: "/c/joinsthefediverse - CHALLENGER APPROACHING"
 name: "joinsthefediverse"
 description: "Announce people who joined the fediverse.You can announce anyone. especially who a has presence on the internet;- Video Creator- Artist- Gamer- etc.ps: It doesn't matter if they joined a while ago or even years ago. because the time when they are found by people is unpredictable"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/joinsthefediverse"

@@ -3,14 +3,14 @@ title: "Mildly Interesting"
 name: "mildlyinteresting"
 description: "The free and open version of the old defunct reddit sub"
 type: community
-date: "2023-06-22 02:19:48"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/mildlyinteresting"
 host: lemmy.sdf.org
 lastmod: "2023-06-17 15:43:47"
 published: "2023-06-17 15:36:12"
-subscribers: 30
+subscribers: 32
 posts: 1
 comments: 1
 weight: 1

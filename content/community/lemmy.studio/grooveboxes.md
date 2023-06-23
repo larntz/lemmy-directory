@@ -3,7 +3,7 @@ title: "Grooveboxes, workstations and more!"
 name: "grooveboxes"
 description: "If you want to chat about grooveboxes, workstations or other do-it-all music production gear, feel free to chat about it here!Self-promotion is totally okay as long as you aren't just going absolutely crazy with it. :)"
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/grooveboxes"

@@ -3,7 +3,7 @@ title: "Amateur Radio"
 name: "amateur_radio"
 description: "New to ham radio? Been licensed for a while? Thinking about getting into it?Welcome! Feel free to talk about the weather, your rig, and that sweet antenna you soldered together using scraps you found in the garage.**Resources:**- https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service- http://arrl.org"
 type: community
-date: "2023-06-22 02:19:43"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/amateur_radio"

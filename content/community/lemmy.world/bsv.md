@@ -3,7 +3,7 @@ title: "BSV"
 name: "bsv"
 description: "The chronicles of a scam called Bitcoin SV"
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bsv"

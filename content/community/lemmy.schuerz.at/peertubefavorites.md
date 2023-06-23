@@ -3,14 +3,14 @@ title: "Good peertube instances [en]"
 name: "peertubefavorites"
 description: "This is a Lemmy to find community-rated #Peertube Instances.The idea was born in peertubes [Matrix] room.**This is for english speaking communityPlease post here only instances, which mainlanguage is english**.Not allowed are instances with antivaxxers, qanon, rassistc, sexistic, misogynic, fakenews, nationalsocialistic and all similar stuff"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/peertubefavorites"
 host: lemmy.schuerz.at
 lastmod: "2022-01-13 19:46:25"
 published: "2022-01-13 16:34:41"
-subscribers: 31
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

@@ -3,12 +3,12 @@ title: "Plural"
 name: "plural"
 description: "A community for those who have a community in their head. Whether you have DID or OSDD, are a tulpa or tulpamancer, soulbond, or just know that you aren't alone in your body, this is the place to be."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plural"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 20:57:10"
 subscribers: 3
 posts: 0

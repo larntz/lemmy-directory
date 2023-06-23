@@ -3,19 +3,19 @@ title: "Politik"
 name: "politik"
 description: "Konstruktive Diskussionen sind gerne gesehen, jedoch können politische Ansichten schnell die Gemüter erhitzen.Bitte bleibt sachlich,nicht geduldet werden neben den allgemeinen Regeln insbesondere- persönliche Anfeindungen, - [argumentum ad hominem](https://de.wikipedia.org/wiki/Argumentum_ad_hominem) Für den Austausch radikaler Standpunkte gibt es genügend [andere Instanzen](https://join-lemmy.org/).::: spoiler AttributionIcon made by [surang](https://www.flaticon.com/authors/surang):::"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/politik"
 host: feddit.de
 lastmod: "2021-09-13 17:38:03"
 published: "2021-09-13 17:32:38"
-subscribers: 554
+subscribers: 562
 posts: 182
 comments: 190
 weight: 182
 dau: 1
-wau: 3
+wau: 2
 mau: 26
 instances:
 - "feddit_de"

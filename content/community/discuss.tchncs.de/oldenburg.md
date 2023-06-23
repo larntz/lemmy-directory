@@ -3,14 +3,14 @@ title: "Oldenburg(Oldb)"
 name: "oldenburg"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/oldenburg"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 12:36:05"
-subscribers: 12
+subscribers: 16
 posts: 3
 comments: 0
 weight: 3

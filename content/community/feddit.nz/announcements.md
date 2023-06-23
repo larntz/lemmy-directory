@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:07"
+date: "2023-06-23 01:19:18"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nz/c/announcements"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_nz"

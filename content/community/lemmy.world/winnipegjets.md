@@ -3,20 +3,20 @@ title: "Winnipeg Jets"
 name: "winnipegjets"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/winnipegjets"
 host: lemmy.world
 lastmod: "2023-06-13 03:04:16"
 published: "2023-06-12 20:21:46"
-subscribers: 15
-posts: 2
+subscribers: 16
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

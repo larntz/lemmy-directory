@@ -3,7 +3,7 @@ title: "Base Invaders - Tuesdays"
 name: "baseinvaders2023"
 description: "A space for Base Invaders players to organize, discuss games, check if players on other teams can fill in, etc."
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:51"
 draft: false
 nsfw: false
 actor_id: "https://chebucto.club/c/baseinvaders2023"

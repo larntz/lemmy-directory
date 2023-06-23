@@ -3,14 +3,14 @@ title: "Responding to anticom arguments."
 name: "shenbapiro"
 description: "A community designed to respond to anti-Marxist arguments"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shenbapiro"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-03-04 14:58:25"
-subscribers: 6
+subscribers: 7
 posts: 5
 comments: 9
 weight: 5

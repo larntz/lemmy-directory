@@ -3,14 +3,14 @@ title: "Twitter"
 name: "twitter"
 description: "Discussions related to Twitter- https://twitter.com "
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twitter"
 host: lemmy.ml
 lastmod: "2023-06-10 01:22:48"
 published: "2020-06-29 00:08:12"
-subscribers: 30
+subscribers: 31
 posts: 7
 comments: 1
 weight: 7

@@ -3,7 +3,7 @@ title: "Norge"
 name: "norge"
 description: "Om Norge, på norsk, svensk eller dansk. Engelskspråklige poster skal til [!norway@nrsk.no](https://nrsk.no/c/norway).(🇬🇧 /🇺🇸) For posts in English, please use [!norway@nrsk.no](https://nrsk.no/c/norway)."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/norge"

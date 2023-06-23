@@ -3,7 +3,7 @@ title: "The Wire"
 name: "thewire"
 description: "Discussion of the greatest tv show of all time, The Wire.Ya Happy Now Bitch? - The Bunk"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/thewire"

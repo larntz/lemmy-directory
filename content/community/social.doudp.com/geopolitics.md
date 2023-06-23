@@ -3,17 +3,17 @@ title: "Geopolitics"
 name: "geopolitics"
 description: "Geopolitics and the analysis of what events."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/geopolitics"
 host: social.doudp.com
 lastmod: "2023-06-15 07:04:34"
 published: "2023-06-14 09:06:55"
-subscribers: 16
-posts: 7
+subscribers: 17
+posts: 11
 comments: 0
-weight: 7
+weight: 11
 dau: 1
 wau: 1
 mau: 1

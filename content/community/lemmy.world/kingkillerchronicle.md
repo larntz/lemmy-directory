@@ -3,7 +3,7 @@ title: "Kingkiller Chronicle "
 name: "kingkillerchronicle"
 description: "Welcome to Kingkiller ChronicleThis community is dedicated to everything related to The Kingkiller Chronicle, a fantasy trilogy by Patrick Rothfuss, telling the biography of Kvothe, an adventurer, arcanist and musician. The trilogy will hopefully be finished before 2050. "
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kingkillerchronicle"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 1
 comments: 2
 weight: 1
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "UK Vaporents - Dry Herb Vaporizers"
 name: "vaporents"
 description: "Created by the UK based contingent of the former mods of [Vaporents on Reddit](https://www.reddit.com/r/vaporents), this is a UK based dry herb vape community"
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/vaporents"

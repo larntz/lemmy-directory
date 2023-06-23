@@ -3,20 +3,20 @@ title: "Angry Upvote "
 name: "angryupvote"
 description: "Take my upvote and leave!"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/angryupvote"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 14:11:36"
-subscribers: 922
-posts: 16
-comments: 42
-weight: 16
-dau: 1
+subscribers: 944
+posts: 19
+comments: 43
+weight: 19
+dau: 3
 wau: 6
-mau: 33
+mau: 35
 instances:
 - "sh_itjust_works"
 tags: 

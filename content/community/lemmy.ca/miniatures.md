@@ -3,7 +3,7 @@ title: "Big Things made into Tiny Things"
 name: "miniatures"
 description: "Share your love of miniatures "
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/miniatures"

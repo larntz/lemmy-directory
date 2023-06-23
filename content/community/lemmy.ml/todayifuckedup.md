@@ -3,7 +3,7 @@ title: "Today I Fucked Up"
 name: "todayifuckedup"
 description: "Hesitating between [!tifu](https://lemmy.ml/c/tifu) or [!todayifuckedup](https://lemmy.ml/c/todayifuckedup)."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/todayifuckedup"

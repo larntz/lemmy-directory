@@ -3,7 +3,7 @@ title: "Abolish the Monarchy!"
 name: "abolishthemonarchy"
 description: "Monarchy doesn't have a place in the 21st century, it's time we got rid of it. This is a good place to discuss news, strategies, and everything else related to replacing/removing monarchs."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/abolishthemonarchy"

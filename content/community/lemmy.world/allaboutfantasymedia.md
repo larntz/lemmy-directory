@@ -3,19 +3,19 @@ title: "AllAboutFantasyMedia"
 name: "allaboutfantasymedia"
 description: "Hello and welcome! Here, we discuss, well, fantasy. If you like nerding over Harry Potter, Eragon, Lord of the Rings, etc. this is the place for you! Please don’t spoil things for others. If you must please use a spoiler tag. Thanks! Enjoy your stay here, and happy reading or watching!"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/allaboutfantasymedia"
 host: lemmy.world
 lastmod: "2023-06-07 23:40:28"
 published: "2023-06-06 20:48:50"
-subscribers: 107
+subscribers: 109
 posts: 2
 comments: 19
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 11
 instances:
 - "lemmy_world"

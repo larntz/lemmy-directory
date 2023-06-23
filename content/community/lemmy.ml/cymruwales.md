@@ -3,7 +3,7 @@ title: "Cymru/Wales"
 name: "cymruwales"
 description: "Croeso i Gymdeithas Cymru ar Lemmy! | Welcome to Wales' community on Lemmy!"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cymruwales"

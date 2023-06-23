@@ -3,16 +3,16 @@ title: "Techologie"
 name: "tech"
 description: "De Nederlandse Lemmy community voor alle tech gerelateerde onderwerpen. "
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/tech"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 17:47:55"
-subscribers: 40
+subscribers: 45
 posts: 3
-comments: 7
+comments: 8
 weight: 3
 dau: 3
 wau: 6

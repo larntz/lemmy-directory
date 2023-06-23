@@ -3,7 +3,7 @@ title: "Darwin Awards"
 name: "darwinawards"
 description: "[Darwin Awards](https://en.wikipedia.org/wiki/Darwin_Awards) commemorate individuals who improve the gene pool by voluntarily removing themselves out of it."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/darwinawards"

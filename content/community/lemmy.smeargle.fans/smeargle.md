@@ -3,7 +3,7 @@ title: "Smeargle"
 name: "smeargle"
 description: "SMEARGLE ULTIMATE COMMUNITY!!!!"
 type: community
-date: "2023-06-22 02:19:48"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.smeargle.fans/c/smeargle"
@@ -11,9 +11,9 @@ host: lemmy.smeargle.fans
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 22:37:48"
 subscribers: 3
-posts: 4
+posts: 5
 comments: 3
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

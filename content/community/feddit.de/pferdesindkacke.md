@@ -3,14 +3,14 @@ title: "Hufeisenfotzen!"
 name: "pferdesindkacke"
 description: "Pferde halt"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/pferdesindkacke"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 15:14:55"
-subscribers: 6
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

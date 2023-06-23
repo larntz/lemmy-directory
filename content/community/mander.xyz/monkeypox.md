@@ -3,12 +3,12 @@ title: "monkeypox"
 name: "monkeypox"
 description: "Hopefully monkeypox won't be a big deal and I can delete this sublemmy"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/monkeypox"
 host: mander.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-05-22 09:11:47"
 subscribers: 22
 posts: 29

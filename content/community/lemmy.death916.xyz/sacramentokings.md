@@ -3,7 +3,7 @@ title: "Sacramento Kings"
 name: "sacramentokings"
 description: "The home of your 2023 pacific division champs."
 type: community
-date: "2023-06-22 02:20:11"
+date: "2023-06-23 01:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.death916.xyz/c/sacramentokings"

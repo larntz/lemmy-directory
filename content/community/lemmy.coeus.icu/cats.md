@@ -3,7 +3,7 @@ title: "Cats"
 name: "cats"
 description: "A place to post pictures of cats. Preferably your own cats, but exemplary cats from other platforms are acceptable.Cat memes also acceptable, i guess."
 type: community
-date: "2023-06-22 02:20:08"
+date: "2023-06-23 01:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/cats"

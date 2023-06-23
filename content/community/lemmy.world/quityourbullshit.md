@@ -3,14 +3,14 @@ title: "Quit Your Bullshit"
 name: "quityourbullshit"
 description: "Featuring people who need to quit their bullshit. -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quityourbullshit"
 host: lemmy.world
 lastmod: "2023-06-12 07:25:40"
 published: "2023-06-12 05:35:26"
-subscribers: 18
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

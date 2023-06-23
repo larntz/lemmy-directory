@@ -3,7 +3,7 @@ title: "PCOS"
 name: "pcos"
 description: "A place for those with Polycystic Ovarian Syndrome "
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pcos"
@@ -16,7 +16,7 @@ comments: 1
 weight: 2
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ca"
 tags: 

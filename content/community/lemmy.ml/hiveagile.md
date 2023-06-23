@@ -3,7 +3,7 @@ title: "HiveAgile"
 name: "hiveagile"
 description: "https://hiveagile.com"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hiveagile"

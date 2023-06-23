@@ -3,14 +3,14 @@ title: "Branson Sanderson"
 name: "brandon_sanderson"
 description: "A place to discuss all things related to fantasy author Brandon Sanderson."
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brandon_sanderson"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 11:31:51"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

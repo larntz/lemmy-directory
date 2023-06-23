@@ -3,7 +3,7 @@ title: "Disciples of Truth"
 name: "disciples_of_truth"
 description: "Philosophy is best understood as three distinctive areas, Truth Wisdom, Practical Wisdom, and Academic Philosophy.Truth Wisdom encompasses ontology, meta-philosophy, mereology, metaphysics, meta-epistemology, and meta-ethics."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/disciples_of_truth"

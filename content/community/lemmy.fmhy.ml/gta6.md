@@ -3,7 +3,7 @@ title: "Grand Theft Auto 6"
 name: "gta6"
 description: "Join our community of passionate fans as we delve into the exciting world of speculation and discussion surrounding the highly anticipated next installment in the iconic GTA series."
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/gta6"

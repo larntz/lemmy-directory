@@ -3,7 +3,7 @@ title: "COVID-19 Pandemic"
 name: "coronavirus"
 description: "Any news or discussion around the pandemic. Anti-vaccination posts and comments will be removed, as well as personal attacks.Relevant:- [mander.xyz/c/covid19](https://mander.xyz/c/covid19)- [monkeypox](https://mander.xyz/c/monkeypox)- [diseases](https://mander.xyz/c/diseases)"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coronavirus"

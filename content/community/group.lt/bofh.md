@@ -3,7 +3,7 @@ title: "Sysadmins for sysadmins"
 name: "bofh"
 description: "Kažkas turi tai padaryti / Somebody has to do itFotkė [camilo jimenez](https://unsplash.com/@camstejim) iš [Unsplash](https://unsplash.com/s/photos/system-administrator)  "
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bofh"
@@ -11,9 +11,9 @@ host: group.lt
 lastmod: "2022-09-25 06:24:14"
 published: "2021-12-05 17:04:34"
 subscribers: 55
-posts: 121
+posts: 122
 comments: 14
-weight: 121
+weight: 122
 dau: 1
 wau: 1
 mau: 2

@@ -1,22 +1,22 @@
 ---
 title: "Onlyboobs" 
 name: "onlyboobs"
-description: "Description not available."
+description: "If u r interested you can contribute to the community or join [UwU](https://lemmynsfw.com/c/uwu)        [Porns](https://lemmynsfw.com/c/porns) [Amateur Girls](https://lemmynsfw.com/c/amateurgirls) "
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/onlyboobs"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 15:59:23"
 published: "2023-06-20 05:22:27"
-subscribers: 9
-posts: 0
+subscribers: 19
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 

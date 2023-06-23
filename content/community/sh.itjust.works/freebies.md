@@ -1,22 +1,22 @@
 ---
 title: "freebies" 
 name: "freebies"
-description: "We love free stuff! Free pointless fun stuff, free shirts, free food, free stickers, free events, free magazines, and anything else free. As long as it's 100% free, it belongs here."
+description: "We love free stuff! Free pointless fun stuff, free shirts, free food, free stickers, free events, free magazines, and anything else free. As long as it's 100% free, it belongs here.Rules:1. Please don't post referral links.2. Please post only free things (no contests or things that cost money)3. Use the most direct link (no blogspam/freebie sites)"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/freebies"
 host: sh.itjust.works
-lastmod: "2023-06-14 21:29:50"
+lastmod: "2023-06-22 20:41:16"
 published: "2023-06-14 21:25:58"
-subscribers: 20
-posts: 7
+subscribers: 28
+posts: 9
 comments: 4
-weight: 7
-dau: 0
-wau: 4
-mau: 4
+weight: 9
+dau: 1
+wau: 2
+mau: 5
 instances:
 - "sh_itjust_works"
 tags: 

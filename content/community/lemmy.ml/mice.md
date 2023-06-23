@@ -3,7 +3,7 @@ title: "Computer Mice"
 name: "mice"
 description: "After a long and difficult debate of if this community should be for mouse furries or computer mouse enthusiasts, the latter has been chosen.No Racist Jerk Ninja allowed."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mice"

@@ -3,7 +3,7 @@ title: "Soltryce Academy"
 name: "soltryceacademy"
 description: "Everything related to Critical Role, Darrington Press, Candela Obscura or anything else related.No racism, sexism, transphobia, homophobia, or unnecessary personal attacks of the critters or the cast. 💜Mark all spoilers and be nice! DFTBAI'm not any of the cast I'm just a critter 💜https://critrole.com/"
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/soltryceacademy"

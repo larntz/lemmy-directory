@@ -3,7 +3,7 @@ title: "CloverWorks"
 name: "cloverworks"
 description: "A place to discuss everything about Cloverworks, the anime studio behind The Promised Neverland, Spy X Family, Bocchi the Rock and many more!"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cloverworks"

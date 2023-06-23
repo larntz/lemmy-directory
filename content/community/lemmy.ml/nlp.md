@@ -1,22 +1,22 @@
 ---
 title: "Natural Language Processing" 
 name: "nlp"
-description: "A community to discuss research, development and products relating to Natural Language Processing.Please prefix each post with the appropriate tags:- `[R]`: Research paper- `[D]`: Discussion post- `[P]`: Project (your own or others)- `[N]`: News article- `[B]`: Blog post (your own or others)"
+description: "A community to discuss research, development and products relating to Natural Language Processing.Please prefix each post with the appropriate tags:- `[R]`: Research paper- `[D]`: Discussion post- `[P]`: Project (your own or others)- `[N]`: News article- `[B]`: Blog post (your own or others)- `[C]`: Conferences and Workshops- `[M]`: Meta discussions"
 type: community
-date: "2023-06-22 02:21:19"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nlp"
 host: lemmy.ml
-lastmod: "2023-06-21 20:49:27"
+lastmod: "2023-06-22 17:43:42"
 published: "2023-06-21 20:19:37"
-subscribers: 3
-posts: 1
+subscribers: 4
+posts: 3
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,12 +3,12 @@ title: "Should I Buy This Game?"
 name: "shouldibuythisgame"
 description: "Have you ever wanted to buy a game on Steam but didn't know if it was good? Have you ever had just enough money for an indie game but didn't know whether it was worth buying? Have you ever asked yourself, Should I buy this game?"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shouldibuythisgame"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 15:02:18"
 subscribers: 2
 posts: 0

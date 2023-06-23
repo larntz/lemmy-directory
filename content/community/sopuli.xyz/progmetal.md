@@ -3,20 +3,20 @@ title: "Progressive Metal Music"
 name: "progmetal"
 description: "Community for progressive metal music, please share some songs and bands you enjoy or discuss anything regarding the progmetal scene.Prog rock also welcome to post here, but the main focus of the community should be progmetal.Some other music communities: https://beehaw.org/post/516009"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/progmetal"
 host: sopuli.xyz
 lastmod: "2023-06-13 19:05:44"
 published: "2023-06-10 16:47:35"
-subscribers: 331
-posts: 48
-comments: 158
-weight: 48
-dau: 6
-wau: 34
-mau: 54
+subscribers: 337
+posts: 49
+comments: 159
+weight: 49
+dau: 4
+wau: 27
+mau: 55
 instances:
 - "sopuli_xyz"
 tags: 

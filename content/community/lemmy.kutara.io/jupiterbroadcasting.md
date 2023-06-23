@@ -3,7 +3,7 @@ title: "Jupiter Broadcasting "
 name: "jupiterbroadcasting"
 description: "A fan ran community for the podcasts produced by [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)"
 type: community
-date: "2023-06-21 14:54:19"
+date: "2023-06-23 01:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kutara.io/c/jupiterbroadcasting"

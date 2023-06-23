@@ -3,20 +3,20 @@ title: "The Sopranos"
 name: "thesopranos"
 description: "Lemmy community dedicated to the HBO hit TV series, The Sopranos."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/thesopranos"
 host: 1337lemmy.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 23:52:09"
-subscribers: 15
+subscribers: 16
 posts: 4
 comments: 14
 weight: 4
-dau: 4
-wau: 5
-mau: 5
+dau: 1
+wau: 4
+mau: 8
 instances:
 - "1337lemmy_com"
 tags: 

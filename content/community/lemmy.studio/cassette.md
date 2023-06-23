@@ -3,14 +3,14 @@ title: "Cassette tapes and more"
 name: "cassette"
 description: "Discussion about cassettes: new releases, loops, and more!"
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/cassette"
 host: lemmy.studio
 lastmod: "2023-06-06 01:16:13"
 published: "2023-06-05 19:27:31"
-subscribers: 34
+subscribers: 38
 posts: 3
 comments: 0
 weight: 3

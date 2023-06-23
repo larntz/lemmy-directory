@@ -3,7 +3,7 @@ title: "signs"
 name: "signs"
 description: "signs of all kinds, whether shitty, funny, well-designed, or whatever::: spoiler rules1. must be a sign___:::Proudly moderated by![](https://lemmy.ml/pictrs/image/d1730102-1e16-408c-be73-ad4258fc4732.png)"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/signs"
@@ -14,9 +14,9 @@ subscribers: 15
 posts: 23
 comments: 5
 weight: 23
-dau: 1
-wau: 2
-mau: 3
+dau: 2
+wau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

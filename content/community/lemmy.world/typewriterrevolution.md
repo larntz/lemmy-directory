@@ -3,7 +3,7 @@ title: "Typewriter Revolution"
 name: "typewriterrevolution"
 description: "# Typewriter RevolutionThis is a community inspired by Richard Polt's [The Typewriter Revolution.](https://typewriterrevolution.com/the-revolution-is-global) Let's discuss and share about typewriters, typewritten works, and celebrate these marvelous old pieces of technology.See also:* [The Classic Typewriter Page](https://site.xavier.edu/polt/typewriters/)* [The Typewriter Database](https://typewriterdatabase.com/)* [The Typosphere](http://typosphere.blogspot.com/)* [3D Typewriter Parts](https://3dtypewriterparts.com/)* [J.J. Short Platens & Rollers](https://www.jjshort.com/typewriter-platen-repair.php)* [Austin Typewriter, Ink.](http://www.austintypewriterink.com/)"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/typewriterrevolution"

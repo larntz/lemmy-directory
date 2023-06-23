@@ -3,12 +3,12 @@ title: "Fantasy Premier League"
 name: "fpl"
 description: "For discussing news and stats relating to Fantasy Premier League. Memes allowed."
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fpl"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-01-11 19:55:27"
 subscribers: 4
 posts: 0

@@ -3,7 +3,7 @@ title: "Stolen Elections"
 name: "stolenelections"
 description: "Tyranny begins when elections are stolen and the government loses the consent of the governed."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/stolenelections"
@@ -11,10 +11,10 @@ host: exploding-heads.com
 lastmod: "2022-03-13 01:41:10"
 published: "2022-02-28 01:03:52"
 subscribers: 17
-posts: 1041
+posts: 1042
 comments: 26
-weight: 1041
-dau: 2
+weight: 1042
+dau: 1
 wau: 2
 mau: 4
 instances:

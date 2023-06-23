@@ -3,7 +3,7 @@ title: "Anonymity"
 name: "anonymity"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:26"
+date: "2023-06-23 01:18:37"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/anonymity"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 1
 comments: 1
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

@@ -3,14 +3,14 @@ title: "Ardour"
 name: "ardour"
 description: "News and discussions about the Ardour DAW (https://ardour.org/)."
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/ardour"
 host: lemmy.studio
 lastmod: "2023-06-06 01:14:51"
 published: "2023-06-06 01:13:26"
-subscribers: 15
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

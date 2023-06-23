@@ -3,7 +3,7 @@ title: "パンヤ"
 name: "pangya_info"
 description: "パンヤ"
 type: community
-date: "2023-06-22 02:19:29"
+date: "2023-06-23 01:18:39"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/pangya_info"

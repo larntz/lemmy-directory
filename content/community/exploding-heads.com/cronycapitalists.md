@@ -3,7 +3,7 @@ title: "Crony capitalists"
 name: "cronycapitalists"
 description: "There is no lower form of life then corrupt politicians who take money and benefits from corrupt corporate executives (Crony Capitalists) to:- protect the corporation- boost profits for the corporation- eliminate competition- help them win government contracts."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/cronycapitalists"
@@ -11,12 +11,12 @@ host: exploding-heads.com
 lastmod: "2022-03-20 18:50:36"
 published: "2022-03-06 17:59:13"
 subscribers: 15
-posts: 282
+posts: 284
 comments: 45
-weight: 282
-dau: 2
+weight: 284
+dau: 1
 wau: 2
-mau: 4
+mau: 2
 instances:
 - "exploding-heads_com"
 tags: 

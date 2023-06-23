@@ -3,12 +3,12 @@ title: "Excalibur Circle"
 name: "excaliburcircle"
 description: "A community for the folks who believe in building out the Excalibur Circle network"
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/excaliburcircle"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-04-25 14:58:53"
 subscribers: 2
 posts: 0

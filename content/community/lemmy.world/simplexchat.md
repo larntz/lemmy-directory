@@ -3,14 +3,14 @@ title: "Simplex Chat"
 name: "simplexchat"
 description: "This is a unofficial sub for simplex chat. https://simplex.chat/ "
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/simplexchat"
 host: lemmy.world
 lastmod: "2023-06-16 22:22:48"
 published: "2023-06-16 22:09:13"
-subscribers: 6
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

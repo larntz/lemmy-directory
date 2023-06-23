@@ -3,7 +3,7 @@ title: "Toronto Maple Leafs"
 name: "leaf_nation"
 description: "*Be polite. A reminder: Fan's is obviously a short form for 'Fanatics' so disagree politely. No flaming and/or Racism.*"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/leaf_nation"

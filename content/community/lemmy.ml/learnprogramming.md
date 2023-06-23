@@ -3,12 +3,12 @@ title: "Learn Programming"
 name: "learnprogramming"
 description: "A sublemmy for all questions related to programming in any language."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learnprogramming"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-10-04 00:59:13"
 subscribers: 16
 posts: 0

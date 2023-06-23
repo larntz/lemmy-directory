@@ -1,14 +1,14 @@
 ---
 title: "Decaying Winter" 
 name: "decayingwinter"
-description: "A community for the Roblox game [Decaying Winter](https://web.roblox.com/games/13438553315/Decaying-Winter)No NSFW allowed, if you want to post that make a c/decayingwinternsfw or somethingI can’t upload the icon due to a Lemmy bug, I will try to upload it when the bug is resolved."
+description: "A community for the Roblox game [Decaying Winter](https://web.roblox.com/games/13438553315/Decaying-Winter)No NSFW allowed, if you want to post that make a c/decayingwinternsfw or something"
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/decayingwinter"
 host: lemmy.fmhy.ml
-lastmod: "2023-06-20 06:13:24"
+lastmod: "2023-06-22 11:04:16"
 published: "2023-06-20 06:11:30"
 subscribers: 1
 posts: 0

@@ -3,7 +3,7 @@ title: "Vintage Apple"
 name: "vintageapple"
 description: "Vintage Apple computers and Apple products"
 type: community
-date: "2023-06-22 02:20:12"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vintageapple"

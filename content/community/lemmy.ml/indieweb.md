@@ -3,14 +3,14 @@ title: "Crawling the IndieWeb"
 name: "indieweb"
 description: "Miss blogs? Me too. "
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indieweb"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-24 20:00:28"
-subscribers: 83
+subscribers: 84
 posts: 20
 comments: 22
 weight: 20

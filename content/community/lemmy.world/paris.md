@@ -3,14 +3,14 @@ title: "Paris"
 name: "paris"
 description: "Paris et sa banlieue "
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paris"
 host: lemmy.world
 lastmod: "2023-06-15 07:55:55"
 published: "2023-06-14 13:43:21"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

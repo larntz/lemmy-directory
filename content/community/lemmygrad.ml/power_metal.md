@@ -3,14 +3,14 @@ title: "Power Metal"
 name: "power_metal"
 description: "Basic Rules:1. No Harassment, Trolling, or Abuse2. No Spam, Memes, or Low Effort Content3. Keep Content Related to Power Metal4. Song Submission Formatting: Artist - Title5. No Playlist or Full Album Submissions![](https://lemmygrad.ml/pictrs/image/459eb4d1-357d-4632-af06-4874d342db34.jpeg)"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/power_metal"
 host: lemmygrad.ml
 lastmod: "2022-03-25 04:26:06"
 published: "2022-03-25 04:20:01"
-subscribers: 37
+subscribers: 39
 posts: 10
 comments: 3
 weight: 10

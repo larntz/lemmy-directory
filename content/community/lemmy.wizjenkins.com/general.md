@@ -3,7 +3,7 @@ title: "General Topics"
 name: "general"
 description: "This community is for anything that doesn't fit into other communities."
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/general"

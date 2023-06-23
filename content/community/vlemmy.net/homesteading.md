@@ -3,7 +3,7 @@ title: "Homesteading"
 name: "homesteading"
 description: "Anything and everything to do with homesteading, share knowledge and ask questions. "
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/homesteading"

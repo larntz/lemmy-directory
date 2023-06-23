@@ -3,14 +3,14 @@ title: "plantbased"
 name: "plantbased"
 description: "A community for those who try to eat less animals and their products without hostility."
 type: community
-date: "2023-06-20 11:38:51"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plantbased"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 01:37:54"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

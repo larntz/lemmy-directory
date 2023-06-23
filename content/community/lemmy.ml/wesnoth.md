@@ -3,12 +3,12 @@ title: "Battle for Wesnoth"
 name: "wesnoth"
 description: "An open source, turn-based strategy game with a high fantasy theme."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wesnoth"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-05-16 01:42:41"
 subscribers: 8
 posts: 0

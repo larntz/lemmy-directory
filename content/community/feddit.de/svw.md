@@ -3,14 +3,14 @@ title: "Werder Bremen"
 name: "svw"
 description: "Eine grün-weiße Community für den Verein am Osterdeich"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/svw"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 10:54:36"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

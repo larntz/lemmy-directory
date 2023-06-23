@@ -3,7 +3,7 @@ title: "Northampton"
 name: "northampton"
 description: "A community for all things Northampton in the UK. "
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/northampton"

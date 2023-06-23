@@ -3,7 +3,7 @@ title: "MEGASync"
 name: "mega"
 description: "Unofficial mega.nz community of lemmy.worldRules:1. No spam2. Follow lemmy.world's rules and Lemmy's Code Of Conduct3. No Racism, Sexism, Transphobia, etc.4. Do not share illegal content"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mega"

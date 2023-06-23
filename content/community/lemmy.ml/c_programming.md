@@ -3,14 +3,14 @@ title: "The C Programming Language"
 name: "c_programming"
 description: "Everything related to the C programming language. "
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/c_programming"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2019-10-12 12:15:27"
-subscribers: 460
+subscribers: 461
 posts: 9
 comments: 3
 weight: 9

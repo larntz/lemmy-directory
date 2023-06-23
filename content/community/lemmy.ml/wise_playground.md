@@ -3,12 +3,12 @@ title: "The Conversation Community Wise Playground for Collaborative Intelligenc
 name: "wise_playground"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:10"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wise_playground"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2019-04-23 16:17:22"
 subscribers: 40
 posts: 1

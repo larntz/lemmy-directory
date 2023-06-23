@@ -3,14 +3,14 @@ title: "Birding"
 name: "birding"
 description: "Post Photographs of Birds, share your Gear, get Tips for better shots or help others with their Birding"
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/birding"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 16:52:57"
-subscribers: 64
+subscribers: 65
 posts: 10
 comments: 8
 weight: 10

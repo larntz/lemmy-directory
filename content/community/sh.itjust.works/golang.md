@@ -3,14 +3,14 @@ title: "Golang"
 name: "golang"
 description: "A place to talk about all things golang."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/golang"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 23:15:23"
-subscribers: 52
+subscribers: 54
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Space_cats"
 name: "space_cats"
 description: "Cosmic kitties"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/space_cats"
 host: sopuli.xyz
 lastmod: "2023-06-14 16:19:05"
 published: "2023-06-12 23:55:17"
-subscribers: 15
+subscribers: 18
 posts: 2
 comments: 1
 weight: 2

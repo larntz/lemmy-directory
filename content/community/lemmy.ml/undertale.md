@@ -3,7 +3,7 @@ title: "Undertale/Deltarune"
 name: "undertale"
 description: "Community for the videogames Undertale and DeltaruneRules:1. No NSFW! Such posts will be removed"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undertale"
@@ -15,8 +15,8 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 1
-mau: 2
+wau: 3
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Work Reform as it always should have been"
 name: "workreform"
 description: "This is the landing page for Lemmy's Work Reform"
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/workreform"

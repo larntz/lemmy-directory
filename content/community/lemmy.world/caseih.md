@@ -3,7 +3,7 @@ title: "Case IH"
 name: "caseih"
 description: "A replacement for the small Case IH subreddit. It's not about the size, but how you use it, right?"
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/caseih"

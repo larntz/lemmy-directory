@@ -3,14 +3,14 @@ title: "falgsc commune mansfield ohio"
 name: "falgsccommune"
 description: "welcome to the grand commune"
 type: community
-date: "2023-06-22 02:21:28"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/falgsccommune"
 host: lemmy.ml
 lastmod: "2020-06-29 13:18:59"
 published: "2020-06-29 13:08:35"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

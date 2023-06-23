@@ -3,20 +3,20 @@ title: "C & C++"
 name: "cpp"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cpp"
 host: lemmy.ml
 lastmod: "2020-01-22 16:38:32"
 published: "2019-08-19 09:13:52"
-subscribers: 592
+subscribers: 599
 posts: 161
 comments: 57
 weight: 161
 dau: 1
-wau: 3
-mau: 5
+wau: 4
+mau: 6
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Tattoos"
 name: "tattoos"
 description: "A community for posts relating to tattoosRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tattoos"

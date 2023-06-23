@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Community updates and announcements.Admins will post any updates here so be sure to follow!Important updates will be pinned to the local feed."
 type: community
-date: "2023-06-22 02:19:58"
+date: "2023-06-23 01:19:08"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/announcements"

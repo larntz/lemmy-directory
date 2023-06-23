@@ -3,12 +3,12 @@ title: "Simulated - Simulated computer animations"
 name: "simulated"
 description: "A community that will hopefully continue what /r/simulated started!"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simulated"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 12:02:29"
 subscribers: 3
 posts: 0

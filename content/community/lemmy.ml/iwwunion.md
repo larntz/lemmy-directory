@@ -3,14 +3,14 @@ title: "IWW and syndicalism"
 name: "iwwunion"
 description: "Community for union related stuff, with focus on the IWW.A good telegram group to join (I do not own it, I don't take responsibility for what you'll find there):https://t.me/AnarchoSyndicat"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iwwunion"
 host: lemmy.ml
 lastmod: "2022-08-15 13:55:14"
 published: "2022-04-21 20:25:32"
-subscribers: 82
+subscribers: 84
 posts: 39
 comments: 16
 weight: 39

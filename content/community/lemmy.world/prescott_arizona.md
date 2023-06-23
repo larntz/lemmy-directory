@@ -3,7 +3,7 @@ title: "Prescott, Arizona"
 name: "prescott_arizona"
 description: "A community for Prescott, AZ. Please be civil and nice."
 type: community
-date: "2023-06-19 11:36:42"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prescott_arizona"

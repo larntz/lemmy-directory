@@ -3,7 +3,7 @@ title: "Forex"
 name: "forex"
 description: "Welcome to High-Grade FX Lemmy forex trading community! Here you can converse about trading ideas, strategies, trading psychology, and nearly everything in between. We have a telegram group channel run by professional traders where we post trading signals to help you maintain a high success rate over the forex market.We will be posting trading results from time to time and we will consider posting a free signal on a random day every week.Telegram link => https://t.me/HIghGeeFXCommunity rules:*No Spamming*No trolling*No ads*No Promotional activity or   Advertisement"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forex"

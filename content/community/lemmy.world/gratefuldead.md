@@ -3,20 +3,20 @@ title: "Grateful Dead"
 name: "gratefuldead"
 description: "A community for Deadheads on Lemmy. Feel free to post music, discussion, memes, articles and anything else related to the Grateful Dead or the band members' side projects.Only a couple quick rules, I think most should be obvious anyway:1. Stay on topic - keep posts Dead related2. Keep disagreements civil3. No NSFW (pornographic) content4. No racist, sexist, bigoted or violent content5. No politics (unless something is directly related to the band or its members) or other deliberately divisive topics6. Above all else, be kind, ain't no time to hateOther friendly music communities:* [Bluegrass](https://lemmy.world/c/bluegrass)* [KGATLW](https://lemmy.world/c/kgatlw@lemmy.ml)* [Ween](https://lemmy.world/c/ween)* [PopHeads](https://poptalk.scrubbles.tech/c/popheads)* [Taylor Swift](https://poptalk.scrubbles.tech/c/taylorswift)"
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gratefuldead"
 host: lemmy.world
 lastmod: "2023-06-15 10:33:49"
 published: "2023-06-12 13:35:39"
-subscribers: 111
-posts: 19
-comments: 40
-weight: 19
+subscribers: 120
+posts: 20
+comments: 42
+weight: 20
 dau: 2
 wau: 11
-mau: 17
+mau: 18
 instances:
 - "lemmy_world"
 tags: 

@@ -3,14 +3,14 @@ title: "Meta Quest VR"
 name: "metaquest"
 description: "General interest discussion about Meta's (formerly Oculus') Quest VR platform"
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metaquest"
 host: lemmy.world
 lastmod: "2023-06-13 15:12:00"
 published: "2023-06-13 14:20:37"
-subscribers: 53
+subscribers: 55
 posts: 1
 comments: 4
 weight: 1

@@ -3,14 +3,14 @@ title: "Aurora Store"
 name: "aurorastore"
 description: "Aurora Store is an alternative to Google Play Store. This is a support chat for Aurora Store. This room is currently bridged with Telegram at t.me/AuroraSupport• Website: https://auroraoss.com• Downloads: https://files.auroraoss.com• Translate: https://envs.sh/wC• Aurora Droid: https://matrix.to/#/#AuroraDroid:auroraoss.com• Aurora OSS Discussion: https://matrix.to/#/#AuroraOSS:auroraoss.com• Aurora Off-Topic Discussion: https://matrix.to/#/#AuroraOT:auroraoss.com"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aurorastore"
 host: lemmy.ml
 lastmod: "2021-06-15 16:42:06"
 published: "2021-06-15 16:40:51"
-subscribers: 85
+subscribers: 88
 posts: 3
 comments: 2
 weight: 3

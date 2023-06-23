@@ -3,14 +3,14 @@ title: "The Modding of Isaac"
 name: "themoddingofisaac"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/themoddingofisaac"
 host: sh.itjust.works
 lastmod: "2023-06-12 15:51:22"
 published: "2023-06-12 15:51:08"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

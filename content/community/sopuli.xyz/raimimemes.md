@@ -3,7 +3,7 @@ title: "Raimi Memes"
 name: "raimimemes"
 description: "Pizza time! **Related communities:** [Star Wars Memes](https://lemmy.world/c/starwarsmemes)"
 type: community
-date: "2023-06-22 02:20:18"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/raimimemes"

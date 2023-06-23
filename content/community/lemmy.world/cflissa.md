@@ -3,7 +3,7 @@ title: "cflissa"
 name: "cflissa"
 description: "Central Florida ISSA Chaptermoved from /r/cflissa"
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cflissa"

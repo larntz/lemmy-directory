@@ -3,14 +3,14 @@ title: "Pingu 🐧☭"
 name: "pingu"
 description: "The community for Pingu memes."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/pingu"
 host: lemmygrad.ml
 lastmod: "2021-03-28 21:17:55"
 published: "2020-09-20 17:48:27"
-subscribers: 86
+subscribers: 87
 posts: 7
 comments: 10
 weight: 7

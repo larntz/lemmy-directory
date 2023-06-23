@@ -3,7 +3,7 @@ title: "zdrowie i opieka medyczna"
 name: "zdrowie_i_op_med"
 description: "tworzę taką społeczność, bo brakuje takiej zbiorczej dot. zagadnienia"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/zdrowie_i_op_med"

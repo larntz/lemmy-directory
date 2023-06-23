@@ -3,14 +3,14 @@ title: "Anime and Manga"
 name: "animanga"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-22 16:47:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animanga"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-08-27 19:33:11"
-subscribers: 25
+subscribers: 26
 posts: 0
 comments: 0
 weight: 0

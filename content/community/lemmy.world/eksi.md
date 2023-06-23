@@ -3,7 +3,7 @@ title: "ekşi"
 name: "eksi"
 description: "Only Turkish ContentYalnızca Türkçe İçerikler"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eksi"

@@ -3,7 +3,7 @@ title: "Dead by Daylight"
 name: "deadbydaylight"
 description: "Reddit mods message to become a mod"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-22 16:47:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deadbydaylight"
@@ -14,9 +14,9 @@ subscribers: 37
 posts: 16
 comments: 30
 weight: 16
-dau: 2
-wau: 12
-mau: 13
+dau: 1
+wau: 13
+mau: 14
 instances:
 - "lemmy_ml"
 tags: 

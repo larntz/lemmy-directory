@@ -3,14 +3,14 @@ title: "Things With Faces"
 name: "thingswithfaces"
 description: "Inanimate objects with what appear to be faces..."
 type: community
-date: "2023-06-22 02:20:18"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/thingswithfaces"
 host: lemmy.bleh.au
 lastmod: "2023-06-18 11:44:54"
 published: "2023-06-17 10:43:58"
-subscribers: 32
+subscribers: 33
 posts: 5
 comments: 2
 weight: 5

@@ -3,16 +3,16 @@ title: "ciekawe"
 name: "ciekawe"
 description: "Miejsce na wszelkie internetowe odkrycia i ciekawostki, oraz wszystko co nie wiadomo, gdzie indziej miało by się znaleźć. Jeśli coś nie jest po polsku oznacz język w kwadratowych nawiasach na początku."
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ciekawe"
 host: szmer.info
 lastmod: "2021-10-31 17:27:11"
 published: "2021-10-31 17:26:14"
-subscribers: 69
+subscribers: 70
 posts: 198
-comments: 89
+comments: 91
 weight: 198
 dau: 1
 wau: 5

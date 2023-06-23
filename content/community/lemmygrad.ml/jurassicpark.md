@@ -3,14 +3,14 @@ title: "Jurassic Park"
 name: "jurassicpark"
 description: "Commie JP sub for movies, books, games, discussing dinosaur species, memes, shitposting, everything.*-Spared no expense*"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jurassicpark"
 host: lemmygrad.ml
 lastmod: "2022-08-27 05:35:45"
 published: "2022-08-27 05:29:58"
-subscribers: 31
+subscribers: 32
 posts: 47
 comments: 87
 weight: 47

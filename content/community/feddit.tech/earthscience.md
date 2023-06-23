@@ -3,14 +3,14 @@ title: "Earth Science"
 name: "earthscience"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/earthscience"
 host: feddit.tech
 lastmod: "2023-06-14 23:36:26"
 published: "2023-06-14 22:29:31"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

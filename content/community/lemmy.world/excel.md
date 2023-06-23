@@ -3,14 +3,14 @@ title: "Excel"
 name: "excel"
 description: "A community dedicated to any discussion about Excel. QnA, Discussion of other spreadsheet applications and ancillary programming/scripting are also welcome."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/excel"
 host: lemmy.world
 lastmod: "2023-06-17 12:35:18"
 published: "2023-06-17 12:19:22"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

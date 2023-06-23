@@ -3,7 +3,7 @@ title: "Announcements for The Lemmy Club"
 name: "announcements"
 description: "Important instance announcements can be found here."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/announcements"

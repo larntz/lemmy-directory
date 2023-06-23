@@ -3,7 +3,7 @@ title: "Bread"
 name: "bread"
 description: "A day without bread is like a day without sun.Post your success, post your failures, ask questions, and share your favorite recipes!"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-22 16:47:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bread"

@@ -3,7 +3,7 @@ title: "Afk Arena"
 name: "afkarena"
 description: "An unofficial community dedicated to *AFK Arena*, a Mobile RPG."
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:56"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/afkarena"

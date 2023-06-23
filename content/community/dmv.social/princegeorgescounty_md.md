@@ -3,14 +3,14 @@ title: "Prince George's County, Maryland"
 name: "princegeorgescounty_md"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:16"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/princegeorgescounty_md"
 host: dmv.social
 lastmod: "2023-06-17 00:55:26"
 published: "2023-06-15 05:31:49"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

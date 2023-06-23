@@ -3,7 +3,7 @@ title: "wifi"
 name: "wifi"
 description: "wifi"
 type: community
-date: "2023-06-20 11:38:54"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wifi"

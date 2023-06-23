@@ -3,14 +3,14 @@ title: "postmetal"
 name: "postmetal"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/postmetal"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 20:05:14"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

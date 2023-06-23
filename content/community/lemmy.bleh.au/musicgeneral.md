@@ -3,7 +3,7 @@ title: "Music General"
 name: "musicgeneral"
 description: "A place to share found or favourite tunes."
 type: community
-date: "2023-06-22 02:20:18"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/musicgeneral"

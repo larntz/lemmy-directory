@@ -3,7 +3,7 @@ title: "Headphones"
 name: "headphones"
 description: "A place to talk about all types of headphones/IEM's from consumer ANC to open-back audiophile. "
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/headphones"

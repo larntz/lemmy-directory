@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "this community is intended for trying out lemmy features"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/test"

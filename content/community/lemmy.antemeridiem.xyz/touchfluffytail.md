@@ -3,7 +3,7 @@ title: "Touch Fluffy Tail"
 name: "touchfluffytail"
 description: "Post kemonos with fluffy tails, simple as. Each submission must have an original source link, and optionally a booru link as well"
 type: community
-date: "2023-06-22 02:19:59"
+date: "2023-06-23 01:19:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/touchfluffytail"

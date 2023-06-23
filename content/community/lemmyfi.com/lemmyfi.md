@@ -3,7 +3,7 @@ title: "Lemmyfi Info"
 name: "lemmyfi"
 description: "Discussion and info posts regarding lemmyfi.com"
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/lemmyfi"

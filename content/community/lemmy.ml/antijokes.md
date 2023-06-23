@@ -3,14 +3,14 @@ title: "AntiJokes"
 name: "antijokes"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/antijokes"
 host: lemmy.ml
 lastmod: "2020-06-27 21:15:48"
 published: "2020-06-27 21:14:59"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

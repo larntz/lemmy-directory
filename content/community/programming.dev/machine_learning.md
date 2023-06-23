@@ -3,14 +3,14 @@ title: "Machine Learning"
 name: "machine_learning"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-23 01:19:02"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/machine_learning"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 13:33:42"
 published: "2023-06-14 22:08:28"
-subscribers: 64
+subscribers: 70
 posts: 3
 comments: 0
 weight: 3

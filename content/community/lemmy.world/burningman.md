@@ -3,14 +3,14 @@ title: "Burning Man"
 name: "burningman"
 description: "**A space for people who call Black Rock City home.**"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/burningman"
 host: lemmy.world
 lastmod: "2023-06-18 07:12:33"
 published: "2023-06-18 07:06:46"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

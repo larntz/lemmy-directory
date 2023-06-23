@@ -3,7 +3,7 @@ title: "rant"
 name: "rant"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:25"
+date: "2023-06-23 01:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/rant"

@@ -3,7 +3,7 @@ title: "fighters"
 name: "fighters"
 description: "A lemmy for the Fighting Game Community. Come share with us your thoughts and questions about the FGC, and everything related to it."
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fighters"

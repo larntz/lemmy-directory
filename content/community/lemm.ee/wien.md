@@ -3,7 +3,7 @@ title: "Wien"
 name: "wien"
 description: "Vom Praterstern bis Grinzing, von Stammersdorf bis Alterlaa hier kommen alle Wiener und nicht Wiener zam. Man bringe den Spritzwein und joint auch unsrem Discord Server!"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/wien"

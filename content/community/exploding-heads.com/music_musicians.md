@@ -3,7 +3,7 @@ title: "Music"
 name: "music_musicians"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/music_musicians"
@@ -15,7 +15,7 @@ posts: 11
 comments: 4
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "exploding-heads_com"

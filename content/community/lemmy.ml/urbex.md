@@ -3,14 +3,14 @@ title: "urbex"
 name: "urbex"
 description: "Urban Exploration. Post your stories, photos and more!"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/urbex"
 host: lemmy.ml
 lastmod: "2021-04-28 18:24:26"
 published: "2021-04-28 17:25:40"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 0
 weight: 1

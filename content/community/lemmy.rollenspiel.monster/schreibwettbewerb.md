@@ -3,14 +3,14 @@ title: "Schreibwettbewerb"
 name: "schreibwettbewerb"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/schreibwettbewerb"
 host: lemmy.rollenspiel.monster
 lastmod: "2022-06-01 12:26:13"
 published: "2022-06-01 12:15:36"
-subscribers: 6
+subscribers: 7
 posts: 22
 comments: 6
 weight: 22

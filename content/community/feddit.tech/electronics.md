@@ -3,14 +3,14 @@ title: "Electronics"
 name: "electronics"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/electronics"
 host: feddit.tech
 lastmod: "2023-06-14 22:59:53"
 published: "2023-06-14 22:11:12"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

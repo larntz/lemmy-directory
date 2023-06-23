@@ -3,7 +3,7 @@ title: "DCC RPG"
 name: "dccrpg"
 description: "Return to the glory days of fantasy with the Dungeon Crawl Classics Role Playing Game. Adventure as 1974 intended you to, with modern rules grounded in the origins of sword & sorcery. Fast play, cryptic secrets, and a mysterious past await you!"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dccrpg"

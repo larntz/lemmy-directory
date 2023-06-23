@@ -3,14 +3,14 @@ title: "Teenagers"
 name: "teenagers"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teenagers"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-12-14 22:04:50"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 3
 weight: 2

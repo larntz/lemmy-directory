@@ -3,7 +3,7 @@ title: "DiWHY"
 name: "diwhy"
 description: "DIY lifehacks that dont make sense to create."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diwhy"

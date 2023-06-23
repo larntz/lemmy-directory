@@ -3,7 +3,7 @@ title: "Guerilla Warfare and the Iron Collective"
 name: "gwic"
 description: "A community so I can share and gather things for my book. "
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gwic"

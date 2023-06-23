@@ -3,14 +3,14 @@ title: "The Simpsons"
 name: "thesimpsons"
 description: "Everything related to The Simpsons! "
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesimpsons"
 host: lemmy.world
 lastmod: "2023-06-11 12:24:02"
 published: "2023-06-11 12:21:21"
-subscribers: 278
+subscribers: 297
 posts: 10
 comments: 12
 weight: 10

@@ -3,12 +3,12 @@ title: "Fortinet"
 name: "fortinet"
 description: "Discussing all things Fortinet."
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fortinet"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 11:34:34"
 subscribers: 2
 posts: 2

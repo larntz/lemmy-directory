@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community. Stay on topic -- distributed, decentralized, federated stuff. NB: Ads _are_ spam on these streets. "
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/main"

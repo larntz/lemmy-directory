@@ -3,12 +3,12 @@ title: "Techno Production on Lemmy"
 name: "technoproduction"
 description: "~ADSR~A - ALL feedback requests must be posted to the sticky on the top of the page. If you post a feedback request to the main thread it will be deleted by a moderator. Only post to the feedback thread!D - DO NOT share links to warez, torrents, or pirated software.S - No SPAM. This includes:    Posting personal blogs that include links to paid software or commercially distributed music.    Posting links to Self-Promotional content like youtube or soundcloud. Please use flair if you would like to share your pages.R - Be RESPECTFUL."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technoproduction"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-01-17 20:11:36"
 subscribers: 26
 posts: 3

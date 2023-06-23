@@ -3,7 +3,7 @@ title: "Wydarzenia/kalendarz"
 name: "wydarzenia_kalendarz"
 description: "Miejsce na reklamowanie ciekawych wydarzeń, które nas czekają."
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wydarzenia_kalendarz"

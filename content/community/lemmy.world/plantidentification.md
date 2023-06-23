@@ -3,14 +3,14 @@ title: "Plant Identification"
 name: "plantidentification"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plantidentification"
 host: lemmy.world
 lastmod: "2023-06-19 06:39:52"
 published: "2023-06-19 06:39:27"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

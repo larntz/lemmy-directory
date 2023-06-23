@@ -3,7 +3,7 @@ title: "AVR"
 name: "avr"
 description: "This is a community for people who use AVR microcontrollers.  This can include Arduinos, Arduino clones, Arduino like boards, and stand alone AVR chips and self-designed boards.NOTE:  If your circuit is doing something weird when you touch a wire or move your hand across it you have a floating input.  Try adding a 10K pull-up resistor between the pin and Vcc (your supply voltage) and your problem should go away.  On many AVRs you can also set the pin's built in pull-up resistor by setting the pin as output then setting it to 1."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/avr"

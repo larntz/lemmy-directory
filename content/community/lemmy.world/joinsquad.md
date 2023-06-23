@@ -3,7 +3,7 @@ title: "Alias community; you're looking for c/Squad"
 name: "joinsquad"
 description: "Alias subreddit: You're looking for c/Squad"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/joinsquad"

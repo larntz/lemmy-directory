@@ -3,14 +3,14 @@ title: "suggestions for lemmy"
 name: "lemmysuggestions"
 description: "have a good idea for our website? post here to suggest"
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-22 16:46:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmysuggestions"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2019-08-25 19:47:18"
-subscribers: 176
+subscribers: 177
 posts: 34
 comments: 129
 weight: 34

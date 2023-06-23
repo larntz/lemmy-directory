@@ -3,16 +3,16 @@ title: "Pokémon"
 name: "pokemon"
 description: "A place for everything Pokémon "
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/pokemon"
 host: feddit.uk
 lastmod: "2023-06-21 22:08:08"
 published: "2023-06-20 13:05:37"
-subscribers: 4
+subscribers: 5
 posts: 2
-comments: 0
+comments: 2
 weight: 2
 dau: 0
 wau: 0

@@ -3,7 +3,7 @@ title: "Opera Browser"
 name: "operabrowser"
 description: "Community for Opera, Opera GX, Opera Crypto Browser, Opera Mini and other Opera products.https://www.opera.com/"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/operabrowser"

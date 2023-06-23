@@ -3,7 +3,7 @@ title: "鴉インフォメーション(運営情報)"
 name: "korako_info"
 description: "インスタンス運営に関する情報をお伝えします"
 type: community
-date: "2023-06-22 02:19:29"
+date: "2023-06-23 01:18:39"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/korako_info"

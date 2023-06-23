@@ -3,20 +3,20 @@ title: "cute dogs, cats, and other animals"
 name: "aww"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aww"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-03-15 17:42:43"
-subscribers: 4894
-posts: 496
-comments: 582
-weight: 496
-dau: 32
-wau: 203
-mau: 418
+subscribers: 5005
+posts: 504
+comments: 602
+weight: 504
+dau: 27
+wau: 134
+mau: 436
 instances:
 - "lemmy_ml"
 tags: 

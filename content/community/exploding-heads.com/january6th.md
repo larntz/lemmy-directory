@@ -3,7 +3,7 @@ title: "January 6th"
 name: "january6th"
 description: "So what really happened on January 6th?"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/january6th"

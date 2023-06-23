@@ -3,14 +3,14 @@ title: "Geographic Information Systems"
 name: "gis"
 description: "All things GIS (Geographic Information Systems) -- QGIS, ESRI, and more."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gis"
 host: lemmy.world
 lastmod: "2023-06-12 01:59:36"
 published: "2023-06-12 01:39:26"
-subscribers: 57
+subscribers: 59
 posts: 3
 comments: 8
 weight: 3

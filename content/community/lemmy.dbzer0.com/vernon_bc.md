@@ -3,7 +3,7 @@ title: "Vernon BC"
 name: "vernon_bc"
 description: "A community for anything related to Vernon BC, and more generally the North Okanagan."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/vernon_bc"

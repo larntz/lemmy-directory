@@ -3,19 +3,19 @@ title: "hiphopheads "
 name: "hiphopheads"
 description: "Welcome to !hiphopheads! If you want this community established and well maintained, then creating activity is how you let us know!-This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hiphopheads"
 host: lemmy.world
 lastmod: "2023-06-15 23:26:23"
 published: "2023-06-12 01:50:55"
-subscribers: 24
+subscribers: 26
 posts: 2
 comments: 1
 weight: 2
 dau: 2
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

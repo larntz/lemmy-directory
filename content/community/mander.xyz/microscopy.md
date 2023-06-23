@@ -3,7 +3,7 @@ title: "Microscopy"
 name: "microscopy"
 description: "Anything related to things that are too small to see them with the eye, and the tools used to observe them.This space is quite general in scope - microscopes, microbiology, small component electronics, questions about buying optical components, etc. "
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/microscopy"

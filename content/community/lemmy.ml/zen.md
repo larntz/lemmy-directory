@@ -3,7 +3,7 @@ title: "Zen"
 name: "zen"
 description: "A community dedicated to Bodhidharma's lineage and their teachings"
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zen"

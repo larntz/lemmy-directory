@@ -3,20 +3,20 @@ title: "Main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:32"
+date: "2023-06-23 01:18:42"
 draft: false
 nsfw: false
 actor_id: "https://ds9.lemmy.ml/c/main"
 host: ds9.lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 21:46:22"
-subscribers: 4
-posts: 7
-comments: 14
-weight: 7
-dau: 3
-wau: 3
-mau: 3
+subscribers: 5
+posts: 10
+comments: 17
+weight: 10
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "ds9_lemmy_ml"
 tags: 

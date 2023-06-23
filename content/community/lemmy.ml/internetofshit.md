@@ -3,12 +3,12 @@ title: "Internet of Shit"
 name: "internetofshit"
 description: "For your internet-enabled cat water dispensers and bluetooth-ready kettles."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/internetofshit"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-08-12 16:30:41"
 subscribers: 16
 posts: 1

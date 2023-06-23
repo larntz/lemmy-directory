@@ -3,7 +3,7 @@ title: "devo.land"
 name: "devo_land"
 description: "This is a community to discuss the https://devo.land platform."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/devo_land"

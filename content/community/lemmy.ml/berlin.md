@@ -3,14 +3,14 @@ title: "berlin"
 name: "berlin"
 description: "Dit is Berlin."
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/berlin"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2019-12-09 20:18:01"
-subscribers: 28
+subscribers: 29
 posts: 1
 comments: 0
 weight: 1

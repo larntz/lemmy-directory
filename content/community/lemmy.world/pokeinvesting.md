@@ -3,7 +3,7 @@ title: "PokeInvesting"
 name: "pokeinvesting"
 description: "Reddit’s PokeInvesting home on the Fediverse! 1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW3. No trading/Selling4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokeinvesting"

@@ -1,14 +1,14 @@
 ---
 title: "Phuket" 
 name: "phuket"
-description: "all things Phuket!"
+description: "all things Phuket! Locals and Expats especially welcome - or if you're coming here on holiday, ask away!"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phuket"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 03:59:38"
 published: "2023-06-21 03:52:12"
 subscribers: 1
 posts: 0

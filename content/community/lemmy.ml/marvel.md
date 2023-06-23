@@ -3,20 +3,20 @@ title: "Marvel"
 name: "marvel"
 description: "For everything related to Marvel"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvel"
 host: lemmy.ml
 lastmod: "2023-06-10 15:17:22"
 published: "2021-12-15 08:24:24"
-subscribers: 108
-posts: 4
-comments: 6
-weight: 4
-dau: 4
-wau: 5
-mau: 9
+subscribers: 120
+posts: 6
+comments: 7
+weight: 6
+dau: 3
+wau: 8
+mau: 12
 instances:
 - "lemmy_ml"
 tags: 

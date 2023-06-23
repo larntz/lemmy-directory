@@ -3,7 +3,7 @@ title: "Germany"
 name: "germany"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/germany"
@@ -15,7 +15,7 @@ posts: 73
 comments: 5
 weight: 73
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "exploding-heads_com"

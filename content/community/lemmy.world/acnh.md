@@ -3,20 +3,20 @@ title: "Animal Crossing New Horizons"
 name: "acnh"
 description: "A community for Animal Crossing New Horizons. Post anything about ACNH here!"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acnh"
 host: lemmy.world
 lastmod: "2023-06-07 13:02:25"
 published: "2023-06-06 23:56:45"
-subscribers: 205
-posts: 8
+subscribers: 215
+posts: 9
 comments: 14
-weight: 8
+weight: 9
 dau: 1
-wau: 3
-mau: 8
+wau: 4
+mau: 9
 instances:
 - "lemmy_world"
 tags: 

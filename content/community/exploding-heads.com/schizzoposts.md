@@ -3,7 +3,7 @@ title: "Schizzo Posts"
 name: "schizzoposts"
 description: "Room for posting Random incoherent rants like you are a crazy person. Everything in this room is satire and shouldn’t be taken seriously (no calls for violence, no laying out plans for self harm or harming others)"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/schizzoposts"

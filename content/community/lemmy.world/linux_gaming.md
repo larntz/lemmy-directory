@@ -3,20 +3,20 @@ title: "Linux Gaming"
 name: "linux_gaming"
 description: "Discussions and news about gaming on the GNU/Linux family of operating systems (including the Steam Deck). Potentially a `$HOME` away from home for disgruntled /r/linux_gaming denizens of the redditarian demesne.This page can be subscribed to via RSS.Original /r/linux_gaming pengwing by uoou.# Resources**WWW:*** [Linux Gaming wiki](https://linux-gaming.kwindu.eu/index.php)* [Gaming on Linux](https://www.gamingonlinux.com/)* [ProtonDB](https://www.protondb.com/)* [Lutris](https://lutris.net)* [PCGamingWiki](http://pcgamingwiki.com/wiki/Home)* [LibreGameWiki](https://libregamewiki.org/Main_Page)* [Boiling Steam](https://boilingsteam.com/)* [Phoronix](https://www.phoronix.com/)**Discord:*** [Gaming on Linux](https://discord.gg/xAPJFX54Ex)* [Linux Gamers Group](https://discord.gg/BaWqd4r)* [Linux Gaming](https://discord.gg/UqenWumc9p)* [Lutris](https://discord.gg/8mzUKZepG9)**IRC:*** [Gaming on Linux](https://www.gamingonlinux.com/irc/)**Matrix:*** [Linux Gamers Group (space)](https://matrix.to/#/!yTNaIjgcibeYZIpsQi:matrix.org) * [Linux Gamers Group (“home” room)](https://matrix.to/#/!cZCRCLmQmHAGnBqmIE:matrix.org)* [Linux Gaming](https://matrix.to/#/#linux_gaming:matrix.org)**Telegram:*** [Gaming on Linux](https://t.me/linux_gaming)"
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linux_gaming"
 host: lemmy.world
 lastmod: "2023-06-15 10:07:45"
 published: "2023-06-14 10:26:22"
-subscribers: 2686
-posts: 36
-comments: 286
-weight: 36
-dau: 13
-wau: 148
-mau: 175
+subscribers: 2969
+posts: 37
+comments: 297
+weight: 37
+dau: 11
+wau: 124
+mau: 182
 instances:
 - "lemmy_world"
 tags: 

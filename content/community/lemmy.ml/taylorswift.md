@@ -3,12 +3,12 @@ title: "Taylor Swift"
 name: "taylorswift"
 description: "A community for the swifties.for the *_so casually cruel_*  **_blondie_** in the name of being honest ❣️"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/taylorswift"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-08-06 02:11:53"
 subscribers: 7
 posts: 3

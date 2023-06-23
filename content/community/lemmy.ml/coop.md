@@ -3,14 +3,14 @@ title: "Co-op"
 name: "coop"
 description: "All about co-operatives"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coop"
 host: lemmy.ml
 lastmod: "2021-01-29 13:30:51"
 published: "2020-06-28 08:39:28"
-subscribers: 26
+subscribers: 27
 posts: 1
 comments: 0
 weight: 1

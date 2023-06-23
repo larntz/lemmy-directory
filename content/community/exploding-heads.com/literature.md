@@ -3,7 +3,7 @@ title: "Literature"
 name: "literature"
 description: "For discussions related to literature, short stories, poetry, and so onrelated: [!books](https://exploding-heads.com/c/books) "
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/literature"

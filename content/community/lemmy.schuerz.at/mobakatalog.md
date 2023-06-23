@@ -3,7 +3,7 @@ title: "Modellbahn Bauteile und Hersteller"
 name: "mobakatalog"
 description: "Dies ist eine Community, welche Angebote, Produkte, Services rund um Bauteile für die Modellbahn zusammenträgt. Hersteller gibt es ja viele, und Produkte noch viel mehr.Die Erfahrungen lehren die Menschen aber, wo man sich hinwenden kann, oder wo man besser die Finger davon lassen sollte."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/mobakatalog"

@@ -1,14 +1,14 @@
 ---
 title: "edu_mex" 
 name: "educacion_en_mexico"
-description: "Description not available."
+description: "Una comunidad para intercambiar ideas sobre la educación en México.Por favor evita:- Politizar la conversación- Ser ofensivo con los demás"
 type: community
-date: "2023-06-22 02:21:43"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/educacion_en_mexico"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 05:00:17"
 published: "2023-06-22 01:03:58"
 subscribers: 1
 posts: 0

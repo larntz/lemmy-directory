@@ -3,7 +3,7 @@ title: "Artefacts"
 name: "artefacts"
 description: "Images of interesting artefacts"
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/artefacts"

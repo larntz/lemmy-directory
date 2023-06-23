@@ -3,7 +3,7 @@ title: "Kansas City"
 name: "kansascity"
 description: "Place for Kansas City locals to chat about anything that's on their mind."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/kansascity"

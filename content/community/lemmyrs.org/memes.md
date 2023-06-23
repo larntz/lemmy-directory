@@ -3,7 +3,7 @@ title: "Rust: Memes"
 name: "memes"
 description: "# MemesSay Rewrite in Rust one more time, I dare you. I double dare you MF!"
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/memes"

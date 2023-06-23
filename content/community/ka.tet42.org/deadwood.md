@@ -3,14 +3,14 @@ title: "Deadwood"
 name: "deadwood"
 description: "Welcome to fucking Deadwood!Discussion of the Deadwood HBO series.# Rules1. Don't be a hoople-head.2. Wo-wo-wo-woah, you got a stagecoach to catch or somethin' huh? Slow... the fuck up."
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://ka.tet42.org/c/deadwood"
 host: ka.tet42.org
 lastmod: "2023-06-12 02:27:56"
 published: "2023-06-11 18:38:13"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

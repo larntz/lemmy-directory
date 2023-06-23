@@ -3,7 +3,7 @@ title: "Writing"
 name: "writing"
 description: "Interested in Writing? "
 type: community
-date: "2023-06-22 02:19:37"
+date: "2023-06-23 01:18:47"
 draft: false
 nsfw: false
 actor_id: "https://thediscussion.site/c/writing"

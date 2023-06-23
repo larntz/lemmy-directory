@@ -3,14 +3,14 @@ title: "Chemistry"
 name: "chemistry"
 description: "A community for chemists and those who love chemistry."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chemistry"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 06:52:18"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

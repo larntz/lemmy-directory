@@ -3,14 +3,14 @@ title: "Tech News"
 name: "technews"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/technews"
 host: feddit.tech
 lastmod: "2023-06-14 23:00:45"
 published: "2023-06-14 22:12:09"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

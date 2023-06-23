@@ -3,12 +3,12 @@ title: "A community announcing its own SideProject."
 name: "sideproject"
 description: "Do you want to expand the user base of your side project? Find potential users of your products, expand your user base, and collect user opinions in this community."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sideproject"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-05-17 09:28:49"
 subscribers: 9
 posts: 4

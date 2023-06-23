@@ -3,20 +3,20 @@ title: "Reddit"
 name: "reddit"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reddit"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2019-08-23 09:57:07"
-subscribers: 8932
-posts: 423
-comments: 6657
-weight: 423
-dau: 225
-wau: 1990
-mau: 2859
+subscribers: 9122
+posts: 435
+comments: 6928
+weight: 435
+dau: 220
+wau: 1724
+mau: 3127
 instances:
 - "lemmy_ml"
 tags: 

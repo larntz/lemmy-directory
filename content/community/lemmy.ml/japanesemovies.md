@@ -3,12 +3,12 @@ title: "日本語の映画 - Japanese Movies and Series"
 name: "japanesemovies"
 description: "[日本語２４７](https://lemmy.ml/c/japanese247)の映画[日本語247](https://lemmy.ml/c/japanese247) community’s Movies subThis sub is for sharing movies and series for learning japanese."
 type: community
-date: "2023-06-22 02:21:28"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japanesemovies"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-05-31 10:50:16"
 subscribers: 18
 posts: 1

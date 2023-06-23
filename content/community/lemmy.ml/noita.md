@@ -3,14 +3,14 @@ title: "Noita"
 name: "noita"
 description: "Noita is a magical action roguelite set in a world where every pixel is physically simulated."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/noita"
 host: lemmy.ml
 lastmod: "2023-04-19 17:18:55"
 published: "2023-04-19 17:17:12"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

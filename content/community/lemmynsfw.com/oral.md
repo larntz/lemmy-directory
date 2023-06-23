@@ -3,14 +3,14 @@ title: "oral"
 name: "oral"
 description: "Posts must contain oral sex. Do not violate any site wide rules. "
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-23 01:19:49"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/oral"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:20:37"
-subscribers: 59
+subscribers: 65
 posts: 0
 comments: 0
 weight: 0

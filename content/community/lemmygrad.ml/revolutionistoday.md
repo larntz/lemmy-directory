@@ -3,7 +3,7 @@ title: "Revolution Is Today"
 name: "revolutionistoday"
 description: "Posts must make the user think that communism will be achieved this Afternoon."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/revolutionistoday"

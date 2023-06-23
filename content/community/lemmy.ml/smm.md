@@ -3,12 +3,12 @@ title: "Social Media Marketing"
 name: "smm"
 description: "Discussions on Social Media Marketing"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smm"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-02-14 05:05:45"
 subscribers: 5
 posts: 1

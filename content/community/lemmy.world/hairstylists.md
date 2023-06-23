@@ -3,7 +3,7 @@ title: "Hairstylists"
 name: "hairstylists"
 description: "A community for hairstylists to discuss all things hair"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hairstylists"

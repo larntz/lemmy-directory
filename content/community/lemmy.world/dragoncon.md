@@ -3,7 +3,7 @@ title: "Dragon Con"
 name: "dragoncon"
 description: "This is an unofficial community. Dragon Con is the largest fan run, multi-genre convention. It is held in Atlanta every Labor Day weekend."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dragoncon"

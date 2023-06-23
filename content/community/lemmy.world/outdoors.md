@@ -3,7 +3,7 @@ title: "outdoors"
 name: "outdoors"
 description: "Outdoor recreation: keeping humans fit, fed and happy for thousands of years. The sun on your face, the wind in your hair: all this and more could be yours to experience... if you ever get off reddit and go outside for once! Outdoors is for *all* outdoor experiences, not limited to any specific interest. Caving, mountain climbing, cycling, bushcraft, gardening, sailing, plants, birds, trees, going for a stroll -- it's all on topic here!"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/outdoors"

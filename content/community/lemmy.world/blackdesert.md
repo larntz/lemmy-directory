@@ -3,14 +3,14 @@ title: "Black Desert"
 name: "blackdesert"
 description: "A community for Black Desert."
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackdesert"
 host: lemmy.world
 lastmod: "2023-06-19 05:30:12"
 published: "2023-06-18 16:27:05"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

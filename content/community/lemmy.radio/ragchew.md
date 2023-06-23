@@ -1,19 +1,19 @@
 ---
 title: "Rag Chew" 
 name: "ragchew"
-description: "~~General amateur radio chat, questions, and news~~ ¯ _(ツ)_/¯Moved to [Amateur Radio](https://lemmy.radio/post/3403)"
+description: "General and misc. community not pertaining to amateur radio. Introduce yourself, talk about other interests, what's your weather like?"
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/ragchew"
 host: lemmy.radio
-lastmod: "2023-06-21 16:35:12"
+lastmod: "2023-06-22 14:28:48"
 published: "2023-06-12 21:29:34"
-subscribers: 21
-posts: 7
-comments: 11
-weight: 7
+subscribers: 25
+posts: 8
+comments: 12
+weight: 8
 dau: 1
 wau: 5
 mau: 5

@@ -3,7 +3,7 @@ title: "Fact-checking"
 name: "dociekliwosc"
 description: "Bądźmy sceptyczni wobec wiadomości nie tylko 1 kwietnia. Tutaj można weryfikować znalezione w sieci artykuły i publikować przykłady manipulacji."
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/dociekliwosc"

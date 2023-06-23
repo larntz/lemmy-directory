@@ -3,7 +3,7 @@ title: "AOSP"
 name: "aosp"
 description: "Android is an open source operating system for mobile devices and a corresponding open source project led by Google. This site and the Android Open Source Project (AOSP) repository offer the information and source code needed to create custom variants of the Android OS, port devices and accessories to the Android platform, and ensure devices meet the compatibility requirements that keep the Android ecosystem a healthy and stable environment for millions of users.https://source.android.com/Related communities:  - [!androidapps@lemmy.ml](https://lemmy.ml/c/androidapps)- [!androidofficial@lemmy.ml](https://lemmy.ml/c/androidofficial)- [!grapheneos@lemmy.ml](https://lemmy.ml/c/grapheneos)- [!windowssec@lemmy.ml](https://lemmy.ml/c/windowssec)"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aosp"

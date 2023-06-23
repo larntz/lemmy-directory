@@ -3,12 +3,12 @@ title: "Bikes and commuting etc"
 name: "bicycle"
 description: "All about those miracle machines. "
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bicycle"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-15 18:43:56"
 subscribers: 130
 posts: 26

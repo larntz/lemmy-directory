@@ -3,7 +3,7 @@ title: "VeChain, a Blockchain for Our Better World"
 name: "vechain"
 description: "Vechain built the world's leading enterprise-grade L1 smart contract platform, VechainThor - an ultra-low carbon, highly scalable blockchain designed to deliver global sustainability objectives. visit https://linktr.ee/vechain_official to learn more"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/vechain"

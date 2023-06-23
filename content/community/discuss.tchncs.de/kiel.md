@@ -3,7 +3,7 @@ title: "Kiel - Landeshauptstadt"
 name: "kiel"
 description: "Interessantes, skuriles und witziges um und aus der Landeshauptstadt zwischen den Meeren."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kiel"

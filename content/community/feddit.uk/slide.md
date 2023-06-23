@@ -1,16 +1,16 @@
 ---
 title: "Slide for Lemmy" 
 name: "slide"
-description: "Description not available."
+description: "https://github.com/bqv/slide/"
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/slide"
 host: feddit.uk
-lastmod: "2023-06-21 20:02:30"
+lastmod: "2023-06-22 15:28:00"
 published: "2023-06-21 20:01:25"
-subscribers: 1
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

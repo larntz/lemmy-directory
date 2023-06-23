@@ -3,7 +3,7 @@ title: "Tetris"
 name: "tetris"
 description: "Welcome. All forms of our favorite block stacking game may be discuss (official and unofficial)"
 type: community
-date: "2023-06-21 14:54:03"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tetris"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "sh_itjust_works"

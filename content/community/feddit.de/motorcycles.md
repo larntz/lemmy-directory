@@ -3,7 +3,7 @@ title: "Mototcycles"
 name: "motorcycles"
 description: "This community is for all things motorcycle related. At a later point and with enough traction gained, we can branch out into multiple smaller and more specific communities, but for now I am trying to recreate one of the subreddits that I miss the most. "
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/motorcycles"

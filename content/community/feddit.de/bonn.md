@@ -3,14 +3,14 @@ title: "Bonn"
 name: "bonn"
 description: "Community für und über alles was die Stadt Bonn und alles Drumherum betrifft. Community about all things related to the city of Bonn, Germany. "
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bonn"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 13:56:31"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

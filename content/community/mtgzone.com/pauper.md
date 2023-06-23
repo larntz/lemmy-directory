@@ -3,14 +3,14 @@ title: "Pauper"
 name: "pauper"
 description: "#### Pauper format discussionThe most accessible format! In Pauper, all cards in your deck must have been released at common rarity in a Magic\u202fset or product.Read more at [Pauper's official website](https://magic.wizards.com/en/formats/pauper)---"
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:10"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/pauper"
 host: mtgzone.com
 lastmod: "2023-06-16 15:51:40"
 published: "2023-06-12 13:28:36"
-subscribers: 24
+subscribers: 26
 posts: 3
 comments: 6
 weight: 3

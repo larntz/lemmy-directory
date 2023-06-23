@@ -3,7 +3,7 @@ title: "Technology"
 name: "technology"
 description: "For all discussions related to technologyrelated: [!technews@exploding-heads.com](https://exploding-heads.com/c/technews) [!digitslfreedom@exploding-heads.com](https://exploding-heads.com/c/digitslfreedom) "
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/technology"
@@ -15,7 +15,7 @@ posts: 26
 comments: 35
 weight: 26
 dau: 1
-wau: 13
+wau: 11
 mau: 15
 instances:
 - "exploding-heads_com"

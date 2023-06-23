@@ -3,14 +3,14 @@ title: "Android Apps"
 name: "androidapps"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/androidapps"
 host: lemmy.world
 lastmod: "2023-06-21 09:23:30"
 published: "2023-06-17 21:10:11"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "SWGEmu"
 name: "swgemu"
 description: "An area for discussion of Star Wars Galaxies Emulator (SWGEmu) servers.1. No piracy. Don't ask, share or advocate the downloading or sharing of SWG2. Keep Posts/Comments on topic to SWGEmu3. No Discussion of Illegal Source Content or Servers4. No Discussion of Non-AGPL Compliant Servers5. No Account, Item or Credit Selling6. No Personal Attacks7. No Excessive Posting"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swgemu"

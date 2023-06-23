@@ -3,14 +3,14 @@ title: "The frontpage of reddit, 12 years ago"
 name: "reddit12yearsago"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddit12yearsago"
 host: lemmy.world
 lastmod: "2023-06-21 21:29:33"
 published: "2023-06-15 19:39:46"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "you must read"
 name: "youmustread"
 description: "thought provoking books, essays, and other writing that people should read to radically change the way they think about something."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youmustread"

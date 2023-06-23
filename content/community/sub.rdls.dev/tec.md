@@ -3,7 +3,7 @@ title: "Tecnologia"
 name: "tec"
 description: "Tópico voltado a discussões sobre tecnologia"
 type: community
-date: "2023-06-22 02:20:12"
+date: "2023-06-23 01:19:22"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/tec"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 5
 comments: 9
 weight: 5
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:

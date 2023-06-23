@@ -3,17 +3,17 @@ title: "Muscle Chub Emporium"
 name: "muscle_chub_emporium"
 description: "Thugs, Mugs, and Gashouse Gorillas!"
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:49"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/muscle_chub_emporium"
 host: lemmynsfw.com
 lastmod: "2023-06-21 20:37:20"
 published: "2023-06-17 00:37:13"
-subscribers: 18
-posts: 7
+subscribers: 19
+posts: 9
 comments: 1
-weight: 7
+weight: 9
 dau: 1
 wau: 2
 mau: 2

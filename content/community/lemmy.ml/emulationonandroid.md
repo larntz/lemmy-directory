@@ -1,19 +1,19 @@
 ---
 title: "Emulation On Android" 
 name: "emulationonandroid"
-description: "Description not available."
+description: "A place to discuss about emulation and virtualization on AndroidRULES:- Be kind and respectful to each other.- No requesting, or posting links to, game ROMs or ISOs, or sites to find them.[Emulators and frontends list](https://lemmy.world/post/331302)[Retro Game Corps's starter guide](https://retrogamecorps.com/2022/03/13/android-emulation-starter-guide/)Share the community: https://lemmy.ml/c/emulationonandroidhttps://lemmy.world/c/emulationonandroid@lemmy.mlIf you are on mobile you can use [Jerboa for Lemmy](https://play.google.com/store/apps/details?id=com.jerboa) app but post' formats might be broken."
 type: community
-date: "2023-06-20 11:38:32"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emulationonandroid"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-21 14:20:50"
 published: "2023-06-07 00:13:48"
-subscribers: 35
-posts: 4
+subscribers: 45
+posts: 5
 comments: 2
-weight: 4
+weight: 5
 dau: 1
 wau: 2
 mau: 3

@@ -3,14 +3,14 @@ title: "Class Action Park"
 name: "classactionpark"
 description: "Theme park attractions gone wrong"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/classactionpark"
 host: lemmy.zip
 lastmod: "2023-06-16 11:26:40"
 published: "2023-06-16 11:26:33"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

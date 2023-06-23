@@ -3,7 +3,7 @@ title: "Wumbo"
 name: "wumbo"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://wumbo.buzz/c/wumbo"

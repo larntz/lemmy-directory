@@ -3,7 +3,7 @@ title: "Decentralized VPN"
 name: "dvpn"
 description: "General discussion community for Decentralized VPN devices such as the [DeeperConnect](https://www.deeper.network/) system."
 type: community
-date: "2023-06-22 02:20:13"
+date: "2023-06-23 01:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/dvpn"

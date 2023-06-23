@@ -3,7 +3,7 @@ title: "San Antonio Spurs"
 name: "nbaspurs"
 description: "1. ACT CLASSY!2. BE HUMBLE3. SPURS CONTENT ONLY!4. Victor Wembanyama!#gospursgo!"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nbaspurs"

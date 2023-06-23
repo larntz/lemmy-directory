@@ -3,14 +3,14 @@ title: "Crab Cats"
 name: "crabcats"
 description: "Cats acting like crabs!"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crabcats"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 23:16:41"
-subscribers: 17
+subscribers: 19
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Relationship Anarchy"
 name: "relationshipanarchy"
 description: "A sublemmy to discuss RA, defined by Wikipedia thusly: Relationship anarchy, which [does] not divide relationships of partners and non-partners, but [has] a more flexible approach to relationships where everything is allowed so long as everyone can accept the agreement."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/relationshipanarchy"

@@ -3,12 +3,12 @@ title: "Athina"
 name: "athina"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/athina"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-30 15:11:53"
 subscribers: 3
 posts: 0

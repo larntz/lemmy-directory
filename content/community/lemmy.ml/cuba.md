@@ -3,7 +3,7 @@ title: "Cuba"
 name: "cuba"
 description: "# Cuba----Community dedicated to discuss everything related to Cuba. Its culture, its language, its politics and its people.----#### Rules:1. Posts must be in Spanish or in English.2. Add a flair in the title of every post.**List of flairs:**    [News] [Culture] [Discussion]    [Question] [Request] [Guide]----# Cuba----Comunidad dedicada a discutir todo lo relacionado con Cuba. Su cultura, su idioma, su política y su pueblo.----#### Reglas:1. Las publicaciones deben estar en español o en inglés.2. Añadir una etiqueta en el título de cada publicación.**Lista de etiquetas:**    [Noticias] [Cultura] [Discusión]    [Pregunta] [Petición] [Guía]"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cuba"

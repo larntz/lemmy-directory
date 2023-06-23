@@ -3,14 +3,14 @@ title: "Wreck Hall"
 name: "wreckhall"
 description: "BBS Discussion"
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cmstactical.net/c/wreckhall"
 host: lemmy.cmstactical.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 13:37:27"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

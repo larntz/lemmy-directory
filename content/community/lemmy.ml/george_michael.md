@@ -3,12 +3,12 @@ title: "George Michael"
 name: "george_michael"
 description: "Anything related to George's Music, Story, Charities, etc..."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/george_michael"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 11:56:30"
 subscribers: 1
 posts: 0

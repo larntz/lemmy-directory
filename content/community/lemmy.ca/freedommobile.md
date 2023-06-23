@@ -3,14 +3,14 @@ title: "Freedom Mobile"
 name: "freedommobile"
 description: "All things Freedom Mobile, remember to never give out any personal information. "
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/freedommobile"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 08:56:53"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

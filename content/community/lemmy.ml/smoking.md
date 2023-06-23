@@ -3,7 +3,7 @@ title: "Smoking Meats"
 name: "smoking"
 description: "Let us see those briskets and butts.Please no memes.  If it didn't take at least 6 hours to make, we don't want to see it."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smoking"

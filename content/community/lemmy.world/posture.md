@@ -3,7 +3,7 @@ title: "Posture"
 name: "posture"
 description: "A place to discuss posture - chin tucks, scoliosis, whatever"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/posture"

@@ -3,7 +3,7 @@ title: "Crash Bandicoot"
 name: "crashbandicoot"
 description: "The community dedicated to the Crash Bandicoot franchise! Let's discuss all things related Crash Bandicoot, from the original one to Crash Team Rumble."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crashbandicoot"

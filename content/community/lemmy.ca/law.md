@@ -3,7 +3,7 @@ title: "Law"
 name: "law"
 description: "This is a place for lawyers and non-lawyers to discuss the legal profession and new and interesting legal developments from around the world.Feel free to ask for legal advice and you maybe get answers from the finest wikipedia trained amateur lawyers on the fediverse who have exactly 0 law experience."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/law"

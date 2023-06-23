@@ -3,7 +3,7 @@ title: "Answered questions from r/AskHistorians"
 name: "historiansanswered"
 description: "Crossposts answered questions from r/AskHistorians."
 type: community
-date: "2023-06-22 02:20:05"
+date: "2023-06-23 01:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/historiansanswered"

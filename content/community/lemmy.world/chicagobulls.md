@@ -3,18 +3,18 @@ title: "Chicago Bulls"
 name: "chicagobulls"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicagobulls"
 host: lemmy.world
 lastmod: "2023-06-17 16:43:41"
 published: "2023-06-17 16:24:13"
-subscribers: 19
+subscribers: 21
 posts: 9
 comments: 2
 weight: 9
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "𝒜𝑒𝓈𝓉𝒽𝑒𝓉𝒾𝒸𝓈"
 name: "aesthetics"
 description: "Images that have a nice aesthetic to them. No particular aesthetic in mind so go nuts. Please either mark as OC or credit the artist."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aesthetics"

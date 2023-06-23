@@ -3,19 +3,19 @@ title: "Sea of Thieves"
 name: "seaofthieves"
 description: "It's a game, keep it fun.Be nice."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seaofthieves"
 host: lemmy.world
 lastmod: "2023-06-13 20:46:30"
 published: "2023-06-13 19:28:36"
-subscribers: 20
+subscribers: 21
 posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

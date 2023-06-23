@@ -3,7 +3,7 @@ title: "Sailing!"
 name: "sailing"
 description: "Let's talk about boats, boats of the sailing variety. "
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/sailing"

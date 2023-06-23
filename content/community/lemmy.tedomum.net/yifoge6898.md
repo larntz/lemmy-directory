@@ -3,7 +3,7 @@ title: "southwest"
 name: "yifoge6898"
 description: "How can you get **[Southwest Airlines delay compensation](https://www.travomonk.com/flight-delay/southwest-flight-delay-compensation/)**? AirHelp can help you understand your rights and make a claim for up to $700 (€600) per person. We have helped millions of passengers get the compensation they are owed, hassle-free. We handle all legal matters and paperwork for you — so that you don’t have to."
 type: community
-date: "2023-06-22 02:19:33"
+date: "2023-06-23 01:18:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/yifoge6898"

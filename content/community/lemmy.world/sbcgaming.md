@@ -3,14 +3,14 @@ title: "SBCGaming"
 name: "sbcgaming"
 description: "A community to discuss SBC gaming!"
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sbcgaming"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 20:05:26"
-subscribers: 41
+subscribers: 43
 posts: 2
 comments: 3
 weight: 2

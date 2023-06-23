@@ -3,7 +3,7 @@ title: "Ask Baraza"
 name: "askb"
 description: "You will be surprised at how much depth strangers out there know about that bug you have wrestled the whole afternoon. Ask, and may be it will be answered. "
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/askb"

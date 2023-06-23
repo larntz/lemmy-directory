@@ -3,18 +3,18 @@ title: "Cats"
 name: "cats"
 description: "Post pictures of cute cats! Also feel free to ask questions about cats."
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-22 16:47:07"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cats"
 host: midwest.social
 lastmod: "2023-06-10 15:07:14"
 published: "2021-08-06 02:10:51"
-subscribers: 1056
+subscribers: 1068
 posts: 121
 comments: 156
 weight: 121
-dau: 2
+dau: 1
 wau: 36
 mau: 114
 instances:

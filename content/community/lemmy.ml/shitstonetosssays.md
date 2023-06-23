@@ -3,12 +3,12 @@ title: "Shit Stonetoss Says"
 name: "shitstonetosssays"
 description: "Documenting the anomaly where poop flows out of the screen first documented in the comic StonetossRead PanelsOfLabor instead, it's way betterhttps://thefreepenguin.github.io/panelsoflabor"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitstonetosssays"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-12-16 23:42:11"
 subscribers: 4
 posts: 0

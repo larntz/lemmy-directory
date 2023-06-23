@@ -3,14 +3,14 @@ title: "Ask Women"
 name: "askwomen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askwomen"
 host: lemmy.ml
 lastmod: "2021-12-14 10:10:57"
 published: "2021-12-14 06:55:31"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

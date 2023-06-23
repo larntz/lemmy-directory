@@ -3,12 +3,12 @@ title: "Dinosaurs"
 name: "dinosaurs"
 description: "Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allowed."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinosaurs"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-03-24 21:02:56"
 subscribers: 22
 posts: 3

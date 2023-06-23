@@ -3,14 +3,14 @@ title: "Sonarr"
 name: "sonarr"
 description: "Welcome to the Sonarr community. Feel free to post anything related to Sonarr.[Sonarr website](https://sonarr.tv/)[Sonarr Dockerhub](https://hub.docker.com/r/linuxserver/sonarr)[Trash Guides](https://trash-guides.info/)[Radarr community](https://lemmy.world/c/radarr)"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sonarr"
 host: lemmy.world
 lastmod: "2023-06-16 01:44:44"
 published: "2023-06-15 04:13:02"
-subscribers: 27
+subscribers: 33
 posts: 1
 comments: 0
 weight: 1

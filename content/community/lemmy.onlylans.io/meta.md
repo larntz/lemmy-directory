@@ -3,20 +3,20 @@ title: "Meta (lemmy.onlylans.io)"
 name: "meta"
 description: "Discussions about the lemmy.onlylans.io instance and how to get started with Lemmy."
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.onlylans.io/c/meta"
 host: lemmy.onlylans.io
 lastmod: "2023-06-12 23:40:22"
 published: "2023-06-12 23:26:08"
-subscribers: 2
+subscribers: 3
 posts: 4
-comments: 9
+comments: 13
 weight: 4
 dau: 2
-wau: 2
-mau: 3
+wau: 3
+mau: 4
 instances:
 - "lemmy_onlylans_io"
 tags: 

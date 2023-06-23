@@ -1,22 +1,22 @@
 ---
 title: "Reddit" 
 name: "reddit"
-description: "News and Discussions about Reddit -Welcome to !reddit. This is a community for all news and discussions about Reddit. The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-**1**-Hate speech, harrassment, bigotry, spamming, advertising of any kind are not allowed.**2**-All usernames in screenshots must be censored unless you have their consent with proof. **3**-No upvote farming. **4**-You may not encourage brigading any communities or subreddits in any way. **5**-No illegal and/or NSFW content.Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time, or simply shoot a message to the current moderators. "
+description: "News and Discussions about Reddit -Welcome to !reddit. This is a community for all news and discussions about Reddit. The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-**1**-Hate speech, harrassment, bigotry, spamming, advertising of any kind are not allowed.**2**-All usernames in screenshots must be censored unless you have their consent with proof. This rule will only be enforced at the mod's discretion.**3**-No upvote farming. **4**-You may not encourage brigading any communities or subreddits in any way. **5**-No illegal and/or NSFW content.Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time, or simply shoot a message to the current moderators. "
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddit"
 host: lemmy.world
-lastmod: "2023-06-16 00:01:19"
+lastmod: "2023-06-22 14:45:28"
 published: "2023-06-12 05:17:33"
-subscribers: 1414
-posts: 38
-comments: 632
-weight: 38
-dau: 193
-wau: 428
-mau: 428
+subscribers: 2035
+posts: 48
+comments: 1093
+weight: 48
+dau: 358
+wau: 719
+mau: 725
 instances:
 - "lemmy_world"
 tags: 

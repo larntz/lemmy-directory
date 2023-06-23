@@ -3,7 +3,7 @@ title: "Petroskowo. Rozkminy niepasujące."
 name: "petroskowo"
 description: "![](https://szmer.info/pictrs/image/HLhjwoMveK.png)Rozkminy wszystkich ośmiu Petrosków, defaultowo nie pasujące do formatu. Wyjątki będą krosspostowane.![](https://szmer.info/pictrs/image/ytKZUXsok2.jpg)**Ponadto (transplantowane z !mindfuck): **Rozważania na tematy borderline w sensie moralno-politycznym. W przerwach, dla rozluźnienia, mindfuck wszelaki. Zostaliście ostrzeżeni.![](https://szmer.info/pictrs/image/uobW8TJFa4.jpg)"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/petroskowo"

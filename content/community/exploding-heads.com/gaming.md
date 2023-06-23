@@ -3,7 +3,7 @@ title: "Gaming"
 name: "gaming"
 description: "game related discussion"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/gaming"
@@ -15,7 +15,7 @@ posts: 24
 comments: 18
 weight: 24
 dau: 1
-wau: 7
+wau: 6
 mau: 9
 instances:
 - "exploding-heads_com"

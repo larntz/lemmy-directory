@@ -3,7 +3,7 @@ title: "Rust: Game Development"
 name: "gamedev"
 description: "[Developing]# GoalDiscussions about using Rust for Game development."
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/gamedev"

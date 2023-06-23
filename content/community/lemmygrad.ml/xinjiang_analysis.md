@@ -3,7 +3,7 @@ title: "Xinjiang Analysis"
 name: "xinjiang_analysis"
 description: "A space for sharing info and discussing the Xinjiang Uygur Autonomous Region (XUAR) of China and its people"
 type: community
-date: "2023-06-22 02:19:53"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/xinjiang_analysis"

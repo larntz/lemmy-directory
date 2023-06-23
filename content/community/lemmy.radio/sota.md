@@ -3,7 +3,7 @@ title: "SOTA"
 name: "sota"
 description: "Community to discuss Summits on the Air### Useful Links- [SOTA Home](https://www.sota.org.uk/)- [SOTA Watch](https://sotawatch.sota.org.uk/en/)- [SOTA Maps](https://www.sotamaps.org/)- [SOTA Atlas](https://sotl.as/alerts)"
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/sota"

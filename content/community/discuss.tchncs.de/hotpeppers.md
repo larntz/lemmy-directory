@@ -3,14 +3,14 @@ title: "Hot Peppers"
 name: "hotpeppers"
 description: "Like r/hotpeppers but on Lemmy.Share your peppers, recipes, questions, advice, opinions, etc."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hotpeppers"
 host: discuss.tchncs.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 19:04:12"
-subscribers: 54
+subscribers: 56
 posts: 5
 comments: 19
 weight: 5

@@ -3,7 +3,7 @@ title: "Home Server"
 name: "homeserver"
 description: "A community based around the building, set up, and use of home servers for a variety of purposes. All discussion is welcome!"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeserver"

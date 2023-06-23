@@ -3,7 +3,7 @@ title: "Precious Metals"
 name: "precious_metals"
 description: "A support group for survivors of boat accidents.Rules:- Be excellent to each other- Don’t be the reason we need to make more rules"
 type: community
-date: "2023-06-16 22:57:16"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/precious_metals"

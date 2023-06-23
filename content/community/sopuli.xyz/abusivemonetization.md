@@ -3,7 +3,7 @@ title: "Abusive Monetization"
 name: "abusivemonetization"
 description: "A community about uncovering, explaining and fixing abusive monetization in video games and software in general"
 type: community
-date: "2023-06-22 02:20:18"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/abusivemonetization"

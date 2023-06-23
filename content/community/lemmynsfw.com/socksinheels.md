@@ -3,14 +3,14 @@ title: "Socks in Heels (and Flats!)"
 name: "socksinheels"
 description: "This is a subreddit dedicated to the beautiful sight of women wearing socks in their heels (or flats!).Short socks (ankle or bobby socks) are preferred, but calf-length and thigh-high may be allowed.Please keep submissions to pics, gifs, and video from well-regarded sources (imgur, redgif, pornhub-tier streaming sites, etc.)."
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/socksinheels"
 host: lemmynsfw.com
 lastmod: "2023-06-19 16:04:12"
 published: "2023-06-18 23:23:29"
-subscribers: 24
+subscribers: 28
 posts: 25
 comments: 0
 weight: 25

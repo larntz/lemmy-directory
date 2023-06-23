@@ -3,7 +3,7 @@ title: "Drum & Bass"
 name: "dnb"
 description: "A place we can talk about all things DNB/Jungle related!"
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/dnb"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "waveform_social"

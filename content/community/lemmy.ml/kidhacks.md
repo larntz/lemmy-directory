@@ -3,7 +3,7 @@ title: "Kid Hacks"
 name: "kidhacks"
 description: "Similar to [!lifehacks@lemmy.ml](https://lemmy.ml/c/lifehacks) this community focus on kid in specific.Place where (old or new) parents can share their experiences/tricks/games/**hacks**/... with other (new or old) parents."
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kidhacks"

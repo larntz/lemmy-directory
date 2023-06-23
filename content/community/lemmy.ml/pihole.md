@@ -3,14 +3,14 @@ title: "Discussion generally related to the Pi-hole project."
 name: "pihole"
 description: "A place to discuss all things privacy related, but primarily in relation to the Pi-hole project and it's usage on Raspberry Pi hardware and GNU/Debian derived operating systems.  "
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pihole"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-02-28 17:05:00"
-subscribers: 76
+subscribers: 78
 posts: 2
 comments: 7
 weight: 2

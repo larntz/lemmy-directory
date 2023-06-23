@@ -3,7 +3,7 @@ title: "lemmy.ninja news"
 name: "ninja_news"
 description: "This is where you get your updates on what is happening local to the Lemmy Ninja Clan"
 type: community
-date: "2023-06-22 02:20:08"
+date: "2023-06-23 01:19:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/ninja_news"

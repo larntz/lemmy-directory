@@ -3,7 +3,7 @@ title: "kdrama"
 name: "kdrama"
 description: "Let's talk about kdrama!"
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kdrama"

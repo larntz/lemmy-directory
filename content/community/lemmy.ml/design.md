@@ -3,7 +3,7 @@ title: "Design"
 name: "design"
 description: "Artistic and industrial design"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/design"

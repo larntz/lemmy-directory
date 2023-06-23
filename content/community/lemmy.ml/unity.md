@@ -3,7 +3,7 @@ title: "Unity Engine"
 name: "unity"
 description: "Welcome to the Unity3D/2D community on Lemmy! Talk about development, share tutorials, and post your projects here!"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unity"

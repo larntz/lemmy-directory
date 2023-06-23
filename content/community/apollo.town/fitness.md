@@ -3,7 +3,7 @@ title: "Fitness"
 name: "fitness"
 description: "For all sorts of jokes and advice on being active and healthy."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/fitness"

@@ -3,14 +3,14 @@ title: "macOS beta 🍎🖥️ β"
 name: "macosbeta"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macosbeta"
 host: lemmy.world
 lastmod: "2023-06-14 14:02:39"
 published: "2023-06-14 13:52:27"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "TheDonald"
 name: "thedonald"
 description: "An never ending trump rally.Only positive Trump post and comments. TDS not allowed. Plenty of forums for those kind of post. "
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/thedonald"
@@ -15,7 +15,7 @@ posts: 32
 comments: 20
 weight: 32
 dau: 1
-wau: 13
+wau: 4
 mau: 13
 instances:
 - "exploding-heads_com"

@@ -3,7 +3,7 @@ title: "Leftist Infighting"
 name: "leftistinfighting"
 description: "This is a safe space to call each other tankies and libs."
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftistinfighting"
@@ -15,7 +15,7 @@ posts: 6
 comments: 76
 weight: 6
 dau: 3
-wau: 4
+wau: 2
 mau: 15
 instances:
 - "lemmy_ml"

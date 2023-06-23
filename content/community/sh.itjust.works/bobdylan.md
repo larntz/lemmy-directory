@@ -3,14 +3,14 @@ title: "Bob Dylan"
 name: "bobdylan"
 description: "A place for all Bob fans to post and discuss the man himself..                                            "
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bobdylan"
 host: sh.itjust.works
 lastmod: "2023-06-10 21:05:30"
 published: "2023-06-09 21:36:27"
-subscribers: 19
+subscribers: 21
 posts: 1
 comments: 1
 weight: 1

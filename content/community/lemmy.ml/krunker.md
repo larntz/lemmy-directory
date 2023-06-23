@@ -3,12 +3,12 @@ title: "Krunker.Io"
 name: "krunker"
 description: "This community is to discuss any topics related to krunker.io. Show your clips, ask questions etc.Krunker.Io is an online multiplayer FPS game that can also be played on browsers. It has clients for iOS, Android, Windows, MacOS and Linux."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/krunker"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-06-04 05:58:20"
 subscribers: 7
 posts: 1

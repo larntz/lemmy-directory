@@ -3,7 +3,7 @@ title: "Fediverse"
 name: "fediverse"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:30"
+date: "2023-06-23 01:18:41"
 draft: false
 nsfw: false
 actor_id: "https://bolha.social/c/fediverse"
@@ -12,10 +12,10 @@ lastmod: "2022-12-21 11:36:11"
 published: "2022-12-21 11:35:08"
 subscribers: 24
 posts: 9
-comments: 19
+comments: 20
 weight: 9
-dau: 5
-wau: 8
+dau: 1
+wau: 9
 mau: 13
 instances:
 - "bolha_social"

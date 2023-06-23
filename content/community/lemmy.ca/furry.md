@@ -3,7 +3,7 @@ title: "Furry"
 name: "furry"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:33"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/furry"
@@ -16,7 +16,7 @@ comments: 2
 weight: 2
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_ca"
 tags: 

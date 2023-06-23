@@ -3,7 +3,7 @@ title: "Antispécisme"
 name: "antispecisme"
 description: "L'antispécisme est un courant de pensée philosophique et moral qui considèrent que l'espèce à laquelle appartient un animal n'est pas un critère pertinent pour décider de la manière dont on doit le traiter et de la considération morale qu'on doit lui accorder."
 type: community
-date: "2023-06-22 02:19:33"
+date: "2023-06-23 01:18:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/antispecisme"

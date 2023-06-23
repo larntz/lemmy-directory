@@ -3,7 +3,7 @@ title: "Good History Memes"
 name: "goodhistorymemes"
 description: "For history memes not made by screeching liberals"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/goodhistorymemes"

@@ -3,7 +3,7 @@ title: "BDM"
 name: "blackdesertmobile"
 description: "Black Desert Mobile community for Lemmy![!blackdesertmobile@sh.itjust.works](https://sh.itjust.works/c/blackdesertmobile) "
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/blackdesertmobile"
@@ -15,8 +15,8 @@ posts: 10
 comments: 7
 weight: 10
 dau: 0
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "sh_itjust_works"
 tags: 

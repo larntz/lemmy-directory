@@ -3,14 +3,14 @@ title: "Free Books"
 name: "freebooks"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/freebooks"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 14:26:46"
-subscribers: 11
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

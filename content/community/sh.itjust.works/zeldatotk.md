@@ -3,7 +3,7 @@ title: "The Legend of Zelda: Tears of the Kingdom"
 name: "zeldatotk"
 description: "This community is for the discussion, tips and tricks for The Legend of Zelda: Tears of the Kingdom.Please start your post with SPOILER if you are going to be showing pictures/discussing things that are not common knowledge"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/zeldatotk"

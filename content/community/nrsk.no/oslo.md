@@ -3,7 +3,7 @@ title: "Oslo"
 name: "oslo"
 description: "Et Lemmy-samfunn for Oslo, på norsk, svensk eller dansk. For poster på engelsk, bruk [!oslo_in_english@nrsk.no](https://nrsk.no/c/oslo_in_english).(🇬🇧 /🇺🇸) For posts in English, please visit [!oslo_in_english@nrsk.no](https://nrsk.no/c/oslo_in_english)."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/oslo"

@@ -3,14 +3,14 @@ title: "General Discussions"
 name: "general"
 description: ""
 type: community
-date: "2023-06-22 02:20:04"
+date: "2023-06-23 01:19:14"
 draft: false
 nsfw: false
 actor_id: "https://granitestate.social/c/general"
 host: granitestate.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 03:13:03"
-subscribers: 1
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

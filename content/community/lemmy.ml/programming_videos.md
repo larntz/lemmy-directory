@@ -3,12 +3,12 @@ title: "Programming Videos"
 name: "programming_videos"
 description: "A place to share videos related to programming, be it web, video game, or any other kind of development."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/programming_videos"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-07-15 17:19:20"
 subscribers: 14
 posts: 1

@@ -3,7 +3,7 @@ title: "Starcitizen"
 name: "starcitizen"
 description: "All Star Citizen discussions are welcomed here ! "
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-22 16:47:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/starcitizen"

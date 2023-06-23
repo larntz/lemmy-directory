@@ -3,14 +3,14 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-22 02:19:28"
+date: "2023-06-23 01:18:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.technosorcery.net/c/main"
 host: lemmy.technosorcery.net
 lastmod: "1969-12-31 19:00:00"
 published: "2022-12-02 05:09:59"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "pandemiczna"
 name: "pandemiczna"
 description: "COVID a sprawa internacjonalistyczna, czy coś.    Chcesz współmedrować tą społeczność? Wrzucaj materiały i daj znać!"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pandemiczna"

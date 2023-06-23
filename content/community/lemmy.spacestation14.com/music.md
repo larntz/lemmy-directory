@@ -3,14 +3,14 @@ title: "Music"
 name: "music"
 description: "A place for members of the SS14 community to share what they're listening to, or music they've made."
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.spacestation14.com/c/music"
 host: lemmy.spacestation14.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 22:35:18"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

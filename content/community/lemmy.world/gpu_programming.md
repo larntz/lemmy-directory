@@ -3,7 +3,7 @@ title: "GPU_programming"
 name: "gpu_programming"
 description: "Programming Lemmy instance focused on GPUs. CUDA, OpenCL, ROCm, DirectX, Vulkan are all on subject here."
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gpu_programming"

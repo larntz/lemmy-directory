@@ -3,7 +3,7 @@ title: "Gikuyu"
 name: "gikuyu"
 description: "[Ki] Gĩcĩgĩ gĩa kũara wĩĩra wa gĩkũyũ.africa, na maũndũ matiganĩte ma Aagĩkũyũ. [En] A communty to discuss gikuyu.africa project, and general Gikuyu issues. "
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/gikuyu"

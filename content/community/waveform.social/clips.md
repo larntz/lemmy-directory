@@ -3,7 +3,7 @@ title: "Clips & Showcase"
 name: "clips"
 description: "You're welcome to show off. Anything from your new album to late-night noodling."
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/clips"
@@ -15,7 +15,7 @@ posts: 5
 comments: 6
 weight: 5
 dau: 1
-wau: 8
+wau: 1
 mau: 8
 instances:
 - "waveform_social"

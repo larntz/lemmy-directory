@@ -3,7 +3,7 @@ title: "Media Bias & Corruption"
 name: "mediabias"
 description: "The Main Stream Media seem to have taken the label Fake News as a compliment.In fact they have taken it to a whole new level."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/mediabias"
@@ -14,9 +14,9 @@ subscribers: 48
 posts: 476
 comments: 105
 weight: 476
-dau: 3
-wau: 5
-mau: 8
+dau: 1
+wau: 4
+mau: 7
 instances:
 - "exploding-heads_com"
 tags: 

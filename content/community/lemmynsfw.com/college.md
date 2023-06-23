@@ -3,14 +3,14 @@ title: "College"
 name: "college"
 description: "Posts must feature nsfw college activities or college girls. "
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/college"
 host: lemmynsfw.com
 lastmod: "2023-06-14 23:34:01"
 published: "2023-06-14 10:22:20"
-subscribers: 216
+subscribers: 231
 posts: 8
 comments: 0
 weight: 8

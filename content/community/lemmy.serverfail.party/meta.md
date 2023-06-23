@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Meta for the lemmy.serverfail.party instance"
 type: community
-date: "2023-06-22 02:19:40"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/meta"

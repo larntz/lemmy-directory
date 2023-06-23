@@ -3,18 +3,18 @@ title: "thevisoria"
 name: "thevisoria"
 description: "***c/Philippines Official Marketplace****Got anything to sell fellow ka-phlemming? You came to the right place!*![Image](https://i.imgur.com/oLugs9W.png)#  Rules1. Follow [Code of Conduct](https://mastodon.world/about)2. Nothing illegal3. Don't SPAM or re-post4. Be descriptive5. List the price when selling6. Don't troll other ads7. No doxing8. Deal at your own risk"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thevisoria"
 host: lemmy.world
-lastmod: "2023-06-21 05:57:36"
+lastmod: "2023-06-22 16:22:29"
 published: "2023-06-16 06:11:45"
-subscribers: 24
+subscribers: 25
 posts: 4
 comments: 0
 weight: 4
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:

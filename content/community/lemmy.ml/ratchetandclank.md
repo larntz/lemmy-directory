@@ -3,14 +3,14 @@ title: "Ratchet and Clank - Community and Discussion"
 name: "ratchetandclank"
 description: "Ratchet and Clank - Community and Discussion. Fan-ran, all rights to Insomniac/Sony/etc."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ratchetandclank"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-04 14:07:17"
-subscribers: 9
+subscribers: 10
 posts: 4
 comments: 0
 weight: 4

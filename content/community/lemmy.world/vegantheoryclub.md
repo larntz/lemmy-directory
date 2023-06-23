@@ -3,7 +3,7 @@ title: "Vegan Theory Club"
 name: "vegantheoryclub"
 description: "Rules: 1.\u00a0No carnists, conservatives, or PBC-supporting libs allowed. Vegans anticapitalists only. 2.\u00a0No advocating animal deaths, abuse, vivisection, experimentation, testing, or mistreatment.  3.\u00a0No racism, transphobia, ableism, homophobia, sexism, speciesism, or nazi behavior.  4.\u00a0Please content warn (CW), spoiler, or NSFW potentially triggering content. When in doubt, it's better to be safe than sorry.  5.\u00a0If you are an asshole to others, we will ban you. We have the ability to also enforce new rules when unforeseen moments arise."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vegantheoryclub"
@@ -15,7 +15,7 @@ posts: 17
 comments: 16
 weight: 17
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_world"

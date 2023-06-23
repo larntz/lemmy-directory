@@ -3,14 +3,14 @@ title: "Israel"
 name: "israel"
 description: "Description not available."
 type: community
-date: "2023-06-19 18:00:44"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/israel"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 08:19:24"
-subscribers: 8
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "traxxx"
 name: "traxxx"
 description: "Community for https://traxxx.me/"
 type: community
-date: "2023-06-22 02:20:36"
+date: "2023-06-23 01:19:47"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/traxxx"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 19:36:57"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

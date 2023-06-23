@@ -3,20 +3,20 @@ title: "Leica"
 name: "leica"
 description: "A community focused on Leica cameras and gear. "
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leica"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 16:54:41"
-subscribers: 3
+subscribers: 7
 posts: 2
-comments: 0
+comments: 2
 weight: 2
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

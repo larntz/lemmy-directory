@@ -3,14 +3,14 @@ title: "UKPersonalFinance"
 name: "ukpersonalfinance"
 description: "Placeholder"
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukpersonalfinance"
 host: feddit.uk
 lastmod: "2023-06-13 13:21:19"
 published: "2023-06-13 13:20:30"
-subscribers: 107
+subscribers: 111
 posts: 0
 comments: 0
 weight: 0

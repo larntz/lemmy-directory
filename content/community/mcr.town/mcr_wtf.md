@@ -3,7 +3,7 @@ title: "mcr.wtf"
 name: "mcr_wtf"
 description: "A community for discussion relevant to [mcr.wtf](https://mcr.wtf) - the Mastodon server for Greater Manchester"
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:21"
 draft: false
 nsfw: false
 actor_id: "https://mcr.town/c/mcr_wtf"

@@ -3,12 +3,12 @@ title: "Thoughtful discussion of Grand Prix Motor Racing"
 name: "grandprix"
 description: "A community for thoughtful discussion of Grand Prix motor-racing"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grandprix"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-29 19:02:07"
 subscribers: 4
 posts: 0

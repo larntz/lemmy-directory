@@ -3,7 +3,7 @@ title: "Medical Tyranny"
 name: "medicaltyranny"
 description: "We must beware of developing a zealotry about health, in which we take ourselves too seriously and believe that we know enough to dictate human behavior, penalize people for disagreeing with us, and even deny people charity, empathy, and understanding because they act in a way of which we disapprove.We health care professionals are no more competent to treat social distress than other citizens. We cannot fix everything (though we do some things marvelously well), nor can our patients — no matter how intelligent or attentive — prevent all disease and death.If we redefine health, I hope we can discover a definition that **does not include a medical or social mandate to control people’s behavior** for the sake of their mortal bodies; this would seem to me particularly compelling in a nation founded on the belief that one should not legislate behavior even for the sake of the immortal soul.Dr. Fitzgerald 1994"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/medicaltyranny"

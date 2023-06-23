@@ -3,7 +3,7 @@ title: "Camping"
 name: "camping"
 description: "Icon: [Freepik](https://www.freepik.com/free-vector/caravan-holidays_802257.htm)Banner: [macrovector](https://www.freepik.com/free-vector/camping-cartoon-composition_26760983.htm)"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/camping"

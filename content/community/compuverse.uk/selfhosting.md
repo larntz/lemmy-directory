@@ -3,14 +3,14 @@ title: "Self-Hosting"
 name: "selfhosting"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/selfhosting"
 host: compuverse.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-08 13:23:25"
-subscribers: 28
+subscribers: 30
 posts: 3
 comments: 2
 weight: 3

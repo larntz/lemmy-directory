@@ -3,12 +3,12 @@ title: "Dumbed Down Design"
 name: "dumbeddowndesign"
 description: "This community is to share articles, examples and content about tech becoming dumb and dumber to make it more user friendly to the point that it's actually condescending."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dumbeddowndesign"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 03:20:09"
 subscribers: 13
 posts: 2

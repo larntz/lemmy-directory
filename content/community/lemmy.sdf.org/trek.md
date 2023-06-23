@@ -3,14 +3,14 @@ title: "Star Trek"
 name: "trek"
 description: "Discussions on all things Star Trek"
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/trek"
 host: lemmy.sdf.org
 lastmod: "2023-06-10 14:37:50"
 published: "2023-06-10 14:36:25"
-subscribers: 44
+subscribers: 49
 posts: 0
 comments: 0
 weight: 0

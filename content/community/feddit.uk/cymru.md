@@ -3,14 +3,14 @@ title: "Cymru"
 name: "cymru"
 description: "Popeth Cymru.Everything Wales."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/cymru"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 05:48:35"
-subscribers: 18
+subscribers: 19
 posts: 3
 comments: 1
 weight: 3

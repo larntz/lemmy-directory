@@ -3,7 +3,7 @@ title: "Technology News"
 name: "technology"
 description: "News about technology including science, engineering, companies, and gaming. Please post links to articles (preferably not paywalled).Must be relatively recent articles."
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/technology"
@@ -15,7 +15,7 @@ posts: 11
 comments: 36
 weight: 11
 dau: 1
-wau: 8
+wau: 6
 mau: 14
 instances:
 - "lemmy_burger_rodeo"

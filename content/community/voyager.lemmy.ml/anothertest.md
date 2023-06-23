@@ -3,7 +3,7 @@ title: "another test"
 name: "anothertest"
 description: "<a href=https://example.com>example</a>"
 type: community
-date: "2023-06-22 02:19:26"
+date: "2023-06-23 01:18:37"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/anothertest"

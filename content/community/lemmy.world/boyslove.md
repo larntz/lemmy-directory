@@ -3,7 +3,7 @@ title: "BoysLove"
 name: "boyslove"
 description: "Boy's Love is mostly for discussing the series and movies of that genre that get produced in (mostly) Asia.It is NOT Yaoi, which is the explicit form of boy's love - mostly in the form of novels/manga."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boyslove"

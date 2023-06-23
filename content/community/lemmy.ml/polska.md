@@ -3,7 +3,7 @@ title: "Polska"
 name: "polska"
 description: "Inne polskie społeczności:  - [c/nowiny](https://dev.lemmy.ml/c/nowiny)Regiony:  - [c/lodz](https://dev.lemmy.ml/c/lodz)"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polska"

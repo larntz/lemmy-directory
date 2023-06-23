@@ -3,7 +3,7 @@ title: "Zig"
 name: "zig"
 description: "The Zig programming language"
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zig"

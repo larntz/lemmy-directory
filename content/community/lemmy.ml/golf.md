@@ -3,12 +3,12 @@ title: "Golf isn't a sport"
 name: "golf"
 description: "Sub closed, conversations moved to nongolfers"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/golf"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 22:53:28"
 subscribers: 3
 posts: 1

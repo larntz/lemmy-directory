@@ -3,14 +3,14 @@ title: "Exodus privacy"
 name: "exodus"
 description: "https://exodus-privacy.eu.org/en/"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exodus"
 host: lemmy.ml
 lastmod: "2021-06-17 17:59:30"
 published: "2021-06-17 17:57:56"
-subscribers: 19
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Magisk"
 name: "magisk"
 description: "This Community is dedicated to Magisk a rooting solution for Android"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/magisk"

@@ -3,7 +3,7 @@ title: "The Hudson Valley of New York"
 name: "hudson_valley"
 description: "Discussion of all things in the Hudson Valley of New York: locations, events, news, trivia, etc.Banner courtesy UFu at English Wikipedia, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=11862093"
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-22 16:46:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hudson_valley"

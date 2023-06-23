@@ -3,20 +3,20 @@ title: "Emacs"
 name: "emacs"
 description: "Our infinitely powerful editor."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emacs"
 host: lemmy.ml
 lastmod: "2023-06-07 20:40:21"
 published: "2020-01-18 02:35:49"
-subscribers: 753
-posts: 85
-comments: 111
-weight: 85
-dau: 4
-wau: 30
-mau: 41
+subscribers: 776
+posts: 86
+comments: 113
+weight: 86
+dau: 3
+wau: 27
+mau: 50
 instances:
 - "lemmy_ml"
 tags: 

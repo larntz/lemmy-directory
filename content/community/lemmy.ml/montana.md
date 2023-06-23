@@ -3,12 +3,12 @@ title: "Montana"
 name: "montana"
 description: "Montana the 4th largest state"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/montana"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 14:59:29"
 subscribers: 1
 posts: 5

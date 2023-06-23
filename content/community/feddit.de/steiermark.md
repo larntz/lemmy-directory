@@ -3,7 +3,7 @@ title: "Steiermark"
 name: "steiermark"
 description: "Der offizielle Steiermark Feddit!Wer keinen Kernöl-Related Content postiert wird entfernt."
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-22 16:47:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/steiermark"

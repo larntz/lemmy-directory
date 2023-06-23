@@ -3,7 +3,7 @@ title: "Affiliate Marketing"
 name: "affiliatemarketing"
 description: "Welcome to affiliatemarketing! This is the place for both beginners and experienced marketers to learn, share, and make money with affiliate marketing. Join this community to connect with people, get insider tips, and discover the latest strategies for generating passive income online."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/affiliatemarketing"

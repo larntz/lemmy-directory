@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "Server entry point and general conversation."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lm.qtt.no/c/main"

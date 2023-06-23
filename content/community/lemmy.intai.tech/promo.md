@@ -3,7 +3,7 @@ title: "Artificial Intelligence -  Promotions and Projects"
 name: "promo"
 description: "Advertise your community or project, not a shill dumping ground, tell us about YOUR project or community in the fediverse. ### Instance NotesPlease review our community rules and introduce yourself!- [Welcome!](https://lemmy.intai.tech/post/1511)- [Introduce yourself](https://lemmy.intai.tech/post/2710)- [Rules](https://lemmy.intai.tech/post/76)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Observer](https://lemmy.fediverse.observer/)- [Lemmy Community Browser](https://browse.feddit.de/)"
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/promo"

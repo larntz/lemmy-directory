@@ -3,12 +3,12 @@ title: "Greatest Generation"
 name: "greatestgen"
 description: "Welcome to the Greatest Generation! Most of us are not WWII vets, but we like all things to Star Trek and dick jokes!"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-22 16:47:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greatestgen"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-11-07 00:16:14"
 subscribers: 11
 posts: 2

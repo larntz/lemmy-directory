@@ -3,7 +3,7 @@ title: "San Diego State Aztecs"
 name: "sandiegostateaztecs"
 description: "A community to discuss San Diego State Aztecs athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/sandiegostateaztecs"

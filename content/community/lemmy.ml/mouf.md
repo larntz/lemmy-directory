@@ -3,7 +3,7 @@ title: "mouf"
 name: "mouf"
 description: "A place to look at cute, wholesome moufs. Animals only, no humans."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-22 16:47:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mouf"

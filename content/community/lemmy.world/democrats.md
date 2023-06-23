@@ -3,14 +3,14 @@ title: "democrats"
 name: "democrats"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/democrats"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 00:02:57"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

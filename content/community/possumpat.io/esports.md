@@ -3,7 +3,7 @@ title: "esports"
 name: "esports"
 description: "Digital Sports!Anything involving esports can go here (but the primary moderator is an LCS fanboy, sorry 🥲 )"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:51"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/esports"

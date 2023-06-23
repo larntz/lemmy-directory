@@ -3,14 +3,14 @@ title: "Smell"
 name: "smell"
 description: "All about the sense of smell"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smell"
 host: lemmy.ml
 lastmod: "2021-01-29 13:28:12"
 published: "2020-06-28 03:09:35"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

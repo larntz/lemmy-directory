@@ -3,7 +3,7 @@ title: "Pain"
 name: "pain"
 description: "Everywhere is Pain, but what is behind the Pain?"
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/pain"

@@ -3,7 +3,7 @@ title: "信息查询"
 name: "info"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/info"
@@ -12,11 +12,11 @@ lastmod: "2023-05-06 12:48:22"
 published: "2023-04-25 20:59:21"
 subscribers: 9
 posts: 4
-comments: 1
+comments: 2
 weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "bbs_darkwitch_net"
 tags: 

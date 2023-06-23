@@ -3,18 +3,18 @@ title: "Solarpunk"
 name: "solarpunk"
 description: "Austausch deutschsprachiger solarpunks. Es soll weniger um das literarische/künstlerische Genre gehen. Vielmehr interessiert das reale Leben: Wie sieht für euch eine positive, nachhaltige Welt aus? Was ist euer Ökotopia?Aber natürlich sind auch Anregungen aus der Literatur, Film, Gaming etc. willkommen."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/solarpunk"
 host: feddit.de
 lastmod: "2023-06-20 10:44:39"
 published: "2023-06-20 10:43:14"
-subscribers: 23
-posts: 7
-comments: 10
-weight: 7
-dau: 4
+subscribers: 28
+posts: 8
+comments: 11
+weight: 8
+dau: 2
 wau: 5
 mau: 5
 instances:

@@ -1,14 +1,14 @@
 ---
-title: "Ajax Amsterdam" 
+title: "AFC Ajax" 
 name: "ajax"
-description: "**Ajax**Welcome to the AFC Ajax community on Lemmy!"
+description: "**Ajax**Welcome to the Amsterdamsche Football Club Ajax community on Lemmy!"
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ajax"
 host: lemmy.world
-lastmod: "2023-06-13 10:20:40"
+lastmod: "2023-06-22 13:04:23"
 published: "2023-06-13 06:53:50"
 subscribers: 5
 posts: 6

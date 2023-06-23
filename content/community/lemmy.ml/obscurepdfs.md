@@ -3,14 +3,14 @@ title: "Esoteric Essays"
 name: "obscurepdfs"
 description: "Obscure Academic EssaysRules: Only post direct links to long essays about esoteric topics written with academic rigor"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/obscurepdfs"
 host: lemmy.ml
 lastmod: "2023-06-14 21:18:44"
 published: "2023-06-14 21:10:07"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

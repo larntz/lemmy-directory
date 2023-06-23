@@ -3,17 +3,17 @@ title: "Forbidden Lands"
 name: "forbiddenlands"
 description: "The spot in the fediverse to discuss Free Leagues award-winning Roleplaying Game Forbidden Lands and its expansions. [Find an excellent starting guide for lemmy here](https://sh.itjust.works/post/24928)"
 type: community
-date: "2023-06-22 02:20:13"
+date: "2023-06-23 01:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/forbiddenlands"
 host: lemm.ee
 lastmod: "2023-06-21 08:25:48"
 published: "2023-06-18 12:27:50"
-subscribers: 10
-posts: 7
+subscribers: 13
+posts: 8
 comments: 24
-weight: 7
+weight: 8
 dau: 1
 wau: 4
 mau: 4

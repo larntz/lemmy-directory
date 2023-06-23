@@ -3,7 +3,7 @@ title: "Feuchte Maimais"
 name: "maimai"
 description: "Dank Memes auf deutsch!Hier sammeln wir deutschsprachige lustige Bildchen."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/maimai"
@@ -16,7 +16,7 @@ comments: 25
 weight: 24
 dau: 1
 wau: 1
-mau: 4
+mau: 3
 instances:
 - "feddit_de"
 tags: 

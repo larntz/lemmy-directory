@@ -3,14 +3,14 @@ title: "Socialism"
 name: "socialism"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:54:27"
+date: "2023-06-23 01:19:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/socialism"
 host: midwest.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-08-13 04:05:32"
-subscribers: 97
+subscribers: 98
 posts: 14
 comments: 0
 weight: 14

@@ -3,14 +3,14 @@ title: "Duck"
 name: "duck"
 description: "For all duck lovers"
 type: community
-date: "2023-06-20 11:38:31"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/duck"
 host: lemmy.ml
 lastmod: "2021-07-24 19:57:26"
 published: "2021-03-24 14:18:11"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

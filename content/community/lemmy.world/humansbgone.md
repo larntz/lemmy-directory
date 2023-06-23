@@ -3,14 +3,14 @@ title: "Humans-B-Gone!"
 name: "humansbgone"
 description: "WATCH ON YOUTUBE: https://www.youtube.com/humansbgoneIn a world ruled by giant insects, a praying mantis works in pest control--controlling humans, that is."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/humansbgone"
 host: lemmy.world
 lastmod: "2023-06-20 20:50:15"
 published: "2023-06-20 20:43:58"
-subscribers: 2
+subscribers: 6
 posts: 1
 comments: 1
 weight: 1

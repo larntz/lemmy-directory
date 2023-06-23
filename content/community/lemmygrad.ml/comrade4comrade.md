@@ -3,7 +3,7 @@ title: "Comrade4Comrade"
 name: "comrade4comrade"
 description: "A place to find comrades in or around your location to meet and organize."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/comrade4comrade"

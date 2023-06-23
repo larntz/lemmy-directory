@@ -3,7 +3,7 @@ title: "Baseball"
 name: "baseball"
 description: "Discussions about MLB, NPB, KBO, and other leagues around the world. "
 type: community
-date: "2023-06-21 14:54:32"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/baseball"

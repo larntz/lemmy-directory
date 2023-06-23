@@ -3,7 +3,7 @@ title: "Opensource"
 name: "opensource"
 description: "A community for everything [open source](http://en.wikipedia.org/wiki/Open_source) related."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/opensource"

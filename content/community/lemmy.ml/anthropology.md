@@ -3,7 +3,7 @@ title: "Anthropology"
 name: "anthropology"
 description: "The home of anthropological discussion on Lemmy."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-22 16:47:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anthropology"

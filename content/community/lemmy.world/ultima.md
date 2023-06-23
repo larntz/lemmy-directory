@@ -3,14 +3,14 @@ title: "ultima"
 name: "ultima"
 description: "Ultima games"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultima"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 06:50:30"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

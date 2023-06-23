@@ -3,7 +3,7 @@ title: "TeamSpeak"
 name: "teamspeak"
 description: "Welcome to TeamSpeakCurrent TS3 client version : 3.5.3Current TS5 client version : 5.0.0-beta25Current server version : 3.12.1[**>>>>>Post/Find a Server<<<<<**](https://teamspeak.server.vote/)[Find Some New Friends Today](https://teamspeak.server.vote/)A place where people can ask questions and share servers.Feel free to make a post advertising your TeamSpeak here, no cracked or home hosted servers please, we want to have quality listings here. Bonus points for actually having a DNS for your server.Also feel free to post general TeamSpeak questions and support requests and we'll try to help."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teamspeak"

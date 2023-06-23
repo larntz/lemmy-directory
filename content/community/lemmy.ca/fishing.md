@@ -3,14 +3,14 @@ title: "fishing"
 name: "fishing"
 description: "share your fishing stories god bless.post titles allowed : fishing"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fishing"
 host: lemmy.ca
 lastmod: "2023-06-14 00:50:31"
 published: "2023-06-14 00:45:40"
-subscribers: 11
+subscribers: 12
 posts: 6
 comments: 3
 weight: 6

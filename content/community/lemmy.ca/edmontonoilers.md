@@ -3,7 +3,7 @@ title: "Edmonton Oilers"
 name: "edmontonoilers"
 description: "A place to discuss everything Oilers, old and new. News and highlights, trade and signing rumours and ideas, stats and contracts, from the serious to the lighthearted.[c/Hockey](https://lemmy.ca/c/hockey)[c/Edmonton](https://lemmy.ca/c/edmonton)"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/edmontonoilers"

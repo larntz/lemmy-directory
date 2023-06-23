@@ -3,7 +3,7 @@ title: "The Ashes"
 name: "theashes"
 description: "Banter encouraged.JUST SHITPOST IN CAPS SO WE KNOW YOU'RE JOKING, OK CUNTS?"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/theashes"

@@ -3,17 +3,17 @@ title: "formuladank"
 name: "formuladank"
 description: "Home of the greatest F1 shitposts out there | Join our Discord server: discord.gg/formuladank."
 type: community
-date: "2023-06-22 02:20:05"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/formuladank"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 00:34:25"
-subscribers: 9
-posts: 124
+subscribers: 10
+posts: 148
 comments: 2
-weight: 124
+weight: 148
 dau: 1
 wau: 2
 mau: 2

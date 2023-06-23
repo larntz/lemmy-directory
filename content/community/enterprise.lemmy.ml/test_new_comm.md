@@ -3,7 +3,7 @@ title: "Test New Community"
 name: "test_new_comm"
 description: "Test New Community"
 type: community
-date: "2023-06-22 02:19:26"
+date: "2023-06-23 01:18:37"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/test_new_comm"
@@ -14,7 +14,7 @@ subscribers: 5
 posts: 6
 comments: 7
 weight: 6
-dau: 5
+dau: 1
 wau: 6
 mau: 6
 instances:

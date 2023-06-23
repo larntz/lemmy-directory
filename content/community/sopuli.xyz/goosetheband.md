@@ -3,7 +3,7 @@ title: "Goose the band"
 name: "goosetheband"
 description: "Fans of the band of the CT jamband Goose "
 type: community
-date: "2023-06-20 11:37:43"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/goosetheband"

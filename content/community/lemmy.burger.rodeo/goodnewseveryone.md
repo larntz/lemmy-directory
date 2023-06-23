@@ -3,7 +3,7 @@ title: "Good News Everyone"
 name: "goodnewseveryone"
 description: "I'm moving this community to sh.itjust.works!goodnewseveryone@sh.itjust.works"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/goodnewseveryone"

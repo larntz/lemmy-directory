@@ -3,7 +3,7 @@ title: "ButterflyAspect"
 name: "butterfly_aspect"
 description: "Gespräche rund um das Regelwerk ButterflyAspect- Regelwerk: https://book.butterfly-aspect.de- Bug- & Featureanfragen: https://codeberg.org/ButterflyAspect/mdBook/issues"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/butterfly_aspect"

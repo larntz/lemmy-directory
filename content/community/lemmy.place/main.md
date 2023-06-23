@@ -3,7 +3,7 @@ title: "Lemmy.place Main Community"
 name: "main"
 description: "Only news related to the Lemmy.place server will posted here."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.place/c/main"
@@ -14,9 +14,9 @@ subscribers: 2
 posts: 2
 comments: 11
 weight: 2
-dau: 2
-wau: 2
-mau: 3
+dau: 1
+wau: 3
+mau: 4
 instances:
 - "lemmy_place"
 tags: 

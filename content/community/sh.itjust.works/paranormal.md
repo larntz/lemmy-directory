@@ -3,7 +3,7 @@ title: "paranormal"
 name: "paranormal"
 description: "Aliens, Demons, Schizos and weird things abound. This community is for discussions and memes about paranormal experiences. Serious, but also funny when we feel like it. "
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/paranormal"

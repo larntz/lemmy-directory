@@ -1,14 +1,14 @@
 ---
-title: "Peloton (Fediverse alternative) - World Tour Road Cycling News, Results and Discussion" 
+title: "Peloton (Fediverse alternative) - World Tour Road Cycling" 
 name: "peloton"
-description: "This is one possible [Fediverse ](https://en.wikipedia.org/wiki/Fediverse) alternative to /r/peloton/ on Reddit. The Fediverse is a more open and independent alternative to traditional social networks.This community is not active at the moment. [Try here for a more active Fediverse World Tour road cycling community](https://kbin.social/m/peloton)."
+description: "This community is not active at the moment.* [The !procycling community on lemmy.world is a more active Lemmy community](https://lemmy.world/c/procycling)* [Another option is the peloton community on kbin.social](https://kbin.social/m/peloton)This is one possible [Fediverse ](https://en.wikipedia.org/wiki/Fediverse) alternative to /r/peloton/ on Reddit. The Fediverse is a more open and independent alternative to traditional social networks."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peloton"
 host: lemmy.ml
-lastmod: "2023-06-18 18:08:43"
+lastmod: "2023-06-22 15:35:46"
 published: "2023-06-11 21:44:07"
 subscribers: 8
 posts: 0

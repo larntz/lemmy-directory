@@ -3,14 +3,14 @@ title: "Old School Rennaissance Role Playing Games"
 name: "osr"
 description: "A home for all your old school RPG discussions: Gameplay, games, systems, adventures, original content.Just remember:Don't publish anything that contains sexist, racist, homophobic, transphobic or hateful content and tropes.There is also OSR love on other instances:[!osr@lemm.ee](https://lemm.ee/c/osr) "
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osr"
 host: lemmy.ml
 lastmod: "2023-06-16 15:16:20"
 published: "2023-04-24 10:05:00"
-subscribers: 68
+subscribers: 69
 posts: 14
 comments: 7
 weight: 14

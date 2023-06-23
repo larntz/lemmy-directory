@@ -3,7 +3,7 @@ title: "LEMMiNO"
 name: "lemmino"
 description: "Official community for LEMMiNO."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-22 16:47:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmino"

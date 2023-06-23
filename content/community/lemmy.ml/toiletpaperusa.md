@@ -3,12 +3,12 @@ title: "Official community of TPUSA."
 name: "toiletpaperusa"
 description: "Turning Point USA is Charlie Kirk's far-right propaganda organization, theoretically aimed at college students, but actually aimed at senile boomers. It is funded primarily by infamous fossil fuel billionaire Charles Koch, and formerly by David Koch before he died and went to hell. PragerU is Dennis Prager's far-right propaganda organization aimed at young children and known for buying youtube ads. It is funded primarily by Dan and Farris Wilks, two fundamentalist christian fossil fuel billionaires. Ben Shapiro is a far-right propagandist known for posing as an intellectual (and owning the Daily Wire). He is funded by the Wilks brothers, Koch brothers, The DeVos family, the Mercer family, and too many other wealthy far-right families to list."
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/toiletpaperusa"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-02-17 04:29:27"
 subscribers: 63
 posts: 5

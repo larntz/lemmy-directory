@@ -3,7 +3,7 @@ title: "Nebraska"
 name: "nebraska"
 description: "A Lemmy space for all things Nebraska "
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/nebraska"

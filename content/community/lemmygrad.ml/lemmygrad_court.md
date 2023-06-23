@@ -3,14 +3,14 @@ title: "People's Court"
 name: "lemmygrad_court"
 description: "This is a community for Lemmygrad users and admins to discuss administrative issues in a more transparent manner"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmygrad_court"
 host: lemmygrad.ml
 lastmod: "2022-08-12 02:08:52"
 published: "2022-05-09 20:51:43"
-subscribers: 159
+subscribers: 162
 posts: 23
 comments: 558
 weight: 23

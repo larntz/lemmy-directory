@@ -3,12 +3,12 @@ title: "Access Now"
 name: "accessnow"
 description: "[Official website](https://www.accessnow.org/)Access Now defends and extends the digital rights of users at risk around the world"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/accessnow"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-06-21 15:08:20"
 subscribers: 22
 posts: 8

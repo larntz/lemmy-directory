@@ -3,12 +3,12 @@ title: "C programming "
 name: "clang"
 description: "The C Programming World"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/clang"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-10-22 04:49:43"
 subscribers: 14
 posts: 0

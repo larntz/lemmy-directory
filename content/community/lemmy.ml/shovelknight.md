@@ -3,7 +3,7 @@ title: "Shovel Knight"
 name: "shovelknight"
 description: "Shovel Knight is a sweeping classic action-adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. If you love games with perfect platforming, beautiful art, infectious music, lovable bosses, humor and levity, and real heart… Shovel Knight is for you! Developed by Yacht Club Games.##Resources>* [Cheat Codes](//docs.google.com/spreadsheets/d/1gbtQSPqvzV8oWqQJEQH12-5_PAGAAKx_zc1MXxXbcDI/edit#gid=0)>* [Merch](http://yachtclubgames.com/2014/06/t-shirts-and-merch/)>* [Shovel Knight Wiki](http://shovelknight.wikia.com/wiki/Shovel_Knight_Wiki)>* [DiscOrder of No Quarter Discord Server](https://discord.gg/TRDrRdv)"
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shovelknight"

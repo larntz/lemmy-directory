@@ -3,14 +3,14 @@ title: "patamogle"
 name: "patamogle"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/patamogle"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 03:31:35"
-subscribers: 9
+subscribers: 10
 posts: 5
 comments: 1
 weight: 5

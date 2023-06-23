@@ -3,7 +3,7 @@ title: "pion"
 name: "scor"
 description: "::: spoiler spoilerdo spoilers work in the sidebar?:::"
 type: community
-date: "2023-06-22 02:19:26"
+date: "2023-06-23 01:18:37"
 draft: false
 nsfw: false
 actor_id: "https://enterprise.lemmy.ml/c/scor"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 2
 comments: 1
 weight: 2
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "Hiroの備忘録メモ"
 name: "hirosjourney"
 description: "[Hiro](https://lm.korako.me/u/hnb) がブログ用備忘録で、色々追加します。 そのブログも備忘録なので、備忘録用備忘録ですね。ブログは只今準備中。"
 type: community
-date: "2023-06-22 02:19:29"
+date: "2023-06-23 01:18:39"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/hirosjourney"

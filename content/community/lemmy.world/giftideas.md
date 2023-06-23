@@ -3,7 +3,7 @@ title: "Gift Ideas"
 name: "giftideas"
 description: "A place to give and receive gift ideas.When asking for help, remember to include all relevant info: age, location, likes/dislikes, your budget, etc.Rules:- No affiliate links- No promotional spamOnly follow trusted links and be wary of any direct contacts, scams, spam."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/giftideas"

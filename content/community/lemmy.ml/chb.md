@@ -3,14 +3,14 @@ title: "CHB"
 name: "chb"
 description: "For the CHB community"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chb"
 host: lemmy.ml
 lastmod: "2023-06-15 01:17:49"
 published: "2023-06-03 02:30:02"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

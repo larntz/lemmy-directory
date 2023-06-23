@@ -3,14 +3,14 @@ title: "finland"
 name: "finland"
 description: "A place to share news about the Republic of Finland and to appreciate how exceptional of a place it is."
 type: community
-date: "2023-06-22 02:19:43"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/finland"
 host: lemmy.pineapplemachine.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-07 16:11:03"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

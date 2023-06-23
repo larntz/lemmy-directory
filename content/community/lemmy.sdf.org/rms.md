@@ -3,7 +3,7 @@ title: "Microsoft Dynamics RMS"
 name: "rms"
 description: "A place for users of Microsoft Dynamics Retail Management System to collaborate now that it is end of life."
 type: community
-date: "2023-06-22 02:19:48"
+date: "2023-06-22 16:46:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/rms"

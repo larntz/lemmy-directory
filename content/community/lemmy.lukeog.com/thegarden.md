@@ -3,7 +3,7 @@ title: "The Garden"
 name: "thegarden"
 description: "All Information Regarding The Garden Lemmy Instance"
 type: community
-date: "2023-06-22 02:19:46"
+date: "2023-06-23 01:18:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.lukeog.com/c/thegarden"

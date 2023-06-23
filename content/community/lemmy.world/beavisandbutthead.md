@@ -3,14 +3,14 @@ title: "Beavis and Butt-Head"
 name: "beavisandbutthead"
 description: "Everything related to Buford and Bernardo. Huh huh huh...this is gonna be cool. "
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beavisandbutthead"
 host: lemmy.world
 lastmod: "2023-06-11 12:49:27"
 published: "2023-06-11 12:36:18"
-subscribers: 28
+subscribers: 33
 posts: 1
 comments: 0
 weight: 1

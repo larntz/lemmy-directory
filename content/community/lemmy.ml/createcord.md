@@ -3,12 +3,12 @@ title: "CreateCord"
 name: "createcord"
 description: "A Multi-purpose Community containing Arts, Writing, Photography, Music and Engineering."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/createcord"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 14:41:22"
 subscribers: 1
 posts: 0

@@ -3,7 +3,7 @@ title: "Política española"
 name: "politica_es"
 description: "Noticias, debates y todo lo relacionado con la política española, europea y mundial (que obviamente afecte al territorio español).# ¡Buscamos moderadores!"
 type: community
-date: "2023-06-22 02:19:55"
+date: "2023-06-23 01:19:06"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/politica_es"

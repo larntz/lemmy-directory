@@ -3,7 +3,7 @@ title: "Ender 3"
 name: "ender3"
 description: "A place to share your Ender 3 creations, tips, questions and other 3D printer related information.![](https://lemmy.world/pictrs/image/b1e3d6f9-175a-4658-bc99-f4acb9cc28fa.jpeg)"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ender3"

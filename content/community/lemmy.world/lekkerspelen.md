@@ -3,7 +3,7 @@ title: "Lekker spelen"
 name: "lekkerspelen"
 description: "omdat reddit soort van in brand staat, mocht de /r/lekkerspelen community hierheen migreren dan bestaat dit vast-stier128."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lekkerspelen"

@@ -3,18 +3,18 @@ title: "Community Search Tips"
 name: "communitysearchtips"
 description: "This community is dedicated to helping Lemmy and kbin users find communities and magazines to participate in.Post your questions, requests, and tips in this community. All discussion is good! The more we share about what's out there, the better the Lemmy experience will be for everyone."
 type: community
-date: "2023-06-22 02:20:08"
+date: "2023-06-23 01:19:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ninja/c/communitysearchtips"
 host: lemmy.ninja
 lastmod: "2023-06-21 18:49:54"
 published: "2023-06-14 16:57:55"
-subscribers: 8
-posts: 8
+subscribers: 10
+posts: 9
 comments: 2
-weight: 8
-dau: 3
+weight: 9
+dau: 2
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "Beast Wars"
 name: "beastwars"
 description: "All about Beast Wars, Beast Machines, Beast Wars II, Neo and Transformers: Rise of the Beasts.**Rules:**- Be kind to Maximals, Predacons, and all beings (it's ok to make fun of Waspinator).- Post relevant content"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beastwars"

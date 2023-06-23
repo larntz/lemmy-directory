@@ -3,7 +3,7 @@ title: "Deutschsprachige IPFire Community (Test)"
 name: "ipfire"
 description: "Seitenleiste bla bli blub"
 type: community
-date: "2023-06-20 11:37:50"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ipfire"

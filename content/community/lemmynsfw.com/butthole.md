@@ -3,14 +3,14 @@ title: "Butthole"
 name: "butthole"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]Check out [!anal@lemmynsfw.com](https://lemmynsfw.com/c/anal) for anal content!"
 type: community
-date: "2023-06-21 14:54:46"
+date: "2023-06-23 01:19:49"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/butthole"
 host: lemmynsfw.com
 lastmod: "2023-06-13 02:14:44"
 published: "2023-06-12 17:22:58"
-subscribers: 303
+subscribers: 329
 posts: 3
 comments: 0
 weight: 3

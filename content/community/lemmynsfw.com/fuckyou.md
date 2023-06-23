@@ -3,14 +3,14 @@ title: "Fuck you"
 name: "fuckyou"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/fuckyou"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 06:36:28"
 published: "2023-06-20 05:19:42"
-subscribers: 3
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

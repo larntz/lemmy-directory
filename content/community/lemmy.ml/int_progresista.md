@@ -3,12 +3,12 @@ title: "Internacional Progresista"
 name: "int_progresista"
 description: "Foro no oficial sobre la Internacional Progresista y políticas progresistas en general en lengua castellana "
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/int_progresista"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-05-12 11:49:27"
 subscribers: 3
 posts: 3

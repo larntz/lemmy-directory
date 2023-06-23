@@ -3,12 +3,12 @@ title: "indian_defence"
 name: "indian_defence"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indian_defence"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-09-08 00:42:24"
 subscribers: 2
 posts: 0

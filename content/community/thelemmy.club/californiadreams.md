@@ -3,14 +3,14 @@ title: "California Dreams"
 name: "californiadreams"
 description: "A group for fans of California Dreams, the 90s teen sitcom"
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/californiadreams"
 host: thelemmy.club
 lastmod: "2023-06-16 17:57:28"
 published: "2023-06-16 09:15:45"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

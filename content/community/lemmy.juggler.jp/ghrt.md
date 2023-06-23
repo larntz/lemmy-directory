@@ -3,7 +3,7 @@ title: "GitHub release tracker"
 name: "ghrt"
 description: "tateisuが追跡しているGitHub Release"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/ghrt"

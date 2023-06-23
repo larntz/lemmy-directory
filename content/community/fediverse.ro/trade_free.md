@@ -3,14 +3,14 @@ title: "Trade-Free"
 name: "trade_free"
 description: "The purest form of free:- the ones who offer, should not ask anything in return- the ones who receive, should not have to give anything in return"
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:24"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/trade_free"
 host: fediverse.ro
 lastmod: "2023-01-24 13:51:24"
 published: "2022-12-30 06:17:37"
-subscribers: 6
+subscribers: 7
 posts: 12
 comments: 1
 weight: 12

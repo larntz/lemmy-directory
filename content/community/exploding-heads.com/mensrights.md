@@ -3,14 +3,14 @@ title: "Men's Rights"
 name: "mensrights"
 description: "A sub about gender equality. Not a male supremacy sub.Feminists ≠ All womenNot all branches of feminism hate men either"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/mensrights"
 host: exploding-heads.com
 lastmod: "2023-05-10 09:13:39"
 published: "2023-02-06 18:42:41"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 2
 weight: 4

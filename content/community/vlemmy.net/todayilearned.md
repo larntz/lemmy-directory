@@ -3,14 +3,14 @@ title: "Today I Learned (TIL)"
 name: "todayilearned"
 description: "You learn something new every day; what did you learn today? Submit interesting and **specific facts** that you just found out"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/todayilearned"
 host: vlemmy.net
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 05:49:26"
-subscribers: 322
+subscribers: 331
 posts: 5
 comments: 2
 weight: 5

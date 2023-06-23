@@ -3,7 +3,7 @@ title: "New Zealand"
 name: "newzealand"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:07"
+date: "2023-06-23 01:19:18"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nz/c/newzealand"
@@ -15,7 +15,7 @@ posts: 4
 comments: 3
 weight: 4
 dau: 0
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "feddit_nz"

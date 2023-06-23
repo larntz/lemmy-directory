@@ -3,14 +3,14 @@ title: "lunix"
 name: "lunix"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lunix"
 host: lemmy.world
 lastmod: "2023-06-20 21:04:03"
 published: "2023-06-20 20:56:11"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

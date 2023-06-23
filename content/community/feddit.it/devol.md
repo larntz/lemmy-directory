@@ -3,14 +3,14 @@ title: "devol"
 name: "devol"
 description: "gruppo devol "
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/devol"
 host: feddit.it
 lastmod: "2022-05-11 13:24:51"
 published: "2022-05-11 13:22:24"
-subscribers: 176
+subscribers: 175
 posts: 43
 comments: 91
 weight: 43

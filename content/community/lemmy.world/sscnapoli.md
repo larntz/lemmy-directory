@@ -3,7 +3,7 @@ title: "S.S.C. Napoli"
 name: "sscnapoli"
 description: "Fan community of three time Serie A champions S.S.C. Napoli"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sscnapoli"

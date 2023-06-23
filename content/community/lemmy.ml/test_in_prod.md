@@ -3,12 +3,12 @@ title: "test_in_prod"
 name: "test_in_prod"
 description: "test in prod"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/test_in_prod"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-17 09:08:47"
 subscribers: 3
 posts: 0

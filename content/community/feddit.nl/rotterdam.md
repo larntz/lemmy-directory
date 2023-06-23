@@ -3,14 +3,14 @@ title: "Rotterdam"
 name: "rotterdam"
 description: "A community for everyone who is interested in Rotterdam."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/rotterdam"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 14:45:41"
-subscribers: 23
+subscribers: 25
 posts: 2
 comments: 2
 weight: 2

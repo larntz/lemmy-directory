@@ -3,16 +3,16 @@ title: "Hit Save! Official Community"
 name: "hitsave"
 description: "Official news and commentary about projects and initiatives from Hit Save! "
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/hitsave"
 host: preserve.games
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 00:05:13"
-subscribers: 10
+subscribers: 12
 posts: 7
-comments: 10
+comments: 11
 weight: 7
 dau: 1
 wau: 4

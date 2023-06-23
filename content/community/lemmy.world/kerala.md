@@ -3,14 +3,14 @@ title: "Kerala"
 name: "kerala"
 description: "A community for anything related to Kerala (കേരളം), a state in the south-west of India."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kerala"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 07:46:13"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

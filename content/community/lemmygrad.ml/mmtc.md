@@ -3,7 +3,7 @@ title: "MoreMoreTankieChapo is a Marxist-Leninist place dedicated to theory, wor
 name: "mmtc"
 description: "1. Don’t be an asshole2. No reactionary content 3. No sectarianism "
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/mmtc"

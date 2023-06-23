@@ -3,7 +3,7 @@ title: "DIY that makes noise"
 name: "synthdiy"
 description: "Selfmade electronics that make sound in a wider sense."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/synthdiy"

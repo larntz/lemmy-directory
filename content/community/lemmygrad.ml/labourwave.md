@@ -3,7 +3,7 @@ title: "a e s t h e t i c"
 name: "labourwave"
 description: "m u s i c o f t h e p r o l e s"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/labourwave"

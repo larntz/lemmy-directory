@@ -3,14 +3,14 @@ title: "Gothic"
 name: "world_of_gothic"
 description: "Games which are considered part of the series:- Gothic- Gothic II Night of the Raven- Gothic III- Risen- Risen 2: Dark Waters- Risen 3: Titan Lords- Gothic Remake by THQ Nordic"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/world_of_gothic"
 host: lemmy.world
 lastmod: "2023-06-19 03:44:14"
 published: "2023-06-17 06:28:35"
-subscribers: 11
+subscribers: 15
 posts: 2
 comments: 1
 weight: 2

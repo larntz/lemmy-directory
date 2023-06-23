@@ -3,7 +3,7 @@ title: "Pure Mobile Gaming"
 name: "pure_mobile_gaming"
 description: "This sub is for posts about mobile games that don't cost extra for a good experience. No pay to skip or pay for advantage here. "
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pure_mobile_gaming"

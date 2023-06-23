@@ -3,7 +3,7 @@ title: "Aquariums"
 name: "aquariums"
 description: "The fediverse needs a place for aquarists! Saltwater, freshwater, breeders, fishless aquascapes, ponds, puddles, and bathtubs. If it's full of water and you're proud of it, we'd love to see it. "
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/aquariums"

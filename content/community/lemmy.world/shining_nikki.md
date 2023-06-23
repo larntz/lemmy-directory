@@ -3,7 +3,7 @@ title: "Shining Nikki ✨"
 name: "shining_nikki"
 description: "A Lemmy community for the mobile game Shining Nikki!"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shining_nikki"

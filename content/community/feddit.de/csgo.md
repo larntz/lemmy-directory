@@ -3,7 +3,7 @@ title: "Counter-Strike: Global Offensive"
 name: "csgo"
 description: "Forum for csgo"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/csgo"

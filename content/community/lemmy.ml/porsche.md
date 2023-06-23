@@ -3,12 +3,12 @@ title: "Porsche"
 name: "porsche"
 description: "The Porsche hub.   Ask questions, share press releases, news articles, pictures, tech info.  Really, anything Porsche related is welcome.But, don't be a dick.  "
 type: community
-date: "2023-06-20 11:38:30"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/porsche"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 17:59:27"
 subscribers: 11
 posts: 2

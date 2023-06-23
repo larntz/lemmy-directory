@@ -3,20 +3,20 @@ title: "Today I learned"
 name: "todayilearned"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:38:29"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/todayilearned"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-29 01:02:44"
-subscribers: 3129
-posts: 53
-comments: 144
-weight: 53
-dau: 4
-wau: 65
-mau: 95
+subscribers: 3391
+posts: 60
+comments: 161
+weight: 60
+dau: 8
+wau: 46
+mau: 118
 instances:
 - "lemmy_ml"
 tags: 

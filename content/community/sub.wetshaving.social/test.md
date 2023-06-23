@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "The purpose of this community is for administrators to test server and bot functionality."
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://sub.wetshaving.social/c/test"

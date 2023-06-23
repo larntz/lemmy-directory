@@ -3,14 +3,14 @@ title: "csharp"
 name: "csharp"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/csharp"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 07:33:05"
-subscribers: 16
+subscribers: 18
 posts: 4
 comments: 2
 weight: 4

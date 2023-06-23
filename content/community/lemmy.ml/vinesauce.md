@@ -3,7 +3,7 @@ title: "Vinesauce"
 name: "vinesauce"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vinesauce"
@@ -15,7 +15,7 @@ posts: 6
 comments: 2
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

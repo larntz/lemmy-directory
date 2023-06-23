@@ -3,7 +3,7 @@ title: "NetRunner"
 name: "netrunner"
 description: "customizable (deck building) card game Android: Netrunner by FantasyFlight Games. Distributed as a Living Card Game (LCG)"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netrunner"

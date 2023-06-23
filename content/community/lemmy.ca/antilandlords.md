@@ -3,7 +3,7 @@ title: "Anti Landlords"
 name: "antilandlords"
 description: "Post anything rental / housing crisis related / just complain about your slumlord/landlordInteresting:- [georgist idea of land tax](https://yewtu.be/watch?v=Li_MGFRNqOE)"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/antilandlords"

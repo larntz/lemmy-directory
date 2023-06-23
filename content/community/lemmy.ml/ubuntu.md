@@ -3,19 +3,19 @@ title: "Ubuntu (Linux)"
 name: "ubuntu"
 description: "Linux for Human Beings. https://ubuntu.com/"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ubuntu"
 host: lemmy.ml
 lastmod: "2022-04-19 12:51:22"
 published: "2020-01-03 22:28:36"
-subscribers: 674
+subscribers: 680
 posts: 39
 comments: 12
 weight: 39
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

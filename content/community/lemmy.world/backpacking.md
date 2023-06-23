@@ -3,14 +3,14 @@ title: "backpacking"
 name: "backpacking"
 description: "backpacking"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/backpacking"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 05:56:04"
-subscribers: 33
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

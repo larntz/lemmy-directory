@@ -3,14 +3,14 @@ title: "The Lenin Wiki"
 name: "theleninwiki"
 description: "Welcome To The Lemmygrad For The Website, The Lenin Wikihttps://sites.google.com/stu.gusd.net/theleninwiki/home"
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theleninwiki"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-04-17 19:32:03"
-subscribers: 170
+subscribers: 171
 posts: 2
 comments: 6
 weight: 2

@@ -3,14 +3,14 @@ title: "/c/RageComics: Because it’s still 2011 here"
 name: "ragecomics"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ragecomics"
 host: lemmy.world
 lastmod: "2023-06-10 19:30:38"
 published: "2023-06-09 21:02:34"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

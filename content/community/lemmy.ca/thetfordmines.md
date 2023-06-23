@@ -3,7 +3,7 @@ title: "Thetford Mines"
 name: "thetfordmines"
 description: "Communauté pour les sujets concernant Thetford Mines, QC /Community for subjects concerning the town of Thetford Mines, QCPosts en français ou en anglais / Posts can be in English or French"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/thetfordmines"

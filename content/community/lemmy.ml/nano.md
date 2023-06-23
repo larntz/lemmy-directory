@@ -3,7 +3,7 @@ title: "Nano"
 name: "nano"
 description: "Nano is an open-source cryptocurrency featuring near-instant transactions with zero fees. Its consensus protocol doesn't rely on mining and has a minimal carbon footprint, while also promoting decentralization."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nano"

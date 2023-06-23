@@ -3,14 +3,14 @@ title: "Zimmerpflanzen"
 name: "zimmerpflanzen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/zimmerpflanzen"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 22:04:04"
-subscribers: 23
+subscribers: 26
 posts: 1
 comments: 3
 weight: 1

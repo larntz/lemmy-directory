@@ -3,14 +3,14 @@ title: "Furry"
 name: "furry_lemmy"
 description: "Lemmy's furry community."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/furry_lemmy"
 host: lemmy.world
 lastmod: "2023-06-21 16:03:29"
 published: "2023-06-21 15:56:25"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

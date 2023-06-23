@@ -3,14 +3,14 @@ title: "City (and future commune) of Austin, TX"
 name: "austin"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/austin"
 host: lemmy.ml
 lastmod: "2021-03-28 13:13:41"
 published: "2020-06-30 05:06:38"
-subscribers: 18
+subscribers: 20
 posts: 2
 comments: 1
 weight: 2

@@ -3,14 +3,14 @@ title: "lightroom"
 name: "lightroom"
 description: "Lemmy community to discuss all things Adobe Lightroom - especially news and help. For help topics: Please make sure to specify whether you are dealign with issues on Lightroom (creative cloud / cloud / modern) or Lightroom Classic - as these are very different products with their own quirks. "
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lightroom"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 10:02:21"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

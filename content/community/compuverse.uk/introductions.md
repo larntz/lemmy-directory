@@ -3,7 +3,7 @@ title: "Introductions"
 name: "introductions"
 description: "A community for introducing yourself, and letting know people what makes *you* tick!A throwback to the forums of yesteryear."
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/introductions"

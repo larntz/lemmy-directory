@@ -3,20 +3,20 @@ title: "MEOW_IRL"
 name: "meow_irl"
 description: "For the cat in all of us"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/meow_irl"
 host: sopuli.xyz
 lastmod: "2023-06-14 22:20:55"
 published: "2023-06-12 23:39:15"
-subscribers: 80
-posts: 15
+subscribers: 88
+posts: 16
 comments: 7
-weight: 15
+weight: 16
 dau: 2
 wau: 9
-mau: 9
+mau: 11
 instances:
 - "sopuli_xyz"
 tags: 

@@ -3,14 +3,14 @@ title: "StopLies"
 name: "stoplies"
 description: "Many lies exist. Can you see through them? Can you prove them false?"
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stoplies"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 22:01:26"
-subscribers: 14
+subscribers: 16
 posts: 1
 comments: 4
 weight: 1

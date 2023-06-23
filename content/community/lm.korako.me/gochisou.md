@@ -3,14 +3,14 @@ title: "食レポ"
 name: "gochisou"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:29"
+date: "2023-06-23 01:18:39"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/gochisou"
 host: lm.korako.me
 lastmod: "1969-12-31 19:00:00"
 published: "2021-12-24 09:34:34"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

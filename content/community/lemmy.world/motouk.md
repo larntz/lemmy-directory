@@ -3,7 +3,7 @@ title: "MotoUK"
 name: "motouk"
 description: "Fellow MotoUK users from Reddit, Rejoin and carry on as usual"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motouk"

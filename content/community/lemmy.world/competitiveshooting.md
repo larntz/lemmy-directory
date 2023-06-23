@@ -3,14 +3,14 @@ title: "Competitive Shooting"
 name: "competitiveshooting"
 description: "For any and all competitive shooting disciplines worldwide - Pistol, Shotgun, Rifle, etc.Discuss gear, technique, news, results, personal improvement, and more!Rules:- Don't harass people. This is an **inclusive** community. This cannot be stated enough!- Focus on the sport(s). Discussions regarding the politics of gun ownership are allowed within context of competitive shooting, but keep it at a reasonable level.- We were all beginners once. Try not to be condescending."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/competitiveshooting"
 host: lemmy.world
 lastmod: "2023-06-11 19:40:36"
 published: "2023-06-11 18:52:04"
-subscribers: 24
+subscribers: 26
 posts: 3
 comments: 8
 weight: 3

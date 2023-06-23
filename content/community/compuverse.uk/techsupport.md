@@ -3,7 +3,7 @@ title: "Tech Support"
 name: "techsupport"
 description: "Are you stuck with tech?Got a blue screen?What's a kernel panic?Post here and let the community help you!"
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/techsupport"

@@ -3,7 +3,7 @@ title: "Minecraft Legacy Console Edition"
 name: "minecraftlce"
 description: "This Community is for fans of LCE developed by 4j studios (also new 3ds edition if you want to lol) No NSFWNo Weird behaviourYou are allowed to post youtube videos if you want."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftlce"

@@ -3,14 +3,14 @@ title: "Gerbils"
 name: "gerbils"
 description: "To share and discuss all things Gerbil. All content must be (at least tangibly) connected to or about Gerbils and their care. "
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gerbils"
 host: lemmy.world
 lastmod: "2023-06-16 10:31:59"
 published: "2023-06-16 10:30:46"
-subscribers: 14
+subscribers: 17
 posts: 8
 comments: 2
 weight: 8

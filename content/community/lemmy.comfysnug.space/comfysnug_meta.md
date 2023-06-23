@@ -3,7 +3,7 @@ title: "Instance Meta"
 name: "comfysnug_meta"
 description: "For anything to do about this instance"
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.comfysnug.space/c/comfysnug_meta"

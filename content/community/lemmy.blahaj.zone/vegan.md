@@ -3,14 +3,14 @@ title: "Vegan"
 name: "vegan"
 description: "For all the vegans out there!"
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/vegan"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-04-24 03:04:35"
-subscribers: 61
+subscribers: 65
 posts: 4
 comments: 3
 weight: 4

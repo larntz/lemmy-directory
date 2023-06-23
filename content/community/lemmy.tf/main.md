@@ -3,7 +3,7 @@ title: "Main - Lemmy.tf"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tf/c/main"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 01:17:19"
 subscribers: 17
 posts: 5
-comments: 5
+comments: 7
 weight: 5
 dau: 1
 wau: 5

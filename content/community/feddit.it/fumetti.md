@@ -3,14 +3,14 @@ title: "Fumetti"
 name: "fumetti"
 description: "Benvenuti! Questa comunità è un punto di incontro per appassionati di fumetti, lettori e collezionisti.Un luogo dove pubblicare e commentare le notizie relative al mondo di Comics, Manga, fumetti italiani e di ogni parte del mondo, dove consigliare le proprie letture e condividere le proprie collezioni.Ogni contributo è prezioso, il confronto e lo scambio di opinioni sono una ricchezza; unico limite è il rispetto reciproco e l’utilizzo di un linguaggio appropriato. "
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fumetti"
 host: feddit.it
 lastmod: "1969-12-31 19:00:00"
 published: "2022-05-19 07:33:15"
-subscribers: 151
+subscribers: 152
 posts: 42
 comments: 146
 weight: 42

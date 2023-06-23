@@ -3,14 +3,14 @@ title: "Fribyte"
 name: "fribyte"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fribyte.no/c/fribyte"
 host: lemmy.fribyte.no
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 21:06:32"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "Asexuality"
 name: "asexuality"
 description: "Asexuality is a sexual orientation where a person doesn't experience sexual attraction towards anyone. This is a place for asexuals, aromantics, or those who are questioning and in between. "
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/asexuality"
 host: lemmy.dbzer0.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 14:18:26"
-subscribers: 8
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

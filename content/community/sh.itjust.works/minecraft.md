@@ -3,7 +3,7 @@ title: "Minecraft"
 name: "minecraft"
 description: "Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-22 16:46:48"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/minecraft"

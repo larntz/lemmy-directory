@@ -3,12 +3,12 @@ title: "WNBA"
 name: "wnba"
 description: "A place to discuss the Women's National Basketball Association"
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wnba"
 host: lemmy.world
-lastmod: "2023-06-21 01:14:50"
+lastmod: "2023-06-22 05:55:33"
 published: "2023-06-21 00:49:23"
 subscribers: 1
 posts: 1

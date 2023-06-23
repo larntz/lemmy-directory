@@ -3,14 +3,14 @@ title: "dev"
 name: "dev"
 description: "A place for general discussion about software and software development."
 type: community
-date: "2023-06-22 02:19:43"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/dev"
 host: lemmy.pineapplemachine.com
 lastmod: "2023-06-05 09:27:45"
 published: "2023-06-05 08:49:59"
-subscribers: 21
+subscribers: 22
 posts: 4
 comments: 0
 weight: 4

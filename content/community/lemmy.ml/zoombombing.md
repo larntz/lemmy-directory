@@ -3,7 +3,7 @@ title: "Zoom Bombing "
 name: "zoombombing"
 description: "Zoom Bombing Sub We do not support or condone any of the following below- porn- racism - illegal activities "
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zoombombing"

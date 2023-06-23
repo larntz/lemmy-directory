@@ -3,7 +3,7 @@ title: "Anime/Manga"
 name: "ani_me"
 description: "A Community for all things regarding Anime and Manga. Discussions, Requests, OC's, and all such content are all welcome"
 type: community
-date: "2023-06-22 02:20:13"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/ani_me"

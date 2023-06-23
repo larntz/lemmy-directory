@@ -3,7 +3,7 @@ title: "Disney Vacation"
 name: "disneyvacation"
 description: "Not actually about Disney.A place for weird, terrible or terrifying illustrations from WikiHow"
 type: community
-date: "2023-06-22 02:20:18"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/disneyvacation"

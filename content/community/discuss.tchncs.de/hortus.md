@@ -3,7 +3,7 @@ title: "Insektenfreundlich Gärtnern"
 name: "hortus"
 description: "Wir diskutieren insektenfreundliches Gärtnern, sei es nach dem  Hortus-Konzept, dem Drei Zonen Garten, Permakultur oder Freistil."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hortus"

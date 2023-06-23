@@ -3,12 +3,12 @@ title: "RPG Design"
 name: "rpgdesign"
 description: "A place to chat about designing tabletop RPGs.Bog-standard rules:- don't be an ass    * don't do a bigotry    * no spam- no drive-by self-promotion"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rpgdesign"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 20:35:40"
 subscribers: 4
 posts: 0

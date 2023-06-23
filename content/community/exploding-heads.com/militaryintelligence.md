@@ -3,7 +3,7 @@ title: "Military Intelligence Ha Ha Ha!!!"
 name: "militaryintelligence"
 description: "Military Intelligence - The ultimate oxymoron at the Pentagon and on Capitol Hill.We are for a strong military that is:- loyal-  well led, - well trained, - better equipped then our competitors, - obeys the constitution,- is subject to civilian leadership- is used sparingly,- fights to win, then gets out.We are not for stupidity. Too much of what the military does falls outside of these bounds, and as much as we love the military - they must be called out for it."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/militaryintelligence"

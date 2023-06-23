@@ -3,14 +3,14 @@ title: "Mozambique"
 name: "mozambique"
 description: "A community to share and discuss news and information on Mozambique. "
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/mozambique"
 host: baraza.africa
 lastmod: "2021-11-28 01:38:12"
 published: "2021-03-28 17:09:30"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 2
 weight: 3

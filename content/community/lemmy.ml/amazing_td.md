@@ -3,7 +3,7 @@ title: "AMazing TD"
 name: "amazing_td"
 description: "A deep tower defense game focusing on maze building.Steam: https://store.steampowered.com/app/1140030/AMazing_TDAndroid: https://play.google.com/store/apps/details?id=com.Go4.AMazingDiscord: https://discord.gg/7yYTKgU"
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amazing_td"

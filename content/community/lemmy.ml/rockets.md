@@ -3,7 +3,7 @@ title: "Houston Rockets"
 name: "rockets"
 description: "A Houston Rockets Fan Community"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rockets"
@@ -14,7 +14,7 @@ subscribers: 2
 posts: 2
 comments: 2
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

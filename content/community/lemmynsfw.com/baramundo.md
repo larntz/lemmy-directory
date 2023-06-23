@@ -3,7 +3,7 @@ title: "Baramundo"
 name: "baramundo"
 description: "Wandering Bara Repository!"
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/baramundo"

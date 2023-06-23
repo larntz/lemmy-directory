@@ -3,7 +3,7 @@ title: "Ü50"
 name: "ue_fuffzich"
 description: "Deutschsprachige Community für Leute über 50. Alles was nützlich und interessant für unsere Altersgruppe ist (keine Politik, keine Kontaktbörse)"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ue_fuffzich"
@@ -15,7 +15,7 @@ posts: 8
 comments: 11
 weight: 8
 dau: 1
-wau: 5
+wau: 1
 mau: 8
 instances:
 - "feddit_de"

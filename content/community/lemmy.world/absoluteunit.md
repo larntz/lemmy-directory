@@ -3,14 +3,14 @@ title: "Absolute Unit"
 name: "absoluteunit"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/absoluteunit"
 host: lemmy.world
 lastmod: "2023-06-16 09:41:35"
 published: "2023-06-13 08:52:59"
-subscribers: 68
+subscribers: 72
 posts: 3
 comments: 3
 weight: 3

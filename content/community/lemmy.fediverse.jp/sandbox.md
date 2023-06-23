@@ -3,14 +3,14 @@ title: "すなば"
 name: "sandbox"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:10"
+date: "2023-06-23 01:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fediverse.jp/c/sandbox"
 host: lemmy.fediverse.jp
 lastmod: "1969-12-31 19:00:00"
 published: "2022-04-19 23:36:42"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

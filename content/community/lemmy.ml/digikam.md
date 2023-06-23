@@ -3,12 +3,12 @@ title: "digiKam"
 name: "digikam"
 description: "digiKam is a free and open-source image organizer and tag editor written in C++ using the KDE Applications."
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digikam"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 22:48:32"
 subscribers: 4
 posts: 0

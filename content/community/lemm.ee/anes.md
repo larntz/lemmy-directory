@@ -3,7 +3,7 @@ title: "Carolina Hurricanes"
 name: "anes"
 description: "Community for the NHL team Carolina Hurricanes"
 type: community
-date: "2023-06-22 02:20:13"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/anes"
@@ -15,8 +15,8 @@ posts: 8
 comments: 9
 weight: 8
 dau: 1
-wau: 4
-mau: 4
+wau: 3
+mau: 5
 instances:
 - "lemm_ee"
 tags: 

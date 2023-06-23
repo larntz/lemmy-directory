@@ -3,14 +3,14 @@ title: "Garmin"
 name: "garmin"
 description: "A community to discuss Garmin devices of all types"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/garmin"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 14:41:40"
-subscribers: 31
+subscribers: 32
 posts: 2
 comments: 0
 weight: 2

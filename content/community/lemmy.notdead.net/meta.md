@@ -3,14 +3,14 @@ title: "Meta"
 name: "meta"
 description: "Anything related to lemmy.notdead.net and it's moderation."
 type: community
-date: "2023-06-22 02:19:57"
+date: "2023-06-23 01:19:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.notdead.net/c/meta"
 host: lemmy.notdead.net
 lastmod: "2023-06-14 19:09:06"
 published: "2023-06-08 02:51:00"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

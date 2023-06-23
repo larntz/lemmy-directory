@@ -3,20 +3,20 @@ title: "Sailing"
 name: "sailing"
 description: "**General**Welcome! This is a place to discuss sailing, all sailing related questions and share sailing images. Please post freely about sailing and comment generously. User adoption and use is the boon which will inspire more users to join! **Known Issues**Posts created in portrait mode automatically rotate to landscape mode. This is something across Lemmy that seems to be known. To address, the image must have the correct metadata, not just rotated in your camera roll before uploading. "
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sailing"
 host: lemmy.world
 lastmod: "2023-06-10 17:13:23"
 published: "2023-06-10 03:31:52"
-subscribers: 279
-posts: 31
-comments: 103
-weight: 31
-dau: 6
-wau: 30
-mau: 41
+subscribers: 312
+posts: 33
+comments: 110
+weight: 33
+dau: 5
+wau: 32
+mau: 45
 instances:
 - "lemmy_world"
 tags: 

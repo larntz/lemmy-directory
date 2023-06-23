@@ -3,17 +3,17 @@ title: "RuneScape"
 name: "runescape"
 description: "A community for discussing all things RuneScape (3/EoC)."
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/runescape"
 host: lemmy.world
 lastmod: "2023-06-19 23:43:26"
 published: "2023-06-17 12:25:57"
-subscribers: 10
-posts: 2
+subscribers: 19
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2

@@ -1,21 +1,21 @@
 ---
 title: "Death Metal" 
 name: "death_metal"
-description: "All things Death metal. You know what to do: spread gory rhapsodies, uncover hidden talents, share thoughts about the evolution of the genre.To keep things organized and easy to navigate, please use the following format when posting music.Band - Song Title [Location, Year] [FFO: Band 1, Band 2, Band 3]Example: Bolt Thrower - World Eater [England, 1989] [FFO: Benediction, Hail of Bullets, Memoriam]FFO means “For Fans Of” and is not always needed, but can be very helpful in promoting lesser known bands.Please keep posts related to death metal. Other subgenres (death/doom, melodic death, progressive death) of death metal are welcome as long as the band is primarily death metal. If looking for general metal, please visit the [Metal Community](https://lemmy.world/c/metal@lemmy.world).Rock on m/"
+description: "All things Death metal. You know what to do: spread gory rhapsodies, uncover hidden talents, share thoughts about the evolution of the genre.**Rules*** To keep things organized and easy to navigate, please use the following format when posting music.  Band - Song Title [Location, Year] [FFO: Band 1, Band 2, Band 3] Example: Bolt Thrower - World Eater [England, 1989] [FFO: Benediction, Hail of Bullets, Memoriam]FFO means “For Fans Of” and is not always needed, but can be very helpful in promoting lesser known bands.* Please keep posts related to death metal. Other subgenres (death/doom, melodic death, progressive death, brutal death, black/death) of death metal are welcome as long as the band is primarily death metal. If looking for general metal, please visit the [Metal Community](https://lemmy.world/c/metal@lemmy.world).Rock on m/"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/death_metal"
 host: lemmy.world
-lastmod: "2023-06-19 20:11:29"
+lastmod: "2023-06-22 13:51:15"
 published: "2023-06-13 11:57:55"
-subscribers: 113
-posts: 32
-comments: 29
-weight: 32
-dau: 3
-wau: 17
+subscribers: 130
+posts: 34
+comments: 30
+weight: 34
+dau: 2
+wau: 16
 mau: 18
 instances:
 - "lemmy_world"

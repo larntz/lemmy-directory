@@ -3,7 +3,7 @@ title: "Vintage"
 name: "vintage"
 description: "**Vintage format (Type 1) discussion.**Play your moxen here! Vintage allows for cards to be played from *all* Magic card sets and includes cards from expansions and special sets! In addition to its banned list, Vintage uniquely holds a restricted list for the super broken cards, which limits the use of a card to a single copy.Read more at [Vintage's official website](https://magic.wizards.com/en/formats/vintage)."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:10"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/vintage"

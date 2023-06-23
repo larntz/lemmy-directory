@@ -1,22 +1,22 @@
 ---
 title: "Lemmy Feature Wishlist" 
 name: "wishlist"
-description: "Non-official community to share the features you'd like to see on Lemmy.Rules:- Every post must be linked to an issue on [Lemmy's GitHub](https://github.com/LemmyNet/lemmy/issues), if you don't know how, you can ask someone else to do it for you- Should only concern Lemmy features, not Kbin or other Fediverse software"
+description: "Official community to share the features you'd like to see on Lemmy.Rules:- Every post must be linked to an issue on [Lemmy's GitHub](https://github.com/LemmyNet/lemmy/issues), if you don't know how, you can ask someone else to do it for you- Should only concern Lemmy features, not Kbin or other Fediverse software"
 type: community
-date: "2023-06-20 11:38:24"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wishlist"
 host: lemmy.ml
-lastmod: "2023-06-19 16:02:28"
+lastmod: "2023-06-20 13:32:42"
 published: "2023-06-17 22:15:33"
 subscribers: 17
-posts: 4
-comments: 3
-weight: 4
-dau: 3
-wau: 3
-mau: 3
+posts: 6
+comments: 4
+weight: 6
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

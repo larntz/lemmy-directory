@@ -3,12 +3,12 @@ title: "Main"
 name: "main"
 description: "This is the main / general / announcements community for the 1337lemmy instance. I'll post announcements here if I ever have any (server maintenance, etc). Feel free to use this for suggestions or general chat."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:54"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/main"
 host: 1337lemmy.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 19:41:24"
 subscribers: 2
 posts: 0

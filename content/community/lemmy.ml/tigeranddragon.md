@@ -3,7 +3,7 @@ title: "Tiger & Dragon – about Sinology"
 name: "tigeranddragon"
 description: "About Chinese culture, history, pholosopie, characters, learning Chinese …關於中國文化、歷史、哲學、漢字和學習中文 …"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tigeranddragon"

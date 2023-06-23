@@ -3,19 +3,19 @@ title: "Ok Bruder Mongole"
 name: "okbrudimongo"
 description: "✅ Frisch seid 184✅ Benutst Kot „Adipöse Milchkuh“ für 16% Rabat im Scheckaut"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/okbrudimongo"
 host: sh.itjust.works
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 15:51:22"
-subscribers: 13
-posts: 12
+subscribers: 18
+posts: 13
 comments: 2
-weight: 12
+weight: 13
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "sh_itjust_works"

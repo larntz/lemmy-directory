@@ -3,14 +3,14 @@ title: "Opiates and opioids"
 name: "opiates"
 description: "Community about opioids and opiates: ask and give advice,  post your experiences, make questions related and experiences about it or withdrawals process. BUY&SELL ISN'T ALLOWED 🚫"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/opiates"
 host: lemmy.world
 lastmod: "2023-06-13 00:07:23"
 published: "2023-06-12 23:59:46"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

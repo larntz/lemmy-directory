@@ -3,14 +3,14 @@ title: "Adelaide"
 name: "adelaide"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/adelaide"
 host: lemmy.perthchat.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-13 18:51:34"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

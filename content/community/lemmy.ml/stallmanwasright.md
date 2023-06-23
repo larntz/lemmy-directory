@@ -3,20 +3,20 @@ title: "Stallman Was Right"
 name: "stallmanwasright"
 description: "Nobody listens to him. But he was right all along."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stallmanwasright"
 host: lemmy.ml
 lastmod: "2023-06-14 13:24:45"
 published: "2022-02-24 16:38:26"
-subscribers: 392
-posts: 14
+subscribers: 402
+posts: 15
 comments: 16
-weight: 14
-dau: 4
+weight: 15
+dau: 2
 wau: 7
-mau: 10
+mau: 11
 instances:
 - "lemmy_ml"
 tags: 

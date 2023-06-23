@@ -3,7 +3,7 @@ title: "Wizard101"
 name: "wizard101"
 description: "A community to discuss and share information about the MMO Wizard101."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wizard101"

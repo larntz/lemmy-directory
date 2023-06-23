@@ -3,19 +3,19 @@ title: "Frank Zappa"
 name: "frankzappa"
 description: "A place for Zappa freaks to congregate!"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frankzappa"
 host: lemmy.world
 lastmod: "2023-06-15 12:09:59"
 published: "2023-06-15 12:07:15"
-subscribers: 17
+subscribers: 21
 posts: 5
 comments: 4
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

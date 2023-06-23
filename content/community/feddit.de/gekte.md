@@ -3,14 +3,14 @@ title: "gekte"
 name: "gekte"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gekte"
 host: feddit.de
 lastmod: "2023-06-14 12:03:23"
 published: "2023-06-14 12:03:10"
-subscribers: 18
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

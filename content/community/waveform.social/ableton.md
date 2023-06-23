@@ -3,7 +3,7 @@ title: "Ableton"
 name: "ableton"
 description: "Here we discuss all things Ableton Live / Push / M4L"
 type: community
-date: "2023-06-22 02:20:03"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/ableton"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 1
+wau: 2
 mau: 3
 instances:
 - "waveform_social"

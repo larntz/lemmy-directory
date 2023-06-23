@@ -3,19 +3,19 @@ title: "The Grand Tour"
 name: "thegrandtour"
 description: "For discussion of the Amazon TV show The Grand Tour, starring Jeremy Clarkson, Richard Hammond, and James May.Discussion of other TV shows with any of the hosts (such as Top Gear) may be allowed as well. "
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thegrandtour"
 host: lemmy.world
 lastmod: "2023-06-14 04:47:19"
 published: "2023-06-14 04:43:38"
-subscribers: 90
+subscribers: 103
 posts: 5
 comments: 17
 weight: 5
 dau: 1
-wau: 5
+wau: 4
 mau: 9
 instances:
 - "lemmy_world"

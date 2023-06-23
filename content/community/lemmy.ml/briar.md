@@ -3,7 +3,7 @@ title: "briar"
 name: "briar"
 description: " Secure messaging, anywhere "
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-22 16:47:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/briar"

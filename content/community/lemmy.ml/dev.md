@@ -3,14 +3,14 @@ title: "Development"
 name: "dev"
 description: ""
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dev"
 host: lemmy.ml
 lastmod: "2021-05-06 02:30:00"
 published: "2021-05-06 02:28:20"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

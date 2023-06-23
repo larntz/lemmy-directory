@@ -3,12 +3,12 @@ title: "meme ideas"
 name: "memeideas"
 description: "A space for memes when you haven't yet put in the effort to make them"
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memeideas"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-08-26 09:58:58"
 subscribers: 8
 posts: 1

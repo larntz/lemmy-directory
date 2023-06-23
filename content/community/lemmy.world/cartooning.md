@@ -3,7 +3,7 @@ title: "Cartooning"
 name: "cartooning"
 description: "A place for cartoonists and fans to come together and show off what they make and enjoy. Be it art, comic strips, or animations."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cartooning"

@@ -3,7 +3,7 @@ title: "St. Louis Blues"
 name: "stlblues"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stlblues"
@@ -15,7 +15,7 @@ posts: 5
 comments: 10
 weight: 5
 dau: 1
-wau: 5
+wau: 4
 mau: 7
 instances:
 - "lemmy_world"

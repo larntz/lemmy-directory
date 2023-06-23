@@ -3,7 +3,7 @@ title: "VeganWholeFood"
 name: "veganwholefood"
 description: "Community for the discussion of vegan food that prioritizes Whole Foods for the purpose of healthier eating and living."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/veganwholefood"

@@ -3,14 +3,14 @@ title: "Einfach posten"
 name: "einfachposten"
 description: "Nicht lange nachdenken, einfach mal machen."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/einfachposten"
 host: feddit.de
 lastmod: "2023-06-12 07:29:11"
 published: "2023-06-05 15:10:30"
-subscribers: 148
+subscribers: 151
 posts: 6
 comments: 16
 weight: 6

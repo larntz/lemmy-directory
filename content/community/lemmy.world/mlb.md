@@ -3,14 +3,14 @@ title: "MLB"
 name: "mlb"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mlb"
 host: lemmy.world
 lastmod: "2023-06-09 20:36:14"
 published: "2023-06-09 20:00:26"
-subscribers: 99
+subscribers: 107
 posts: 4
 comments: 16
 weight: 4

@@ -3,7 +3,7 @@ title: "Data Is Beautiful"
 name: "dataisbeautiful"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:47"
+date: "2023-06-23 01:18:59"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/dataisbeautiful"

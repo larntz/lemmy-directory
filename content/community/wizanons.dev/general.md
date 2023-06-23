@@ -3,14 +3,14 @@ title: "General"
 name: "general"
 description: "General mage-based discussion"
 type: community
-date: "2023-06-22 02:20:07"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/general"
 host: wizanons.dev
 lastmod: "2023-06-11 21:15:18"
 published: "2023-06-11 19:54:38"
-subscribers: 8
+subscribers: 9
 posts: 7
 comments: 13
 weight: 7

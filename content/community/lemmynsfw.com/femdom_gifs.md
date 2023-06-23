@@ -1,16 +1,16 @@
 ---
-title: "Femdom Gifs" 
+title: "Femdom Video Clips" 
 name: "femdom_gifs"
-description: "Femdom related gifs and videos clips only.  No images. Links to full videos (such as on pornhub) can be provided in body of post or comments)---"
+description: "Femdom-context gifs and video clips only.  No images. Links to full videos (such as on pornhub) can be provided in body of post or in comments)Intentionally trying to keep the focus of the community to short clips rather than full long videos. I'm sure someone will create/have a different community for that purpose eventually.---"
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/femdom_gifs"
 host: lemmynsfw.com
-lastmod: "2023-06-21 14:18:55"
+lastmod: "2023-06-22 17:06:54"
 published: "2023-06-19 22:46:25"
-subscribers: 17
+subscribers: 24
 posts: 4
 comments: 0
 weight: 4

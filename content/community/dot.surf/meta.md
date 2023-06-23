@@ -3,7 +3,7 @@ title: "..surf meta"
 name: "meta"
 description: "Chat about dot.surf lemmy instance and related"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-22 16:47:06"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/meta"

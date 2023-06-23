@@ -3,19 +3,19 @@ title: "Videojogos"
 name: "videojogos"
 description: "Comunidade dedicada a videojogos e gaming."
 type: community
-date: "2023-06-22 02:20:09"
+date: "2023-06-23 01:19:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/videojogos"
 host: lemmy.pt
 lastmod: "2021-09-13 11:27:14"
 published: "2021-09-10 19:53:38"
-subscribers: 34
+subscribers: 35
 posts: 5
 comments: 11
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_pt"

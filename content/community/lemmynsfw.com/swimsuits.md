@@ -3,18 +3,18 @@ title: "Swimsuits"
 name: "swimsuits"
 description: "A place for people in Swimsuits.# Rules🔞 **Age Requirement**: All participants MUST be 18 or over. Additionally, this should go without saying, **but posting content involving any person(s) who is under 18 is Forbidden**."
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:47"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/swimsuits"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 18:06:58"
 published: "2023-06-19 16:23:24"
-subscribers: 75
-posts: 4
+subscribers: 110
+posts: 7
 comments: 0
-weight: 4
-dau: 3
+weight: 7
+dau: 1
 wau: 3
 mau: 3
 instances:

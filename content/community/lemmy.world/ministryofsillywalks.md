@@ -3,7 +3,7 @@ title: "Ministry of Silly Walks"
 name: "ministryofsillywalks"
 description: "Be silly."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ministryofsillywalks"

@@ -3,14 +3,14 @@ title: "Agitative Propaganda"
 name: "agitprop"
 description: "A community dedicated to the collection, creation and dissemination of agitative propaganda."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/agitprop"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2020-08-01 16:01:05"
-subscribers: 27
+subscribers: 28
 posts: 0
 comments: 0
 weight: 0

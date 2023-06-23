@@ -3,7 +3,7 @@ title: "Warung Kopi"
 name: "warkop"
 description: "Tempat nongkrong dan ngobrol, bebas asalkan sopan."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warkop"
@@ -12,10 +12,10 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 23:18:28"
 subscribers: 21
 posts: 9
-comments: 86
+comments: 90
 weight: 9
-dau: 5
-wau: 15
+dau: 3
+wau: 14
 mau: 15
 instances:
 - "lemmy_world"

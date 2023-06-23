@@ -1,22 +1,22 @@
 ---
 title: "Play My Game" 
 name: "play_my_game"
-description: "Description not available."
+description: "A community to show off your games, and get feedback from players. Positive, negative. And suggestions.Provide a demo or free game.If you want people to play your game try also playing other games being posted.When posting answer questions and and be active"
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-23 01:19:02"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/play_my_game"
 host: programming.dev
-lastmod: "2023-06-22 00:27:37"
+lastmod: "2023-06-22 18:10:37"
 published: "2023-06-21 12:33:24"
-subscribers: 9
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "programming_dev"
 tags: 

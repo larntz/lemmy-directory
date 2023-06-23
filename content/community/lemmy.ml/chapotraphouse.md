@@ -3,7 +3,7 @@ title: "a community for the podcast chapo trap house"
 name: "chapotraphouse"
 description: "[Link to the Chapo Trap House Discord server.](https://discord.gg/chapotraphouse)"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chapotraphouse"

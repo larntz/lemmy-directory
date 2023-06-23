@@ -3,7 +3,7 @@ title: "Battlebots"
 name: "battlebots"
 description: "It's Robot Fightin' Time!"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-22 16:46:48"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/battlebots"

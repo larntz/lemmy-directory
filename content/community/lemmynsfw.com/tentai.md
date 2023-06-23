@@ -3,19 +3,19 @@ title: "Tentacle Hentai"
 name: "tentai"
 description: "An NSFW community dedicated to Tentacle Hentai. Post any tentacle related porn here.**Please comply with instance wide rules**Message [@SC4_NSFW_Account@lemmynsfw.com](https://lemmynsfw.com/u/SC4_NSFW_Account) with if there are issues related to this community."
 type: community
-date: "2023-06-22 02:20:38"
+date: "2023-06-23 01:19:49"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tentai"
 host: lemmynsfw.com
 lastmod: "2023-06-16 09:42:11"
 published: "2023-06-11 12:11:55"
-subscribers: 775
+subscribers: 818
 posts: 57
 comments: 12
 weight: 57
 dau: 1
-wau: 8
+wau: 6
 mau: 14
 instances:
 - "lemmynsfw_com"

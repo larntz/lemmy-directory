@@ -3,14 +3,14 @@ title: "tattoos"
 name: "tattoos"
 description: "A place for sharing ink."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tattoos"
 host: sh.itjust.works
 lastmod: "2023-06-22 02:01:34"
 published: "2023-06-22 01:49:27"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

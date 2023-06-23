@@ -3,7 +3,7 @@ title: "Testing"
 name: "testing"
 description: "This is for testing purposes."
 type: community
-date: "2023-06-22 02:20:12"
+date: "2023-06-23 01:19:21"
 draft: false
 nsfw: false
 actor_id: "https://netmonkey.tech/c/testing"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "netmonkey_tech"

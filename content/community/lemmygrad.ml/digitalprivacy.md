@@ -3,7 +3,7 @@ title: "Digital Privacy"
 name: "digitalprivacy"
 description: "With corporations like Google, Facebook, Discord, etc. taking over more and more of people's lives, the issue of digital privacy is becoming more and more relevant.This is a community for anything related to digital privacy. From discussing the violation of digital privacy, to discussing technical details of solutions to digital privacy issues."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/digitalprivacy"

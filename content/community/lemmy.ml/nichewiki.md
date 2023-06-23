@@ -3,12 +3,12 @@ title: "Wikidiamonds in the Wikirough"
 name: "nichewiki"
 description: "SFW interesting wiki articles. Doesn't have to be Wikipedia, but if it's a smaller wiki, the point of interest can't just be cringe at the page itself.It's okay if it's been a featured article as long as you think most people wouldn't have read it--and feel free to link directly to an interesting subheading of the page. "
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nichewiki"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-20 18:21:08"
 subscribers: 31
 posts: 11

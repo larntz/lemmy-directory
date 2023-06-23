@@ -3,14 +3,14 @@ title: "Virtual Photography"
 name: "virtualphotography"
 description: "Virtual photography is a form of new media art where images are created by taking screenshots of video games or other virtual worlds."
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virtualphotography"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 13:22:50"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

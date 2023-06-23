@@ -3,14 +3,14 @@ title: "Test"
 name: "test"
 description: "Test Stuff For Lemmy"
 type: community
-date: "2023-06-22 02:20:06"
+date: "2023-06-23 01:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.scottlabs.io/c/test"
 host: lemmy.scottlabs.io
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 23:01:08"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

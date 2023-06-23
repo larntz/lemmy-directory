@@ -3,14 +3,14 @@ title: "threejs"
 name: "threejs"
 description: "A place to talk about the amazing THREEJS library!"
 type: community
-date: "2023-06-20 11:38:25"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/threejs"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 09:53:50"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

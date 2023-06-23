@@ -3,7 +3,7 @@ title: "Translator"
 name: "translator"
 description: "Have something in a language you don't understand and want translated in a jiffy? You've come to the right place!_________________General Rules:1. No commercial usage of translations here2. Be nice to our translators3. No fake, joke or machine translations_________________Submission Rules:1. Include the target language in your title (Example: [Chinese > English])2. If you don't know the source language, put Unknown (Example: [Unknown > English])3. Volunteer translation requests only4. No unreasonably long translation requests 5. No translation requests of unethical or illegal content6. Add 'TRANSLATED' to your title once you get a satisfactory translation!"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/translator"

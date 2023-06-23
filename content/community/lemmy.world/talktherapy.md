@@ -3,7 +3,7 @@ title: "Talk Therapy"
 name: "talktherapy"
 description: "Have a question about something that happened in therapy? Want to know how your experience compares to other peoples? Wondering what the heck your therapist is talking about? Thinking about going into therapy but want to know what it's like from a patient's perspective? Share your psychotherapy stories and questions here. Clients and therapists are both welcome to exchange perspectives and ideas. Please be kind to each other."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/talktherapy"

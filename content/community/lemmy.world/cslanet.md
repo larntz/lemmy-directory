@@ -3,7 +3,7 @@ title: "CSLA .NET"
 name: "cslanet"
 description: "CSLA .NET community on the fediverse!* [cslanet home page](https://cslanet.com)* [cslanet mastodon](https://dotnet.social/@cslanet)"
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cslanet"

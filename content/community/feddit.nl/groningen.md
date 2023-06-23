@@ -3,14 +3,14 @@ title: "Groningen"
 name: "groningen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/groningen"
 host: feddit.nl
 lastmod: "2023-06-11 13:46:44"
 published: "2023-06-11 13:43:45"
-subscribers: 23
+subscribers: 24
 posts: 2
 comments: 3
 weight: 2

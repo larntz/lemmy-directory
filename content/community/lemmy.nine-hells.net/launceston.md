@@ -3,7 +3,7 @@ title: "Launceston"
 name: "launceston"
 description: "Launceston community"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/launceston"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_nine-hells_net"

@@ -3,14 +3,14 @@ title: "Art"
 name: "art"
 description: "Art in general. Post anything relating to artwork, different art forms, literature, poetry, culture, etc., etc., etc."
 type: community
-date: "2023-06-19 17:58:57"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/art"
 host: lemmygrad.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2021-07-31 16:49:15"
-subscribers: 72
+subscribers: 74
 posts: 6
 comments: 6
 weight: 6

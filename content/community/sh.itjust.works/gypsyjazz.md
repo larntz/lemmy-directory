@@ -3,7 +3,7 @@ title: "Djangology! Gypsy Jazz in the Fediverse"
 name: "gypsyjazz"
 description: "All about [Gypsy Jazz Music](https://en.wikipedia.org/wiki/Gypsy_jazz). Tunes, Instructional Material, Friendly Exchange.Resources for players:* [Playing Django Style](http://www.hotclub.co.uk/html/playing.html)* [Frequently used chord shapes](http://i.imgur.com/Utz4z.jpg)* [Nuages de Swing Playalongs](http://nuagesdeswing.free.fr/jouer/jouer_index2b.html)* [Django Fakebook](http://www.mediafire.com/?nha54tt5dj33361)"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/gypsyjazz"

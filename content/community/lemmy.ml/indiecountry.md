@@ -3,7 +3,7 @@ title: "Indie Country"
 name: "indiecountry"
 description: "For lovers of country music you won't hear on the radioFor lovers of bluegrass make sure to stop by at !bluegrass@lemmy.world"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiecountry"
@@ -15,7 +15,7 @@ posts: 15
 comments: 14
 weight: 15
 dau: 1
-wau: 4
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"

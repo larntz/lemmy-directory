@@ -3,16 +3,16 @@ title: "Moldova"
 name: "moldova"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:12"
+date: "2023-06-23 01:19:21"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/moldova"
 host: feddit.ro
 lastmod: "2023-06-19 13:44:01"
 published: "2023-06-19 13:42:10"
-subscribers: 4
+subscribers: 6
 posts: 6
-comments: 5
+comments: 6
 weight: 6
 dau: 2
 wau: 4

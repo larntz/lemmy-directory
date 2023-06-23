@@ -3,7 +3,7 @@ title: "Tabletop Miniatures Hobby"
 name: "tabletop_hobby"
 description: "Community for creating and painting miniatures for tabletop RPGs and wargames."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tabletop_hobby"

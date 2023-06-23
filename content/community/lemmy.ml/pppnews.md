@@ -3,12 +3,12 @@ title: "Piasco Per Passione News"
 name: "pppnews"
 description: "Comunità di informazione circa le attività del gruppo consiliare di **Piasco Per Passione** e dei fatti più importanti legati alla vita politica di Piasco"
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pppnews"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-03-14 14:51:06"
 subscribers: 2
 posts: 2

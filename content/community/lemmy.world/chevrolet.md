@@ -3,14 +3,14 @@ title: "Chevrolet"
 name: "chevrolet"
 description: "Automotive community for Chevrolet "
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chevrolet"
 host: lemmy.world
 lastmod: "2023-06-19 14:25:11"
 published: "2023-06-14 15:43:22"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2

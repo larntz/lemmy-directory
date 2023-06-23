@@ -3,14 +3,14 @@ title: "The Mandalorian"
 name: "themandalorian"
 description: "This community is dedicated to The Mandalorian TV series."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/themandalorian"
 host: lemmy.world
 lastmod: "2023-06-19 19:44:22"
 published: "2023-06-17 16:18:05"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Counter-Strike"
 name: "counterstrike"
 description: "Discussions relating to all things Counter-Strike: Esports, gameplay etc."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/counterstrike"
 host: vlemmy.net
 lastmod: "2023-06-18 22:06:04"
 published: "2023-06-18 21:58:15"
-subscribers: 4
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

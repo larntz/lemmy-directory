@@ -3,7 +3,7 @@ title: "Roleplayers de Portugal"
 name: "portugalrpg"
 description: "SubLemmy da **Comunidade Portuguesa de Roleplayers**.*Dungeons & Dragons,  Call of Cthulhu, Powered by the Apocalypse, Pathfinder, FATE, Warhammer*, homebrew e todos os RPG que quiseres trazer para a discussão e partilha. Participa, discute, mostra os teus dotes de criador ou ilustrador, este espaço é teu e de toda a comunidade. **Junta-te a nós.**# Por favor:+ Respeitem os outros;+ Esta comunidade é apenas sobre RPG de mesa e temas associados;+ Não divulguem ou promovam Pirataria.**Matrix:** #ptrpg:matrix.org"
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/portugalrpg"

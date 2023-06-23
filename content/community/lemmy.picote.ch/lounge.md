@@ -3,7 +3,7 @@ title: "Lounge"
 name: "lounge"
 description: "Casual discussions. Keep it civil and generally laid-back, please. The definitions of civil and laid-back are currently at the discretion of the admins. Please don't make us write more rules than this."
 type: community
-date: "2023-06-22 02:20:04"
+date: "2023-06-23 01:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.picote.ch/c/lounge"

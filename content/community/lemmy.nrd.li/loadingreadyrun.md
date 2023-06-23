@@ -3,7 +3,7 @@ title: "Loading Ready Run"
 name: "loadingreadyrun"
 description: "An (unofficial) community for discussing all things LRR."
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/loadingreadyrun"
@@ -15,8 +15,8 @@ posts: 11
 comments: 2
 weight: 11
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_nrd_li"
 tags: 

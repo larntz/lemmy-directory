@@ -3,7 +3,7 @@ title: "Superman"
 name: "superman"
 description: "The Man of Steel, the Last Son of Krypton, the Man of Tomorrow, the Big Blue Boy Scout"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-22 16:47:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/superman"

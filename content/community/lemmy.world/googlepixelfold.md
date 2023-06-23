@@ -3,7 +3,7 @@ title: "Google Pixel Fold"
 name: "googlepixelfold"
 description: "A place to discuss the Google Pixel Fold"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/googlepixelfold"

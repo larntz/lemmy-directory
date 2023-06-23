@@ -3,7 +3,7 @@ title: "Free Beer and Hot Wings"
 name: "fbhw"
 description: "Fans of the Free Beer and Hot Wings nationally syndicated radio show.*We are not affiliated with the official show.*"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-22 16:47:06"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/fbhw"

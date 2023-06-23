@@ -3,7 +3,7 @@ title: "Anime"
 name: "anime"
 description: "A community related to anime."
 type: community
-date: "2023-06-22 02:19:54"
+date: "2023-06-22 16:46:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anime"

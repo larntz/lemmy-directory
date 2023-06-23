@@ -3,7 +3,7 @@ title: "feminism"
 name: "feminism"
 description: "Other interesting lemmy communities to follow:* https://beehaw.org/c/feminism* https://beehaw.org/c/lgbtq_plus"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/feminism"

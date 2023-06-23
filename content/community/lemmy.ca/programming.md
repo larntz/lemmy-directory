@@ -3,14 +3,14 @@ title: "programming"
 name: "programming"
 description: "A community for programmers, data scientists, software engineers, web developers, cryptographers, hackers, and much more."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/programming"
 host: lemmy.ca
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 21:12:47"
-subscribers: 71
+subscribers: 75
 posts: 4
 comments: 4
 weight: 4

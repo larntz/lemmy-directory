@@ -3,14 +3,14 @@ title: "Philosophie"
 name: "philosophie"
 description: "errare humanum est"
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/philosophie"
 host: feddit.de
 lastmod: "2021-08-31 20:30:40"
 published: "2021-08-23 07:50:39"
-subscribers: 75
+subscribers: 76
 posts: 11
 comments: 4
 weight: 11

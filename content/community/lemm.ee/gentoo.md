@@ -3,7 +3,7 @@ title: "Gentoo Linux & Portage Package Manager"
 name: "gentoo"
 description: "A community for people who love Gentoo and want to discuss it, or ask for advice regarding Gentoo or its' package manager, Portage.This community is not in any way affiliated with the Gentoo Foundation, but in order to use the Gentoo name, we must conform to the [Gentoo Code of conduct](https://wiki.gentoo.org/wiki/Project:Council/Code_of_conduct), which is incidentally a very reasonable set of guidelines.Credit for banner: Jens Bludau, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gentoo"

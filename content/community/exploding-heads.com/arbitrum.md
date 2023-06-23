@@ -3,7 +3,7 @@ title: "Crypto - Arbitrum"
 name: "arbitrum"
 description: "Arbitrum is a L2 solution which utilizes a technology known as optimistic rollup.This enables Ethereum smart contracts to scale by passing messages between smart contracts on the Ethereum primary chain and Arbitrum’s L2 chain, with the bulk of transaction processing completed on the L2 chain. What this enables essentially is a dramatically improved performance in terms of speed and efficiency. There are 3 main components in the Arbitrum system — (i) the compiler, (ii) the EthBridge, and (iii) validators. These 3 components work in sync to enable Arbitrum to be fast and interoperable.[Website](https://arbitrum.io/)"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/arbitrum"

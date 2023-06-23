@@ -3,7 +3,7 @@ title: "Emulation"
 name: "emulation"
 description: "A server for discussion of emulators, and emulation.Note: Posting, linking to or assisting with the discovery of ROM / ISO files (or any other copyrighted material) is strictly forbidden!"
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/emulation"

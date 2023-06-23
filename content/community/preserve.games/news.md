@@ -3,14 +3,14 @@ title: "News"
 name: "news"
 description: "Game preservation news"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/news"
 host: preserve.games
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 00:03:26"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 5
 weight: 4

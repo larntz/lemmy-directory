@@ -3,14 +3,14 @@ title: "Terraria"
 name: "terraria"
 description: "A community for the best game in the world, Terraria."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraria"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 02:31:22"
-subscribers: 113
+subscribers: 117
 posts: 6
 comments: 18
 weight: 6

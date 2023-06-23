@@ -3,12 +3,12 @@ title: "Tech Vision"
 name: "techvision"
 description: "Official community for **Tech Vision** discord server.  Here you can talk about tech. Hardware, software, linux, games, science; anything goes.    We dislike gatekeeping discussions, if anything, we encourage them. Join us and start a conversation."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techvision"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-10-16 20:39:27"
 subscribers: 4
 posts: 1

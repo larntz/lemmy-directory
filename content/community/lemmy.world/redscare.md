@@ -3,7 +3,7 @@ title: "Red Scare"
 name: "redscare"
 description: "Red Scare is a podcast hosted by @annakhachiyan and @nobody_stop_me. This is a Lemmy page for that. We don't really know how to use this sorry"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/redscare"

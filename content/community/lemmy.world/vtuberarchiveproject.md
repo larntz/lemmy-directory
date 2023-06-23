@@ -3,14 +3,14 @@ title: "The VTuber Archive Project"
 name: "vtuberarchiveproject"
 description: "Still under construction"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vtuberarchiveproject"
 host: lemmy.world
 lastmod: "2023-06-15 13:48:42"
 published: "2023-06-12 04:40:11"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2

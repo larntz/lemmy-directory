@@ -3,14 +3,14 @@ title: "Safe Internet"
 name: "safe_internet"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.safe-internet.org/c/safe_internet"
 host: lemmy.safe-internet.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-03-28 15:27:06"
-subscribers: 3
+subscribers: 4
 posts: 8
 comments: 1
 weight: 8

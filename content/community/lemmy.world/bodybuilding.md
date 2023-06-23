@@ -3,14 +3,14 @@ title: "bodybuilding"
 name: "bodybuilding"
 description: "bodybuilding"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bodybuilding"
 host: lemmy.world
 lastmod: "2023-06-09 20:35:35"
 published: "2023-06-09 19:54:40"
-subscribers: 32
+subscribers: 36
 posts: 2
 comments: 3
 weight: 2

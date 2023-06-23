@@ -3,7 +3,7 @@ title: "Lemmy Server"
 name: "lemmyadmin"
 description: "Welcome to [!lemmyadmin@prime8s.xyz](https://prime8s.xyz/c/lemmyadmin), where we discuss various aspects of administering lemmy instances. Challenges, tips, tricks, and other insights on Lemmy Administration.1. No hate speech, flaming, or harassment.2. No pornography3. Please keep criticism constructive and helpful, remember the human!"
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/lemmyadmin"

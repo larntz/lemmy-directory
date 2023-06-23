@@ -3,12 +3,12 @@ title: "birdwatching"
 name: "birdwatching"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birdwatching"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-12-14 20:53:35"
 subscribers: 3
 posts: 0

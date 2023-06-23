@@ -3,7 +3,7 @@ title: "Hand Lettering"
 name: "handlettering"
 description: "For all the lettering addicts (or potential lettering addicts) who like to look at and create pretty words by hand. Come share your work and give feedback (if requested!)"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/handlettering"

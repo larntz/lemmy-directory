@@ -1,22 +1,22 @@
 ---
-title: "The Deep End: Philosophy, Spirituality, and the Human Experience " 
+title: "Beat Poetry, Creative Writing, and the Human Experience " 
 name: "the_deep_end"
-description: "The Deep End: Philosophy, Spirituality, and the Human Experience. A space to open up about experience, our place in the universe, our collective wisdom, and to find commonality in our being human. We are all largely the same, in how we experience the universe, whether we are aware or not, we are all apart of an infinite oneness, permeating everything, where energy ripples through forever and out as well as within. Our thought projected out to manipulate the very fabric of the universe, in its interconnectedness, intent. This is a place to talk about the obvious. The obvious that's so often glossed over, leading to a state of mind that breeds depreciation, contemp, anger, greed, and ultimately suffering. This is a place to expand the boundary of human thought and awareness, together, for the now, and for the future. Feel free to share your thoughts, stories, and art. This is a place to collect modern day folk stories and philosophy. To share love with our fellow humans.  To appreciate experience itself. "
+description: "A place to share your favorite beat poetry and creative writing for review and discussion, and a place for weary travelers to share their thoughts.Original content is encouraged.When I made this I was unsure what it would even be. I've settled on something near to my heart: beat poetry, creative writing and the nitty gritty of the human experience and our place in the world. I don't mind modding, but I'm still learning. Talk about whatever, dont be an ass, and be mindful.  We'll make more defined rules as we go, and the community will decide what this place becomes. "
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_deep_end"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 18:50:31"
 published: "2023-06-20 16:04:20"
-subscribers: 8
+subscribers: 16
 posts: 3
-comments: 5
+comments: 7
 weight: 3
 dau: 3
-wau: 3
-mau: 3
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 

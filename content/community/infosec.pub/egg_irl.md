@@ -3,7 +3,7 @@ title: "egg_irl"
 name: "egg_irl"
 description: "Memes about trans people in denial.Not related to egg_irl on redditIf you're a mod of the original egg_irl, please send me a message at u/twofightinghalves on reddit to get added as a moderator here"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/egg_irl"

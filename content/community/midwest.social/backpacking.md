@@ -3,20 +3,20 @@ title: "Backpacking"
 name: "backpacking"
 description: "A community for backpacking and hiking around the Midwest."
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/backpacking"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 05:11:38"
-subscribers: 10
+subscribers: 13
 posts: 2
-comments: 1
+comments: 2
 weight: 2
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "midwest_social"
 tags: 

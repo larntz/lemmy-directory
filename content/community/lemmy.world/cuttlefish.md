@@ -3,20 +3,20 @@ title: "Cuttlefish"
 name: "cuttlefish"
 description: "A community for fans of nature's cutest cephalopod, the cuttlefish!"
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cuttlefish"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:35:08"
-subscribers: 5
+subscribers: 7
 posts: 2
-comments: 0
+comments: 1
 weight: 2
-dau: 0
+dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

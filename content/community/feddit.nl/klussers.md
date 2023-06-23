@@ -3,14 +3,14 @@ title: "Klussers"
 name: "klussers"
 description: "De Nederlandstalige lemmy voor karweitjes en reparaties in en rondom huis. De lemmy richt zich op klussers die advies nodig hebben, trots zijn op een project of handige filmpjes willen delen."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/klussers"
 host: feddit.nl
 lastmod: "2023-06-19 21:28:38"
 published: "2023-06-19 21:26:11"
-subscribers: 6
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

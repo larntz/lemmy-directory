@@ -3,19 +3,19 @@ title: "Immortal Chess"
 name: "immortalchess"
 description: "This is a group which aggregates, posts, and comments on chess-related resources."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/immortalchess"
 host: lemmy.ml
 lastmod: "2023-03-04 01:33:39"
 published: "2023-02-15 18:50:18"
-subscribers: 97
+subscribers: 99
 posts: 82
 comments: 143
 weight: 82
-dau: 2
-wau: 2
+dau: 1
+wau: 3
 mau: 7
 instances:
 - "lemmy_ml"

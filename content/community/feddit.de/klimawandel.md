@@ -3,19 +3,19 @@ title: "Klimawandel"
 name: "klimawandel"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/klimawandel"
 host: feddit.de
 lastmod: "2021-09-18 06:51:32"
 published: "2021-08-31 19:49:09"
-subscribers: 677
-posts: 173
-comments: 307
-weight: 173
-dau: 10
-wau: 70
+subscribers: 706
+posts: 175
+comments: 309
+weight: 175
+dau: 3
+wau: 64
 mau: 108
 instances:
 - "feddit_de"

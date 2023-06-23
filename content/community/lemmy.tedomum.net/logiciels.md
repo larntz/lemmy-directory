@@ -3,7 +3,7 @@ title: "Logiciels - découvertes et partages"
 name: "logiciels"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:33"
+date: "2023-06-23 01:18:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/logiciels"

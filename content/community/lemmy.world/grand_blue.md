@@ -3,7 +3,7 @@ title: "Grand Blue"
 name: "grand_blue"
 description: "For all discussion about Grand Blue, the greatest ~~diving~~ drinking manga!**Rules**1 | Don't be an asshole.2 | Mark spoilers in comments.3 | Don't put spoilers in titles.4 | Don't post links to pirate sites.5 | NSFW stuff is fine, but don't post hentai.6 | Don't spam.Here's [The code of conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)**Related Communities**[-Manga](https://lemmy.world/c/manga@lemmy.ml)[-Anime](https://lemmy.world/c/anime@lemmy.ml) [Discord](https://discord.gg/7rEUQBkH) Let me know if invite is invalid."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grand_blue"

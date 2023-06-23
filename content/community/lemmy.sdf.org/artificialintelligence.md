@@ -3,14 +3,14 @@ title: "Artificial Intelligence "
 name: "artificialintelligence"
 description: "Chat about and share AI stuff"
 type: community
-date: "2023-06-22 02:19:48"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/artificialintelligence"
 host: lemmy.sdf.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 01:50:45"
-subscribers: 18
+subscribers: 19
 posts: 2
 comments: 0
 weight: 2

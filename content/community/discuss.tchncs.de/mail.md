@@ -3,14 +3,14 @@ title: "mail clients"
 name: "mail"
 description: "mail clients/readers (also news/usenet, self-hosting)"
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/mail"
 host: discuss.tchncs.de
 lastmod: "2023-06-15 07:14:30"
 published: "2023-06-12 19:29:13"
-subscribers: 7
+subscribers: 8
 posts: 2
 comments: 1
 weight: 2

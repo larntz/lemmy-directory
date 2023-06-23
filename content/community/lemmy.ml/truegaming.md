@@ -3,14 +3,14 @@ title: "True Gaming"
 name: "truegaming"
 description: "A place for meaningful discussions about video games"
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/truegaming"
 host: lemmy.ml
 lastmod: "2023-06-13 14:14:38"
 published: "2023-06-13 14:07:42"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

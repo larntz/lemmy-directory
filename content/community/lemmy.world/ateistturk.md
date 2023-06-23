@@ -3,14 +3,14 @@ title: "AteistTurk"
 name: "ateistturk"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ateistturk"
 host: lemmy.world
 lastmod: "2023-06-15 06:50:33"
 published: "2023-06-15 06:49:09"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

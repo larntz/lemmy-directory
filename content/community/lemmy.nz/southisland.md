@@ -3,7 +3,7 @@ title: "Te Wai Pounamu / South Island"
 name: "southisland"
 description: "Kia ora and welcome to the **Te Wai Pounamu / South Island** community!A community for Te Wai Pounamu / South Island related conversations.General rules:- Try and keep conversation South Island focused- Stick to the [General Lemmy.nz CoC](https://lemmy.nz/post/63098)Credit to [@rjd@lemmy.nz](https://lemmy.nz/u/rjd) for the banner photo!"
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nz/c/southisland"

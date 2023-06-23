@@ -1,22 +1,22 @@
 ---
 title: "Perfect Fit!" 
 name: "perfectfit"
-description: "Welcome to /c/PerfectFit! This is an alternative to the subreddit /r/PerfectFit on Reddit.This is a community to post things that surprisingly and satisfyingly fit perfectly into each other.Reposts from Reddit and other sites are allowed for now but the long term goal is to gather a large enough audience for the community where original content prevails."
+description: "Welcome to /c/PerfectFit!This is a place to post things that surprisingly and satisfyingly fit perfectly into each other.Reposts from external sources are allowed but original posts are definitely appreciated!"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-23 01:21:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/perfectfit"
 host: lemmy.world
-lastmod: "2023-06-15 03:43:03"
+lastmod: "2023-06-22 04:34:40"
 published: "2023-06-12 10:33:14"
-subscribers: 54
-posts: 1
-comments: 0
-weight: 1
-dau: 0
-wau: 1
-mau: 1
+subscribers: 61
+posts: 2
+comments: 1
+weight: 2
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

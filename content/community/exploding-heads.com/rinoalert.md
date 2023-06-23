@@ -3,7 +3,7 @@ title: "Rino Alert"
 name: "rinoalert"
 description: "Lets get rid of these corrupt uni-party Republican Politicians who answer to corporate donors instead of their voters."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/rinoalert"

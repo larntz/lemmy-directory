@@ -3,7 +3,7 @@ title: "Green Arrow"
 name: "greenarrow"
 description: "Sublemmy dedicated to everyone's favorite emerald archer, Green Arrow.Rules:- Be civil- Cite sources for artwork or writing - No spoilers in title, mark spoilers- No spamming- Only post content related to Green Arrow"
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greenarrow"

@@ -3,7 +3,7 @@ title: "CS Career Questions"
 name: "cscareerquestions"
 description: "Rules:1. Be welcoming - Not everyone is a 10 YOE senior engineer. Let's all help each other.2. No memes - Refer to the Programmer Humor community."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cscareerquestions"
@@ -15,7 +15,7 @@ posts: 1
 comments: 6
 weight: 1
 dau: 3
-wau: 4
+wau: 2
 mau: 7
 instances:
 - "sh_itjust_works"

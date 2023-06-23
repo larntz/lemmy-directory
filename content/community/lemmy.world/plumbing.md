@@ -3,14 +3,14 @@ title: "Plumbing"
 name: "plumbing"
 description: "A place for Plumbers and those interested in Plumbing to ask questions and discuss the trade. "
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plumbing"
 host: lemmy.world
 lastmod: "2023-06-18 15:42:38"
 published: "2023-06-18 02:15:17"
-subscribers: 12
+subscribers: 15
 posts: 3
 comments: 1
 weight: 3

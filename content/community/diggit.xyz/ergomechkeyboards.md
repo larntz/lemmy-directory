@@ -3,7 +3,7 @@ title: "ErgoMechKeyboards"
 name: "ergomechkeyboards"
 description: "A home for ergonomic and weird keyboards and discussion. If it's not normal, we'll probably love it. Most people on this sub are deeply kinky deviants doing unspeakable things with QMK"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/ergomechkeyboards"

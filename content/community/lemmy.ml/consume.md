@@ -3,14 +3,14 @@ title: "Anti-Consumerism Memes"
 name: "consume"
 description: "No bigotry - including racism, sexism, ableism, homophobia, or xenophobia. "
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/consume"
 host: lemmy.ml
 lastmod: "2020-07-01 03:23:32"
 published: "2020-07-01 02:51:05"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

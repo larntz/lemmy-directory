@@ -3,12 +3,12 @@ title: "Triple Stitching"
 name: "triplestitching"
 description: "A community dedicated to durable clothing at all price points"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/triplestitching"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 19:15:21"
 published: "2023-06-19 00:03:47"
 subscribers: 1
 posts: 0

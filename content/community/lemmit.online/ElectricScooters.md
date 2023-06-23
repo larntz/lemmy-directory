@@ -3,7 +3,7 @@ title: "All things about escooter or electric scooters"
 name: "ElectricScooters"
 description: "r/ElectricScooters is now voting to continue to protest or re-open the subreddit. Please participate in the community-wide vote in the sticky...."
 type: community
-date: "2023-06-22 02:20:05"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/ElectricScooters"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 23:46:17"
 subscribers: 3
-posts: 155
+posts: 198
 comments: 0
-weight: 155
+weight: 198
 dau: 0
 wau: 0
 mau: 0

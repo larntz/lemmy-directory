@@ -3,14 +3,14 @@ title: "Purism"
 name: "purism"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/purism"
 host: lemmy.ml
 lastmod: "2021-06-15 15:45:16"
 published: "2021-06-13 14:40:28"
-subscribers: 34
+subscribers: 36
 posts: 6
 comments: 0
 weight: 6

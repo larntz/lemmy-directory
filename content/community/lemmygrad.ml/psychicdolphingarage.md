@@ -3,7 +3,7 @@ title: "Psychic Dolphin Garage"
 name: "psychicdolphingarage"
 description: "a weekly comedy podcast where they talk (and sometimes play games) about the biggest, weirdest news stories that seen on social media. known for its trash takes, pointless riffs, and being juust good enough to have on in the background as white noise."
 type: community
-date: "2023-06-22 02:19:53"
+date: "2023-06-23 01:19:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/psychicdolphingarage"

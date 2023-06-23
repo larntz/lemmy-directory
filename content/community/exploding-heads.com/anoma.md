@@ -3,7 +3,7 @@ title: "Crypto - Anoma - Digital Privacy"
 name: "anoma"
 description: "**Anoma - Sovereign at its core**The web should be a good for the public, not an industry that turns the public into a good.Anoma is an intent-centric, privacy-preserving protocol for decentralized counter party discovery, solving, and multi-chain atomic settlement.**Control**The protocols are designed to enable as much control as possible for the end users.**Utility**Features and functionalities are designed to facilitate everyday coordination functions of individuals without exploiting them.**Expressivity**Individual preferences can be articulated with as much bandwidth as needed.**Flexibility**Use an existing instance operated by others or customize, launch, and operate your own fractal instance.**Inclusive**Built for any individual, group or community seeking more sovereign economic exchange."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/anoma"

@@ -3,7 +3,7 @@ title: "Chelsea FC"
 name: "chelsea"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chelsea"

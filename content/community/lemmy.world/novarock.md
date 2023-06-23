@@ -3,7 +3,7 @@ title: "Nova Rock"
 name: "novarock"
 description: "A community dedicated to Nova Rock"
 type: community
-date: "2023-06-20 11:38:55"
+date: "2023-06-23 01:21:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/novarock"

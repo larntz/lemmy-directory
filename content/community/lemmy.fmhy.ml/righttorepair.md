@@ -1,16 +1,16 @@
 ---
-title: "Right to repair/ownership" 
+title: "Right to Repair/Ownership" 
 name: "righttorepair"
-description: "Description not available."
+description: "Whether it be electronics, automobiles or medical equipment, the manufacturers should not be able to horde oem parts, render your stuff useless if you repair it with aftermarket parts, or hide schematics of their products."
 type: community
-date: "2023-06-22 02:19:50"
+date: "2023-06-23 01:19:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/righttorepair"
 host: lemmy.fmhy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 18:28:17"
 published: "2023-06-19 05:02:22"
-subscribers: 21
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0

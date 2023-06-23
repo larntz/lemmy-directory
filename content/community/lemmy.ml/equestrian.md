@@ -3,14 +3,14 @@ title: "Horses"
 name: "equestrian"
 description: "Community to discuss riding, horse ownership, and other horse-related things."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/equestrian"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 19:52:56"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 2
 weight: 3

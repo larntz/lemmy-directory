@@ -3,14 +3,14 @@ title: "Main Community"
 name: "main"
 description: "Discuss about any topic"
 type: community
-date: "2023-06-22 02:19:34"
+date: "2023-06-23 01:18:45"
 draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/main"
 host: fedibb.ml
 lastmod: "2022-10-25 12:53:44"
 published: "2022-10-19 09:07:55"
-subscribers: 122
+subscribers: 123
 posts: 22
 comments: 75
 weight: 22

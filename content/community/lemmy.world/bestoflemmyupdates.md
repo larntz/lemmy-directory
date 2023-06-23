@@ -1,16 +1,16 @@
 ---
 title: "Best (and Worst) of Lemmy Updates" 
 name: "bestoflemmyupdates"
-description: "What happened to people who ask Lemmy for advice or help?Did they take Lemmy's advice? How did it turn out?Read the best updates by users and find out what happened after their original post.---- No Brigading- No NSFW (for now)- No Recent Content (<72 hours)"
+description: "What happened to people who ask Lemmy for advice or help?Did they take Lemmy's advice? How did it turn out?Read the best updates by users and find out what happened after their original post.---Rules: - No Brigading- No NSFW (for now)- No Recent Content (<72 hours)"
 type: community
-date: "2023-06-22 02:21:47"
+date: "2023-06-23 01:21:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bestoflemmyupdates"
 host: lemmy.world
-lastmod: "2023-06-15 16:00:33"
+lastmod: "2023-06-22 14:36:22"
 published: "2023-06-15 15:53:10"
-subscribers: 28
+subscribers: 34
 posts: 1
 comments: 0
 weight: 1

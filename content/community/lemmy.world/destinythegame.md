@@ -3,7 +3,7 @@ title: "Destiny"
 name: "destinythegame"
 description: "A Community for Bungie's Looter Shooter Series"
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/destinythegame"

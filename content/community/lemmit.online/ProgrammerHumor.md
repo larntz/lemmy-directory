@@ -3,17 +3,17 @@ title: "Memes and jokes about everything programming and CS"
 name: "ProgrammerHumor"
 description: "For anything funny related to programming and software development."
 type: community
-date: "2023-06-22 02:20:05"
+date: "2023-06-23 01:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/ProgrammerHumor"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 06:10:28"
-subscribers: 6
-posts: 78
+subscribers: 9
+posts: 109
 comments: 1
-weight: 78
+weight: 109
 dau: 1
 wau: 1
 mau: 1

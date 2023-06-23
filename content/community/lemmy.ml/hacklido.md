@@ -3,12 +3,12 @@ title: "hacklido"
 name: "hacklido"
 description: "The cybersecurity community to share knowledge, experiences, ideas, guidance and collaborate with other cybersecurity enthusiasts."
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hacklido"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-04-07 11:41:34"
 subscribers: 6
 posts: 0

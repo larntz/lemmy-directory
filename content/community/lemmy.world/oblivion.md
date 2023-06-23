@@ -3,14 +3,14 @@ title: "Oblivion"
 name: "oblivion"
 description: "Community dedicated to The Elder Scrolls IV: Oblivion."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oblivion"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 00:29:35"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

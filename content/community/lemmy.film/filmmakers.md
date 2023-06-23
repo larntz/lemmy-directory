@@ -3,16 +3,16 @@ title: "Filmmakers"
 name: "filmmakers"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:48"
+date: "2023-06-23 01:19:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/filmmakers"
 host: lemmy.film
 lastmod: "2023-06-12 18:14:15"
 published: "2023-06-06 22:48:07"
-subscribers: 116
+subscribers: 118
 posts: 29
-comments: 14
+comments: 15
 weight: 29
 dau: 1
 wau: 5

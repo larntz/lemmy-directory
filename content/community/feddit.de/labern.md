@@ -3,14 +3,14 @@ title: "labern"
 name: "labern"
 description: "Für Menschen, die einfach labern wollen. "
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/labern"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 16:05:32"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 7
 weight: 1

@@ -3,14 +3,14 @@ title: "Frenworld"
 name: "frenworld"
 description: "for frenly posts"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/frenworld"
 host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-02-02 16:34:20"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

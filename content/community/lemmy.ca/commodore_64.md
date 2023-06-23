@@ -3,7 +3,7 @@ title: "Commodore 64"
 name: "commodore_64"
 description: "A community for those who love the Commodore 64, the best selling personal computer of all time.  Fans of the original, collectors, modders, and clone builders are welcome."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/commodore_64"

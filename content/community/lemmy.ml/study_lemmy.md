@@ -3,12 +3,12 @@ title: "study_lemmy"
 name: "study_lemmy"
 description: "Learn Rust by looking at Lemmy.Let's take apart Lemmy and see how it works."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/study_lemmy"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-11-09 19:04:23"
 subscribers: 19
 posts: 2

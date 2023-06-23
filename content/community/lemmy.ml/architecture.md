@@ -3,14 +3,14 @@ title: "Architecture"
 name: "architecture"
 description: "No architecture-specific rules, just don't be a jerk, your normal stuff. This will be updated if the community feels there is a particular need to ban certain types of spammy link content, etc. "
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/architecture"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-27 19:26:19"
-subscribers: 111
+subscribers: 113
 posts: 34
 comments: 11
 weight: 34

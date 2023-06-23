@@ -3,7 +3,7 @@ title: "Montreal"
 name: "montreal"
 description: "Pour tout ce qui concerne Montréal, les montréalais/es.Des propos haineux, abusifs, sexistes, *phobiques, etc. ne sont pas tolérés.--For anything concerning Montréal or Montrealers. Hate speech, abuse, sexism, *phobia aren't tolerated. "
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/montreal"

@@ -3,7 +3,7 @@ title: "Teaching in Korea"
 name: "teachinginkorea"
 description: "To discuss teaching English in Korea."
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/teachinginkorea"

@@ -3,7 +3,7 @@ title: "L33T Pokemon Jedi Club"
 name: "lpjc"
 description: "if you know you know"
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-22 16:47:06"
 draft: false
 nsfw: false
 actor_id: "https://dot.surf/c/lpjc"

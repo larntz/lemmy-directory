@@ -3,7 +3,7 @@ title: "Android Dev"
 name: "android_dev"
 description: "Welcome to the new android development community"
 type: community
-date: "2023-06-22 02:20:15"
+date: "2023-06-23 01:19:25"
 draft: false
 nsfw: false
 actor_id: "https://androiddev.network/c/android_dev"

@@ -3,20 +3,20 @@ title: "Wordington - shitposts"
 name: "wordington"
 description: "dumb shitposts "
 type: community
-date: "2023-06-22 02:21:27"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wordington"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 22:07:07"
 subscribers: 7
 posts: 2
 comments: 1
 weight: 2
 dau: 0
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

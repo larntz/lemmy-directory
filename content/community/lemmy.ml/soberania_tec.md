@@ -3,12 +3,12 @@ title: "Soberanía Tecnológica"
 name: "soberania_tec"
 description: "Soberanía Tecnológica"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soberania_tec"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-03-30 22:18:15"
 subscribers: 7
 posts: 20

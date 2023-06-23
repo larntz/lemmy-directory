@@ -3,14 +3,14 @@ title: "Aviation Memes"
 name: "aviationmemes"
 description: "For every ryanair landing bad meme, you have to post an original meme to alongside it. (not enforced)Just make the memes aviation focussed"
 type: community
-date: "2023-06-22 02:19:56"
+date: "2023-06-23 01:19:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/aviationmemes"
 host: lemmyfly.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 22:54:02"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

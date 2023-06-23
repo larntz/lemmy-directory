@@ -3,14 +3,14 @@ title: "Ace Attorney"
 name: "aceattorney"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aceattorney"
 host: lemmy.world
 lastmod: "2023-06-17 23:42:34"
 published: "2023-06-11 22:12:11"
-subscribers: 26
+subscribers: 27
 posts: 4
 comments: 9
 weight: 4

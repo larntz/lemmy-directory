@@ -3,7 +3,7 @@ title: "Lemmy Help"
 name: "lemmy_help"
 description: "A community to post helpful information about Lemmy."
 type: community
-date: "2023-06-22 02:20:07"
+date: "2023-06-23 01:19:18"
 draft: false
 nsfw: false
 actor_id: "https://fernchat.esotericmonkey.com/c/lemmy_help"

@@ -3,14 +3,14 @@ title: "LEF.LI"
 name: "lefli"
 description: "A community about this instance."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lef.li/c/lefli"
 host: lef.li
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 14:21:22"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 1
 weight: 2

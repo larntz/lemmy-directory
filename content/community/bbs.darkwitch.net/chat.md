@@ -3,14 +3,14 @@ title: "闲聊泡泡"
 name: "chat"
 description: "随便聊天"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://bbs.darkwitch.net/c/chat"
 host: bbs.darkwitch.net
 lastmod: "2023-05-06 12:46:20"
 published: "2023-04-25 20:56:47"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 1
 weight: 2

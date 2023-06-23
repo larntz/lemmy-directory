@@ -3,7 +3,7 @@ title: "WoodCarving"
 name: "woodcarving"
 description: "The Fediverse version of Reddit’s Woodcarving. This community is for all things woodcarving; posting new projects, tutorials, patterns or questions regarding tools , techniques and anything else wood carving related!1. Be respectful (no hate, racism, anti LGBTIQIA)2. No NSFW3. No trading/Selling4. No chat spamming/intentional reposts5. Have fun!"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/woodcarving"

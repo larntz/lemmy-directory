@@ -3,7 +3,7 @@ title: "Motorfietsen"
 name: "motorfietsen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/motorfietsen"
@@ -11,9 +11,9 @@ host: feddit.nl
 lastmod: "2023-06-11 18:36:44"
 published: "2023-06-11 13:47:52"
 subscribers: 20
-posts: 5
+posts: 6
 comments: 25
-weight: 5
+weight: 6
 dau: 2
 wau: 9
 mau: 11

@@ -3,7 +3,7 @@ title: "Pleroma"
 name: "pleroma"
 description: "Place to discuss the fediverse platform, Pleroma.Ask questions, or share your tips and information here!"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pleroma"

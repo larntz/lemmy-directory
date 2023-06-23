@@ -3,7 +3,7 @@ title: "Nashville Predators"
 name: "predators"
 description: "All things Nashville Predators. **[More Hockey](https://lemmy.world/post/169850)****GUIDELINES**- Posts should be at least tangentially related to the Nashville Predators of the NHL. - No fake trades / signings / other news.- Empathy is valued here - All rules for the lemmy.world instance apply, as always. See: https://mastodon.world/about#"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/predators"

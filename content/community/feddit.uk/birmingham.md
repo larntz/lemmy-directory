@@ -3,7 +3,7 @@ title: "Brum"
 name: "birmingham"
 description: "For discussion about Birmingham including the surrounding West Midlands area. Discuss all things from news, travel, culture, and general life around Birmingham!Rules and other welcoming info can be found [here](https://feddit.uk/post/1)"
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/birmingham"

@@ -3,7 +3,7 @@ title: "Saved You A Click"
 name: "savedyouaclick"
 description: "Fight back against poorly written article titles!Rules:1. Use archive links to the article, from sites like [archive.is](http://archive.is).2. Post should be titled as follows: `SOURCE - ORIGINAL TITLE | CLICK SAVING INFORMATION`"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/savedyouaclick"

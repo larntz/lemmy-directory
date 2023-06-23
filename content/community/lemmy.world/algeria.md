@@ -3,7 +3,7 @@ title: "algeria"
 name: "algeria"
 description: "A community for Algerians and people interested in the DZ country. "
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/algeria"

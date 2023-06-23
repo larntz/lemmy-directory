@@ -3,7 +3,7 @@ title: "Castle Super Beast"
 name: "castlesuperbeast"
 description: "A place for the shitlords from /r/TwoBestFriendsPlay."
 type: community
-date: "2023-06-22 02:21:22"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/castlesuperbeast"

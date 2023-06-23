@@ -3,7 +3,7 @@ title: "Ultrawide"
 name: "ultrawide"
 description: "A community for Ultrawide gaming, fixes, news and support.Please look at the game page on PCGamingWiki for Ultrawide info before purchasing or asking for a fix:https://www.pcgamingwiki.com/wiki/Homeif no support and no current fixes, look for games with the same engine for an easier start on fixing Ultrawide for games that don't have it.___Flawless Widescreen is a 3rd Party Software with Ultrawide Plugins for various games:https://www.flawlesswidescreen.org/___Common HEX Values for Ultrawide .exe fixes on WSGF:https://www.wsgf.org/article/common-hex-values"
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultrawide"

@@ -3,7 +3,7 @@ title: "Otherkin"
 name: "otherkin"
 description: "A place for otherkin, therian, and alterhuman individuals. Feel free to join!Please be kind to each other!"
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/otherkin"
@@ -15,7 +15,7 @@ posts: 4
 comments: 10
 weight: 4
 dau: 1
-wau: 6
+wau: 5
 mau: 7
 instances:
 - "pawb_social"

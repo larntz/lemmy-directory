@@ -3,7 +3,7 @@ title: "ATLbeer"
 name: "atlbeer"
 description: "Placeholder for the exodus from Reddit."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atlbeer"

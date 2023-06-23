@@ -3,7 +3,7 @@ title: "Oklahoma Sooners"
 name: "sooners"
 description: "A place for news and discussion about the University of Oklahoma athletics. Boomer!"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-23 01:21:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sooners"
@@ -15,7 +15,7 @@ posts: 7
 comments: 8
 weight: 7
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

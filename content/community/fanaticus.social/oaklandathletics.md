@@ -3,7 +3,7 @@ title: "OaklandAthletics"
 name: "oaklandathletics"
 description: "Cloned from [r/OaklandAthletics](https://old.reddit.com/r/OaklandAthletics)# Looking for mods!"
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/oaklandathletics"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-12 16:53:16"
 published: "2023-06-09 17:05:05"
 subscribers: 4
-posts: 0
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

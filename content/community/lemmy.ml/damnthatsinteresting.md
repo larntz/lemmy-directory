@@ -3,20 +3,20 @@ title: "Damn, that's interesting!"
 name: "damnthatsinteresting"
 description: "1. No clickbait2. No Racism and Hate speech3. No Imgur Gallery Links4. No Infographics5. Moderator Discretion6. Repost Guidelines7. No videos over 15 minutes long8. No Photoshopped posts9. Image w/ text posts must be sourced in comments"
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/damnthatsinteresting"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-02-08 11:33:46"
-subscribers: 926
-posts: 44
-comments: 70
-weight: 44
-dau: 3
-wau: 48
-mau: 60
+subscribers: 987
+posts: 45
+comments: 79
+weight: 45
+dau: 7
+wau: 47
+mau: 69
 instances:
 - "lemmy_ml"
 tags: 

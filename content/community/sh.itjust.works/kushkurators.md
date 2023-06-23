@@ -3,14 +3,14 @@ title: "kushkurators"
 name: "kushkurators"
 description: "A community mainly focused on reviewing weed.  Feel free to post any and all forms of marijuana up for review. Also post any cool bongs, hookahs, one hitters etc. "
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/kushkurators"
 host: sh.itjust.works
 lastmod: "2023-06-10 16:41:05"
 published: "2023-06-10 05:41:37"
-subscribers: 39
+subscribers: 40
 posts: 5
 comments: 2
 weight: 5

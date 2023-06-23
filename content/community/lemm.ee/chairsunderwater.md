@@ -3,14 +3,14 @@ title: "Chairs Underwater"
 name: "chairsunderwater"
 description: "A safe space for lovers of aquatic chairs."
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/chairsunderwater"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 18:34:10"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 3
 weight: 2

@@ -3,7 +3,7 @@ title: "Corrupt Politicians"
 name: "corruptpoliticians"
 description: "Share and discuss reports of Corrupt Politicians and political practices."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/corruptpoliticians"
@@ -11,9 +11,9 @@ host: exploding-heads.com
 lastmod: "2022-03-13 00:50:30"
 published: "2022-02-27 21:27:07"
 subscribers: 31
-posts: 401
+posts: 402
 comments: 84
-weight: 401
+weight: 402
 dau: 1
 wau: 1
 mau: 3

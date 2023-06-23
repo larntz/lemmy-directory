@@ -3,7 +3,7 @@ title: "Ottawa Senators"
 name: "ottawasenators"
 description: "Ottawa Senators"
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-23 01:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ottawasenators"

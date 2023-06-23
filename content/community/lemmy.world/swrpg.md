@@ -3,20 +3,20 @@ title: "Star Wars RPG"
 name: "swrpg"
 description: "Community focused on discussing the Fantasy Flight Games / Edge Studios SWRPG"
 type: community
-date: "2023-06-22 02:21:46"
+date: "2023-06-23 01:21:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swrpg"
 host: lemmy.world
 lastmod: "2023-06-17 23:29:07"
 published: "2023-06-17 23:21:34"
-subscribers: 8
-posts: 2
-comments: 0
-weight: 2
+subscribers: 10
+posts: 3
+comments: 2
+weight: 3
 dau: 1
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

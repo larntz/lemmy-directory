@@ -3,7 +3,7 @@ title: "Meow Wolf"
 name: "meowwolf"
 description: "Meow Wolf is an immersive arts and entertainment company based in Santa Fe, New Mexico with additional exhibit locations in Las Vegas, Denver, and Grapevine. This community isn't an official MW channel. "
 type: community
-date: "2023-06-22 02:21:44"
+date: "2023-06-23 01:21:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/meowwolf"

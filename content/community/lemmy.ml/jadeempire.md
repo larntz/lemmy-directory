@@ -3,12 +3,12 @@ title: "Jade Empire"
 name: "jadeempire"
 description: "Lemmy.ml community for the Bioware classic, Jade Empire."
 type: community
-date: "2023-06-22 02:21:20"
+date: "2023-06-23 01:20:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jadeempire"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 17:49:57"
 subscribers: 1
 posts: 0

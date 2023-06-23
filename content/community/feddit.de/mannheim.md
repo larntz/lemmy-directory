@@ -3,14 +3,14 @@ title: "Mannheim"
 name: "mannheim"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:26"
+date: "2023-06-23 01:19:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mannheim"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 18:42:41"
 published: "2023-06-09 09:44:05"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 1
 weight: 1

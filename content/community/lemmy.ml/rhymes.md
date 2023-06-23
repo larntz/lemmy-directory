@@ -3,12 +3,12 @@ title: "Rhymes"
 name: "rhymes"
 description: "Put some words on a line, then you try to make them rhyme. It's simple fun for everyone, You might be poet, and don't even know it. "
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rhymes"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-09-23 02:28:41"
 subscribers: 4
 posts: 2

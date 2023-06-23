@@ -3,14 +3,14 @@ title: "waifuism"
 name: "waifuism"
 description: "A place for those truly in love with their fictional characters!WIP."
 type: community
-date: "2023-06-22 02:20:16"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/waifuism"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-12 12:27:00"
 published: "2023-06-11 16:39:32"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

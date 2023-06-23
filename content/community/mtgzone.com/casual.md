@@ -3,14 +3,14 @@ title: "Kitchen Table"
 name: "casual"
 description: "**Community for casual Magic players**Discussion for all casual play topics, decks, questions, humor, and advice."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:10"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/casual"
 host: mtgzone.com
 lastmod: "2023-06-15 19:47:38"
 published: "2023-06-10 01:16:58"
-subscribers: 21
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0

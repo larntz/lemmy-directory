@@ -3,7 +3,7 @@ title: "Maple Syrup"
 name: "maple_syrup"
 description: "A community for Canadian and non-Canadian maple syrup makers from the one bucket hobbyist to the large, commercial producer as well as those who are maple syrup curious, cook with maple syrup, or love maple syrup.Post pictures, stories, recipes, or questions."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-22 16:47:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/maple_syrup"

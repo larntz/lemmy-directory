@@ -3,7 +3,7 @@ title: "Introductions"
 name: "introductions"
 description: "Introduce yourself, even if you have been here for a while!Some suggestions (don't have to follow these):Why did you join Lemmygrad?What is your political ideology?What is your most controversial take?Which political/historical topic(s) do you know the most about?Which political/historical topic(s) do you want to learn more about?Anything we should know about you?Welcome to Lemmygrad Comrade!"
 type: community
-date: "2023-06-16 11:06:11"
+date: "2023-06-23 01:19:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/introductions"

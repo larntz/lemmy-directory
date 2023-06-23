@@ -3,14 +3,14 @@ title: "Fire & Rescue"
 name: "firerescue"
 description: "A place to discuss all things related to firefighting around the world."
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firerescue"
 host: lemmy.ml
 lastmod: "2021-03-25 16:49:00"
 published: "2021-03-25 09:41:34"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

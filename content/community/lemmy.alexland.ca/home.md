@@ -3,7 +3,7 @@ title: "Home"
 name: "home"
 description: "Home is where the memes are"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.alexland.ca/c/home"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_alexland_ca"

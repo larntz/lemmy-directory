@@ -3,7 +3,7 @@ title: "Software"
 name: "software"
 description: "Post about any kind of software, both free and commercial, for any operating system. Post about new releases, give recommendations on great software that you use, post tips and tricks etc.Rules:- No posts about piracy or links to pirated software.- No NSFW content.- No hate speech or personal attacks.- No spamming."
 type: community
-date: "2023-06-22 02:21:45"
+date: "2023-06-23 01:21:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/software"

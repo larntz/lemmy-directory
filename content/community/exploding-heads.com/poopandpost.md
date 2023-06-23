@@ -3,7 +3,7 @@ title: "Posts made while pooping"
 name: "poopandpost"
 description: "Simply post as you poop, no rules"
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-23 01:19:34"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/poopandpost"
@@ -15,7 +15,7 @@ posts: 13
 comments: 61
 weight: 13
 dau: 1
-wau: 7
+wau: 6
 mau: 12
 instances:
 - "exploding-heads_com"

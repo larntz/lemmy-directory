@@ -3,7 +3,7 @@ title: "Tucson Classifieds"
 name: "tucsonlist"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:04"
+date: "2023-06-23 01:19:14"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/tucsonlist"
@@ -14,7 +14,7 @@ subscribers: 7
 posts: 1
 comments: 1
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

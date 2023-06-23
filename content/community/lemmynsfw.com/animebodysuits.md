@@ -3,14 +3,14 @@ title: "Anime Bodysuits"
 name: "animebodysuits"
 description: "A community dedicated to anime characters in bodysuits. Western art is also welcomed."
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/animebodysuits"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 05:39:56"
-subscribers: 94
+subscribers: 96
 posts: 8
 comments: 0
 weight: 8

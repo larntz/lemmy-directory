@@ -3,20 +3,20 @@ title: "PostgreSQL"
 name: "postgresql"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postgresql"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-02 16:43:17"
-subscribers: 41
-posts: 4
-comments: 0
-weight: 4
-dau: 1
-wau: 1
-mau: 2
+subscribers: 42
+posts: 5
+comments: 3
+weight: 5
+dau: 2
+wau: 2
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

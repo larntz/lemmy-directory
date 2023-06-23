@@ -3,14 +3,14 @@ title: "New Jersey"
 name: "new_jersey"
 description: "Anything and everything pertaining to the best state in the US."
 type: community
-date: "2023-06-22 02:19:51"
+date: "2023-06-23 01:19:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.borlax.com/c/new_jersey"
 host: lemmy.borlax.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 03:02:14"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

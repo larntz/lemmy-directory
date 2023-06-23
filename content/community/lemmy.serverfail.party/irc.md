@@ -3,7 +3,7 @@ title: "IRC"
 name: "irc"
 description: "It's a dying breed of us who use it"
 type: community
-date: "2023-06-22 02:19:40"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/irc"

@@ -3,14 +3,14 @@ title: "Norway"
 name: "norway"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:26"
+date: "2023-06-23 01:20:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/norway"
 host: lemmy.ml
 lastmod: "2023-06-04 10:28:04"
 published: "2023-06-04 10:20:58"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

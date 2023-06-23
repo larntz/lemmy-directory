@@ -3,7 +3,7 @@ title: "Sessy"
 name: "sessy"
 description: "Beschrijf coole integraties, laat trots zien hoe hij hangt, stel gezellige vragen of laat zien hoe nerdy je bent. Alles mag, als het maar over de Sessy thuisbatterij gaat."
 type: community
-date: "2023-06-22 02:19:42"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/sessy"

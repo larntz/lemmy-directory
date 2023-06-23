@@ -3,7 +3,7 @@ title: "BROWNTOWN"
 name: "browntown"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:12"
+date: "2023-06-23 01:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.browntown.dev/c/browntown"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 2
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_browntown_dev"

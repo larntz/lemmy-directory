@@ -3,7 +3,7 @@ title: "Simple Widgets"
 name: "simple_widgets"
 description: "Community based support, feedback, and requests for the Figma widgets (and plugins) under the moniker Simple Widgets https://simplewidgets.xyz"
 type: community
-date: "2023-06-22 02:20:14"
+date: "2023-06-23 01:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/simple_widgets"

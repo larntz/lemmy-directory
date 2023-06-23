@@ -3,7 +3,7 @@ title: "geral"
 name: "geral"
 description: "Cenas "
 type: community
-date: "2023-06-22 02:20:11"
+date: "2023-06-23 01:19:22"
 draft: false
 nsfw: false
 actor_id: "https://fadoverso.pt/c/geral"
@@ -15,7 +15,7 @@ posts: 11
 comments: 23
 weight: 11
 dau: 1
-wau: 5
+wau: 1
 mau: 6
 instances:
 - "fadoverso_pt"

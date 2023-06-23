@@ -3,7 +3,7 @@ title: "Raspberry Pi ideas / projects"
 name: "raspberrypi"
 description: "Ideas/demos for hardware / software integration on raspberry pi"
 type: community
-date: "2023-06-22 02:19:44"
+date: "2023-06-23 01:18:56"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/raspberrypi"
@@ -14,7 +14,7 @@ subscribers: 39
 posts: 9
 comments: 12
 weight: 9
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:

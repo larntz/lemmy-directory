@@ -1,22 +1,22 @@
 ---
 title: "Pokémon" 
 name: "pokemon"
-description: "Description not available."
+description: "News and discussions of Pokemon across the internet"
 type: community
-date: "2023-06-22 02:20:01"
+date: "2023-06-23 01:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/pokemon"
 host: lemmy.cafe
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 17:07:54"
 published: "2023-06-21 02:39:21"
 subscribers: 2
-posts: 1
+posts: 2
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_cafe"
 tags: 

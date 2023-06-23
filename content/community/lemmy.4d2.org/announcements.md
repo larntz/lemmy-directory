@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "A community for announcements about lemmy.4d2.org from the admins."
 type: community
-date: "2023-06-22 02:20:00"
+date: "2023-06-23 01:19:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.4d2.org/c/announcements"

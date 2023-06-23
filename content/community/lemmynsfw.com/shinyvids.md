@@ -3,12 +3,12 @@ title: "Shiny Videos"
 name: "shinyvids"
 description: "A space dedicated for links to shiny videos"
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:48"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shinyvids"
 host: lemmynsfw.com
-lastmod: "2023-06-19 16:16:37"
+lastmod: "2023-06-22 18:02:39"
 published: "2023-06-19 10:16:47"
 subscribers: 10
 posts: 0

@@ -3,14 +3,14 @@ title: "Scotch"
 name: "scotch"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:55:57"
+date: "2023-06-23 01:21:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scotch"
 host: lemmy.world
 lastmod: "2023-06-15 14:11:41"
 published: "2023-06-15 14:08:00"
-subscribers: 5
+subscribers: 8
 posts: 1
 comments: 4
 weight: 1

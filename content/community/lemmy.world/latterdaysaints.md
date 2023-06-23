@@ -3,7 +3,7 @@ title: "Latter-day Saints"
 name: "latterdaysaints"
 description: "A community for members and friends of the Church of Jesus Christ of Latter-day Saints (sometimes known as Mormons). This community is for faithful discussion of church topics."
 type: community
-date: "2023-06-21 14:56:02"
+date: "2023-06-23 01:21:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/latterdaysaints"

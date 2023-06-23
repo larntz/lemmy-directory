@@ -3,7 +3,7 @@ title: "Smoking"
 name: "smoking"
 description: "a place to discuss meat smoking and roast the occasional lost teenager who posts a question about cigarettes."
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:27"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/smoking"

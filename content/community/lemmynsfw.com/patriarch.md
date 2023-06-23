@@ -3,14 +3,14 @@ title: "u/Patriarch"
 name: "patriarch"
 description: "Just the lemmy way of posting to my own profile ;). "
 type: community
-date: "2023-06-22 02:20:37"
+date: "2023-06-23 01:19:49"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/patriarch"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 11:03:59"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 4
 weight: 1

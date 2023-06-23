@@ -3,7 +3,7 @@ title: "Hiking and Outdoors Furs"
 name: "hikerfurs"
 description: "Let's go outdoors and get exploring! Share stories, tips, and your favourite hikes or camping trips."
 type: community
-date: "2023-06-22 02:19:41"
+date: "2023-06-23 01:18:52"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/hikerfurs"

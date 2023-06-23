@@ -3,7 +3,7 @@ title: "Mariners"
 name: "mariners"
 description: "Cloned from [r/Mariners](https://old.reddit.com/r/Mariners)# Looking for mods!"
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/mariners"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-12 16:44:26"
 published: "2023-06-09 17:04:17"
 subscribers: 7
-posts: 6
-comments: 6
-weight: 6
+posts: 8
+comments: 17
+weight: 8
 dau: 1
 wau: 1
 mau: 1

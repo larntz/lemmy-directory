@@ -3,7 +3,7 @@ title: "Madrid"
 name: "madrid"
 description: "Una comunidad para todos los que amamos esta ciudad y disfrutamos de ella. Ciudad multicultural, acogedora, interesante y divertida en la que todos son bien acogidos. Su espíritu va más allá de ser la capital de España. Un lugar para disfrutarlo."
 type: community
-date: "2023-06-22 02:19:55"
+date: "2023-06-23 01:19:06"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/madrid"

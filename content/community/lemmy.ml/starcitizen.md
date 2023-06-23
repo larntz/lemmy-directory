@@ -3,20 +3,20 @@ title: "Star Citizen"
 name: "starcitizen"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:24"
+date: "2023-06-23 01:20:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starcitizen"
 host: lemmy.ml
 lastmod: "2023-06-09 17:32:33"
 published: "2020-11-30 15:09:07"
-subscribers: 310
-posts: 45
-comments: 149
-weight: 45
-dau: 5
-wau: 37
-mau: 43
+subscribers: 327
+posts: 47
+comments: 156
+weight: 47
+dau: 6
+wau: 29
+mau: 45
 instances:
 - "lemmy_ml"
 tags: 

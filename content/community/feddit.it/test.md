@@ -3,7 +3,7 @@ title: "Test: palestra e allenamenti :-)"
 name: "test"
 description: "Questa non è una vera comunità, ma solo una saletta di prova.Chi vuole fare esperimenti di scrittura, **può utilizzarla ma senza pubblicare contenuti contrari alle regole del server!**"
 type: community
-date: "2023-06-22 02:19:39"
+date: "2023-06-23 01:18:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/test"

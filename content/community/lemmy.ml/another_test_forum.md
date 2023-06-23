@@ -3,14 +3,14 @@ title: "for testing purposes"
 name: "another_test_forum"
 description: ""
 type: community
-date: "2023-06-22 02:21:23"
+date: "2023-06-23 01:20:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/another_test_forum"
 host: lemmy.ml
 lastmod: "2019-04-26 00:49:20"
 published: "2019-04-26 00:46:30"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 2
 weight: 2

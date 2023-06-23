@@ -3,7 +3,7 @@ title: "Evolutionary Anthropology"
 name: "evolutionary_anthro"
 description: "A place to discuss evolutionary anthropology and its subfields: cultural evolution, evolutionary psychology, human evolutionary ecology, paleoanthropology, and genetics."
 type: community
-date: "2023-06-21 14:56:16"
+date: "2023-06-23 01:20:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/evolutionary_anthro"

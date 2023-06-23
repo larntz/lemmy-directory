@@ -3,14 +3,14 @@ title: "Social Media"
 name: "social_media"
 description: "A place for discussing social media."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/social_media"
 host: lemmy.ml
 lastmod: "2021-02-24 18:32:04"
 published: "2021-02-18 10:26:06"
-subscribers: 42
+subscribers: 43
 posts: 6
 comments: 10
 weight: 6

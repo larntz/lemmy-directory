@@ -3,7 +3,7 @@ title: "Fitness and Health"
 name: "fitness"
 description: "Give each other support and share their programs, progress and tips. Cardio or lifting. Sports or gymnastics we are all on a journey to improve.Also we have heaps of tech that help us track our fitness metrics, so feel free to discuss the tools you use.Everyone has a bad day now and then, just try again.Also check out:- /c/hiking- /c/bicycling- /c/motivation"
 type: community
-date: "2023-06-22 02:21:25"
+date: "2023-06-23 01:20:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fitness"

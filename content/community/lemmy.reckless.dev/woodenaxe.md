@@ -3,7 +3,7 @@ title: "WoodenAxe"
 name: "woodenaxe"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:46"
+date: "2023-06-23 01:18:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.reckless.dev/c/woodenaxe"
@@ -16,7 +16,7 @@ comments: 0
 weight: 1
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "lemmy_reckless_dev"
 tags: 

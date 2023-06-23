@@ -3,7 +3,7 @@ title: "Fixed by the Duet"
 name: "fixedbytheduet"
 description: "# Rules1. Be respectful. Respect the instance rules.2. Submissions should be fixed by the duet. Duh."
 type: community
-date: "2023-06-22 02:19:52"
+date: "2023-06-23 01:19:03"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fixedbytheduet"

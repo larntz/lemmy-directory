@@ -3,14 +3,14 @@ title: "Los Angeles Rams"
 name: "rams"
 description: "A community dedicated to the Los Angeles Rams.**Looking for Mods!**"
 type: community
-date: "2023-06-22 02:20:02"
+date: "2023-06-23 01:19:13"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/rams"
 host: fanaticus.social
 lastmod: "2023-06-17 21:18:08"
 published: "2023-06-14 01:26:17"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Anti-Jokes"
 name: "antijokes"
 description: "https://en.wikipedia.org/wiki/Anti-humor"
 type: community
-date: "2023-06-22 02:20:17"
+date: "2023-06-23 01:19:29"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/antijokes"

@@ -3,14 +3,14 @@ title: "Hugo - The open-source static site generator"
 name: "gohugo"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:21"
+date: "2023-06-23 01:20:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gohugo"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-28 10:15:29"
-subscribers: 23
+subscribers: 24
 posts: 4
 comments: 0
 weight: 4
