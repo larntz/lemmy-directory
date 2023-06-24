@@ -3,7 +3,7 @@ title: "WarhammerUnderworlds"
 name: "warhammerunderworlds"
 description: "1. All content must be related to Underworlds2. All posts and comments should be constructive3. No low effort posts4. No buying, selling, trading, or advertising5. No sharing or requesting illegal content"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warhammerunderworlds"

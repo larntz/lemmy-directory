@@ -3,7 +3,7 @@ title: "Stories"
 name: "stories"
 description: "Want to read interesting stories? Want to get better at sharing stories? This is the place to be~!-----**📜 Rules:**📫 Post original content!😼 Have fun!🏡 Tag your posts either **[Story]**, **[Method]**, or **[Meta]**!-----"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stories"

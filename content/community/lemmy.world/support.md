@@ -3,20 +3,20 @@ title: "Lemmy.world Support"
 name: "support"
 description: "Post your issues or questions about Lemmy.world here."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/support"
 host: lemmy.world
 lastmod: "2023-06-19 16:20:45"
 published: "2023-06-19 15:12:12"
-subscribers: 236
-posts: 41
-comments: 252
-weight: 41
-dau: 68
-wau: 136
-mau: 136
+subscribers: 307
+posts: 63
+comments: 362
+weight: 63
+dau: 77
+wau: 197
+mau: 197
 instances:
 - "lemmy_world"
 tags: 

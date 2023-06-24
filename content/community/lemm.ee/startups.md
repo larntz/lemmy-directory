@@ -3,7 +3,7 @@ title: "Startups"
 name: "startups"
 description: "A place to discuss your startup, or the startup world at large."
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/startups"

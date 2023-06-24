@@ -3,7 +3,7 @@ title: "EverywhereAndNowhere"
 name: "everywhereandnowhere"
 description: "This is the place and it isn't the place, welcome!"
 type: community
-date: "2023-06-23 01:18:37"
+date: "2023-06-24 01:12:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/everywhereandnowhere"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 2
 comments: 0
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

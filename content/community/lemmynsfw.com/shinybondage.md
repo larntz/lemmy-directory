@@ -3,14 +3,14 @@ title: "Shiny Bondage"
 name: "shinybondage"
 description: "A place for shiny bondage. Latex, PVC, Spandex, Lycra or Leather"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shinybondage"
 host: lemmynsfw.com
 lastmod: "2023-06-22 18:05:22"
 published: "2023-06-19 11:34:18"
-subscribers: 47
+subscribers: 53
 posts: 10
 comments: 0
 weight: 10

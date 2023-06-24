@@ -3,7 +3,7 @@ title: "Made Me Cry"
 name: "mademecry"
 description: "[!mademecry](https://lemmy.ml/c/mademecry) is for any content that may have got to you and made you cry or well up."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mademecry"

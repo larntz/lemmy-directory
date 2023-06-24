@@ -3,7 +3,7 @@ title: "engineeringstudents"
 name: "engineeringstudents"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/engineeringstudents"
@@ -14,7 +14,7 @@ subscribers: 5
 posts: 1
 comments: 4
 weight: 1
-dau: 3
+dau: 1
 wau: 4
 mau: 4
 instances:

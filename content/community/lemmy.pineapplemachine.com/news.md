@@ -3,7 +3,7 @@ title: "news"
 name: "news"
 description: "A place for sharing and discussing news from around the world."
 type: community
-date: "2023-06-23 01:18:54"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pineapplemachine.com/c/news"

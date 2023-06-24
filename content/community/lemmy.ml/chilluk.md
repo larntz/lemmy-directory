@@ -3,14 +3,14 @@ title: "Chill United Kingdom"
 name: "chilluk"
 description: "No news, no politics. Just the UK."
 type: community
-date: "2023-06-22 16:47:52"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chilluk"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-01-28 20:35:30"
-subscribers: 119
+subscribers: 123
 posts: 1
 comments: 8
 weight: 1

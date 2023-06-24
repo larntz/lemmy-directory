@@ -1,22 +1,22 @@
 ---
 title: "Starfield" 
 name: "starfield"
-description: "Description not available."
+description: "Welcome to the Starfield community on Lemmy.zip!- Follow instance rules (no spam, keep it civil and respectful, be constructive, tag NSFW)Helpful links:- [Official Website](https://bethesda.net/game/starfield)- [Official Starfield Videos](https://www.youtube.com/watch?v=uMOPoAq5vIA&list=PLSHdOA4o6T_dcf5tYDjJJ6S-nukKFrjxj)Spoiler policy:- No spoilers in titles; mark your post NSFW if you're sharing an image with spoilers.- Add `[Spoilers]` to your title if there will be untagged spoilers in the post.- Game mechanics and general discoveries (ship parts, weapons, etc) don't need a spoiler tag.- Details about questlines and other story related content are spoilers. Use your best judgement!Post & comment spoiler syntax:```::: spoiler <title of dropdown><spoiler here>:::```"
 type: community
-date: "2023-06-16 22:56:13"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/starfield"
 host: lemmy.zip
-lastmod: "2023-06-12 14:22:24"
+lastmod: "2023-06-22 08:24:03"
 published: "2023-06-12 13:59:40"
-subscribers: 262
-posts: 16
-comments: 90
-weight: 16
-dau: 7
-wau: 45
-mau: 45
+subscribers: 358
+posts: 24
+comments: 115
+weight: 24
+dau: 9
+wau: 20
+mau: 60
 instances:
 - "lemmy_zip"
 tags: 

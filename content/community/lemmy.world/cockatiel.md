@@ -3,7 +3,7 @@ title: "Cockatiels"
 name: "cockatiel"
 description: "The cockatiel (*Nymphicus hollandicus*) is a small parrot that is often kept as pets. This community is for the discussion of everything cockatiel-related. Feel free to post photos of your own pet cockatiels!"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cockatiel"

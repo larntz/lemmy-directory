@@ -3,14 +3,14 @@ title: "We already live in a dystopia."
 name: "aboringdystopia"
 description: "A community for chronicling how Advanced Capitalist Society is not only dystopic, but also incredibly boring."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aboringdystopia"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-17 04:34:57"
-subscribers: 244
+subscribers: 245
 posts: 9
 comments: 13
 weight: 9

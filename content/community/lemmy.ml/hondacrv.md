@@ -3,7 +3,7 @@ title: "Honda CR-V"
 name: "hondacrv"
 description: "Anything and everything related to Honda's CR-V SUV. There use to be a table in the back!"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hondacrv"

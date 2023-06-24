@@ -3,7 +3,7 @@ title: "Anaheim Ducks (NHL)"
 name: "goducksgo"
 description: "All things Anaheim Ducks.**[More Hockey](https://lemmy.world/post/169850)****GUIDELINES**- Posts should be at least tangentially related to the Anaheim Ducks of the NHL.- No fake trades / signings / other news.- Empathy is valued here - All rules for the lemmy.world instance apply, as always. See: https://mastodon.world/about#"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goducksgo"

@@ -3,7 +3,7 @@ title: "car talk"
 name: "cartalk"
 description: "A community for discussions, photos and videos about cars."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cartalk"
@@ -15,7 +15,7 @@ posts: 14
 comments: 18
 weight: 14
 dau: 1
-wau: 4
+wau: 3
 mau: 10
 instances:
 - "lemmy_world"

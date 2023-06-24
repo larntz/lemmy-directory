@@ -1,19 +1,19 @@
 ---
 title: "Hotwife" 
 name: "hotwife"
-description: "Description not available."
+description: "Share your [hot wife](https://hornygrail.com/collection/jxpv3) or mom!"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hotwife"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 00:48:01"
 published: "2023-06-16 08:09:54"
-subscribers: 208
-posts: 6
+subscribers: 221
+posts: 9
 comments: 0
-weight: 6
+weight: 9
 dau: 1
 wau: 1
 mau: 1

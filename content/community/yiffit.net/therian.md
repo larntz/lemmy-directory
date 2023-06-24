@@ -3,14 +3,14 @@ title: "Therianthropy"
 name: "therian"
 description: "Community dedicated to the discussion of therianthropy- Minors DNI, even if content is SFW- Do not post sexually explicit content in this community please. It does, however, support discussion around mature topics which should be flagged as NSFW."
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/therian"
 host: yiffit.net
 lastmod: "2023-06-15 17:46:17"
 published: "2023-06-14 18:09:17"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

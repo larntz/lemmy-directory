@@ -3,7 +3,7 @@ title: "Linux & FOSS News"
 name: "opensource_news"
 description: "We Love Linux & FOSS hence created this community. We Expect everyone to respect each other & share your knowledge"
 type: community
-date: "2023-06-22 16:47:50"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opensource_news"

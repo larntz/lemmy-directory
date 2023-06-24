@@ -3,7 +3,7 @@ title: "Conservative"
 name: "conservative"
 description: "We are a community for politically conservative minded people to read and discuss political and cultural issues and memes."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/conservative"

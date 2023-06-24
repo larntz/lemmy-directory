@@ -3,7 +3,7 @@ title: "Generate for Me"
 name: "generateforme"
 description: "A community dedicated to fulfilling requests for artwork created with generative tools.### Rules:This community follows the [instance-wide rules](https://normalcity.life/post/972)."
 type: community
-date: "2023-06-23 01:19:22"
+date: "2023-06-24 01:13:27"
 draft: false
 nsfw: false
 actor_id: "https://normalcity.life/c/generateforme"

@@ -3,7 +3,7 @@ title: "Testing"
 name: "localtesting"
 description: "A local community for testing lemmy on the aussie.zone instance."
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/localtesting"

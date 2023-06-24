@@ -3,7 +3,7 @@ title: "ProtonChain "
 name: "protonchain"
 description: "Proton Blockchain is a fast scalable, layer one blockchain that can run decentralized applications and make free and instantaneous payments. At its core, Proton Blockchain is designed to communicate with banks, payment processors and traditional fiat gateways through Proton Signing Request (PSR). Additionally, Proton makes use of decentralized identity with human readable names, NFTs, token wrapping, a decentralized stablecoin index (XMD), DeFi lending, trading and governance."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/protonchain"

@@ -3,7 +3,7 @@ title: "Amigurumi"
 name: "amigurumi"
 description: "All things crochet/knit plushes. I look forward to meeting new crochet friends and building a community through Lemmy ❤️🧶🪡"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/amigurumi"

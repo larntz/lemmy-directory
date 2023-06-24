@@ -3,14 +3,14 @@ title: "Phasmophobia"
 name: "phasmophobia"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phasmophobia"
 host: lemmy.world
 lastmod: "2023-06-21 22:08:17"
 published: "2023-06-20 02:36:40"
-subscribers: 16
+subscribers: 17
 posts: 6
 comments: 1
 weight: 6

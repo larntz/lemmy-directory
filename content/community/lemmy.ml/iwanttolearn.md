@@ -3,7 +3,7 @@ title: "I want to learn"
 name: "iwanttolearn"
 description: "A community of those who want to learn about something but doesn't nearly know where to start. Idea inspired by  [the subreddit of the same name](https://www.reddit.com/r/iwanttolearn)"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iwanttolearn"

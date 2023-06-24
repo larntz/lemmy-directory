@@ -3,7 +3,7 @@ title: "PIT.NINJA Testing"
 name: "testing"
 description: "A place for testing stuff."
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pit.ninja/c/testing"

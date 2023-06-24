@@ -3,14 +3,14 @@ title: "Tales From The Customer"
 name: "talesfromthecustomer"
 description: "A places for customers to vent and rage and even smile about their customer service experiences."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/talesfromthecustomer"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 17:10:46"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

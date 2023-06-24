@@ -3,7 +3,7 @@ title: "Debate Politics"
 name: "debatepolitics"
 description: "Community for discussing different political philosophies calmly and rationally.Rules:* No racism, sexism, homophobia, etc.* Don't advocate anything illegal/violent* Don't commit [logical fallacies](https://yourlogicalfallacyis.com/) and debate in good faith* Research the topic a bit before you state your opinions"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/debatepolitics"

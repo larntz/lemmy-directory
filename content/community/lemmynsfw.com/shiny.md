@@ -3,14 +3,14 @@ title: "Shiny"
 name: "shiny"
 description: "A place for shiny clothing. Latex, PVC, Spandex"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/shiny"
 host: lemmynsfw.com
 lastmod: "2023-06-22 17:59:57"
 published: "2023-06-19 10:08:34"
-subscribers: 71
+subscribers: 81
 posts: 13
 comments: 1
 weight: 13

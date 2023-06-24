@@ -3,12 +3,12 @@ title: "Post Revolution Life"
 name: "postrevolution"
 description: "Community intended for discussing how a country could be after a revolution, and the history of a past country who underwent a revolution and succeeded. Rules: Follow site rules, no fascists, and don't be a jerk "
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/postrevolution"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-10-01 01:08:15"
 subscribers: 32
 posts: 2

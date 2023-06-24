@@ -3,7 +3,7 @@ title: "Metal Slug: Super Vehicle-001"
 name: "metalslug"
 description: "Metal Slug, the world's greatest 2D shooter video game franchise has a home on Lemmy"
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalslug"

@@ -3,7 +3,7 @@ title: "Veterans"
 name: "veterans"
 description: "Veteran Community for lemmy.world, we hope to make ALL veterans feel welcome and accepted."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/veterans"

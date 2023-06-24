@@ -3,7 +3,7 @@ title: "Construction"
 name: "construction"
 description: "A community for posts and discussion related to construction and the tradesRules:1. Be civil2. No spam posting3. Keep posts on-topic4. No trolling"
 type: community
-date: "2023-06-23 01:21:37"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/construction"

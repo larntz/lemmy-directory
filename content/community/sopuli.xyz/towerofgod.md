@@ -3,7 +3,7 @@ title: "Tower of God"
 name: "towerofgod"
 description: "A community to discuss the best manhwa of all time, Tower of God. Links to scans, fan theories, fanarts, discussion posts are all welcome!"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/towerofgod"

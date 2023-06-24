@@ -3,12 +3,12 @@ title: "France"
 name: "france"
 description: "Pour la discussion des questions relatives au communisme en FranceFor the discussion of issues relating to communism in France."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/france"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-11-01 16:16:53"
 subscribers: 31
 posts: 4

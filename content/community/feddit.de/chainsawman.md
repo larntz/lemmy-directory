@@ -3,7 +3,7 @@ title: "Chainsaw Man"
 name: "chainsawman"
 description: "I couldn't find another Chainsaw Man community so I decided to create one myself!General place for discussion about the Chainsaw Man Manga and Anime.Please be civil and mark spoilers."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/chainsawman"

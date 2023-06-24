@@ -3,7 +3,7 @@ title: "Kabbalah"
 name: "kabbalah"
 description: "A community to discuss Kabbalah, the mystical and esoteric tradition of Judaism.Here we focus on Jewish Kabbalah, for other kabbalistic traditions, like Hermetic Qabalah and Christian Cabala, please join another community, like https://lemmy.world/c/esotericism"
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kabbalah"
@@ -15,7 +15,7 @@ posts: 15
 comments: 0
 weight: 15
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

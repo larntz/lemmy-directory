@@ -3,7 +3,7 @@ title: "Educational Technology"
 name: "edtech"
 description: "Educational technology, software, etc."
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edtech"
@@ -15,7 +15,7 @@ posts: 7
 comments: 1
 weight: 7
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

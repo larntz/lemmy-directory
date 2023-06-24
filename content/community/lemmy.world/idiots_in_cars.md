@@ -3,7 +3,7 @@ title: "idiots_in_cars"
 name: "idiots_in_cars"
 description: "videos of people being idiots in cars"
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/idiots_in_cars"

@@ -3,7 +3,7 @@ title: "The Forest / Sons of the Forest Community"
 name: "theforest"
 description: "A community based off the games The Forest and Sons of the Forest, a horror survival game. Post your memes, gameplay and server links."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/theforest"

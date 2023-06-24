@@ -3,14 +3,14 @@ title: "Spandex Tights"
 name: "spandextights"
 description: "A community for tights made out of Spandex"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/spandextights"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 19:07:19"
-subscribers: 26
+subscribers: 30
 posts: 9
 comments: 0
 weight: 9

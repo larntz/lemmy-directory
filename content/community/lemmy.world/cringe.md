@@ -3,7 +3,7 @@ title: "cringe"
 name: "cringe"
 description: "For anything cringe"
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cringe"

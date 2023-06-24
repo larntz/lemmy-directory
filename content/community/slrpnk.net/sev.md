@@ -3,7 +3,7 @@ title: "Solar Powered Vehicles"
 name: "sev"
 description: "For discussion of all things which convert sunlight to useful propulsion."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/sev"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "slrpnk_net"

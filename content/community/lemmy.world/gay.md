@@ -3,19 +3,19 @@ title: "Gay // gay_irl"
 name: "gay"
 description: "An inclusive community based on pride and support. Ask, share, discuss.Memes are allowed."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gay"
 host: lemmy.world
 lastmod: "2023-06-19 18:13:56"
 published: "2023-06-11 07:57:17"
-subscribers: 223
+subscribers: 254
 posts: 16
 comments: 27
 weight: 16
-dau: 3
-wau: 19
+dau: 1
+wau: 15
 mau: 22
 instances:
 - "lemmy_world"

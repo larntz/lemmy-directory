@@ -3,7 +3,7 @@ title: "cscareerjerk"
 name: "cscareerjerk"
 description: "I finished 16 years of schooling but didn't learn leetcode lol, spoon-feed me please? Thanks in advance!Good career jerking material can be found at /r/cscareerquestions if you want to join a FAANG but can't, as well as /r/cscareerquestionseu if you want to be rich but would rather have health insurance.New school or old school jerk, I don't care, knock yourself off."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cscareerjerk"

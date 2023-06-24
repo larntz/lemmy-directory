@@ -3,7 +3,7 @@ title: "Wausau, Wisconsin"
 name: "wausau"
 description: "A community for Wausau, WI and surrounding areas!Follow the same rules as midwest.social."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/wausau"

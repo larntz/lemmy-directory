@@ -3,7 +3,7 @@ title: "Gerechtigkeit bei Arbeit und Vermögen"
 name: "gerechtigkeit"
 description: "Dies ist eine Community die sich mit dem Thema der Gerechtigkeit von Arbeit, Einkommen und Vermögen beschäftigt.- Wie ist das alles verteilt?- Wie könnte es gerechter sein?- Welche Wege werden gegangen?- Welche Lösungen und Wege dorthin gibt es?(Icon: [Scale Icon Clip Art , royalty ](https://www.freeiconspng.com/img/424) )"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/gerechtigkeit"

@@ -3,7 +3,7 @@ title: "Bremen"
 name: "bremen"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/bremen"
@@ -14,7 +14,7 @@ subscribers: 82
 posts: 8
 comments: 8
 weight: 8
-dau: 3
+dau: 1
 wau: 4
 mau: 8
 instances:

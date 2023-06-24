@@ -3,7 +3,7 @@ title: "Untappd: Drink Socially"
 name: "untappd"
 description: "This is a place to share Untappd news, pictures of beers, questions on badges, and common camaraderie of your favorite app, [Untappd](https://untappd.com)."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/untappd"

@@ -3,12 +3,12 @@ title: "Testing some stuff"
 name: "chaposandbox"
 description: "howdy"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chaposandbox"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-06-04 00:57:27"
 subscribers: 24
 posts: 0

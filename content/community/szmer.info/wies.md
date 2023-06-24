@@ -3,7 +3,7 @@ title: "życie na wsi"
 name: "wies"
 description: "skoro jest zbiorcza spoleczność odnośnie życia w miastach, to przydałaby się analogiczna dot. życia na wsi. Ogólnie, bez ograniczania się do absurdów"
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wies"

@@ -3,7 +3,7 @@ title: "Apple Betas"
 name: "applebetas"
 description: "The home for all things Apple Betas on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applebetas"

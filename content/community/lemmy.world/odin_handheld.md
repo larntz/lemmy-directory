@@ -3,7 +3,7 @@ title: "Odin Handheld"
 name: "odin_handheld"
 description: "Welcome to the AYN Odin community!"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/odin_handheld"

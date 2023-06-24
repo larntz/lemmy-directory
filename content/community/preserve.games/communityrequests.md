@@ -3,7 +3,7 @@ title: "Community Requests"
 name: "communityrequests"
 description: "Want to start your own community here? Send in a request!"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/communityrequests"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "preserve_games"

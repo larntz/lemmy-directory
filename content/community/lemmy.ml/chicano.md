@@ -3,7 +3,7 @@ title: "Chicano"
 name: "chicano"
 description: "For the Chicana/o/x. This is a place to be yourself and have fun, talk about issues affecting the Mexican-American community, share experiences, learn and celebrate our culture."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chicano"

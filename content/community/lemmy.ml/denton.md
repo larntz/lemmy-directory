@@ -3,7 +3,7 @@ title: "Denton"
 name: "denton"
 description: "Denton Texas"
 type: community
-date: "2023-06-22 16:47:55"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/denton"

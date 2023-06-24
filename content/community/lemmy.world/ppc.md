@@ -3,7 +3,7 @@ title: "PPC Community"
 name: "ppc"
 description: "Everything PPC (Google Ads, Bing Ads, Facebook Ads...)"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ppc"
@@ -11,12 +11,12 @@ host: lemmy.world
 lastmod: "2023-06-20 06:02:34"
 published: "2023-06-20 06:01:57"
 subscribers: 1
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

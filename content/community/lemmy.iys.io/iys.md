@@ -3,7 +3,7 @@ title: "iys"
 name: "iys"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.iys.io/c/iys"
@@ -15,7 +15,7 @@ posts: 7
 comments: 0
 weight: 7
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_iys_io"

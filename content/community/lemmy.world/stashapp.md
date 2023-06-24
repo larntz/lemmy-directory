@@ -3,7 +3,7 @@ title: "Stash"
 name: "stashapp"
 description: "**Stash is a  web application written in Go for serving and organizing your porn collection.**# Basic rules- Use `NSFW` flag for posts that contain explicit images.- Keep posts on topic about Stash or related projects.- No piracy talk.# Links- [Website](https://stashapp.cc) - [Documentation](https://docs.stashapp.cc)- [Canonical stash-box instance - StashDB](https://stashdb.org) - [StashDB guidelines]( https://guidelines.stashdb.org)- [Support the project]( https://opencollective.com/stashapp)"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stashapp"

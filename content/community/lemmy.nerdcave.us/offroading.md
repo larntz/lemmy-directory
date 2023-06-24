@@ -3,7 +3,7 @@ title: "Offroading"
 name: "offroading"
 description: "Do you like getting muddy and taking your 4x4 offroad?If so, this community is for you!Here you can discuss everything about 4x4's, offroading and your 4x4 vehiclesMod positions available, contact  [Ainsey11](https://lemmy.nerdcave.us/u/Ainsey11])Banner will be changed every month, to the most upvoted picture"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nerdcave.us/c/offroading"

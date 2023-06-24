@@ -3,7 +3,7 @@ title: "Muse "
 name: "muse"
 description: "A community for the rock band Muse "
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/muse"

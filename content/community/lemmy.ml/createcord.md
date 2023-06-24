@@ -3,7 +3,7 @@ title: "CreateCord"
 name: "createcord"
 description: "A Multi-purpose Community containing Arts, Writing, Photography, Music and Engineering."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/createcord"

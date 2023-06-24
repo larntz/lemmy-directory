@@ -3,7 +3,7 @@ title: "Dishonored"
 name: "dishonored"
 description: "A hub for the game Dishonored, by Arkane Studios. Share with us funny moments, spectacular kill montages or just breathtaking screenshots, it's up to you."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dishonored"

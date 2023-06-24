@@ -3,14 +3,14 @@ title: "Mathematics"
 name: "mathematics"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/mathematics"
 host: feddit.tech
 lastmod: "2023-06-14 23:36:56"
 published: "2023-06-14 22:29:47"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

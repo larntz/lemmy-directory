@@ -3,14 +3,14 @@ title: "Confessions"
 name: "confessions"
 description: "Alternative r/sluttyconfessions. Posts must be text posts confessing slutty events in your life. "
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/confessions"
 host: lemmynsfw.com
 lastmod: "2023-06-15 04:28:45"
 published: "2023-06-15 04:27:46"
-subscribers: 43
+subscribers: 44
 posts: 0
 comments: 0
 weight: 0

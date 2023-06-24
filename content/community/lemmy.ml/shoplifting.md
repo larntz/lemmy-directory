@@ -3,7 +3,7 @@ title: "Shoplifting "
 name: "shoplifting"
 description: "No big retail shills"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shoplifting"

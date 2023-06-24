@@ -3,12 +3,12 @@ title: "pain"
 name: "pain"
 description: "For the broken, malfunctioning, pained people of the world and their friends/family. Got pain? This is the place to be. Bitching, complaining, whining, and otherwise venting about your condition is encouraged. Stop by the chat and say hi!"
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/pain"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 05:14:46"
 subscribers: 2
 posts: 0

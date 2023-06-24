@@ -3,7 +3,7 @@ title: "Thailand"
 name: "thailand"
 description: "Everything about Thailand"
 type: community
-date: "2023-06-23 01:21:32"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thailand"

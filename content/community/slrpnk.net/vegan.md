@@ -3,19 +3,19 @@ title: "Vegan"
 name: "vegan"
 description: "A community to discuss anything related to veganism."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/vegan"
 host: slrpnk.net
 lastmod: "2023-06-12 19:28:23"
 published: "2023-06-06 07:58:44"
-subscribers: 105
+subscribers: 109
 posts: 9
-comments: 25
+comments: 26
 weight: 9
-dau: 7
-wau: 8
+dau: 1
+wau: 9
 mau: 16
 instances:
 - "slrpnk_net"

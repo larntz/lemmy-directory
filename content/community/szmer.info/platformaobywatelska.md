@@ -3,7 +3,7 @@ title: "'zasługi' opozycji"
 name: "platformaobywatelska"
 description: "Patrzymy władzy na ręce - archiwum działań Platformy Obywatelskiej, Koalicji Obywatelskiej, Koalicji 276 i reszty ugrupowań opozycyjnych."
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/platformaobywatelska"

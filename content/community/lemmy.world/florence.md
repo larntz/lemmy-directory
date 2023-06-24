@@ -3,7 +3,7 @@ title: "Florence, Italy: Photos, Travel Tips, News, and more from Firenze"
 name: "florence"
 description: "Florence, Italy:  Capital of Tuscany, origin of the Renaissance, and cultural capital of the world.  "
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/florence"

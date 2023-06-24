@@ -3,7 +3,7 @@ title: "cannabis"
 name: "cannabis"
 description: "If you want this community established and well maintained, then creating activity is how you let us know!-"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cannabis"

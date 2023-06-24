@@ -1,14 +1,14 @@
 ---
 title: "ArtKnights" 
 name: "artknights"
-description: "A place to post Arknights art"
+description: "A place to post Arknights art. Can be anything you find! From official artwork to masterpieces of fanart.# RULES- Posts must have the source author on it's title- NSFW is allowed only if tagged properly- Be civil and respectful"
 type: community
-date: "2023-06-23 01:19:21"
+date: "2023-06-24 01:13:26"
 draft: false
 nsfw: false
 actor_id: "https://solstice.etbr.top/c/artknights"
 host: solstice.etbr.top
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-23 09:29:19"
 published: "2023-06-14 14:36:39"
 subscribers: 7
 posts: 14

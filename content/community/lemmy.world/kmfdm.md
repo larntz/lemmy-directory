@@ -1,14 +1,14 @@
 ---
 title: "kmfdm" 
 name: "kmfdm"
-description: "kmfdm"
+description: "kmfdm unofficial just for fun. for official check https://kmfdm.net/"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kmfdm"
 host: lemmy.world
-lastmod: "2023-06-21 14:45:40"
+lastmod: "2023-06-24 00:31:13"
 published: "2023-06-20 21:33:02"
 subscribers: 1
 posts: 1

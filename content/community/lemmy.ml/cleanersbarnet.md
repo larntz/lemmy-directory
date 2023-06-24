@@ -3,7 +3,7 @@ title: "Cleaners Barnet"
 name: "cleanersbarnet"
 description: "Call on 020 7846 0225 if you want a professional cleaning service in Barnet. Gabe’s cleaners are 24/7 ready to help with every domestic chore. https://www.barnetcleaners.co.uk/"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cleanersbarnet"

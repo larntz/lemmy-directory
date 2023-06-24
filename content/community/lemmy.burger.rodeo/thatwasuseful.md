@@ -3,7 +3,7 @@ title: "Well That Was Useful!"
 name: "thatwasuseful"
 description: "Have you ever found something that helped you with a very specific problem? A website, product or anything else, really.This is the place to share with others who might be having the same issues as you! Share your knowledge so others don't have to go through the headache you did."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/thatwasuseful"
@@ -15,7 +15,7 @@ posts: 4
 comments: 7
 weight: 4
 dau: 2
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_burger_rodeo"

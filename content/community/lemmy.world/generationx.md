@@ -3,14 +3,14 @@ title: "Generation X, otherwise known as GenX 1965-1980"
 name: "generationx"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/generationx"
 host: lemmy.world
 lastmod: "2023-06-22 17:40:09"
 published: "2023-06-22 08:13:32"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

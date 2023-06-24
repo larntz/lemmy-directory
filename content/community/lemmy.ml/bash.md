@@ -3,14 +3,14 @@ title: "Bash"
 name: "bash"
 description: "Talk about the Bash Shell and Bash scripting"
 type: community
-date: "2023-06-22 16:47:56"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bash"
 host: lemmy.ml
 lastmod: "2023-06-11 03:30:26"
 published: "2020-05-22 21:47:19"
-subscribers: 328
+subscribers: 332
 posts: 11
 comments: 7
 weight: 11

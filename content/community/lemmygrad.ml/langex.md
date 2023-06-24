@@ -3,12 +3,12 @@ title: "Language exchange"
 name: "langex"
 description: "Community for people of different languages to diminish the borders between us. Share language learning books, your experiences trying to learn new languages, the difficulties, methods, or your interest of languages in general, their history, the cultural relationship, the philosophical inquiry of language and thought, the relationship between language and class society, you name it. "
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/langex"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-01-16 07:14:01"
 subscribers: 15
 posts: 0

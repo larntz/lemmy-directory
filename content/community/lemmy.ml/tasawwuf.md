@@ -3,7 +3,7 @@ title: "Tasawwuf"
 name: "tasawwuf"
 description: "Islam and Tasawwuf/Tasavvuf Sufismus"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tasawwuf"

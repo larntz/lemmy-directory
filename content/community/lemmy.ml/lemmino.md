@@ -1,14 +1,14 @@
 ---
 title: "LEMMiNO" 
 name: "lemmino"
-description: "Official community for LEMMiNO."
+description: "A community for LEMMiNO in lemmyRules:1. Content must be related to LEMMiNO "
 type: community
-date: "2023-06-22 16:47:51"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmino"
 host: lemmy.ml
-lastmod: "2023-06-09 00:32:25"
+lastmod: "2023-06-23 17:51:31"
 published: "2023-06-09 00:29:33"
 subscribers: 5
 posts: 2

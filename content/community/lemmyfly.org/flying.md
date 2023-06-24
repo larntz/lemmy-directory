@@ -3,7 +3,7 @@ title: "flying"
 name: "flying"
 description: "community all about real life flying"
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/flying"
@@ -11,9 +11,9 @@ host: lemmyfly.org
 lastmod: "2023-06-12 11:33:04"
 published: "2023-06-08 11:57:19"
 subscribers: 73
-posts: 6
+posts: 7
 comments: 7
-weight: 6
+weight: 7
 dau: 1
 wau: 6
 mau: 6

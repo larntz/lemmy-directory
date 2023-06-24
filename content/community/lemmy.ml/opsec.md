@@ -3,7 +3,7 @@ title: "Opsec"
 name: "opsec"
 description: "OPSEC is the process and practice of Operations Security. Although it has roots in the military, OPSEC can be applied to any venture requiring secrecy and survival, from business security to personal safety. OPSEC is a mindset of critical thinking and safe habits. Read the sidebar below for more information!"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/opsec"

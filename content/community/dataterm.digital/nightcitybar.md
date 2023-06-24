@@ -3,7 +3,7 @@ title: "NIGHT CITY BAR"
 name: "nightcitybar"
 description: "![](https://obeythesystem.com/nightcitybar/nightcitybarsmall.png)Welcome to [NIGHT CITY BAR](https://nightcity.bar/), the ultimate cyberpunk-inspired, LGBTQIA+ friendly Fediverse instance for edgerunners, netrunners, and cyberpunks."
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/nightcitybar"

@@ -3,7 +3,7 @@ title: "Historically Informed Performance Practice"
 name: "hipp"
 description: "This community is for discussions related to [historically informed performance practice](https://en.wikipedia.org/wiki/Historically_informed_performance?wprov=sfti1) (HIPP, or sometimes just HIP), the application of historical research to the performance of early music. More information to come soon. "
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hipp"

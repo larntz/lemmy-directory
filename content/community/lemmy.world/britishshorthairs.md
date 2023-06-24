@@ -3,7 +3,7 @@ title: "British Shorthairs"
 name: "britishshorthairs"
 description: "A place for British Shorthair catsRules:1. All posts should be about or including British Shorthair cats.2. No Spam or advertising.3. No porn or NSFW content.4. No bigotry, racism, homophobia, or other hateful content."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/britishshorthairs"

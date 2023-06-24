@@ -3,7 +3,7 @@ title: "Astrology"
 name: "astrology"
 description: "Dedicated to showing how astrology is lies"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/astrology"

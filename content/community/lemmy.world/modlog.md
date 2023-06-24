@@ -3,19 +3,19 @@ title: "Modlog"
 name: "modlog"
 description: "A community to discuss all things about modlogs!All post must be about modlogs or moderation, and for all screenshots you need to specify which instances you're on. "
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modlog"
 host: lemmy.world
 lastmod: "2023-06-22 10:07:49"
 published: "2023-06-16 13:23:33"
-subscribers: 44
+subscribers: 45
 posts: 9
 comments: 19
 weight: 9
 dau: 1
-wau: 11
+wau: 7
 mau: 11
 instances:
 - "lemmy_world"

@@ -3,16 +3,16 @@ title: "Lemmy"
 name: "lemmy"
 description: "Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc."
 type: community
-date: "2023-06-23 01:18:55"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/lemmy"
 host: lemmy.studio
 lastmod: "2023-06-08 17:31:46"
 published: "2023-06-05 19:33:32"
-subscribers: 44
+subscribers: 45
 posts: 14
-comments: 94
+comments: 97
 weight: 14
 dau: 2
 wau: 15

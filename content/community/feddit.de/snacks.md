@@ -3,7 +3,7 @@ title: "Snacks"
 name: "snacks"
 description: "Insider*innen empfehlen die besten Snacks."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/snacks"
@@ -15,7 +15,7 @@ posts: 4
 comments: 10
 weight: 4
 dau: 4
-wau: 7
+wau: 1
 mau: 7
 instances:
 - "feddit_de"

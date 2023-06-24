@@ -3,7 +3,7 @@ title: "Oppo Community"
 name: "oppo"
 description: "Welcome to /c/Oppo!This is a place to discuss about Oppo smartphones, tablets, smartwatches, earbuds and other products./c/Oppo is not an official community. This is a fan-made community."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oppo"

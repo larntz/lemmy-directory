@@ -3,20 +3,20 @@ title: "Busty Petite"
 name: "bustypetite"
 description: "Rules: 1. General [lemmynsfw.com](https://lemmynsfw.com) Rules2. No AI Art! Go to [!aigen@lemmynsfw.com](https://lemmynsfw.com/c/aigen) for that3. Self-Promotion is allowed! Mark Original Content with [OC] or [F]"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/bustypetite"
 host: lemmynsfw.com
 lastmod: "2023-06-13 02:14:17"
 published: "2023-06-12 16:59:14"
-subscribers: 800
+subscribers: 857
 posts: 21
 comments: 1
 weight: 21
-dau: 2
-wau: 6
-mau: 6
+dau: 1
+wau: 4
+mau: 7
 instances:
 - "lemmynsfw_com"
 tags: 

@@ -3,7 +3,7 @@ title: "Mixed Martial Arts"
 name: "mma"
 description: "Mixed Martial Arts"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mma"
@@ -15,7 +15,7 @@ posts: 16
 comments: 33
 weight: 16
 dau: 4
-wau: 11
+wau: 8
 mau: 19
 instances:
 - "lemmy_ml"

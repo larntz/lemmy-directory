@@ -3,14 +3,14 @@ title: "Electronic Dance Music"
 name: "edm"
 description: "Your home for everything EDM on the Fediverse. Remember to keep it PLUR!"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/edm"
 host: sopuli.xyz
 lastmod: "2023-06-13 03:23:39"
 published: "2023-06-13 03:21:00"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 0
 weight: 4

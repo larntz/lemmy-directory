@@ -3,12 +3,12 @@ title: "Ithkuil"
 name: "ithkuil"
 description: "Alţmeláu šü ňarţa wese'e Iţkuıl! Welcome to the Ithkuil community!**Rules**1. Be nice.2. Don't just ask for translations. We can help with translations, but we won't just translate everything for you. Instead of what's x in Ithkuil, ask I tried to translate x into Ithkuil, and here's what I have, but I don't think I used the right Configuration. Can you double-check my translation?3. 🤡"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ithkuil"
 host: sopuli.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-01 17:57:38"
 subscribers: 3
 posts: 0

@@ -3,7 +3,7 @@ title: "WhereIsThisPlace"
 name: "whereisthisplace"
 description: "Do you have a photo, video or even just a description of a place you want to find the location of ? Post it here and our users can help you find it !"
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whereisthisplace"

@@ -3,19 +3,19 @@ title: "What is this thing?"
 name: "whatisthisthing"
 description: "Let us help you identify that mysterious object you’ve found.Currently in CHALLENGE mode: If you've got something obscure knocking about, post a picture, and let's see how we do. Please prefix such posts with CHALLENGE: so we know we've got a fighting chance."
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whatisthisthing"
 host: lemmy.world
 lastmod: "2023-06-14 18:37:04"
 published: "2023-06-14 14:38:00"
-subscribers: 646
+subscribers: 689
 posts: 8
 comments: 47
 weight: 8
 dau: 1
-wau: 12
+wau: 11
 mau: 21
 instances:
 - "lemmy_world"

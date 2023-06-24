@@ -3,7 +3,7 @@ title: "Weird Road Trip"
 name: "weirdroadtrip"
 description: "For sharing all of those odd places, tourist traps, roadside attractions, and hidden gems worthy of sharing because you had to pull over (or maybe travelled to intentionally) just to take a picture.(Sharing links and pictures to these places even you didn’t go there is totally fine as well.)"
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weirdroadtrip"

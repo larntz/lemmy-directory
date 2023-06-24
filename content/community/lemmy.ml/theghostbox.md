@@ -3,7 +3,7 @@ title: "The Ghost Box"
 name: "theghostbox"
 description: "Just a little private community"
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theghostbox"

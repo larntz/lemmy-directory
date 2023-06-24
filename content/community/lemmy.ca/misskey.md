@@ -3,7 +3,7 @@ title: "Misskey"
 name: "misskey"
 description: "An interplanetary microblogging platform Also see:* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)* [Fedizens](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/misskey"

@@ -3,14 +3,14 @@ title: "Zelda: Tears of the Kingdom Modding"
 name: "totkmods"
 description: ">***Mods wanted!***>>*If you're interested in moderating this community, reach out to [@Ginjutsu@lemmy.world](/u/Ginjutsu@lemmy.world).*Community for all things related to modding *The Legend of Zelda: Tears of the Kingdom*. Post everything from gameplay mods to emulator fixes here![GameBanana](https://gamebanana.com/games/7617) | [Nexus](https://www.nexusmods.com/legendofzeldatearsofthekingdom) | [Discord](https://discord.gg/nEFVf8A) | [Wiki](https://zeldamods.org/)"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/totkmods"
 host: lemmy.world
 lastmod: "2023-06-22 21:06:03"
 published: "2023-06-13 20:23:34"
-subscribers: 145
+subscribers: 150
 posts: 6
 comments: 17
 weight: 6

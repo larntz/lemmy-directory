@@ -3,14 +3,14 @@ title: "Oklahoma"
 name: "oklahoma"
 description: "A place for all things Oklahoma"
 type: community
-date: "2023-06-22 16:47:55"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oklahoma"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 06:56:21"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

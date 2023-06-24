@@ -3,12 +3,12 @@ title: "☭ Avante Camaradas ☭"
 name: "portugal"
 description: "Tudo o que diz respeito a Portugal. Um lugar para discussão da História, cultura, política... de Portugal.Regras:1. Sê civil. Sem preconceitos. 2. Mantêm as publicações dentro do tópico da comunidade. Todas as publicações devem dizer respeito a Portugal.3. Sem anti-comunismo.4. Sem sectarismo. --------------------------------------------------------------------------------------------All things Portugal. A place to discuss history, culture, politics... of Portugal.Rules:1. Be civil. No Bigotry.2. Keep on-topic. Posts must be related to Portugal.3. No anti-communism. 3. No sectarianism."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/portugal"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-18 15:40:18"
 subscribers: 25
 posts: 9

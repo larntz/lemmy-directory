@@ -3,12 +3,12 @@ title: "DIY that makes noise"
 name: "synthdiy"
 description: "Selfmade electronics that make sound in a wider sense."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/synthdiy"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 09:14:08"
 subscribers: 7
 posts: 0

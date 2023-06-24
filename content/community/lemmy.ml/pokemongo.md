@@ -3,14 +3,14 @@ title: "Pokemon Go"
 name: "pokemongo"
 description: "We are an unofficial community run by fans of PokemonGo. We welcome all legitimate players to join us in sharing experiences, photos, displeasures and more!"
 type: community
-date: "2023-06-22 16:47:51"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pokemongo"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 03:13:38"
-subscribers: 23
+subscribers: 24
 posts: 2
 comments: 0
 weight: 2

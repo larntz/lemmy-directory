@@ -3,7 +3,7 @@ title: "Dinosaurs"
 name: "dinosaurs"
 description: "Dinosaurs! Keep it mostly dinosaur-era, although some outside of it will be allowed."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dinosaurs"

@@ -3,14 +3,14 @@ title: "Zentai"
 name: "zentai"
 description: "A place for all things Zentai.# Rules🔞 **Age Requirement**: All participants MUST be 18 or over. Additionally, this should go without saying, **but posting content involving any person(s) who is under 18 is Forbidden**."
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/zentai"
 host: lemmynsfw.com
 lastmod: "2023-06-22 18:04:55"
 published: "2023-06-19 11:30:43"
-subscribers: 10
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

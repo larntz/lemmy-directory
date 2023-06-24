@@ -3,7 +3,7 @@ title: "Punball"
 name: "punball"
 description: "A place to discuss anything about the mobile game Punball"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/punball"

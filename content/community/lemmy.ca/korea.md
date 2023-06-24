@@ -3,7 +3,7 @@ title: "Korea"
 name: "korea"
 description: "Discussing everything about South Korea"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/korea"

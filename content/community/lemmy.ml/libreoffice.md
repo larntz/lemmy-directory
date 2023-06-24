@@ -3,7 +3,7 @@ title: "LibreOffice"
 name: "libreoffice"
 description: "Community to discuss LibreOffice, new features, etc.You can also discuss Apache OpenOffice here."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libreoffice"

@@ -3,20 +3,20 @@ title: "Gift of Gaming"
 name: "giftofgaming"
 description: "A Lemmy community dedicated to host video game giveaways.**Rules:**- The only posts allowed on this community are giveaways, no making posts begging for games.- It is highly encouraged that you don't post any game keys themselves, bots are easily able to claim them instantly.- Remember to mark your giveaway as complete when you have finished it. You can do so by adding (COMPLETE) to the beginning of the title of your post.**Safety Advice:**- Do not click on any links you receive in your DMs. Giveaway operators should only be gifting games in the form of product keys sent directly to the winner's DMs. "
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/giftofgaming"
 host: lemmy.world
 lastmod: "2023-06-22 19:15:04"
 published: "2023-06-22 14:55:16"
-subscribers: 23
-posts: 1
-comments: 5
-weight: 1
-dau: 4
-wau: 4
-mau: 4
+subscribers: 52
+posts: 2
+comments: 62
+weight: 2
+dau: 44
+wau: 47
+mau: 47
 instances:
 - "lemmy_world"
 tags: 

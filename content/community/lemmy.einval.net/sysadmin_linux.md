@@ -3,7 +3,7 @@ title: "Systems Administration (Linux)"
 name: "sysadmin_linux"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:54"
+date: "2023-06-24 01:12:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/sysadmin_linux"
@@ -15,8 +15,8 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_einval_net"
 tags: 

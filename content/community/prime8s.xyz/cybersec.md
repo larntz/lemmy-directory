@@ -3,7 +3,7 @@ title: "Cyber Security"
 name: "cybersec"
 description: "A community to discuss cybersecurity happenings.This is a Safe For Work Community1. No hate speech, flaming, or harassment.2. Don't make me make more rules"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:11"
 draft: false
 nsfw: false
 actor_id: "https://prime8s.xyz/c/cybersec"

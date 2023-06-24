@@ -3,14 +3,14 @@ title: "doll"
 name: "doll"
 description: "ドールのこと"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.juggler.jp/c/doll"
 host: lemmy.juggler.jp
 lastmod: "2021-01-26 08:42:45"
 published: "2020-12-15 22:47:04"
-subscribers: 5
+subscribers: 24
 posts: 10
 comments: 3
 weight: 10

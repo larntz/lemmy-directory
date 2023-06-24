@@ -3,7 +3,7 @@ title: "Viet Nam"
 name: "vietnam"
 description: "Ddeer ddays tinhs sau"
 type: community
-date: "2023-06-23 01:21:32"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vietnam"

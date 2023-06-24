@@ -3,7 +3,7 @@ title: "Meteorologia i Klimat"
 name: "meteo_i_klimat"
 description: "Społeczność poświęcona trwającej już obecnie katastrofie klimatycznej, której wyrazem jest m.in. rosnąca częstotliwość i siła ekstremalnych zjawisk pogodowych. Wiedza naukowa, newsy, aktywizm klimatyczny."
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/meteo_i_klimat"

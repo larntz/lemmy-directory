@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Post test messages here"
 type: community
-date: "2023-06-23 01:19:18"
+date: "2023-06-24 01:13:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.doomeer.com/c/test"

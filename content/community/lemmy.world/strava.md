@@ -3,7 +3,7 @@ title: "Strava"
 name: "strava"
 description: "Unofficial Strava Community: discuss anything about Strava. Do not post your activities - That's what Strava is for!"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/strava"

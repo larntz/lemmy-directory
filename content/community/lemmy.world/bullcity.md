@@ -3,7 +3,7 @@ title: "Bully City"
 name: "bullcity"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:55:59"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bullcity"

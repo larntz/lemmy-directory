@@ -3,7 +3,7 @@ title: "Nerf/Blaster Tag"
 name: "nerf"
 description: "A community like r/nerf for lovers of foam flinging, blaster modding, and everything related to the hobby of nerf/blaster tag!"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nerf"

@@ -3,7 +3,7 @@ title: "Fortinet"
 name: "fortinet"
 description: "Discussing all things Fortinet."
 type: community
-date: "2023-06-22 16:47:53"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fortinet"

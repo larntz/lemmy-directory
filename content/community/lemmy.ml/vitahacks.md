@@ -3,7 +3,7 @@ title: "Vita Hacks - PS Vita Hacks and Homebrew"
 name: "vitahacks"
 description: "A place to discuss Vita hacking and homebrew. Both technical and non-technical discussion are welcome. Please do not ask or discuss how to pirate/backup games."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vitahacks"

@@ -3,7 +3,7 @@ title: "Not interesting..."
 name: "notinteresting"
 description: "Welcome to /c/NotInteresting!This is a community for things that are not interesting at all.Reposts from external sources are allowed but original posts are definitely appreciated!"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notinteresting"
@@ -15,7 +15,7 @@ posts: 2
 comments: 5
 weight: 2
 dau: 3
-wau: 4
+wau: 3
 mau: 7
 instances:
 - "lemmy_world"

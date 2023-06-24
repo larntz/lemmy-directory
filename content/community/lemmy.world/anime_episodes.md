@@ -3,7 +3,7 @@ title: "Anime Episode Discussions"
 name: "anime_episodes"
 description: "This community was built for the discussion of your favorite anime episodes. All anime is welcome but please keep the community discussions to anime episodes or ova/movies specifically."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/anime_episodes"

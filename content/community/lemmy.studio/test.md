@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "A community to test Lemmy and federation."
 type: community
-date: "2023-06-23 01:18:55"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/test"

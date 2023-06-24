@@ -3,7 +3,7 @@ title: "FC Cincinnati"
 name: "fccincinnati"
 description: "A community for FC Cincinnati discussion and content Make sure to check out the MLS community:https://lemmy.world/c/mls@lemmy.world"
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-24 01:15:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fccincinnati"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 11
 comments: 8
 weight: 11
-dau: 2
+dau: 1
 wau: 2
 mau: 4
 instances:

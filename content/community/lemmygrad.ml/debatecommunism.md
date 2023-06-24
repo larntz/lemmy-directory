@@ -3,12 +3,12 @@ title: "Debate Communism"
 name: "debatecommunism"
 description: "Non-communists wanting to discuss or debate with communists can use this subcommunity as a forum. Please don't make posts of this nature outside this subcommunity."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/debatecommunism"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-09-03 06:09:32"
 subscribers: 43
 posts: 2

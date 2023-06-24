@@ -3,7 +3,7 @@ title: "Fantascienza"
 name: "fantascienza"
 description: "Comunità dedicata alla fantascienzaValgono le regole della comunità Feddit "
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/fantascienza"

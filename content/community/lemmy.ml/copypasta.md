@@ -3,7 +3,7 @@ title: "I only need two buttons, CTRL-C + CTRL-V"
 name: "copypasta"
 description: "This community was made to archive copypasta."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/copypasta"

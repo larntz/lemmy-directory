@@ -3,7 +3,7 @@ title: "Vatsim"
 name: "vatsim"
 description: "anything related to flying online using Vatsim"
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/vatsim"

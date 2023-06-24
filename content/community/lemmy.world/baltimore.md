@@ -3,7 +3,7 @@ title: "🦀 BALTIMORE 🦀"
 name: "baltimore"
 description: "A community for and about the city of Baltimore, Maryland"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baltimore"
@@ -14,7 +14,7 @@ subscribers: 37
 posts: 2
 comments: 6
 weight: 2
-dau: 3
+dau: 1
 wau: 3
 mau: 6
 instances:

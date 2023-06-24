@@ -3,7 +3,7 @@ title: "Nihonkoku Shoukan (日本国召喚)"
 name: "nihonkoku_shoukan"
 description: "Welcome to the public community of Nihonkoku Shoukan (日本国召喚). Come here to share your thoughts and art about this awesome Military Isekai."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nihonkoku_shoukan"

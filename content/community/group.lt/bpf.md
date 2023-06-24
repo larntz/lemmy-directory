@@ -3,12 +3,12 @@ title: "bpf"
 name: "bpf"
 description: "simply bpf goodies"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bpf"
 host: group.lt
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-05-19 17:15:50"
 subscribers: 8
 posts: 24

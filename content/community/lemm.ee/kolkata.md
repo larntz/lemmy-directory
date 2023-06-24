@@ -3,7 +3,7 @@ title: "Kolkata"
 name: "kolkata"
 description: "All things and everything about the City of Joy, Kolkata! Now on Lemmy!"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/kolkata"

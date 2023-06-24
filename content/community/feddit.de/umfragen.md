@@ -3,7 +3,7 @@ title: "Umfragen"
 name: "umfragen"
 description: "Eine Community zum Teilen und Beantworten von Umfragen akademischer und privater Natur.Du benötigst Teilnehmer für eine Umfrage zu deiner Abschlussarbeit oder wolltest schon immer mal wissen, wer wirklich alles Ananas auf Pizza mag? Dann bist du hier richtig.Natürlich sind dazu auch immer Leute nötig und willkommen, die Spaß daran haben, an Umfragen teilzunehmen und Anderen damit bei ihren Nachforschungen zu helfen.---Webseiten zum Erstellen von Umfragen:- [Google Formulare](https://docs.google.com/forms/)- [SurveyMonkey](https://www.surveymonkey.com/)- [Survicate](https://survicate.com)- [surveyplanet](https://surveyplanet.com)- [Sogolytics](https://www.sogolytics.com)- [Typeform](https://www.typeform.com)"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/umfragen"

@@ -3,7 +3,7 @@ title: "It's Morbin' Time!"
 name: "morbius"
 description: "If Morbius has a million fans, I am one of them. If Morbius has 5 fans, I am one of them. If Morbius has one fan, That one is me. If Morbius has no fans, I am no longer alive. If the world is against Morbius, I am against the world. Till my last breath, I'll love Morbius (2022)."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/morbius"

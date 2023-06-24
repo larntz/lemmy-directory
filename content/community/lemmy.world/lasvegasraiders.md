@@ -3,7 +3,7 @@ title: "Las Vegas Raiders"
 name: "lasvegasraiders"
 description: "[!lasvegasraiders@lemmy.world](https://lemmy.world/c/lasvegasraiders) The primary community is lemmy.world/c/raiders. Please post there."
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lasvegasraiders"

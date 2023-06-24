@@ -3,20 +3,20 @@ title: "NRSK Lemmy Meta"
 name: "nrsk_meta"
 description: "(🇳🇴) Om NRSK Lemmy-serveren. Informasjon fra admin. Spørsmål fra brukere og federerte gjester. Ikke teknisk support.(🇬🇧 /🇺🇸) Regarding the NRSK Lemmy instance. Info from the admin. Questions from users and federated guests. No tech support."
 type: community
-date: "2023-06-23 01:19:23"
+date: "2023-06-24 01:13:29"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/nrsk_meta"
 host: nrsk.no
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 15:41:02"
-subscribers: 4
-posts: 3
+subscribers: 5
+posts: 5
 comments: 5
-weight: 3
+weight: 5
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "nrsk_no"
 tags: 

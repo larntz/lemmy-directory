@@ -3,14 +3,14 @@ title: "XREAL"
 name: "xreal"
 description: "You can discuss AR/XR technology in this community, which is supported by Xreal and a few enthusiasts. Please review our sidebar widget and menu..."
 type: community
-date: "2023-06-23 01:19:16"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/xreal"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 17:10:51"
-subscribers: 2
+subscribers: 4
 posts: 27
 comments: 0
 weight: 27

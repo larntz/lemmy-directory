@@ -3,20 +3,20 @@ title: "Jokes"
 name: "jokes"
 description: "Lemmy users' attempts at being funny-Welcome to the funniest community on Lemmy! The rules for posting and commenting, besides [the rules defined here for lemmy.world](https://mastodon.world/about), are as follows:Rules-1- Bigotry, sexualization of minors, and hate speech are not allowed. 2- Links of any kind are not allowed in posts. All NSFW or NSFL content must have a proper Content Warning. 3- Remember to treat your fellow users with kindness and respect. Repeated violations will result in a ban.4- Any attempts at advertising, company/personal promotion, and spamming will result in a ban. Sister Communities-[Comedy Heaven](https://lemmy.world/c/comedyheaven) [No Stupid Questions](https://lemmy.world/c/nostupidquestions)[You Should Know](https://lemmy.world/c/youshouldknow)[Mental Health](https://lemmy.world/c/mentalhealth)To partner with our community and be included here, you are free to message me or comment on our pinned post.Community Moderation-For inquiry on becoming a moderator of this community, you may comment on the pinned post of the time."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jokes"
 host: lemmy.world
 lastmod: "2023-06-21 14:20:29"
 published: "2023-06-12 06:36:51"
-subscribers: 623
-posts: 33
-comments: 37
-weight: 33
-dau: 7
+subscribers: 663
+posts: 35
+comments: 59
+weight: 35
+dau: 6
 wau: 22
-mau: 29
+mau: 33
 instances:
 - "lemmy_world"
 tags: 

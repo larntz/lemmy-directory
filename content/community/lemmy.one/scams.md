@@ -3,14 +3,14 @@ title: "scams"
 name: "scams"
 description: "/c/Scams on Lemmy.one is an anti-scam discussion and advice community oriented towards helping educate people about common scams. **Rules**1. No personal information of any kind, including last names, addresses, and phone numbers. 2. No personal army requests. "
 type: community
-date: "2023-06-23 01:18:47"
+date: "2023-06-24 01:12:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.one/c/scams"
 host: lemmy.one
 lastmod: "2023-06-12 16:50:11"
 published: "2023-06-10 17:54:12"
-subscribers: 113
+subscribers: 118
 posts: 7
 comments: 11
 weight: 7

@@ -3,7 +3,7 @@ title: "YunoHost"
 name: "yunohost"
 description: "https://yunohost.org/ With YunoHost, you can easily manage a server for your friends, association or enterprise."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yunohost"

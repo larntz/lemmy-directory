@@ -3,7 +3,7 @@ title: "FtM - For Trans Men"
 name: "ftm"
 description: "This is space for trans guys to discuss trans guy things. Sorry, we don’t welcome nbs to hang out in this space. This is a place for us to share our unique struggles, not a general trans sub. We don’t mind lurkers though"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ftm"

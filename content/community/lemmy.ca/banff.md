@@ -3,7 +3,7 @@ title: "banff"
 name: "banff"
 description: "**Welcome to Banff!**- [https://www.banff.ca](https://www.banff.ca/)- [https://en.wikipedia.org/wiki/Banff](https://en.wikipedia.org/wiki/Banff,_Alberta) "
 type: community
-date: "2023-06-23 01:19:32"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/banff"

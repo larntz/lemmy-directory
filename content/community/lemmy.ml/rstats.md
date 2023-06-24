@@ -3,7 +3,7 @@ title: "The R Project for Statistical Computing"
 name: "rstats"
 description: "Everything about the R programming language.# Rules1. No bigotry# Check out- [StackOverflow](https://stackoverflow.com/questions/tagged/r)- [RStudio Community](https://community.rstudio.com/) forum- [R Weekly](https://rweekly.org/)- [R Bloggers](https://www.r-bloggers.com/)- [#rstats](https://twitter.com/search?q=%23rstats) on Twitter"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rstats"

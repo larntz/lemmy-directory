@@ -3,17 +3,17 @@ title: "Godot"
 name: "godot"
 description: "A community for discussion and support in development with the [Godot game engine](https://godotengine.org/).[Godot community](https://godotengine.org/community) (various communication platforms)[GitHub](https://github.com/godotengine)"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/godot"
 host: lemmy.ml
 lastmod: "2021-10-12 12:12:51"
 published: "2021-02-17 10:27:04"
-subscribers: 396
-posts: 110
+subscribers: 399
+posts: 111
 comments: 29
-weight: 110
+weight: 111
 dau: 1
 wau: 1
 mau: 4

@@ -3,7 +3,7 @@ title: "Thai Rust Programming Language Community"
 name: "rustthai"
 description: "* คุยเรื่องเขียนโปรแกรมภาษา Rust * ภาษาที่ใช้ชุมชน: ภาษาไทย"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rustthai"

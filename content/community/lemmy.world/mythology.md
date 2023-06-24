@@ -3,14 +3,14 @@ title: "Mythology"
 name: "mythology"
 description: "A community to talk Mythology."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mythology"
 host: lemmy.world
 lastmod: "2023-06-12 12:11:43"
 published: "2023-06-12 08:20:35"
-subscribers: 37
+subscribers: 39
 posts: 2
 comments: 0
 weight: 2

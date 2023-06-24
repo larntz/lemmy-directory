@@ -3,14 +3,14 @@ title: "football"
 name: "football"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/football"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-11-28 11:12:34"
-subscribers: 153
+subscribers: 157
 posts: 23
 comments: 14
 weight: 23

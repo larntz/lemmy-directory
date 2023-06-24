@@ -3,7 +3,7 @@ title: "Possums"
 name: "possums"
 description: "A place for cute pics and memes of the worlds finest marsupial - The Possum!"
 type: community
-date: "2023-06-23 01:18:51"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/possums"
@@ -15,8 +15,8 @@ posts: 12
 comments: 23
 weight: 12
 dau: 7
-wau: 12
-mau: 12
+wau: 1
+mau: 23
 instances:
 - "possumpat_io"
 tags: 

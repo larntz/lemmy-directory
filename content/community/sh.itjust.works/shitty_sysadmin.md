@@ -3,18 +3,18 @@ title: "shitty sysadmin"
 name: "shitty_sysadmin"
 description: "for sysadmins who don't know what they're doing, and don't care."
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/shitty_sysadmin"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 02:04:07"
-subscribers: 197
+subscribers: 203
 posts: 4
-comments: 14
+comments: 16
 weight: 4
-dau: 4
+dau: 1
 wau: 7
 mau: 12
 instances:

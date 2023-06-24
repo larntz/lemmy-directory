@@ -3,7 +3,7 @@ title: "Eesti (Estonia)"
 name: "eesti"
 description: "## EestiEesti uudised ja muud jutud.**Welcome to Estonia! English posts are welcome.**"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/eesti"

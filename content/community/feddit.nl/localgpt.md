@@ -3,7 +3,7 @@ title: "LocalGPT"
 name: "localgpt"
 description: "This community is dedicated to discussing the use of GPT-like models (GPT 3, LLaMA, PaLM)"
 type: community
-date: "2023-06-23 01:18:53"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/localgpt"

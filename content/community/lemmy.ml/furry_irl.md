@@ -3,14 +3,14 @@ title: "furry_irl but on Lemmy"
 name: "furry_irl"
 description: "Welcome to furry_irl, Lemmy edition!"
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/furry_irl"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-08 00:40:11"
-subscribers: 77
+subscribers: 78
 posts: 2
 comments: 0
 weight: 2

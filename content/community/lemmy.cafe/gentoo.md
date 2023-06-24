@@ -3,7 +3,7 @@ title: "Gentoo"
 name: "gentoo"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cafe/c/gentoo"

@@ -3,7 +3,7 @@ title: "MÖRK BORG RPG"
 name: "morkborg"
 description: "MÖRK BORG fan pageA doom metal album of a game. A spiked flail to the face. Light on rules, heavy everything else.MÖRK BORG is a complete game in the OSR genre, that can be played as is or be picked apart for use in your own homebrew. The rules are easily made compatible with most of the editions of the world’s largest role-playing game."
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/morkborg"

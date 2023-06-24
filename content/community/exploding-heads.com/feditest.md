@@ -3,7 +3,7 @@ title: "Federation Testing"
 name: "feditest"
 description: "This community is dedicated to testing federation between Lemmy and other fediverse platforms.Use [NEED FEEDBACK] or similar to ask other users on non-Lemmy platforms to report how the post shows up on their platform."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/feditest"

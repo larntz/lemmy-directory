@@ -3,20 +3,20 @@ title: "Goth"
 name: "goth"
 description: "Alternative r/gothsluts and similar subs. All posts must contain goth girls. "
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/goth"
 host: lemmynsfw.com
 lastmod: "2023-06-15 04:30:56"
 published: "2023-06-15 04:29:52"
-subscribers: 86
-posts: 1
+subscribers: 90
+posts: 2
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmynsfw_com"
 tags: 

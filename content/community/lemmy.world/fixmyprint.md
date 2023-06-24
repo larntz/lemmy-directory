@@ -3,7 +3,7 @@ title: "fixmyprint"
 name: "fixmyprint"
 description: "The community of c/FixMyPrint will help you fix your 3D printer settings for the most optimal prints."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fixmyprint"

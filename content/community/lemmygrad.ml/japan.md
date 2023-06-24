@@ -3,7 +3,7 @@ title: "Japan"
 name: "japan"
 description: "Description not available."
 type: community
-date: "2023-06-20 11:37:17"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/japan"

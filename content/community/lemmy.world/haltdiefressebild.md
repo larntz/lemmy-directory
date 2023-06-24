@@ -3,7 +3,7 @@ title: "Halt die Fresse, Bild!"
 name: "haltdiefressebild"
 description: "Die Bild-Zeitung ist ein Organ der Niedertracht. Es ist falsch, sie zu lesen. Jemand, der zu dieser Zeitung beiträgt, ist gesellschaftlich absolut inakzeptabel. Es wäre verfehlt, zu einem ihrer Redakteure freundlich oder auch nur höflich zu sein. Man muss so unfreundlich zu ihnen sein, wie es das Gesetz gerade noch zuläßt. Es sind schlechte Menschen, die Falsches tun. -- Max Goldt"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/haltdiefressebild"

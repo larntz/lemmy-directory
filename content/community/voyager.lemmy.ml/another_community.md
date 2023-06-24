@@ -3,7 +3,7 @@ title: "I said it was another community, testing 1 2 3"
 name: "another_community"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:37"
+date: "2023-06-24 01:12:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/another_community"
@@ -14,8 +14,8 @@ subscribers: 1
 posts: 3
 comments: 13
 weight: 3
-dau: 2
-wau: 8
+dau: 1
+wau: 5
 mau: 9
 instances:
 - "voyager_lemmy_ml"

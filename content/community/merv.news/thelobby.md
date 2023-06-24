@@ -3,7 +3,7 @@ title: "The Lobby"
 name: "thelobby"
 description: "**General conversation, introduction**"
 type: community
-date: "2023-06-23 01:18:42"
+date: "2023-06-24 01:12:46"
 draft: false
 nsfw: false
 actor_id: "https://merv.news/c/thelobby"
@@ -16,7 +16,7 @@ comments: 25
 weight: 46
 dau: 1
 wau: 1
-mau: 4
+mau: 1
 instances:
 - "merv_news"
 tags: 

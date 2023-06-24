@@ -3,7 +3,7 @@ title: "Lobby"
 name: "lobby"
 description: "Welcome to Lemmy.Meet new people and socialize.Topics: Anything goesHave fun!Inspired by lobby on Raddle"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lobby"

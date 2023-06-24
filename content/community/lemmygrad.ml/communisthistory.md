@@ -3,14 +3,14 @@ title: "Socialist History"
 name: "communisthistory"
 description: "Videos about Socialist history and theory"
 type: community
-date: "2023-06-22 16:46:46"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/communisthistory"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-06-23 19:26:05"
-subscribers: 37
+subscribers: 38
 posts: 3
 comments: 0
 weight: 3

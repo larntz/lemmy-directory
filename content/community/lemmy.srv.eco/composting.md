@@ -3,14 +3,14 @@ title: "Composting"
 name: "composting"
 description: "A place to talk about decomposing materials into compost."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/composting"
 host: lemmy.srv.eco
 lastmod: "2023-06-16 21:21:52"
 published: "2023-06-16 18:45:44"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Alabama Crimson Tide"
 name: "alabamacrimsontide"
 description: "A community to discuss Alabama Crimson Tide athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/alabamacrimsontide"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-15 00:05:55"
 published: "2023-06-14 23:10:11"
 subscribers: 0
-posts: 0
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

@@ -3,7 +3,7 @@ title: "I2P - The Invisible Internet Project"
 name: "i2p"
 description: "A community for information and discussions related to the anonymous I2P network. Visit [http://geti2p.net/]() or [https://i2pd.website/]() to download I2P."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/i2p"

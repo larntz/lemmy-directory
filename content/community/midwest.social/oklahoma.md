@@ -3,7 +3,7 @@ title: "Oklahoma"
 name: "oklahoma"
 description: "A place to discuss all things involving America's original Red State."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/oklahoma"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "midwest_social"

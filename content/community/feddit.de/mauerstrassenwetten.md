@@ -3,14 +3,14 @@ title: "mauerstrassenwetten"
 name: "mauerstrassenwetten"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mauerstrassenwetten"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 06:46:23"
-subscribers: 30
+subscribers: 31
 posts: 1
 comments: 8
 weight: 1

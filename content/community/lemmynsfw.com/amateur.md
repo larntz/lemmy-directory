@@ -3,20 +3,20 @@ title: "amateur"
 name: "amateur"
 description: "NSFW post of amateurs. Non-commercial content only. Respect others. Just have fun in the community. The human body is something to be enjoyed and celebrated. "
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/amateur"
 host: lemmynsfw.com
 lastmod: "2023-06-16 02:20:12"
 published: "2023-06-16 02:01:55"
-subscribers: 223
+subscribers: 244
 posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 4
-mau: 4
+wau: 5
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 

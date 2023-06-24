@@ -3,7 +3,7 @@ title: "Human Trafficking"
 name: "humantrafficing"
 description: "Human Trafficking is the recruitment, transportation, transfer, harbouring or receipt of people through force, fraud or deception, with the aim of exploiting them for profit. Men, women and children of all ages and from all backgrounds can become victims of this crime, which occurs in every region of the world. The traffickers often use violence or fraudulent employment agencies and fake promises of education and job opportunities to trick and coerce their victims."
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:40"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/humantrafficing"

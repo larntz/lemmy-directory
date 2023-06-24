@@ -3,19 +3,19 @@ title: "Risk Of Rain"
 name: "riskofrain"
 description: "Discussions and memes about the games Risk of Rain and Risk of Rain 2"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/riskofrain"
 host: lemmy.world
 lastmod: "2023-06-15 06:35:37"
 published: "2023-06-15 06:33:42"
-subscribers: 30
+subscribers: 32
 posts: 1
 comments: 6
 weight: 1
 dau: 1
-wau: 4
+wau: 3
 mau: 7
 instances:
 - "lemmy_world"

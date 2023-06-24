@@ -3,7 +3,7 @@ title: "Whales"
 name: "whales"
 description: "Post images, news, and discussions about whales, popular marine mammals."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whales"

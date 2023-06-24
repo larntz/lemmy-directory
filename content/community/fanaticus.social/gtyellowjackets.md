@@ -3,7 +3,7 @@ title: "Georgia Tech Yellow Jackets"
 name: "gtyellowjackets"
 description: "A community to discuss Georgia Tech Yellow Jackets athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-19 11:35:15"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/gtyellowjackets"

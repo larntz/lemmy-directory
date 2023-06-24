@@ -3,14 +3,14 @@ title: "Ageplay"
 name: "ageplay"
 description: "Alternative to r/ageplay. Post must be ageplay related content. Do not break any sitewide rules. "
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:56"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ageplay"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:30:33"
-subscribers: 50
+subscribers: 51
 posts: 1
 comments: 0
 weight: 1

@@ -3,19 +3,19 @@ title: "Pup Play"
 name: "pupplay"
 description: "woof! welcome to the pup play community!"
 type: community
-date: "2023-06-22 16:47:29"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/pupplay"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 00:39:21"
-subscribers: 52
+subscribers: 57
 posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmynsfw_com"

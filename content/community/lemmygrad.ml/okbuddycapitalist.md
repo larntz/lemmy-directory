@@ -3,12 +3,12 @@ title: "👁👅👁"
 name: "okbuddycapitalist"
 description: "It’s basic economsics brooo thisi surdbderdi is love c  aapilsm and pies an shifd ahahAAAAAAAKKKKKKKLLLLLL😎😎😎😎😎😎😎😎😎😎😎yesyesyALLHAILTHEMIGHTYSOROSALLHAILTHEMIGHTYSOROSesyesyesyesyesyes  👁👅👁"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/okbuddycapitalist"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-11 20:11:51"
 subscribers: 93
 posts: 5

@@ -3,7 +3,7 @@ title: "deepin"
 name: "deepin"
 description: "deepin (OS) is a Debian-based distribution that aims to provide an elegant, user-friendly and reliable operating system. Being easy to install and use, deepin can be a good Windows alternative for office and home use.[Official site](https://www.deepin.org/en/)[Forum](https://bbs.deepin.org/en/module/70)"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepin"

@@ -3,14 +3,14 @@ title: "World Endurance Championship"
 name: "wec"
 description: "Welcome to the World Endurance Championship community.Please keep discussions civil, respect other’s opinions, and keep it friendly.Thanks!"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wec"
 host: feddit.de
 lastmod: "2023-06-14 14:06:01"
 published: "2023-06-14 13:47:01"
-subscribers: 22
+subscribers: 23
 posts: 8
 comments: 0
 weight: 8

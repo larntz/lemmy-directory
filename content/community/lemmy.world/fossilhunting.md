@@ -3,7 +3,7 @@ title: "FossilHunting"
 name: "fossilhunting"
 description: "Discuss anything related to fossil hunting! Locations, storage, prep, what to look for, etc."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fossilhunting"

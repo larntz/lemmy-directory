@@ -3,7 +3,7 @@ title: "A-League"
 name: "aleague"
 description: "A community dedicated to Australian Football, including the A-Leagues and the National Teams.RULES:1. Be civil, there is no room here fro Racism, Homophobia, Transphobia or any other hateful or offensive remarks.2. No advertising or spamming.3. Obviously, no NSFW content."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aleague"

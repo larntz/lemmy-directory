@@ -3,7 +3,7 @@ title: "Legend of the Green Dragon"
 name: "greendragon"
 description: "Welcome to the c/greendragon, a vibrant community dedicated to the exhilarating web-game, **Legend of the Green Dragon**! Whether you're a seasoned adventurer or a curious newcomer, this is the perfect gathering place to delve into the immersive worlds of this legendary web-game.Within our community, you'll find passionate players from all walks of life, bound by their love for this captivating RPG. Share your experiences, exchange strategies, and engage in lively discussions about the game's intricacies. Discover hidden secrets, learn from the veterans, and embark on epic quests with fellow enthusiasts who are equally enthralled by the adventures that unfold within the Green Dragon's realm.From discussing character builds and combat techniques to unveiling the game's rich lore and engaging in role-playing activities, c/greendragon offers a diverse array of topics to explore. Seek advice, form alliances, or simply revel in the nostalgia of this enduring classic that has captivated gamers for years.Our friendly and welcoming community values inclusivity, respect, and collaboration. Whether you prefer to engage in detailed debates or share light-hearted anecdotes, c/greendragon encourages an environment where every voice is heard and cherished.Join us today and immerse yourself in the camaraderie and excitement that awaits within the vibrant threads of c/greendragon. # Adventure awaits!"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greendragon"

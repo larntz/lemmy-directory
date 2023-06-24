@@ -3,7 +3,7 @@ title: "corto shitposting"
 name: "memes"
 description: "El Ají Verde de las comunidades chilenas de internet. Pongan acá todo el shitposting que quieran. OC y ~~robado~~ recuperado permitido.Si es NSFW márquenlo como tal, ponga [NSFW]. Si es NSFL por favor igual ponganle [NSFL].Eso, pásenla bien, **sean respetuosos** y se me cuidan."
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/memes"
@@ -11,9 +11,9 @@ host: feddit.cl
 lastmod: "2023-06-18 14:38:15"
 published: "2023-06-17 01:19:13"
 subscribers: 19
-posts: 10
-comments: 13
-weight: 10
+posts: 9
+comments: 9
+weight: 9
 dau: 1
 wau: 7
 mau: 7

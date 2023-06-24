@@ -3,14 +3,14 @@ title: "askjapan"
 name: "askjapan"
 description: "日本について質問があるかい？  Got a question about Japan?"
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/askjapan"
 host: feddit.jp
 lastmod: "2023-06-15 05:17:13"
 published: "2023-06-15 05:15:58"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

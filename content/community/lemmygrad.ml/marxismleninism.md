@@ -3,14 +3,14 @@ title: "Marxism-Leninism"
 name: "marxismleninism"
 description: "Community for discussion of articles, topics, or anything related to the historical/dialectical materialism method, and the works of the synthesizers of theory and practice – Marx, Engels and Lenin!"
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/marxismleninism"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-11 22:45:52"
-subscribers: 179
+subscribers: 180
 posts: 5
 comments: 1
 weight: 5

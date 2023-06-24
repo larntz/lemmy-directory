@@ -3,7 +3,7 @@ title: "jebać samochody"
 name: "jebacsamochody"
 description: "NIE dla samochodów w miastach. Wzorowane na [!fuck_cars@lemmy.ml](https://lemmy.ml/c/fuck_cars) "
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jebacsamochody"

@@ -3,7 +3,7 @@ title: "Reading, the biggest town."
 name: "reading"
 description: "A community for the town of Reading."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/reading"
@@ -12,7 +12,7 @@ lastmod: "2023-06-13 11:04:22"
 published: "2023-06-13 09:26:44"
 subscribers: 38
 posts: 7
-comments: 28
+comments: 31
 weight: 7
 dau: 1
 wau: 11

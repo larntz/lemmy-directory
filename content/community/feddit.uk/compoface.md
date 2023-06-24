@@ -3,14 +3,14 @@ title: "Compoface"
 name: "compoface"
 description: "Backup site for r/Compoface"
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/compoface"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 13:20:52"
-subscribers: 36
+subscribers: 37
 posts: 2
 comments: 8
 weight: 2

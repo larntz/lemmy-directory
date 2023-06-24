@@ -3,7 +3,7 @@ title: "Learn German"
 name: "german"
 description: "Welcome to the **German language learning** community @ [DATATERM](https://dataterm.digital/).**Rules of this instance:**https://dataterm.digital/legal**Community rules:**(We may add new rules at a later date but this covers it for now.)- Read the instance rules and then read these ones.- **No posts asking for translations.** e.g How do I say X?- **No pirated materials!** (We all love a bit of bootleg content but there are other platfomrms to share it on if you wish. I'm just trying to cover our ass.)- **Posts in English and German only.**(If we get mods who speak other languages we may eventually open this up to other languages too.)"
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://dataterm.digital/c/german"

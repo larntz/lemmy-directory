@@ -3,7 +3,7 @@ title: "capitalism questions and discussion"
 name: "pro_capitalism"
 description: "Capitalism:  The great western experiment that has proven the most humane, peaceful and fair of all government models."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pro_capitalism"

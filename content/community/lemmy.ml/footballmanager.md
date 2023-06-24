@@ -3,7 +3,7 @@ title: "Football Manager"
 name: "footballmanager"
 description: "A community dedicated to the discussion of the Football Manager series of games, developed by SI and published by Sega. RULES:1) Be civil, there is no room here fro Racism, Homophobia, Transphobia or any other hateful or offensive remarks.2)No advertising or spamming.3)No NSFW content."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/footballmanager"

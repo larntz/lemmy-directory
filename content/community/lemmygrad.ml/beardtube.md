@@ -3,12 +3,12 @@ title: "BeardTube"
 name: "beardtube"
 description: "BeardTube is a place for sharing videos from a revolutionary perspective. *Politics, Economics, History, Philosophy, Science, Journalism, Culture, News, Critiques, and more* are welcome here as long as submitted content is relevant and of high quality. Supporting established content creators and promoting new ones is encouraged to help spread class consciousness across the internet and beyond!"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/beardtube"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2019-08-30 23:10:04"
 subscribers: 313
 posts: 320

@@ -3,7 +3,7 @@ title: "floaf"
 name: "floaf"
 description: "floof + loaf = floaf! Post pictures of your wonderful, floafing cats"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/floaf"

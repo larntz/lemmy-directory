@@ -3,7 +3,7 @@ title: "StopLies"
 name: "stoplies"
 description: "Many lies exist. Can you see through them? Can you prove them false?"
 type: community
-date: "2023-06-23 01:21:35"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stoplies"

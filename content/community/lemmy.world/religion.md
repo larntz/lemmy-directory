@@ -3,19 +3,19 @@ title: "Religion"
 name: "religion"
 description: "Discussion and scholarship of world religions."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/religion"
 host: lemmy.world
 lastmod: "2023-06-11 06:57:44"
 published: "2023-06-11 04:36:47"
-subscribers: 55
-posts: 7
+subscribers: 56
+posts: 9
 comments: 4
-weight: 7
+weight: 9
 dau: 1
-wau: 4
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "Classicial Chinese 文言文"
 name: "classicalchinese"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/classicalchinese"
@@ -11,12 +11,12 @@ host: lemmy.world
 lastmod: "2023-06-18 03:01:29"
 published: "2023-06-17 03:14:01"
 subscribers: 1
-posts: 0
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

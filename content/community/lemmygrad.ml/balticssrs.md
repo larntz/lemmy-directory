@@ -3,12 +3,12 @@ title: "Baltic SSRs"
 name: "balticssrs"
 description: "Subreddit dedicated to the Estonian, Latvian and Lithuanian SSRs, their culture, science and revolutionary history. Здраствуй, товарищ! Это уютное сообщество посвящено прибалтийским Советским республикам (ЭССР, ЛатССР, ЛитССР), их культуре, науке и революционной истории."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/balticssrs"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-07-10 04:12:37"
 subscribers: 21
 posts: 2

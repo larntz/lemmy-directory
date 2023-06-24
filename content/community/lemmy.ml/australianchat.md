@@ -3,7 +3,7 @@ title: "Australian Chat"
 name: "australianchat"
 description: "Here is a place for all things Australia, discussions, opinions and rubber necking. Please don't- copy and paste news articles- disrespect others- be a dickThis is a place more for discussion rather than copy/pasta news articles, go to [https://lemmy.ml/c/australia](https://lemmy.ml/c/australia) for that."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/australianchat"

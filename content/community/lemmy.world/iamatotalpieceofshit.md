@@ -3,7 +3,7 @@ title: "I Am A Total Piece of Shit"
 name: "iamatotalpieceofshit"
 description: "If you want me to transfer ownership of this community to you (I own 10 + am not trying to be a r*ddit power mod) and will moderate it responsibly, I'll give it to you."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iamatotalpieceofshit"

@@ -3,20 +3,20 @@ title: "Ukraine"
 name: "ukraine"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ukraine"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 22:37:32"
-subscribers: 15
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 18
+posts: 2
+comments: 2
+weight: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

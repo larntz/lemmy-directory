@@ -3,7 +3,7 @@ title: "Gaddafism: The Green Way"
 name: "muammargaddafi"
 description: "A community in favor of colonel Muammar al-Qaddafi and The Great Socialist People's Libyan Arab Jamahiriya. **ALLAHU AKBAR!** Memes and political discussions are allowed here.***STANDARD LEMMYGRAD RULES APPLY***"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/muammargaddafi"

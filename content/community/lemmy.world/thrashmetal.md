@@ -3,7 +3,7 @@ title: "Thrash Metal"
 name: "thrashmetal"
 description: "Place to post and discuss THRASH METAL!**THINGS TO NOTE:**- Please keep things relevant to thrash (death thrash, blackened thrash, crossover etc. are permitted).- Please search before posting a song, do not post the same song over and over.- Friendly debate is encouraged.- No racist, sexist, blah blah blah... you get the idea. Look, I agree with freedom of speech, but this is not the place to discuss sensitive matters, after all metal should unite!- No NSFW content (apart from songs/album covers. If they do content NSFW content, please mark the posts as such).- Post in English only (obviously you can post songs in different languages).- But most of all have FUN XD."
 type: community
-date: "2023-06-23 01:21:35"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thrashmetal"

@@ -3,14 +3,14 @@ title: "Cosmos General"
 name: "cosmos_general"
 description: "A place to discuss the Cosmos blockchain, or general Cosmos related blockchains. "
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://theotter.social/c/cosmos_general"
 host: theotter.social
 lastmod: "2023-06-11 16:53:10"
 published: "2023-06-11 15:03:37"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

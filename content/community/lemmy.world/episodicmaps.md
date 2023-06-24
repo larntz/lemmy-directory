@@ -3,7 +3,7 @@ title: "EpisodicMaps"
 name: "episodicmaps"
 description: "A place dedicated to the freely shared battlemaps produced by EpisodicMaps"
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/episodicmaps"

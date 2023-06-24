@@ -3,17 +3,17 @@ title: "NBA"
 name: "nba"
 description: "A place for NBA fans!# Looking for mods!"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nba"
 host: fanaticus.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 03:31:24"
-subscribers: 12
-posts: 32
-comments: 18
-weight: 32
+subscribers: 13
+posts: 36
+comments: 19
+weight: 36
 dau: 4
 wau: 4
 mau: 4

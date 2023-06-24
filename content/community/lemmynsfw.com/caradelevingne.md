@@ -3,17 +3,17 @@ title: "Cara Delevingne"
 name: "caradelevingne"
 description: "Cara Delevingne's pictures, gifs, and videos"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/caradelevingne"
 host: lemmynsfw.com
-lastmod: "2023-06-19 14:47:31"
+lastmod: "2023-06-23 01:22:07"
 published: "2023-06-19 14:47:26"
-subscribers: 15
-posts: 3
+subscribers: 21
+posts: 4
 comments: 1
-weight: 3
+weight: 4
 dau: 1
 wau: 3
 mau: 3

@@ -3,7 +3,7 @@ title: "Random"
 name: "random"
 description: "Post anything you don't see a community for in here."
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/random"

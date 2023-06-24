@@ -3,7 +3,7 @@ title: "The Polish reddit"
 name: "poland"
 description: "The official English language subreddit for Poland and Polish news. Questions get answered, recommendations get recommended, and - you know -..."
 type: community
-date: "2023-06-23 01:19:16"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/poland"

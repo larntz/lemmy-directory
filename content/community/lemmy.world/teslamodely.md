@@ -3,7 +3,7 @@ title: "Tesla Model Y"
 name: "teslamodely"
 description: "For discussion and content specific to the Tesla Model Y line of vehicles.**Rules:**- Posts must be somehow related to the Model Y. Things like accessories which are used by both Model 3 and Y owners are acceptable.- Don’t be a jackass.- Don’t self-promote your videos/blogs/etc.- No Buying/Selling/Trading in posts or comments.- No spam- No personal and/or confidential information- No threatening, harrassing, or inciting violence"
 type: community
-date: "2023-06-23 01:21:21"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/teslamodely"

@@ -3,7 +3,7 @@ title: "OSCP"
 name: "oscp"
 description: "Place for people studying the OSCP by Offensive Security to talk about related things. Please no spoilers for lab/exam "
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/oscp"

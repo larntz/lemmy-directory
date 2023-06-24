@@ -3,7 +3,7 @@ title: "reisenDE"
 name: "reisende"
 description: "Willkommen bei c/reisenDE, der Community für alle Reiselustigen! Hier kannst du dich mit anderen über deine Abenteuer, Pläne, Wünsche und Fragen rund um das Thema Reisen austauschen. Ob du die Welt erkunden, neue Kulturen kennenlernen oder einfach mal dem Alltag entfliehen willst, hier findest du Gleichgesinnte, die dir gerne weiterhelfen. c/reisenDE ist eine herzliche und neugierige Community, die immer offen für neue Mitglieder und Beiträge ist. Schau vorbei und lass dich begeistern! 🌍"
 type: community
-date: "2023-06-23 01:19:35"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/reisende"

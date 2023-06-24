@@ -3,7 +3,7 @@ title: "Chaotes vs Patriarchy"
 name: "chaotesvspatriarchy"
 description: "Chaos magic(k) is a field of magical study involving anarchist principles, results-based experimentation, and grounding in psychological research. Archtraitor Bluefluke has a great introductional text to chaos magic here: https://usermanual.wiki/Document/PsychonautFieldManualSmall.49336827/viewRule 1: No bigotry. This includes racism, sexism, ableism, homophobia, transphobia, enbyphonia, pluralphobia, kinphobia, and religious discriminationRule 2: No magical violence. Spells are to be used with consent onlySuggestion 3: antibinary pronoun use. Please use they/them by default. If you must assume someone's pronouns, please assume weird ones."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chaotesvspatriarchy"

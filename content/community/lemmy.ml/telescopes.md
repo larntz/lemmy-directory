@@ -3,14 +3,14 @@ title: "Telescopes"
 name: "telescopes"
 description: "Telescopes, eyepieces, mounts, reviews, charts, and more.____**Useful Links:**[Cloudy Nights](https://www.cloudynights.com/)[ScopeStuff](http://scopestuff.com)____"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/telescopes"
 host: lemmy.ml
 lastmod: "2023-06-13 02:23:07"
 published: "2023-06-06 22:30:25"
-subscribers: 30
+subscribers: 32
 posts: 3
 comments: 2
 weight: 3

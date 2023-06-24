@@ -3,19 +3,19 @@ title: "Femdom"
 name: "femdom"
 description: "An alternative to r/femdom. Posts must contain femdom porn, pics, or other related media. Do not post anything against sitewide rules. "
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/femdom"
 host: lemmynsfw.com
 lastmod: "2023-06-14 14:04:32"
 published: "2023-06-14 14:03:45"
-subscribers: 237
+subscribers: 255
 posts: 3
 comments: 4
 weight: 3
 dau: 1
-wau: 5
+wau: 4
 mau: 6
 instances:
 - "lemmynsfw_com"

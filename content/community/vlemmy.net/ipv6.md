@@ -3,12 +3,12 @@ title: "IPv6"
 name: "ipv6"
 description: "A community to discuss the global rollout and adoption of IPv6"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/ipv6"
 host: vlemmy.net
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 22:25:51"
 subscribers: 2
 posts: 0

@@ -3,7 +3,7 @@ title: "homebrew for any brew that you do"
 name: "homebrew"
 description: "A brew can be anything, really.Show us how you do.- [recipe and batch tracking](https://brewfather.app)- [mycological cultivation tutorial](https://joyo.dev/JoYo/HomeMyco)"
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homebrew"
@@ -14,7 +14,7 @@ subscribers: 21
 posts: 4
 comments: 6
 weight: 4
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

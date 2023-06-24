@@ -3,7 +3,7 @@ title: "Redneck Engineering"
 name: "redneckengineering"
 description: "You know it when you see it. Please do not claim credit for anything you didn't do. This applies to outright lies as well as x-posting a title verbatim from someone else claiming credit.Keep the gatekeeping to a minimum."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/redneckengineering"

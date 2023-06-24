@@ -3,7 +3,7 @@ title: "Forbidden Snacks"
 name: "forbiddensnacks"
 description: "Please put Forbidden <food item> in the title. You can add other things to the title too."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forbiddensnacks"

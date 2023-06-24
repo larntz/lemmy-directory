@@ -3,7 +3,7 @@ title: "Fixed Gear Bikes"
 name: "fixedgearbikes"
 description: "Bicycles that don't coast and related content."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fixedgearbikes"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

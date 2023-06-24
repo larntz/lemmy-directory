@@ -3,7 +3,7 @@ title: "Crack Intros"
 name: "crackintro"
 description: "Welcome to r/CrackIntros a dedicated Subreddit to share and preserve the programming code, art and music skills of a dedicated underground group of talented people. Here you will mostly pay witness to crack intros of the time.A crack intro, also known as a cracktro, a loader or just plain intro - is a small introduction sequence added to cracked software. It aims to inform the user which cracking crew or individual cracker removed the software's copy protection and distributed the release.Originally r/crackintros on reddit."
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crackintro"

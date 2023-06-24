@@ -3,7 +3,7 @@ title: "Limp Bizkit"
 name: "limp_bizkit"
 description: "I need a snacky poo!Rules:- Be excellent to each other- Don’t be the reason we need to make more rules"
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/limp_bizkit"

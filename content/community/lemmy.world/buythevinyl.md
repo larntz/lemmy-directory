@@ -3,7 +3,7 @@ title: "BuyTheVinyl • Videos and Discussion"
 name: "buythevinyl"
 description: "(When I eventually get around to it) I'll post links to my videos (currently on YouTube), so any comments can go here instead of on YouTube.  Probably gonna try out PeerTube soon, too."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buythevinyl"

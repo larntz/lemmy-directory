@@ -3,7 +3,7 @@ title: "exmormon"
 name: "exmormon"
 description: "For those that left, are considering leaving or those who are interested in exMormonism."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/exmormon"
@@ -15,7 +15,7 @@ posts: 4
 comments: 28
 weight: 4
 dau: 1
-wau: 13
+wau: 1
 mau: 18
 instances:
 - "lemm_ee"

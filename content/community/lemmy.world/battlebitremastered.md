@@ -3,17 +3,17 @@ title: "BattleBitRemastered"
 name: "battlebitremastered"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:21"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battlebitremastered"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 22:33:24"
-subscribers: 1
-posts: 2
+subscribers: 5
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

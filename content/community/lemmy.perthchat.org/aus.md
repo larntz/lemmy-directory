@@ -3,14 +3,14 @@ title: "Australia"
 name: "aus"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/aus"
 host: lemmy.perthchat.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-14 02:33:23"
-subscribers: 19
+subscribers: 20
 posts: 5
 comments: 1
 weight: 5

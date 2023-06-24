@@ -3,7 +3,7 @@ title: "Crossword"
 name: "crossword"
 description: "Community for enthusiasts of crosswords and other word puzzles"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/crossword"

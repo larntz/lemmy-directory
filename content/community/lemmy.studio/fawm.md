@@ -3,7 +3,7 @@ title: "FAWM"
 name: "fawm"
 description: "[FAWM](https://fawm.org/) is a global music community that meets virtually every February and during northern hemisphere Summer to try to write as many songs as possible."
 type: community
-date: "2023-06-23 01:18:55"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/fawm"

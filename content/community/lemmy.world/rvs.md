@@ -1,21 +1,21 @@
 ---
 title: "Recreational Vehicles" 
 name: "rvs"
-description: "Discussions about RVs, motor homes, fifth wheels, travel trailers, and life on the road."
+description: "Discussions about RVs, motor homes, fifth wheels, travel trailers, and life on the road.**Useful Resources**- [RoadTrippers RV Planner](https://roadtrippers.com/rv-trip-planner/)- [RV Trip Wizard](https://tripwizard.rvlife.com/)- [Good Sam](https://www.goodsam.com/)"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-24 01:15:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rvs"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 01:35:14"
 published: "2023-06-15 00:18:56"
-subscribers: 8
-posts: 1
+subscribers: 10
+posts: 2
 comments: 2
-weight: 1
-dau: 0
-wau: 2
+weight: 2
+dau: 1
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

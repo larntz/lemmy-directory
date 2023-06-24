@@ -3,7 +3,7 @@ title: "smashbros"
 name: "smashbros"
 description: " Welcome to ~~Reddit's~~ Lemmy's Smash Bros. community!"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smashbros"

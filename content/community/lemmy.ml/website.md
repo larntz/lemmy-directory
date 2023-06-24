@@ -3,7 +3,7 @@ title: "good website"
 name: "website"
 description: "Blue and grey mean bad mood and red means vitality. A new research found that people are easily affected by the products that are in colors.For example, when students see the red color in the blackboard, they feel not eased. [buy\u00a0backlinks](https://www.topbestblog.com/seo/a-point-media-com-0525)"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/website"

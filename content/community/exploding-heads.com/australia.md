@@ -3,7 +3,7 @@ title: "Australia"
 name: "australia"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/australia"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 78
 comments: 7
 weight: 78
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:

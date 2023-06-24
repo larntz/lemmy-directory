@@ -3,14 +3,14 @@ title: "Assetto Corsa"
 name: "assettocorsa"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/assettocorsa"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 01:18:31"
-subscribers: 7
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

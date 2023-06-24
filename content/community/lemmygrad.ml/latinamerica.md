@@ -3,7 +3,7 @@ title: "Latino America"
 name: "latinamerica"
 description: "Hub for news/discussion on all of Latin America and the Caribbean.Centro de noticias/discusión sobre todo Latino America y el Caribe."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/latinamerica"

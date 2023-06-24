@@ -3,7 +3,7 @@ title: "Burnout Memes"
 name: "burnout_memes"
 description: "Memes about or dealing with burn out, especially in the post capitalism or capitalistic world. More info  [here.](https://mastodon.social/@finickydesert/110339567338922227)"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/burnout_memes"

@@ -3,7 +3,7 @@ title: "FGC Shitposting Club"
 name: "the_fgc"
 description: "A place to post memes and have horrible takes on fighting games"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_fgc"

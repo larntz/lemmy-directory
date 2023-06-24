@@ -3,7 +3,7 @@ title: "The Doors"
 name: "thedoors"
 description: "Let's talk about the band.. Jim, Ray, John, and Robby "
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thedoors"

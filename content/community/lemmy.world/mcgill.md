@@ -3,7 +3,7 @@ title: "McGill University"
 name: "mcgill"
 description: "Anything remotely related to McGill University"
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mcgill"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 4
 comments: 1
 weight: 4
-dau: 2
+dau: 1
 wau: 4
 mau: 4
 instances:

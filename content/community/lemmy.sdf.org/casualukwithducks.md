@@ -3,7 +3,7 @@ title: "Casual UK (with Ducks)"
 name: "casualukwithducks"
 description: "A relaxed place to enjoy UK culture, including all wildlife but with NO discussion of politics (which includes NO discussion of royalty)"
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/casualukwithducks"

@@ -3,14 +3,14 @@ title: "Soccer"
 name: "soccer"
 description: "The back page of the internet"
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/soccer"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 04:43:09"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

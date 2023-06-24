@@ -3,12 +3,12 @@ title: "Kubernetes Help"
 name: "k8s_help"
 description: "Community for getting help with running Lemmy on Kubernetes.I'll try to answer all questions here, feel free to ask me questions!"
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jlh.name/c/k8s_help"
 host: lemmy.jlh.name
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 10:55:11"
 subscribers: 1
 posts: 0

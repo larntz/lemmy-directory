@@ -3,16 +3,16 @@ title: "Hockey"
 name: "hockey"
 description: "A place for hockey fans to discuss their favorite sport!# Looking for mods!"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/hockey"
 host: fanaticus.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 03:39:45"
-subscribers: 9
+subscribers: 10
 posts: 7
-comments: 0
+comments: 1
 weight: 7
 dau: 1
 wau: 2

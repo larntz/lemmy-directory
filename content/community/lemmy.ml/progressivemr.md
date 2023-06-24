@@ -3,7 +3,7 @@ title: "Progressive Metal/Rock"
 name: "progressivemr"
 description: "Only Progressive Music"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/progressivemr"
@@ -15,7 +15,7 @@ posts: 21
 comments: 4
 weight: 21
 dau: 1
-wau: 3
+wau: 2
 mau: 10
 instances:
 - "lemmy_ml"

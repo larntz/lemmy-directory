@@ -3,17 +3,17 @@ title: "Toronto Blue Jays"
 name: "torontobluejays"
 description: "Cloned from [r/TorontoBlueJays](https://old.reddit.com/r/TorontoBlueJays)# Looking for mods!"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/torontobluejays"
 host: fanaticus.social
 lastmod: "2023-06-12 18:48:02"
 published: "2023-06-09 17:12:07"
-subscribers: 3
-posts: 4
-comments: 10
-weight: 4
+subscribers: 6
+posts: 6
+comments: 16
+weight: 6
 dau: 0
 wau: 0
 mau: 0

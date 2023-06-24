@@ -3,7 +3,7 @@ title: "Oida"
 name: "oida"
 description: "Ein Ort für Österreicher und solche, die es noch werden wollen, um Dinge zu posten, bei denen man einfach nur oida sagen kann.A place for Austrians and those who dream of becoming one to post things that just make you go oida, an expression of utter suprise and/or disbelief."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/oida"

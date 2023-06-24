@@ -3,7 +3,7 @@ title: "Homeowners"
 name: "homeowners"
 description: "1. No Promotional Content or Spam 2. No Surveys 3. Do not advise others to commit crimes "
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeowners"

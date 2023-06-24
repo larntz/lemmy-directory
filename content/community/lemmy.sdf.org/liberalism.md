@@ -3,7 +3,7 @@ title: "Liberalism"
 name: "liberalism"
 description: "This community exists as a spot for liberals to share news articles, opinion pieces, relevant political memes and discussion.Please be respectful of each other!"
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/liberalism"

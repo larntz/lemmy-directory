@@ -3,7 +3,7 @@ title: "Burning Nerd"
 name: "burningnerd"
 description: "A place for discussion of the podcast/blog/media empire that is Burning Nerd"
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/burningnerd"

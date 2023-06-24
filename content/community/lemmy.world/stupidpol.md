@@ -3,14 +3,14 @@ title: "StupIDPol"
 name: "stupidpol"
 description: "Socialist community focused on class inequality and a critique of identity politics as a divisive distraction"
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stupidpol"
 host: lemmy.world
 lastmod: "2023-06-21 14:33:36"
 published: "2023-06-21 02:41:06"
-subscribers: 4
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

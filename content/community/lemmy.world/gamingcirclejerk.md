@@ -1,22 +1,22 @@
 ---
 title: "gamingcirclejerk" 
 name: "gamingcirclejerk"
-description: "omg they made lemmy political**Rules**1. Don't be a dick2. No Personal Information3. No Self-Promotion3. Mark Spoilers"
+description: "omg they made lemmy political**Rules**1. Gamers will be oppressed2. Don't be a dick3. No Personal Information4. No Self-Promotion5. Mark Spoilers"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gamingcirclejerk"
 host: lemmy.world
-lastmod: "2023-06-22 20:08:24"
+lastmod: "2023-06-23 03:07:32"
 published: "2023-06-14 11:16:15"
-subscribers: 378
-posts: 13
-comments: 41
-weight: 13
-dau: 29
-wau: 38
-mau: 40
+subscribers: 521
+posts: 14
+comments: 63
+weight: 14
+dau: 21
+wau: 56
+mau: 58
 instances:
 - "lemmy_world"
 tags: 

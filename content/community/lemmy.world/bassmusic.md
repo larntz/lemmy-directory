@@ -3,7 +3,7 @@ title: "Bass Music"
 name: "bassmusic"
 description: "A place for all bass music, EDM, dubstep, etc. "
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bassmusic"

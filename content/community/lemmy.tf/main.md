@@ -3,20 +3,20 @@ title: "Main - Lemmy.tf"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:12"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tf/c/main"
 host: lemmy.tf
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 01:17:19"
-subscribers: 17
-posts: 5
-comments: 7
-weight: 5
-dau: 1
-wau: 5
-mau: 5
+subscribers: 18
+posts: 6
+comments: 8
+weight: 6
+dau: 3
+wau: 4
+mau: 6
 instances:
 - "lemmy_tf"
 tags: 

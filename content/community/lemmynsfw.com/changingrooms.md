@@ -3,14 +3,14 @@ title: "Changing Rooms"
 name: "changingrooms"
 description: "An alternative to r/changingrooms. Posts must contain women in changing rooms. Do not post anything against sitewide rules. "
 type: community
-date: "2023-06-20 11:37:58"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/changingrooms"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 13:50:41"
-subscribers: 95
+subscribers: 115
 posts: 0
 comments: 0
 weight: 0

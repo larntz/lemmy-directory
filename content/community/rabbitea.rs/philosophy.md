@@ -3,12 +3,12 @@ title: "Philosophy"
 name: "philosophy"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:18"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://rabbitea.rs/c/philosophy"
 host: rabbitea.rs
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 15:26:41"
 published: "2023-06-14 17:06:25"
 subscribers: 1
 posts: 0

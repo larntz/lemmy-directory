@@ -3,7 +3,7 @@ title: "Samochodoza"
 name: "samochodoza"
 description: "Społeczność ludzi wkurzonych miejską samochodozą. Dzielimy się jej licznymi objawami oraz tworzymy sposoby na jej zwalczanie"
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/samochodoza"

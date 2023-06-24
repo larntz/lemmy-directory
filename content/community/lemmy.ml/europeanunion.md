@@ -3,14 +3,14 @@ title: "European Union 🇪🇺"
 name: "europeanunion"
 description: ""
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europeanunion"
 host: lemmy.ml
 lastmod: "2022-05-02 10:55:23"
 published: "2022-05-02 10:48:03"
-subscribers: 74
+subscribers: 76
 posts: 8
 comments: 6
 weight: 8

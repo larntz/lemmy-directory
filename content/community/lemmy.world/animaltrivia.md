@@ -3,14 +3,14 @@ title: "Animal Trivia"
 name: "animaltrivia"
 description: "Random facts about, you know, animals. Bugs included.------~Icon~ ~by~ ~@inspirasign~ ~on~ ~Reshot.com~"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animaltrivia"
 host: lemmy.world
 lastmod: "2023-06-13 13:33:50"
 published: "2023-06-13 12:05:56"
-subscribers: 56
+subscribers: 58
 posts: 6
 comments: 2
 weight: 6

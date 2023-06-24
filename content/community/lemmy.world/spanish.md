@@ -3,14 +3,14 @@ title: "Spanish"
 name: "spanish"
 description: "Learn, teach or discuss the 2nd most spoken language by natives**Rules**- Be respectful.- Foster a continuous learning environment.- Engage in constructive discussions.- Use appropriate language and tone.- Please, no harassment, hate speech, or trolling."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spanish"
 host: lemmy.world
 lastmod: "2023-06-19 23:32:02"
 published: "2023-06-18 23:59:54"
-subscribers: 21
+subscribers: 23
 posts: 2
 comments: 1
 weight: 2

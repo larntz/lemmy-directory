@@ -3,7 +3,7 @@ title: "rainbow"
 name: "rainbow"
 description: "A conservative already poached LGBT, so in the grand tradition of reddit, here's a recreation of /r/ainbow, the same LGBT subreddit that got made last time crazies took over lgbt.  Though the name makes a lot less sense now ... "
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rainbow"

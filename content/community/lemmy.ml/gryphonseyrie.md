@@ -3,7 +3,7 @@ title: "Gryphon's Eyrie"
 name: "gryphonseyrie"
 description: "stuff Gryph likes to have in the Gryphon Eyrie"
 type: community
-date: "2023-06-22 16:47:53"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gryphonseyrie"

@@ -3,14 +3,14 @@ title: "Veracrypt"
 name: "veracrypt"
 description: "VeraCrypt: Free Disk Encryption Software, a fork of TrueCrypt."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/veracrypt"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 07:01:30"
-subscribers: 11
+subscribers: 12
 posts: 8
 comments: 10
 weight: 8

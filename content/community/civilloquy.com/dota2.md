@@ -3,7 +3,7 @@ title: "Dota 2"
 name: "dota2"
 description: "For discussion of Valve's popular game Dota 2This community is not affiliated with Valve in any respect."
 type: community
-date: "2023-06-23 01:18:59"
+date: "2023-06-24 01:13:05"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/dota2"

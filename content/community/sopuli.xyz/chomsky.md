@@ -3,7 +3,7 @@ title: "Chomsky"
 name: "chomsky"
 description: "Welcome to c/chomsky, a Lemmy community to discuss the works of Noam Chomsky -- linguistic, philosopher and dissident extraordinaire.FYI, I'm a terrible moderator, so if you'd like to help me moderate this tiny corner of the colourless green internet, I'd really welcome it. Just post/message your interest.New to Lemmy? Why not consider signing up [here](https://www.sopuli.xyz/signup), [here](https://www.lemmy.world/signup) or [here](https://www.slrpnk.net/signup)?"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/chomsky"

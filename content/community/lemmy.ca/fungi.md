@@ -3,7 +3,7 @@ title: "Fungi"
 name: "fungi"
 description: "Check out !mycology@mander.xyz for an active mycology community.I'll be closing this community on July 4, 2023 to avoid fragmentation."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fungi"

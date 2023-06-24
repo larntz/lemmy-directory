@@ -3,7 +3,7 @@ title: "post anarchist community"
 name: "postanarchism"
 description: "Post-Anarchism is an anarchist ideology that focuses on post-structualism and the abolition of work, ideology, and politics, transcending the traditional left-right ideologs."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/postanarchism"

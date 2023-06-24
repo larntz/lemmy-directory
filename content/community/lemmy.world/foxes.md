@@ -3,14 +3,14 @@ title: "Fox pics"
 name: "foxes"
 description: "Post pictures, art and anything about foxes! "
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foxes"
 host: lemmy.world
 lastmod: "2023-06-21 23:18:22"
 published: "2023-06-14 11:09:14"
-subscribers: 39
+subscribers: 44
 posts: 7
 comments: 2
 weight: 7

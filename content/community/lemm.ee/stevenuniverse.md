@@ -3,7 +3,7 @@ title: "Steven Universe"
 name: "stevenuniverse"
 description: "A place for everything related to Steven Universe. Artworks, memes, discussions and so on!Rules:- **NO NSFW** *(please)*- Credit the original authors if you use others' work"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/stevenuniverse"
@@ -15,7 +15,7 @@ posts: 5
 comments: 6
 weight: 5
 dau: 2
-wau: 2
+wau: 1
 mau: 8
 instances:
 - "lemm_ee"

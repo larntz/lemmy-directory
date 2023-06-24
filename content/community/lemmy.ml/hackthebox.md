@@ -3,7 +3,7 @@ title: "hackthebox"
 name: "hackthebox"
 description: "Discussion about hackthebox.eu machines! CTF, Hacking, Security, Learning, Advanzing, hacker ethics, hacker cultureMatrix channel: #hackthebox:hispagatos.org"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackthebox"
@@ -16,7 +16,7 @@ comments: 5
 weight: 27
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

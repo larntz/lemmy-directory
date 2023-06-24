@@ -3,7 +3,7 @@ title: "Piasco Per Passione News"
 name: "pppnews"
 description: "Comunità di informazione circa le attività del gruppo consiliare di **Piasco Per Passione** e dei fatti più importanti legati alla vita politica di Piasco"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pppnews"

@@ -3,19 +3,19 @@ title: "Lesbians"
 name: "lesbians"
 description: "A replacement for Reddit’s r/lesbians. Posts should feature lesbians, and not break any sitewide or common sense rules.Visit [girlskissing](https://lemmynsfw.com/c/girlskissing), [straightgirlsplaying](https://lemmynsfw.com/c/straightgirlsplaying), for similar content. "
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/lesbians"
 host: lemmynsfw.com
 lastmod: "2023-06-15 04:51:36"
 published: "2023-06-14 10:31:28"
-subscribers: 561
+subscribers: 587
 posts: 17
 comments: 0
 weight: 17
 dau: 2
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmynsfw_com"

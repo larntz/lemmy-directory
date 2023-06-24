@@ -3,7 +3,7 @@ title: "ciekawe"
 name: "ciekawe"
 description: "Miejsce na wszelkie internetowe odkrycia i ciekawostki, oraz wszystko co nie wiadomo, gdzie indziej miało by się znaleźć. Jeśli coś nie jest po polsku oznacz język w kwadratowych nawiasach na początku."
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ciekawe"

@@ -3,12 +3,12 @@ title: "Longmont"
 name: "longmont"
 description: "Here, we talk about Longmont, Colorado. And, probably some other stuff. Longmont Vs. NobodyKeep the bigotry, hatred, misogyny, spam, and attention seeking garbage to yourself.  "
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/longmont"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 15:22:50"
 subscribers: 1
 posts: 0

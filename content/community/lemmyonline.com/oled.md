@@ -3,14 +3,14 @@ title: "OLED"
 name: "oled"
 description: "Discussion of all things OLED Technology - Primarily TV's & Monitors "
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/oled"
 host: lemmyonline.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 02:02:58"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

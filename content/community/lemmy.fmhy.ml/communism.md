@@ -3,14 +3,14 @@ title: "Communism"
 name: "communism"
 description: "Communism discussion goes here."
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/communism"
 host: lemmy.fmhy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 02:19:23"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "The Home of Galaxy Class"
 name: "galaxy_class"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/galaxy_class"

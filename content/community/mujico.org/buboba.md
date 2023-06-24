@@ -3,7 +3,7 @@ title: "Bueno Bonito y Barato"
 name: "buboba"
 description: "Nos gustan las cosas DIYComunidad de los que tienen un compa que cobra mas barato."
 type: community
-date: "2023-06-23 01:18:38"
+date: "2023-06-24 01:12:43"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/buboba"

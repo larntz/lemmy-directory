@@ -3,7 +3,7 @@ title: "Robotics"
 name: "robotics"
 description: "An approachable place to discuss the field of robotics. All are welcome.# RulesBe nice**Related Communities**- /c/selfdrivingvehicles"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/robotics"

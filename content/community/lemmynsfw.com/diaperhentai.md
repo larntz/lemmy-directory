@@ -1,19 +1,19 @@
 ---
 title: "Diaper Hentai" 
 name: "diaperhentai"
-description: "Hentai involving diapers or age play. All characters must be 18+ no children or loli content"
+description: "# Welcome to Diaper Hentai!This is a community focusing on the DL part of ABDL although all parts are welcome. However all posts must be hentai, and more importantly be 18+ any ambiguity will result in the post being removed, and if consistent a ban (this includes 3000 year old dragon loli)# Rules- No Underage Content- No breaking instance TOS- No Suggested Underage Content- try not to spam- No Loli/Shota- No kink shaming, be respectfull- Just be nice to eachother?- And seriously no under age content."
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/diaperhentai"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 22:56:16"
 published: "2023-06-20 12:29:28"
-subscribers: 6
-posts: 21
+subscribers: 9
+posts: 45
 comments: 0
-weight: 21
+weight: 45
 dau: 1
 wau: 1
 mau: 1

@@ -3,7 +3,7 @@ title: "Furry Captions"
 name: "furrycaps"
 description: "captioned images of furries doin' nsfw things!"
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:56"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/furrycaps"

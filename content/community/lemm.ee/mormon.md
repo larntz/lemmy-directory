@@ -3,7 +3,7 @@ title: "Mormon"
 name: "mormon"
 description: "A place akin to r/mormon, where topics related to Mormonism are welcome to be discussed.People of all beliefs and perspectives are welcome here. Civility is expected in all discussions.Related Communities:- [ExMormon](c/exmormon@lemmy.world): A place for discussing topics of interest to those who are thinking about leaving or have left Mormonism"
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mormon"

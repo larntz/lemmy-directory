@@ -3,7 +3,7 @@ title: "Deals"
 name: "deals"
 description: "A community for collecting bargains and sales for audio hardware and software."
 type: community
-date: "2023-06-23 01:18:55"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/deals"

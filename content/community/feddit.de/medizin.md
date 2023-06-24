@@ -3,7 +3,7 @@ title: "medizin"
 name: "medizin"
 description: "Für Themen und News aus Medizin, Pflege, Gesundheit und Pharmazie, gerichtet an Fachpersonen und alle, die es werden wollen.Persönliche Gesundheitsfragen sind nicht erlaubt.::: spoiler AttributionIcon und Banner created with assistance of DALL·E 2.:::"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/medizin"

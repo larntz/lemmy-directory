@@ -3,7 +3,7 @@ title: "Pikabu"
 name: "pikabu"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pikabu"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_world"

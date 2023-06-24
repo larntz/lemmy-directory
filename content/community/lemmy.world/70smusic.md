@@ -3,7 +3,7 @@ title: "70's Music"
 name: "70smusic"
 description: "Disco, Folk, Funk, Country, whatever you can vibe to! Post a song and let's talk about it!"
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/70smusic"

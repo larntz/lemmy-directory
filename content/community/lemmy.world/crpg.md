@@ -3,7 +3,7 @@ title: "Computer RPGs"
 name: "crpg"
 description: "Community for CRPGs (be it on PCs, Mac, consoles, etc)."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/crpg"

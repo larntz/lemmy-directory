@@ -3,7 +3,7 @@ title: "Investing in Canadian stocks"
 name: "canadian_investor"
 description: "Investment ideas related to Canadian  stocks."
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/canadian_investor"

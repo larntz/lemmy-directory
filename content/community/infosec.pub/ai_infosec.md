@@ -3,17 +3,17 @@ title: "AI Infosec"
 name: "ai_infosec"
 description: "Infosec news and articles related to AI."
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ai_infosec"
 host: infosec.pub
 lastmod: "2023-06-10 21:18:05"
 published: "2023-06-10 20:48:19"
-subscribers: 232
-posts: 19
+subscribers: 238
+posts: 20
 comments: 13
-weight: 19
+weight: 20
 dau: 1
 wau: 2
 mau: 10

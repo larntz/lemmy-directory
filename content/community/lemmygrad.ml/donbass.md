@@ -3,7 +3,7 @@ title: "Donbass, DPR and LPR"
 name: "donbass"
 description: "For Donbass republics that did not support the Kiev right-wing coup in 2014.Read [this ](https://lemmygrad.ml/post/278755)and [this ](https://lemmygrad.ml/post/278827)please.Banner: LPR flag"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/donbass"
@@ -12,11 +12,11 @@ lastmod: "2022-07-10 13:18:04"
 published: "2022-06-13 21:00:52"
 subscribers: 155
 posts: 119
-comments: 520
+comments: 522
 weight: 119
-dau: 3
+dau: 2
 wau: 3
-mau: 11
+mau: 10
 instances:
 - "lemmygrad_ml"
 tags: 

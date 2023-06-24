@@ -3,7 +3,7 @@ title: "Bad End"
 name: "badend"
 description: "Meeting the end of an adventure because of an unfortunate event including but not limited to, cursed items being equipped, monsters catching the character or being trapped in some sort.- No gore"
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/badend"

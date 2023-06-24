@@ -3,7 +3,7 @@ title: "Gigachad Takes"
 name: "gigachadtakes"
 description: "Ultra-based takes you found"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gigachadtakes"
@@ -16,7 +16,7 @@ comments: 26
 weight: 9
 dau: 1
 wau: 1
-mau: 8
+mau: 6
 instances:
 - "lemmygrad_ml"
 tags: 

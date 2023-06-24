@@ -1,16 +1,16 @@
 ---
-title: "UAP - UFO - Unidentified Anomalous Phenomena / Unidentified Aerial Phenomena" 
+title: "UAP - Unidentified Anomalous Phenomena / Unidentified Aerial Phenomena - UFO" 
 name: "uap"
 description: "Unidentified Anomalous Phenomena / Unidentified Aerial Phenomena"
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uap"
 host: lemmy.ml
-lastmod: "2023-06-22 22:36:57"
+lastmod: "2023-06-23 13:49:50"
 published: "2023-06-22 22:33:10"
-subscribers: 8
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

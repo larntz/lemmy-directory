@@ -3,7 +3,7 @@ title: "FlipperZero (Unofficial)"
 name: "flipperzero"
 description: "# Welcome## We are an unnoficial CommunityFlipper Zero is a portable multi-tool for pentesters and geeks in Tamagotchi body. It loves to hack digital stuff around such as radio protocols, access control systems, hardware and more. It's fully opensource and customizable so you can extend it in whatever way you like."
 type: community
-date: "2023-06-23 01:19:08"
+date: "2023-06-24 01:13:14"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/flipperzero"

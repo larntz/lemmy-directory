@@ -3,7 +3,7 @@ title: "Typing Manics "
 name: "steelix"
 description: "Hey Welcome Typers ,  Are you a fast typer or just learning well here's the place to make typing friends and have fun."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steelix"

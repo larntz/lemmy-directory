@@ -3,14 +3,14 @@ title: "Furry"
 name: "furry"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/furry"
 host: lemmy.ca
 lastmod: "2022-08-19 16:46:00"
 published: "2022-07-22 15:10:36"
-subscribers: 28
+subscribers: 29
 posts: 2
 comments: 2
 weight: 2

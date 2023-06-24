@@ -3,7 +3,7 @@ title: "The Gaming Safe Space"
 name: "girlgamers"
 description: "A place for gamers to chat, band together in online games, share cute battle stations and talk about gaming in general. All women, non-binary and queer people welcome. 🏳️\u200d🌈🏳️\u200d⚧️"
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/girlgamers"

@@ -3,7 +3,7 @@ title: "The Bible"
 name: "bible"
 description: "Getting to the Bible, as The - Word - Of - God it is, to give light to our lives."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bible"

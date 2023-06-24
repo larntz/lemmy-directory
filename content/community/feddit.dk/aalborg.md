@@ -3,7 +3,7 @@ title: "Aalborg"
 name: "aalborg"
 description: "For indhold relateret til Aalborg, Danmarks fjerdestørste by."
 type: community
-date: "2023-06-23 01:18:46"
+date: "2023-06-24 01:12:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/aalborg"
@@ -14,7 +14,7 @@ subscribers: 28
 posts: 3
 comments: 11
 weight: 3
-dau: 2
+dau: 1
 wau: 8
 mau: 10
 instances:

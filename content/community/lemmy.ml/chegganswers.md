@@ -3,7 +3,7 @@ title: "Chegg Answers"
 name: "chegganswers"
 description: "**Note: Answers aren't sourced from Chegg but from the community**# How To Request Solutions- Draft a post and provide the full problem. "
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chegganswers"

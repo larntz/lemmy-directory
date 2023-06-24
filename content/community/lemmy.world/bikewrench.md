@@ -3,7 +3,7 @@ title: "bike wrench"
 name: "bikewrench"
 description: "A place to ask bicycle repair questions, and for bike shop monkeys to share advanced non commercial wrenching resources (no YouTube self promotion). This is only for repair related topics."
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bikewrench"

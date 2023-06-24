@@ -3,7 +3,7 @@ title: "Diseases"
 name: "diseases"
 description: "With a concentration on emerging infections diseases, but anything disease related can be posted here"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/diseases"

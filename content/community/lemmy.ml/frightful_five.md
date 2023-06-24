@@ -3,7 +3,7 @@ title: "Anti-FAANG/Big Tech"
 name: "frightful_five"
 description: "Anti-Alphabet (Google), Amazon, Apple, Facebook, and Microsoft and other Big Tech (Netflix, Twitter, Uber)"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frightful_five"

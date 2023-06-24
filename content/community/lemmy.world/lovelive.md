@@ -3,7 +3,7 @@ title: "Love Live!"
 name: "lovelive"
 description: "A community dedicated to the multimedia franchise Love Live!Rules:1. All posts must be related to Love Live. Posts about the anime, music, news, fanart, etc. are allowed.2. Credit where credit is due: If you post fanart, you should include the source.3. No NSFW"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lovelive"

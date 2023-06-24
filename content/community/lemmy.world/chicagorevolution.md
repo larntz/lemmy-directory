@@ -3,7 +3,7 @@ title: "Chicago Revolution"
 name: "chicagorevolution"
 description: "A place to organize and discuss grassroots movements designed to impact our city for the better. Nothing will get done without action, and the only better time to start now was yesterday. If you know of any protests, volunteer groups or programs or hear of anything unjust that needs to be shared, consider this a safe haven"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicagorevolution"

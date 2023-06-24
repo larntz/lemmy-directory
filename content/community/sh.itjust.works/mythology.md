@@ -3,14 +3,14 @@ title: "Mythology"
 name: "mythology"
 description: "For discussion of all world mythologies"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mythology"
 host: sh.itjust.works
 lastmod: "2023-06-07 15:49:05"
 published: "2023-06-07 15:37:20"
-subscribers: 432
+subscribers: 437
 posts: 12
 comments: 24
 weight: 12

@@ -3,7 +3,7 @@ title: "Kelowna"
 name: "kelowna"
 description: "A community for anything related to Kelowna BC, and more generally the Central Okanagan."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/kelowna"

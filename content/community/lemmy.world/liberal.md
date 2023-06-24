@@ -3,7 +3,7 @@ title: "liberal"
 name: "liberal"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-24 01:15:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liberal"

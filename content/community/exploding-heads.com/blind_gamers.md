@@ -3,7 +3,7 @@ title: "blind gamers"
 name: "blind_gamers"
 description: "a community for blind people who likes accessible games, or audio games"
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/blind_gamers"

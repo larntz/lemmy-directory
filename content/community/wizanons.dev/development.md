@@ -3,7 +3,7 @@ title: "Development"
 name: "development"
 description: "Any development work! Show off your magic skills!"
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/development"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "wizanons_dev"

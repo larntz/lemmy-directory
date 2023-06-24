@@ -3,7 +3,7 @@ title: "test2"
 name: "test2"
 description: "another test"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test2"

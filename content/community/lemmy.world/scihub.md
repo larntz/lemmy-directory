@@ -1,16 +1,16 @@
 ---
 title: "scihub" 
 name: "scihub"
-description: "Sci-Hub is a website that provides free access to millions of research papers and books, without regard to copyright, by bypassing publishers' paywalls in various ways. Note, this community is not directly affiliated with Sci-Hub. Visit VK.com/sci_hub for the official Sci-Hub community.Official Sci-Hub Mirrors:https://sci-hub.sthttps://sci-hub.sehttps://sci-hub.do"
+description: "Sci-Hub is a website that provides free access to millions of research papers and books, without regard to copyright, by bypassing publishers' paywalls in various ways. Note, this community is not directly affiliated with Sci-Hub. Visit https://VK.com/sci_hub for the official Sci-Hub community. Telegram: https://t.me/s/nexus_searchOfficial Sci-Hub Mirrors:https://sci-hub.sthttps://sci-hub.sehttps://sci-hub.do"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scihub"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 17:07:47"
 published: "2023-06-21 13:43:21"
-subscribers: 23
+subscribers: 27
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Mirror's Edge"
 name: "mirrorsedge"
 description: "This subreddit is for people who love the game Mirror's Edge and its reboot; Mirror's Edge Catalyst.Anything goes as long as it's related to Mirror's Edge. "
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mirrorsedge"

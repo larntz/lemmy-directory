@@ -3,7 +3,7 @@ title: "Foreign TV Shows"
 name: "foreigntvshows"
 description: "Community to share and discuss tv shows produced in countries outside of the US. Replicates r/ForeignTVShows"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foreigntvshows"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

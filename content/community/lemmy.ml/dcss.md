@@ -3,14 +3,14 @@ title: "Dungeon Crawl Stone Soup"
 name: "dcss"
 description: "Community for discussing the traditional roguelike game, Dungeon Crawl Stone Soup.https://crawl.develz.org"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dcss"
 host: lemmy.ml
 lastmod: "2022-05-01 11:14:31"
 published: "2022-05-01 02:40:17"
-subscribers: 15
+subscribers: 16
 posts: 18
 comments: 8
 weight: 18

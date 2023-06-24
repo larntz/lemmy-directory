@@ -3,7 +3,7 @@ title: "The Sopranos"
 name: "thesopranos"
 description: "Lemmy community dedicated to the HBO hit TV series, The Sopranos."
 type: community
-date: "2023-06-23 01:18:53"
+date: "2023-06-24 01:12:59"
 draft: false
 nsfw: false
 actor_id: "https://1337lemmy.com/c/thesopranos"

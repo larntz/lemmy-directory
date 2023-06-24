@@ -3,7 +3,7 @@ title: "ajj"
 name: "ajj"
 description: "A subreddit dedicated to the folk punk band formerly known as Andrew Jackson Jihad."
 type: community
-date: "2023-06-23 01:21:32"
+date: "2023-06-24 01:15:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ajj"

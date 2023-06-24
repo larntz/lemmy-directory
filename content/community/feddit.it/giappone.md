@@ -3,7 +3,7 @@ title: "Giappone"
 name: "giappone"
 description: "Comunità dedicata alla condivisione di materiali e notizie utili ad approfondire la conoscenza della cultura, della filosofia e della lingua giapponese.Valgono le regole dell'istanza "
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/giappone"

@@ -3,20 +3,20 @@ title: "Ukraine"
 name: "ukraine"
 description: "News and discussion related to Ukraine"
 type: community
-date: "2023-06-22 02:20:19"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ukraine"
 host: sopuli.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-08-21 16:04:10"
-subscribers: 1179
-posts: 192
-comments: 292
-weight: 192
-dau: 21
-wau: 139
-mau: 166
+subscribers: 1285
+posts: 234
+comments: 402
+weight: 234
+dau: 47
+wau: 151
+mau: 219
 instances:
 - "sopuli_xyz"
 tags: 

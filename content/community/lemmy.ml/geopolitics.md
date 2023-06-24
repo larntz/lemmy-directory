@@ -3,7 +3,7 @@ title: "Geopolitics : News and discussion"
 name: "geopolitics"
 description: "Rules:  - Be polite and do not spam.- Domestic news items without any geopolitics are spam."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geopolitics"

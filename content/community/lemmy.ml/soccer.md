@@ -3,19 +3,19 @@ title: "Soccer, The World's Game"
 name: "soccer"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soccer"
 host: lemmy.ml
 lastmod: "2023-06-09 17:44:23"
 published: "2019-10-16 17:48:28"
-subscribers: 759
+subscribers: 944
 posts: 135
-comments: 136
+comments: 137
 weight: 135
-dau: 2
-wau: 6
+dau: 1
+wau: 4
 mau: 66
 instances:
 - "lemmy_ml"

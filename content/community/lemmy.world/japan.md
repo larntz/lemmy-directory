@@ -3,14 +3,14 @@ title: "Japan"
 name: "japan"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/japan"
 host: lemmy.world
 lastmod: "2023-06-19 06:25:38"
 published: "2023-06-18 04:34:02"
-subscribers: 12
+subscribers: 13
 posts: 3
 comments: 0
 weight: 3

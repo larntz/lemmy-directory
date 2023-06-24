@@ -3,7 +3,7 @@ title: "Okanagan"
 name: "okanagan"
 description: "A community for anything related to the Okanagan region of British Columbia."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/okanagan"

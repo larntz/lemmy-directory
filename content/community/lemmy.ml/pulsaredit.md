@@ -3,14 +3,14 @@ title: "Pulsar"
 name: "pulsaredit"
 description: "The community led, hyper-hackable text editor"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pulsaredit"
 host: lemmy.ml
 lastmod: "2023-06-09 16:28:04"
 published: "2023-06-09 16:23:33"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

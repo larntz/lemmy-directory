@@ -3,20 +3,20 @@ title: "EarthPorn"
 name: "earthporn"
 description: "The internet's largest community of landscape photographers and Earth lovers.Please include the location and [resolution] and [OC] tags (if appropriate) to submissions, like so:Overlooking the Sava in Belgrade [6000x3000] [OC]Full list of rules in this post [here](https://lemmy.ml/post/1204479)"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/earthporn"
 host: lemmy.ml
 lastmod: "2023-06-11 15:07:36"
 published: "2023-06-05 20:23:22"
-subscribers: 1762
-posts: 45
-comments: 74
-weight: 45
-dau: 5
-wau: 14
-mau: 60
+subscribers: 1806
+posts: 48
+comments: 75
+weight: 48
+dau: 3
+wau: 13
+mau: 62
 instances:
 - "lemmy_ml"
 tags: 

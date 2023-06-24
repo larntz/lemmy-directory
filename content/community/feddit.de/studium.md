@@ -3,7 +3,7 @@ title: "Studium"
 name: "studium"
 description: "Deutschsprachige Community für alles rund um's Studium. Angefangen von Erfahrungsberichten von Mensagerichten über Neuigkeiten eurer Uni bis hin zum gegenseitigen Austausch bei Fragen und Problemen.English speakers are welcome as well!"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/studium"

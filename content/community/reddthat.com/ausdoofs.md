@@ -3,7 +3,7 @@ title: "Aussie Bush Doofs"
 name: "ausdoofs"
 description: "there's nothing better than bass and lasers in amongst the trees"
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:10"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/ausdoofs"
@@ -15,7 +15,7 @@ posts: 2
 comments: 5
 weight: 2
 dau: 0
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "reddthat_com"

@@ -3,7 +3,7 @@ title: "Nahuatl"
 name: "nahuatl"
 description: "A community for discussing the language and texts of Nahuatl in all of its modern and classical varieties.Una comunidad para discutir la lengua y los textos del náhuatl en todas sus variantes modernas y clásicas."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nahuatl"

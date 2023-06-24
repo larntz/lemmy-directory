@@ -3,14 +3,14 @@ title: "Catholicism"
 name: "catholicism"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catholicism"
 host: lemmy.world
 lastmod: "2023-06-21 19:17:29"
 published: "2023-06-18 03:18:48"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

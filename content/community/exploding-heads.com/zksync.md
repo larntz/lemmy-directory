@@ -3,7 +3,7 @@ title: "Crypto - zkSync"
 name: "zksync"
 description: "ZkSync is a Layer 2 scaling solution on Ethereum that offers low gas and fast transactions, without compromising on security. People can withdraw assets to Layer 1 at any time."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/zksync"

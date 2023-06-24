@@ -3,7 +3,7 @@ title: "Technical Support"
 name: "tech_support"
 description: "Tech support for technical people.You can ask all technology related support questions here. This is inspired by r/techsupport but we're striving to be professionals here. Don't ask stuff you can answer in a few seconds just by googling and be sure to follow [this guide on how to ask questions the smart way](https://wiki.tilde.fun/guide/questions)."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tech_support"

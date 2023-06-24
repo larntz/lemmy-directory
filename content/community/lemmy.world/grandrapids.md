@@ -3,7 +3,7 @@ title: "Grand Rapids"
 name: "grandrapids"
 description: "A place to discuss Grand Rapids, Michigan.**Rules**- Be civil.- Posts must pertain to Grand Rapids or surrounding areas.- No nsfw content."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grandrapids"

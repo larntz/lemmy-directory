@@ -3,7 +3,7 @@ title: "One Bag"
 name: "onebag"
 description: "For those who want to travel with minimal luggage. What's your one bag?See also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/onebag"

@@ -3,7 +3,7 @@ title: "Love Nikki 💗 Dress up Queen"
 name: "love_nikki"
 description: "A Lemmy community for the mobile game Love Nikki!"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/love_nikki"

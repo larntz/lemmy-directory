@@ -3,7 +3,7 @@ title: "Mobilidade"
 name: "mobilidade"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:19"
+date: "2023-06-24 01:13:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/mobilidade"
@@ -12,7 +12,7 @@ lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 14:59:30"
 subscribers: 7
 posts: 4
-comments: 21
+comments: 23
 weight: 4
 dau: 1
 wau: 7

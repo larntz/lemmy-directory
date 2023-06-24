@@ -3,7 +3,7 @@ title: "Bambu"
 name: "bambu"
 description: "Have a Bambu 3D printer? Looking to buy one. Have a question? You're in the right place!"
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bambu"

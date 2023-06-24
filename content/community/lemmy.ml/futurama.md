@@ -3,7 +3,7 @@ title: "Futurama"
 name: "futurama"
 description: "Can't find r/futurama? Why not Zoidberg?"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/futurama"

@@ -3,7 +3,7 @@ title: "Stable Diffusion Anime"
 name: "share_anime_art"
 description: "Share anime art created using Stable Diffusion. Please keep it SFW."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/share_anime_art"
@@ -15,7 +15,7 @@ posts: 1
 comments: 0
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_dbzer0_com"

@@ -3,18 +3,18 @@ title: "Perth"
 name: "perth"
 description: "Discussion about topics related to the fine landmass of Perth, Western Australia"
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/perth"
 host: lemmy.perthchat.org
 lastmod: "2022-07-09 07:53:39"
 published: "2022-03-29 21:47:40"
-subscribers: 44
+subscribers: 45
 posts: 6
 comments: 16
 weight: 6
-dau: 2
+dau: 1
 wau: 3
 mau: 9
 instances:

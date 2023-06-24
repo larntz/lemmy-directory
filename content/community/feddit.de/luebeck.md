@@ -3,7 +3,7 @@ title: "Lübeck"
 name: "luebeck"
 description: "Alles rund um Lübeck"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/luebeck"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "feddit_de"

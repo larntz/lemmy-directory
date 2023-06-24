@@ -3,7 +3,7 @@ title: "Anti-Jokes"
 name: "antijokes"
 description: "https://en.wikipedia.org/wiki/Anti-humor"
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/antijokes"
@@ -15,7 +15,7 @@ posts: 6
 comments: 3
 weight: 6
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "sowhois_gay"

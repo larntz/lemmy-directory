@@ -3,14 +3,14 @@ title: "Debate Religion"
 name: "debatereligion"
 description: "A new place for open-minded people to debate religious claims and questions. "
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/debatereligion"
 host: lemm.ee
 lastmod: "2023-06-18 04:48:20"
 published: "2023-06-17 20:10:08"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 21
 weight: 2

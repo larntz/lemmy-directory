@@ -3,12 +3,12 @@ title: "Berita"
 name: "berita"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.my.id/c/berita"
 host: lemmy.my.id
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 10:59:46"
 subscribers: 3
 posts: 3

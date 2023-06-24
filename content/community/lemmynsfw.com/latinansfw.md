@@ -1,19 +1,19 @@
 ---
 title: "Latina NSWF" 
 name: "latinansfw"
-description: "Description not available."
+description: "This is for NSFW pictures of sexy latinas, meaning girls from anywhere in Latin America (I think we can allow Spain and Portugal as well, they're not latino by definition but I think they are in spirit)."
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latinansfw"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 02:04:37"
 published: "2023-06-21 18:04:31"
-subscribers: 16
-posts: 2
+subscribers: 22
+posts: 7
 comments: 0
-weight: 2
+weight: 7
 dau: 1
 wau: 1
 mau: 1

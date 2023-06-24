@@ -3,7 +3,7 @@ title: "Fuck Mosquitoes"
 name: "fuckmosquitoes"
 description: "Sorry for the language, but we all hate them around here!# What to post here? Post your best anti-mosquito articles, what can we do to stop them, erradicate them, while helping the ecosystem to flourish (without these fellas)."
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/fuckmosquitoes"

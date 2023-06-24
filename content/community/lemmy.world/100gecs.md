@@ -1,14 +1,14 @@
 ---
 title: "100 gecs" 
 name: "100gecs"
-description: "100 gecs"
+description: "100 gecs unofficial just for fun. check for official at https://www.100gecs.com/"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/100gecs"
 host: lemmy.world
-lastmod: "2023-06-21 15:22:23"
+lastmod: "2023-06-24 00:33:19"
 published: "2023-06-20 21:32:41"
 subscribers: 1
 posts: 1

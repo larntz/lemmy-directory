@@ -3,7 +3,7 @@ title: "RedditIQ"
 name: "redditiq"
 description: "Were you bored enough to go on Reddit? Did you regret it? Share your regrets!📜 Rules:📫 Post original content!\U0001fae0 Share the brain rot of Reddit!😼 Have fun!"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redditiq"

@@ -3,7 +3,7 @@ title: "CRT Gaming"
 name: "crtgaming"
 description: "inactive for now. i can't even upload images lmaosee https://kbin.social/m/CRTs for now"
 type: community
-date: "2023-06-22 16:46:45"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/crtgaming"

@@ -3,14 +3,14 @@ title: "The Dresden Files"
 name: "dresdenfiles"
 description: "For discussion of The Dresden Files book series, and all related media."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dresdenfiles"
 host: lemmy.world
 lastmod: "2023-06-12 01:53:45"
 published: "2023-06-12 01:53:21"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

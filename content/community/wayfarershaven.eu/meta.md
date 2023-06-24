@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "This community is for talking about the Wayfarers Haven instance - updates, new communities, changes that you might like to see, etc. We can also use it to talk about Lemmy and the Fediverse. "
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/meta"

@@ -3,14 +3,14 @@ title: "Person of Interest (PoI)"
 name: "personofinterest"
 description: "_You are being watched._Posts and discussions about the 2011-2016 TV series Person of Interest"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/personofinterest"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 06:29:34"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

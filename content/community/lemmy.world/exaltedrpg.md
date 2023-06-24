@@ -3,7 +3,7 @@ title: "Exalted"
 name: "exaltedrpg"
 description: "Community dedicated to the Exalted RPG, published by Onyx Path, and to its fans."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exaltedrpg"

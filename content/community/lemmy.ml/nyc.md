@@ -3,19 +3,19 @@ title: "New York City"
 name: "nyc"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nyc"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 02:44:46"
-subscribers: 115
+subscribers: 120
 posts: 11
 comments: 7
 weight: 11
 dau: 1
-wau: 5
+wau: 4
 mau: 12
 instances:
 - "lemmy_ml"

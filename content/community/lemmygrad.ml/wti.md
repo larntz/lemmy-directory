@@ -3,12 +3,12 @@ title: "Woke Tankie International"
 name: "wti"
 description: "We must confront both anti-woke and anti-communist ideology such that all comrades can participate equally in the class struggle."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/wti"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-08-12 11:02:16"
 subscribers: 18
 posts: 1

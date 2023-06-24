@@ -3,7 +3,7 @@ title: "True Crime Chatter"
 name: "truecrime"
 description: "A place to talk about True Crime. A community to share and bring awareness to cases and discuss all aspects from theories to detailed write ups and all things crime related."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/truecrime"

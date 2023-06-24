@@ -3,7 +3,7 @@ title: "allerlei"
 name: "allerlei"
 description: "Geen idee in welke community je post eigenlijk pas? Duw het dan onder de A van allerlei"
 type: community
-date: "2023-06-23 01:18:53"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/allerlei"

@@ -3,7 +3,7 @@ title: "VHS"
 name: "vhs"
 description: "Do you trip over a stack VHS tapes in the morning? Do you look through bins of old movies at the thrift store? Do you have a VCR connected to your TV? You're in the right place."
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kya.moe/c/vhs"

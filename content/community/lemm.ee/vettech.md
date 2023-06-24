@@ -3,7 +3,7 @@ title: "Vet Techs"
 name: "vettech"
 description: "New to this, we'll see if I can add some of this."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vettech"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemm_ee"

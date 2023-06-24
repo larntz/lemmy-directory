@@ -3,19 +3,19 @@ title: "Frankfurt am Main"
 name: "frankfurt"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/frankfurt"
 host: feddit.de
 lastmod: "2023-06-16 17:01:56"
 published: "2023-06-15 18:08:06"
-subscribers: 17
+subscribers: 19
 posts: 11
 comments: 14
 weight: 11
 dau: 1
-wau: 7
+wau: 3
 mau: 9
 instances:
 - "feddit_de"

@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:54"
+date: "2023-06-24 01:12:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/general"
@@ -15,8 +15,8 @@ posts: 7
 comments: 27
 weight: 7
 dau: 2
-wau: 4
-mau: 6
+wau: 1
+mau: 7
 instances:
 - "lemmy_einval_net"
 tags: 

@@ -1,16 +1,16 @@
 ---
 title: "GalaxyWatch" 
 name: "galaxywatch"
-description: "A place to discuss Samsung Galaxy Watches (all models).**RULES****1 Don’t be a bully, creep, jerk or troll**This means no personal attacks, no misogyny, no misandry, ageism, racism, or otherwise hateful or disrespectful commentary.**2 No Spam**Blatant low quality posts or repeated spam posts of the same content will be removed.**3 No selling products or services**No selling and trading posts or links ."
+description: "A place to discuss Samsung Galaxy Watches (all models): question, personal impressions, apps, problems, accessories, news, photos of your watches. **RULES****1 Don’t be a bully, creep, jerk or troll**This means no personal attacks, no misogyny, no misandry, ageism, racism, or otherwise hateful or disrespectful commentary.**2 No Spam**Blatant low quality posts or repeated spam posts of the same content will be removed.**3 No selling products or services**No selling and trading posts or links ."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/galaxywatch"
 host: feddit.de
-lastmod: "2023-06-22 16:06:00"
+lastmod: "2023-06-23 15:23:12"
 published: "2023-06-17 17:43:50"
-subscribers: 14
+subscribers: 17
 posts: 8
 comments: 3
 weight: 8

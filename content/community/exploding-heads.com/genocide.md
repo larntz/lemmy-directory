@@ -3,14 +3,14 @@ title: "Genocide"
 name: "genocide"
 description: "Still it goes on.Shame on all of us."
 type: community
-date: "2023-06-22 02:20:24"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/genocide"
 host: exploding-heads.com
 lastmod: "2022-03-20 20:19:47"
 published: "2022-03-03 01:11:20"
-subscribers: 5
+subscribers: 6
 posts: 47
 comments: 0
 weight: 47

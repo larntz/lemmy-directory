@@ -3,7 +3,7 @@ title: "Frank Zappa"
 name: "frankzappa"
 description: "A place for Zappa freaks to congregate!"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frankzappa"

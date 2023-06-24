@@ -3,7 +3,7 @@ title: "Venezuela"
 name: "venezuela"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/venezuela"
@@ -14,7 +14,7 @@ subscribers: 25
 posts: 42
 comments: 41
 weight: 42
-dau: 3
+dau: 2
 wau: 3
 mau: 3
 instances:

@@ -3,7 +3,7 @@ title: "JailBreak"
 name: "jailbreak"
 description: "Unofficial jailbreaking community of Lemmy.WorldAlso check out:* https://lemmy.world/c/jailbreak@lemmy.ml"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jailbreak"

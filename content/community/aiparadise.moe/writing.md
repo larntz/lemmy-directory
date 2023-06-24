@@ -3,7 +3,7 @@ title: "Writing Prompts and Stories"
 name: "writing"
 description: "A place to share your stories or share some writing prompt ideas. Does not have to be created by/with the help of AI, any and all are welcome"
 type: community
-date: "2023-06-23 01:18:48"
+date: "2023-06-24 01:12:53"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/writing"

@@ -3,7 +3,7 @@ title: "BreadTube"
 name: "breadtube"
 description: "BreadTube is a place for the new wave of creators, journalists and artists making high-quality content that goes against the prevailing winds of the internet.Politics, History, Economics, Science, Media Analysis, Free Speech, Film Criticism, Philosophy, Anarchism, Communism - anything on YouTube that is well researched and thoughtful is welcome here. "
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/breadtube"

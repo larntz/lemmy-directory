@@ -3,14 +3,14 @@ title: "ZSH - The Z Shell on Lemmy"
 name: "zsh"
 description: "Zsh is a shell designed for interactive use, although it is also a powerful scripting languagehttps://www.zsh.org/"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zsh"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-30 21:08:44"
-subscribers: 69
+subscribers: 71
 posts: 3
 comments: 0
 weight: 3

@@ -3,7 +3,7 @@ title: "Detroit"
 name: "detroit"
 description: "The offical community for anyone to discover news and events happening in and around the city of Detroit, MI. Run by the mods of /r/Detroit from Reddit"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-24 01:15:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/detroit"

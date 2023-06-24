@@ -3,7 +3,7 @@ title: "Cute Guys"
 name: "cuteguys"
 description: "A place for your cuteness to shine! Remember everyone is cute, even YOU!"
 type: community
-date: "2023-06-23 01:19:49"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/cuteguys"

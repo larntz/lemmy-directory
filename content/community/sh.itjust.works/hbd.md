@@ -3,12 +3,12 @@ title: "Human Biological Diversity"
 name: "hbd"
 description: "This is for discussing Human Biological Diversity. Be civil and provide sources."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/hbd"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 16:50:00"
 subscribers: 2
 posts: 0

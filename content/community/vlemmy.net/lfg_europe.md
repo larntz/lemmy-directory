@@ -3,7 +3,7 @@ title: "lfg_europe"
 name: "lfg_europe"
 description: "A place for all tabletop gamers of the European timezone to organise groups for the games they want to play "
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/lfg_europe"

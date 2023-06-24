@@ -3,14 +3,14 @@ title: "Swimming"
 name: "swimming"
 description: "A community for swimming and all related activities "
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/swimming"
 host: discuss.tchncs.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 07:42:32"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 1
 weight: 3

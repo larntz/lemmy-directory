@@ -3,7 +3,7 @@ title: "Shoppers Drug Mart"
 name: "shoppersdrugmart"
 description: "This is an **unofficial ** community for Shoppers Drug Mart. Please feel free to talk about promotions, shopping experience, shopping tips and tricks, PC points tricks, etc.RULESFollow lemmy.ca rulesIf you'd like to talk about /c/shoppersdrugmart, please add tag [META]"
 type: community
-date: "2023-06-23 01:19:32"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shoppersdrugmart"

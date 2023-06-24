@@ -3,14 +3,14 @@ title: "Vexillology"
 name: "vexillology"
 description: "All about flags"
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/vexillology"
 host: feddit.uk
 lastmod: "2023-06-22 12:26:17"
 published: "2023-06-18 22:08:42"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

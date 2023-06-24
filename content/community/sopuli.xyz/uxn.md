@@ -3,12 +3,12 @@ title: "Uxn"
 name: "uxn"
 description: "A community dedicated to all things Uxn, a clean-slate computing ecosystem powered by a simple stack machine!**Rules**1. All posts must pertain to the Uxn ecosystem.2. No bigotry or fighting. Keep it clean please.3. Nothing NSFW.4. If you have a question, only ask it once. Spamming it will not get you an answer faster."
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/uxn"
 host: sopuli.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-01-22 18:45:27"
 subscribers: 11
 posts: 0

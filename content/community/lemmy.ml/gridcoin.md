@@ -3,7 +3,7 @@ title: "Gridcoin"
 name: "gridcoin"
 description: "Gridcoin (GRC) is a cryptocurrency that incentivizes participation in the production of science. We reward people for volunteering their computational resources towards open drug discovery, physics, astronomy, math and other community-approved research projects. Help cure diseases, fight cancer, solve mathematical equations and map the galaxy while being rewarded for your contribution. We're building an economy based on science which you can participate in every time you use GRC."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gridcoin"

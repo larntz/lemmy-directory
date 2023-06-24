@@ -3,12 +3,12 @@ title: "lemmy.selfip.org"
 name: "lemmy"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:22"
+date: "2023-06-24 01:13:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.selfip.org/c/lemmy"
 host: lemmy.selfip.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 01:06:16"
 subscribers: 3
 posts: 0

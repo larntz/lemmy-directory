@@ -3,20 +3,20 @@ title: "Lemmy.ca's Main Community"
 name: "main"
 description: "Welcome to lemmy.ca's c/main!Since everyone on lemmy.ca gets subscribed here, this is the place to chat about the goings on at lemmy.ca, support-type items, suggestions, etc.Sidebar updated Sept 7, 2021"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/main"
 host: lemmy.ca
 lastmod: "2023-04-04 17:47:20"
 published: "2020-12-12 23:56:39"
-subscribers: 1370
-posts: 86
-comments: 1028
-weight: 86
-dau: 32
-wau: 147
-mau: 329
+subscribers: 1526
+posts: 89
+comments: 1071
+weight: 89
+dau: 16
+wau: 172
+mau: 384
 instances:
 - "lemmy_ca"
 tags: 

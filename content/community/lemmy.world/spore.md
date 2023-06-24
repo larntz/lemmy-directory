@@ -3,7 +3,7 @@ title: "Spore"
 name: "spore"
 description: "For discussion of the 2008 video game, Spore, its expansions, and spin-offs.**Official Website**https://www.spore.com/**Steam Page**https://store.steampowered.com/app/17390/SPORE/"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spore"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 3
 comments: 3
 weight: 3
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:

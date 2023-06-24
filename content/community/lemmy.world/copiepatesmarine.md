@@ -3,7 +3,7 @@ title: " CopiePatesMarine"
 name: "copiepatesmarine"
 description: " CopiePatesMarine (version fr de Navy Seal Copypasta)"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/copiepatesmarine"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 7
 comments: 0
 weight: 7
-dau: 3
+dau: 1
 wau: 3
 mau: 3
 instances:

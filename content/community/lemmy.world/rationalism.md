@@ -3,7 +3,7 @@ title: "rationalism"
 name: "rationalism"
 description: "rationalism"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rationalism"

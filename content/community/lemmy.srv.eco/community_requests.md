@@ -3,7 +3,7 @@ title: "➕ Community Requests"
 name: "community_requests"
 description: "A place to request the creation of new communities"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/community_requests"

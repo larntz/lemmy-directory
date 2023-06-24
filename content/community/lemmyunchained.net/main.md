@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "The main community for discussions about how this server is maintained."
 type: community
-date: "2023-06-23 01:19:23"
+date: "2023-06-24 01:13:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/main"

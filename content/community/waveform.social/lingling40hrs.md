@@ -3,7 +3,7 @@ title: "LingLing40hrs"
 name: "lingling40hrs"
 description: "For all you TwoSetters out there, who aspire to one day be the world's next Ling Ling."
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/lingling40hrs"

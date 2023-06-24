@@ -3,7 +3,7 @@ title: "Knitting"
 name: "knitting"
 description: "Inspired by [/r/knitting](https://www.reddit.com/r/knitting/)Resources:* [/r/knitting](https://www.reddit.com/r/knitting/)* RavelryBanner credit: [Paul Hanaoka](https://unsplash.com/@plhnk)"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/knitting"

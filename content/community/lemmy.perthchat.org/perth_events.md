@@ -3,7 +3,7 @@ title: "Perth Events - Whats on around Perth"
 name: "perth_events"
 description: "This community is to help find out what it going on in Perth.  Hopefully we can find out about what is going on without resorting to stalker book.If you see a fun/cool event that you think others may be interested, please pot it here.At somepoint i will figure out how to tag things. so that we can look for things a little closer to home!"
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/perth_events"

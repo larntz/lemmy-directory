@@ -3,7 +3,7 @@ title: "Gundam, Gunpla, and other related content"
 name: "gundam"
 description: "A community for fans of the Mobile Suit Gundam anime series and closely related subject. Including Gunpla, the art of building models of mecha.More details added as we go.Rules are typical. No porn, no personal attacks, no bigotry."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gundam"

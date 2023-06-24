@@ -3,7 +3,7 @@ title: "The Golden Gator"
 name: "thegoldengator"
 description: "The Golden Gator is a fictional bar located in Bricktown somewhere in New York.Here the Gator Crew gather for near daily light-RP, stage improv, social games and game-shows.Twitch streamer Roflgator hosts the events while MurderCrumpet, his assistant handles invites and management.Main subreddit: https://www.reddit.com/r/thegoldengator- Keep things Twitch appropriate- Try to avoid double posting"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thegoldengator"

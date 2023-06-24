@@ -3,7 +3,7 @@ title: "climatechange"
 name: "criseciv"
 description: "O clima mudou,e como a vida humana entrou numa nova era,de inseguranças e medos.Aqui não é lugar para pensar o clima,é para as mudanças climáticas que já vivemos!"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/criseciv"

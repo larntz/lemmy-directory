@@ -3,7 +3,7 @@ title: "MetalPay"
 name: "metalpay"
 description: "Metal Pay is a blockchain-based payment processing platform, which intends to introduce cryptocurrency to the mass-market level by combining participation incentives with a clean, user-friendly interface unseen in cryptocurrencies – until now."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalpay"

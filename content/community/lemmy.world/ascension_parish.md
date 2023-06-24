@@ -3,7 +3,7 @@ title: "Ascension Parish"
 name: "ascension_parish"
 description: "A community for residents and those that are interested in Ascension Parish, Louisiana"
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ascension_parish"

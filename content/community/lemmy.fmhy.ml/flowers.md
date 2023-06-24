@@ -3,19 +3,19 @@ title: "flowers"
 name: "flowers"
 description: "For posting pictures of your favorite flowers"
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/flowers"
 host: lemmy.fmhy.ml
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 18:02:05"
-subscribers: 50
+subscribers: 51
 posts: 7
 comments: 2
 weight: 7
 dau: 1
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "lemmy_fmhy_ml"

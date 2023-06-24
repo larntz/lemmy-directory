@@ -3,7 +3,7 @@ title: "Paul Thomas Anderson"
 name: "paulthomasanderson"
 description: "A Place for Fans to Gather and Discuss All Things Paul Thomas Anderson."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paulthomasanderson"

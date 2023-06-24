@@ -3,14 +3,14 @@ title: "xkcd type toons"
 name: "kxcd"
 description: "you are herexkcd is https://xkcd.com/"
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kxcd"
 host: midwest.social
 lastmod: "2023-06-17 02:18:25"
 published: "2023-06-09 05:04:29"
-subscribers: 21
+subscribers: 25
 posts: 1
 comments: 0
 weight: 1

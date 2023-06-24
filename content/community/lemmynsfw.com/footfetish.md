@@ -3,14 +3,14 @@ title: "FootFetish"
 name: "footfetish"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/footfetish"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 06:47:13"
-subscribers: 11
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1

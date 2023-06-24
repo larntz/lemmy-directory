@@ -3,7 +3,7 @@ title: "Military"
 name: "military"
 description: "![](https://cdn.discordapp.com/attachments/492690347340857345/616733449792913418/T34-85_4-view_drawing.png)Red Army Foreverfor posting on military topics[For Military Theory](https://lemmygrad.ml/c/zhukovacademy)"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/military"
@@ -15,7 +15,7 @@ posts: 135
 comments: 197
 weight: 135
 dau: 2
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmygrad_ml"

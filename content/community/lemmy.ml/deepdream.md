@@ -3,7 +3,7 @@ title: "Dreaming Neural Nets"
 name: "deepdream"
 description: "Deepdream is a place to share pictures or videos created with Artificial Intelligence tools. "
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepdream"

@@ -3,14 +3,14 @@ title: "Windows 11"
 name: "windows11"
 description: "Welcome to the community for **Windows 11**, Microsoft's latest computer operating system. **Rules:**- Do not promote pirated content or grey market keys.- Be civil. No rude, offensive, or hateful posts/comments.**Related Communities:**-  [Windows Insiders](https://lemmy.world/c/windows_insiders)"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windows11"
 host: lemmy.world
 lastmod: "2023-06-22 05:15:38"
 published: "2023-06-22 04:31:27"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

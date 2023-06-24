@@ -3,14 +3,14 @@ title: "Indian Communists"
 name: "indian_communists"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/indian_communists"
 host: lemmygrad.ml
 lastmod: "2022-03-04 20:00:24"
 published: "2022-03-04 17:09:08"
-subscribers: 59
+subscribers: 58
 posts: 11
 comments: 5
 weight: 11

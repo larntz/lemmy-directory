@@ -3,16 +3,16 @@ title: "zzz"
 name: "zzz"
 description: "For a single activity we do a third of our lives, there isn't much discussion or culture about sleeping (or the act of dreaming). This is a community of people who want to discuss, make memes about, or just broadcast anything about sleeping; either personally or generally.Rules1.  Don't be a bigot or mean2. No spam"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/zzz"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-21 19:06:37"
 published: "2023-06-07 23:24:15"
-subscribers: 26
+subscribers: 28
 posts: 8
-comments: 6
+comments: 7
 weight: 8
 dau: 1
 wau: 2

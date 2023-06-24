@@ -3,7 +3,7 @@ title: "Social Media"
 name: "social_media"
 description: "A place for discussing social media."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/social_media"

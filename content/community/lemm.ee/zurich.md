@@ -3,7 +3,7 @@ title: "Zürich"
 name: "zurich"
 description: "Zürich is a vibrant and cosmopolitan city that blends picturesque landscapes with a thriving cultural scene."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/zurich"

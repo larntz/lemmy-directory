@@ -3,12 +3,12 @@ title: "Hot Wheels"
 name: "hotwheels"
 description: "Discussing anything Hot Wheels and diecast related"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hotwheels"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-23 05:00:36"
 published: "2023-06-09 15:00:52"
 subscribers: 3
 posts: 1

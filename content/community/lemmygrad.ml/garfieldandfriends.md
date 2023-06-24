@@ -3,7 +3,7 @@ title: "Garfield"
 name: "garfieldandfriends"
 description: "Jon Arbuckle’s sassy pet cat is passionate about food and sleep, so you won’t catch him exercising any time soon. Though fellow pet Odie might be a fun-loving doofus of a dog, Garfield’s got enough snarky commentary for the whole house. Quite simply, he’s 100% that cat. Now, pass the lasagna!Author: Jim DavisGarfield Comic: Published June 19, 1978***STANDARD LEMMYGRAD RULES APPLY!***"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/garfieldandfriends"

@@ -3,7 +3,7 @@ title: "Jeux"
 name: "jeux"
 description: "pour échanger sur tous types de jeux"
 type: community
-date: "2023-06-23 01:18:43"
+date: "2023-06-24 01:12:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/jeux"

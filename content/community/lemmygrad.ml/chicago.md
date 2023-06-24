@@ -3,12 +3,12 @@ title: "For the city of Chicago"
 name: "chicago"
 description: "I'll make this later"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chicago"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-02-25 08:14:21"
 subscribers: 20
 posts: 1

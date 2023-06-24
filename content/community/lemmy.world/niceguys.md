@@ -3,7 +3,7 @@ title: "Nice Guys"
 name: "niceguys"
 description: "You came to this community to laugh at other people. Be ashamed of yourself."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/niceguys"

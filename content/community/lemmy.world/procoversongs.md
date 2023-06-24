@@ -3,7 +3,7 @@ title: "ProCoverSongs"
 name: "procoversongs"
 description: "Create covers of pros from pros. "
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/procoversongs"

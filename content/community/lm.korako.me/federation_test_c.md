@@ -3,7 +3,7 @@ title: "連合テスト用"
 name: "federation_test_c"
 description: "連合のテスト用ですうちと連合できるかどうかテストする際に使用してください。好きに使っていただいて大丈夫です。"
 type: community
-date: "2023-06-23 01:18:39"
+date: "2023-06-24 01:12:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/federation_test_c"

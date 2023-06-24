@@ -3,7 +3,7 @@ title: "Real Salt Lake"
 name: "realsaltlake"
 description: "A federated location for fans of **Real Salt Lake** to get together to discuss the team."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realsaltlake"

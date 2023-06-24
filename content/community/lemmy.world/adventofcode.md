@@ -3,7 +3,7 @@ title: "Advent of Code"
 name: "adventofcode"
 description: "Advent of Code is an annual Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.https://adventofcode.com"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adventofcode"

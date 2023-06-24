@@ -3,7 +3,7 @@ title: "Birding"
 name: "birding"
 description: "News, photos, and discussion related to birds, ornithology, and the birding / birdwatching hobby.What is this bird? questions are fine for now, but we may move them to a separate community if they begin to crowd out the other content."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birding"

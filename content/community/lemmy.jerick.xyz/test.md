@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "testing purposes"
 type: community
-date: "2023-06-19 17:59:01"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jerick.xyz/c/test"

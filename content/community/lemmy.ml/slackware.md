@@ -3,7 +3,7 @@ title: "Slackware"
 name: "slackware"
 description: "Welcome to SlackwareThis is a non-official community/slice.Some resources:- [Get Slackware](http://slackware.com/getslack)- [Beginners Guide](https://docs.slackware.com/slackware:beginners_guide)Join us on [matrix!](https://app.element.io#/group/+slackware:matrix.org)Rules:- Posts must be relevant to Slackware or Linux news (at the very minimum)- No NSFW content.- Jokes must be in good taste. No hate speech, bigotry, etc."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slackware"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_ml"

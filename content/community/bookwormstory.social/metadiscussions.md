@@ -3,7 +3,7 @@ title: "Lemmy / Site Discussions"
 name: "metadiscussions"
 description: "Got any ideas to make the instance better? Any issue with federating from your home instance? Post it here."
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/metadiscussions"
@@ -15,7 +15,7 @@ posts: 8
 comments: 45
 weight: 8
 dau: 1
-wau: 6
+wau: 5
 mau: 8
 instances:
 - "bookwormstory_social"

@@ -3,7 +3,7 @@ title: "Thunder Bay General"
 name: "thunder_bay"
 description: "Community to discuss the happenings of Northern Ontario's Stormiest City."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thunder_bay"

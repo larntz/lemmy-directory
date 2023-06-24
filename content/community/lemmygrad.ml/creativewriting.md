@@ -3,20 +3,20 @@ title: "Creative Writing"
 name: "creativewriting"
 description: "A community for sharing, critiquing and discussing creative writing of all kinds, with a special focus on proletarian fiction. Please keep all criticism constructive and be sensitive towards other contributors and their work."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/creativewriting"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-21 15:30:41"
 subscribers: 52
-posts: 12
-comments: 49
-weight: 12
-dau: 1
-wau: 1
-mau: 5
+posts: 13
+comments: 52
+weight: 13
+dau: 2
+wau: 3
+mau: 7
 instances:
 - "lemmygrad_ml"
 tags: 

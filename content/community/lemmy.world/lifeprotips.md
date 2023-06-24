@@ -1,22 +1,22 @@
 ---
 title: "Life Pro Tips" 
 name: "lifeprotips"
-description: "**Unlocking the Secrets to Success and Fulfillment!****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
+description: "**Unlocking the Secrets to Success and Fulfillment!****Rules**1. Share valuable life pro tips.2. Keep it concise and clear.3. Stay on-topic.4. Respect fellow members.5. No self-promotion.6. Verify information before sharing.7. Avoid illegal or unethical advice.8. Report rule violations.Join us and share your best life pro tips!"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lifeprotips"
 host: lemmy.world
-lastmod: "2023-06-20 10:18:56"
+lastmod: "2023-06-23 15:49:35"
 published: "2023-06-12 08:15:20"
-subscribers: 88
-posts: 1
-comments: 0
-weight: 1
+subscribers: 95
+posts: 2
+comments: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

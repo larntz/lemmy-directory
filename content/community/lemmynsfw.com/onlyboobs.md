@@ -1,16 +1,16 @@
 ---
 title: "Onlyboobs" 
 name: "onlyboobs"
-description: "If u r interested you can contribute to the community or join [UwU](https://lemmynsfw.com/c/uwu)        [Porns](https://lemmynsfw.com/c/porns) [Amateur Girls](https://lemmynsfw.com/c/amateurgirls) "
+description: " # __Only bOObs on Lemmy__***## Rules:> We have no rules, just follow [Lemmynsfw](https://lemmynsfw.com/) rules.## Check these community for more:[Amateur Girls](https://lemmynsfw.com/c/amateurgirls)  |  [Porns](https://lemmynsfw.com/c/porns) | [UwU](https://lemmynsfw.com/c/uwu)    |  [Wild](https://lemmynsfw.com/c/wild) ***"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/onlyboobs"
 host: lemmynsfw.com
-lastmod: "2023-06-22 15:59:23"
+lastmod: "2023-06-23 15:12:19"
 published: "2023-06-20 05:22:27"
-subscribers: 19
+subscribers: 25
 posts: 1
 comments: 0
 weight: 1

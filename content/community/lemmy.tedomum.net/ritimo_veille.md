@@ -3,7 +3,7 @@ title: "Veille internationale du réseau ritimo"
 name: "ritimo_veille"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:43"
+date: "2023-06-24 01:12:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/ritimo_veille"

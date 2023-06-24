@@ -3,7 +3,7 @@ title: "Hardstyle - Home of the Harder Styles"
 name: "hardstyle"
 description: "This community is a great place to post your favorite tracks, get feedback on your latest production or discuss just about anything Hardstyle/Hardcore/Frenchcore related."
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hardstyle"

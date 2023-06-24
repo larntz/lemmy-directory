@@ -3,7 +3,7 @@ title: "Noticias"
 name: "noticiaslatin"
 description: "Comunidad reservada para la publicación de noticias en idiomas latinos (portugués, español e italiano) "
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/noticiaslatin"

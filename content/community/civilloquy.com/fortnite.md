@@ -3,7 +3,7 @@ title: "Fortnite"
 name: "fortnite"
 description: "For discussion of Epic's popular game FortniteThis community is not affiliated with Epic in any respect."
 type: community
-date: "2023-06-23 01:18:59"
+date: "2023-06-24 01:13:05"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/fortnite"

@@ -3,7 +3,7 @@ title: "Control4"
 name: "control4"
 description: "An unofficial Control4 for all of your Control4 Discussions. "
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/control4"

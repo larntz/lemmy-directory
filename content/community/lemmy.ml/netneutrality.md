@@ -3,7 +3,7 @@ title: "Network Neutrality"
 name: "netneutrality"
 description: "discussion about network neutrality"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netneutrality"

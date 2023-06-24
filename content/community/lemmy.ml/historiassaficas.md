@@ -3,7 +3,7 @@ title: "Historias Sáficas"
 name: "historiassaficas"
 description: "Comunidad en español para escritoras de historias sáficas.Cualquier persona que se identifique como mujer o persona no binaria que escriba historias sáficas es bienvenide.***# Netiqueta* Preséntate (TuNombre - Presentación)* Sé amable.* Evita los conflictos y polémicas.***# Normas* No está permitida la transfobia, bifobia o cualquier otra fobia que vulnere los derechos humanos (motivo de expulsión).* Puedes promocionar tus historias, pero no hagas spam."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/historiassaficas"

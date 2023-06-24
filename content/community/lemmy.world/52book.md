@@ -3,7 +3,7 @@ title: "52book"
 name: "52book"
 description: "The 52 book challenge is for people planning to read one book a week, or 52 books a year. Discuss your progress, tips for staying on track, or ask for advice on what to read next."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/52book"

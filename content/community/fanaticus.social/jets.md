@@ -3,7 +3,7 @@ title: "New York Jets"
 name: "jets"
 description: "A community dedicated to the New York Jets.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/jets"
@@ -11,9 +11,9 @@ host: fanaticus.social
 lastmod: "2023-06-17 20:41:49"
 published: "2023-06-14 01:26:58"
 subscribers: 0
-posts: 0
+posts: 2
 comments: 0
-weight: 0
+weight: 2
 dau: 0
 wau: 0
 mau: 0

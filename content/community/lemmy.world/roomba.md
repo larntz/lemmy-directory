@@ -3,7 +3,7 @@ title: "Roomba"
 name: "roomba"
 description: "A community for all robotic vacuum related discussion! While our main focus is on IRobot Roombas, any robotic vacuum discussion is allowed"
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roomba"

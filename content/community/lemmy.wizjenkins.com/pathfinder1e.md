@@ -3,7 +3,7 @@ title: "Pathfinder 1st Edition"
 name: "pathfinder1e"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:56"
+date: "2023-06-24 01:13:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/pathfinder1e"

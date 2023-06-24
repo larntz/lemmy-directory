@@ -3,7 +3,7 @@ title: "Rocket League"
 name: "rocketleague"
 description: "A forum to discuss anything related to the game rocket league"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rocketleague"

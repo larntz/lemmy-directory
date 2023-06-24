@@ -3,12 +3,12 @@ title: "Podcast"
 name: "podcast"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/podcast"
 host: lemmy.rollenspiel.monster
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-10-09 09:36:06"
 subscribers: 4
 posts: 1

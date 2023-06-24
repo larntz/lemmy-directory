@@ -3,7 +3,7 @@ title: "historyczna"
 name: "historia"
 description: "Hej, nie nadaje się do moderowania tej społeczności, ale widziałem potrzebę, żeby powstała! Chcesz ją przejąć? Daj znać! "
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/historia"
@@ -11,9 +11,9 @@ host: szmer.info
 lastmod: "2022-08-20 08:34:10"
 published: "2021-03-11 18:25:12"
 subscribers: 60
-posts: 313
+posts: 314
 comments: 81
-weight: 313
+weight: 314
 dau: 3
 wau: 1
 mau: 5

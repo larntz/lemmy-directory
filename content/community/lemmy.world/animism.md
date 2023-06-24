@@ -3,7 +3,7 @@ title: "New Animism"
 name: "animism"
 description: "This community is about the belief that spirit is in everything: trees, rocks, places. It is a space for discussing strategies for environmental protection as well as personal development of mind, body and being through a more primal lifestyle."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animism"
@@ -15,7 +15,7 @@ posts: 10
 comments: 9
 weight: 10
 dau: 2
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

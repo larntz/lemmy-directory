@@ -3,7 +3,7 @@ title: "edu_mex"
 name: "educacion_en_mexico"
 description: "Una comunidad para intercambiar ideas sobre la educación en México.Por favor evita:- Politizar la conversación- Ser ofensivo con los demás"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/educacion_en_mexico"

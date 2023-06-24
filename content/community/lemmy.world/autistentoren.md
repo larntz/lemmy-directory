@@ -3,7 +3,7 @@ title: "AutistenToren"
 name: "autistentoren"
 description: "memes relating to the only good faculty- post original content, nothing illegal- keep it gezellig, no blatant defamation- respect rules of TU and its services"
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/autistentoren"

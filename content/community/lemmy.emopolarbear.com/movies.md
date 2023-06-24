@@ -3,7 +3,7 @@ title: "Movies"
 name: "movies"
 description: "Here we can talk about cinema."
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.emopolarbear.com/c/movies"

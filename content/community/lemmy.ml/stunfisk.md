@@ -3,14 +3,14 @@ title: "Stunfisk"
 name: "stunfisk"
 description: "The home of competitive pokemon on lemmy. Everything is welcome from team to news, discussions, and analyses and much more.TLDR; r/stunfisk at home."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stunfisk"
 host: lemmy.ml
 lastmod: "2023-06-04 13:15:43"
 published: "2023-06-04 13:01:16"
-subscribers: 19
+subscribers: 20
 posts: 4
 comments: 5
 weight: 4

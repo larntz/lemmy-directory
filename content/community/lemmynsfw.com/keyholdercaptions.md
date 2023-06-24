@@ -3,20 +3,20 @@ title: "KeyHolderCaptions"
 name: "keyholdercaptions"
 description: "Rules:1. Captions only, this requires text on the image. Photos, gifts, drawn art, etc are all acceptable to caption.2. Captions must be Chastity related.3. Content and people/characters must be 18+.4. Do not request captions here.5. Captions can not be advertising, however, a watermark in the corner is fine.6. All rules must comply with the lemmynsfw's.7. No involuntary pornography.If you're interesting in moderating and were active on the subreddit, please let send me a @ayylmao a message."
 type: community
-date: "2023-06-22 02:20:38"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/keyholdercaptions"
 host: lemmynsfw.com
 lastmod: "2023-06-13 23:24:52"
 published: "2023-06-13 23:18:48"
-subscribers: 93
-posts: 108
-comments: 3
-weight: 108
+subscribers: 112
+posts: 147
+comments: 6
+weight: 147
 dau: 1
-wau: 6
-mau: 6
+wau: 7
+mau: 7
 instances:
 - "lemmynsfw_com"
 tags: 

@@ -3,20 +3,20 @@ title: "Stable Diffusion"
 name: "stable_diffusion"
 description: "Discuss matters related to our favourite AI Art generation technologyAlso see* [Stable Diffusion Art](/c/share_your_art@lemmy.dbzer0.com) * [Stable Diffusion Anime](/c/share_anime_art@lemmy.dbzer0.com) "
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/stable_diffusion"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-13 10:37:56"
 published: "2023-06-09 21:49:21"
-subscribers: 1236
-posts: 58
-comments: 146
-weight: 58
-dau: 7
-wau: 60
-mau: 89
+subscribers: 1294
+posts: 60
+comments: 153
+weight: 60
+dau: 9
+wau: 55
+mau: 94
 instances:
 - "lemmy_dbzer0_com"
 tags: 

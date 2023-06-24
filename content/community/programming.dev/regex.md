@@ -3,14 +3,14 @@ title: "Regex"
 name: "regex"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:19:49"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/regex"
 host: programming.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 17:50:41"
 published: "2023-06-16 08:42:22"
-subscribers: 31
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Scala Programming language"
 name: "scala"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scala"
 host: lemmy.ml
 lastmod: "2021-01-29 02:10:28"
 published: "2020-01-22 05:26:00"
-subscribers: 45
+subscribers: 46
 posts: 4
 comments: 3
 weight: 4

@@ -3,7 +3,7 @@ title: "Amsterdam"
 name: "amsterdam"
 description: "A community for everybody living in Amsterdam, as well as fans and visitors of the city. Stay friendly!"
 type: community
-date: "2023-06-23 01:21:32"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/amsterdam"

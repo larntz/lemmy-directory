@@ -3,7 +3,7 @@ title: "Japanese Food"
 name: "japanesefood"
 description: "*Quality* photography, discussion, videos and recipes related to Japanese cuisine. Recipes and your homemade dishes are especially welcome."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/japanesefood"

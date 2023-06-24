@@ -3,7 +3,7 @@ title: "testsubforbots"
 name: "testsubforbots"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-24 01:15:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/testsubforbots"
@@ -15,7 +15,7 @@ posts: 10
 comments: 5
 weight: 10
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_world"

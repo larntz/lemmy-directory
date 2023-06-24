@@ -3,14 +3,14 @@ title: "Jazz Fusion"
 name: "jazzfusion"
 description: "Talk about Jazz Fusion bands!"
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/jazzfusion"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-19 05:12:02"
 published: "2023-06-19 04:53:01"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

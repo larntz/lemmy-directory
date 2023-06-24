@@ -3,7 +3,7 @@ title: "Twice"
 name: "twice"
 description: "A community dedicated to JYPE's TWICE.**Rules**:1. Follow netiquette2. Posts should be related to Twice3. No piracy4. No flaming, trolling, or name-calling"
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/twice"
@@ -15,7 +15,7 @@ posts: 6
 comments: 2
 weight: 6
 dau: 1
-wau: 5
+wau: 4
 mau: 7
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "The Revolutionary Garden"
 name: "eco_socialism"
 description: "Eco-Socialists Unite!A community for talking about gardening, Eco news, and all things Mother Earth! Rules;- No Colonialism- No defence for industrialism or industries that create pollution - The Earth Is Your FriendRelated Communities:[The People's Garden](https://lemmygrad.ml/c/peoples_garden)"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/eco_socialism"

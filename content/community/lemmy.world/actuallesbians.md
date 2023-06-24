@@ -1,22 +1,22 @@
 ---
-title: "Actual Lesbians!" 
+title: "Lesbians!" 
 name: "actuallesbians"
-description: "A place for wlw"
+description: "The community for lesbians, sapphics and allies! Everyone is welcome---![](https://lemmy.world/pictrs/image/9b53db6e-e59a-4b5c-8047-3459a21e9c8f.png)**Rules**1. No bigotry or hate-speech2. No harassement or doxing3. No promotion of your products without asking moderation4. No NSFW**Lesbian-related communities**[Saffic, for sapphic fictions](saffic@lemmy.world)[WLW Memes](wlw_memes@lemmy.world)**LGBTQ+ communities**[LGBT+](lgbtq_plus@lemmy.blahaj.zone)[Bisexual](bisexual@lemmy.world)[Transgender](transgender@lemmy.ml)[Asexual](asexual@lemmy.world)**LGBTQ+ ressources**[The Trevor Project](https://www.thetrevorproject.org/)[Rainbow Railroad](https://www.rainbowrailroad.org/)[LGA World](https://ilga.org/)[Outright International](https://outrightinternational.org/)"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/actuallesbians"
 host: lemmy.world
-lastmod: "2023-06-22 15:14:40"
+lastmod: "2023-06-23 19:34:03"
 published: "2023-06-22 15:08:57"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 27
+posts: 5
+comments: 3
+weight: 5
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

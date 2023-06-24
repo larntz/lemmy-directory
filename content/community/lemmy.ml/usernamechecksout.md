@@ -3,7 +3,7 @@ title: "UsernameChecksOut"
 name: "usernamechecksout"
 description: "This community is for screenshots of posts where the username checks out.  Community Rules:1. Screenshots can be from any site example: Reddit, Twitter, Facebook, Instagram, etc. 2. Blur out Usernames, real names, or other information that could identify the person. "
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/usernamechecksout"

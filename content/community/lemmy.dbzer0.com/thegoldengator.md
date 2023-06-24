@@ -3,7 +3,7 @@ title: "The Golden Gator"
 name: "thegoldengator"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/thegoldengator"
@@ -15,7 +15,7 @@ posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_dbzer0_com"

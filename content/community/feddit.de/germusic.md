@@ -3,7 +3,7 @@ title: "germusic"
 name: "germusic"
 description: "Musik in deutscher Sprache. Nicht notgedrungen von Deutschen oder für Deutsche oder auch mit. Oder nicht."
 type: community
-date: "2023-06-23 01:19:35"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germusic"

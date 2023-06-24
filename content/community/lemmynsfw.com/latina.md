@@ -1,19 +1,19 @@
 ---
 title: "Latina" 
 name: "latina"
-description: "Description not available."
+description: "[Latina Teens](https://hornygrail.com/collection/BbWL3) & MILFs"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/latina"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 00:47:43"
 published: "2023-06-16 07:42:44"
-subscribers: 123
-posts: 6
+subscribers: 127
+posts: 8
 comments: 0
-weight: 6
+weight: 8
 dau: 1
 wau: 1
 mau: 1

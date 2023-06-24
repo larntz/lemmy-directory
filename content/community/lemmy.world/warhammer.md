@@ -3,14 +3,14 @@ title: "Warhammer"
 name: "warhammer"
 description: "For Warhammer 40k, Age of Sigmar, Old World and all other Games Workshop games, miniatures and video games."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/warhammer"
 host: lemmy.world
 lastmod: "2023-06-18 01:38:20"
 published: "2023-06-14 10:28:52"
-subscribers: 17
+subscribers: 20
 posts: 3
 comments: 0
 weight: 3

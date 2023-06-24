@@ -3,14 +3,14 @@ title: "Entomology (including arachnids and others) 🐞🐛🕷️"
 name: "entomology"
 description: "For all lovers of entomology. Inclusive entomology - arachnids, myriapods, isopods, and more are welcome here. <3 Photos, articles (mainstream or research), questions, discussions - anything bug related goes."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/entomology"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-01 14:11:02"
-subscribers: 13
+subscribers: 14
 posts: 4
 comments: 1
 weight: 4

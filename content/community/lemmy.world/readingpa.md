@@ -3,7 +3,7 @@ title: "Reading PA"
 name: "readingpa"
 description: "For users based in or around Berks County, PA."
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/readingpa"

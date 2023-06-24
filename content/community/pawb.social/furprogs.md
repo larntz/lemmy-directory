@@ -3,14 +3,14 @@ title: "Furry Programmers"
 name: "furprogs"
 description: "English-language general programmers communityPlease treat [pawb.social](https://pawb.social/post/100)’s rules as though they were the rules of this community, even if you’re posting from another instance!"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:57"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/furprogs"
 host: pawb.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 08:26:13"
-subscribers: 64
+subscribers: 65
 posts: 5
 comments: 10
 weight: 5

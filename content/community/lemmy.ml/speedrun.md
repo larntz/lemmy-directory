@@ -3,14 +3,14 @@ title: "Speedrunning"
 name: "speedrun"
 description: "/c/Speedrun is a sub for the speedrunning community.Speedrunning is a play-through of a video game performed with the intent of completing a goal as fast as possible.[speedrun.com](http://www.speedrun.com/) "
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/speedrun"
 host: lemmy.ml
 lastmod: "2023-06-06 16:47:16"
 published: "2023-06-06 16:47:03"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 0
 weight: 4

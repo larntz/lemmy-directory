@@ -3,20 +3,20 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:37"
+date: "2023-06-24 01:12:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/test"
 host: voyager.lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 22:04:16"
-subscribers: 15
-posts: 19
-comments: 180
-weight: 19
-dau: 9
-wau: 18
-mau: 22
+subscribers: 17
+posts: 32
+comments: 192
+weight: 32
+dau: 5
+wau: 19
+mau: 24
 instances:
 - "voyager_lemmy_ml"
 tags: 

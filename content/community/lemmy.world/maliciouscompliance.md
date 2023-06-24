@@ -3,20 +3,20 @@ title: "Malicious Compliance"
 name: "maliciouscompliance"
 description: "People conforming to the letter, but not the spirit, of a request. For now, this includes text posts, images, videos and links. Please ensure that the “malicious compliance” aspect is apparent - if you’re making a text post, be sure to explain this part; if it’s an image/video/link, use the “Body” field to elaborate.======- We ENCOURAGE posts about events that happened to you, or someone you know.- We ACCEPT (for now) reposts of good malicious compliance stories (from other platforms) which did not happen to you or someone you knew. **Please use a [REPOST] tag in such situations.**- We DO NOT ALLOW fiction, or posts that break site-wide rules.======Also check out the following communities:[!fakehistoryporn@lemmy.world](/c/fakehistoryporn@lemmy.world)[!unethicallifeprotips@lemmy.world](/c/unethicallifeprotips@lemmy.world)"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/maliciouscompliance"
 host: lemmy.world
 lastmod: "2023-06-21 01:06:14"
 published: "2023-06-14 09:06:00"
-subscribers: 6613
-posts: 61
-comments: 1262
-weight: 61
-dau: 37
-wau: 675
-mau: 715
+subscribers: 7027
+posts: 63
+comments: 1281
+weight: 63
+dau: 24
+wau: 651
+mau: 731
 instances:
 - "lemmy_world"
 tags: 

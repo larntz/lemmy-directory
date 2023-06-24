@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "Videos about games, game preservation, and game history. If you record your own videos, please post them and make sure people know they’re yours, just don’t spam :)"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/videos"
@@ -15,7 +15,7 @@ posts: 5
 comments: 11
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 8
 instances:
 - "preserve_games"

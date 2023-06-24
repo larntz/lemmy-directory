@@ -3,7 +3,7 @@ title: "sex"
 name: "sex"
 description: "# Discussions about sex.Welcome to [sex](https://lemmy.world/c/sex). This is a community for all discussions about sex - all genders, **nothing** off limits unless it's illegal.The rules for posting and commenting, besides the rules defined in [lemmy.world](https://mastodon.world/about), are as follows:## Rules**1.** Hate speech, harassment, bigotry, spamming, advertising of any kind are not allowed. Any phobias? Yup, keep those badgers to yourself.**2.** All usernames in screenshots must be censored unless you have their consent with proof.**3.** No upvote farming.**4.** You may not encourage brigading any communities or users in any way.**5.** No illegal and/or NSFW content. This includes images and links. **6.** Politics not welcome. (athough, to be fair, world would be a much better place if politicians got laid more regularly)**7.** Don't be a toxic User. Add to conversation, rather than be a standard shouty Facebook user . We're tired of social being meh, probably the same as you eh? Be nice. Be respectful. **8.** No ads. No promotions on your product or service or business.  Don't spam. Nothing against you, CamPeople and OF People, butttt... not in this group, mkay?### Community ModerationFor inquiry on becoming a Moderator of this community, you may comment on the pinned post of the time, or simply shoot a message to the current moderators."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sex"

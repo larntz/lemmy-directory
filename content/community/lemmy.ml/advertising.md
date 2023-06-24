@@ -3,7 +3,7 @@ title: "advertising"
 name: "advertising"
 description: "This is an community to DISCUSS advertising, adblockers, ad networks, ad campaigns. Rule 4 of Lemmy.ml is No Ads / Spamming. and this will be enforced. This is not a place to advertise/spam your services."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/advertising"

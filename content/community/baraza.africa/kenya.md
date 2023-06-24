@@ -3,7 +3,7 @@ title: "Kenya"
 name: "kenya"
 description: "A community to share and discuss news from Kenya. "
 type: community
-date: "2023-06-23 01:19:23"
+date: "2023-06-24 01:13:29"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/kenya"

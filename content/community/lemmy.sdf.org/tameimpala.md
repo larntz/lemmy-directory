@@ -3,7 +3,7 @@ title: "Tame Impala"
 name: "tameimpala"
 description: "Tame Impala News and Discussion (and anything else)Be Kind and Be a good person. "
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/tameimpala"

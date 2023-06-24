@@ -3,7 +3,7 @@ title: "Headphones"
 name: "headphones"
 description: "Welcome to c/headphones, the premier Lemmy community dedicated to all things related to headphones and audio gear! Whether you're an audiophile, a casual listener, or a professional sound engineer, this is the place to immerse yourself in the world of personal audio."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/headphones"

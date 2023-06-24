@@ -3,12 +3,12 @@ title: "Artefacts"
 name: "artefacts"
 description: "Images of interesting artefacts"
 type: community
-date: "2023-06-23 01:18:54"
+date: "2023-06-24 01:12:59"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/artefacts"
 host: terefere.eu
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 18:55:34"
 subscribers: 3
 posts: 0

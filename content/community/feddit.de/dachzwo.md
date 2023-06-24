@@ -3,7 +3,7 @@ title: "c/DachZwo - Zwotes Deutsches Feddit!"
 name: "dachzwo"
 description: "Für eine deutschsprachige Community in der wir gut und gerne leben!"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dachzwo"

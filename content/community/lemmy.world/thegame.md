@@ -3,7 +3,7 @@ title: "The Game"
 name: "thegame"
 description: "[The game](https://en.wikipedia.org/wiki/The_Game_(mind_game))Rules:  1. If you think about the Game, you lose the Game.2. Be nice."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thegame"

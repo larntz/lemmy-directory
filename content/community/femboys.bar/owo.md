@@ -3,14 +3,14 @@ title: "owo"
 name: "owo"
 description: "hello world"
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:22"
 draft: false
 nsfw: false
 actor_id: "https://femboys.bar/c/owo"
 host: femboys.bar
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 13:31:17"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 1
 weight: 2

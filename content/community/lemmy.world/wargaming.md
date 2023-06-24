@@ -3,7 +3,7 @@ title: "Wargaming"
 name: "wargaming"
 description: "A Community for anything table-top wargaming related whether that be hex and chit or ruler and die.related communities:[!warhammer40k@lemmy.world](https://lemmy.world/c/warhammer40k) [!warhammer40k@lemmy.ml](https://lemmy.ml/c/warhammer40k) [!warhammer@lemmy.world](https://lemmy.world/c/warhammer) [!tabletopminis@lemmy.world](https://lemmy.world/c/tabletopminis) [!solowargaming@lemmy.world](https://lemmy.world/c/solowargaming) Let me know if there are others I can add to the sidebar."
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wargaming"

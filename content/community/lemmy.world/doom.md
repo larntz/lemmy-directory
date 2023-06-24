@@ -3,14 +3,14 @@ title: "Doom"
 name: "doom"
 description: "Rip and tear until it is done"
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doom"
 host: lemmy.world
 lastmod: "2023-06-12 12:04:10"
 published: "2023-06-12 11:44:15"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 3
 weight: 1

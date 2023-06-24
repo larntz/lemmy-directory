@@ -3,14 +3,14 @@ title: "LTT"
 name: "ltt"
 description: "A community for the discussion of topics surrounding the YouTube channels and businesses owned by Linus Sebastian and Yvonne Ho"
 type: community
-date: "2023-06-21 14:55:58"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ltt"
 host: lemmy.world
 lastmod: "2023-06-12 00:16:55"
 published: "2023-06-12 00:16:31"
-subscribers: 58
+subscribers: 66
 posts: 1
 comments: 0
 weight: 1

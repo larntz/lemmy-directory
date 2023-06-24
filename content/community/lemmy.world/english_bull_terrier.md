@@ -3,7 +3,7 @@ title: "English Bull Terrier"
 name: "english_bull_terrier"
 description: "English Bull Terrier - For egghead and miniature egghead questions, experiences, pictures, videos, training tips, etc!"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/english_bull_terrier"

@@ -3,14 +3,14 @@ title: "Chairs Underwater"
 name: "chairsunderwater"
 description: "Use NSFW tag for `not submerged fully in water`"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chairsunderwater"
 host: lemmy.world
 lastmod: "2023-06-21 08:05:12"
 published: "2023-06-21 08:01:28"
-subscribers: 19
+subscribers: 20
 posts: 5
 comments: 6
 weight: 5

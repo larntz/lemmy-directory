@@ -1,14 +1,14 @@
 ---
 title: "Snek" 
 name: "snek"
-description: "Snek"
+description: "**Rules**- Post sneks"
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/snek"
 host: lemmy.world
-lastmod: "2023-06-20 18:32:11"
+lastmod: "2023-06-23 14:12:53"
 published: "2023-06-20 18:31:12"
 subscribers: 6
 posts: 0

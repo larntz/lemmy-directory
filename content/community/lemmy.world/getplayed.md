@@ -3,7 +3,7 @@ title: "GetPlayed"
 name: "getplayed"
 description: "Welcome to GetPlayed! Here we discuss all things surrounding the getplayed podcast, the games they're playing, dicsussions of each episode, the demise of the RE4 Merchant, all things soup and much more!"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/getplayed"

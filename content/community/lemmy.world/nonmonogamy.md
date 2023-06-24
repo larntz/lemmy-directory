@@ -3,7 +3,7 @@ title: "Non-monogamy"
 name: "nonmonogamy"
 description: "For anyone who likes to draw outside the monogamous lines, ethically. Whether you are polyamorous, in an open relationship, a swinger or just monogomish, this is the place for you.  See also: [Polyamory community](https://lemmy.world/c/polyamory)"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nonmonogamy"
@@ -14,7 +14,7 @@ subscribers: 2
 posts: 1
 comments: 4
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

@@ -1,14 +1,14 @@
 ---
 title: "Virgin Media - Cable Broadband, Digital TV and Telephone/Mobile News (UK & Éire)" 
 name: "virginmedia"
-description: "The unaffiliated community for Virgin Media subscribers to discuss broadband, TV, phone and mobile services. Need to contact Virgin Media Customer Services? Call: 0345 454 1111 WhatsApp: 07305327112"
+description: "The unaffiliated community for Virgin Media subscribers to discuss broadband, TV, phone and mobile services. Need to contact Virgin Media Customer Services?**Call:** 0345 454 1111 **WhatsApp:** 07305327112"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virginmedia"
 host: lemmy.world
-lastmod: "2023-06-22 14:07:57"
+lastmod: "2023-06-23 11:58:52"
 published: "2023-06-22 13:45:07"
 subscribers: 1
 posts: 1

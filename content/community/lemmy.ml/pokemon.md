@@ -3,20 +3,20 @@ title: "Pokémon"
 name: "pokemon"
 description: "The Lemmy community for all things Pokémon!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games, anime episodes, etc."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pokemon"
 host: lemmy.ml
 lastmod: "2023-06-19 13:28:46"
 published: "2020-06-04 14:07:43"
-subscribers: 983
-posts: 109
-comments: 162
-weight: 109
-dau: 7
-wau: 34
-mau: 89
+subscribers: 1014
+posts: 113
+comments: 169
+weight: 113
+dau: 10
+wau: 35
+mau: 96
 instances:
 - "lemmy_ml"
 tags: 

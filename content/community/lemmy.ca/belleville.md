@@ -3,7 +3,7 @@ title: "Belleville Ontario"
 name: "belleville"
 description: "The sister community of [r/BellevilleOntario](https://www.reddit.com/r/BellevilleOntario)"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/belleville"
@@ -14,9 +14,9 @@ subscribers: 7
 posts: 5
 comments: 6
 weight: 5
-dau: 0
-wau: 4
-mau: 4
+dau: 1
+wau: 2
+mau: 5
 instances:
 - "lemmy_ca"
 tags: 

@@ -3,7 +3,7 @@ title: "Bωockchain"
 name: "bwockchain"
 description: "bwockchain is not a technology of the future, buttcoin is a scam.All lemmy.ml instance rules work here."
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bwockchain"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 5
 comments: 0
 weight: 5
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

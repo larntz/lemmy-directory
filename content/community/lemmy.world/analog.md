@@ -3,20 +3,20 @@ title: "Film Photography"
 name: "analog"
 description: "Film Photography"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-24 01:15:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/analog"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-22 20:32:08"
 published: "2023-06-11 08:47:11"
-subscribers: 98
-posts: 5
-comments: 6
-weight: 5
+subscribers: 130
+posts: 8
+comments: 11
+weight: 8
 dau: 1
-wau: 7
-mau: 7
+wau: 8
+mau: 12
 instances:
 - "lemmy_world"
 tags: 

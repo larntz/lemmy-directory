@@ -3,7 +3,7 @@ title: "Fashion Mumbai"
 name: "fashion_mumbai"
 description: "A community for Mumbai fashionistas, influences, models and photographers to express.[For now, please use Fashion India community, would shift to this if the community grows]"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fashion_mumbai"

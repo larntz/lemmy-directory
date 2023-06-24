@@ -3,19 +3,19 @@ title: "TechSploits"
 name: "techsploits"
 description: "All things relating to breaking tech, tech breaking, OSS, or hacking together software to perform something completely out of the ordinary, on purpose or by accident."
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:10"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/techsploits"
 host: reddthat.com
 lastmod: "2023-06-09 12:22:18"
 published: "2023-06-09 11:22:22"
-subscribers: 62
+subscribers: 66
 posts: 22
 comments: 8
 weight: 22
-dau: 2
-wau: 5
+dau: 1
+wau: 4
 mau: 7
 instances:
 - "reddthat_com"

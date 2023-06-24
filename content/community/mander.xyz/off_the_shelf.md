@@ -3,7 +3,7 @@ title: "Off The Shelf"
 name: "off_the_shelf"
 description: "This is a place for creatives, engineers, scientists, developers, and entrepreneurs to take old unfinished projects off the shelf, blow off the dust, and share them with the world, lest they be lost to history.**Rules**Comments must be constructive and encouraging. Negative remarks will be removed."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/off_the_shelf"

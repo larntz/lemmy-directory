@@ -3,7 +3,7 @@ title: "Smorgasbord Bizarre"
 name: "smorgasbordbizarre"
 description: "Place to collect weird, strange, bizarre, odd or just interesting things from all over internet. And also stuff I find interesting."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/smorgasbordbizarre"

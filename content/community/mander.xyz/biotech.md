@@ -3,7 +3,7 @@ title: "Biotechnology"
 name: "biotech"
 description: "Biology and technology to tackle the issues of the 21st century."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/biotech"
@@ -14,7 +14,7 @@ subscribers: 50
 posts: 8
 comments: 0
 weight: 8
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

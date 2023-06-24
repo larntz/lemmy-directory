@@ -3,20 +3,20 @@ title: "chat"
 name: "chat"
 description: "A place for some chatting without having to restrict to certain topics.Be kind to each other! This is supposed to be a wholesome place."
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chat"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 08:14:55"
-subscribers: 52
+subscribers: 54
 posts: 3
-comments: 42
+comments: 43
 weight: 3
 dau: 1
-wau: 15
-mau: 15
+wau: 16
+mau: 16
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Squad"
 name: "squad"
 description: "Welcome to c/Squad!"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/squad"

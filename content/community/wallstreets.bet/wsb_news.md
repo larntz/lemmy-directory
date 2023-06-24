@@ -3,14 +3,14 @@ title: "Got something? Tell WSB."
 name: "wsb_news"
 description: "Source that intel."
 type: community
-date: "2023-06-23 01:19:21"
+date: "2023-06-24 01:13:27"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_news"
 host: wallstreets.bet
 lastmod: "2023-06-13 19:23:12"
 published: "2023-06-13 19:22:46"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

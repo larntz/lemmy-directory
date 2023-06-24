@@ -3,7 +3,7 @@ title: "Gaki No Tsukai"
 name: "gakinotsukai"
 description: "Downtown no Gaki no Tsukai ya Arahende!! is a Japanese variety show which stars comedians Matsumoto Hitoshi, Hamada Masatoshi, Tsukitei (Yamasaki) Hōsei, Tanaka Naoki and Endō Shōzō. It is best known to western audiences for the annual No-Laughing Batsu Games and the original version of Silent Library.Submissions aren't limited to just Downtown no Gaki no Tsukai ya Arahende!!, you can post anything related to the members of Downtown, Cocorico and Tsukitei Hōsei."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gakinotsukai"

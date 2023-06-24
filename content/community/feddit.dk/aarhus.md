@@ -3,7 +3,7 @@ title: "Aarhus"
 name: "aarhus"
 description: "For indhold relateret til Jyllands hovedstad."
 type: community
-date: "2023-06-23 01:18:46"
+date: "2023-06-24 01:12:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/aarhus"

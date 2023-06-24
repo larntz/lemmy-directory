@@ -3,7 +3,7 @@ title: "Film"
 name: "film"
 description: "A community for in-depth discussions of films. "
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/film"

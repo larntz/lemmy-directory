@@ -3,14 +3,14 @@ title: "JAILBAIT by u/SPEZ"
 name: "jailbait"
 description: "This community is established in the order of u/spez the greatest"
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/jailbait"
 host: lemmynsfw.com
 lastmod: "2023-06-21 07:02:27"
 published: "2023-06-21 06:56:19"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

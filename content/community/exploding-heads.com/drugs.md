@@ -3,7 +3,7 @@ title: "Drug Addiction"
 name: "drugs"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:20:23"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/drugs"
@@ -16,7 +16,7 @@ comments: 36
 weight: 61
 dau: 2
 wau: 3
-mau: 7
+mau: 5
 instances:
 - "exploding-heads_com"
 tags: 

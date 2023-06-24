@@ -3,7 +3,7 @@ title: "A community for Commercial Printing"
 name: "commercial_print"
 description: "Welcome Digital (Small and Wide Format), Litho, Screen"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commercial_print"

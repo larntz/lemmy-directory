@@ -3,14 +3,14 @@ title: "Reticulum Network Stack"
 name: "reticulum"
 description: "Reticulum network stack; wip"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-24 01:15:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reticulum"
 host: lemmy.world
 lastmod: "2023-06-11 01:29:18"
 published: "2023-06-11 01:28:58"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

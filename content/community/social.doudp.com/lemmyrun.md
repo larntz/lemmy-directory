@@ -3,12 +3,12 @@ title: "Lemmy.run Fediverse General Topics"
 name: "lemmyrun"
 description: "General Discussion for Lemmy.run Fediverse"
 type: community
-date: "2023-06-23 01:19:20"
+date: "2023-06-24 01:13:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/lemmyrun"
 host: social.doudp.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 16:37:13"
 subscribers: 3
 posts: 3

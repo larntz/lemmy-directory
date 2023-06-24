@@ -3,7 +3,7 @@ title: "Quality Assurance"
 name: "quality"
 description: "Need help with Quality Assurance? Maybe we can start a community here where people can help one another."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quality"

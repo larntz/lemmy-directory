@@ -3,7 +3,7 @@ title: "utopianfiat's community"
 name: "utopianfiat"
 description: "This is a community created by @utopianfiat@lemmy.world for me and people who want to post good content. Mostly memes."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/utopianfiat"
@@ -14,7 +14,7 @@ subscribers: 2
 posts: 7
 comments: 2
 weight: 7
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

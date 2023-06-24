@@ -3,7 +3,7 @@ title: "Movim"
 name: "movim"
 description: "Movim is a social and chat platform that act as a frontend for the XMPP network.Once deployed Movim offers a complete social and chat experience for the decentralized XMPP network users. It can easily connect to several XMPP servers at the same time."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/movim"

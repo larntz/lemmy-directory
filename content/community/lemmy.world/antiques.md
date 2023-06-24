@@ -3,7 +3,7 @@ title: "Antiques"
 name: "antiques"
 description: "Questions, discussions, and show & tell about decorative arts over 100 years old."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/antiques"

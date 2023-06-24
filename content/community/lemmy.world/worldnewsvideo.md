@@ -3,7 +3,7 @@ title: "World News Video"
 name: "worldnewsvideo"
 description: "**c/WorldNewsVideo: An Accurate Representation of the World.****Rules**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldnewsvideo"

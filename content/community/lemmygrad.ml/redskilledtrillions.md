@@ -3,12 +3,12 @@ title: "Hodor vuvuzela all those poor Nazis!"
 name: "redskilledtrillions"
 description: "Description not available."
 type: community
-date: "2023-06-22 16:46:46"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/redskilledtrillions"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-12 07:12:03"
 subscribers: 79
 posts: 4

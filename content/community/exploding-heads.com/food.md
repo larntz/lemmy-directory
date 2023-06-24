@@ -3,7 +3,7 @@ title: "Food"
 name: "food"
 description: "For food related discussions like about cooking or bakingRelated: [!food_security](https://exploding-heads.com/c/food_security) "
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:40"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/food"

@@ -3,7 +3,7 @@ title: "Thai sukaldaritza"
 name: "thaisukaldaritza"
 description: "Tailandiako gastronomia pila bat gustatzen zaigunontzako tokia. Ea elkarrengandik asko ikasten dugun!"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/thaisukaldaritza"

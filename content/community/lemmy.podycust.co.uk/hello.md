@@ -3,7 +3,7 @@ title: "Welcome"
 name: "hello"
 description: "Come say hi!"
 type: community
-date: "2023-06-23 01:18:51"
+date: "2023-06-24 01:12:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.podycust.co.uk/c/hello"

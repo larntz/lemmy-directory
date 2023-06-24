@@ -3,7 +3,7 @@ title: "Green Bay Packers"
 name: "packers"
 description: "A community dedicated to the Green Bay Packers.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/packers"

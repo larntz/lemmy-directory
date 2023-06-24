@@ -3,7 +3,7 @@ title: "Ted Lasso"
 name: "tedlasso"
 description: "Rules:1. Be Polite2. See Number 1"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tedlasso"
@@ -15,7 +15,7 @@ posts: 3
 comments: 7
 weight: 3
 dau: 2
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"

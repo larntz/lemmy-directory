@@ -3,7 +3,7 @@ title: "Shifting Realities"
 name: "shiftingrealities"
 description: "A subreddit to discuss shifting realities, those who are disrespectful will be removedNotice: this community and I are not associated with the mods of the original reddit community and the creator of the r/shiftingrealities community on reddit, i have created this community to have an alternative place to safely discuss reality shifting on lemmy because of the reddit api controversy"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shiftingrealities"

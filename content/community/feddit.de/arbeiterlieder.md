@@ -1,22 +1,22 @@
 ---
 title: "Fesche Lieder des Proletariats" 
 name: "arbeiterlieder"
-description: "Nur Arbeiterlieder. Alles andere ist haram."
+description: "Lieder vom oder für das Proletariat - Schunkeln verboten."
 type: community
-date: "2023-06-23 01:19:35"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/arbeiterlieder"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 05:50:20"
 published: "2023-06-22 21:23:19"
-subscribers: 5
-posts: 4
-comments: 0
-weight: 4
-dau: 1
-wau: 1
-mau: 1
+subscribers: 16
+posts: 15
+comments: 12
+weight: 15
+dau: 6
+wau: 6
+mau: 6
 instances:
 - "feddit_de"
 tags: 

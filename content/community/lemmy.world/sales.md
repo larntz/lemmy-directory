@@ -3,7 +3,7 @@ title: "Sales"
 name: "sales"
 description: "Everything you need to know about sales, selling, business development, lead generation, prospecting, closing and more! "
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sales"

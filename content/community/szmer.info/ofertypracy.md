@@ -3,7 +3,7 @@ title: "oferty pracy"
 name: "ofertypracy"
 description: "Społeczność powstała w celu umieszczania ogłoszeń dam/szukam pracy. Wszelkie inne tematy prośba żeby kierować do [pracowanicze](https://szmer.info/c/pracownicze).Warto żeby ogłoszenie zawierało informację o wynagrodzeniu."
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ofertypracy"

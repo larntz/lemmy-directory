@@ -3,7 +3,7 @@ title: "Schach"
 name: "schach"
 description: "Alles zum Thema Schach!Schach (von persisch شاه šāh, ‚Schah, König‘ – daher die Bezeichnung „das königliche Spiel“) oder Schachspiel ist ein strategisches Brettspiel, bei dem zwei Spieler abwechselnd Spielsteine (die Schachfiguren) auf einem Spielbrett (dem Schachbrett) bewegen. Ziel des Spiels ist es, den Gegner schachmatt zu setzen, das heißt, dessen König so anzugreifen, dass diesem weder Abwehr noch Flucht möglich ist. "
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/schach"

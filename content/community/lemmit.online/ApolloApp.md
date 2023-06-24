@@ -3,7 +3,7 @@ title: "Apollo App"
 name: "ApolloApp"
 description: "An award-winning free Reddit app for iOS with over 100K 5-star reviews, built with the community in mind. Closing June 30th, 2023, see sticky...."
 type: community
-date: "2023-06-23 01:19:16"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/ApolloApp"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 07:13:59"
 subscribers: 2
-posts: 94
+posts: 131
 comments: 0
-weight: 94
+weight: 131
 dau: 0
 wau: 0
 mau: 0

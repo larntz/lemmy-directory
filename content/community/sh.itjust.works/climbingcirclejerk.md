@@ -3,12 +3,12 @@ title: "climbingcirclejerk"
 name: "climbingcirclejerk"
 description: "gumbtown"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/climbingcirclejerk"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 13:27:16"
 subscribers: 42
 posts: 3

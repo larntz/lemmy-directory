@@ -3,20 +3,20 @@ title: "Ask exploding heads"
 name: "askexplodingheads"
 description: "Ask a question, any question "
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/askexplodingheads"
 host: exploding-heads.com
 lastmod: "2023-06-02 12:01:03"
 published: "2023-05-31 09:16:53"
-subscribers: 47
-posts: 28
-comments: 171
-weight: 28
-dau: 3
-wau: 18
-mau: 28
+subscribers: 50
+posts: 30
+comments: 187
+weight: 30
+dau: 7
+wau: 17
+mau: 29
 instances:
 - "exploding-heads_com"
 tags: 

@@ -3,7 +3,7 @@ title: "Cat Pictures"
 name: "catpics"
 description: "A place for cat lovers to post cats"
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.easfrq.live/c/catpics"

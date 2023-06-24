@@ -3,14 +3,14 @@ title: "gitlab"
 name: "gitlab"
 description: "Discussion surrounding the Gitlab product (both CE and EE.) "
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gitlab"
 host: lemmy.world
 lastmod: "2023-06-22 13:27:19"
 published: "2023-06-22 12:31:28"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "cremposting"
 name: "cremposting"
 description: "Everything Brando Sando related is allowed."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cremposting"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 20:23:07"
-subscribers: 13
+subscribers: 16
 posts: 2
 comments: 2
 weight: 2

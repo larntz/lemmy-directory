@@ -1,22 +1,22 @@
 ---
 title: "Minecraft Commands" 
 name: "minecraftcommands"
-description: "# Currently just a testA place for all things about commands, command blocks and data-packs in vanilla Minecraft; to share, to question, to discuss, and more!"
+description: "A place for all things about commands, command blocks and data-packs in vanilla Minecraft; to share, to question, to discuss, and more!"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftcommands"
 host: lemmy.world
-lastmod: "2023-06-21 21:58:16"
+lastmod: "2023-06-23 18:10:09"
 published: "2023-06-21 21:38:48"
-subscribers: 8
-posts: 1
-comments: 3
-weight: 1
-dau: 1
-wau: 4
-mau: 4
+subscribers: 13
+posts: 0
+comments: 0
+weight: 0
+dau: 2
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

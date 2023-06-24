@@ -3,12 +3,12 @@ title: "perestroika.pw"
 name: "perestroika_pw"
 description: "community for an anarchist blog from Estonia"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/perestroika_pw"
 host: slrpnk.net
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 23:23:44"
 subscribers: 2
 posts: 4

@@ -3,7 +3,7 @@ title: "Lemmy UI | Theming, UX, UI, CSS, Bootstrap V4."
 name: "lemmyui"
 description: "We theme a lot. Because. Why not. It's aesthetic."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmyui"

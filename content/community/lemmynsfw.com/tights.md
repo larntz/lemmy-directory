@@ -1,22 +1,22 @@
 ---
 title: "Tights, pantyhose and nylon" 
 name: "tights"
-description: "For lovers of tights, pantyhose, nylons, stockings, thigh highs, and such."
+description: "For lovers of tights, pantyhose, nylons, stockings, thigh highs, and such.Follow LemmyNSFW's rules.No AI generated content. That's what lemmynsfw.com/c/aigen is for."
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tights"
 host: lemmynsfw.com
-lastmod: "2023-06-19 14:24:43"
+lastmod: "2023-06-23 12:31:29"
 published: "2023-06-13 12:05:09"
-subscribers: 391
-posts: 20
-comments: 7
-weight: 20
+subscribers: 456
+posts: 26
+comments: 10
+weight: 26
 dau: 3
-wau: 9
-mau: 10
+wau: 10
+mau: 12
 instances:
 - "lemmynsfw_com"
 tags: 

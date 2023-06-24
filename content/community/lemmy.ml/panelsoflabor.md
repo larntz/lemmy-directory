@@ -3,7 +3,7 @@ title: "Panels of Labor"
 name: "panelsoflabor"
 description: "To go to the last comic:https://thefreepenguin.github.io/panelsoflabor/last"
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/panelsoflabor"

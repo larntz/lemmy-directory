@@ -3,7 +3,7 @@ title: "Religion"
 name: "religion"
 description: "A new place to ask questions and post articles on the topic of religion. "
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/religion"
@@ -14,7 +14,7 @@ subscribers: 13
 posts: 2
 comments: 12
 weight: 2
-dau: 2
+dau: 1
 wau: 6
 mau: 6
 instances:

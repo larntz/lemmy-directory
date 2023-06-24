@@ -3,7 +3,7 @@ title: "Detroit Red Wings"
 name: "detroitredwings"
 description: "Seeing up for now. Will establish rules as the community grows. "
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/detroitredwings"

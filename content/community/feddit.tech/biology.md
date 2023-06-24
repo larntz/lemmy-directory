@@ -3,14 +3,14 @@ title: "Biology"
 name: "biology"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/biology"
 host: feddit.tech
 lastmod: "2023-06-14 23:06:02"
 published: "2023-06-14 22:18:40"
-subscribers: 3
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

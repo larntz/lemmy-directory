@@ -3,7 +3,7 @@ title: "PC Gaming"
 name: "pc_gaming"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:54"
+date: "2023-06-24 01:12:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/pc_gaming"
@@ -15,7 +15,7 @@ posts: 5
 comments: 5
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_einval_net"

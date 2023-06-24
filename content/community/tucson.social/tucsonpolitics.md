@@ -3,7 +3,7 @@ title: "Tucson Politics"
 name: "tucsonpolitics"
 description: "Tucson politics only. National coverage only allowed if it directly pertains to a Tucson politician or issue. "
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/tucsonpolitics"

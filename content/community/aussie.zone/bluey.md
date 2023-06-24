@@ -3,7 +3,7 @@ title: "Bluey"
 name: "bluey"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/bluey"
@@ -15,7 +15,7 @@ posts: 1
 comments: 7
 weight: 1
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "aussie_zone"

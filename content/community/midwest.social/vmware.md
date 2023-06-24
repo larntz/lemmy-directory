@@ -3,7 +3,7 @@ title: "VMware"
 name: "vmware"
 description: "A community for news, discussion, and help for VMware products.Not affiliated with VMware in any official capacity. "
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/vmware"
@@ -11,9 +11,9 @@ host: midwest.social
 lastmod: "2023-06-16 22:25:04"
 published: "2023-06-16 22:12:31"
 subscribers: 2
-posts: 4
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

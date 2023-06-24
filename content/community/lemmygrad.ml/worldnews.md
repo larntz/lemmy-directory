@@ -3,20 +3,20 @@ title: "World News"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/worldnews"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-01-22 14:53:21"
-subscribers: 887
-posts: 389
-comments: 744
-weight: 389
-dau: 1
-wau: 8
-mau: 33
+subscribers: 891
+posts: 390
+comments: 757
+weight: 390
+dau: 6
+wau: 10
+mau: 38
 instances:
 - "lemmygrad_ml"
 tags: 

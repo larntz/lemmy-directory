@@ -3,7 +3,7 @@ title: "Stammtisch Hallertau"
 name: "main"
 description: "Stammtisch Hallertau"
 type: community
-date: "2023-06-23 01:18:47"
+date: "2023-06-24 01:12:52"
 draft: false
 nsfw: false
 actor_id: "https://stammtisch.hallertau.social/c/main"

@@ -3,14 +3,14 @@ title: "zerowaste"
 name: "zerowaste"
 description: "Discussing ways to reduce waste and build community! Celebrate thrift as a virtue, talk about creative ways to make do, or show off how you reused something! "
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/zerowaste"
 host: slrpnk.net
 lastmod: "2023-06-07 22:27:50"
 published: "2022-03-24 22:35:41"
-subscribers: 357
+subscribers: 361
 posts: 12
 comments: 51
 weight: 12

@@ -3,14 +3,14 @@ title: "Fantasy"
 name: "fantasy"
 description: "Epic Fantasy, High Fantasy, Low Fantasy, Faerie Tales, Sword and Sorcery... Let's talk about fantasy literature, film and art."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fantasy"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 04:45:57"
-subscribers: 14
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

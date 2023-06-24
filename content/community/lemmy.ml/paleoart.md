@@ -3,7 +3,7 @@ title: "Paleoart"
 name: "paleoart"
 description: "Share your and other artists cool paleoart. Always remember to give credit to the original artist."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/paleoart"

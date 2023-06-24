@@ -1,21 +1,21 @@
 ---
 title: "Indian" 
 name: "indian"
-description: "Description not available."
+description: "[Indian Desi](https://hornygrail.com/collection/8bJw3) Teens & MILFs"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:56"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/indian"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 00:47:24"
 published: "2023-06-16 07:39:34"
-subscribers: 109
-posts: 4
+subscribers: 114
+posts: 6
 comments: 1
-weight: 4
+weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmynsfw_com"

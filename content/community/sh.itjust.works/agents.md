@@ -3,12 +3,12 @@ title: "Autonomous agent software and research"
 name: "agents"
 description: "For researching and developing autonomous agents"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/agents"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 01:47:52"
 subscribers: 2
 posts: 0

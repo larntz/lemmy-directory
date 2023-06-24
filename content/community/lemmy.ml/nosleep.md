@@ -3,7 +3,7 @@ title: "Nosleep"
 name: "nosleep"
 description: "This is a place to share scary stories.* Please add `[OC]` at the begging of your title to get noticed more easily.* You can also add other tags this way in your title. Any medias accepted."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nosleep"

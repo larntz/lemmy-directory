@@ -3,7 +3,7 @@ title: "Dungeon Synth"
 name: "dungeonsynth"
 description: "Explore ethereal soundscapes, share songs, and engage in captivating discussions about this enchanting genre."
 type: community
-date: "2023-06-22 16:47:52"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dungeonsynth"

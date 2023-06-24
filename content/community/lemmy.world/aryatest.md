@@ -3,7 +3,7 @@ title: "Arya's Test Community :)"
 name: "aryatest"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aryatest"
@@ -15,7 +15,7 @@ posts: 3
 comments: 6
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

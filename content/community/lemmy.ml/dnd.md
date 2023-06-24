@@ -3,14 +3,14 @@ title: "Dungeons & Dragons"
 name: "dnd"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dnd"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-09-10 00:38:47"
-subscribers: 217
+subscribers: 224
 posts: 3
 comments: 12
 weight: 3

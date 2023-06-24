@@ -3,14 +3,14 @@ title: "ActuTech "
 name: "actutech"
 description: "https://actutech.info - L'actualité technologique au quotidien."
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/actutech"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 08:14:23"
-subscribers: 7
+subscribers: 8
 posts: 11
 comments: 3
 weight: 11

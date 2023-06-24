@@ -3,7 +3,7 @@ title: "Lamp Restoration"
 name: "lamp_restoration"
 description: "A place for discussing restorations and repairs of old lamps and light fixtures.  Ask questions about your project, show off the steps and photos of your work, share sources for parts, discuss wiring options, and anything else related to working on an old lamp or light fixture."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lamp_restoration"

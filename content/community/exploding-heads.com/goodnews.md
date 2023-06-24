@@ -3,7 +3,7 @@ title: "Good news"
 name: "goodnews"
 description: "For positivie news"
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:40"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/goodnews"

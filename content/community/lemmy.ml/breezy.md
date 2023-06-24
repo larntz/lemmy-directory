@@ -3,7 +3,7 @@ title: "Breezy VCS"
 name: "breezy"
 description: "The Breezy version control system "
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/breezy"

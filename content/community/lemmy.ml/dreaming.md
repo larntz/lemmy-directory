@@ -3,7 +3,7 @@ title: "Dreaming"
 name: "dreaming"
 description: "*From Wikipedia:A dream is a succession of images, ideas, emotions, and sensations that usually occur involuntarily in the mind during certain stages of sleep.*In this community you can discuss and learn about dreams as well as sharing some of yours"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dreaming"

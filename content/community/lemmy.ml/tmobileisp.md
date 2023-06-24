@@ -3,7 +3,7 @@ title: "T-Mobile Home Internet"
 name: "tmobileisp"
 description: "This is the unofficial sublemmy for the T-Mobile ISP/Home Internet program.Related subs:* [T-Mobile](https://lemmy.ml/c/t_mobile)"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tmobileisp"

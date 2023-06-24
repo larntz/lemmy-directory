@@ -3,7 +3,7 @@ title: "Architecture"
 name: "architecture"
 description: "No architecture-specific rules, just don't be a jerk, your normal stuff. This will be updated if the community feels there is a particular need to ban certain types of spammy link content, etc. "
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/architecture"

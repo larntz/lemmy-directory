@@ -3,12 +3,12 @@ title: "r/Place"
 name: "place"
 description: "Description not available."
 type: community
-date: "2023-06-19 17:58:58"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/place"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-04-02 10:02:18"
 subscribers: 7
 posts: 3

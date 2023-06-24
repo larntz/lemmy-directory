@@ -3,7 +3,7 @@ title: "Money"
 name: "money"
 description: "For financial topics related to the economy, jobs, work, investments, and so onrelated: [!economy](https://exploding-heads.com/c/economy) "
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:40"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/money"

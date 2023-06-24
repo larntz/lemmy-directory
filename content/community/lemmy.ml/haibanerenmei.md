@@ -3,7 +3,7 @@ title: "Haibane Renmei"
 name: "haibanerenmei"
 description: "This is a page for people who enjoyed the series Haibane Renmei (灰羽連盟) Feel free to discuss anything about Haibane Renmei or even things related to Haibane Renmei. Post your links and other things to help build this community."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haibanerenmei"

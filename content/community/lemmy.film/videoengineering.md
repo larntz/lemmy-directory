@@ -3,14 +3,14 @@ title: "Video Engineering"
 name: "videoengineering"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/videoengineering"
 host: lemmy.film
 lastmod: "2023-06-12 17:36:03"
 published: "2023-06-07 04:01:10"
-subscribers: 58
+subscribers: 59
 posts: 2
 comments: 3
 weight: 2

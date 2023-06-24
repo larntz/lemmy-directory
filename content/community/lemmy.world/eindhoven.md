@@ -3,7 +3,7 @@ title: "Eindhoven"
 name: "eindhoven"
 description: "Welcome to the community for the Dutch city of Eindhoven"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eindhoven"

@@ -3,20 +3,20 @@ title: "Sosyalizm"
 name: "sosyalizm"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:36"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sosyalizm"
 host: lemmy.world
-lastmod: "2023-06-16 14:03:52"
+lastmod: "2023-06-23 18:48:17"
 published: "2023-06-16 13:56:49"
 subscribers: 1
-posts: 0
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

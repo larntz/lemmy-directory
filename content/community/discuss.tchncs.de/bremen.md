@@ -3,7 +3,7 @@ title: "Bremen"
 name: "bremen"
 description: "Das Dorf mit Straßenbahn"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/bremen"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "discuss_tchncs_de"

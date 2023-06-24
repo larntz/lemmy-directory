@@ -3,7 +3,7 @@ title: "GPU Mining"
 name: "gpumining"
 description: "The community of **GPU** mining enthusiasts, both professionals and hobbyists."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gpumining"

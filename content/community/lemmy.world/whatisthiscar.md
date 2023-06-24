@@ -3,7 +3,7 @@ title: "whatisthiscar"
 name: "whatisthiscar"
 description: "Post pictures of spotted cars that you cannot identify."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/whatisthiscar"
@@ -14,7 +14,7 @@ subscribers: 11
 posts: 2
 comments: 7
 weight: 2
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

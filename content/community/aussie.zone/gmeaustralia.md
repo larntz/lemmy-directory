@@ -3,19 +3,19 @@ title: "GME Australia"
 name: "gmeaustralia"
 description: "backup zoo"
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gmeaustralia"
 host: aussie.zone
 lastmod: "2023-06-18 15:29:48"
 published: "2023-06-14 07:19:31"
-subscribers: 16
+subscribers: 17
 posts: 10
 comments: 4
 weight: 10
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "aussie_zone"

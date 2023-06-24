@@ -3,14 +3,14 @@ title: "Terraform"
 name: "terraform"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:02"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/terraform"
 host: programming.dev
 lastmod: "2023-06-22 10:48:07"
 published: "2023-06-21 12:30:37"
-subscribers: 13
+subscribers: 15
 posts: 1
 comments: 1
 weight: 1

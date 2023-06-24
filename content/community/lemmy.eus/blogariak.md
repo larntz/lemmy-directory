@@ -3,7 +3,7 @@ title: "blogariak"
 name: "blogariak"
 description: "Euskal blogarien bilgunea. Blog bat sortu eta mantentze prozesuan ditugun zalantzak zein ezagutzak zabaltzeko tokia.  Banerra eta logoa: [https://pixabay.com/users/janjf93-3084263/](https://pixabay.com/users/janjf93-3084263/)"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/blogariak"

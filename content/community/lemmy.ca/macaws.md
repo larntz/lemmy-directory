@@ -3,7 +3,7 @@ title: "All things macaw"
 name: "macaws"
 description: "A place to share, talk, and ask questions about all things macaw! "
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/macaws"

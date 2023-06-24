@@ -3,7 +3,7 @@ title: "Stop Drinking"
 name: "stopdrinking"
 description: "This is a place to motivate each other to control or stop drinking. We welcome anyone who wishes to join in by asking for advice, sharing our experiences and stories, or just encouraging someone who is trying to quit or cut down. Please post only when sober; you’re welcome to read in the meanwhile."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stopdrinking"

@@ -3,7 +3,7 @@ title: "IgnoreThisCommunity"
 name: "ignorethiscommunity"
 description: "Just for testing, carry on."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ignorethiscommunity"

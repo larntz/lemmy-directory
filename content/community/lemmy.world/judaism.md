@@ -3,14 +3,14 @@ title: "Judaism"
 name: "judaism"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/judaism"
 host: lemmy.world
 lastmod: "2023-06-18 21:20:18"
 published: "2023-06-18 05:20:56"
-subscribers: 14
+subscribers: 16
 posts: 1
 comments: 2
 weight: 1

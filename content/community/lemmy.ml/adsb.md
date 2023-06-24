@@ -1,16 +1,16 @@
 ---
-title: "ADSB - Automatic Dependent Surveillance-Broadcast" 
+title: "Flight Tracking - ADSB - OSINT & Open Data" 
 name: "adsb"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adsb"
 host: lemmy.ml
-lastmod: "2023-06-22 22:36:34"
+lastmod: "2023-06-23 14:00:55"
 published: "2023-06-22 22:33:38"
-subscribers: 3
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

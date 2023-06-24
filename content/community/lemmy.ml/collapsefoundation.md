@@ -3,7 +3,7 @@ title: "foundation of nothing"
 name: "collapsefoundation"
 description: "Lemmy home of Collapse Foundation. Also see reddit.com/r/CollapseFoundation"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/collapsefoundation"

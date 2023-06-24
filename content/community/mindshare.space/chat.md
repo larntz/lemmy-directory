@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "You want to say hi? Anything up your mind? This community is for anything Mindshare related."
 type: community
-date: "2023-06-23 01:19:08"
+date: "2023-06-24 01:13:14"
 draft: false
 nsfw: false
 actor_id: "https://mindshare.space/c/chat"
@@ -15,7 +15,7 @@ posts: 1
 comments: 8
 weight: 1
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "mindshare_space"

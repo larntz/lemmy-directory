@@ -3,7 +3,7 @@ title: "Hispagatos"
 name: "hispagatos"
 description: "A Hispanic Anarchist Hacker collective that promotes hacker ethics ala steven levy and original hacker culture in Hispanic countries. "
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hispagatos"

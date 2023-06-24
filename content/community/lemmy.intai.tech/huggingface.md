@@ -3,17 +3,17 @@ title: "Hugging Face"
 name: "huggingface"
 description: "https://huggingface.co/### Instance NotesPlease review our community rules and introduce yourself!- [Welcome!](https://lemmy.intai.tech/post/1511)- [Introduce yourself](https://lemmy.intai.tech/post/2710)- [Rules](https://lemmy.intai.tech/post/76)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Observer](https://lemmy.fediverse.observer/)- [Lemmy Community Browser](https://browse.feddit.de/)"
 type: community
-date: "2023-06-23 01:19:12"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/huggingface"
 host: lemmy.intai.tech
-lastmod: "2023-06-20 14:40:57"
+lastmod: "2023-06-23 07:12:37"
 published: "2023-06-19 05:59:48"
 subscribers: 2
-posts: 0
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

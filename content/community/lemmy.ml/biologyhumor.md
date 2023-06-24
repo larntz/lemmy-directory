@@ -3,7 +3,7 @@ title: "Biology Humor"
 name: "biologyhumor"
 description: "This is a community dedicated to biological comedy!Rules:* Posts should contain some amount of biology, biochemistry, or the like.* No NSFW content* No hate speech, bigotry, etc"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/biologyhumor"

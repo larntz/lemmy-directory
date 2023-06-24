@@ -3,7 +3,7 @@ title: "Blue Bell"
 name: "bluebell"
 description: "All things related to my new blog on the internet. "
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bluebell"

@@ -3,14 +3,14 @@ title: "werewolf porn"
 name: "nsfwerewolf"
 description: "The sexual escapades of werewolves"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/nsfwerewolf"
 host: lemmynsfw.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 10:07:34"
-subscribers: 69
+subscribers: 70
 posts: 12
 comments: 0
 weight: 12

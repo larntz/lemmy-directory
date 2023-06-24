@@ -3,7 +3,7 @@ title: "Veloren"
 name: "veloren"
 description: "Veloren is a community-developed multiplayer voxel RPG written in Rust. It takes inspiration from Cube World, Legend of Zelda, and Dwarf Fortress."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/veloren"
@@ -15,7 +15,7 @@ posts: 44
 comments: 14
 weight: 44
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

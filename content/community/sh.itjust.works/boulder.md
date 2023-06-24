@@ -3,7 +3,7 @@ title: "Boulder, CO"
 name: "boulder"
 description: "Possible future of /r/boulder."
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/boulder"

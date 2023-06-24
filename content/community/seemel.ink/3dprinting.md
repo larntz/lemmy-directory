@@ -3,7 +3,7 @@ title: "3DPrinting"
 name: "3dprinting"
 description: "All things 3D printing"
 type: community
-date: "2023-06-23 01:19:10"
+date: "2023-06-24 01:13:15"
 draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/3dprinting"

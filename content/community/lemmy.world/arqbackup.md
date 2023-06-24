@@ -3,7 +3,7 @@ title: "Arqbackup"
 name: "arqbackup"
 description: "This is the **unofficial** Arq backup support group. Feel free to post any questions, tips, tricks, or simple your own setup. Stay on topic, so as long as it relates to Arq it's cool.Arq Backup is a backup tool that puts you in control. You choose not just what you want to backup but also which cloud storage provider you want to backup to (all encrypted of course)."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arqbackup"

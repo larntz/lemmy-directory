@@ -3,7 +3,7 @@ title: "CockpitVids"
 name: "cockpitvids"
 description: "A community around videos showing cockpit operations in all forms: general aviation, airliners, military and everything in between."
 type: community
-date: "2023-06-23 01:19:07"
+date: "2023-06-24 01:13:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/cockpitvids"

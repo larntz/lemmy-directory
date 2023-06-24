@@ -3,7 +3,7 @@ title: "Animatronics"
 name: "animatronics"
 description: "**Please read the rules!** We really don't ask much!- **No Five Nights at Freddy's or fangames!** Please, it's impossible to view animatronic content without it showing up. Let's try to make here an exception!- **No destruction of animatronics!** We're here to appreciate and enjoy them!- Likewise, **please don't come here to call them creepy!** We enjoy and occasionally criticize animatronics here, so please no KILL IT WITH FIRE or nightmare fuel type of comments!Also, of course, no racism, bigotry, transphobia, ableism, homophobia, you get the point. None of that here.*Enjoy animatronics and give your favorites the spotlight!*"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animatronics"

@@ -3,14 +3,14 @@ title: "GoPro"
 name: "gopro"
 description: "Community for all things GoPro. News, tips and everything else."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gopro"
 host: lemmy.world
 lastmod: "2023-06-13 21:46:57"
 published: "2023-06-13 19:26:24"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

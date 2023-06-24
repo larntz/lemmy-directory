@@ -3,19 +3,19 @@ title: "Seattle"
 name: "seattle"
 description: "Community for all things Seattle, WA USA"
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/seattle"
 host: lemm.ee
 lastmod: "2023-06-15 23:11:26"
 published: "2023-06-15 01:06:16"
-subscribers: 22
+subscribers: 24
 posts: 5
 comments: 9
 weight: 5
 dau: 1
-wau: 5
+wau: 4
 mau: 7
 instances:
 - "lemm_ee"

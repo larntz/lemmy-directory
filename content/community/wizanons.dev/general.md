@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "General mage-based discussion"
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/general"
@@ -15,8 +15,8 @@ posts: 7
 comments: 13
 weight: 7
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "wizanons_dev"
 tags: 

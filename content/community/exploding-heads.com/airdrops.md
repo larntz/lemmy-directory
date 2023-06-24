@@ -3,7 +3,7 @@ title: "Crypto - Airdrops"
 name: "airdrops"
 description: "An airdrop is an unsolicited distribution of a cryptocurrency token or coin, usually for free, to numerous wallet addresses. Airdrops are often associated with the launch of a new cryptocurrency or a DeFi protocol, primarily as a way of gaining attention and new followers."
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/airdrops"

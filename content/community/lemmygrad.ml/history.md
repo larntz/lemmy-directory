@@ -3,7 +3,7 @@ title: "History"
 name: "history"
 description: "This is the general history subcom. Anything relating to history is welcome here. Doesn't have to be Marxist, though it certainly can be. So join in on the discussion and let's learn more. "
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/history"

@@ -3,14 +3,14 @@ title: "low-resolution-memes"
 name: "lowresmemes"
 description: "low res memes.   post image size."
 type: community
-date: "2023-06-21 14:56:18"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lowresmemes"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-03-03 00:39:01"
-subscribers: 24
+subscribers: 25
 posts: 8
 comments: 5
 weight: 8

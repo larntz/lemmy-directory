@@ -3,7 +3,7 @@ title: "Singapore"
 name: "singapore"
 description: "This community is focused on Singaporean issues. Any content that is related to Singapore is welcome."
 type: community
-date: "2023-06-22 16:47:51"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/singapore"

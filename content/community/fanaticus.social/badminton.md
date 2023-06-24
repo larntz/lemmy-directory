@@ -3,7 +3,7 @@ title: "Badminton"
 name: "badminton"
 description: "The Fediverse's home for anything Badminton related."
 type: community
-date: "2023-06-23 01:19:12"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/badminton"

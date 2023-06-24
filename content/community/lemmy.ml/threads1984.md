@@ -3,7 +3,7 @@ title: "threads1984"
 name: "threads1984"
 description: "Everything about the best nuclear war movie of all time Threads"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/threads1984"

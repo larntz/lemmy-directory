@@ -3,7 +3,7 @@ title: "Meme Templates"
 name: "memetemplates"
 description: "A community for posting meme templates to be used in /c/memes."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memetemplates"

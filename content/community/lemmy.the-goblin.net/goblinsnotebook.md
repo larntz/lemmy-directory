@@ -3,7 +3,7 @@ title: "The Goblin's Notebook"
 name: "goblinsnotebook"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:20"
+date: "2023-06-24 01:13:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.the-goblin.net/c/goblinsnotebook"

@@ -3,14 +3,14 @@ title: "eSports"
 name: "esports"
 description: "Discussion of all things related to professional esports at least until competitive communities emerge for individual titles."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/esports"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 14:03:43"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

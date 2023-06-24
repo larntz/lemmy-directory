@@ -3,7 +3,7 @@ title: "POTA"
 name: "pota"
 description: "Community for Parks on the Air### Useful Links- [POTA Home](https://parksontheair.com/)- [POTA.app](https://pota.app/#/)"
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/pota"

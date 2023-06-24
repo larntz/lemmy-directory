@@ -3,7 +3,7 @@ title: "ガジェット"
 name: "gadget"
 description: "ガジェットとかそういうのを。"
 type: community
-date: "2023-06-23 01:18:39"
+date: "2023-06-24 01:12:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/gadget"
@@ -15,7 +15,7 @@ posts: 28
 comments: 1
 weight: 28
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lm_korako_me"

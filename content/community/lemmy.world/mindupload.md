@@ -3,14 +3,14 @@ title: "mindupload"
 name: "mindupload"
 description: "This community is aimed to be an aggregator of technology news that might aid directly or indirectly to the capability of uploading a mind to a electronic substrate."
 type: community
-date: "2023-06-21 14:56:01"
+date: "2023-06-24 01:15:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mindupload"
 host: lemmy.world
 lastmod: "2023-06-13 08:14:32"
 published: "2023-06-13 06:55:00"
-subscribers: 18
+subscribers: 20
 posts: 14
 comments: 3
 weight: 14

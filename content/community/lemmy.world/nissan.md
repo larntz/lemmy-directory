@@ -3,7 +3,7 @@ title: "Nissan"
 name: "nissan"
 description: "Automotive community for NISSAN."
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-24 01:15:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nissan"

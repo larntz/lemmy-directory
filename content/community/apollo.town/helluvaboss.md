@@ -3,7 +3,7 @@ title: "Helluva Boss"
 name: "helluvaboss"
 description: "A community for the fans of the Spindlehorse show Helluva Boss"
 type: community
-date: "2023-06-23 01:19:12"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/helluvaboss"

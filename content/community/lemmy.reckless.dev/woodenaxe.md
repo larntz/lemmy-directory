@@ -3,12 +3,12 @@ title: "WoodenAxe"
 name: "woodenaxe"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:53"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.reckless.dev/c/woodenaxe"
 host: lemmy.reckless.dev
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-04 02:25:00"
 subscribers: 2
 posts: 1

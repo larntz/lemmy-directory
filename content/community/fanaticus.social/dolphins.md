@@ -3,14 +3,14 @@ title: "Miami Dolphins"
 name: "dolphins"
 description: "A community dedicated to the Miami Dolphins.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/dolphins"
 host: fanaticus.social
 lastmod: "2023-06-19 02:54:58"
 published: "2023-06-14 01:32:36"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2

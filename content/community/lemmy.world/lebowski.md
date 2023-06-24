@@ -3,7 +3,7 @@ title: "Lebowski"
 name: "lebowski"
 description: "*It's like Lenin said, you look for the person who will benefit. And uh, uh, you know, uh...***Rules**- No spam, or off topic posts- No shitposts, at least, not on the rug, man- Take her easy"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lebowski"

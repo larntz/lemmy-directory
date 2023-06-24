@@ -3,7 +3,7 @@ title: "Main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:42"
+date: "2023-06-24 01:12:47"
 draft: false
 nsfw: false
 actor_id: "https://ds9.lemmy.ml/c/main"
@@ -14,7 +14,7 @@ subscribers: 5
 posts: 10
 comments: 17
 weight: 10
-dau: 2
+dau: 1
 wau: 5
 mau: 5
 instances:

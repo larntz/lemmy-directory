@@ -3,7 +3,7 @@ title: "Web Design"
 name: "web_design"
 description: "Team Web: CSS, HTML, JS, RSS, SVG, XML"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web_design"

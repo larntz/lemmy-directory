@@ -3,12 +3,12 @@ title: "Interesting"
 name: "interesting"
 description: "A place for interesting articles and tidbits that don't fit elsewhere."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/interesting"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-06-11 14:19:30"
 subscribers: 6
 posts: 2

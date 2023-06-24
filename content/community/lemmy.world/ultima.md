@@ -3,7 +3,7 @@ title: "ultima"
 name: "ultima"
 description: "Ultima games"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultima"

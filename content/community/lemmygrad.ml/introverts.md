@@ -3,7 +3,7 @@ title: "Introverts"
 name: "introverts"
 description: "Welcome! A community for introverted people! Have fun, make friends, socialize, etc. All introverted types welcomed! Rules: Don't be a jerk and follow site rules. It's pretty easy!"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/introverts"
@@ -15,7 +15,7 @@ posts: 2
 comments: 49
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmygrad_ml"

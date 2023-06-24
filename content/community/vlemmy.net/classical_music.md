@@ -3,14 +3,14 @@ title: "Classical Music"
 name: "classical_music"
 description: "General community for anything Classical Music relatedRules    - No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. Code of Conduct.    - Be respectful, especially when disagreeing. Everyone should feel welcome here.    - No porn.    - No Ads / Spamming."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:13"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/classical_music"
 host: vlemmy.net
 lastmod: "2023-06-12 15:30:39"
 published: "2023-06-12 15:26:20"
-subscribers: 18
+subscribers: 19
 posts: 1
 comments: 2
 weight: 1

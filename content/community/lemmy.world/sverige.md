@@ -3,14 +3,14 @@ title: "Sverige"
 name: "sverige"
 description: "En Community för oss svenskar som älskar fika & biltema korv! 🇸🇪"
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sverige"
 host: lemmy.world
 lastmod: "2023-06-08 20:49:09"
 published: "2023-06-08 20:43:49"
-subscribers: 111
+subscribers: 116
 posts: 4
 comments: 18
 weight: 4

@@ -3,7 +3,7 @@ title: "Spotify"
 name: "spotify"
 description: "A community to discuss Spotify news, tips, and to get help.**Rules:**- Do not post playlists here.- Be civil. No rude, offensive, or hateful posts/comments."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spotify"

@@ -3,7 +3,7 @@ title: "NY Times Spelling Bee"
 name: "nytspellingbee"
 description: "Discussion of the NY Times Spelling Bee puzzle"
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-24 01:13:30"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nytspellingbee"

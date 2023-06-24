@@ -3,7 +3,7 @@ title: "Astral Collapse"
 name: "astralcollapse"
 description: "A place to discuss Internet Culture.We welcome liminal spaces, icebergs, folklore, hidden history, general obscurity."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/astralcollapse"

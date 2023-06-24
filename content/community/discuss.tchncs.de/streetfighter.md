@@ -3,14 +3,14 @@ title: "streetfighter"
 name: "streetfighter"
 description: "Everything about Street Fighter welcome."
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/streetfighter"
 host: discuss.tchncs.de
 lastmod: "2023-06-15 08:49:58"
 published: "2023-06-14 09:17:13"
-subscribers: 9
+subscribers: 10
 posts: 6
 comments: 0
 weight: 6

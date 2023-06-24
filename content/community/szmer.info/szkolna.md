@@ -3,7 +3,7 @@ title: "szkolna"
 name: "szkolna"
 description: "wiedza wolna od szurii"
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/szkolna"
@@ -12,7 +12,7 @@ lastmod: "2022-01-22 18:36:27"
 published: "2022-01-17 16:28:05"
 subscribers: 25
 posts: 151
-comments: 106
+comments: 108
 weight: 151
 dau: 1
 wau: 1

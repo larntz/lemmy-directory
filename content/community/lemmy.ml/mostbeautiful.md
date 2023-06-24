@@ -3,7 +3,7 @@ title: "MostBeautiful - The Most Beautiful things in the World"
 name: "mostbeautiful"
 description: "This sub is about finding beauty in the the world around us, from the simple and ordinary to the majestic and awe-inspiring. If you find something beautiful, share it here."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mostbeautiful"

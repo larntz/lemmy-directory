@@ -3,14 +3,14 @@ title: "vintagegaming"
 name: "vintagegaming"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vintagegaming"
 host: lemmy.world
 lastmod: "2023-06-20 21:03:46"
 published: "2023-06-20 20:56:37"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

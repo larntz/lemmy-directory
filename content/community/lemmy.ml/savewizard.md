@@ -3,7 +3,7 @@ title: "SaveWizard"
 name: "savewizard"
 description: "Welcome to r/Savewizard!Save Wizard is a PC/Mac software that allows for modding of PS4 Game Save Files (also compatible with PS5)Please read rules before posting :)"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/savewizard"

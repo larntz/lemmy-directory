@@ -3,14 +3,14 @@ title: "Baramundo"
 name: "baramundo"
 description: "Wandering Bara Repository!"
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/baramundo"
 host: lemmynsfw.com
 lastmod: "2023-06-21 15:47:26"
 published: "2023-06-17 14:23:55"
-subscribers: 6
+subscribers: 8
 posts: 4
 comments: 0
 weight: 4

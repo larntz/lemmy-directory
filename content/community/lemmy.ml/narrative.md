@@ -3,7 +3,7 @@ title: "A place to discuss, dissect and study misinformation campaigns."
 name: "narrative"
 description: "This is a place to discuss, dissect and study misinformation campaigns in an attempt to figure out why specific groups are saying specific lies. "
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/narrative"

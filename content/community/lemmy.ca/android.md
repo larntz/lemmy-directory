@@ -3,7 +3,7 @@ title: "Android"
 name: "android"
 description: "Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.- [Official Android Blog](https://blog.google/products/android/)- [Android on Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))- [Androidpolice.com](https://www.androidpolice.com)- [Androidauthority.com](https://www.androidauthority.com)- [9to5 Google](https://9to5google.com)Discuss Android news, updates, announcements, Android phones, bugs, etc.  "
 type: community
-date: "2023-06-23 01:19:32"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/android"

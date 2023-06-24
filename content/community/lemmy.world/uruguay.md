@@ -3,14 +3,14 @@ title: "Uruguay"
 name: "uruguay"
 description: "Comunidad de uruguayos en el Fediverse!##### Reglas- Prohibido contenido NSFW o ilegal.- Tratarse con respeto."
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uruguay"
 host: lemmy.world
 lastmod: "2023-06-13 08:27:15"
 published: "2023-06-13 08:22:14"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 6
 weight: 3

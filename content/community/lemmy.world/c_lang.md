@@ -3,7 +3,7 @@ title: "C Programming Language "
 name: "c_lang"
 description: "A community to discuss the C programming Language! R.I.P dmr"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/c_lang"

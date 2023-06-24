@@ -3,7 +3,7 @@ title: "Bombsquad"
 name: "bombsquad"
 description: "This is a subreddit dedicated to the game BombSquad (and now Project Ballistica) by Eric Froemling. Join our discord to interact with more enthusiasts and players from around the world: https://discord.gg/5r4uGnGMirror of r/Bombsquad now that Reddit is being left behind."
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bombsquad"

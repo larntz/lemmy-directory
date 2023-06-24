@@ -3,7 +3,7 @@ title: "math"
 name: "math"
 description: "**Interesting news and discussion centered around Mathematics**"
 type: community
-date: "2023-06-22 16:46:45"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/math"

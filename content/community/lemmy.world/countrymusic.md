@@ -3,7 +3,7 @@ title: "Country Music"
 name: "countrymusic"
 description: "Not pop country, please.  Willie Nelson, Johnny Cash, David Allen Coe, Hank Jr and Senior, and even Garth Brooks are all cool with me though "
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/countrymusic"

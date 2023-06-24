@@ -3,7 +3,7 @@ title: "Energy Independence"
 name: "energyindependance"
 description: "The long-held goal of “energy independence”—which is not to say that we did not import or export energy, but that we produced more energy than we used."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/energyindependance"
@@ -11,9 +11,9 @@ host: exploding-heads.com
 lastmod: "2022-12-20 02:48:09"
 published: "2022-02-27 23:58:48"
 subscribers: 34
-posts: 495
+posts: 497
 comments: 77
-weight: 495
+weight: 497
 dau: 1
 wau: 1
 mau: 3

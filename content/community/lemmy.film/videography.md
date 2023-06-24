@@ -3,7 +3,7 @@ title: "Videography"
 name: "videography"
 description: "Videography is a community for videographers of all skill levels in fields such as weddings, events, live performances, music videos, TV, corporate, live streaming, sports, real estate, YouTube, home videos and more."
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/videography"

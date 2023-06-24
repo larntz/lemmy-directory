@@ -3,14 +3,14 @@ title: "Lisboa"
 name: "lisboa"
 description: "A comunidade da Mui Nobre e Sempre Leal Cidade de Lisboa no Lemmy Portugal."
 type: community
-date: "2023-06-23 01:19:19"
+date: "2023-06-24 01:13:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/lisboa"
 host: lemmy.pt
 lastmod: "2022-01-14 20:59:44"
 published: "2022-01-14 20:50:09"
-subscribers: 29
+subscribers: 30
 posts: 3
 comments: 1
 weight: 3

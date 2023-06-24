@@ -3,12 +3,12 @@ title: "Guix and GuixSD"
 name: "guix"
 description: "Community for all Guix and GuixSD users"
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/guix"
 host: infosec.pub
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 00:12:38"
 subscribers: 11
 posts: 0

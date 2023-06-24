@@ -3,7 +3,7 @@ title: "Need a Mod"
 name: "needamod"
 description: "Looking for moderators? Feel free to ask here!- No Spam- Be respectful of others"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/needamod"

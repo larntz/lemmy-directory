@@ -3,7 +3,7 @@ title: "Writing Prompts"
 name: "writingprompts"
 description: "A place to make prompts, or to post things written from a prompt.If the prompt you're writing for is from another place, please do link to it "
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/writingprompts"

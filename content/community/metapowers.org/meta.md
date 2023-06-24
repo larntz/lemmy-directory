@@ -3,7 +3,7 @@ title: "MetaPowers.org Notices & Meta Discussions"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:44"
+date: "2023-06-24 01:12:49"
 draft: false
 nsfw: false
 actor_id: "https://metapowers.org/c/meta"

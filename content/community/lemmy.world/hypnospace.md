@@ -3,7 +3,7 @@ title: "Hypnospace Outlaw"
 name: "hypnospace"
 description: "The Lemmy community for Hypnospace and all other related projects! (Slayers X and Dreamsettler)."
 type: community
-date: "2023-06-20 11:38:52"
+date: "2023-06-24 01:15:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hypnospace"

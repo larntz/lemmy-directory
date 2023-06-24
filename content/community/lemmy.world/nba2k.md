@@ -3,7 +3,7 @@ title: "NBA 2K"
 name: "nba2k"
 description: "**NBA 2K Game Discussion**---Links: * [NBA 2K League](https://2kleague.nba.com/)* [2K Ratings](https://www.2kratings.com/)* [NBA 2K Lab](https://www.nba2klab.com/)* [Locker Codes](https://www.lockercodes.com/)"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nba2k"

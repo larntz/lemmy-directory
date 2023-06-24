@@ -3,7 +3,7 @@ title: "Brigador Space"
 name: "brigadorsblog"
 description: "Hi!"
 type: community
-date: "2023-06-22 16:47:53"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brigadorsblog"

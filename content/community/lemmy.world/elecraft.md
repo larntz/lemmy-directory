@@ -3,7 +3,7 @@ title: "Elecraft"
 name: "elecraft"
 description: "discussion of  Elecraft transceivers and accessories "
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/elecraft"

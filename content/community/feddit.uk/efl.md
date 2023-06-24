@@ -3,7 +3,7 @@ title: "English Football League"
 name: "efl"
 description: "A place to discuss Championship, League One and League Two from the English Football League (EFL). "
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/efl"

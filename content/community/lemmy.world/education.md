@@ -3,20 +3,20 @@ title: "Education"
 name: "education"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:49"
+date: "2023-06-24 01:15:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/education"
 host: lemmy.world
 lastmod: "2023-06-18 03:08:58"
 published: "2023-06-17 02:27:26"
-subscribers: 1
-posts: 0
+subscribers: 3
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

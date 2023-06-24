@@ -3,7 +3,7 @@ title: "日本語のビデオ - Japanese Videos"
 name: "japanesevideos"
 description: "[日本語２４７](https://lemmy.ml/c/japanese247)のゲームサブ[日本語247](https://lemmy.ml/c/japanese247) community's video's subThis sub is for sharing videos for learning japanese.tags: [ENG-SUB], [JP-SUB], [no-subtitles]"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japanesevideos"

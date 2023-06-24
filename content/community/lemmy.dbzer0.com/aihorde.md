@@ -3,14 +3,14 @@ title: "AI Horde"
 name: "aihorde"
 description: "Discuss the happenings around the [AI Horde](https://aihorde.net)"
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/aihorde"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-14 12:00:16"
 published: "2023-06-09 20:42:07"
-subscribers: 31
+subscribers: 32
 posts: 5
 comments: 3
 weight: 5

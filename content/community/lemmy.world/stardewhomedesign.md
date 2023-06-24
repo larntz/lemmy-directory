@@ -3,7 +3,7 @@ title: "StardewHomeDesign"
 name: "stardewhomedesign"
 description: "Aesthetic farmhouses or other interior places in the game Stardew Valley.One of the fun parts of Stardew Valley is putting those personal touches on your farm. This is a place to discuss and share the interior of your farmhouses or other places you've decorated."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stardewhomedesign"

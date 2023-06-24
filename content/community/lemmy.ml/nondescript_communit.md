@@ -3,7 +3,7 @@ title: "testing after 0.0.3 release"
 name: "nondescript_communit"
 description: "s"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nondescript_communit"

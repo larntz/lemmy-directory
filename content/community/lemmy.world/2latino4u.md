@@ -3,7 +3,7 @@ title: "2 Latino 4 U"
 name: "2latino4u"
 description: "Still coming up with the description and rules, but you know the deal.My country good, other countries bad."
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2latino4u"

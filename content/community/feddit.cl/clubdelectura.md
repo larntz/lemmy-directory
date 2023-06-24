@@ -3,7 +3,7 @@ title: "Club De Lectura Chile"
 name: "clubdelectura"
 description: "Club de lectura nacido en r/chile, pero ahora en el fediverse. Actualmente, también espacio para la discusión y difusión de todo tipo de contenido relacionado a la literatura."
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/clubdelectura"

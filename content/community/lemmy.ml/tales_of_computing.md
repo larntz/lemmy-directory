@@ -3,12 +3,12 @@ title: "Tales of Computing"
 name: "tales_of_computing"
 description: "Good stories, bad hacks, interesting hardware/software, and the quirky people behind it all. Let's sit back and enjoy this weird and wonderful vocation."
 type: community
-date: "2023-06-21 14:56:18"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tales_of_computing"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-11-26 02:55:20"
 subscribers: 70
 posts: 19

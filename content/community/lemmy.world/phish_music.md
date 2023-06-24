@@ -3,7 +3,7 @@ title: "Phish Music Discussion"
 name: "phish_music"
 description: "r/phish alternative. Fed up with reddit? Come join us! Rules:1. Discussions are for phish music and related topics2. Don't be a jerk."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phish_music"
@@ -14,7 +14,7 @@ subscribers: 8
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

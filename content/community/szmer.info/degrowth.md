@@ -3,7 +3,7 @@ title: "post wzrost"
 name: "degrowth"
 description: "Miejsce dla różnych postwzrostowych / degrowth rzeczy, w tym sensownej krytyki"
 type: community
-date: "2023-06-23 01:19:29"
+date: "2023-06-24 01:13:35"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/degrowth"

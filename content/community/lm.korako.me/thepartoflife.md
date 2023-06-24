@@ -3,7 +3,7 @@ title: "我々が真に生活するは、生命のうち短い部分のみ"
 name: "thepartoflife"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:39"
+date: "2023-06-24 01:12:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/thepartoflife"

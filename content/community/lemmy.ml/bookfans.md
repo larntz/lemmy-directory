@@ -3,7 +3,7 @@ title: "Just for Book Fans"
 name: "bookfans"
 description: "Here you can recommend, suggest or ask for certain kind of book. Also post your opinion about some books you read!"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bookfans"

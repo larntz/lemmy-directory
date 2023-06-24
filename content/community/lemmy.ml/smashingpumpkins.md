@@ -3,7 +3,7 @@ title: "Smashing Pumpkins"
 name: "smashingpumpkins"
 description: "A community for the American alt-rock band The Smashing Pumpkins."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smashingpumpkins"

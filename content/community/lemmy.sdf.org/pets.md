@@ -3,14 +3,14 @@ title: "pets"
 name: "pets"
 description: "Post pictures of your pets, questions about pet care, anything pet related"
 type: community
-date: "2023-06-22 16:46:45"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/pets"
 host: lemmy.sdf.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 15:47:02"
-subscribers: 48
+subscribers: 54
 posts: 8
 comments: 10
 weight: 8

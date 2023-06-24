@@ -3,7 +3,7 @@ title: "Animemes"
 name: "animemes"
 description: "A community for anime memes!"
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animemes"

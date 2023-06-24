@@ -3,14 +3,14 @@ title: "SONOS"
 name: "sonos"
 description: "SONOS fans community"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sonos"
 host: lemmy.ml
 lastmod: "2023-06-12 01:36:09"
 published: "2023-06-12 01:00:58"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

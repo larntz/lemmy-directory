@@ -3,7 +3,7 @@ title: "Fusion 360"
 name: "fusion360"
 description: "Share your designs and experiences. Ask and answer questions about Autodesk Fusion 360"
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/fusion360"

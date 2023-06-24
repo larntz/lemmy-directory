@@ -3,7 +3,7 @@ title: "Kakegurui"
 name: "kakegurui"
 description: "A community all about the popular gambling anime and manga, Kakegurui, and it's prequels Kakegurui Twin & Kakegurui Midari."
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/kakegurui"
@@ -14,9 +14,9 @@ subscribers: 4
 posts: 2
 comments: 0
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "reddthat_com"
 tags: 

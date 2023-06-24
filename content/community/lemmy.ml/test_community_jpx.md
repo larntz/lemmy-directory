@@ -3,7 +3,7 @@ title: "test community 2"
 name: "test_community_jpx"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/test_community_jpx"

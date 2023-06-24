@@ -3,7 +3,7 @@ title: "Answered"
 name: "answered"
 description: "A community to post questions that have already been answered somewhere else.To make a post, you should:(1) Post the question as the main body.(2) Post the best answer or answers as comments, one comment per answer."
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/answered"

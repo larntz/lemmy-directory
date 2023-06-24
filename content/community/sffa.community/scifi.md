@@ -3,7 +3,7 @@ title: "Science Fiction General"
 name: "scifi"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:12"
+date: "2023-06-24 01:13:19"
 draft: false
 nsfw: false
 actor_id: "https://sffa.community/c/scifi"

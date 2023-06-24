@@ -3,7 +3,7 @@ title: "deezer"
 name: "deezer"
 description: "deezer is a community-driven channel for the France-based music streaming service deezer. This channel is not operated by deezer."
 type: community
-date: "2023-06-23 01:21:34"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deezer"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "Franz Ferdinand"
 name: "franzferdinand"
 description: "Alex, Bob, Dino, Julian, Audrey."
 type: community
-date: "2023-06-23 01:21:21"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/franzferdinand"

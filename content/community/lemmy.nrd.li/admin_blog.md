@@ -3,7 +3,7 @@ title: "The Ramblings of an Admin"
 name: "admin_blog"
 description: "This community is the the place I will post deeper thoughts about things somewhat related to this instance. Explaining the reasoning in administrative decisions, the philosophy behind certain rules, etc.The idea for this community came after I wrote a rather long comment on a post responding to someone that had a disagreement with [...] admins [...] regarding an LLM post. I figure writing those thoughts into a form consumable by the audience on this instance would help everyone understand my thoughts regarding administrating this instance.."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/admin_blog"

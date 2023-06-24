@@ -3,20 +3,20 @@ title: "Not So Gentle Femdom"
 name: "not_so_gentle_femdom"
 description: "for the more intense and pain focused femdom ;)other communities:[!gentlefemdom@lemmynsfw.com](https://lemmynsfw.com/c/gentlefemdom)  - for femdom focusing on gentle and loving femdom[!femdom@lemmynsfw.com](https://lemmynsfw.com/c/femdom)  - femdom content that isn't gentle and loving, but isn't painfultrying to categorize where things go is hard... so i would love some feedback from the people running other femdom focused communities, but im going with pegging without chastity or restraints goes into !femdom and pegging with restraints or chastity goes here."
 type: community
-date: "2023-06-22 02:20:38"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/not_so_gentle_femdom"
 host: lemmynsfw.com
 lastmod: "2023-06-14 18:37:10"
 published: "2023-06-14 00:10:10"
-subscribers: 264
+subscribers: 289
 posts: 6
-comments: 2
+comments: 3
 weight: 6
 dau: 1
-wau: 2
-mau: 4
+wau: 1
+mau: 5
 instances:
 - "lemmynsfw_com"
 tags: 

@@ -3,7 +3,7 @@ title: "Joke Conspiracies"
 name: "jokeconspiracy"
 description: "Not for serious conspiracies that anyone actually takes seriously. Ex it should be basically jokes, like [birds aren't real](https://en.wikipedia.org/wiki/Birds_Aren't_Real)"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/jokeconspiracy"

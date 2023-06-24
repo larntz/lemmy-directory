@@ -1,19 +1,19 @@
 ---
 title: "Ebony NSFW" 
 name: "ebonynsfw"
-description: "Description not available."
+description: "Beautiful Black Women**This subreddit revolves around black women. **This isn't a women of color subreddit. Women with black/African DNA is what this subreddit is about, so mixed race women are allowed as well. Biological women only. Nudity is not a requirement."
 type: community
-date: "2023-06-23 01:19:47"
+date: "2023-06-24 01:13:54"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/ebonynsfw"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 01:53:09"
 published: "2023-06-21 18:00:26"
-subscribers: 19
-posts: 4
+subscribers: 26
+posts: 7
 comments: 0
-weight: 4
+weight: 7
 dau: 1
 wau: 1
 mau: 1

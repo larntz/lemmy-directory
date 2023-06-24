@@ -3,7 +3,7 @@ title: "Hardware"
 name: "hardware"
 description: "##### **Description:**Just a community for all the hardware porn. Just post whatever your heart desires as long as it is hardware related.##### **Rules:**No harassment. No spamming. Stay friendly. Follow the rules of infosec.pub instance."
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/hardware"

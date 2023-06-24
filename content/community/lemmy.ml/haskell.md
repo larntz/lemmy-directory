@@ -3,7 +3,7 @@ title: "The Haskell Lemmy Forum"
 name: "haskell"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haskell"
@@ -15,7 +15,7 @@ posts: 8
 comments: 9
 weight: 8
 dau: 1
-wau: 2
+wau: 1
 mau: 6
 instances:
 - "lemmy_ml"

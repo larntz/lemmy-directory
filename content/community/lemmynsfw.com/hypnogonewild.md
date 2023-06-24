@@ -3,14 +3,14 @@ title: "HypnoGoneWild"
 name: "hypnogonewild"
 description: "Post your hypnosis related content here!"
 type: community
-date: "2023-06-22 16:47:29"
+date: "2023-06-24 01:13:56"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/hypnogonewild"
 host: lemmynsfw.com
 lastmod: "2023-06-12 17:39:29"
 published: "2023-06-12 16:32:45"
-subscribers: 214
+subscribers: 229
 posts: 1
 comments: 0
 weight: 1

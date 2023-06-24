@@ -3,7 +3,7 @@ title: "Chinese Language (中文）"
 name: "chinese"
 description: "A community for learning and discussing about the Chinese language.一個學習也討論中文的社會。"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chinese"

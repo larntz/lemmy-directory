@@ -3,14 +3,14 @@ title: "networking"
 name: "networking"
 description: "networking"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/networking"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 04:17:40"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

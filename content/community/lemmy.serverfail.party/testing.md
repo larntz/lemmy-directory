@@ -3,7 +3,7 @@ title: "Testing"
 name: "testing"
 description: "Just good 'ole testing for lemmy - nothing of value in here.If you need to do some sort of post test then feel free as long as the content meets the instance rules"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/testing"
@@ -15,7 +15,7 @@ posts: 3
 comments: 8
 weight: 3
 dau: 1
-wau: 1
+wau: 2
 mau: 2
 instances:
 - "lemmy_serverfail_party"

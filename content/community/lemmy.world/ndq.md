@@ -3,7 +3,7 @@ title: "No Dumb Questions Podcast Questions"
 name: "ndq"
 description: "This community is for discussions for and by the No Dumb Questions podcast listener community (otherwise known as the third chair). Podcast episode discussions can be found over at /c/nodumbquestions"
 type: community
-date: "2023-06-23 01:21:21"
+date: "2023-06-24 01:15:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ndq"

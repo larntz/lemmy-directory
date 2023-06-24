@@ -3,7 +3,7 @@ title: "F17 Testing"
 name: "f17test"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:56"
+date: "2023-06-24 01:13:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.weckhorst.no/c/f17test"
@@ -16,7 +16,7 @@ comments: 1
 weight: 1
 dau: 1
 wau: 1
-mau: 3
+mau: 4
 instances:
 - "lemmy_weckhorst_no"
 tags: 

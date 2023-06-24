@@ -3,7 +3,7 @@ title: "Gaming en GNU/Linux"
 name: "gaming_en_gnulinux"
 description: "Un sitio para hablar, consultar y colgar experiencias, streams y demás relacionado con el gaming en gnu/linux"
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gaming_en_gnulinux"

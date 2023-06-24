@@ -3,7 +3,7 @@ title: "General Chat"
 name: "general_chat"
 description: "like a truck you can keep piling posts on."
 type: community
-date: "2023-06-23 01:19:15"
+date: "2023-06-24 01:13:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/general_chat"

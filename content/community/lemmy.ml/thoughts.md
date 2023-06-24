@@ -3,14 +3,14 @@ title: "Thoughts (shower or otherwise)"
 name: "thoughts"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thoughts"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-12-14 08:56:01"
-subscribers: 111
+subscribers: 112
 posts: 2
 comments: 9
 weight: 2

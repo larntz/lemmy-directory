@@ -3,7 +3,7 @@ title: "For photos that are, you know, mildly interesting"
 name: "mildlyinteresting"
 description: "This subreddit is closed in protest of Reddit killing third party apps. Please check out this post..."
 type: community
-date: "2023-06-23 01:19:17"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/mildlyinteresting"

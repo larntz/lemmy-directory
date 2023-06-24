@@ -3,19 +3,19 @@ title: "Red Team"
 name: "redteam"
 description: "Red Teamers are here to break into your stuff before the bad guys do, and help you secure it. This is a place to discuss novel research, pentest tools and techniques, physical security and post memes about the Blue Team.Join us! We have cookies. Blue Team's cookies. >:)"
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/redteam"
 host: infosec.pub
 lastmod: "2023-06-13 13:22:39"
 published: "2023-06-12 12:16:34"
-subscribers: 131
-posts: 7
-comments: 11
-weight: 7
+subscribers: 140
+posts: 8
+comments: 12
+weight: 8
 dau: 1
-wau: 7
+wau: 5
 mau: 11
 instances:
 - "infosec_pub"

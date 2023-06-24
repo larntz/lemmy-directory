@@ -3,7 +3,7 @@ title: "Dune"
 name: "dune"
 description: "Community for all things Dune (Frank and Brian)"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/dune"

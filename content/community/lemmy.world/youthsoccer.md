@@ -3,7 +3,7 @@ title: "Youth Soccer"
 name: "youthsoccer"
 description: "A place for parents, coaches, referees, and spectators to discuss youth Soccer."
 type: community
-date: "2023-06-23 01:21:24"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/youthsoccer"

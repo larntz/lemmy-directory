@@ -3,7 +3,7 @@ title: "Rugged Devices"
 name: "rugged_devices"
 description: "Post reviews, news, rumours, specs and questions about rugged devices"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rugged_devices"

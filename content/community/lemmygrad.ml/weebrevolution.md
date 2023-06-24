@@ -3,7 +3,7 @@ title: "Leftist Anitube Channel"
 name: "weebrevolution"
 description: "This community is specifically for our youtube channel:https://www.youtube.com/weebrevolutionHowever feel free to just talk about leftism and anime in general "
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/weebrevolution"

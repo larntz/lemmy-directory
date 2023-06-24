@@ -3,7 +3,7 @@ title: "Ante Meridiem's meta community"
 name: "meta"
 description: "Meta discussion about this specific lemmy.antemeridiem.xyz instance.Post your grievances, suggestions and tune in for announcements! "
 type: community
-date: "2023-06-23 01:19:09"
+date: "2023-06-24 01:13:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/meta"
@@ -11,9 +11,9 @@ host: lemmy.antemeridiem.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 19:30:23"
 subscribers: 11
-posts: 1
+posts: 2
 comments: 7
-weight: 1
+weight: 2
 dau: 1
 wau: 2
 mau: 5

@@ -3,7 +3,7 @@ title: "Mems en català"
 name: "mems"
 description: "**Mems en català i només en català**#### Normes:- Sigues civil i amable.- Intenta no tornar a publicar en excés, com a regla general, espera almenys 2 mesos per fer-ho, si cal."
 type: community
-date: "2023-06-23 01:18:38"
+date: "2023-06-24 01:12:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/mems"

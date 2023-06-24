@@ -3,7 +3,7 @@ title: "Neutral Politics: Evidence. Logic. Respect."
 name: "neutralpolitics"
 description: "Neutral Politics is a community dedicated to evenhanded, empirical discussion of political issues. It is a space to discuss policy and the tone of..."
 type: community
-date: "2023-06-23 01:19:16"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/neutralpolitics"

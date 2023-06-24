@@ -3,7 +3,7 @@ title: "Most Excellent Physics Community."
 name: "physics"
 description: "**Community Rules.**- Be Excellent to each other.- Content must be Physics related.- No Spam.- Party on, dudes."
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/physics"

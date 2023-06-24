@@ -3,7 +3,7 @@ title: "Ask STEAM Science/Engineering"
 name: "askstem"
 description: "Ask STEAM (Science, Technology, Engineering, Art, Math)Technical discussion broadly."
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/askstem"
@@ -15,7 +15,7 @@ posts: 7
 comments: 13
 weight: 7
 dau: 4
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmygrad_ml"

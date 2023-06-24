@@ -3,7 +3,7 @@ title: "Syncthing"
 name: "syncthing"
 description: "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.Visit https://syncthing.net/ for more information, downloads and donations"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/syncthing"

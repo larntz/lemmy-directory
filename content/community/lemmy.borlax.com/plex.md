@@ -3,7 +3,7 @@ title: "Plex"
 name: "plex"
 description: "Plex and other self-hosted media centers."
 type: community
-date: "2023-06-23 01:19:02"
+date: "2023-06-24 01:13:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.borlax.com/c/plex"

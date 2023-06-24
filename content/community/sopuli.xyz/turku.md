@@ -3,14 +3,14 @@ title: "Turku"
 name: "turku"
 description: "Täl ja tois pual jokke"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/turku"
 host: sopuli.xyz
 lastmod: "2023-06-15 07:25:58"
 published: "2023-06-15 07:23:32"
-subscribers: 20
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

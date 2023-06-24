@@ -3,14 +3,14 @@ title: "Autistic Pride"
 name: "autisticpride"
 description: "A community for autistic pride and autistic people - ABA apologia and similar things not welcome.Not affiliated with the subreddit - or it's mod - in any way (outside of having the same topic), just putting a community here to start getting people together and sort something better out once the community has actual people, because I don't have the time or energy to moderate."
 type: community
-date: "2023-06-23 01:18:50"
+date: "2023-06-24 01:12:55"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/autisticpride"
 host: infosec.pub
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 23:14:49"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 0
 weight: 1

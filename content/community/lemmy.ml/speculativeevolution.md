@@ -3,12 +3,12 @@ title: "speculativeevolution"
 name: "speculativeevolution"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:11"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/speculativeevolution"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-23 16:30:46"
 published: "2023-06-22 13:55:18"
 subscribers: 1
 posts: 0

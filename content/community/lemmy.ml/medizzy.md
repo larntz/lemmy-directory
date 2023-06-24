@@ -3,7 +3,7 @@ title: "MEDizzy"
 name: "medizzy"
 description: "This is subreddit created for medical professionals who want to discuss amazing medical cases, watch useful medical videos and share inspiring pictures. All about Medicine!!!"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/medizzy"

@@ -3,14 +3,14 @@ title: "RSS - Really Simple Syndication"
 name: "rss"
 description: "You can share with other RSS system users news and tips. Please use English."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rss"
 host: lemmy.ml
 lastmod: "2022-11-20 16:57:32"
 published: "2020-06-30 10:50:01"
-subscribers: 195
+subscribers: 196
 posts: 17
 comments: 23
 weight: 17

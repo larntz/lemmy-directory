@@ -3,7 +3,7 @@ title: "wildfire"
 name: "wildfire"
 description: "Wildland fire, wildlands management, forest resilience, and firefighting"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/wildfire"

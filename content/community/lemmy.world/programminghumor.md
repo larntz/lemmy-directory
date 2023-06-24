@@ -3,20 +3,20 @@ title: "Programming Humor"
 name: "programminghumor"
 description: "**Related Communities**[!programmerhumor@lemmy.ml](https://lemmy.world/c/programmerhumor@lemmy.ml)[!programmer_humor@programming.dev](https://lemmy.world/c/programmer_humor@programming.dev)[!programmerhumor@kbin.social](https://lemmy.world/c/programmerhumor@kbin.social)**Other Programming Communities**[!programming@beehaw.org](https://lemmy.world/c/programming@beehaw.org)[!programming@programming.dev](https://lemmy.world/c/programming@programming.dev)[!programming@lemmy.ml](https://lemmy.world/c/programming@lemmy.ml)[!programming@kbin.social](https://lemmy.world/c/programming@kbin.social)[!learn_programming@programming.dev](https://lemmy.world/c/learn_programming@programming.dev)[!functional_programming@programming.dev](https://lemmy.world/c/functional_programming@programming.dev)[!embedded_prog@lemmy.ml](https://lemmy.world/c/embedded_prog@lemmy.ml)"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programminghumor"
 host: lemmy.world
 lastmod: "2023-06-18 20:08:39"
 published: "2023-06-14 19:20:04"
-subscribers: 312
-posts: 12
-comments: 5
-weight: 12
-dau: 1
-wau: 7
-mau: 8
+subscribers: 337
+posts: 13
+comments: 6
+weight: 13
+dau: 2
+wau: 8
+mau: 9
 instances:
 - "lemmy_world"
 tags: 

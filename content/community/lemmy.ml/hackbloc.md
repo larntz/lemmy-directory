@@ -3,7 +3,7 @@ title: "HackBloc"
 name: "hackbloc"
 description: "Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist, Anti-Capitalist, Anarchist hackers"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackbloc"

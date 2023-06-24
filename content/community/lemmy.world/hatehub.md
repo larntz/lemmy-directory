@@ -3,7 +3,7 @@ title: "HateHub"
 name: "hatehub"
 description: "``🔥 This is a place where you can share the things or situations that you hate the most. There is nothing wrong with hate. The main thing is to speak out! 🔥``"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hatehub"

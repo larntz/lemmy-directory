@@ -3,7 +3,7 @@ title: "kaggle"
 name: "kaggle"
 description: "Kaggle and machine learning competitions"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kaggle"

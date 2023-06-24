@@ -1,22 +1,22 @@
 ---
 title: "LitterBox" 
 name: "litterbox"
-description: "anything to do with lemmy.roombob.cat"
+description: "anything to do with this instance"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.roombob.cat/c/litterbox"
 host: lemmy.roombob.cat
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 16:46:43"
 published: "2023-06-12 03:32:52"
-subscribers: 4
-posts: 4
-comments: 3
-weight: 4
-dau: 1
+subscribers: 1
+posts: 1
+comments: 2
+weight: 1
+dau: 2
 wau: 2
-mau: 3
+mau: 2
 instances:
 - "lemmy_roombob_cat"
 tags: 

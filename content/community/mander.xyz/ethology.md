@@ -3,7 +3,7 @@ title: "Animal behavior"
 name: "ethology"
 description: ""
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/ethology"
@@ -15,7 +15,7 @@ posts: 16
 comments: 4
 weight: 16
 dau: 1
-wau: 5
+wau: 4
 mau: 6
 instances:
 - "mander_xyz"

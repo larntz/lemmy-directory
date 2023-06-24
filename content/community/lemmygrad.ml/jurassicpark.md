@@ -3,7 +3,7 @@ title: "Jurassic Park"
 name: "jurassicpark"
 description: "Commie JP sub for movies, books, games, discussing dinosaur species, memes, shitposting, everything.*-Spared no expense*"
 type: community
-date: "2023-06-23 01:19:05"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jurassicpark"

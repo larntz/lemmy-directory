@@ -3,7 +3,7 @@ title: "The legend of Zelda: Tears of the kingdom"
 name: "tears_of_the_kingdom"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tears_of_the_kingdom"

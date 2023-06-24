@@ -3,20 +3,20 @@ title: "Bryophytes"
 name: "mosses"
 description: "A community for mosses and bryophytes lovers"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/mosses"
 host: mander.xyz
 lastmod: "2023-06-08 16:25:13"
 published: "2023-06-08 16:21:04"
-subscribers: 22
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 33
+posts: 4
+comments: 9
+weight: 4
+dau: 6
+wau: 6
+mau: 6
 instances:
 - "mander_xyz"
 tags: 

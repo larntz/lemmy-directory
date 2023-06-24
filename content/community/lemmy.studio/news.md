@@ -3,14 +3,14 @@ title: "News"
 name: "news"
 description: "Community for sharing music-related news: album releases, new software/hardware, concerts, etc."
 type: community
-date: "2023-06-23 01:18:55"
+date: "2023-06-24 01:13:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/news"
 host: lemmy.studio
 lastmod: "2023-06-07 21:17:34"
 published: "2023-06-07 21:14:07"
-subscribers: 23
+subscribers: 24
 posts: 4
 comments: 8
 weight: 4

@@ -3,14 +3,14 @@ title: "Seinfeld"
 name: "seinfeld"
 description: "A community about nothing"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seinfeld"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-24 21:48:20"
-subscribers: 24
+subscribers: 25
 posts: 22
 comments: 0
 weight: 22

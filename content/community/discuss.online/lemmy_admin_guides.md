@@ -3,7 +3,7 @@ title: "Lemmy Instance Admin Guides"
 name: "lemmy_admin_guides"
 description: "# WelcomeThis community is a scratch pad to make guides and advice tips for new and existing Lemmy admins.The purpose of this community is to gather helpful information and formalize it into a PR to the official Lemmy docs found here: https://github.com/LemmyNet/lemmy-docs# Rules1. Be nice2. Be open minded3. Be helpful# Links- [Lemmy Wishlist](/c/wishlist)- [Lemmy docs](https://join-lemmy.org/docs/index.html)- [Lemmy docs repo](https://github.com/LemmyNet/lemmy-docs)- [Pict-rs repo](https://git.asonix.dog/asonix/pict-rs/)"
 type: community
-date: "2023-06-23 01:19:08"
+date: "2023-06-24 01:13:14"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/lemmy_admin_guides"

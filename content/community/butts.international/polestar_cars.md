@@ -3,7 +3,7 @@ title: "Polestar Cars"
 name: "polestar_cars"
 description: "Place to chat about stuff related to Polestar cars. Electric Volvos welcome too, since they're kinda the same thing. Sorta."
 type: community
-date: "2023-06-23 01:19:22"
+date: "2023-06-24 01:13:28"
 draft: false
 nsfw: false
 actor_id: "https://butts.international/c/polestar_cars"

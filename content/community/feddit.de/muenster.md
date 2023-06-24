@@ -3,7 +3,7 @@ title: "Münster"
 name: "muenster"
 description: "Alles rund um Münster und das Münsterland (NRW)"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/muenster"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_de"

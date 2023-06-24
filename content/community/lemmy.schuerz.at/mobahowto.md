@@ -3,7 +3,7 @@ title: "Anleitungen und Bautipps für die Modellbahn"
 name: "mobahowto"
 description: "Anleitungen, Howtos gibts viele. Hier sollen außergewöhnlich gute und detaillierte Anleitungen gesammelt werden.- Wie begrase ich eine schön trockene und dicke Waldrandwiese- wie gieße ich einen schmutzigen oder türkisen Fluss- wie altere ich am besten Holz- wie baue ich ein Gebäude"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/mobahowto"

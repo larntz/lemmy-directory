@@ -3,14 +3,14 @@ title: "Divolt & Revolt "
 name: "divolt"
 description: "Talk about Divolt, the chat room for FMHY and piracy! (And Revolt, the software it uses)"
 type: community
-date: "2023-06-23 01:19:01"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/divolt"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-08 09:15:48"
 published: "2023-06-06 22:28:10"
-subscribers: 196
+subscribers: 198
 posts: 4
 comments: 9
 weight: 4

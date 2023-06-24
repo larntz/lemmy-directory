@@ -3,7 +3,7 @@ title: "Emacs"
 name: "church"
 description: "☯读取☯✡求值✡✝输出✝☸循环☸愿所有电子设备都能照耀在 `Emacs` 的光辉下……"
 type: community
-date: "2023-06-23 01:18:45"
+date: "2023-06-24 01:12:49"
 draft: false
 nsfw: false
 actor_id: "https://liminal.southfox.me/c/church"

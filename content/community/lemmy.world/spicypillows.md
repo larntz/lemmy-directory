@@ -3,14 +3,14 @@ title: "Spicy Pillows"
 name: "spicypillows"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spicypillows"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 09:03:40"
-subscribers: 111
+subscribers: 122
 posts: 10
 comments: 15
 weight: 10

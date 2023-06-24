@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-23 01:19:23"
+date: "2023-06-24 01:13:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.toot.pt/c/main"

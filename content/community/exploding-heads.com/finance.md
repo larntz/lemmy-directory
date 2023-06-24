@@ -3,20 +3,20 @@ title: "Finance"
 name: "finance"
 description: "Use this community to talk about money and the economy."
 type: community
-date: "2023-06-23 01:19:34"
+date: "2023-06-24 01:13:40"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/finance"
 host: exploding-heads.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 12:39:05"
-subscribers: 1
-posts: 6
+subscribers: 3
+posts: 7
 comments: 0
-weight: 6
+weight: 7
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "exploding-heads_com"
 tags: 

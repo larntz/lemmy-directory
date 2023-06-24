@@ -3,14 +3,14 @@ title: "Vue.js"
 name: "vuejs"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:02"
+date: "2023-06-24 01:13:08"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/vuejs"
 host: programming.dev
 lastmod: "2023-06-19 16:20:16"
 published: "2023-06-18 14:53:44"
-subscribers: 32
+subscribers: 39
 posts: 2
 comments: 8
 weight: 2

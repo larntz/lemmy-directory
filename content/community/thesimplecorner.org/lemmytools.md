@@ -3,7 +3,7 @@ title: "LemmyTools"
 name: "lemmytools"
 description: "Tools to make Lemmy a little easier.Github: https://github.com/howdy-tsc/LemmyToolsGreasyfork: https://greasyfork.org/en/scripts/469169-lemmytools"
 type: community
-date: "2023-06-23 01:19:09"
+date: "2023-06-24 01:13:14"
 draft: false
 nsfw: false
 actor_id: "https://thesimplecorner.org/c/lemmytools"

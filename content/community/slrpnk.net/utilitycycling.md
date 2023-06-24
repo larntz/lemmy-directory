@@ -3,19 +3,19 @@ title: "utility cycling"
 name: "utilitycycling"
 description: "🚴🚲 Welcome to the Utility Cycling Community! 🚲🚴Are you a passionate cyclist who believes that bicycles can transform the way we move around our cities and towns? Are you interested in exploring the world of utility biking, where bicycles are a tool for practicality, sustainability, and adventure? If so, you've come to the right place!"
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:31"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/utilitycycling"
 host: slrpnk.net
 lastmod: "2023-06-12 18:31:48"
 published: "2023-06-11 22:14:14"
-subscribers: 89
+subscribers: 91
 posts: 9
 comments: 20
 weight: 9
 dau: 1
-wau: 9
+wau: 6
 mau: 14
 instances:
 - "slrpnk_net"

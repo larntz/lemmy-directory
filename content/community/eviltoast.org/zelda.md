@@ -3,14 +3,14 @@ title: "Zelda"
 name: "zelda"
 description: "Anything to do with Zelda, old or new!"
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:21"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/zelda"
 host: eviltoast.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 05:41:55"
-subscribers: 3
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

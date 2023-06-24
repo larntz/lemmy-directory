@@ -3,7 +3,7 @@ title: "Air Purifiers"
 name: "airpurifiers"
 description: "This is the migration site for /r/AirPurifiers on Reddit.No spam or promotional marketing."
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:58"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/airpurifiers"
@@ -15,8 +15,8 @@ posts: 3
 comments: 1
 weight: 3
 dau: 0
-wau: 0
-mau: 0
+wau: 1
+mau: 1
 instances:
 - "discuss_tchncs_de"
 tags: 

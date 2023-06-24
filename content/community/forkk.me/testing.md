@@ -3,12 +3,12 @@ title: "Test Community Please Ignore"
 name: "testing"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:19"
+date: "2023-06-24 01:13:24"
 draft: false
 nsfw: false
 actor_id: "https://forkk.me/c/testing"
 host: forkk.me
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 21:46:59"
 subscribers: 1
 posts: 1

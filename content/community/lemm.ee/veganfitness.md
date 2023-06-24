@@ -3,7 +3,7 @@ title: "Vegan Fitness"
 name: "veganfitness"
 description: "The place to come and discuss vegan fitness, bodybuilding, and health."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:29"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/veganfitness"

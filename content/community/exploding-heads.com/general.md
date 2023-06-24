@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "A community for general posts that might not fit in any other community which follows sitewide rules"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-24 01:13:39"
 draft: false
 nsfw: false
 actor_id: "https://exploding-heads.com/c/general"

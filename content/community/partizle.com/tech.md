@@ -3,7 +3,7 @@ title: "Technology"
 name: "tech"
 description: "![](https://partizle.com/pictrs/image/ce52ea37-65f6-4027-9e6f-61e87b399e4b.webp)Computers, phones, AI, whatever"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:11"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/tech"
@@ -12,7 +12,7 @@ lastmod: "2023-06-14 17:27:51"
 published: "2023-06-07 15:23:42"
 subscribers: 107
 posts: 30
-comments: 104
+comments: 109
 weight: 30
 dau: 2
 wau: 14

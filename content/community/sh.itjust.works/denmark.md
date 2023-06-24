@@ -3,12 +3,12 @@ title: "Denmark - Community for danes and people interested in danish culture"
 name: "denmark"
 description: "Et ny start på et nyt og bedre dansk fælleskab"
 type: community
-date: "2023-06-22 16:46:48"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/denmark"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 11:49:13"
 subscribers: 6
 posts: 1

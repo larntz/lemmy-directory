@@ -3,12 +3,12 @@ title: "IRC"
 name: "irc"
 description: "It's a dying breed of us who use it"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-24 01:12:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/irc"
 host: lemmy.serverfail.party
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 15:24:21"
 subscribers: 1
 posts: 0

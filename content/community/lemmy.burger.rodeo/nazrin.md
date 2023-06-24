@@ -3,7 +3,7 @@ title: "Nazrin"
 name: "nazrin"
 description: "post this rattag if nsfw![](https://burggit.moe/pictrs/image/b9441435-ada8-4f61-91e4-6683cf347ae5.png)"
 type: community
-date: "2023-06-23 01:19:26"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/nazrin"
@@ -14,7 +14,7 @@ subscribers: 26
 posts: 20
 comments: 40
 weight: 20
-dau: 6
+dau: 1
 wau: 8
 mau: 20
 instances:

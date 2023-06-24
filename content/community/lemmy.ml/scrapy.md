@@ -3,7 +3,7 @@ title: "Scrapy"
 name: "scrapy"
 description: "[Scrapy](https://scrapy.org) is an open source and collaborative framework for extracting the data you need from websites# Community Links* [Scrapy on GitHub](https://github.com/scrapy/scrapy)* [Scrapy on StackOverflow](https://stackoverflow.com/questions/tagged/scrapy)* [@scrapyproject on Twitter](http://twitter.com/scrapyproject)* [`#scrapy` on Libera.Chat IRC](https://web.libera.chat/?channel=#scrapy)* [Scrapy Discord server](https://discord.gg/fbCHpAm6KM)# Resources* [Official documentation](https://docs.scrapy.org/)* [Scrapy tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)* [Learn Scrapy short videos](https://www.zyte.com/learn/how-to-get-started-with-web-scraping-using-scrapy/)"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scrapy"

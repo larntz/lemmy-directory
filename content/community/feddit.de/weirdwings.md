@@ -3,7 +3,7 @@ title: "WeirdWings"
 name: "weirdwings"
 description: "Actually built planes that are somehow unusual. Modification and prototypes welcome, never realized concepts not so much."
 type: community
-date: "2023-06-23 01:19:35"
+date: "2023-06-24 01:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/weirdwings"

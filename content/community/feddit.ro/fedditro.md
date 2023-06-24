@@ -3,7 +3,7 @@ title: "Feddit RO"
 name: "fedditro"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:21"
+date: "2023-06-24 01:13:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/fedditro"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 3
 comments: 12
 weight: 3
-dau: 3
+dau: 1
 wau: 4
 mau: 4
 instances:

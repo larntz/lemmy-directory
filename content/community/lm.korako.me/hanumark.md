@@ -3,7 +3,7 @@ title: "はぬマーク&メモ"
 name: "hanumark"
 description: "適当に投稿していきます"
 type: community
-date: "2023-06-23 01:18:39"
+date: "2023-06-24 01:12:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/hanumark"

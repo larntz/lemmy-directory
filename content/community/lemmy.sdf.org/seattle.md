@@ -3,7 +3,7 @@ title: "Seattle"
 name: "seattle"
 description: "A community for the city of Seattle, and the greater Puget Sound area"
 type: community
-date: "2023-06-23 01:19:00"
+date: "2023-06-24 01:13:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/seattle"

@@ -3,7 +3,7 @@ title: "Whiskey"
 name: "whiskey"
 description: "# Welcome!Hi and welcome to whiskey! A place where we discuss, review, and read articles about whiskey. Any style goes, including Bourbon, Scotch, Rye, Wheat, Canadian, Irish, White Dogs, and everything in between. Please consult the guides and rules before posting## Rules1. Be respectful of discourse2. No Trading/Buying Alcohol3. No Valuation/Dating Bottle Requests4. No Advertising/Spam5. No URL shorteners (bit.ly, tinyurl, etc)/Affiliate Links.6. No NSFW submission"
 type: community
-date: "2023-06-23 01:19:28"
+date: "2023-06-24 01:13:34"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/whiskey"
@@ -15,7 +15,7 @@ posts: 6
 comments: 34
 weight: 6
 dau: 1
-wau: 8
+wau: 6
 mau: 15
 instances:
 - "sopuli_xyz"

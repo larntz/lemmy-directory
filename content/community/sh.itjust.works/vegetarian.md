@@ -3,19 +3,19 @@ title: "Vegetarian Food"
 name: "vegetarian"
 description: "This community should be used mainly for the discussion of plant-based food, cooking, and recipes. Let's keep out of philosophical and ethical topics, and just keep it light.Vegans are welcome too, because you folks are cool, but please bear in mind that we're avoiding philosophy for a reason. Likewise, if you do eat meat, you are welcome to still post and discuss plant-based recipes here. In fact, please do.Let us all unite in our love of chickpeas."
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vegetarian"
 host: sh.itjust.works
 lastmod: "2023-06-16 04:19:04"
 published: "2023-06-13 17:39:03"
-subscribers: 58
+subscribers: 62
 posts: 7
 comments: 12
 weight: 7
 dau: 1
-wau: 5
+wau: 3
 mau: 6
 instances:
 - "sh_itjust_works"

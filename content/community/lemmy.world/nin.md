@@ -3,7 +3,7 @@ title: "Nine Inch Nails"
 name: "nin"
 description: "All things Nine Inch Nails"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nin"
@@ -14,7 +14,7 @@ subscribers: 64
 posts: 5
 comments: 10
 weight: 5
-dau: 2
+dau: 1
 wau: 5
 mau: 6
 instances:

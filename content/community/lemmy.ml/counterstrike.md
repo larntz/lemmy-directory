@@ -3,7 +3,7 @@ title: "Counter Strike 1.6"
 name: "counterstrike"
 description: "this is about cs 1.6 only."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/counterstrike"

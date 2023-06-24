@@ -3,19 +3,19 @@ title: "zillowgonewild"
 name: "zillowgonewild"
 description: "A community for connoisseurs to take in bewildering houses, suburban hellscapes, coke mansions, and meth chateaus in all their glory.Include the Zillow/Redfin/whatever link if possible so we can really take in that wine aunt staging."
 type: community
-date: "2023-06-22 16:47:07"
+date: "2023-06-24 01:13:32"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/zillowgonewild"
 host: midwest.social
 lastmod: "2023-06-17 17:12:25"
 published: "2023-06-10 02:16:40"
-subscribers: 354
+subscribers: 361
 posts: 8
 comments: 44
 weight: 8
 dau: 1
-wau: 18
+wau: 7
 mau: 35
 instances:
 - "midwest_social"

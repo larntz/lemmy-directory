@@ -3,7 +3,7 @@ title: "Testing mod stuff"
 name: "beatgammit_mod"
 description: "Just testing mod actions"
 type: community
-date: "2023-06-23 01:18:37"
+date: "2023-06-24 01:12:42"
 draft: false
 nsfw: false
 actor_id: "https://voyager.lemmy.ml/c/beatgammit_mod"

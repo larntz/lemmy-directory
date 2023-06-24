@@ -3,12 +3,12 @@ title: "Backup for /r/BlackWolfFeed"
 name: "blackwolffeed"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/blackwolffeed"
 host: lemmygrad.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-11 22:44:59"
 subscribers: 18
 posts: 0

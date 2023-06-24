@@ -3,20 +3,20 @@ title: "Italy"
 name: "italy"
 description: "A community about Italy for non-Italian speakers.The rules are inherited from this instance's general rules."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italy"
 host: lemmy.ml
 lastmod: "2023-06-14 08:32:14"
 published: "2019-10-21 13:56:43"
-subscribers: 169
-posts: 44
-comments: 32
-weight: 44
+subscribers: 173
+posts: 46
+comments: 35
+weight: 46
 dau: 2
-wau: 2
-mau: 9
+wau: 3
+mau: 10
 instances:
 - "lemmy_ml"
 tags: 

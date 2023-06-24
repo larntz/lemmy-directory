@@ -3,7 +3,7 @@ title: "rickrolled"
 name: "rickrolled"
 description: "Have you ever wanted to Rick Roll thousands of people? Wanna be Rick Rolled? Now's your chance! Post your best rick rolls!Sister community of Reddit.com/r/Rickrolled."
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rickrolled"

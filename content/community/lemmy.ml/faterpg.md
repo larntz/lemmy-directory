@@ -3,14 +3,14 @@ title: "Fate RPG"
 name: "faterpg"
 description: "Community for the Fate Core, Fate Accelerated and Fate Condensed RPGs, and related/derived products.[Official website.](https://www.evilhat.com/home/)[Get Fate](http://www.faterpg.com/2013/the-new-era-of-fate-is-here/) (Evil Hat Official print and ebooks)[Fate-SRD](http://fate-srd.com/) (System Resource Documents for Core and FAE)"
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/faterpg"
 host: lemmy.ml
 lastmod: "2022-08-27 13:51:08"
 published: "2022-01-23 21:37:43"
-subscribers: 28
+subscribers: 29
 posts: 2
 comments: 0
 weight: 2

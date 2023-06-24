@@ -3,7 +3,7 @@ title: "AMD"
 name: "amd"
 description: "A community for discussion of AI generation AMD cards"
 type: community
-date: "2023-06-23 01:18:48"
+date: "2023-06-24 01:12:53"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/amd"

@@ -3,7 +3,7 @@ title: "Konsum"
 name: "konsum"
 description: "Ihr habt etwas gekauft und wollt es bewerten? Oder ihr wollt etwas kaufen, und wisst nicht, welches das richtige Produkt ist? Hier kann man sich austauschen."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/konsum"

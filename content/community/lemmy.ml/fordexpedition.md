@@ -3,7 +3,7 @@ title: "FordExpedition"
 name: "fordexpedition"
 description: "A community about Ford expeditions, their maintenance and general questions."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fordexpedition"

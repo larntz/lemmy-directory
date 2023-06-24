@@ -3,14 +3,14 @@ title: "China 中国"
 name: "china"
 description: "Culture, history, and news of the world's most populous nation."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/china"
 host: lemmy.world
 lastmod: "2023-06-17 01:56:50"
 published: "2023-06-11 14:20:19"
-subscribers: 15
+subscribers: 16
 posts: 10
 comments: 1
 weight: 10

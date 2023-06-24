@@ -3,7 +3,7 @@ title: "Dozenal"
 name: "dozenal"
 description: "A place for anyone interested in dozenal (=duodecimal or base-12~10~) to discuss anything related to it. Comparisons of measurement systems are also welcomed, as long as it's relevant to the topic.Rules will be added as necessary.1. Be respectful."
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dozenal"

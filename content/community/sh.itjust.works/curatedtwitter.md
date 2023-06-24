@@ -3,14 +3,14 @@ title: "Curated Twitter"
 name: "curatedtwitter"
 description: "For preserving the least toxic and most culturally relevant Twitter heritage posts.Image descriptions and plain text captions of written content are expected of all screenshots. Here are some image text extractors (I looked these up quick and will gladly take FOSS recommendations):-[web](https://brandfolder.com/workbench/extract-text-from-image)-[iOS](https://apps.apple.com/us/app/text-capture-image-to-text/id1457115603)-[android](https://play.google.com/store/search?q=textfairy&c=apps&hl=en_US&gl=US)I made the icon using multiple creative commons svg resources, the banner is [this](https://unsplash.com/s/photos/old-books). "
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-24 01:13:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/curatedtwitter"
 host: sh.itjust.works
 lastmod: "2023-06-12 15:49:33"
 published: "2023-06-12 15:04:31"
-subscribers: 49
+subscribers: 52
 posts: 7
 comments: 2
 weight: 7

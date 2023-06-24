@@ -3,19 +3,19 @@ title: "Laravel"
 name: "laravel"
 description: "Laravel is a free and open-source PHP web framework, created by Taylor Otwell. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching."
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/laravel"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 19:53:46"
-subscribers: 30
+subscribers: 33
 posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

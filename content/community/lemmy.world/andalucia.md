@@ -3,7 +3,7 @@ title: "Andalucía"
 name: "andalucia"
 description: "Comunidâh d'andaluçê y andaluçâ en Lemmy. Pa diccutîh de tôh lô temâ relaçionaô con Andaluçía.Comunidad de andaluces y andaluzas en Lemmy. Para discutir todos los temas relacionados con Andalucía.Andalusian community in Lemmy.  To discuss all issues related to Andalusia.AND | ESP | EN"
 type: community
-date: "2023-06-23 01:21:22"
+date: "2023-06-24 01:15:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/andalucia"

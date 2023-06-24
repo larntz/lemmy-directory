@@ -3,7 +3,7 @@ title: "The Arizona National Scenic Trail Subreddit"
 name: "arizonatrail"
 description: "A subreddit for travelers of the Arizona Trail be it on bike, horse or your very own feet. All discussion related to the trail is welcome!."
 type: community
-date: "2023-06-23 01:19:16"
+date: "2023-06-24 01:13:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/arizonatrail"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 01:43:12"
 subscribers: 2
-posts: 27
+posts: 28
 comments: 0
-weight: 27
+weight: 28
 dau: 0
 wau: 0
 mau: 0

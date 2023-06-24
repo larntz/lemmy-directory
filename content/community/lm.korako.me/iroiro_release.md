@@ -3,7 +3,7 @@ title: "こまちさんのお知らせ"
 name: "iroiro_release"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:39"
+date: "2023-06-24 01:12:44"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/iroiro_release"
@@ -11,9 +11,9 @@ host: lm.korako.me
 lastmod: "1969-12-31 19:00:00"
 published: "2021-06-16 02:36:30"
 subscribers: 11
-posts: 513
+posts: 514
 comments: 9
-weight: 513
+weight: 514
 dau: 1
 wau: 1
 mau: 1

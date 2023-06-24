@@ -3,7 +3,7 @@ title: "Homestuck"
 name: "homestuck"
 description: "Homestuck community"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-24 01:15:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homestuck"
@@ -15,7 +15,7 @@ posts: 2
 comments: 7
 weight: 2
 dau: 1
-wau: 6
+wau: 5
 mau: 7
 instances:
 - "lemmy_world"

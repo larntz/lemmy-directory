@@ -3,7 +3,7 @@ title: "USPS Employees and Friends"
 name: "usps"
 description: "A community for USPS employees, their friends and interested bystanders. This is not endorsed by USPS, nor is it able to answer for USPS. The employees are not here to help with your package questions, tracking issues, etc. If you have general questions about postal delivery, working for USPS, etc, feel free to chime in."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-24 01:15:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/usps"

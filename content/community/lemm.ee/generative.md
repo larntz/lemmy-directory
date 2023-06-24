@@ -3,20 +3,20 @@ title: "Generative Art"
 name: "generative"
 description: "Generative art often refers to algorithmic art (algorithmically determined computer generated artwork)."
 type: community
-date: "2023-06-23 01:19:24"
+date: "2023-06-24 01:13:29"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/generative"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 18:10:54"
 published: "2023-06-21 11:33:16"
 subscribers: 1
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemm_ee"
 tags: 

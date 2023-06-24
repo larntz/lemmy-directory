@@ -3,14 +3,14 @@ title: "japanesewhiskey"
 name: "japanesewhiskey"
 description: "all things about japanese whiskey!"
 type: community
-date: "2023-06-23 01:21:23"
+date: "2023-06-24 01:15:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/japanesewhiskey"
 host: lemmy.world
 lastmod: "2023-06-21 17:51:58"
 published: "2023-06-21 17:51:41"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

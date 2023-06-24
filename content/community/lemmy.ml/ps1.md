@@ -3,7 +3,7 @@ title: "PlayStation, PS1, PSX"
 name: "ps1"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-24 01:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps1"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 2
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

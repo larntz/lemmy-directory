@@ -3,19 +3,19 @@ title: "hydrohomies"
 name: "hydrohomies"
 description: "Stay hydrated homies.Refuge for homies who quit reddit!"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-24 01:13:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hydrohomies"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 20:24:52"
-subscribers: 84
+subscribers: 85
 posts: 6
 comments: 18
 weight: 6
 dau: 1
-wau: 6
+wau: 3
 mau: 15
 instances:
 - "feddit_de"

@@ -3,7 +3,7 @@ title: "TSF"
 name: "tsf"
 description: "TSF, Trans Sexual Fantasyalso called `gender bender`(nhentai)We recommend the following sources when finding artwork:- [Gelbooru](https://gelbooru.com)- [Pixiv](https://pixiv.net)You are free to link to other platforms for source (twitter, DeviantArt, ...) as long as they:1. Do not paywall the content you're posting  (Premium Patreon posts for example)2. Do not require an account or age verification to view.**Rules**1. TSF related2. No sexual content involving minors or characters that are obviously underage.  This is your general no loli/shota as we are not going to spend the time moderating it3. no gore/NSFL  (Reiterating the instance-wide rule here.)4. Be civil  We're all fellow humans treat each other with respect."
 type: community
-date: "2023-06-23 01:19:48"
+date: "2023-06-24 01:13:55"
 draft: false
 nsfw: true
 actor_id: "https://lemmynsfw.com/c/tsf"

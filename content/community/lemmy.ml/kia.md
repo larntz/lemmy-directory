@@ -3,7 +3,7 @@ title: "KIA-Community"
 name: "kia"
 description: "For Kia Motors Owners- EV6, Telluride, Optima, Forte, Sorento, Cadenza, Quoris, Sportage, Soul, Rio, K3, K5, K7, K900"
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kia"

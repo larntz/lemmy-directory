@@ -3,7 +3,7 @@ title: "StopGaming"
 name: "stopgaming"
 description: "StopGaming exists to help those who struggle with or have struggled with compulsive gaming or video game addiction."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-24 01:14:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stopgaming"

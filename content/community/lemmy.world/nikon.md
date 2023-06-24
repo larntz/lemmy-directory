@@ -1,22 +1,22 @@
 ---
 title: "Nikon" 
 name: "nikon"
-description: "Description not available."
+description: "Nikon Community: 📷 Capture the World's Moments! 🌍Welcome to the Nikon Community, where photography enthusiasts come together to share their love for capturing the world's beautiful moments! Whether you're a professional photographer or an enthusiastic beginner, this community is the perfect place to showcase your Nikon camera skills, exchange tips and tricks, and celebrate the art of photography. Join us in exploring the limitless possibilities of Nikon cameras and lenses, and don't forget to spread kindness and support to fellow members. Share your stunning shots, seek advice, and immerse yourself in a friendly and inspiring atmosphere. Let's click, capture, and create amazing memories together! 📸✨"
 type: community
-date: "2023-06-23 01:21:25"
+date: "2023-06-24 01:15:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nikon"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 17:23:14"
 published: "2023-06-19 07:57:55"
-subscribers: 7
-posts: 0
+subscribers: 8
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

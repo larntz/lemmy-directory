@@ -3,7 +3,7 @@ title: "Cuban Cigars"
 name: "cubancigars"
 description: "A place to discuss tobacco products from Cuba.  Talk about brands, marcas, blends, farm rolls, and vendors."
 type: community
-date: "2023-06-23 01:19:09"
+date: "2023-06-24 01:13:15"
 draft: false
 nsfw: false
 actor_id: "https://cigar.cx/c/cubancigars"

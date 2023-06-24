@@ -3,20 +3,20 @@ title: "Lesbian"
 name: "lesbian"
 description: "The community for lesbians, sapphics and allies! Everyone is welcome---![](https://lemmy.world/pictrs/image/9b53db6e-e59a-4b5c-8047-3459a21e9c8f.png)**Rules**1. No bigotry or hate-speech2. No harassement or doxing3. No promotion of your products without asking moderation4. No NSFW**Lesbian-related communities**[Saffic, for sapphic fictions](saffic@lemmy.world)[WLW Memes](wlw_memes@lemmy.world)**LGBTQ+ communities**[LGBT+](lgbtq_plus@lemmy.blahaj.zone)[Bisexual](bisexual@lemmy.world)[Transgender](transgender@lemmy.ml)[Asexual](asexual@lemmy.world)**LGBTQ+ ressources**[The Trevor Project](https://www.thetrevorproject.org/)[Rainbow Railroad](https://www.rainbowrailroad.org/)[LGA World](https://ilga.org/)[Outright International](https://outrightinternational.org/)"
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lesbian"
 host: lemmy.ml
 lastmod: "2023-06-19 20:16:47"
 published: "2023-06-02 19:13:16"
-subscribers: 106
-posts: 16
-comments: 49
-weight: 16
-dau: 6
-wau: 13
-mau: 21
+subscribers: 113
+posts: 17
+comments: 57
+weight: 17
+dau: 4
+wau: 14
+mau: 22
 instances:
 - "lemmy_ml"
 tags: 

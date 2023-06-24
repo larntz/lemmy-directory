@@ -3,17 +3,17 @@ title: "UK Politics"
 name: "uk_politics"
 description: "General Discussion for politics in the UK.Posts should be related to UK-centric politics, and either a link to reputable news source, or a text discussion."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:16"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/uk_politics"
 host: feddit.uk
 lastmod: "2023-06-22 10:36:44"
 published: "2023-06-09 15:33:05"
-subscribers: 745
-posts: 47
-comments: 296
-weight: 47
+subscribers: 760
+posts: 56
+comments: 331
+weight: 56
 dau: 49
 wau: 107
 mau: 115

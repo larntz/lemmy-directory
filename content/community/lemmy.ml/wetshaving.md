@@ -3,7 +3,7 @@ title: "Traditional wet shaving"
 name: "wetshaving"
 description: "Anything traditional wet shaving: de safety razors, de blades, shaving brushes, shaving soap, etc..."
 type: community
-date: "2023-06-23 01:20:15"
+date: "2023-06-24 01:14:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wetshaving"

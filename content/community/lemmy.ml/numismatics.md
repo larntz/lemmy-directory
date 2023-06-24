@@ -3,7 +3,7 @@ title: "Numismatics"
 name: "numismatics"
 description: "A community dedicated to the collection, identification, appraisal and discussion about coins and banknotes."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/numismatics"

@@ -3,7 +3,7 @@ title: "Dynasty Fantasy Football Discussion"
 name: "dynastyff"
 description: "The place to discuss fantasy football from a dynasty perspective"
 type: community
-date: "2023-06-23 01:20:19"
+date: "2023-06-24 01:14:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dynastyff"

@@ -3,7 +3,7 @@ title: "physics"
 name: "physics"
 description: "The aim of this Physics board is to build a community frequented by physicists, scientists, and those with a passion for physics. Posts should be pertinent and generate a discussion about physics.Memes (SFW) are OK and welcome for now.Please do not ask for help with your physics homework."
 type: community
-date: "2023-06-23 01:19:11"
+date: "2023-06-24 01:13:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/physics"

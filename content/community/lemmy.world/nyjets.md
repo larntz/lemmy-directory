@@ -1,14 +1,14 @@
 ---
 title: "New York Jets" 
 name: "nyjets"
-description: "Description not available."
+description: "A community for the New York Jets on the lemmy.world instance. In development!"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-24 01:15:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyjets"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-23 15:34:24"
 published: "2023-06-12 19:53:26"
 subscribers: 5
 posts: 0

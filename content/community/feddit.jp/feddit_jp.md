@@ -3,14 +3,14 @@ title: "feddit.jp"
 name: "feddit_jp"
 description: "feddit.jpの更新情報や要望などはここで"
 type: community
-date: "2023-06-23 01:19:14"
+date: "2023-06-24 01:13:20"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/feddit_jp"
 host: feddit.jp
 lastmod: "2023-06-12 23:31:10"
 published: "2023-06-11 15:24:36"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 2
 weight: 1

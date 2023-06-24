@@ -3,7 +3,7 @@ title: "vestigo"
 name: "vestigo"
 description: "a community dedicated to cryptocurrencies and cryptotechnology"
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-24 01:14:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vestigo"
