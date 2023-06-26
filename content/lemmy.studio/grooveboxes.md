@@ -1,0 +1,25 @@
+---
+title: "Grooveboxes, workstations and more!" 
+name: "grooveboxes"
+description: "If you want to chat about grooveboxes, workstations or other do-it-all music production gear, feel free to chat about it here!Self-promotion is totally okay as long as you aren't just going absolutely crazy with it. :)"
+type: community
+date: "2023-06-26 17:51:45"
+draft: false
+nsfw: false
+actor_id: "2023-06-13 04:23:00"
+host: lemmy.studio
+lastmod: "https://lemmy.studio/c/grooveboxes"
+published: "2023-06-13 04:17:48"
+subscribers: 14
+posts: 2
+comments: 24
+weight: 2
+dau: 1
+wau: 3
+mau: 6
+instances:
+- "lemmy_studio"
+tags: 
+- "lemmy_studio"
+
+---

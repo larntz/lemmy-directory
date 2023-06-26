@@ -1,0 +1,25 @@
+---
+title: "Bitcoin" 
+name: "bitcoin"
+description: "Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank."
+type: community
+date: "2023-06-26 17:51:49"
+draft: false
+nsfw: false
+actor_id: "0001-01-01 00:00:00"
+host: diggit.xyz
+lastmod: "https://diggit.xyz/c/bitcoin"
+published: "2023-06-13 06:37:52"
+subscribers: 2
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "diggit_xyz"
+tags: 
+- "diggit_xyz"
+
+---

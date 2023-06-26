@@ -1,0 +1,25 @@
+---
+title: "AsozialesNetzwerk" 
+name: "asoziales_netzwerk"
+description: "Das Asoziale Netzwerk. Man liebt es, oder man hasst es. Oder man findet es mittelmäßig. Es gibt auch Leute, die würden bei Antiterroranschlägen mitmachen, sie sich aber nicht selbst ausdenken. Denkbar wäre auch, dass Leute das Netzwerk gut finden, aber nicht jede einzelne Aktion auch gut heißen. Vorstellbar ist auch, dass Leute das Netzwerk nicht gut finden, einzelne Aktionen jedoch unterstützen. Man kann also nicht sagen, man liebt es oder man hasst es."
+type: community
+date: "2023-06-26 17:54:57"
+draft: false
+nsfw: false
+actor_id: "2023-06-24 16:46:34"
+host: lemmy.world
+lastmod: "https://lemmy.world/c/asoziales_netzwerk"
+published: "2023-06-20 21:02:47"
+subscribers: 7
+posts: 2
+comments: 0
+weight: 2
+dau: 1
+wau: 2
+mau: 2
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

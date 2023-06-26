@@ -1,0 +1,25 @@
+---
+title: "gaming" 
+name: "gaming"
+description: "Description not available."
+type: community
+date: "2023-06-26 17:55:33"
+draft: false
+nsfw: false
+actor_id: "2023-06-09 20:40:11"
+host: lemmy.world
+lastmod: "https://lemmy.world/c/gaming"
+published: "2023-06-09 20:22:16"
+subscribers: 288
+posts: 2
+comments: 1
+weight: 2
+dau: 1
+wau: 1
+mau: 4
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

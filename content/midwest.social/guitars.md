@@ -1,0 +1,25 @@
+---
+title: "Guitars" 
+name: "guitars"
+description: "Let's talk about guitars of all sorts. Show me your axe pics and let's hear your controversial thoughts on the instrument."
+type: community
+date: "2023-06-26 17:51:43"
+draft: false
+nsfw: false
+actor_id: "2023-06-19 11:35:11"
+host: midwest.social
+lastmod: "https://midwest.social/c/guitars"
+published: "2023-06-08 01:38:10"
+subscribers: 92
+posts: 9
+comments: 37
+weight: 9
+dau: 1
+wau: 1
+mau: 15
+instances:
+- "midwest_social"
+tags: 
+- "midwest_social"
+
+---
